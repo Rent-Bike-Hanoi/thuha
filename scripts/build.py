@@ -280,6 +280,9 @@ for p in P:
    page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p></header><article class="article-body information-page">{sections}</article>'
  elif p['kind']=='hub':
    items=[q for q in reversed(P) if q['hub']==p['hub'] and q['kind'] not in ['hub','page']]
+   # Hand-written and indexable articles first, noindexed factory articles last;
+   # newest first within each group (sort is stable).
+   items.sort(key=lambda q:(factory_noindex(q),q.get('_source')!='content/posts.json'))
    page_size=25
    total_pages=max(1,(len(items)+page_size-1)//page_size) if items else 1
    hub_sections_body='<div class="article-body" style="margin-top:30px">'+''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{b}</section>' for i,(t,b) in enumerate(p['sections']))+'</div>' if p['sections'] else ''
