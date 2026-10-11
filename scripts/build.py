@@ -205,6 +205,20 @@ body=f'''<section class="hero"><div><p class="eyebrow">NGUYỄN HÀ JOURNAL</p><
 local={'@context':'https://schema.org','@type':'LocalBusiness','name':S['name'],'url':S['url'],'telephone':S['internationalPhone'],'email':S['email'],'address':{'@type':'PostalAddress','streetAddress':'Ngõ 5 Nguyễn Văn Cừ, Bồ Đề','addressLocality':'Long Biên, Hà Nội','addressCountry':'VN'},'openingHoursSpecification':[{'@type':'OpeningHoursSpecification','dayOfWeek':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],'opens':'08:00','closes':'17:00'}],'image':S['url']+'/assets/nguyen-ha-journal-social.png','priceRange':'150.000–200.000đ/ngày','areaServed':{'@type':'City','name':'Hà Nội'},'hasMap':'https://www.google.com/maps/search/?api=1&query='+__import__('urllib.parse').parse.quote(S['address'])}
 write('/',shell('Cẩm nang thuê xe và khám phá Hà Nội', 'Thuê xe máy Nguyễn Hà: bảng giá, kinh nghiệm thuê xe và cẩm nang khám phá Hà Nội. Đọc theo chủ đề xe máy, xe điện và du lịch.','/',body,[local]))
 lookup={p['url']:p for p in P}
+# Previous / next article: only published, indexable articles in the same hub,
+# in source order (posts.json, then factory shards by id).  Rebuilt every build,
+# so adding or removing an article keeps the chain in sync.
+POST_NAV_ON=T.SITE_CFG.get('features',{}).get('enable_post_nav',True)
+NAV_CHAIN={}
+for q in P:
+ if q['kind'] not in ['hub','page'] and q['url']!='/lien-he/' and not factory_noindex(q):NAV_CHAIN.setdefault(q['hub'],[]).append(q)
+NAV_POS={q['url']:(h,i) for h,chain in NAV_CHAIN.items() for i,q in enumerate(chain)}
+def post_nav(p):
+ if not POST_NAV_ON or p['url'] not in NAV_POS:return ''
+ h,i=NAV_POS[p['url']];chain=NAV_CHAIN[h];prev=chain[i-1] if i>0 else None;nxt=chain[i+1] if i+1<len(chain) else None
+ if not prev and not nxt:return ''
+ link=lambda q,cls,label:f'<a class="post-nav-link {cls}" href="{q["url"]}" rel="{"prev" if cls=="prev" else "next"}"><small>{label}</small><span>{E(q["title"])}</span></a>' if q else '<span></span>'
+ return f'<nav class="post-nav" aria-label="Bài viết trước và sau">{link(prev,"prev","← Bài trước")}{link(nxt,"next","Bài tiếp theo →")}</nav>'
 for p in P:
  par=lookup.get(p['parent']);hub=next(h for h in NAV if h['slug']==p['hub'])
  crumbs='<a href="/">Trang chủ</a><span>/</span><a href="'+hub['url']+'">'+E(hub['label'])+'</a>'
@@ -270,7 +284,8 @@ for p in P:
  else:
   aside='<h3>Trong bài viết</h3>'+''.join(f'<a href="#muc-{i+1}">{E(t)}</a>' for i,(t,b) in enumerate(p['sections']))+(f'<a href="#muc-{len(p["sections"])+1}">Câu hỏi thường gặp</a>' if p.get('faq') else '')+f'<p>Thông tin xe còn sẵn và điều kiện thuê cần được cửa hàng xác nhận.</p><a class="pill gold" href="/lien-he/">Liên hệ Nguyễn Hà</a>'
   cta_block=T.render_conditional_cta(p['hub'])
-  author_block=T.render_author_box()
+  author_block=T.render_author_box(AUTHOR_NAME,AUTHOR_URL)
+  nav_block=post_nav(p)
   related_block=T.PARTIAL_RELATED_POSTS.format(related_cards_html=''.join(card(q) for q in related)) if related else ''
   pub_display=p['publish_display'];pub_iso=p['publish_iso']
   mod_display=p['modified_display'];mod_iso=p['modified_iso']
@@ -280,7 +295,7 @@ for p in P:
   else:
    dates_html=f'Cập nhật <time datetime="{mod_iso}">{mod_display}</time>'
   byline=f'<span class="meta"><a href="{AUTHOR_URL}" rel="author">{E(AUTHOR_NAME)}</a> · {dates_html}</span>'
-  page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><p class="eyebrow">{E(hub["label"])}</p><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p>{byline}</header><div class="article-layout"><article class="article-body">{sections}{cta_block}{author_block}<p><a href="{p["parent"]}">Về {E(par["title"] if par else hub["label"])}</a></p></article><aside class="article-aside">{aside}</aside></div>{related_block}'
+  page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><p class="eyebrow">{E(hub["label"])}</p><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p>{byline}</header><div class="article-layout"><article class="article-body">{sections}{cta_block}{author_block}{nav_block}<p><a href="{p["parent"]}">Về {E(par["title"] if par else hub["label"])}</a></p></article><aside class="article-aside">{aside}</aside></div>{related_block}'
  bc=[{'@type':'ListItem','position':1,'name':'Trang chủ','item':S['url']+'/'}]
  if p['kind'] not in ['hub','page']:bc.append({'@type':'ListItem','position':2,'name':hub['label'],'item':S['url']+hub['url']})
  bc.append({'@type':'ListItem','position':len(bc)+1,'name':p['title'],'item':S['url']+p['url']})
@@ -343,13 +358,17 @@ class TextParser(HTMLParser):
  def handle_data(self,d):
   if self.article:self.out.append(d)
 index=[]
-searchable=[p for p in P if p['kind']!='hub']
-searchable=searchable[-int(FACTORY_CFG.get('search_index_limit',2500)):]
+# Search/chatbot index: every published, indexable non-hub page (money pages,
+# static pages, kept factory articles).  Noindexed factory articles are left out,
+# so the file stays small and the shop's own pages are never cut off.
+searchable=[p for p in P if p['kind']!='hub' and not factory_noindex(p)]
+limit=int(FACTORY_CFG.get('search_index_limit',2500))
+if len(searchable)>limit:searchable=[p for p in searchable if not is_factory(p)]+[p for p in searchable if is_factory(p)][-(limit-sum(1 for p in searchable if not is_factory(p))):]
 for p in searchable:
  parser=TextParser();parser.feed((ROOT/p['url'].strip('/')/'index.html').read_text())
  full_text=' '.join(parser.out)
  text_summary=full_text[:600] if len(full_text)>600 else full_text
- index.append({'url':p['url'],'title':p['title'],'hub':p['hub'],'excerpt':p['excerpt'],'keywords':p['keywords'],'text':(p['excerpt']+' '+text_summary).strip(),'sections':[{'heading':t,'text':re.sub('<[^>]+>',' ',b)[:200],'url':p['url']+'#muc-'+str(i+1)} for i,(t,b) in enumerate(p['sections'])]})
+ index.append({'url':p['url'],'title':p['title'],'hub':p['hub'],'core':0 if is_factory(p) else (2 if p['kind']=='pillar' else 1),'excerpt':p['excerpt'],'keywords':p['keywords'],'text':(p['excerpt']+' '+text_summary).strip(),'headings':' '.join([t for t,b in p['sections']]+[re.sub('<[^>]+>','',x) for t,b in p['sections'] for x in re.findall(r'<h3[^>]*>(.*?)</h3>',b)]),'sections':[{'heading':t,'text':re.sub('<[^>]+>',' ',b)[:200],'url':p['url']+'#muc-'+str(i+1)} for i,(t,b) in enumerate(p['sections'])]})
 (ROOT/'assets/search-index.json').write_text(json.dumps({'version':'2026-10-06','site':S,'documents':index},ensure_ascii=False,separators=(',',':')))
 (ROOT/'assets/navigation.json').write_text(json.dumps({'primary':[dict(label=t,url=u) for t,u in TOP_LINKS],'hubs':NAV,'support':[dict(label=t,url=u) for t,u in BOTTOM_LINKS]},ensure_ascii=False,indent=2))
 (ROOT/'content/editorial-matrix.json').write_text(json.dumps([{'title':p['title'],'keyword':p['keywords'],'hub':p['hub'],'pillar':p['parent'],'url':p['url'],'priority':'P0' if p['hub']=='thue-xe' else 'P1','status':'published',**({'word_count':p['wordCount']} if 'wordCount' in p else {})} for p in P if p['kind'] not in ['hub','page']],ensure_ascii=False,indent=2))

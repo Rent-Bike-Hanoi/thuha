@@ -6,12 +6,13 @@ const icons={sun:'<svg class="icon" viewBox="0 0 24 24" aria-hidden="true"><circ
 function themeLabel(){const dark=root.dataset.theme==='dark';$('theme-toggle').innerHTML=icons[dark?'sun':'moon'];$('theme-toggle').setAttribute('aria-label','Chuyển sang chế độ '+(dark?'sáng':'tối'));}
 themeLabel();$('theme-toggle').onclick=()=>{root.dataset.theme=root.dataset.theme==='dark'?'light':'dark';try{localStorage.setItem('nguyenha-theme',root.dataset.theme)}catch{}themeLabel()};
 matchMedia('(prefers-color-scheme:dark)').addEventListener('change',e=>{let saved=false;try{saved=!!localStorage.getItem('nguyenha-theme')}catch{}if(!saved){root.dataset.theme=e.matches?'dark':'light';themeLabel()}});
-const panels=[['site-menu','menu-toggle'],['chat-panel','chat-toggle'],['quick-links','call-toggle']];
+const panels=[['site-menu','menu-toggle'],['chat-panel','chat-toggle'],['quick-links','call-toggle'],['search-panel','search-toggle']].filter(p=>$(p[0])&&$(p[1]));
 function togglePanel(id,show,focus=true){const item=panels.find(p=>p[0]===id);if(!item)return;const node=$(id);if(show===undefined)show=node.hidden;
  if(show)panels.filter(p=>p[0]!==id).forEach(p=>togglePanel(p[0],false,false));
  node.hidden=!show;$(item[1]).setAttribute('aria-expanded',String(show));
  if(id==='site-menu'){$('menu-backdrop').hidden=!show;document.body.style.overflow=show?'hidden':'';if(show&&focus)$('menu-close').focus()}
  if(id==='chat-panel'&&show){openChat();if(focus)$('chat-input').focus()}
+ if(id==='search-panel'&&show){openSearch()}
  if(!show&&focus)$(item[1]).focus();
 }
 $('menu-toggle').onclick=()=>togglePanel('site-menu');$('menu-close').onclick=()=>togglePanel('site-menu',false);$('menu-backdrop').onclick=()=>togglePanel('site-menu',false);
@@ -82,6 +83,26 @@ $('chat-refresh').onclick=async()=>{const b=$('chat-refresh');if(busy||b.disable
  await Promise.all(Array.from({length:3},async()=>{while(queue.length){const url=queue.shift();try{const html=await fetchTimed(url,'text',5000);const d=parseDoc(html,url);if(d){const old=find(url);if(old){d.hub=old.hub;d.keywords=old.keywords}docs=docs.filter(x=>x.url!==url).concat(d);count++}}catch{}}}));
  message(count?`Đã đọc lại ${count} bài viết từ blog. Bạn muốn tìm nội dung nào?`:ok?'Đã cập nhật chỉ mục blog. Chưa đọc được thêm bài trực tiếp.':'Chưa cập nhật được dữ liệu. Bạn có thể thử lại khi kết nối ổn định.');
  }catch{message('Chưa cập nhật được dữ liệu blog. Tôi sẽ tiếp tục dùng nội dung đã đọc.')}finally{b.disabled=false}};
+// Smart search: header button, loads the shared index only when opened.
+// Ranks by title, H2/H3 headings, primary keyword and meta description.
+let searchTimer=null;
+function searchDocs(query){const words=[...new Set(terms(expand(normalize(query))))];if(!words.length)return [];
+ return docs.map(d=>{const f={t:normalize(d.title),h:normalize(d.headings||d.sections.map(s=>s.heading).join(' ')),k:normalize(d.keywords),e:normalize(d.excerpt)};let score=0,hits=0;
+  for(const w of words){const re=new RegExp('(^| )'+w+(w.length<=3?'( |$)':''));let s=0;if(re.test(f.t))s+=6;if(re.test(f.k))s+=4;if(re.test(f.h))s+=3;if(re.test(f.e))s+=1.5;if(s)hits++;score+=s}
+  const phrase=normalize(query);if(phrase.length>3){if(f.t.includes(phrase))score+=8;else if(f.k.includes(phrase)||f.e.includes(phrase)||f.h.includes(phrase))score+=5}
+  const sec=d.sections.find(x=>words.some(w=>normalize(x.heading).includes(w)));
+  if(score)score+=3*(d.core||0);
+  return {d,score:score*(hits/words.length),hits,sec}}).filter(r=>r.hits/words.length>=.5&&r.score>0).sort((a,b)=>b.score-a.score).slice(0,10)}
+function renderSearch(){const q=$('search-input').value.trim(),list=$('search-results'),status=$('search-status');list.replaceChildren();
+ if(q.length<2){status.textContent='Nhập ít nhất 2 ký tự.';return}
+ const results=searchDocs(q);status.textContent=results.length?`${results.length} kết quả cho “${q}”`:`Không tìm thấy bài phù hợp với “${q}”. Thử từ khóa ngắn hơn hoặc gọi 0334 699 969.`;
+ for(const r of results){const li=document.createElement('li'),a=document.createElement('a');a.href=sameOriginPath(r.d.url)||'/';const t=document.createElement('strong');t.textContent=r.d.title;const p=document.createElement('span');p.textContent=r.d.excerpt;a.append(t,p);li.append(a);
+  if(r.sec&&r.sec.url){const s=document.createElement('a');s.className='search-section';s.href=sameOriginPath(r.sec.url)||a.href;s.textContent='Mục: '+r.sec.heading;li.append(s)}list.append(li)}}
+async function openSearch(){$('search-input').focus();if(!docs.length){$('search-status').textContent='Đang tải chỉ mục…';const ok=await loadIndex();$('search-status').textContent=ok||docs.length?'':'Chưa tải được dữ liệu tìm kiếm. Bạn thử lại sau.'}if($('search-input').value)renderSearch()}
+if($('search-toggle')){$('search-toggle').onclick=()=>togglePanel('search-panel');$('search-close').onclick=()=>togglePanel('search-panel',false);
+ $('search-input').addEventListener('input',()=>{clearTimeout(searchTimer);searchTimer=setTimeout(async()=>{if(!docs.length)await loadIndex();renderSearch()},120)});
+ $('search-form').addEventListener('submit',e=>{e.preventDefault();const first=$('search-results').querySelector('a');if(first)location.href=first.href;else renderSearch()});
+ document.addEventListener('keydown',e=>{if((e.key==='/'&&!/input|textarea/i.test(document.activeElement.tagName))||((e.ctrlKey||e.metaKey)&&e.key==='k')){e.preventDefault();togglePanel('search-panel',true)}})}
 // GA4 contact events (gtag is loaded in <head> when a measurement id is configured).
 document.addEventListener('click',e=>{const a=e.target.closest&&e.target.closest('a[href]');if(!a||typeof window.gtag!=='function')return;const h=a.getAttribute('href');
  const name=h.startsWith('tel:')?'click_call':/zalo\.me/.test(h)?'click_zalo':/wa\.me|whatsapp/i.test(h)?'click_whatsapp':h.startsWith('mailto:')?'click_email':'';

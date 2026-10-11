@@ -37,7 +37,10 @@
     "enable_related_posts": true,
     "enable_conditional_cta": true,
     "enable_breadcrumbs": true,
-    "enable_schema_auto_inject": true
+    "enable_schema_auto_inject": true,
+    "enable_search": true,
+    "enable_post_nav": true,
+    "enable_author_box": true
   },
   "qa": {
     "max_title_length": 100,
