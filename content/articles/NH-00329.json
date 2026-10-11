@@ -19,7 +19,7 @@
     ],
     [
       "Bảng giá và dự trù chi phí thuê Honda Vision tại Hoàng Mai",
-      "<p>Mức giá thuê niêm yết công khai cho nhóm phương tiện này tại Thuê xe máy Nguyễn Hà là 150–200 nghìn/ngày, 600 nghìn–1 triệu/tuần, 1,2–2 triệu/tháng. Mức phí thực tế phụ thuộc vào mẫu xe cụ thể, đời xe và tổng số ngày bạn đăng ký sử dụng. Cửa hàng luôn áp dụng chính sách chiết khấu lũy tiến hấp dẫn cho các hợp đồng thuê theo tuần hoặc theo tháng.</p><p>Để tối ưu chi phí cho nhu cầu đi công tác dài ngày, chuyên gia công tác nên tính toán tổng thời gian cần xe để chọn gói theo tuần hoặc tháng thay vì gia hạn lẻ tẻ theo từng ngày. Một ngày thuê tại cửa hàng được tính tròn 24 giờ kể từ thời điểm nhận xe, giúp bạn hoàn toàn chủ động sắp xếp lịch trình.</p>"
+      "<p>Mức giá thuê niêm yết công khai cho nhóm phương tiện này tại Thuê xe máy Nguyễn Hà là 150–200 nghìn/ngày, 600 nghìn–1 triệu/tuần, 1,2–2 triệu/tháng. Mức phí thực tế phụ thuộc vào mẫu xe cụ thể, đời xe và tổng số ngày bạn đăng ký sử dụng. Giá thuê theo tuần hoặc theo tháng tính ra mỗi ngày thấp hơn giá thuê lẻ từng ngày, nên hợp đồng càng dài càng có lợi.</p><p>Để tối ưu chi phí cho nhu cầu đi công tác dài ngày, chuyên gia công tác nên tính toán tổng thời gian cần xe để chọn gói theo tuần hoặc tháng thay vì gia hạn lẻ tẻ theo từng ngày. Một ngày thuê tại cửa hàng được tính tròn 24 giờ kể từ thời điểm nhận xe, giúp bạn hoàn toàn chủ động sắp xếp lịch trình.</p>"
     ],
     [
       "Quy định hợp đồng, giấy tờ và điều kiện tiền cọc",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00329",
   "tone": "white",
-  "wordCount": 1011,
+  "wordCount": 1014,
   "intent": "thue-xe|chọn xe|honda vision|hoàng mai|chuyên gia công tác|đi công tác dài ngày|thường xuyên đi qua các nút giao đông đúc",
   "factoryVersion": 1
 }

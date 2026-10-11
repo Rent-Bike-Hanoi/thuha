@@ -27,7 +27,7 @@
     ],
     [
       "Phương thức nhận xe trực tiếp và giao xe tại Tây Hồ",
-      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn trong vòng 10 phút. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Tây Hồ.</p><p>Mốc thời gian trả xe được tính chuẩn xác theo chu kỳ 24 giờ ghi trong hợp đồng. Nếu bạn có việc đột xuất cần gia hạn thêm giờ hoặc trả xe sớm hơn dự kiến, hãy gọi điện thông báo sớm cho cửa hàng để được hỗ trợ sắp xếp linh hoạt nhất.</p>"
+      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Tây Hồ.</p><p>Mốc thời gian trả xe được tính chuẩn xác theo chu kỳ 24 giờ ghi trong hợp đồng. Nếu bạn có việc đột xuất cần gia hạn thêm giờ hoặc trả xe sớm hơn dự kiến, hãy gọi điện thông báo sớm cho cửa hàng để được hỗ trợ sắp xếp linh hoạt nhất.</p>"
     ],
     [
       "Kinh nghiệm lái xe an toàn khi lưu trú ngắn ngày dạo phố cổ",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00189",
   "tone": "gold",
-  "wordCount": 956,
+  "wordCount": 952,
   "intent": "thue-xe|lộ trình|vinfast klara s|tây hồ|người thuê dài hạn|lưu trú ngắn ngày dạo phố cổ|tuyến đường 10 đến 20 km liên quận",
   "factoryVersion": 1
 }

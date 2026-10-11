@@ -27,7 +27,7 @@
     ],
     [
       "Phương thức nhận xe trực tiếp và giao xe tại Hoàng Mai",
-      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn trong vòng 10 phút. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Hoàng Mai.</p><p>Khi bàn giao xe tại điểm hẹn ở Hoàng Mai, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.</p>"
+      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Hoàng Mai.</p><p>Khi bàn giao xe tại điểm hẹn ở Hoàng Mai, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.</p>"
     ],
     [
       "Kinh nghiệm lái xe an toàn khi di chuyển giữa các quận trung tâm",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00509",
   "tone": "white",
-  "wordCount": 986,
+  "wordCount": 982,
   "intent": "thue-xe|gửi xe|yamaha exciter|hoàng mai|người đi làm văn phòng|di chuyển giữa các quận trung tâm|cần gửi xe trong ngõ nhỏ phố cổ",
   "factoryVersion": 1
 }

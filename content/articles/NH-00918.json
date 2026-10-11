@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Đảo Cát Bà Hải Phòng",
-      "<p>Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương với mức giá từ 150.000đ đến 300.000đ/người/đêm, hoặc các khách sạn tiện nghi từ 400.000đ đến 800.000đ/đêm. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.</p><p>Bên cạnh các khoản cố định, bạn nên dành riêng một khoản ngân sách khoảng 100.000đ đến 200.000đ cho vé tham quan các danh lam thắng cảnh, vé gửi xe tại các điểm du lịch và chi phí thuê trang phục dân tộc check-in.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng khoảng 500.000đ đến 1.000.000đ trong tài khoản ngân hàng để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
+      "<p>Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương hoặc các khách sạn tiện nghi; giá phòng thay đổi theo mùa và ngày trong tuần. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.</p><p>Bên cạnh các khoản cố định, bạn nên dành riêng một khoản ngân sách cho vé tham quan các danh lam thắng cảnh, vé gửi xe tại các điểm du lịch và chi phí thuê trang phục dân tộc check-in; giá vé nên xem trên trang chính thức của từng điểm đến trước ngày đi.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng trong tài khoản ngân hàng, kèm một ít tiền mặt cho những nơi chưa nhận chuyển khoản, để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "00918",
   "tone": "gold",
-  "wordCount": 1608,
+  "wordCount": 1614,
   "intent": "du-lich|đảo cát bà hải phòng|xe ga honda lead|đi về trong ngày (day-trip)|gia đình nhỏ dã ngoại|du-tru-chi-phi",
   "factoryVersion": 1
 }

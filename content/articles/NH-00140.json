@@ -23,7 +23,7 @@
     ],
     [
       "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Tiền công thợ tại các xưởng sửa xe uy tín tại Hà Nội thường được niêm yết công khai từ 50.000đ đến 150.000đ cho các gói bảo dưỡng định kỳ cơ bản. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.</p><p>Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.</p>"
+      "<p>Tiền công thợ cho các gói bảo dưỡng định kỳ cơ bản khác nhau giữa các xưởng sửa xe tại Hà Nội, vì vậy hãy hỏi giá công trước. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.</p><p>Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.</p>"
     ],
     [
       "Lời khuyên dành riêng cho người sử dụng xe hằng ngày khi sử dụng xe hằng ngày",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00140",
   "tone": "white",
-  "wordCount": 947,
+  "wordCount": 942,
   "intent": "xe-info|cham-soc-pin-xe-dien|xe máy phân khối nhỏ 50cc|người sử dụng xe hằng ngày|những ngày nắng nóng đỉnh điểm|huong-dan-chi-tiet",
   "factoryVersion": 1
 }

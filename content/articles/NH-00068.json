@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Vườn quốc gia Ba Vì",
-      "<p>Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương với mức giá từ 150.000đ đến 300.000đ/người/đêm, hoặc các khách sạn tiện nghi từ 400.000đ đến 800.000đ/đêm. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng khoảng 500.000đ đến 1.000.000đ trong tài khoản ngân hàng để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Để tối ưu hóa chi phí cho cả nhóm nhóm bạn trẻ 3 đến 5 xe, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
+      "<p>Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương hoặc các khách sạn tiện nghi; giá phòng thay đổi theo mùa và ngày trong tuần. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng trong tài khoản ngân hàng, kèm một ít tiền mặt cho những nơi chưa nhận chuyển khoản, để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Để tối ưu hóa chi phí cho cả nhóm nhóm bạn trẻ 3 đến 5 xe, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00068",
   "tone": "white",
-  "wordCount": 1003,
+  "wordCount": 1000,
   "intent": "du-lich|vườn quốc gia ba vì|xe máy điện vinfast feliz|hành trình 3 ngày 2 đêm|nhóm bạn trẻ 3 đến 5 xe|du-tru-chi-phi",
   "factoryVersion": 1
 }

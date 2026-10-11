@@ -27,7 +27,7 @@
     ],
     [
       "Phương thức nhận xe trực tiếp và giao xe tại Thanh Xuân",
-      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn trong vòng 10 phút. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Thanh Xuân.</p><p>Khi bàn giao lại xe, nhân viên sẽ đối chiếu nhanh tình trạng vỏ xe và lượng xăng với biên bản ban đầu, tiến hành hoàn cọc ngay lập tức và gửi lời cảm ơn quý khách đã tin tưởng sử dụng dịch vụ.</p><p>Trong trường hợp yêu cầu giao xe tận nơi tại các địa điểm thuộc Thanh Xuân, nhân viên của Thuê xe máy Nguyễn Hà sẽ liên hệ trước 30 phút để xác nhận chính xác vị trí nhận xe. Xe được giao đúng giờ hẹn, đi kèm biên bản kiểm tra chi tiết và hướng dẫn sử dụng cụ thể.</p><p>Khi bàn giao xe tại điểm hẹn ở Thanh Xuân, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.</p>"
+      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Thanh Xuân.</p><p>Khi bàn giao lại xe, nhân viên sẽ đối chiếu nhanh tình trạng vỏ xe và lượng xăng với biên bản ban đầu, tiến hành hoàn cọc ngay lập tức và gửi lời cảm ơn quý khách đã tin tưởng sử dụng dịch vụ.</p><p>Trong trường hợp yêu cầu giao xe tận nơi tại các địa điểm thuộc Thanh Xuân, nhân viên của Thuê xe máy Nguyễn Hà sẽ liên hệ trước để xác nhận chính xác vị trí nhận xe. Xe được giao đúng giờ hẹn, đi kèm biên bản kiểm tra chi tiết và hướng dẫn sử dụng cụ thể.</p><p>Khi bàn giao xe tại điểm hẹn ở Thanh Xuân, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.</p>"
     ],
     [
       "Kinh nghiệm lái xe an toàn khi đi học và thực tập hằng ngày",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "01847",
   "tone": "white",
-  "wordCount": 1957,
+  "wordCount": 1951,
   "intent": "thue-xe|hợp đồng|honda vision|thanh xuân|người mới đến hà nội|đi học và thực tập hằng ngày|cần gửi xe trong ngõ nhỏ phố cổ",
   "factoryVersion": 1
 }

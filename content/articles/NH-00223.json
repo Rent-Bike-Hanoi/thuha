@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Làng cổ Đường Lâm",
-      "<p>Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương với mức giá từ 150.000đ đến 300.000đ/người/đêm, hoặc các khách sạn tiện nghi từ 400.000đ đến 800.000đ/đêm. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo biểu phí ưu đãi trọn gói tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để nhận mức giá tiết kiệm nhất.</p><p>Để tối ưu hóa chi phí cho cả nhóm phượt solo một mình, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
+      "<p>Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương hoặc các khách sạn tiện nghi; giá phòng thay đổi theo mùa và ngày trong tuần. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo giá thuê theo tuần tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để chọn kỳ thuê tiết kiệm nhất.</p><p>Để tối ưu hóa chi phí cho cả nhóm phượt solo một mình, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00223",
   "tone": "black",
-  "wordCount": 1028,
+  "wordCount": 1018,
   "intent": "du-lich|làng cổ đường lâm|xe máy điện vinfast feliz|đi về trong ngày (day-trip)|phượt solo một mình|kinh-nghiem-lai-xe-an-toan",
   "factoryVersion": 1
 }

@@ -116,7 +116,7 @@ TRAVEL_ANGLES=[
 # ── Ma trận hub 4: Luật giao thông & An toàn (25×8×6×12 = 14,400) ──────────────
 LAW_TOPICS=[
     ('thi-bang-lai-a1','thủ tục và mẹo thi đậu bằng lái xe máy A1'),
-    ('thi-bang-lai-a2','điều kiện thi bằng lái xe A2 cho môtô trên 175cc'),
+    ('thi-bang-lai-a2','điều kiện thi bằng lái xe hạng A cho mô tô trên 125 cm³'),
     ('bang-lai-quoc-te-idp','quy định sử dụng bằng lái quốc tế IDP cho người nước ngoài'),
     ('muc-phat-nong-do-con','mức xử phạt nồng độ cồn đối với người điều khiển xe 2 bánh'),
     ('phat-vuot-den-do','mức phạt hành vi vượt đèn đỏ và vượt đèn vàng'),
@@ -345,26 +345,26 @@ def make_thue_xe(s):
             f'Kiểm tra kỹ gương chiếu hậu hai bên: mặt gương phải trong rõ, khớp xoay chắc chắn không bị rung lắc hay tự cụp xuống khi xe di chuyển qua gờ giảm tốc.'
         ]) + paragraph(seed+'3d', [
             f'Hai bên cùng tiến hành chụp ảnh và quay video toàn cảnh hiện trạng vỏ nhựa xe, ghi nhận rõ ràng các vết trầy xước có sẵn vào biên bản giao nhận. Hãy xem kỹ <a href="/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/">checklist kiểm tra xe máy trước khi nhận</a> để không bỏ sót bất kỳ hạng mục kỹ thuật nào.',
-            f'Xác nhận mũ bảo hiểm đạt chuẩn được cấp kèm xe có quai cài chắc chắn và kính chắn gió trong suốt. Đừng quên lưu lại số điện thoại cứu hộ kỹ thuật của cửa hàng để được hỗ trợ tận nơi nếu gặp sự cố bất ngờ trên hành trình {d}.'
+            f'Xác nhận mũ bảo hiểm đạt chuẩn được cấp kèm xe có quai cài chắc chắn và kính chắn gió trong suốt. Đừng quên lưu lại số điện thoại của cửa hàng để được hướng dẫn trong giờ mở cửa nếu gặp sự cố bất ngờ trên hành trình {d}.'
         ])
     ))
 
     sections.append((f'Bảng giá và dự trù chi phí thuê {v} tại {d}',
         paragraph(seed+'4a', [
-            f'Mức giá thuê niêm yết công khai cho nhóm phương tiện này tại {brand} là {escape(price)}. Mức phí thực tế phụ thuộc vào mẫu xe cụ thể, đời xe và tổng số ngày bạn đăng ký sử dụng. Cửa hàng luôn áp dụng chính sách chiết khấu lũy tiến hấp dẫn cho các hợp đồng thuê theo tuần hoặc theo tháng.',
-            f'Theo biểu phí đang áp dụng, dòng {v} có mức giá cạnh tranh hàng đầu thị trường: {escape(price)}. Khách hàng được cam kết minh bạch 100% về tài chính, không phụ thu các khoản phí phát sinh vô lý ngoài thỏa thuận ban đầu.',
+            f'Mức giá thuê niêm yết công khai cho nhóm phương tiện này tại {brand} là {escape(price)}. Mức phí thực tế phụ thuộc vào mẫu xe cụ thể, đời xe và tổng số ngày bạn đăng ký sử dụng. Giá thuê theo tuần hoặc theo tháng tính ra mỗi ngày thấp hơn giá thuê lẻ từng ngày, nên hợp đồng càng dài càng có lợi.',
+            f'Theo biểu phí đang áp dụng, dòng {v} có mức giá cạnh tranh hàng đầu thị trường: {escape(price)}. Các khoản phí được ghi rõ trong hợp đồng từ đầu, không phụ thu khoản phát sinh nào ngoài thỏa thuận.',
             f'Dự trù ngân sách di chuyển tại {d} bao gồm tiền thuê {escape(price)}, chi phí nhiên liệu xăng hoặc điện sạc, tiền gửi xe qua đêm và khoản đặt cọc hoàn lại. Bạn có thể tra cứu toàn bộ khung giá chi tiết tại <a href="/bang-gia/">bảng giá thuê xe máy Hà Nội</a>.'
         ]) + paragraph(seed+'4b', [
-            f'Một phép so sánh kinh tế đơn giản: chi phí gọi xe ôm công nghệ khứ hồi mỗi ngày từ {d} có thể dao động từ 80.000đ đến 150.000đ, tức tương đương từ 2,4 đến 4,5 triệu đồng mỗi tháng. Trong khi đó, gói thuê trọn gói {v} theo tháng chỉ tiêu tốn {escape(price)}, giúp {a} tiết kiệm được hơn 50% chi phí đi lại.',
+            f'Một phép so sánh kinh tế đơn giản: cộng chi phí gọi xe ôm công nghệ khứ hồi mỗi ngày từ {d} trong một tháng, rồi đặt cạnh giá thuê xe theo tháng. Trong khi đó, giá thuê {v} tại cửa hàng là {escape(price)}; {a} có thể tự so sánh hai con số này theo quãng đường đi thực tế mỗi ngày.',
             f'Bên cạnh khoản tiết kiệm trực tiếp về tiền bạc, bạn còn tiết kiệm được tài sản vô giá là thời gian. Bạn sẽ không bao giờ phải đứng chờ tài xế dưới trời mưa, không lo bị hủy chuyến vào giờ tan tầm và hoàn toàn chủ động làm chủ lịch trình cá nhân 24/7.',
-            f'Cửa hàng cũng áp dụng chính sách hỗ trợ giá đặc biệt cho {a} có nhu cầu thuê dài hạn phục vụ công việc hoặc học tập tại các trường đại học, cơ quan đóng trên địa bàn quận {d}.'
+            f'Nếu {a} cần thuê dài hạn phục vụ công việc hoặc học tập tại các trường đại học, cơ quan trên địa bàn quận {d}, hãy hỏi cửa hàng về giá thuê theo tháng, mức có giá mỗi ngày thấp nhất.'
         ]) + paragraph(seed+'4c', [
-            f'Bên cạnh chi phí thuê xe cố định {escape(price)}, {a} nên lập bảng dự trù chi tiết cho các khoản chi phí liên quan như tiền xăng xe (khoảng 50.000đ – 100.000đ/tuần tùy quãng đường), phí gửi xe tại nơi làm việc và tiền đặt cọc ban đầu. Việc tính toán trước giúp bạn chủ động hoàn toàn về mặt tài chính cá nhân.',
-            f'Chính sách giá thuê tại {brand} luôn minh bạch, rõ ràng và không thu thêm bất kỳ phụ phí ẩn nào. Nếu bạn có kế hoạch sử dụng lâu dài cho mục đích {context}, gói thuê theo tháng với mức giá {escape(price)} sẽ là phương án kinh tế tối ưu nhất, tiết kiệm tới 40% so với thuê lẻ từng ngày.',
+            f'Bên cạnh chi phí thuê xe cố định {escape(price)}, {a} nên lập bảng dự trù chi tiết cho các khoản chi phí liên quan như tiền xăng xe (tùy quãng đường đi mỗi tuần), phí gửi xe tại nơi làm việc và tiền đặt cọc ban đầu. Việc tính toán trước giúp bạn chủ động hoàn toàn về mặt tài chính cá nhân.',
+            f'Chính sách giá thuê tại {brand} luôn minh bạch, rõ ràng và không thu thêm bất kỳ phụ phí ẩn nào. Nếu bạn có kế hoạch sử dụng lâu dài cho mục đích {context}, gói thuê theo tháng với mức giá {escape(price)} sẽ là phương án kinh tế tối ưu nhất, vì tính ra mỗi ngày rẻ hơn nhiều so với thuê lẻ từng ngày.',
             f'Khi so sánh với việc sử dụng dịch vụ gọi xe công nghệ mỗi ngày, việc thuê trọn gói {v} giúp {a} tiết kiệm từ một đến hai triệu đồng mỗi tháng. Hơn thế nữa, bạn hoàn toàn làm chủ phương tiện 24/7 mà không phải chờ đợi tài xế trong những ngày mưa gió hay giờ cao điểm.'
         ]) + paragraph(seed+'4d', [
             f'Để tối ưu chi phí cho nhu cầu {context}, {a} nên tính toán tổng thời gian cần xe để chọn gói theo tuần hoặc tháng thay vì gia hạn lẻ tẻ theo từng ngày. Một ngày thuê tại cửa hàng được tính tròn 24 giờ kể từ thời điểm nhận xe, giúp bạn hoàn toàn chủ động sắp xếp lịch trình.',
-            f'Cửa hàng cam kết hoàn trả đầy đủ 100% tiền đặt cọc ngay khi thủ tục trả xe kết thúc. Hãy đề nghị nhân viên ghi rõ các mốc giờ nhận, giờ trả và số tiền cọc vào phiếu thu để bảo vệ quyền lợi tài chính cá nhân.'
+            f'Tiền đặt cọc được hoàn lại khi trả xe, sau khi trừ các khoản phát sinh ghi trong hợp đồng nếu có, như phí trả xe muộn hoặc hư hỏng do người thuê gây ra. Hãy đề nghị nhân viên ghi rõ các mốc giờ nhận, giờ trả và số tiền cọc vào phiếu thu để bảo vệ quyền lợi tài chính cá nhân.'
         ])
     ))
 
@@ -389,17 +389,17 @@ def make_thue_xe(s):
 
     sections.append((f'Phương thức nhận xe trực tiếp và giao xe tại {d}',
         paragraph(seed+'6a', [
-            f'Khách hàng có thể đến trực tiếp cơ sở của {brand} để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn trong vòng 10 phút. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại {d}.',
+            f'Khách hàng có thể đến trực tiếp cơ sở của {brand} để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại {d}.',
             f'Để việc giao nhận {v} diễn ra đúng hẹn tại {d}, bạn nên liên hệ đặt xe trước ít nhất 1 đến 2 giờ. Nhân viên giao xe sẽ chuẩn bị sẵn phương tiện đã được rửa sạch sẽ, kiểm tra an toàn kỹ thuật và đổ sẵn nhiên liệu để bạn có thể lên đường ngay.',
             f'Lưu ý rằng dịch vụ cho thuê xe không áp dụng giao nhận tại sân bay Nội Bài. Trong phạm vi các quận nội thành Hà Nội, phí giao hoặc nhận xe được tính theo mức hỗ trợ hợp lý và được thông báo rõ ràng trước khi xuất phát.'
         ]) + paragraph(seed+'6b', [
             f'Tại thời điểm giao xe ở {d}, nhân viên kỹ thuật sẽ hướng dẫn trực tiếp cho bạn các tính năng vận hành đặc thù của {v}, từ cách mở khóa thông minh smartkey, cách bật mở nắp bình xăng đến mẹo dựng chân chống giữa nhẹ nhàng nhất.',
-            f'Chúng tôi cũng cung cấp sẵn số điện thoại hỗ trợ kỹ thuật khẩn cấp 24/7 dán trực tiếp trên thân xe để bạn có thể gọi cứu hộ bất cứ lúc nào gặp sự cố bất ngờ trên đường.',
+            f'Hãy lưu sẵn số điện thoại 0334 699 969 của cửa hàng để được hướng dẫn trong giờ mở cửa 08:00–17:00 nếu gặp sự cố bất ngờ trên đường.',
             f'Khi bàn giao lại xe, nhân viên sẽ đối chiếu nhanh tình trạng vỏ xe và lượng xăng với biên bản ban đầu, tiến hành hoàn cọc ngay lập tức và gửi lời cảm ơn quý khách đã tin tưởng sử dụng dịch vụ.'
         ]) + paragraph(seed+'6c', [
-            f'Trong trường hợp yêu cầu giao xe tận nơi tại các địa điểm thuộc {d}, nhân viên của {brand} sẽ liên hệ trước 30 phút để xác nhận chính xác vị trí nhận xe. Xe được giao đúng giờ hẹn, đi kèm biên bản kiểm tra chi tiết và hướng dẫn sử dụng cụ thể.',
+            f'Trong trường hợp yêu cầu giao xe tận nơi tại các địa điểm thuộc {d}, nhân viên của {brand} sẽ liên hệ trước để xác nhận chính xác vị trí nhận xe. Xe được giao đúng giờ hẹn, đi kèm biên bản kiểm tra chi tiết và hướng dẫn sử dụng cụ thể.',
             f'Nếu bạn muốn nhận xe trực tiếp tại cửa hàng, đội ngũ kỹ thuật viên sẽ chuẩn bị sẵn vài chiếc {v} cùng loại để bạn có thể tự tay lựa chọn chiếc xe ưng ý nhất về cả màu sắc lẫn cảm giác cầm lái.',
-            f'Quy trình trả xe cũng được tối ưu hóa nhằm tiết kiệm thời gian tối đa cho khách hàng. Nhân viên kiểm tra hiện trạng xe nhanh chóng trong 5 phút, đối chiếu biên bản giao nhận ban đầu và hoàn tất thủ tục thanh lý hợp đồng ngay tại chỗ.'
+            f'Quy trình trả xe cũng được tối ưu hóa nhằm tiết kiệm thời gian tối đa cho khách hàng. Nhân viên kiểm tra hiện trạng xe, đối chiếu biên bản giao nhận ban đầu và hoàn tất thủ tục thanh lý hợp đồng ngay tại chỗ.'
         ]) + paragraph(seed+'6d', [
             f'Mốc thời gian trả xe được tính chuẩn xác theo chu kỳ 24 giờ ghi trong hợp đồng. Nếu bạn có việc đột xuất cần gia hạn thêm giờ hoặc trả xe sớm hơn dự kiến, hãy gọi điện thông báo sớm cho cửa hàng để được hỗ trợ sắp xếp linh hoạt nhất.',
             f'Khi bàn giao xe tại điểm hẹn ở {d}, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.'
@@ -428,14 +428,14 @@ def make_thue_xe(s):
     sections.append((f'Mẹo bảo quản xe và tối ưu chi phí nhiên liệu trong kỳ thuê',
         paragraph(seed+'8a', [
             f'Để chiếc {v} luôn hoạt động trong trạng thái cơ khí hoàn hảo và tiết kiệm nhiên liệu nhất, {a} nên hình thành thói quen khởi động máy galanti khoảng 30 giây đến 1 phút trước khi bắt đầu lăn bánh vào buổi sáng. Việc này giúp dầu bôi trơn được bơm đều lên toàn bộ trục cam và xupap động cơ.',
-            f'Duy trì dải tốc độ ổn định từ 35 đến 45 km/h và tránh thói quen thốc ga đột ngột rồi phanh gấp. Việc giữ đều tay ga không chỉ giúp tiết kiệm từ 15% đến 20% lượng xăng tiêu thụ mà còn giúp bảo vệ bộ ly hợp và dây curoa truyền động của {v} bền bỉ hơn.',
+            f'Duy trì dải tốc độ ổn định từ 35 đến 45 km/h và tránh thói quen thốc ga đột ngột rồi phanh gấp. Việc giữ đều tay ga không chỉ giúp tiết kiệm xăng mà còn giúp bảo vệ bộ ly hợp và dây curoa truyền động của {v} bền bỉ hơn.',
             f'Hãy kiểm tra áp suất lốp xe định kỳ mỗi tuần một lần bằng cách quan sát hoặc bóp thử lốp. Đi xe trong tình trạng lốp non hơi là nguyên nhân phổ biến nhất khiến xe bị ì máy, nặng lái và tiêu tốn nhiên liệu ngoài ý muốn.'
         ]) + paragraph(seed+'8b', [
             f'Khi sử dụng xe vào mùa hè nắng gắt tại Hà Nội, hãy ưu tiên đỗ xe dưới bóng râm hoặc trong tầng hầm mát mẻ. Nhiệt độ cao ngoài trời kéo dài có thể làm lão hóa các chi tiết nhựa, làm chai cứng yên xe và đẩy nhanh tốc độ bay hơi nhiên liệu trong bình chứa.',
             f'Nếu bạn thuê xe điện {v}, hãy tuân thủ nguyên tắc không sạc pin ngay khi vừa đi ngoài đường nắng nóng về. Hãy để khối pin nguội tự nhiên trong khoảng 15 đến 20 phút rồi mới cắm sạc để tối ưu hóa tuổi thọ của cell pin.',
             f'Sau những cơn mưa rào đô thị làm bám bẩn bùn đất cát vào đĩa phanh và xích tải, bạn nên xịt nước rửa trôi nhẹ nhàng các tạp chất này. Việc giữ xe sạch sẽ giúp các chi tiết cơ khí không bị rỉ sét ăn mòn và luôn sáng đẹp như mới.'
         ]) + paragraph(seed+'8c', [
-            f'Nếu phát hiện xe có bất kỳ biểu hiện khác lạ nào như tiếng kêu rè rè ở bộ nồi, đèn pha chập chờn hay phanh kêu rít, hãy liên hệ ngay với {brand} để được tư vấn kiểm tra. Khách hàng thuê xe dài hạn luôn được hỗ trợ kiểm tra và thay dầu nhớt định kỳ hoàn toàn miễn phí.',
+            f'Nếu phát hiện xe có bất kỳ biểu hiện khác lạ nào như tiếng kêu rè rè ở bộ nồi, đèn pha chập chờn hay phanh kêu rít, hãy liên hệ ngay với {brand} để được tư vấn kiểm tra. Khi thuê xe dài hạn, hãy hỏi cửa hàng lịch kiểm tra và thay dầu nhớt định kỳ để xe luôn vận hành ổn định.',
             f'Việc chủ động chăm sóc phương tiện trong suốt thời gian thuê không chỉ bảo vệ tài sản mà còn mang lại sự an tâm tuyệt đối trên mỗi chặng đường bạn đi qua.',
             f'Xem thêm các hướng dẫn bảo trì chi tiết tại chuyên mục <a href="/bao-duong/">kinh nghiệm chăm sóc xe</a> để cập nhật thêm nhiều mẹo hữu ích từ các chuyên gia kỹ thuật.'
         ])
@@ -475,7 +475,7 @@ def make_xe_info(s):
             f'Nhiều {a} thường có thói quen chỉ đưa xe đi tiệm khi phương tiện đã xuất hiện hư hỏng nặng. Tuy nhiên, quy trình {t} chủ động sẽ giúp phát hiện sớm các hao mòn linh kiện, giữ cho chiếc {v} luôn trong trạng thái vận hành mượt mà và êm ái nhất.',
             f'Đặc biệt trong {cond}, các chi tiết kỹ thuật của {v} phải chịu áp lực làm việc cao hơn bình thường. Việc hiểu rõ nguyên lý và thời điểm cần can thiệp kỹ thuật sẽ giúp bạn hoàn toàn làm chủ phương tiện trên mọi cung đường di chuyển.'
         ]) + paragraph(seed+'1b', [
-            f'Theo các chuyên gia kỹ thuật cơ khí, việc duy trì quy chuẩn {t} đúng hạn giúp giảm thiểu tới 80% nguy cơ xảy ra sự cố đột ngột giữa đường. Động cơ của {v} khi được chăm sóc chuẩn mực sẽ đạt tỷ số nén lý tưởng, đốt cháy nhiên liệu triệt để hơn và thải ra ít khí thải độc hại hơn.',
+            f'Theo các chuyên gia kỹ thuật cơ khí, việc duy trì quy chuẩn {t} đúng hạn giúp giảm đáng kể nguy cơ xảy ra sự cố đột ngột giữa đường. Động cơ của {v} khi được chăm sóc chuẩn mực sẽ đạt tỷ số nén lý tưởng, đốt cháy nhiên liệu triệt để hơn và thải ra ít khí thải độc hại hơn.',
             f'Đối với các chi tiết chuyển động quay như vòng bi, trục khuỷu và bánh răng số, lớp màng dầu bôi trơn hoặc việc căn chỉnh chuẩn xác sẽ ngăn ngừa hiện tượng ma sát khô gây mài mòn kim loại. Một chiếc {v} được bảo dưỡng đúng cách luôn giữ được giá trị chuyển nhượng cao sau nhiều năm sử dụng.',
             f'Chăm sóc xe thường xuyên còn mang lại cảm giác lái tự tin và phấn khởi cho {a}. Tiếng nổ máy trầm ấm, tay ga phản hồi mượt mà và khung sườn vững chãi sẽ biến mỗi hành trình đi làm hay đi dạo phố trở thành một trải nghiệm thư thái.'
         ]) + paragraph(seed+'1c', [
@@ -541,12 +541,12 @@ def make_xe_info(s):
     sections.append((f'Chi phí linh kiện, phụ tùng và công thợ tham khảo',
         paragraph(seed+'5a', [
             f'Chi phí cho hạng mục {t} trên {v} dao động tùy thuộc vào việc bạn lựa chọn phụ tùng chính hãng của hãng xe hay phụ tùng OEM từ các thương hiệu thứ ba danh tiếng. Thông thường, mức giá vật tư cơ bản rơi vào khoảng từ vài chục nghìn đến vài trăm nghìn đồng tùy chi tiết.',
-            f'Tiền công thợ tại các xưởng sửa xe uy tín tại Hà Nội thường được niêm yết công khai từ 50.000đ đến 150.000đ cho các gói bảo dưỡng định kỳ cơ bản. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.',
+            f'Tiền công thợ cho các gói bảo dưỡng định kỳ cơ bản khác nhau giữa các xưởng sửa xe tại Hà Nội, vì vậy hãy hỏi giá công trước. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.',
             f'Nên cảnh giác với các cửa hàng chào mời dịch vụ với mức giá rẻ bất thường vì rất có thể họ sử dụng dầu nhớt tái chế hoặc phụ tùng giả nhái kém chất lượng. Việc đầu tư phụ tùng chuẩn chỉ ngay từ đầu sẽ giúp bạn tiết kiệm dài hạn và đảm bảo an toàn tuyệt đối.'
         ]) + paragraph(seed+'5b', [
-            f'Bảng chi phí phụ tùng tham khảo cho các dòng xe phổ biến: dầu nhớt bán tổng hợp từ 90.000đ đến 150.000đ/bình, dầu nhớt tổng hợp toàn phần cao cấp từ 220.000đ đến 380.000đ/bình, lọc gió chính hãng từ 60.000đ đến 120.000đ, bugi bạch kim hoặc iridium từ 80.000đ đến 220.000đ.',
-            f'Đối với hệ thống truyền động: bộ nhông sên dĩa xe số có giá từ 250.000đ đến 450.000đ, dây curoa xe ga chính hãng dao động từ 300.000đ đến 600.000đ, bố ba càng và bi nồi từ 200.000đ đến 450.000đ tùy theo từng dòng xe cụ thể.',
-            f'Các gói bảo dưỡng toàn diện từ A đến Z (vệ sinh nồi, kim phun, họng xăng, tra mỡ chén cổ, kiểm tra hệ thống phanh) thường có mức giá trọn gói dao động từ 250.000đ đến 500.000đ/lần.'
+            f'Giá phụ tùng thay thế như dầu nhớt (bán tổng hợp hay tổng hợp toàn phần), lọc gió chính hãng và bugi bạch kim hoặc iridium khác nhau theo loại, theo dòng xe và theo cửa hàng, nên tham khảo báo giá ở vài nơi trước khi thay.',
+            f'Đối với hệ thống truyền động như bộ nhông sên dĩa của xe số, dây curoa, bố ba càng và bi nồi của xe ga, giá phụ tùng phụ thuộc từng dòng xe cụ thể và việc chọn hàng chính hãng hay thay thế.',
+            f'Các gói bảo dưỡng toàn diện từ A đến Z (vệ sinh nồi, kim phun, họng xăng, tra mỡ chén cổ, kiểm tra hệ thống phanh) có giá trọn gói khác nhau tùy xưởng và dòng xe, nên hỏi rõ từng hạng mục trước khi đồng ý.'
         ]) + paragraph(seed+'5c', [
             f'Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href="/bang-gia/">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.',
             f'Các cửa hàng chuyên nghiệp luôn có chế độ bảo hành rõ ràng từ 1 đến 3 tháng cho các phụ tùng mới thay thế. Hãy giữ lại hóa đơn bán hàng hoặc phiếu bảo dưỡng để đối chiếu quyền lợi khi cần thiết.'
@@ -597,7 +597,7 @@ def make_xe_info(s):
         ]) + paragraph(seed+'8b', [
             f'<strong>Nên chọn dầu nhớt khoáng, bán tổng hợp hay tổng hợp toàn phần?</strong> Đối với nhu cầu chạy phố hằng ngày, nhớt bán tổng hợp là lựa chọn kinh tế và đủ đáp ứng. Tuy nhiên, nếu bạn thường xuyên chạy đường dài hoặc chở nặng, đầu tư nhớt tổng hợp 100% sẽ bảo vệ động cơ vượt trội.',
             f'<strong>Xe máy điện có cần bảo dưỡng định kỳ như xe xăng không?</strong> Dù không có động cơ đốt trong và dầu máy, xe máy điện vẫn cần kiểm tra định kỳ hệ thống phanh, phuộc nhún, cổ phốt, áp suất lốp và đặc biệt là kiểm tra độ an toàn của các giắc cắm pin chống nước.',
-            f'<strong>Chi phí bảo dưỡng định kỳ một chiếc {v} trung bình khoảng bao nhiêu?</strong> Một lần bảo dưỡng cơ bản thường chỉ dao động từ 100.000đ đến 200.000đ, mức đầu tư rất nhỏ nhưng giúp phương tiện luôn bền đẹp.'
+            f'<strong>Chi phí bảo dưỡng định kỳ một chiếc {v} trung bình khoảng bao nhiêu?</strong> Chi phí mỗi lần bảo dưỡng cơ bản tùy xưởng và hạng mục cần làm, nên hỏi báo giá trước; bảo dưỡng đúng hạn là khoản đầu tư giúp phương tiện luôn bền đẹp.'
         ]) + paragraph(seed+'8c', [
             f'Để tìm hiểu thêm nhiều kinh nghiệm hữu ích khác về các dòng xe máy, xe điện và xe đạp thể thao, bạn có thể tham khảo mục <a href="/faq/">giải đáp thắc mắc thường gặp FAQ</a> được đội ngũ kỹ thuật cập nhật liên tục.',
             f'Đừng ngần ngại hỏi rõ thợ sửa xe về nguồn gốc xuất xứ của từng món linh kiện được lắp vào xe để chắc chắn bạn nhận được giá trị xứng đáng với số tiền đã chi trả.'
@@ -613,7 +613,7 @@ def make_xe_info(s):
         ])
         + paragraph(seed+'contact2', [
             f'Mọi phương tiện tại {brand} đều được kiểm tra kỹ thuật nghiêm ngặt trước khi bàn giao tới tay khách hàng, đảm bảo sự an tâm tuyệt đối.',
-            f'Liên hệ ngay với chúng tôi để nhận báo giá ưu đãi và chọn được chiếc xe hoàn hảo cho hành trình của bạn.'
+            f'Liên hệ ngay với chúng tôi để nhận báo giá và chọn được chiếc xe hoàn hảo cho hành trình của bạn.'
         ])
     ))
 
@@ -708,16 +708,16 @@ def make_du_lich(s):
 
     sections.append((f'Dự toán kinh phí xăng xe, ăn uống và lưu trú tại {place}',
         paragraph(seed+'5a', [
-            f'Tổng kinh phí cho chuyến đi {dur} đến {place} thường rất hợp lý và dễ kiểm soát. Chi phí xăng xe cho chiếc {v} khứ hồi thường dao động từ 150.000đ đến 300.000đ tùy theo quãng đường thực tế và mức tiêu hao nhiên liệu của xe.',
-            f'Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương với mức giá từ 150.000đ đến 300.000đ/người/đêm, hoặc các khách sạn tiện nghi từ 400.000đ đến 800.000đ/đêm. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.',
-            f'Chi phí ăn uống tại {place} khá phong phú với các món đặc sản tươi ngon. Mỗi người chỉ cần dự trù khoảng 200.000đ đến 350.000đ mỗi ngày là có thể thưởng thức trọn vẹn tinh hoa ẩm thực địa phương từ các món nướng than hoa đến lẩu rau rừng.'
+            f'Tổng kinh phí cho chuyến đi {dur} đến {place} thường rất hợp lý và dễ kiểm soát. Chi phí đi lại khứ hồi bằng chiếc {v} (xăng hoặc sạc điện, tùy loại xe) phụ thuộc quãng đường thực tế và mức tiêu hao của xe; hãy ước tính trước theo lịch trình của bạn.',
+            f'Về nơi lưu trú, bạn có thể lựa chọn giữa các homestay mang đậm bản sắc địa phương hoặc các khách sạn tiện nghi; giá phòng thay đổi theo mùa và ngày trong tuần. Đặt phòng trước qua các nền tảng trực tuyến giúp bạn chọn được phòng đẹp với mức giá ưu đãi.',
+            f'Chi phí ăn uống tại {place} khá phong phú với các món đặc sản tươi ngon. Hãy dự trù riêng một khoản ăn uống mỗi ngày để thưởng thức trọn vẹn tinh hoa ẩm thực địa phương, từ các món nướng than hoa đến lẩu rau rừng; giá thay đổi theo quán và mùa du lịch.'
         ]) + paragraph(seed+'5b', [
-            f'Bên cạnh các khoản cố định, bạn nên dành riêng một khoản ngân sách khoảng 100.000đ đến 200.000đ cho vé tham quan các danh lam thắng cảnh, vé gửi xe tại các điểm du lịch và chi phí thuê trang phục dân tộc check-in.',
+            f'Bên cạnh các khoản cố định, bạn nên dành riêng một khoản ngân sách cho vé tham quan các danh lam thắng cảnh, vé gửi xe tại các điểm du lịch và chi phí thuê trang phục dân tộc check-in; giá vé nên xem trên trang chính thức của từng điểm đến trước ngày đi.',
             f'Chuẩn bị sẵn một ít tiền mặt mệnh giá nhỏ (10.000đ, 20.000đ, 50.000đ) để tiện thanh toán tại các quầy hàng rong vùng cao nơi chưa phổ biến thanh toán quét mã QR hoặc sóng ngân hàng yếu.',
-            f'Tổng chi phí trọn gói cho một người trong chuyến đi {dur} thường chỉ rơi vào khoảng từ 1,2 đến 2,5 triệu đồng – mức chi phí quá đỗi hợp lý cho những trải nghiệm tuyệt vời và đáng nhớ.'
+            f'Tổng chi phí cho một người trong chuyến đi {dur} phụ thuộc lịch trình, nơi lưu trú và cách ăn uống; hãy cộng tiền thuê xe, xăng, ăn ở và vé tham quan để có con số sát với chuyến đi của bạn.'
         ]) + paragraph(seed+'5c', [
-            f'Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo biểu phí ưu đãi trọn gói tại <a href="/bang-gia/">bảng giá thuê xe máy theo tuần</a> để nhận mức giá tiết kiệm nhất.',
-            f'Hãy chuẩn bị thêm một khoản ngân sách dự phòng khoảng 500.000đ đến 1.000.000đ trong tài khoản ngân hàng để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.'
+            f'Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo giá thuê theo tuần tại <a href="/bang-gia/">bảng giá thuê xe máy theo tuần</a> để chọn kỳ thuê tiết kiệm nhất.',
+            f'Hãy chuẩn bị thêm một khoản ngân sách dự phòng trong tài khoản ngân hàng, kèm một ít tiền mặt cho những nơi chưa nhận chuyển khoản, để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.'
         ]) + paragraph(seed+'5d', [
             f'Để tối ưu hóa chi phí cho cả nhóm {tt}, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.',
             f'Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.'
@@ -783,7 +783,7 @@ def make_du_lich(s):
         ])
         + paragraph(seed+'contact2', [
             f'Dàn xe cho thuê phục vụ phượt đường dài của chúng tôi luôn được bảo dưỡng kỹ càng, trang bị lốp mới và phụ kiện đầy đủ, sẵn sàng cùng bạn chinh phục mọi nẻo đường đất nước.',
-            f'Hãy liên hệ sớm để đặt xe và nhận những ưu đãi hấp dẫn nhất cho chuyến hành trình sắp tới.'
+            f'Hãy liên hệ sớm để giữ xe cho chuyến hành trình sắp tới.'
         ])
     ))
 
@@ -807,7 +807,7 @@ def make_luat(s):
             f'Đối với {a}, việc trang bị kiến thức pháp lý vững vàng về {t} giúp bạn hoàn toàn tự tin khi lưu thông trên đường, tránh khỏi các lỗi vi phạm do thiếu hiểu biết và biết cách bảo vệ quyền lợi hợp pháp của bản thân khi làm việc với cơ quan chức năng.',
             f'Đặc biệt trong bối cảnh {ctx}, các tổ công tác Cảnh sát giao thông và hệ thống camera giám sát thông minh thường xuyên tăng cường kiểm tra, xử lý nghiêm minh các hành vi vi phạm. Nắm rõ căn cứ pháp lý hiện hành là cách tốt nhất để bạn lái xe an toàn và thượng tôn pháp luật.'
         ]) + paragraph(seed+'1b', [
-            f'Hệ thống văn bản quy phạm pháp luật về trật tự an toàn giao thông đường bộ liên tục được cập nhật và hoàn thiện nhằm đáp ứng thực tiễn giao thông đô thị hiện đại. Các điều khoản liên quan đến {t} được quy định chi tiết trong Luật Giao thông đường bộ và các Nghị định hướng dẫn thi hành mới nhất của Chính phủ.',
+            f'Hệ thống văn bản quy phạm pháp luật về trật tự an toàn giao thông đường bộ liên tục được cập nhật và hoàn thiện nhằm đáp ứng thực tiễn giao thông đô thị hiện đại. Các điều khoản liên quan đến {t} được quy định trong Luật Trật tự, an toàn giao thông đường bộ 2024 và các nghị định hướng dẫn thi hành của Chính phủ.',
             f'Việc phân định rõ ràng quyền hạn và nghĩa vụ của người điều khiển phương tiện hai bánh trong luật giúp hạn chế các xung đột giao thông không đáng có. Mỗi công dân khi nắm chắc luật lệ sẽ trở thành một nhân tố tích cực xây dựng văn hóa giao thông văn minh tại thủ đô.',
             f'Đối với những người thường xuyên lưu thông trong nội thành, việc chủ động cập nhật các quy định phân luồng mới, biển báo cấm theo giờ hay quy chuẩn kỹ thuật mũ bảo hiểm là vô cùng cần thiết để bảo vệ an toàn cho chính mình.'
         ]) + paragraph(seed+'1c', [
@@ -822,13 +822,13 @@ def make_luat(s):
 
     sections.append((f'Mức xử phạt vi phạm hành chính áp dụng hiện hành',
         paragraph(seed+'2a', [
-            f'Căn cứ theo Nghị định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt hiện hành, hành vi vi phạm liên quan đến {t} phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.',
-            f'Bên cạnh hình thức phạt tiền bằng tiền mặt từ vài trăm nghìn đến hàng triệu đồng, người vi phạm còn có thể bị áp dụng các hình thức xử phạt bổ sung nghiêm khắc như: tước quyền sử dụng Giấy phép lái xe từ 1 tháng đến 24 tháng, hoặc tạm giữ phương tiện giao thông đến 7 ngày làm việc.',
+            f'Căn cứ theo Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (hiệu lực từ 01/01/2025), hành vi vi phạm liên quan đến {t} phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.',
+            f'Bên cạnh phạt tiền, người vi phạm còn có thể bị trừ điểm giấy phép lái xe và, với các lỗi nặng như vi phạm nồng độ cồn, bị tước quyền sử dụng giấy phép lái xe có thời hạn theo Nghị định 168/2024/NĐ-CP.',
             f'Đối với các lỗi vi phạm có nguy cơ gây tai nạn cao hoặc tái phạm nhiều lần, mức xử phạt sẽ được áp dụng ở khung kịch khung. Người tham gia giao thông cần ý thức rõ ràng rằng mức phạt tiền hiện nay là rất cao, đủ sức răn đe mọi hành vi coi thường luật pháp.'
         ]) + paragraph(seed+'2b', [
-            f'Theo biểu khung phạt chi tiết đang có hiệu lực: mức phạt tiền đối với hành vi không chấp hành hiệu lệnh đèn tín hiệu dao động từ 800.000đ đến 1.000.000đ; đi ngược chiều của đường một chiều bị phạt từ 1.000.000đ đến 2.000.000đ kèm tước giấy phép lái xe từ 1 đến 3 tháng.',
-            f'Đặc biệt đối với vi phạm nồng độ cồn, mức phạt cao nhất đối với người điều khiển xe mô tô, xe gắn máy có thể lên tới 8.000.000đ và bị tước giấy phép lái xe lên đến 24 tháng, đồng thời bị tạm giữ phương tiện tối đa 7 ngày theo quy định.',
-            f'Hành vi không mang theo giấy đăng ký xe, giấy phép lái xe hoặc bảo hiểm trách nhiệm dân sự bắt buộc cũng bị xử phạt từ 100.000đ đến 400.000đ tùy từng loại giấy tờ.'
+            f'Theo Nghị định 168/2024/NĐ-CP (hiệu lực từ 01/01/2025), người điều khiển xe mô tô, xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 4 điểm giấy phép lái xe; đi ngược chiều của đường một chiều bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 2 điểm giấy phép lái xe.',
+            f'Đặc biệt đối với vi phạm nồng độ cồn, người điều khiển xe mô tô, xe gắn máy có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc 0,4 miligam/1 lít khí thở bị phạt từ 8.000.000đ đến 10.000.000đ và tước giấy phép lái xe từ 22 đến 24 tháng; ngay cả mức thấp nhất cũng bị phạt từ 2.000.000đ đến 3.000.000đ.',
+            f'Giấy tờ cũng là lỗi hay gặp: người điều khiển xe mô tô, xe gắn máy không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự còn hiệu lực bị phạt từ 200.000đ đến 300.000đ; mức phạt với từng loại giấy tờ khác được quy định tại Điều 18 Nghị định 168/2024/NĐ-CP.'
         ]) + paragraph(seed+'2c', [
             f'Ngoài các hình thức xử phạt trực tiếp từ cảnh sát giao thông cắm chốt trên đường, hệ thống camera phạt nguội tự động sẽ ghi lại hình ảnh rõ nét biển số và thời điểm vi phạm để gửi giấy phạt về nơi đăng ký xe.',
             f'Việc chậm nộp tiền phạt hoặc cố tình trốn tránh nghĩa vụ xử phạt sẽ dẫn đến việc phát sinh tiền lãi chậm nộp 0,05%/ngày tính trên tổng số tiền phạt chưa nộp, đồng thời bị cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.',
@@ -865,10 +865,10 @@ def make_luat(s):
         ]) + paragraph(seed+'4b', [
             f'Hiểu lầm về việc "được phép vượt đèn vàng" cũng rất phổ biến. Theo quy chuẩn kỹ thuật quốc gia, khi đèn vàng bật sáng, người lái xe phải dừng lại trước vạch dừng, trừ trường hợp đã đi quá vạch dừng thì mới được đi tiếp. Cố tình tăng ga để vượt đèn vàng vẫn bị xử phạt tương đương lỗi vượt đèn đỏ.',
             f'Một số người điều khiển xe máy cho rằng có thể đi vào làn đường dành cho xe ô tô trên các trục đường vành đai nếu thấy đường vắng. Đây là hành vi vi phạm lỗi đi sai làn đường quy định, có mức phạt tiền rất nặng và tiềm ẩn nguy cơ tai nạn đặc biệt nghiêm trọng.',
-            f'Lỗi chở quá số người quy định trên xe hai bánh cũng thường xuyên diễn ra do thói quen tiện lợi, trong khi luật chỉ cho phép chở thêm tối đa một người lớn và một trẻ em dưới 7 tuổi hoặc chở người đi cấp cứu.'
+            f'Lỗi chở quá số người quy định trên xe hai bánh cũng thường xuyên diễn ra do thói quen tiện lợi, trong khi luật chỉ cho phép chở thêm một người; chở theo hai người chỉ được phép trong một số trường hợp như chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật.'
         ]) + paragraph(seed+'4c', [
-            f'Lỗi đi xe trên vỉa hè khi gặp tắc đường là hành vi rất phổ biến ở Hà Nội vào giờ cao điểm. Hành vi này không chỉ bị phạt tiền từ 400.000đ đến 600.000đ mà còn xâm phạm trực tiếp đến không gian an toàn của người đi bộ.',
-            f'Việc sử dụng ô (dù), điện thoại di động hoặc thiết bị âm thanh khi đang lái xe hai bánh cũng là lỗi vi phạm bị xử lý gắt gao với mức phạt tiền lên tới 1.000.000đ.',
+            f'Lỗi đi xe trên vỉa hè khi gặp tắc đường là hành vi rất phổ biến ở Hà Nội vào giờ cao điểm. Theo Nghị định 168/2024/NĐ-CP, điều khiển xe đi trên vỉa hè bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 2 điểm giấy phép lái xe, chưa kể hành vi này xâm phạm trực tiếp đến không gian an toàn của người đi bộ.',
+            f'Người đang điều khiển xe mô tô, xe gắn máy mà sử dụng ô (dù), thiết bị âm thanh hoặc dùng tay cầm và sử dụng điện thoại bị phạt từ 800.000đ đến 1.000.000đ và trừ 4 điểm giấy phép lái xe.',
             f'Hiểu đúng bản chất của từng quy định pháp luật sẽ giúp bạn không còn bỡ ngỡ và hoàn toàn chủ động phòng tránh mọi rủi ro xử phạt không đáng có.'
         ]) + paragraph(seed+'4d', [
             f'Để trang bị kiến thức chuẩn xác và loại bỏ các hiểu lầm tai hại, hãy tham khảo thêm mục <a href="/faq/">câu hỏi thường gặp FAQ về quy định xe máy</a> để vững vàng kiến thức trên mọi nẻo đường.',

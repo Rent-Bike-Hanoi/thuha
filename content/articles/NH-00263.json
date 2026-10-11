@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Vịnh Hạ Long",
-      "<p>Tổng kinh phí cho chuyến đi đi về trong ngày (day-trip) đến Vịnh Hạ Long thường rất hợp lý và dễ kiểm soát. Chi phí xăng xe cho chiếc xe đạp touring dã ngoại khứ hồi thường dao động từ 150.000đ đến 300.000đ tùy theo quãng đường thực tế và mức tiêu hao nhiên liệu của xe.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng khoảng 500.000đ đến 1.000.000đ trong tài khoản ngân hàng để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
+      "<p>Tổng kinh phí cho chuyến đi đi về trong ngày (day-trip) đến Vịnh Hạ Long thường rất hợp lý và dễ kiểm soát. Đi chiếc xe đạp touring dã ngoại không tốn xăng, nhưng hãy tính trước thời gian, sức đạp và chỗ nghỉ dọc đường cho quãng khứ hồi.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng trong tài khoản ngân hàng, kèm một ít tiền mặt cho những nơi chưa nhận chuyển khoản, để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00263",
   "tone": "white",
-  "wordCount": 966,
+  "wordCount": 962,
   "intent": "du-lich|vịnh hạ long|xe đạp touring dã ngoại|đi về trong ngày (day-trip)|phượt solo một mình|du-tru-chi-phi",
   "factoryVersion": 1
 }

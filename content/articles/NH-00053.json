@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Xã Y Tý Bát Xát",
-      "<p>Tổng kinh phí cho chuyến đi đi về trong ngày (day-trip) đến Xã Y Tý Bát Xát thường rất hợp lý và dễ kiểm soát. Chi phí xăng xe cho chiếc xe số Yamaha Sirius khứ hồi thường dao động từ 150.000đ đến 300.000đ tùy theo quãng đường thực tế và mức tiêu hao nhiên liệu của xe.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo biểu phí ưu đãi trọn gói tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để nhận mức giá tiết kiệm nhất.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
+      "<p>Tổng kinh phí cho chuyến đi đi về trong ngày (day-trip) đến Xã Y Tý Bát Xát thường rất hợp lý và dễ kiểm soát. Chi phí xăng cho chiếc xe số Yamaha Sirius khứ hồi phụ thuộc quãng đường thực tế và mức tiêu hao nhiên liệu của xe; hãy ước tính trước theo lịch trình của bạn.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo giá thuê theo tuần tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để chọn kỳ thuê tiết kiệm nhất.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00053",
   "tone": "white",
-  "wordCount": 1005,
+  "wordCount": 1002,
   "intent": "du-lich|xã y tý bát xát|xe số yamaha sirius|đi về trong ngày (day-trip)|phượt solo một mình|lich-trinh-cung-duong",
   "factoryVersion": 1
 }

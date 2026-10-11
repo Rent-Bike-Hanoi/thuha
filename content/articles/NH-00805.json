@@ -11,7 +11,7 @@
     ],
     [
       "Mức xử phạt vi phạm hành chính áp dụng hiện hành",
-      "<p>Căn cứ theo Nghị định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt hiện hành, hành vi vi phạm liên quan đến quy định giới hạn kích thước chở đồ và hàng cồng kềnh phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.</p><p>Theo biểu khung phạt chi tiết đang có hiệu lực: mức phạt tiền đối với hành vi không chấp hành hiệu lệnh đèn tín hiệu dao động từ 800.000đ đến 1.000.000đ; đi ngược chiều của đường một chiều bị phạt từ 1.000.000đ đến 2.000.000đ kèm tước giấy phép lái xe từ 1 đến 3 tháng.</p><p>Ngoài các hình thức xử phạt trực tiếp từ cảnh sát giao thông cắm chốt trên đường, hệ thống camera phạt nguội tự động sẽ ghi lại hình ảnh rõ nét biển số và thời điểm vi phạm để gửi giấy phạt về nơi đăng ký xe.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p>"
+      "<p>Căn cứ theo Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (hiệu lực từ 01/01/2025), hành vi vi phạm liên quan đến quy định giới hạn kích thước chở đồ và hàng cồng kềnh phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.</p><p>Theo Nghị định 168/2024/NĐ-CP (hiệu lực từ 01/01/2025), người điều khiển xe mô tô, xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 4 điểm giấy phép lái xe; đi ngược chiều của đường một chiều bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 2 điểm giấy phép lái xe.</p><p>Ngoài các hình thức xử phạt trực tiếp từ cảnh sát giao thông cắm chốt trên đường, hệ thống camera phạt nguội tự động sẽ ghi lại hình ảnh rõ nét biển số và thời điểm vi phạm để gửi giấy phạt về nơi đăng ký xe.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p>"
     ],
     [
       "Trách nhiệm và quyền hạn của người thuê xe tự lái khi tham gia giao thông",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "00805",
   "tone": "black",
-  "wordCount": 1645,
+  "wordCount": 1668,
   "intent": "luat|cho-hang-cong-kenh|người thuê xe tự lái|so-sanh-thay-doi-moi|trên các cung đường ngoại thành và liên tỉnh",
   "factoryVersion": 1
 }

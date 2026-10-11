@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Thác Bản Giốc Cao Bằng",
-      "<p>Tổng kinh phí cho chuyến đi đi về trong ngày (day-trip) đến Thác Bản Giốc Cao Bằng thường rất hợp lý và dễ kiểm soát. Chi phí xăng xe cho chiếc xe máy phân khối 50cc khứ hồi thường dao động từ 150.000đ đến 300.000đ tùy theo quãng đường thực tế và mức tiêu hao nhiên liệu của xe.</p><p>Chuẩn bị sẵn một ít tiền mặt mệnh giá nhỏ (10.000đ, 20.000đ, 50.000đ) để tiện thanh toán tại các quầy hàng rong vùng cao nơi chưa phổ biến thanh toán quét mã QR hoặc sóng ngân hàng yếu.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo biểu phí ưu đãi trọn gói tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để nhận mức giá tiết kiệm nhất.</p><p>Để tối ưu hóa chi phí cho cả nhóm cặp đôi trải nghiệm, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
+      "<p>Tổng kinh phí cho chuyến đi đi về trong ngày (day-trip) đến Thác Bản Giốc Cao Bằng thường rất hợp lý và dễ kiểm soát. Chi phí xăng cho chiếc xe máy phân khối 50cc khứ hồi phụ thuộc quãng đường thực tế và mức tiêu hao nhiên liệu của xe; hãy ước tính trước theo lịch trình của bạn.</p><p>Chuẩn bị sẵn một ít tiền mặt mệnh giá nhỏ (10.000đ, 20.000đ, 50.000đ) để tiện thanh toán tại các quầy hàng rong vùng cao nơi chưa phổ biến thanh toán quét mã QR hoặc sóng ngân hàng yếu.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo giá thuê theo tuần tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để chọn kỳ thuê tiết kiệm nhất.</p><p>Để tối ưu hóa chi phí cho cả nhóm cặp đôi trải nghiệm, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "01873",
   "tone": "black",
-  "wordCount": 1567,
+  "wordCount": 1564,
   "intent": "du-lich|thác bản giốc cao bằng|xe máy phân khối 50cc|đi về trong ngày (day-trip)|cặp đôi trải nghiệm|kinh-nghiem-lai-xe-an-toan",
   "factoryVersion": 1
 }

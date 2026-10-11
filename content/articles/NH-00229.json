@@ -19,7 +19,7 @@
     ],
     [
       "Bảng giá và dự trù chi phí thuê Honda Wave Alpha tại Hà Đông",
-      "<p>Mức giá thuê niêm yết công khai cho nhóm phương tiện này tại Thuê xe máy Nguyễn Hà là 150–200 nghìn/ngày, 700–800 nghìn/tuần, 1–1,2 triệu/tháng. Mức phí thực tế phụ thuộc vào mẫu xe cụ thể, đời xe và tổng số ngày bạn đăng ký sử dụng. Cửa hàng luôn áp dụng chính sách chiết khấu lũy tiến hấp dẫn cho các hợp đồng thuê theo tuần hoặc theo tháng.</p><p>Để tối ưu chi phí cho nhu cầu đi học và thực tập hằng ngày, người chạy việc trong phố nên tính toán tổng thời gian cần xe để chọn gói theo tuần hoặc tháng thay vì gia hạn lẻ tẻ theo từng ngày. Một ngày thuê tại cửa hàng được tính tròn 24 giờ kể từ thời điểm nhận xe, giúp bạn hoàn toàn chủ động sắp xếp lịch trình.</p>"
+      "<p>Mức giá thuê niêm yết công khai cho nhóm phương tiện này tại Thuê xe máy Nguyễn Hà là 150–200 nghìn/ngày, 700–800 nghìn/tuần, 1–1,2 triệu/tháng. Mức phí thực tế phụ thuộc vào mẫu xe cụ thể, đời xe và tổng số ngày bạn đăng ký sử dụng. Giá thuê theo tuần hoặc theo tháng tính ra mỗi ngày thấp hơn giá thuê lẻ từng ngày, nên hợp đồng càng dài càng có lợi.</p><p>Để tối ưu chi phí cho nhu cầu đi học và thực tập hằng ngày, người chạy việc trong phố nên tính toán tổng thời gian cần xe để chọn gói theo tuần hoặc tháng thay vì gia hạn lẻ tẻ theo từng ngày. Một ngày thuê tại cửa hàng được tính tròn 24 giờ kể từ thời điểm nhận xe, giúp bạn hoàn toàn chủ động sắp xếp lịch trình.</p>"
     ],
     [
       "Quy định hợp đồng, giấy tờ và điều kiện tiền cọc",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00229",
   "tone": "black",
-  "wordCount": 1003,
+  "wordCount": 1006,
   "intent": "thue-xe|thuê theo tháng|honda wave alpha|hà đông|người chạy việc trong phố|đi học và thực tập hằng ngày|quãng đường dưới 5 km mỗi ngày",
   "factoryVersion": 1
 }
