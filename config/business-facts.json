@@ -24,7 +24,12 @@
     "helmet": "mũ bảo hiểm cơ bản miễn phí",
     "payment": "tiền mặt hoặc chuyển khoản ngân hàng Việt Nam"
   },
-  "maps_url": "https://share.google/vRu6kQRheUjq2T4VY",
+  "maps_url": "https://maps.google.com/?cid=12425073981350767487",
   "google_business_name": "Hanoi Scooter Rentals And Sale Made Easy – Ms Nguyen Ha",
-  "facebook_url": "https://www.facebook.com/blogthuexemay"
+  "facebook_url": "https://www.facebook.com/blogthuexemay",
+  "geo": {
+    "latitude": 21.0399392,
+    "longitude": 105.8669657,
+    "source": "Google Maps (hồ sơ do chủ site gửi, 11/10/2026)"
+  }
 }
