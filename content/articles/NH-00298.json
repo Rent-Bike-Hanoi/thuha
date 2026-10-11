@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Cao nguyên Mộc Châu",
-      "<p>Tổng kinh phí cho chuyến đi chuyến khám phá 4 ngày 3 đêm đến Cao nguyên Mộc Châu thường rất hợp lý và dễ kiểm soát. Chi phí xăng xe cho chiếc xe ga Honda Lead khứ hồi thường dao động từ 150.000đ đến 300.000đ tùy theo quãng đường thực tế và mức tiêu hao nhiên liệu của xe.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng khoảng 500.000đ đến 1.000.000đ trong tài khoản ngân hàng để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Để tối ưu hóa chi phí cho cả nhóm nhóm bạn trẻ 3 đến 5 xe, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
+      "<p>Tổng kinh phí cho chuyến đi chuyến khám phá 4 ngày 3 đêm đến Cao nguyên Mộc Châu thường rất hợp lý và dễ kiểm soát. Chi phí xăng cho chiếc xe ga Honda Lead khứ hồi phụ thuộc quãng đường thực tế và mức tiêu hao nhiên liệu của xe; hãy ước tính trước theo lịch trình của bạn.</p><p>Hãy chuẩn bị thêm một khoản ngân sách dự phòng trong tài khoản ngân hàng, kèm một ít tiền mặt cho những nơi chưa nhận chuyển khoản, để chủ động xử lý các tình huống vá săm, sửa xe hoặc phát sinh ngoài dự kiến trên đường.</p><p>Để tối ưu hóa chi phí cho cả nhóm nhóm bạn trẻ 3 đến 5 xe, bạn nên mua chung vé tham quan và đặt ăn theo set menu tại các nhà hàng địa phương uy tín. Việc chia sẻ chi phí nhiên liệu và phòng nghỉ sẽ giúp chuyến đi vừa vui vẻ vừa vô cùng tiết kiệm.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00298",
   "tone": "black",
-  "wordCount": 1015,
+  "wordCount": 1019,
   "intent": "du-lich|cao nguyên mộc châu|xe ga honda lead|chuyến khám phá 4 ngày 3 đêm|nhóm bạn trẻ 3 đến 5 xe|diem-checkin-am-thuc",
   "factoryVersion": 1
 }

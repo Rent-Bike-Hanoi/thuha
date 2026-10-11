@@ -23,7 +23,7 @@
     ],
     [
       "Dự toán kinh phí xăng xe, ăn uống và lưu trú tại Cao nguyên đá Đồng Văn",
-      "<p>Tổng kinh phí cho chuyến đi cuối tuần 2 ngày 1 đêm đến Cao nguyên đá Đồng Văn thường rất hợp lý và dễ kiểm soát. Chi phí xăng xe cho chiếc xe ga Honda Lead khứ hồi thường dao động từ 150.000đ đến 300.000đ tùy theo quãng đường thực tế và mức tiêu hao nhiên liệu của xe.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo biểu phí ưu đãi trọn gói tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để nhận mức giá tiết kiệm nhất.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
+      "<p>Tổng kinh phí cho chuyến đi cuối tuần 2 ngày 1 đêm đến Cao nguyên đá Đồng Văn thường rất hợp lý và dễ kiểm soát. Chi phí xăng cho chiếc xe ga Honda Lead khứ hồi phụ thuộc quãng đường thực tế và mức tiêu hao nhiên liệu của xe; hãy ước tính trước theo lịch trình của bạn.</p><p>Nếu bạn cần thuê phương tiện tại Hà Nội cho cả chuyến đi, đừng quên tham khảo giá thuê theo tuần tại <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tuần</a> để chọn kỳ thuê tiết kiệm nhất.</p><p>Luôn giữ lại hóa đơn thanh toán hoặc thỏa thuận giá cả dịch vụ trước khi sử dụng để tránh bị chặt chém tại các khu du lịch đông đúc vào dịp cao điểm cuối tuần.</p>"
     ],
     [
       "Điểm check-in đẹp và đặc sản ẩm thực không nên bỏ qua",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00463",
   "tone": "black",
-  "wordCount": 1002,
+  "wordCount": 999,
   "intent": "du-lich|cao nguyên đá đồng văn|xe ga honda lead|cuối tuần 2 ngày 1 đêm|phượt solo một mình|du-tru-chi-phi",
   "factoryVersion": 1
 }

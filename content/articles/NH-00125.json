@@ -11,7 +11,7 @@
     ],
     [
       "Mức xử phạt vi phạm hành chính áp dụng hiện hành",
-      "<p>Bên cạnh hình thức phạt tiền bằng tiền mặt từ vài trăm nghìn đến hàng triệu đồng, người vi phạm còn có thể bị áp dụng các hình thức xử phạt bổ sung nghiêm khắc như: tước quyền sử dụng Giấy phép lái xe từ 1 tháng đến 24 tháng, hoặc tạm giữ phương tiện giao thông đến 7 ngày làm việc.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p><p>Cần đặc biệt lưu ý rằng theo các quy định mới được ban hành, mức phạt tiền đối với các lỗi cố tình vượt đèn đỏ, đi ngược chiều hay vi phạm nồng độ cồn đã tăng lên rất cao. Do đó, việc chấp hành nghiêm chỉnh luật lệ giao thông là cách bảo vệ tài chính và an toàn bản thân tốt nhất.</p>"
+      "<p>Bên cạnh phạt tiền, người vi phạm còn có thể bị trừ điểm giấy phép lái xe và, với các lỗi nặng như vi phạm nồng độ cồn, bị tước quyền sử dụng giấy phép lái xe có thời hạn theo Nghị định 168/2024/NĐ-CP.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p><p>Cần đặc biệt lưu ý rằng theo các quy định mới được ban hành, mức phạt tiền đối với các lỗi cố tình vượt đèn đỏ, đi ngược chiều hay vi phạm nồng độ cồn đã tăng lên rất cao. Do đó, việc chấp hành nghiêm chỉnh luật lệ giao thông là cách bảo vệ tài chính và an toàn bản thân tốt nhất.</p>"
     ],
     [
       "Trách nhiệm và quyền hạn của tài xế giao hàng công nghệ khi tham gia giao thông",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00125",
   "tone": "white",
-  "wordCount": 991,
+  "wordCount": 976,
   "intent": "luat|nhan-biet-bien-bao-cam|tài xế giao hàng công nghệ|muc-phat-va-hinh-thuc-xu-ly|trong khu vực ngõ hẻm và khu đô thị đông đúc",
   "factoryVersion": 1
 }

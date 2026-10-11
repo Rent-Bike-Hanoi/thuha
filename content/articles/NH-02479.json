@@ -27,7 +27,7 @@
     ],
     [
       "Phương thức nhận xe trực tiếp và giao xe tại Hà Đông",
-      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn trong vòng 10 phút. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Hà Đông.</p><p>Khi bàn giao lại xe, nhân viên sẽ đối chiếu nhanh tình trạng vỏ xe và lượng xăng với biên bản ban đầu, tiến hành hoàn cọc ngay lập tức và gửi lời cảm ơn quý khách đã tin tưởng sử dụng dịch vụ.</p><p>Quy trình trả xe cũng được tối ưu hóa nhằm tiết kiệm thời gian tối đa cho khách hàng. Nhân viên kiểm tra hiện trạng xe nhanh chóng trong 5 phút, đối chiếu biên bản giao nhận ban đầu và hoàn tất thủ tục thanh lý hợp đồng ngay tại chỗ.</p><p>Khi bàn giao xe tại điểm hẹn ở Hà Đông, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.</p>"
+      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Hà Đông.</p><p>Khi bàn giao lại xe, nhân viên sẽ đối chiếu nhanh tình trạng vỏ xe và lượng xăng với biên bản ban đầu, tiến hành hoàn cọc ngay lập tức và gửi lời cảm ơn quý khách đã tin tưởng sử dụng dịch vụ.</p><p>Quy trình trả xe cũng được tối ưu hóa nhằm tiết kiệm thời gian tối đa cho khách hàng. Nhân viên kiểm tra hiện trạng xe, đối chiếu biên bản giao nhận ban đầu và hoàn tất thủ tục thanh lý hợp đồng ngay tại chỗ.</p><p>Khi bàn giao xe tại điểm hẹn ở Hà Đông, hai bên cùng đối chiếu lại biên bản bàn giao ban đầu để xác nhận hiện trạng xe nguyên vẹn, đảm bảo quá trình trả xe diễn ra nhanh chóng, thoải mái và chuyên nghiệp.</p>"
     ],
     [
       "Kinh nghiệm lái xe an toàn khi lần đầu tự lái xe tại thủ đô",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "02479",
   "tone": "black",
-  "wordCount": 1886,
+  "wordCount": 1877,
   "intent": "thue-xe|an toàn|honda lead|hà đông|người chạy việc trong phố|lần đầu tự lái xe tại thủ đô|quãng đường dưới 5 km mỗi ngày",
   "factoryVersion": 1
 }

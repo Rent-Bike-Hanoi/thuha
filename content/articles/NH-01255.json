@@ -11,7 +11,7 @@
     ],
     [
       "Mức xử phạt vi phạm hành chính áp dụng hiện hành",
-      "<p>Căn cứ theo Nghị định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt hiện hành, hành vi vi phạm liên quan đến thủ tục và mẹo thi đậu bằng lái xe máy A1 phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.</p><p>Theo biểu khung phạt chi tiết đang có hiệu lực: mức phạt tiền đối với hành vi không chấp hành hiệu lệnh đèn tín hiệu dao động từ 800.000đ đến 1.000.000đ; đi ngược chiều của đường một chiều bị phạt từ 1.000.000đ đến 2.000.000đ kèm tước giấy phép lái xe từ 1 đến 3 tháng.</p><p>Việc chậm nộp tiền phạt hoặc cố tình trốn tránh nghĩa vụ xử phạt sẽ dẫn đến việc phát sinh tiền lãi chậm nộp 0,05%/ngày tính trên tổng số tiền phạt chưa nộp, đồng thời bị cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p>"
+      "<p>Căn cứ theo Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (hiệu lực từ 01/01/2025), hành vi vi phạm liên quan đến thủ tục và mẹo thi đậu bằng lái xe máy A1 phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.</p><p>Theo Nghị định 168/2024/NĐ-CP (hiệu lực từ 01/01/2025), người điều khiển xe mô tô, xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 4 điểm giấy phép lái xe; đi ngược chiều của đường một chiều bị phạt từ 4.000.000đ đến 6.000.000đ và trừ 2 điểm giấy phép lái xe.</p><p>Việc chậm nộp tiền phạt hoặc cố tình trốn tránh nghĩa vụ xử phạt sẽ dẫn đến việc phát sinh tiền lãi chậm nộp 0,05%/ngày tính trên tổng số tiền phạt chưa nộp, đồng thời bị cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p>"
     ],
     [
       "Trách nhiệm và quyền hạn của tài xế giao hàng công nghệ khi tham gia giao thông",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "01255",
   "tone": "black",
-  "wordCount": 1583,
+  "wordCount": 1606,
   "intent": "luat|thi-bang-lai-a1|tài xế giao hàng công nghệ|muc-phat-va-hinh-thuc-xu-ly|tại các khu vực cửa ngõ thủ đô",
   "factoryVersion": 1
 }

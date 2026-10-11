@@ -34,7 +34,11 @@ ALLOWED_AMOUNTS = {
     '1.000.000', '1.200.000', '1.500.000', '1.800.000', '2.000.000', '5.000.000',
     '150 nghìn', '200 nghìn', '600 nghìn', '700 nghìn', '800 nghìn',
     '1 triệu', '1,2 triệu', '1,5 triệu', '1,8 triệu', '2 triệu', '5 triệu',
+    '10.000',  # cash denominations (10.000đ, 20.000đ, 50.000đ)
 }
+# Fines quoted from Nghị định 168/2024/NĐ-CP (Điều 7, Điều 18) in legal articles.
+ALLOWED_AMOUNTS |= {'200.000', '300.000', '800.000', '2.000.000', '3.000.000', '4.000.000', '6.000.000',
+                    '8.000.000', '10.000.000'}
 OUTDATED = {'30.000đ/giờ': 'phí quá giờ cũ 30.000đ/giờ', '18 đến dưới 20 tuổi': 'chính sách tuổi 50cc cũ'}
 
 # Vehicle class from the intent's subject.
@@ -147,7 +151,7 @@ def main():
         parts = a['intent'].split('|')
         fam = parts[0]
         body = ' '.join(b for _, b in sections(a))
-        amounts = set(re.findall(r'\d{1,3}(?:\.\d{3})+(?=\s*(?:đ|đồng|VNĐ))|\d+(?:,\d+)?\s(?:triệu|nghìn)', t))
+        amounts = set(re.findall(r'\d{1,3}(?:\.\d{3})+(?=\s*(?:đ(?![a-zà-ỹđ])|đồng|VNĐ))|\d+(?:,\d+)?\s(?:triệu|nghìn)', t))
         unsupported = sorted(x for x in amounts if x not in ALLOWED_AMOUNTS)
         rows.append(dict(
             id=a['id'], url=a['url'], title=a['title'], family=fam, topic=parts[1],

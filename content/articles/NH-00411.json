@@ -27,7 +27,7 @@
     ],
     [
       "Phương thức nhận xe trực tiếp và giao xe tại Đống Đa",
-      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn trong vòng 10 phút. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Đống Đa.</p><p>Mốc thời gian trả xe được tính chuẩn xác theo chu kỳ 24 giờ ghi trong hợp đồng. Nếu bạn có việc đột xuất cần gia hạn thêm giờ hoặc trả xe sớm hơn dự kiến, hãy gọi điện thông báo sớm cho cửa hàng để được hỗ trợ sắp xếp linh hoạt nhất.</p>"
+      "<p>Khách hàng có thể đến trực tiếp cơ sở của Thuê xe máy Nguyễn Hà để thử xe, kiểm tra máy móc và hoàn tất thủ tục bàn giao nhanh gọn. Đối với các hợp đồng thuê từ nhiều ngày, tuần hoặc tháng, cửa hàng hỗ trợ dịch vụ giao nhận xe tận nơi theo địa chỉ hẹn trước tại Đống Đa.</p><p>Mốc thời gian trả xe được tính chuẩn xác theo chu kỳ 24 giờ ghi trong hợp đồng. Nếu bạn có việc đột xuất cần gia hạn thêm giờ hoặc trả xe sớm hơn dự kiến, hãy gọi điện thông báo sớm cho cửa hàng để được hỗ trợ sắp xếp linh hoạt nhất.</p>"
     ],
     [
       "Kinh nghiệm lái xe an toàn khi lưu trú ngắn ngày dạo phố cổ",
@@ -43,7 +43,7 @@
   "kind": "article",
   "art": "00411",
   "tone": "gold",
-  "wordCount": 990,
+  "wordCount": 986,
   "intent": "thue-xe|giao nhận|honda wave alpha|đống đa|người mới đến hà nội|lưu trú ngắn ngày dạo phố cổ|tuyến đường từ nơi ở đến văn phòng",
   "factoryVersion": 1
 }

@@ -11,7 +11,7 @@
     ],
     [
       "Mức xử phạt vi phạm hành chính áp dụng hiện hành",
-      "<p>Căn cứ theo Nghị định xử phạt vi phạm hành chính trong lĩnh vực giao thông đường bộ và đường sắt hiện hành, hành vi vi phạm liên quan đến quy định về hiệu lệnh dừng xe và kiểm tra giấy tờ của CSGT phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.</p><p>Hành vi không mang theo giấy đăng ký xe, giấy phép lái xe hoặc bảo hiểm trách nhiệm dân sự bắt buộc cũng bị xử phạt từ 100.000đ đến 400.000đ tùy từng loại giấy tờ.</p><p>Việc chậm nộp tiền phạt hoặc cố tình trốn tránh nghĩa vụ xử phạt sẽ dẫn đến việc phát sinh tiền lãi chậm nộp 0,05%/ngày tính trên tổng số tiền phạt chưa nộp, đồng thời bị cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p>"
+      "<p>Căn cứ theo Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (hiệu lực từ 01/01/2025), hành vi vi phạm liên quan đến quy định về hiệu lệnh dừng xe và kiểm tra giấy tờ của CSGT phải chịu các khung hình phạt nghiêm khắc tùy thuộc vào mức độ và tính chất của lỗi vi phạm.</p><p>Giấy tờ cũng là lỗi hay gặp: người điều khiển xe mô tô, xe gắn máy không có chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự còn hiệu lực bị phạt từ 200.000đ đến 300.000đ; mức phạt với từng loại giấy tờ khác được quy định tại Điều 18 Nghị định 168/2024/NĐ-CP.</p><p>Việc chậm nộp tiền phạt hoặc cố tình trốn tránh nghĩa vụ xử phạt sẽ dẫn đến việc phát sinh tiền lãi chậm nộp 0,05%/ngày tính trên tổng số tiền phạt chưa nộp, đồng thời bị cưỡng chế thi hành quyết định xử phạt vi phạm hành chính.</p><p>Việc nộp phạt hành chính hiện nay đã được tích hợp qua Cổng dịch vụ công Quốc gia, giúp người vi phạm có thể tra cứu biên bản và nộp tiền phạt trực tuyến một cách minh bạch mà không cần phải đi lại nhiều lần.</p>"
     ],
     [
       "Trách nhiệm và quyền hạn của người thuê xe tự lái khi tham gia giao thông",
@@ -47,7 +47,7 @@
   "kind": "article",
   "art": "03565",
   "tone": "black",
-  "wordCount": 1576,
+  "wordCount": 1607,
   "intent": "luat|quyen-kiem-tra-cua-csgt|người thuê xe tự lái|tinh-huong-va-cach-phong-tranh|trên các trục đường vành đai và quốc lộ",
   "factoryVersion": 1
 }
