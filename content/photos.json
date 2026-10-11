@@ -178,17 +178,17 @@
    }
   },
   {
-   "id": "xe-tay-ga-den",
-   "alt": "Xe tay ga màu đen, nhìn từ phía trước",
-   "caption": "Xe tay ga đen",
+   "id": "honda-vision-den-co-y",
+   "alt": "Honda Vision màu đen, tem cờ Ý trên mặt nạ, nhìn từ phía trước",
+   "caption": "Honda Vision đen, tem cờ Ý",
    "type": "xe ga",
    "sm": {
-    "src": "/assets/photos/xe-tay-ga-den-sm.webp",
+    "src": "/assets/photos/honda-vision-den-co-y-sm.webp",
     "width": 480,
     "height": 640
    },
    "lg": {
-    "src": "/assets/photos/xe-tay-ga-den-lg.webp",
+    "src": "/assets/photos/honda-vision-den-co-y-lg.webp",
     "width": 960,
     "height": 1280
    }
