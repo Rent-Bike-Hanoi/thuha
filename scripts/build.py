@@ -222,7 +222,7 @@ def shell(title,desc,url,body,extra=None,noindex=False):
 def write(url,text):
  path=ROOT/('index.html' if url=='/' else url.strip('/')+'/index.html');path.parent.mkdir(parents=True,exist_ok=True);path.write_text(text)
 FEATURE=[P[0],P[2],P[3]]
-LATEST=[p for p in reversed(P) if p["kind"] in ["article","pillar"] and p["url"]!="/lien-he/"][:3]
+LATEST=[p for p in reversed(P) if p["kind"] in ["article","pillar"] and p["url"]!="/lien-he/" and not factory_noindex(p)][:3]
 body=f'''<section class="hero"><div><p class="eyebrow">NGUYỄN HÀ JOURNAL</p><h1>Mỗi chuyến đi.<br>Một <em>góc Hà Nội.</em></h1><p>Cẩm nang thuê xe, những góc phố và kinh nghiệm cho hành trình của bạn.</p><div class="hero-actions"><a class="pill gold" href="/thue-xe-may/ha-noi/">Cẩm nang thuê xe</a><a class="text-link" href="/du-lich/ha-noi/">Khám phá Hà Nội</a></div></div><div><div class="hero-visual"><img src="/assets/hanoi.webp" alt="Người đi xe máy qua góc phố Bà Triệu ở Hà Nội" width="1400" height="788" decoding="async" fetchpriority="high"><div class="image-label"><div><small>ĐIỂM BẮT ĐẦU</small><strong>Hà Nội, qua từng con phố.</strong></div><span class="number">01</span></div></div><p class="credit">Ảnh: <a href="https://unsplash.com/@elliot_ra8" target="_blank" rel="noopener noreferrer">Elliot Andrews / Unsplash</a></p></div></section><nav class="topic-strip" aria-label="Chủ đề nhanh"><a class="chip active" href="/thue-xe/">Thuê xe Hà Nội</a><a class="chip" href="/thue-xe-50cc/ha-noi/">Xe 50cc</a><a class="chip" href="/thue-xe-dien/ha-noi/">Xe điện</a><a class="chip" href="/thue-xe-may/ha-noi/theo-thang/">Thuê theo tháng</a><a class="chip" href="/du-lich/ha-noi/">Du lịch Hà Nội</a><a class="chip" href="/bang-gia/">Bảng giá</a></nav><section class="section"><div class="section-head"><div><p class="eyebrow">BẮT ĐẦU TỪ ĐÂY</p><h2>Chọn xe. Chọn hành trình.</h2></div><a class="text-link" href="/thue-xe/">Xem cẩm nang</a></div><div class="grid">{''.join(card(p) for p in FEATURE)}</div></section><section class="section"><div class="feature-band"><div><h2>Một chiếc xe.<br>Nhiều cách khám phá.</h2><p>Giá thuê theo ngày, tuần và tháng. Xem chi phí và điều kiện trước khi lên đường.</p></div><a class="pill gold" href="/bang-gia/">Xem bảng giá</a></div></section><section class="section"><div class="section-head"><div><p class="eyebrow">ĐỌC THEO CHỦ ĐỀ</p><h2>Từ xe đến những điểm đến.</h2></div></div><div class="hub-grid">{''.join('<a class="hub-tile" href="'+h['url']+'"><span class="hub-no">'+str(i+1).zfill(2)+'</span><h3>'+E(h['label'])+'</h3><p>'+E(h['description'])+'</p></a>' for i,h in enumerate(NAV))}</div></section><section class="section"><div class="section-head"><div><p class="eyebrow">BÀI VIẾT MỚI</p><h2>Mới trên Journal.</h2></div></div><div class="grid">{''.join(card(p) for p in LATEST)}</div></section>'''
 local={'@context':'https://schema.org','@type':'LocalBusiness','name':S['name'],'url':S['url'],'telephone':S['internationalPhone'],'email':S['email'],'address':{'@type':'PostalAddress','streetAddress':'Ngõ 5 Nguyễn Văn Cừ, Bồ Đề','addressLocality':'Long Biên, Hà Nội','addressCountry':'VN'},'openingHoursSpecification':[{'@type':'OpeningHoursSpecification','dayOfWeek':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],'opens':'08:00','closes':'17:00'}],'image':[S['url']+'/assets/nguyen-ha-journal-social.png']+[S['url']+x['lg']['src'] for x in [x for x in PHOTOS.values() if not x.get('illustration')][:4]],**({'sameAs':[FACTS['facebook_url']]} if FACTS.get('facebook_url') else {}),**({'geo':{'@type':'GeoCoordinates','latitude':FACTS['geo']['latitude'],'longitude':FACTS['geo']['longitude']}} if FACTS.get('geo') else {}),'priceRange':'150.000–200.000đ/ngày','areaServed':{'@type':'City','name':'Hà Nội'},'hasMap':FACTS.get('maps_url') or 'https://www.google.com/maps/search/?api=1&query='+__import__('urllib.parse').parse.quote(S['address'])}
 write('/',shell('Cẩm nang thuê xe và khám phá Hà Nội', 'Thuê xe máy Nguyễn Hà: bảng giá, kinh nghiệm thuê xe và cẩm nang khám phá Hà Nội. Đọc theo chủ đề xe máy, xe điện và du lịch.','/',body,[local]))
@@ -235,6 +235,9 @@ NAV_CHAIN={}
 for q in P:
  if q['kind'] not in ['hub','page'] and q['url']!='/lien-he/' and not factory_noindex(q):NAV_CHAIN.setdefault(q['hub'],[]).append(q)
 NAV_POS={q['url']:(h,i) for h,chain in NAV_CHAIN.items() for i,q in enumerate(chain)}
+# A hub is indexable only while it lists at least one indexable article.
+INDEXABLE_HUBS={q['hub'] for q in P if q['kind'] not in ['hub','page'] and not factory_noindex(q)}
+def hub_indexable(slug): return slug in INDEXABLE_HUBS
 def post_nav(p):
  if not POST_NAV_ON or p['url'] not in NAV_POS:return ''
  h,i=NAV_POS[p['url']];chain=NAV_CHAIN[h];prev=chain[i-1] if i>0 else None;nxt=chain[i+1] if i+1<len(chain) else None
@@ -274,6 +277,8 @@ for p in P:
    page=f'<nav class="breadcrumb" aria-label="Breadcrumb"><a href="/">Trang chủ</a><span>/</span><span>{E(p["title"])}</span></nav><header class="page-heading"><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p></header><article class="article-body information-page">{sections}</article>'
   elif p['url']=='/cam-nang/':
     all_articles=[q for q in reversed(P) if q['kind'] not in ['hub','page']]
+    # Same order as hub pages: hand-written and indexable articles first (sort is stable).
+    all_articles.sort(key=lambda q:(factory_noindex(q),q.get('_source')!='content/posts.json'))
     total_articles_count=len(all_articles)
     total_hubs_count=len(NAV)
     recent_10=all_articles[:10]
@@ -322,7 +327,9 @@ for p in P:
     sub_url=f"{p['url']}trang-{p_num}/"
     sub_bc=[{'@type':'ListItem','position':1,'name':'Trang chủ','item':S['url']+'/'},{'@type':'ListItem','position':2,'name':sub_title,'item':S['url']+sub_url}]
     sub_extra=[{'@context':'https://schema.org','@type':'BreadcrumbList','itemListElement':sub_bc}]
-    write(sub_url,shell(sub_title,p['excerpt'],sub_url,sub_page,sub_extra,noindex=False))
+    # A listing page that only links to noindexed factory articles is thin; keep it crawlable but out of the index.
+    sub_noindex=all(factory_noindex(q) for q in items[(p_num-1)*page_size:p_num*page_size])
+    write(sub_url,shell(sub_title,p['excerpt'],sub_url,sub_page,sub_extra,noindex=sub_noindex))
  else:
   aside='<h3>Trong bài viết</h3>'+''.join(f'<a href="#muc-{i+1}">{E(t)}</a>' for i,(t,b) in enumerate(p['sections']))+(f'<a href="#muc-{len(p["sections"])+1}">Câu hỏi thường gặp</a>' if p.get('faq') else '')+f'<p>Thông tin xe còn sẵn và điều kiện thuê cần được cửa hàng xác nhận.</p><a class="pill gold" href="/lien-he/">Liên hệ Nguyễn Hà</a>'
   cta_block=T.render_conditional_cta(p['hub'])
@@ -353,7 +360,7 @@ for p in P:
   extra.append(local)
   page+=local_map()
  if p['url']=='/faq/':extra.append({'@context':'https://schema.org','@type':'FAQPage','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in FAQ]})
- write(p['url'],shell(p['title'],p['excerpt'],p['url'],page,extra,noindex=(p['kind']=='hub' and not any(q['hub']==p['hub'] and q['kind'] not in ['hub','page'] for q in P)) or (factory_noindex(p))))
+ write(p['url'],shell(p['title'],p['excerpt'],p['url'],page,extra,noindex=(p['kind']=='hub' and not hub_indexable(p['hub'])) or (factory_noindex(p))))
 (ROOT/'404.html').write_text(shell('Không tìm thấy trang','Trang bạn đang tìm không tồn tại.','/404.html','<section class="notice404"><p class="eyebrow">404</p><h1>Ta đổi hướng nhé.</h1><p>Trang này không còn ở địa chỉ bạn vừa mở.</p><a class="pill gold" href="/">Về trang chủ</a></section>',noindex=True))
 
 # Author page: only repo facts (byline name, brand, address, hours, phone).
@@ -428,7 +435,7 @@ def lastmod_for(p):
  if p['url']=='/cam-nang/':return SITE_NEWEST
  if p['url']=='/faq/':return src_modified('content/pages.json','content/faq.json') or FALLBACK_DT
  return p.get('modified_dt') or FALLBACK_DT
-indexed=[p for p in P if p['kind']!='hub' or any(q['hub']==p['hub'] and q['kind'] not in ['hub','page'] for q in P)]
+indexed=[p for p in P if p['kind']!='hub' or hub_indexable(p['hub'])]
 page_entries=[('/',SITE_NEWEST)]+[(p['url'],lastmod_for(p)) for p in indexed if not is_factory(p)]
 page_entries.append((AUTHOR_URL,src_modified('content/site.json','config/business-facts.json') or FALLBACK_DT))
 post_entries=[(p['url'],lastmod_for(p)) for p in indexed if is_factory(p) and not factory_noindex(p)]
