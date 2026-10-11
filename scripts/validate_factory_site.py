@@ -32,6 +32,9 @@ for p in posts:
   imgs=re.findall(r'<img\s+([^>]+)>', html_txt)
   for img in imgs:
    if 'alt=' not in img:errors.append('img missing alt in '+p['url'])
+   for src in re.findall(r'(?:src|srcset)="([^"]+)"',img):
+    for u in [x.strip().split(' ')[0] for x in src.split(',')]:
+     if u.startswith('/') and not (ROOT/u.lstrip('/')).exists():errors.append('img file missing '+u+' in '+p['url'])
 index=[json.loads(x) for x in (ROOT/'data/content-index.jsonl').read_text().splitlines() if x.strip()]
 if len(index)!=len([p for p in posts if p.get('kind') not in ('hub','page')]):errors.append('content index drift')
 # Sitemap index -> child sitemaps: every source URL must be listed exactly once.

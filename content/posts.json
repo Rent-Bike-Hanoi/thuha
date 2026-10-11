@@ -18,6 +18,10 @@
         "<div class=\"table-scroll\"><table><thead><tr><th>Nhóm xe</th><th>Mẫu xe thường có</th><th>Phù hợp với</th></tr></thead><tbody><tr><td>Xe ga</td><td>Honda Vision 110, Honda Lead 125, Honda Air Blade, Honda Click, Yamaha Janus 125, Yamaha Mio, Yamaha NVX 155, SYM Attila</td><td>Đi lại trong phố, chở người thân, người mới lái</td></tr><tr><td>Xe số</td><td>Honda Wave Alpha 110, Honda Blade 110, Yamaha Sirius 110</td><td>Tiết kiệm xăng, đi tỉnh, thuê theo tháng</td></tr><tr><td>Xe 50cc</td><td>Honda Cub 50</td><td>Học sinh, khách chưa có bằng A1 (xem mục giấy tờ)</td></tr><tr><td>Xe côn tay</td><td>Honda Winner X 150, Yamaha Exciter 150/155, Honda CB125, Honda CBR150, Suzuki Raider, Yamaha FZ150</td><td>Đi Hà Giang, Mộc Châu, Ninh Bình, cung đường dài</td></tr><tr><td>Xe phân khối lớn</td><td>Honda Rebel 300/500, Kawasaki Z300/Z400, Yamaha MT-03, Honda XR150L, Honda CRF150L, Kawasaki KLX150</td><td>Khách có bằng A2, chuyến đi dài ngày</td></tr><tr><td>Xe máy điện</td><td>Hỏi cửa hàng mẫu đang có</td><td>Đi gần, thuê theo tháng, không cần xăng</td></tr></tbody></table></div><p>Danh sách là các mẫu cửa hàng thường có, không phải cam kết tồn xe thời gian thực. Gọi trước để giữ đúng mẫu, nhất là xe ga đời mới và xe côn tay vào mùa cao điểm tháng 11–12. Nếu chưa biết chọn xe số hay xe ga, đọc <a href=\"/xe-may/chon-xe-so-hay-xe-ga/\">so sánh xe số và xe ga cho người thuê</a>; nếu cần xe 50cc, xem <a href=\"/thue-xe-50cc/ha-noi/\">thuê xe 50cc Hà Nội</a>; xe điện xem <a href=\"/thue-xe-dien/ha-noi/\">thuê xe điện Hà Nội</a>.</p>"
       ],
       [
+        "Ảnh xe thật tại cửa hàng Nguyễn Hà",
+        "<p>Một số xe đang cho thuê tại cửa hàng: xe ga Honda Vision, Honda Click, Honda Air Blade, SYM và xe số Honda Wave, Yamaha Sirius. Màu và đời xe khi bạn thuê có thể khác ảnh; gọi <a href=\"tel:+84334699969\">0334 699 969</a> để hỏi xe còn sẵn. Biển số trong ảnh đã được che.</p><!--photos:honda-vision-trang-truoc,honda-vision-den-nham-truoc,honda-click-do-truoc,honda-air-blade-do-den,sym-xe-ga-xanh-den,honda-wave-alpha-trang,honda-wave-xanh-dam,yamaha-sirius-do-den-->"
+      ],
+      [
         "Thủ tục thuê xe máy ở Hà Nội: giấy tờ, tiền cọc, hợp đồng",
         "<ol><li><strong>Giấy tờ tùy thân:</strong> căn cước công dân hoặc hộ chiếu. Cửa hàng chụp lại để làm hợp đồng và trả lại ngay, không giữ bản gốc. Khách nước ngoài có thể trao đổi phương án cọc hộ chiếu thay cho cọc tiền.</li><li><strong>Tiền cọc:</strong> 2.000.000–5.000.000đ tùy loại xe và thời hạn thuê, hoàn lại đủ khi trả xe đúng hạn, nguyên trạng. Tiền cọc và tiền thuê là hai khoản riêng.</li><li><strong>Bằng lái:</strong> xe trên 50cc cần bằng A1 (hoặc A2 với xe phân khối lớn). Khách nước ngoài cần bằng quốc gia còn hạn kèm giấy phép lái xe quốc tế theo Công ước Vienna 1968. Cửa hàng không thay bạn chịu trách nhiệm pháp lý khi lái xe không đúng hạng bằng.</li><li><strong>Hợp đồng và kiểm tra xe:</strong> ký hợp đồng ghi rõ mẫu xe, biển số, ngày nhận, ngày trả, tiền cọc; cùng nhân viên chụp ảnh xe và ghi nhận vết xước có sẵn trước khi đi.</li><li><strong>Thanh toán:</strong> tiền mặt hoặc chuyển khoản ngân hàng Việt Nam, thanh toán tiền thuê khi nhận xe.</li></ol><p>Chi tiết điều kiện xem <a href=\"/dieu-khoan-dich-vu/\">điều khoản dịch vụ</a>; danh sách kiểm tra xe trước khi nhận xem <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist nhận xe</a>.</p>"
       ],
@@ -77,7 +81,13 @@
         "Gọi 0334 699 969 trong giờ mở cửa 08:00–17:00 để được hướng dẫn sửa tại chỗ hoặc đổi xe. Chi phí xử lý theo hợp đồng: nếu do lỗi của xe, cửa hàng chịu phần lớn chi phí; nếu khách gây tai nạn hoặc làm thủng săm, xịt lốp, khách tự chịu chi phí."
       ]
     ],
-    "localBusiness": true
+    "localBusiness": true,
+    "image": {
+      "path": "/assets/photos/honda-vision-den-nham-ben-lg.webp",
+      "alt": "Honda Vision màu đen nhám, ốp đỏ, nhìn ngang",
+      "width": 960,
+      "height": 794
+    }
   },
   {
     "url": "/bang-gia/",
@@ -91,7 +101,7 @@
       ],
       [
         "Bảng giá thuê xe máy theo ngày, tuần, tháng",
-        "<div class=\"table-scroll\"><table><thead><tr><th>Loại xe</th><th>Theo ngày (24 giờ)</th><th>Theo tuần</th><th>Theo tháng</th></tr></thead><tbody><tr><td>Xe số</td><td>150.000–200.000đ</td><td>700.000–800.000đ</td><td>1.000.000–1.200.000đ</td></tr><tr><td>Xe ga</td><td>150.000–200.000đ</td><td>600.000–1.000.000đ</td><td>1.200.000–2.000.000đ</td></tr><tr><td>Xe máy điện</td><td>Tùy mẫu, hỏi cửa hàng</td><td>600.000–800.000đ</td><td>1.500.000–1.800.000đ</td></tr><tr><td>Xe 50cc</td><td>200.000đ</td><td>1.000.000đ</td><td>2.000.000đ</td></tr></tbody></table></div><p>Đơn vị: đồng Việt Nam. Giá cụ thể tùy mẫu xe, thời gian thuê và xe còn sẵn; liên hệ cửa hàng trước khi đến.</p>"
+        "<div class=\"table-scroll\"><table><thead><tr><th>Loại xe</th><th>Theo ngày (24 giờ)</th><th>Theo tuần</th><th>Theo tháng</th></tr></thead><tbody><tr><td>Xe số</td><td>150.000–200.000đ</td><td>700.000–800.000đ</td><td>1.000.000–1.200.000đ</td></tr><tr><td>Xe ga</td><td>150.000–200.000đ</td><td>600.000–1.000.000đ</td><td>1.200.000–2.000.000đ</td></tr><tr><td>Xe máy điện</td><td>Tùy mẫu, hỏi cửa hàng</td><td>600.000–800.000đ</td><td>1.500.000–1.800.000đ</td></tr><tr><td>Xe 50cc</td><td>200.000đ</td><td>1.000.000đ</td><td>2.000.000đ</td></tr></tbody></table></div><p>Đơn vị: đồng Việt Nam. Giá cụ thể tùy mẫu xe, thời gian thuê và xe còn sẵn; liên hệ cửa hàng trước khi đến.</p><p>Một số xe ga và xe số đang cho thuê (ảnh thật tại cửa hàng):</p><!--photos:honda-vision-den-nham-truoc,honda-air-blade-do-den,honda-wave-alpha-trang,yamaha-sirius-do-den-->"
       ],
       [
         "Quy đổi giá về mỗi ngày: thuê bao lâu thì rẻ nhất",
@@ -237,7 +247,7 @@
       ],
       [
         "Chọn xe cho việc đi lại mỗi ngày",
-        "<p>Với xe dùng cả tháng, thử kỹ hơn so với thuê vài ngày: độ cao yên và khả năng chống chân, phanh, cốp xe có đủ chỗ cho đồ dùng hằng ngày không, đèn, còi, lốp, khóa xe. Nếu thuê xe điện, làm rõ nơi sạc ở chỗ bạn ở và bộ sạc đi kèm (<a href=\"/xe-dien/pin-sac/\">checklist pin và sạc</a>).</p><p>Chưa biết chọn loại nào? Đọc <a href=\"/xe-may/chon-xe-so-hay-xe-ga/\">nên thuê xe số hay xe ga</a> hoặc <a href=\"/xe-may/honda/vision/chon-xe-thue/\">Honda Vision có hợp để thuê đi lại ở Hà Nội</a>.</p>"
+        "<p>Với xe dùng cả tháng, thử kỹ hơn so với thuê vài ngày: độ cao yên và khả năng chống chân, phanh, cốp xe có đủ chỗ cho đồ dùng hằng ngày không, đèn, còi, lốp, khóa xe. Nếu thuê xe điện, làm rõ nơi sạc ở chỗ bạn ở và bộ sạc đi kèm (<a href=\"/xe-dien/pin-sac/\">checklist pin và sạc</a>).</p><p>Chưa biết chọn loại nào? Đọc <a href=\"/xe-may/chon-xe-so-hay-xe-ga/\">nên thuê xe số hay xe ga</a> hoặc <a href=\"/xe-may/honda/vision/chon-xe-thue/\">Honda Vision có hợp để thuê đi lại ở Hà Nội</a>.</p><!--photos:honda-vision-xanh-reu,honda-click-xanh,honda-wave-xanh-dam-->"
       ],
       [
         "Ai thường thuê xe máy theo tháng",
@@ -311,7 +321,7 @@
     "sections": [
       [
         "Thuê xe máy Long Biên tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề",
-        "<p>Cửa hàng Thuê xe máy Nguyễn Hà nằm ở <strong>Ngõ 5 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên</strong>, gần Bến xe Gia Lâm. Khách ở Long Biên, Gia Lâm hoặc vừa xuống bến xe có thể nhận xe trực tiếp tại cửa hàng, mở cửa <strong>08:00–17:00 hằng ngày</strong>.</p><p>Gọi, Zalo hoặc WhatsApp <a href=\"tel:+84334699969\"><strong>0334 699 969</strong></a>, cho biết loại xe và số ngày muốn thuê để cửa hàng xác nhận xe còn sẵn và hẹn giờ. Có xe số, xe ga, xe máy điện và xe 50cc.</p>"
+        "<p>Cửa hàng Thuê xe máy Nguyễn Hà nằm ở <strong>Ngõ 5 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên</strong>, gần Bến xe Gia Lâm. Khách ở Long Biên, Gia Lâm hoặc vừa xuống bến xe có thể nhận xe trực tiếp tại cửa hàng, mở cửa <strong>08:00–17:00 hằng ngày</strong>.</p><p>Gọi, Zalo hoặc WhatsApp <a href=\"tel:+84334699969\"><strong>0334 699 969</strong></a>, cho biết loại xe và số ngày muốn thuê để cửa hàng xác nhận xe còn sẵn và hẹn giờ. Có xe số, xe ga, xe máy điện và xe 50cc.</p><!--photos:honda-vision-trang-truoc,honda-vision-trang-ben-->"
       ],
       [
         "Giá thuê xe máy ở Long Biên",
@@ -366,7 +376,13 @@
         "Không. Giá áp dụng theo bảng giá chung của cửa hàng: xe số, xe ga 150.000–200.000đ/ngày, xe 50cc 200.000đ/ngày."
       ]
     ],
-    "localBusiness": true
+    "localBusiness": true,
+    "image": {
+      "path": "/assets/photos/honda-vision-trang-truoc-lg.webp",
+      "alt": "Honda Vision màu trắng cho thuê, nhìn từ phía trước, đậu trong cửa hàng Thuê xe máy Nguyễn Hà",
+      "width": 960,
+      "height": 1280
+    }
   },
   {
     "url": "/thue-xe-may/hoan-kiem/",
@@ -474,14 +490,20 @@
       ],
       [
         "Những mẫu có thể hỏi",
-        "<p>Danh sách xe đã cung cấp gồm Honda Wave, Blade và Yamaha Sirius ở nhóm xe số; Honda Vision, Air Blade, Click, Lead và Yamaha Mio ở nhóm xe ga. Mẫu xe còn sẵn cần xác nhận trực tiếp với cửa hàng.</p>"
+        "<p>Danh sách xe đã cung cấp gồm Honda Wave, Blade và Yamaha Sirius ở nhóm xe số; Honda Vision, Air Blade, Click, Lead và Yamaha Mio ở nhóm xe ga. Mẫu xe còn sẵn cần xác nhận trực tiếp với cửa hàng.</p><p>Xe số và xe ga đang có tại cửa hàng (ảnh thật, biển số đã được che):</p><!--photos:honda-wave-alpha-trang,yamaha-sirius-do-den,honda-vision-trang-truoc,honda-click-do-truoc-->"
       ]
     ],
     "keywords": "Honda Yamaha Wave Sirius Vision Lead Air Blade Click xe số xe ga review so sánh",
     "parent": "/xe-may/",
     "kind": "article",
     "art": "02",
-    "tone": "black"
+    "tone": "black",
+    "image": {
+      "path": "/assets/photos/honda-wave-alpha-trang-lg.webp",
+      "alt": "Honda Wave Alpha màu trắng, xe số cho thuê",
+      "width": 960,
+      "height": 1001
+    }
   },
   {
     "url": "/xe-dien/pin-sac/",
@@ -724,7 +746,7 @@
     "sections": [
       [
         "Chọn Honda Vision theo việc bạn cần làm mỗi ngày",
-        "<p>Honda Vision là một mẫu xe ga bạn có thể hỏi khi thuê xe tại Nguyễn Hà. Để biết có phù hợp hay không, hãy bắt đầu từ nhu cầu: đi làm, đi học, mua sắm hay di chuyển giữa các khu vực tham quan. Cùng một mẫu xe nhưng tình trạng từng chiếc, cảm giác ngồi và thói quen điều khiển của người thuê có thể khác nhau.</p><p>Bài này hướng dẫn cách đánh giá Vision khi chọn xe thuê, không đưa ra thông số cho một đời xe chưa được xác định. Nếu cần hỏi giá và điều kiện nhận xe, bạn có thể xem <a href=\"/thue-xe-may/ha-noi/\">cẩm nang thuê xe máy Hà Nội</a> rồi trao đổi trực tiếp với cửa hàng về chiếc xe đang có.</p>"
+        "<p>Honda Vision là một mẫu xe ga bạn có thể hỏi khi thuê xe tại Nguyễn Hà. Để biết có phù hợp hay không, hãy bắt đầu từ nhu cầu: đi làm, đi học, mua sắm hay di chuyển giữa các khu vực tham quan. Cùng một mẫu xe nhưng tình trạng từng chiếc, cảm giác ngồi và thói quen điều khiển của người thuê có thể khác nhau.</p><p>Bài này hướng dẫn cách đánh giá Vision khi chọn xe thuê, không đưa ra thông số cho một đời xe chưa được xác định. Nếu cần hỏi giá và điều kiện nhận xe, bạn có thể xem <a href=\"/thue-xe-may/ha-noi/\">cẩm nang thuê xe máy Hà Nội</a> rồi trao đổi trực tiếp với cửa hàng về chiếc xe đang có.</p><p>Ảnh một số xe Honda Vision đang cho thuê tại cửa hàng Nguyễn Hà (biển số đã được che):</p><!--photos:honda-vision-trang-ben,honda-vision-xanh-reu,honda-vision-den-nham-ben,honda-vision-trang-sau-->"
       ],
       [
         "Làm quen với thao tác của xe ga",
@@ -776,6 +798,12 @@
     "kind": "article",
     "art": "V.",
     "tone": "white",
-    "wordCount": 1500
+    "wordCount": 1500,
+    "image": {
+      "path": "/assets/photos/honda-vision-den-nham-ben-lg.webp",
+      "alt": "Honda Vision màu đen nhám, ốp đỏ, nhìn ngang",
+      "width": 960,
+      "height": 794
+    }
   }
 ]
