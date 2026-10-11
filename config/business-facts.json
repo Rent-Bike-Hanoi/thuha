@@ -31,5 +31,9 @@
     "latitude": 21.0399392,
     "longitude": 105.8669657,
     "source": "Google Maps (hồ sơ do chủ site gửi, 11/10/2026)"
+  },
+  "fleet": {
+    "50cc": "3 xe: SYM Elite 50 màu xanh đen, xe ga 50cc màu trắng, xe Cub 50 (Cub mới mua lại, chưa có ảnh thật) (theo chủ cửa hàng, 10/2026)",
+    "xe điện": "có xe máy điện màu đen nhám (ảnh thật 10/2026); hãng xe chưa ghi lên site: chủ cửa hàng gọi là Yadea, tem trên xe ghi Tailg GRS6"
   }
 }
