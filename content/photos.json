@@ -1,5 +1,5 @@
 {
- "_note": "Ảnh xe thật của cửa hàng (chủ cửa hàng gửi, 10/2026). Biển số, người, biển số ô tô nền và mã QR đã được làm mờ; EXIF đã xoá. Ảnh có \"illustration\": true không phải xe của cửa hàng: phải ghi nguồn trong \"credit\" (author bắt buộc; url, license nếu có) và không đưa vào schema LocalBusiness. \"wide\": true cho ảnh ngang 4:3, chiếm 2 cột trong lưới. Chèn vào bài bằng <!--photos:id1,id2-->.",
+ "_note": "Ảnh xe thật của cửa hàng (chủ cửa hàng gửi hoặc lấy từ hồ sơ Google Maps của cửa hàng, 10/2026). Biển số, người, biển số ô tô nền và mã QR đã được làm mờ; EXIF đã xoá. Ảnh có \"illustration\": true không phải xe của cửa hàng: phải ghi nguồn trong \"credit\" (author bắt buộc; url, license nếu có) và không đưa vào schema LocalBusiness. \"wide\": true cho ảnh ngang 4:3, chiếm 2 cột trong lưới. Chèn vào bài bằng <!--photos:id1,id2-->.",
  "photos": [
   {
    "id": "honda-vision-trang-truoc",
@@ -178,17 +178,17 @@
    }
   },
   {
-   "id": "xe-tay-ga-den",
-   "alt": "Xe tay ga màu đen, nhìn từ phía trước",
-   "caption": "Xe tay ga đen",
+   "id": "honda-vision-den-co-y",
+   "alt": "Honda Vision màu đen, tem cờ Ý trên mặt nạ, nhìn từ phía trước",
+   "caption": "Honda Vision đen, tem cờ Ý",
    "type": "xe ga",
    "sm": {
-    "src": "/assets/photos/xe-tay-ga-den-sm.webp",
+    "src": "/assets/photos/honda-vision-den-co-y-sm.webp",
     "width": 480,
     "height": 640
    },
    "lg": {
-    "src": "/assets/photos/xe-tay-ga-den-lg.webp",
+    "src": "/assets/photos/honda-vision-den-co-y-lg.webp",
     "width": 960,
     "height": 1280
    }
@@ -293,6 +293,39 @@
     "src": "/assets/photos/cub-50cc-minh-hoa-lg.webp",
     "width": 960,
     "height": 720
+   }
+  },
+  {
+   "id": "honda-vision-trang-yen-nau",
+   "alt": "Honda Vision màu trắng, yên nâu, đỗ trên vỉa hè, nhìn chéo phía trước",
+   "caption": "Honda Vision trắng nhìn chéo",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-trang-yen-nau-sm.webp",
+    "width": 480,
+    "height": 543
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-trang-yen-nau-lg.webp",
+    "width": 750,
+    "height": 849
+   }
+  },
+  {
+   "id": "honda-wave-xam-den",
+   "alt": "Honda Wave màu xám đen, nhìn ngang bên trái",
+   "caption": "Honda Wave xám đen",
+   "type": "xe số",
+   "wide": true,
+   "sm": {
+    "src": "/assets/photos/honda-wave-xam-den-sm.webp",
+    "width": 480,
+    "height": 343
+   },
+   "lg": {
+    "src": "/assets/photos/honda-wave-xam-den-lg.webp",
+    "width": 713,
+    "height": 509
    }
   }
  ]
