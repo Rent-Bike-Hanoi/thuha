@@ -241,6 +241,23 @@ def post_nav(p):
  if not prev and not nxt:return ''
  link=lambda q,cls,label:f'<a class="post-nav-link {cls}" href="{q["url"]}" rel="{"prev" if cls=="prev" else "next"}"><small>{label}</small><span>{E(q["title"])}</span></a>' if q else '<span></span>'
  return f'<nav class="post-nav" aria-label="Bài viết trước và sau">{link(prev,"prev","← Bài trước")}{link(nxt,"next","Bài tiếp theo →")}</nav>'
+# Service pages matched to an article's place, vehicle or rental length, so that
+# relevant articles link to the matching rental page with a descriptive anchor.
+# Order is priority (place, then vehicle, then duration); at most two links,
+# never the article itself or a page its body already links to.
+SERVICE_LINKS=[
+ ('/thue-xe-may/long-bien/','Thuê xe máy Long Biên gần Bến xe Gia Lâm',('long biên','long-bien','gia lâm','gia-lam','bồ đề','bo-de')),
+ ('/thue-xe-may/hoan-kiem/','Thuê xe máy Hoàn Kiếm và Phố Cổ',('hoàn kiếm','hoan-kiem','phố cổ hà nội','/ha-noi/pho-co/')),
+ ('/thue-xe-dien/ha-noi/','Thuê xe máy điện Hà Nội',('xe điện','xe-dien','vinfast')),
+ ('/thue-xe-50cc/ha-noi/','Thuê xe máy 50cc Hà Nội',('50cc',)),
+ ('/thue-xe-may/ha-noi/theo-thang/','Thuê xe máy theo tháng Hà Nội',('theo tháng','theo-thang','dài hạn','dai-han')),
+ ('/thue-xe-may/ha-noi/theo-ngay/','Thuê xe máy Hà Nội theo ngày và tuần',('theo ngày','theo-ngay','theo tuần','theo-tuan','trong ngày','cuối tuần','day-trip','ngày 1 đêm','ngày 2 đêm','ngày 3 đêm')),
+]
+def service_nav(p,sections_html):
+ text=' '.join([p['url'],p['title'],p.get('intent',''),p.get('keywords','')]).lower()
+ picks=[(u,a) for u,a,keys in SERVICE_LINKS if u!=p['url'] and f'href="{u}"' not in sections_html and any(k in text for k in keys)][:2]
+ if not picks:return ''
+ return '<nav class="post-nav" aria-label="Dịch vụ thuê xe liên quan">'+''.join(f'<a class="post-nav-link" href="{u}"><small>Dịch vụ liên quan</small><span>{E(a)}</span></a>' for u,a in picks)+'</nav>'
 for p in P:
  par=lookup.get(p['parent']);hub=next(h for h in NAV if h['slug']==p['hub'])
  crumbs='<a href="/">Trang chủ</a><span>/</span><a href="'+hub['url']+'">'+E(hub['label'])+'</a>'
@@ -311,6 +328,7 @@ for p in P:
   cta_block=T.render_conditional_cta(p['hub'])
   author_block=T.render_author_box(AUTHOR_NAME,AUTHOR_URL)
   nav_block=post_nav(p)
+  service_block=service_nav(p,sections)
   related_block=T.PARTIAL_RELATED_POSTS.format(related_cards_html=''.join(card(q) for q in related)) if related else ''
   pub_display=p['publish_display'];pub_iso=p['publish_iso']
   mod_display=p['modified_display'];mod_iso=p['modified_iso']
@@ -320,7 +338,7 @@ for p in P:
   else:
    dates_html=f'Cập nhật <time datetime="{mod_iso}">{mod_display}</time>'
   byline=f'<span class="meta"><a href="{AUTHOR_URL}" rel="author">{E(AUTHOR_NAME)}</a> · {dates_html}</span>'
-  page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><p class="eyebrow">{E(hub["label"])}</p><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p>{byline}</header><div class="article-layout"><article class="article-body">{sections}{cta_block}{author_block}{nav_block}<p><a href="{p["parent"]}">Về {E(par["title"] if par else hub["label"])}</a></p></article><aside class="article-aside">{aside}</aside></div>{related_block}'
+  page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><p class="eyebrow">{E(hub["label"])}</p><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p>{byline}</header><div class="article-layout"><article class="article-body">{sections}{service_block}{cta_block}{author_block}{nav_block}<p><a href="{p["parent"]}">Về {E(par["title"] if par else hub["label"])}</a></p></article><aside class="article-aside">{aside}</aside></div>{related_block}'
  bc=[{'@type':'ListItem','position':1,'name':'Trang chủ','item':S['url']+'/'}]
  if p['kind'] not in ['hub','page']:bc.append({'@type':'ListItem','position':2,'name':hub['label'],'item':S['url']+hub['url']})
  bc.append({'@type':'ListItem','position':len(bc)+1,'name':p['title'],'item':S['url']+p['url']})
