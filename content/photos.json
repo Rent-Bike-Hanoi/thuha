@@ -1,5 +1,5 @@
 {
- "_note": "Ảnh xe thật của cửa hàng (chủ cửa hàng gửi, 10/2026). Biển số, người, biển số ô tô nền và mã QR đã được làm mờ; EXIF đã xoá. Ảnh có \"illustration\": true không phải xe của cửa hàng: phải có \"credit\" (tác giả, nguồn, giấy phép) và không đưa vào schema LocalBusiness. \"wide\": true cho ảnh ngang 4:3, chiếm 2 cột trong lưới. Chèn vào bài bằng <!--photos:id1,id2-->.",
+ "_note": "Ảnh xe thật của cửa hàng (chủ cửa hàng gửi, 10/2026). Biển số, người, biển số ô tô nền và mã QR đã được làm mờ; EXIF đã xoá. Ảnh có \"illustration\": true không phải xe của cửa hàng: phải ghi nguồn trong \"credit\" (author bắt buộc; url, license nếu có) và không đưa vào schema LocalBusiness. \"wide\": true cho ảnh ngang 4:3, chiếm 2 cột trong lưới. Chèn vào bài bằng <!--photos:id1,id2-->.",
  "photos": [
   {
    "id": "honda-vision-trang-truoc",
@@ -258,35 +258,31 @@
    }
   },
   {
-   "id": "xe-may-dien-den",
-   "alt": "Xe máy điện màu đen nhám, nhìn từ trên xuống bên hông",
-   "caption": "Xe máy điện đen nhám",
+   "id": "xe-may-dien-tailg-den",
+   "alt": "Xe máy điện Tailg màu đen nhám, nhìn từ trên xuống bên hông",
+   "caption": "Xe máy điện Tailg đen nhám",
    "type": "xe điện",
    "wide": true,
    "sm": {
-    "src": "/assets/photos/xe-may-dien-den-sm.webp",
+    "src": "/assets/photos/xe-may-dien-tailg-den-sm.webp",
     "width": 480,
     "height": 360
    },
    "lg": {
-    "src": "/assets/photos/xe-may-dien-den-lg.webp",
+    "src": "/assets/photos/xe-may-dien-tailg-den-lg.webp",
     "width": 960,
     "height": 720
    }
   },
   {
    "id": "cub-50cc-minh-hoa",
-   "alt": "Ảnh minh hoạ kiểu xe Cub 50cc: xe Honda Cub 50 đời 1965 màu đen trắng trong bảo tàng",
-   "caption": "Kiểu xe Cub 50cc (không phải ảnh xe tại cửa hàng).",
+   "alt": "Ảnh minh hoạ xe Cub 50cc Motor Thái màu xanh đen, yên nâu, nhìn chéo bên trái",
+   "caption": "Kiểu xe Cub 50cc, ảnh minh hoạ (không phải ảnh chụp xe tại cửa hàng).",
    "type": "50cc",
    "wide": true,
    "illustration": true,
    "credit": {
-    "author": "TaurusEmerald, Wikimedia Commons",
-    "url": "https://commons.wikimedia.org/wiki/File:1965_Honda_Cub_50_Lane_Motor_Museum.jpg",
-    "license": "CC BY-SA 4.0",
-    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/deed.vi",
-    "changes": "đã cắt và thu nhỏ"
+    "author": "ảnh sản phẩm xe Motor Thái"
    },
    "sm": {
     "src": "/assets/photos/cub-50cc-minh-hoa-sm.webp",

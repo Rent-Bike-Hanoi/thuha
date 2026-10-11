@@ -166,14 +166,16 @@ def header(): return T.render_header(TOP_LINKS, NAV)
 def footer(): return T.render_footer(TOP_LINKS, NAV, CONTACT)
 # Real shop photos (content/photos.json).  Articles embed them with
 # <!--photos:id1,id2--> so alt text, captions and sizes live in one file.
-# A photo marked "illustration" is not of the shop's own bike: it must carry a
-# licence credit, is captioned as such and never enters the LocalBusiness schema.
+# A photo marked "illustration" is not of the shop's own bike: it must name its
+# source in "credit", is captioned as such and never enters the LocalBusiness schema.
 PHOTOS={x['id']:x for x in json.loads((ROOT/'content/photos.json').read_text())['photos']} if (ROOT/'content/photos.json').exists() else {}
 for x in PHOTOS.values():
- if x.get('illustration') and not all((x.get('credit') or {}).get(k) for k in ('author','url','license','license_url')):raise SystemExit('Illustration photo without licence credit: '+x['id'])
+ if x.get('illustration') and not (x.get('credit') or {}).get('author'):raise SystemExit('Illustration photo without source credit: '+x['id'])
 FACTS=json.loads((ROOT/'config/business-facts.json').read_text())
+def ext_link(text,url): return f'<a href="{E(url,quote=True)}" target="_blank" rel="noopener noreferrer">{E(text)}</a>' if url else E(text)
 def photo_credit(c):
- return f' Ảnh minh hoạ: <a href="{E(c["url"],quote=True)}" target="_blank" rel="noopener noreferrer">{E(c["author"])}</a>, <a href="{E(c["license_url"],quote=True)}" target="_blank" rel="noopener noreferrer">{E(c["license"])}</a>{", "+E(c["changes"]) if c.get("changes") else ""}.'
+ parts=[ext_link(c['author'],c.get('url'))]+([ext_link(c['license'],c.get('license_url'))] if c.get('license') else [])+([E(c['changes'])] if c.get('changes') else [])
+ return ' Nguồn: '+', '.join(parts)+'.'
 def photo_gallery(ids):
  out=[]
  for i in ids:
