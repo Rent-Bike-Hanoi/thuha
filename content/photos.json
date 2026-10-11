@@ -1,0 +1,245 @@
+{
+ "_note": "Ảnh xe thật của cửa hàng (chủ cửa hàng gửi, đợt 1, 10/2026). Biển số, người và biển số ô tô nền đã được làm mờ; EXIF đã xoá. Chèn vào bài bằng <!--photos:id1,id2-->.",
+ "photos": [
+  {
+   "id": "honda-vision-trang-truoc",
+   "alt": "Honda Vision màu trắng cho thuê, nhìn từ phía trước, đậu trong cửa hàng Thuê xe máy Nguyễn Hà",
+   "caption": "Honda Vision trắng",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-trang-truoc-sm.webp",
+    "width": 480,
+    "height": 640
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-trang-truoc-lg.webp",
+    "width": 960,
+    "height": 1280
+   }
+  },
+  {
+   "id": "honda-vision-trang-sau",
+   "alt": "Honda Vision màu trắng, yên nâu, nhìn từ phía sau; biển số đã được che",
+   "caption": "Honda Vision trắng, yên nâu",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-trang-sau-sm.webp",
+    "width": 480,
+    "height": 640
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-trang-sau-lg.webp",
+    "width": 960,
+    "height": 1280
+   }
+  },
+  {
+   "id": "honda-vision-trang-ben",
+   "alt": "Honda Vision màu trắng nhìn ngang, sàn để chân và yên màu nâu",
+   "caption": "Honda Vision trắng nhìn ngang",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-trang-ben-sm.webp",
+    "width": 480,
+    "height": 640
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-trang-ben-lg.webp",
+    "width": 960,
+    "height": 1280
+   }
+  },
+  {
+   "id": "honda-vision-xanh-reu",
+   "alt": "Honda Vision màu xanh rêu đậm, yên nâu, nhìn ngang",
+   "caption": "Honda Vision xanh rêu",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-xanh-reu-sm.webp",
+    "width": 480,
+    "height": 640
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-xanh-reu-lg.webp",
+    "width": 960,
+    "height": 1280
+   }
+  },
+  {
+   "id": "honda-vision-den-nham-ben",
+   "alt": "Honda Vision màu đen nhám, ốp đỏ, nhìn ngang",
+   "caption": "Honda Vision đen nhám",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-den-nham-ben-sm.webp",
+    "width": 480,
+    "height": 397
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-den-nham-ben-lg.webp",
+    "width": 960,
+    "height": 794
+   }
+  },
+  {
+   "id": "honda-vision-den-nham-truoc",
+   "alt": "Honda Vision màu đen nhám, phanh đĩa trước, nhìn chéo từ phía trước",
+   "caption": "Honda Vision đen nhám",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-vision-den-nham-truoc-sm.webp",
+    "width": 480,
+    "height": 408
+   },
+   "lg": {
+    "src": "/assets/photos/honda-vision-den-nham-truoc-lg.webp",
+    "width": 960,
+    "height": 816
+   }
+  },
+  {
+   "id": "honda-click-do-truoc",
+   "alt": "Honda Click màu đỏ cho thuê, nhìn từ phía trước",
+   "caption": "Honda Click đỏ",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-click-do-truoc-sm.webp",
+    "width": 422,
+    "height": 916
+   },
+   "lg": {
+    "src": "/assets/photos/honda-click-do-truoc-lg.webp",
+    "width": 590,
+    "height": 1280
+   }
+  },
+  {
+   "id": "honda-click-do-ben",
+   "alt": "Honda Click màu đỏ nhìn chéo, đậu trên vỉa hè",
+   "caption": "Honda Click đỏ",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-click-do-ben-sm.webp",
+    "width": 480,
+    "height": 853
+   },
+   "lg": {
+    "src": "/assets/photos/honda-click-do-ben-lg.webp",
+    "width": 844,
+    "height": 1500
+   }
+  },
+  {
+   "id": "honda-click-xanh",
+   "alt": "Honda Click màu xanh nhạt, nhìn từ phía trước",
+   "caption": "Honda Click xanh",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-click-xanh-sm.webp",
+    "width": 371,
+    "height": 805
+   },
+   "lg": {
+    "src": "/assets/photos/honda-click-xanh-lg.webp",
+    "width": 519,
+    "height": 1126
+   }
+  },
+  {
+   "id": "honda-air-blade-do-den",
+   "alt": "Honda Air Blade màu đỏ đen, nhìn ngang",
+   "caption": "Honda Air Blade đỏ đen",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/honda-air-blade-do-den-sm.webp",
+    "width": 480,
+    "height": 853
+   },
+   "lg": {
+    "src": "/assets/photos/honda-air-blade-do-den-lg.webp",
+    "width": 960,
+    "height": 1707
+   }
+  },
+  {
+   "id": "sym-xe-ga-xanh-den",
+   "alt": "Xe tay ga SYM màu xanh đen nhám, đèn pha tròn",
+   "caption": "Xe ga SYM xanh đen",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/sym-xe-ga-xanh-den-sm.webp",
+    "width": 422,
+    "height": 916
+   },
+   "lg": {
+    "src": "/assets/photos/sym-xe-ga-xanh-den-lg.webp",
+    "width": 590,
+    "height": 1280
+   }
+  },
+  {
+   "id": "xe-tay-ga-den",
+   "alt": "Xe tay ga màu đen, nhìn từ phía trước",
+   "caption": "Xe tay ga đen",
+   "type": "xe ga",
+   "sm": {
+    "src": "/assets/photos/xe-tay-ga-den-sm.webp",
+    "width": 480,
+    "height": 640
+   },
+   "lg": {
+    "src": "/assets/photos/xe-tay-ga-den-lg.webp",
+    "width": 960,
+    "height": 1280
+   }
+  },
+  {
+   "id": "honda-wave-alpha-trang",
+   "alt": "Honda Wave Alpha màu trắng, xe số cho thuê",
+   "caption": "Honda Wave Alpha trắng",
+   "type": "xe số",
+   "sm": {
+    "src": "/assets/photos/honda-wave-alpha-trang-sm.webp",
+    "width": 480,
+    "height": 500
+   },
+   "lg": {
+    "src": "/assets/photos/honda-wave-alpha-trang-lg.webp",
+    "width": 960,
+    "height": 1001
+   }
+  },
+  {
+   "id": "honda-wave-xanh-dam",
+   "alt": "Honda Wave màu xanh đậm, xe số có phanh đĩa trước",
+   "caption": "Honda Wave xanh đậm",
+   "type": "xe số",
+   "sm": {
+    "src": "/assets/photos/honda-wave-xanh-dam-sm.webp",
+    "width": 480,
+    "height": 545
+   },
+   "lg": {
+    "src": "/assets/photos/honda-wave-xanh-dam-lg.webp",
+    "width": 960,
+    "height": 1090
+   }
+  },
+  {
+   "id": "yamaha-sirius-do-den",
+   "alt": "Yamaha Sirius màu đỏ đen, xe số cho thuê",
+   "caption": "Yamaha Sirius đỏ đen",
+   "type": "xe số",
+   "sm": {
+    "src": "/assets/photos/yamaha-sirius-do-den-sm.webp",
+    "width": 480,
+    "height": 640
+   },
+   "lg": {
+    "src": "/assets/photos/yamaha-sirius-do-den-lg.webp",
+    "width": 742,
+    "height": 989
+   }
+  }
+ ]
+}
