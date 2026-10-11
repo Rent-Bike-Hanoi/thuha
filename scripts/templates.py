@@ -38,7 +38,8 @@ ICON_PATH = {
     'phone': '<path d="M7 3H4a1 1 0 0 0-1 1c0 9.4 7.6 17 17 17a1 1 0 0 0 1-1v-3l-5-2-2 2a13 13 0 0 1-7-7l2-2-2-5Z"/>',
     'send': '<path d="m12 19 0-14M6 11l6-6 6 6"/>',
     'refresh': '<path d="M20 7v5h-5M4 17v-5h5"/><path d="M6 7a7 7 0 0 1 12-1l2 3M4 15l2 3a7 7 0 0 0 12-1"/>',
-    'arrow_up': '<path d="m18 15-6-6-6 6"/>'
+    'arrow_up': '<path d="m18 15-6-6-6 6"/>',
+    'search': '<circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/>'
 }
 
 def icon(n):
@@ -67,7 +68,16 @@ def render_header(top_links, hubs):
         for h in hubs
     )
 
+    search_on = feat.get('enable_search', True)
+    search_btn = f'<button id="search-toggle" class="icon-btn" aria-label="Tìm kiếm trong blog" aria-expanded="false" aria-controls="search-panel">{icon("search")}</button>' if search_on else ''
+    search_panel = ('<section class="search-panel" id="search-panel" role="dialog" aria-label="Tìm kiếm trong blog" hidden>'
+                    '<form class="search-form" role="search" id="search-form"><label class="sr-only" for="search-input">Tìm kiếm</label>'
+                    '<input id="search-input" type="search" placeholder="Tìm bài viết: thuê xe 50cc, bảng giá, Phố Cổ…" autocomplete="off" enterkeyhint="search">'
+                    f'<button type="button" id="search-close" class="icon-btn" aria-label="Đóng tìm kiếm">{icon("close")}</button></form>'
+                    '<p class="search-status" id="search-status" aria-live="polite"></p><ol class="search-results" id="search-results"></ol></section>') if search_on else ''
     return PARTIAL_HEADER.format(
+        search_toggle_html=search_btn,
+        search_panel_html=search_panel,
         brand_mark=E(SITE_CFG.get('site', {}).get('brand_mark', 'n.')),
         site_name=E(SITE_INFO['name']),
         brand_sub=E(SITE_CFG.get('site', {}).get('brand_sub', 'JOURNAL · HÀ NỘI')),
@@ -167,10 +177,20 @@ def render_conditional_cta(hub_slug):
         cta_secondary_text=secondary_text
     )
 
-def render_author_box():
+def render_author_box(author_name, author_url):
+    # One shared source: content/site.json + config/site-config.json (business).
+    if not SITE_CFG.get('features', {}).get('enable_author_box', True):
+        return ''
+    biz = SITE_CFG.get('business', {})
     return PARTIAL_AUTHOR_BOX.format(
-        brand_mark=E(SITE_CFG.get('site', {}).get('brand_mark', 'n.')),
-        site_name=E(SITE_INFO['name'])
+        author_name=E(author_name),
+        author_url=author_url,
+        site_name=E(SITE_INFO['name']),
+        business_address=E(SITE_INFO['address']),
+        business_hours=E(SITE_INFO['hours']),
+        business_phone=E(SITE_INFO['phone']),
+        business_phone_clean=SITE_INFO['phone'].replace(' ', ''),
+        zalo_url=E(biz.get('zalo', 'https://zalo.me/' + SITE_INFO['phone'].replace(' ', '')))
     )
 
 def render_pagination(base_url, current_page, total_pages):
