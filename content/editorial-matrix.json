@@ -36857,6 +36857,33 @@
     "status": "published"
   },
   {
+    "title": "Bình ắc quy xe máy bao lâu thay? Dấu hiệu ắc quy yếu",
+    "keyword": "bình ắc quy xe máy bao lâu thay, dấu hiệu ắc quy xe máy yếu, ắc quy xe máy không cần bảo dưỡng, xe máy đề yếu, ắc quy xe máy 12v 5ah",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/binh-ac-quy-xe-may-bao-lau-thay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Lốp xe máy bao lâu thay? Dấu hiệu lốp mòn cần thay",
+    "keyword": "lốp xe máy bao lâu thay, dấu hiệu lốp xe máy mòn, độ sâu gai lốp tối thiểu xe máy, twi lốp xe máy, lốp xe máy mòn đến đâu thì thay",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/lop-xe-may-bao-lau-thay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Dây curoa xe ga bao lâu thay? Dấu hiệu và chi phí",
+    "keyword": "dây curoa xe ga bao lâu thay, dây đai xe ga bao lâu thay, dấu hiệu dây curoa xe ga bị mòn, thay dây curoa air blade, xe ga bị giật khi tăng ga dây curoa",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/day-curoa-xe-ga-bao-lau-thay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
     "title": "Nước làm mát xe máy bao lâu thay? Xe nào có két nước",
     "keyword": "nước làm mát xe máy bao lâu thay, xe máy nào làm mát bằng dung dịch, châm nước làm mát xe máy, dung dịch làm mát honda, két nước xe máy, bình nước phụ xe ga",
     "hub": "bao-duong",
@@ -36889,6 +36916,24 @@
     "hub": "bao-duong",
     "pillar": "/bao-duong/",
     "url": "/bao-duong/rua-xe-may-tai-nha-dung-cach/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Thay lọc gió xe máy bao lâu một lần? Dấu hiệu lọc gió bẩn",
+    "keyword": "thay lọc gió xe máy bao lâu, lọc gió xe máy bao lâu thay, dấu hiệu lọc gió xe máy bẩn, lọc gió xe máy có vệ sinh được không, lọc gió ai xe wave",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xăng E5 hay A95 cho xe máy? Đổ xăng nào đúng",
+    "keyword": "xăng e5 hay a95 cho xe máy, xe máy đổ xăng e5 có sao không, xăng ron 92 hay 95 cho xe máy, honda khuyên dùng xăng gì, xăng pha ethanol xe máy",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/xang-e5-hay-a95-cho-xe-may/",
     "priority": "P1",
     "status": "published"
   },
@@ -37001,6 +37046,15 @@
     "status": "published"
   },
   {
+    "title": "Xe máy điện đi được bao nhiêu km một lần sạc? Số liệu nhà sản xuất",
+    "keyword": "xe máy điện đi được bao nhiêu km, quãng đường xe máy điện một lần sạc, xe máy điện đi được bao xa, xe máy điện đi làm có đủ pin không, quãng đường thực tế xe máy điện",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
     "title": "Honda Vision 2026: thông số, giá niêm yết và phù hợp với ai",
     "keyword": "honda vision, honda vision 2026 giá bao nhiêu, thông số kỹ thuật honda vision 2026, honda vision 2026 có mấy phiên bản, giá xe vision 2026 niêm yết",
     "hub": "xe-may",
@@ -37015,6 +37069,15 @@
     "hub": "xe-may",
     "pillar": "/xe-may/",
     "url": "/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Sirius hay Honda Wave Alpha: xe số nào hợp túi tiền",
+    "keyword": "yamaha sirius hay honda wave alpha, so sánh sirius và wave alpha, sirius fi hay wave alpha tiết kiệm xăng, giá wave alpha 2026, giá sirius fi 2026",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-sirius-hay-honda-wave-alpha/",
     "priority": "P1",
     "status": "published"
   }
