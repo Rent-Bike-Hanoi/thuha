@@ -36821,6 +36821,15 @@
     "status": "published"
   },
   {
+    "title": "Bảo hiểm xe máy tự nguyện có cần mua không? Khác gì bảo hiểm bắt buộc",
+    "keyword": "bảo hiểm xe máy tự nguyện, bảo hiểm tai nạn người ngồi trên xe máy, bảo hiểm vật chất xe máy có cần không, bảo hiểm tự nguyện khác bảo hiểm bắt buộc, có nên mua bảo hiểm xe máy tự nguyện",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/bao-hiem-xe-may-tu-nguyen-co-can-mua-khong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
     "title": "Đua xe trái phép xe máy phạt bao nhiêu? Cổ vũ đua xe",
     "keyword": "đua xe trái phép phạt bao nhiêu, cổ vũ đua xe trái phép phạt bao nhiêu, tổ chức đua xe trái phép phạt bao nhiêu, đua xe máy có bị tịch thu xe không, tụ tập cổ vũ đua xe",
     "hub": "luat-giao-thong",
@@ -37015,6 +37024,33 @@
     "hub": "bao-duong",
     "pillar": "/bao-duong/",
     "url": "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Mai Châu bằng xe máy bao nhiêu km? Đèo Thung Khe",
+    "keyword": "hà nội đi mai châu bằng xe máy, hà nội mai châu bao nhiêu km, đèo thung khe đi xe máy, phượt mai châu bản lác 2 ngày 1 đêm, đường đi mai châu quốc lộ 6",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Yên Tử bằng xe máy bao nhiêu km, đi đường nào",
+    "keyword": "hà nội đi yên tử bằng xe máy, hà nội yên tử bao nhiêu km, đi yên tử bằng xe máy quốc lộ 18, yên tử miễn phí tham quan, đường vào yên tử từ quốc lộ 18",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Đường Lâm bằng xe máy bao nhiêu km, gửi xe ở đâu",
+    "keyword": "hà nội đi đường lâm bằng xe máy, làng cổ đường lâm cách hà nội bao nhiêu km, gửi xe máy làng cổ đường lâm, vé tham quan làng cổ đường lâm, đi đường lâm trong ngày",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
     "priority": "P1",
     "status": "published"
   },
