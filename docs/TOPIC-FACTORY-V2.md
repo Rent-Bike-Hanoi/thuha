@@ -101,22 +101,36 @@ Discover → Validate → Deduplicate → Approve → Queue → Writers (3) → 
 ```
 
 ```sh
+# Chọn chủ đề (scripts/topic_matrix.py)
 python3 scripts/topic_matrix.py sync                                   # dẫn xuất bài đã xuất bản, cập nhật chỉ mục tăng dần (sha256)
 python3 scripts/topic_matrix.py discover data/seeds/<lo>.jsonl [--dry-run] [--update]
 python3 scripts/topic_matrix.py validate                               # exit 1 nếu hàng đã duyệt vi phạm cổng
 python3 scripts/topic_matrix.py approve TM-00017 --by "Nguyễn Hà" --note "..." [--override "lý do"]
 python3 scripts/topic_matrix.py set TM-00085 --lifecycle REJECTED --reason "ngoài dịch vụ" --by "Nguyễn Hà"
-python3 scripts/topic_matrix.py next --writer writer-1 --n 3 [--hub luat-giao-thong]   # APPROVED → WRITING, in brief
-python3 scripts/topic_matrix.py check-article content/articles/v2/<file>.json --topic TM-00017
-python3 scripts/topic_matrix.py set TM-00017 --lifecycle QA ; ... --lifecycle PUBLISHED --url /luat-giao-thong/.../
 python3 scripts/topic_matrix.py audit --slots 300 ; status ; export --csv reports/topic-matrix.csv
+
+# Đường xuất bản (scripts/factory_v2.py — điều phối viên duy nhất)
+python3 scripts/factory_v2.py queue --writer writer-1 --n 3 [--hub luat-giao-thong] [--topic TM-00017]
+        # APPROVED → WRITING; ghi brief content/drafts/TM-00017.brief.json (chủ đề, bằng chứng, luật viết, khuôn nháp)
+#   writer viết nháp content/drafts/TM-00017.json theo khuôn (id = topic_id, url/hub như ma trận, factoryVersion 2, sources)
+python3 scripts/factory_v2.py qa TM-00017            # QA phạm vi hẹp; đạt → QA, không đạt → vẫn WRITING kèm lý do
+python3 scripts/factory_v2.py publish TM-00017 --by "Nguyễn Hà"
+        # QA lại (fail-closed) → content/articles/TM-00017.json (factoryVersion 2) → nhật ký data/factory-queue.jsonl (append-only)
+        # → content_factory reindex → hàng PUBLISHED → sync chỉ mục trùng lặp. Nháp không đạt chỉ được ghi vào nhật ký, không vào nguồn bài.
+python3 scripts/factory_v2.py publish --all --unattended --by github-actions   # chế độ không giám sát: tôn trọng STOP_FACTORY, v2.enabled, max_publish_per_run
+python3 scripts/factory_v2.py status
+python3 scripts/build.py && python3 scripts/validate_factory_site.py   # shard V2 được index, vào sitemap-posts.xml và chỉ mục tìm kiếm
 ```
 
 - `discover` là idempotent: seed có cùng khoá từ khoá với hàng đã có thì bị bỏ qua (được liệt kê trong `skipped`); `--update` chỉ làm mới trường nghiên cứu
   (bằng chứng, information_gain, outline, ghi chú) của hàng PLANNED/RESEARCH **cùng tiêu đề**; không chạm hàng đã duyệt hay đã loại.
-- Một điều phối viên duy nhất ghi ma trận: lệnh CLI chạy tuần tự; khi lên GitHub Actions dùng `concurrency` như xưởng V1. Writer chỉ đọc brief từ `next`.
-- `set ... REJECTED` gỡ hàng khỏi chỉ mục ngay để không chặn ứng viên khác; `validate` sau đó cập nhật lại phân loại các hàng chưa duyệt.
-- Hàng chỉ được PUBLISHED khi URL đã tồn tại trong `content/posts.json` hoặc `content/articles/`; nháp không bao giờ vào sitemap vì build chỉ đọc nguồn bài.
+- Một điều phối viên duy nhất ghi ma trận và nguồn bài: lệnh CLI chạy tuần tự; trên GitHub Actions (`.github/workflows/topic-factory-v2.yml`)
+  cùng nhóm `concurrency` với xưởng V1. Writer chỉ đọc brief và viết nháp; writer không gọi `approve`, không đổi vòng đời, không ghi vào `content/articles/`.
+- Ba writer = ba hàng đợi (`writer-1..3` trong `config/content-factory.json` → `v2.writers`); hiện writer là phiên Claude Code của routine viết bài hằng ngày
+  hoặc chủ cửa hàng — không có API AI hay template trong repo (AGENTS.md).
+- `set ... REJECTED` gỡ hàng khỏi chỉ mục ngay để không chặn ứng viên khác; hàng PUBLISHED do bài nguồn (`PUB-…`) đại diện; `validate` sau đó cập nhật lại phân loại các hàng chưa duyệt.
+- Hàng chỉ được PUBLISHED khi URL đã tồn tại trong `content/posts.json` hoặc `content/articles/`; `content/drafts/` không phải nguồn bài — build, sitemap, chỉ mục tìm kiếm không đọc.
+- `build.py`/`validate_factory_site.py`: cờ `noindex_factory_articles` chỉ còn áp dụng cho shard `factoryVersion < 2`; shard V2 được index trừ khi có trong `config/factory-noindex.json`.
 
 ## 7. Năng lực mở rộng và kiến trúc index cho 40.000 URL
 
@@ -143,15 +157,15 @@ Kiến trúc index (áp dụng dần theo mục 8, không tự động):
 5. **Không noindex tự động**: quyết định noindex/redirect cho bài V1 chỉ sau audit (`legacy_overlap`, GSC) và được chủ cửa hàng duyệt.
 6. **Đánh giá index bằng Search Console**: báo cáo hằng tuần (routine thứ Hai) + `inspect_urls` theo lô ≤ 5 URL; chủ đề chỉ được coi là "thành công" khi URL được index và có hiển thị, không phải khi xuất bản.
 
-## 8. Kế hoạch migration — chờ phê duyệt (chưa làm gì ở production)
+## 8. Migration: đã làm gì, còn gì chờ phê duyệt
 
-| Bước | Thay đổi | Rủi ro / rollback |
-|---|---|---|
-| M1 | Nối writer vào ma trận: `content_factory.py` thay bộ lập kế hoạch hoán vị bằng `topic_matrix.next` (chỉ APPROVED); writer phải tạo JSON bài theo brief và qua `check-article` trước khi vào hàng đợi QA. Writer template V1 bị nghỉ hưu. | Thêm mã, không đổi bài cũ; rollback = bỏ nhánh |
-| M2 | Nguồn bài V2: `content/articles/v2/*.json` với `factoryVersion: 2`; `build.py` chỉ noindex shard `factoryVersion < 2` (thay cho `noindex_factory_articles` toàn cục); `reindex` như cũ. | Phải sửa `build.py` + `validate_factory_site.py`; rollback = xoá thư mục v2 và trả cờ cũ |
-| M3 | Tách sitemap theo hub khi vượt ngưỡng (mục 7.2). | Chỉ khi cần; rollback = một sitemap-pages.xml |
-| M4 | Xử lý 3.337 bài V1 noindex: giữ nguyên; chỉ sau khi bài mới cùng intent đã index ổn định mới cân nhắc redirect 301 theo `legacy_overlap`, từng hub một, có bảng đối chiếu để duyệt. | Không làm trong PR này |
-| M5 | Lịch chạy: GitHub Actions hằng ngày `sync → validate → next (≤ N) → QA`, `concurrency` một luồng, dừng bằng `STOP_FACTORY`. | Rollback = tắt workflow |
+| Bước | Trạng thái | Thay đổi | Rollback |
+|---|---|---|---|
+| M1 | **Đã làm** | Writer nhận chủ đề từ ma trận qua `factory_v2.py queue` (chỉ APPROVED); nháp phải qua `qa` + `publish` (fail-closed). Bộ lập kế hoạch hoán vị và writer template V1 vẫn nằm trong `content_factory.py` nhưng chỉ còn dùng để audit; xưởng V1 vẫn tạm dừng (`STOP_FACTORY`, `enabled: false`). | Xoá `scripts/factory_v2.py`, `content/drafts/`; không ảnh hưởng bài cũ |
+| M2 | **Đã làm** | Shard V2 nằm cùng thư mục `content/articles/<TM-id>.json` với `factoryVersion: 2`, `topic_id`, `sources`, `publishedAt`; `build.py`/`validate_factory_site.py` chỉ noindex `factoryVersion < 2`; `reindex` và nhật ký hàng đợi dùng chung định dạng V1 (bài V2 có `sequence: null`). | Xoá shard `TM-*.json` + chạy `reindex`, `sync`; cờ cũ vẫn nguyên nghĩa với bài V1 |
+| M3 | Chờ | Tách sitemap theo hub khi một hub vượt ~5.000 URL (mục 7.2); hiện `sitemap-posts.xml` đủ cho hàng chục nghìn URL. | Một sitemap-pages.xml |
+| M4 | **Chờ phê duyệt** | 3.337 bài V1 noindex giữ nguyên; chỉ sau khi bài mới cùng intent đã index ổn định mới cân nhắc redirect 301 theo `legacy_overlap`, từng hub một, có bảng đối chiếu để chủ cửa hàng duyệt. | Không làm nếu không duyệt |
+| M5 | **Đã làm (thủ công)** | `.github/workflows/topic-factory-v2.yml`: job `checks` chạy trên mọi pull request (sync, validate, 3 bộ test, build, validate site); job `publish` chỉ chạy khi `workflow_dispatch` với input `publish` và tôn trọng `STOP_FACTORY`/`v2.enabled`. Không có lịch tự động — bật lịch là quyết định của chủ cửa hàng. | Tắt workflow |
 
 Giới hạn hiện tại cần nói rõ: 20.000–40.000 là **năng lực** của hệ thống (chỉ mục, cổng, vòng đời) — số bài xuất bản phụ thuộc vào số chủ đề thật có bằng chứng.
 Lô thử nghiệm 97 ứng viên cho thấy tỷ lệ duyệt ngay ≈ 25 %; phần lớn còn lại chờ nguồn (NEEDS-RESEARCH), không phải bị loại.
@@ -160,6 +174,7 @@ Lô thử nghiệm 97 ứng viên cho thấy tỷ lệ duyệt ngay ≈ 25 %; ph
 
 ```sh
 python3 tests/test_topic_matrix.py
+python3 tests/test_factory_v2.py
 python3 scripts/topic_matrix.py validate
 python3 scripts/content_factory.py run --dry-run
 python3 tests/test_content_factory.py

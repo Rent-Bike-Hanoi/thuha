@@ -1,0 +1,92 @@
+name: Topic Factory V2
+
+on:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'config/**'
+      - 'content/**'
+      - 'data/topic-matrix*.jsonl'
+      - 'data/keyword-metrics.jsonl'
+      - 'data/seeds/**'
+      - '.github/workflows/topic-factory-v2.yml'
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: "Gõ đúng chữ publish để xuất bản các nháp đã QA trong content/drafts/ (tôn trọng STOP_FACTORY và v2.enabled)"
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+# Cùng nhóm với xưởng V1: không bao giờ có hai điều phối viên ghi ma trận/nguồn bài cùng lúc.
+concurrency:
+  group: nguyen-ha-content-factory
+  cancel-in-progress: false
+
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Sync dedup index from published sources
+        run: python3 scripts/topic_matrix.py sync
+      - name: Validate topic matrix (fail-closed)
+        run: python3 scripts/topic_matrix.py validate
+      - name: Topic matrix tests
+        run: python3 tests/test_topic_matrix.py
+      - name: Factory V2 pipeline tests
+        run: python3 tests/test_factory_v2.py
+      - name: Legacy factory tests
+        run: python3 tests/test_content_factory.py
+      - name: Dry-run legacy factory (must stay paused)
+        run: python3 scripts/content_factory.py run --dry-run
+      - name: Build site
+        run: python3 scripts/build.py
+      - name: Verify generated site
+        run: python3 scripts/validate_factory_site.py
+
+  publish:
+    if: github.event_name == 'workflow_dispatch' && inputs.publish == 'publish'
+    needs: checks
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Publish QA-passed drafts (unattended; honours STOP_FACTORY)
+        run: python3 scripts/factory_v2.py publish --all --unattended --by "github-actions (workflow_dispatch)"
+      - name: Build site and derived indexes
+        run: python3 scripts/build.py
+      - name: Tests and site verification
+        run: |
+          python3 scripts/topic_matrix.py validate
+          python3 tests/test_topic_matrix.py
+          python3 tests/test_factory_v2.py
+          python3 tests/test_content_factory.py
+          python3 scripts/validate_factory_site.py
+      - name: Commit one safe batch
+        shell: bash
+        run: |
+          if git diff --quiet && [[ -z "$(git ls-files --others --exclude-standard)" ]]; then
+            echo 'No publishable drafts in this run.'
+            exit 0
+          fi
+          git config user.name 'nguyen-ha-content-factory[bot]'
+          git config user.email 'nguyen-ha-content-factory[bot]@users.noreply.github.com'
+          git add --all
+          git commit -m 'content: publish QA-passed Topic Factory V2 drafts'
+          git pull --rebase origin main
+          git push origin HEAD:main
