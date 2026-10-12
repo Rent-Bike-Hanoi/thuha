@@ -22,11 +22,11 @@ Chi tiết: reports/slot-audit-300.csv.
 
 ## 3. Ma trận chủ đề (data/topic-matrix.jsonl)
 
-Số hàng: 96. Vòng đời: {'REJECTED': 24, 'PUBLISHED': 23, 'RESEARCH': 48, 'APPROVED': 1}. Phân loại: {'REJECT': 24, 'KEEP': 59, 'NEEDS-RESEARCH': 13}. Rủi ro trùng lặp: {'none': 38, 'high': 18, 'medium': 17}.
+Số hàng: 96. Vòng đời: {'REJECTED': 24, 'PUBLISHED': 24, 'RESEARCH': 48}. Phân loại: {'REJECT': 24, 'KEEP': 59, 'NEEDS-RESEARCH': 13}. Rủi ro trùng lặp: {'none': 37, 'high': 18, 'medium': 17}.
 
 | Hub | PLANNED | RESEARCH | APPROVED | WRITING | QA | PUBLISHED | REJECTED |
 |---|---|---|---|---|---|---|---|
-| bao-duong | 0 | 17 | 1 | 0 | 0 | 0 | 0 |
+| bao-duong | 0 | 17 | 0 | 0 | 0 | 1 | 0 |
 | du-lich | 0 | 9 | 0 | 0 | 0 | 0 | 4 |
 | kinh-nghiem | 0 | 0 | 0 | 0 | 0 | 7 | 3 |
 | luat-giao-thong | 0 | 11 | 0 | 0 | 0 | 11 | 9 |
