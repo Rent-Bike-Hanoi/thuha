@@ -909,7 +909,8 @@ def check_article_dict(art, idx, rows, facts, sources, topic_id=None):
     for bad in RULES['forbidden_in_content']:
         if bad in body.replace('thuha.rentbikehanoi.com', ''):
             fails.append('chứa liên kết/nhắc tới site chính: ' + bad)
-    hype = [w for w in RULES['hype_words'] if w in text.lower()]
+    low = text.lower()
+    hype = [w for w in RULES['hype_words'] if re.search(r'(?<!\w)' + re.escape(w) + r'(?!\w)', low)]  # "số 1" không bắt "xe số 150"
     if hype:
         warns.append('từ quảng cáo: ' + ', '.join(hype))
     matrix_urls = {r.get('url') for r in rows if r['lifecycle'] != 'REJECTED'}
