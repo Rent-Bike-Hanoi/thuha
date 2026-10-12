@@ -1,0 +1,259 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-12T19:57:23.193220+00:00",
+  "topic": {
+    "topic_id": "TM-00060",
+    "url": "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+    "title": "Hà Nội đi Mai Châu bằng xe máy bao nhiêu km? Đèo Thung Khe",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "hà nội đi mai châu bằng xe máy",
+    "secondary_keywords": [
+      "hà nội mai châu bao nhiêu km",
+      "đèo thung khe đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn phượt Mai Châu cuối tuần bằng xe máy cần biết quãng đường, đi đường nào không bị cấm xe máy, đèo Thung Khe thế nào, ở bản Lác có gì, tốn bao nhiêu.",
+    "information_gain": "Bài /du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/ chỉ đi qua Mai Châu trên đường tới Mộc Châu. Bài này dừng ở Mai Châu: quãng đường theo hai bài VnExpress (135 km năm 2024; tuyến xe máy 140 km theo quốc lộ 6 Nguyễn Trãi – Xuân Mai – Lương Sơn – Hòa Bình – Cao Phong – Tân Lạc năm 2020), đèo Thung Khe (đèo Đá Trắng) trên quốc lộ 6, bản Lác hơn 700 năm tuổi với hơn 20 homestay và chợ phiên Chủ nhật 5h sáng theo chuyên trang Cục Du lịch Quốc gia, Hang Kia – Pà Cò săn mây 1.200–1.500 m, giá dịch vụ có ngày; và tên hành chính mới sau 1/7/2025 (xã Mai Châu, tỉnh Phú Thọ) theo Nghị quyết 202/2025/QH15 và 1676/NQ-UBTVQH15.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-mai-chau-4727514.html",
+        "quote": "VnExpress 29/3/2024, 48 giờ ở Mai Châu: Mai Châu cách Hà Nội 135 km; lộ trình theo đại lộ Thăng Long và cao tốc Hòa Bình, qua Cao Phong, Tân Lạc và đèo Thung Khe, khoảng 2,5 tiếng; tuyến tham quan bản Lác, bản Pom Coọng bằng xe điện 10.000 đồng một khách mỗi lượt; điểm săn mây Hang Kia – Pà Cò phí 20.000 đồng.",
+        "verbatim": false,
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-san-may-loi-thac-o-mai-chau-4187360.html",
+        "quote": "VnExpress 8/11/2020, 48 giờ săn mây, lội thác ở Mai Châu: Cách Hà Nội 150 km, bạn mất 4 - 5 giờ để di chuyển tới Mai Châu; tuyến xe máy dài 140 km đi qua Nguyễn Trãi - Quang Trung - Ba La - Chúc Sơn - Xuân Mai rồi Lương Sơn, Kỳ Sơn, Hòa Bình, Cao Phong, Tân Lạc; đèo Thung Khe trên Quốc lộ 6 nối Tân Lạc và Mai Châu, còn gọi là đèo Đá Trắng vì đá vôi sạt xuống sau khi mở đường tạo thành vách núi trắng; bản Lác trên 700 năm tuổi, chủ yếu người Thái; Hang Kia - Pà Cò cao 1.200–1.500 m, săn mây từ tháng 11 đến tháng 4, đẹp nhất khoảng 5h–9h sáng; thác Gò Lào thuộc xã Phúc Sạn cách Mai Châu khoảng 15 km; chi phí chuyến 2 ngày 1 đêm bằng xe máy khoảng 700.000 đồng; phòng nghỉ cộng đồng khoảng 100.000 đồng; vé lên điểm săn mây Hang Kia 20.000 đồng.",
+        "verbatim": false,
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "official",
+        "source": "https://nongthon.vietnamtourism.gov.vn/ban-lac-mai-chau-hoa-binh-diem-den-thu-vi-cuoi-tuan/",
+        "quote": "Chuyên trang du lịch nông thôn của Cục Du lịch Quốc gia Việt Nam (bài của Báo Dân tộc và Phát triển): bản Lác thuộc huyện Mai Châu, phía Tây tỉnh Hòa Bình (cũ), giáp Vân Hồ (Sơn La), cách Hà Nội khoảng 140 km; chủ yếu dân tộc Thái; hơn 20 nhà nghỉ, homestay nhà sàn cao khoảng 2 m; Chợ phiên chỉ tổ chức duy nhất 1 ngày chủ nhật trong tuần từ 5h sáng; hoạt động: đạp xe hoặc xe điện quanh bản, tham quan Hang Chiều, bản Poom Coọng, hang Mỏ Luông, chèo bè tre, tắm suối Mùn, đốt lửa trại; đặc sản gà đồi nướng, cơm lam, rượu cần.",
+        "verbatim": false,
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ 12/6/2025): khoản 4 sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ (9.361,38 km², 4.022.638 người); khoản 2: tỉnh Yên Bái và tỉnh Lào Cai thành tỉnh Lào Cai; khoản 7: tỉnh Hải Dương và thành phố Hải Phòng thành thành phố Hải Phòng; Quảng Ninh thuộc 11 tỉnh, thành phố không thực hiện sắp xếp; Nghị quyết có hiệu lực từ ngày được thông qua (12/6/2025); chính quyền địa phương mới chính thức hoạt động từ ngày 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+        "quote": "Nghị quyết 1676/NQ-UBTVQH15 (16/6/2025), Điều 1 khoản 119: sắp xếp thị trấn Mai Châu, các xã Nà Phòn, Thành Sơn, Tòng Đậu và một phần diện tích tự nhiên, quy mô dân số của xã Đồng Tân thành xã mới có tên gọi là xã Mai Châu; khoản 121: các xã Chiềng Châu, Vạn Mai và Mai Hạ thành xã Mai Hạ; khoản 124: thị trấn Mãn Đức và các xã Ngọc Mỹ, Đông Lai, Thanh Hối, Tử Nê thành xã Tân Lạc; chính quyền mới hoạt động từ 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "prices: xe số 150–200 nghìn/ngày, 700–800 nghìn/tuần; xe ga 150–200 nghìn/ngày, 600 nghìn–1 triệu/tuần",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "policies.rental_day: 24 giờ từ lúc nhận xe; thuê theo giờ hoặc nửa ngày vẫn tính giá một ngày",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "policies.helmet: mũ bảo hiểm cơ bản miễn phí",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "policies.fuel: trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "address: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội; gần Bến xe Gia Lâm; điện thoại 0334 699 969",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-12",
+        "keyword": "hà nội đi mai châu bằng xe máy"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn",
+      "Lộ trình xe máy theo quốc lộ 6",
+      "Đèo Thung Khe",
+      "Thời gian và điểm dừng",
+      "Ở Mai Châu đi đâu",
+      "Chi phí tham khảo",
+      "Tên hành chính mới từ 1/7/2025",
+      "Thuê xe đi Mai Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+        "layers": [
+          "intent_cluster_near",
+          "title"
+        ],
+        "scores": {
+          "intent_cluster_near": 0.778,
+          "title": 0.584
+        }
+      },
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.402
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00060.json",
+  "draft_template": {
+    "id": "TM-00060",
+    "url": "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+    "title": "Hà Nội đi Mai Châu bằng xe máy bao nhiêu km? Đèo Thung Khe",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hà nội đi mai châu bằng xe máy, hà nội mai châu bao nhiêu km, đèo thung khe đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình xe máy theo quốc lộ 6",
+        "<p></p>"
+      ],
+      [
+        "Đèo Thung Khe",
+        "<p></p>"
+      ],
+      [
+        "Thời gian và điểm dừng",
+        "<p></p>"
+      ],
+      [
+        "Ở Mai Châu đi đâu",
+        "<p></p>"
+      ],
+      [
+        "Chi phí tham khảo",
+        "<p></p>"
+      ],
+      [
+        "Tên hành chính mới từ 1/7/2025",
+        "<p></p>"
+      ],
+      [
+        "Thuê xe đi Mai Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-mai-chau-4727514.html",
+        "quote": "VnExpress 29/3/2024, 48 giờ ở Mai Châu: Mai Châu cách Hà Nội 135 km; lộ trình theo đại lộ Thăng Long và cao tốc Hòa Bình, qua Cao Phong, Tân Lạc và đèo Thung Khe, khoảng 2,5 tiếng; tuyến tham quan bản Lác, bản Pom Coọng bằng xe điện 10.000 đồng một khách mỗi lượt; điểm săn mây Hang Kia – Pà Cò phí 20.000 đồng.",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-san-may-loi-thac-o-mai-chau-4187360.html",
+        "quote": "VnExpress 8/11/2020, 48 giờ săn mây, lội thác ở Mai Châu: Cách Hà Nội 150 km, bạn mất 4 - 5 giờ để di chuyển tới Mai Châu; tuyến xe máy dài 140 km đi qua Nguyễn Trãi - Quang Trung - Ba La - Chúc Sơn - Xuân Mai rồi Lương Sơn, Kỳ Sơn, Hòa Bình, Cao Phong, Tân Lạc; đèo Thung Khe trên Quốc lộ 6 nối Tân Lạc và Mai Châu, còn gọi là đèo Đá Trắng vì đá vôi sạt xuống sau khi mở đường tạo thành vách núi trắng; bản Lác trên 700 năm tuổi, chủ yếu người Thái; Hang Kia - Pà Cò cao 1.200–1.500 m, săn mây từ tháng 11 đến tháng 4, đẹp nhất khoảng 5h–9h sáng; thác Gò Lào thuộc xã Phúc Sạn cách Mai Châu khoảng 15 km; chi phí chuyến 2 ngày 1 đêm bằng xe máy khoảng 700.000 đồng; phòng nghỉ cộng đồng khoảng 100.000 đồng; vé lên điểm săn mây Hang Kia 20.000 đồng.",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "official",
+        "source": "https://nongthon.vietnamtourism.gov.vn/ban-lac-mai-chau-hoa-binh-diem-den-thu-vi-cuoi-tuan/",
+        "quote": "Chuyên trang du lịch nông thôn của Cục Du lịch Quốc gia Việt Nam (bài của Báo Dân tộc và Phát triển): bản Lác thuộc huyện Mai Châu, phía Tây tỉnh Hòa Bình (cũ), giáp Vân Hồ (Sơn La), cách Hà Nội khoảng 140 km; chủ yếu dân tộc Thái; hơn 20 nhà nghỉ, homestay nhà sàn cao khoảng 2 m; Chợ phiên chỉ tổ chức duy nhất 1 ngày chủ nhật trong tuần từ 5h sáng; hoạt động: đạp xe hoặc xe điện quanh bản, tham quan Hang Chiều, bản Poom Coọng, hang Mỏ Luông, chèo bè tre, tắm suối Mùn, đốt lửa trại; đặc sản gà đồi nướng, cơm lam, rượu cần.",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ 12/6/2025): khoản 4 sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ (9.361,38 km², 4.022.638 người); khoản 2: tỉnh Yên Bái và tỉnh Lào Cai thành tỉnh Lào Cai; khoản 7: tỉnh Hải Dương và thành phố Hải Phòng thành thành phố Hải Phòng; Quảng Ninh thuộc 11 tỉnh, thành phố không thực hiện sắp xếp; Nghị quyết có hiệu lực từ ngày được thông qua (12/6/2025); chính quyền địa phương mới chính thức hoạt động từ ngày 01/7/2025.",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+        "quote": "Nghị quyết 1676/NQ-UBTVQH15 (16/6/2025), Điều 1 khoản 119: sắp xếp thị trấn Mai Châu, các xã Nà Phòn, Thành Sơn, Tòng Đậu và một phần diện tích tự nhiên, quy mô dân số của xã Đồng Tân thành xã mới có tên gọi là xã Mai Châu; khoản 121: các xã Chiềng Châu, Vạn Mai và Mai Hạ thành xã Mai Hạ; khoản 124: thị trấn Mãn Đức và các xã Ngọc Mỹ, Đông Lai, Thanh Hối, Tử Nê thành xã Tân Lạc; chính quyền mới hoạt động từ 01/7/2025.",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "prices: xe số 150–200 nghìn/ngày, 700–800 nghìn/tuần; xe ga 150–200 nghìn/ngày, 600 nghìn–1 triệu/tuần",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "policies.rental_day: 24 giờ từ lúc nhận xe; thuê theo giờ hoặc nửa ngày vẫn tính giá một ngày",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "policies.helmet: mũ bảo hiểm cơ bản miễn phí",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "policies.fuel: trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ",
+        "checked": "2026-10-12"
+      },
+      {
+        "type": "owner",
+        "source": "config/business-facts.json",
+        "quote": "address: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội; gần Bến xe Gia Lâm; điện thoại 0334 699 969",
+        "checked": "2026-10-12"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00060"
+  }
+}
