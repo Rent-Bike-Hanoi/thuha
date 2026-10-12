@@ -1,4 +1,4 @@
-/* Nguyễn Hà Journal — no external API or language model. Answers use local content only. */
+/* Thuê xe máy Nguyễn Hà — no external API or language model. Answers use local content only. */
 (() => {
 'use strict';
 const $=id=>document.getElementById(id), root=document.documentElement;
