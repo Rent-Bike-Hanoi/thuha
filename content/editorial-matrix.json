@@ -36776,11 +36776,29 @@
     "status": "published"
   },
   {
+    "title": "Khiếu nại quyết định xử phạt giao thông: thủ tục, thời hạn",
+    "keyword": "khiếu nại quyết định xử phạt giao thông, khiếu nại biên bản vi phạm giao thông, thời hiệu khiếu nại quyết định xử phạt vi phạm hành chính, giải trình vi phạm giao thông, không đồng ý với biên bản csgt",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/khieu-nai-quyet-dinh-xu-phat-giao-thong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
     "title": "Phạt nguội quá hạn không nộp bị gì? Thời hiệu xử phạt",
     "keyword": "phạt nguội quá hạn không nộp, không nộp phạt nguội có sao không, thời hiệu xử phạt vi phạm giao thông, tiền chậm nộp phạt vi phạm giao thông, phạt nguội xe máy không đi giải quyết",
     "hub": "luat-giao-thong",
     "pillar": "/luat-giao-thong/",
     "url": "/luat-giao-thong/phat-nguoi-qua-han-khong-nop-bi-gi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Tra cứu điểm giấy phép lái xe trên VNeID: các bước",
+    "keyword": "tra cứu điểm bằng lái trên vneid, xem điểm giấy phép lái xe trên vneid, cách kiểm tra điểm bằng lái xe, bằng lái còn bao nhiêu điểm, điểm giấy phép lái xe 12 điểm",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/",
     "priority": "P1",
     "status": "published"
   },
@@ -36808,6 +36826,24 @@
     "hub": "luat-giao-thong",
     "pillar": "/luat-giao-thong/",
     "url": "/luat-giao-thong/dua-xe-trai-phep-xe-may-phat-bao-nhieu/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Lái xe khi đang bị tước bằng bị xử lý thế nào?",
+    "keyword": "lái xe khi bị tước bằng, đang bị tước bằng lái vẫn lái xe phạt bao nhiêu, bị tước giấy phép lái xe có được lái xe máy không, thời hạn tước giấy phép lái xe tính từ ngày nào, tước bằng lái tích hợp ô tô xe máy",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/lai-xe-khi-dang-bi-tuoc-bang-bi-xu-ly-the-nao/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy có phải kiểm định khí thải không? Lộ trình từ 2026",
+    "keyword": "kiểm định khí thải xe máy, lộ trình kiểm định khí thải xe máy hà nội, xe máy cũ có phải kiểm định khí thải không, quyết định 13/2026/qđ-ttg, mức khí thải xe mô tô theo năm sản xuất",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/xe-may-co-phai-kiem-dinh-khi-thai-khong/",
     "priority": "P1",
     "status": "published"
   },
@@ -36961,6 +36997,24 @@
     "hub": "xe-dien",
     "pillar": "/xe-dien/",
     "url": "/xe-dien/xe-may-dien-co-can-dang-ky-bien-so-khong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Vision 2026: thông số, giá niêm yết và phù hợp với ai",
+    "keyword": "honda vision, honda vision 2026 giá bao nhiêu, thông số kỹ thuật honda vision 2026, honda vision 2026 có mấy phiên bản, giá xe vision 2026 niêm yết",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-vision-2026/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Air Blade 125 và 160 khác gì nhau? Nên chọn bản nào",
+    "keyword": "honda air blade 125 và 160, so sánh air blade 125 và 160, air blade 160 có cần bằng a không, air blade 125 giá bao nhiêu, air blade 160 giá bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/",
     "priority": "P1",
     "status": "published"
   }
