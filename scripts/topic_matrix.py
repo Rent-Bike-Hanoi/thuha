@@ -889,11 +889,16 @@ def check_article_dict(art, idx, rows, facts, sources, topic_id=None):
     own = ['PUB-' + hashlib.sha1(art['url'].encode()).hexdigest()[:10]] + ([topic_id] if topic_id else []) \
         + [r['topic_id'] for r in rows if r.get('url') == art['url']]
     kws = [k.strip() for k in str(art.get('keywords', '')).split(',') if k.strip()]
+    row = next((r for r in rows if r['topic_id'] == topic_id), None) if topic_id else None
     cand = {'title': art['title'], 'primary_keyword': kws[0] if kws else art['title'], 'secondary_keywords': kws[1:], 'hub': art.get('hub'),
-            'user_problem': art.get('excerpt', ''), 'outline': [h for h, _ in art.get('sections', [])]}
+            'user_problem': art.get('excerpt', ''), 'outline': [h for h, _ in art.get('sections', [])],
+            'keyword_volume': (row or {}).get('keyword_volume')}  # nhu cầu đo được của hàng ma trận: ngoại lệ hoán vị như lúc duyệt
+    override = ((row or {}).get('editorial_approval') or {}).get('override_reason')
     ass = assess(cand, idx, exclude_ids=own)
     if ass['permutation_of']:
         fails.append('hoán vị của ' + ass['permutation_of'])
+    elif ass['risk'] == 'high' and override and row.get('lifecycle') in ('APPROVED', 'WRITING', 'QA'):
+        warns.append('trùng lặp mức cao với ' + str(ass['merge_into']) + ' – đã có override khi duyệt: ' + override)
     elif ass['risk'] == 'high':
         fails.append('trùng lặp mức cao với ' + str(ass['merge_into']))
     elif ass['risk'] == 'medium':

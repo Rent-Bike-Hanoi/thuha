@@ -128,8 +128,9 @@ def qa_draft(tid, rows, idx, facts, source_urls, cfg=None):
     if art.get('tone') not in TONES or not art.get('art'):
         fails.append('thiếu art (nhãn ngắn) hoặc tone không thuộc ' + '/'.join(TONES))
     secs = art.get('sections')
-    if not (isinstance(secs, list) and secs and all(isinstance(s, list) and len(s) == 2 and s[0].strip() and '<p>' in s[1] for s in secs)):
-        fails.append('sections phải là danh sách [tiêu đề mục, html có <p>]')
+    block = re.compile(r'<(p|ul|ol|table|div)\b')  # mục chỉ gồm danh sách hoặc bảng vẫn là HTML khối hợp lệ
+    if not (isinstance(secs, list) and secs and all(isinstance(s, list) and len(s) == 2 and str(s[0]).strip() and block.search(str(s[1])) for s in secs)):
+        fails.append('sections phải là danh sách [tiêu đề mục, html có khối <p>/<ul>/<ol>/<table>]')
     if art.get('faq') and not all(isinstance(q, list) and len(q) == 2 and q[0] and q[1] for q in art['faq']):
         fails.append('faq phải là danh sách [câu hỏi, trả lời]')
     pk = row.get('primary_keyword') or ''
