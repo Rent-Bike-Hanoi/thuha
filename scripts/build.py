@@ -12,7 +12,12 @@ NOINDEX_FACTORY=bool(FACTORY_CFG.get('noindex_factory_articles',False))
 # those factory articles are rendered noindex,follow and left out of the sitemap.
 NOINDEX_LIST=set(json.loads((ROOT/'config/factory-noindex.json').read_text()).get('urls',[])) if (ROOT/'config/factory-noindex.json').exists() else set()
 def is_factory(p): return str(p.get('_source','')).startswith('content/articles/')
-def factory_noindex(p): return is_factory(p) and (NOINDEX_FACTORY or p['url'] in NOINDEX_LIST)
+def factory_version(p):
+ try:return int(p.get('factoryVersion') or 1)
+ except (TypeError,ValueError):return 1
+# The global switch only covers the old template factory (factoryVersion < 2).  Topic Factory V2
+# shards (scripts/factory_v2.py) are indexable unless listed in factory-noindex.json explicitly.
+def factory_noindex(p): return is_factory(p) and (p['url'] in NOINDEX_LIST or (NOINDEX_FACTORY and factory_version(p)<2))
 HUBS=[
 ('thue-xe','Thuê xe','Bảng giá, thủ tục và lựa chọn xe cho từng hành trình.',['Thuê xe máy Hà Nội','Thuê xe 50cc','Thuê xe điện','Theo ngày, tuần, tháng']),
 ('xe-may','Xe máy','Tìm hiểu xe số, xe ga và các mẫu xe quen thuộc.',['Honda','Yamaha','Xe số & xe ga','Đánh giá & so sánh']),

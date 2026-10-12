@@ -15,5 +15,13 @@
     "resume_hour": 8,
     "description": "Chạy đến 00:00 (12h đêm), tạm dừng từ 01:00 đến 07:59, 08:00 sáng chạy tiếp"
   },
-  "version": 1
+  "version": 1,
+  "v2": {
+    "enabled": true,
+    "min_words": 700,
+    "max_publish_per_run": 10,
+    "writers": ["writer-1", "writer-2", "writer-3"],
+    "drafts_dir": "content/drafts",
+    "note": "Topic Factory V2 (scripts/factory_v2.py): writer chỉ nhận hàng APPROVED từ data/topic-matrix.jsonl; nháp trong content/drafts không phải nguồn bài; --unattended tôn trọng STOP_FACTORY và enabled"
+  }
 }

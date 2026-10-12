@@ -4,9 +4,11 @@ import json,re,sys
 ROOT=Path(__file__).resolve().parents[1];errors=[]
 site=json.loads((ROOT/'content/site.json').read_text())
 posts=json.loads((ROOT/'content/posts.json').read_text())
-factory_urls=set()
+factory_urls=set();factory_ver={}
 for p in sorted((ROOT/'content/articles').glob('*.json')):
  a=json.loads(p.read_text());posts.append(a);factory_urls.add(a['url'])
+ try:factory_ver[a['url']]=int(a.get('factoryVersion') or 1)
+ except (TypeError,ValueError):factory_ver[a['url']]=1
 cfg=json.loads((ROOT/'config/content-factory.json').read_text())
 noindex_factory=bool(cfg.get('noindex_factory_articles',False))
 nl_path=ROOT/'config/factory-noindex.json'
@@ -14,7 +16,7 @@ noindex_list=json.loads(nl_path.read_text()).get('urls',[]) if nl_path.exists() 
 if len(noindex_list)!=len(set(noindex_list)):errors.append('duplicate URL in factory-noindex.json')
 for u in set(noindex_list)-factory_urls:errors.append('factory-noindex.json lists a non-factory URL '+u)
 noindex_set=set(noindex_list)
-def factory_noindex(u): return u in factory_urls and (noindex_factory or u in noindex_set)
+def factory_noindex(u): return u in factory_urls and (u in noindex_set or (noindex_factory and factory_ver.get(u,1)<2))  # V2 shards stay indexable
 NOINDEX_META='<meta name="robots" content="noindex,follow">'
 urls=[p['url'] for p in posts]
 if len(urls)!=len(set(urls)):errors.append('duplicate article URL')

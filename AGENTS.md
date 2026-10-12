@@ -15,7 +15,8 @@ Repository files are the source of truth. Read `docs/CONTENT-FACTORY.md` before 
 
 ## Topic Factory V2 (read `docs/TOPIC-FACTORY-V2.md` before touching topics)
 
-- `data/topic-matrix.jsonl` is the only source of topics. Writers take only rows in lifecycle `APPROVED`, through `python3 scripts/topic_matrix.py next --writer <name>`; they never create rows, change lifecycle, or loosen `editorial_approval`.
+- `data/topic-matrix.jsonl` is the only source of topics. Writers take only rows in lifecycle `APPROVED`, through `python3 scripts/factory_v2.py queue --writer <name>`; they never create rows, change lifecycle, or loosen `editorial_approval`.
+- Writers draft into `content/drafts/<TM-id>.json` from the brief; only `python3 scripts/factory_v2.py publish --by <name>` moves a draft into `content/articles/<TM-id>.json` (`factoryVersion: 2`), after scoped QA, and records it in the append-only `data/factory-queue.jsonl`. Never copy a draft into `content/articles/` by hand. `content/drafts/` is not an article source.
 - `data/topic-matrix-published.jsonl` and `data/cache/` are derived; regenerate with `python3 scripts/topic_matrix.py sync`, never edit by hand.
 - Never bypass `discover` → `validate` → `approve`. A similarity score is a signal for the editor, never an automatic approval; every approved row must state in `information_gain` what the reader gets that existing articles do not.
 - Template permutations (same question, different district/audience/context/year) are rejected automatically and must not be re-seeded under a new wording. Search demand is only `data/keyword-metrics.jsonl` (checked date + source); do not invent volumes.
@@ -27,6 +28,7 @@ Repository files are the source of truth. Read `docs/CONTENT-FACTORY.md` before 
 python3 scripts/content_factory.py run --dry-run
 python3 tests/test_content_factory.py
 python3 tests/test_topic_matrix.py
+python3 tests/test_factory_v2.py
 python3 scripts/topic_matrix.py validate
 python3 scripts/build.py
 python3 scripts/validate_factory_site.py

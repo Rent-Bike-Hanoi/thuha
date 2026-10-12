@@ -214,7 +214,7 @@ with tempfile.TemporaryDirectory() as tmp:
         idx = tm.Index(tm.DB_PATH)
         pub = [json.loads(l) for l in tm.PUBLISHED_PATH.read_text().splitlines()]
         hand = [r for r in pub if r['origin'] == 'hand-written']
-        live_matrix = [r for r in tm.load_matrix() if r['lifecycle'] != 'REJECTED']  # tầng 6: hàng ma trận chưa bị loại cũng nằm trong chỉ mục
+        live_matrix = [r for r in tm.load_matrix() if r['lifecycle'] not in ('REJECTED', 'PUBLISHED')]  # tầng 6: hàng chưa loại/chưa xuất bản nằm trong chỉ mục; bài đã xuất bản do PUB-… đại diện
         assert len(hand) >= 73 and idx.ndocs() == len(pub) + len(live_matrix), (len(hand), idx.ndocs(), len(pub), len(live_matrix))
         clusters = [r['cluster'] for r in hand]
         dup_clusters = {c for c in clusters if clusters.count(c) > 1}

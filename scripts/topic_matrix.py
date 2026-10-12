@@ -359,7 +359,7 @@ def assess(cand, index, exclude_ids=()):
             hits.append({'url': d['url'], 'layer': 'intent_cluster', 'score': 1.0, 'detail': ck, 'w': d['weight']})
     cand_core = core_tokens(cand['title'])
     cand_tt = title_tokens(cand['title'])
-    cand_outline = [' '.join(title_tokens(h)) for h in cand.get('outline', [])]
+    cand_outline = [x for x in (' '.join(title_tokens(h)) for h in cand.get('outline', [])) if x]  # mục chỉ gồm từ đánh dấu ("Mức phạt") không so được
     # Tầng 3 + 4: ngữ nghĩa TF-IDF, tiêu đề (Jaccard trọng số IDF), outline, cụm gần
     bag = profile_terms(cand['title'], kws, [cand.get('user_problem', '')] + list(cand.get('outline', [])))
     cand_intent = intent_class(cand['title'])
@@ -374,7 +374,7 @@ def assess(cand, index, exclude_ids=()):
         if tj >= TH['title_jaccard_medium']:
             hits.append({'url': d['url'], 'layer': 'title', 'score': round(tj, 3), 'w': d['weight']})
         if cand_outline and d['outline']:
-            oj = jaccard(cand_outline, d['outline'])
+            oj = jaccard(cand_outline, [x for x in d['outline'] if x])
             if oj >= TH['outline_jaccard_review']:
                 hits.append({'url': d['url'], 'layer': 'outline', 'score': round(oj, 3), 'w': d['weight']})
     by_url, soft = collections.OrderedDict(), collections.OrderedDict()
@@ -486,9 +486,14 @@ def sync(verbose=True, index=None):
     sources = load_sources()
     legacy = legacy_decisions()
     noindex_all = bool(json.loads(FACTORY_CFG_PATH.read_text()).get('noindex_factory_articles', False)) if FACTORY_CFG_PATH.exists() else False
+    def v1(a):  # shard xưởng cũ: content/articles/ với factoryVersion < 2; shard V2 (factory_v2.py) là bài được index như bài viết tay
+        try:
+            return a['_source'].startswith('content/articles/') and int(a.get('factoryVersion') or 1) < 2
+        except (TypeError, ValueError):
+            return True
     groups = collections.defaultdict(list)
     for a in sources:
-        if a.get('intent') and a['_source'].startswith('content/articles/'):
+        if a.get('intent') and v1(a):
             groups[v1_core(a['intent'])].append(a)
     rep = {key: sorted(arts, key=lambda x: (-x.get('wordCount', 0), len(x['url'])))[0]['url'] for key, arts in groups.items()}
     rows, seen = [], set()
@@ -499,9 +504,11 @@ def sync(verbose=True, index=None):
         doc_id = 'PUB-' + hashlib.sha1(a['url'].encode()).hexdigest()[:10]
         seen.add(doc_id)
         sha = source_sha(a)
-        is_factory = a['_source'].startswith('content/articles/')
+        is_factory = v1(a)
         fit = ''
-        if is_factory:
+        if a['_source'].startswith('content/articles/') and not is_factory:
+            decision, merge_into, origin = 'KEEP', None, 'factory-v2'
+        elif is_factory:
             fit = v1_fit_problem(a['intent'])
             if a['url'] in legacy:
                 decision, merge_into, _ = legacy[a['url']]
@@ -531,7 +538,7 @@ def sync(verbose=True, index=None):
                         'outline': [h for h, _ in a.get('sections', [])], 'extra': [a.get('excerpt', '')]})
             added += doc_id not in known; updated += doc_id in known
     for r in load_matrix():  # tầng 6: hàng PLANNED/RESEARCH/APPROVED/WRITING/QA cũng là "đã có" đối với ứng viên mới
-        if r['lifecycle'] == 'REJECTED':
+        if r['lifecycle'] in ('REJECTED', 'PUBLISHED'):  # đã loại: bỏ khỏi chỉ mục; đã xuất bản: bài nguồn (PUB-…) đại diện
             if r['topic_id'] in known:
                 idx.remove(r['topic_id'])
             continue
@@ -829,10 +836,12 @@ def approve(topic_id, by, note='', override=None, index=None):
     return 0
 
 
-def next_topics(writer, n=1, hub=None):
+def next_topics(writer, n=1, hub=None, ids=()):
+    """Giao hàng APPROVED cho writer (→ WRITING). ids: điều phối viên chỉ định chủ đề cụ thể; vẫn chỉ lấy hàng đã duyệt."""
     rows = load_matrix()
     order = {'P0': 0, 'P1': 1, 'P2': 2}
-    pool = [r for r in rows if r['lifecycle'] == 'APPROVED' and (not hub or r['hub'] == hub) and not r.get('gate_errors')]
+    ids = set(ids or ())
+    pool = [r for r in rows if r['lifecycle'] == 'APPROVED' and (not hub or r['hub'] == hub) and (not ids or r['topic_id'] in ids) and not r.get('gate_errors')]
     pool.sort(key=lambda r: (order.get(r.get('priority'), 9), -(r.get('keyword_volume') or 0), r['topic_id']))
     picked = pool[:n]
     for r in picked:
@@ -861,8 +870,8 @@ def set_lifecycle(topic_id, to, reason='', url=None, by=''):
     if to == 'REJECTED':
         row['rejected_reason'] = reason; row['audit_decision'] = 'REJECT'
     save_matrix(rows)
-    idx = Index()  # hàng bị loại không còn chặn ứng viên khác (tầng 6); hàng quay lại PLANNED được index lại
-    if to == 'REJECTED':
+    idx = Index()  # hàng bị loại không còn chặn ứng viên khác (tầng 6); hàng quay lại PLANNED được index lại; đã xuất bản → bài nguồn đại diện
+    if to in ('REJECTED', 'PUBLISHED'):
         idx.remove(topic_id)
     else:
         index_matrix_row(idx, row)
@@ -1015,6 +1024,7 @@ def main():
     v = sp.add_parser('validate'); v.add_argument('--no-strict', action='store_true')
     a = sp.add_parser('approve'); a.add_argument('topic_id'); a.add_argument('--by', required=True); a.add_argument('--note', default=''); a.add_argument('--override', default=None)
     n = sp.add_parser('next'); n.add_argument('--writer', required=True); n.add_argument('--n', type=int, default=1); n.add_argument('--hub')
+    n.add_argument('--topic', action='append', default=[], help='chỉ giao chủ đề APPROVED có mã này (lặp lại được)')
     s = sp.add_parser('set'); s.add_argument('topic_id'); s.add_argument('--lifecycle', required=True, choices=LIFECYCLE); s.add_argument('--reason', default=''); s.add_argument('--url'); s.add_argument('--by', default='')
     c = sp.add_parser('check-article'); c.add_argument('file'); c.add_argument('--topic')
     au = sp.add_parser('audit'); au.add_argument('--slots', type=int, default=300)
@@ -1025,7 +1035,7 @@ def main():
     if args.cmd == 'discover': discover(args.file, args.dry_run, update=args.update); return 0
     if args.cmd == 'validate': return validate(strict=not args.no_strict)
     if args.cmd == 'approve': return approve(args.topic_id, args.by, args.note, args.override)
-    if args.cmd == 'next': return next_topics(args.writer, args.n, args.hub)
+    if args.cmd == 'next': return next_topics(args.writer, args.n, args.hub, args.topic)
     if args.cmd == 'set': return set_lifecycle(args.topic_id, args.lifecycle, args.reason, args.url, args.by)
     if args.cmd == 'check-article': return check_article(args.file, args.topic)
     if args.cmd == 'audit': return audit(args.slots)

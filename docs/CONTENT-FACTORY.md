@@ -1,5 +1,9 @@
 # Xưởng nội dung local cho 20.000–50.000 bài
 
+> **Từ 12/10/2026, chủ đề mới đi qua Topic Factory V2** (`docs/TOPIC-FACTORY-V2.md`): ma trận chủ đề `data/topic-matrix.jsonl`, writer chỉ nhận hàng APPROVED
+> qua `scripts/factory_v2.py queue`, xuất bản bằng `scripts/factory_v2.py publish` thành shard `content/articles/TM-xxxxx.json` (`factoryVersion: 2`, được index).
+> Bộ lập kế hoạch hoán vị và writer template mô tả dưới đây là xưởng V1: vẫn tạm dừng (`STOP_FACTORY`, `enabled: false`) và chỉ còn dùng để audit.
+
 Xưởng chạy hoàn toàn bằng Python standard library và dữ liệu trong repo. Không gọi mô hình AI, API tìm kiếm, CMS hay dịch vụ viết bài. Vì vậy văn bản được tạo từ cấu trúc, facts và các khối biên tập local; chất lượng thực tế phụ thuộc vào việc tiếp tục làm giàu các khối này.
 
 ## Luồng mỗi lượt
