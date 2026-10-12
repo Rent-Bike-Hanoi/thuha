@@ -22,16 +22,16 @@ Chi tiết: reports/slot-audit-300.csv.
 
 ## 3. Ma trận chủ đề (data/topic-matrix.jsonl)
 
-Số hàng: 96. Vòng đời: {'REJECTED': 24, 'PUBLISHED': 20, 'APPROVED': 4, 'RESEARCH': 48}. Phân loại: {'REJECT': 24, 'KEEP': 59, 'NEEDS-RESEARCH': 13}. Rủi ro trùng lặp: {'none': 39, 'high': 18, 'medium': 19}.
+Số hàng: 96. Vòng đời: {'REJECTED': 24, 'PUBLISHED': 23, 'RESEARCH': 48, 'APPROVED': 1}. Phân loại: {'REJECT': 24, 'KEEP': 59, 'NEEDS-RESEARCH': 13}. Rủi ro trùng lặp: {'none': 38, 'high': 18, 'medium': 17}.
 
 | Hub | PLANNED | RESEARCH | APPROVED | WRITING | QA | PUBLISHED | REJECTED |
 |---|---|---|---|---|---|---|---|
 | bao-duong | 0 | 17 | 1 | 0 | 0 | 0 | 0 |
 | du-lich | 0 | 9 | 0 | 0 | 0 | 0 | 4 |
 | kinh-nghiem | 0 | 0 | 0 | 0 | 0 | 7 | 3 |
-| luat-giao-thong | 0 | 11 | 2 | 0 | 0 | 9 | 9 |
+| luat-giao-thong | 0 | 11 | 0 | 0 | 0 | 11 | 9 |
 | thue-xe | 0 | 2 | 0 | 0 | 0 | 3 | 5 |
-| xe-dien | 0 | 5 | 1 | 0 | 0 | 0 | 1 |
+| xe-dien | 0 | 5 | 0 | 0 | 0 | 1 | 1 |
 | xe-may | 0 | 4 | 0 | 0 | 0 | 1 | 2 |
 
 ## 4. Bài viết tay
