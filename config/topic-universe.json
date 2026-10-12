@@ -1,0 +1,155 @@
+{
+  "version": 2,
+  "updated": "2026-10-12",
+  "principle": "Industry → Topic Hub → Subtopic → Search Intent → User Problem → Distinct Article. Một URL = một ý định tìm kiếm riêng. Các trục 'qualifier_axes' (quận, đối tượng, bối cảnh, thời lượng, nhóm, năm, từ đệm) không bao giờ tự tạo ra bài mới; chúng chỉ là biến thể của cùng một câu hỏi.",
+  "hubs": {
+    "thue-xe": {
+      "label": "Thuê xe máy",
+      "path": "/thue-xe/",
+      "active": true,
+      "requires_sources": true,
+      "evidence_types": ["business-facts", "owner"],
+      "subtopics": {
+        "dich-vu": {"label": "Trang dịch vụ theo loại xe, thời hạn, khu vực giao nhận", "intents": ["transactional", "commercial"], "content_type": "service", "rule": "Chỉ tạo trang khu vực khi cửa hàng thực sự giao nhận ở đó và trang có thông tin riêng (điểm hẹn, phí, thời gian). Không tạo trang theo quận chỉ để có từ khoá."},
+        "thu-tuc": {"label": "Thủ tục, giấy tờ, tiền cọc, hợp đồng", "intents": ["informational", "transactional"], "content_type": "procedure"},
+        "chi-phi": {"label": "Chi phí, phụ phí, cách tính ngày thuê", "intents": ["informational", "commercial"], "content_type": "guide"},
+        "su-co-khi-thue": {"label": "Sự cố trong thời gian thuê: hỏng xe, va chạm, mất xe, phạt nguội", "intents": ["troubleshooting", "informational"], "content_type": "troubleshooting"},
+        "khach-nuoc-ngoai": {"label": "Khách nước ngoài thuê xe: bằng lái, giấy tờ, cọc", "intents": ["informational", "transactional"], "content_type": "guide"},
+        "so-sanh-lua-chon": {"label": "Thuê hay mua, thuê xe máy hay xe ôm, chọn gói thuê", "intents": ["commercial"], "content_type": "comparison"}
+      }
+    },
+    "xe-may": {
+      "label": "Xe máy",
+      "path": "/xe-may/",
+      "active": true,
+      "requires_sources": true,
+      "evidence_types": ["manufacturer", "official", "law", "press", "business-facts"],
+      "subtopics": {
+        "chon-xe": {"label": "Chọn xe số, xe ga, xe côn, 50cc theo nhu cầu", "intents": ["commercial"], "content_type": "comparison"},
+        "mau-xe": {"label": "Từng mẫu xe: thông số theo nhà sản xuất, phù hợp ai", "intents": ["commercial", "informational"], "content_type": "guide", "rule": "Thông số, giá niêm yết chỉ lấy từ trang nhà sản xuất, ghi ngày đối chiếu."},
+        "so-sanh-mau-xe": {"label": "So sánh hai mẫu xe cụ thể", "intents": ["commercial"], "content_type": "comparison"},
+        "mua-ban-xe-cu": {"label": "Mua, bán, kiểm tra xe cũ", "intents": ["informational", "transactional"], "content_type": "guide"},
+        "van-hanh": {"label": "Vận hành: xăng, tải trọng, tốc độ, chở người", "intents": ["informational"], "content_type": "guide"}
+      }
+    },
+    "xe-dien": {
+      "label": "Xe điện",
+      "path": "/xe-dien/",
+      "active": true,
+      "requires_sources": true,
+      "evidence_types": ["manufacturer", "official", "law", "press", "business-facts"],
+      "subtopics": {
+        "chon-xe-dien": {"label": "Chọn xe máy điện, xe đạp điện theo nhu cầu", "intents": ["commercial"], "content_type": "comparison"},
+        "pin-sac": {"label": "Pin, sạc, an toàn cháy nổ, tuổi thọ pin", "intents": ["informational", "troubleshooting"], "content_type": "guide"},
+        "phap-ly-xe-dien": {"label": "Bằng lái, độ tuổi, đăng ký xe điện", "intents": ["informational"], "content_type": "guide"},
+        "van-hanh-xe-dien": {"label": "Đi mưa, ngập, quãng đường, tốc độ xe điện", "intents": ["informational", "troubleshooting"], "content_type": "guide"}
+      }
+    },
+    "bao-duong": {
+      "label": "Sửa chữa & bảo dưỡng",
+      "path": "/bao-duong/",
+      "active": true,
+      "requires_sources": true,
+      "evidence_types": ["manufacturer", "official", "press"],
+      "subtopics": {
+        "lich-bao-duong": {"label": "Lịch bảo dưỡng theo sổ tay nhà sản xuất", "intents": ["informational"], "content_type": "guide"},
+        "su-co-thuong-gap": {"label": "Sự cố thường gặp và cách xử lý", "intents": ["troubleshooting"], "content_type": "troubleshooting"},
+        "lop-phanh-nhot-ac-quy": {"label": "Lốp, phanh, nhớt, ắc quy, xích, dây curoa", "intents": ["informational"], "content_type": "guide"},
+        "mua-mua-ngap": {"label": "Xe máy trong mưa, ngập nước", "intents": ["troubleshooting", "informational"], "content_type": "guide"},
+        "chi-phi-sua-chua": {"label": "Chi phí sửa chữa, thay thế (chỉ khi có nguồn)", "intents": ["informational"], "content_type": "guide", "rule": "Không đưa giá sửa chữa nếu không có nguồn công khai có ngày."}
+      }
+    },
+    "du-lich": {
+      "label": "Du lịch Việt Nam",
+      "path": "/du-lich/",
+      "active": true,
+      "requires_sources": true,
+      "evidence_types": ["official", "map-official", "press", "owner"],
+      "subtopics": {
+        "dia-diem-ha-noi": {"label": "Địa điểm ở Hà Nội và quanh Long Biên", "intents": ["informational", "navigational"], "content_type": "place-guide"},
+        "tuyen-duong-xe-may": {"label": "Hà Nội đi X bằng xe máy: quãng đường, quốc lộ, lưu ý", "intents": ["informational"], "content_type": "route", "rule": "Không bao giờ gợi ý cao tốc cho xe máy."},
+        "diem-den-mien-bac": {"label": "Điểm đến miền Bắc: dữ liệu xác minh được", "intents": ["informational"], "content_type": "place-guide"},
+        "gui-xe-do-xe": {"label": "Gửi xe, đỗ xe tại điểm đến", "intents": ["informational"], "content_type": "guide"}
+      }
+    },
+    "luat-giao-thong": {
+      "label": "Luật & bằng lái",
+      "path": "/luat-giao-thong/",
+      "active": true,
+      "requires_sources": true,
+      "evidence_types": ["law", "official"],
+      "subtopics": {
+        "muc-phat": {"label": "Mức phạt từng lỗi theo Nghị định 168 (sửa đổi NĐ 238)", "intents": ["informational"], "content_type": "fine-lookup"},
+        "giay-to-bang-lai": {"label": "Thi, đổi, cấp lại, hạng giấy phép lái xe", "intents": ["informational", "transactional"], "content_type": "procedure"},
+        "dang-ky-xe": {"label": "Đăng ký, sang tên, biển số, thu hồi", "intents": ["transactional", "informational"], "content_type": "procedure"},
+        "bao-hiem": {"label": "Bảo hiểm bắt buộc, bồi thường", "intents": ["commercial", "informational"], "content_type": "guide"},
+        "xu-ly-vi-pham": {"label": "Phạt nguội, nộp phạt, tạm giữ xe, khiếu nại", "intents": ["informational", "transactional"], "content_type": "procedure"},
+        "quy-tac-giao-thong": {"label": "Đèn, biển báo, nhường đường, tốc độ, làn đường", "intents": ["informational"], "content_type": "guide"},
+        "nguoi-nuoc-ngoai": {"label": "Người nước ngoài lái xe ở Việt Nam", "intents": ["informational"], "content_type": "guide"}
+      }
+    },
+    "kinh-nghiem": {
+      "label": "Kinh nghiệm di chuyển",
+      "path": "/kinh-nghiem/",
+      "active": true,
+      "requires_sources": false,
+      "evidence_types": ["official", "press", "manufacturer", "general-advice"],
+      "subtopics": {
+        "ky-nang-lai": {"label": "Kỹ năng lái: xe số, xe ga, đèo, mưa, đêm", "intents": ["informational"], "content_type": "guide"},
+        "trang-bi": {"label": "Mũ, áo mưa, găng, giá điện thoại", "intents": ["commercial", "informational"], "content_type": "guide", "rule": "Không quảng cáo thương hiệu, không giá."},
+        "an-toan": {"label": "An toàn, xử lý tình huống trên đường", "intents": ["informational", "troubleshooting"], "content_type": "guide"},
+        "di-chuyen-ha-noi": {"label": "Đi lại trong Hà Nội: cầu, giờ cao điểm, gửi xe, kết hợp xe buýt", "intents": ["informational"], "content_type": "guide"}
+      }
+    },
+    "xe-dap": {"label": "Xe đạp", "path": "/xe-dap/", "active": false, "reason": "Ngoài dịch vụ và chuyên môn của cửa hàng; 242 bài xưởng cũ về xe đạp phần lớn nói về bugi, nhớt (REJECT)."},
+    "o-to": {"label": "Ô tô", "path": "/o-to/", "active": false, "reason": "Ngoài dịch vụ của cửa hàng."}
+  },
+  "intent_classes": {
+    "troubleshooting": ["khong de duoc", "khong no", "de khong", "bi chet may", "chet may", "bi hong", "cach xu ly", "khac phuc", "bi xit lop", "thung lop", "het dien", "ngap nuoc", "bi ket", "keu", "rung", "hao xang", "yeu dien", "mat phanh", "phai lam sao", "lam gi khi", "su co"],
+    "transactional": ["thue", "gia thue", "cho thue", "mua ", "dat xe", "dang ky", "nop phat", "doi bang", "cap lai", "sang ten", "thi bang", "mua bao hiem", "lam lai bang", "dang kiem"],
+    "commercial": ["nen chon", "so sanh", " hay ", "tot nhat", "nen mua", "review", "danh gia", "co nen", "phu hop", "chon xe", "loai nao", "xe nao"],
+    "informational": ["phat bao nhieu", "bao nhieu", "la gi", "co can", "co bi", "co duoc", "quy dinh", "muc phat", "o dau", "may gio", "lich su", "cach di", "cach ", "huong dan", "kinh nghiem", "luu y", "co thoi han"],
+    "navigational_entities": ["aeon mall long bien", "ben xe gia lam", "cho long bien", "cau long bien", "ho tay", "ho guom", "pho co", "bai giua song hong", "vinhomes riverside", "ben xe my dinh", "ben xe giap bat", "ben xe nuoc ngam", "ben xe yen nghia", "san bay noi bai", "ga ha noi", "cau chuong duong", "cau vinh tuy", "cau nhat tan", "cau thanh tri"]
+  },
+  "qualifier_axes": {
+    "district": ["hoan kiem", "ba dinh", "cau giay", "tay ho", "dong da", "hai ba trung", "thanh xuan", "hoang mai", "nam tu liem", "bac tu liem", "long bien", "ha dong", "gia lam", "bo de", "thanh tri", "dong anh", "soc son", "me linh", "quan trung tam", "noi thanh", "ngoai thanh"],
+    "audience": ["sinh vien", "hoc sinh", "nguoi di lam", "dan van phong", "nhan vien van phong", "du khach", "khach du lich", "nguoi moi", "nguoi moi den ha noi", "nguoi thue dai han", "tai xe cong nghe", "tai xe giao hang", "shipper", "phu huynh", "nu gioi", "phu nu", "chuyen gia", "nguoi di cong tac", "nguoi chay viec", "nguoi moi mua xe", "nguoi su dung xe hang ngay", "nguoi lon tuoi", "nguoi moi lay bang", "nguoi moi tap lai", "cho nguoi moi", "nguoi moi bat dau", "moi hoc lai", "moi tap lai", "moi biet di xe", "lan dau di xe", "nguoi moi hoc", "danh cho"],
+    "context": ["gio cao diem", "mua mua", "mua dong", "mua he", "nang nong", "ngap ung", "ban dem", "ngay le", "dip tet", "cuoi tuan", "lan dau", "dai ngay", "trong ngo", "trung tam thanh pho", "vanh dai", "quoc lo", "sang toi", "di cong tac", "di hoc", "thuc tap", "thoi tiet xau", "troi mua", "troi lanh", "khi tac duong", "lien quan", "nut giao dong duc", "duong vang", "khu do thi"],
+    "duration": ["trong ngay", "2 ngay 1 dem", "3 ngay 2 dem", "4 ngay 3 dem", "5 den 7 ngay", "theo tuan", "theo thang", "dai han", "ngan ngay", "theo ngay", "theo gio", "mot tuan", "mot thang"],
+    "group": ["solo", "mot minh", "cap doi", "nhom ban", "gia dinh", "nhom phuot", "di nhom", "di cung ban"],
+    "time_words": ["2023", "2024", "2025", "2026", "2027", "moi nhat", "hien hanh", "cap nhat", "hom nay", "nam nay", "hien nay", "moi"],
+    "filler": ["chi tiet", "day du", "tong hop", "meo", "bi quyet", "tat tan tat", "tu a den z", "can biet", "nen biet", "giai dap", "thac mac", "cau hoi thuong gap", "cam nang", "a-z", "toan tap", "nhanh", "don gian", "chuan", "dung cach", "hieu qua"]
+  },
+  "_note_tokens": "intent_markers và stopwords so khớp trên token GIỮ DẤU (chữ thường, NFC). Bỏ dấu sẽ làm 'đèn đỏ' trùng 'đến đó'. qualifier_axes so khớp trên dạng bỏ dấu của từng token.",
+  "intent_markers": ["phạt", "mức", "bao", "nhiêu", "là", "gì", "có", "không", "cần", "bị", "được", "cách", "hướng", "dẫn", "thủ", "tục", "quy", "định", "kinh", "nghiệm", "lưu", "ý", "nên", "chọn", "so", "sánh", "nào", "hay", "làm", "sao", "phải", "thế", "ở", "đâu", "mấy", "lỗi"],
+  "stopwords": ["và", "hoặc", "của", "cho", "với", "tại", "trong", "trên", "dưới", "khi", "để", "như", "này", "đó", "những", "các", "một", "về", "từ", "đến", "theo", "mới", "lại", "rồi", "thì", "mà", "nếu", "vì", "ai", "đây", "kia", "cũng", "rất", "hơn", "nhất", "thêm", "xem", "hỏi", "bài", "viết", "là", "có", "không", "bao", "nhiêu", "gì", "thế", "nào", "ở", "đâu", "phần", "người", "bạn", "mình", "chúng", "ta", "họ", "sẽ", "đã", "đang", "vẫn", "chỉ", "đều", "từng", "được", "bị", "cần", "nên", "phải", "sao", "hay", "dành", "sau", "trước", "giữa", "ngoài", "lúc", "mấy", "vài", "nhưng", "rằng", "bằng", "cả", "còn", "nữa", "luôn", "ngay", "tới", "vào", "ra"],
+  "entity_lexicon": {
+    "vehicle_models": ["honda vision", "honda air blade", "honda lead", "honda wave alpha", "honda wave", "honda sh", "honda sh mode", "honda winner x", "honda winner", "honda cub", "honda blade", "honda future", "honda vario", "yamaha sirius", "yamaha grande", "yamaha exciter", "yamaha janus", "yamaha nvx", "yamaha freego", "yamaha jupiter", "vinfast feliz", "vinfast evo", "vinfast klara", "vinfast theon", "vinfast vento", "sym elite", "tailg", "yadea", "dibao", "pega", "dat bike"],
+    "law_docs": ["nghi dinh 168", "nghi dinh 238", "nghi dinh 100", "luat trat tu an toan giao thong", "thong tu 73", "thong tu 108", "thong tu 38", "thong tu 79", "qcvn 41"]
+  },
+  "priority_rules": {
+    "P0": {"min_volume": 1000, "or_service_hub": "thue-xe"},
+    "P1": {"min_volume": 100},
+    "P2": "mặc định, hoặc chưa có số liệu khối lượng tìm kiếm"
+  },
+  "approval_rules": {
+    "information_gain_min_chars": 60,
+    "evidence_required_when_hub_requires_sources": true,
+    "allowed_evidence_types": ["law", "official", "manufacturer", "business-facts", "owner", "press", "map-official", "keyword-volume", "gsc", "general-advice"],
+    "volume_evidence_types": ["keyword-volume", "gsc"],
+    "block_risks": ["high"],
+    "review_risks": ["medium"],
+    "title_max_chars": 75,
+    "forbidden_in_content": ["rentbikehanoi.com/", "www.rentbikehanoi.com"],
+    "hype_words": ["tuyệt vời", "hàng đầu", "số 1", "uy tín nhất", "tốt nhất thị trường", "rẻ nhất", "cam kết 100%"]
+  },
+  "dedup_thresholds": {
+    "semantic_high": 0.80,
+    "semantic_medium": 0.55,
+    "title_jaccard_high": 0.60,
+    "title_jaccard_medium": 0.40,
+    "core_jaccard_cluster": 0.75,
+    "outline_jaccard_review": 0.50,
+    "max_doc_freq_ratio_for_candidates": 0.20
+  }
+}
