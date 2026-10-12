@@ -1,0 +1,109 @@
+{
+  "url": "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+  "title": "Xe máy điện đi được bao nhiêu km một lần sạc? Số liệu nhà sản xuất",
+  "art": "Km mỗi lần sạc",
+  "tone": "gold",
+  "keywords": "xe máy điện đi được bao nhiêu km, quãng đường xe máy điện một lần sạc, xe máy điện đi được bao xa, xe máy điện đi làm có đủ pin không, quãng đường thực tế xe máy điện",
+  "excerpt": "Hãng công bố từ khoảng 120 km (Yadea Osta H+, pin 2,16 kWh) tới 200 km (Dat Bike Era, pin 4,3 kWh) hay 203 km (VinFast Evo200 ở 30 km/h, tải 65 kg) mỗi lần sạc; thực tế thấp hơn vì tốc độ, tải, nhiệt độ. Cách ước tính quãng đường bạn cần và sạc an toàn.",
+  "sections": [
+    [
+      "Câu trả lời ngắn",
+      "<p><strong>Tùy pin và cách hãng đo: khoảng 100–200 km với xe phổ thông, theo số công bố.</strong> Mỗi hãng thử nghiệm ở điều kiện riêng – thường là tốc độ đều, một người lái, đường bằng – nên con số trên trang sản phẩm là <strong>mức tối đa trong phòng thử</strong>, không phải quãng đường đi làm giữa phố. <a href=\"https://www.yadea.com.vn/yadea-osta-xe-may-dien-da-dang-tinh-nang/\" target=\"_blank\" rel=\"noopener noreferrer\">trang Yadea Việt Nam</a> nói thẳng điều này: thực tế có thể khác <em>“do tải trọng, nhiệt độ, gió, đường sá và thói quen lái”</em>.</p><p>Cách dùng số liệu đúng: lấy quãng đường đi làm hai chiều mỗi ngày nhân với số ngày giữa hai lần sạc, so với khoảng 60–70% số hãng công bố để có biên an toàn. Đi 20 km mỗi ngày, sạc tối hằng ngày thì gần như xe nào cũng đủ; đi 60 km mỗi ngày mới cần pin lớn.</p>"
+    ],
+    [
+      "Số liệu từng hãng và điều kiện đo",
+      "<div class=\"table-scroll\"><table><thead><tr><th>Xe</th><th>Pin</th><th>Quãng đường công bố</th><th>Điều kiện đo</th><th>Nguồn (đối chiếu 12/10/2026)</th></tr></thead><tbody><tr><td>Yadea Osta H+</td><td>LFP 2,16 kWh</td><td>Khoảng 120 km</td><td>Điều kiện thử nghiệm tiêu chuẩn của hãng</td><td>Yadea Việt Nam, cập nhật 10/04/2026</td></tr><tr><td>Yadea Osta P</td><td>LFP 3,24 kWh</td><td>Khoảng 180 km</td><td>Tốc độ tối đa 63 km/h; điều kiện tiêu chuẩn của hãng</td><td>Yadea Việt Nam, cập nhật 10/04/2026</td></tr><tr><td>Dat Bike Era (E1, E2)</td><td>4,3 kWh</td><td>Lên đến 200 km</td><td>Bài của hãng không nêu điều kiện đo</td><td>Dat Bike, cập nhật 9/10/2026</td></tr><tr><td>VinFast Evo200</td><td>LFP 3,5 kWh</td><td>Khoảng 203 km</td><td>Đo ở 30 km/h, một người 65 kg</td><td>vinfastauto.com (xem ghi chú)</td></tr><tr><td>VinFast Feliz S</td><td>3,5 kWh</td><td>198 km</td><td>Đo ở 30 km/h, một người 65 kg</td><td>vinfastauto.com (xem ghi chú)</td></tr></tbody></table></div><p>Ghi chú: trang VinFast chặn truy cập tự động vào ngày đối chiếu, nên hai dòng VinFast lấy từ kết quả tìm kiếm dẫn thẳng từ vinfastauto.com; hãy mở trang thông số của hãng để xác nhận trước khi quyết định. Honda ICON e: công bố pin lithium-ion chống nước IP67 và cốp 26 lít trong thông cáo xuất xưởng, nhưng thông số quãng đường nằm ở trang sản phẩm không mở được khi đối chiếu nên bài không trích. Giá tham khảo: Yadea Osta H+ 28.990.000 đồng, Osta P 33.990.000 đồng (đã gồm VAT, theo trang hãng).</p>"
+    ],
+    [
+      "Vì sao thực tế thấp hơn số công bố",
+      "<ul><li><strong>Tốc độ</strong>: VinFast đo ở 30 km/h; đi 45–60 km/h lực cản gió tăng mạnh, quãng đường tụt nhanh. Yadea mô tả chế độ TTFAR cho <em>“quãng đường tối ưu nhất”</em>, chế độ Sport ngược lại.</li><li><strong>Tải</strong>: chở hai người, hàng nặng so với một người 65 kg trong phòng thử.</li><li><strong>Dừng – đi liên tục</strong> trong phố: mỗi lần tăng tốc tốn nhiều điện hơn chạy đều.</li><li><strong>Nhiệt độ</strong>: trời lạnh pin yếu đi, trời nóng gắt cũng giảm hiệu suất; mùa đông Hà Nội thấy rõ.</li><li><strong>Pin cũ</strong>: dung lượng giảm theo số chu kỳ sạc; xe thuê, xe cũ nên nhìn mức pin thực tế thay vì tờ rơi.</li><li><strong>Lốp non, phanh bó</strong> ăn điện như xe xăng ăn xăng – <a href=\"/bao-duong/xe-may/ap-suat-lop/\">áp suất lốp đúng</a> là cách đơn giản, ít tốn kém để đi xa hơn.</li></ul>"
+    ],
+    [
+      "Ước tính quãng đường bạn cần",
+      "<ol><li>Đo quãng đường đi làm, đi học hai chiều bằng bản đồ; cộng các việc lặt vặt trong ngày.</li><li>Nhân với số ngày bạn định đi giữa hai lần sạc (sạc hằng ngày thì nhân 1).</li><li>So với <strong>60–70% số hãng công bố</strong>: ví dụ xe công bố 120 km thì tính 70–85 km dùng được; công bố 200 km thì khoảng 120–140 km.</li><li>Chừa thêm cho chở người, cho mùa lạnh và cho pin xuống cấp sau vài năm.</li><li>Không có chỗ sạc ở nhà hoặc đi trên 50 km mỗi ngày: chọn pin tháo rời để sạc trong nhà, hoặc xe pin lớn.</li></ol>"
+    ],
+    [
+      "Sạc thế nào để đủ pin và an toàn",
+      "<p>Pin đầy mỗi sáng là cách chắc nhất để không lo quãng đường, nhưng sạc phải đúng. <a href=\"https://lsvn.vn/bo-cong-an-khuyen-cao-nguoi-dan-cac-ky-nang-phong-chong-chay-no-khi-sac-xe-dien-1690646873-a133458.html\" target=\"_blank\" rel=\"noopener noreferrer\">khuyến cáo của Cục Cảnh sát PCCC và CNCH</a>: sạc theo <em>“đúng hướng dẫn và khuyến cáo của nhà sản xuất”</em>, <em>“sau khi sử dụng phải chờ bình điện nguội khoảng 20 phút rồi mới bắt đầu sạc”</em>, <em>“không sạc quá 8 giờ liên tục”</em>, nơi sạc thoáng gió, nhiệt độ 0–35℃, và <em>“tuyệt đối không sạc qua đêm và không có người lớn ở nhà”</em>. Dat Bike công bố Era sạc đầy khoảng 3 giờ 30 phút ở chế độ tiêu chuẩn 1.200 W – đủ để sạc buổi tối rồi rút trước khi ngủ. Checklist pin và sạc khi nhận xe: <a href=\"/xe-dien/pin-sac/\">pin và sạc xe điện</a>.</p>"
+    ],
+    [
+      "Chọn pin lớn hay sạc mỗi ngày",
+      "<ul><li><strong>Đi dưới 30 km mỗi ngày, có ổ sạc</strong>: xe pin 2–2,5 kWh là đủ, nhẹ hơn, rẻ hơn.</li><li><strong>Đi 30–60 km mỗi ngày hoặc hay quên sạc</strong>: pin 3–3,5 kWh.</li><li><strong>Đi tỉnh, chở hàng</strong>: pin 4 kWh trở lên như Dat Bike Era, chấp nhận xe nặng và giá cao hơn.</li><li>Xe điện công suất trên 4 kW là xe mô tô, cần bằng A1 – xem <a href=\"/xe-dien/xe-may-dien-cho-hoc-sinh/\">xe máy điện nào không cần bằng</a> và <a href=\"/xe-dien/xe-may-dien-co-can-dang-ky-bien-so-khong/\">xe điện nào phải đăng ký biển số</a>.</li></ul>"
+    ],
+    [
+      "Thuê xe điện đi thử trước khi mua",
+      "<p>Cách chắc nhất để biết xe điện có hợp với lộ trình của bạn là đi thử đúng lộ trình đó vài ngày. Nguyễn Hà cho thuê xe máy điện (hiện có xe Tailg) với giá 600–800 nghìn đồng/tuần, 1,5–1,8 triệu đồng/tháng; đi một tuần bạn sẽ biết pin tụt bao nhiêu mỗi ngày với cách đi của mình. Xem <a href=\"/thue-xe-dien/ha-noi/\">thuê xe máy điện Hà Nội</a> hoặc gọi 0334 699 969.</p>"
+    ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp về quãng đường xe máy điện",
+  "faq": [
+    [
+      "Xe máy điện đi được bao nhiêu km một lần sạc?",
+      "Theo hãng công bố: Yadea Osta H+ khoảng 120 km, Osta P khoảng 180 km, Dat Bike Era lên đến 200 km, VinFast Evo200 khoảng 203 km ở 30 km/h với tải 65 kg; thực tế thấp hơn tùy tốc độ, tải và nhiệt độ."
+    ],
+    [
+      "Vì sao xe điện của tôi không đi được như quảng cáo?",
+      "Số công bố đo ở tốc độ thấp, một người, đường bằng; đi nhanh, chở hai, dừng đi liên tục, trời lạnh và pin cũ đều làm giảm quãng đường."
+    ],
+    [
+      "Sạc xe máy điện bao lâu thì đầy?",
+      "Tùy xe: Dat Bike Era khoảng 3 giờ 30 phút ở chế độ tiêu chuẩn; Cục Cảnh sát PCCC khuyến cáo không sạc quá 8 giờ liên tục và không sạc qua đêm."
+    ],
+    [
+      "Đi làm 40 km mỗi ngày nên chọn pin bao nhiêu?",
+      "Tính 60–70% số công bố: xe công bố 120 km dùng được khoảng 70–85 km, đủ cho một ngày nếu sạc hằng đêm; muốn hai ngày sạc một lần cần pin 3 kWh trở lên."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://www.yadea.com.vn/yadea-osta-xe-may-dien-da-dang-tinh-nang/",
+      "quote": "Yadea Osta (trang Yadea Việt Nam, cập nhật 10/04/2026): phiên bản H+ pin LFP 2,16 kWh, quãng đường khoảng 120 km mỗi lần sạc đầy, giá 28.990.000 VNĐ (đã gồm VAT); phiên bản P pin LFP 3,24 kWh, khoảng 180 km, tốc độ tối đa 63 km/h, giá 33.990.000 VNĐ; động cơ TTFAR công suất định mức 1.500 W; chế độ TTFAR, Free, Sport; hãng thử nghiệm trong điều kiện tiêu chuẩn, thực tế có thể khác do tải trọng, nhiệt độ, gió, đường sá và thói quen lái; bảo hành 3 năm hoặc 30.000 km",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://dat.bike/xe-may-dien-dat-bike-era-di-duoc-bao-nhieu-km/",
+      "quote": "Dat Bike Era (dat.bike, đăng 26/6/2026, cập nhật 9/10/2026): pin dung lượng lớn lên đến 4.3kWh; quãng đường lên đến 200km chỉ sau một lần sạc đầy; Era E2 sạc đầy chế độ Standard 1.200W khoảng 3 giờ 30 phút; Era E1 chế độ Fast 1.800W khoảng 2 giờ 15 phút, chế độ Boost 2.700W cắm 15 phút đi thêm khoảng 30km; công suất đỉnh lên đến 5kW; tốc độ tối đa 82km/h",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+      "quote": "VinFast (vinfastauto.com): quãng đường công bố đo ở tốc độ 30 km/h, một người 65 kg; Evo200 pin LFP 3,5 kWh khoảng 203 km; Feliz S pin 3,5 kWh 198 km",
+      "checked": "2026-10-12",
+      "verbatim": false,
+      "note": "trang trả về 403 với truy cập tự động ngày 12/10/2026; số liệu lấy từ kết quả tìm kiếm dẫn từ vinfastauto.com, bài ghi rõ"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/su-kien/honda-viet-nam-chao-mung-xuat-xuong-chiec-xe-gan-may-dien-icon-e-dau-tien-cong-nghe-xanh-dong-hanh-cung-tuong-lai-ben-vung",
+      "quote": "Honda Việt Nam, thông cáo xuất xưởng ICON e: (27/03/2025): xe được trang bị pin Lithium-ion đạt chuẩn chống nước IP67, pin tháo rời; cốp rộng rãi với dung tích 26 lít",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "press",
+      "source": "https://lsvn.vn/bo-cong-an-khuyen-cao-nguoi-dan-cac-ky-nang-phong-chong-chay-no-khi-sac-xe-dien-1690646873-a133458.html",
+      "quote": "Cục Cảnh sát PCCC và CNCH khuyến cáo (lsvn.vn 30/07/2023): theo đúng hướng dẫn và khuyến cáo của nhà sản xuất; sau khi sử dụng phải chờ bình điện nguội khoảng 20 phút rồi mới bắt đầu sạc; không sạc quá 8 giờ liên tục; khi sạc trong phòng cần tránh nơi kín đảm bảo điều kiện thông thoáng gió tốt trong điều kiện nhiệt độ từ 0℃ - 35℃; tuyệt đối không sạc qua đêm và không có người lớn ở nhà",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "prices.xe điện / fleet: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng; có xe máy điện Tailg màu đen nhám; 0334 699 969",
+      "checked": "2026-10-12"
+    }
+  ],
+  "id": "TM-00088",
+  "topic_id": "TM-00088",
+  "kind": "article",
+  "hub": "xe-dien",
+  "parent": "/xe-dien/",
+  "factoryVersion": 2,
+  "publishedAt": "2026-10-12T13:33:11.149381+00:00",
+  "publishedBy": "Claude Code (writer-3, Cách 1, 12/10/2026)"
+}
