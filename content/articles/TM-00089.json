@@ -1,0 +1,124 @@
+{
+  "url": "/xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/",
+  "title": "Xe máy điện đi mưa, lội nước có sao không? Chuẩn chống nước",
+  "art": "Đi mưa",
+  "tone": "gold",
+  "keywords": "xe máy điện đi mưa có sao không, xe máy điện lội nước được không, chuẩn chống nước ip67 xe máy điện, xe máy điện bị ngập nước phải làm sao, sạc xe máy điện khi xe còn ướt",
+  "excerpt": "Đi mưa thì được, lội nước nông theo giới hạn hãng công bố: Yadea pin IPX7, động cơ IP67, lội 30–50 cm; Dat Bike IP67 cho động cơ, pin, cổng sạc, ECU, không chạy khi nước quá sàn để chân.",
+  "sections": [
+    [
+      "Câu trả lời ngắn",
+      "<p>Xe máy điện bán chính hãng ở Việt Nam được thiết kế để đi dưới mưa, kể cả mưa to. Phần cần giữ khô không phải là cả chiếc xe mà là bốn bộ phận: pin, động cơ, cổng sạc và bộ điều khiển. Các hãng công bố chuẩn chống nước cho từng bộ phận này, và kèm theo một giới hạn lội nước mà bạn nên coi là mức trần, không phải mức khuyến khích.</p><ul><li><strong>Yadea</strong> (bài trên <a href=\"https://www.yadea.com.vn/xe-may-dien-cho-sinh-vien/\" target=\"_blank\" rel=\"noopener noreferrer\">trang Yadea Việt Nam</a>, 27/7/2026): pin kháng nước IPX7, động cơ IP67; phần hỏi đáp ghi các dòng Vora, Osta, Voltguard đạt IPX6 đến IPX7 cho động cơ và pin, <em>cho phép lội nước 30–50 cm</em>; riêng Voltguard U80 ghi <em>lội ngập sâu 0,5 m</em>.</li><li><strong>Dat Bike</strong> (<a href=\"https://dat.bike/dat-bike-quantum-s3/\" target=\"_blank\" rel=\"noopener noreferrer\">trang Dat Bike Quantum S3</a>): động cơ, pin, cổng sạc và ECU đạt IP67; <em>các phần còn lại đạt IP65</em>; cổng sạc USB trên Quantum S1, S2 chỉ IP54. Sách <a href=\"https://dat.bike/en/huong-dan-su-dung-xe-quantum-en/\" target=\"_blank\" rel=\"noopener noreferrer\">hướng dẫn sử dụng Dat Bike Quantum</a> khuyên <em>hạn chế chạy trong nước ngập quá sàn để chân</em>.</li><li><strong>VinFast</strong>: trang hãng không mở được khi chúng tôi đối chiếu ngày 12/10/2026, nên bài không nêu số của VinFast. Hãy đọc trực tiếp sách hướng dẫn kèm xe.</li></ul><p>Quy tắc thực dụng: mưa thì cứ đi, nước ngập dưới trục bánh và chưa chạm sàn để chân thì đi chậm, nước ngập quá sàn để chân thì quay đầu.</p>"
+    ],
+    [
+      "Chuẩn IP đọc thế nào",
+      "<p>Mã IP (Ingress Protection, theo tiêu chuẩn IEC 60529) có hai chữ số. Số đầu là mức chống bụi, cao nhất là 6 (kín bụi). Số sau là mức chống nước: 4 chịu nước bắn, 5 chịu tia nước, 6 chịu tia nước mạnh, 7 chịu ngâm tạm thời ở độ sâu nông trong thời gian ngắn. Chữ X nghĩa là hãng không công bố chỉ số đó. Vì vậy “pin IPX7” của Yadea chỉ nói về nước, không nói về bụi, còn “IP67” của Dat Bike nói cả hai.</p><p>Hai điều cần nhớ khi đọc mã IP trên xe điện:</p><ul><li>Mã IP là kết quả thử nghiệm trong phòng thí nghiệm với nước tĩnh. Ngoài đường, nước có bùn, có sóng do xe khác tạo ra và có thời gian ngâm dài hơn bài thử, nên hãng mới đặt giới hạn lội nước thấp hơn con số của chuẩn.</li><li>Mã IP gắn với từng bộ phận, không gắn với cả xe. Dat Bike nói rõ “các phần còn lại đạt IP65”: cụm công tắc, tay ga, đèn, giắc nối chịu được mưa và tia nước, nhưng không chịu được ngâm.</li></ul>"
+    ],
+    [
+      "Từng bộ phận chịu nước khác nhau",
+      "<div class=\"table-scroll\"><table><thead><tr><th>Bộ phận</th><th>Chuẩn hãng công bố</th><th>Ý nghĩa khi đi mưa</th></tr></thead><tbody><tr><td>Pin</td><td>Yadea IPX7; Dat Bike IP67</td><td>Nắp khoang pin phải đóng khít; không tháo pin khi tay và sàn đang ướt</td></tr><tr><td>Động cơ (thường nằm trong bánh sau)</td><td>Yadea IP67; Dat Bike IP67</td><td>Là phần ngập đầu tiên khi lội nước; giới hạn lội nước của hãng tính cho bộ phận này</td></tr><tr><td>Cổng sạc trên xe</td><td>Dat Bike IP67 khi đóng nắp</td><td>Đóng nắp che cổng sạc trước khi đi mưa (Dat Bike)</td></tr><tr><td>Bộ điều khiển (ECU)</td><td>Dat Bike IP67</td><td>Hỏng ECU là lỗi đắt nhất sau ngập; không tự tháo</td></tr><tr><td>Cổng USB sạc điện thoại</td><td>Dat Bike IP54 (Quantum S1, S2)</td><td>Chỉ chịu nước bắn; đậy nắp, không cắm sạc điện thoại khi mưa</td></tr><tr><td>Tay ga, công tắc, đèn, giắc nối</td><td>Dat Bike IP65</td><td>Chịu mưa và tia nước; không chịu ngâm, không xịt rửa áp lực cao vào cụm này</td></tr></tbody></table></div><p>Nhìn bảng sẽ thấy vì sao xe “đi mưa không sao” nhưng “rửa xe xong lại lỗi”: vòi rửa áp lực cao bắn thẳng vào cụm công tắc hoặc giắc nối vượt quá mức IP65. <a href=\"https://dat.bike/en/blogs/kien-thuc/meo-su-dung-xe-may-dien-an-toan-vao-mua-mua\" target=\"_blank\" rel=\"noopener noreferrer\">hướng dẫn đi mưa của Dat Bike</a> khuyên khi rửa xe tránh xịt nước trực tiếp vào hệ thống điều khiển điện tử.</p>"
+    ],
+    [
+      "Lội nước: ngưỡng hãng công bố và cách đi",
+      "<p>Ba con số từ nhà sản xuất: Yadea 30–50 cm (hỏi đáp chung), Yadea Voltguard U80 0,5 m, Dat Bike “không quá sàn để chân”. Sàn để chân của xe ga điện thường cao hơn trục bánh một chút, nên hai cách nói này gần nhau. Chúng tôi khuyên lấy <strong>mép dưới sàn để chân</strong> làm vạch dừng cho mọi xe, vì đó là mức nước bắt đầu chạm vào khoang pin ở nhiều mẫu.</p><ul><li><strong>Nhìn xe phía trước</strong>: nếu nước ngập quá nửa bánh xe máy đi trước, đừng vào.</li><li><strong>Đi chậm, ga đều</strong>: tốc độ đi bộ nhanh. Đi nhanh tạo sóng, nước dâng cao hơn mực thực tế và tràn vào khoang pin.</li><li><strong>Không dừng giữa vũng</strong>, không tắt khóa rồi bật lại khi đang ngập.</li><li><strong>Tránh nước chảy</strong>: dòng nước ngang đường mạnh hơn trông thấy, xe điện nhẹ dễ trôi bánh.</li><li><strong>Không đi theo ô tô</strong>: sóng đuôi ô tô đẩy nước lên cao hơn sàn.</li></ul><p>Nếu đã lỡ vào vùng ngập sâu và xe báo lỗi hoặc tắt nguồn, Dat Bike hướng dẫn: <em>dừng xe ngay, tắt nguồn và tháo chìa khóa</em>, dắt xe lên chỗ khô, lau khô pin, ổ sạc và động cơ; xe ngập sâu thì mang đến trung tâm bảo hành để kiểm tra hệ thống điện trước khi dùng tiếp. Đừng bật thử nhiều lần.</p>"
+    ],
+    [
+      "Sau khi đi mưa, lội nước phải làm gì",
+      "<ol><li><strong>Lau khô</strong> bằng khăn mềm, ưu tiên khoang pin, cổng sạc, cụm công tắc; sấy nhẹ các bộ phận điện nếu có máy sấy (hướng dẫn Dat Bike).</li><li><strong>Không sạc khi xe còn ướt.</strong> Dat Bike viết thẳng: “Bạn không nên sạc pin khi xe còn ướt”. <a href=\"https://bocongan.gov.vn/bai-viet/khuyen-cao-nguoi-dan-cac-ky-nang-phong-chong-chay-no-khi-sac-xe-dien-d22-t35817\" target=\"_blank\" rel=\"noopener noreferrer\">khuyến cáo của Cục Cảnh sát PCCC và CNCH</a> cũng yêu cầu sạc ở nơi khô ráo và ngắt khóa điện trước khi sạc. Để xe ráo nước ít nhất vài giờ rồi mới cắm.</li><li><strong>Kiểm tra nắp cổng sạc</strong>: nếu thấy nước đọng bên trong, lau khô và chờ khô hẳn.</li><li><strong>Nghe và nhìn</strong>: tiếng rít ở động cơ, đèn báo lỗi, tay ga trễ là dấu hiệu nước đã vào. Dừng dùng, gọi bảo hành.</li><li><strong>Phanh</strong>: bóp nhẹ vài lần khi đã ra đường khô để đĩa và má phanh khô, phanh ăn trở lại.</li></ol><p>Với xe xăng, Honda khuyên kiểm tra dầu máy sau khi lội nước; xe điện không có dầu máy, nhưng có hộp số hoặc láp ở một số mẫu dùng động cơ giữa. Nếu sách hướng dẫn của xe có mục dầu hộp số, hãy xem thêm cách xử lý ngập ở bài <a href=\"/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/\">xe máy ngập nước phải làm sao</a> để biết dấu hiệu dầu lẫn nước.</p>"
+    ],
+    [
+      "Phanh, lốp, tầm nhìn khi mưa",
+      "<p>Nước không chỉ đe dọa pin. Xe điện nặng ở phần pin, tăng tốc nhanh và êm nên người lái dễ quên rằng đường ướt làm quãng đường phanh dài hơn. Ba việc nên làm:</p><ul><li>Giữ khoảng cách gấp đôi ngày nắng, phanh sớm và nhẹ; cách bóp phanh an toàn xem ở <a href=\"/kinh-nghiem/cach-phanh-xe-may-an-toan/\">cách phanh xe máy an toàn</a>.</li><li>Kiểm tra gai lốp trước mùa mưa; lốp mòn tới dấu chỉ thị thì thay, tiêu chí ở bài <a href=\"/bao-duong/lop-xe-may-bao-lau-thay/\">lốp xe máy bao lâu thay</a>.</li><li>Áo mưa bộ thay vì áo mưa cánh dơi để vạt áo không cuốn vào bánh sau, nơi đặt động cơ của nhiều xe điện.</li></ul><p>Đi mưa cũng tốn pin hơn vì gió, nước cản và đèn bật liên tục. Nếu bạn hay đi xa trong mùa mưa, trừ hao quãng đường như gợi ý ở bài <a href=\"/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/\">xe máy điện đi được bao nhiêu km</a>.</p>"
+    ],
+    [
+      "Xe thuê đi mưa: ai chịu trách nhiệm",
+      "<p>Thuê xe máy Nguyễn Hà có xe máy điện Tailg cho thuê theo tuần 600–800 nghìn, theo tháng 1,5–1,8 triệu (giá ngày tùy mẫu). Khi nhận xe mùa mưa, hãy làm theo <a href=\"/xe-dien/pin-sac/\">checklist pin và sạc khi nhận xe</a> và hỏi thêm ba câu: nắp cổng sạc có khít không, pin tháo rời hay liền xe, xe có bị lỗi gì sau mưa trước đó không.</p><p>Về trách nhiệm, hợp đồng của cửa hàng tách hai trường hợp: lỗi do xe thì cửa hàng chịu phần lớn chi phí; hư hỏng do khách gây ra thì khách tự chịu. Cố tình chạy vào vùng ngập sâu rồi xe hỏng là trường hợp thứ hai. Nếu đang đi mà gặp ngập, gọi 0334 699 969 để được hướng dẫn trước khi tự xử lý. Thông tin thuê xe điện xem tại <a href=\"/thue-xe-dien/ha-noi/\">thuê xe máy điện Hà Nội</a>; cách sạc an toàn buổi tối ở bài <a href=\"/xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/\">sạc xe máy điện qua đêm có an toàn không</a>.</p>"
+    ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp về xe máy điện đi mưa",
+  "faq": [
+    [
+      "Xe máy điện đi mưa có bị giật điện không?",
+      "Xe chính hãng dùng điện áp pin thấp và các bộ phận điện được bọc kín theo chuẩn IP65–IP67 nên đi mưa bình thường. Rủi ro điện nằm ở lúc sạc: không sạc khi xe còn ướt, sạc ở nơi khô ráo theo khuyến cáo của Cục PCCC."
+    ],
+    [
+      "Xe máy điện lội nước sâu bao nhiêu thì an toàn?",
+      "Yadea công bố 30–50 cm cho các dòng Vora, Osta, Voltguard; Dat Bike khuyên không chạy khi nước ngập quá sàn để chân. Hãy lấy mép dưới sàn để chân làm vạch dừng."
+    ],
+    [
+      "IP67 nghĩa là gì?",
+      "Số 6 là kín bụi, số 7 là chịu ngâm tạm thời ở độ sâu nông trong thời gian ngắn theo bài thử IEC 60529. Chỉ số này gắn với từng bộ phận như pin hay động cơ, không phải cả xe."
+    ],
+    [
+      "Xe điện bị ngập nước tắt máy phải làm gì?",
+      "Dừng xe, tắt nguồn, tháo chìa, dắt lên chỗ khô, lau khô pin, cổng sạc, động cơ và mang đến trung tâm bảo hành kiểm tra hệ thống điện. Không bật thử nhiều lần, không sạc khi còn ướt."
+    ],
+    [
+      "Rửa xe điện bằng vòi áp lực được không?",
+      "Không nên xịt thẳng vào cụm công tắc, tay ga, giắc nối và cổng sạc vì các phần này chỉ đạt IP65 hoặc IP54 theo Dat Bike. Dùng vòi thường, lau khô sau khi rửa."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://www.yadea.com.vn/xe-may-dien-cho-sinh-vien/",
+      "quote": "Yadea Việt Nam (27/7/2026): VORA – Kháng nước IPX7, Cấu hình Pin kép Lithium chống nước IP67; OSTA – Khả năng chống nước chuẩn IPX7 tuyệt đối; VOLTGUARD U80 – Chuẩn chống nước toàn diện (Động cơ IP67, Pin IPX7, lội ngập sâu 0.5m); VELAX H PLUS – chuẩn kháng nước IPX7; FAQ: các dòng VORA, OSTA, VOLTGUARD đạt tiêu chuẩn kháng nước toàn diện IPX6 đến IPX7 (đối với động cơ và pin), cho phép lội nước 30–50 cm.",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://dat.bike/dat-bike-quantum-s3/",
+      "quote": "Dat Bike Quantum S3 (trang hãng, đăng 26/12/2025, cập nhật 9/10/2026): Động cơ, pin, cổng sạc và ECU đạt IP67. Các phần còn lại đạt IP65. Quantum S1/S2: cổng sạc USB đạt IP54.",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://dat.bike/en/huong-dan-su-dung-xe-quantum-en/",
+      "quote": "Hướng dẫn sử dụng xe Quantum (dat.bike): động cơ và cụm pin đạt chuẩn IP67; nên hạn chế chạy trong nước ngập quá sàn để chân nhằm giữ tuổi thọ linh kiện.",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://dat.bike/en/blogs/kien-thuc/meo-su-dung-xe-may-dien-an-toan-vao-mua-mua",
+      "quote": "Dat Bike, Mẹo sử dụng xe máy điện an toàn vào mùa mưa (17/10/2025): tránh để nước ngập quá thân xe; không chạy qua vùng ngập sâu; đóng nắp che các cổng sạc, bảo vệ các đầu nối điện tử, tránh tiếp xúc trực tiếp với nước; Bạn không nên sạc pin khi xe còn ướt; dùng khăn mềm lau sạch nước, sấy nhẹ các bộ phận điện nếu có thể; khi lỡ vào vùng ngập: Dừng xe ngay, tắt nguồn và tháo chìa khóa, lau khô pin, ổ sạc và động cơ; nếu xe ngập sâu, nên mang đến trung tâm bảo hành để kiểm tra hệ thống điện; khi rửa xe tránh xịt nước trực tiếp vào hệ thống điều khiển điện tử.",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "official",
+      "source": "https://bocongan.gov.vn/bai-viet/khuyen-cao-nguoi-dan-cac-ky-nang-phong-chong-chay-no-khi-sac-xe-dien-d22-t35817",
+      "quote": "Cục Cảnh sát PCCC và CNCH (bocongan.gov.vn, 25/7/2023): Sạc điện ở nơi khô ráo thoáng mát, khi sạc trong phòng cần tránh nơi kín đảm bảo điều kiện thông thoáng gió tốt, trong điều kiện nhiệt độ từ 0℃ - 35℃; không để xe, ắc quy, pin, bộ sạc bên trên hoặc gần các vật dụng, hàng hóa dễ cháy, nổ; sau khi sử dụng phải chờ bình điện nguội khoảng 20 phút rồi mới bắt đầu sạc; không sạc quá 8 giờ liên tục; ngừng sạc điện trước khi ra khỏi nhà hoặc đi ngủ, tuyệt đối không sạc qua đêm và không có người lớn ở nhà; khi sạc điện cần ngắt khóa điện nguồn; trong quá trình sạc điện phải thường xuyên kiểm tra để kịp thời phát hiện, xử lý ngay khi có sự cố; không sạc điện cho phương tiện khi phát hiện thiết bị sạc hoặc phương tiện gặp lỗi; khi ắc quy, pin có dấu hiệu phù, nứt… cần thay thế ắc quy, pin mới; nếu lâu không dùng xe, nên sạc ắc quy, pin đầy rồi tháo rời khỏi xe; không sử dụng loại không rõ nguồn gốc khi thay linh kiện, ắc quy, pin, bộ sạc.",
+      "checked": "2026-10-12",
+      "verbatim": false
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+      "checked": "2026-10-12"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+      "checked": "2026-10-12"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+      "checked": "2026-10-12"
+    }
+  ],
+  "id": "TM-00089",
+  "topic_id": "TM-00089",
+  "kind": "article",
+  "hub": "xe-dien",
+  "parent": "/xe-dien/",
+  "factoryVersion": 2,
+  "publishedAt": "2026-10-12T14:33:00.070085+00:00",
+  "publishedBy": "Claude Code (writer-1, Cách 1, 12/10/2026)"
+}
