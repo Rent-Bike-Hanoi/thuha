@@ -1,0 +1,189 @@
+{
+  "writer": "writer-w12c",
+  "queued": "2026-10-13T16:21:40.918963+00:00",
+  "topic": {
+    "topic_id": "TM-00414",
+    "url": "/du-lich/ben-xe-yen-nghia/",
+    "title": "Bến xe Yên Nghĩa Hà Đông: hướng Tây Nam, Tây Bắc và xe buýt về Gia Lâm",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bến xe yên nghĩa",
+    "secondary_keywords": [
+      "bến xe yên nghĩa ở đâu",
+      "bến xe yên nghĩa đi hòa bình",
+      "xe buýt bến xe yên nghĩa đi gia lâm",
+      "yên nghĩa connect"
+    ],
+    "intent": "navigational",
+    "user_problem": "Khách xuống xe ở bến Yên Nghĩa (Hà Đông) hoặc định bắt xe đi hướng Hòa Bình, Tây Bắc cần biết bến phục vụ hướng nào, vì sao bến vắng và đi tiếp sang Long Biên bằng gì.",
+    "information_gain": "Chưa có bài nào về bến Yên Nghĩa; gần nhất là /du-lich/ha-noi/ben-xe-gia-lam/ và /du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/. Bài thêm: bến mở năm 2010 thay bến Hà Đông, Thanh Xuân, quy hoạch hơn 7 ha, công suất hơn 1.000 lượt nhưng chỉ chạy 200–300 lượt/ngày (2025); dịch vụ trung chuyển 'Yên Nghĩa Connect' 9/2026; bến Gia Lâm có tuyến buýt điểm cuối BX Yên Nghĩa nên đi thẳng sang Long Biên được; nút giao Vành đai 4 – QL6 đang thi công gần bến.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/canh-diu-hiu-tai-ben-xe-hien-dai-nhat-thu-do-post1749134.tpo",
+        "quote": "Tiền Phong, 'Cảnh đìu hiu tại bến xe hiện đại nhất Thủ đô' (7/6/2025): bến xe Yên Nghĩa (Hà Đông) đưa vào hoạt động từ năm 2010 để di dời bến Hà Đông, bến Thanh Xuân, kết nối Hà Nội với các tỉnh phía Tây Nam, Tây Bắc; diện tích quy hoạch hơn 7ha, công suất hơn 1.000 lượt xe/ngày; thực tế chỉ khoảng 200 - 300 lượt xe/ngày (khoảng 25% công suất); sân đăng tài rộng 1,4 ha chỉ có khoảng hơn 20 xe khách; có các tuyến xuyên tâm từ Yên Nghĩa đi Hải Phòng, Quảng Ninh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/them-mot-ben-xe-cua-ha-noi-co-dich-vu-xe-trung-chuyen-1758377.html",
+        "quote": "Hànộimới (27/9/2026): Trung tâm Khai thác bến xe Hà Nội (thuộc Tổng công ty Vận tải Hà Nội) và Công ty An Vui ký thỏa thuận triển khai dịch vụ xe trung chuyển 'Yên Nghĩa Connect' tại Bến xe Yên Nghĩa, phục vụ hành khách 'từ nhà đến bến xe và từ bến xe về nhà'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-gia-lam",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Gia Lâm (đọc 13/10/2026): bến Gia Lâm (Số 9 Ngô Gia Khảm, Phường Bồ Đề) kết nối 13 tuyến buýt với điểm bến cuối gồm 'Bến xe Yên Nghĩa', BX Giáp Bát, Phố Nỉ, KĐT Trung Văn...",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-giap-bat",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Giáp Bát (đọc 13/10/2026): trong 29 tuyến buýt kết nối bến Giáp Bát có điểm cuối 'BX Yên Nghĩa'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/can-canh-cong-truong-nut-giao-vanh-dai-4-voi-ql6-qua-yen-nghia-post1760232.tpo",
+        "quote": "Tiền Phong, 'Cận cảnh công trường nút giao Vành đai 4 với QL6 qua Yên Nghĩa' (16/7/2025): đường song hành Vành đai 4 dài 58km có đoạn qua phường Yên Nghĩa; nút giao Vành đai 4 với QL6 là nút giao hoa thị 2 tầng, đường song hành đi bên dưới, đường cao tốc đi trên cao vượt QL6; thi công gặp khó vì QL6 lưu lượng xe lớn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 165000,
+        "checked": "2026-10-13",
+        "keyword": "bến xe yên nghĩa"
+      }
+    ],
+    "notes": "Chưa có trang chính thức của bến Yên Nghĩa (benxeyennghia.vn không truy cập được, 502); không có danh sách tuyến/tỉnh chính thức – chỉ nói 'hướng Tây Nam, Tây Bắc' và 'Hải Phòng, Quảng Ninh' theo Tiền Phong 6/2025. Văn bản Sở Xây dựng Sơn La về tuyến 238 Sơn La – Yên Nghĩa (330 km) không tải được, không dùng. Địa chỉ cụ thể của bến chưa có nguồn chính thức (chỉ biết 'Hà Đông', trên Quốc lộ 6 qua nguồn tuyến buýt không chính thức) – writer ghi 'phường Yên Nghĩa, cạnh Quốc lộ 6' chỉ khi có nguồn; hiện chỉ có 'cách bến xe Yên Nghĩa khoảng 200m' trên QL6 trong một tin Tiền Phong khác chưa đọc. Số hiệu tuyến buýt Gia Lâm – Yên Nghĩa chưa có nguồn chính thức. Tiến độ nút giao VĐ4–QL6 tháng 10/2026 chưa kiểm chứng; xe máy chỉ đi đường song hành, không đi phần cao tốc VĐ4 (Điều 25 k3 Luật 36/2024).",
+    "outline": [
+      "Bến xe Yên Nghĩa ở đâu, phục vụ hướng nào",
+      "Bến lớn nhưng vắng: con số 2025",
+      "Xe trung chuyển Yên Nghĩa Connect",
+      "Xe buýt từ Yên Nghĩa về bến Gia Lâm, Long Biên",
+      "Công trường Vành đai 4 – QL6 gần bến",
+      "Nên bắt xe khách ở Yên Nghĩa hay thuê xe máy đi Hòa Bình"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/ben-xe-gia-lam/",
+      "/thue-xe-may/long-bien/",
+      "/du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/ha-noi/ben-xe-gia-lam/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.421
+        }
+      },
+      {
+        "url": "/du-lich/ben-xe-yen-so/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.477
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ha-noi/ben-xe-gia-lam/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00414.json",
+  "draft_template": {
+    "id": "TM-00414",
+    "url": "/du-lich/ben-xe-yen-nghia/",
+    "title": "Bến xe Yên Nghĩa Hà Đông: hướng Tây Nam, Tây Bắc và xe buýt về Gia Lâm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bến xe yên nghĩa, bến xe yên nghĩa ở đâu, bến xe yên nghĩa đi hòa bình, xe buýt bến xe yên nghĩa đi gia lâm, yên nghĩa connect",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bến xe Yên Nghĩa ở đâu, phục vụ hướng nào",
+        "<p></p>"
+      ],
+      [
+        "Bến lớn nhưng vắng: con số 2025",
+        "<p></p>"
+      ],
+      [
+        "Xe trung chuyển Yên Nghĩa Connect",
+        "<p></p>"
+      ],
+      [
+        "Xe buýt từ Yên Nghĩa về bến Gia Lâm, Long Biên",
+        "<p></p>"
+      ],
+      [
+        "Công trường Vành đai 4 – QL6 gần bến",
+        "<p></p>"
+      ],
+      [
+        "Nên bắt xe khách ở Yên Nghĩa hay thuê xe máy đi Hòa Bình",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/canh-diu-hiu-tai-ben-xe-hien-dai-nhat-thu-do-post1749134.tpo",
+        "quote": "Tiền Phong, 'Cảnh đìu hiu tại bến xe hiện đại nhất Thủ đô' (7/6/2025): bến xe Yên Nghĩa (Hà Đông) đưa vào hoạt động từ năm 2010 để di dời bến Hà Đông, bến Thanh Xuân, kết nối Hà Nội với các tỉnh phía Tây Nam, Tây Bắc; diện tích quy hoạch hơn 7ha, công suất hơn 1.000 lượt xe/ngày; thực tế chỉ khoảng 200 - 300 lượt xe/ngày (khoảng 25% công suất); sân đăng tài rộng 1,4 ha chỉ có khoảng hơn 20 xe khách; có các tuyến xuyên tâm từ Yên Nghĩa đi Hải Phòng, Quảng Ninh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/them-mot-ben-xe-cua-ha-noi-co-dich-vu-xe-trung-chuyen-1758377.html",
+        "quote": "Hànộimới (27/9/2026): Trung tâm Khai thác bến xe Hà Nội (thuộc Tổng công ty Vận tải Hà Nội) và Công ty An Vui ký thỏa thuận triển khai dịch vụ xe trung chuyển 'Yên Nghĩa Connect' tại Bến xe Yên Nghĩa, phục vụ hành khách 'từ nhà đến bến xe và từ bến xe về nhà'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-gia-lam",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Gia Lâm (đọc 13/10/2026): bến Gia Lâm (Số 9 Ngô Gia Khảm, Phường Bồ Đề) kết nối 13 tuyến buýt với điểm bến cuối gồm 'Bến xe Yên Nghĩa', BX Giáp Bát, Phố Nỉ, KĐT Trung Văn...",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-giap-bat",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Giáp Bát (đọc 13/10/2026): trong 29 tuyến buýt kết nối bến Giáp Bát có điểm cuối 'BX Yên Nghĩa'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/can-canh-cong-truong-nut-giao-vanh-dai-4-voi-ql6-qua-yen-nghia-post1760232.tpo",
+        "quote": "Tiền Phong, 'Cận cảnh công trường nút giao Vành đai 4 với QL6 qua Yên Nghĩa' (16/7/2025): đường song hành Vành đai 4 dài 58km có đoạn qua phường Yên Nghĩa; nút giao Vành đai 4 với QL6 là nút giao hoa thị 2 tầng, đường song hành đi bên dưới, đường cao tốc đi trên cao vượt QL6; thi công gặp khó vì QL6 lưu lượng xe lớn.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00414"
+  }
+}

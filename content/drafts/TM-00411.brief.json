@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w12c",
+  "queued": "2026-10-13T16:21:40.918710+00:00",
+  "topic": {
+    "topic_id": "TM-00411",
+    "url": "/du-lich/ben-xe-giap-bat/",
+    "title": "Bến xe Giáp Bát: tuyến đi phía Nam, xe buýt sang Long Biên, thay đổi 2026",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bến xe giáp bát",
+    "secondary_keywords": [
+      "bến xe giáp bát ở đâu",
+      "bến xe giáp bát đi những tỉnh nào",
+      "xe buýt bến xe giáp bát đi gia lâm",
+      "bến xe giáp bát dừng nhận tuyến mới"
+    ],
+    "intent": "navigational",
+    "user_problem": "Người đến Hà Nội bằng xe khách từ Thanh Hóa, Ninh Bình, Nam Định... xuống bến Giáp Bát cần biết vị trí bến, đi tiếp sang Long Biên ra sao và tháng 10/2026 bến có còn hoạt động bình thường không.",
+    "information_gain": "Gần nhất là /du-lich/ha-noi/ben-xe-gia-lam/ và /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/; chưa bài nào nói bến Giáp Bát. Bài thêm: địa chỉ, quy mô 3,7 ha và các tỉnh kết nối theo trang chính thức; công suất 1.800 xe/ngày nhưng chỉ khai thác khoảng 700 xe; quyết định từ 5/10/2026 tạm dừng nhận tuyến mới (tuyến cũ vẫn chạy) khi bến Yên Sở mở; 29 tuyến buýt trong đó có điểm cuối BX Gia Lâm, Giang Biên, Đức Giang, Aeon Mall Long Biên để sang phía cửa hàng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-giap-bat",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Giáp Bát (đọc 13/10/2026): địa chỉ 'Km6, Đường Giải Phóng, Phường Hoàng Mai, TP. Hà Nội'; bến loại 1, tổng diện tích 3.7ha trên trục đường Giải Phóng; hoạt động từ năm 1989; kết nối 18 tỉnh theo địa giới cũ gồm Hà Nam, Nam Định, Ninh Bình, Thái Bình, Thanh Hóa, Hưng Yên, Hải Dương, Hải Phòng, Quảng Ninh, Bắc Giang, Lạng Sơn, Thái Nguyên, Cao Bằng, Hòa Bình, Đà Nẵng, Buôn Ma Thuột, Gia Lai, TP. HCM; kết nối 29 tuyến buýt với điểm cuối gồm BX Gia Lâm, Giang Biên (Long Biên), Đức Giang, KĐT Mỗ Lao – TTTM Aeon Mall Long Biên, BX Yên Nghĩa, Nhổn, Nam Thăng Long...",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nhung-tuyen-xe-khach-lien-tinh-nao-se-ve-ben-xe-yen-so-2562322.html",
+        "quote": "VietNamNet, 'Những tuyến xe khách nào được đưa về bến Yên Sở sau Giáp Bát, Nước Ngầm?' (7/10/2026): Bến xe Giáp Bát có công suất khoảng 1.800 xe mỗi ngày nhưng mới khai thác khoảng 700 xe, gần 40% công suất; đang phục vụ các tuyến đi Thanh Hóa, Ninh Bình, Nam Định, Hưng Yên, Bắc Ninh, Hải Phòng, Đà Nẵng...; theo Sở Xây dựng, tạm dừng tiếp nhận tuyến mới không đồng nghĩa dừng các tuyến đang hoạt động.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ha-noi-tam-dung-nhan-tuyen-xe-khach-moi-tai-giap-bat-nuoc-ngam-1759645.html",
+        "quote": "Hànộimới, 'Hà Nội tạm dừng nhận tuyến xe khách mới tại Giáp Bát, Nước Ngầm' (5/10/2026): từ ngày 5-10, Hà Nội tạm dừng tiếp nhận các tuyến cố định liên tỉnh đăng ký mới tại Giáp Bát và Nước Ngầm, khuyến khích đăng ký tại bến Yên Sở (khai thác từ 2-10); các tuyến đang hoạt động tại hai bến vẫn tiếp tục khai thác; bến Yên Sở cách Giáp Bát gần 5km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/them-mot-ben-xe-cua-ha-noi-co-dich-vu-xe-trung-chuyen-1758377.html",
+        "quote": "Hànộimới (27/9/2026): dịch vụ xe trung chuyển hành khách từ bến về nhà đã triển khai tại Giáp Bát, Mỹ Đình và Gia Lâm trong tháng 7 và 8-2026; nhà chờ đặt tại sân trả khách liên tỉnh, có nhân viên thường trực hướng dẫn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-se-di-doi-cac-ben-xe-trong-vanh-dai-3-5074619.html",
+        "quote": "VnExpress (16/5/2026): Giáp Bát nằm trong khu vực vành đai 3 và thuộc nhóm bến Hà Nội sẽ từng bước chuyển đổi công năng, di dời theo Quy hoạch tổng thể Thủ đô.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 301000,
+        "checked": "2026-10-13",
+        "keyword": "bến xe giáp bát"
+      }
+    ],
+    "notes": "Không ghi hotline/email của bến. Ga đường sắt Giáp Bát ở gần nhưng chỉ có nguồn về việc tàu Thống Nhất đón trả khách tại ga Giáp Bát trong các ngày A80 (8/2025) và chức năng 'đón gửi tàu khách' trong quy hoạch (Thời báo Tài chính 1/4/2026); CHƯA có nguồn rằng tàu khách dừng thường xuyên ở ga Giáp Bát tháng 10/2026, nên không viết thành lời khuyên. Chưa có nguồn về bãi gửi xe máy trong bến và giá gửi. Không gán số hiệu tuyến buýt cụ thể (trang chỉ nêu điểm cuối). Dự án mở rộng Quốc lộ 1A được nhắc trong nguồn Yên Sở, chưa có lịch rào chắn trên đường Giải Phóng.",
+    "outline": [
+      "Bến xe Giáp Bát ở đâu, đi những tỉnh nào",
+      "Từ 5/10/2026: dừng nhận tuyến mới, tuyến cũ vẫn chạy",
+      "Từ Giáp Bát sang Long Biên: xe buýt về BX Gia Lâm, Đức Giang, Aeon Mall",
+      "Xe trung chuyển của bến",
+      "Đi xe máy ra vào bến giờ cao điểm trên Giải Phóng",
+      "Kế hoạch di dời và bến Yên Sở mới"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/ben-xe-gia-lam/",
+      "/thue-xe-may/long-bien/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/ha-noi/aeon-mall-long-bien-xe-may/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00411.json",
+  "draft_template": {
+    "id": "TM-00411",
+    "url": "/du-lich/ben-xe-giap-bat/",
+    "title": "Bến xe Giáp Bát: tuyến đi phía Nam, xe buýt sang Long Biên, thay đổi 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bến xe giáp bát, bến xe giáp bát ở đâu, bến xe giáp bát đi những tỉnh nào, xe buýt bến xe giáp bát đi gia lâm, bến xe giáp bát dừng nhận tuyến mới",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bến xe Giáp Bát ở đâu, đi những tỉnh nào",
+        "<p></p>"
+      ],
+      [
+        "Từ 5/10/2026: dừng nhận tuyến mới, tuyến cũ vẫn chạy",
+        "<p></p>"
+      ],
+      [
+        "Từ Giáp Bát sang Long Biên: xe buýt về BX Gia Lâm, Đức Giang, Aeon Mall",
+        "<p></p>"
+      ],
+      [
+        "Xe trung chuyển của bến",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy ra vào bến giờ cao điểm trên Giải Phóng",
+        "<p></p>"
+      ],
+      [
+        "Kế hoạch di dời và bến Yên Sở mới",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-giap-bat",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Giáp Bát (đọc 13/10/2026): địa chỉ 'Km6, Đường Giải Phóng, Phường Hoàng Mai, TP. Hà Nội'; bến loại 1, tổng diện tích 3.7ha trên trục đường Giải Phóng; hoạt động từ năm 1989; kết nối 18 tỉnh theo địa giới cũ gồm Hà Nam, Nam Định, Ninh Bình, Thái Bình, Thanh Hóa, Hưng Yên, Hải Dương, Hải Phòng, Quảng Ninh, Bắc Giang, Lạng Sơn, Thái Nguyên, Cao Bằng, Hòa Bình, Đà Nẵng, Buôn Ma Thuột, Gia Lai, TP. HCM; kết nối 29 tuyến buýt với điểm cuối gồm BX Gia Lâm, Giang Biên (Long Biên), Đức Giang, KĐT Mỗ Lao – TTTM Aeon Mall Long Biên, BX Yên Nghĩa, Nhổn, Nam Thăng Long...",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nhung-tuyen-xe-khach-lien-tinh-nao-se-ve-ben-xe-yen-so-2562322.html",
+        "quote": "VietNamNet, 'Những tuyến xe khách nào được đưa về bến Yên Sở sau Giáp Bát, Nước Ngầm?' (7/10/2026): Bến xe Giáp Bát có công suất khoảng 1.800 xe mỗi ngày nhưng mới khai thác khoảng 700 xe, gần 40% công suất; đang phục vụ các tuyến đi Thanh Hóa, Ninh Bình, Nam Định, Hưng Yên, Bắc Ninh, Hải Phòng, Đà Nẵng...; theo Sở Xây dựng, tạm dừng tiếp nhận tuyến mới không đồng nghĩa dừng các tuyến đang hoạt động.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ha-noi-tam-dung-nhan-tuyen-xe-khach-moi-tai-giap-bat-nuoc-ngam-1759645.html",
+        "quote": "Hànộimới, 'Hà Nội tạm dừng nhận tuyến xe khách mới tại Giáp Bát, Nước Ngầm' (5/10/2026): từ ngày 5-10, Hà Nội tạm dừng tiếp nhận các tuyến cố định liên tỉnh đăng ký mới tại Giáp Bát và Nước Ngầm, khuyến khích đăng ký tại bến Yên Sở (khai thác từ 2-10); các tuyến đang hoạt động tại hai bến vẫn tiếp tục khai thác; bến Yên Sở cách Giáp Bát gần 5km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/them-mot-ben-xe-cua-ha-noi-co-dich-vu-xe-trung-chuyen-1758377.html",
+        "quote": "Hànộimới (27/9/2026): dịch vụ xe trung chuyển hành khách từ bến về nhà đã triển khai tại Giáp Bát, Mỹ Đình và Gia Lâm trong tháng 7 và 8-2026; nhà chờ đặt tại sân trả khách liên tỉnh, có nhân viên thường trực hướng dẫn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-se-di-doi-cac-ben-xe-trong-vanh-dai-3-5074619.html",
+        "quote": "VnExpress (16/5/2026): Giáp Bát nằm trong khu vực vành đai 3 và thuộc nhóm bến Hà Nội sẽ từng bước chuyển đổi công năng, di dời theo Quy hoạch tổng thể Thủ đô.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00411"
+  }
+}

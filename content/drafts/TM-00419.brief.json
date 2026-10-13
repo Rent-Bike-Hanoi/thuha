@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w12d",
+  "queued": "2026-10-13T16:21:41.068737+00:00",
+  "topic": {
+    "topic_id": "TM-00419",
+    "url": "/du-lich/gui-xe-may-ga-metro-ha-noi/",
+    "title": "Gửi xe máy ở ga metro Hà Nội: điểm gửi tuyến Nhổn và Cát Linh – Hà Đông",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "gửi xe máy ga metro hà nội",
+    "secondary_keywords": [
+      "gửi xe ga metro nhổn cầu giấy",
+      "gửi xe ga cát linh hà đông",
+      "bãi gửi xe ga cầu giấy metro",
+      "giá vé metro nhổn ga hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thuê xe máy muốn đi xe tới ga metro rồi đi tàu vào trung tâm cần biết gửi xe ở đâu là điểm được phép, tránh bãi tự phát và giá vé tàu tham khảo.",
+    "information_gain": "Gần nhất là /du-lich/ga-ha-noi/ (chỉ nói tiến độ ga ngầm S12) và /du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/. Bài thêm: 10 điểm đỗ xe được Sở GTVT bố trí trong bán kính 500 m quanh 8 ga Nhổn – Cầu Giấy (La Thành, ngã ba Voi Phục, gầm cầu Mai Dịch, Khúc Thừa Dụ, Nguyễn Phong Sắc, Trần Quý Kiên...), đợt giải tỏa bãi tự phát quanh ga tuyến 2A tháng 3/2026, hiện trạng bãi không vé ở Văn Khê, La Khê, Hà Đông (5/2026) và giá vé hai tuyến.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/can-canh-cac-vi-tri-diem-gui-xe-phuc-vu-nguoi-dan-di-tau-nhon-ga-ha-noi-post1623740.tpo",
+        "quote": "Tiền Phong, 'Cận cảnh các vị trí điểm gửi xe phục vụ người dân đi tàu Nhổn - Ga Hà Nội' (27/3/2024): Sở GTVT và Công ty TNHH MTV Khai thác điểm đỗ xe Hà Nội khảo sát, bố trí 10 điểm gửi xe gần 8 ga trên cao đoạn Nhổn - Cầu Giấy, trong bán kính 500 mét; danh sách: điểm Cầu Giấy (lòng đường cụt ngã ba Voi Phục), La Thành (đối diện tòa nhà V-Tower), gầm cầu Mai Dịch, đảo phân cách nút Mai Dịch, Khúc Thừa Dụ, Nguyễn Phong Sắc, Trần Quý Kiên, hè đường Cầu Giấy dưới gầm cầu Đại học GTVT; đầu đường Kim Mã dưới gầm đường sắt tiếp cận ga ngầm S9 đang được khảo sát cho xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bo-tri-diem-gui-xe-cho-khach-di-tau-dien-nhon-ga-ha-noi-post826855.html",
+        "quote": "Nhân Dân, 'Bố trí điểm gửi xe cho khách đi tàu điện Nhổn-ga Hà Nội' (26/8/2024): Sở GTVT phối hợp đơn vị vận hành dự kiến bố trí điểm đỗ xe trong bán kính 500m thuộc tám nhà ga; lực lượng chức năng lập biên bản 5 trường hợp chiếm dụng hè phố trông giữ xe trái phép, tổng phạt 24 triệu đồng, yêu cầu giải tỏa điểm trông giữ không phép; tuyến bán vé, vận hành thương mại từ 23/8 (ga S1-S8).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nhung-diem-khac-biet-giua-metro-cat-linh-ha-dong-va-nhon-ga-ha-noi-2309535.html",
+        "quote": "VietNamNet, 'Những điểm khác biệt giữa metro Cát Linh - Hà Đông và Nhổn - ga Hà Nội' (7/8/2024): đoạn trên cao Nhổn - Cầu Giấy dài 8,5km; vé Cát Linh - Hà Đông thấp nhất 8.000 đồng (1 ga), cả tuyến 15.000 đồng, vé ngày 30.000 đồng; Nhổn - ga Hà Nội thấp nhất 8.000 đồng, cả tuyến 12.000 đồng, vé ngày 24.000 đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/ha-noi-yeu-cau-xu-ly-dut-diem-bai-xe-tu-phat-quanh-ga-metro-cat-linh-ha-dong-192260320145812962.htm",
+        "quote": "Báo Xây dựng, 'Hà Nội yêu cầu xử lý dứt điểm bãi xe tự phát quanh ga metro Cát Linh - Hà Đông' (20/3/2026): Trung tâm Quản lý và Điều hành Giao thông TP Hà Nội đề nghị Công ty TNHH MTV Đường sắt Hà Nội kiểm tra, xử lý các điểm trông giữ xe tự phát quanh các nhà ga tuyến 2A, đồng thời xây dựng phương án sắp xếp lại các điểm trông giữ xe hợp pháp thuận tiện tiếp cận nhà ga.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/giai-toa-bai-do-xe-tu-phat-khu-vuc-nha-ga-duong-sat-cat-linh-ha-dong-19226032618483025.htm",
+        "quote": "Báo Xây dựng, 'Giải tỏa bãi đỗ xe tự phát khu vực nhà ga đường sắt Cát Linh - Hà Đông' (26/3/2026): chiều 26/3 Hà Nội Metro cùng Công an phường Kiến Hưng, Dương Nội kiểm tra khu vực dưới chân ga Văn Khê, giải tỏa bãi trông giữ xe không phép, hàng quán tự phát.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/metro-hut-khach-bai-xe-tu-phat-an-theo-quanh-cac-nha-ga-192260508163521536.htm",
+        "quote": "Báo Xây dựng, 'Metro hút khách, bãi xe tự phát ăn theo quanh các nhà ga' (8/5/2026): tại ga Văn Khê người trông xe nói 'lúc lấy xe trả tiền sau', 'Không vé, không bảng giá'; tại ga La Khê, ga Hà Đông có bãi gửi tạm dưới chân cột; ở ga Cầu Giấy tuyến Nhổn - ga Hà Nội người trông xe vẫn nhận khách cạnh nơi từng bị rào chắn; chuyên gia nhận định bãi gửi xe hợp pháp thiếu hụt, một số điểm chính thức quá nhỏ, kín chỗ giờ cao điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "gửi xe máy ga metro hà nội"
+      }
+    ],
+    "notes": "Danh sách 10 điểm là phương án khảo sát/bố trí năm 2024; chưa xác minh điểm nào đang hoạt động tháng 10/2026 và giá gửi tại từng điểm – writer không được ghi giá gửi. Chưa có nguồn chính thức về điểm gửi xe hợp pháp ở các ga tuyến Cát Linh – Hà Đông (chỉ có tin về bãi tự phát và giải tỏa). Giá vé tàu là mốc 8/2024 – cần ghi mốc và khuyên kiểm tra tại ga; nguồn Nhân Dân về vé liên thông Metro–TNGo (340.000/430.000đ/tháng) chưa đọc – không dùng. Đoạn ngầm tới ga Hà Nội (S12) chưa khai thác – đã có trong /du-lich/ga-ha-noi/, chỉ dẫn link. Không nói metro cho mang xe máy lên tàu (không có nguồn). Xe máy xăng và vùng phát thải thấp: không đưa vào bài này.",
+    "outline": [
+      "Hai tuyến metro đang chạy và ga nào tiện cho người đi xe máy",
+      "Điểm gửi xe được bố trí quanh 8 ga Nhổn – Cầu Giấy",
+      "Tuyến Cát Linh – Hà Đông: bãi tự phát và đợt giải tỏa 2026",
+      "Dấu hiệu bãi gửi không phép và rủi ro",
+      "Giá vé tàu tham khảo",
+      "Có nên đi xe máy thuê tới ga rồi đi tàu vào phố cổ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ga-ha-noi/",
+      "/du-lich/chua-ha-cau-giay/",
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00419.json",
+  "draft_template": {
+    "id": "TM-00419",
+    "url": "/du-lich/gui-xe-may-ga-metro-ha-noi/",
+    "title": "Gửi xe máy ở ga metro Hà Nội: điểm gửi tuyến Nhổn và Cát Linh – Hà Đông",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "gửi xe máy ga metro hà nội, gửi xe ga metro nhổn cầu giấy, gửi xe ga cát linh hà đông, bãi gửi xe ga cầu giấy metro, giá vé metro nhổn ga hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hai tuyến metro đang chạy và ga nào tiện cho người đi xe máy",
+        "<p></p>"
+      ],
+      [
+        "Điểm gửi xe được bố trí quanh 8 ga Nhổn – Cầu Giấy",
+        "<p></p>"
+      ],
+      [
+        "Tuyến Cát Linh – Hà Đông: bãi tự phát và đợt giải tỏa 2026",
+        "<p></p>"
+      ],
+      [
+        "Dấu hiệu bãi gửi không phép và rủi ro",
+        "<p></p>"
+      ],
+      [
+        "Giá vé tàu tham khảo",
+        "<p></p>"
+      ],
+      [
+        "Có nên đi xe máy thuê tới ga rồi đi tàu vào phố cổ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/can-canh-cac-vi-tri-diem-gui-xe-phuc-vu-nguoi-dan-di-tau-nhon-ga-ha-noi-post1623740.tpo",
+        "quote": "Tiền Phong, 'Cận cảnh các vị trí điểm gửi xe phục vụ người dân đi tàu Nhổn - Ga Hà Nội' (27/3/2024): Sở GTVT và Công ty TNHH MTV Khai thác điểm đỗ xe Hà Nội khảo sát, bố trí 10 điểm gửi xe gần 8 ga trên cao đoạn Nhổn - Cầu Giấy, trong bán kính 500 mét; danh sách: điểm Cầu Giấy (lòng đường cụt ngã ba Voi Phục), La Thành (đối diện tòa nhà V-Tower), gầm cầu Mai Dịch, đảo phân cách nút Mai Dịch, Khúc Thừa Dụ, Nguyễn Phong Sắc, Trần Quý Kiên, hè đường Cầu Giấy dưới gầm cầu Đại học GTVT; đầu đường Kim Mã dưới gầm đường sắt tiếp cận ga ngầm S9 đang được khảo sát cho xe máy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bo-tri-diem-gui-xe-cho-khach-di-tau-dien-nhon-ga-ha-noi-post826855.html",
+        "quote": "Nhân Dân, 'Bố trí điểm gửi xe cho khách đi tàu điện Nhổn-ga Hà Nội' (26/8/2024): Sở GTVT phối hợp đơn vị vận hành dự kiến bố trí điểm đỗ xe trong bán kính 500m thuộc tám nhà ga; lực lượng chức năng lập biên bản 5 trường hợp chiếm dụng hè phố trông giữ xe trái phép, tổng phạt 24 triệu đồng, yêu cầu giải tỏa điểm trông giữ không phép; tuyến bán vé, vận hành thương mại từ 23/8 (ga S1-S8).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nhung-diem-khac-biet-giua-metro-cat-linh-ha-dong-va-nhon-ga-ha-noi-2309535.html",
+        "quote": "VietNamNet, 'Những điểm khác biệt giữa metro Cát Linh - Hà Đông và Nhổn - ga Hà Nội' (7/8/2024): đoạn trên cao Nhổn - Cầu Giấy dài 8,5km; vé Cát Linh - Hà Đông thấp nhất 8.000 đồng (1 ga), cả tuyến 15.000 đồng, vé ngày 30.000 đồng; Nhổn - ga Hà Nội thấp nhất 8.000 đồng, cả tuyến 12.000 đồng, vé ngày 24.000 đồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/ha-noi-yeu-cau-xu-ly-dut-diem-bai-xe-tu-phat-quanh-ga-metro-cat-linh-ha-dong-192260320145812962.htm",
+        "quote": "Báo Xây dựng, 'Hà Nội yêu cầu xử lý dứt điểm bãi xe tự phát quanh ga metro Cát Linh - Hà Đông' (20/3/2026): Trung tâm Quản lý và Điều hành Giao thông TP Hà Nội đề nghị Công ty TNHH MTV Đường sắt Hà Nội kiểm tra, xử lý các điểm trông giữ xe tự phát quanh các nhà ga tuyến 2A, đồng thời xây dựng phương án sắp xếp lại các điểm trông giữ xe hợp pháp thuận tiện tiếp cận nhà ga.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/giai-toa-bai-do-xe-tu-phat-khu-vuc-nha-ga-duong-sat-cat-linh-ha-dong-19226032618483025.htm",
+        "quote": "Báo Xây dựng, 'Giải tỏa bãi đỗ xe tự phát khu vực nhà ga đường sắt Cát Linh - Hà Đông' (26/3/2026): chiều 26/3 Hà Nội Metro cùng Công an phường Kiến Hưng, Dương Nội kiểm tra khu vực dưới chân ga Văn Khê, giải tỏa bãi trông giữ xe không phép, hàng quán tự phát.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/metro-hut-khach-bai-xe-tu-phat-an-theo-quanh-cac-nha-ga-192260508163521536.htm",
+        "quote": "Báo Xây dựng, 'Metro hút khách, bãi xe tự phát ăn theo quanh các nhà ga' (8/5/2026): tại ga Văn Khê người trông xe nói 'lúc lấy xe trả tiền sau', 'Không vé, không bảng giá'; tại ga La Khê, ga Hà Đông có bãi gửi tạm dưới chân cột; ở ga Cầu Giấy tuyến Nhổn - ga Hà Nội người trông xe vẫn nhận khách cạnh nơi từng bị rào chắn; chuyên gia nhận định bãi gửi xe hợp pháp thiếu hụt, một số điểm chính thức quá nhỏ, kín chỗ giờ cao điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00419"
+  }
+}

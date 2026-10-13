@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w12c",
+  "queued": "2026-10-13T16:21:40.917916+00:00",
+  "topic": {
+    "topic_id": "TM-00410",
+    "url": "/du-lich/ben-xe-my-dinh/",
+    "title": "Bến xe Mỹ Đình: tuyến đi Tây Bắc, Đông Bắc và xe buýt về Long Biên",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bến xe mỹ đình",
+    "secondary_keywords": [
+      "bến xe mỹ đình ở đâu",
+      "bến xe mỹ đình đi tỉnh nào",
+      "xe buýt từ bến xe mỹ đình",
+      "bến xe mỹ đình đi sa pa"
+    ],
+    "intent": "navigational",
+    "user_problem": "Khách vừa xuống xe khách ở Mỹ Đình (hoặc sắp lên xe đi Tây Bắc) cần biết bến nằm đâu, phục vụ hướng nào và đi tiếp sang Long Biên bằng gì để nhận/trả xe máy thuê.",
+    "information_gain": "Gần nhất là /du-lich/ha-noi/ben-xe-gia-lam/ (chỉ nói bến Gia Lâm) và /du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/ (đi bằng xe máy, không nói bến xe). Bài này thêm: địa chỉ và vai trò bến Mỹ Đình theo trang chính thức Bến xe Hà Nội, danh sách hướng tỉnh, 22 tuyến buýt kết nối trong đó có điểm cuối TTHC Gia Lâm/Trần Khánh Dư để sang phía Long Biên, dịch vụ trung chuyển 2026, kế hoạch di dời bến khỏi vành đai 3, và cảnh báo không chạy xe máy lên Vành đai 3 trên cao ngay cạnh bến.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-my-dinh",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Mỹ Đình (đọc 13/10/2026): địa chỉ 'Số 20 Đường Phạm Hùng, Phường Từ Liêm, TP. Hà Nội'; bến loại 1, công suất chứa 500-600 xe/ngày; đưa vào khai thác năm 2004 khi chuyển các tuyến từ bến Kim Mã cũ; 'Bến xe nằm bên đường vành đai 3'; kết nối các tỉnh Lào Cai, Yên Bái, Điện Biên, Hoà Bình, Lai Châu, Sơn La, Hà Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Tuyên Quang, Thái Nguyên, Phú Thọ, Bắc Giang, Quảng Ninh, Vĩnh Phúc; kết nối 22 tuyến buýt với điểm cuối gồm Nội Bài, KĐT Ocean Park, Bờ Hồ, BX Nước Ngầm, BX Sơn Tây, TTHC Gia Lâm, Trần Khánh Dư, TT Đông Anh, Hòa Lạc – Xuân Mai...; bảng tra tuyến có điểm đến như BXK KHBĐX TX Sa Pa, Mộc Châu, Mù Căng Chải, Điện Biên Phủ, Móng Cái.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-se-di-doi-cac-ben-xe-trong-vanh-dai-3-5074619.html",
+        "quote": "VnExpress, 'Hà Nội sẽ di dời các bến xe trong vành đai 3' (16/5/2026): theo Quy hoạch tổng thể Thủ đô, Hà Nội từng bước chuyển đổi công năng, di dời các bến xe trong khu vực vành đai 3; hiện khu vực này có các bến lớn Gia Lâm, Mỹ Đình, Giáp Bát và Nước Ngầm. Bài không nêu mốc thời gian di dời cụ thể.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/them-mot-ben-xe-cua-ha-noi-co-dich-vu-xe-trung-chuyen-1758377.html",
+        "quote": "Hànộimới, 'Thêm một bến xe của Hà Nội có dịch vụ xe trung chuyển' (27/9/2026): trong tháng 7 và tháng 8-2026, Công ty CP Bến xe Hà Nội phối hợp Công ty An Vui triển khai dịch vụ xe trung chuyển hành khách 'từ nhà đến bến xe và từ bến xe về nhà' tại 3 bến Giáp Bát, Mỹ Đình và Gia Lâm; nhà chờ dịch vụ đặt ngay khu vực sân trả khách liên tỉnh. Bài không nêu giá dịch vụ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/xu-ly-hang-loat-xe-may-di-vao-duong-cao-toc-vanh-dai-3-20221012161503474.htm",
+        "quote": "Dân trí, 'Xử lý hàng loạt xe máy đi vào đường cao tốc Vành đai 3' (12/10/2022): Đội CSGT số 6 lập chốt xử lý xe máy đi vào Vành đai 3 trên cao, điểm chốt thường là các nút lên xuống như lối xuống cầu vượt Mai Dịch, lối xuống trước cổng Trung tâm Hội nghị Quốc gia; CSGT khuyến cáo 'tuyến đường Vành đai 3 trên cao là đường cao tốc chỉ dành cho ô tô'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/thu-giu-xe-ba-banh-di-lac-len-cao-toc-vanh-dai-3-tren-cao-ha-noi-2383230.html",
+        "quote": "VietNamNet, 'Thu giữ xe ba bánh đi lạc lên cao tốc vành đai 3 trên cao' (21/3/2025): Trung tá Phạm Văn Chiến (Đội CSGT số 6) cho biết vành đai 3 trên cao là cao tốc, chỉ dành riêng cho ô tô, vận tốc tối đa theo từng đoạn 80-100km/h; hai đầu tuyến có biển cấm mô tô, xe máy và người đi bộ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 673000,
+        "checked": "2026-10-13",
+        "keyword": "bến xe mỹ đình"
+      }
+    ],
+    "notes": "Không nêu số hotline/đặt vé của bến (brief cấm số điện thoại ngoài cửa hàng). Trang benxehanoi.vn không ghi ngày cập nhật phần giới thiệu; danh sách tỉnh dùng tên tỉnh cũ lẫn mới, viết nguyên văn và ghi 'theo trang bến xe'. Không lấy giá vé/giờ chạy từ bảng tra vì thay đổi theo nhà xe. Chưa có nguồn chính thức về số hiệu tuyến buýt cụ thể Mỹ Đình – Gia Lâm (chỉ có danh sách điểm cuối 'TTHC Gia Lâm', 'Trần Khánh Dư'); writer không được tự gán số tuyến. Chưa kiểm chứng có bãi gửi xe máy cho khách trong bến và giá gửi. Giá/điều kiện xe trung chuyển An Vui chưa có nguồn. Không nêu mức phạt (đã có bài /luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/).",
+    "outline": [
+      "Bến xe Mỹ Đình ở đâu, ai quản lý",
+      "Đi những tỉnh nào: Tây Bắc, Việt Bắc, Đông Bắc",
+      "Xuống bến rồi sang Long Biên: xe buýt, xe trung chuyển",
+      "Đi xe máy tới bến: tránh lên Vành đai 3 trên cao",
+      "Bến sẽ di dời khỏi vành đai 3: điều gì đã chắc",
+      "Khi nào nên đi xe khách, khi nào thuê xe máy đi thẳng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/ben-xe-gia-lam/",
+      "/thue-xe-may/long-bien/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00410.json",
+  "draft_template": {
+    "id": "TM-00410",
+    "url": "/du-lich/ben-xe-my-dinh/",
+    "title": "Bến xe Mỹ Đình: tuyến đi Tây Bắc, Đông Bắc và xe buýt về Long Biên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bến xe mỹ đình, bến xe mỹ đình ở đâu, bến xe mỹ đình đi tỉnh nào, xe buýt từ bến xe mỹ đình, bến xe mỹ đình đi sa pa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bến xe Mỹ Đình ở đâu, ai quản lý",
+        "<p></p>"
+      ],
+      [
+        "Đi những tỉnh nào: Tây Bắc, Việt Bắc, Đông Bắc",
+        "<p></p>"
+      ],
+      [
+        "Xuống bến rồi sang Long Biên: xe buýt, xe trung chuyển",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy tới bến: tránh lên Vành đai 3 trên cao",
+        "<p></p>"
+      ],
+      [
+        "Bến sẽ di dời khỏi vành đai 3: điều gì đã chắc",
+        "<p></p>"
+      ],
+      [
+        "Khi nào nên đi xe khách, khi nào thuê xe máy đi thẳng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://benxehanoi.vn/ben-xe-thanh-vien/ben-xe-my-dinh",
+        "quote": "Công ty CP Bến xe Hà Nội, trang Bến xe Mỹ Đình (đọc 13/10/2026): địa chỉ 'Số 20 Đường Phạm Hùng, Phường Từ Liêm, TP. Hà Nội'; bến loại 1, công suất chứa 500-600 xe/ngày; đưa vào khai thác năm 2004 khi chuyển các tuyến từ bến Kim Mã cũ; 'Bến xe nằm bên đường vành đai 3'; kết nối các tỉnh Lào Cai, Yên Bái, Điện Biên, Hoà Bình, Lai Châu, Sơn La, Hà Giang, Cao Bằng, Bắc Kạn, Lạng Sơn, Tuyên Quang, Thái Nguyên, Phú Thọ, Bắc Giang, Quảng Ninh, Vĩnh Phúc; kết nối 22 tuyến buýt với điểm cuối gồm Nội Bài, KĐT Ocean Park, Bờ Hồ, BX Nước Ngầm, BX Sơn Tây, TTHC Gia Lâm, Trần Khánh Dư, TT Đông Anh, Hòa Lạc – Xuân Mai...; bảng tra tuyến có điểm đến như BXK KHBĐX TX Sa Pa, Mộc Châu, Mù Căng Chải, Điện Biên Phủ, Móng Cái.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-se-di-doi-cac-ben-xe-trong-vanh-dai-3-5074619.html",
+        "quote": "VnExpress, 'Hà Nội sẽ di dời các bến xe trong vành đai 3' (16/5/2026): theo Quy hoạch tổng thể Thủ đô, Hà Nội từng bước chuyển đổi công năng, di dời các bến xe trong khu vực vành đai 3; hiện khu vực này có các bến lớn Gia Lâm, Mỹ Đình, Giáp Bát và Nước Ngầm. Bài không nêu mốc thời gian di dời cụ thể.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/them-mot-ben-xe-cua-ha-noi-co-dich-vu-xe-trung-chuyen-1758377.html",
+        "quote": "Hànộimới, 'Thêm một bến xe của Hà Nội có dịch vụ xe trung chuyển' (27/9/2026): trong tháng 7 và tháng 8-2026, Công ty CP Bến xe Hà Nội phối hợp Công ty An Vui triển khai dịch vụ xe trung chuyển hành khách 'từ nhà đến bến xe và từ bến xe về nhà' tại 3 bến Giáp Bát, Mỹ Đình và Gia Lâm; nhà chờ dịch vụ đặt ngay khu vực sân trả khách liên tỉnh. Bài không nêu giá dịch vụ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/xu-ly-hang-loat-xe-may-di-vao-duong-cao-toc-vanh-dai-3-20221012161503474.htm",
+        "quote": "Dân trí, 'Xử lý hàng loạt xe máy đi vào đường cao tốc Vành đai 3' (12/10/2022): Đội CSGT số 6 lập chốt xử lý xe máy đi vào Vành đai 3 trên cao, điểm chốt thường là các nút lên xuống như lối xuống cầu vượt Mai Dịch, lối xuống trước cổng Trung tâm Hội nghị Quốc gia; CSGT khuyến cáo 'tuyến đường Vành đai 3 trên cao là đường cao tốc chỉ dành cho ô tô'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/thu-giu-xe-ba-banh-di-lac-len-cao-toc-vanh-dai-3-tren-cao-ha-noi-2383230.html",
+        "quote": "VietNamNet, 'Thu giữ xe ba bánh đi lạc lên cao tốc vành đai 3 trên cao' (21/3/2025): Trung tá Phạm Văn Chiến (Đội CSGT số 6) cho biết vành đai 3 trên cao là cao tốc, chỉ dành riêng cho ô tô, vận tốc tối đa theo từng đoạn 80-100km/h; hai đầu tuyến có biển cấm mô tô, xe máy và người đi bộ.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00410"
+  }
+}
