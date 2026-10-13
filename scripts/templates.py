@@ -1,5 +1,5 @@
 """
-Site template & component engine for Nguyễn Hà Journal.
+Site template & component engine for Thuê xe máy Nguyễn Hà.
 Loads components, injects central config & facts, handles SEO & JSON-LD schemas.
 """
 from pathlib import Path
@@ -80,7 +80,7 @@ def render_header(top_links, hubs):
         search_panel_html=search_panel,
         brand_mark=E(SITE_CFG.get('site', {}).get('brand_mark', 'n.')),
         site_name=E(SITE_INFO['name']),
-        brand_sub=E(SITE_CFG.get('site', {}).get('brand_sub', 'JOURNAL · HÀ NỘI')),
+        brand_sub=E(SITE_CFG.get('site', {}).get('brand_sub', 'LONG BIÊN · HÀ NỘI')),
         theme_toggle_html=theme_btn,
         icon_menu=icon('menu'),
         icon_close=icon('close'),
@@ -103,7 +103,7 @@ def render_footer(top_links, hubs, contact_box_html):
     return PARTIAL_FOOTER.format(
         brand_mark=E(SITE_CFG.get('site', {}).get('brand_mark', 'n.')),
         site_name=E(SITE_INFO['name']),
-        brand_sub=E(SITE_CFG.get('site', {}).get('brand_sub', 'JOURNAL · HÀ NỘI')),
+        brand_sub=E(SITE_CFG.get('site', {}).get('brand_sub', 'LONG BIÊN · HÀ NỘI')),
         contact_box=contact_box_html,
         utility_links=util_links_html,
         footer_columns_html=cols_html,
@@ -157,7 +157,7 @@ def render_conditional_cta(hub_slug):
         secondary_text = 'Lịch trình du lịch'
         tone = 'gold'
     else:
-        eyebrow = 'NGUYỄN HÀ JOURNAL'
+        eyebrow = 'THUÊ XE MÁY NGUYỄN HÀ'
         title = 'Cần hỗ trợ thông tin hoặc tư vấn hành trình?'
         desc = 'Đội ngũ Nguyễn Hà luôn sẵn sàng giải đáp thắc mắc về phương tiện và thủ tục di chuyển.'
         primary_link = '/lien-he/'

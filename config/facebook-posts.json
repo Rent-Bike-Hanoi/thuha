@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "start_date": "2026-10-13",
+  "timezone_offset_hours": 7,
+  "slots": ["09:00", "12:30", "19:30"],
+  "pools": [
+    {"name": "dich-vu", "label": "Dịch vụ thuê xe", "hubs": ["thue-xe"]},
+    {"name": "huong-dan", "label": "Kinh nghiệm, du lịch, xe", "hubs": ["kinh-nghiem", "du-lich", "xe-may", "xe-dien", "bao-duong"]},
+    {"name": "luat", "label": "Luật giao thông", "hubs": ["luat-giao-thong"]}
+  ],
+  "skip_headings": ["Câu trả lời ngắn", "Nguồn", "Nguồn tham khảo", "Liên hệ", "Câu hỏi thường gặp"],
+  "utm": "utm_source=facebook&utm_medium=social&utm_campaign=fanpage",
+  "hashtags": ["#ThuêXeMáyNguyễnHà", "#ThuêXeMáyHàNội"],
+  "graph_api_version": "v23.0",
+  "note": "scripts/facebook_posts.py: mỗi ngày 3 bài (một bài mỗi nhóm) lấy từ trang đang có trong sitemap, xoay vòng theo ngày, không cần lưu trạng thái. Đăng tự động khi repo có secret FB_PAGE_ID và FB_PAGE_TOKEN; thiếu thì chỉ in bài để đăng tay. Tắt: đặt enabled=false."
+}

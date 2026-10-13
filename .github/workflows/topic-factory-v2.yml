@@ -45,6 +45,8 @@ jobs:
         run: python3 tests/test_topic_matrix.py
       - name: Factory V2 pipeline tests
         run: python3 tests/test_factory_v2.py
+      - name: Facebook fanpage tests
+        run: python3 tests/test_facebook_posts.py
       - name: Legacy factory tests
         run: python3 tests/test_content_factory.py
       - name: Dry-run legacy factory (must stay paused)

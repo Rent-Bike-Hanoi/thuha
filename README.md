@@ -1,4 +1,4 @@
-# Nguyễn Hà Journal
+# Thuê xe máy Nguyễn Hà
 
 Blog tĩnh cho **https://thuha.rentbikehanoi.com**, tương thích GitHub Pages. Không cần API key, dịch vụ AI hay cơ sở dữ liệu ngoài.
 

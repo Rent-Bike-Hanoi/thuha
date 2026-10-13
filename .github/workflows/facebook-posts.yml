@@ -1,0 +1,46 @@
+name: Fanpage Facebook
+
+# Mỗi sáng 06:17 giờ Hà Nội: chọn 3 bài trong sitemap, hẹn giờ đăng 09:00, 12:30, 19:30.
+# Có secret FB_PAGE_ID + FB_PAGE_TOKEN thì đăng qua Graph API; chưa có thì chỉ in bài
+# vào trang tóm tắt của lần chạy để đăng tay. Tắt: config/facebook-posts.json enabled=false.
+on:
+  schedule:
+    - cron: '17 23 * * *'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Ngày đăng (YYYY-MM-DD, giờ Hà Nội); để trống là hôm nay'
+        required: false
+        default: ''
+      dry_run:
+        description: 'Chỉ in bài, không đăng'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: facebook-posts
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Đăng hoặc in 3 bài trong ngày
+        env:
+          FB_PAGE_ID: ${{ secrets.FB_PAGE_ID }}
+          FB_PAGE_TOKEN: ${{ secrets.FB_PAGE_TOKEN }}
+          POST_DATE: ${{ inputs.date }}
+          DRY_RUN: ${{ inputs.dry_run }}
+        run: |
+          args=(publish --summary "$GITHUB_STEP_SUMMARY")
+          if [ -n "$POST_DATE" ]; then args+=(--date "$POST_DATE"); fi
+          if [ "$DRY_RUN" = "true" ]; then args+=(--dry-run); fi
+          python3 scripts/facebook_posts.py "${args[@]}"

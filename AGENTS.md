@@ -29,9 +29,12 @@ python3 scripts/content_factory.py run --dry-run
 python3 tests/test_content_factory.py
 python3 tests/test_topic_matrix.py
 python3 tests/test_factory_v2.py
+python3 tests/test_facebook_posts.py
 python3 scripts/topic_matrix.py validate
 python3 scripts/build.py
 python3 scripts/validate_factory_site.py
 ```
+
+Facebook fanpage: `scripts/facebook_posts.py` posts 3 summaries a day (one per pool in `config/facebook-posts.json`) only from URLs in the sitemap, with contact details from `config/business-facts.json`. It posts through the Graph API only when the repo secrets `FB_PAGE_ID` and `FB_PAGE_TOKEN` exist; never commit or print the token. Pause with `enabled: false` in `config/facebook-posts.json`.
 
 Stop production safely by adding a root file named `STOP_FACTORY`, or set `enabled` to `false` in `config/content-factory.json`. Resume by reversing that change. Scheduled runs are serialized through workflow concurrency.
