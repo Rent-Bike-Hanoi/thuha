@@ -1,0 +1,204 @@
+{
+  "writer": "writer-w6b",
+  "queued": "2026-10-13T13:40:33.942304+00:00",
+  "topic": {
+    "topic_id": "TM-00249",
+    "url": "/du-lich/chua-thay-di-xe-may-tu-ha-noi/",
+    "title": "Chùa Thầy đi xe máy từ Hà Nội: đường gom Đại lộ Thăng Long, hội tháng Ba",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa thầy đi xe máy",
+    "secondary_keywords": [
+      "chùa thầy ở đâu",
+      "lễ hội chùa thầy 2027 ngày nào",
+      "đường đi chùa thầy",
+      "hang cắc cớ chùa thầy",
+      "múa rối nước chùa thầy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy lên chùa Thầy (Quốc Oai) đi lễ hoặc dự hội tháng Ba: đi đường nào khi bài báo chỉ “theo cao tốc Láng – Hòa Lạc”, mất bao lâu, hội diễn ra ngày nào và trong chùa có gì.",
+    "information_gain": "Site chưa có bài về chùa Thầy; gần nhất là /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ và /du-lich/di-chua-huong-bang-xe-may/ (một điểm lễ hội khác). Bài này thêm: chùa cách trung tâm khoảng 20 km về phía tây nam; xe máy không được chạy làn chính Đại lộ Thăng Long mà phải đi đường gom (Hà Nội Mới), kèm mức phạt NĐ 168; hội chùa Thầy 5–7/3 âm lịch, năm 2026 kéo dài 19–27/4 dương lịch với khai hội và 3D mapping; bố cục chùa Hạ – Trung – Thượng, Thủy Đình múa rối nước, cầu Nhật Tiên – Nguyệt Tiên, hang Cắc Cớ; nay thuộc xã Quốc Oai. Khác /kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/ (kỹ năng đi giờ cao điểm trong nội đô): bài này là điểm đến chùa Thầy, lễ hội và đường gom Đại lộ Thăng Long cho xe máy.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuoi-nam-di-le-ta-chua-thay-3140014.html",
+        "quote": "VnExpress, “Cuối năm đi lễ tạ chùa Thầy” (2/2/2015): chùa nằm dưới chân dải núi đá vôi giữa đồng bằng xã Sài Sơn, huyện Quốc Oai; “Cách trung tâm thành phố Hà Nội khoảng 20 km về phía Tây Nam, theo đường cao tốc Láng - Hòa Lạc, bạn sẽ mất khoảng nửa tiếng đi xe” (không ghi loại xe); xây từ thời vua Lý Nhân Tông; ngọn Long Đẩu, núi Sài Sơn; sân nhìn ra hồ Long Chiểu (Long Trì), hai cầu Nhật Tiên Kiều và Nguyệt Tiên Kiều; nhà Thủy Đình là sân khấu múa rối nước ngày lễ hội; ba tòa chùa Hạ, chùa Trung, chùa Thượng (thờ thiền sư Từ Đạo Hạnh); hang Cắc Cớ; “Hội chùa Thầy diễn ra ngày 5 - 7/3 Âm lịch hàng năm”, ngày cuối năm, lễ Tết cũng rất đông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/le-hoi-chua-thay-2026-dien-ra-trong-3-ngay-voi-nhieu-hoat-dong-van-hoa-dac-sac-a308212.html",
+        "quote": "Thương hiệu & Công luận, “Lễ hội chùa Thầy 2026 diễn ra trong 3 ngày với nhiều hoạt động văn hóa đặc sắc” (8/3/2026): lễ hội năm 2026 từ 21 đến 23/4 (mùng 5 đến mùng 7 tháng Ba âm lịch) tại khu di tích chùa Thầy, xã Quốc Oai, Hà Nội; lễ khai hội 19 giờ 30 ngày 21/4; tưởng nhớ thiền sư Từ Đạo Hạnh (thời Lý); múa rối nước trên mặt hồ trước chùa, trò chơi dân gian, gian hàng OCOP; ban tổ chức chuẩn bị bảo đảm an ninh trật tự, an toàn giao thông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/ha-noi-hoi-chua-thay-2026-khoi-nguon-di-san-lan-toa-tinh-hoa-xu-doai-a314762.html",
+        "quote": "Thương hiệu & Công luận, “Hà Nội: Hội chùa Thầy 2026 khơi nguồn di sản, lan tỏa tinh hoa xứ Đoài” (20/4/2026): lễ hội 2026 “Diễn ra từ 19/4 đến 27/4 (tức mùng 3 đến 11/3 âm lịch)” tại xã Quốc Oai; gắn kỷ niệm 85 năm cắm cờ Đảng trên đỉnh núi Thầy (17/4/1941 – 17/4/2026); nghi lễ tế khai hội, Mộc dục, rước kiệu, Cáo yết; đêm khai mạc 20/4 có trình chiếu 3D Mapping “Ánh sáng chạm ký ức”; múa rối nước, hát quan họ trên thuyền rồng; không gian OCOP 20–24/4; hồ Long Trì trong khu di tích.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/xe-may-di-vao-cao-toc-xu-ly-nghiem-phat-that-nang-1339885.html",
+        "quote": "Hà Nội Mới (bài Kinhtedothi, Phạm Công, “Xe máy đi vào cao tốc: Xử lý nghiêm, phạt thật nặng”, 18/5/2023): Đại lộ Thăng Long nối trung tâm với quốc lộ 21A cũ, “toàn tuyến dài hơn 30km”; “Theo quy định, xe máy không được lưu thông trên làn đường chính mà chỉ được di chuyển ở tuyến đường gom”; ô tô trên làn cao tốc chạy 80–100 km/h; bài liệt kê nhiều vụ tai nạn chết người giữa xe máy và ô tô trên tuyến.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 khoản 6 điểm b phạt 2.000.000–3.000.000 đồng người điều khiển xe mô tô, xe gắn máy “đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển” (trừ hành vi tại điểm a, điểm b khoản 7); khoản 7 điểm b phạt 4.000.000–6.000.000 đồng khi “điều khiển xe đi vào đường cao tốc”; khoản 13 điểm c: hành vi tại điểm b khoản 7 bị trừ 06 điểm giấy phép lái xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "chùa thầy đi xe máy"
+      }
+    ],
+    "notes": "Hai bài cùng một báo nêu hai khung ngày hội 2026 khác nhau (21–23/4 trong bài đăng trước hội; 19–27/4 trong bài đăng khi hội diễn ra): viết “hội chính 5–7/3 âm lịch; năm 2026 các hoạt động kéo dài 19–27/4” và ghi nguồn. Ngày hội 2027 chưa có nguồn: không tự quy đổi lịch âm sang dương. “Khoảng nửa tiếng đi xe” (2015) không rõ loại xe và đi theo làn chính Đại lộ Thăng Long – xe máy phải đi đường gom nên thời gian sẽ khác; không có nguồn về thời gian xe máy. Việc làn chính Đại lộ Thăng Long áp dụng điểm b khoản 7 (cao tốc) hay điểm b khoản 6 (đường cấm theo biển) Điều 7 NĐ 168 tùy biển báo – writer không khẳng định mức nào, chỉ nêu cả hai. “Xã Sài Sơn, huyện Quốc Oai” là tên cũ; nguồn 2026 gọi “xã Quốc Oai”. Không có nguồn về vé, phí gửi xe, giờ mở cửa.",
+    "outline": [
+      "Chùa Thầy ở đâu, cách trung tâm Hà Nội bao xa",
+      "Đi xe máy: đường gom Đại lộ Thăng Long, không vào làn chính",
+      "Hội chùa Thầy: 5–7/3 âm lịch và các hoạt động năm 2026",
+      "Trong khu di tích có gì: chùa Hạ – Trung – Thượng, Thủy Đình, hai cầu, hang Cắc Cớ",
+      "Đi lễ ngày đông: giờ đến, gửi xe, trang phục"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/di-chua-huong-bang-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.443
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.405
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.438
+        }
+      },
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.438
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00249.json",
+  "draft_template": {
+    "id": "TM-00249",
+    "url": "/du-lich/chua-thay-di-xe-may-tu-ha-noi/",
+    "title": "Chùa Thầy đi xe máy từ Hà Nội: đường gom Đại lộ Thăng Long, hội tháng Ba",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa thầy đi xe máy, chùa thầy ở đâu, lễ hội chùa thầy 2027 ngày nào, đường đi chùa thầy, hang cắc cớ chùa thầy, múa rối nước chùa thầy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Thầy ở đâu, cách trung tâm Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: đường gom Đại lộ Thăng Long, không vào làn chính",
+        "<p></p>"
+      ],
+      [
+        "Hội chùa Thầy: 5–7/3 âm lịch và các hoạt động năm 2026",
+        "<p></p>"
+      ],
+      [
+        "Trong khu di tích có gì: chùa Hạ – Trung – Thượng, Thủy Đình, hai cầu, hang Cắc Cớ",
+        "<p></p>"
+      ],
+      [
+        "Đi lễ ngày đông: giờ đến, gửi xe, trang phục",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuoi-nam-di-le-ta-chua-thay-3140014.html",
+        "quote": "VnExpress, “Cuối năm đi lễ tạ chùa Thầy” (2/2/2015): chùa nằm dưới chân dải núi đá vôi giữa đồng bằng xã Sài Sơn, huyện Quốc Oai; “Cách trung tâm thành phố Hà Nội khoảng 20 km về phía Tây Nam, theo đường cao tốc Láng - Hòa Lạc, bạn sẽ mất khoảng nửa tiếng đi xe” (không ghi loại xe); xây từ thời vua Lý Nhân Tông; ngọn Long Đẩu, núi Sài Sơn; sân nhìn ra hồ Long Chiểu (Long Trì), hai cầu Nhật Tiên Kiều và Nguyệt Tiên Kiều; nhà Thủy Đình là sân khấu múa rối nước ngày lễ hội; ba tòa chùa Hạ, chùa Trung, chùa Thượng (thờ thiền sư Từ Đạo Hạnh); hang Cắc Cớ; “Hội chùa Thầy diễn ra ngày 5 - 7/3 Âm lịch hàng năm”, ngày cuối năm, lễ Tết cũng rất đông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/le-hoi-chua-thay-2026-dien-ra-trong-3-ngay-voi-nhieu-hoat-dong-van-hoa-dac-sac-a308212.html",
+        "quote": "Thương hiệu & Công luận, “Lễ hội chùa Thầy 2026 diễn ra trong 3 ngày với nhiều hoạt động văn hóa đặc sắc” (8/3/2026): lễ hội năm 2026 từ 21 đến 23/4 (mùng 5 đến mùng 7 tháng Ba âm lịch) tại khu di tích chùa Thầy, xã Quốc Oai, Hà Nội; lễ khai hội 19 giờ 30 ngày 21/4; tưởng nhớ thiền sư Từ Đạo Hạnh (thời Lý); múa rối nước trên mặt hồ trước chùa, trò chơi dân gian, gian hàng OCOP; ban tổ chức chuẩn bị bảo đảm an ninh trật tự, an toàn giao thông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/ha-noi-hoi-chua-thay-2026-khoi-nguon-di-san-lan-toa-tinh-hoa-xu-doai-a314762.html",
+        "quote": "Thương hiệu & Công luận, “Hà Nội: Hội chùa Thầy 2026 khơi nguồn di sản, lan tỏa tinh hoa xứ Đoài” (20/4/2026): lễ hội 2026 “Diễn ra từ 19/4 đến 27/4 (tức mùng 3 đến 11/3 âm lịch)” tại xã Quốc Oai; gắn kỷ niệm 85 năm cắm cờ Đảng trên đỉnh núi Thầy (17/4/1941 – 17/4/2026); nghi lễ tế khai hội, Mộc dục, rước kiệu, Cáo yết; đêm khai mạc 20/4 có trình chiếu 3D Mapping “Ánh sáng chạm ký ức”; múa rối nước, hát quan họ trên thuyền rồng; không gian OCOP 20–24/4; hồ Long Trì trong khu di tích.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/xe-may-di-vao-cao-toc-xu-ly-nghiem-phat-that-nang-1339885.html",
+        "quote": "Hà Nội Mới (bài Kinhtedothi, Phạm Công, “Xe máy đi vào cao tốc: Xử lý nghiêm, phạt thật nặng”, 18/5/2023): Đại lộ Thăng Long nối trung tâm với quốc lộ 21A cũ, “toàn tuyến dài hơn 30km”; “Theo quy định, xe máy không được lưu thông trên làn đường chính mà chỉ được di chuyển ở tuyến đường gom”; ô tô trên làn cao tốc chạy 80–100 km/h; bài liệt kê nhiều vụ tai nạn chết người giữa xe máy và ô tô trên tuyến.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 khoản 6 điểm b phạt 2.000.000–3.000.000 đồng người điều khiển xe mô tô, xe gắn máy “đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển” (trừ hành vi tại điểm a, điểm b khoản 7); khoản 7 điểm b phạt 4.000.000–6.000.000 đồng khi “điều khiển xe đi vào đường cao tốc”; khoản 13 điểm c: hành vi tại điểm b khoản 7 bị trừ 06 điểm giấy phép lái xe.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00249"
+  }
+}

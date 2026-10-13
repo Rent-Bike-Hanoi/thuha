@@ -1,0 +1,264 @@
+{
+  "writer": "writer-w6a",
+  "queued": "2026-10-13T13:40:33.832720+00:00",
+  "topic": {
+    "topic_id": "TM-00244",
+    "url": "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+    "title": "Bắc Sơn đi xe máy từ Hà Nội: QL3, QL1B, leo đỉnh Nà Lay, mùa lúa",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bắc sơn đi xe máy",
+    "secondary_keywords": [
+      "thung lũng bắc sơn",
+      "bắc sơn cách hà nội bao nhiêu km",
+      "đỉnh nà lay",
+      "bắc sơn mùa lúa chín tháng mấy",
+      "làng du lịch quỳnh sơn"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy cuối tuần lên thung lũng Bắc Sơn (Lạng Sơn): đi đường nào, bao xa, leo Nà Lay mất bao lâu và tháng nào lúa chín.",
+    "information_gain": "Site có /du-lich/ha-noi-di-lang-son-bang-xe-may/ (QL1 lên TP Lạng Sơn và Mẫu Sơn, hướng đông) và /du-lich/ha-noi-di-thai-nguyen-xe-may/ (QL3 tới Thái Nguyên), chưa có bài về Bắc Sơn phía tây Lạng Sơn. Bài này thêm: tuyến cầu Nhật Tân – QL3 – TP Thái Nguyên – QL1B thêm khoảng 75 km, tổng khoảng 160 km, 3,5–4 giờ; đỉnh Nà Lay khoảng 600 m, leo 30 phút–1 giờ, trạm viba, ngủ lều phải báo trạm; hai cách nói về mùa lúa (cuối tháng 7 và tháng 11 theo sổ tay tỉnh; tháng 5–6 và 8–10 theo VnExpress 2020); xã Bắc Sơn mới gộp từ Long Đống, Bắc Quỳnh, thị trấn Bắc Sơn; dự án cột cờ Nà Lay 2026–2027.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://sokhcn.langson.gov.vn/upload/105367/fck/skhvcn/Guidebook%20DL%20L%E1%BA%A1ng%20S%C6%A1n%20TV%20(%C4%90%C3%A3%20duy%E1%BB%87t%2022_04_2022).pdf",
+        "quote": "Sổ tay Du lịch Lạng Sơn (file “Guidebook DL Lạng Sơn TV (Đã duyệt 22_04_2022)” trên trang Sở KH&CN Lạng Sơn): “Thung lũng Bắc Sơn thuộc huyện Bắc Sơn, tỉnh Lạng Sơn, cách Hà Nội khoảng 160 km theo quốc lộ 1B”; từ đỉnh Nà Lay ngắm “hai mùa lúa chín vào cuối tháng 7 và giữa tháng 11”; thung lũng hoa ở thôn Lân Khoang, xã Trấn Yên; Làng Văn hóa du lịch cộng đồng Quỳnh Sơn cách trung tâm TP Lạng Sơn 80 km về phía tây nam theo QL1B, có trạm vi ba là nơi ngắm toàn cảnh xã; Bảo tàng khởi nghĩa Bắc Sơn nằm cạnh QL1B, thôn Long Hưng, xã Long Đống, cách trung tâm thị trấn Bắc Sơn khoảng 2,5 km về phía bắc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hai-ngay-san-anh-mua-vang-bac-son-3779491.html",
+        "quote": "VnExpress, “Hai ngày săn ảnh mùa vàng Bắc Sơn” (19/7/2018): thị trấn Bắc Sơn cách Hà Nội khoảng 160 km; mùa thu hoạch “thường vào cuối tháng 7 và tháng 11”, ruộng không chín đồng loạt; xe máy, ô tô tự lái đi “Qua cầu Nhật Tân - Quốc lộ 3 - TP Thái Nguyên, rẽ phải theo quốc lộ 1B, đi tiếp khoảng 75 km nữa là đến thung lũng Bắc Sơn”; hành trình khoảng 3,5–4 giờ; xe khách Hà Nội – Lạng Sơn 100.000–200.000 đồng (năm 2018) rồi chuyển xe; phòng 90.000–200.000 đồng/đêm (2018); gửi xe ở làng Quỳnh Sơn rồi leo núi Nà Lay cao khoảng 600 m, đường ngắn nhưng dốc, thô sơ, người khỏe leo 30 phút, mang đồ nặng khoảng một giờ; đỉnh có trạm viba, ngủ lều nên liên hệ trước với nhân viên trạm; mang áo khoác mỏng; đi xe máy nên mang bộ sửa xe cơ bản, miếng vá, săm dự phòng, bơm mini; thác Đăng Mò (Bình Gia) cách trung tâm Bắc Sơn khoảng 20 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/mua-lua-chin-mien-bac-4156470.html",
+        "quote": "VnExpress, bài tổng hợp mùa lúa chín miền Bắc (đăng 8/9/2020): thung lũng Bắc Sơn “có hai mùa vào tháng 5-6 và tháng 8-10”, mùa thu khoảng cuối tháng 8 tới đầu tháng 10 thu hút đông khách; điểm ngắm đẹp nhất là đỉnh Nà Lay, nơi có trạm phát sóng di động; Bắc Sơn không có ruộng bậc thang, lúa trải khắp thung lũng; nên đi xe tự lái như xe máy, ô tô “vì đường dễ đi, ít đèo dốc”; nghỉ homestay gần chân Nà Lay, trong làng du lịch cộng đồng Quỳnh Sơn hoặc cắm trại trên đỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/bac-son-tiep-buoc-truyen-thong-cach-mang-vuon-tam-du-lich-xu-lang-post1138591.vnp",
+        "quote": "Vietnam+, “Bắc Sơn - từ quê hương cách mạng đến điểm du lịch hấp dẫn” (27/9/2026): xã Bắc Sơn hiện nay hình thành từ xã Long Đống, xã Bắc Quỳnh và thị trấn Bắc Sơn (huyện Bắc Sơn cũ), diện tích 80,46 km², dân số 16.719 người; đang triển khai 9 dự án thuộc Đề án phát triển Làng du lịch cộng đồng Quỳnh Sơn, trong đó dự án Cột cờ trên đỉnh núi Nà Lay tổng mức đầu tư 19,4 tỷ đồng, giai đoạn 2026–2027 (cột cờ, đài ngắm cảnh, chiếu sáng nghệ thuật); homestay Bắc Sơn làm từ năm 2010.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Báo Điện tử Chính phủ (12/6/2025), Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh, có hiệu lực từ ngày được thông qua (12/6/2025); sau sắp xếp cả nước có 34 đơn vị hành chính cấp tỉnh: Lạng Sơn nằm trong 11 tỉnh, thành phố không thực hiện sắp xếp; khoản 3 sắp xếp tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh Thái Nguyên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 (xe mô tô, xe gắn máy) khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng với hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "bắc sơn đi xe máy"
+      }
+    ],
+    "notes": "Hai nguồn lệch nhau về mùa lúa (sổ tay tỉnh 2022 và VnExpress 2018: cuối tháng 7 và tháng 11; VnExpress 2020: tháng 5–6 và 8–10): writer nêu cả hai kèm nguồn, khuyên hỏi homestay trước. 160 km là ước lượng của nguồn, không ghi điểm đầu; 75 km là đoạn từ TP Thái Nguyên theo QL1B. Không dùng cao tốc Hà Nội – Thái Nguyên (xe máy cấm vào cao tốc) – đi QL3 như VnExpress mô tả; chưa có nguồn mô tả đoạn QL3 hiện nay (2026). Dự án cột cờ Nà Lay 2026–2027 có thể làm thay đổi lối lên đỉnh: chưa có nguồn về rào chắn/thu phí, không khẳng định. Không có nguồn về phí vào làng Quỳnh Sơn, phí gửi xe. Giá xe khách/phòng là giá 2018. Tên “xã Long Đống”, “xã Trấn Yên”, “xã Quỳnh Sơn” trong sổ tay là tên trước sắp xếp. Không nêu ngày lễ hội Ná Nhèm (chưa xác nhận ngày từ nguồn).",
+    "outline": [
+      "Bắc Sơn ở đâu, khác TP Lạng Sơn và Mẫu Sơn thế nào",
+      "Đường xe máy: cầu Nhật Tân – QL3 – Thái Nguyên – QL1B, không vào cao tốc",
+      "Leo đỉnh Nà Lay: bao lâu, mang gì, ngủ lều cần báo ai",
+      "Mùa lúa chín: hai nguồn, hai mốc thời gian",
+      "Làng Quỳnh Sơn, Bảo tàng khởi nghĩa Bắc Sơn và lịch trình 2 ngày 1 đêm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.559
+        }
+      },
+      {
+        "url": "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+        "layers": [
+          "intent_cluster_near",
+          "title"
+        ],
+        "scores": {
+          "intent_cluster_near": 0.75,
+          "title": 0.592
+        }
+      },
+      {
+        "url": "/du-lich/thanh-co-son-tay-di-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.419
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.419
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.59
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.525
+        }
+      },
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.402
+        }
+      },
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.491
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.491
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00244.json",
+  "draft_template": {
+    "id": "TM-00244",
+    "url": "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+    "title": "Bắc Sơn đi xe máy từ Hà Nội: QL3, QL1B, leo đỉnh Nà Lay, mùa lúa",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bắc sơn đi xe máy, thung lũng bắc sơn, bắc sơn cách hà nội bao nhiêu km, đỉnh nà lay, bắc sơn mùa lúa chín tháng mấy, làng du lịch quỳnh sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bắc Sơn ở đâu, khác TP Lạng Sơn và Mẫu Sơn thế nào",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: cầu Nhật Tân – QL3 – Thái Nguyên – QL1B, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Leo đỉnh Nà Lay: bao lâu, mang gì, ngủ lều cần báo ai",
+        "<p></p>"
+      ],
+      [
+        "Mùa lúa chín: hai nguồn, hai mốc thời gian",
+        "<p></p>"
+      ],
+      [
+        "Làng Quỳnh Sơn, Bảo tàng khởi nghĩa Bắc Sơn và lịch trình 2 ngày 1 đêm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://sokhcn.langson.gov.vn/upload/105367/fck/skhvcn/Guidebook%20DL%20L%E1%BA%A1ng%20S%C6%A1n%20TV%20(%C4%90%C3%A3%20duy%E1%BB%87t%2022_04_2022).pdf",
+        "quote": "Sổ tay Du lịch Lạng Sơn (file “Guidebook DL Lạng Sơn TV (Đã duyệt 22_04_2022)” trên trang Sở KH&CN Lạng Sơn): “Thung lũng Bắc Sơn thuộc huyện Bắc Sơn, tỉnh Lạng Sơn, cách Hà Nội khoảng 160 km theo quốc lộ 1B”; từ đỉnh Nà Lay ngắm “hai mùa lúa chín vào cuối tháng 7 và giữa tháng 11”; thung lũng hoa ở thôn Lân Khoang, xã Trấn Yên; Làng Văn hóa du lịch cộng đồng Quỳnh Sơn cách trung tâm TP Lạng Sơn 80 km về phía tây nam theo QL1B, có trạm vi ba là nơi ngắm toàn cảnh xã; Bảo tàng khởi nghĩa Bắc Sơn nằm cạnh QL1B, thôn Long Hưng, xã Long Đống, cách trung tâm thị trấn Bắc Sơn khoảng 2,5 km về phía bắc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hai-ngay-san-anh-mua-vang-bac-son-3779491.html",
+        "quote": "VnExpress, “Hai ngày săn ảnh mùa vàng Bắc Sơn” (19/7/2018): thị trấn Bắc Sơn cách Hà Nội khoảng 160 km; mùa thu hoạch “thường vào cuối tháng 7 và tháng 11”, ruộng không chín đồng loạt; xe máy, ô tô tự lái đi “Qua cầu Nhật Tân - Quốc lộ 3 - TP Thái Nguyên, rẽ phải theo quốc lộ 1B, đi tiếp khoảng 75 km nữa là đến thung lũng Bắc Sơn”; hành trình khoảng 3,5–4 giờ; xe khách Hà Nội – Lạng Sơn 100.000–200.000 đồng (năm 2018) rồi chuyển xe; phòng 90.000–200.000 đồng/đêm (2018); gửi xe ở làng Quỳnh Sơn rồi leo núi Nà Lay cao khoảng 600 m, đường ngắn nhưng dốc, thô sơ, người khỏe leo 30 phút, mang đồ nặng khoảng một giờ; đỉnh có trạm viba, ngủ lều nên liên hệ trước với nhân viên trạm; mang áo khoác mỏng; đi xe máy nên mang bộ sửa xe cơ bản, miếng vá, săm dự phòng, bơm mini; thác Đăng Mò (Bình Gia) cách trung tâm Bắc Sơn khoảng 20 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/mua-lua-chin-mien-bac-4156470.html",
+        "quote": "VnExpress, bài tổng hợp mùa lúa chín miền Bắc (đăng 8/9/2020): thung lũng Bắc Sơn “có hai mùa vào tháng 5-6 và tháng 8-10”, mùa thu khoảng cuối tháng 8 tới đầu tháng 10 thu hút đông khách; điểm ngắm đẹp nhất là đỉnh Nà Lay, nơi có trạm phát sóng di động; Bắc Sơn không có ruộng bậc thang, lúa trải khắp thung lũng; nên đi xe tự lái như xe máy, ô tô “vì đường dễ đi, ít đèo dốc”; nghỉ homestay gần chân Nà Lay, trong làng du lịch cộng đồng Quỳnh Sơn hoặc cắm trại trên đỉnh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/bac-son-tiep-buoc-truyen-thong-cach-mang-vuon-tam-du-lich-xu-lang-post1138591.vnp",
+        "quote": "Vietnam+, “Bắc Sơn - từ quê hương cách mạng đến điểm du lịch hấp dẫn” (27/9/2026): xã Bắc Sơn hiện nay hình thành từ xã Long Đống, xã Bắc Quỳnh và thị trấn Bắc Sơn (huyện Bắc Sơn cũ), diện tích 80,46 km², dân số 16.719 người; đang triển khai 9 dự án thuộc Đề án phát triển Làng du lịch cộng đồng Quỳnh Sơn, trong đó dự án Cột cờ trên đỉnh núi Nà Lay tổng mức đầu tư 19,4 tỷ đồng, giai đoạn 2026–2027 (cột cờ, đài ngắm cảnh, chiếu sáng nghệ thuật); homestay Bắc Sơn làm từ năm 2010.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Báo Điện tử Chính phủ (12/6/2025), Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh, có hiệu lực từ ngày được thông qua (12/6/2025); sau sắp xếp cả nước có 34 đơn vị hành chính cấp tỉnh: Lạng Sơn nằm trong 11 tỉnh, thành phố không thực hiện sắp xếp; khoản 3 sắp xếp tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh Thái Nguyên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 (xe mô tô, xe gắn máy) khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng với hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00244"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "writer": "writer-w6b",
+  "queued": "2026-10-13T13:40:33.941814+00:00",
+  "topic": {
+    "topic_id": "TM-00248",
+    "url": "/du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/",
+    "title": "Hồ Đại Lải đi xe máy từ Hà Nội: 40 km theo QL2, vé đảo Ngọc, lưu ý",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ đại lải đi xe máy",
+    "secondary_keywords": [
+      "hồ đại lải cách hà nội bao nhiêu km",
+      "đường đi hồ đại lải",
+      "giá vé đảo ngọc đại lải",
+      "hồ đại lải có tắm được không",
+      "hồ đại lải thuộc tỉnh nào"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy đi về trong ngày hoặc ngủ một đêm ở hồ Đại Lải: đi đường nào, mất bao lâu, vào đảo Ngọc hay khu nghỉ dưỡng mất vé thế nào và có được bơi trong hồ không.",
+    "information_gain": "Site chưa có bài V2 về hồ Đại Lải; gần nhất là /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ (danh sách nhiều điểm, không đi sâu) và /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ (cùng Vĩnh Phúc cũ, khác điểm). Bài này thêm: khoảng 40 km qua cầu Nhật Tân hoặc cầu Thăng Long – QL2A – Sóc Sơn – rẽ Phúc Yên; xe buýt 58 đổi 08VP; hồ đào năm 1959, rộng 5,2 km², khai thác du lịch từ 1987; vé đảo Ngọc (vé đảo và vé tàu, mỗi loại 100.000 đồng) và vé ngày khu nghỉ dưỡng theo VnExpress; hồ nay thuộc phường Xuân Hòa, tỉnh Phú Thọ; cảnh báo đuối nước ở khu lấy nước sinh hoạt (Báo Phú Thọ 6/2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dai-lai-4609900.html",
+        "quote": "VnExpress, Cẩm nang du lịch Đại Lải (đăng 5/6/2023, cập nhật 4/2/2025): hồ Đại Lải đào năm 1959, hoàn thành sau 4 năm, rộng 5,2 km², giữa hồ có đảo Ngọc (đảo Chim); năm 1987 khu vực hồ được đưa vào khai thác du lịch; “Hồ Đại Lải cách Hà Nội khoảng 40 km nên có thể đi đến đây bằng ôtô hoặc xe máy”; đi qua cầu Nhật Tân hoặc cầu Thăng Long, theo quốc lộ 2A qua địa phận Sóc Sơn rồi rẽ phải hướng Phúc Yên; xe buýt 58 đến đường Nguyễn Trãi (Phúc Yên) rồi đổi xe 08VP; vé vui chơi trong ngày Flamingo Đại Lải: người lớn 290.000 đồng, trẻ 6–12 tuổi 240.000 đồng, trẻ 2 đến dưới 6 tuổi 190.000 đồng; vào đảo Ngọc phải mua hai vé bắt buộc là vé tham quan đảo và vé tàu, mỗi loại 100.000 đồng, công viên nước thêm 100.000 đồng; thuê lều trại 350.000 đồng; nhà nghỉ quanh hồ 200.000–700.000 đồng; nhà hàng thịt trâu phía đường tỉnh 302B.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/phu-tho-phuong-xuan-hoa-don-nhan-huan-chuong-lao-dong-hang-nhi-khai-mac-tuan-le-du-lich-nam-2026-240606.html",
+        "quote": "Báo Văn hóa, “Phú Thọ: Phường Xuân Hòa đón nhận Huân chương Lao động hạng Nhì, khai mạc Tuần lễ Du lịch năm 2026” (26/6/2026): chiều 26/6 phường Xuân Hòa, tỉnh Phú Thọ khai mạc Tuần lễ Du lịch 2026; mục tiêu đưa khu vực Xuân Hòa – Đại Lải trở thành trung tâm du lịch trọng điểm quốc gia vào năm 2030; phát triển du lịch xanh gắn bảo vệ hệ sinh thái hồ Đại Lải; có không gian chợ Tình Đại Lải.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/canh-bao-nguy-co-duoi-nuoc-tai-ho-dai-lai-256876.htm",
+        "quote": "Báo Phú Thọ, “Cảnh báo nguy cơ đuối nước tại hồ Đại Lải” (26/6/2026): dù đã lắp biển “Cảnh báo nguy hiểm, ống trơn trượt, cấm leo trèo, đi lại”, tại khu vực lấy nước sinh hoạt thuộc lòng hồ Đại Lải (phường Xuân Hòa) vẫn có thanh thiếu niên tụ tập tắm, bơi; một số em trèo lên công trình để nhảy xuống lòng hồ từ độ cao lớn, ngồi và đi lại trên đường ống dẫn nước, tiềm ẩn nguy cơ đuối nước.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Báo Điện tử Chính phủ (12/6/2025), Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh, có hiệu lực từ ngày được thông qua (12/6/2025); sau sắp xếp cả nước có 34 đơn vị hành chính cấp tỉnh: khoản 4 sắp xếp tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 (xe mô tô, xe gắn máy) khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng với hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "hồ đại lải đi xe máy"
+      }
+    ],
+    "notes": "Giá vé Flamingo và đảo Ngọc là số trong cẩm nang VnExpress (cập nhật 2/2025), có thể đã đổi: ghi “theo VnExpress, cập nhật 2/2025” và khuyên hỏi lại. 40 km không ghi điểm đầu, không rõ phương tiện. Chưa có nguồn nói hồ có khu bơi hợp lệ hay không: chỉ dẫn cảnh báo đuối nước của Báo Phú Thọ, không khẳng định “cấm tắm” toàn hồ. Lộ trình đi qua khu vực Sóc Sơn gần cao tốc Nội Bài – Lào Cai: nhắc không đi vào cao tốc (NĐ 168) nhưng không viết nội dung về sân bay Nội Bài (brief cấm). Hệ V1 có khoảng 30 bài template noindex “Phượt Hồ Đại Lải bằng …” (/kinh-nghiem/ho-dai-lai/...): editor cân nhắc đây là bài V2 chuẩn. Tên “Phúc Yên” là tên cũ trong nguồn; hồ nay thuộc phường Xuân Hòa, tỉnh Phú Thọ (theo Báo Văn hóa, Báo Phú Thọ).",
+    "outline": [
+      "Hồ Đại Lải ở đâu, nay thuộc phường nào, tỉnh nào",
+      "Đường đi xe máy: cầu Nhật Tân/Thăng Long – QL2A – rẽ Phúc Yên (không vào cao tốc)",
+      "Vé vào đảo Ngọc, khu nghỉ dưỡng: những khoản phải trả",
+      "Đi về trong ngày hay ngủ lại: lều trại, nhà nghỉ quanh hồ",
+      "An toàn: khu lấy nước sinh hoạt và cảnh báo đuối nước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00248.json",
+  "draft_template": {
+    "id": "TM-00248",
+    "url": "/du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/",
+    "title": "Hồ Đại Lải đi xe máy từ Hà Nội: 40 km theo QL2, vé đảo Ngọc, lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ đại lải đi xe máy, hồ đại lải cách hà nội bao nhiêu km, đường đi hồ đại lải, giá vé đảo ngọc đại lải, hồ đại lải có tắm được không, hồ đại lải thuộc tỉnh nào",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Đại Lải ở đâu, nay thuộc phường nào, tỉnh nào",
+        "<p></p>"
+      ],
+      [
+        "Đường đi xe máy: cầu Nhật Tân/Thăng Long – QL2A – rẽ Phúc Yên (không vào cao tốc)",
+        "<p></p>"
+      ],
+      [
+        "Vé vào đảo Ngọc, khu nghỉ dưỡng: những khoản phải trả",
+        "<p></p>"
+      ],
+      [
+        "Đi về trong ngày hay ngủ lại: lều trại, nhà nghỉ quanh hồ",
+        "<p></p>"
+      ],
+      [
+        "An toàn: khu lấy nước sinh hoạt và cảnh báo đuối nước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dai-lai-4609900.html",
+        "quote": "VnExpress, Cẩm nang du lịch Đại Lải (đăng 5/6/2023, cập nhật 4/2/2025): hồ Đại Lải đào năm 1959, hoàn thành sau 4 năm, rộng 5,2 km², giữa hồ có đảo Ngọc (đảo Chim); năm 1987 khu vực hồ được đưa vào khai thác du lịch; “Hồ Đại Lải cách Hà Nội khoảng 40 km nên có thể đi đến đây bằng ôtô hoặc xe máy”; đi qua cầu Nhật Tân hoặc cầu Thăng Long, theo quốc lộ 2A qua địa phận Sóc Sơn rồi rẽ phải hướng Phúc Yên; xe buýt 58 đến đường Nguyễn Trãi (Phúc Yên) rồi đổi xe 08VP; vé vui chơi trong ngày Flamingo Đại Lải: người lớn 290.000 đồng, trẻ 6–12 tuổi 240.000 đồng, trẻ 2 đến dưới 6 tuổi 190.000 đồng; vào đảo Ngọc phải mua hai vé bắt buộc là vé tham quan đảo và vé tàu, mỗi loại 100.000 đồng, công viên nước thêm 100.000 đồng; thuê lều trại 350.000 đồng; nhà nghỉ quanh hồ 200.000–700.000 đồng; nhà hàng thịt trâu phía đường tỉnh 302B.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/phu-tho-phuong-xuan-hoa-don-nhan-huan-chuong-lao-dong-hang-nhi-khai-mac-tuan-le-du-lich-nam-2026-240606.html",
+        "quote": "Báo Văn hóa, “Phú Thọ: Phường Xuân Hòa đón nhận Huân chương Lao động hạng Nhì, khai mạc Tuần lễ Du lịch năm 2026” (26/6/2026): chiều 26/6 phường Xuân Hòa, tỉnh Phú Thọ khai mạc Tuần lễ Du lịch 2026; mục tiêu đưa khu vực Xuân Hòa – Đại Lải trở thành trung tâm du lịch trọng điểm quốc gia vào năm 2030; phát triển du lịch xanh gắn bảo vệ hệ sinh thái hồ Đại Lải; có không gian chợ Tình Đại Lải.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/canh-bao-nguy-co-duoi-nuoc-tai-ho-dai-lai-256876.htm",
+        "quote": "Báo Phú Thọ, “Cảnh báo nguy cơ đuối nước tại hồ Đại Lải” (26/6/2026): dù đã lắp biển “Cảnh báo nguy hiểm, ống trơn trượt, cấm leo trèo, đi lại”, tại khu vực lấy nước sinh hoạt thuộc lòng hồ Đại Lải (phường Xuân Hòa) vẫn có thanh thiếu niên tụ tập tắm, bơi; một số em trèo lên công trình để nhảy xuống lòng hồ từ độ cao lớn, ngồi và đi lại trên đường ống dẫn nước, tiềm ẩn nguy cơ đuối nước.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Báo Điện tử Chính phủ (12/6/2025), Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh, có hiệu lực từ ngày được thông qua (12/6/2025); sau sắp xếp cả nước có 34 đơn vị hành chính cấp tỉnh: khoản 4 sắp xếp tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 (xe mô tô, xe gắn máy) khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng với hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00248"
+  }
+}

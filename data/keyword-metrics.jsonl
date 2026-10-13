@@ -377,3 +377,15 @@
 {"keyword": "khóa chống trộm xe máy", "volume": 590, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
 {"keyword": "điểm mù xe tải", "volume": 480, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
 {"keyword": "phòng cướp giật khi đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "pù luông đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "hoàng su phì đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "bắc sơn đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "tà xùa đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "đồ sơn đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "hồ thác bà đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "hồ đại lải đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "chùa thầy đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "chùa tây phương đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "thành cổ sơn tây", "volume": 18100, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "đền trần nam định đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "tân trào đi xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}

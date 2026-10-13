@@ -1,0 +1,199 @@
+{
+  "writer": "writer-w6b",
+  "queued": "2026-10-13T13:40:33.941252+00:00",
+  "topic": {
+    "topic_id": "TM-00251",
+    "url": "/du-lich/thanh-co-son-tay-di-xe-may/",
+    "title": "Thành cổ Sơn Tây đi xe máy từ Hà Nội: hơn 40 km, 4 cửa, kỳ đài 18 m",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thành cổ sơn tây",
+    "secondary_keywords": [
+      "thành cổ sơn tây ở đâu",
+      "thành cổ sơn tây cách hà nội bao nhiêu km",
+      "thành cổ sơn tây xây năm nào",
+      "kỳ đài thành cổ sơn tây",
+      "thành đá ong sơn tây"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy lên Sơn Tây xem thành cổ đá ong (thường ghép với làng cổ Đường Lâm): thành cách bao xa, vào cửa nào, trong thành còn gì để xem và nên đi mùa nào.",
+    "information_gain": "Bài gần nhất /du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ tập trung vào làng cổ Đường Lâm; /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ đi tiếp lên núi. Bài này dành riêng cho thành cổ: xây năm 1822 (Minh Mạng thứ 3) bằng đá ong theo kiểu Vauban, mỗi cạnh khoảng 400 m, cao 5 m, hào sâu 3 m rộng 20 m dài khoảng 1.795 m (Báo Chính phủ); kỳ đài cao khoảng 18 m với cầu thang xoắn 50 bậc; 4 cửa nhưng chỉ cửa Tiền, cửa Hậu có cầu qua hào; mốc 1924 xếp hạng, 12/1946 Chính phủ họp, 1994 di tích quốc gia, 2009 phục dựng; mùa cây cơm nguội, hoa gạo tháng 3; số liệu lệch giữa các nguồn được chỉ ra. Khác /du-lich/bac-son-di-xe-may-tu-ha-noi/ (Bắc Sơn, Lạng Sơn): chỉ trùng chữ 'sơn'; bài này về thành cổ Sơn Tây ở Hà Nội — lịch sử, kiến trúc thành đá ong và cách đi.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/thanh-co-son-tay-10235788.htm",
+        "quote": "Báo Điện tử Chính phủ, “Thành cổ Sơn Tây” (30/7/2010): thành nằm giữa thị xã Sơn Tây, “cách trung tâm Hà Nội hơn 40 km”, xây năm 1822 triều Minh Mạng trên địa phận các xã Mai Trai, Thuần Nghệ; xây bằng đá ong, tổng thể hình vuông mỗi chiều khoảng 400 m, cao 5 m, kiểu Vauban; chân thành rộng 6 m, mặt thành rộng 4 m; 4 cổng chính (cổng Tiền phía Nam, cổng Hậu phía Bắc, cổng Đông, cổng Tây); hào sâu 3 m, rộng 20 m, dài khoảng 1.795 m, nối ra sông Tích ở góc tây nam; kỳ đài (cột cờ) trên bệ đá ong cao khoảng 18 m; “Thành bị quân Pháp chiếm năm 1884”; năm 1924 Toàn quyền Đông Dương ra nghị định xếp hạng; tháng 12/1946 Chính phủ Việt Nam Dân chủ Cộng hòa họp tại đây.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/19242/thanh-co-son-tay-noi-tim-ve-lich-su.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn), “Thành cổ Sơn Tây - Nơi tìm về lịch sử” (31/5/2016): “Cách trung tâm Hà Nội khoảng 40 km”, là tòa thành cổ xây bằng đá ong duy nhất ở Việt Nam; xây năm 1822 (Minh Mạng thứ 3), “đến năm 1883 thì thất thủ vào tay quân Pháp”; theo thư tịch cổ chu vi 326 trượng 7 thước; thiết kế Vauban với 4 cửa quay ra 4 hướng; hồi ký năm 1884 của một bác sĩ quân đội Pháp tả giữa thành có tháp cao 18 m (cột cờ), trước tháp có hai bể nước lớn; vào thành qua cầu bắc ngang hào tới cửa Tiền (cổng phía Nam).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/reu-phong-thanh-co-son-tay-3017164.html",
+        "quote": "VnExpress, “Rêu phong thành cổ Sơn Tây” (16/7/2014): xây năm Minh Mạng thứ 3 (1822); hình tứ giác diện tích khoảng 16 ha, tường đá ong cao khoảng 4,5 m; 4 cổng Tây, Đông, Nam, Bắc (cửa Hữu, cửa Tả, cửa Tiền, cửa Hậu) xây bằng gạch cổ; hào rộng hơn 25 m, sâu khoảng 4 m, dài 1.792 m nối ra sông Tích; “hiện nay chỉ có hai cửa chính là cửa Tiền và cửa Hậu có cầu bắc qua hào nước dẫn vào cổng thành”; trong thành còn vọng lâu (cột cờ) cao 18 m, vọng cung, điện Kính Thiên, hai ao sen, một số công trình đã được phục dựng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ve-dep-co-kinh-cua-toa-thanh-da-ong-duy-nhat-o-viet-nam-post457908.html",
+        "quote": "Báo Pháp luật Việt Nam, “Vẻ đẹp cổ kính của tòa thành đá ong duy nhất ở Việt Nam” (9/11/2022): thành cách sông Hồng khoảng 2 km; thủ phủ vùng Tam Tuyên (Sơn Tây, Hưng Hóa, Tuyên Quang) thời Nguyễn; kỳ đài hình tháp 8 cạnh cao 18 m, bên trong cầu thang đá xoáy trôn ốc 50 bậc; năm 1884 quân Pháp đánh chiếm thành; năm 1924 Toàn quyền Merlin ra nghị định xếp hạng; tháng 12/1946 Chính phủ họp quan trọng tại đây; năm 1994 Bộ Văn hóa – Thông tin công nhận Di tích lịch sử kiến trúc quốc gia; năm 2009 Hà Nội cải tạo, phục dựng phục vụ Đại lễ 1.000 năm Thăng Long; mùa xuân cây cơm nguội ra lá mới, tháng 3 hoa gạo nở đỏ, mùa thu bồ kết vàng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/xe-may-di-vao-cao-toc-xu-ly-nghiem-phat-that-nang-1339885.html",
+        "quote": "Hà Nội Mới (bài Kinhtedothi, Phạm Công, “Xe máy đi vào cao tốc: Xử lý nghiêm, phạt thật nặng”, 18/5/2023): Đại lộ Thăng Long nối trung tâm với quốc lộ 21A cũ, “toàn tuyến dài hơn 30km”; “Theo quy định, xe máy không được lưu thông trên làn đường chính mà chỉ được di chuyển ở tuyến đường gom”; ô tô trên làn cao tốc chạy 80–100 km/h; bài liệt kê nhiều vụ tai nạn chết người giữa xe máy và ô tô trên tuyến.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 18100,
+        "checked": "2026-10-13",
+        "keyword": "thành cổ sơn tây"
+      }
+    ],
+    "notes": "Số liệu lệch giữa nguồn, writer phải nêu rõ: năm thất thủ 1883 (Bảo tàng Lịch sử QG) và 1884 (Báo Chính phủ, Báo Pháp luật); cạnh thành 400 m (Báo Chính phủ) và 500 m (Báo Pháp luật); tường cao 5 m / 4,5 m; hào rộng 20 m / hơn 25 m, sâu 3 m / 4 m, dài 1.795 m / 1.792 m. Khoảng cách “hơn 40 km”/“khoảng 40 km” không ghi tuyến đường. Chưa có nguồn đã fetch về lộ trình xe máy cụ thể (QL32 hay đường gom Đại lộ Thăng Long), giờ mở cửa, vé, gửi xe, phố đi bộ cuối tuần (bài vietnamtourism.gov.vn về phố đi bộ không tải được) – không nêu. “Thị xã Sơn Tây” là tên trước sắp xếp 2025; tên phường mới chưa fetch. Không dùng trang travelhanoi.com.vn (trang công ty lữ hành, không phải cổng chính thức). Tránh trùng bài Đường Lâm: chỉ gợi ý ghép lịch và link sang.",
+    "outline": [
+      "Thành cổ Sơn Tây ở đâu, cách trung tâm Hà Nội bao xa",
+      "Đi xe máy lên Sơn Tây: không vào làn chính Đại lộ Thăng Long",
+      "Thành đá ong kiểu Vauban: kích thước, hào nước, 4 cửa",
+      "Trong thành còn gì: kỳ đài 18 m, điện Kính Thiên, ao sen",
+      "Các mốc lịch sử 1822 – 1883/1884 – 1946 – 1994 (và chỗ các nguồn lệch nhau)",
+      "Mùa đẹp và ghép lịch với làng cổ Đường Lâm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/hoang-thanh-thang-long/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.419
+        }
+      },
+      {
+        "url": "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.422
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.405
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00251.json",
+  "draft_template": {
+    "id": "TM-00251",
+    "url": "/du-lich/thanh-co-son-tay-di-xe-may/",
+    "title": "Thành cổ Sơn Tây đi xe máy từ Hà Nội: hơn 40 km, 4 cửa, kỳ đài 18 m",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thành cổ sơn tây, thành cổ sơn tây ở đâu, thành cổ sơn tây cách hà nội bao nhiêu km, thành cổ sơn tây xây năm nào, kỳ đài thành cổ sơn tây, thành đá ong sơn tây",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thành cổ Sơn Tây ở đâu, cách trung tâm Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy lên Sơn Tây: không vào làn chính Đại lộ Thăng Long",
+        "<p></p>"
+      ],
+      [
+        "Thành đá ong kiểu Vauban: kích thước, hào nước, 4 cửa",
+        "<p></p>"
+      ],
+      [
+        "Trong thành còn gì: kỳ đài 18 m, điện Kính Thiên, ao sen",
+        "<p></p>"
+      ],
+      [
+        "Các mốc lịch sử 1822 – 1883/1884 – 1946 – 1994 (và chỗ các nguồn lệch nhau)",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp và ghép lịch với làng cổ Đường Lâm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/thanh-co-son-tay-10235788.htm",
+        "quote": "Báo Điện tử Chính phủ, “Thành cổ Sơn Tây” (30/7/2010): thành nằm giữa thị xã Sơn Tây, “cách trung tâm Hà Nội hơn 40 km”, xây năm 1822 triều Minh Mạng trên địa phận các xã Mai Trai, Thuần Nghệ; xây bằng đá ong, tổng thể hình vuông mỗi chiều khoảng 400 m, cao 5 m, kiểu Vauban; chân thành rộng 6 m, mặt thành rộng 4 m; 4 cổng chính (cổng Tiền phía Nam, cổng Hậu phía Bắc, cổng Đông, cổng Tây); hào sâu 3 m, rộng 20 m, dài khoảng 1.795 m, nối ra sông Tích ở góc tây nam; kỳ đài (cột cờ) trên bệ đá ong cao khoảng 18 m; “Thành bị quân Pháp chiếm năm 1884”; năm 1924 Toàn quyền Đông Dương ra nghị định xếp hạng; tháng 12/1946 Chính phủ Việt Nam Dân chủ Cộng hòa họp tại đây.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/19242/thanh-co-son-tay-noi-tim-ve-lich-su.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn), “Thành cổ Sơn Tây - Nơi tìm về lịch sử” (31/5/2016): “Cách trung tâm Hà Nội khoảng 40 km”, là tòa thành cổ xây bằng đá ong duy nhất ở Việt Nam; xây năm 1822 (Minh Mạng thứ 3), “đến năm 1883 thì thất thủ vào tay quân Pháp”; theo thư tịch cổ chu vi 326 trượng 7 thước; thiết kế Vauban với 4 cửa quay ra 4 hướng; hồi ký năm 1884 của một bác sĩ quân đội Pháp tả giữa thành có tháp cao 18 m (cột cờ), trước tháp có hai bể nước lớn; vào thành qua cầu bắc ngang hào tới cửa Tiền (cổng phía Nam).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/reu-phong-thanh-co-son-tay-3017164.html",
+        "quote": "VnExpress, “Rêu phong thành cổ Sơn Tây” (16/7/2014): xây năm Minh Mạng thứ 3 (1822); hình tứ giác diện tích khoảng 16 ha, tường đá ong cao khoảng 4,5 m; 4 cổng Tây, Đông, Nam, Bắc (cửa Hữu, cửa Tả, cửa Tiền, cửa Hậu) xây bằng gạch cổ; hào rộng hơn 25 m, sâu khoảng 4 m, dài 1.792 m nối ra sông Tích; “hiện nay chỉ có hai cửa chính là cửa Tiền và cửa Hậu có cầu bắc qua hào nước dẫn vào cổng thành”; trong thành còn vọng lâu (cột cờ) cao 18 m, vọng cung, điện Kính Thiên, hai ao sen, một số công trình đã được phục dựng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ve-dep-co-kinh-cua-toa-thanh-da-ong-duy-nhat-o-viet-nam-post457908.html",
+        "quote": "Báo Pháp luật Việt Nam, “Vẻ đẹp cổ kính của tòa thành đá ong duy nhất ở Việt Nam” (9/11/2022): thành cách sông Hồng khoảng 2 km; thủ phủ vùng Tam Tuyên (Sơn Tây, Hưng Hóa, Tuyên Quang) thời Nguyễn; kỳ đài hình tháp 8 cạnh cao 18 m, bên trong cầu thang đá xoáy trôn ốc 50 bậc; năm 1884 quân Pháp đánh chiếm thành; năm 1924 Toàn quyền Merlin ra nghị định xếp hạng; tháng 12/1946 Chính phủ họp quan trọng tại đây; năm 1994 Bộ Văn hóa – Thông tin công nhận Di tích lịch sử kiến trúc quốc gia; năm 2009 Hà Nội cải tạo, phục dựng phục vụ Đại lễ 1.000 năm Thăng Long; mùa xuân cây cơm nguội ra lá mới, tháng 3 hoa gạo nở đỏ, mùa thu bồ kết vàng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/xe-may-di-vao-cao-toc-xu-ly-nghiem-phat-that-nang-1339885.html",
+        "quote": "Hà Nội Mới (bài Kinhtedothi, Phạm Công, “Xe máy đi vào cao tốc: Xử lý nghiêm, phạt thật nặng”, 18/5/2023): Đại lộ Thăng Long nối trung tâm với quốc lộ 21A cũ, “toàn tuyến dài hơn 30km”; “Theo quy định, xe máy không được lưu thông trên làn đường chính mà chỉ được di chuyển ở tuyến đường gom”; ô tô trên làn cao tốc chạy 80–100 km/h; bài liệt kê nhiều vụ tai nạn chết người giữa xe máy và ô tô trên tuyến.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00251"
+  }
+}
