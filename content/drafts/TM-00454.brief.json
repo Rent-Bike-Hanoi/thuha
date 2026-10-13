@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w15a",
+  "queued": "2026-10-13T21:41:18.962872+00:00",
+  "topic": {
+    "topic_id": "TM-00454",
+    "url": "/du-lich/lang-gom-phu-lang/",
+    "title": "Làng gốm Phù Lãng: gốm men da lươn 700 năm, con đường gốm, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng gốm phù lãng",
+    "secondary_keywords": [
+      "gốm phù lãng",
+      "phù lãng bắc ninh",
+      "con đường gốm phù lãng",
+      "trải nghiệm làm gốm phù lãng",
+      "làng gốm gần hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội đã biết Bát Tràng, muốn một làng gốm thủ công ít đông hơn để xem lò nung củi, nặn gốm và mua đồ, cần biết đường xa bao nhiêu và có gì để xem.",
+    "information_gain": "Site chỉ có /du-lich/lang-gom-bat-trang/ (gốm Hà Nội) và /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ (đền Đô, chùa Dâu, Đông Hồ, không nhắc Phù Lãng). Bài mới thêm: Phù Lãng cách Hà Nội khoảng 60 km (TTXVN 2025), khác Bát Tràng ở men nâu 'da lươn' từ tro củi và nung củi; khoảng 200 hộ, hơn 1.000 lao động; công trình mới đầu 2026 (chum gốm biểu tượng cao 3,7 m ở cổng làng, hai phù điêu dài 18 m trên con đường gốm); điểm trải nghiệm OCOP 3 sao; và tên hành chính mới: xã Phù Lãng (7/2025) thành phường Phù Lãng từ 20/9/2026, thuộc thành phố Bắc Ninh.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/du-lich-tai-lang-co-phu-lang/62507.html",
+        "quote": "TTXVN – Chính sách & Cuộc sống, 'Du lịch tại làng cổ Phù Lãng' (khoảng 6/2025): làng gốm hơn 700 năm, cách Hà Nội khoảng 60 km; sản phẩm thô, mộc, ít dùng máy móc, khuôn in, men nâu tự nhiên; khoảng 200 hộ, hơn 1.000 người làm gốm, mỗi năm hơn 1 triệu sản phẩm, doanh thu gần 100 tỷ đồng; xưởng gốm Đức Thịnh đón trung bình khoảng 20.000 khách (chủ yếu học sinh) mỗi năm; tháng 3/2024 thành lập Hợp tác xã dịch vụ và du lịch gốm Phù Lãng; QĐ 223/QĐ-UBND ngày 8/5/2024 của UBND tỉnh Bắc Ninh định hướng Phù Lãng thành sản phẩm OCOP du lịch, có bãi đỗ xe, khu đón tiếp đầu làng, con đường gốm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/phu-lang-gin-giu-quang-ba-lang-gom-qua-bieu-tuong-and-buc-tranh-tuong-postid437947.bbg",
+        "quote": "Báo Bắc Ninh (27/01/2026): từ tháng 9/2025 nghệ nhân, thợ trẻ thi công dự án OCOP du lịch làng nghề gốm Phù Lãng, dự kiến xong trước Tết; chum gốm biểu tượng ở cổng làng cao 3,7 m, thân rộng 2,8 m, ghép từ mảnh gốm và hàng trăm lọ hoa; bộ chữ 'Làng nghề gốm Phù Lãng' cao 40–90 cm; dọc con đường gốm có hai phù điêu cao 1,17 m, dài 18 m và hơn 10 bức phù điêu khác.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/gom-phu-lang-hanh-trinh-nang-tam-gia-tri-postid430059.bbg",
+        "quote": "Báo Bắc Ninh (01/11/2025): hơn bảy thế kỷ lò nung Phù Lãng (xã Phù Lãng) vẫn đỏ lửa, sản phẩm gốm nâu da lươn đặc trưng; nghệ nhân Bùi Văn Huân (sinh 1990) chọn nung củi truyền thống; cơ sở của chị Đặng Thị Tâm (HTX Gốm Minh Tâm) là điểm du lịch OCOP 3 sao từ năm 2018, đón khách trải nghiệm; nghệ nhân Nguyễn Đức Thịnh làm tranh gốm đắp nổi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/gom-bac-ninh-du-lich-nhat-ban-postid421056.bbg",
+        "quote": "Báo Bắc Ninh (01/07/2025): làng gốm ven sông Cầu giữ lửa gần 700 năm; men da lươn nâu óng hoặc nâu sậm tạo từ tro củi và oxit tự nhiên; nung củi tạo vết men loang, táp lửa độc bản; tượng nhỏ phơi khô có khi mất cả tháng mới tráng men, nung; làng nhận đơn hàng xuất sang Nhật Bản; số lò giảm vì lớp trẻ đi làm xa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/thanh-lap-12-phuong-thuoc-tinh-bac-ninh-100260817210356213.htm",
+        "quote": "VTV (17/8/2026): Ủy ban Thường vụ Quốc hội thành lập 12 phường thuộc tỉnh Bắc Ninh, trong đó phường Phù Lãng lập trên nguyên trạng xã Phù Lãng, giáp Cảnh Thụy, Cao Đức, Đào Viên, Đồng Việt, Nhân Thắng, Yên Dũng và thành phố Hải Phòng (Nghị quyết 388/NQ-UBTVQH16, hiệu lực 20/9/2026 theo congbao.chinhphu.vn).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chinhphu.vn/?pageid=27160&docid=219328",
+        "quote": "Cổng TTĐT Chính phủ (đọc 13/10/2026): Nghị quyết số 39/2026/QH16 về việc thành lập thành phố Bắc Ninh, ban hành 24/8/2026, hiệu lực 20/9/2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1000,
+        "checked": "2026-10-13",
+        "keyword": "làng gốm phù lãng"
+      }
+    ],
+    "notes": "Chưa có nguồn chính thức về tuyến đường xe máy cụ thể (chỉ có 'khoảng 60 km' từ Hà Nội, TTXVN 2025) và về giá trải nghiệm nặn gốm, giờ mở xưởng, phí gửi xe: không đưa số. Con đường gốm/chum biểu tượng: nguồn 27/1/2026 nói 'đang hoàn thiện, kịp trước Tết' — chưa có tin xác nhận đã hoàn thành. Tên hành chính hiện nay: phường Phù Lãng, thành phố Bắc Ninh (từ 20/9/2026); bài cũ ghi 'xã Phù Lãng, thị xã Quế Võ' là tên cũ. Không nhầm với 'Phù Lãng' ở nơi khác.",
+    "outline": [
+      "Phù Lãng ở đâu, cách Hà Nội bao xa, tên phường mới",
+      "Khác Bát Tràng thế nào: men da lươn, nung củi, gốm mộc",
+      "Xem gì: cổng làng chum gốm, con đường gốm, xưởng nghệ nhân",
+      "Trải nghiệm nặn gốm và mua gốm: hỏi giá trước, cách chở đồ gốm bằng xe máy",
+      "Đi xe máy từ Hà Nội và ghép lịch trình với chùa Bút Tháp hoặc Côn Sơn",
+      "Lưu ý khi vào xưởng: lò nóng, sân phơi, đi giày kín"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/chua-but-thap-bac-ninh/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00454.json",
+  "draft_template": {
+    "id": "TM-00454",
+    "url": "/du-lich/lang-gom-phu-lang/",
+    "title": "Làng gốm Phù Lãng: gốm men da lươn 700 năm, con đường gốm, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gốm phù lãng, gốm phù lãng, phù lãng bắc ninh, con đường gốm phù lãng, trải nghiệm làm gốm phù lãng, làng gốm gần hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phù Lãng ở đâu, cách Hà Nội bao xa, tên phường mới",
+        "<p></p>"
+      ],
+      [
+        "Khác Bát Tràng thế nào: men da lươn, nung củi, gốm mộc",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: cổng làng chum gốm, con đường gốm, xưởng nghệ nhân",
+        "<p></p>"
+      ],
+      [
+        "Trải nghiệm nặn gốm và mua gốm: hỏi giá trước, cách chở đồ gốm bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội và ghép lịch trình với chùa Bút Tháp hoặc Côn Sơn",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi vào xưởng: lò nóng, sân phơi, đi giày kín",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/du-lich-tai-lang-co-phu-lang/62507.html",
+        "quote": "TTXVN – Chính sách & Cuộc sống, 'Du lịch tại làng cổ Phù Lãng' (khoảng 6/2025): làng gốm hơn 700 năm, cách Hà Nội khoảng 60 km; sản phẩm thô, mộc, ít dùng máy móc, khuôn in, men nâu tự nhiên; khoảng 200 hộ, hơn 1.000 người làm gốm, mỗi năm hơn 1 triệu sản phẩm, doanh thu gần 100 tỷ đồng; xưởng gốm Đức Thịnh đón trung bình khoảng 20.000 khách (chủ yếu học sinh) mỗi năm; tháng 3/2024 thành lập Hợp tác xã dịch vụ và du lịch gốm Phù Lãng; QĐ 223/QĐ-UBND ngày 8/5/2024 của UBND tỉnh Bắc Ninh định hướng Phù Lãng thành sản phẩm OCOP du lịch, có bãi đỗ xe, khu đón tiếp đầu làng, con đường gốm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/phu-lang-gin-giu-quang-ba-lang-gom-qua-bieu-tuong-and-buc-tranh-tuong-postid437947.bbg",
+        "quote": "Báo Bắc Ninh (27/01/2026): từ tháng 9/2025 nghệ nhân, thợ trẻ thi công dự án OCOP du lịch làng nghề gốm Phù Lãng, dự kiến xong trước Tết; chum gốm biểu tượng ở cổng làng cao 3,7 m, thân rộng 2,8 m, ghép từ mảnh gốm và hàng trăm lọ hoa; bộ chữ 'Làng nghề gốm Phù Lãng' cao 40–90 cm; dọc con đường gốm có hai phù điêu cao 1,17 m, dài 18 m và hơn 10 bức phù điêu khác.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/gom-phu-lang-hanh-trinh-nang-tam-gia-tri-postid430059.bbg",
+        "quote": "Báo Bắc Ninh (01/11/2025): hơn bảy thế kỷ lò nung Phù Lãng (xã Phù Lãng) vẫn đỏ lửa, sản phẩm gốm nâu da lươn đặc trưng; nghệ nhân Bùi Văn Huân (sinh 1990) chọn nung củi truyền thống; cơ sở của chị Đặng Thị Tâm (HTX Gốm Minh Tâm) là điểm du lịch OCOP 3 sao từ năm 2018, đón khách trải nghiệm; nghệ nhân Nguyễn Đức Thịnh làm tranh gốm đắp nổi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/gom-bac-ninh-du-lich-nhat-ban-postid421056.bbg",
+        "quote": "Báo Bắc Ninh (01/07/2025): làng gốm ven sông Cầu giữ lửa gần 700 năm; men da lươn nâu óng hoặc nâu sậm tạo từ tro củi và oxit tự nhiên; nung củi tạo vết men loang, táp lửa độc bản; tượng nhỏ phơi khô có khi mất cả tháng mới tráng men, nung; làng nhận đơn hàng xuất sang Nhật Bản; số lò giảm vì lớp trẻ đi làm xa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/thanh-lap-12-phuong-thuoc-tinh-bac-ninh-100260817210356213.htm",
+        "quote": "VTV (17/8/2026): Ủy ban Thường vụ Quốc hội thành lập 12 phường thuộc tỉnh Bắc Ninh, trong đó phường Phù Lãng lập trên nguyên trạng xã Phù Lãng, giáp Cảnh Thụy, Cao Đức, Đào Viên, Đồng Việt, Nhân Thắng, Yên Dũng và thành phố Hải Phòng (Nghị quyết 388/NQ-UBTVQH16, hiệu lực 20/9/2026 theo congbao.chinhphu.vn).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chinhphu.vn/?pageid=27160&docid=219328",
+        "quote": "Cổng TTĐT Chính phủ (đọc 13/10/2026): Nghị quyết số 39/2026/QH16 về việc thành lập thành phố Bắc Ninh, ban hành 24/8/2026, hiệu lực 20/9/2026.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00454"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "writer": "writer-w15b",
+  "queued": "2026-10-13T21:41:19.112148+00:00",
+  "topic": {
+    "topic_id": "TM-00459",
+    "url": "/du-lich/ho-suoi-hai/",
+    "title": "Hồ Suối Hai Ba Vì: hồ 14 đảo dưới chân Tản Viên, chèo thuyền, cắm trại",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hồ suối hai",
+    "secondary_keywords": [
+      "hồ suối hai ba vì",
+      "cắm trại hồ suối hai",
+      "hồ suối hai đi xe máy",
+      "đảo hồ suối hai",
+      "hồ suối hai ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội muốn một hồ rộng, mát dưới chân núi Ba Vì để chèo thuyền, cắm trại, ngắm hoàng hôn trong ngày, cần biết hồ cách bao xa, nay thuộc xã nào và chơi gì.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ chỉ nhắc 'xã Suối Hai' như địa chỉ Vườn quốc gia Ba Vì, /du-lich/khu-du-lich-ao-vua-ba-vi/ là khu du lịch khác cùng vùng; chưa bài nào nói về chính hồ. Bài mới thêm: hồ cách trung tâm khoảng 60 km về phía tây; đập chính và phụ dài 4 km chặn hai suối Yên Cư, Cầu Rồng; mặt nước khoảng 10 km², trữ hơn 100 triệu m³, tưới hơn 7.000 ha; 14 đảo lớn nhỏ, chim le le, vịt trời; chèo SUP, thuyền thiên nga, câu cá, BBQ; câu chuyện Bác Hồ thăm hồ năm 1946 và quy hoạch khu du lịch quốc gia Ba Vì – Suối Hai; tên xã mới Suối Hai (gộp Ba Trại, Tản Lĩnh) từ 7/2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/trai-nghiem-du-lich-sinh-thai-tai-ho-suoi-hai-ar888136.html",
+        "quote": "VTC News (08/8/2024): hồ Suối Hai là hồ nước ngọt nhân tạo ở xã Cẩm Lĩnh, huyện Ba Vì (tên cũ), cách trung tâm Thủ đô khoảng 60 km về phía Tây; mặt nước khoảng 10 km², trữ lượng hơn 100 triệu m³; đập chính và phụ dài 4 km ngăn hai suối Yên Cư và Cầu Rồng; có bãi tắm nhân tạo, chèo thuyền SUP, thuyền thiên nga, câu cá, BBQ, hái trái cây mùa hè.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dulich.petrotimes.vn/ho-suoi-hai-dep-tho-mong-duoi-chan-nui-ba-vi-ha-noi-617370.html",
+        "quote": "PetroTimes Du lịch (13/7/2021): hồ cách Hà Nội khoảng 60 km về phía tây; diện tích mặt nước 10 km², trữ tới 100 triệu m³, cấp nước cho hơn 7.000 ha hoa màu, điều tiết sông Tích; xây những năm 1950, trong lòng hồ có 14 đảo lớn nhỏ, chim le le, vịt trời, mòng két, sâm cầm; tháng 4/1946 Bác Hồ về thăm hồ; ngày 08/6/2021 Chính phủ đồng ý triển khai quy hoạch Khu du lịch quốc gia Ba Vì – Suối Hai; có ngọn hải đăng check-in, quán cà phê ven hồ, dịch vụ chèo thuyền.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/khat-vong-doi-moi-voi-ten-moi-xa-suoi-hai-700898.html",
+        "quote": "Báo Hà Nội Mới (30/4/2025): HĐND huyện Ba Vì thông qua phương án sáp nhập xã Ba Trại và xã Tản Lĩnh thành đơn vị hành chính mới tên Suối Hai; Tản Lĩnh có nhiều khu du lịch sinh thái; Ba Trại có 471 ha chè, chè búp khô Ba Trại đạt OCOP 3 sao.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 3600,
+        "checked": "2026-10-13",
+        "keyword": "hồ suối hai"
+      }
+    ],
+    "notes": "Không tải được cổng xã suoihai.hanoi.gov.vn (lỗi kết nối) — chưa có nguồn chính thức nói phần hồ thuộc xã Cẩm Lĩnh cũ nay thuộc xã nào (Suối Hai được lập từ Ba Trại + Tản Lĩnh; phần Cẩm Lĩnh chưa xác minh): viết 'hồ nằm giữa các xã cũ Cẩm Lĩnh, Tản Lĩnh, Ba Trại, Thụy An; khu vực nay mang tên xã Suối Hai và các xã lân cận'. Không có giá vé/giá thuyền đã xác minh. Diện tích '10 km²' và '90 ha' cùng xuất hiện trong bài PetroTimes (mâu thuẫn) — dùng 10 km² theo cả VTC. Không khuyến khích bơi ngoài khu được phép. Nguồn đều 2021–2025: thông tin dịch vụ có thể đã đổi.",
+    "outline": [
+      "Hồ Suối Hai ở đâu, cách Hà Nội bao xa, tên xã mới",
+      "Hồ được làm thế nào: đập 4 km, hai suối, 14 đảo",
+      "Chơi gì: chèo SUP, thuyền thiên nga, câu cá, cắm trại, ngắm hoàng hôn",
+      "Ghép với Ao Vua, Vườn quốc gia Ba Vì, đồi chè Ba Trại",
+      "Đi xe máy và an toàn: làn xe máy trên đại lộ, đường đồi, nước hồ sâu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/khu-du-lich-ao-vua-ba-vi/",
+      "/du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00459.json",
+  "draft_template": {
+    "id": "TM-00459",
+    "url": "/du-lich/ho-suoi-hai/",
+    "title": "Hồ Suối Hai Ba Vì: hồ 14 đảo dưới chân Tản Viên, chèo thuyền, cắm trại",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ suối hai, hồ suối hai ba vì, cắm trại hồ suối hai, hồ suối hai đi xe máy, đảo hồ suối hai, hồ suối hai ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Suối Hai ở đâu, cách Hà Nội bao xa, tên xã mới",
+        "<p></p>"
+      ],
+      [
+        "Hồ được làm thế nào: đập 4 km, hai suối, 14 đảo",
+        "<p></p>"
+      ],
+      [
+        "Chơi gì: chèo SUP, thuyền thiên nga, câu cá, cắm trại, ngắm hoàng hôn",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Ao Vua, Vườn quốc gia Ba Vì, đồi chè Ba Trại",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và an toàn: làn xe máy trên đại lộ, đường đồi, nước hồ sâu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/trai-nghiem-du-lich-sinh-thai-tai-ho-suoi-hai-ar888136.html",
+        "quote": "VTC News (08/8/2024): hồ Suối Hai là hồ nước ngọt nhân tạo ở xã Cẩm Lĩnh, huyện Ba Vì (tên cũ), cách trung tâm Thủ đô khoảng 60 km về phía Tây; mặt nước khoảng 10 km², trữ lượng hơn 100 triệu m³; đập chính và phụ dài 4 km ngăn hai suối Yên Cư và Cầu Rồng; có bãi tắm nhân tạo, chèo thuyền SUP, thuyền thiên nga, câu cá, BBQ, hái trái cây mùa hè.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dulich.petrotimes.vn/ho-suoi-hai-dep-tho-mong-duoi-chan-nui-ba-vi-ha-noi-617370.html",
+        "quote": "PetroTimes Du lịch (13/7/2021): hồ cách Hà Nội khoảng 60 km về phía tây; diện tích mặt nước 10 km², trữ tới 100 triệu m³, cấp nước cho hơn 7.000 ha hoa màu, điều tiết sông Tích; xây những năm 1950, trong lòng hồ có 14 đảo lớn nhỏ, chim le le, vịt trời, mòng két, sâm cầm; tháng 4/1946 Bác Hồ về thăm hồ; ngày 08/6/2021 Chính phủ đồng ý triển khai quy hoạch Khu du lịch quốc gia Ba Vì – Suối Hai; có ngọn hải đăng check-in, quán cà phê ven hồ, dịch vụ chèo thuyền.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/khat-vong-doi-moi-voi-ten-moi-xa-suoi-hai-700898.html",
+        "quote": "Báo Hà Nội Mới (30/4/2025): HĐND huyện Ba Vì thông qua phương án sáp nhập xã Ba Trại và xã Tản Lĩnh thành đơn vị hành chính mới tên Suối Hai; Tản Lĩnh có nhiều khu du lịch sinh thái; Ba Trại có 471 ha chè, chè búp khô Ba Trại đạt OCOP 3 sao.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00459"
+  }
+}

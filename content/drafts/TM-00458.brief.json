@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w15b",
+  "queued": "2026-10-13T21:41:19.111847+00:00",
+  "topic": {
+    "topic_id": "TM-00458",
+    "url": "/du-lich/ho-dong-mo/",
+    "title": "Hồ Đồng Mô Sơn Tây: cắm trại, câu cá, rùa Hoàn Kiếm, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hồ đồng mô",
+    "secondary_keywords": [
+      "cắm trại đồng mô",
+      "đồng mô sơn tây",
+      "hồ đồng mô đi xe máy",
+      "rùa hoàn kiếm đồng mô",
+      "đồng mô đoài phương"
+    ],
+    "intent": "informational",
+    "user_problem": "Nhóm bạn hoặc gia đình ở nội thành Hà Nội muốn đi dã ngoại, cắm trại ven hồ trong ngày bằng xe máy, cần biết hồ ở đâu (tên xã mới), đường đi, chơi gì và lưu ý khi cắm trại.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ chỉ nhắc Đồng Mô một câu (rẽ phải vào QL21 từ Đại lộ Thăng Long). Bài mới thêm: hồ nay thuộc xã Đoài Phương (gộp Kim Sơn, Sơn Đông, phần lớn Cổ Đông, Sơn Tây cũ); cách trung tâm Hà Nội khoảng 50 km; không có đường vòng quanh hồ, lối đi ven hồ giữa hồ và đầm sen; điểm cắm trại thuê 100.000–800.000đ cho 2–4 người (giá 2021), ATV, đạp xe nước từ 200.000đ (2021); biệt thự đảo trong phim 'Người phán xử'; và chuyện rùa Giải Sin-hoe (cùng loài rùa Hồ Gươm): cá thể ở Đồng Mô chết 4/2023, đến 9/2026 giới khoa học vẫn chưa xác nhận còn cá thể khác.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ho-dong-mo-diem-an-choi-hot-sau-khi-len-phim-nguoi-phan-xu-3865044.html",
+        "quote": "VnExpress (8/1/2019, cập nhật 9/6/2022): hồ Đồng Mô rộng 200 ha, dưới chân núi Ba Vì, cách trung tâm Hà Nội khoảng 50 km về phía tây; chưa có xe khách tuyến Đồng Mô – Hà Nội; đi theo Đại lộ Thăng Long rẽ phải vào QL21, đi thẳng tới biển rẽ trái vào khu du lịch Đồng Mô; không có đường đi vòng quanh hồ; lối đi dài 2 km ra bờ đập khác; đường ven hồ một bên hồ, một bên đầm sen, nhiều nhóm ăn nướng ngoài trời; biệt thự Phan Thị (bối cảnh phim 'Người phán xử') gần cửa xả lũ, giá thuê 6,5–8 triệu đồng/đêm (2019); sân golf 36 lỗ xây từ 1993.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/3-diem-da-ngoai-gan-ha-noi-dip-nghi-le-30-4-4259423.html",
+        "quote": "VnExpress (8/4/2021): khu dã ngoại trong Làng Văn hóa – Du lịch các dân tộc Việt Nam (Sơn Tây) cách trung tâm hơn 40 km theo đại lộ Láng – Hòa Lạc; nhiều điểm cắm trại bên hồ Đồng Mô, thuê 100.000–800.000 đồng nửa ngày hoặc một ngày cho nhóm 2–4 người; có lái ATV xuyên rừng, đạp xe nước trên hồ, giá từ 200.000 đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thi-xa-son-tay-sap-xep-lai-thanh-ba-don-vi-hanh-chinh-cap-xa-post873722.html",
+        "quote": "Báo Nhân Dân (19/4/2025, cập nhật 6/7/2025): thị xã Sơn Tây sắp xếp thành 3 đơn vị Sơn Tây, Tùng Thiện, Đoài Phương; Đoài Phương gồm toàn bộ xã Kim Sơn, Sơn Đông và phần lớn xã Cổ Đông, rộng 57,20 km², khoảng 45.000 dân, định hướng khai thác hồ Đồng Mô, khu nghỉ dưỡng ven hồ; tên 'Đoài' gắn với hồ, đầm của 3 địa phương có hồ Đồng Mô; Tùng Thiện có hồ Xuân Khanh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/rua-hoan-kiem-o-dong-mo-di-tim-dau-vet-va-hy-vong-bao-ton-2557795.html",
+        "quote": "VietNamNet (22/9/2026): theo GS.TS Nguyễn Quảng Trường, rùa ở hồ Gươm và hồ Đồng Mô cùng loài Giải sin-hoi (Rafetus swinhoei); Sách Đỏ Việt Nam (2024) ghi các khảo sát gần đây không phát hiện lại loài ở phần lớn nơi từng ghi nhận, chú ý tập trung vào hồ Đồng Mô và Xuân Khanh; cá thể ở Đồng Mô chết tháng 4/2023; thông tin về một cá thể khác cần thêm bằng chứng, đang dùng phân tích ADN môi trường (eDNA).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 6600,
+        "checked": "2026-10-13",
+        "keyword": "hồ đồng mô"
+      }
+    ],
+    "notes": "Mọi giá (cắm trại 100–800 nghìn, ATV/đạp xe nước từ 200 nghìn, biệt thự 6,5–8 triệu) là giá 2019–2021: CŨ, phải ghi năm và khuyên hỏi lại; tốt nhất chỉ nêu như mốc tham khảo. Diện tích hồ: VnExpress ghi 200 ha (các trang khác ghi 1.400 ha) — chỉ trích theo nguồn. Không có nguồn chính thức (cổng doaiphuong.hanoi.gov.vn không tải được) về vé vào cổng, quy định cấm cắm trại/đốt lửa: không khẳng định. Không khuyến khích bơi hồ. Tránh nói rùa 'còn sống' — chưa xác nhận. Xe máy KHÔNG đi làn ô tô trên Đại lộ Thăng Long.",
+    "outline": [
+      "Hồ Đồng Mô ở đâu: xã Đoài Phương (Sơn Tây cũ), cách trung tâm khoảng 50 km",
+      "Đi xe máy: Đại lộ Thăng Long (làn xe máy) rồi QL21, rẽ vào khu du lịch",
+      "Chơi gì: cắm trại, câu cá, đường ven hồ – đầm sen, ATV, đạp xe nước",
+      "Chuyện rùa Giải Sin-hoe ở Đồng Mô: đã biết gì đến 2026",
+      "Chi phí tham khảo (giá cũ 2019–2021) và việc nên hỏi trước",
+      "Ghép lịch trình: Đường Lâm, thành cổ Sơn Tây; an toàn khi về tối"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/thanh-co-son-tay-di-xe-may/",
+      "/du-lich/khu-du-lich-ao-vua-ba-vi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00458.json",
+  "draft_template": {
+    "id": "TM-00458",
+    "url": "/du-lich/ho-dong-mo/",
+    "title": "Hồ Đồng Mô Sơn Tây: cắm trại, câu cá, rùa Hoàn Kiếm, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ đồng mô, cắm trại đồng mô, đồng mô sơn tây, hồ đồng mô đi xe máy, rùa hoàn kiếm đồng mô, đồng mô đoài phương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Đồng Mô ở đâu: xã Đoài Phương (Sơn Tây cũ), cách trung tâm khoảng 50 km",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: Đại lộ Thăng Long (làn xe máy) rồi QL21, rẽ vào khu du lịch",
+        "<p></p>"
+      ],
+      [
+        "Chơi gì: cắm trại, câu cá, đường ven hồ – đầm sen, ATV, đạp xe nước",
+        "<p></p>"
+      ],
+      [
+        "Chuyện rùa Giải Sin-hoe ở Đồng Mô: đã biết gì đến 2026",
+        "<p></p>"
+      ],
+      [
+        "Chi phí tham khảo (giá cũ 2019–2021) và việc nên hỏi trước",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình: Đường Lâm, thành cổ Sơn Tây; an toàn khi về tối",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ho-dong-mo-diem-an-choi-hot-sau-khi-len-phim-nguoi-phan-xu-3865044.html",
+        "quote": "VnExpress (8/1/2019, cập nhật 9/6/2022): hồ Đồng Mô rộng 200 ha, dưới chân núi Ba Vì, cách trung tâm Hà Nội khoảng 50 km về phía tây; chưa có xe khách tuyến Đồng Mô – Hà Nội; đi theo Đại lộ Thăng Long rẽ phải vào QL21, đi thẳng tới biển rẽ trái vào khu du lịch Đồng Mô; không có đường đi vòng quanh hồ; lối đi dài 2 km ra bờ đập khác; đường ven hồ một bên hồ, một bên đầm sen, nhiều nhóm ăn nướng ngoài trời; biệt thự Phan Thị (bối cảnh phim 'Người phán xử') gần cửa xả lũ, giá thuê 6,5–8 triệu đồng/đêm (2019); sân golf 36 lỗ xây từ 1993.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/3-diem-da-ngoai-gan-ha-noi-dip-nghi-le-30-4-4259423.html",
+        "quote": "VnExpress (8/4/2021): khu dã ngoại trong Làng Văn hóa – Du lịch các dân tộc Việt Nam (Sơn Tây) cách trung tâm hơn 40 km theo đại lộ Láng – Hòa Lạc; nhiều điểm cắm trại bên hồ Đồng Mô, thuê 100.000–800.000 đồng nửa ngày hoặc một ngày cho nhóm 2–4 người; có lái ATV xuyên rừng, đạp xe nước trên hồ, giá từ 200.000 đồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thi-xa-son-tay-sap-xep-lai-thanh-ba-don-vi-hanh-chinh-cap-xa-post873722.html",
+        "quote": "Báo Nhân Dân (19/4/2025, cập nhật 6/7/2025): thị xã Sơn Tây sắp xếp thành 3 đơn vị Sơn Tây, Tùng Thiện, Đoài Phương; Đoài Phương gồm toàn bộ xã Kim Sơn, Sơn Đông và phần lớn xã Cổ Đông, rộng 57,20 km², khoảng 45.000 dân, định hướng khai thác hồ Đồng Mô, khu nghỉ dưỡng ven hồ; tên 'Đoài' gắn với hồ, đầm của 3 địa phương có hồ Đồng Mô; Tùng Thiện có hồ Xuân Khanh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/rua-hoan-kiem-o-dong-mo-di-tim-dau-vet-va-hy-vong-bao-ton-2557795.html",
+        "quote": "VietNamNet (22/9/2026): theo GS.TS Nguyễn Quảng Trường, rùa ở hồ Gươm và hồ Đồng Mô cùng loài Giải sin-hoi (Rafetus swinhoei); Sách Đỏ Việt Nam (2024) ghi các khảo sát gần đây không phát hiện lại loài ở phần lớn nơi từng ghi nhận, chú ý tập trung vào hồ Đồng Mô và Xuân Khanh; cá thể ở Đồng Mô chết tháng 4/2023; thông tin về một cá thể khác cần thêm bằng chứng, đang dùng phân tích ADN môi trường (eDNA).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00458"
+  }
+}

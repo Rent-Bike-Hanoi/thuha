@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w15a",
+  "queued": "2026-10-13T21:41:18.963453+00:00",
+  "topic": {
+    "topic_id": "TM-00457",
+    "url": "/du-lich/dao-co-chi-lang-nam/",
+    "title": "Đảo Cò Chi Lăng Nam: giờ cò vạc về tổ, vé vào đảo, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đảo cò chi lăng nam",
+    "secondary_keywords": [
+      "đảo cò thanh miện",
+      "đảo cò hải phòng",
+      "đảo cò nam thanh miện",
+      "giá vé đảo cò",
+      "ngắm cò vạc gần hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Gia đình ở Hà Nội muốn cho trẻ con xem chim cò, vạc trong ngày, cần biết đảo cò nay thuộc đâu, vé và thuyền bao nhiêu, đến giờ nào thì thấy đàn chim.",
+    "information_gain": "Site chưa có bài về Đảo Cò; /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ chỉ đi theo QL5 ra nội thành Hải Phòng, /du-lich/dam-van-long/ là chỗ ngắm chim ở Ninh Bình. Bài mới thêm: Đảo Cò thuộc xã Nam Thanh Miện, TP Hải Phòng (Chi Lăng Nam, Thanh Miện, Hải Dương cũ), cách trung tâm Hà Nội khoảng 70 km; vé 20.000đ người lớn, 10.000đ trẻ em, thuyền thiên nga 100.000đ/lượt (giá 7/2025); 20 thuyền máy và thuyền thiên nga; vé điện tử từ 2023; giờ đẹp nhất là sáng sớm và chiều muộn khi cò về tổ, vạc đi ăn ('giao ca'); khoảng 20.000 con chim thuộc 52 loài; di tích quốc gia danh lam thắng cảnh từ 2014; làng bánh đa Hội Yên và cánh đồng sen gần đó.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/luong-khach-tham-quan-dao-co-o-tp-hai-phong-tang-manh-trong-6-thang-dau-nam-1534979.html",
+        "quote": "Báo Lao Động (04/7/2025): khu du lịch sinh thái Đảo Cò (Nam Thanh Miện, TP Hải Phòng) đón gần 35.000 lượt khách nửa đầu 2025 (theo Phòng Văn hóa – Xã hội xã Nam Thanh Miện); khách thường đến sáng sớm hoặc chiều muộn để xem cò vạc 'giao ca'; Ban Quản lý bố trí 20 thuyền máy, thuyền thiên nga và 9 nhân viên; bán vé điện tử từ năm 2023; vé vào cửa 20.000 đồng/lượt người lớn, 10.000 đồng/lượt trẻ em; thuê thuyền thiên nga 100.000 đồng/lượt; diện tích trên 31 ha, khoảng 20.000 con chim thuộc 52 loài, chủ yếu cò, vạc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hap-dan-du-lich-dao-co-chi-lang-nam-post825900.html",
+        "quote": "Báo Nhân Dân (21/8/2024): đảo Cò trên lòng hồ An Dương, xã Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương (tên cũ); cách trung tâm Hà Nội 70 km, TP Hải Dương 30 km; rộng 69,2 ha, khoảng 18.000 con cò, 8.000 con vạc, hơn 170 loài động thực vật, có loài trong Sách đỏ (bồ nông, cốc đen, cò nhạn); khách đoàn đi thuyền lớn, khách lẻ thuyền thiên nga; cò đi kiếm ăn buổi sáng, vạc đi ăn ban đêm, nhộn nhịp nhất lúc hoàng hôn; năm 2014 Bộ VHTTDL công nhận Di tích quốc gia danh lam thắng cảnh; gần đó có chùa Nam (thôn An Dương), đền Mẫu (thôn Triều Dương), làng bánh đa Hội Yên, cánh đồng sen gần 10 mẫu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://namthanhmien.haiphong.gov.vn/di-san-van-hoa-78115/5215d0b077cb7f62777a3af08e87f79c-768876",
+        "quote": "Cổng TTĐT xã Nam Thanh Miện, TP Hải Phòng, 'Di tích quốc gia – Danh lam thắng cảnh Đảo Cò' (không ghi ngày, sau 7/2025): xã Nam Thanh Miện gồm địa bàn Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương cũ; các lần vỡ đê thời Nguyễn (lớn nhất năm Giáp Thìn 1844) tạo hai hồ An Dương và Triều Dương, giữa hồ An Dương có 2 đảo nhỏ là nơi cò, vạc trú; năm 1987 ảnh Đảo Cò của nghệ sĩ Văn Quang Đức đạt giải Nhì toàn quốc; năm 2014 Bộ VHTTDL công nhận di tích; khảo sát ghi 24 loài chim thuộc 15 họ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/dao-co-o-thanh-mien-hut-khach-dip-tet-372933.html",
+        "quote": "Báo Hải Phòng (12/02/2024, bài thời Báo Hải Dương): dịp Tết 2024 Đảo Cò đón khoảng 1.200 lượt khách từ 29 Tết đến mùng 2, riêng mùng 2 trên 500 lượt, gấp khoảng 10 lần ngày thường; 9 thuyền to, 15 thuyền thiên nga chạy hết công suất; khách được trang bị áo phao; bán vé điện tử, quét mã QR; vé 20.000 đồng/lượt, thuyền thiên nga 100.000 đồng/lượt, trẻ em giảm 50%.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 260,
+        "checked": "2026-10-13",
+        "keyword": "đảo cò chi lăng nam"
+      }
+    ],
+    "notes": "Giá vé, giá thuyền mới nhất có nguồn là 7/2025 (Lao Động) — ghi rõ 'giá tháng 7/2025, hỏi lại tại quầy'; không có nguồn 2026. Không tìm thấy giờ mở cửa chính thức: chỉ nói 'sáng sớm, chiều muộn là lúc đẹp' theo báo. Số liệu chim/diện tích các nguồn khác nhau (31 ha vs 69,2 ha; 20.000 con/52 loài vs 18.000 cò + 8.000 vạc; khảo sát xã 24 loài) — ghi theo từng nguồn, không cộng gộp. Khoảng cách 70 km là từ trung tâm Hà Nội theo Nhân Dân 2024; không có tuyến đường cụ thể từ nguồn: không mô tả lộ trình chi tiết. Tên hành chính: xã Nam Thanh Miện, thành phố Hải Phòng (Hải Dương nhập Hải Phòng từ 1/7/2025).",
+    "outline": [
+      "Đảo Cò ở đâu: xã Nam Thanh Miện, Hải Phòng (Chi Lăng Nam, Thanh Miện cũ), cách Hà Nội khoảng 70 km",
+      "Vé vào cửa, thuyền thiên nga, thuyền lớn: giá 2025 và cách mua vé điện tử",
+      "Mấy giờ đi để thấy cò về tổ, vạc đi ăn",
+      "Có những loài chim gì, vì sao là di tích quốc gia",
+      "Ghép lịch trình: làng bánh đa Hội Yên, đồng sen, chùa Nam",
+      "Lưu ý: áo phao, giữ yên lặng, không cho chim ăn, đông dịp Tết"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/dam-van-long/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00457.json",
+  "draft_template": {
+    "id": "TM-00457",
+    "url": "/du-lich/dao-co-chi-lang-nam/",
+    "title": "Đảo Cò Chi Lăng Nam: giờ cò vạc về tổ, vé vào đảo, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đảo cò chi lăng nam, đảo cò thanh miện, đảo cò hải phòng, đảo cò nam thanh miện, giá vé đảo cò, ngắm cò vạc gần hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đảo Cò ở đâu: xã Nam Thanh Miện, Hải Phòng (Chi Lăng Nam, Thanh Miện cũ), cách Hà Nội khoảng 70 km",
+        "<p></p>"
+      ],
+      [
+        "Vé vào cửa, thuyền thiên nga, thuyền lớn: giá 2025 và cách mua vé điện tử",
+        "<p></p>"
+      ],
+      [
+        "Mấy giờ đi để thấy cò về tổ, vạc đi ăn",
+        "<p></p>"
+      ],
+      [
+        "Có những loài chim gì, vì sao là di tích quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình: làng bánh đa Hội Yên, đồng sen, chùa Nam",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: áo phao, giữ yên lặng, không cho chim ăn, đông dịp Tết",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/luong-khach-tham-quan-dao-co-o-tp-hai-phong-tang-manh-trong-6-thang-dau-nam-1534979.html",
+        "quote": "Báo Lao Động (04/7/2025): khu du lịch sinh thái Đảo Cò (Nam Thanh Miện, TP Hải Phòng) đón gần 35.000 lượt khách nửa đầu 2025 (theo Phòng Văn hóa – Xã hội xã Nam Thanh Miện); khách thường đến sáng sớm hoặc chiều muộn để xem cò vạc 'giao ca'; Ban Quản lý bố trí 20 thuyền máy, thuyền thiên nga và 9 nhân viên; bán vé điện tử từ năm 2023; vé vào cửa 20.000 đồng/lượt người lớn, 10.000 đồng/lượt trẻ em; thuê thuyền thiên nga 100.000 đồng/lượt; diện tích trên 31 ha, khoảng 20.000 con chim thuộc 52 loài, chủ yếu cò, vạc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hap-dan-du-lich-dao-co-chi-lang-nam-post825900.html",
+        "quote": "Báo Nhân Dân (21/8/2024): đảo Cò trên lòng hồ An Dương, xã Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương (tên cũ); cách trung tâm Hà Nội 70 km, TP Hải Dương 30 km; rộng 69,2 ha, khoảng 18.000 con cò, 8.000 con vạc, hơn 170 loài động thực vật, có loài trong Sách đỏ (bồ nông, cốc đen, cò nhạn); khách đoàn đi thuyền lớn, khách lẻ thuyền thiên nga; cò đi kiếm ăn buổi sáng, vạc đi ăn ban đêm, nhộn nhịp nhất lúc hoàng hôn; năm 2014 Bộ VHTTDL công nhận Di tích quốc gia danh lam thắng cảnh; gần đó có chùa Nam (thôn An Dương), đền Mẫu (thôn Triều Dương), làng bánh đa Hội Yên, cánh đồng sen gần 10 mẫu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://namthanhmien.haiphong.gov.vn/di-san-van-hoa-78115/5215d0b077cb7f62777a3af08e87f79c-768876",
+        "quote": "Cổng TTĐT xã Nam Thanh Miện, TP Hải Phòng, 'Di tích quốc gia – Danh lam thắng cảnh Đảo Cò' (không ghi ngày, sau 7/2025): xã Nam Thanh Miện gồm địa bàn Chi Lăng Nam, huyện Thanh Miện, tỉnh Hải Dương cũ; các lần vỡ đê thời Nguyễn (lớn nhất năm Giáp Thìn 1844) tạo hai hồ An Dương và Triều Dương, giữa hồ An Dương có 2 đảo nhỏ là nơi cò, vạc trú; năm 1987 ảnh Đảo Cò của nghệ sĩ Văn Quang Đức đạt giải Nhì toàn quốc; năm 2014 Bộ VHTTDL công nhận di tích; khảo sát ghi 24 loài chim thuộc 15 họ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/dao-co-o-thanh-mien-hut-khach-dip-tet-372933.html",
+        "quote": "Báo Hải Phòng (12/02/2024, bài thời Báo Hải Dương): dịp Tết 2024 Đảo Cò đón khoảng 1.200 lượt khách từ 29 Tết đến mùng 2, riêng mùng 2 trên 500 lượt, gấp khoảng 10 lần ngày thường; 9 thuyền to, 15 thuyền thiên nga chạy hết công suất; khách được trang bị áo phao; bán vé điện tử, quét mã QR; vé 20.000 đồng/lượt, thuyền thiên nga 100.000 đồng/lượt, trẻ em giảm 50%.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00457"
+  }
+}

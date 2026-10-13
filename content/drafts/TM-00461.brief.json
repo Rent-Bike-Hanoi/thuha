@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w15b",
+  "queued": "2026-10-13T21:41:19.112397+00:00",
+  "topic": {
+    "topic_id": "TM-00461",
+    "url": "/du-lich/ho-quan-son/",
+    "title": "Hồ Quan Sơn Mỹ Đức: 'Hạ Long trên cạn' 850 ha, đi thuyền, mùa sen",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hồ quan sơn",
+    "secondary_keywords": [
+      "hồ quan sơn mỹ đức",
+      "đi thuyền hồ quan sơn",
+      "hồ quan sơn mùa sen",
+      "đường đi hồ quan sơn xe máy",
+      "hạ long trên cạn hà nội"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người ở nội thành Hà Nội muốn đi thuyền giữa núi đá vôi gần nhà, trong ngày bằng xe máy, cần biết hồ ở đâu, đường đi, mùa sen và chi phí thuyền.",
+    "information_gain": "Site có /du-lich/di-chua-huong-bang-xe-may/ (cùng hướng Vân Đình – Mỹ Đức) nhưng không nhắc Quan Sơn; chưa có bài nào về hồ. Bài mới thêm: hồ cách trung tâm khoảng 50 km về phía nam, rộng khoảng 850 ha (dài 16 km, rộng 2 km), gần 100 núi đá vôi, đê bao 20 km từ thập niên 1960; đường đi giống đường chùa Hương (Hà Đông – Ba La – Vân Đình); thuyền tôn đi quanh hồ, các núi, động Linh Sơn, chùa Cao, Hoa Quả Sơn; mùa sen giữa tháng 5 – giữa tháng 6; giá tham khảo 2019 (vé 15.000đ, gửi xe 5.000đ, thuyền 4 người 140.000đ/2–3 giờ); hồ nay chủ yếu thuộc xã Hồng Sơn mới (gộp 6 xã từ 1/7/2025), nơi đang định hướng du lịch sinh thái.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://scov.gov.vn/dat-nuoc-con-nguoi/ho-quan-son-ve-dep-hoang-so.html",
+        "quote": "Cổng TTĐT Ủy ban Nhà nước về người Việt Nam ở nước ngoài (scov.gov.vn), 'Hồ Quan Sơn: vẻ đẹp hoang sơ' (không ghi ngày): hồ cách Hà Nội khoảng 50 km hướng Nam Tây Nam, rộng khoảng 850 ha trên các xã Thượng Lâm, Tuy Lai, Hồng Sơn (Mỹ Đức) và một phần nhỏ Kim Bôi (Hòa Bình); hình thành từ những năm 1960 với đê bao 20 km; quy hoạch du lịch gần 3.000 ha, lòng hồ dài 16 km, rộng 2 km, gần 100 núi đá vôi; có chùa Hàm Long, Linh Sơn, Ngọc Linh, Bàn Long, Thung Phật; đẹp nhất giữa tháng 5 – giữa tháng 6 (sen nở); dịch vụ còn thiếu, nên tự mang đồ ăn; đường đi giống chùa Hương: Hà Đông – Ba La rẽ trái đi Vân Đình, Tế Tiêu; thuyền nhỏ chở khách leo núi, thăm Hòn Mê, Mõm Nghé, Đá Bạc, Hoa Quả Sơn, chùa Cao.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ghe-ho-quan-son-ha-long-tren-can-cua-ha-noi-517602.html",
+        "quote": "VietNamNet (3/4/2019): vé vào cổng 15.000 đồng/vé, gửi xe máy 5.000 đồng/xe; thuê thuyền cho 4 người 140.000 đồng khoảng 2–3 giờ; thuyền tôn đi quanh hồ qua đảo Sư Tử, đồi Voi Phục, động Linh Sơn, Ngọc Long, chùa Linh Sơn, chùa Cao, Hàm Yến, Hoa Quả Sơn; đặc sản gỏi cá ăn với hơn chục loại lá; sen nở giữa tháng 5 – giữa tháng 6, ngoài mùa có hoa trang.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hoang-hon-tren-ho-quan-son-4171907.html",
+        "quote": "VnExpress (7/10/2020): hồ Quan Sơn thuộc huyện Mỹ Đức (cũ), cách trung tâm Hà Nội khoảng 50 km về phía nam, rộng 850 ha trên các xã Thượng Lâm, Tuy Lai, Hồng Sơn và một phần nhỏ Kim Bôi (Hòa Bình); du khách đi thuyền ngắm núi đá, ăn cá, tôm, cua ốc núi; thích hợp tháng 5, 6 mùa sen.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dangcongsan.vn/hanoi/xay-dung-dang/xa-hong-son-mot-nam-van-hanh-hieu-qua-mo-hinh-chinh-quyen-dia-phuong-hai-cap.html",
+        "quote": "Báo điện tử Đảng Cộng sản (sự kiện 18/6/2026): xã Hồng Sơn (Hà Nội) thành lập 1/7/2025 từ 6 xã Hồng Sơn, An Mỹ, Hợp Tiến, Lê Thanh, Xuy Xá, Phùng Xá, rộng hơn 54 km², trên 63.000 dân; có lợi thế du lịch sinh thái hồ Quan Sơn và làng nghề Phùng Xá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 2900,
+        "checked": "2026-10-13",
+        "keyword": "hồ quan sơn"
+      }
+    ],
+    "notes": "Giá vé, gửi xe, thuyền là giá 2019 (VietNamNet) — CŨ, phải ghi năm và khuyên hỏi lại; không tìm được giá 2025–2026. Trang scov.gov.vn không ghi ngày. Phần hồ thuộc Thượng Lâm, Tuy Lai cũ nay thuộc xã nào chưa xác minh (chỉ chắc Hồng Sơn mới gồm Hồng Sơn, Hợp Tiến cũ…): viết 'chủ yếu thuộc xã Hồng Sơn và các xã lân cận'. 'Huyện Mỹ Đức' không còn từ 1/7/2025 — ghi 'Mỹ Đức (cũ)'. Áo phao khi đi thuyền; leo núi đá trơn.",
+    "outline": [
+      "Hồ Quan Sơn ở đâu, cách Hà Nội bao xa, tên xã mới",
+      "Đường xe máy: Hà Đông – Ba La – Vân Đình, giống đường chùa Hương",
+      "Đi thuyền xem gì: núi đá, động Linh Sơn, chùa Cao, Hoa Quả Sơn",
+      "Mùa sen tháng 5–6 và các mùa khác",
+      "Chi phí tham khảo (giá 2019) và ăn gì: gỏi cá, mang đồ ăn",
+      "An toàn: áo phao, leo núi đá, về trước tối"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-chua-huong-bang-xe-may/",
+      "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+      "/du-lich/dam-van-long/",
+      "/du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00461.json",
+  "draft_template": {
+    "id": "TM-00461",
+    "url": "/du-lich/ho-quan-son/",
+    "title": "Hồ Quan Sơn Mỹ Đức: 'Hạ Long trên cạn' 850 ha, đi thuyền, mùa sen",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ quan sơn, hồ quan sơn mỹ đức, đi thuyền hồ quan sơn, hồ quan sơn mùa sen, đường đi hồ quan sơn xe máy, hạ long trên cạn hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Quan Sơn ở đâu, cách Hà Nội bao xa, tên xã mới",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: Hà Đông – Ba La – Vân Đình, giống đường chùa Hương",
+        "<p></p>"
+      ],
+      [
+        "Đi thuyền xem gì: núi đá, động Linh Sơn, chùa Cao, Hoa Quả Sơn",
+        "<p></p>"
+      ],
+      [
+        "Mùa sen tháng 5–6 và các mùa khác",
+        "<p></p>"
+      ],
+      [
+        "Chi phí tham khảo (giá 2019) và ăn gì: gỏi cá, mang đồ ăn",
+        "<p></p>"
+      ],
+      [
+        "An toàn: áo phao, leo núi đá, về trước tối",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://scov.gov.vn/dat-nuoc-con-nguoi/ho-quan-son-ve-dep-hoang-so.html",
+        "quote": "Cổng TTĐT Ủy ban Nhà nước về người Việt Nam ở nước ngoài (scov.gov.vn), 'Hồ Quan Sơn: vẻ đẹp hoang sơ' (không ghi ngày): hồ cách Hà Nội khoảng 50 km hướng Nam Tây Nam, rộng khoảng 850 ha trên các xã Thượng Lâm, Tuy Lai, Hồng Sơn (Mỹ Đức) và một phần nhỏ Kim Bôi (Hòa Bình); hình thành từ những năm 1960 với đê bao 20 km; quy hoạch du lịch gần 3.000 ha, lòng hồ dài 16 km, rộng 2 km, gần 100 núi đá vôi; có chùa Hàm Long, Linh Sơn, Ngọc Linh, Bàn Long, Thung Phật; đẹp nhất giữa tháng 5 – giữa tháng 6 (sen nở); dịch vụ còn thiếu, nên tự mang đồ ăn; đường đi giống chùa Hương: Hà Đông – Ba La rẽ trái đi Vân Đình, Tế Tiêu; thuyền nhỏ chở khách leo núi, thăm Hòn Mê, Mõm Nghé, Đá Bạc, Hoa Quả Sơn, chùa Cao.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ghe-ho-quan-son-ha-long-tren-can-cua-ha-noi-517602.html",
+        "quote": "VietNamNet (3/4/2019): vé vào cổng 15.000 đồng/vé, gửi xe máy 5.000 đồng/xe; thuê thuyền cho 4 người 140.000 đồng khoảng 2–3 giờ; thuyền tôn đi quanh hồ qua đảo Sư Tử, đồi Voi Phục, động Linh Sơn, Ngọc Long, chùa Linh Sơn, chùa Cao, Hàm Yến, Hoa Quả Sơn; đặc sản gỏi cá ăn với hơn chục loại lá; sen nở giữa tháng 5 – giữa tháng 6, ngoài mùa có hoa trang.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hoang-hon-tren-ho-quan-son-4171907.html",
+        "quote": "VnExpress (7/10/2020): hồ Quan Sơn thuộc huyện Mỹ Đức (cũ), cách trung tâm Hà Nội khoảng 50 km về phía nam, rộng 850 ha trên các xã Thượng Lâm, Tuy Lai, Hồng Sơn và một phần nhỏ Kim Bôi (Hòa Bình); du khách đi thuyền ngắm núi đá, ăn cá, tôm, cua ốc núi; thích hợp tháng 5, 6 mùa sen.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dangcongsan.vn/hanoi/xay-dung-dang/xa-hong-son-mot-nam-van-hanh-hieu-qua-mo-hinh-chinh-quyen-dia-phuong-hai-cap.html",
+        "quote": "Báo điện tử Đảng Cộng sản (sự kiện 18/6/2026): xã Hồng Sơn (Hà Nội) thành lập 1/7/2025 từ 6 xã Hồng Sơn, An Mỹ, Hợp Tiến, Lê Thanh, Xuy Xá, Phùng Xá, rộng hơn 54 km², trên 63.000 dân; có lợi thế du lịch sinh thái hồ Quan Sơn và làng nghề Phùng Xá.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00461"
+  }
+}

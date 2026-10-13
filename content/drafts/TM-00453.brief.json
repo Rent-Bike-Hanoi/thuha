@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w15a",
+  "queued": "2026-10-13T21:41:18.963744+00:00",
+  "topic": {
+    "topic_id": "TM-00453",
+    "url": "/du-lich/lang-tho-ha/",
+    "title": "Làng cổ Thổ Hà Bắc Ninh: đình 1692, lễ hội tháng Giêng, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng cổ thổ hà",
+    "secondary_keywords": [
+      "làng gốm thổ hà",
+      "đình thổ hà",
+      "lễ hội thổ hà",
+      "thổ hà ở đâu",
+      "bánh đa nem thổ hà"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi một làng cổ ven sông Cầu trong ngày bằng xe máy, cần biết Thổ Hà nay thuộc đâu, còn làm gốm không, xem gì ở đình chùa và tránh mùa lũ.",
+    "information_gain": "Site chưa có trang nào về Thổ Hà. /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ chỉ nói đền Đô, chùa Dâu, Đông Hồ (phía nam sông Đuống); /du-lich/lang-gom-bat-trang/ nói gốm Bát Tràng; /du-lich/chua-bo-da-bac-ninh/ là chùa gần đó. Bài mới thêm: địa chỉ sau sáp nhập (tổ dân phố Thổ Hà, phường Vân Hà, nay thuộc thành phố Bắc Ninh trực thuộc Trung ương từ 20/9/2026), quần thể đình–chùa–từ chỉ vừa được xếp di tích quốc gia đặc biệt (QĐ 266/QĐ-TTg ngày 11/2/2026), đình dựng năm 1692 và cửa võng là bảo vật quốc gia, lịch lễ hội 20–22 tháng Giêng, nghề gốm mai một từ thập niên 1990 nay chuyển sang bánh đa nem, mì gạo, và cảnh báo lũ sông Cầu (tháng 10/2025 làng ngập sâu hơn 2 m, 8.273 người bị cô lập).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bac-ninh-don-nhan-bang-xep-hang-di-tich-quoc-gia-dac-biet-quan-the-di-tich-dinh-chua-tu-chi-tho-ha-postid440724.bbg",
+        "quote": "Báo Bắc Ninh (sự kiện sáng 9/3/2026): phường Vân Hà (tỉnh Bắc Ninh) đón Bằng xếp hạng di tích quốc gia đặc biệt quần thể đình, chùa, từ chỉ Thổ Hà theo Quyết định số 266/QĐ-TTg ngày 11/2/2026. Quần thể gồm đình Thổ Hà (thờ Thành hoàng), chùa Thổ Hà (Đoan Minh tự), từ chỉ thờ Khổng Tử và tiên hiền. Đình xây từ năm 1692 thời Lê Trung Hưng; chùa có dấu tích kiến trúc thế kỷ XVII; bia đá thế kỷ XVII–XIX; gần 100 pho tượng Phật cổ; cửa võng đình Thổ Hà được công nhận Bảo vật quốc gia. Lễ hội truyền thống năm 2026 diễn ra 3 ngày, 8–10/3/2026 (20–22 tháng Giêng).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nguoi-gia-tre-nho-hoa-dai-tuong-tien-nu-trong-le-hoi-tho-ha-5048308.html",
+        "quote": "VnExpress (9/3/2026): làng Thổ Hà nằm dọc bờ bắc sông Cầu, ba mặt giáp sông; từng là một trong ba trung tâm gốm cổ cùng Phù Lãng (Bắc Ninh) và Bát Tràng (Hà Nội), phát triển mạnh từ thế kỷ XIV; từ những năm 1990 nghề gốm mai một, thay bằng sản xuất bánh đa nem và mì gạo. Lễ hội 8–10/3 (20–22 tháng Giêng), đoàn rước bắt đầu 10h, tưởng nhớ sư tổ nghề Đào Trí Tiến; người dân hóa trang theo lối tuồng cổ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/nuoc-song-cau-dang-ky-luc-hon-8000-nguoi-dan-lang-co-tho-ha-bi-co-lap-post1236769.vov",
+        "quote": "VOV (10/10/2025): sau hoàn lưu bão số 10 và 11, nước sông Cầu dâng kỷ lục; theo UBND phường Vân Hà, từ 3h ngày 8/10/2025 mực nước vượt báo động cấp 3, toàn tuyến đê bối Vân Hà – Tiên Sơn ngập, 2.196 hộ với hơn 8.273 người ở Thổ Hà và Yên Viên bị cô lập; cổng làng ngập sâu hơn 2 m; chỉ tiếp cận được bằng xuồng máy. Lũ sông Cầu đạt đỉnh 7,52 m (23h ngày 9/10).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://mybacgiang.vn/vi/detailnews/?t=lang-co-tho-ha-net-am-thuc-xua-va-net-thieng-cua-dinh-chua&id=news_3057",
+        "quote": "Cổng thông tin du lịch mybacgiang.vn, 'Làng cổ Thổ Hà, nét ẩm thực xưa và nét thiêng của đình, chùa' (không ghi ngày rõ): Thổ Hà xưa thuộc xã Vân Hà, huyện Việt Yên, tỉnh Bắc Giang, nay thuộc phường Vân Hà; bánh đa nem làm từ gạo tẻ tráng mỏng trên nồi hơi, phơi khô tự nhiên; bánh rách được làm món đầu nem trộn bò khô; bánh đa vừng, dừa nướng là quà quê đặc trưng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bg/dulichbg/diem-den/193503/lang-tho-ha-mien-que-tham-duom-hon-cot-viet.htm",
+        "quote": "Báo Bắc Giang cũ (nay Báo Bắc Ninh), bài 'Làng Thổ Hà – miền quê thắm đượm hồn cốt Việt' (ảnh đánh số 30/11/2017): theo quốc lộ 1 từ cầu Chương Dương chừng hơn 30 km tới bến xe Bắc Ninh, theo đường Thiên Đức thêm chừng 3 km qua bến đò Vạn Phúc là tới làng; làng có nhà cổ trên 100 năm, cổng làng bề thế; trong bán kính chừng 6 km có làng Vân (rượu), đền Bà chúa Kho, chùa Bổ Đà.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chinhphu.vn/?pageid=27160&docid=219328",
+        "quote": "Cổng TTĐT Chính phủ, văn bản (đọc 13/10/2026): Nghị quyết số 39/2026/QH16 của Quốc hội về việc thành lập thành phố Bắc Ninh, ban hành 24/8/2026, hiệu lực 20/9/2026. (Báo Công lý, doanhnhan.congly.vn: thành phố Bắc Ninh lập trên toàn bộ diện tích, dân số tỉnh Bắc Ninh, 99 xã phường gồm 45 phường, 54 xã; giấy tờ mang địa danh 'tỉnh Bắc Ninh' còn hiệu lực vẫn dùng được.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 210,
+        "checked": "2026-10-13",
+        "keyword": "làng cổ thổ hà"
+      }
+    ],
+    "notes": "Đường đi chỉ có nguồn năm 2017 (qua bến đò Vạn Phúc); chưa kiểm chứng hiện nay có cầu đường bộ vào làng hay vẫn qua đò, nên viết 'kiểm tra bản đồ trước khi đi' và không khẳng định số km chính xác từ Long Biên. Không tìm thấy giá vé/giờ mở cửa đình chùa (có vẻ không thu vé; chưa xác minh). Cổng phường Vân Hà (vanha.bacninh.gov.vn) không tải được. Tháng 9–10 có thể lũ sông Cầu (dẫn VOV 10/2025). Tên hành chính: Bắc Giang nhập Bắc Ninh từ 1/7/2025; Bắc Ninh thành thành phố trực thuộc Trung ương từ 20/9/2026 (NQ 39/2026/QH16) — viết \"thành phố Bắc Ninh\", không viết \"tỉnh Bắc Ninh\" cho thời điểm hiện tại; nguồn mybacgiang không ghi ngày.",
+    "outline": [
+      "Thổ Hà ở đâu: tổ dân phố Thổ Hà, phường Vân Hà, thành phố Bắc Ninh (Việt Yên, Bắc Giang cũ)",
+      "Từ Hà Nội đi xe máy: hướng quốc lộ 1, lưu ý kiểm tra lối vào làng",
+      "Quần thể đình – chùa – từ chỉ: di tích quốc gia đặc biệt 2026, cửa võng bảo vật quốc gia",
+      "Làng gốm cổ nay làm bánh đa nem, mì gạo: mua gì làm quà",
+      "Lễ hội 20–22 tháng Giêng và mùa nên tránh (lũ sông Cầu)",
+      "Ghép lịch trình với chùa Bổ Đà, đền Bà chúa Kho"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/chua-bo-da-bac-ninh/",
+      "/du-lich/den-ba-chua-kho-bac-ninh/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00453.json",
+  "draft_template": {
+    "id": "TM-00453",
+    "url": "/du-lich/lang-tho-ha/",
+    "title": "Làng cổ Thổ Hà Bắc Ninh: đình 1692, lễ hội tháng Giêng, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng cổ thổ hà, làng gốm thổ hà, đình thổ hà, lễ hội thổ hà, thổ hà ở đâu, bánh đa nem thổ hà",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thổ Hà ở đâu: tổ dân phố Thổ Hà, phường Vân Hà, thành phố Bắc Ninh (Việt Yên, Bắc Giang cũ)",
+        "<p></p>"
+      ],
+      [
+        "Từ Hà Nội đi xe máy: hướng quốc lộ 1, lưu ý kiểm tra lối vào làng",
+        "<p></p>"
+      ],
+      [
+        "Quần thể đình – chùa – từ chỉ: di tích quốc gia đặc biệt 2026, cửa võng bảo vật quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Làng gốm cổ nay làm bánh đa nem, mì gạo: mua gì làm quà",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 20–22 tháng Giêng và mùa nên tránh (lũ sông Cầu)",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình với chùa Bổ Đà, đền Bà chúa Kho",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bac-ninh-don-nhan-bang-xep-hang-di-tich-quoc-gia-dac-biet-quan-the-di-tich-dinh-chua-tu-chi-tho-ha-postid440724.bbg",
+        "quote": "Báo Bắc Ninh (sự kiện sáng 9/3/2026): phường Vân Hà (tỉnh Bắc Ninh) đón Bằng xếp hạng di tích quốc gia đặc biệt quần thể đình, chùa, từ chỉ Thổ Hà theo Quyết định số 266/QĐ-TTg ngày 11/2/2026. Quần thể gồm đình Thổ Hà (thờ Thành hoàng), chùa Thổ Hà (Đoan Minh tự), từ chỉ thờ Khổng Tử và tiên hiền. Đình xây từ năm 1692 thời Lê Trung Hưng; chùa có dấu tích kiến trúc thế kỷ XVII; bia đá thế kỷ XVII–XIX; gần 100 pho tượng Phật cổ; cửa võng đình Thổ Hà được công nhận Bảo vật quốc gia. Lễ hội truyền thống năm 2026 diễn ra 3 ngày, 8–10/3/2026 (20–22 tháng Giêng).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nguoi-gia-tre-nho-hoa-dai-tuong-tien-nu-trong-le-hoi-tho-ha-5048308.html",
+        "quote": "VnExpress (9/3/2026): làng Thổ Hà nằm dọc bờ bắc sông Cầu, ba mặt giáp sông; từng là một trong ba trung tâm gốm cổ cùng Phù Lãng (Bắc Ninh) và Bát Tràng (Hà Nội), phát triển mạnh từ thế kỷ XIV; từ những năm 1990 nghề gốm mai một, thay bằng sản xuất bánh đa nem và mì gạo. Lễ hội 8–10/3 (20–22 tháng Giêng), đoàn rước bắt đầu 10h, tưởng nhớ sư tổ nghề Đào Trí Tiến; người dân hóa trang theo lối tuồng cổ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/nuoc-song-cau-dang-ky-luc-hon-8000-nguoi-dan-lang-co-tho-ha-bi-co-lap-post1236769.vov",
+        "quote": "VOV (10/10/2025): sau hoàn lưu bão số 10 và 11, nước sông Cầu dâng kỷ lục; theo UBND phường Vân Hà, từ 3h ngày 8/10/2025 mực nước vượt báo động cấp 3, toàn tuyến đê bối Vân Hà – Tiên Sơn ngập, 2.196 hộ với hơn 8.273 người ở Thổ Hà và Yên Viên bị cô lập; cổng làng ngập sâu hơn 2 m; chỉ tiếp cận được bằng xuồng máy. Lũ sông Cầu đạt đỉnh 7,52 m (23h ngày 9/10).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://mybacgiang.vn/vi/detailnews/?t=lang-co-tho-ha-net-am-thuc-xua-va-net-thieng-cua-dinh-chua&id=news_3057",
+        "quote": "Cổng thông tin du lịch mybacgiang.vn, 'Làng cổ Thổ Hà, nét ẩm thực xưa và nét thiêng của đình, chùa' (không ghi ngày rõ): Thổ Hà xưa thuộc xã Vân Hà, huyện Việt Yên, tỉnh Bắc Giang, nay thuộc phường Vân Hà; bánh đa nem làm từ gạo tẻ tráng mỏng trên nồi hơi, phơi khô tự nhiên; bánh rách được làm món đầu nem trộn bò khô; bánh đa vừng, dừa nướng là quà quê đặc trưng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bg/dulichbg/diem-den/193503/lang-tho-ha-mien-que-tham-duom-hon-cot-viet.htm",
+        "quote": "Báo Bắc Giang cũ (nay Báo Bắc Ninh), bài 'Làng Thổ Hà – miền quê thắm đượm hồn cốt Việt' (ảnh đánh số 30/11/2017): theo quốc lộ 1 từ cầu Chương Dương chừng hơn 30 km tới bến xe Bắc Ninh, theo đường Thiên Đức thêm chừng 3 km qua bến đò Vạn Phúc là tới làng; làng có nhà cổ trên 100 năm, cổng làng bề thế; trong bán kính chừng 6 km có làng Vân (rượu), đền Bà chúa Kho, chùa Bổ Đà.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chinhphu.vn/?pageid=27160&docid=219328",
+        "quote": "Cổng TTĐT Chính phủ, văn bản (đọc 13/10/2026): Nghị quyết số 39/2026/QH16 của Quốc hội về việc thành lập thành phố Bắc Ninh, ban hành 24/8/2026, hiệu lực 20/9/2026. (Báo Công lý, doanhnhan.congly.vn: thành phố Bắc Ninh lập trên toàn bộ diện tích, dân số tỉnh Bắc Ninh, 99 xã phường gồm 45 phường, 54 xã; giấy tờ mang địa danh 'tỉnh Bắc Ninh' còn hiệu lực vẫn dùng được.)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00453"
+  }
+}

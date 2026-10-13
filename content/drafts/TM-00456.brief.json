@@ -1,0 +1,168 @@
+{
+  "writer": "writer-w15a",
+  "queued": "2026-10-13T21:41:18.962280+00:00",
+  "topic": {
+    "topic_id": "TM-00456",
+    "url": "/du-lich/ho-cam-son/",
+    "title": "Hồ Cấm Sơn Lục Ngạn: hồ dài gần 30 km trên núi, đi thuyền, ăn cá hồ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ cấm sơn",
+    "secondary_keywords": [
+      "hồ cấm sơn lục ngạn",
+      "hồ cấm sơn sơn hải",
+      "đường đi hồ cấm sơn",
+      "hồ cấm sơn bắc ninh",
+      "đi thuyền hồ cấm sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội tìm một hồ lớn hoang sơ để đi thuyền, ăn cá hồ và ngắm đồi vải, cần biết hồ nay thuộc đâu, đi đường nào và mùa nào đẹp.",
+    "information_gain": "Site chưa có bài nào về hồ Cấm Sơn hay vùng Lục Ngạn; /du-lich/ha-noi-di-lang-son-bang-xe-may/ chỉ chạy qua Hữu Lũng trên QL1, /du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/ và /du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/ là hồ khác. Bài mới thêm: hồ đào 2/1966–7/1969, mặt nước khoảng 2.500–2.650 ha (mùa lũ tới 3.000 ha), dài gần 30 km, sâu nhất khoảng 47 m, cao khoảng 300 m; nay thuộc xã Sơn Hải (đã gộp Hộ Đáp), thành phố Bắc Ninh; hai lối vào (QL1 qua Hữu Lũng rẽ khoảng 5 km tới đập, hoặc từ Chũ theo đường 297); thuyền máy của dân, bữa cá nướng trên đảo; mùa vải cuối tháng 5–7; và chủ trương 2026 không làm dự án du lịch lớn quanh hồ để giữ nguồn nước. Khác /du-lich/ho-khuon-than/ (cùng lô): Khuôn Thần là hồ nhỏ có đảo thông, đang giải phóng mặt bằng cho dự án; bài này về hồ Cấm Sơn, một hồ thủy lợi khác, dài gần 30 km, đi thuyền và ăn cá hồ. Hai bài liên kết qua lại, không lặp nội dung.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://mybacgiang.vn/vi/hocamson",
+        "quote": "Cổng thông tin du lịch Bắc Giang (mybacgiang.vn), 'Hồ Cấm Sơn' (không ghi ngày, viết thời còn tỉnh Bắc Giang): hồ thuộc các xã Cấm Sơn, Tân Sơn, Sơn Hải, Hộ Đáp và một phần huyện Hữu Lũng (Lạng Sơn); xây từ 2/1966 đến 7/1969; mặt hồ khoảng 2.500 ha, mùa lũ tới 3.000 ha; dài gần 30 km, rộng nhất 7 km, hẹp nhất 200 m, sâu nhất khoảng 47 m; chứa khoảng 250 triệu m³; đường thuận nhất: từ TP Bắc Giang theo QL1A qua Hữu Lũng rồi rẽ phải gần 5 km tới đập Cấm Sơn, hoặc từ Chũ theo đường 297 (Sơn Hải) hay rẽ sang Tân Sơn, Cấm Sơn; có thuyền máy chở khách; cuối tháng 5 đến tháng 7 mùa vải chín.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://danviet.vn/mot-ho-nuoc-ngot-gan-3000ha-dao-nam-1966-o-luc-ngan-nay-la-tinh-bac-ninh-vi-nhu-vinh-ha-long-tren-can-dep-me-ly-d1443351.html",
+        "quote": "Dân Việt (16/7/2026, theo Báo Bắc Ninh): hồ thuộc xã Sơn Hải, tỉnh Bắc Ninh (Lục Ngạn, Bắc Giang cũ); xã Sơn Hải mở rộng sau khi sáp nhập xã Hộ Đáp; người lái thuyền chở khách gần mười năm cho biết khách đông hơn mấy năm gần đây; khách ăn trưa trên đồi ven hồ (cá nướng, tôm rang, gà đồi); có lồng cá nổi; Chủ tịch UBND xã Sơn Hải: quan điểm của tỉnh là không phát triển dự án du lịch lớn quanh hồ để giữ nguồn nước sạch sinh hoạt, khuyến khích du lịch sinh thái, nông nghiệp; địa phương tăng tuần tra xử lý đánh bắt bằng kích điện, thuốc nổ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bg/dulichbg/diem-den/288374/len-cam-son-theo-cau-hat.htm",
+        "quote": "Báo Bắc Giang điện tử (nay Báo Bắc Ninh), 'Lên Cấm Sơn theo câu hát' (15/6/2019): hồ thuộc bốn xã Sơn Hải, Hộ Đáp, Tân Sơn, Cấm Sơn (Lục Ngạn); độ cao khoảng 300 m; mặt hồ khoảng 2.650 ha, mùa mưa tới 3.000 ha, nhiều đảo; mùa khô lộ bãi bồi ven hồ; nhạc sĩ Phó Đức Phương viết 'Hồ trên núi' tại đây năm 1971; khách đi thuyền, dừng đảo, câu cá, thăm bản; đặc sản tôm, cá, gà đồi nướng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chinhphu.vn/?pageid=27160&docid=219328",
+        "quote": "Cổng TTĐT Chính phủ (đọc 13/10/2026): Nghị quyết số 39/2026/QH16 thành lập thành phố Bắc Ninh, ban hành 24/8/2026, hiệu lực 20/9/2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 2400,
+        "checked": "2026-10-13",
+        "keyword": "hồ cấm sơn"
+      }
+    ],
+    "notes": "Không có nguồn đã tải nêu khoảng cách Hà Nội – Cấm Sơn hay thời gian chạy xe: không đưa số km từ Hà Nội, chỉ mô tả hướng QL1 qua Hữu Lũng (Lạng Sơn) rồi rẽ khoảng 5 km tới đập (nguồn mybacgiang không ghi ngày, có thể đã cũ). Không có giá thuyền, giá bữa ăn: không đưa. Diện tích nguồn chênh nhau (2.500 vs 2.650 ha) — ghi 'khoảng 2.500–2.650 ha'. Xe máy KHÔNG đi cao tốc Bắc Giang – Lạng Sơn. Tên xã: Sơn Hải (gộp Hộ Đáp), thành phố Bắc Ninh từ 20/9/2026; Dân Việt (7/2026) còn ghi 'tỉnh Bắc Ninh' vì trước ngày đổi. Nhắc mặc áo phao, không bơi hồ chứa. Không nhầm với 'Cấm Sơn' ở Ninh Bình (núi sau đền Thái Vi).",
+    "outline": [
+      "Hồ Cấm Sơn ở đâu: xã Sơn Hải (Lục Ngạn cũ), thành phố Bắc Ninh, giáp Hữu Lũng",
+      "Hồ lớn cỡ nào: số liệu, lịch sử đào hồ 1966–1969, bài 'Hồ trên núi'",
+      "Đường xe máy: QL1 qua Hữu Lũng rẽ vào đập hoặc từ Chũ theo đường 297",
+      "Đi thuyền, ăn cá hồ, mùa vải: nên đi tháng nào",
+      "Hồ giữ làm nguồn nước: vì sao không có khu du lịch lớn, nên mang gì",
+      "An toàn: áo phao, đường đèo ven hồ, về trước khi tối"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/ho-khuon-than/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.437
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ho-khuon-than/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00456.json",
+  "draft_template": {
+    "id": "TM-00456",
+    "url": "/du-lich/ho-cam-son/",
+    "title": "Hồ Cấm Sơn Lục Ngạn: hồ dài gần 30 km trên núi, đi thuyền, ăn cá hồ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ cấm sơn, hồ cấm sơn lục ngạn, hồ cấm sơn sơn hải, đường đi hồ cấm sơn, hồ cấm sơn bắc ninh, đi thuyền hồ cấm sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Cấm Sơn ở đâu: xã Sơn Hải (Lục Ngạn cũ), thành phố Bắc Ninh, giáp Hữu Lũng",
+        "<p></p>"
+      ],
+      [
+        "Hồ lớn cỡ nào: số liệu, lịch sử đào hồ 1966–1969, bài 'Hồ trên núi'",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: QL1 qua Hữu Lũng rẽ vào đập hoặc từ Chũ theo đường 297",
+        "<p></p>"
+      ],
+      [
+        "Đi thuyền, ăn cá hồ, mùa vải: nên đi tháng nào",
+        "<p></p>"
+      ],
+      [
+        "Hồ giữ làm nguồn nước: vì sao không có khu du lịch lớn, nên mang gì",
+        "<p></p>"
+      ],
+      [
+        "An toàn: áo phao, đường đèo ven hồ, về trước khi tối",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://mybacgiang.vn/vi/hocamson",
+        "quote": "Cổng thông tin du lịch Bắc Giang (mybacgiang.vn), 'Hồ Cấm Sơn' (không ghi ngày, viết thời còn tỉnh Bắc Giang): hồ thuộc các xã Cấm Sơn, Tân Sơn, Sơn Hải, Hộ Đáp và một phần huyện Hữu Lũng (Lạng Sơn); xây từ 2/1966 đến 7/1969; mặt hồ khoảng 2.500 ha, mùa lũ tới 3.000 ha; dài gần 30 km, rộng nhất 7 km, hẹp nhất 200 m, sâu nhất khoảng 47 m; chứa khoảng 250 triệu m³; đường thuận nhất: từ TP Bắc Giang theo QL1A qua Hữu Lũng rồi rẽ phải gần 5 km tới đập Cấm Sơn, hoặc từ Chũ theo đường 297 (Sơn Hải) hay rẽ sang Tân Sơn, Cấm Sơn; có thuyền máy chở khách; cuối tháng 5 đến tháng 7 mùa vải chín.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://danviet.vn/mot-ho-nuoc-ngot-gan-3000ha-dao-nam-1966-o-luc-ngan-nay-la-tinh-bac-ninh-vi-nhu-vinh-ha-long-tren-can-dep-me-ly-d1443351.html",
+        "quote": "Dân Việt (16/7/2026, theo Báo Bắc Ninh): hồ thuộc xã Sơn Hải, tỉnh Bắc Ninh (Lục Ngạn, Bắc Giang cũ); xã Sơn Hải mở rộng sau khi sáp nhập xã Hộ Đáp; người lái thuyền chở khách gần mười năm cho biết khách đông hơn mấy năm gần đây; khách ăn trưa trên đồi ven hồ (cá nướng, tôm rang, gà đồi); có lồng cá nổi; Chủ tịch UBND xã Sơn Hải: quan điểm của tỉnh là không phát triển dự án du lịch lớn quanh hồ để giữ nguồn nước sạch sinh hoạt, khuyến khích du lịch sinh thái, nông nghiệp; địa phương tăng tuần tra xử lý đánh bắt bằng kích điện, thuốc nổ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bg/dulichbg/diem-den/288374/len-cam-son-theo-cau-hat.htm",
+        "quote": "Báo Bắc Giang điện tử (nay Báo Bắc Ninh), 'Lên Cấm Sơn theo câu hát' (15/6/2019): hồ thuộc bốn xã Sơn Hải, Hộ Đáp, Tân Sơn, Cấm Sơn (Lục Ngạn); độ cao khoảng 300 m; mặt hồ khoảng 2.650 ha, mùa mưa tới 3.000 ha, nhiều đảo; mùa khô lộ bãi bồi ven hồ; nhạc sĩ Phó Đức Phương viết 'Hồ trên núi' tại đây năm 1971; khách đi thuyền, dừng đảo, câu cá, thăm bản; đặc sản tôm, cá, gà đồi nướng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chinhphu.vn/?pageid=27160&docid=219328",
+        "quote": "Cổng TTĐT Chính phủ (đọc 13/10/2026): Nghị quyết số 39/2026/QH16 thành lập thành phố Bắc Ninh, ban hành 24/8/2026, hiệu lực 20/9/2026.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00456"
+  }
+}
