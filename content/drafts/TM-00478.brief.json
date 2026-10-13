@@ -1,0 +1,170 @@
+{
+  "writer": "writer-w17b",
+  "queued": "2026-10-13T22:49:40.301144+00:00",
+  "topic": {
+    "topic_id": "TM-00478",
+    "url": "/du-lich/nui-ham-rong-sa-pa/",
+    "title": "Núi Hàm Rồng Sa Pa: vé, đường lên đỉnh 1.800 m, đi buổi nào cho an toàn",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "núi hàm rồng sa pa",
+    "secondary_keywords": [
+      "vé núi hàm rồng",
+      "khu du lịch hàm rồng sa pa",
+      "leo núi hàm rồng",
+      "hàm rồng sa pa có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách lên Sa Pa bằng xe máy, gửi xe ở trung tâm, muốn biết núi Hàm Rồng có gì, vé bao nhiêu, đi bộ lên đỉnh mất công thế nào và nên tránh đi lúc tối, sương mù.",
+    "information_gain": "Trang có /du-lich/ham-rong-thanh-hoa/ nhưng đó là Hàm Rồng ở Thanh Hóa, một nơi khác; các bài Sa Pa (/du-lich/ban-cat-cat-sa-pa/, /du-lich/cap-treo-fansipan/) không nói tới núi Hàm Rồng. Bài mới: khu du lịch 100 ha, đỉnh hơn 1.800 m, vé 70.000đ người lớn (nguồn tỉnh 2024 và VnExpress 4/2026, trẻ em lệch 20.000/30.000đ), khu được chỉnh trang lại năm 2025, và bài học an toàn từ vụ du khách lạc trên đường mòn lúc tối, sương mù ngày 7/11/2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ham-rong-thuc-giac-post402281.html",
+        "quote": "Báo Lào Cai, 'Hàm Rồng “thức giấc”' (26/5/2025, đọc 13/10/2026): 'Khu du lịch sinh thái Hàm Rồng có diện tích 100 ha. Đỉnh núi Hàm Rồng ở độ cao hơn 1.800 m so với mực nước biển, nhiệt độ luôn dao động từ 15 - 18 độ C'; năm 2015 đón khoảng 600 nghìn lượt khách; sau thời gian vắng, nhiều hạng mục được cải tạo, tuyến đường đá được vệ sinh, vườn hoa trồng mới, có dịch vụ nước uống, thuê trang phục; lễ 30/4 – 1/5/2025 đón hơn 4 nghìn lượt khách, tăng khoảng 30% so với cùng kỳ 2024.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/18229/TinChiTiet/Cap-nhat-gia-ve-tham-quan-cac-diem-du-lich-tai-Sa-Pa-moi-nhat-.pvd",
+        "quote": "Du lịch Lào Cai (dulichlaocai.vn), 'Cập nhật giá vé tham quan các điểm du lịch tại Sa Pa mới nhất' (cập nhật cho năm 2024, đọc 13/10/2026): '4.Giá vé tham quan núi Hàm Rồng - Người lớn: 70.000 đồng/ người - Trẻ em: 20.000 đồng/ người'. Nguồn 2024 – cũ hơn 2025.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sa Pa' (cập nhật 16/4/2026, đọc 13/10/2026): núi Hàm Rồng 'Chỗ thấp nhất của núi là 1.450m, và đỉnh cao nhất hơn 1.800m'; từ đỉnh nhìn thấy thung lũng Mường Hoa, bản Tả Van, bản Cát Cát; 'Giá tham quan khu du lịch núi Hàm Rồng là 70.000 đồng với người lớn và 30.000 đồng với trẻ em'; sau Hàm Rồng có thể ghé nhà thờ Đá Sa Pa ở trung tâm, cách không xa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/cong-an-phuong-sa-pa-tim-thay-khach-du-lich-nhat-ban-bi-lac-tren-nui-ham-rong-post886346.html",
+        "quote": "Báo Lào Cai, 'Công an phường Sa Pa tìm thấy khách du lịch Nhật Bản bị lạc trên núi Hàm Rồng' (8/11/2025, đọc 13/10/2026): 20h30 ngày 7/11/2025 Công an phường Sa Pa nhận tin một du khách Nhật bị lạc; du khách đi 'theo lối đường bê tông – đường mòn lên đỉnh núi Hàm Rồng', đến khu vườn Thảo Quả thì 'do trời tối và sương mù dày đặc' bị lạc; khoảng 21h được tìm thấy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khu-du-lich-nui-ham-rong-khoac-ao-moi-post769982.html",
+        "quote": "Báo Lào Cai (Laocaitv.vn), 'Khu du lịch núi Hàm Rồng khoác \"áo mới\"' (11/5/2025, sửa 15/7/2025, đọc 13/10/2026): khu du lịch sinh thái Hàm Rồng rộng 100 ha, đỉnh cao hơn 1.800 m; được chỉnh trang nhiều hạng mục, vườn hoa trồng mới, điểm ngắm cảnh sạch đẹp; nằm trong kế hoạch phát triển du lịch '5 mùa' của Sa Pa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 30,
+        "checked": "2026-10-13",
+        "keyword": "núi hàm rồng sa pa"
+      }
+    ],
+    "notes": "Phân biệt với Hàm Rồng (Thanh Hóa) đã có bài. Vé trẻ em lệch: 20.000đ (dulichlaocai 2024) và 30.000đ (VnExpress 4/2026) – ghi cả hai, khuyên hỏi quầy. Không có nguồn chính thức về giờ mở cửa – không ghi giờ; chỉ khuyên xuống núi trước khi trời tối (dựa trên sự việc 7/11/2025). Không có nguồn về chỗ gửi xe máy ở cổng khu du lịch – không ghi. Hành chính: Báo Lào Cai 11/2025 dùng 'phường Sa Pa', tỉnh Lào Cai. Bài dành cho người đã tới Sa Pa bằng xe máy; phần đường lên Sa Pa dẫn sang bài Hà Nội đi Sa Pa.",
+    "outline": [
+      "Núi Hàm Rồng Sa Pa ở đâu, khác Hàm Rồng Thanh Hóa",
+      "Vé vào khu du lịch: mức người lớn, trẻ em và nguồn",
+      "Đường lên đỉnh hơn 1.800 m: bê tông, đường mòn, mất bao lâu",
+      "Đi buổi nào: sương mù, trời tối và bài học du khách bị lạc",
+      "Từ đỉnh nhìn thấy gì và ghép với nhà thờ Đá, Cát Cát",
+      "Gửi xe, trang phục và đồ mang theo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/du-lich/cap-treo-fansipan/",
+      "/du-lich/ham-rong-thanh-hoa/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00478.json",
+  "draft_template": {
+    "id": "TM-00478",
+    "url": "/du-lich/nui-ham-rong-sa-pa/",
+    "title": "Núi Hàm Rồng Sa Pa: vé, đường lên đỉnh 1.800 m, đi buổi nào cho an toàn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "núi hàm rồng sa pa, vé núi hàm rồng, khu du lịch hàm rồng sa pa, leo núi hàm rồng, hàm rồng sa pa có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Núi Hàm Rồng Sa Pa ở đâu, khác Hàm Rồng Thanh Hóa",
+        "<p></p>"
+      ],
+      [
+        "Vé vào khu du lịch: mức người lớn, trẻ em và nguồn",
+        "<p></p>"
+      ],
+      [
+        "Đường lên đỉnh hơn 1.800 m: bê tông, đường mòn, mất bao lâu",
+        "<p></p>"
+      ],
+      [
+        "Đi buổi nào: sương mù, trời tối và bài học du khách bị lạc",
+        "<p></p>"
+      ],
+      [
+        "Từ đỉnh nhìn thấy gì và ghép với nhà thờ Đá, Cát Cát",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe, trang phục và đồ mang theo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ham-rong-thuc-giac-post402281.html",
+        "quote": "Báo Lào Cai, 'Hàm Rồng “thức giấc”' (26/5/2025, đọc 13/10/2026): 'Khu du lịch sinh thái Hàm Rồng có diện tích 100 ha. Đỉnh núi Hàm Rồng ở độ cao hơn 1.800 m so với mực nước biển, nhiệt độ luôn dao động từ 15 - 18 độ C'; năm 2015 đón khoảng 600 nghìn lượt khách; sau thời gian vắng, nhiều hạng mục được cải tạo, tuyến đường đá được vệ sinh, vườn hoa trồng mới, có dịch vụ nước uống, thuê trang phục; lễ 30/4 – 1/5/2025 đón hơn 4 nghìn lượt khách, tăng khoảng 30% so với cùng kỳ 2024.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/18229/TinChiTiet/Cap-nhat-gia-ve-tham-quan-cac-diem-du-lich-tai-Sa-Pa-moi-nhat-.pvd",
+        "quote": "Du lịch Lào Cai (dulichlaocai.vn), 'Cập nhật giá vé tham quan các điểm du lịch tại Sa Pa mới nhất' (cập nhật cho năm 2024, đọc 13/10/2026): '4.Giá vé tham quan núi Hàm Rồng - Người lớn: 70.000 đồng/ người - Trẻ em: 20.000 đồng/ người'. Nguồn 2024 – cũ hơn 2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sa Pa' (cập nhật 16/4/2026, đọc 13/10/2026): núi Hàm Rồng 'Chỗ thấp nhất của núi là 1.450m, và đỉnh cao nhất hơn 1.800m'; từ đỉnh nhìn thấy thung lũng Mường Hoa, bản Tả Van, bản Cát Cát; 'Giá tham quan khu du lịch núi Hàm Rồng là 70.000 đồng với người lớn và 30.000 đồng với trẻ em'; sau Hàm Rồng có thể ghé nhà thờ Đá Sa Pa ở trung tâm, cách không xa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/cong-an-phuong-sa-pa-tim-thay-khach-du-lich-nhat-ban-bi-lac-tren-nui-ham-rong-post886346.html",
+        "quote": "Báo Lào Cai, 'Công an phường Sa Pa tìm thấy khách du lịch Nhật Bản bị lạc trên núi Hàm Rồng' (8/11/2025, đọc 13/10/2026): 20h30 ngày 7/11/2025 Công an phường Sa Pa nhận tin một du khách Nhật bị lạc; du khách đi 'theo lối đường bê tông – đường mòn lên đỉnh núi Hàm Rồng', đến khu vườn Thảo Quả thì 'do trời tối và sương mù dày đặc' bị lạc; khoảng 21h được tìm thấy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khu-du-lich-nui-ham-rong-khoac-ao-moi-post769982.html",
+        "quote": "Báo Lào Cai (Laocaitv.vn), 'Khu du lịch núi Hàm Rồng khoác \"áo mới\"' (11/5/2025, sửa 15/7/2025, đọc 13/10/2026): khu du lịch sinh thái Hàm Rồng rộng 100 ha, đỉnh cao hơn 1.800 m; được chỉnh trang nhiều hạng mục, vườn hoa trồng mới, điểm ngắm cảnh sạch đẹp; nằm trong kế hoạch phát triển du lịch '5 mùa' của Sa Pa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00478"
+  }
+}

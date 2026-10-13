@@ -1,0 +1,157 @@
+{
+  "writer": "writer-w17a",
+  "queued": "2026-10-13T22:49:40.151307+00:00",
+  "topic": {
+    "topic_id": "TM-00481",
+    "url": "/du-lich/lang-da-khuoi-ky/",
+    "title": "Làng đá Khuổi Ky Cao Bằng: nhà sàn đá người Tày cách Bản Giốc 3 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng đá khuổi ky",
+    "secondary_keywords": [
+      "làng đá cổ khuổi ky cao bằng",
+      "homestay khuổi ky",
+      "khuổi ky bản giốc",
+      "nhà sàn đá người tày"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi xe máy lên thác Bản Giốc muốn biết làng đá Khuổi Ky ở đâu, có gì để xem, có nên ngủ homestay ở đây thay vì về TP Cao Bằng, và đường quanh Đàm Thủy mùa mưa lũ ra sao.",
+    "information_gain": "/du-lich/dong-nguom-ngao/ chỉ nhắc 'xóm Khuổi Ky' như địa chỉ của động; /du-lich/ha-noi-di-cao-bang-bang-xe-may/ nói đường đi và vé thác Bản Giốc. Chưa bài nào mô tả bản thân làng đá. Bài mới: kiến trúc nhà sàn đá (14 nóc, lợp ngói âm dương, niên đại theo VnExpress 1594–1677), danh hiệu Làng văn hóa truyền thống tiêu biểu 2008, 18 hộ làm du lịch cộng đồng (VOV 6/2026), quy ước giữ kiến trúc, cách ghép với Ngườm Ngao – Bản Giốc, và bài học đóng cửa, sạt lở đường quanh Đàm Thủy tháng 10/2025.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/30490",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, 'Cao Bằng: Làng đá Khuổi Ky làm du lịch homestay' (đăng lại từ VOV, ảnh thư mục 2019, không hiện ngày, đọc 13/10/2026): 'Ngôi làng trải rộng khoảng 1ha, với 14 nóc nhà' tựa núi, hướng ra suối Khuổi Ky; nhà sàn đá 2 mái, lợp ngói âm dương; khi đó có 10 nhà làm homestay; khách Việt 60%, quốc tế 40%; 100% hộ là người Tày; năm 2008 được Bộ VHTTDL công nhận 'Làng văn hóa truyền thống tiêu biểu của dân tộc ít người'; khách có thể tắm suối mùa nóng, theo dân hái măng, bắt cá. Nguồn cũ (khoảng 2019).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/check-in/du-lich-cao-bang-giu-hon-cot-lang-da-khuoi-ky-post1297454.vov",
+        "quote": "VOV, 'Du lịch Cao Bằng: Giữ hồn cốt làng đá Khuổi Ky' (7/6/2026, đọc 13/10/2026): làng ở xã Đàm Thủy, tỉnh Cao Bằng; xóm Bản Gun – Khuổi Ky; 'Hiện nay, làng đá Khuổi Ky có 18 hộ tham gia làm du lịch cộng đồng'; một chủ nhà làm du lịch từ 2016, nay hơn chục phòng; quy ước 'Kiến trúc là không được thay đổi, xây bằng đá bằng và lợp bằng ngói âm dương'; nhà đá có tuổi 'hàng chục, thậm chí hàng trăm năm'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Cao Bằng' (cập nhật 5/1/2026, đọc 13/10/2026): 'Làng đá cổ nằm cách thác Bản Giốc khoảng 3 km, cách trung tâm TP Cao Bằng gần 100 km. Làng Khuổi Ky có 14 hộ dân tộc Tày'; nhà sàn đá 'có từ khoảng năm 1594 - 1677'; 'Động Ngườm Ngao nằm ngay sát làng Khuổi Ky'; homestay gần thác (có Khuổi Ky Homestay) giá khoảng 200.000đ một đêm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/dung-tham-quan-thac-ban-gioc-vi-lu-lon-4948236.html",
+        "quote": "VnExpress, 'Dừng tham quan thác Bản Giốc vì lũ lớn' (7/10/2025, đọc 13/10/2026): thác Bản Giốc tạm dừng đón khách từ sáng 7/10/2025 khi nước dâng gần 2 m; trước đó đóng từ 30/9 đến 3/10 do bão Bualoi; người dân cho biết 'nhiều tuyến đường chính đến thác Bản Giốc bị sạt lở, tắc đường từ sáng, như đoạn gần đồn biên phòng Đàm Thủy'; đường vào thác ngập sâu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 480,
+        "checked": "2026-10-13",
+        "keyword": "làng đá khuổi ky"
+      }
+    ],
+    "notes": "Cao Bằng không sáp nhập tỉnh; VOV 6/2026 dùng 'xã Đàm Thủy, tỉnh Cao Bằng' (huyện Trùng Khánh cũ). Số liệu lệch: 14 nóc/14 hộ (Cục Du lịch ~2019, VnExpress 2026) và 18 hộ làm du lịch (VOV 6/2026 – có thể gồm cả xóm Bản Gun) – nêu nguồn từng số. Giá homestay 200.000đ (VnExpress) và 100.000đ/người/đệm (bài ~2019) – chỉ dùng mức VnExpress kèm 'khoảng', khuyên hỏi trước. Không có vé vào làng theo nguồn nào – không khẳng định miễn phí. Mùa mưa bão (tháng 9–10/2025) đường quanh Đàm Thủy có thể sạt, ngập: khuyên xem thông báo khu du lịch thác Bản Giốc trước khi đi.",
+    "outline": [
+      "Khuổi Ky ở đâu: cạnh Ngườm Ngao, cách Bản Giốc khoảng 3 km",
+      "Nhà sàn đá người Tày: kiến trúc, niên đại, danh hiệu 2008",
+      "Ngủ homestay ở làng: số hộ, giá tham khảo, cách đặt",
+      "Ứng xử trong làng và quy ước giữ kiến trúc",
+      "Mùa mưa lũ: đóng cửa Bản Giốc, sạt lở đường Đàm Thủy 10/2025",
+      "Lịch một ngày: Bản Giốc – Ngườm Ngao – Khuổi Ky"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/dong-nguom-ngao/",
+      "/du-lich/ho-thang-hen-nui-mat-than/",
+      "/du-lich/khu-di-tich-pac-bo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00481.json",
+  "draft_template": {
+    "id": "TM-00481",
+    "url": "/du-lich/lang-da-khuoi-ky/",
+    "title": "Làng đá Khuổi Ky Cao Bằng: nhà sàn đá người Tày cách Bản Giốc 3 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng đá khuổi ky, làng đá cổ khuổi ky cao bằng, homestay khuổi ky, khuổi ky bản giốc, nhà sàn đá người tày",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khuổi Ky ở đâu: cạnh Ngườm Ngao, cách Bản Giốc khoảng 3 km",
+        "<p></p>"
+      ],
+      [
+        "Nhà sàn đá người Tày: kiến trúc, niên đại, danh hiệu 2008",
+        "<p></p>"
+      ],
+      [
+        "Ngủ homestay ở làng: số hộ, giá tham khảo, cách đặt",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử trong làng và quy ước giữ kiến trúc",
+        "<p></p>"
+      ],
+      [
+        "Mùa mưa lũ: đóng cửa Bản Giốc, sạt lở đường Đàm Thủy 10/2025",
+        "<p></p>"
+      ],
+      [
+        "Lịch một ngày: Bản Giốc – Ngườm Ngao – Khuổi Ky",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/30490",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, 'Cao Bằng: Làng đá Khuổi Ky làm du lịch homestay' (đăng lại từ VOV, ảnh thư mục 2019, không hiện ngày, đọc 13/10/2026): 'Ngôi làng trải rộng khoảng 1ha, với 14 nóc nhà' tựa núi, hướng ra suối Khuổi Ky; nhà sàn đá 2 mái, lợp ngói âm dương; khi đó có 10 nhà làm homestay; khách Việt 60%, quốc tế 40%; 100% hộ là người Tày; năm 2008 được Bộ VHTTDL công nhận 'Làng văn hóa truyền thống tiêu biểu của dân tộc ít người'; khách có thể tắm suối mùa nóng, theo dân hái măng, bắt cá. Nguồn cũ (khoảng 2019).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/check-in/du-lich-cao-bang-giu-hon-cot-lang-da-khuoi-ky-post1297454.vov",
+        "quote": "VOV, 'Du lịch Cao Bằng: Giữ hồn cốt làng đá Khuổi Ky' (7/6/2026, đọc 13/10/2026): làng ở xã Đàm Thủy, tỉnh Cao Bằng; xóm Bản Gun – Khuổi Ky; 'Hiện nay, làng đá Khuổi Ky có 18 hộ tham gia làm du lịch cộng đồng'; một chủ nhà làm du lịch từ 2016, nay hơn chục phòng; quy ước 'Kiến trúc là không được thay đổi, xây bằng đá bằng và lợp bằng ngói âm dương'; nhà đá có tuổi 'hàng chục, thậm chí hàng trăm năm'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Cao Bằng' (cập nhật 5/1/2026, đọc 13/10/2026): 'Làng đá cổ nằm cách thác Bản Giốc khoảng 3 km, cách trung tâm TP Cao Bằng gần 100 km. Làng Khuổi Ky có 14 hộ dân tộc Tày'; nhà sàn đá 'có từ khoảng năm 1594 - 1677'; 'Động Ngườm Ngao nằm ngay sát làng Khuổi Ky'; homestay gần thác (có Khuổi Ky Homestay) giá khoảng 200.000đ một đêm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/dung-tham-quan-thac-ban-gioc-vi-lu-lon-4948236.html",
+        "quote": "VnExpress, 'Dừng tham quan thác Bản Giốc vì lũ lớn' (7/10/2025, đọc 13/10/2026): thác Bản Giốc tạm dừng đón khách từ sáng 7/10/2025 khi nước dâng gần 2 m; trước đó đóng từ 30/9 đến 3/10 do bão Bualoi; người dân cho biết 'nhiều tuyến đường chính đến thác Bản Giốc bị sạt lở, tắc đường từ sáng, như đoạn gần đồn biên phòng Đàm Thủy'; đường vào thác ngập sâu.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00481"
+  }
+}

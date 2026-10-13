@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w17a",
+  "queued": "2026-10-13T22:49:40.152357+00:00",
+  "topic": {
+    "topic_id": "TM-00480",
+    "url": "/du-lich/phja-oac-phja-den-cao-bang/",
+    "title": "Phja Oắc – Phja Đén Cao Bằng: đỉnh 1.931 m, mùa băng giá, đường lên trơn",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "phja oắc phja đén cao bằng",
+    "secondary_keywords": [
+      "đỉnh phja oắc",
+      "vườn quốc gia phja oắc phja đén",
+      "phja oắc băng giá",
+      "đồi chè kolia",
+      "phia oắc đi xe máy"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi Cao Bằng bằng xe máy thuê muốn biết Phja Oắc – Phja Đén cách TP Cao Bằng bao xa, đi theo đường nào, xem gì (băng giá, mây, đồi chè Kolia, bản Dao Tiền) và đường lên đỉnh mùa đông nguy hiểm thế nào.",
+    "information_gain": "Các bài Cao Bằng hiện có (/du-lich/ha-noi-di-cao-bang-bang-xe-may/, /du-lich/ho-thang-hen-nui-mat-than/, /du-lich/khu-di-tich-pac-bo/, /du-lich/dong-nguom-ngao/) đều nằm ở phía bắc và đông tỉnh; không bài nào nói về tuyến phía Tây Nguyên Bình. Bài mới: vị trí vườn quốc gia (73 km theo tỉnh lộ 212 và quốc lộ 34, nguồn Cục Du lịch), độ cao 1.931 m và tranh cãi 'cao nhất hay cao thứ hai tỉnh', mùa mây tháng 12–3, các đợt băng giá (–3°C ngày 6/1/2026), tuyến 'Khám phá Phja Oắc' 7/2026 gồm Kolia, rừng trúc Bản Phường, bản Dao Tiền, và cảnh báo của báo tỉnh về xe máy trượt ngã, ùn tắc ở đoạn rẽ lên đỉnh khi có băng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/30275",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, 'Vườn Quốc gia Phja Oắc - Phja Đén - vùng núi của những đổi thay' (không hiện ngày đăng, ảnh trong thư mục 2019, đọc 13/10/2026): vườn trên địa bàn 4 xã Thành Công, Quang Thành, Phan Thanh, Hưng Đạo và thị trấn Tĩnh Túc (huyện Nguyên Bình), 'cách thành phố Cao Bằng 73km về phía tây theo tỉnh lộ 212 và quốc lộ 34'; thành lập 11/1/2018, diện tích 10.245,6 ha; 'đỉnh Phja Oắc có độ cao 1.931m'; Phja Đén 1.391 m; có thể tham quan đồn Khai Phắt, làng thổ cẩm in sáp ong người Dao Tiền, mỏ thiếc Tĩnh Túc, đồi chè Kolia (điểm ngắm khoảng 1.300 m). Nguồn cũ (khoảng 2019).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/mot-ngay-trai-nghiem-tuyen-du-lich-phia-tay-3190408.html",
+        "quote": "Báo Cao Bằng, 'Một ngày trải nghiệm tuyến du lịch phía Tây' (20/7/2026, đọc 13/10/2026): tuyến 'Khám phá Phja Oắc - Vùng núi của những đổi thay' thuộc Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng; 'Đỉnh Phja Oắc cao 1.931 m so với mực nước biển', mùa đông thường có băng giá, có khi có tuyết; điểm dừng gồm Khu du lịch sinh thái Kolia, rừng trúc Bản Phường (xã Thành Công), bản người Dao Tiền với homestay (ví dụ Homestay Lũng Mười).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/dinh-phja-oac-xuat-hien-bang-tuyet-dau-mua-3184046.html",
+        "quote": "Báo Cao Bằng, 'Đỉnh Phja Oắc xuất hiện băng tuyết đầu mùa' (7/1/2026, đọc 13/10/2026): Phja Oắc ở xã Thành Công, 'ngọn núi cao nhất của tỉnh Cao Bằng, với độ cao 1.931m'; sáng 6/1 nhiệt độ đỉnh núi khoảng –3°C; vùng núi cao thường thấp hơn vùng thấp 7–10°C; cán bộ trạm Phja Oắc: 'Băng phủ khiến nhiều đoạn đường, bậc đá và lối đi trở nên trơn trượt, tiềm ẩn nguy cơ mất an toàn'; khuyến cáo theo dõi dự báo, chuẩn bị giữ ấm, 'phương tiện di chuyển phù hợp'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Can-dam-bao-an-toan-giao-thong-tai-khu-vuc-Phja-Oac-40107.html",
+        "quote": "Báo Cao Bằng, 'Cần đảm bảo an toàn giao thông tại khu vực Phja Oắc' (25/1/2016, đọc 13/10/2026): ngày 23–24/1/2016 nhiệt độ đỉnh xuống âm 8 độ C; 'đường lên Phja Oắc trơn trượt rất khó đi và nguy hiểm'; tại đoạn rẽ lên đỉnh xe máy, ô tô đỗ lộn xộn gây ách tắc, 'nhiều xe máy bị trơn trượt ngã'; một số ô tô không xuống được phải đỗ lưng chừng dốc. Nguồn 2016 – dùng làm bài học, không phải tình trạng hiện tại.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Cao Bằng' (cập nhật 5/1/2026, đọc 13/10/2026): 'Phia Oắc cao 1.931 m, là đỉnh núi cao thứ hai của tỉnh (núi Phia Dạ thuộc xã Sơn Lập, Bảo Lạc cao nhất với 1.987 m)'; 'Mùa mây ở Phia Oắc kéo dài từ tháng 12 đến tháng 3 năm sau', tháng 2 mây dày; khi nhiệt độ hạ thấp có thể xuất hiện băng giá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "phja oắc phja đén cao bằng"
+      }
+    ],
+    "notes": "Cao Bằng giữ nguyên tỉnh sau 7/2025; báo tỉnh 2026 dùng 'xã Thành Công' (không còn cấp huyện) – ghi 'huyện Nguyên Bình cũ'. Mâu thuẫn: Báo Cao Bằng 1/2026 gọi Phja Oắc là núi cao nhất tỉnh; VnExpress 1/2026 nói cao thứ hai sau Phia Dạ 1.987 m – nêu cả hai, không khẳng định. Khoảng cách 73 km từ nguồn khoảng 2019; chưa có nguồn mới. Không có nguồn về vé vào vườn quốc gia, chỗ gửi xe, tình trạng mặt đường tỉnh lộ 212 năm 2026 hay quy định cấm xe lên đỉnh khi băng (bài 2016 chỉ kiến nghị cấm). Không ghi giá homestay/Kolia. Khi có băng, khuyên dừng xe ở chân dốc và đi bộ.",
+    "outline": [
+      "Phja Oắc – Phja Đén ở đâu, cách TP Cao Bằng bao xa",
+      "Đường đi: tỉnh lộ 212, quốc lộ 34 và đoạn dốc lên đỉnh",
+      "Đỉnh 1.931 m: cao nhất hay cao thứ hai tỉnh, mùa mây, mùa băng",
+      "An toàn khi có băng giá: trơn trượt, ùn tắc, khi nào không nên lên",
+      "Tuyến phía Tây: đồi chè Kolia, rừng trúc Bản Phường, bản Dao Tiền",
+      "Đồ giữ ấm và xếp lịch ghép với Pác Bó, Thang Hen"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/khu-di-tich-pac-bo/",
+      "/du-lich/ho-thang-hen-nui-mat-than/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00480.json",
+  "draft_template": {
+    "id": "TM-00480",
+    "url": "/du-lich/phja-oac-phja-den-cao-bang/",
+    "title": "Phja Oắc – Phja Đén Cao Bằng: đỉnh 1.931 m, mùa băng giá, đường lên trơn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phja oắc phja đén cao bằng, đỉnh phja oắc, vườn quốc gia phja oắc phja đén, phja oắc băng giá, đồi chè kolia, phia oắc đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phja Oắc – Phja Đén ở đâu, cách TP Cao Bằng bao xa",
+        "<p></p>"
+      ],
+      [
+        "Đường đi: tỉnh lộ 212, quốc lộ 34 và đoạn dốc lên đỉnh",
+        "<p></p>"
+      ],
+      [
+        "Đỉnh 1.931 m: cao nhất hay cao thứ hai tỉnh, mùa mây, mùa băng",
+        "<p></p>"
+      ],
+      [
+        "An toàn khi có băng giá: trơn trượt, ùn tắc, khi nào không nên lên",
+        "<p></p>"
+      ],
+      [
+        "Tuyến phía Tây: đồi chè Kolia, rừng trúc Bản Phường, bản Dao Tiền",
+        "<p></p>"
+      ],
+      [
+        "Đồ giữ ấm và xếp lịch ghép với Pác Bó, Thang Hen",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/30275",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, 'Vườn Quốc gia Phja Oắc - Phja Đén - vùng núi của những đổi thay' (không hiện ngày đăng, ảnh trong thư mục 2019, đọc 13/10/2026): vườn trên địa bàn 4 xã Thành Công, Quang Thành, Phan Thanh, Hưng Đạo và thị trấn Tĩnh Túc (huyện Nguyên Bình), 'cách thành phố Cao Bằng 73km về phía tây theo tỉnh lộ 212 và quốc lộ 34'; thành lập 11/1/2018, diện tích 10.245,6 ha; 'đỉnh Phja Oắc có độ cao 1.931m'; Phja Đén 1.391 m; có thể tham quan đồn Khai Phắt, làng thổ cẩm in sáp ong người Dao Tiền, mỏ thiếc Tĩnh Túc, đồi chè Kolia (điểm ngắm khoảng 1.300 m). Nguồn cũ (khoảng 2019).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/mot-ngay-trai-nghiem-tuyen-du-lich-phia-tay-3190408.html",
+        "quote": "Báo Cao Bằng, 'Một ngày trải nghiệm tuyến du lịch phía Tây' (20/7/2026, đọc 13/10/2026): tuyến 'Khám phá Phja Oắc - Vùng núi của những đổi thay' thuộc Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng; 'Đỉnh Phja Oắc cao 1.931 m so với mực nước biển', mùa đông thường có băng giá, có khi có tuyết; điểm dừng gồm Khu du lịch sinh thái Kolia, rừng trúc Bản Phường (xã Thành Công), bản người Dao Tiền với homestay (ví dụ Homestay Lũng Mười).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/dinh-phja-oac-xuat-hien-bang-tuyet-dau-mua-3184046.html",
+        "quote": "Báo Cao Bằng, 'Đỉnh Phja Oắc xuất hiện băng tuyết đầu mùa' (7/1/2026, đọc 13/10/2026): Phja Oắc ở xã Thành Công, 'ngọn núi cao nhất của tỉnh Cao Bằng, với độ cao 1.931m'; sáng 6/1 nhiệt độ đỉnh núi khoảng –3°C; vùng núi cao thường thấp hơn vùng thấp 7–10°C; cán bộ trạm Phja Oắc: 'Băng phủ khiến nhiều đoạn đường, bậc đá và lối đi trở nên trơn trượt, tiềm ẩn nguy cơ mất an toàn'; khuyến cáo theo dõi dự báo, chuẩn bị giữ ấm, 'phương tiện di chuyển phù hợp'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Can-dam-bao-an-toan-giao-thong-tai-khu-vuc-Phja-Oac-40107.html",
+        "quote": "Báo Cao Bằng, 'Cần đảm bảo an toàn giao thông tại khu vực Phja Oắc' (25/1/2016, đọc 13/10/2026): ngày 23–24/1/2016 nhiệt độ đỉnh xuống âm 8 độ C; 'đường lên Phja Oắc trơn trượt rất khó đi và nguy hiểm'; tại đoạn rẽ lên đỉnh xe máy, ô tô đỗ lộn xộn gây ách tắc, 'nhiều xe máy bị trơn trượt ngã'; một số ô tô không xuống được phải đỗ lưng chừng dốc. Nguồn 2016 – dùng làm bài học, không phải tình trạng hiện tại.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Cao Bằng' (cập nhật 5/1/2026, đọc 13/10/2026): 'Phia Oắc cao 1.931 m, là đỉnh núi cao thứ hai của tỉnh (núi Phia Dạ thuộc xã Sơn Lập, Bảo Lạc cao nhất với 1.987 m)'; 'Mùa mây ở Phia Oắc kéo dài từ tháng 12 đến tháng 3 năm sau', tháng 2 mây dày; khi nhiệt độ hạ thấp có thể xuất hiện băng giá.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00480"
+  }
+}

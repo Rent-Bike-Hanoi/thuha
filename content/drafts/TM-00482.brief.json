@@ -1,0 +1,170 @@
+{
+  "writer": "writer-w17a",
+  "queued": "2026-10-13T22:49:40.150875+00:00",
+  "topic": {
+    "topic_id": "TM-00482",
+    "url": "/du-lich/cho-tinh-khau-vai/",
+    "title": "Chợ tình Khâu Vai: họp 27/3 âm lịch ở Mê cung đá, đi xe máy cần biết gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ tình khâu vai",
+    "secondary_keywords": [
+      "chợ phong lưu khâu vai",
+      "lễ hội chợ tình khâu vai 2026",
+      "mê cung đá khâu vai",
+      "khâu vai mèo vạc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người định đi vòng Hà Giang bằng xe máy vào tháng 3 âm lịch muốn biết chợ tình Khâu Vai họp ngày nào, ở đâu (Mê cung đá), cách TP Hà Giang bao xa và nên chuẩn bị gì khi đường đông người.",
+    "information_gain": "/du-lich/sung-la-nha-cua-pao/ và /du-lich/pho-co-dong-van-cho-phien/ chỉ nhắc tên chợ tình Khâu Vai trong danh sách lễ hội; /du-lich/deo-ma-pi-leng-va-dong-van/ dừng ở Mèo Vạc. Bài mới cho người canh ngày đi: chợ họp duy nhất ngày 27/3 âm lịch (đêm 26 và ngày 27), năm 2026 khai mạc tối 12/5 tại sân Mê cung đá; nguồn gốc từ 1919 theo Báo Tuyên Quang; vị trí Mê cung đá cách trung tâm xã khoảng 2 km; cách TP Hà Giang 180 km theo VnExpress; cảnh báo thương mại hóa và rủi ro sạt lở QL4C mùa mưa (từ tháng 3).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/tin-moi/202605/khai-mac-le-hoi-cho-tinh-khau-vai-2026-3132739/",
+        "quote": "Báo Tuyên Quang, 'Khai mạc Lễ hội Chợ tình Khâu Vai 2026' (12/5/2026, đọc 13/10/2026): 'Tối 12-5, tại sân Mê Cung đá xã Khâu Vai đã diễn ra Lễ khai mạc Chợ tình Khâu Vai năm 2026 với chủ đề “Khâu Vai chợ tình mãi gọi”'; chợ 'được hình thành từ năm 1919 và chỉ họp duy nhất một lần vào ngày 27/3 âm lịch hằng năm'; người đến chợ để gặp gỡ, cầu duyên, cầu phúc tại miếu Ông, miếu Bà.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vanhoavaphattrien.vn/tuyen-quang-cho-tinh-khau-vai-phien-cho-cua-nhung-moi-duyen-xua-a32285.html",
+        "quote": "Văn hóa và Phát triển, 'Tuyên Quang: Chợ tình Khâu Vai – Phiên chợ của những mối duyên xưa' (14/3/2026, đọc 13/10/2026): chợ ở 'xã Khâu Vai, vùng cao nguyên đá Đồng Văn, tỉnh Tuyên Quang (trước đây thuộc huyện Mèo Vạc, tỉnh Hà Giang)'; tổ chức 'vào ngày 27 tháng 3 âm lịch hằng năm'; người dân tìm về 'Vào đêm 26 và ngày 27 tháng Ba âm lịch'; lễ hội có hát giao duyên, khèn Mông, múa dân gian.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/201704/me-cung-da-kiet-tac-cua-thien-nhien-702234/",
+        "quote": "Báo Hà Giang (nay baotuyenquang.com.vn), '“Mê cung đá” – Kiệt tác của thiên nhiên' (4/2017, đọc 13/10/2026): Mê cung đá thuộc xã Khâu Vai trong Công viên địa chất toàn cầu Cao nguyên đá Đồng Văn, cổng vào hình vòm hang; 'Nằm cách xã Khâu Vai khoảng 2km, “Mê cung đá” là nơi hò hẹn của những đôi lứa trong ngày “Chợ tình”'. Nguồn 2017.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-meo-vac-4654320.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Mèo Vạc' (cập nhật 4/2/2025, đọc 13/10/2026): chợ tình Khâu Vai 'được tổ chức vào 27/3 Âm lịch hằng năm', có tuổi đời hơn 100 năm, ở bản Khâu Vai, xã Khâu Vai, 'cách thành phố Hà Giang 180 km'; 'chợ tình Khâu Vai đang bị thương mại hóa, mất dần đi vẻ mộc mạc', nay bày bán nhiều hàng hóa như chợ khác.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/xa-hoi/202608/an-toan-mua-mua-bao-d9a5b38",
+        "quote": "Báo Tuyên Quang, 'An toàn mùa mưa bão' (18/8/2026, đọc 13/10/2026): theo Sở Xây dựng, 'từ tháng 3 đến ngày 31-7-2026' mưa lớn gây sạt lở; QL4C có hơn 5.700 m3 đất đá sạt lở taluy dương tại 67 vị trí; khuyến cáo theo dõi dự báo thời tiết, không dừng đỗ dưới chân taluy có dấu hiệu sạt trượt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1300,
+        "checked": "2026-10-13",
+        "keyword": "chợ tình khâu vai"
+      }
+    ],
+    "notes": "Hành chính: xã Khâu Vai, tỉnh Tuyên Quang (huyện Mèo Vạc cũ, tỉnh Hà Giang cũ) theo nguồn 2026. Ngày dương lịch thay đổi mỗi năm: 2026 là 12–13/5 (26–27/3 âm lịch) theo Báo Tuyên Quang/trang tỉnh; không tự quy đổi cho năm sau – writer chỉ nêu quy tắc 27/3 âm lịch và khuyên xem thông báo tỉnh. Chưa đọc được trang tuyenquang.gov.vn và congan.tuyenquang.gov.vn (timeout/403) nên không có thông tin phân luồng, bãi đỗ xe 2026. Khoảng cách Mèo Vạc – Khâu Vai không có nguồn – không ghi số. Mê cung đá cách xã 2 km là nguồn 2017. Không có vé vào chợ theo nguồn nào.",
+    "outline": [
+      "Chợ tình Khâu Vai là gì, họp ngày nào",
+      "Mê cung đá và xã Khâu Vai: vị trí, khoảng cách",
+      "Lễ hội 2026 và cách canh ngày cho năm sau",
+      "Thương mại hóa: kỳ vọng thực tế và ứng xử với người dân",
+      "Đường đi mùa xuân – đầu mưa: QL4C, sạt lở, đông xe",
+      "Xếp lịch vòng Hà Giang quanh đêm 26 và ngày 27/3 âm lịch"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/deo-ma-pi-leng-va-dong-van/",
+      "/du-lich/pho-co-dong-van-cho-phien/",
+      "/du-lich/sung-la-nha-cua-pao/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00482.json",
+  "draft_template": {
+    "id": "TM-00482",
+    "url": "/du-lich/cho-tinh-khau-vai/",
+    "title": "Chợ tình Khâu Vai: họp 27/3 âm lịch ở Mê cung đá, đi xe máy cần biết gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ tình khâu vai, chợ phong lưu khâu vai, lễ hội chợ tình khâu vai 2026, mê cung đá khâu vai, khâu vai mèo vạc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ tình Khâu Vai là gì, họp ngày nào",
+        "<p></p>"
+      ],
+      [
+        "Mê cung đá và xã Khâu Vai: vị trí, khoảng cách",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 2026 và cách canh ngày cho năm sau",
+        "<p></p>"
+      ],
+      [
+        "Thương mại hóa: kỳ vọng thực tế và ứng xử với người dân",
+        "<p></p>"
+      ],
+      [
+        "Đường đi mùa xuân – đầu mưa: QL4C, sạt lở, đông xe",
+        "<p></p>"
+      ],
+      [
+        "Xếp lịch vòng Hà Giang quanh đêm 26 và ngày 27/3 âm lịch",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/tin-moi/202605/khai-mac-le-hoi-cho-tinh-khau-vai-2026-3132739/",
+        "quote": "Báo Tuyên Quang, 'Khai mạc Lễ hội Chợ tình Khâu Vai 2026' (12/5/2026, đọc 13/10/2026): 'Tối 12-5, tại sân Mê Cung đá xã Khâu Vai đã diễn ra Lễ khai mạc Chợ tình Khâu Vai năm 2026 với chủ đề “Khâu Vai chợ tình mãi gọi”'; chợ 'được hình thành từ năm 1919 và chỉ họp duy nhất một lần vào ngày 27/3 âm lịch hằng năm'; người đến chợ để gặp gỡ, cầu duyên, cầu phúc tại miếu Ông, miếu Bà.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vanhoavaphattrien.vn/tuyen-quang-cho-tinh-khau-vai-phien-cho-cua-nhung-moi-duyen-xua-a32285.html",
+        "quote": "Văn hóa và Phát triển, 'Tuyên Quang: Chợ tình Khâu Vai – Phiên chợ của những mối duyên xưa' (14/3/2026, đọc 13/10/2026): chợ ở 'xã Khâu Vai, vùng cao nguyên đá Đồng Văn, tỉnh Tuyên Quang (trước đây thuộc huyện Mèo Vạc, tỉnh Hà Giang)'; tổ chức 'vào ngày 27 tháng 3 âm lịch hằng năm'; người dân tìm về 'Vào đêm 26 và ngày 27 tháng Ba âm lịch'; lễ hội có hát giao duyên, khèn Mông, múa dân gian.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/201704/me-cung-da-kiet-tac-cua-thien-nhien-702234/",
+        "quote": "Báo Hà Giang (nay baotuyenquang.com.vn), '“Mê cung đá” – Kiệt tác của thiên nhiên' (4/2017, đọc 13/10/2026): Mê cung đá thuộc xã Khâu Vai trong Công viên địa chất toàn cầu Cao nguyên đá Đồng Văn, cổng vào hình vòm hang; 'Nằm cách xã Khâu Vai khoảng 2km, “Mê cung đá” là nơi hò hẹn của những đôi lứa trong ngày “Chợ tình”'. Nguồn 2017.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-meo-vac-4654320.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Mèo Vạc' (cập nhật 4/2/2025, đọc 13/10/2026): chợ tình Khâu Vai 'được tổ chức vào 27/3 Âm lịch hằng năm', có tuổi đời hơn 100 năm, ở bản Khâu Vai, xã Khâu Vai, 'cách thành phố Hà Giang 180 km'; 'chợ tình Khâu Vai đang bị thương mại hóa, mất dần đi vẻ mộc mạc', nay bày bán nhiều hàng hóa như chợ khác.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/xa-hoi/202608/an-toan-mua-mua-bao-d9a5b38",
+        "quote": "Báo Tuyên Quang, 'An toàn mùa mưa bão' (18/8/2026, đọc 13/10/2026): theo Sở Xây dựng, 'từ tháng 3 đến ngày 31-7-2026' mưa lớn gây sạt lở; QL4C có hơn 5.700 m3 đất đá sạt lở taluy dương tại 67 vị trí; khuyến cáo theo dõi dự báo thời tiết, không dừng đỗ dưới chân taluy có dấu hiệu sạt trượt.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00482"
+  }
+}

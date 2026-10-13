@@ -1,0 +1,157 @@
+{
+  "writer": "writer-w17b",
+  "queued": "2026-10-13T22:49:40.301713+00:00",
+  "topic": {
+    "topic_id": "TM-00484",
+    "url": "/du-lich/ho-seo-my-ty-sa-pa/",
+    "title": "Hồ Séo Mý Tỷ Sa Pa: cách trung tâm 20 km, đường sỏi đá, hồ sạch lại 2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ séo mý tỷ sa pa",
+    "secondary_keywords": [
+      "séo mý tỷ",
+      "đường lên hồ séo mý tỷ",
+      "hồ séo mý tỷ xe máy",
+      "séo mý tỷ cắm trại"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Khách tự lái xe máy ở Sa Pa muốn biết hồ Séo Mý Tỷ cách trung tâm bao xa, đường từ Tả Van lên khó cỡ nào, mất bao lâu và hồ hiện có sạch, có nên cắm trại không.",
+    "information_gain": "Trang chưa có bài nào nhắc Séo Mý Tỷ; /du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/ chỉ nói đường lên Sa Pa, /du-lich/ban-cat-cat-sa-pa/ nói bản Cát Cát. Bài mới cho người muốn đi xa hơn Tả Van: khoảng 20 km từ trung tâm, đường từ Tả Van lên 'khá khó đi, chỉ phù hợp với xe máy hoặc ô tô 2 cầu' (nguồn tỉnh), 'nhiều sỏi đá' (VnExpress 4/2026), khoảng 1 giờ chạy xe; hồ cao 1.677 m, khoảng 60 ha; lồng bè cá đã tháo dỡ và nước trong trở lại (Báo Lào Cai 7/2026); kèm cảnh báo về các điểm sạt lở tỉnh lộ 152 trên đoạn đầu.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/33585",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng bài của Trung tâm Thông tin và Xúc tiến du lịch Lào Cai, 'Séo Mý Tỷ - Chốn bình yên giữa núi rừng Hoàng Liên' (ảnh thư mục 2020, không hiện ngày, đọc 13/10/2026): Séo Mý Tỷ là thôn của xã Tả Van, trong lõi Vườn quốc gia Hoàng Liên, 'cách Sa Pa khoảng 20km'; đi qua thung lũng Mường Hoa, trung tâm Lao Chải, Tả Van hoặc Bãi đá cổ; 'Từ trung tâm Tả Van đi lên Séo Mý Tỷ đường khá khó đi, chỉ phù hợp với xe máy hoặc xe ô tô 2 cầu'; 'Sau khoảng 1 giờ chạy xe'; hồ rộng khoảng 60 ha; quanh hồ khoảng 80 hộ người Mông. Nguồn khoảng 2020.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ho-seo-my-ty-hoi-sinh-don-du-khach-tro-lai-post903814.html",
+        "quote": "Báo Lào Cai, 'Hồ Séo Mý Tỷ hồi sinh, đón du khách trở lại' (14/7/2026, đọc 13/10/2026): sau khi khắc phục ô nhiễm, 'Toàn bộ hệ thống lồng bè nuôi cá trên hồ đã được tháo dỡ' (Chủ tịch UBND xã Tả Van Cao Bá Quý); mặt nước trong xanh, 'không còn mùi tanh hôi'; du khách trở lại tham quan, cắm trại; 'Hồ Séo Mý Tỷ nằm ở độ cao 1.677 m so với mực nước biển, có diện tích khoảng 60 ha, được hình thành từ việc ngăn đập thủy điện Séo Chong Hô'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sa Pa' (cập nhật 16/4/2026, đọc 13/10/2026): 'Để tới được hồ Séo Mý Tỷ, thuộc xã Tả Van, bạn phải băng qua con đường dài 20 km nhiều sỏi đá lớn nhỏ nên khá thử thách với các tay lái yếu'; hồ tạo nên do ngăn đập thủy điện, 'hồ nhân tạo cao nhất Việt Nam'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/du-an-nang-cap-tinh-lo-152-can-khac-phuc-dut-diem-nhung-ton-tai-post385810.html",
+        "quote": "Báo Lào Cai (25/6/2024, đọc 13/10/2026): tỉnh lộ 152 đoạn trung tâm Sa Pa – ngã ba Bản Hồ dài gần 20 km có 5 điểm sạt lở lớn hoặc xuống cấp (Km1+800–Km1+950, Km4+800–Km5, Km7+500–Km7+800 với 'ổ voi, ổ trâu'); đã có tai nạn do sụt hố. Nguồn 2024.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "hồ séo mý tỷ sa pa"
+      }
+    ],
+    "notes": "Hành chính: 'xã Tả Van', tỉnh Lào Cai (Báo Lào Cai 7/2026). Tên đập: 'Séo Chong Hô' (Báo Lào Cai 2026) vs 'Séo Trung Hồ' (bài Cục Du lịch ~2020) – dùng tên theo nguồn 2026. Báo Lào Cai 2026 nhắc khách 'bơi trên hồ' – writer KHÔNG khuyến khích bơi ở hồ thủy điện (không có nguồn về cứu hộ); chỉ nêu là có người bơi. Không có nguồn về vé, phí vào khu vực, chỗ gửi xe; không ghi giá. Không có nguồn 2025–2026 về tình trạng đường Tả Van – Séo Mý Tỷ; mô tả đường dựa trên nguồn ~2020 và VnExpress 4/2026. Khuyên không đi khi mưa lớn, đi xe số/xe có gầm cao hơn nếu đường đá; không đi một mình. Liên quan bài Tả Van (seed cùng lô) – link chéo khi xuất bản.",
+    "outline": [
+      "Séo Mý Tỷ ở đâu: thôn của xã Tả Van, trong Vườn quốc gia Hoàng Liên",
+      "Đường đi: TL152 qua Tả Van rồi đường sỏi đá, mất khoảng 1 giờ",
+      "Đoạn nguy hiểm và khi nào không nên đi",
+      "Hồ năm 2026: lồng bè đã tháo, nước trong trở lại",
+      "Cắm trại, đi bộ rừng: ứng xử với bản Mông quanh hồ",
+      "Chuẩn bị xăng, áo mưa, đồ ấm cho chuyến nửa ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/xe-may-het-xang-giua-duong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00484.json",
+  "draft_template": {
+    "id": "TM-00484",
+    "url": "/du-lich/ho-seo-my-ty-sa-pa/",
+    "title": "Hồ Séo Mý Tỷ Sa Pa: cách trung tâm 20 km, đường sỏi đá, hồ sạch lại 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ séo mý tỷ sa pa, séo mý tỷ, đường lên hồ séo mý tỷ, hồ séo mý tỷ xe máy, séo mý tỷ cắm trại",
+    "excerpt": "",
+    "sections": [
+      [
+        "Séo Mý Tỷ ở đâu: thôn của xã Tả Van, trong Vườn quốc gia Hoàng Liên",
+        "<p></p>"
+      ],
+      [
+        "Đường đi: TL152 qua Tả Van rồi đường sỏi đá, mất khoảng 1 giờ",
+        "<p></p>"
+      ],
+      [
+        "Đoạn nguy hiểm và khi nào không nên đi",
+        "<p></p>"
+      ],
+      [
+        "Hồ năm 2026: lồng bè đã tháo, nước trong trở lại",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại, đi bộ rừng: ứng xử với bản Mông quanh hồ",
+        "<p></p>"
+      ],
+      [
+        "Chuẩn bị xăng, áo mưa, đồ ấm cho chuyến nửa ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/33585",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng bài của Trung tâm Thông tin và Xúc tiến du lịch Lào Cai, 'Séo Mý Tỷ - Chốn bình yên giữa núi rừng Hoàng Liên' (ảnh thư mục 2020, không hiện ngày, đọc 13/10/2026): Séo Mý Tỷ là thôn của xã Tả Van, trong lõi Vườn quốc gia Hoàng Liên, 'cách Sa Pa khoảng 20km'; đi qua thung lũng Mường Hoa, trung tâm Lao Chải, Tả Van hoặc Bãi đá cổ; 'Từ trung tâm Tả Van đi lên Séo Mý Tỷ đường khá khó đi, chỉ phù hợp với xe máy hoặc xe ô tô 2 cầu'; 'Sau khoảng 1 giờ chạy xe'; hồ rộng khoảng 60 ha; quanh hồ khoảng 80 hộ người Mông. Nguồn khoảng 2020.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ho-seo-my-ty-hoi-sinh-don-du-khach-tro-lai-post903814.html",
+        "quote": "Báo Lào Cai, 'Hồ Séo Mý Tỷ hồi sinh, đón du khách trở lại' (14/7/2026, đọc 13/10/2026): sau khi khắc phục ô nhiễm, 'Toàn bộ hệ thống lồng bè nuôi cá trên hồ đã được tháo dỡ' (Chủ tịch UBND xã Tả Van Cao Bá Quý); mặt nước trong xanh, 'không còn mùi tanh hôi'; du khách trở lại tham quan, cắm trại; 'Hồ Séo Mý Tỷ nằm ở độ cao 1.677 m so với mực nước biển, có diện tích khoảng 60 ha, được hình thành từ việc ngăn đập thủy điện Séo Chong Hô'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sa Pa' (cập nhật 16/4/2026, đọc 13/10/2026): 'Để tới được hồ Séo Mý Tỷ, thuộc xã Tả Van, bạn phải băng qua con đường dài 20 km nhiều sỏi đá lớn nhỏ nên khá thử thách với các tay lái yếu'; hồ tạo nên do ngăn đập thủy điện, 'hồ nhân tạo cao nhất Việt Nam'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/du-an-nang-cap-tinh-lo-152-can-khac-phuc-dut-diem-nhung-ton-tai-post385810.html",
+        "quote": "Báo Lào Cai (25/6/2024, đọc 13/10/2026): tỉnh lộ 152 đoạn trung tâm Sa Pa – ngã ba Bản Hồ dài gần 20 km có 5 điểm sạt lở lớn hoặc xuống cấp (Km1+800–Km1+950, Km4+800–Km5, Km7+500–Km7+800 với 'ổ voi, ổ trâu'); đã có tai nạn do sụt hố. Nguồn 2024.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00484"
+  }
+}

@@ -611,3 +611,15 @@
 {"keyword": "nhà thờ cửa bắc", "volume": null, "kd": null, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
 {"keyword": "nhà thờ hàm long", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
 {"keyword": "đền đồng cổ", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "cầu kính rồng mây", "volume": 4400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "chợ tình khâu vai", "volume": 1300, "kd": 0, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "du già hà giang", "volume": 1300, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "làng đá khuổi ky", "volume": 480, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "núi hàm rồng sa pa", "volume": 30, "kd": 17, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "hang lùng khúy quản bạ", "volume": 20, "kd": null, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "làng dệt lanh lùng tám", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "bản tả van sa pa", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "bản tả phìn sa pa", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "phja oắc phja đén cao bằng", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "hồ séo mý tỷ sa pa", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "động pu sam cáp lai châu", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
