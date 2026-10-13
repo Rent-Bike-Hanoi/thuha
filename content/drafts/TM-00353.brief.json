@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w10a",
+  "queued": "2026-10-13T15:30:53.590853+00:00",
+  "topic": {
+    "topic_id": "TM-00353",
+    "url": "/du-lich/ho-thang-hen-nui-mat-than/",
+    "title": "Hồ Thang Hen và núi Mắt Thần Cao Bằng: đường xe máy, mùa nước, mùa cạn",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ thang hen",
+    "secondary_keywords": [
+      "núi mắt thần cao bằng",
+      "núi thủng cao bằng",
+      "hồ thang hen ở đâu",
+      "hồ thang hen mùa nào đẹp",
+      "phja piót"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi Cao Bằng bằng xe máy muốn rẽ vào hồ Thang Hen và núi Mắt Thần cần biết hai điểm ở đâu so với TP Cao Bằng, đi mùa nào để thấy hồ đầy hay thảo nguyên khô, và đoạn đường cuối có hợp xe máy không.",
+    "information_gain": "Bài /du-lich/ha-noi-di-cao-bang-bang-xe-may/ không nhắc hồ Thang Hen hay núi Mắt Thần (chỉ có Bản Giốc, Pác Bó, đèo Mã Phục); /du-lich/dong-nguom-ngao/ là điểm khác ở Trùng Khánh. Bài mới thêm: quần thể 36 hồ tự nhiên thông nhau qua hang ngầm, hồ Thang Hen dài gần 2.000 m, rộng 500 m, sâu 40 m, không cạn mùa khô (Báo Cao Bằng); núi Mắt Thần (Phja Piót) có lỗ thủng đường kính hơn 50 m ở độ cao khoảng 50 m so với mặt hồ, trong thung lũng xóm Bản Danh; mùa cạn tháng 9–10 hồ rút còn mùa mưa thung lũng ngập thành hồ; đoạn cuối vào thung lũng hẹp, chỉ xe máy vào sâu được; các con số khoảng cách 30/39/50 km khác nhau theo nguồn; xã Quốc Toản cũ nay thuộc xã Trà Lĩnh (NQ 1657).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Kham-pha-ho-Thang-Hen-7371.html",
+        "quote": "Báo Cao Bằng, 'Khám phá hồ Thang Hen' (đọc 13/10/2026, bản đọc không ghi rõ ngày đăng): hồ ở xã Quốc Toản (Quảng Hòa), 'cách trung tâm Thành phố khoảng 30 km về phía Đông'; thuộc Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng; 'có 36 hồ tự nhiên', khoảng cách giữa các hồ vài chục đến vài trăm mét, 'đều thông nhau qua tuyến hang động ngầm'; hồ Thang Hen 'dài gần 2.000 m, rộng 500 m, sâu 40 m'; mùa khô nhiều hồ cạn, 'chỉ có hồ Thang Hen không bao giờ cạn'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/37253",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, 'Khám phá núi Mắt Thần – ngọn núi độc nhất vô nhị ở Việt Nam' (24/7/2021, nguồn dulich.laodong.vn, đọc 13/10/2026): núi ở thung lũng xóm Bản Danh, xã Quốc Toản, huyện Trà Lĩnh; tên Tày 'Phja Piót'; là hang thủng tròn 'đường kính hơn 50m, nằm ở độ cao khoảng 50m so với mặt hồ (Thang Hen)'; mùa cạn tháng 9 và 10 hồ Thang Hen 'thường bị rút cạn trong vài giờ đồng hồ'; cách TP Cao Bằng khoảng 50 km; 'đoạn đường cuối dẫn tới núi Mắt Thần khá là hẹp, chỉ có xe máy mới di chuyển được sâu bên trong thung lũng'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Cao Bằng 2026' (cập nhật 5/1/2026, đọc 13/10/2026): 'Cách thành phố khoảng 39 km, núi Mắt Thần nằm trong quần thể hồ Thang Hen của Công viên địa chất Cao Bằng'; tiếng Tày gọi 'Phja Piót', nghĩa là núi bị thủng một lỗ, người địa phương gọi núi Thủng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/goi-y-lich-trinh-3-ngay-2-dem-kham-pha-ve-dep-non-nuoc-cao-bang-dip-29-1752208.html",
+        "quote": "Lao Động, 'Gợi ý lịch trình 3 ngày 2 đêm khám phá vẻ đẹp non nước Cao Bằng dịp 2.9' (19/8/2026, đọc 13/10/2026): núi Mắt Thần 'cách trung tâm thành Cao Bằng khoảng 30km'; có mặt trước và mặt sau; tìm đường đến hồ Thang Hen trên Google Maps sẽ có biển chỉ dẫn vào núi Mắt Thần; 'nên tham quan núi trước rồi tiếp tục đến hồ Thang Hen vì hai địa điểm nằm gần nhau'; Thang Hen 'gồm hơn 36 hồ', hồ Nặm Trá được ví 'tuyệt tình cốc'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/nui-mat-than-diem-den-thu-vi-o-cao-bang-trong-dip-le-30-4-1-5-74876.html",
+        "quote": "Báo Dân tộc và Phát triển, 'Núi Mắt Thần – Điểm đến thú vị ở Cao Bằng trong dịp lễ 30/4 – 1/5' (24/4/2026, đọc 13/10/2026): mùa mưa nước từ khe núi dâng 'phủ kín thung lũng, biến khu vực dưới chân núi thành một hồ nước tự nhiên'; mùa khô nước rút lộ bãi cỏ phẳng, nhiều người cắm trại; khu vực 'chưa bị khai thác du lịch đại trà', ít hàng quán, phải đi bộ qua bãi cỏ, lối mòn; từ Hà Nội 280–300 km (con số không ghi tuyến).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-1657-nq-ubtvqh15-ve-viec-sap-xep-cac-don-vi-hanh-chinh-cap-xa-cua-tinh-cao-bang-nam-2025-119250616223837133.htm",
+        "quote": "Cổng TTĐT Chính phủ, toàn văn Nghị quyết 1657/NQ-UBTVQH15 (đọc 13/10/2026): 'Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Trà Lĩnh, xã Cao Chương và xã Quốc Toản thành xã mới có tên gọi là xã Trà Lĩnh'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 5400,
+        "checked": "2026-10-13",
+        "keyword": "hồ thang hen"
+      }
+    ],
+    "notes": "Khoảng cách từ TP Cao Bằng mâu thuẫn: 30 km (Báo Cao Bằng, Lao Động 8/2026), 39 km (VnExpress), 50 km (Cục Du lịch 2021; VietNamNet 6/10/2026 cũng ghi một cặp du khách chạy 50 km) – ghi cả ba, khuyên đặt bản đồ chế độ xe máy. Chưa xác minh: có thu vé/phí vào thung lũng hay không (trang lữ hành ghi miễn phí – không dùng), quy định cắm trại, đốt lửa. Không bơi ở hồ sâu 40 m (lời khuyên chung). Đường từ TP Cao Bằng qua đèo Mã Phục đã có ở bài tuyến. Ngày đăng bài Báo Cao Bằng không xác định được. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'. Con số 280–300 km từ Hà Nội không phân biệt ô tô/xe máy.",
+    "outline": [
+      "Thang Hen và Mắt Thần nằm ở đâu, cách TP Cao Bằng bao xa",
+      "36 hồ thông nhau và hồ Thang Hen không bao giờ cạn",
+      "Núi Mắt Thần (Phja Piót): lỗ thủng hơn 50 m, mặt trước – mặt sau",
+      "Mùa nước và mùa cạn: tháng nào thấy gì",
+      "Đoạn đường cuối hẹp: đi xe máy, đỗ xe, đi bộ",
+      "Ghép lịch với Bản Giốc và Pác Bó"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/dong-nguom-ngao/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00353.json",
+  "draft_template": {
+    "id": "TM-00353",
+    "url": "/du-lich/ho-thang-hen-nui-mat-than/",
+    "title": "Hồ Thang Hen và núi Mắt Thần Cao Bằng: đường xe máy, mùa nước, mùa cạn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ thang hen, núi mắt thần cao bằng, núi thủng cao bằng, hồ thang hen ở đâu, hồ thang hen mùa nào đẹp, phja piót",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thang Hen và Mắt Thần nằm ở đâu, cách TP Cao Bằng bao xa",
+        "<p></p>"
+      ],
+      [
+        "36 hồ thông nhau và hồ Thang Hen không bao giờ cạn",
+        "<p></p>"
+      ],
+      [
+        "Núi Mắt Thần (Phja Piót): lỗ thủng hơn 50 m, mặt trước – mặt sau",
+        "<p></p>"
+      ],
+      [
+        "Mùa nước và mùa cạn: tháng nào thấy gì",
+        "<p></p>"
+      ],
+      [
+        "Đoạn đường cuối hẹp: đi xe máy, đỗ xe, đi bộ",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Bản Giốc và Pác Bó",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Kham-pha-ho-Thang-Hen-7371.html",
+        "quote": "Báo Cao Bằng, 'Khám phá hồ Thang Hen' (đọc 13/10/2026, bản đọc không ghi rõ ngày đăng): hồ ở xã Quốc Toản (Quảng Hòa), 'cách trung tâm Thành phố khoảng 30 km về phía Đông'; thuộc Công viên địa chất toàn cầu UNESCO Non nước Cao Bằng; 'có 36 hồ tự nhiên', khoảng cách giữa các hồ vài chục đến vài trăm mét, 'đều thông nhau qua tuyến hang động ngầm'; hồ Thang Hen 'dài gần 2.000 m, rộng 500 m, sâu 40 m'; mùa khô nhiều hồ cạn, 'chỉ có hồ Thang Hen không bao giờ cạn'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/37253",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, 'Khám phá núi Mắt Thần – ngọn núi độc nhất vô nhị ở Việt Nam' (24/7/2021, nguồn dulich.laodong.vn, đọc 13/10/2026): núi ở thung lũng xóm Bản Danh, xã Quốc Toản, huyện Trà Lĩnh; tên Tày 'Phja Piót'; là hang thủng tròn 'đường kính hơn 50m, nằm ở độ cao khoảng 50m so với mặt hồ (Thang Hen)'; mùa cạn tháng 9 và 10 hồ Thang Hen 'thường bị rút cạn trong vài giờ đồng hồ'; cách TP Cao Bằng khoảng 50 km; 'đoạn đường cuối dẫn tới núi Mắt Thần khá là hẹp, chỉ có xe máy mới di chuyển được sâu bên trong thung lũng'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Cao Bằng 2026' (cập nhật 5/1/2026, đọc 13/10/2026): 'Cách thành phố khoảng 39 km, núi Mắt Thần nằm trong quần thể hồ Thang Hen của Công viên địa chất Cao Bằng'; tiếng Tày gọi 'Phja Piót', nghĩa là núi bị thủng một lỗ, người địa phương gọi núi Thủng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/goi-y-lich-trinh-3-ngay-2-dem-kham-pha-ve-dep-non-nuoc-cao-bang-dip-29-1752208.html",
+        "quote": "Lao Động, 'Gợi ý lịch trình 3 ngày 2 đêm khám phá vẻ đẹp non nước Cao Bằng dịp 2.9' (19/8/2026, đọc 13/10/2026): núi Mắt Thần 'cách trung tâm thành Cao Bằng khoảng 30km'; có mặt trước và mặt sau; tìm đường đến hồ Thang Hen trên Google Maps sẽ có biển chỉ dẫn vào núi Mắt Thần; 'nên tham quan núi trước rồi tiếp tục đến hồ Thang Hen vì hai địa điểm nằm gần nhau'; Thang Hen 'gồm hơn 36 hồ', hồ Nặm Trá được ví 'tuyệt tình cốc'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/nui-mat-than-diem-den-thu-vi-o-cao-bang-trong-dip-le-30-4-1-5-74876.html",
+        "quote": "Báo Dân tộc và Phát triển, 'Núi Mắt Thần – Điểm đến thú vị ở Cao Bằng trong dịp lễ 30/4 – 1/5' (24/4/2026, đọc 13/10/2026): mùa mưa nước từ khe núi dâng 'phủ kín thung lũng, biến khu vực dưới chân núi thành một hồ nước tự nhiên'; mùa khô nước rút lộ bãi cỏ phẳng, nhiều người cắm trại; khu vực 'chưa bị khai thác du lịch đại trà', ít hàng quán, phải đi bộ qua bãi cỏ, lối mòn; từ Hà Nội 280–300 km (con số không ghi tuyến).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-1657-nq-ubtvqh15-ve-viec-sap-xep-cac-don-vi-hanh-chinh-cap-xa-cua-tinh-cao-bang-nam-2025-119250616223837133.htm",
+        "quote": "Cổng TTĐT Chính phủ, toàn văn Nghị quyết 1657/NQ-UBTVQH15 (đọc 13/10/2026): 'Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Trà Lĩnh, xã Cao Chương và xã Quốc Toản thành xã mới có tên gọi là xã Trà Lĩnh'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00353"
+  }
+}

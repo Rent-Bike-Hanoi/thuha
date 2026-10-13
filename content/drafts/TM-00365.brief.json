@@ -1,0 +1,157 @@
+{
+  "writer": "writer-w10c",
+  "queued": "2026-10-13T15:30:53.868445+00:00",
+  "topic": {
+    "topic_id": "TM-00365",
+    "url": "/du-lich/thap-binh-son/",
+    "title": "Tháp Bình Sơn: tháp đất nung cao 16,5 m ở Tam Sơn, cách đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "tháp bình sơn",
+    "secondary_keywords": [
+      "tháp bình sơn vĩnh phúc",
+      "chùa vĩnh khánh tam sơn",
+      "tháp đất nung bình sơn",
+      "tháp then sông lô"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích di tích muốn đi xe máy xem tháp Bình Sơn cần biết tháp ở đâu sau sáp nhập, có gì đáng xem và nên ghép với điểm nào gần.",
+    "information_gain": "Bài Vĩnh Phúc cũ hiện có là /du-lich/tay-thien-va-thien-vien-truc-lam-di-xe-may/ và /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ (phía Tam Đảo), không nhắc Sông Lô. Bài này thêm: tháp còn 11 tầng và 1 tầng bệ, cao khoảng 16,5 m, hơn 13.000 viên gạch ghép không vữa, tầng dưới rộng 4,45 m còn tầng 11 là 1,55 m; trong chùa Vĩnh Khánh (chùa Then), xã Tam Sơn; QĐ 2367/QĐ-TTg (23/12/2015) xếp hạng quốc gia đặc biệt; QĐ 598/QĐ-TTg quy hoạch, khu bảo vệ 17.200 m², lối tiếp cận từ đường tỉnh 307B.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://dangcongsan.org.vn/phutho/tin-tuc-hoat-dong/thap-binh-son-diem-hen-hanh-huong-ngan-nam-tuoi.html",
+        "quote": "Đảng bộ tỉnh Phú Thọ (dangcongsan.org.vn/phutho, khoảng 14/8/2026), 'Tháp Bình Sơn, điểm hẹn hành hương ngàn năm tuổi': tháp (tháp Then) trong khuôn viên chùa Vĩnh Khánh, xã Tam Sơn; kiệt tác đất nung thời Lý – Trần; ban đầu 13–15 tầng, nay còn 11 tầng và 1 tầng bệ, cao khoảng 16,5 m; hơn 13.000 viên gạch đất nung ghép không chất kết dính; có giếng mực trong khuôn viên; xã đang tôn tạo cảnh quan, nâng cấp giao thông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/thap-dat-nung-binh-son-ngon-thap-dat-co-cao-nhat-mien-bac-post76635.html",
+        "quote": "Giác Ngộ (12/8/2025): theo hồ sơ di tích, tháp hình vuông, tầng thấp nhất rộng 4,45 m, tầng 11 còn 1,55 m; hơn 13.200 viên gạch nung không tráng men, dựng không vôi vữa; chùa Vĩnh Khánh tại thị trấn Tam Sơn, huyện Sông Lô, tỉnh Vĩnh Phúc (cũ), kiến trúc chữ Đinh, đại trùng tu 1976, Tam bảo mới xây 2012; xếp hạng di tích quốc gia 4/1962, di tích quốc gia đặc biệt theo Quyết định 2367/QĐ-TTg ngày 23/12/2015.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotanglichsu.vn/vi/Articles/3091/74781/phat-huy-gia-tri-di-tich-quoc-gia-djac-biet-thap-binh-son-gan-voi-phat-trien-du-lich.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn, 9/7/2024): Quyết định 598/QĐ-TTg phê duyệt quy hoạch bảo quản, tu bổ tháp Bình Sơn; vùng bảo vệ gồm khu tháp phía Nam và khu chùa Vĩnh Khánh phía Bắc; hướng tiếp cận từ đường tỉnh 307B phía Nam qua cổng chính; khu vực khoanh vùng bảo vệ 17.200 m²; xếp hạng quốc gia đặc biệt tại QĐ 2367/QĐ-TTg ngày 23/12/2015.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-binh-son-1294",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Di tích kiến trúc nghệ thuật tháp Bình Sơn' (đọc 13/10/2026): tháp (Tháp Then, tháp chùa Vĩnh Khánh) ở thị trấn Tam Sơn, huyện Sông Lô, tỉnh Vĩnh Phúc (cũ), mang dấu ấn khoảng thế kỷ XIV–XVI; hiện cao 16,5 m, còn 11 tầng và 1 tầng bệ vì chóp đã vỡ; cạnh tầng dưới 4,45 m, tầng 11 là 1,55 m; ba loại gạch (gạch khẩu, gạch hộp trang trí, gạch trang trí tầng cao); Tam bảo cũ đại trùng tu 1976 (131,5 m²), Tam bảo mới xây 2012 (13,85 x 22,85 m); giếng Mực trong khuôn viên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1000,
+        "checked": "2026-10-13",
+        "keyword": "tháp bình sơn"
+      }
+    ],
+    "notes": "Khoảng cách và lộ trình Hà Nội – Tam Sơn chưa có nguồn đọc được – không ghi số km; chỉ hướng dẫn tra bản đồ chế độ xe máy, tránh cao tốc Nội Bài – Lào Cai, tiếp cận qua ĐT 307B. Giác Ngộ có câu mâu thuẫn 'tháng 5-2025' xếp hạng đặc biệt nhưng dẫn QĐ 2367 ngày 23/12/2015 – dùng 2015. Vé, giờ mở cửa: chưa có nguồn (không ghi miễn phí). Tên xã: nguồn 2026 ghi 'xã Tam Sơn, tỉnh Phú Thọ' (sau sáp nhập), chưa đối chiếu nghị quyết. Đi lễ chùa: ăn mặc kín, không trèo/chạm tháp.",
+    "outline": [
+      "Tháp Bình Sơn ở đâu sau sáp nhập tỉnh",
+      "Tháp có gì đặc biệt: 11 tầng, 16,5 m, gạch ghép không vữa",
+      "Chùa Vĩnh Khánh và khu bảo vệ di tích",
+      "Đi xe máy từ Hà Nội: tránh cao tốc, vào từ ĐT 307B",
+      "Ghép với Tây Thiên hoặc Đền Hùng",
+      "Ứng xử khi tham quan tháp cổ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tay-thien-va-thien-vien-truc-lam-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00365.json",
+  "draft_template": {
+    "id": "TM-00365",
+    "url": "/du-lich/thap-binh-son/",
+    "title": "Tháp Bình Sơn: tháp đất nung cao 16,5 m ở Tam Sơn, cách đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "tháp bình sơn, tháp bình sơn vĩnh phúc, chùa vĩnh khánh tam sơn, tháp đất nung bình sơn, tháp then sông lô",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tháp Bình Sơn ở đâu sau sáp nhập tỉnh",
+        "<p></p>"
+      ],
+      [
+        "Tháp có gì đặc biệt: 11 tầng, 16,5 m, gạch ghép không vữa",
+        "<p></p>"
+      ],
+      [
+        "Chùa Vĩnh Khánh và khu bảo vệ di tích",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: tránh cao tốc, vào từ ĐT 307B",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Tây Thiên hoặc Đền Hùng",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi tham quan tháp cổ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://dangcongsan.org.vn/phutho/tin-tuc-hoat-dong/thap-binh-son-diem-hen-hanh-huong-ngan-nam-tuoi.html",
+        "quote": "Đảng bộ tỉnh Phú Thọ (dangcongsan.org.vn/phutho, khoảng 14/8/2026), 'Tháp Bình Sơn, điểm hẹn hành hương ngàn năm tuổi': tháp (tháp Then) trong khuôn viên chùa Vĩnh Khánh, xã Tam Sơn; kiệt tác đất nung thời Lý – Trần; ban đầu 13–15 tầng, nay còn 11 tầng và 1 tầng bệ, cao khoảng 16,5 m; hơn 13.000 viên gạch đất nung ghép không chất kết dính; có giếng mực trong khuôn viên; xã đang tôn tạo cảnh quan, nâng cấp giao thông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/thap-dat-nung-binh-son-ngon-thap-dat-co-cao-nhat-mien-bac-post76635.html",
+        "quote": "Giác Ngộ (12/8/2025): theo hồ sơ di tích, tháp hình vuông, tầng thấp nhất rộng 4,45 m, tầng 11 còn 1,55 m; hơn 13.200 viên gạch nung không tráng men, dựng không vôi vữa; chùa Vĩnh Khánh tại thị trấn Tam Sơn, huyện Sông Lô, tỉnh Vĩnh Phúc (cũ), kiến trúc chữ Đinh, đại trùng tu 1976, Tam bảo mới xây 2012; xếp hạng di tích quốc gia 4/1962, di tích quốc gia đặc biệt theo Quyết định 2367/QĐ-TTg ngày 23/12/2015.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotanglichsu.vn/vi/Articles/3091/74781/phat-huy-gia-tri-di-tich-quoc-gia-djac-biet-thap-binh-son-gan-voi-phat-trien-du-lich.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn, 9/7/2024): Quyết định 598/QĐ-TTg phê duyệt quy hoạch bảo quản, tu bổ tháp Bình Sơn; vùng bảo vệ gồm khu tháp phía Nam và khu chùa Vĩnh Khánh phía Bắc; hướng tiếp cận từ đường tỉnh 307B phía Nam qua cổng chính; khu vực khoanh vùng bảo vệ 17.200 m²; xếp hạng quốc gia đặc biệt tại QĐ 2367/QĐ-TTg ngày 23/12/2015.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-thap-binh-son-1294",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Di tích kiến trúc nghệ thuật tháp Bình Sơn' (đọc 13/10/2026): tháp (Tháp Then, tháp chùa Vĩnh Khánh) ở thị trấn Tam Sơn, huyện Sông Lô, tỉnh Vĩnh Phúc (cũ), mang dấu ấn khoảng thế kỷ XIV–XVI; hiện cao 16,5 m, còn 11 tầng và 1 tầng bệ vì chóp đã vỡ; cạnh tầng dưới 4,45 m, tầng 11 là 1,55 m; ba loại gạch (gạch khẩu, gạch hộp trang trí, gạch trang trí tầng cao); Tam bảo cũ đại trùng tu 1976 (131,5 m²), Tam bảo mới xây 2012 (13,85 x 22,85 m); giếng Mực trong khuôn viên.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00365"
+  }
+}

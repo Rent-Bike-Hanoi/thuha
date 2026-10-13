@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w10b",
+  "queued": "2026-10-13T15:30:53.727206+00:00",
+  "topic": {
+    "topic_id": "TM-00355",
+    "url": "/du-lich/bien-tra-co-mong-cai/",
+    "title": "Biển Trà Cổ Móng Cái: đi xe máy quốc lộ 18, đình Trà Cổ, sau bão 7/2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "biển trà cổ",
+    "secondary_keywords": [
+      "biển trà cổ móng cái",
+      "đình trà cổ",
+      "lễ hội đình trà cổ 2026",
+      "mũi sa vĩ",
+      "hà nội đi trà cổ xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn chạy xe máy ra biển Trà Cổ ở Móng Cái cần biết đường nào cho xe máy (vì đoạn Hạ Long – Móng Cái có cao tốc), biển đang ra sao sau bão số 1 tháng 7/2026, và lễ hội đình Trà Cổ diễn ra khi nào.",
+    "information_gain": "Kho bài chưa có bài nào về Trà Cổ; Móng Cái chỉ xuất hiện trong một bảng tra cứu ở /du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/, còn /du-lich/dao-quan-lan/ và /du-lich/dao-co-to-xe-may/ dừng ở cảng Vân Đồn. Bài mới thêm: tình trạng khu du lịch sau bão số 1 (rạng sáng 5/7/2026, gió giật cấp 12, rừng dương bị quật đổ, sập kè); lễ hội đình Trà Cổ 2026 khai mạc 14/7 (mùng 1/6 âm lịch) đến hết 16/7, đình dựng năm 1461, lễ hội là di sản phi vật thể quốc gia (2019), đình là di tích quốc gia đặc biệt (2023); hướng dẫn đường của cổng thông tin phường: từ Hạ Long lên Móng Cái theo quốc lộ 18 khoảng 180 km, đoạn Cửa Ông – Móng Cái hẹp, uốn lượn; từ Móng Cái khoảng 12 km ra biển, xe buýt tuyến 07; mũi Sa Vĩ, bãi Đá Đen.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.24h.com.vn/an-choi/tan-hoang-khu-du-lich-tra-co-sau-bao-c76a1776225.html",
+        "quote": "24h (dẫn ghi nhận của PV Tiền Phong), 'Tan hoang khu du lịch Trà Cổ sau bão' (7/7/2026, đọc 13/10/2026): 'Rạng sáng 5/7, bão số 1 quần thảo nhiều giờ với sức gió giật cấp 12' tại Khu du lịch quốc gia Trà Cổ, phường Móng Cái 1; rừng dương bị quật gãy hàng loạt, 'cây đổ làm sập bờ kè, nhà dân'; bãi biển tan hoang.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/khai-hoi-dinh-tra-co-di-san-hon-565-nam-noi-dia-dau-to-quoc-76691.html",
+        "quote": "Báo Dân tộc và Phát triển, 'Khai hội đình Trà Cổ, di sản hơn 565 năm nơi địa đầu Tổ quốc' (14/7/2026, đọc 13/10/2026): 'Ngày 14/7, tức mùng 1/6 Âm lịch, phường Móng Cái 1 (Quảng Ninh) khai mạc Lễ hội đình Trà Cổ năm 2026'; đình 'khởi dựng từ năm 1461'; lễ hội vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2019, đình xếp hạng di tích quốc gia đặc biệt năm 2023; nghi lễ rước kiệu nghênh thần trên biển, thi 'ông Voi'; 'Lễ hội dự kiến diễn ra đến hết ngày 16/7/2026'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://mongcai.gov.vn/vi-vn/tin/kinh-nghiem-du-lich-tra-co---mong-cai-p86129-c37597-n476294",
+        "quote": "Cổng TTĐT phường Móng Cái 1, 'Kinh nghiệm du lịch Trà Cổ – Móng Cái' (bài 6/9/2016, đọc 13/10/2026): khu du lịch Trà Cổ 'cách trung tâm TP Hạ Long khoảng gần 200 km'; từ Hạ Long 'lên Móng Cái theo quốc lộ 18 khoảng 180 km (cung đường từ Cửa Ông đến Móng Cái nhỏ hẹp, uốn lượn vòng quanh nên bạn cần chú ý)'; từ Móng Cái đi khoảng 12 km đến biển; xe buýt tuyến 07 Km15 – nội thị Móng Cái – Trà Cổ; gợi ý mũi Sa Vĩ (cực đông bắc) và bãi Đá Đen.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1900,
+        "checked": "2026-10-13",
+        "keyword": "biển trà cổ"
+      }
+    ],
+    "notes": "Chưa xác minh: tình trạng rừng dương và bãi tắm sau 10/2026 (chỉ có tin 7/7/2026) – writer phải ghi ngày và khuyên kiểm tra trước; chiều dài bãi 'gần 17 km' và 'cách Hà Nội khoảng 300 km' chỉ có ở trang lữ hành – không đưa; mô tả đường 2016 có thể đã khác (quốc lộ 18 nâng cấp, có cao tốc Vân Đồn – Móng Cái cho ô tô) – ghi rõ là mô tả năm 2016. Không viết về thủ tục sang Đông Hưng (Trung Quốc) vì không có nguồn đã đọc. Quảng Ninh là chặng dài: Hà Nội – Hạ Long theo bài tuyến, rồi quốc lộ 18; nên tính ít nhất 2–3 ngày. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'. Cao tốc Hạ Long – Vân Đồn – Móng Cái: xe máy không vào.",
+    "outline": [
+      "Trà Cổ ở đâu: phường Móng Cái 1, cực Đông Bắc",
+      "Đường xe máy: Hạ Long – Cẩm Phả – Móng Cái theo quốc lộ 18, không vào cao tốc",
+      "Biển Trà Cổ sau bão số 1 (7/2026): điều cần hỏi trước khi đi",
+      "Đình Trà Cổ và lễ hội đầu tháng 6 âm lịch",
+      "Mũi Sa Vĩ, bãi Đá Đen và đi lại trong Móng Cái",
+      "Lịch trình gợi ý 3 ngày và thời gian chạy xe mỗi ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/dao-quan-lan/",
+      "/du-lich/dao-co-to-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00355.json",
+  "draft_template": {
+    "id": "TM-00355",
+    "url": "/du-lich/bien-tra-co-mong-cai/",
+    "title": "Biển Trà Cổ Móng Cái: đi xe máy quốc lộ 18, đình Trà Cổ, sau bão 7/2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "biển trà cổ, biển trà cổ móng cái, đình trà cổ, lễ hội đình trà cổ 2026, mũi sa vĩ, hà nội đi trà cổ xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Trà Cổ ở đâu: phường Móng Cái 1, cực Đông Bắc",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: Hạ Long – Cẩm Phả – Móng Cái theo quốc lộ 18, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Biển Trà Cổ sau bão số 1 (7/2026): điều cần hỏi trước khi đi",
+        "<p></p>"
+      ],
+      [
+        "Đình Trà Cổ và lễ hội đầu tháng 6 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Mũi Sa Vĩ, bãi Đá Đen và đi lại trong Móng Cái",
+        "<p></p>"
+      ],
+      [
+        "Lịch trình gợi ý 3 ngày và thời gian chạy xe mỗi ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.24h.com.vn/an-choi/tan-hoang-khu-du-lich-tra-co-sau-bao-c76a1776225.html",
+        "quote": "24h (dẫn ghi nhận của PV Tiền Phong), 'Tan hoang khu du lịch Trà Cổ sau bão' (7/7/2026, đọc 13/10/2026): 'Rạng sáng 5/7, bão số 1 quần thảo nhiều giờ với sức gió giật cấp 12' tại Khu du lịch quốc gia Trà Cổ, phường Móng Cái 1; rừng dương bị quật gãy hàng loạt, 'cây đổ làm sập bờ kè, nhà dân'; bãi biển tan hoang.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/khai-hoi-dinh-tra-co-di-san-hon-565-nam-noi-dia-dau-to-quoc-76691.html",
+        "quote": "Báo Dân tộc và Phát triển, 'Khai hội đình Trà Cổ, di sản hơn 565 năm nơi địa đầu Tổ quốc' (14/7/2026, đọc 13/10/2026): 'Ngày 14/7, tức mùng 1/6 Âm lịch, phường Móng Cái 1 (Quảng Ninh) khai mạc Lễ hội đình Trà Cổ năm 2026'; đình 'khởi dựng từ năm 1461'; lễ hội vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2019, đình xếp hạng di tích quốc gia đặc biệt năm 2023; nghi lễ rước kiệu nghênh thần trên biển, thi 'ông Voi'; 'Lễ hội dự kiến diễn ra đến hết ngày 16/7/2026'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://mongcai.gov.vn/vi-vn/tin/kinh-nghiem-du-lich-tra-co---mong-cai-p86129-c37597-n476294",
+        "quote": "Cổng TTĐT phường Móng Cái 1, 'Kinh nghiệm du lịch Trà Cổ – Móng Cái' (bài 6/9/2016, đọc 13/10/2026): khu du lịch Trà Cổ 'cách trung tâm TP Hạ Long khoảng gần 200 km'; từ Hạ Long 'lên Móng Cái theo quốc lộ 18 khoảng 180 km (cung đường từ Cửa Ông đến Móng Cái nhỏ hẹp, uốn lượn vòng quanh nên bạn cần chú ý)'; từ Móng Cái đi khoảng 12 km đến biển; xe buýt tuyến 07 Km15 – nội thị Móng Cái – Trà Cổ; gợi ý mũi Sa Vĩ (cực đông bắc) và bãi Đá Đen.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00355"
+  }
+}

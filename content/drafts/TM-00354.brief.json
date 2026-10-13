@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w10a",
+  "queued": "2026-10-13T15:30:53.590378+00:00",
+  "topic": {
+    "topic_id": "TM-00354",
+    "url": "/du-lich/chua-ba-vang-uong-bi/",
+    "title": "Chùa Ba Vàng Uông Bí: không thu vé, mở cửa từ 5h, đường dốc lên chùa",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa ba vàng",
+    "secondary_keywords": [
+      "chùa ba vàng ở đâu",
+      "chùa ba vàng giờ mở cửa",
+      "đường lên chùa ba vàng",
+      "chùa ba vàng đi xe máy",
+      "chùa ba vàng có mất phí không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội đi lễ chùa Ba Vàng bằng xe máy (thường ghép với Yên Tử, Hạ Long) cần biết chùa ở đâu, mở cửa mấy giờ, có thu vé hay phí gửi xe không và đoạn dốc lên chùa cần lưu ý gì.",
+    "information_gain": "Các bài gần nhất /du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/ và /du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ nói đường quốc lộ 18 tới Uông Bí và lối rẽ đền Trình vào Yên Tử, không nhắc chùa Ba Vàng. Bài mới thêm: địa chỉ tổ 17B, khu Quang Trung 5A, phường Uông Bí, trên lưng chừng núi Thành Đẳng; chùa khai sơn khoảng thế kỷ XIII, trùng tu 1705, phát hiện lại dấu tích năm 1987, xây lại 1988 và 1993, trụ trì hiện nay từ 2007; giờ mở 5h00, giờ đóng thay đổi 19h30–22h00 theo ngày lễ; chùa không thu vé, gửi xe miễn phí; điểm xuống xe khách cách chùa khoảng 5 km; đường lên xuống chùa dốc cao, quanh co, từng xảy ra lật xe khách (30/1/2017), đã có biển hạn chế tốc độ, gờ giảm tốc; khuyến cáo không tắt máy thả trôi dốc – áp dụng cho xe máy: về số thấp, phanh động cơ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://chuabavang.com/chua-ba-vang-o-dau-d6482.html",
+        "quote": "Trang thông tin chùa Ba Vàng (chuabavang.com), 'Quảng Ninh | Kinh nghiệm khám phá từ A đến Z' (đọc 13/10/2026, không ghi ngày đăng trên bản đọc): chùa 'thuộc tổ 17B, khu Quang Trung 5A, phường Uông Bí', trên lưng chừng núi Thành Đẳng; giờ mở cửa '5h00 (thời gian đóng cửa thay đổi theo ngày lễ của chùa: 19h30 - 22h00)'; xe khách Hà Nội – Uông Bí 2,5–3 giờ, 'từ điểm xuống xe khách - chùa khoảng 5km'; 'Mọi dịch vụ tại chùa đều hoàn toàn MIỄN PHÍ (gửi xe, nước uống, đồ ăn,...); nhà chùa KHÔNG thu vé tham quan'; cơm chay 11h–13h tại sân tôn tượng Đức Phật đản sinh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chuabavang.com/gioi-thieu-chua-ba-vang-quang-ninh-d4390.html",
+        "quote": "Trang thông tin chùa Ba Vàng, 'Giới thiệu chùa Ba Vàng' (đọc 13/10/2026): chùa (Bảo Quang tự) 'được khai sơn từ thời nhà Trần (thế kỷ XIII)'; trùng tu lần đầu năm 1705; dấu tích được phát hiện năm 1987; năm 1988 dựng lại, năm 1993 trùng tu bằng gạch ngói, xi măng diện tích 95 m²; năm 2007 Thầy Thích Trúc Thái Minh nhận trụ trì; địa chỉ 'Tổ 17B, khu Quang Trung 5A, phường Uông Bí'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/dam-bao-atgt-duong-len-xuong-chua-ba-vang-post2332622.html",
+        "quote": "Báo Quảng Ninh, 'Đảm bảo ATGT đường lên, xuống chùa Ba Vàng' (21/2/2017, đọc 13/10/2026): đường lên và xuống chùa 'có độ dốc cao', 'khá quanh co', đã nhiều lần lật xe, như xe khách chở 29 người ngày 30/1/2017; TP Uông Bí lắp biển cảnh báo, biển hạn chế tốc độ, gờ giảm tốc; CSGT bố trí chốt tại ngã ba cổng đá, cổng chào, ngã ba đường Thanh Sơn, cổng bến xe chùa; khuyến cáo khi lên và đổ dốc 'tuyệt đối không được tắt máy, thả trôi dốc'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 40500,
+        "checked": "2026-10-13",
+        "keyword": "chùa ba vàng"
+      }
+    ],
+    "notes": "Nguồn chính là trang của chính nhà chùa (gắn type official vì là đơn vị quản lý điểm đến) – writer nên viết 'theo trang của chùa'. Chưa xác minh: nội quy trang phục (trang nội quy không trích được nội dung), giờ đóng cửa ngày thường, quãng đường Hà Nội – Ba Vàng cho xe máy. Bài ATGT là năm 2017, tình trạng đường hiện nay chưa kiểm. Trang chùa ghi 'thành phố Quảng Ninh' – cách gọi đơn vị hành chính mới chưa kiểm chứng ở nguồn nhà nước, viết 'phường Uông Bí, Quảng Ninh'. Giữ giọng trung lập, không bàn các tranh cãi liên quan đến chùa. Trang lữ hành gợi ý đi cao tốc Hà Nội – Hải Phòng – Hạ Long: đó là tuyến ô tô. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'. Xe máy đi quốc lộ 18 như bài Yên Tử.",
+    "outline": [
+      "Chùa Ba Vàng ở đâu: núi Thành Đẳng, phường Uông Bí",
+      "Giờ mở cửa và chuyện không thu vé, không thu phí gửi xe",
+      "Đường xe máy từ Hà Nội: quốc lộ 18, không vào cao tốc",
+      "Đoạn dốc lên chùa: số thấp, không thả trôi, chỗ CSGT hay đứng",
+      "Lịch sử ngắn: từ thế kỷ XIII đến lần xây lại",
+      "Ghép Ba Vàng với Yên Tử trong một ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00354.json",
+  "draft_template": {
+    "id": "TM-00354",
+    "url": "/du-lich/chua-ba-vang-uong-bi/",
+    "title": "Chùa Ba Vàng Uông Bí: không thu vé, mở cửa từ 5h, đường dốc lên chùa",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa ba vàng, chùa ba vàng ở đâu, chùa ba vàng giờ mở cửa, đường lên chùa ba vàng, chùa ba vàng đi xe máy, chùa ba vàng có mất phí không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Ba Vàng ở đâu: núi Thành Đẳng, phường Uông Bí",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa và chuyện không thu vé, không thu phí gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy từ Hà Nội: quốc lộ 18, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Đoạn dốc lên chùa: số thấp, không thả trôi, chỗ CSGT hay đứng",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử ngắn: từ thế kỷ XIII đến lần xây lại",
+        "<p></p>"
+      ],
+      [
+        "Ghép Ba Vàng với Yên Tử trong một ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://chuabavang.com/chua-ba-vang-o-dau-d6482.html",
+        "quote": "Trang thông tin chùa Ba Vàng (chuabavang.com), 'Quảng Ninh | Kinh nghiệm khám phá từ A đến Z' (đọc 13/10/2026, không ghi ngày đăng trên bản đọc): chùa 'thuộc tổ 17B, khu Quang Trung 5A, phường Uông Bí', trên lưng chừng núi Thành Đẳng; giờ mở cửa '5h00 (thời gian đóng cửa thay đổi theo ngày lễ của chùa: 19h30 - 22h00)'; xe khách Hà Nội – Uông Bí 2,5–3 giờ, 'từ điểm xuống xe khách - chùa khoảng 5km'; 'Mọi dịch vụ tại chùa đều hoàn toàn MIỄN PHÍ (gửi xe, nước uống, đồ ăn,...); nhà chùa KHÔNG thu vé tham quan'; cơm chay 11h–13h tại sân tôn tượng Đức Phật đản sinh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://chuabavang.com/gioi-thieu-chua-ba-vang-quang-ninh-d4390.html",
+        "quote": "Trang thông tin chùa Ba Vàng, 'Giới thiệu chùa Ba Vàng' (đọc 13/10/2026): chùa (Bảo Quang tự) 'được khai sơn từ thời nhà Trần (thế kỷ XIII)'; trùng tu lần đầu năm 1705; dấu tích được phát hiện năm 1987; năm 1988 dựng lại, năm 1993 trùng tu bằng gạch ngói, xi măng diện tích 95 m²; năm 2007 Thầy Thích Trúc Thái Minh nhận trụ trì; địa chỉ 'Tổ 17B, khu Quang Trung 5A, phường Uông Bí'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/dam-bao-atgt-duong-len-xuong-chua-ba-vang-post2332622.html",
+        "quote": "Báo Quảng Ninh, 'Đảm bảo ATGT đường lên, xuống chùa Ba Vàng' (21/2/2017, đọc 13/10/2026): đường lên và xuống chùa 'có độ dốc cao', 'khá quanh co', đã nhiều lần lật xe, như xe khách chở 29 người ngày 30/1/2017; TP Uông Bí lắp biển cảnh báo, biển hạn chế tốc độ, gờ giảm tốc; CSGT bố trí chốt tại ngã ba cổng đá, cổng chào, ngã ba đường Thanh Sơn, cổng bến xe chùa; khuyến cáo khi lên và đổ dốc 'tuyệt đối không được tắt máy, thả trôi dốc'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00354"
+  }
+}

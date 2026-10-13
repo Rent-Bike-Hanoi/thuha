@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w10a",
+  "queued": "2026-10-13T15:30:53.591784+00:00",
+  "topic": {
+    "topic_id": "TM-00349",
+    "url": "/du-lich/dong-tam-thanh-lang-son/",
+    "title": "Động Tam Thanh Lạng Sơn: vé 20.000đ, chùa trong động, Nhị Thanh, Tô Thị",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "động tam thanh lạng sơn",
+    "secondary_keywords": [
+      "chùa tam thanh lạng sơn",
+      "động nhị thanh lạng sơn",
+      "núi tô thị",
+      "thành nhà mạc lạng sơn",
+      "lễ hội chùa tam thanh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy từ Hà Nội lên TP Lạng Sơn muốn ghé động – chùa Tam Thanh cần biết quần thể gồm những điểm nào, vé bao nhiêu, mua vé thế nào cho đúng và lễ hội rơi vào ngày nào để tránh hoặc chọn ngày đi.",
+    "information_gain": "Bài gần nhất /du-lich/ha-noi-di-lang-son-bang-xe-may/ chỉ nói quốc lộ 1, Mẫu Sơn và một dòng về phố Kỳ Lừa; toàn bộ kho bài không có dòng nào về Tam Thanh. Bài mới thêm: quần thể Nhị – Tam Thanh – núi Tô Thị – thành Nhà Mạc rộng trên 50 ha, xếp hạng di tích quốc gia 1962; động Tam Thanh lên 30 bậc đá, có hồ Âm Ty, chùa Tam Thanh (chùa Thanh Thiền) trong động; động Nhị Thanh dài hơn 500 m với chùa Tam Giáo dựng 1779; thành Nhà Mạc còn đoạn tường 300 m, dày 1 m; lễ hội chùa Tam Thanh ngày 15 tháng Giêng (khu Nhị Thanh 15–17 tháng Giêng); vé 20.000 đồng/người/lượt in từ hệ thống E-ticket và bài học từ vụ 7 nhân viên bị khởi tố tháng 6/2026 vì tái sử dụng vé, in vé 10.000 đồng thu 20.000 đồng, thu phí gửi ô tô không xuất vé – nên đòi vé in đúng mệnh giá.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://tamthanh.langson.gov.vn/gioi-thieu/di-tich-danh-thang",
+        "quote": "Cổng TTĐT phường Tam Thanh, 'Di tích – Danh thắng phường Tam Thanh, tỉnh Lạng Sơn' (đọc 13/10/2026, trang không ghi ngày đăng): khu di tích danh thắng Nhị – Tam Thanh, núi Tô Thị, thành Nhà Mạc 'với diện tích trên 50 ha', xếp hạng di tích quốc gia năm 1962; động Nhị Thanh là hang tự nhiên 'dài hơn 500m', Ngô Thì Sỹ dựng chùa Tam Giáo trên động tháng 5/1779; lễ hội khu Nhị Thanh – chùa Tam Giáo từ 15 đến 17 tháng Giêng; chùa Tam Thanh (chùa Thanh Thiền) nằm trong động Tam Thanh, lên '30 bậc đá' đục vào sườn núi; lễ hội chùa Tam Thanh ngày 15 tháng Giêng với lễ rước bài vị Ngô Thì Sĩ từ chùa Tam Giáo sang chùa Tam Thanh; thành Nhà Mạc còn '2 đoạn tường thành có chiều rộng 1m và chiều dài 300m', xếp hạng 1962, trùng tu năm 2010.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/rut-ruot-tien-ve-tham-quan-gui-xe-tai-khu-di-tich-tam-thanh-5082083.html",
+        "quote": "VnExpress, ''Rút ruột' tiền vé tham quan, gửi xe tại khu di tích Tam Thanh' (4/6/2026, đọc 13/10/2026): 7 nhân viên điểm di tích Tam Thanh (thuộc Khu di tích thắng cảnh Nhị – Tam Thanh – Thành Nhà Mạc) bị khởi tố tội tham ô; có trường hợp khách mua vé 20.000 đồng nhưng nhân viên chỉ xuất vé 10.000 đồng; vé đã soát không hủy mà bán lại thay vì in vé mới từ hệ thống E-ticket; nhân viên thu phí ô tô tại bãi trước cổng di tích thu tiền nhưng không xuất vé trên E-ticket; tổng cáo buộc gần 200 triệu đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/bat-7-nguoi-quan-ly-dieu-hanh-di-tich-tam-thanh-tham-o-hang-tram-trieu-dong-20260605160223511.htm",
+        "quote": "Tuổi Trẻ, 'Bắt 7 người quản lý, điều hành di tích Tam Thanh tham ô hàng trăm triệu đồng' (5/6/2026, đọc 13/10/2026): 7 người là nhân viên Trung tâm Dịch vụ công ích phường Tam Thanh, phụ trách quản lý, điều hành điểm di tích; khách 'đã mua loại vé 20.000 đồng/người/lượt' nhưng chỉ được in vé 10.000 đồng; vé in từ ứng dụng E-ticket, khách thanh toán tiền mặt hoặc chuyển khoản tại quầy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Lạng Sơn 2023' (13/10/2023, đọc 13/10/2026): động Tam Thanh thuộc quần thể Nhị – Tam Thanh – núi Tô Thị – thành Nhà Mạc; trong động có thạch nhũ hình cây Ngô Đồng, Tiên Ông và 'hồ Âm Ty' nước trong không bao giờ cạn; chùa Tam Thanh (chùa Thanh Thiền) xưa thờ Đạo giáo (Ngọc Thanh, Thượng Thanh, Thái Thanh); thành Nhà Mạc thế kỷ 16 còn đoạn tường dài 300 m, dày 1 m, đứng ở cổng thành nhìn toàn cảnh TP Lạng Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 480,
+        "checked": "2026-10-13",
+        "keyword": "động tam thanh lạng sơn"
+      }
+    ],
+    "notes": "Không có nguồn chính thức cho giờ mở cửa (con số 6h–22h chỉ thấy ở trang lữ hành, không dùng), phí gửi xe máy và vé riêng của động Nhị Thanh – không đưa số. Vé 20.000đ lấy từ hai bài báo về vụ án (6/2026), không phải bảng giá niêm yết; viết 'theo báo chí 6/2026, kiểm tra lại tại quầy'. Không nêu tên bị can quá mức cần thiết; chỉ dùng vụ việc như lời khuyên lấy vé in/biên lai khi chuyển khoản. Trang phường không ghi ngày đăng. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'. Đường từ Hà Nội: xe máy đi quốc lộ 1, không vào cao tốc Bắc Giang – Lạng Sơn (đã có ở bài tuyến). Số 'khoảng 160 km' trong cẩm nang VnExpress là số cho ô tô.",
+    "outline": [
+      "Quần thể Nhị – Tam Thanh – Tô Thị – thành Nhà Mạc gồm những gì",
+      "Động và chùa Tam Thanh: 30 bậc đá, hồ Âm Ty, chùa trong động",
+      "Động Nhị Thanh, chùa Tam Giáo và thành Nhà Mạc: nên xem theo thứ tự nào",
+      "Vé 20.000đ và cách mua vé để không bị thu sai (vụ việc 6/2026)",
+      "Lễ hội rằm tháng Giêng: rước bài vị Ngô Thì Sĩ, nên tránh hay nên đi",
+      "Đi xe máy từ Hà Nội: quốc lộ 1, không vào cao tốc, gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00349.json",
+  "draft_template": {
+    "id": "TM-00349",
+    "url": "/du-lich/dong-tam-thanh-lang-son/",
+    "title": "Động Tam Thanh Lạng Sơn: vé 20.000đ, chùa trong động, Nhị Thanh, Tô Thị",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "động tam thanh lạng sơn, chùa tam thanh lạng sơn, động nhị thanh lạng sơn, núi tô thị, thành nhà mạc lạng sơn, lễ hội chùa tam thanh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Quần thể Nhị – Tam Thanh – Tô Thị – thành Nhà Mạc gồm những gì",
+        "<p></p>"
+      ],
+      [
+        "Động và chùa Tam Thanh: 30 bậc đá, hồ Âm Ty, chùa trong động",
+        "<p></p>"
+      ],
+      [
+        "Động Nhị Thanh, chùa Tam Giáo và thành Nhà Mạc: nên xem theo thứ tự nào",
+        "<p></p>"
+      ],
+      [
+        "Vé 20.000đ và cách mua vé để không bị thu sai (vụ việc 6/2026)",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội rằm tháng Giêng: rước bài vị Ngô Thì Sĩ, nên tránh hay nên đi",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: quốc lộ 1, không vào cao tốc, gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://tamthanh.langson.gov.vn/gioi-thieu/di-tich-danh-thang",
+        "quote": "Cổng TTĐT phường Tam Thanh, 'Di tích – Danh thắng phường Tam Thanh, tỉnh Lạng Sơn' (đọc 13/10/2026, trang không ghi ngày đăng): khu di tích danh thắng Nhị – Tam Thanh, núi Tô Thị, thành Nhà Mạc 'với diện tích trên 50 ha', xếp hạng di tích quốc gia năm 1962; động Nhị Thanh là hang tự nhiên 'dài hơn 500m', Ngô Thì Sỹ dựng chùa Tam Giáo trên động tháng 5/1779; lễ hội khu Nhị Thanh – chùa Tam Giáo từ 15 đến 17 tháng Giêng; chùa Tam Thanh (chùa Thanh Thiền) nằm trong động Tam Thanh, lên '30 bậc đá' đục vào sườn núi; lễ hội chùa Tam Thanh ngày 15 tháng Giêng với lễ rước bài vị Ngô Thì Sĩ từ chùa Tam Giáo sang chùa Tam Thanh; thành Nhà Mạc còn '2 đoạn tường thành có chiều rộng 1m và chiều dài 300m', xếp hạng 1962, trùng tu năm 2010.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/rut-ruot-tien-ve-tham-quan-gui-xe-tai-khu-di-tich-tam-thanh-5082083.html",
+        "quote": "VnExpress, ''Rút ruột' tiền vé tham quan, gửi xe tại khu di tích Tam Thanh' (4/6/2026, đọc 13/10/2026): 7 nhân viên điểm di tích Tam Thanh (thuộc Khu di tích thắng cảnh Nhị – Tam Thanh – Thành Nhà Mạc) bị khởi tố tội tham ô; có trường hợp khách mua vé 20.000 đồng nhưng nhân viên chỉ xuất vé 10.000 đồng; vé đã soát không hủy mà bán lại thay vì in vé mới từ hệ thống E-ticket; nhân viên thu phí ô tô tại bãi trước cổng di tích thu tiền nhưng không xuất vé trên E-ticket; tổng cáo buộc gần 200 triệu đồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/bat-7-nguoi-quan-ly-dieu-hanh-di-tich-tam-thanh-tham-o-hang-tram-trieu-dong-20260605160223511.htm",
+        "quote": "Tuổi Trẻ, 'Bắt 7 người quản lý, điều hành di tích Tam Thanh tham ô hàng trăm triệu đồng' (5/6/2026, đọc 13/10/2026): 7 người là nhân viên Trung tâm Dịch vụ công ích phường Tam Thanh, phụ trách quản lý, điều hành điểm di tích; khách 'đã mua loại vé 20.000 đồng/người/lượt' nhưng chỉ được in vé 10.000 đồng; vé in từ ứng dụng E-ticket, khách thanh toán tiền mặt hoặc chuyển khoản tại quầy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Lạng Sơn 2023' (13/10/2023, đọc 13/10/2026): động Tam Thanh thuộc quần thể Nhị – Tam Thanh – núi Tô Thị – thành Nhà Mạc; trong động có thạch nhũ hình cây Ngô Đồng, Tiên Ông và 'hồ Âm Ty' nước trong không bao giờ cạn; chùa Tam Thanh (chùa Thanh Thiền) xưa thờ Đạo giáo (Ngọc Thanh, Thượng Thanh, Thái Thanh); thành Nhà Mạc thế kỷ 16 còn đoạn tường dài 300 m, dày 1 m, đứng ở cổng thành nhìn toàn cảnh TP Lạng Sơn.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00349"
+  }
+}

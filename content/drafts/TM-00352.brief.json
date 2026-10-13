@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w10a",
+  "queued": "2026-10-13T15:30:53.591508+00:00",
+  "topic": {
+    "topic_id": "TM-00352",
+    "url": "/du-lich/khu-di-tich-pac-bo/",
+    "title": "Khu di tích Pác Bó: miễn phí tham quan từ 4/7/2026, suối Lê Nin, mốc 108",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích pác bó",
+    "secondary_keywords": [
+      "pác bó có mất vé không",
+      "suối lê nin cao bằng",
+      "hang cốc bó",
+      "lễ hội về nguồn pác bó",
+      "xe điện pác bó"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy lên Cao Bằng muốn vào Pác Bó cần biết hiện còn thu vé không, xe điện tính thế nào, nên đi điểm nào trong khoảng 4 tiếng và lễ hội Về nguồn rơi vào ngày nào.",
+    "information_gain": "Bài /du-lich/ha-noi-di-cao-bang-bang-xe-may/ chỉ ghi Pác Bó cách TP Cao Bằng khoảng 50 km và 'vé 25.000đ, xe điện thêm 20.000đ' (VnExpress 1/2026) – con số này đã lỗi thời: từ 4/7/2026 Ban Quản lý các di tích quốc gia đặc biệt Cao Bằng dừng thu phí tham quan Pác Bó và rừng Trần Hưng Đạo. Bài mới thêm: quyết định miễn phí (VOV 3/7/2026), 145.172 lượt khách 6 tháng đầu 2026; lộ trình trong khu (cột mốc số 0 đường Hồ Chí Minh, đi bộ qua thôn Pác Bó, núi Các Mác, suối Lê Nin, hang Cốc Bó, bàn đá, nhà ông Lý Quốc Súng, mốc 108, khu tưởng niệm Kim Đồng); lễ hội Về nguồn khai mạc mùng 1 tháng 2 âm lịch (năm 2026: 18–27/3); địa chỉ hành chính mới xã Trường Hà (gộp Xuân Hòa, Quý Quân, Sóc Hà, Trường Hà) theo NQ 1657/NQ-UBTVQH15; và lưu ý giá xe điện sau 4/7 chưa có công bố chính thức.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/cao-bang-mien-phi-tham-quan-cac-khu-di-tich-quoc-gia-dac-biet-tu-ngay-47-post1312182.vov",
+        "quote": "VOV.VN, 'Cao Bằng miễn phí tham quan các khu di tích quốc gia đặc biệt từ ngày 4/7' (3/7/2026, đọc 13/10/2026): Ban Quản lý các di tích quốc gia đặc biệt tỉnh Cao Bằng 'ban hành thông báo dừng thu phí tham quan tại Khu di tích Quốc gia đặc biệt Pác Bó và Khu di tích Quốc gia đặc biệt rừng Trần Hưng Đạo kể từ ngày 4/7/2026'; khách trong nước và quốc tế không phải nộp phí; 6 tháng đầu 2026 đón khoảng 145.172 lượt khách, trong đó 6.564 lượt khách quốc tế.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://phunuvietnam.vn/cao-bang-mien-phi-tham-quan-pac-bo-trong-le-hoi-ve-nguon-238260302072208213.htm",
+        "quote": "Báo Phụ nữ Việt Nam, 'Cao Bằng miễn phí tham quan Pác Bó trong lễ hội về nguồn' (2/3/2026, đọc 13/10/2026): Lễ hội về nguồn Pác Bó 'được khai mạc hằng năm vào ngày mùng 1 tháng 2 âm lịch' tại khu di tích, xã Trường Hà; nghi thức lấy nước đầu nguồn, rước nước, dâng hương; năm 2026 miễn phí tham quan 'từ ngày 18 đến 27/3/2026 (tức ngày 1 đến 9/2 Bính Ngọ)'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Cao Bằng 2026' (đăng 4/4/2022, cập nhật 5/1/2026, đọc 13/10/2026): từ TP Cao Bằng chạy 50 km về phía Hà Quảng; 'nên dành khoảng 4 tiếng'; qua cổng là cột mốc số 0 đường Hồ Chí Minh, khu tưởng niệm Bác; đi bộ qua thôn Pác Bó tới núi Các Mác, suối Lê Nin, đầu nguồn là hang Cốc Bó; gần đó bàn đá, nhà ông Lý Quốc Súng, cột mốc 108, khu tưởng niệm Kim Đồng; vé 25.000 đồng, xe điện thêm 20.000 đồng (giá trước 4/7/2026).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/goi-y-lich-trinh-3-ngay-2-dem-kham-pha-ve-dep-non-nuoc-cao-bang-dip-29-1752208.html",
+        "quote": "Lao Động, 'Gợi ý lịch trình 3 ngày 2 đêm khám phá vẻ đẹp non nước Cao Bằng dịp 2.9' (19/8/2026, đọc 13/10/2026): suối Lê Nin nước xanh trong; 'Vé tham quan suối và xe điện di chuyển khoảng 50.000 đồng/người'; có thể kết hợp mộ Kim Đồng (con số này mâu thuẫn với thông báo miễn phí từ 4/7, cần kiểm tra).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-1657-nq-ubtvqh15-ve-viec-sap-xep-cac-don-vi-hanh-chinh-cap-xa-cua-tinh-cao-bang-nam-2025-119250616223837133.htm",
+        "quote": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn), toàn văn Nghị quyết 1657/NQ-UBTVQH15 sắp xếp đơn vị hành chính cấp xã tỉnh Cao Bằng 2025 (đọc 13/10/2026): 'Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Xuân Hòa và các xã Quý Quân, Sóc Hà, Trường Hà thành xã mới có tên gọi là xã Trường Hà'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 590,
+        "checked": "2026-10-13",
+        "keyword": "khu di tích pác bó"
+      }
+    ],
+    "notes": "Chưa xác minh: giá xe điện sau 4/7/2026 (VnExpress 1/2026 ghi 20.000đ; Lao Động 8/2026 ghi 'vé + xe điện khoảng 50.000đ' – có thể viết theo giá cũ); giờ mở cửa; phí gửi xe máy. Không đưa số điện thoại của khu di tích/nhà xe. Khoảng cách 50 km từ TP Cao Bằng (VnExpress). Hà Nội – Cao Bằng 280 km là số theo tuyến có cao tốc cho ô tô; xe máy đi quốc lộ 3 (đã có ở bài tuyến, cùng cảnh báo QL3 hư hỏng sau mưa 2026). Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'.",
+    "outline": [
+      "Pác Bó năm 2026: không thu phí tham quan từ 4/7",
+      "Đi từ TP Cao Bằng: 50 km, nên đến lúc nào",
+      "Lộ trình 4 tiếng: mốc số 0, suối Lê Nin, hang Cốc Bó, mốc 108",
+      "Xe điện hay đi bộ: điều cần hỏi tại cổng",
+      "Lễ hội Về nguồn mùng 1 tháng 2 âm lịch",
+      "Ghép Pác Bó với Bản Giốc, Ngườm Ngao trong chuyến xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/dong-nguom-ngao/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00352.json",
+  "draft_template": {
+    "id": "TM-00352",
+    "url": "/du-lich/khu-di-tich-pac-bo/",
+    "title": "Khu di tích Pác Bó: miễn phí tham quan từ 4/7/2026, suối Lê Nin, mốc 108",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích pác bó, pác bó có mất vé không, suối lê nin cao bằng, hang cốc bó, lễ hội về nguồn pác bó, xe điện pác bó",
+    "excerpt": "",
+    "sections": [
+      [
+        "Pác Bó năm 2026: không thu phí tham quan từ 4/7",
+        "<p></p>"
+      ],
+      [
+        "Đi từ TP Cao Bằng: 50 km, nên đến lúc nào",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình 4 tiếng: mốc số 0, suối Lê Nin, hang Cốc Bó, mốc 108",
+        "<p></p>"
+      ],
+      [
+        "Xe điện hay đi bộ: điều cần hỏi tại cổng",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Về nguồn mùng 1 tháng 2 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghép Pác Bó với Bản Giốc, Ngườm Ngao trong chuyến xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/cao-bang-mien-phi-tham-quan-cac-khu-di-tich-quoc-gia-dac-biet-tu-ngay-47-post1312182.vov",
+        "quote": "VOV.VN, 'Cao Bằng miễn phí tham quan các khu di tích quốc gia đặc biệt từ ngày 4/7' (3/7/2026, đọc 13/10/2026): Ban Quản lý các di tích quốc gia đặc biệt tỉnh Cao Bằng 'ban hành thông báo dừng thu phí tham quan tại Khu di tích Quốc gia đặc biệt Pác Bó và Khu di tích Quốc gia đặc biệt rừng Trần Hưng Đạo kể từ ngày 4/7/2026'; khách trong nước và quốc tế không phải nộp phí; 6 tháng đầu 2026 đón khoảng 145.172 lượt khách, trong đó 6.564 lượt khách quốc tế.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://phunuvietnam.vn/cao-bang-mien-phi-tham-quan-pac-bo-trong-le-hoi-ve-nguon-238260302072208213.htm",
+        "quote": "Báo Phụ nữ Việt Nam, 'Cao Bằng miễn phí tham quan Pác Bó trong lễ hội về nguồn' (2/3/2026, đọc 13/10/2026): Lễ hội về nguồn Pác Bó 'được khai mạc hằng năm vào ngày mùng 1 tháng 2 âm lịch' tại khu di tích, xã Trường Hà; nghi thức lấy nước đầu nguồn, rước nước, dâng hương; năm 2026 miễn phí tham quan 'từ ngày 18 đến 27/3/2026 (tức ngày 1 đến 9/2 Bính Ngọ)'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Cao Bằng 2026' (đăng 4/4/2022, cập nhật 5/1/2026, đọc 13/10/2026): từ TP Cao Bằng chạy 50 km về phía Hà Quảng; 'nên dành khoảng 4 tiếng'; qua cổng là cột mốc số 0 đường Hồ Chí Minh, khu tưởng niệm Bác; đi bộ qua thôn Pác Bó tới núi Các Mác, suối Lê Nin, đầu nguồn là hang Cốc Bó; gần đó bàn đá, nhà ông Lý Quốc Súng, cột mốc 108, khu tưởng niệm Kim Đồng; vé 25.000 đồng, xe điện thêm 20.000 đồng (giá trước 4/7/2026).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/goi-y-lich-trinh-3-ngay-2-dem-kham-pha-ve-dep-non-nuoc-cao-bang-dip-29-1752208.html",
+        "quote": "Lao Động, 'Gợi ý lịch trình 3 ngày 2 đêm khám phá vẻ đẹp non nước Cao Bằng dịp 2.9' (19/8/2026, đọc 13/10/2026): suối Lê Nin nước xanh trong; 'Vé tham quan suối và xe điện di chuyển khoảng 50.000 đồng/người'; có thể kết hợp mộ Kim Đồng (con số này mâu thuẫn với thông báo miễn phí từ 4/7, cần kiểm tra).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/nghi-quyet-1657-nq-ubtvqh15-ve-viec-sap-xep-cac-don-vi-hanh-chinh-cap-xa-cua-tinh-cao-bang-nam-2025-119250616223837133.htm",
+        "quote": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn), toàn văn Nghị quyết 1657/NQ-UBTVQH15 sắp xếp đơn vị hành chính cấp xã tỉnh Cao Bằng 2025 (đọc 13/10/2026): 'Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của thị trấn Xuân Hòa và các xã Quý Quân, Sóc Hà, Trường Hà thành xã mới có tên gọi là xã Trường Hà'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00352"
+  }
+}

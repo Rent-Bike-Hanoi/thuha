@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w10a",
+  "queued": "2026-10-13T15:30:53.591213+00:00",
+  "topic": {
+    "topic_id": "TM-00351",
+    "url": "/du-lich/ai-chi-lang-lang-son/",
+    "title": "Ải Chi Lăng Lạng Sơn: dừng chân trên quốc lộ 1, nhà trưng bày, Mã Yên",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ải chi lăng",
+    "secondary_keywords": [
+      "khu di tích chi lăng",
+      "nhà trưng bày chiến thắng chi lăng",
+      "núi mã yên chi lăng",
+      "quỷ môn quan lạng sơn",
+      "chiến thắng chi lăng 1427"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy theo quốc lộ 1 lên Lạng Sơn muốn dừng ở ải Chi Lăng cần biết ải ở đoạn nào, xem gì (nhà trưng bày, núi Mã Yên, Quỷ Môn Quan), và vì sao đây là mốc lịch sử.",
+    "information_gain": "Bài /du-lich/ha-noi-di-lang-son-bang-xe-may/ chỉ có một câu: quốc lộ 1 đi qua khu vực Chi Lăng, nơi cao tốc giao quốc lộ 1 tại Mai Sao, dừng chụp ảnh ở chỗ rộng. Bài mới thêm: ải dài 20 km nối Chi Lăng – Hữu Lũng, thung lũng hẹp giữa dãy Bảo Đài và Cai Kinh; kiểm kê 2018 ghi 46 điểm di tích, địa danh; trận 1427 phá đạo viện binh do Liễu Thăng chỉ huy (hơn 10 vạn quân theo trang Công viên địa chất); các dấu tích núi Mã Yên, Quỷ Môn Quan, Lũy Ải, Thành Kho; Nhà trưng bày Chiến thắng Chi Lăng có thuyết minh viên, đón hơn 1.300 lượt từ giữa 9 đến đầu 10/2026; mốc kỷ niệm 10/10 (599 năm vào 10/10/2026, 600 năm vào 2027).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://langsongeopark.com.vn/di-san-van-hoa/khu-di-tich-lich-su-chi-lang-bao-tang-lich-su-ngoai-troi-lon-nhat-the-gioi--n27.html",
+        "quote": "Công viên địa chất Lạng Sơn (langsongeopark.com.vn), 'Khu di tích lịch sử Chi Lăng “Bảo tàng lịch sử ngoài trời lớn nhất thế giới”' (7/7/2022, đọc 13/10/2026): kiểm kê 2018 ghi nhận '46 điểm di tích, địa điểm, địa danh'; khu di tích là 'một thung lũng hẹp ở giữa hai dãy núi Bảo Đài và Cai Kinh'; chiến thắng 1427 'tiêu diệt đạo quân tiếp viện hơn 10 vạn quân Minh do Liễu Thăng chỉ huy'; có Hang Gió, núi Bàn Cờ, núi Phượng Hoàng, núi Mặt Quỷ, núi Mã Yên; tỉnh có Đề án phát triển Khu di tích Chi Lăng đến 2025, tầm nhìn 2035.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/chi-lang-ke-chuyen-tu-lich-su-5106151.html",
+        "quote": "Báo Lạng Sơn, 'Chi Lăng phát huy giá trị lịch sử' (9/10/2026, đọc 13/10/2026): dấu tích 'núi Mã Yên, Quỷ Môn Quan, Lũy Ải, Thành Kho' vẫn hiện hữu; Nhà Trưng bày Chiến thắng Chi Lăng có thuyết minh viên của Trung tâm Dịch vụ công ích xã Chi Lăng; 'từ giữa tháng 9/2026 đến nay, nhà trưng bày đã đón hơn 1.300 lượt khách'; xã tổ chức chương trình kỷ niệm 'Chiến thắng Chi Lăng - Bản hùng ca vang mãi' đúng ngày 10/10.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/ky-niem-599-nam-chien-thang-chi-lang-5106289.html",
+        "quote": "Báo Lạng Sơn, 'Kỷ niệm 599 năm Chiến thắng Chi Lăng' (10/10/2026, đọc 13/10/2026): sáng 10/10 xã Chi Lăng tổ chức kỷ niệm 599 năm Chiến thắng Chi Lăng '(10/10/1427 - 10/10/2026)'; Chi Lăng là nơi 'phá tan cánh quân cứu viện thành Đông Quan do Liễu Thăng cầm đầu'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Lạng Sơn 2023' (13/10/2023, đọc 13/10/2026): 'Ải Chi Lăng có chiều dài 20 km, nối liền Chi Lăng và Hữu Lũng'; phía tây được bao bọc bởi núi Kai Kinh, hai đầu ải là núi đá cao.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 4400,
+        "checked": "2026-10-13",
+        "keyword": "ải chi lăng"
+      }
+    ],
+    "notes": "Chưa xác minh: vị trí cụ thể (km) của Nhà trưng bày và các điểm trên quốc lộ 1, giờ mở cửa, có thu vé hay không – không đưa số. Tên núi viết 'Cai Kinh' (Công viên địa chất) và 'Kai Kinh' (VnExpress) – thống nhất một cách và ghi chú. Số quân Minh 'hơn 10 vạn' chỉ từ trang Công viên địa chất. Dừng xe trên quốc lộ 1: chỉ dừng ở chỗ rộng, ngoài phần đường xe chạy (đã khuyên ở bài tuyến). Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'. Đoạn Chi Lăng có cả cao tốc Bắc Giang – Lạng Sơn chạy song song; xe máy chỉ đi quốc lộ 1.",
+    "outline": [
+      "Ải Chi Lăng ở đâu trên đường Hà Nội – Lạng Sơn",
+      "Trận Chi Lăng 1427 tóm tắt cho người đi đường",
+      "Xem gì: Nhà trưng bày, núi Mã Yên, Quỷ Môn Quan, Lũy Ải",
+      "Dừng xe an toàn trên quốc lộ 1, không lên cao tốc",
+      "Ngày 10/10 và mốc 600 năm (2027)",
+      "Ghép với Tam Thanh, Kỳ Lừa trong chuyến 2 ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00351.json",
+  "draft_template": {
+    "id": "TM-00351",
+    "url": "/du-lich/ai-chi-lang-lang-son/",
+    "title": "Ải Chi Lăng Lạng Sơn: dừng chân trên quốc lộ 1, nhà trưng bày, Mã Yên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ải chi lăng, khu di tích chi lăng, nhà trưng bày chiến thắng chi lăng, núi mã yên chi lăng, quỷ môn quan lạng sơn, chiến thắng chi lăng 1427",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ải Chi Lăng ở đâu trên đường Hà Nội – Lạng Sơn",
+        "<p></p>"
+      ],
+      [
+        "Trận Chi Lăng 1427 tóm tắt cho người đi đường",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: Nhà trưng bày, núi Mã Yên, Quỷ Môn Quan, Lũy Ải",
+        "<p></p>"
+      ],
+      [
+        "Dừng xe an toàn trên quốc lộ 1, không lên cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Ngày 10/10 và mốc 600 năm (2027)",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Tam Thanh, Kỳ Lừa trong chuyến 2 ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://langsongeopark.com.vn/di-san-van-hoa/khu-di-tich-lich-su-chi-lang-bao-tang-lich-su-ngoai-troi-lon-nhat-the-gioi--n27.html",
+        "quote": "Công viên địa chất Lạng Sơn (langsongeopark.com.vn), 'Khu di tích lịch sử Chi Lăng “Bảo tàng lịch sử ngoài trời lớn nhất thế giới”' (7/7/2022, đọc 13/10/2026): kiểm kê 2018 ghi nhận '46 điểm di tích, địa điểm, địa danh'; khu di tích là 'một thung lũng hẹp ở giữa hai dãy núi Bảo Đài và Cai Kinh'; chiến thắng 1427 'tiêu diệt đạo quân tiếp viện hơn 10 vạn quân Minh do Liễu Thăng chỉ huy'; có Hang Gió, núi Bàn Cờ, núi Phượng Hoàng, núi Mặt Quỷ, núi Mã Yên; tỉnh có Đề án phát triển Khu di tích Chi Lăng đến 2025, tầm nhìn 2035.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/chi-lang-ke-chuyen-tu-lich-su-5106151.html",
+        "quote": "Báo Lạng Sơn, 'Chi Lăng phát huy giá trị lịch sử' (9/10/2026, đọc 13/10/2026): dấu tích 'núi Mã Yên, Quỷ Môn Quan, Lũy Ải, Thành Kho' vẫn hiện hữu; Nhà Trưng bày Chiến thắng Chi Lăng có thuyết minh viên của Trung tâm Dịch vụ công ích xã Chi Lăng; 'từ giữa tháng 9/2026 đến nay, nhà trưng bày đã đón hơn 1.300 lượt khách'; xã tổ chức chương trình kỷ niệm 'Chiến thắng Chi Lăng - Bản hùng ca vang mãi' đúng ngày 10/10.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/ky-niem-599-nam-chien-thang-chi-lang-5106289.html",
+        "quote": "Báo Lạng Sơn, 'Kỷ niệm 599 năm Chiến thắng Chi Lăng' (10/10/2026, đọc 13/10/2026): sáng 10/10 xã Chi Lăng tổ chức kỷ niệm 599 năm Chiến thắng Chi Lăng '(10/10/1427 - 10/10/2026)'; Chi Lăng là nơi 'phá tan cánh quân cứu viện thành Đông Quan do Liễu Thăng cầm đầu'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Lạng Sơn 2023' (13/10/2023, đọc 13/10/2026): 'Ải Chi Lăng có chiều dài 20 km, nối liền Chi Lăng và Hữu Lũng'; phía tây được bao bọc bởi núi Kai Kinh, hai đầu ải là núi đá cao.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00351"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-w10d",
+  "queued": "2026-10-13T15:30:54.008386+00:00",
+  "topic": {
+    "topic_id": "TM-00367",
+    "url": "/du-lich/suoi-khoang-my-lam/",
+    "title": "Suối khoáng Mỹ Lâm Tuyên Quang: nước 67°C, bảng giá tắm, đường đi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "suối khoáng mỹ lâm tuyên quang",
+    "secondary_keywords": [
+      "suối khoáng mỹ lâm",
+      "tắm khoáng mỹ lâm giá",
+      "mỹ lâm cách tuyên quang bao xa",
+      "tắm bùn mỹ lâm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Tuyên Quang muốn ngâm khoáng nóng cần biết Mỹ Lâm cách TP bao xa, nước nóng thế nào, các loại tắm và mức giá để chọn.",
+    "information_gain": "Các bài Tuyên Quang hiện có (/du-lich/tan-trao-di-xe-may-tu-ha-noi/, /du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/) không nhắc Mỹ Lâm. Bài này thêm từ cổng du lịch tỉnh: cách TP 12 km phía tây nam, nước sunphua 67°C tại lỗ khoan LK13, trữ lượng khai thác được 5.680 m³/ngày, bảng giá các loại tắm (khoáng thường 80.000 đ, bồn sục, ngoài trời, tắm bùn 250.000 đ, phòng nghỉ có bồn khoáng), cùng mốc phát hiện năm 1923 và mạch sâu hơn 150 m (VnExpress).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichtuyenquang.vn/thong-tin-du-lich/khu-du-lich-suoi-khoang-my-lam-36.html",
+        "quote": "Du lịch Tuyên Quang (dulichtuyenquang.vn), 'Khu du lịch suối khoáng Mỹ Lâm' (đọc 13/10/2026): ở phường Mỹ Lâm, cách TP Tuyên Quang 12 km về phía tây nam; trong 5 km² trữ lượng khai thác được 5.680 m³/ngày, hiện khai thác khoảng 245 m³/ngày; nước khoáng sunphua, nhiệt độ tại lỗ khoan LK13 là 67°C; dịch vụ tắm bồn, bồn xoáy, bể sục, tắm bùn, trải nghiệm văn hóa người Cao Lan; một cơ sở ghi giá tắm, ngâm khoáng 120.000–300.000 đ/người, phòng 500.000–700.000 đ (đã gồm tắm).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichtuyenquang.vn/dia-danh-tham-quan/khu-du-lich-suoi-khoang-my-lam/bang-gia-du-lich-tai-khu-du-lich-suoi-khoang-my-lam-87.html",
+        "quote": "Du lịch Tuyên Quang, 'Bảng giá du lịch tại Khu du lịch suối khoáng Mỹ Lâm' (không ghi ngày): tắm khoáng thường 80.000 đ/người; sục đơn 120.000 đ/phòng; sục đôi 250.000 đ/phòng; tắm khoáng ngoài trời không sục 120.000 đ, có sục 150.000 đ; tắm trong cung có sục 180.000 đ; tắm bùn khoáng 250.000 đ/người; tẩm quất 70.000 đ/lượt; phòng ngủ có bồn khoáng 350.000–600.000 đ/phòng (giá theo từng cơ sở).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-tuyen-quang-4691524.html",
+        "quote": "VnExpress, Cẩm nang du lịch Tuyên Quang (29/12/2023): suối khoáng Mỹ Lâm cách TP Tuyên Quang 12 km về phía tây nam, là khu du lịch trọng điểm của tỉnh; nước được các nhà địa chất Pháp phát hiện năm 1923, ổn định ở 67 độ C, lấy từ mạch ngầm sâu hơn 150 m; TP Tuyên Quang cách Hà Nội khoảng 125 km (ô tô, cao tốc, khoảng 2 tiếng).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 880,
+        "checked": "2026-10-13",
+        "keyword": "suối khoáng mỹ lâm tuyên quang"
+      }
+    ],
+    "notes": "Bảng giá trên cổng tỉnh không ghi ngày cập nhật và là giá của nhiều cơ sở khác nhau – viết 'mức tham khảo, hỏi giá tại quầy'. Các trang review ghi giá khác (200.000–250.000 đ) – không dùng. Nước 67°C là nhiệt độ tại lỗ khoan, không phải nước bể – cảnh báo không tự ngâm nguồn nóng; người có bệnh tim mạch, huyết áp hỏi bác sĩ (general advice, không trích công dụng chữa bệnh như khẳng định y khoa). Giờ mở cửa: chưa có nguồn. 125 km/2 tiếng là ô tô qua cao tốc; xe máy đi QL2 – quãng đường chưa có nguồn hôm nay. Xe máy không được vào cao tốc (Hà Nội – Thái Nguyên, Nội Bài – Lào Cai CT05, Tuyên Quang – Phú Thọ, Hòa Lạc – Hòa Bình); mức phạt theo NĐ 168/2024 lấy từ bài nội bộ, KHÔNG fetch lại hôm nay. ",
+    "outline": [
+      "Mỹ Lâm ở đâu, cách TP Tuyên Quang 12 km",
+      "Nước khoáng Mỹ Lâm: sunphua, 67°C tại lỗ khoan",
+      "Các loại tắm và mức giá tham khảo",
+      "Ngâm khoáng an toàn: thời gian, ai nên hỏi bác sĩ",
+      "Ghép với thành nhà Mạc, Tân Trào",
+      "Đi xe máy từ Hà Nội theo QL2"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00367.json",
+  "draft_template": {
+    "id": "TM-00367",
+    "url": "/du-lich/suoi-khoang-my-lam/",
+    "title": "Suối khoáng Mỹ Lâm Tuyên Quang: nước 67°C, bảng giá tắm, đường đi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "suối khoáng mỹ lâm tuyên quang, suối khoáng mỹ lâm, tắm khoáng mỹ lâm giá, mỹ lâm cách tuyên quang bao xa, tắm bùn mỹ lâm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Mỹ Lâm ở đâu, cách TP Tuyên Quang 12 km",
+        "<p></p>"
+      ],
+      [
+        "Nước khoáng Mỹ Lâm: sunphua, 67°C tại lỗ khoan",
+        "<p></p>"
+      ],
+      [
+        "Các loại tắm và mức giá tham khảo",
+        "<p></p>"
+      ],
+      [
+        "Ngâm khoáng an toàn: thời gian, ai nên hỏi bác sĩ",
+        "<p></p>"
+      ],
+      [
+        "Ghép với thành nhà Mạc, Tân Trào",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội theo QL2",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichtuyenquang.vn/thong-tin-du-lich/khu-du-lich-suoi-khoang-my-lam-36.html",
+        "quote": "Du lịch Tuyên Quang (dulichtuyenquang.vn), 'Khu du lịch suối khoáng Mỹ Lâm' (đọc 13/10/2026): ở phường Mỹ Lâm, cách TP Tuyên Quang 12 km về phía tây nam; trong 5 km² trữ lượng khai thác được 5.680 m³/ngày, hiện khai thác khoảng 245 m³/ngày; nước khoáng sunphua, nhiệt độ tại lỗ khoan LK13 là 67°C; dịch vụ tắm bồn, bồn xoáy, bể sục, tắm bùn, trải nghiệm văn hóa người Cao Lan; một cơ sở ghi giá tắm, ngâm khoáng 120.000–300.000 đ/người, phòng 500.000–700.000 đ (đã gồm tắm).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichtuyenquang.vn/dia-danh-tham-quan/khu-du-lich-suoi-khoang-my-lam/bang-gia-du-lich-tai-khu-du-lich-suoi-khoang-my-lam-87.html",
+        "quote": "Du lịch Tuyên Quang, 'Bảng giá du lịch tại Khu du lịch suối khoáng Mỹ Lâm' (không ghi ngày): tắm khoáng thường 80.000 đ/người; sục đơn 120.000 đ/phòng; sục đôi 250.000 đ/phòng; tắm khoáng ngoài trời không sục 120.000 đ, có sục 150.000 đ; tắm trong cung có sục 180.000 đ; tắm bùn khoáng 250.000 đ/người; tẩm quất 70.000 đ/lượt; phòng ngủ có bồn khoáng 350.000–600.000 đ/phòng (giá theo từng cơ sở).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-tuyen-quang-4691524.html",
+        "quote": "VnExpress, Cẩm nang du lịch Tuyên Quang (29/12/2023): suối khoáng Mỹ Lâm cách TP Tuyên Quang 12 km về phía tây nam, là khu du lịch trọng điểm của tỉnh; nước được các nhà địa chất Pháp phát hiện năm 1923, ổn định ở 67 độ C, lấy từ mạch ngầm sâu hơn 150 m; TP Tuyên Quang cách Hà Nội khoảng 125 km (ô tô, cao tốc, khoảng 2 tiếng).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00367"
+  }
+}

@@ -484,3 +484,26 @@
 {"keyword": "chùa cổ lễ", "volume": 5400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
 {"keyword": "văn miếu mao điền", "volume": 8100, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
 {"keyword": "đền trần thương", "volume": 8100, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "động tam thanh lạng sơn", "volume": 480, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "phố đi bộ kỳ lừa", "volume": 260, "kd": 0, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "ải chi lăng", "volume": 4400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "khu di tích pác bó", "volume": 590, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "hồ thang hen", "volume": 5400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "chùa ba vàng", "volume": 40500, "kd": 7, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "biển trà cổ", "volume": 1900, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "đền cửa ông", "volume": 4400, "kd": 0, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "thành nhà hồ", "volume": 22200, "kd": 3, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "khu di tích lam kinh", "volume": 1300, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "hàm rồng thanh hóa", "volume": 590, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "suối cá thần cẩm lương", "volume": 18100, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "atk định hóa thái nguyên", "volume": 390, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "bảo tàng văn hóa các dân tộc việt nam thái nguyên", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "khoáng nóng kim bôi", "volume": 260, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "đầm ao châu phú thọ", "volume": 110, "kd": null, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "tháp bình sơn", "volume": 1000, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "thành nhà mạc tuyên quang", "volume": 320, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "suối khoáng mỹ lâm tuyên quang", "volume": 880, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "chợ phiên bắc hà", "volume": 4400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "nhà tù sơn la", "volume": 1900, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "hang phượng hoàng suối mỏ gà", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "suối khoáng nóng trạm tấu", "volume": 390, "kd": 0, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}

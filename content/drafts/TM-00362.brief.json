@@ -1,0 +1,167 @@
+{
+  "writer": "writer-w10c",
+  "queued": "2026-10-13T15:30:53.869832+00:00",
+  "topic": {
+    "topic_id": "TM-00362",
+    "url": "/du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/",
+    "title": "Bảo tàng Văn hóa các dân tộc Việt Nam ở Thái Nguyên: giờ mở, vé, xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng văn hóa các dân tộc việt nam thái nguyên",
+    "secondary_keywords": [
+      "bảo tàng dân tộc thái nguyên",
+      "bảo tàng văn hóa các dân tộc giờ mở cửa",
+      "giá vé bảo tàng văn hóa các dân tộc",
+      "bảo tàng thái nguyên nghỉ thứ mấy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Thái Nguyên trong ngày muốn ghép một điểm trong trung tâm TP cần biết bảo tàng mở giờ nào (theo mùa), nghỉ thứ Hai, vé bao nhiêu và có gì xem trong 1–2 giờ.",
+    "information_gain": "Site đã có /du-lich/ha-noi-di-thai-nguyen-xe-may/ (Tân Cương, Núi Cốc) và bảo tàng ở Hà Nội như /du-lich/bao-tang-dan-toc-hoc-viet-nam/, nhưng chưa có bảo tàng quốc gia đặt tại TP Thái Nguyên. Bài này thêm giờ mở theo hai mùa (15/4–15/10 và 15/10–15/4) và nghỉ thứ Hai từ trang chính thức của bảo tàng, mức phí 30.000/20.000/10.000 đồng theo Thông tư 161/2016/TT-BTC, diện tích gần 40.000 m², 5 phòng trưng bày trong nhà và 6 vùng văn hóa ngoài trời, phân biệt rõ với Bảo tàng Dân tộc học ở Cầu Giấy.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "http://mcve.org.vn/2017/03/29/thong-tin-tham-quan/",
+        "quote": "Bảo tàng Văn hóa các dân tộc Việt Nam, trang 'Thông tin thăm quan' (mcve.org.vn, đăng 2017): mở cửa các ngày trong tuần, cả thứ 7, chủ nhật và ngày lễ, tết (thứ 2 nghỉ). Mùa hè (15/4–15/10): sáng 7h–11h30, chiều 13h30–17h. Mùa đông (15/10–15/4): sáng 7h30–11h30, chiều 13h–17h.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://mcve.org.vn/2017/03/30/ve-vao-cua-2/",
+        "quote": "Bảo tàng Văn hóa các dân tộc Việt Nam, 'Vé vào cửa' (mcve.org.vn, 2017): theo Thông tư 161/2016/TT-BTC (hiệu lực 01/01/2017), người lớn 30.000 đồng/người/lượt; sinh viên, học sinh đại học, cao đẳng, trung cấp, dạy nghề 20.000 đồng; trẻ em, học sinh phổ thông 10.000 đồng. Địa chỉ: Số 1 đường Đội Cấn, TP Thái Nguyên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://mythainguyen.vn/vi/detailnews?t=bao-tang-van-hoa-cac-dan-toc-viet-nam-tang-cuong-cac-hoat-dong-trai-nghiem-kich-cau-thu-hut-du-khach&id=news_1525",
+        "quote": "Cổng du lịch Thái Nguyên (mythainguyen.vn, 23/05/2025): bảo tàng ở trung tâm TP, bên sông Cầu, gần Quảng trường Võ Nguyên Giáp; diện tích gần 40.000 m², không gian văn hóa ASEAN và 5 phòng trưng bày; ngoài trời có 6 vùng văn hóa; chương trình kích cầu tháng 4–9/2025: giảm 10–20% cho đoàn từ 100 khách, trẻ em dưới 6 tuổi miễn phí, người cao tuổi, đối tượng chính sách giảm 30–50%; đầu năm đến hết 4/2025 đón trên 16.000 lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-thai-nguyen-4613586.html",
+        "quote": "VnExpress, Cẩm nang du lịch Thái Nguyên (15/7/2023): bảo tàng trưng bày, bảo quản trên 40.000 tài liệu, hiện vật gốc về 54 dân tộc; phòng trưng bày chia theo nhóm ngôn ngữ Việt – Mường, Tày – Thái, Mông – Dao, Môn – Khơ me, Nam Đảo, Hán; ngoài trời 6 vùng văn hóa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "bảo tàng văn hóa các dân tộc việt nam thái nguyên"
+      }
+    ],
+    "notes": "Trang giờ mở và vé là bài năm 2017 trên site bảo tàng; chưa xác minh Thông tư 161/2016 còn hiệu lực hay mức phí đã đổi – viết 'theo thông báo của bảo tàng (2017)' và khuyên gọi trước. Chương trình giảm giá 4–9/2025 đã hết hạn – chỉ nêu như ví dụ. Không ghi số điện thoại bảo tàng. Tên phường mới (Phan Đình Phùng?) chưa xác minh – chỉ ghi 'số 1 đường Đội Cấn'. Không có thông tin gửi xe máy. Xe máy không được vào cao tốc (Hà Nội – Thái Nguyên, Nội Bài – Lào Cai CT05, Tuyên Quang – Phú Thọ, Hòa Lạc – Hòa Bình); mức phạt theo NĐ 168/2024 lấy từ bài nội bộ, KHÔNG fetch lại hôm nay. ",
+    "outline": [
+      "Bảo tàng ở đâu trong TP Thái Nguyên, khác gì Bảo tàng Dân tộc học Hà Nội",
+      "Giờ mở cửa mùa hè, mùa đông, nghỉ thứ Hai",
+      "Giá vé theo đối tượng",
+      "Xem gì: 5 phòng trưng bày và 6 vùng văn hóa ngoài trời",
+      "Ghép với Tân Cương hoặc Núi Cốc trong một ngày xe máy",
+      "Đi từ Hà Nội: QL3, không vào cao tốc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.548
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00362.json",
+  "draft_template": {
+    "id": "TM-00362",
+    "url": "/du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/",
+    "title": "Bảo tàng Văn hóa các dân tộc Việt Nam ở Thái Nguyên: giờ mở, vé, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng văn hóa các dân tộc việt nam thái nguyên, bảo tàng dân tộc thái nguyên, bảo tàng văn hóa các dân tộc giờ mở cửa, giá vé bảo tàng văn hóa các dân tộc, bảo tàng thái nguyên nghỉ thứ mấy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng ở đâu trong TP Thái Nguyên, khác gì Bảo tàng Dân tộc học Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa mùa hè, mùa đông, nghỉ thứ Hai",
+        "<p></p>"
+      ],
+      [
+        "Giá vé theo đối tượng",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: 5 phòng trưng bày và 6 vùng văn hóa ngoài trời",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Tân Cương hoặc Núi Cốc trong một ngày xe máy",
+        "<p></p>"
+      ],
+      [
+        "Đi từ Hà Nội: QL3, không vào cao tốc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "http://mcve.org.vn/2017/03/29/thong-tin-tham-quan/",
+        "quote": "Bảo tàng Văn hóa các dân tộc Việt Nam, trang 'Thông tin thăm quan' (mcve.org.vn, đăng 2017): mở cửa các ngày trong tuần, cả thứ 7, chủ nhật và ngày lễ, tết (thứ 2 nghỉ). Mùa hè (15/4–15/10): sáng 7h–11h30, chiều 13h30–17h. Mùa đông (15/10–15/4): sáng 7h30–11h30, chiều 13h–17h.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://mcve.org.vn/2017/03/30/ve-vao-cua-2/",
+        "quote": "Bảo tàng Văn hóa các dân tộc Việt Nam, 'Vé vào cửa' (mcve.org.vn, 2017): theo Thông tư 161/2016/TT-BTC (hiệu lực 01/01/2017), người lớn 30.000 đồng/người/lượt; sinh viên, học sinh đại học, cao đẳng, trung cấp, dạy nghề 20.000 đồng; trẻ em, học sinh phổ thông 10.000 đồng. Địa chỉ: Số 1 đường Đội Cấn, TP Thái Nguyên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://mythainguyen.vn/vi/detailnews?t=bao-tang-van-hoa-cac-dan-toc-viet-nam-tang-cuong-cac-hoat-dong-trai-nghiem-kich-cau-thu-hut-du-khach&id=news_1525",
+        "quote": "Cổng du lịch Thái Nguyên (mythainguyen.vn, 23/05/2025): bảo tàng ở trung tâm TP, bên sông Cầu, gần Quảng trường Võ Nguyên Giáp; diện tích gần 40.000 m², không gian văn hóa ASEAN và 5 phòng trưng bày; ngoài trời có 6 vùng văn hóa; chương trình kích cầu tháng 4–9/2025: giảm 10–20% cho đoàn từ 100 khách, trẻ em dưới 6 tuổi miễn phí, người cao tuổi, đối tượng chính sách giảm 30–50%; đầu năm đến hết 4/2025 đón trên 16.000 lượt khách.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-thai-nguyen-4613586.html",
+        "quote": "VnExpress, Cẩm nang du lịch Thái Nguyên (15/7/2023): bảo tàng trưng bày, bảo quản trên 40.000 tài liệu, hiện vật gốc về 54 dân tộc; phòng trưng bày chia theo nhóm ngôn ngữ Việt – Mường, Tày – Thái, Mông – Dao, Môn – Khơ me, Nam Đảo, Hán; ngoài trời 6 vùng văn hóa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00362"
+  }
+}

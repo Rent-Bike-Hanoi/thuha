@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w10b",
+  "queued": "2026-10-13T15:30:53.727476+00:00",
+  "topic": {
+    "topic_id": "TM-00358",
+    "url": "/du-lich/khu-di-tich-lam-kinh/",
+    "title": "Khu di tích Lam Kinh: vé 30.000đ, lễ hội tháng 8 âm lịch, xe điện, gửi xe",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích lam kinh",
+    "secondary_keywords": [
+      "lam kinh thanh hóa",
+      "lễ hội lam kinh 2026",
+      "giá vé lam kinh",
+      "chính điện lam kinh",
+      "vĩnh lăng lê thái tổ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy về Thanh Hóa muốn thăm Lam Kinh cần biết vé, phí gửi xe máy, giá xe điện trong khu, các điểm chính (Chính điện, Vĩnh Lăng) và lịch lễ hội, ngày miễn vé.",
+    "information_gain": "Kho bài chưa có bài về Lam Kinh hay khu vực Thọ Xuân; /du-lich/ha-noi-di-sam-son-bang-xe-may/ chỉ về biển. Bài mới thêm bảng phí chính thức của Ban quản lý (theo NQ 289/2022/NQ-HĐND): người lớn 30.000 đồng, trẻ 8–15 tuổi và người cao tuổi 15.000 đồng, trẻ dưới 8 tuổi miễn; gửi xe máy 3.000 đồng/lượt; thuyết minh 100.000 đồng/đoàn; xe điện tuyến 1 180.000 đồng/chuyến, tuyến 2 230.000 đồng/chuyến; lễ hội tháng 8 âm lịch – năm 2026 diễn ra 1–3/10, khai hội 2/10 (22/8 âm lịch), miễn vé 30/9–3/10/2026; miễn vé Tết 16–19/2/2026; Chính điện phục dựng hoàn thành 2/4/2022 (hơn 2.000 m³ gỗ lim), sân Rồng hơn 3.612 m², Vĩnh Lăng và bia Vĩnh Lăng do Nguyễn Trãi soạn; nay thuộc xã Lam Sơn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://ditichlamkinh.vn/m/vi/thong-bao-phi-tham-quan-va-dich-vu-BDBA9DE62FD257E1951358913FBE7BB0.html",
+        "quote": "Ban Quản lý Di tích lịch sử Lam Kinh, 'Thông báo phí tham quan và dịch vụ' (Thọ Xuân, 1/6/2023, theo NQ 289/2022/NQ-HĐND; đọc 13/10/2026): phí tham quan 'Người lớn: 30.000đ/ lượt người'; trẻ em 8–15 tuổi, người cao tuổi 15.000đ; miễn cho trẻ dưới 8 tuổi; trông giữ 'Xe mô tô, xe gắn máy, xe đạp điện: 3.000đ/ lượt'; thuyết minh 100.000đ/đoàn; xe điện tuyến 1 (Cầu Bạch, Ngọ môn, Sân rồng, Chính điện, Thái miếu, lăng vua Lê Thái Tổ, lăng Lê Hiến Tông, bia Vĩnh Lăng, đền thờ vua Lê Thái Tổ) 180.000đ/chuyến, tuyến 2 thêm Hồ Tây, núi Dầu, lăng mộ phía đông 230.000đ/chuyến; trang ghi đơn vị quản lý hiện nay là Ban Quản lý Di sản Thành nhà Hồ và các di tích trọng điểm tỉnh Thanh Hóa, xã Lam Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://suckhoecongdongonline.vn/lam-kinh-mien-phi-ve-tham-quan-dip-le-hoi-nam-2026",
+        "quote": "Sức khỏe Cộng đồng, 'Thanh Hoá: Lam Kinh miễn phí vé tham quan dịp Lễ hội năm 2026' (15/9/2026, đọc 13/10/2026): miễn vé 'từ ngày 30/9/2026 đến hết ngày 3/10/2026, tức từ ngày 20/8 đến hết ngày 23/8 năm Bính Ngọ' tại di tích quốc gia đặc biệt Lam Kinh, xã Lam Sơn; lễ hội 'tổ chức hằng năm vào tháng 8 âm lịch'; Chính điện phục dựng 'sử dụng hơn 2.000m³ gỗ lim', 'hoàn thành vào ngày 2/4/2022'; sân Rồng 'hơn 3.612m²'; Vĩnh Lăng an táng vua Lê Thái Tổ, bia Vĩnh Lăng do Nguyễn Trãi soạn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://suckhoedoisong.vn/le-hoi-lam-kinh-diem-hen-van-hoa-va-di-san-tam-linh-xu-thanh-169261002133542119.htm",
+        "quote": "Sức khỏe & Đời sống, 'Lễ hội Lam Kinh, điểm hẹn văn hóa và di sản tâm linh xứ Thanh' (2/10/2026, đọc 13/10/2026): 'Sáng 2/10 (tức 22/8), tại Khu di tích Quốc gia đặc biệt Lam Kinh, xã Lam Sơn' tổ chức Lễ hội Lam Kinh 2026, kỷ niệm 608 năm khởi nghĩa Lam Sơn; rước kiệu vua Lê Thái Tổ và Trung Túc vương Lê Lai về sân rồng Chính điện; Hội thề Lũng Nhai năm 1416.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/lam-kinh-ron-rang-don-du-khach-ve-tray-hoi.htm",
+        "quote": "VnEconomy, 'Lam Kinh rộn ràng đón du khách về trẩy hội' (2/10/2026, đọc 13/10/2026): 'Lễ hội Lam Kinh năm 2026 diễn ra từ ngày 1 - 3/10'; từ 30/9 đến hết 3/10 du khách được miễn 100% vé vào cửa; chương trình nghệ thuật 'Hào khí Lam Sơn – Bản hùng ca đất Việt' với hơn 200 nghệ sĩ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/tet/mien-phi-ve-tham-quan-nhieu-diem-du-lich-noi-tieng-o-thanh-hoa-20260204153113342.htm",
+        "quote": "Dân trí (4/2/2026, đọc 13/10/2026): Khu di tích quốc gia đặc biệt Lam Kinh miễn vé 'từ ngày 16/2 đến 19/2 (tức từ ngày 29 tháng Chạp đến hết mùng 3 Tết Bính Ngọ)'; lễ khai hội tại đền thờ vua Lê Thái Tổ mùng 4 tháng Giêng, lễ hội mùa xuân đền thờ Trung Túc Vương Lê Lai mùng 8 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1300,
+        "checked": "2026-10-13",
+        "keyword": "khu di tích lam kinh"
+      }
+    ],
+    "notes": "Bảng phí là thông báo ngày 1/6/2023 – kiểm tra lại tại quầy; chưa thấy văn bản thay thế. Chưa xác minh: giờ mở cửa, quãng đường Hà Nội – Lam Kinh và tuyến xe máy (không có nguồn đã đọc) – không đưa km. VnEconomy viết 'Hội thề Lũng Nhai năm 1436' là lỗi; dùng 1416 theo SKĐS và SKCĐ. Giá xe điện tính theo chuyến (cả xe), không phải theo người – viết rõ. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'.",
+    "outline": [
+      "Lam Kinh là gì: quê hương Lê Lợi, sơn lăng nhà Hậu Lê",
+      "Bảng phí: vé, gửi xe máy 3.000đ, thuyết minh, xe điện theo chuyến",
+      "Xem gì: Ngọ môn, sân Rồng, Chính điện, Vĩnh Lăng",
+      "Lễ hội tháng 8 âm lịch và các ngày miễn vé năm 2026",
+      "Đi xe máy: không vào cao tốc, nên ghép với TP Thanh Hóa",
+      "Gợi ý vòng Thanh Hóa: Hàm Rồng – Thành nhà Hồ – Lam Kinh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/co-do-hoa-lu/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00358.json",
+  "draft_template": {
+    "id": "TM-00358",
+    "url": "/du-lich/khu-di-tich-lam-kinh/",
+    "title": "Khu di tích Lam Kinh: vé 30.000đ, lễ hội tháng 8 âm lịch, xe điện, gửi xe",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích lam kinh, lam kinh thanh hóa, lễ hội lam kinh 2026, giá vé lam kinh, chính điện lam kinh, vĩnh lăng lê thái tổ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Lam Kinh là gì: quê hương Lê Lợi, sơn lăng nhà Hậu Lê",
+        "<p></p>"
+      ],
+      [
+        "Bảng phí: vé, gửi xe máy 3.000đ, thuyết minh, xe điện theo chuyến",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: Ngọ môn, sân Rồng, Chính điện, Vĩnh Lăng",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng 8 âm lịch và các ngày miễn vé năm 2026",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: không vào cao tốc, nên ghép với TP Thanh Hóa",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý vòng Thanh Hóa: Hàm Rồng – Thành nhà Hồ – Lam Kinh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://ditichlamkinh.vn/m/vi/thong-bao-phi-tham-quan-va-dich-vu-BDBA9DE62FD257E1951358913FBE7BB0.html",
+        "quote": "Ban Quản lý Di tích lịch sử Lam Kinh, 'Thông báo phí tham quan và dịch vụ' (Thọ Xuân, 1/6/2023, theo NQ 289/2022/NQ-HĐND; đọc 13/10/2026): phí tham quan 'Người lớn: 30.000đ/ lượt người'; trẻ em 8–15 tuổi, người cao tuổi 15.000đ; miễn cho trẻ dưới 8 tuổi; trông giữ 'Xe mô tô, xe gắn máy, xe đạp điện: 3.000đ/ lượt'; thuyết minh 100.000đ/đoàn; xe điện tuyến 1 (Cầu Bạch, Ngọ môn, Sân rồng, Chính điện, Thái miếu, lăng vua Lê Thái Tổ, lăng Lê Hiến Tông, bia Vĩnh Lăng, đền thờ vua Lê Thái Tổ) 180.000đ/chuyến, tuyến 2 thêm Hồ Tây, núi Dầu, lăng mộ phía đông 230.000đ/chuyến; trang ghi đơn vị quản lý hiện nay là Ban Quản lý Di sản Thành nhà Hồ và các di tích trọng điểm tỉnh Thanh Hóa, xã Lam Sơn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://suckhoecongdongonline.vn/lam-kinh-mien-phi-ve-tham-quan-dip-le-hoi-nam-2026",
+        "quote": "Sức khỏe Cộng đồng, 'Thanh Hoá: Lam Kinh miễn phí vé tham quan dịp Lễ hội năm 2026' (15/9/2026, đọc 13/10/2026): miễn vé 'từ ngày 30/9/2026 đến hết ngày 3/10/2026, tức từ ngày 20/8 đến hết ngày 23/8 năm Bính Ngọ' tại di tích quốc gia đặc biệt Lam Kinh, xã Lam Sơn; lễ hội 'tổ chức hằng năm vào tháng 8 âm lịch'; Chính điện phục dựng 'sử dụng hơn 2.000m³ gỗ lim', 'hoàn thành vào ngày 2/4/2022'; sân Rồng 'hơn 3.612m²'; Vĩnh Lăng an táng vua Lê Thái Tổ, bia Vĩnh Lăng do Nguyễn Trãi soạn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://suckhoedoisong.vn/le-hoi-lam-kinh-diem-hen-van-hoa-va-di-san-tam-linh-xu-thanh-169261002133542119.htm",
+        "quote": "Sức khỏe & Đời sống, 'Lễ hội Lam Kinh, điểm hẹn văn hóa và di sản tâm linh xứ Thanh' (2/10/2026, đọc 13/10/2026): 'Sáng 2/10 (tức 22/8), tại Khu di tích Quốc gia đặc biệt Lam Kinh, xã Lam Sơn' tổ chức Lễ hội Lam Kinh 2026, kỷ niệm 608 năm khởi nghĩa Lam Sơn; rước kiệu vua Lê Thái Tổ và Trung Túc vương Lê Lai về sân rồng Chính điện; Hội thề Lũng Nhai năm 1416.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/lam-kinh-ron-rang-don-du-khach-ve-tray-hoi.htm",
+        "quote": "VnEconomy, 'Lam Kinh rộn ràng đón du khách về trẩy hội' (2/10/2026, đọc 13/10/2026): 'Lễ hội Lam Kinh năm 2026 diễn ra từ ngày 1 - 3/10'; từ 30/9 đến hết 3/10 du khách được miễn 100% vé vào cửa; chương trình nghệ thuật 'Hào khí Lam Sơn – Bản hùng ca đất Việt' với hơn 200 nghệ sĩ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/tet/mien-phi-ve-tham-quan-nhieu-diem-du-lich-noi-tieng-o-thanh-hoa-20260204153113342.htm",
+        "quote": "Dân trí (4/2/2026, đọc 13/10/2026): Khu di tích quốc gia đặc biệt Lam Kinh miễn vé 'từ ngày 16/2 đến 19/2 (tức từ ngày 29 tháng Chạp đến hết mùng 3 Tết Bính Ngọ)'; lễ khai hội tại đền thờ vua Lê Thái Tổ mùng 4 tháng Giêng, lễ hội mùa xuân đền thờ Trung Túc Vương Lê Lai mùng 8 tháng Giêng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00358"
+  }
+}

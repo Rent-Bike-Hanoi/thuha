@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w10b",
+  "queued": "2026-10-13T15:30:53.726667+00:00",
+  "topic": {
+    "topic_id": "TM-00360",
+    "url": "/du-lich/suoi-ca-than-cam-luong/",
+    "title": "Suối cá thần Cẩm Lương: hội Khai hạ tháng Giêng, đi theo đường Hồ Chí Minh",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "suối cá thần cẩm lương",
+    "secondary_keywords": [
+      "suối cá cẩm lương ở đâu",
+      "lễ hội khai hạ suối cá thần",
+      "suối cá thần thanh hóa",
+      "suối cá cẩm thủy",
+      "pù luông suối cá thần"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Pù Luông hoặc Thanh Hóa bằng xe máy muốn ghé suối cá thần Cẩm Lương cần biết suối nay thuộc xã nào, cách TP Thanh Hóa bao xa, đi đường nào và lễ hội Khai hạ diễn ra ngày nào.",
+    "information_gain": "Bài /du-lich/pu-luong-di-xe-may-tu-ha-noi/ có lộ trình đường Hồ Chí Minh qua Cẩm Thủy nhưng không nhắc suối cá; kho bài không có bài nào về Cẩm Lương. Bài mới thêm: suối ở làng (thôn) Lương Ngọc, dưới chân núi Trường Sinh, nay thuộc xã Cẩm Tú (gộp Cẩm Lương, Cẩm Quý, Cẩm Giang, Cẩm Tú), cách TP Thanh Hóa 70 km, có đường Hồ Chí Minh và tỉnh lộ 523B, 523E đi qua; UBND tỉnh duyệt quy hoạch du lịch suối cá năm 2004; xã đang trùng tu hạng mục khu suối cá; lễ hội Khai hạ mùng 7–8 tháng Giêng (năm 2026 tổ chức 24/2) với lễ rước thần Rắn từ đền Thủy Phủ Long Vương, trò bắn nỏ, tung còn, đẩy gậy; tuyến tỉnh gợi ý Hàm Rồng – Thành nhà Hồ – Cẩm Lương – Lam Kinh; cách ghép với Pù Luông.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://camtu.thanhhoa.gov.vn/tong-quan-ve-thanh-pho",
+        "quote": "Trang TTĐT xã Cẩm Tú, 'Cẩm Tú vùng đất giàu tiềm năng, lợi thế và khát vọng phát triển' (UBND xã Cẩm Tú, đọc 13/10/2026): xã ở Tây Bắc tỉnh, 'cách Thành phố Thanh Hóa 70 Km'; trước sáp nhập gồm 4 xã Cẩm Lương, Cẩm Quý, Cẩm Giang, Cẩm Tú; 'đường Hồ Chí Minh, Tỉnh lội 523B, 523E và dòng sông Mã chảy qua'; tại Làng Ngọc có danh thắng Suối cá 'hàng năm đã có hàng chục nghìn du khách'; 'Năm 2004, UBND tỉnh Thanh Hoá đã phê duyệt quy hoạch chi tiết xây dựng và phát triển du lịch suối cá Cẩm Lương'; xã 'đang thực hiện việc trùng tu xây dựng các hạng mục khu vực Suối cá thần'; lễ hội Khai hạ tại Suối cá Cẩm Lương.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/tung-bung-le-hoi-khai-ha-suoi-ca-than-nam-2026-512083.html",
+        "quote": "Báo Công lý, 'Tưng bừng Lễ hội Khai hạ suối cá thần năm 2026' (24/2/2026, đọc 13/10/2026): 'Ngày 24/2, tại thôn Lương Ngọc, xã Cẩm Tú, tỉnh Thanh Hóa' tổ chức lễ hội; định kỳ 'vào ngày mùng 7 và mùng 8 tháng Giêng hằng năm'; rước thần Rắn từ đền thờ Thủy Phủ Long Vương (dưới chân núi Trường Sinh) về nhà văn hóa thôn; phần hội bóng chuyền, bắn nỏ, chọi gà, tung còn, chơi đu, đẩy gậy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/van-hoa-the-thao-BE2162E3A/thanh-hoa-le-hoi-khai-ha-suoi-ca-than-cam-luong-xuan-at-ty-2025-c99672a1d.html",
+        "quote": "Báo Thanh tra, 'Thanh Hoá: Lễ hội khai hạ suối cá thần Cẩm Lương Xuân Ất Tỵ 2025' (5/2/2025, đọc 13/10/2026): lễ hội tổ chức tại thôn Lương Ngọc, xã Cẩm Lương, huyện Cẩm Thủy (cũ) ngày 5/2/2025 (mùng 8 tháng Giêng); lễ hội Khai hạ 'tổ chức vào ngày 7 và 8 tháng Giêng hằng năm nhằm tưởng nhớ vị thần rắn'; bảo tồn văn hóa đồng bào Mường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 18100,
+        "checked": "2026-10-13",
+        "keyword": "suối cá thần cẩm lương"
+      }
+    ],
+    "notes": "Chưa xác minh: giá vé (20.000đ người lớn/10.000đ trẻ em chỉ có ở trang lữ hành, không phải nguồn chính thức – không đưa), giờ mở cửa, quy định cho cá ăn, phí gửi xe máy, quãng đường Hà Nội – Cẩm Lương (không có nguồn đã đọc). Khu đang trùng tu theo trang xã – khuyên kiểm tra trước. Đơn vị hành chính: thôn Lương Ngọc (nguồn 2026) / làng Ngọc (trang xã) – dùng 'thôn Lương Ngọc, xã Cẩm Tú'. Bài Pù Luông hiện có đã dùng lộ trình đường Hồ Chí Minh qua Cúc Phương, Cẩm Thủy cho xe máy; writer vẫn phải nhắc đọc biển báo, không đi vào bất kỳ đoạn cao tốc nào. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'.",
+    "outline": [
+      "Suối cá thần Cẩm Lương ở đâu sau sáp nhập (xã Cẩm Tú)",
+      "Đường xe máy: đường Hồ Chí Minh qua Cúc Phương, Cẩm Thủy",
+      "Câu chuyện thần Rắn và suối cá dưới chân núi Trường Sinh",
+      "Lễ hội Khai hạ mùng 7–8 tháng Giêng: lễ rước và trò chơi",
+      "Đang trùng tu: điều cần hỏi trước khi đi",
+      "Ghép suối cá với Pù Luông hoặc vòng Thanh Hóa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pu-luong-di-xe-may-tu-ha-noi/",
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00360.json",
+  "draft_template": {
+    "id": "TM-00360",
+    "url": "/du-lich/suoi-ca-than-cam-luong/",
+    "title": "Suối cá thần Cẩm Lương: hội Khai hạ tháng Giêng, đi theo đường Hồ Chí Minh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "suối cá thần cẩm lương, suối cá cẩm lương ở đâu, lễ hội khai hạ suối cá thần, suối cá thần thanh hóa, suối cá cẩm thủy, pù luông suối cá thần",
+    "excerpt": "",
+    "sections": [
+      [
+        "Suối cá thần Cẩm Lương ở đâu sau sáp nhập (xã Cẩm Tú)",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: đường Hồ Chí Minh qua Cúc Phương, Cẩm Thủy",
+        "<p></p>"
+      ],
+      [
+        "Câu chuyện thần Rắn và suối cá dưới chân núi Trường Sinh",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Khai hạ mùng 7–8 tháng Giêng: lễ rước và trò chơi",
+        "<p></p>"
+      ],
+      [
+        "Đang trùng tu: điều cần hỏi trước khi đi",
+        "<p></p>"
+      ],
+      [
+        "Ghép suối cá với Pù Luông hoặc vòng Thanh Hóa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://camtu.thanhhoa.gov.vn/tong-quan-ve-thanh-pho",
+        "quote": "Trang TTĐT xã Cẩm Tú, 'Cẩm Tú vùng đất giàu tiềm năng, lợi thế và khát vọng phát triển' (UBND xã Cẩm Tú, đọc 13/10/2026): xã ở Tây Bắc tỉnh, 'cách Thành phố Thanh Hóa 70 Km'; trước sáp nhập gồm 4 xã Cẩm Lương, Cẩm Quý, Cẩm Giang, Cẩm Tú; 'đường Hồ Chí Minh, Tỉnh lội 523B, 523E và dòng sông Mã chảy qua'; tại Làng Ngọc có danh thắng Suối cá 'hàng năm đã có hàng chục nghìn du khách'; 'Năm 2004, UBND tỉnh Thanh Hoá đã phê duyệt quy hoạch chi tiết xây dựng và phát triển du lịch suối cá Cẩm Lương'; xã 'đang thực hiện việc trùng tu xây dựng các hạng mục khu vực Suối cá thần'; lễ hội Khai hạ tại Suối cá Cẩm Lương.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/tung-bung-le-hoi-khai-ha-suoi-ca-than-nam-2026-512083.html",
+        "quote": "Báo Công lý, 'Tưng bừng Lễ hội Khai hạ suối cá thần năm 2026' (24/2/2026, đọc 13/10/2026): 'Ngày 24/2, tại thôn Lương Ngọc, xã Cẩm Tú, tỉnh Thanh Hóa' tổ chức lễ hội; định kỳ 'vào ngày mùng 7 và mùng 8 tháng Giêng hằng năm'; rước thần Rắn từ đền thờ Thủy Phủ Long Vương (dưới chân núi Trường Sinh) về nhà văn hóa thôn; phần hội bóng chuyền, bắn nỏ, chọi gà, tung còn, chơi đu, đẩy gậy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/van-hoa-the-thao-BE2162E3A/thanh-hoa-le-hoi-khai-ha-suoi-ca-than-cam-luong-xuan-at-ty-2025-c99672a1d.html",
+        "quote": "Báo Thanh tra, 'Thanh Hoá: Lễ hội khai hạ suối cá thần Cẩm Lương Xuân Ất Tỵ 2025' (5/2/2025, đọc 13/10/2026): lễ hội tổ chức tại thôn Lương Ngọc, xã Cẩm Lương, huyện Cẩm Thủy (cũ) ngày 5/2/2025 (mùng 8 tháng Giêng); lễ hội Khai hạ 'tổ chức vào ngày 7 và 8 tháng Giêng hằng năm nhằm tưởng nhớ vị thần rắn'; bảo tồn văn hóa đồng bào Mường.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00360"
+  }
+}

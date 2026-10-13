@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w10b",
+  "queued": "2026-10-13T15:30:53.727737+00:00",
+  "topic": {
+    "topic_id": "TM-00359",
+    "url": "/du-lich/ham-rong-thanh-hoa/",
+    "title": "Hàm Rồng Thanh Hóa: cầu Hàm Rồng, hang Mắt Rồng, ghé trên đường quốc lộ 1A",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hàm rồng thanh hóa",
+    "secondary_keywords": [
+      "cầu hàm rồng",
+      "hang mắt rồng thanh hóa",
+      "động long quang",
+      "núi hàm rồng",
+      "chiến thắng hàm rồng 1965"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy theo quốc lộ 1A vào TP Thanh Hóa (đi Sầm Sơn hoặc tiếp vào Nam) muốn dừng ở Hàm Rồng cần biết xem gì (cầu, núi, hang Mắt Rồng), ở đâu so với trung tâm và câu chuyện lịch sử cốt lõi.",
+    "information_gain": "Bài /du-lich/ha-noi-di-sam-son-bang-xe-may/ đi quốc lộ 1A qua Bỉm Sơn, Hà Trung, cầu Nguyệt Viên về TP Thanh Hóa nhưng không nhắc Hàm Rồng. Bài mới thêm: cầu Hàm Rồng cách trung tâm TP gần 5 km về phía bắc, là cầu đầu tiên bắc qua sông Mã; khởi công 1901, khánh thành 17/3/1905 (Báo Thanh Hóa), xây lại 1962–19/5/1964, dài khoảng 150–160 m, rộng 17 m, giữa là đường sắt; nay chủ yếu dành cho đường sắt, đường bộ chuyển qua cầu Hoàng Long, Nguyệt Viên – nên không chạy xe máy lên cầu để chụp ảnh; trận 3–4/4/1965 bắn rơi 47 máy bay (31 chiếc tại Hàm Rồng); hang Mắt Rồng (động Long Quang) rộng khoảng 5 m, cao hơn 10 m, dài khoảng 30 m, có thơ khắc của vua Lê Thánh Tông (1478) và Lê Hiến Tông (1501), xếp hạng di tích quốc gia năm 1975.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/cau-ham-rong-hon-mot-the-ky-noi-nhung-bo-lich-su-44868.htm",
+        "quote": "Báo Thanh Hóa (chuyên trang Văn hóa – Du lịch), 'Cầu Hàm Rồng: Hơn một thế kỷ nối những bờ lịch sử' (22/8/2026, đọc 13/10/2026): cầu nằm giữa núi Ngọc – núi Rồng, là 'cây cầu đầu tiên được xây dựng bắc qua sông Mã tại Thanh Hóa'; khởi công 1901, khánh thành 17/3/1905; xây lại 1962, khánh thành 19/5/1964; 'dài khoảng 150-160m, rộng khoảng 17m', giữa là đường sắt; 'hiện chủ yếu dành cho tuyến đường sắt Thống Nhất, trong khi giao thông đường bộ được phân bổ qua những cây cầu mới' (cầu Hoàng Long, cầu Nguyệt Viên).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/cau-ham-rong-chung-nhan-lich-su-58016.vov2",
+        "quote": "VOV2, 'Cầu Hàm Rồng – Chứng nhân lịch sử' (9/4/2026, đọc 13/10/2026): 'Cách trung tâm TP Thanh Hóa gần 5km về phía Bắc'; cầu 'do Pháp xây dựng năm 1904' kiểu vòm thép không trụ (khác mốc 1901–1905 của Báo Thanh Hóa); khôi phục với giúp đỡ của Liên Xô, Trung Quốc, khánh thành 19/5/1964; hai ngày 3–4/4/1965 quân dân Thanh Hóa 'bắn rơi 47 máy bay Mỹ, riêng tại khu vực Hàm Rồng đã bắn rơi 31 chiếc'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/hang-mat-rong-trong-long-thanh-pho-thanh-hoa-post1734253.tpo",
+        "quote": "Tiền Phong, 'Hang Mắt Rồng trong lòng thành phố Thanh Hóa' (18/4/2025, đọc 13/10/2026): động Long Quang (hang Mắt Rồng) thuộc phường Hàm Rồng, trong quần thể di tích lịch sử cách mạng – danh thắng quốc gia Hàm Rồng; hai cửa hang hướng Đông Bắc – Tây Nam; 'rộng khoảng 5 m, cao hơn 10 m, chiều dài khoảng 30 m'; có bia ma nhai đề thơ của vua Lê Thánh Tông năm 1478, vua Lê Hiến Tông năm 1501; năm 1975 xếp hạng di tích lịch sử cách mạng và danh thắng cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://camtu.thanhhoa.gov.vn/tong-quan-ve-thanh-pho",
+        "quote": "Trang TTĐT xã Cẩm Tú (UBND xã Cẩm Tú, đọc 13/10/2026): nêu tuyến du lịch trong tỉnh 'Hàm Rồng (TP Thanh Hoá) - Thành nhà Hồ (Vĩnh Lộc) - Suối cá thần Cẩm Lương (Cẩm Tú) - Lam Kinh (Thọ Xuân)'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 590,
+        "checked": "2026-10-13",
+        "keyword": "hàm rồng thanh hóa"
+      }
+    ],
+    "notes": "Mốc xây cầu khác nhau giữa hai nguồn (1901–1905 theo Báo Thanh Hóa; 'Pháp xây 1904' theo VOV2) – ghi cả hai. Chưa xác minh: vé/giờ vào khu di tích, đường lên hang Mắt Rồng (số bậc), chỗ gửi xe máy – không đưa. Không khuyên chạy xe máy lên cầu Hàm Rồng; nguồn chỉ nói cầu 'chủ yếu' dành cho đường sắt, không nói rõ có cấm xe máy. Tên hành chính phường Hàm Rồng theo nguồn 2025–2026. Xe máy không được vào cao tốc (Luật TTATGTĐB 36/2024 Điều 25 khoản 3; NĐ 168/2024 Điều 7 khoản 7 điểm b phạt 4–6 triệu đồng, trừ 6 điểm – đã dẫn ở các bài tuyến đường hiện có, không phải evidence của hàng này vì hub du-lich không nhận type law). Mọi con số km/giờ trong nguồn báo nếu đi kèm cao tốc là số cho ô tô, phải ghi rõ 'số cho ô tô'. Từ Hà Nội xe máy theo quốc lộ 1A như bài Sầm Sơn; cao tốc Bắc – Nam không dành cho xe máy.",
+    "outline": [
+      "Hàm Rồng ở đâu trên quốc lộ 1A, cách trung tâm TP bao xa",
+      "Cầu Hàm Rồng: từ 1905 đến 1964, nay chủ yếu cho đường sắt",
+      "Chiến thắng Hàm Rồng 3–4/4/1965 trong vài dòng",
+      "Hang Mắt Rồng (động Long Quang) và bia thơ thời Lê",
+      "Dừng xe an toàn quanh cầu, nên đứng ngắm ở đâu",
+      "Ghép Hàm Rồng với Sầm Sơn, Thành nhà Hồ, Lam Kinh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/du-lich/pu-luong-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00359.json",
+  "draft_template": {
+    "id": "TM-00359",
+    "url": "/du-lich/ham-rong-thanh-hoa/",
+    "title": "Hàm Rồng Thanh Hóa: cầu Hàm Rồng, hang Mắt Rồng, ghé trên đường quốc lộ 1A",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hàm rồng thanh hóa, cầu hàm rồng, hang mắt rồng thanh hóa, động long quang, núi hàm rồng, chiến thắng hàm rồng 1965",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hàm Rồng ở đâu trên quốc lộ 1A, cách trung tâm TP bao xa",
+        "<p></p>"
+      ],
+      [
+        "Cầu Hàm Rồng: từ 1905 đến 1964, nay chủ yếu cho đường sắt",
+        "<p></p>"
+      ],
+      [
+        "Chiến thắng Hàm Rồng 3–4/4/1965 trong vài dòng",
+        "<p></p>"
+      ],
+      [
+        "Hang Mắt Rồng (động Long Quang) và bia thơ thời Lê",
+        "<p></p>"
+      ],
+      [
+        "Dừng xe an toàn quanh cầu, nên đứng ngắm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Ghép Hàm Rồng với Sầm Sơn, Thành nhà Hồ, Lam Kinh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/cau-ham-rong-hon-mot-the-ky-noi-nhung-bo-lich-su-44868.htm",
+        "quote": "Báo Thanh Hóa (chuyên trang Văn hóa – Du lịch), 'Cầu Hàm Rồng: Hơn một thế kỷ nối những bờ lịch sử' (22/8/2026, đọc 13/10/2026): cầu nằm giữa núi Ngọc – núi Rồng, là 'cây cầu đầu tiên được xây dựng bắc qua sông Mã tại Thanh Hóa'; khởi công 1901, khánh thành 17/3/1905; xây lại 1962, khánh thành 19/5/1964; 'dài khoảng 150-160m, rộng khoảng 17m', giữa là đường sắt; 'hiện chủ yếu dành cho tuyến đường sắt Thống Nhất, trong khi giao thông đường bộ được phân bổ qua những cây cầu mới' (cầu Hoàng Long, cầu Nguyệt Viên).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/cau-ham-rong-chung-nhan-lich-su-58016.vov2",
+        "quote": "VOV2, 'Cầu Hàm Rồng – Chứng nhân lịch sử' (9/4/2026, đọc 13/10/2026): 'Cách trung tâm TP Thanh Hóa gần 5km về phía Bắc'; cầu 'do Pháp xây dựng năm 1904' kiểu vòm thép không trụ (khác mốc 1901–1905 của Báo Thanh Hóa); khôi phục với giúp đỡ của Liên Xô, Trung Quốc, khánh thành 19/5/1964; hai ngày 3–4/4/1965 quân dân Thanh Hóa 'bắn rơi 47 máy bay Mỹ, riêng tại khu vực Hàm Rồng đã bắn rơi 31 chiếc'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/hang-mat-rong-trong-long-thanh-pho-thanh-hoa-post1734253.tpo",
+        "quote": "Tiền Phong, 'Hang Mắt Rồng trong lòng thành phố Thanh Hóa' (18/4/2025, đọc 13/10/2026): động Long Quang (hang Mắt Rồng) thuộc phường Hàm Rồng, trong quần thể di tích lịch sử cách mạng – danh thắng quốc gia Hàm Rồng; hai cửa hang hướng Đông Bắc – Tây Nam; 'rộng khoảng 5 m, cao hơn 10 m, chiều dài khoảng 30 m'; có bia ma nhai đề thơ của vua Lê Thánh Tông năm 1478, vua Lê Hiến Tông năm 1501; năm 1975 xếp hạng di tích lịch sử cách mạng và danh thắng cấp quốc gia.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://camtu.thanhhoa.gov.vn/tong-quan-ve-thanh-pho",
+        "quote": "Trang TTĐT xã Cẩm Tú (UBND xã Cẩm Tú, đọc 13/10/2026): nêu tuyến du lịch trong tỉnh 'Hàm Rồng (TP Thanh Hoá) - Thành nhà Hồ (Vĩnh Lộc) - Suối cá thần Cẩm Lương (Cẩm Tú) - Lam Kinh (Thọ Xuân)'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00359"
+  }
+}
