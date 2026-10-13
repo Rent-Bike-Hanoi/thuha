@@ -173,6 +173,7 @@ with sandbox() as tmp:
     rc, out = quiet(tm.next_topics, 'writer-1', 5)
     assigned = json.loads(out)['assigned']
     assert [x['topic_id'] for x in assigned] == [good['topic_id']], assigned
+    assert 'notes' in assigned[0], 'brief cho writer phải mang ghi chú nghiên cứu (notes)'
     assert tm.load_matrix()[0]['lifecycle'] == 'WRITING'
     # chuyển trạng thái sai bị chặn; PUBLISHED cần URL có thật trong nguồn
     try:

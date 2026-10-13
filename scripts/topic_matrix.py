@@ -851,7 +851,7 @@ def next_topics(writer, n=1, hub=None, ids=()):
         transition(r, 'WRITING', assigned_to=writer)
     save_matrix(rows)
     keys = ('topic_id', 'url', 'title', 'hub', 'subtopic', 'primary_keyword', 'secondary_keywords', 'intent', 'user_problem', 'information_gain',
-            'evidence', 'outline', 'suggested_internal_links', 'content_type', 'overlap', 'legacy_overlap', 'merge_into', 'priority')
+            'evidence', 'notes', 'outline', 'suggested_internal_links', 'content_type', 'overlap', 'legacy_overlap', 'merge_into', 'priority')
     print(json.dumps({'writer': writer, 'assigned': [{k: r.get(k) for k in keys} for r in picked], 'remaining_approved': len(pool) - len(picked)}, ensure_ascii=False, indent=2))
     return 0
 
