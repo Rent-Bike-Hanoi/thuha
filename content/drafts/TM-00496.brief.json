@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w18a",
+  "queued": "2026-10-13T23:20:10.280348+00:00",
+  "topic": {
+    "topic_id": "TM-00496",
+    "url": "/du-lich/den-song-son-bim-son/",
+    "title": "Đền Sòng Sơn Bỉm Sơn: thờ Mẫu Liễu Hạnh, lễ hội Sòng Sơn – Ba Dội",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền sòng sơn bỉm sơn",
+    "secondary_keywords": [
+      "đền sòng thanh hóa",
+      "lễ hội sòng sơn ba dội",
+      "đền chín giếng",
+      "đèo ba dội",
+      "đền sòng ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy từ Hà Nội vào Thanh Hóa qua Tam Điệp – Bỉm Sơn muốn ghé đền Sòng: đền thờ ai, nằm đâu so với đường đi, có gì để xem và lễ hội diễn ra ngày nào.",
+    "information_gain": "Trang chưa có bài về đền Sòng Sơn hay Bỉm Sơn. /du-lich/phu-day-di-xe-may-tu-ha-noi/ nói về Phủ Dầy (Vụ Bản), nơi Mẫu Liễu Hạnh giáng trần; /du-lich/ha-noi-di-sam-son-bang-xe-may/ chỉ nhắc Bỉm Sơn như điểm trên quốc lộ 1A. Bài mới nêu: đền Sòng thờ Thánh Mẫu Liễu Hạnh, công nhận di tích quốc gia năm 1993, kiến trúc chữ Tam với tam quan gỗ trắc, hồ bán nguyệt trước đền; các lần trùng tu (1912–1939, 1998); lễ hội Sòng Sơn – Ba Dội 24–26 tháng Hai âm lịch với rước Thánh Mẫu sang đền Chín Giếng, kiệu vua Quang Trung lên nhà bia Ba Dội, thi nấu cơm; và liên hệ với Phủ Dầy.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://quangtrung.thanhhoa.gov.vn/danh-lam-thang-canh/den-song-son-diem-den-linh-thieng-noi-tieng-xu-thanh-640982",
+        "quote": "Cổng thông tin phường Quang Trung (thanhhoa.gov.vn), 'Đền Sòng Sơn - Điểm đến linh thiêng nổi tiếng xứ Thanh' (13/12/2025, đọc 13/10/2026): đền thờ Nữ thần Vân Hương – Thánh Mẫu Liễu Hạnh; bài ghi 'nay là phường Bắc Sơn, thị xã Bỉm Sơn' (tên trước sáp nhập); không rõ năm dựng, tương truyền thời Vĩnh Tộ (1619–1628); trùng tu thời Cảnh Hưng, các năm 1912, 1919, 1928, 1939 và năm 1998; năm 1993 Bộ Văn hóa – Thông tin công nhận di tích lịch sử – văn hóa cấp Quốc gia; kiến trúc chữ Tam (Tiền đường, Trung đường, Hậu cung) và tam quan ba cửa gỗ trắc; hồ bán nguyệt trước đền; hạc đồng cao gần 2 m; lễ rước Thánh Mẫu tháng Hai âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bim-son-mot-vung-di-san-danh-thang-post885698.html",
+        "quote": "Báo Nhân Dân, 'Bỉm Sơn - một vùng di sản, danh thắng' (10/6/2025, đọc 13/10/2026): đền Sòng Sơn thờ Thánh Mẫu Liễu Hạnh, đền chính bảo tồn nguyên gốc tại khu phố 6, phường Bắc Sơn (cũ); khu đền hướng về suối Sòng, gắn với đền thờ Đức Thánh Trần; có sân lễ hội, bãi để xe, quầy dịch vụ mới; Lễ hội Sòng Sơn – Ba Dội tổ chức từ 24 đến 26 tháng Hai âm lịch hằng năm, gắn với đền Chín Giếng thờ Cửu Thiên Huyền Nữ; Hồ Xuân Hương có bài 'Đèo Ba Dội'; Bỉm Sơn có chín di tích quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baothanhhoa.vn/le-hoi-song-son-ba-doi-nam-2025-243464.htm",
+        "quote": "Báo Thanh Hóa, 'Lễ hội Sòng Sơn - Ba Dội năm 2025' (25/3/2025, đọc 13/10/2026): sáng 25/3/2025 (tức 26/2 âm lịch) tại đền Sòng Sơn, thị xã Bỉm Sơn tổ chức lễ hội; nghi lễ gồm dâng hương, tế lễ, chương trình 'Huyền tích Tiên nữ Sòng Sơn', rước bóng Thánh Mẫu Liễu Hạnh, kiệu Hoàng đế Quang Trung lên nhà bia Ba Dội; phần hội có giải cờ tướng, nấu cơm thi, kéo co, hầu văn; thu hút hàng nghìn du khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đền sòng sơn bỉm sơn"
+      }
+    ],
+    "notes": "Tên phường hiện nay chưa có nguồn chính thức rõ: trang của phường Quang Trung (12/2025) đăng bài nhưng vẫn ghi 'phường Bắc Sơn, thị xã Bỉm Sơn'; một trang Facebook địa phương ghi kế hoạch lễ hội 2026 ngày 11–13/4/2026 tại 'TDP 6, phường Quang Trung' (không dùng vì là mạng xã hội). Viết 'phường Bắc Sơn, thị xã Bỉm Sơn (cũ), nay thuộc tỉnh Thanh Hóa' và khuyên kiểm tra. Không có nguồn chính thức về lịch lễ hội 2026, khoảng cách từ quốc lộ 1A hay Hà Nội, giờ mở cửa, vé — không đưa số. Chỉ 3 nguồn đọc được; nếu biên tập cần thêm, tìm bài Báo Thanh Hóa về lễ hội 2026.",
+    "outline": [
+      "Đền Sòng ở đâu: Bỉm Sơn, cửa ngõ Thanh Hóa trên đường từ Ninh Bình vào",
+      "Thờ Thánh Mẫu Liễu Hạnh: liên hệ với Phủ Dầy",
+      "Kiến trúc chữ Tam, tam quan gỗ trắc, hồ bán nguyệt",
+      "Lễ hội Sòng Sơn – Ba Dội 24–26 tháng Hai âm lịch",
+      "Đền Chín Giếng và nhà bia đèo Ba Dội",
+      "Dừng chân an toàn khi đi xe máy trên quốc lộ 1A"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/phu-day-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/ham-rong-thanh-hoa/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00496.json",
+  "draft_template": {
+    "id": "TM-00496",
+    "url": "/du-lich/den-song-son-bim-son/",
+    "title": "Đền Sòng Sơn Bỉm Sơn: thờ Mẫu Liễu Hạnh, lễ hội Sòng Sơn – Ba Dội",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền sòng sơn bỉm sơn, đền sòng thanh hóa, lễ hội sòng sơn ba dội, đền chín giếng, đèo ba dội, đền sòng ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Sòng ở đâu: Bỉm Sơn, cửa ngõ Thanh Hóa trên đường từ Ninh Bình vào",
+        "<p></p>"
+      ],
+      [
+        "Thờ Thánh Mẫu Liễu Hạnh: liên hệ với Phủ Dầy",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc chữ Tam, tam quan gỗ trắc, hồ bán nguyệt",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Sòng Sơn – Ba Dội 24–26 tháng Hai âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Đền Chín Giếng và nhà bia đèo Ba Dội",
+        "<p></p>"
+      ],
+      [
+        "Dừng chân an toàn khi đi xe máy trên quốc lộ 1A",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://quangtrung.thanhhoa.gov.vn/danh-lam-thang-canh/den-song-son-diem-den-linh-thieng-noi-tieng-xu-thanh-640982",
+        "quote": "Cổng thông tin phường Quang Trung (thanhhoa.gov.vn), 'Đền Sòng Sơn - Điểm đến linh thiêng nổi tiếng xứ Thanh' (13/12/2025, đọc 13/10/2026): đền thờ Nữ thần Vân Hương – Thánh Mẫu Liễu Hạnh; bài ghi 'nay là phường Bắc Sơn, thị xã Bỉm Sơn' (tên trước sáp nhập); không rõ năm dựng, tương truyền thời Vĩnh Tộ (1619–1628); trùng tu thời Cảnh Hưng, các năm 1912, 1919, 1928, 1939 và năm 1998; năm 1993 Bộ Văn hóa – Thông tin công nhận di tích lịch sử – văn hóa cấp Quốc gia; kiến trúc chữ Tam (Tiền đường, Trung đường, Hậu cung) và tam quan ba cửa gỗ trắc; hồ bán nguyệt trước đền; hạc đồng cao gần 2 m; lễ rước Thánh Mẫu tháng Hai âm lịch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bim-son-mot-vung-di-san-danh-thang-post885698.html",
+        "quote": "Báo Nhân Dân, 'Bỉm Sơn - một vùng di sản, danh thắng' (10/6/2025, đọc 13/10/2026): đền Sòng Sơn thờ Thánh Mẫu Liễu Hạnh, đền chính bảo tồn nguyên gốc tại khu phố 6, phường Bắc Sơn (cũ); khu đền hướng về suối Sòng, gắn với đền thờ Đức Thánh Trần; có sân lễ hội, bãi để xe, quầy dịch vụ mới; Lễ hội Sòng Sơn – Ba Dội tổ chức từ 24 đến 26 tháng Hai âm lịch hằng năm, gắn với đền Chín Giếng thờ Cửu Thiên Huyền Nữ; Hồ Xuân Hương có bài 'Đèo Ba Dội'; Bỉm Sơn có chín di tích quốc gia.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baothanhhoa.vn/le-hoi-song-son-ba-doi-nam-2025-243464.htm",
+        "quote": "Báo Thanh Hóa, 'Lễ hội Sòng Sơn - Ba Dội năm 2025' (25/3/2025, đọc 13/10/2026): sáng 25/3/2025 (tức 26/2 âm lịch) tại đền Sòng Sơn, thị xã Bỉm Sơn tổ chức lễ hội; nghi lễ gồm dâng hương, tế lễ, chương trình 'Huyền tích Tiên nữ Sòng Sơn', rước bóng Thánh Mẫu Liễu Hạnh, kiệu Hoàng đế Quang Trung lên nhà bia Ba Dội; phần hội có giải cờ tướng, nấu cơm thi, kéo co, hầu văn; thu hút hàng nghìn du khách.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00496"
+  }
+}

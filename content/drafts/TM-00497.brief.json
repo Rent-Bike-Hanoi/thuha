@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w18b",
+  "queued": "2026-10-13T23:20:10.443298+00:00",
+  "topic": {
+    "topic_id": "TM-00497",
+    "url": "/du-lich/den-lanh-giang/",
+    "title": "Đền Lảnh Giang: đền bên sông Hồng gần cầu Yên Lệnh, lễ hội tháng Sáu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền lảnh giang",
+    "secondary_keywords": [
+      "đền lảnh giang ở đâu",
+      "lễ hội đền lảnh giang",
+      "đền quan lớn đệ tam",
+      "đền lảnh duy tiên",
+      "đền lảnh giang ninh bình"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội đi lễ đền Lảnh (đền Quan Lớn Đệ Tam) bằng xe máy cần biết đền nay thuộc phường nào sau sáp nhập, đi đường nào từ cầu Yên Lệnh, đền thờ ai và lễ hội đông vào ngày nào.",
+    "information_gain": "Trang chưa có bài về đền Lảnh Giang; /du-lich/den-chu-dong-tu-da-hoa-da-trach/ nói về đền Chử Đồng Tử ở Khoái Châu (đền Lảnh cũng phối thờ Tiên Dung – Chử Đồng Tử) và /du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/ đi phía bờ Hưng Yên. Bài mới nêu: vị trí nay là tổ dân phố Yên Đô, phường Duy Tân, tỉnh Ninh Bình (Mộc Nam, Duy Tiên, Hà Nam cũ), hướng đi theo quốc lộ 38 và đê sông Hồng gần cầu Yên Lệnh (khoảng 2 km), đối tượng thờ (ba vị thủy thần thời Hùng Vương, Tiên Dung – Chử Đồng Tử), di tích quốc gia ngày 5/11/1996, lễ hội 2026 từ 13–17/7/2026 (29/5–4/6 âm lịch) với lễ rước nước, rước kiệu, và kỳ hội tháng Tám.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vhtt.ninhbinh.gov.vn/vi/tuyen-truyen-phat-trien-du-lich/khai-mac-le-hoi-truyen-thong-den-lanh-giang-di-san-van-hoa-phi-vat-the-quoc-gia-2267.html",
+        "quote": "Sở Văn hóa và Thể thao Ninh Bình (16/7/2026, đọc 13/10/2026): sáng 15/7/2026 (tức 2 tháng Sáu năm Bính Ngọ), phường Duy Tân, tỉnh Ninh Bình khai mạc Lễ hội truyền thống đền Lảnh Giang 2026 gắn với kỷ niệm 30 năm được công nhận di tích lịch sử – văn hóa cấp Quốc gia (1996–2026); đền Lảnh Giang (Lãnh Giang linh từ, Đền Lảnh, Đền Quan Lớn Đệ Tam) thuộc tổ dân phố Yên Đô, phường Duy Tân; có đại diện phường Sơn Nam, xã Khoái Châu (Hưng Yên) dự. Tiêu đề bài gọi lễ hội là 'Di sản văn hóa phi vật thể quốc gia'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/le-hoi-den-lanh-giang-1427",
+        "quote": "Cục Di sản văn hóa, 'Lễ hội Đền Lảnh Giang' (đọc 13/10/2026): đền nằm nơi sông Hồng giao nhánh sông Lảnh, thờ ba vị tướng (thủy thần) thời Hùng Vương (Quan lớn Đệ Tam) và vợ chồng Tiên Dung – Chử Đồng Tử; trước đây lễ hội hai kỳ (18–25 tháng Sáu và 18–25 tháng Tám âm lịch); năm 1996 đền được công nhận di tích lịch sử cấp quốc gia, xã Mộc Nam tổ chức lại lễ hội; lễ cáo yết 30 tháng Năm, lễ rước nước sáng mùng 1 tháng Sáu, rước kiệu mùng 2 tháng Sáu, lễ tế mùng 3 tháng Sáu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2893",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, trang điểm đến 'Đền Lảnh Giang' (không ghi ngày, địa danh trước 2025, đọc 13/10/2026): thôn Yên Lạc, xã Mộc Nam, huyện Duy Tiên, tỉnh Hà Nam; khuôn viên gần 3.000 m², cửa đền hướng ra sông Hồng; ngày 5/11/1996 xếp hạng di tích lịch sử văn hóa cấp quốc gia; lễ hội từ 2 đến 5 tháng 6 âm lịch và 20 tháng 8 âm lịch, có thi bơi chải trên sông, hát chầu văn; đường đi: 'Từ thị trấn Đồng Văn (huyện Duy Tiên), theo quốc lộ 38 khoảng 8km đến thị trấn Hòa Mạc, đi tiếp 3,5km đến cầu Yên Lệnh rồi rẽ trái theo bờ đê sông Hồng 2km'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/khai-mac-le-hoi-den-lanh-giang-2026-dau-an-30-nam-di-tich-quoc-gia-ar1029252.html",
+        "quote": "VTC News (15/7/2026, đọc 13/10/2026): sáng 15/7/2026 tại đền Lảnh Giang, phường Duy Tân (tỉnh Ninh Bình), lễ hội truyền thống 2026 khai mạc; Chủ tịch UBND phường Duy Tân là Trưởng Ban tổ chức; lễ hội gắn kỷ niệm 30 năm di tích quốc gia (1996–2026).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 12100,
+        "checked": "2026-10-13",
+        "keyword": "đền lảnh giang"
+      }
+    ],
+    "notes": "Lịch lễ hội 2026 '13–17/7/2026 (29/5–4/6 âm lịch)' chỉ thấy trong đoạn trích tìm kiếm của dulichninhbinh.com.vn (trang in không đọc được) — dùng ngày khai mạc 15/7/2026 (2/6 âm lịch) đã xác nhận ở hai nguồn; các ngày lễ theo âm lịch lấy theo Cục Di sản. Ngày lễ hội lệch giữa nguồn: Cục Du lịch ghi 2–5/6 và 20/8 âm lịch; Cục Di sản ghi trước đây 18–25 tháng Sáu và tháng Tám. Trạng thái 'Di sản văn hóa phi vật thể quốc gia' chỉ có trong tiêu đề bài Sở VHTT, chưa có số quyết định/năm — ghi thận trọng hoặc bỏ. Hướng đi của Cục Du lịch dùng tên cũ (Đồng Văn, Hòa Mạc) — viết kèm '(cũ)'. Không có nguồn vé, giờ mở cửa, gửi xe; không có khoảng cách từ Hà Nội.",
+    "outline": [
+      "Đền Lảnh Giang ở đâu: phường Duy Tân, Ninh Bình (Mộc Nam, Duy Tiên cũ), bên đê sông Hồng",
+      "Đền thờ ai: Quan lớn Đệ Tam và Tiên Dung – Chử Đồng Tử",
+      "Đi xe máy: quốc lộ 38, cầu Yên Lệnh, rẽ đê sông Hồng",
+      "Lễ hội tháng Sáu âm lịch: rước nước, rước kiệu, lễ tế (lịch 2026)",
+      "Kỳ hội tháng Tám và lúc vắng hơn",
+      "Ghép đền Chử Đồng Tử bên kia sông hoặc chùa Tam Chúc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-chu-dong-tu-da-hoa-da-trach/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+      "/du-lich/phu-day-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00497.json",
+  "draft_template": {
+    "id": "TM-00497",
+    "url": "/du-lich/den-lanh-giang/",
+    "title": "Đền Lảnh Giang: đền bên sông Hồng gần cầu Yên Lệnh, lễ hội tháng Sáu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền lảnh giang, đền lảnh giang ở đâu, lễ hội đền lảnh giang, đền quan lớn đệ tam, đền lảnh duy tiên, đền lảnh giang ninh bình",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Lảnh Giang ở đâu: phường Duy Tân, Ninh Bình (Mộc Nam, Duy Tiên cũ), bên đê sông Hồng",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ ai: Quan lớn Đệ Tam và Tiên Dung – Chử Đồng Tử",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: quốc lộ 38, cầu Yên Lệnh, rẽ đê sông Hồng",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Sáu âm lịch: rước nước, rước kiệu, lễ tế (lịch 2026)",
+        "<p></p>"
+      ],
+      [
+        "Kỳ hội tháng Tám và lúc vắng hơn",
+        "<p></p>"
+      ],
+      [
+        "Ghép đền Chử Đồng Tử bên kia sông hoặc chùa Tam Chúc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vhtt.ninhbinh.gov.vn/vi/tuyen-truyen-phat-trien-du-lich/khai-mac-le-hoi-truyen-thong-den-lanh-giang-di-san-van-hoa-phi-vat-the-quoc-gia-2267.html",
+        "quote": "Sở Văn hóa và Thể thao Ninh Bình (16/7/2026, đọc 13/10/2026): sáng 15/7/2026 (tức 2 tháng Sáu năm Bính Ngọ), phường Duy Tân, tỉnh Ninh Bình khai mạc Lễ hội truyền thống đền Lảnh Giang 2026 gắn với kỷ niệm 30 năm được công nhận di tích lịch sử – văn hóa cấp Quốc gia (1996–2026); đền Lảnh Giang (Lãnh Giang linh từ, Đền Lảnh, Đền Quan Lớn Đệ Tam) thuộc tổ dân phố Yên Đô, phường Duy Tân; có đại diện phường Sơn Nam, xã Khoái Châu (Hưng Yên) dự. Tiêu đề bài gọi lễ hội là 'Di sản văn hóa phi vật thể quốc gia'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/le-hoi-den-lanh-giang-1427",
+        "quote": "Cục Di sản văn hóa, 'Lễ hội Đền Lảnh Giang' (đọc 13/10/2026): đền nằm nơi sông Hồng giao nhánh sông Lảnh, thờ ba vị tướng (thủy thần) thời Hùng Vương (Quan lớn Đệ Tam) và vợ chồng Tiên Dung – Chử Đồng Tử; trước đây lễ hội hai kỳ (18–25 tháng Sáu và 18–25 tháng Tám âm lịch); năm 1996 đền được công nhận di tích lịch sử cấp quốc gia, xã Mộc Nam tổ chức lại lễ hội; lễ cáo yết 30 tháng Năm, lễ rước nước sáng mùng 1 tháng Sáu, rước kiệu mùng 2 tháng Sáu, lễ tế mùng 3 tháng Sáu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2893",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, trang điểm đến 'Đền Lảnh Giang' (không ghi ngày, địa danh trước 2025, đọc 13/10/2026): thôn Yên Lạc, xã Mộc Nam, huyện Duy Tiên, tỉnh Hà Nam; khuôn viên gần 3.000 m², cửa đền hướng ra sông Hồng; ngày 5/11/1996 xếp hạng di tích lịch sử văn hóa cấp quốc gia; lễ hội từ 2 đến 5 tháng 6 âm lịch và 20 tháng 8 âm lịch, có thi bơi chải trên sông, hát chầu văn; đường đi: 'Từ thị trấn Đồng Văn (huyện Duy Tiên), theo quốc lộ 38 khoảng 8km đến thị trấn Hòa Mạc, đi tiếp 3,5km đến cầu Yên Lệnh rồi rẽ trái theo bờ đê sông Hồng 2km'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/khai-mac-le-hoi-den-lanh-giang-2026-dau-an-30-nam-di-tich-quoc-gia-ar1029252.html",
+        "quote": "VTC News (15/7/2026, đọc 13/10/2026): sáng 15/7/2026 tại đền Lảnh Giang, phường Duy Tân (tỉnh Ninh Bình), lễ hội truyền thống 2026 khai mạc; Chủ tịch UBND phường Duy Tân là Trưởng Ban tổ chức; lễ hội gắn kỷ niệm 30 năm di tích quốc gia (1996–2026).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00497"
+  }
+}

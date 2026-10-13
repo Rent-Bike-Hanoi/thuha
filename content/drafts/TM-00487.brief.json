@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w18a",
+  "queued": "2026-10-13T23:20:10.279852+00:00",
+  "topic": {
+    "topic_id": "TM-00487",
+    "url": "/du-lich/dong-tu-thuc-nga-son/",
+    "title": "Động Từ Thức Nga Sơn: hang dài hơn 200 m, chuyện Từ Thức gặp tiên",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "động từ thức nga sơn",
+    "secondary_keywords": [
+      "động từ thức thanh hóa",
+      "động bích đào",
+      "động từ thức ở đâu",
+      "từ thức gặp tiên",
+      "động từ thức xã ba đình"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy từ Hà Nội vào Phát Diệm hoặc Thanh Hóa muốn biết động Từ Thức ở đâu sau sáp nhập, trong động có gì, đi mất bao lâu và có nên ghép với nhà thờ đá Phát Diệm.",
+    "information_gain": "Trang chưa có bài nào về động Từ Thức hay Nga Sơn. Gần nhất là /du-lich/nha-tho-da-phat-diem/ (Kim Sơn, giáp Nga Sơn) và /du-lich/ham-rong-thanh-hoa/, đều không nhắc động. Bài mới cho biết vị trí sau sáp nhập (xã Nga Thiện cũ, nay xã Ba Đình, tỉnh Thanh Hóa, theo cổng tỉnh 9/2026), động dài hơn 200 m, rộng cả nghìn m², được xếp hạng di tích danh thắng quốc gia năm 1992, truyền thuyết Từ Thức – Giáng Hương và thơ khắc trên vách, gợi ý ghép với Phát Diệm trong một ngày.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thanhhoa.gov.vn/thong-tin-dau-gia-quyen-su-dung-dat/thong-bao-dau-gia-quyen-su-dung-dat-50-lo-dat-khu-dan-cu-moi-duong-di-dong-tu-thuc-xa-nga-thien-huyen-nga-son-nay-la-xa-ba-dinh-tinh-thanh-hoa-800845",
+        "quote": "Cổng thông tin điện tử tỉnh Thanh Hóa, 'Thông báo đấu giá quyền sử dụng đất 50 lô đất Khu dân cư mới đường đi động Từ Thức, xã Nga Thiện, huyện Nga Sơn (nay là xã Ba Đình, tỉnh Thanh Hóa)' (26/9/2026, đọc 13/10/2026): xác nhận khu vực đường đi động Từ Thức thuộc xã Nga Thiện cũ, nay là xã Ba Đình, tỉnh Thanh Hóa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/thanh-hoa-xua-va-nay-dong-tu-thuc-hang-dong-bac-nhat-xu-thanh-43896.htm",
+        "quote": "Báo và Phát thanh, Truyền hình Thanh Hóa – Văn hóa và đời sống, '[Thanh Hóa xưa và nay] Động Từ Thức - hang động bậc nhất xứ Thanh' (18/6/2026, đọc 13/10/2026): động nằm trong lòng núi thuộc dãy Tam Điệp ở xã Ba Đình, tỉnh Thanh Hóa; được xếp hạng Di tích danh thắng quốc gia năm 1992; nhiều tao nhân như Lê Thánh Tông, Lê Quý Đôn để lại thơ khắc trên vách động; mỗi năm đón hàng vạn lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/tu-thuc-hang-dong-bac-nhat-xu-thanh-4615010.html",
+        "quote": "VnExpress, 'Từ Thức - hang động bậc nhất xứ Thanh' (9/6/2023, trước 2025, đọc 13/10/2026): động ở xã Nga Thiện, huyện Nga Sơn (cũ), cách TP Thanh Hóa hơn 40 km về phía Đông Bắc; 'dài hơn 200 m, rộng cả nghìn m2', nhiều thạch nhũ; Từ Thức là nhân vật thời Trần thế kỷ XIV, làm quan ở Tiên Du, truyền thuyết gặp tiên Giáng Hương ở cửa biển Thần Phù; xếp hạng Di tích danh thắng quốc gia năm 1992; theo UBND huyện Nga Sơn mỗi năm đón hàng vạn lượt khách, chủ yếu mùa lễ hội và Tết; trước cửa động có cây gắm lâu đời quấn quanh cây thị cổ; trong động có đèn điện nhiều màu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/dong-tu-thuc-chung-tich-cuoc-tinh-duyen-chon-tien-canh-20170130082222945.htm",
+        "quote": "Dân trí (30/1/2017, trước 2025, đọc 13/10/2026): động nằm trong một ngọn núi thuộc dãy Tam Điệp, tiếp giáp giữa huyện Kim Sơn (Ninh Bình) và huyện Nga Sơn (Thanh Hóa); dài khoảng 200 m, rộng hơn nghìn m², vòm cao nhất khoảng 40 m; lên động theo một lối bậc dài khoảng 100 m; di tích quốc gia năm 1992.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "động từ thức nga sơn"
+      }
+    ],
+    "notes": "Không lấy được trang Sở VHTTDL Thanh Hóa (svhttdl.thanhhoa.gov.vn trả 403); kết quả tìm kiếm trích 'Từ thủ đô Hà Nội, vượt 120km đường quốc lộ 1A' nhưng KHÔNG đọc được trang nên không dùng. Chưa có nguồn chính thức về giá vé, giờ mở cửa, phí gửi xe (trang du lịch tư nhân nêu 20.000đ, không dùng) — viết 'hỏi tại cổng'. Không có khoảng cách đo từ Phát Diệm; chỉ biết hai huyện tiếp giáp. Số bậc lên động không có (chỉ 'lối bậc dài khoảng 100 m', Dân trí 2017). Tỉnh Ninh Bình (Kim Sơn) sau 7/2025 gồm cả Nam Định, Hà Nam cũ; xã mới của Kim Sơn chưa kiểm tra — ghi 'Kim Sơn (cũ)'.",
+    "outline": [
+      "Động Từ Thức ở đâu: Nga Thiện cũ, nay xã Ba Đình, giáp Kim Sơn",
+      "Truyền thuyết Từ Thức gặp tiên và thơ khắc trên vách",
+      "Trong động có gì: hơn 200 m thạch nhũ, cây gắm cửa động",
+      "Lên động: lối bậc, giày dép và đèn",
+      "Ghép với nhà thờ đá Phát Diệm trong một ngày xe máy",
+      "Mùa đông khách và những điều chưa có nguồn (vé, giờ)"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-da-phat-diem/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00487.json",
+  "draft_template": {
+    "id": "TM-00487",
+    "url": "/du-lich/dong-tu-thuc-nga-son/",
+    "title": "Động Từ Thức Nga Sơn: hang dài hơn 200 m, chuyện Từ Thức gặp tiên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "động từ thức nga sơn, động từ thức thanh hóa, động bích đào, động từ thức ở đâu, từ thức gặp tiên, động từ thức xã ba đình",
+    "excerpt": "",
+    "sections": [
+      [
+        "Động Từ Thức ở đâu: Nga Thiện cũ, nay xã Ba Đình, giáp Kim Sơn",
+        "<p></p>"
+      ],
+      [
+        "Truyền thuyết Từ Thức gặp tiên và thơ khắc trên vách",
+        "<p></p>"
+      ],
+      [
+        "Trong động có gì: hơn 200 m thạch nhũ, cây gắm cửa động",
+        "<p></p>"
+      ],
+      [
+        "Lên động: lối bậc, giày dép và đèn",
+        "<p></p>"
+      ],
+      [
+        "Ghép với nhà thờ đá Phát Diệm trong một ngày xe máy",
+        "<p></p>"
+      ],
+      [
+        "Mùa đông khách và những điều chưa có nguồn (vé, giờ)",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thanhhoa.gov.vn/thong-tin-dau-gia-quyen-su-dung-dat/thong-bao-dau-gia-quyen-su-dung-dat-50-lo-dat-khu-dan-cu-moi-duong-di-dong-tu-thuc-xa-nga-thien-huyen-nga-son-nay-la-xa-ba-dinh-tinh-thanh-hoa-800845",
+        "quote": "Cổng thông tin điện tử tỉnh Thanh Hóa, 'Thông báo đấu giá quyền sử dụng đất 50 lô đất Khu dân cư mới đường đi động Từ Thức, xã Nga Thiện, huyện Nga Sơn (nay là xã Ba Đình, tỉnh Thanh Hóa)' (26/9/2026, đọc 13/10/2026): xác nhận khu vực đường đi động Từ Thức thuộc xã Nga Thiện cũ, nay là xã Ba Đình, tỉnh Thanh Hóa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/thanh-hoa-xua-va-nay-dong-tu-thuc-hang-dong-bac-nhat-xu-thanh-43896.htm",
+        "quote": "Báo và Phát thanh, Truyền hình Thanh Hóa – Văn hóa và đời sống, '[Thanh Hóa xưa và nay] Động Từ Thức - hang động bậc nhất xứ Thanh' (18/6/2026, đọc 13/10/2026): động nằm trong lòng núi thuộc dãy Tam Điệp ở xã Ba Đình, tỉnh Thanh Hóa; được xếp hạng Di tích danh thắng quốc gia năm 1992; nhiều tao nhân như Lê Thánh Tông, Lê Quý Đôn để lại thơ khắc trên vách động; mỗi năm đón hàng vạn lượt khách.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/tu-thuc-hang-dong-bac-nhat-xu-thanh-4615010.html",
+        "quote": "VnExpress, 'Từ Thức - hang động bậc nhất xứ Thanh' (9/6/2023, trước 2025, đọc 13/10/2026): động ở xã Nga Thiện, huyện Nga Sơn (cũ), cách TP Thanh Hóa hơn 40 km về phía Đông Bắc; 'dài hơn 200 m, rộng cả nghìn m2', nhiều thạch nhũ; Từ Thức là nhân vật thời Trần thế kỷ XIV, làm quan ở Tiên Du, truyền thuyết gặp tiên Giáng Hương ở cửa biển Thần Phù; xếp hạng Di tích danh thắng quốc gia năm 1992; theo UBND huyện Nga Sơn mỗi năm đón hàng vạn lượt khách, chủ yếu mùa lễ hội và Tết; trước cửa động có cây gắm lâu đời quấn quanh cây thị cổ; trong động có đèn điện nhiều màu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/dong-tu-thuc-chung-tich-cuoc-tinh-duyen-chon-tien-canh-20170130082222945.htm",
+        "quote": "Dân trí (30/1/2017, trước 2025, đọc 13/10/2026): động nằm trong một ngọn núi thuộc dãy Tam Điệp, tiếp giáp giữa huyện Kim Sơn (Ninh Bình) và huyện Nga Sơn (Thanh Hóa); dài khoảng 200 m, rộng hơn nghìn m², vòm cao nhất khoảng 40 m; lên động theo một lối bậc dài khoảng 100 m; di tích quốc gia năm 1992.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00487"
+  }
+}

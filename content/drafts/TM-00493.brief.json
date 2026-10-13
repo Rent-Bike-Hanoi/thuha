@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w18b",
+  "queued": "2026-10-13T23:20:10.444871+00:00",
+  "topic": {
+    "topic_id": "TM-00493",
+    "url": "/du-lich/dong-thien-ha-ninh-binh/",
+    "title": "Động Thiên Hà Ninh Bình: hang khô và hang nước, 2 tuyến thuyền",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "động thiên hà ninh bình",
+    "secondary_keywords": [
+      "động thiên hà",
+      "vé động thiên hà",
+      "động thiên hà nho quan",
+      "mường tour động thiên hà",
+      "động thiên hà thung nham"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã đi Tràng An, Tam Cốc muốn một hang ít đông hơn ở Ninh Bình: động Thiên Hà ở đâu, có những tuyến nào (đi bộ hay thuyền), giá vé năm 2026 và có nên ghép với vườn chim Thung Nham.",
+    "information_gain": "/du-lich/thung-nham/ chỉ nhắc một dòng về 'tuyến 2 Động Thiên Hà' với giá vé lệch giữa hai nguồn; /du-lich/trang-an-ve-thuyen-tuyen/ và /du-lich/tam-coc-bich-dong/ không nói về động này. Bài mới mô tả riêng động Thiên Hà: vị trí bản Thổ Hà, xã Sơn Hà, Nho Quan (cũ), động dài khoảng 700 m gồm động khô và động ướt, cả hai tuyến (tuyến 1 đi bộ hoặc đi thuyền tới Thung Phú; tuyến 2 thuyền tới Thung Nham) với giá theo bảng của Sở Du lịch cập nhật 27/2/2026 so với bảng 7/2025, và sản phẩm 'Mường tour' văn hóa Mường ở bản Thổ Hà.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Cổng thông tin du lịch Ninh Bình, 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026' (cập nhật 27/02/2026, đọc 13/10/2026): Động Thiên Hà — Tuyến 1: Động Thiên Hà – động Thiên Thanh – Cây thị Hoa Lư – Động Thiên Sơn – Thung Phú, đi thuyền 200.000đ/khách, đi bộ 150.000đ/khách; Tuyến 2: Động Thiên Hà – Động Thiên Thanh – Cây thị Hoa Lư – Hang Bụt – Thung Nham, đi thuyền 280.000đ/khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hoilienhiepphunutinh.ninhbinh.gov.vn/trai-nghiem-du-lich/bang-gia-ve-mot-so-khu-diem-du-lich-trong-tinh-ninh-binh-thoi-diem-thang-72025-1890.html",
+        "quote": "Hội LHPN tỉnh Ninh Bình (ninhbinh.gov.vn), 'Bảng giá vé một số khu, điểm du lịch trong tỉnh Ninh Bình thời điểm tháng 7/2025' (17/7/2025, đọc 13/10/2026): Động Thiên Hà tuyến 1 đi thuyền 200.000đ, đi bộ 150.000đ; tuyến 2 đi thuyền 250.000đ/khách — thấp hơn bảng 2026 (280.000đ).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ninh-binh-du-lich-trai-nghiem-ket-noi-van-hoa-muong-hap-dan-khach-quoc-te-post970566.vnp",
+        "quote": "Vietnamplus (TTXVN) (15/8/2024, trước 2025, đọc 13/10/2026): động Thiên Hà nằm phía Đông xã Sơn Hà, huyện Nho Quan, trong dãy núi Tưởng độ cao gần 200 m; đầu năm 2024 Ban Quản lý Khu du lịch sinh thái Động Thiên Hà cùng Chi hội Lữ hành đưa vào vận hành 'Mường tour - Động Thiên Hà' tại bản Thổ Hà với văn nghệ, nhà sàn, cồng chiêng, món ăn Mường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/1165",
+        "quote": "Cổng thông tin du lịch Ninh Bình, 'Tháng 11 này đi du lịch những đâu ở Ninh Bình' (khoảng 11/2020, trước 2025, đọc 13/10/2026): động Thiên Hà ở bản Mường Thổ Hà, xã Sơn Hà, huyện Nho Quan, dài tới 700 m, nằm trên núi Tướng, gồm động khô và động ướt với nhiều nhũ đá, được gọi là 'dải ngân hà trong lòng núi'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 140,
+        "checked": "2026-10-13",
+        "keyword": "động thiên hà ninh bình"
+      }
+    ],
+    "notes": "Giá tuyến 2 lệch: 280.000đ (bảng 2026 của Cổng du lịch Ninh Bình) vs 250.000đ (bảng 7/2025; cũng là mức nhiều trang tư nhân 2026 đăng) — dùng bảng 2026, ghi mức cũ, khuyên hỏi quầy (số điện thoại trong bảng không đưa vào bài theo quy định). Chiều dài 700 m chỉ có nguồn 2020; tách động khô/ướt 200 m/500 m chỉ thấy trong đoạn trích tìm kiếm Cục Du lịch, không đọc được trang — không dùng con số tách. Tên núi lệch: 'núi Tướng' (2020) vs 'núi Tưởng' (2024). Xã Sơn Hà, Nho Quan sau sáp nhập 7/2025 chưa xác minh tên xã mới — ghi '(cũ)'. Không có giờ mở cửa, khoảng cách từ Hà Nội chính thức.",
+    "outline": [
+      "Động Thiên Hà ở đâu: bản Thổ Hà, Sơn Hà, Nho Quan (cũ)",
+      "Trong động: động khô, động ướt và nhũ đá",
+      "Tuyến 1 và tuyến 2: đi bộ hay thuyền, giá theo bảng 2026",
+      "Ghép Thung Nham hoặc Cúc Phương trong một ngày xe máy",
+      "Mường tour ở bản Thổ Hà",
+      "Lưu ý: giá lệch giữa các bảng, hỏi quầy trước khi mua"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thung-nham/",
+      "/du-lich/trang-an-ve-thuyen-tuyen/",
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00493.json",
+  "draft_template": {
+    "id": "TM-00493",
+    "url": "/du-lich/dong-thien-ha-ninh-binh/",
+    "title": "Động Thiên Hà Ninh Bình: hang khô và hang nước, 2 tuyến thuyền",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "động thiên hà ninh bình, động thiên hà, vé động thiên hà, động thiên hà nho quan, mường tour động thiên hà, động thiên hà thung nham",
+    "excerpt": "",
+    "sections": [
+      [
+        "Động Thiên Hà ở đâu: bản Thổ Hà, Sơn Hà, Nho Quan (cũ)",
+        "<p></p>"
+      ],
+      [
+        "Trong động: động khô, động ướt và nhũ đá",
+        "<p></p>"
+      ],
+      [
+        "Tuyến 1 và tuyến 2: đi bộ hay thuyền, giá theo bảng 2026",
+        "<p></p>"
+      ],
+      [
+        "Ghép Thung Nham hoặc Cúc Phương trong một ngày xe máy",
+        "<p></p>"
+      ],
+      [
+        "Mường tour ở bản Thổ Hà",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: giá lệch giữa các bảng, hỏi quầy trước khi mua",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Cổng thông tin du lịch Ninh Bình, 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026' (cập nhật 27/02/2026, đọc 13/10/2026): Động Thiên Hà — Tuyến 1: Động Thiên Hà – động Thiên Thanh – Cây thị Hoa Lư – Động Thiên Sơn – Thung Phú, đi thuyền 200.000đ/khách, đi bộ 150.000đ/khách; Tuyến 2: Động Thiên Hà – Động Thiên Thanh – Cây thị Hoa Lư – Hang Bụt – Thung Nham, đi thuyền 280.000đ/khách.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hoilienhiepphunutinh.ninhbinh.gov.vn/trai-nghiem-du-lich/bang-gia-ve-mot-so-khu-diem-du-lich-trong-tinh-ninh-binh-thoi-diem-thang-72025-1890.html",
+        "quote": "Hội LHPN tỉnh Ninh Bình (ninhbinh.gov.vn), 'Bảng giá vé một số khu, điểm du lịch trong tỉnh Ninh Bình thời điểm tháng 7/2025' (17/7/2025, đọc 13/10/2026): Động Thiên Hà tuyến 1 đi thuyền 200.000đ, đi bộ 150.000đ; tuyến 2 đi thuyền 250.000đ/khách — thấp hơn bảng 2026 (280.000đ).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ninh-binh-du-lich-trai-nghiem-ket-noi-van-hoa-muong-hap-dan-khach-quoc-te-post970566.vnp",
+        "quote": "Vietnamplus (TTXVN) (15/8/2024, trước 2025, đọc 13/10/2026): động Thiên Hà nằm phía Đông xã Sơn Hà, huyện Nho Quan, trong dãy núi Tưởng độ cao gần 200 m; đầu năm 2024 Ban Quản lý Khu du lịch sinh thái Động Thiên Hà cùng Chi hội Lữ hành đưa vào vận hành 'Mường tour - Động Thiên Hà' tại bản Thổ Hà với văn nghệ, nhà sàn, cồng chiêng, món ăn Mường.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/1165",
+        "quote": "Cổng thông tin du lịch Ninh Bình, 'Tháng 11 này đi du lịch những đâu ở Ninh Bình' (khoảng 11/2020, trước 2025, đọc 13/10/2026): động Thiên Hà ở bản Mường Thổ Hà, xã Sơn Hà, huyện Nho Quan, dài tới 700 m, nằm trên núi Tướng, gồm động khô và động ướt với nhiều nhũ đá, được gọi là 'dải ngân hà trong lòng núi'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00493"
+  }
+}
