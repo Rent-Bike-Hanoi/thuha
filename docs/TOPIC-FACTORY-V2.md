@@ -170,11 +170,49 @@ Kiến trúc index (áp dụng dần theo mục 8, không tự động):
 Giới hạn hiện tại cần nói rõ: 20.000–40.000 là **năng lực** của hệ thống (chỉ mục, cổng, vòng đời) — số bài xuất bản phụ thuộc vào số chủ đề thật có bằng chứng.
 Lô thử nghiệm 97 ứng viên cho thấy tỷ lệ duyệt ngay ≈ 25 %; phần lớn còn lại chờ nguồn (NEEDS-RESEARCH), không phải bị loại.
 
-## 9. Kiểm tra bắt buộc
+## 9. Topical authority: vai trò URL, nâng cấp bài cũ và thứ tự ưu tiên
+
+Chọn lọc từ prompt "Topical Authority Expansion + SEO Protection" (13/10/2026). Phần đã có trong hệ thống không lặp lại ở đây:
+quy tắc bảo vệ production (AGENTS.md), ma trận + 6 tầng chống trùng (mục 3–4), cổng fail-closed (mục 5), chỉ mục tăng dần (mục 7).
+
+**Vai trò URL** (ghi khi lập kế hoạch, không đổi kiến trúc hiện có):
+
+| Vai trò | Trên site này |
+|---|---|
+| PILLAR | Trang tiền: `/thue-xe-may/ha-noi/`, `/thue-xe-may/ha-noi/theo-thang/`, `/thue-xe-may/ha-noi/theo-ngay/`, `/thue-xe-50cc/ha-noi/`, `/thue-xe-dien/ha-noi/`, `/bang-gia/`, `/thue-xe-may/long-bien/`, `/thue-xe-may/hoan-kiem/` |
+| HUB | Trang chuyên mục `/<hub>/` (thue-xe, xe-may, xe-dien, bao-duong, du-lich, luat-giao-thong, kinh-nghiem) |
+| SUPPORT | Bài viết tay và bài V2: trả lời một ý định, dẫn về đúng một PILLAR và 2–3 bài cùng cụm |
+
+**Quyết định cho một ý định mới** (đối chiếu với nhãn của `discover`):
+
+| Quyết định | Khi nào | Nhãn hiện có |
+|---|---|---|
+| ALLOW_CREATE | Không URL nào trả lời ý định này, có bằng chứng | `KEEP` |
+| UPGRADE_EXISTING | Đã có URL đúng ý định nhưng thiếu thông tin | `MERGE-CANDIDATE` mà biên tập không override → ghi vào `data/upgrade-backlog.jsonl`, không tạo URL |
+| REVIEW_COLLISION | Trùng trung bình/cao, chưa rõ | `NEEDS-RESEARCH`, `MERGE-CANDIDATE` (override chỉ khi nêu được khác biệt và có từ khoá riêng) |
+| REJECT_DUPLICATE | Hoán vị hoặc gần như trùng hoàn toàn | `permutation` → REJECTED |
+
+Trường hợp không chắc chắn luôn đi REVIEW, không tự xuất bản. Ý định đã bị loại vì "gộp vào URL X" không được seed lại dưới tên khác; nếu có bằng chứng mới, ghi vào backlog nâng cấp URL X.
+
+**Backlog nâng cấp** `data/upgrade-backlog.jsonl` (một dòng một việc): `id`, `priority`, `action` (UPGRADE | REVIEW), `urls`, `evidence`, `impact`, `proposed`, `status` (OPEN | DONE | WONTFIX), `created`, `by`; bằng chứng dài để ở `data/upgrade-evidence/`.
+Nâng cấp bài đã xuất bản: qua pull request, **giữ URL, slug, canonical**; không đổi hàng loạt title/H1/meta; thêm thông tin có nguồn, sửa chỗ sai, thêm liên kết ngữ cảnh; ghi `status: DONE` kèm commit.
+
+**Thứ tự ưu tiên**:
+
+1. **P0** — bảo vệ SEO: sửa thông tin sai hoặc lỗi thời có bằng chứng (backlog `P0`).
+2. **P1** — trang PILLAR của chủ đề chính (thuê xe): đủ ý, liên kết ngữ cảnh hai chiều tới bài SUPPORT tốt nhất của cụm.
+3. **P2** — nâng cấp bài SUPPORT hiện có, gộp câu hỏi nhỏ vào bài đúng ý định thay vì tạo URL mới.
+4. **P3** — bài thật sự còn thiếu (lô V2 hằng ngày).
+5. **P4** — mở rộng cụm đã chứng minh hiệu quả bằng dữ liệu GSC (sau mốc tuần 4).
+
+Số bài là kết quả của khoảng trống có bằng chứng, không phải chỉ tiêu; mỗi lô vẫn báo tỷ lệ index và hiển thị thật trên GSC trước khi tăng tốc.
+
+## 10. Kiểm tra bắt buộc
 
 ```sh
 python3 tests/test_topic_matrix.py
 python3 tests/test_factory_v2.py
+python3 tests/test_facebook_posts.py
 python3 scripts/topic_matrix.py validate
 python3 scripts/content_factory.py run --dry-run
 python3 tests/test_content_factory.py
