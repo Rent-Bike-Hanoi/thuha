@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w9c",
+  "queued": "2026-10-13T14:57:44.920949+00:00",
+  "topic": {
+    "topic_id": "TM-00330",
+    "url": "/du-lich/cong-vien-nuoc-ho-tay/",
+    "title": "Công viên nước Hồ Tây 2026: đã đóng mùa từ 21/9, khi nào mở lại",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "công viên nước hồ tây",
+    "secondary_keywords": [
+      "công viên nước hồ tây mở cửa",
+      "giá vé công viên nước hồ tây",
+      "công viên nước hồ tây 2026",
+      "công viên hồ tây 614 lạc long quân",
+      "công viên nước hồ tây đóng cửa"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người tìm công viên nước Hồ Tây vào mùa thu cần biết hiện tại công viên còn mở không, mùa 2026 mở và đóng ngày nào, vé từng ở mức nào và theo dõi lịch mùa sau ở đâu.",
+    "information_gain": "Site chưa có bài về Công viên nước Hồ Tây. Gần nhất là /du-lich/ha-noi/vong-ho-tay-xe-may/ (tuyến chạy quanh hồ), /du-lich/phu-tay-ho/ và /du-lich/chua-tran-quoc/ (các điểm cùng khu Hồ Tây, không nói về công viên nước). Bài này trả lời đúng câu hỏi theo mùa bằng nguồn chính thức congvienhotay.vn: công viên khép lại mùa hoạt động 2026 từ 21/9/2026; mùa 2026 mở ngày 18/4/2026 (vé khai mạc 98.000 đồng, đồng giá 150.000 đồng 19–24/4 cho khách cao trên 0,9 m – theo Hanoitourist); ngày tri ân 20/9/2026 đồng giá 99.000 đồng, miễn phí dưới 0,9 m; vé livestream 68.000 đồng; địa chỉ 614 Lạc Long Quân; kênh đặt vé ticket.congvienhotay.vn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://congvienhotay.vn/tam-biet-mua-hoat-dong-2026-hen-gap-lai-tai-cong-vien-nuoc-ho-tay/",
+        "quote": "Công viên Hồ Tây (congvienhotay.vn), 'Tạm biệt mùa hoạt động 2026 – Hẹn gặp lại tại Công viên Nước Hồ Tây' (đăng 21/9/2026, sửa 25/9/2026; đọc 13/10/2026): 'Công viên Nước Hồ Tây chính thức khép lại mùa hoạt động 2026 từ ngày 21/9/2026'; 'Hẹn gặp lại Quý khách trong mùa hoạt động tiếp theo'; địa chỉ 614 Lạc Long Quân, Tây Hồ, Hà Nội. Đơn vị: Công ty CP Dịch vụ Giải trí Hà Nội – Khu vui chơi giải trí Công viên Hồ Tây.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://congvienhotay.vn/tri-an-tam-biet-mua-he-2026-ve-cong-vien-nuoc-ho-tay-dong-gia-chi-99k/",
+        "quote": "Công viên Hồ Tây, 'Tri ân – Tạm biệt mùa hè 2026: vé Công viên Nước Hồ Tây đồng giá chỉ 99K' (đăng 10/9/2026; đọc 13/10/2026): đồng giá vé trọn gói 99.000 đồng/người chỉ trong Chủ nhật 20/9/2026; miễn phí vé cho khách cao dưới 0,9 m; săn vé livestream 68.000 đồng từ 14/9 đến 17/9/2026, khung 11h00–12h00; đặt vé online ticket.congvienhotay.vn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoitourist.com.vn/cong-vien-nuoc-ho-tay-chinh-thuc-mo-cua-mua-he-2026-n701.html",
+        "quote": "Hanoitourist (Tổng công ty Du lịch Hà Nội), 'Công viên nước Hồ Tây chính thức mở cửa mùa hè 2026' (đọc 13/10/2026): ngày 18/4/2026 công viên mở cửa đón khách với chương trình 'Hải trình mùa hè 2026'; giá vé ngày khai mạc 98.000 đồng/vé trọn gói; từ 19/4 đến 24/4/2026 đồng giá 150.000 đồng/vé cho du khách cao trên 0,9 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://congvienhotay.vn/thoi-gian-dong-mo-cua-cong-vien-nuoc-thang-8-2026/",
+        "quote": "Công viên Hồ Tây, 'Thời gian đóng mở cửa công viên nước tháng 8.2026' (đăng 4/8/2026; đọc 13/10/2026): bảng giờ dạng ảnh (không đọc được chữ); lưu ý 'Thời gian đóng mở cửa có thể thay đổi tùy theo tình hình thời tiết thực tế'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 40500,
+        "checked": "2026-10-13",
+        "keyword": "công viên nước hồ tây"
+      }
+    ],
+    "notes": "Bảng giá vé thường và giờ mở cửa hằng ngày trên congvienhotay.vn (/bang-gia-ve/, bài tháng 8) là ảnh, không đọc được chữ – không viết giá vé thường hay giờ mở cửa mùa hè. Ngày mở mùa 2027 chưa công bố – không đoán; hướng dẫn theo dõi trang chính thức. Trang tin bên thứ ba (mia.vn: 9h–19h30) không dùng. Không viết về khu vui chơi cạn/phần còn hoạt động ngoài mùa nước vì không có nguồn. Không nêu số hotline công viên (brief chỉ cho số cửa hàng). Bãi gửi xe, khoảng cách từ Long Biên chưa có nguồn.",
+    "outline": [
+      "Câu trả lời ngắn: công viên nước Hồ Tây đã đóng mùa 2026 từ 21/9",
+      "Lịch mùa 2026: mở 18/4, các mốc ưu đãi đầu và cuối mùa",
+      "Vé: những mức giá đã công bố và quy định dưới 0,9 m",
+      "Theo dõi lịch mở mùa sau ở đâu",
+      "Mùa thu đông quanh Hồ Tây đi đâu thay thế",
+      "Lưu ý khi đi xe máy tới Lạc Long Quân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/phu-tay-ho/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00330.json",
+  "draft_template": {
+    "id": "TM-00330",
+    "url": "/du-lich/cong-vien-nuoc-ho-tay/",
+    "title": "Công viên nước Hồ Tây 2026: đã đóng mùa từ 21/9, khi nào mở lại",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "công viên nước hồ tây, công viên nước hồ tây mở cửa, giá vé công viên nước hồ tây, công viên nước hồ tây 2026, công viên hồ tây 614 lạc long quân, công viên nước hồ tây đóng cửa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: công viên nước Hồ Tây đã đóng mùa 2026 từ 21/9",
+        "<p></p>"
+      ],
+      [
+        "Lịch mùa 2026: mở 18/4, các mốc ưu đãi đầu và cuối mùa",
+        "<p></p>"
+      ],
+      [
+        "Vé: những mức giá đã công bố và quy định dưới 0,9 m",
+        "<p></p>"
+      ],
+      [
+        "Theo dõi lịch mở mùa sau ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Mùa thu đông quanh Hồ Tây đi đâu thay thế",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xe máy tới Lạc Long Quân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://congvienhotay.vn/tam-biet-mua-hoat-dong-2026-hen-gap-lai-tai-cong-vien-nuoc-ho-tay/",
+        "quote": "Công viên Hồ Tây (congvienhotay.vn), 'Tạm biệt mùa hoạt động 2026 – Hẹn gặp lại tại Công viên Nước Hồ Tây' (đăng 21/9/2026, sửa 25/9/2026; đọc 13/10/2026): 'Công viên Nước Hồ Tây chính thức khép lại mùa hoạt động 2026 từ ngày 21/9/2026'; 'Hẹn gặp lại Quý khách trong mùa hoạt động tiếp theo'; địa chỉ 614 Lạc Long Quân, Tây Hồ, Hà Nội. Đơn vị: Công ty CP Dịch vụ Giải trí Hà Nội – Khu vui chơi giải trí Công viên Hồ Tây.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://congvienhotay.vn/tri-an-tam-biet-mua-he-2026-ve-cong-vien-nuoc-ho-tay-dong-gia-chi-99k/",
+        "quote": "Công viên Hồ Tây, 'Tri ân – Tạm biệt mùa hè 2026: vé Công viên Nước Hồ Tây đồng giá chỉ 99K' (đăng 10/9/2026; đọc 13/10/2026): đồng giá vé trọn gói 99.000 đồng/người chỉ trong Chủ nhật 20/9/2026; miễn phí vé cho khách cao dưới 0,9 m; săn vé livestream 68.000 đồng từ 14/9 đến 17/9/2026, khung 11h00–12h00; đặt vé online ticket.congvienhotay.vn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoitourist.com.vn/cong-vien-nuoc-ho-tay-chinh-thuc-mo-cua-mua-he-2026-n701.html",
+        "quote": "Hanoitourist (Tổng công ty Du lịch Hà Nội), 'Công viên nước Hồ Tây chính thức mở cửa mùa hè 2026' (đọc 13/10/2026): ngày 18/4/2026 công viên mở cửa đón khách với chương trình 'Hải trình mùa hè 2026'; giá vé ngày khai mạc 98.000 đồng/vé trọn gói; từ 19/4 đến 24/4/2026 đồng giá 150.000 đồng/vé cho du khách cao trên 0,9 m.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://congvienhotay.vn/thoi-gian-dong-mo-cua-cong-vien-nuoc-thang-8-2026/",
+        "quote": "Công viên Hồ Tây, 'Thời gian đóng mở cửa công viên nước tháng 8.2026' (đăng 4/8/2026; đọc 13/10/2026): bảng giờ dạng ảnh (không đọc được chữ); lưu ý 'Thời gian đóng mở cửa có thể thay đổi tùy theo tình hình thời tiết thực tế'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00330"
+  }
+}

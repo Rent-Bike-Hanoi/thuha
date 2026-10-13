@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w9c",
+  "queued": "2026-10-13T14:57:44.921999+00:00",
+  "topic": {
+    "topic_id": "TM-00326",
+    "url": "/du-lich/den-ghenh-long-bien/",
+    "title": "Đền Ghềnh Long Biên: thờ Ngọc Hân công chúa, lễ hội tháng Tám âm lịch",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền ghềnh long biên",
+    "secondary_keywords": [
+      "đền ghềnh",
+      "đền ghềnh bồ đề",
+      "thiên quang linh từ",
+      "lễ hội đền ghềnh",
+      "đền thờ ngọc hân công chúa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người dân Long Biên và khách thập phương muốn đi lễ đền Ghềnh cần biết đền ở đâu, thờ ai, có gì khác các đền Mẫu khác và lễ hội diễn ra ngày nào.",
+    "information_gain": "Site chưa có bài về đền Ghềnh. Gần nhất là /du-lich/phu-tay-ho/ (một đền Mẫu khác bên kia sông, có nội dung giờ mở, ngày đông), /du-lich/cau-chuong-duong/ và /du-lich/ha-noi/cau-long-bien/. Bài này thêm: tên chữ Thiên Quang linh từ, vị trí mép sông Hồng gần cầu Chương Dương thuộc thôn Ái Mộ cũ; truyền thuyết hài cốt mẹ con Bắc Cung hoàng hậu Lê Ngọc Hân; đền xây năm 1858 do bà Đặng Thị Bản quyên góp; 6 điểm bài trí khác thường trong điện thờ; lễ hội mùng 6–12 tháng Tám âm lịch với lễ rước nước và tục dâng mía, khế, bánh đa; chuông đúc năm 1876 (Tự Đức). Nguồn khu di tích liên quan lấy từ trang Giáo hội Phật giáo Hà Nội.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-ghenh-quan-long-bien-69053.html",
+        "quote": "Báo Người Hà Nội, mục Danh thắng & Di tích Hà Nội, 'Đền Ghềnh (quận Long Biên)' (đăng 12/4/2023; đọc 13/10/2026): tên chữ 'Thiên Quang linh từ', ở ngay mép sông Hồng gần cầu Chương Dương, thuộc thôn Ái Mộ, xã Bồ Đề, huyện Gia Lâm, nay là phường Bồ Đề, quận Long Biên. Gọi là Ghềnh vì xưa nước sông chảy xiết, cuộn ghềnh. Đền gắn với truyền thuyết ba bộ hài cốt mẹ con Ngọc Hân công chúa – Bắc Cung hoàng hậu của vua Quang Trung – bị triều Nguyễn thả xuống sông Hồng khu vực Ái Mộ; bà được coi là hóa thân Mẫu Thoải.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-ghenh-quan-long-bien-69053.html",
+        "quote": "Cùng bài (đọc 13/10/2026): theo tộc phả họ Đặng Đình làng Ái Mộ, đền do bà Đặng Thị Bản quyên góp xây năm 1858 trên khuôn viên chừng 3 mẫu Bắc bộ, có gò núi Kim Quy. Điện thần khác thường: trong cung cấm chỉ có tượng hoàng hậu Ngọc Hân (Mẫu Thoải), không có Mẫu Thiên, Mẫu Địa; Tứ vị Thánh Chầu ở hai bên ngoài Hậu cung; ban thờ ông Hổ ngoài sân quay thẳng vào chính điện. Lễ hội từ mùng 6 đến 12 tháng Tám âm lịch, nghi lễ chính là rước nước; tục vác cây mía treo chùm khế và xâu bánh đa nay không còn nhưng tục dâng bánh đa và khế vẫn giữ. Di vật: chuông đúc thời Tự Đức (1876), kiệu Long đình và kiệu Mẫu, đại tự, hoành phi, câu đối.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://phatgiaohanoi.vn/chua-bo-de-long-bien.html",
+        "quote": "Giáo hội Phật giáo Việt Nam TP Hà Nội, bài 'Chùa Bồ Đề – Long Biên' (đọc 13/10/2026): chùa Bồ Đề ở ngoài đê bờ Bắc gần chân cầu Chương Dương, tổ 2 phường Bồ Đề; 'Xung quanh chùa có rất nhiều di tích khác như đền Ghềnh, đền Chầu, chùa Lâm Du, chùa Ái Mộ'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 210,
+        "checked": "2026-10-13",
+        "keyword": "đền ghềnh long biên"
+      }
+    ],
+    "notes": "Trang phường Bồ Đề (bode.hanoi.gov.vn/di-tich-lich-su-va-van-hoa/den-ghenh-...) trả lỗi 503/kết nối khi đọc 13/10/2026 nên không dùng; nếu writer mở được thì bổ sung năm xếp hạng di tích. Không có nguồn về giờ mở cửa, xếp hạng di tích, chỗ gửi xe, khoảng cách từ cửa hàng – không viết số. Ngày lễ hội là âm lịch; không tự quy đổi dương lịch năm 2026 nếu không có nguồn. Truyền thuyết hài cốt là truyền thuyết – viết đúng giọng 'tương truyền'. Không khuyến khích đồ lễ/ý kiến tín ngưỡng ngoài nguồn.",
+    "outline": [
+      "Đền Ghềnh ở đâu: mép sông Hồng, phường Bồ Đề",
+      "Ngọc Hân công chúa và truyền thuyết Thiên Quang linh từ",
+      "Đền dựng năm 1858 và những điểm bài trí khác thường",
+      "Lễ hội mùng 6–12 tháng Tám âm lịch: rước nước, mía, khế, bánh đa",
+      "Kết hợp chùa Bồ Đề và các di tích Ái Mộ",
+      "Lưu ý khi đi lễ bằng xe máy từ Long Biên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/phu-tay-ho/",
+      "/du-lich/cau-chuong-duong/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00326.json",
+  "draft_template": {
+    "id": "TM-00326",
+    "url": "/du-lich/den-ghenh-long-bien/",
+    "title": "Đền Ghềnh Long Biên: thờ Ngọc Hân công chúa, lễ hội tháng Tám âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền ghềnh long biên, đền ghềnh, đền ghềnh bồ đề, thiên quang linh từ, lễ hội đền ghềnh, đền thờ ngọc hân công chúa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Ghềnh ở đâu: mép sông Hồng, phường Bồ Đề",
+        "<p></p>"
+      ],
+      [
+        "Ngọc Hân công chúa và truyền thuyết Thiên Quang linh từ",
+        "<p></p>"
+      ],
+      [
+        "Đền dựng năm 1858 và những điểm bài trí khác thường",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội mùng 6–12 tháng Tám âm lịch: rước nước, mía, khế, bánh đa",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp chùa Bồ Đề và các di tích Ái Mộ",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi lễ bằng xe máy từ Long Biên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-ghenh-quan-long-bien-69053.html",
+        "quote": "Báo Người Hà Nội, mục Danh thắng & Di tích Hà Nội, 'Đền Ghềnh (quận Long Biên)' (đăng 12/4/2023; đọc 13/10/2026): tên chữ 'Thiên Quang linh từ', ở ngay mép sông Hồng gần cầu Chương Dương, thuộc thôn Ái Mộ, xã Bồ Đề, huyện Gia Lâm, nay là phường Bồ Đề, quận Long Biên. Gọi là Ghềnh vì xưa nước sông chảy xiết, cuộn ghềnh. Đền gắn với truyền thuyết ba bộ hài cốt mẹ con Ngọc Hân công chúa – Bắc Cung hoàng hậu của vua Quang Trung – bị triều Nguyễn thả xuống sông Hồng khu vực Ái Mộ; bà được coi là hóa thân Mẫu Thoải.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-ghenh-quan-long-bien-69053.html",
+        "quote": "Cùng bài (đọc 13/10/2026): theo tộc phả họ Đặng Đình làng Ái Mộ, đền do bà Đặng Thị Bản quyên góp xây năm 1858 trên khuôn viên chừng 3 mẫu Bắc bộ, có gò núi Kim Quy. Điện thần khác thường: trong cung cấm chỉ có tượng hoàng hậu Ngọc Hân (Mẫu Thoải), không có Mẫu Thiên, Mẫu Địa; Tứ vị Thánh Chầu ở hai bên ngoài Hậu cung; ban thờ ông Hổ ngoài sân quay thẳng vào chính điện. Lễ hội từ mùng 6 đến 12 tháng Tám âm lịch, nghi lễ chính là rước nước; tục vác cây mía treo chùm khế và xâu bánh đa nay không còn nhưng tục dâng bánh đa và khế vẫn giữ. Di vật: chuông đúc thời Tự Đức (1876), kiệu Long đình và kiệu Mẫu, đại tự, hoành phi, câu đối.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://phatgiaohanoi.vn/chua-bo-de-long-bien.html",
+        "quote": "Giáo hội Phật giáo Việt Nam TP Hà Nội, bài 'Chùa Bồ Đề – Long Biên' (đọc 13/10/2026): chùa Bồ Đề ở ngoài đê bờ Bắc gần chân cầu Chương Dương, tổ 2 phường Bồ Đề; 'Xung quanh chùa có rất nhiều di tích khác như đền Ghềnh, đền Chầu, chùa Lâm Du, chùa Ái Mộ'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00326"
+  }
+}

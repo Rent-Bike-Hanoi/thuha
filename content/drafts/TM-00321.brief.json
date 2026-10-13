@@ -1,0 +1,177 @@
+{
+  "writer": "writer-w9b",
+  "queued": "2026-10-13T14:57:44.785058+00:00",
+  "topic": {
+    "topic_id": "TM-00321",
+    "url": "/xe-dien/vinfast-kyo/",
+    "title": "VinFast Kyo: giá 30 triệu, ~70 km/h, cốp 21 lít, pin LFP đổi được",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "vinfast kyo",
+    "secondary_keywords": [
+      "xe máy điện vinfast kyo giá",
+      "vinfast kyo thông số",
+      "vinfast kyo đi được bao nhiêu km",
+      "vinfast kyo cần bằng gì",
+      "kyo bảo hành pin"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi làm muốn xe máy điện tầm 30 triệu chạy được ~70 km/h cân nhắc VinFast Kyo, cần biết giá, quãng đường mỗi lần sạc khi có/không pin phụ, công suất, cốp, bảo hành và có cần bằng lái không.",
+    "information_gain": "Site có /xe-dien/vinfast-feliz-s/, /xe-dien/vinfast-viper/, /xe-dien/vinfast-vero-x/ và /xe-dien/tram-doi-pin-vinfast/ nhưng chưa có bài về Kyo (dòng trung cấp mới). Bài thêm số liệu VinFast đọc 13/10/2026: giá niêm yết 30 triệu; công suất tối đa 3000 W; ~70 km/h (1 người 65 kg, chế độ Sport); ~160 km/lần sạc khi lắp thêm pin phụ (2 pin 1,5 kWh, đo ở 30 km/h); 0–50 km/h 16 giây; sạc 0–100% khoảng 4 giờ 30 phút; cốp 21 l; yên 785 mm; gầm 160 mm; bảo hành xe 6 năm, pin 8 năm không giới hạn km; so giá với Viper, Vero X, Feliz trong menu VinFast; áp Điều 34 điểm g và Điều 57: tốc độ trên 50 km/h nên là mô tô, cần bằng A1.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-kyo",
+        "quote": "VinFast, trang \"Xe máy điện Kyo chính hãng - Thông số, giá bán mới nhất\" (đọc 13/10/2026 qua Tavily extract): \"Giá niêm yết 30 triệu đồng\"; xe máy điện đổi pin; tốc độ tối đa ~70 km/h (1 người 65 kg/Chế độ Sport); ~160 km/lần sạc (khi lắp thêm pin phụ); bảo hành xe 6 năm/không giới hạn số km, bảo hành pin 8 năm/không giới hạn số km. Thông số: D x R x C 1999 x 694 x 1130 mm; yên 785 mm; gầm 160 mm; cốp 21L; công suất tối đa 3000W; tăng tốc 0–50 km/h 16 giây (1 người 65 kg); dung lượng pin 1.5 kWh (tùy chọn thêm 1 pin 1.5 kWh); pin LFP; Smart Key; màn hình TFT kết nối Bluetooth; tìm xe từ xa, định vị, vùng an toàn qua ứng dụng; hỗ trợ khởi hành ngang dốc; pin LFP sạc tiêu chuẩn khoảng 4 giờ 30 phút từ 0–100%; khuyên giữ trên 20%, không sạc khi pin nóng trên 45°C, hệ thống không nhận sạc khi pin trên 55°C. Lưu ý: quãng đường đo khi lắp 2 pin theo điều kiện kiểm thử của VinFast tại 30 km/h; thực tế có thể giảm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-kyo",
+        "quote": "VinFast, menu xe máy điện trên cùng trang (đọc 13/10/2026): xe cao cấp Kinet từ 40.000.000 VNĐ, Viper từ 35.000.000 VNĐ, Vero X từ 34.900.000 VNĐ; xe trung cấp Kyo từ 30.000.000 VNĐ, Feliz II từ 23.000.000 VNĐ, Feliz 2025 từ 26.000.000 VNĐ, Feliz 2027 từ 26.900.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: \"Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy\"; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\"; điểm b: đủ 18 tuổi được cấp GPLX hạng A1, A. Điều 57 khoản 1 điểm a: hạng A1 cho mô tô hai bánh đến 125 cm3 hoặc động cơ điện đến 11 kW.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "vinfast kyo"
+      }
+    ],
+    "notes": "Chưa xác minh: (1) vinfastauto.com chặn curl/WebFetch (403) – nội dung đọc qua Tavily extract cùng ngày; writer nên mở lại trang trước khi đăng; (2) trang không ghi công suất danh định, quãng đường khi chỉ có 1 pin, trọng lượng xe, phanh, cỡ lốp, giá thuê pin – không tự thêm; (3) \"Giá niêm yết 30 triệu\" chưa rõ đã gồm pin hay chưa – không khẳng định; (4) kết luận cần bằng A1: tốc độ ~70 km/h > 50 km/h nên không phải xe gắn máy theo Điều 34 điểm g; 3000 W ≤ 11 kW nên thuộc A1 theo Điều 57. Business-facts chỉ ghi cửa hàng có xe điện Tailg: không viết cửa hàng cho thuê Kyo.",
+    "outline": [
+      "VinFast Kyo là xe gì, giá niêm yết tháng 10/2026",
+      "Hiệu năng: 3000 W, ~70 km/h, 0–50 km/h 16 giây",
+      "Pin LFP 1,5 kWh, pin phụ và quãng đường ~160 km đo thế nào",
+      "Tiện ích: cốp 21 lít, Smart Key, TFT Bluetooth, ứng dụng",
+      "Bảo hành 6 năm xe, 8 năm pin",
+      "Kyo là mô tô điện: cần bằng A1, không phải xe gắn máy",
+      "Kyo đặt cạnh Feliz, Viper, Vero X"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/vinfast-viper/",
+      "/xe-dien/vinfast-feliz-s/",
+      "/xe-dien/tram-doi-pin-vinfast/",
+      "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+      "/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00321.json",
+  "draft_template": {
+    "id": "TM-00321",
+    "url": "/xe-dien/vinfast-kyo/",
+    "title": "VinFast Kyo: giá 30 triệu, ~70 km/h, cốp 21 lít, pin LFP đổi được",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vinfast kyo, xe máy điện vinfast kyo giá, vinfast kyo thông số, vinfast kyo đi được bao nhiêu km, vinfast kyo cần bằng gì, kyo bảo hành pin",
+    "excerpt": "",
+    "sections": [
+      [
+        "VinFast Kyo là xe gì, giá niêm yết tháng 10/2026",
+        "<p></p>"
+      ],
+      [
+        "Hiệu năng: 3000 W, ~70 km/h, 0–50 km/h 16 giây",
+        "<p></p>"
+      ],
+      [
+        "Pin LFP 1,5 kWh, pin phụ và quãng đường ~160 km đo thế nào",
+        "<p></p>"
+      ],
+      [
+        "Tiện ích: cốp 21 lít, Smart Key, TFT Bluetooth, ứng dụng",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành 6 năm xe, 8 năm pin",
+        "<p></p>"
+      ],
+      [
+        "Kyo là mô tô điện: cần bằng A1, không phải xe gắn máy",
+        "<p></p>"
+      ],
+      [
+        "Kyo đặt cạnh Feliz, Viper, Vero X",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-kyo",
+        "quote": "VinFast, trang \"Xe máy điện Kyo chính hãng - Thông số, giá bán mới nhất\" (đọc 13/10/2026 qua Tavily extract): \"Giá niêm yết 30 triệu đồng\"; xe máy điện đổi pin; tốc độ tối đa ~70 km/h (1 người 65 kg/Chế độ Sport); ~160 km/lần sạc (khi lắp thêm pin phụ); bảo hành xe 6 năm/không giới hạn số km, bảo hành pin 8 năm/không giới hạn số km. Thông số: D x R x C 1999 x 694 x 1130 mm; yên 785 mm; gầm 160 mm; cốp 21L; công suất tối đa 3000W; tăng tốc 0–50 km/h 16 giây (1 người 65 kg); dung lượng pin 1.5 kWh (tùy chọn thêm 1 pin 1.5 kWh); pin LFP; Smart Key; màn hình TFT kết nối Bluetooth; tìm xe từ xa, định vị, vùng an toàn qua ứng dụng; hỗ trợ khởi hành ngang dốc; pin LFP sạc tiêu chuẩn khoảng 4 giờ 30 phút từ 0–100%; khuyên giữ trên 20%, không sạc khi pin nóng trên 45°C, hệ thống không nhận sạc khi pin trên 55°C. Lưu ý: quãng đường đo khi lắp 2 pin theo điều kiện kiểm thử của VinFast tại 30 km/h; thực tế có thể giảm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-kyo",
+        "quote": "VinFast, menu xe máy điện trên cùng trang (đọc 13/10/2026): xe cao cấp Kinet từ 40.000.000 VNĐ, Viper từ 35.000.000 VNĐ, Vero X từ 34.900.000 VNĐ; xe trung cấp Kyo từ 30.000.000 VNĐ, Feliz II từ 23.000.000 VNĐ, Feliz 2025 từ 26.000.000 VNĐ, Feliz 2027 từ 26.900.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: \"Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy\"; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\"; điểm b: đủ 18 tuổi được cấp GPLX hạng A1, A. Điều 57 khoản 1 điểm a: hạng A1 cho mô tô hai bánh đến 125 cm3 hoặc động cơ điện đến 11 kW.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00321"
+  }
+}

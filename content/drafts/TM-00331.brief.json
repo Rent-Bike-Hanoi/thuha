@@ -1,0 +1,133 @@
+{
+  "writer": "writer-w9d",
+  "queued": "2026-10-13T14:57:45.049364+00:00",
+  "topic": {
+    "topic_id": "TM-00331",
+    "url": "/du-lich/dinh-kim-ngan-hang-bac/",
+    "title": "Đình Kim Ngân 42 Hàng Bạc: đình thờ tổ nghề kim hoàn, xem gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình kim ngân hàng bạc",
+    "secondary_keywords": [
+      "đình kim ngân",
+      "đình kim ngân 42 hàng bạc",
+      "đình thờ tổ nghề kim hoàn",
+      "phố hàng bạc",
+      "di tích phố cổ hàng bạc"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi phố cổ muốn ghé một di tích ít đông ở phố Hàng Bạc cần biết đình Kim Ngân ở số mấy, thờ ai, lịch sử nghề kim hoàn ở đây và hiện có trưng bày, trải nghiệm gì.",
+    "information_gain": "Site đã có /du-lich/ha-noi/pho-co/, /du-lich/den-bach-ma-76-hang-buom/, /du-lich/nha-co-87-ma-may/ và /du-lich/hoi-quan-quang-dong-22-hang-buom/ nhưng chưa có bài về đình Kim Ngân. Bài này thêm: địa chỉ 42–44 Hàng Bạc; xây thời Hậu Lê, thờ tổ bách nghệ Hiên Viên; gốc tích người làng Châu Khê (Hải Dương) đúc bạc cho triều đình, đình Trương số 50, 'Tràng' số 58; năm 2009 di dời hộ dân, tôn tạo; xếp hạng di tích quốc gia (Hà Nội Mới: 10/2012; VOV: 2013); nơi tổ chức ca trù; dự án 'Không gian kể chuyện đình Kim Ngân' (11–12/2025) với khu trưng bày hoa văn, trình diễn nghề.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/dinh-kim-ngan-va-cau-chuyen-nhung-nguoi-tho-kim-hoan-pho-co-ha-thanh-416838.html",
+        "quote": "Báo Hà Nội Mới, 'Đình Kim Ngân và câu chuyện những người thợ kim hoàn phố cổ Hà thành' (đăng 23/12/2015; đọc 13/10/2026): lối vào số 42 Hàng Bạc; đình xây thời Hậu Lê, thờ tổ bách nghệ Hiên Viên; theo nhà Hà Nội học Nguyễn Vinh Phúc, có từ cuối thế kỷ XV đầu XVI do ông Lưu Xuân Tín người làng Châu Khê (Bình Giang, Hải Dương) đưa dân làng ra làm nghề đúc bạc cho triều đình; dân Châu Khê lập đình Trương (số 50) và đình Kim Ngân (số 42); 'Tràng' (số 58) là nơi nấu bạc. Kiến trúc: nghi môn, sân, tiền tế, hậu cung kiểu chữ Công. Năm 2009 quận Hoàn Kiếm hoàn tất di dời hộ dân, tôn tạo; được xếp hạng Di tích quốc gia tháng 10/2012; thường diễn ra hát ca trù.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/khong-gian-ke-chuyen-dinh-kim-ngan-danh-thuc-ky-uc-phuong-nghe-pho-co-ha-noi-post1248073.vov",
+        "quote": "VOV, 'Không gian kể chuyện đình Kim Ngân: Đánh thức ký ức phường nghề phố cổ Hà Nội' (đăng 22/11/2025; đọc 13/10/2026): đình Kim Ngân số 42–44 Hàng Bạc, phường Hoàn Kiếm, 'được Bộ Văn hóa công nhận là di tích Kiến trúc - Nghệ thuật cấp quốc gia năm 2013'; Ban Quản lý hồ Hoàn Kiếm và Phố cổ Hà Nội ra mắt dự án 'Không gian kể chuyện đình Kim Ngân' gồm khu trưng bày hệ thống hoa văn đặc hữu, sân đình làm không gian trình diễn nghề, nghệ nhân dát bạc Kiêu Kỵ, chạm bạc Đồng Xâm, sừng Đô Hai, mộc bản Thanh Liễu; thế kỷ XIX đình giữ chức năng thờ tổ, hội họp, đúc bạc, đổi tiền; chương trình diễn ra đến hết 15/12/2025 và dự kiến làm mô hình mẫu nhân rộng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đình kim ngân hàng bạc"
+      }
+    ],
+    "notes": "Năm xếp hạng lệch: Hà Nội Mới 10/2012, VOV 2013 – nêu cả hai hoặc ghi 'khoảng 2012–2013 theo các nguồn báo'. Không tìm được giờ mở cửa, vé, nội quy chính thức; chương trình trải nghiệm 2025 đã kết thúc 15/12/2025 – không hứa còn trình diễn. Không có nguồn chỗ gửi xe máy quanh Hàng Bạc – link bài phố cổ/chợ đêm thay vì tự viết; nhắc phố đi bộ cuối tuần chỉ qua link /du-lich/cho-dem-pho-co-ha-noi/. Chưa có nguồn đã đọc xác nhận Hàng Bạc nằm trong vùng hạn chế phát thải khu vực 1 – không viết. Bài baotintuc.vn (2022) không đọc được nội dung.",
+    "outline": [
+      "Đình Kim Ngân ở đâu trên phố Hàng Bạc",
+      "Người Châu Khê, nghề đúc bạc và ba địa chỉ 42 – 50 – 58",
+      "Kiến trúc và di vật trong đình",
+      "Từ khu nhà ở chen chúc đến di tích quốc gia",
+      "Không gian kể chuyện 2025 và ca trù",
+      "Ghép tuyến Hàng Bạc – Hàng Buồm – Mã Mây"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/den-bach-ma-76-hang-buom/",
+      "/du-lich/nha-co-87-ma-may/",
+      "/du-lich/cho-dem-pho-co-ha-noi/",
+      "/du-lich/hoi-quan-quang-dong-22-hang-buom/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00331.json",
+  "draft_template": {
+    "id": "TM-00331",
+    "url": "/du-lich/dinh-kim-ngan-hang-bac/",
+    "title": "Đình Kim Ngân 42 Hàng Bạc: đình thờ tổ nghề kim hoàn, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình kim ngân hàng bạc, đình kim ngân, đình kim ngân 42 hàng bạc, đình thờ tổ nghề kim hoàn, phố hàng bạc, di tích phố cổ hàng bạc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Kim Ngân ở đâu trên phố Hàng Bạc",
+        "<p></p>"
+      ],
+      [
+        "Người Châu Khê, nghề đúc bạc và ba địa chỉ 42 – 50 – 58",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc và di vật trong đình",
+        "<p></p>"
+      ],
+      [
+        "Từ khu nhà ở chen chúc đến di tích quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Không gian kể chuyện 2025 và ca trù",
+        "<p></p>"
+      ],
+      [
+        "Ghép tuyến Hàng Bạc – Hàng Buồm – Mã Mây",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/dinh-kim-ngan-va-cau-chuyen-nhung-nguoi-tho-kim-hoan-pho-co-ha-thanh-416838.html",
+        "quote": "Báo Hà Nội Mới, 'Đình Kim Ngân và câu chuyện những người thợ kim hoàn phố cổ Hà thành' (đăng 23/12/2015; đọc 13/10/2026): lối vào số 42 Hàng Bạc; đình xây thời Hậu Lê, thờ tổ bách nghệ Hiên Viên; theo nhà Hà Nội học Nguyễn Vinh Phúc, có từ cuối thế kỷ XV đầu XVI do ông Lưu Xuân Tín người làng Châu Khê (Bình Giang, Hải Dương) đưa dân làng ra làm nghề đúc bạc cho triều đình; dân Châu Khê lập đình Trương (số 50) và đình Kim Ngân (số 42); 'Tràng' (số 58) là nơi nấu bạc. Kiến trúc: nghi môn, sân, tiền tế, hậu cung kiểu chữ Công. Năm 2009 quận Hoàn Kiếm hoàn tất di dời hộ dân, tôn tạo; được xếp hạng Di tích quốc gia tháng 10/2012; thường diễn ra hát ca trù.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/khong-gian-ke-chuyen-dinh-kim-ngan-danh-thuc-ky-uc-phuong-nghe-pho-co-ha-noi-post1248073.vov",
+        "quote": "VOV, 'Không gian kể chuyện đình Kim Ngân: Đánh thức ký ức phường nghề phố cổ Hà Nội' (đăng 22/11/2025; đọc 13/10/2026): đình Kim Ngân số 42–44 Hàng Bạc, phường Hoàn Kiếm, 'được Bộ Văn hóa công nhận là di tích Kiến trúc - Nghệ thuật cấp quốc gia năm 2013'; Ban Quản lý hồ Hoàn Kiếm và Phố cổ Hà Nội ra mắt dự án 'Không gian kể chuyện đình Kim Ngân' gồm khu trưng bày hệ thống hoa văn đặc hữu, sân đình làm không gian trình diễn nghề, nghệ nhân dát bạc Kiêu Kỵ, chạm bạc Đồng Xâm, sừng Đô Hai, mộc bản Thanh Liễu; thế kỷ XIX đình giữ chức năng thờ tổ, hội họp, đúc bạc, đổi tiền; chương trình diễn ra đến hết 15/12/2025 và dự kiến làm mô hình mẫu nhân rộng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00331"
+  }
+}

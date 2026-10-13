@@ -1,0 +1,165 @@
+{
+  "writer": "writer-w9c",
+  "queued": "2026-10-13T14:57:44.921680+00:00",
+  "topic": {
+    "topic_id": "TM-00325",
+    "url": "/du-lich/chua-bo-de-long-bien/",
+    "title": "Chùa Bồ Đề Long Biên: Thiên Sơn tự bên sông Hồng, bia 1614, xem gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa bồ đề long biên",
+    "secondary_keywords": [
+      "chùa bồ đề",
+      "thiên sơn tự",
+      "chùa bồ đề ở đâu",
+      "chùa bồ đề gần cầu chương dương",
+      "chùa bồ đề có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Long Biên, Gia Lâm và khách thuê xe gần Bến xe Gia Lâm muốn ghé chùa Bồ Đề cần biết chùa ở đâu (ngoài đê, gần chân cầu Chương Dương), lịch sử, có gì để xem và nên lưu ý gì khi đi lễ.",
+    "information_gain": "Site chưa có bài về chùa Bồ Đề. Gần nhất là /du-lich/cau-chuong-duong/ (chỉ nói làn xe và giờ cấm trên cầu), /du-lich/ha-noi/bai-giua-song-hong/ và /du-lich/ha-noi/cau-long-bien/ (cảnh ven sông). Bài này thêm dữ liệu từ trang Giáo hội Phật giáo TP Hà Nội: vị trí ngoài đê, tổ 2 phường Bồ Đề, gần chân cầu Chương Dương; tên chữ Thiên Sơn tự; 4 tấm bia 1614, 1838, 1905, 1920; tiền đường 5 gian 2 chái, 11 bậc thềm cao gần 2 m, niên đại trùng tu 1902; bố cục chùa chính, nhà Tổ, điện Mẫu; các di tích lân cận (đền Ghềnh, đền Chầu, chùa Lâm Du, chùa Ái Mộ); và từ Tạp chí Kiến trúc: tượng Quan Âm cao 3,2 m dựng năm 1999, lũ 1951, trùng tu 1971 và 1986, chùa nuôi dạy trẻ mồ côi.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://phatgiaohanoi.vn/chua-bo-de-long-bien.html",
+        "quote": "Giáo hội Phật giáo Việt Nam TP Hà Nội, bài 'Chùa Bồ Đề – Long Biên' (đọc 13/10/2026, trang không ghi ngày): chùa tọa lạc trên bãi bồi ven sông Hồng ngoài đê bờ Bắc, gần chân cầu Chương Dương, trước thuộc thôn Phú Viên, xã Bồ Đề, huyện Gia Lâm, nay thuộc tổ 2 phường Bồ Đề, quận Long Biên; xung quanh có đền Ghềnh, đền Chầu, chùa Lâm Du, chùa Ái Mộ. Tên chữ 'Thiên Sơn Tự' hay 'Thiên Cổ tự'; tương truyền tên Nôm Bồ Đề có từ thời Lý vì có 2 cây bồ đề lớn đối xứng qua sông với tháp Báo Thiên; sử chép Lê Lợi, Nguyễn Trãi đặt đại bản doanh ở nơi tên Bồ Đề khi vây thành Đông Quan nhưng 'có phải là Bồ Đề ngày nay hay ở nơi khác còn cần được nghiên cứu thêm'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://phatgiaohanoi.vn/chua-bo-de-long-bien.html",
+        "quote": "Cùng trang (đọc 13/10/2026): bia đá năm Hoằng Định thứ 15 (1614) cho thấy chùa có ít nhất từ thế kỷ XVI; 4 tấm bia: Hoằng Định 15 (1614), Minh Mệnh 19 (1838), Thành Thái 17 (1905), Khải Định 5 (1920). Chùa chính kiểu chữ Đinh (Tiền đường + Thượng điện); Tiền đường 5 gian 2 chái, nền cao với 11 bậc thềm cao gần 2 m, đôi sấu đá phong cách Hậu Lê; nóc Tiền đường ghi niên đại trùng tu Nhâm Dần (1902); Thượng điện mái vòm cuốn bê tông, 3 lầu gác chuông; trước sân có Điện Mẫu (phải) và Nhà Tổ (trái); chùa là trụ sở đào tạo, học tập của Thành hội Phật giáo Hà Nội.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.tapchikientruc.com.vn/chuyen-muc/kientruc-xahoi/chua-bo-de-di-tich-thang-tram-cung-lich-su.html",
+        "quote": "Tạp chí Kiến trúc, 'Chùa Bồ Đề, di tích thăng trầm cùng lịch sử' (đăng 13/8/2014, nguồn Dân Việt; đọc 13/10/2026): chùa ở phố Phú Viên, phường Bồ Đề, cách bờ bắc cầu Chương Dương khoảng 500 m về phía Nam; thờ Phật, vương triều nhà Trần, tam tòa Thánh Mẫu; năm 1874 đại sư Thích Nguyên Biểu trùng tu; năm 1951 lũ lớn làm sạt lở chỉ còn tòa thượng điện; trùng tu năm 1971; đại trùng tu từ 1986 gồm nhà ở cho hơn 50 cháu cô nhi chùa nuôi dạy; năm 1999 xây lầu bát giác và tượng Quan Âm cao 3,2 m hướng ra sông Hồng; là chùa nữ, mái ấm cưu mang trẻ mồ côi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 260,
+        "checked": "2026-10-13",
+        "keyword": "chùa bồ đề long biên"
+      }
+    ],
+    "notes": "Không tìm được giờ mở cửa, quy định gửi xe hay phí chính thức; không viết giờ/phí. Khoảng cách từ cửa hàng (Ngõ 5 Nguyễn Văn Cừ) đến chùa chưa có nguồn đo – không ghi số km/phút. Niên đại khởi dựng có các thuyết khác nhau (Tạp chí Kiến trúc: cuối Trần khoảng 1427; bài còn có lỗi '1472'); viết theo bia 1614 và nói rõ là thuyết. Thông tin trụ trì, số trẻ mồ côi lấy từ bài 2014 – ghi năm, có thể đã thay đổi. Chùa ngoài đê, sát sông: lưu ý mùa lũ/đường đê – không có nguồn cụ thể nên chỉ khuyên kiểm tra thực tế. Không khẳng định thuộc vùng hạn chế phát thải (không có nguồn).",
+    "outline": [
+      "Chùa Bồ Đề ở đâu: ngoài đê Long Biên, gần chân cầu Chương Dương",
+      "Thiên Sơn tự và các thuyết về tên Bồ Đề",
+      "Bốn tấm bia và những lần trùng tu (1614–1999)",
+      "Xem gì: tiền đường 11 bậc thềm, điện Mẫu, nhà Tổ, tượng Quan Âm 3,2 m",
+      "Kết hợp đền Ghềnh và các di tích quanh Ái Mộ – Bồ Đề",
+      "Lưu ý khi đi lễ và đi xe máy từ Long Biên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cau-chuong-duong/",
+      "/du-lich/ha-noi/bai-giua-song-hong/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/thue-xe-may/long-bien/",
+      "/du-lich/ha-noi/ben-xe-gia-lam/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/chua-mot-cot/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.43
+        }
+      },
+      {
+        "url": "/du-lich/chua-ha-cau-giay/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.666
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/chua-ha-cau-giay/",
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00325.json",
+  "draft_template": {
+    "id": "TM-00325",
+    "url": "/du-lich/chua-bo-de-long-bien/",
+    "title": "Chùa Bồ Đề Long Biên: Thiên Sơn tự bên sông Hồng, bia 1614, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa bồ đề long biên, chùa bồ đề, thiên sơn tự, chùa bồ đề ở đâu, chùa bồ đề gần cầu chương dương, chùa bồ đề có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Bồ Đề ở đâu: ngoài đê Long Biên, gần chân cầu Chương Dương",
+        "<p></p>"
+      ],
+      [
+        "Thiên Sơn tự và các thuyết về tên Bồ Đề",
+        "<p></p>"
+      ],
+      [
+        "Bốn tấm bia và những lần trùng tu (1614–1999)",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: tiền đường 11 bậc thềm, điện Mẫu, nhà Tổ, tượng Quan Âm 3,2 m",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp đền Ghềnh và các di tích quanh Ái Mộ – Bồ Đề",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi lễ và đi xe máy từ Long Biên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://phatgiaohanoi.vn/chua-bo-de-long-bien.html",
+        "quote": "Giáo hội Phật giáo Việt Nam TP Hà Nội, bài 'Chùa Bồ Đề – Long Biên' (đọc 13/10/2026, trang không ghi ngày): chùa tọa lạc trên bãi bồi ven sông Hồng ngoài đê bờ Bắc, gần chân cầu Chương Dương, trước thuộc thôn Phú Viên, xã Bồ Đề, huyện Gia Lâm, nay thuộc tổ 2 phường Bồ Đề, quận Long Biên; xung quanh có đền Ghềnh, đền Chầu, chùa Lâm Du, chùa Ái Mộ. Tên chữ 'Thiên Sơn Tự' hay 'Thiên Cổ tự'; tương truyền tên Nôm Bồ Đề có từ thời Lý vì có 2 cây bồ đề lớn đối xứng qua sông với tháp Báo Thiên; sử chép Lê Lợi, Nguyễn Trãi đặt đại bản doanh ở nơi tên Bồ Đề khi vây thành Đông Quan nhưng 'có phải là Bồ Đề ngày nay hay ở nơi khác còn cần được nghiên cứu thêm'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://phatgiaohanoi.vn/chua-bo-de-long-bien.html",
+        "quote": "Cùng trang (đọc 13/10/2026): bia đá năm Hoằng Định thứ 15 (1614) cho thấy chùa có ít nhất từ thế kỷ XVI; 4 tấm bia: Hoằng Định 15 (1614), Minh Mệnh 19 (1838), Thành Thái 17 (1905), Khải Định 5 (1920). Chùa chính kiểu chữ Đinh (Tiền đường + Thượng điện); Tiền đường 5 gian 2 chái, nền cao với 11 bậc thềm cao gần 2 m, đôi sấu đá phong cách Hậu Lê; nóc Tiền đường ghi niên đại trùng tu Nhâm Dần (1902); Thượng điện mái vòm cuốn bê tông, 3 lầu gác chuông; trước sân có Điện Mẫu (phải) và Nhà Tổ (trái); chùa là trụ sở đào tạo, học tập của Thành hội Phật giáo Hà Nội.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.tapchikientruc.com.vn/chuyen-muc/kientruc-xahoi/chua-bo-de-di-tich-thang-tram-cung-lich-su.html",
+        "quote": "Tạp chí Kiến trúc, 'Chùa Bồ Đề, di tích thăng trầm cùng lịch sử' (đăng 13/8/2014, nguồn Dân Việt; đọc 13/10/2026): chùa ở phố Phú Viên, phường Bồ Đề, cách bờ bắc cầu Chương Dương khoảng 500 m về phía Nam; thờ Phật, vương triều nhà Trần, tam tòa Thánh Mẫu; năm 1874 đại sư Thích Nguyên Biểu trùng tu; năm 1951 lũ lớn làm sạt lở chỉ còn tòa thượng điện; trùng tu năm 1971; đại trùng tu từ 1986 gồm nhà ở cho hơn 50 cháu cô nhi chùa nuôi dạy; năm 1999 xây lầu bát giác và tượng Quan Âm cao 3,2 m hướng ra sông Hồng; là chùa nữ, mái ấm cưu mang trẻ mồ côi.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00325"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "writer": "writer-w9a",
+  "queued": "2026-10-13T14:57:44.633759+00:00",
+  "topic": {
+    "topic_id": "TM-00318",
+    "url": "/xe-may/yamaha-wr155r/",
+    "title": "Yamaha WR155R: giá 79 triệu, yên 880 mm, gầm 245 mm, cần bằng A",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "yamaha wr155r",
+    "secondary_keywords": [
+      "wr155r giá bao nhiêu",
+      "yamaha wr155r thông số",
+      "wr155r yên cao bao nhiêu",
+      "xe cào cào 155 yamaha",
+      "wr155r cần bằng gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người trẻ thích xe địa hình (dual-sport) để đi phố và đi phượt muốn biết Yamaha WR155R giá bao nhiêu, yên cao thế nào so với chiều cao người Việt, nặng, bình xăng, lốp và phải có bằng hạng gì.",
+    "information_gain": "Site có /xe-may/yamaha-xs155r/, /xe-may/yamaha-mt-15/, /xe-may/honda-ct125/ và bài phượt /du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/ nhưng chưa có bài WR155R. Bài thêm số liệu Yamaha đọc 13/10/2026: giá 79.000.000 đ, màu Đen; 155,1 cm³ VVA, 12,3 kW/10.000 vòng, 14,3 N·m/6.500 vòng, hộp số 6 cấp, ly hợp A&S; yên 880 mm, gầm 245 mm, nặng ướt 134 kg; bình 8,1 l; bánh 21/18 inch loại có săm; phanh đĩa hai bánh (trang không nêu ABS); bảo hành 3 năm/30.000 km; áp Điều 57 Luật 36/2024: 155,1 cm³ > 125 cm³ nên cần bằng A.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/wr155r-b3mf/",
+        "quote": "Yamaha Motor Việt Nam, trang WR155R (đọc 13/10/2026): giá bán lẻ đề xuất 79.000.000 VNĐ, màu Đen; \"mẫu xe địa hình 155cc thuộc dòng WR Series\", thiết kế Dual-Sport/Enduro; bánh trước 21 inch, sau 18 inch; khoảng sáng gầm 245 mm; khung semi-double cradle; màn hình LCD; bình xăng 8,1 lít; phanh đĩa trước và sau; đèn hazard; ly hợp A&S (assist & slipper); hộp số 6 cấp. Thông số: làm mát bằng dung dịch, 4 thì, SOHC, 4 van, xy-lanh đơn; 155,1 cm³; 58,0 × 58,7 mm; nén 11,6:1; 12,3 kW (16,7 PS) tại 10.000 vòng/phút; 14,3 N·m tại 6.500 vòng/phút; khởi động điện; dầu máy 1,10 L; phun xăng điện tử; ly hợp ướt đa đĩa; phuộc trước ống lồng, sau gắp có liên kết; phanh đĩa đơn thủy lực trước và sau; bánh 2.75-21 45P (có săm) / 4.10-18 59P (có săm); đèn trước halogen 12V 35/35W; D x R x C 2.145 × 840 × 1.200 mm; yên 880 mm; chiều dài cơ sở 1.430 mm; trọng lượng ướt 134 kg; bảo hành 3 năm hoặc 30,000km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, bảng giá xe máy tháng 10/2026 (đọc 13/10/2026), nhóm xe thể thao: WR155R giá 79.000.000 VNĐ; MT-15 giá từ 69.000.000 VNĐ; YZF-R15 từ 78.000.000 VNĐ; XS155R 78.000.000 VNĐ; MT-03 từ 129.000.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 320,
+        "checked": "2026-10-13",
+        "keyword": "yamaha wr155r"
+      }
+    ],
+    "notes": "Chưa xác minh: (1) trang không ghi mức tiêu hao nhiên liệu và không nhắc ABS – không viết có/không ABS, chỉ nói \"trang hãng ghi phanh đĩa đơn thủy lực hai bánh\"; (2) lốp loại có săm – khác đa số xe phố, không tự suy luận tốc độ vá; (3) không có số liệu chiều cao người phù hợp – chỉ nêu yên 880 mm và so với yên các xe đã có bài nếu bài đó ghi số. Business-facts không liệt kê WR155R: không viết cửa hàng cho thuê mẫu này; policies.age chỉ dùng nếu nói chung về điều kiện thuê xe trên 50cc.",
+    "outline": [
+      "Yamaha WR155R là xe gì, giá tháng 10/2026",
+      "Động cơ 155,1 cm³ VVA, hộp số 6 cấp, ly hợp A&S",
+      "Yên 880 mm, gầm 245 mm, bánh 21/18 inch: ưu và nhược khi đi phố",
+      "Bình 8,1 lít, phanh đĩa, lốp có săm khi đi đường dài",
+      "So giá với XS155R, MT-15 cùng hãng",
+      "Cần bằng A vì trên 125 cm³",
+      "Ai nên chọn WR155R"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/yamaha-xs155r/",
+      "/xe-may/yamaha-mt-15/",
+      "/xe-may/honda-ct125/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00318.json",
+  "draft_template": {
+    "id": "TM-00318",
+    "url": "/xe-may/yamaha-wr155r/",
+    "title": "Yamaha WR155R: giá 79 triệu, yên 880 mm, gầm 245 mm, cần bằng A",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "yamaha wr155r, wr155r giá bao nhiêu, yamaha wr155r thông số, wr155r yên cao bao nhiêu, xe cào cào 155 yamaha, wr155r cần bằng gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Yamaha WR155R là xe gì, giá tháng 10/2026",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 155,1 cm³ VVA, hộp số 6 cấp, ly hợp A&S",
+        "<p></p>"
+      ],
+      [
+        "Yên 880 mm, gầm 245 mm, bánh 21/18 inch: ưu và nhược khi đi phố",
+        "<p></p>"
+      ],
+      [
+        "Bình 8,1 lít, phanh đĩa, lốp có săm khi đi đường dài",
+        "<p></p>"
+      ],
+      [
+        "So giá với XS155R, MT-15 cùng hãng",
+        "<p></p>"
+      ],
+      [
+        "Cần bằng A vì trên 125 cm³",
+        "<p></p>"
+      ],
+      [
+        "Ai nên chọn WR155R",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/wr155r-b3mf/",
+        "quote": "Yamaha Motor Việt Nam, trang WR155R (đọc 13/10/2026): giá bán lẻ đề xuất 79.000.000 VNĐ, màu Đen; \"mẫu xe địa hình 155cc thuộc dòng WR Series\", thiết kế Dual-Sport/Enduro; bánh trước 21 inch, sau 18 inch; khoảng sáng gầm 245 mm; khung semi-double cradle; màn hình LCD; bình xăng 8,1 lít; phanh đĩa trước và sau; đèn hazard; ly hợp A&S (assist & slipper); hộp số 6 cấp. Thông số: làm mát bằng dung dịch, 4 thì, SOHC, 4 van, xy-lanh đơn; 155,1 cm³; 58,0 × 58,7 mm; nén 11,6:1; 12,3 kW (16,7 PS) tại 10.000 vòng/phút; 14,3 N·m tại 6.500 vòng/phút; khởi động điện; dầu máy 1,10 L; phun xăng điện tử; ly hợp ướt đa đĩa; phuộc trước ống lồng, sau gắp có liên kết; phanh đĩa đơn thủy lực trước và sau; bánh 2.75-21 45P (có săm) / 4.10-18 59P (có săm); đèn trước halogen 12V 35/35W; D x R x C 2.145 × 840 × 1.200 mm; yên 880 mm; chiều dài cơ sở 1.430 mm; trọng lượng ướt 134 kg; bảo hành 3 năm hoặc 30,000km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, bảng giá xe máy tháng 10/2026 (đọc 13/10/2026), nhóm xe thể thao: WR155R giá 79.000.000 VNĐ; MT-15 giá từ 69.000.000 VNĐ; YZF-R15 từ 78.000.000 VNĐ; XS155R 78.000.000 VNĐ; MT-03 từ 129.000.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00318"
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "writer": "writer-w9b",
+  "queued": "2026-10-13T14:57:44.784500+00:00",
+  "topic": {
+    "topic_id": "TM-00322",
+    "url": "/xe-dien/selex-camel-2/",
+    "title": "Selex Camel 2: giá 29,3 triệu, 3 pin đi 150 km, gói đổi pin từ 135k",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "selex camel 2",
+    "secondary_keywords": [
+      "selex camel 2 giá bao nhiêu",
+      "xe máy điện selex camel thông số",
+      "selex đổi pin giá",
+      "xe máy điện chở hàng",
+      "selex camel 2 cần bằng gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Tài xế giao hàng, người chạy xe nhiều km mỗi tháng muốn biết Selex Camel 2 giá bao nhiêu (có/không sạc, chưa pin), đi được bao xa với 3 pin, chở được bao nhiêu, gói đổi pin tính tiền ra sao và có cần bằng lái.",
+    "information_gain": "Site có /xe-dien/tram-doi-pin-vinfast/, /xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/ và /xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/ nhưng chưa có bài về Selex – hãng xe điện đổi pin cho giao vận. Bài thêm số liệu Selex đọc 13/10/2026: giá Camel 2 29.300.000 đ (gồm sạc, VAT, chưa pin) hoặc 28.400.000 đ (không sạc); 3 pin đi tối đa 150 km; công suất danh định 2000 W, tối đa 4000 W, 140 Nm; trọng tải 150 kg; leo dốc 14 độ; IP67 ngập 1 m trong 30 phút; nặng 90 kg không pin, 113,4 kg với 3 pin; bảng gói đổi pin G1–G3, GU (135.000–3.196.800 đ/tháng có VAT), cọc 400.000 đ/pin, phí vượt km; bảo hành 30.000 km hoặc 3 năm; đối chiếu Điều 34 điểm g và Điều 57: 4000 W đúng ngưỡng 4 kW nên loại xe phụ thuộc vận tốc thiết kế (trang ghi cả 50 và 80 km/h) – nếu trên 50 km/h là mô tô cần A1.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://selex.vn/selex-camel-2-2/",
+        "quote": "Selex Motors, trang Selex Camel 2 (yêu cầu https://selex.vn/selex-camel-2/ chuyển về selex-camel-2-2; đọc 13/10/2026): 29.300.000 đ, \"Giá sản phẩm đã bao gồm VAT\"; ô tóm tắt ghi \"Tốc độ 50 km/h | Công suất 4000 W\"; đoạn giới thiệu ghi \"Vận tốc tối đa lên đến 80km/h\"; pin và động cơ \"có thể kháng nước ở độ sâu 1 mét trong 30 phút\". Thông số: D x R x C 1930x770x1260mm; cơ sở 1370 mm; gầm 150 mm; yên trước 770 mm; bánh 90/90-12 54J và 120/70-12 55P; phanh đĩa đơn thủy lực trước và sau; cốp 11 lít (vừa mũ nửa đầu); khối lượng không pin 90kg, với 3 pin 113.4kg; quãng đường tối đa (với 3 pin) 150km; bảng hiệu năng ghi tốc độ tối đa 80km/h ở một chỗ và 50km/h ở bảng lặp; hỗ trợ đổi pin và tự sạc; pin Lithium ion do Selex sản xuất; công suất danh định 2000w, tối đa 4000w; động cơ Hub; mô-men 140 Nm; 0–40 km/h 7,5s; trọng tải tối đa 150kg; leo dốc 14 độ; IP67; QCVN14:2015/BGTVT; có số lùi, định vị GPS, kết nối 4G, yên sau tháo rời, lắp được thùng hàng. FAQ: bảo hành xe và pin 30,000 km kể từ ngày bán lẻ hoặc 3 năm từ ngày hóa đơn bán buôn của Selex tới đại lý, tùy điều kiện nào đến trước; xe kèm sạc, không kèm pin – mua hoặc thuê pin.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://selex.vn/bang-gia-ban-xe-dich-vu-pin-va-dich-vu-xe-quy-ii-2026-2/",
+        "quote": "Selex Motors, \"Bảng giá bán xe, dịch vụ pin và dịch vụ xe Quý II/2026\" (đăng 4/6/2026, ban hành kèm Quyết định số 17/2026/TCKT/QĐ-SL ngày 01/06/2026; đọc 13/10/2026): giá đã gồm sạc, VAT, chưa gồm pin, bảo hiểm, biển số: Selex Camel 2 29.300.000 đồng/xe, Selex Camel 28.300.000 đồng/xe; không gồm sạc: Camel 2 28.400.000, Camel 27.400.000. Gói đổi pin: G1 1 pin 200 km/tháng 135.000 đ có VAT; G2 2 pin 400 km 270.000 đ; G3 3 pin 600 km 405.000 đ; GU 3 pin không giới hạn 3.196.800 đ; phí vượt có VAT 357/346/335/313 đ/km theo bậc đến 2.000, 2.000–4.000, 4.000–6.000, từ 6.000 km; cọc pin 400.000 VNĐ/pin; quãng đường cơ sở không cộng dồn qua tháng. Gói thuê xe kèm đổi pin theo tháng (Hà Nội, TP.HCM): 3 pin, 200 km cơ sở, 1.300.000 đ có VAT, cọc xe và pin 2.000.000 đ; gói DT50–DTU 1.620.000–3.500.000 đ/tháng có VAT.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://selex.vn/",
+        "quote": "Selex Motors, trang chủ (đọc 13/10/2026): sản phẩm nổi bật Selex Camel 1 28.300.000đ, Selex Camel 2 29.300.000đ, Ally SV Eco 30.400.000đ (đã gồm VAT); \"Selex Camel 2 có kiểu dáng thanh lịch, công suất mạnh mẽ, vận tốc vượt trội lên đến 80km/h\"; Selex Camel 1 hướng tới \"các bác tài giao vận\".",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: \"Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy\"; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\"; điểm b: đủ 18 tuổi được cấp GPLX hạng A1, A. Điều 57 khoản 1 điểm a: hạng A1 cho mô tô hai bánh đến 125 cm3 hoặc động cơ điện đến 11 kW.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 720,
+        "checked": "2026-10-13",
+        "keyword": "selex camel 2"
+      }
+    ],
+    "notes": "Chưa xác minh: (1) trang Selex mâu thuẫn về tốc độ tối đa: 50 km/h (ô tóm tắt, bảng lặp) và 80 km/h (giới thiệu, bảng hiệu năng, trang chủ) – viết cả hai, nói rõ cần xem giấy chứng nhận chất lượng xe; công suất tối đa 4000 W đúng bằng ngưỡng \"không lớn hơn 04 kW\" của Điều 34 điểm g, nên công suất không loại xe khỏi nhóm xe gắn máy; yếu tố quyết định là vận tốc thiết kế (trên 50 km/h là mô tô, cần A1) – writer phải nêu hai khả năng và khuyên kiểm tra đăng ký/giấy chứng nhận xe, không khẳng định một kết luận; (2) bảng giá là Quý II/2026 – chưa thấy bảng Quý III/IV, ghi \"bảng giá đăng 4/6/2026, có thể đã thay đổi\"; (3) dung lượng mỗi pin không ghi; (4) không mention gói thuê xe của Selex như dịch vụ của cửa hàng. Business-facts: cửa hàng chỉ ghi có xe điện Tailg – không viết cửa hàng cho thuê Selex.",
+    "outline": [
+      "Selex Camel 2 là xe gì, giá bán có/không sạc, chưa pin",
+      "Hiệu năng: 2000/4000 W, 140 Nm, 3 pin đi tối đa 150 km",
+      "Chở hàng: tải 150 kg, leo dốc 14 độ, lắp thùng, số lùi",
+      "Chống nước IP67 và bảo hành 30.000 km/3 năm",
+      "Gói đổi pin G1–GU và cách tính phí vượt km",
+      "Tốc độ 50 hay 80 km/h: ảnh hưởng thế nào đến loại xe và bằng lái",
+      "Ai nên chọn Camel 2"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/tram-doi-pin-vinfast/",
+      "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+      "/xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/",
+      "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+      "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00322.json",
+  "draft_template": {
+    "id": "TM-00322",
+    "url": "/xe-dien/selex-camel-2/",
+    "title": "Selex Camel 2: giá 29,3 triệu, 3 pin đi 150 km, gói đổi pin từ 135k",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "selex camel 2, selex camel 2 giá bao nhiêu, xe máy điện selex camel thông số, selex đổi pin giá, xe máy điện chở hàng, selex camel 2 cần bằng gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Selex Camel 2 là xe gì, giá bán có/không sạc, chưa pin",
+        "<p></p>"
+      ],
+      [
+        "Hiệu năng: 2000/4000 W, 140 Nm, 3 pin đi tối đa 150 km",
+        "<p></p>"
+      ],
+      [
+        "Chở hàng: tải 150 kg, leo dốc 14 độ, lắp thùng, số lùi",
+        "<p></p>"
+      ],
+      [
+        "Chống nước IP67 và bảo hành 30.000 km/3 năm",
+        "<p></p>"
+      ],
+      [
+        "Gói đổi pin G1–GU và cách tính phí vượt km",
+        "<p></p>"
+      ],
+      [
+        "Tốc độ 50 hay 80 km/h: ảnh hưởng thế nào đến loại xe và bằng lái",
+        "<p></p>"
+      ],
+      [
+        "Ai nên chọn Camel 2",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://selex.vn/selex-camel-2-2/",
+        "quote": "Selex Motors, trang Selex Camel 2 (yêu cầu https://selex.vn/selex-camel-2/ chuyển về selex-camel-2-2; đọc 13/10/2026): 29.300.000 đ, \"Giá sản phẩm đã bao gồm VAT\"; ô tóm tắt ghi \"Tốc độ 50 km/h | Công suất 4000 W\"; đoạn giới thiệu ghi \"Vận tốc tối đa lên đến 80km/h\"; pin và động cơ \"có thể kháng nước ở độ sâu 1 mét trong 30 phút\". Thông số: D x R x C 1930x770x1260mm; cơ sở 1370 mm; gầm 150 mm; yên trước 770 mm; bánh 90/90-12 54J và 120/70-12 55P; phanh đĩa đơn thủy lực trước và sau; cốp 11 lít (vừa mũ nửa đầu); khối lượng không pin 90kg, với 3 pin 113.4kg; quãng đường tối đa (với 3 pin) 150km; bảng hiệu năng ghi tốc độ tối đa 80km/h ở một chỗ và 50km/h ở bảng lặp; hỗ trợ đổi pin và tự sạc; pin Lithium ion do Selex sản xuất; công suất danh định 2000w, tối đa 4000w; động cơ Hub; mô-men 140 Nm; 0–40 km/h 7,5s; trọng tải tối đa 150kg; leo dốc 14 độ; IP67; QCVN14:2015/BGTVT; có số lùi, định vị GPS, kết nối 4G, yên sau tháo rời, lắp được thùng hàng. FAQ: bảo hành xe và pin 30,000 km kể từ ngày bán lẻ hoặc 3 năm từ ngày hóa đơn bán buôn của Selex tới đại lý, tùy điều kiện nào đến trước; xe kèm sạc, không kèm pin – mua hoặc thuê pin.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://selex.vn/bang-gia-ban-xe-dich-vu-pin-va-dich-vu-xe-quy-ii-2026-2/",
+        "quote": "Selex Motors, \"Bảng giá bán xe, dịch vụ pin và dịch vụ xe Quý II/2026\" (đăng 4/6/2026, ban hành kèm Quyết định số 17/2026/TCKT/QĐ-SL ngày 01/06/2026; đọc 13/10/2026): giá đã gồm sạc, VAT, chưa gồm pin, bảo hiểm, biển số: Selex Camel 2 29.300.000 đồng/xe, Selex Camel 28.300.000 đồng/xe; không gồm sạc: Camel 2 28.400.000, Camel 27.400.000. Gói đổi pin: G1 1 pin 200 km/tháng 135.000 đ có VAT; G2 2 pin 400 km 270.000 đ; G3 3 pin 600 km 405.000 đ; GU 3 pin không giới hạn 3.196.800 đ; phí vượt có VAT 357/346/335/313 đ/km theo bậc đến 2.000, 2.000–4.000, 4.000–6.000, từ 6.000 km; cọc pin 400.000 VNĐ/pin; quãng đường cơ sở không cộng dồn qua tháng. Gói thuê xe kèm đổi pin theo tháng (Hà Nội, TP.HCM): 3 pin, 200 km cơ sở, 1.300.000 đ có VAT, cọc xe và pin 2.000.000 đ; gói DT50–DTU 1.620.000–3.500.000 đ/tháng có VAT.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://selex.vn/",
+        "quote": "Selex Motors, trang chủ (đọc 13/10/2026): sản phẩm nổi bật Selex Camel 1 28.300.000đ, Selex Camel 2 29.300.000đ, Ally SV Eco 30.400.000đ (đã gồm VAT); \"Selex Camel 2 có kiểu dáng thanh lịch, công suất mạnh mẽ, vận tốc vượt trội lên đến 80km/h\"; Selex Camel 1 hướng tới \"các bác tài giao vận\".",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: \"Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy\"; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\"; điểm b: đủ 18 tuổi được cấp GPLX hạng A1, A. Điều 57 khoản 1 điểm a: hạng A1 cho mô tô hai bánh đến 125 cm3 hoặc động cơ điện đến 11 kW.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00322"
+  }
+}

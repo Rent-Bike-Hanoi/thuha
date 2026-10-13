@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w9d",
+  "queued": "2026-10-13T14:57:45.048152+00:00",
+  "topic": {
+    "topic_id": "TM-00333",
+    "url": "/du-lich/dinh-chem/",
+    "title": "Đình Chèm: đình cổ thờ Lý Ông Trọng, di tích quốc gia đặc biệt, hội tháng 5",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình chèm",
+    "secondary_keywords": [
+      "đình chèm thụy phương",
+      "đình chèm thờ ai",
+      "lễ hội đình chèm",
+      "lý ông trọng",
+      "đền chèm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở phía Bắc Từ Liêm, Tây Hồ và khách thích di tích cổ muốn ghé đình Chèm cần biết đình thờ ai, vì sao được coi là một trong những đình cổ nhất, có gì để xem và hội đình Chèm diễn ra ngày nào.",
+    "information_gain": "Site đã có /du-lich/lang-co-dong-ngac/ (làng bên cạnh trong cùng phường Đông Ngạc mới) và /du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/ nhưng chưa có bài đình Chèm. Bài này thêm: đình thờ Lý Ông Trọng và vợ, được xếp hạng di tích quốc gia 1990 và quốc gia đặc biệt theo QĐ 2082 ngày 25/12/2017 (đón bằng 25/6/2018); hội đình Chèm là di sản phi vật thể quốc gia 2016, diễn ra 14–16 tháng 5 âm lịch với rước nước trên sông Hồng; kiến trúc chữ Công, quay hướng Bắc; máng nước đồng 1748, 1756, 1824; tượng vợ chồng Lý Ông Trọng cao hơn 3 m.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thanglong.chinhphu.vn/dinh-chem-ngoi-dinh-co-xua-di-san-quy-bau-cua-thu-do-103240126113006925.htm",
+        "quote": "Báo Điện tử Chính phủ (thanglong.chinhphu.vn), 'Đình Chèm - Ngôi đình cổ xưa, di sản quý báu của Thủ đô' (đăng 11/02/2024; đọc 13/10/2026): đình ở làng Chèm, phường Thụy Phương (cũ), thờ Đức Thánh Chèm – Hy Khang Thiên Vương Lý Ông Trọng; là nơi thờ của ba làng Hoàng, Mạc, Chèm; 'ngôi đình hiếm hoi quay mặt hướng Bắc'; năm 1990 được công nhận Di tích cấp Quốc gia, ngày 25/6/2018 nhận bằng Di tích quốc gia đặc biệt; hội đình Chèm vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2016; hội diễn ra 3 ngày 14, 15, 16 tháng 5 âm lịch: thuyền rước nước trên sông Hồng, lễ mộc dục (tắm tượng), thả chim câu giờ Ngọ, thi làm chè kho, thi bơi, vật, cờ người.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/26788",
+        "quote": "Cục Du lịch Quốc gia Việt Nam (vietnamtourism.gov.vn), 'Đón nhận bằng xếp hạng di tích quốc gia đặc biệt đình Chèm' (đăng 25/06/2018, nguồn TTXVN; đọc 13/10/2026): Quyết định số 2082 ngày 25/12/2017 của Thủ tướng xếp hạng di tích quốc gia đặc biệt; đình còn gọi đền Chèm, đền Lý Hiệu Úy; lưu giữ 16 cuốn sách chữ Hán, 3 đạo sắc phong nhà Nguyễn, 4 bia đá, 10 tượng thờ, 8 hoành phi, 15 câu đối, 2 chuông đồng; hệ thống máng dẫn nước mưa đúc bằng đồng năm 1748, 1756 và 1824; lễ hội vào rằm tháng 5 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/ly-ong-trong-dinh-chem-quan-bac-tu-liem-70333.html",
+        "quote": "Báo Người Hà Nội, 'Lý Ông Trọng - đình Chèm (quận Bắc Từ Liêm)' (đăng 22/4/2023, theo 'Hà Nội Danh thắng và Di tích' tập 1; đọc 13/10/2026): đình cách trung tâm Hà Nội khoảng 12 km về phía tây bắc; đợt trùng tu lớn 1996–2005; bố cục nghi môn ngoại, nghi môn nội 3 gian 2 chái, nhà bia, tả hữu mạc mỗi bên 5 gian, phương đình 8 mái, tiền tế 5 gian 2 chái, hậu cung 3 gian 2 chái thành chữ Công; trang trí phong cách Lê Trung hưng; tượng vợ chồng Lý Ông Trọng cao tới hơn 3 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 9900,
+        "checked": "2026-10-13",
+        "keyword": "đình chèm"
+      }
+    ],
+    "notes": "Hành chính: nguồn ghi phường Thụy Phương, quận Bắc Từ Liêm (trước 7/2025); hiện có thể thuộc phường Đông Ngạc mới (Wikipedia ghi vậy nhưng không dùng làm nguồn) – writer chỉ ghi 'theo nguồn' hoặc không nêu tên phường mới. Năm xếp hạng quốc gia 1990 (Người Hà Nội ghi Bộ VH-TT xếp hạng 1990). Khoảng cách 12 km là 'từ trung tâm' theo nguồn, không phải từ cửa hàng. Không có nguồn giờ mở cửa, gửi xe, vé – không viết. Chi tiết 'bài thơ chạm năm 864–866' trong bài Chính phủ là lời trưởng ban quản lý – nếu dùng ghi rõ người nói.",
+    "outline": [
+      "Đình Chèm ở đâu và thờ ai",
+      "Lý Ông Trọng trong truyền thuyết và sử sách",
+      "Kiến trúc chữ Công, đình quay hướng Bắc",
+      "Di vật: máng đồng 1748–1824, tượng cao hơn 3 m",
+      "Hội đình Chèm 14–16 tháng 5 âm lịch",
+      "Ghép với làng cổ Đông Ngạc và cầu Thăng Long"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-co-dong-ngac/",
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00333.json",
+  "draft_template": {
+    "id": "TM-00333",
+    "url": "/du-lich/dinh-chem/",
+    "title": "Đình Chèm: đình cổ thờ Lý Ông Trọng, di tích quốc gia đặc biệt, hội tháng 5",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình chèm, đình chèm thụy phương, đình chèm thờ ai, lễ hội đình chèm, lý ông trọng, đền chèm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Chèm ở đâu và thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Lý Ông Trọng trong truyền thuyết và sử sách",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc chữ Công, đình quay hướng Bắc",
+        "<p></p>"
+      ],
+      [
+        "Di vật: máng đồng 1748–1824, tượng cao hơn 3 m",
+        "<p></p>"
+      ],
+      [
+        "Hội đình Chèm 14–16 tháng 5 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghép với làng cổ Đông Ngạc và cầu Thăng Long",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thanglong.chinhphu.vn/dinh-chem-ngoi-dinh-co-xua-di-san-quy-bau-cua-thu-do-103240126113006925.htm",
+        "quote": "Báo Điện tử Chính phủ (thanglong.chinhphu.vn), 'Đình Chèm - Ngôi đình cổ xưa, di sản quý báu của Thủ đô' (đăng 11/02/2024; đọc 13/10/2026): đình ở làng Chèm, phường Thụy Phương (cũ), thờ Đức Thánh Chèm – Hy Khang Thiên Vương Lý Ông Trọng; là nơi thờ của ba làng Hoàng, Mạc, Chèm; 'ngôi đình hiếm hoi quay mặt hướng Bắc'; năm 1990 được công nhận Di tích cấp Quốc gia, ngày 25/6/2018 nhận bằng Di tích quốc gia đặc biệt; hội đình Chèm vào Danh mục di sản văn hóa phi vật thể quốc gia năm 2016; hội diễn ra 3 ngày 14, 15, 16 tháng 5 âm lịch: thuyền rước nước trên sông Hồng, lễ mộc dục (tắm tượng), thả chim câu giờ Ngọ, thi làm chè kho, thi bơi, vật, cờ người.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/26788",
+        "quote": "Cục Du lịch Quốc gia Việt Nam (vietnamtourism.gov.vn), 'Đón nhận bằng xếp hạng di tích quốc gia đặc biệt đình Chèm' (đăng 25/06/2018, nguồn TTXVN; đọc 13/10/2026): Quyết định số 2082 ngày 25/12/2017 của Thủ tướng xếp hạng di tích quốc gia đặc biệt; đình còn gọi đền Chèm, đền Lý Hiệu Úy; lưu giữ 16 cuốn sách chữ Hán, 3 đạo sắc phong nhà Nguyễn, 4 bia đá, 10 tượng thờ, 8 hoành phi, 15 câu đối, 2 chuông đồng; hệ thống máng dẫn nước mưa đúc bằng đồng năm 1748, 1756 và 1824; lễ hội vào rằm tháng 5 âm lịch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/ly-ong-trong-dinh-chem-quan-bac-tu-liem-70333.html",
+        "quote": "Báo Người Hà Nội, 'Lý Ông Trọng - đình Chèm (quận Bắc Từ Liêm)' (đăng 22/4/2023, theo 'Hà Nội Danh thắng và Di tích' tập 1; đọc 13/10/2026): đình cách trung tâm Hà Nội khoảng 12 km về phía tây bắc; đợt trùng tu lớn 1996–2005; bố cục nghi môn ngoại, nghi môn nội 3 gian 2 chái, nhà bia, tả hữu mạc mỗi bên 5 gian, phương đình 8 mái, tiền tế 5 gian 2 chái, hậu cung 3 gian 2 chái thành chữ Công; trang trí phong cách Lê Trung hưng; tượng vợ chồng Lý Ông Trọng cao tới hơn 3 m.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00333"
+  }
+}
