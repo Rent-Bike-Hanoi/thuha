@@ -1,0 +1,227 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T07:56:14.349689+00:00",
+  "topic": {
+    "topic_id": "TM-00114",
+    "url": "/thue-xe/hop-dong-thue-xe-may-gom-nhung-gi/",
+    "title": "Hợp đồng thuê xe máy gồm những gì? Điều khoản cần đọc trước khi ký",
+    "hub": "thue-xe",
+    "subtopic": "thu-tuc",
+    "primary_keyword": "hợp đồng thuê xe máy",
+    "secondary_keywords": [
+      "điều khoản hợp đồng thuê xe máy",
+      "hợp đồng thuê xe máy cần những gì",
+      "tiền cọc thuê xe máy",
+      "trách nhiệm khi xe thuê bị hỏng"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người sắp thuê xe máy ở Hà Nội lần đầu muốn biết hợp đồng thuê xe thường có những điều khoản nào và mục nào phải đọc kỹ trước khi ký. Họ cần biết điều khoản nào do luật quy định sẵn và điều khoản nào do hai bên tự thỏa thuận.",
+    "information_gain": "/thue-xe-50cc/ha-noi/kinh-nghiem/ chỉ nhắc chung là \"thống nhất điều kiện\" khi thuê 50cc. /dieu-khoan-dich-vu/ liệt kê chính sách cửa hàng nhưng không giải thích căn cứ pháp lý. /thue-xe/thue-xe-may-ha-noi-can-giay-to-gi/ chỉ nói giấy tờ và cọc. Bài này ghép từng điều khoản thường có trong hợp đồng thuê xe máy với điều luật tương ứng của BLDS 2015: Điều 472 định nghĩa hợp đồng thuê tài sản; Điều 473 về giá thuê; Điều 474 về thời hạn; Điều 476–477 bên cho thuê giao xe đúng tình trạng và sửa hư hỏng; Điều 479 bên thuê bảo quản, sửa chữa nhỏ, không chịu hao mòn tự nhiên; Điều 481 trả tiền; Điều 482 trả xe và chậm trả; Điều 328 đặt cọc; Điều 418 phạt vi phạm. Mỗi điều khoản đặt cạnh chính sách thực tế của Nguyễn Hà (cọc, hư hỏng, phí trễ, xăng, thanh toán) và kèm danh sách mục cần kiểm tra trước khi ký.",
+    "evidence": [
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "Cơ sở dữ liệu quốc gia về văn bản pháp luật (vbpl.vn), Bộ luật Dân sự số 91/2015/QH13, còn hiệu lực, hiệu lực từ 01/01/2017 (đọc 13/10/2026). Điều 472: \"Hợp đồng thuê tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê giao tài sản cho bên thuê để sử dụng trong một thời hạn, bên thuê phải trả tiền thuê.\" Điều 473 khoản 1: giá thuê do các bên thỏa thuận hoặc do người thứ ba xác định theo yêu cầu của các bên, trừ trường hợp luật có quy định khác; khoản 2: không có thỏa thuận hoặc thỏa thuận không rõ ràng thì theo giá thị trường tại địa điểm và thời điểm giao kết. Điều 474 khoản 1: thời hạn thuê do các bên thỏa thuận; nếu không có thỏa thuận thì xác định theo mục đích thuê.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 475: bên thuê chỉ được cho thuê lại tài sản nếu bên cho thuê đồng ý. Điều 476 khoản 1: bên cho thuê phải giao tài sản đúng số lượng, chất lượng, chủng loại, tình trạng, thời điểm, địa điểm đã thỏa thuận và cung cấp thông tin cần thiết về việc sử dụng. Điều 477 khoản 1: bên cho thuê phải bảo đảm tài sản thuê trong tình trạng như đã thỏa thuận trong suốt thời gian cho thuê, phải sửa chữa hư hỏng, khuyết tật, trừ hư hỏng nhỏ mà theo tập quán bên thuê phải tự sửa; khoản 2: nếu tài sản giảm giá trị sử dụng không do lỗi bên thuê thì bên thuê có quyền yêu cầu sửa chữa, giảm giá thuê, đổi tài sản khác hoặc đơn phương chấm dứt hợp đồng (theo điều kiện tại điểm c); khoản 3: bên cho thuê đã được báo mà không sửa hoặc sửa không kịp thời thì bên thuê được tự sửa với chi phí hợp lý, phải báo cho bên cho thuê và có quyền yêu cầu thanh toán.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 479 khoản 1: \"Bên thuê phải bảo quản tài sản thuê, phải bảo dưỡng và sửa chữa nhỏ; nếu làm mất, hư hỏng thì phải bồi thường. Bên thuê không chịu trách nhiệm về những hao mòn tự nhiên do sử dụng tài sản thuê.\" Điều 480: phải dùng tài sản đúng công dụng, đúng mục đích đã thỏa thuận; nếu không, bên cho thuê có quyền đơn phương chấm dứt và yêu cầu bồi thường. Điều 481 khoản 1: trả đủ tiền thuê đúng thời hạn đã thỏa thuận; nếu không có thỏa thuận và không xác định được theo tập quán thì trả khi trả lại tài sản.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 482 khoản 1: bên thuê phải trả lại tài sản trong tình trạng như khi nhận, trừ hao mòn tự nhiên hoặc theo tình trạng đã thỏa thuận; giá trị bị giảm sút thì bên cho thuê có quyền yêu cầu bồi thường. Khoản 2: tài sản thuê là động sản thì nơi trả là nơi cư trú hoặc trụ sở của bên cho thuê, trừ khi có thỏa thuận khác. Khoản 4: chậm trả thì phải trả tiền thuê trong thời gian chậm trả, bồi thường thiệt hại và trả tiền phạt vi phạm nếu có thỏa thuận. Khoản 5: bên thuê chịu rủi ro trong thời gian chậm trả.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 328 khoản 1: đặt cọc là việc một bên giao cho bên kia một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng; khoản 2: hợp đồng được thực hiện thì tài sản đặt cọc được trả lại hoặc trừ vào nghĩa vụ trả tiền. Điều 418 khoản 1–2: phạt vi phạm là thỏa thuận trong hợp đồng, mức phạt do các bên thỏa thuận, trừ trường hợp luật liên quan có quy định khác.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.deposit: 2–5 triệu đồng tùy xe và thời hạn thuê; cọc tiền thì không giữ giấy tờ gốc",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.late_fee: 20.000đ/giờ; quá 6 giờ tính tròn một ngày thuê | policies.rental_day: 24 giờ từ lúc nhận xe; thuê theo giờ hoặc nửa ngày vẫn tính giá một ngày | policies.early_return: không hoàn lại tiền thuê đã thanh toán",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.fuel: trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ | policies.payment: tiền mặt hoặc chuyển khoản ngân hàng Việt Nam | policies.helmet: mũ bảo hiểm cơ bản miễn phí",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 170,
+        "checked": "2026-10-13",
+        "keyword": "hợp đồng thuê xe máy"
+      }
+    ],
+    "outline": [
+      "Hợp đồng thuê xe máy là gì theo Bộ luật Dân sự 2015",
+      "Các mục cơ bản: bên thuê, xe (biển số, tình trạng), giá, thời hạn 24 giờ, thanh toán",
+      "Tiền cọc: luật nói gì và chính sách cọc 2–5 triệu, không giữ giấy tờ gốc",
+      "Hư hỏng, sửa chữa, hao mòn tự nhiên: ai chịu phần nào",
+      "Trả xe: tình trạng, xăng, trả muộn, trả sớm",
+      "Câu hỏi nên hỏi trước khi ký (đi tỉnh, người khác lái, mất xe)",
+      "Checklist 2 phút trước khi ký và nhận xe"
+    ],
+    "suggested_internal_links": [
+      "/thue-xe/thue-xe-may-ha-noi-can-giay-to-gi/",
+      "/thue-xe/xe-may-thue-bi-hong-giua-duong-phai-lam-sao/",
+      "/thue-xe/tra-xe-may-thue-muon-tinh-phi-the-nao/",
+      "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/",
+      "/dieu-khoan-dich-vu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00114.json",
+  "draft_template": {
+    "id": "TM-00114",
+    "url": "/thue-xe/hop-dong-thue-xe-may-gom-nhung-gi/",
+    "title": "Hợp đồng thuê xe máy gồm những gì? Điều khoản cần đọc trước khi ký",
+    "hub": "thue-xe",
+    "parent": "/thue-xe/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hợp đồng thuê xe máy, điều khoản hợp đồng thuê xe máy, hợp đồng thuê xe máy cần những gì, tiền cọc thuê xe máy, trách nhiệm khi xe thuê bị hỏng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hợp đồng thuê xe máy là gì theo Bộ luật Dân sự 2015",
+        "<p></p>"
+      ],
+      [
+        "Các mục cơ bản: bên thuê, xe (biển số, tình trạng), giá, thời hạn 24 giờ, thanh toán",
+        "<p></p>"
+      ],
+      [
+        "Tiền cọc: luật nói gì và chính sách cọc 2–5 triệu, không giữ giấy tờ gốc",
+        "<p></p>"
+      ],
+      [
+        "Hư hỏng, sửa chữa, hao mòn tự nhiên: ai chịu phần nào",
+        "<p></p>"
+      ],
+      [
+        "Trả xe: tình trạng, xăng, trả muộn, trả sớm",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi nên hỏi trước khi ký (đi tỉnh, người khác lái, mất xe)",
+        "<p></p>"
+      ],
+      [
+        "Checklist 2 phút trước khi ký và nhận xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "Cơ sở dữ liệu quốc gia về văn bản pháp luật (vbpl.vn), Bộ luật Dân sự số 91/2015/QH13, còn hiệu lực, hiệu lực từ 01/01/2017 (đọc 13/10/2026). Điều 472: \"Hợp đồng thuê tài sản là sự thỏa thuận giữa các bên, theo đó bên cho thuê giao tài sản cho bên thuê để sử dụng trong một thời hạn, bên thuê phải trả tiền thuê.\" Điều 473 khoản 1: giá thuê do các bên thỏa thuận hoặc do người thứ ba xác định theo yêu cầu của các bên, trừ trường hợp luật có quy định khác; khoản 2: không có thỏa thuận hoặc thỏa thuận không rõ ràng thì theo giá thị trường tại địa điểm và thời điểm giao kết. Điều 474 khoản 1: thời hạn thuê do các bên thỏa thuận; nếu không có thỏa thuận thì xác định theo mục đích thuê.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 475: bên thuê chỉ được cho thuê lại tài sản nếu bên cho thuê đồng ý. Điều 476 khoản 1: bên cho thuê phải giao tài sản đúng số lượng, chất lượng, chủng loại, tình trạng, thời điểm, địa điểm đã thỏa thuận và cung cấp thông tin cần thiết về việc sử dụng. Điều 477 khoản 1: bên cho thuê phải bảo đảm tài sản thuê trong tình trạng như đã thỏa thuận trong suốt thời gian cho thuê, phải sửa chữa hư hỏng, khuyết tật, trừ hư hỏng nhỏ mà theo tập quán bên thuê phải tự sửa; khoản 2: nếu tài sản giảm giá trị sử dụng không do lỗi bên thuê thì bên thuê có quyền yêu cầu sửa chữa, giảm giá thuê, đổi tài sản khác hoặc đơn phương chấm dứt hợp đồng (theo điều kiện tại điểm c); khoản 3: bên cho thuê đã được báo mà không sửa hoặc sửa không kịp thời thì bên thuê được tự sửa với chi phí hợp lý, phải báo cho bên cho thuê và có quyền yêu cầu thanh toán.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 479 khoản 1: \"Bên thuê phải bảo quản tài sản thuê, phải bảo dưỡng và sửa chữa nhỏ; nếu làm mất, hư hỏng thì phải bồi thường. Bên thuê không chịu trách nhiệm về những hao mòn tự nhiên do sử dụng tài sản thuê.\" Điều 480: phải dùng tài sản đúng công dụng, đúng mục đích đã thỏa thuận; nếu không, bên cho thuê có quyền đơn phương chấm dứt và yêu cầu bồi thường. Điều 481 khoản 1: trả đủ tiền thuê đúng thời hạn đã thỏa thuận; nếu không có thỏa thuận và không xác định được theo tập quán thì trả khi trả lại tài sản.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 482 khoản 1: bên thuê phải trả lại tài sản trong tình trạng như khi nhận, trừ hao mòn tự nhiên hoặc theo tình trạng đã thỏa thuận; giá trị bị giảm sút thì bên cho thuê có quyền yêu cầu bồi thường. Khoản 2: tài sản thuê là động sản thì nơi trả là nơi cư trú hoặc trụ sở của bên cho thuê, trừ khi có thỏa thuận khác. Khoản 4: chậm trả thì phải trả tiền thuê trong thời gian chậm trả, bồi thường thiệt hại và trả tiền phạt vi phạm nếu có thỏa thuận. Khoản 5: bên thuê chịu rủi ro trong thời gian chậm trả.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://vbpl.vn/van-ban/chi-tiet/bo-luat-dan-su-so-91-2015-qh13--95942",
+        "quote": "vbpl.vn, Bộ luật Dân sự 2015 (đọc 13/10/2026). Điều 328 khoản 1: đặt cọc là việc một bên giao cho bên kia một khoản tiền hoặc kim khí quý, đá quý hoặc vật có giá trị khác trong một thời hạn để bảo đảm giao kết hoặc thực hiện hợp đồng; khoản 2: hợp đồng được thực hiện thì tài sản đặt cọc được trả lại hoặc trừ vào nghĩa vụ trả tiền. Điều 418 khoản 1–2: phạt vi phạm là thỏa thuận trong hợp đồng, mức phạt do các bên thỏa thuận, trừ trường hợp luật liên quan có quy định khác.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.deposit: 2–5 triệu đồng tùy xe và thời hạn thuê; cọc tiền thì không giữ giấy tờ gốc",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.late_fee: 20.000đ/giờ; quá 6 giờ tính tròn một ngày thuê | policies.rental_day: 24 giờ từ lúc nhận xe; thuê theo giờ hoặc nửa ngày vẫn tính giá một ngày | policies.early_return: không hoàn lại tiền thuê đã thanh toán",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.fuel: trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ | policies.payment: tiền mặt hoặc chuyển khoản ngân hàng Việt Nam | policies.helmet: mũ bảo hiểm cơ bản miễn phí",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00114"
+  }
+}

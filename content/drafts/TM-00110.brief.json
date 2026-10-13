@@ -1,0 +1,234 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T07:56:14.747164+00:00",
+  "topic": {
+    "topic_id": "TM-00110",
+    "url": "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+    "title": "Đi Đền Hùng bằng xe máy từ Hà Nội: quốc lộ 2, bãi gửi xe, lịch giỗ Tổ",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "đi đền hùng bằng xe máy",
+    "secondary_keywords": [
+      "hà nội đi đền hùng bao nhiêu km",
+      "đền hùng ở đâu",
+      "giỗ tổ hùng vương 2026 ngày nào",
+      "bãi gửi xe đền hùng",
+      "đường lên đền thượng bao nhiêu bậc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn tự lái xe máy đi Đền Hùng (Phú Thọ), nhất là dịp giỗ Tổ 10/3 Âm lịch: đi quốc lộ nào, vào bãi gửi xe nào, phải leo bao nhiêu bậc, mùa lễ hội có phân luồng gì.",
+    "information_gain": "Site chưa có bài Đền Hùng. Gần nhất là /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ (cũng dùng quốc lộ 2 nhưng rẽ 2B lên Tam Đảo), /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ (quốc lộ 32) và /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ (không có Đền Hùng). Bài này thêm: khoảng cách 90 km và quốc lộ 2 theo VnExpress; lối xe máy vào bãi gửi xe số 2 (Gò Đốt) qua Quốc lộ 32C cạnh cây xăng Quân khu 2 hoặc bãi số 1 (Lâm Viên) theo hướng dẫn phân luồng của Phú Thọ; phương án giao thông dịp giỗ Tổ 2026 (17–26/4/2026, giới hạn 30 km/h trên QL32C); số bậc đá, độ cao các núi; địa giới mới (tỉnh Phú Thọ hợp nhất Vĩnh Phúc, Hòa Bình từ 1/7/2025; xã Hy Cương mới). Khác /kinh-nghiem/lai-xe-o-ha-noi/: bài đó chuẩn bị chung khi đi xe trong nội đô; bài này là tuyến liên tỉnh tới Khu di tích lịch sử Đền Hùng (Phú Thọ), đường vào bãi gửi xe theo phương án lễ hội và lịch giỗ Tổ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-den-hung-4595429.html",
+        "quote": "VnExpress, Cẩm nang du lịch Đền Hùng (Phương Anh, đăng 17/4/2024, cập nhật 2/4/2025; nguồn Cổng TTĐT Phú Thọ, Trung tâm xúc tiến du lịch Phú Thọ): khu di tích rộng 1.030 ha, \"cách trung tâm thành phố Việt Trì 7 km về phía bắc, cách thủ đô Hà Nội 90 km\"; từ Hà Nội đi theo quốc lộ 2 hoặc đường sắt Hà Nội – Lào Cai. Núi Nghĩa Lĩnh 175 m, núi Vặn 170 m, núi Trọc 145 m; đường lên đền Trung 159 bậc đá, từ đền Trung lên đền Thượng khoảng 100 bậc; xuống đền Giếng khoảng 600 bậc; tham quan đền các vua Hùng mất nửa buổi; giỗ Tổ ngày 10/3 Âm lịch (năm 2025 là 7/4). Bài không nêu vé, giờ mở cửa, bãi xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/phu-tho-phan-luong-tu-xa-dam-bao-trat-tu-an-toan-giao-thong-gio-to-hung-vuong-le-hoi-den-hung-nam-2024-1712330144.html",
+        "quote": "Luật sư Việt Nam (6/4/2024), phân luồng dịp giỗ Tổ 2024: xe máy hướng Hà Nội qua cầu Văn Lang tới Quốc lộ 2 (đường Hùng Vương), đến ngã ba với Quốc lộ 32C cạnh cây xăng Quân khu 2 rẽ trái vào Quốc lộ 32C để gửi xe tại bãi số 2 (bãi Gò Đốt); hoặc đi tiếp Quốc lộ 2 đến ngã ba Tỉnh lộ 325 cũ (cổng chính cũ Đền Hùng) rẽ trái tới bãi gửi xe số 1 (bãi Lâm Viên).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/dip-gio-to-hung-vuong-giao-thong-duoc-phan-luong-the-nao-post243447.html",
+        "quote": "Báo Pháp luật Việt Nam (5/4/2017): \"Đối với các xe mô tô, đi tuyến Quốc lộ 2 đến cây xăng Quân khu 2 (Km67+300 QL2)\" \"rẽ trái theo đường Quốc lộ 32C vào gửi xe bãi số 2 (bãi xe Gò Đốt)\" hoặc đi tiếp đến Km67+700 Quốc lộ 2 rẽ trái vào đường khu vực Đền Hùng, gửi xe tại bãi số 1 (bãi xe Lâm Viên).",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://doanhnghiephoinhap.vn/phan-luong-giao-thong-quoc-lo-32c-phuc-vu-le-hoi-den-hung-2026-132906.html",
+        "quote": "Doanh nghiệp và Hội nhập (Quốc Huy, 18/4/2026): Công an tỉnh Phú Thọ ban hành Phương án số 2892/PA-CAT-PC08 ngày 15/4/2026 tổ chức giao thông tạm thời trên Quốc lộ 32C đoạn qua Khu di tích Đền Hùng, áp dụng từ 17/4 đến hết 26/4/2026 (mùng 1 đến 10/3 Âm lịch); mọi phương tiện từ Km2+150 đến Km2+450 chạy tối đa 30 km/h; xe điện bốn bánh của khu di tích chở khách trên QL32C từ Km2+200 đến Km2+400, qua lối rẽ cạnh bãi xe số 2.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/to-chuc-gio-to-hung-vuong-2026-dam-bao-trang-nghiem-thiet-thuc-hieu-qua-va-an-toan-214745.html",
+        "quote": "Báo Văn hóa (27/3/2026): Giỗ Tổ Hùng Vương – Lễ hội Đền Hùng và Tuần Văn hóa – Du lịch Đất Tổ năm Bính Ngọ 2026 khai mạc ngày 1/3 Âm lịch, chính giỗ ngày 10/3 Âm lịch; Sở VHTTDL Phú Thọ là cơ quan thường trực; công an khảo sát phương án phân luồng; bài không nêu vé, bãi xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/bao-ton-va-phat-huy-gia-tri-di-tich-den-hung-post270479.html",
+        "quote": "Báo Pháp luật Việt Nam (27/2/2018): khu di tích Đền Hùng \"nay là địa phận xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ\"; phạm vi di tích quốc gia đặc biệt tổng diện tích 845 ha, vùng lõi 32,2 ha.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+        "quote": "Nghị quyết 1676/NQ-UBTVQH15 (toàn văn trên xaydungchinhsach.chinhphu.vn, đọc 13/10/2026), Điều 1 khoản 1: \"các xã Thanh Đình, Chu Hóa và Hy Cương thành xã mới có tên gọi là xã Hy Cương\"; khoản 132 thành lập phường Việt Trì, khoản 135 phường Vân Phú.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025), khoản 4: \"tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ\"; chính quyền mới hoạt động từ 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đi đền hùng bằng xe máy"
+      }
+    ],
+    "outline": [
+      "Đền Hùng ở đâu sau sáp nhập tỉnh 2025 và cách Hà Nội bao xa",
+      "Lộ trình xe máy theo quốc lộ 2, không vào cao tốc",
+      "Vào bãi gửi xe số 1 hay số 2 dịp giỗ Tổ",
+      "Lịch giỗ Tổ và phân luồng QL32C năm 2026",
+      "Leo đền Hạ, đền Trung, đền Thượng, đền Giếng: bao nhiêu bậc",
+      "Đi ngày thường hay mùa lễ hội, mang gì",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.408
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.408
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/kinh-nghiem/lai-xe-o-ha-noi/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00110.json",
+  "draft_template": {
+    "id": "TM-00110",
+    "url": "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+    "title": "Đi Đền Hùng bằng xe máy từ Hà Nội: quốc lộ 2, bãi gửi xe, lịch giỗ Tổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đi đền hùng bằng xe máy, hà nội đi đền hùng bao nhiêu km, đền hùng ở đâu, giỗ tổ hùng vương 2026 ngày nào, bãi gửi xe đền hùng, đường lên đền thượng bao nhiêu bậc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Hùng ở đâu sau sáp nhập tỉnh 2025 và cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình xe máy theo quốc lộ 2, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Vào bãi gửi xe số 1 hay số 2 dịp giỗ Tổ",
+        "<p></p>"
+      ],
+      [
+        "Lịch giỗ Tổ và phân luồng QL32C năm 2026",
+        "<p></p>"
+      ],
+      [
+        "Leo đền Hạ, đền Trung, đền Thượng, đền Giếng: bao nhiêu bậc",
+        "<p></p>"
+      ],
+      [
+        "Đi ngày thường hay mùa lễ hội, mang gì",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-den-hung-4595429.html",
+        "quote": "VnExpress, Cẩm nang du lịch Đền Hùng (Phương Anh, đăng 17/4/2024, cập nhật 2/4/2025; nguồn Cổng TTĐT Phú Thọ, Trung tâm xúc tiến du lịch Phú Thọ): khu di tích rộng 1.030 ha, \"cách trung tâm thành phố Việt Trì 7 km về phía bắc, cách thủ đô Hà Nội 90 km\"; từ Hà Nội đi theo quốc lộ 2 hoặc đường sắt Hà Nội – Lào Cai. Núi Nghĩa Lĩnh 175 m, núi Vặn 170 m, núi Trọc 145 m; đường lên đền Trung 159 bậc đá, từ đền Trung lên đền Thượng khoảng 100 bậc; xuống đền Giếng khoảng 600 bậc; tham quan đền các vua Hùng mất nửa buổi; giỗ Tổ ngày 10/3 Âm lịch (năm 2025 là 7/4). Bài không nêu vé, giờ mở cửa, bãi xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/phu-tho-phan-luong-tu-xa-dam-bao-trat-tu-an-toan-giao-thong-gio-to-hung-vuong-le-hoi-den-hung-nam-2024-1712330144.html",
+        "quote": "Luật sư Việt Nam (6/4/2024), phân luồng dịp giỗ Tổ 2024: xe máy hướng Hà Nội qua cầu Văn Lang tới Quốc lộ 2 (đường Hùng Vương), đến ngã ba với Quốc lộ 32C cạnh cây xăng Quân khu 2 rẽ trái vào Quốc lộ 32C để gửi xe tại bãi số 2 (bãi Gò Đốt); hoặc đi tiếp Quốc lộ 2 đến ngã ba Tỉnh lộ 325 cũ (cổng chính cũ Đền Hùng) rẽ trái tới bãi gửi xe số 1 (bãi Lâm Viên).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/dip-gio-to-hung-vuong-giao-thong-duoc-phan-luong-the-nao-post243447.html",
+        "quote": "Báo Pháp luật Việt Nam (5/4/2017): \"Đối với các xe mô tô, đi tuyến Quốc lộ 2 đến cây xăng Quân khu 2 (Km67+300 QL2)\" \"rẽ trái theo đường Quốc lộ 32C vào gửi xe bãi số 2 (bãi xe Gò Đốt)\" hoặc đi tiếp đến Km67+700 Quốc lộ 2 rẽ trái vào đường khu vực Đền Hùng, gửi xe tại bãi số 1 (bãi xe Lâm Viên).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://doanhnghiephoinhap.vn/phan-luong-giao-thong-quoc-lo-32c-phuc-vu-le-hoi-den-hung-2026-132906.html",
+        "quote": "Doanh nghiệp và Hội nhập (Quốc Huy, 18/4/2026): Công an tỉnh Phú Thọ ban hành Phương án số 2892/PA-CAT-PC08 ngày 15/4/2026 tổ chức giao thông tạm thời trên Quốc lộ 32C đoạn qua Khu di tích Đền Hùng, áp dụng từ 17/4 đến hết 26/4/2026 (mùng 1 đến 10/3 Âm lịch); mọi phương tiện từ Km2+150 đến Km2+450 chạy tối đa 30 km/h; xe điện bốn bánh của khu di tích chở khách trên QL32C từ Km2+200 đến Km2+400, qua lối rẽ cạnh bãi xe số 2.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/to-chuc-gio-to-hung-vuong-2026-dam-bao-trang-nghiem-thiet-thuc-hieu-qua-va-an-toan-214745.html",
+        "quote": "Báo Văn hóa (27/3/2026): Giỗ Tổ Hùng Vương – Lễ hội Đền Hùng và Tuần Văn hóa – Du lịch Đất Tổ năm Bính Ngọ 2026 khai mạc ngày 1/3 Âm lịch, chính giỗ ngày 10/3 Âm lịch; Sở VHTTDL Phú Thọ là cơ quan thường trực; công an khảo sát phương án phân luồng; bài không nêu vé, bãi xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/bao-ton-va-phat-huy-gia-tri-di-tich-den-hung-post270479.html",
+        "quote": "Báo Pháp luật Việt Nam (27/2/2018): khu di tích Đền Hùng \"nay là địa phận xã Hy Cương, thành phố Việt Trì, tỉnh Phú Thọ\"; phạm vi di tích quốc gia đặc biệt tổng diện tích 845 ha, vùng lõi 32,2 ha.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+        "quote": "Nghị quyết 1676/NQ-UBTVQH15 (toàn văn trên xaydungchinhsach.chinhphu.vn, đọc 13/10/2026), Điều 1 khoản 1: \"các xã Thanh Đình, Chu Hóa và Hy Cương thành xã mới có tên gọi là xã Hy Cương\"; khoản 132 thành lập phường Việt Trì, khoản 135 phường Vân Phú.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025), khoản 4: \"tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ\"; chính quyền mới hoạt động từ 01/7/2025.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00110"
+  }
+}

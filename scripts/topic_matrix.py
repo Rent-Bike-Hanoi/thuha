@@ -733,6 +733,9 @@ def refresh_row(row, c, kw, idx, all_rows):
     m = kw.get(fold(row['primary_keyword']))
     row['evidence'] = [e for e in (row.get('evidence') or []) if e.get('type') != 'keyword-volume'] + (
         [{'type': 'keyword-volume', 'source': m['source'], 'value': m.get('volume'), 'checked': m['checked'], 'keyword': m['keyword']}] if m else [])
+    if m:  # số liệu từ khoá đo sau khi tạo hàng (data/keyword-metrics.jsonl) được ghi lại cùng lúc với bằng chứng
+        row['keyword_volume'], row['keyword_difficulty'] = m.get('volume'), m.get('kd')
+        row['keyword_source'] = m['source'] + ':' + m['checked'] + ('' if m.get('volume') is not None else ' (no volume data)')
     row['research_status'] = 'verified' if any(e.get('checked') and e.get('type') != 'keyword-volume' for e in row['evidence']) else 'none'
     a = assess(row, idx, exclude_ids=[row['topic_id']])
     errs = gate_errors(row, a, all_rows); bl = approval_blockers(row, a, all_rows)

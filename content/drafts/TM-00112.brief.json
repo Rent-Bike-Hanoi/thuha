@@ -1,0 +1,243 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T07:56:14.928967+00:00",
+  "topic": {
+    "topic_id": "TM-00112",
+    "url": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+    "title": "Hà Nội đi Hòa Bình bằng xe máy: quốc lộ 6, thủy điện, hồ Hòa Bình",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "hà nội đi hòa bình bằng xe máy",
+    "secondary_keywords": [
+      "hà nội đi hòa bình bao nhiêu km",
+      "hồ hòa bình đi thuyền",
+      "cảng thung nai",
+      "thủy điện hòa bình giá vé",
+      "hòa bình sáp nhập tỉnh nào"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy 1–2 ngày tới TP Hòa Bình cũ và hồ Hòa Bình (đi thuyền từ Thung Nai, viếng đền Thác Bờ): quãng đường, đi quốc lộ 6 thế nào, đi thuyền cần lưu ý gì, và Hòa Bình nay thuộc tỉnh nào.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ và /du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/ dùng chung quốc lộ 6 nhưng chỉ đi qua TP Hòa Bình để lên đèo Thung Khe; /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ không có Hòa Bình. Bài này dừng ở TP Hòa Bình cũ và vùng hồ: khoảng 70 km theo QL6 tới TP Hòa Bình, thủy điện Hòa Bình cách TP khoảng 3 km (vé ngoài 20.000đ, trọn gói 50.000đ theo VnExpress 2019/2024), hồ rộng hơn 8.850 ha mặt nước, hai bến khách đủ điều kiện Thung Nai và Bích Hạ, 83 tàu đủ điều kiện mùa lễ hội 2026 (50 Thung Nai, 33 Bích Hạ), quy tắc áo phao, động Thác Bờ cách TP hơn 20 km qua cảng Bình Thanh, nước Thung Nai đẹp tháng 5–8; địa giới mới (tỉnh Phú Thọ, phường Hòa Bình, xã Thung Nai) và tình trạng đường Hòa Lạc – Hòa Bình đang được nâng lên cao tốc 6 làn đến 2028. Khác /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/: bài đó là tuyến phía nam theo quốc lộ 1 tới Tràng An, Tam Cốc; bài này là hướng tây theo quốc lộ 6 qua Xuân Mai tới thủy điện và hồ Hòa Bình (nay thuộc Phú Thọ).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025), khoản 4: \"tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ\"; chính quyền mới hoạt động từ 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+        "quote": "Nghị quyết 1676/NQ-UBTVQH15 (xaydungchinhsach.chinhphu.vn, đọc 13/10/2026): Điều 1 khoản 143 các phường Đồng Tiến, Hữu Nghị, Phương Lâm, Quỳnh Lâm, Tân Thịnh, Thịnh Lang, Trung Minh \"thành phường mới có tên gọi là phường Hòa Bình\"; khoản 144 thành lập phường Kỳ Sơn; khoản 93 \"thành xã mới có tên gọi là xã Thung Nai\".",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hoa-binh-4462526.html",
+        "quote": "VnExpress, Cẩm nang Du lịch Hòa Bình 2024 (đăng 29/4/2023, cập nhật 4/1/2024): Hòa Bình cách Hà Nội khoảng 80–140 km tùy điểm đến; ô tô thường đi cao tốc Hòa Lạc – Hòa Bình (đường 6 mới) hoặc rẽ QL21 qua Xuân Mai (đường 6 cũ); xe máy gợi ý đi đường Nguyễn Trãi qua Hà Đông rồi theo QL6. Thủy điện Hòa Bình: vé vào cửa 20.000 đồng (chỉ khu bên ngoài), tham quan cả khu kỹ thuật 50.000 đồng. Đền Bà Chúa Thác Bờ ở xã Vầy Nưa, huyện Đà Bắc (cũ), bên hồ; năm 2009 động Thác Bờ được công nhận di tích danh thắng quốc gia; lễ hội nhiều từ tháng Giêng đến tháng 3. Thung Nai nước trong xanh tháng 5–8; mang ô che nắng vì không có cây; đèo Thung Khe chỉ nên đi ngày nắng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cong-trinh-thuy-dien-dac-san-du-lich-cua-hoa-binh-3123847.html",
+        "quote": "VnExpress Du lịch (25/12/2014): \"Từ Hà Nội đi theo quốc lộ 6 chừng 70 km, bạn sẽ đặt chân đến thành phố Hòa Bình\"; \"Nhà máy thủy điện cách thành phố chừng 3km\"; 8 tổ máy, công suất 1.920 MW, xây từ 1979 đến tháng 4/1994.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/doc-dao-dong-thac-bo-thung-nai-3008316-p2.html",
+        "quote": "VnExpress (22/7/2014): từ trung tâm TP Hòa Bình đi \"hơn 20 km theo lối cảng Bình Thanh\" rồi đi thuyền khoảng 15 phút trên hồ Hòa Bình tới động Thác Bờ ở xóm Bưng, xã Ngòi Hoa, huyện Tân Lạc (cũ).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/siet-chat-ky-cuong-van-tai-thuy-mua-le-hoi-tren-ho-hoa-binh-248173.htm",
+        "quote": "Báo Phú Thọ, Siết chặt kỷ cương vận tải thủy mùa lễ hội trên hồ Hòa Bình (không ghi ngày trong thân bài; nói về mùa lễ hội Tết Bính Ngọ 2026): \"trong mùa du lịch lễ hội năm nay có 83 phương tiện thủy đủ điều kiện\", trong đó bến cảng du lịch Thung Nai (xã Thung Nai) 50 tàu thuộc 5 hợp tác xã, bến cảng Bích Hạ 33 tàu; từ 17/2 (mùng 1 Tết) cảng đón khách đi lễ hội Đền Chúa Thác Bờ; \"Nếu hành khách không chấp hành việc mặc áo phao, dù chỉ một người, tàu kiên quyết không xuất bến\".",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/suc-song-vung-ho-hoa-binh-262595.htm",
+        "quote": "Báo Phú Thọ, Sức sống vùng hồ Hòa Bình (không ghi ngày; dùng số liệu 9 tháng 2026): hồ Hòa Bình có \"hơn 8.850 ha mặt nước\"; 9 tháng năm 2026 xã Thung Nai đón 270.000 lượt khách, tăng 7%, doanh thu du lịch ước 72 tỷ đồng; khu du lịch hồ Hòa Bình có hơn 100 cơ sở lưu trú và khoảng 300 phương tiện thủy bộ chở khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/dau-tu-mo-rong-duong-hoa-lac-hoa-binh-theo-tieu-chuan-duong-cao-toc-6-lan-xe-138601.htm",
+        "quote": "Tạp chí Công Thương (21/3/2025): dự án đường Hòa Lạc – Hòa Bình đưa vào khai thác năm 2018; điều chỉnh chiều dài đoạn Hòa Lạc – Hòa Bình từ 25,69 km còn 23,04 km; mở rộng theo tiêu chuẩn cao tốc 6 làn xe, vận tốc thiết kế 100 km/h, chuẩn bị và thi công 2023–2027, hoàn thành, đưa vào khai thác năm 2028.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "hà nội đi hòa bình bằng xe máy"
+      }
+    ],
+    "outline": [
+      "Hòa Bình nay thuộc tỉnh nào: hợp nhất vào Phú Thọ từ 1/7/2025",
+      "Hà Nội đi Hòa Bình bao nhiêu km, quốc lộ 6 qua Xuân Mai",
+      "Đường Hòa Lạc – Hòa Bình đang nâng cấp: xe máy nên đi đâu",
+      "Thủy điện Hòa Bình và đồi tượng đài: vé, giờ đến",
+      "Hồ Hòa Bình: bến Thung Nai, Bích Hạ, động và đền Thác Bờ",
+      "An toàn khi đi thuyền: tàu đủ điều kiện, áo phao",
+      "Mùa đẹp và gợi ý lịch trình 1–2 ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.436
+        }
+      },
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.479
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.479
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00112.json",
+  "draft_template": {
+    "id": "TM-00112",
+    "url": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+    "title": "Hà Nội đi Hòa Bình bằng xe máy: quốc lộ 6, thủy điện, hồ Hòa Bình",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hà nội đi hòa bình bằng xe máy, hà nội đi hòa bình bao nhiêu km, hồ hòa bình đi thuyền, cảng thung nai, thủy điện hòa bình giá vé, hòa bình sáp nhập tỉnh nào",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hòa Bình nay thuộc tỉnh nào: hợp nhất vào Phú Thọ từ 1/7/2025",
+        "<p></p>"
+      ],
+      [
+        "Hà Nội đi Hòa Bình bao nhiêu km, quốc lộ 6 qua Xuân Mai",
+        "<p></p>"
+      ],
+      [
+        "Đường Hòa Lạc – Hòa Bình đang nâng cấp: xe máy nên đi đâu",
+        "<p></p>"
+      ],
+      [
+        "Thủy điện Hòa Bình và đồi tượng đài: vé, giờ đến",
+        "<p></p>"
+      ],
+      [
+        "Hồ Hòa Bình: bến Thung Nai, Bích Hạ, động và đền Thác Bờ",
+        "<p></p>"
+      ],
+      [
+        "An toàn khi đi thuyền: tàu đủ điều kiện, áo phao",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp và gợi ý lịch trình 1–2 ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025), khoản 4: \"tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ\"; chính quyền mới hoạt động từ 01/7/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1676-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-phu-tho-nam-2025-119250616204317326.htm",
+        "quote": "Nghị quyết 1676/NQ-UBTVQH15 (xaydungchinhsach.chinhphu.vn, đọc 13/10/2026): Điều 1 khoản 143 các phường Đồng Tiến, Hữu Nghị, Phương Lâm, Quỳnh Lâm, Tân Thịnh, Thịnh Lang, Trung Minh \"thành phường mới có tên gọi là phường Hòa Bình\"; khoản 144 thành lập phường Kỳ Sơn; khoản 93 \"thành xã mới có tên gọi là xã Thung Nai\".",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hoa-binh-4462526.html",
+        "quote": "VnExpress, Cẩm nang Du lịch Hòa Bình 2024 (đăng 29/4/2023, cập nhật 4/1/2024): Hòa Bình cách Hà Nội khoảng 80–140 km tùy điểm đến; ô tô thường đi cao tốc Hòa Lạc – Hòa Bình (đường 6 mới) hoặc rẽ QL21 qua Xuân Mai (đường 6 cũ); xe máy gợi ý đi đường Nguyễn Trãi qua Hà Đông rồi theo QL6. Thủy điện Hòa Bình: vé vào cửa 20.000 đồng (chỉ khu bên ngoài), tham quan cả khu kỹ thuật 50.000 đồng. Đền Bà Chúa Thác Bờ ở xã Vầy Nưa, huyện Đà Bắc (cũ), bên hồ; năm 2009 động Thác Bờ được công nhận di tích danh thắng quốc gia; lễ hội nhiều từ tháng Giêng đến tháng 3. Thung Nai nước trong xanh tháng 5–8; mang ô che nắng vì không có cây; đèo Thung Khe chỉ nên đi ngày nắng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cong-trinh-thuy-dien-dac-san-du-lich-cua-hoa-binh-3123847.html",
+        "quote": "VnExpress Du lịch (25/12/2014): \"Từ Hà Nội đi theo quốc lộ 6 chừng 70 km, bạn sẽ đặt chân đến thành phố Hòa Bình\"; \"Nhà máy thủy điện cách thành phố chừng 3km\"; 8 tổ máy, công suất 1.920 MW, xây từ 1979 đến tháng 4/1994.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/doc-dao-dong-thac-bo-thung-nai-3008316-p2.html",
+        "quote": "VnExpress (22/7/2014): từ trung tâm TP Hòa Bình đi \"hơn 20 km theo lối cảng Bình Thanh\" rồi đi thuyền khoảng 15 phút trên hồ Hòa Bình tới động Thác Bờ ở xóm Bưng, xã Ngòi Hoa, huyện Tân Lạc (cũ).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/siet-chat-ky-cuong-van-tai-thuy-mua-le-hoi-tren-ho-hoa-binh-248173.htm",
+        "quote": "Báo Phú Thọ, Siết chặt kỷ cương vận tải thủy mùa lễ hội trên hồ Hòa Bình (không ghi ngày trong thân bài; nói về mùa lễ hội Tết Bính Ngọ 2026): \"trong mùa du lịch lễ hội năm nay có 83 phương tiện thủy đủ điều kiện\", trong đó bến cảng du lịch Thung Nai (xã Thung Nai) 50 tàu thuộc 5 hợp tác xã, bến cảng Bích Hạ 33 tàu; từ 17/2 (mùng 1 Tết) cảng đón khách đi lễ hội Đền Chúa Thác Bờ; \"Nếu hành khách không chấp hành việc mặc áo phao, dù chỉ một người, tàu kiên quyết không xuất bến\".",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/suc-song-vung-ho-hoa-binh-262595.htm",
+        "quote": "Báo Phú Thọ, Sức sống vùng hồ Hòa Bình (không ghi ngày; dùng số liệu 9 tháng 2026): hồ Hòa Bình có \"hơn 8.850 ha mặt nước\"; 9 tháng năm 2026 xã Thung Nai đón 270.000 lượt khách, tăng 7%, doanh thu du lịch ước 72 tỷ đồng; khu du lịch hồ Hòa Bình có hơn 100 cơ sở lưu trú và khoảng 300 phương tiện thủy bộ chở khách.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/dau-tu-mo-rong-duong-hoa-lac-hoa-binh-theo-tieu-chuan-duong-cao-toc-6-lan-xe-138601.htm",
+        "quote": "Tạp chí Công Thương (21/3/2025): dự án đường Hòa Lạc – Hòa Bình đưa vào khai thác năm 2018; điều chỉnh chiều dài đoạn Hòa Lạc – Hòa Bình từ 25,69 km còn 23,04 km; mở rộng theo tiêu chuẩn cao tốc 6 làn xe, vận tốc thiết kế 100 km/h, chuẩn bị và thi công 2023–2027, hoàn thành, đưa vào khai thác năm 2028.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00112"
+  }
+}

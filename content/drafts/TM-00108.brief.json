@@ -1,0 +1,202 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T07:56:14.591856+00:00",
+  "topic": {
+    "topic_id": "TM-00108",
+    "url": "/du-lich/ecopark-di-xe-may-tu-long-bien/",
+    "title": "Ecopark đi xe máy từ Long Biên: đường đê Bát Tràng, chơi gì, lưu ý",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "ecopark đi xe máy",
+    "secondary_keywords": [
+      "đi ecopark bằng xe máy",
+      "ecopark ở đâu",
+      "ecopark có mất phí vào không",
+      "đường đi ecopark từ long biên",
+      "công viên hồ thiên nga ecopark"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở hoặc thuê xe tại Long Biên muốn đi Ecopark chơi cuối tuần bằng xe máy: Ecopark thuộc tỉnh nào sau sáp nhập, đi đường nào gần nhất, có những công viên gì, chợ cuối tuần mở khi nào.",
+    "information_gain": "Site chưa có bài Ecopark. Gần nhất là /du-lich/ha-noi/aeon-mall-long-bien-xe-may/ (điểm vui chơi cùng phía sông, nhưng trong Hà Nội) và /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ (không nhắc Ecopark). Bài này thêm: Ecopark nay thuộc xã Phụng Công, tỉnh Hưng Yên (Nghị quyết 202/2025/QH15 khoản 6 và Nghị quyết 1666/NQ-UBTVQH15 khoản 31); tuyến đê Bát Tràng từ chân cầu Chương Dương tới Ecopark (hơn 10 km) nên có thể ghép Bát Tràng – Ecopark trong một buổi; quy mô 500 ha, 4 công viên theo trang chính thức; Hồ Thiên Nga gần 52 ha; giờ chợ EcoSunday (nguồn 2020, cần ghi năm).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://ecopark.com.vn/ecopark-overviewkr.html",
+        "quote": "Ecopark, trang Tổng quan (trang chính thức của chủ đầu tư, đọc 13/10/2026): \"500ha của Ecopark được quy hoạch\", trên 20% diện tích là mặt nước và cây xanh, mật độ xây dựng 21%; \"Chỉ cách trung tâm Hà Nội 25 phút lái xe\"; có \"4 công viên rộng lớn\", hàng triệu cây xanh; hoạt động: dã ngoại, chèo kayak, đạp xe, phố mua sắm Phố Trúc, rạp CGV; dân số gần 20.000 người, mục tiêu 110.000 vào 2030; địa chỉ chân trang: Khu đô thị Ecopark, Xuân Quan, Văn Giang, Hưng Yên. Trang không nêu phí gửi xe, giờ mở cửa hay vé.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://ecopark.com.vn/service.html",
+        "quote": "Ecopark, trang Dịch vụ tiện ích (đọc 13/10/2026): địa chỉ \"Khu đô thị Ecopark, Phụng Công, Hưng Yên\"; trang có đường dây nóng riêng cho công viên Hồ Thiên Nga và cụm công viên Mùa Xuân, Mùa Thu, Mùa Hạ (không chép số vào bài); không nêu phí gửi xe máy hay giờ mở cửa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1666-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-hung-yen-nam-2025-119250616195158879.htm",
+        "quote": "Nghị quyết 1666/NQ-UBTVQH15 (toàn văn trên xaydungchinhsach.chinhphu.vn, đọc 13/10/2026), Điều 1 khoản 31: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Xuân Quan, Cửu Cao và Phụng Công\" \"thành xã mới có tên gọi là xã Phụng Công\"; khoản 32: xã Tân Tiến (huyện Văn Giang), xã Liên Nghĩa và thị trấn Văn Giang thành xã Văn Giang.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025): khoản 6 sắp xếp \"tỉnh Thái Bình và tỉnh Hưng Yên thành tỉnh mới có tên gọi là tỉnh Hưng Yên\"; chính quyền tỉnh mới hoạt động từ 01/7/2025; thành phố Hà Nội thuộc nhóm 11 tỉnh, thành phố không sắp xếp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/hoan-thanh-nang-cap-tuyen-duong-de-bat-trang.htm",
+        "quote": "VnEconomy (18/12/2010): tuyến đường đê Bát Tràng \"bắt đầu từ chân cầu Chương Dương đến Khu đô thị Ecopark (hết địa phận Hà Nội)\", dài hơn 10 km, mặt đường rộng 8 m, khánh thành 17/12/2010.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuoi-tuan-nghi-duong-trong-khu-do-thi-sinh-thai-trieu-cay-xanh-4137602.html",
+        "quote": "VnExpress Du lịch (30/7/2020; trang có nhãn 'Nội dung được tài trợ' gần nút chia sẻ, không rõ áp dụng cho bài): Ecopark cách trung tâm Hà Nội khoảng 15 km; từ Bát Tràng đi xe hoặc taxi 5–10 phút; Công viên Mùa Hạ rộng 2,5 ha (đạp xe, cắm trại, BBQ); Hồ Thiên Nga: thả diều, đạp xe, chèo kayak; xe điện tham quan 15.000 đồng/lượt; chợ EcoSunday \"từ 17h đến 22h thứ bảy và 7h đến 15h chủ nhật\" (số liệu năm 2020).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ben-trong-cong-vien-sinh-thai-rong-52ha-phia-dong-ha-noi-4091221.html",
+        "quote": "VnExpress Du lịch (28/4/2020; trang có nhãn 'Nội dung được tài trợ'): \"Với diện tích gần 52ha, Hồ Thiên Nga hiện là một trong những công viên sinh thái lớn nhất miền Bắc\"; hồ rộng gần 5 lần hồ Gươm; có đường chạy quanh hồ, đường đạp xe, đi bộ, khu vui chơi. Bài không nêu giờ mở cửa, vé hay phí gửi xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "ecopark đi xe máy"
+      }
+    ],
+    "outline": [
+      "Ecopark ở đâu: xã Phụng Công, tỉnh Hưng Yên từ 1/7/2025",
+      "Đi xe máy từ Long Biên: theo tuyến đê Bát Tràng",
+      "Ecopark có gì: 4 công viên, Hồ Thiên Nga, Phố Trúc",
+      "Chợ cuối tuần và xe điện tham quan: giờ và giá đã công bố",
+      "Gửi xe và phí: những gì chưa có thông tin chính thức",
+      "Ghép Bát Tràng và Ecopark trong một buổi",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/thue-xe-may/long-bien/",
+      "/du-lich/ha-noi/aeon-mall-long-bien-xe-may/",
+      "/du-lich/ha-noi/",
+      "/thue-xe-dien/ha-noi/",
+      "/du-lich/cau-chuong-duong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00108.json",
+  "draft_template": {
+    "id": "TM-00108",
+    "url": "/du-lich/ecopark-di-xe-may-tu-long-bien/",
+    "title": "Ecopark đi xe máy từ Long Biên: đường đê Bát Tràng, chơi gì, lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ecopark đi xe máy, đi ecopark bằng xe máy, ecopark ở đâu, ecopark có mất phí vào không, đường đi ecopark từ long biên, công viên hồ thiên nga ecopark",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ecopark ở đâu: xã Phụng Công, tỉnh Hưng Yên từ 1/7/2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên: theo tuyến đê Bát Tràng",
+        "<p></p>"
+      ],
+      [
+        "Ecopark có gì: 4 công viên, Hồ Thiên Nga, Phố Trúc",
+        "<p></p>"
+      ],
+      [
+        "Chợ cuối tuần và xe điện tham quan: giờ và giá đã công bố",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe và phí: những gì chưa có thông tin chính thức",
+        "<p></p>"
+      ],
+      [
+        "Ghép Bát Tràng và Ecopark trong một buổi",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://ecopark.com.vn/ecopark-overviewkr.html",
+        "quote": "Ecopark, trang Tổng quan (trang chính thức của chủ đầu tư, đọc 13/10/2026): \"500ha của Ecopark được quy hoạch\", trên 20% diện tích là mặt nước và cây xanh, mật độ xây dựng 21%; \"Chỉ cách trung tâm Hà Nội 25 phút lái xe\"; có \"4 công viên rộng lớn\", hàng triệu cây xanh; hoạt động: dã ngoại, chèo kayak, đạp xe, phố mua sắm Phố Trúc, rạp CGV; dân số gần 20.000 người, mục tiêu 110.000 vào 2030; địa chỉ chân trang: Khu đô thị Ecopark, Xuân Quan, Văn Giang, Hưng Yên. Trang không nêu phí gửi xe, giờ mở cửa hay vé.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://ecopark.com.vn/service.html",
+        "quote": "Ecopark, trang Dịch vụ tiện ích (đọc 13/10/2026): địa chỉ \"Khu đô thị Ecopark, Phụng Công, Hưng Yên\"; trang có đường dây nóng riêng cho công viên Hồ Thiên Nga và cụm công viên Mùa Xuân, Mùa Thu, Mùa Hạ (không chép số vào bài); không nêu phí gửi xe máy hay giờ mở cửa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1666-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-hung-yen-nam-2025-119250616195158879.htm",
+        "quote": "Nghị quyết 1666/NQ-UBTVQH15 (toàn văn trên xaydungchinhsach.chinhphu.vn, đọc 13/10/2026), Điều 1 khoản 31: \"Sắp xếp toàn bộ diện tích tự nhiên, quy mô dân số của các xã Xuân Quan, Cửu Cao và Phụng Công\" \"thành xã mới có tên gọi là xã Phụng Công\"; khoản 32: xã Tân Tiến (huyện Văn Giang), xã Liên Nghĩa và thị trấn Văn Giang thành xã Văn Giang.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025): khoản 6 sắp xếp \"tỉnh Thái Bình và tỉnh Hưng Yên thành tỉnh mới có tên gọi là tỉnh Hưng Yên\"; chính quyền tỉnh mới hoạt động từ 01/7/2025; thành phố Hà Nội thuộc nhóm 11 tỉnh, thành phố không sắp xếp.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/hoan-thanh-nang-cap-tuyen-duong-de-bat-trang.htm",
+        "quote": "VnEconomy (18/12/2010): tuyến đường đê Bát Tràng \"bắt đầu từ chân cầu Chương Dương đến Khu đô thị Ecopark (hết địa phận Hà Nội)\", dài hơn 10 km, mặt đường rộng 8 m, khánh thành 17/12/2010.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuoi-tuan-nghi-duong-trong-khu-do-thi-sinh-thai-trieu-cay-xanh-4137602.html",
+        "quote": "VnExpress Du lịch (30/7/2020; trang có nhãn 'Nội dung được tài trợ' gần nút chia sẻ, không rõ áp dụng cho bài): Ecopark cách trung tâm Hà Nội khoảng 15 km; từ Bát Tràng đi xe hoặc taxi 5–10 phút; Công viên Mùa Hạ rộng 2,5 ha (đạp xe, cắm trại, BBQ); Hồ Thiên Nga: thả diều, đạp xe, chèo kayak; xe điện tham quan 15.000 đồng/lượt; chợ EcoSunday \"từ 17h đến 22h thứ bảy và 7h đến 15h chủ nhật\" (số liệu năm 2020).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ben-trong-cong-vien-sinh-thai-rong-52ha-phia-dong-ha-noi-4091221.html",
+        "quote": "VnExpress Du lịch (28/4/2020; trang có nhãn 'Nội dung được tài trợ'): \"Với diện tích gần 52ha, Hồ Thiên Nga hiện là một trong những công viên sinh thái lớn nhất miền Bắc\"; hồ rộng gần 5 lần hồ Gươm; có đường chạy quanh hồ, đường đạp xe, đi bộ, khu vui chơi. Bài không nêu giờ mở cửa, vé hay phí gửi xe máy.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00108"
+  }
+}
