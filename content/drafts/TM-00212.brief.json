@@ -1,0 +1,163 @@
+{
+  "writer": "writer-w4f",
+  "queued": "2026-10-13T09:16:56.995831+00:00",
+  "topic": {
+    "topic_id": "TM-00212",
+    "url": "/du-lich/bao-tang-ha-noi/",
+    "title": "Bảo tàng Hà Nội: giờ mở cửa, vé 50.000đ, nghỉ thứ Hai, có gì mới 2026",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bảo tàng hà nội",
+    "secondary_keywords": [
+      "bảo tàng hà nội giờ mở cửa",
+      "giá vé bảo tàng hà nội",
+      "bảo tàng hà nội phạm hùng",
+      "sa bàn quy hoạch hà nội 100 năm",
+      "bảo tàng hà nội kim tự tháp ngược"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe ở Long Biên muốn đi Bảo tàng Hà Nội trên đường Phạm Hùng: mở cửa ngày nào, vé bao nhiêu, ai được miễn giảm, trưng bày mới năm 2026 có gì và bảo tàng có hay tạm đóng không.",
+    "information_gain": "Site chưa có bài về Bảo tàng Hà Nội. Gần nhất là /du-lich/bao-tang-lich-su-quoc-gia/ và /du-lich/bao-tang-dan-toc-hoc-viet-nam/ (các bảo tàng khác) cùng /du-lich/ha-noi/. Bài này thêm: giờ 9h00–17h00 thứ Ba–Chủ nhật, nghỉ thứ Hai, vé 50.000đ, miễn trẻ dưới 16 tuổi, giảm 50% học sinh, sinh viên, người từ 60 tuổi (trang chính thức); trưng bày thường xuyên hoàn chỉnh mở đón khách dịp đầu năm 2026 (hơn 7.000 tư liệu, hiện vật, 6 bảo vật và nhóm bảo vật); số liệu công trình (53.963 m2, cao 30,7 m, 4 tầng nổi, 2 tầng hầm, kim tự tháp ngược); triển lãm quy hoạch Thủ đô 100 năm 29/6–29/8/2026 với sa bàn đường kính 7 m; ví dụ tạm đóng cửa 15/7–6/8/2025 để kiểm tra lịch trước khi đi.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotanghanoi.com.vn/",
+        "quote": "Bảo tàng Hà Nội, trang chủ (đọc 13/10/2026): địa chỉ 'Phạm Hùng, Từ Liêm, Hà Nội'; mở cửa 'Từ 9h00 – 17h00', 'Từ Thứ Ba đến Chủ Nhật hàng tuần (Nghỉ Thứ Hai)'; '50K/vé'; 'Trẻ em dưới 16 tuổi: Miễn phí'; 'Học sinh, sinh viên, người cao tuổi (60 tuổi trở lên): Giảm 50%'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/dia-chi-van-hoa-moi-cua-thu-do-post941505.html",
+        "quote": "Nhân Dân, 'Địa chỉ văn hóa mới của Thủ đô' (05/02/2026): dịp năm mới Bính Ngọ 2026, Bảo tàng Hà Nội chính thức mở cửa các không gian trưng bày thường xuyên sau thời gian dài đóng cửa thi công; hơn 7.000 tư liệu, tài liệu, hiện vật, trong đó có sáu bảo vật và nhóm bảo vật quốc gia; có trống đồng Cổ Loa; đường lên các tầng hình xoáy trôn ốc; khánh thành năm 2010 nhân Đại lễ 1000 năm Thăng Long nhưng khi đó chưa có trưng bày thường xuyên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/bao-tang-ha-noi-tam-dung-don-khach-tham-quan-tu-ngay-15-7-91933.html",
+        "quote": "Người Hà Nội, 'Bảo tàng Hà Nội tạm dừng đón khách tham quan từ ngày 15/7' (15/07/2025): tạm dừng đón khách 15/7/2025, dự kiến mở lại 6/8/2025 để thi công triển lãm kỷ niệm 80 năm Ngày truyền thống Công an nhân dân; bảo tàng trên đường Phạm Hùng, khánh thành giai đoạn 1 năm 2010; tổng diện tích 53.963 m2, cao 30,7 m, 4 tầng nổi và 2 tầng hầm, tầng 4 lớn nhất theo kiến trúc kim tự tháp ngược; chi phí hơn 2.300 tỷ đồng; kho lưu giữ hơn 70.000 tài liệu, hiện vật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/bao-tang-ha-noi-chat-cung-nguoi-xem-quy-hoach-thu-do-100-nam-185260629175949314.htm",
+        "quote": "Thanh Niên, 'Bảo tàng Hà Nội chật cứng người xem quy hoạch thủ đô 100 năm' (29/06/2026): chiều 29/6 rất đông người tới Bảo tàng Hà Nội (đường Phạm Hùng, phường Từ Liêm) xem sa bàn tròn quy hoạch tổng thể đường kính 7 m ở tầng 1; trưng bày diễn ra 29/6–29/8, bảo tàng mở cửa miễn phí 9–17 giờ hằng ngày trong thời gian này.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 49500,
+        "checked": "2026-10-13",
+        "keyword": "bảo tàng hà nội"
+      }
+    ],
+    "outline": [
+      "Bảo tàng Hà Nội ở đâu: đường Phạm Hùng, phường Từ Liêm",
+      "Giờ mở cửa, nghỉ thứ Hai và những lần tạm đóng",
+      "Vé 50.000đ và đối tượng miễn, giảm",
+      "Có gì mới: trưng bày thường xuyên hoàn chỉnh từ đầu 2026",
+      "Kiến trúc kim tự tháp ngược và đường xoáy trôn ốc",
+      "Đi xe máy từ Long Biên: qua sông, giờ nên đi, gửi xe",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-lich-su-quoc-gia/",
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+      "/du-lich/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00212.json",
+  "draft_template": {
+    "id": "TM-00212",
+    "url": "/du-lich/bao-tang-ha-noi/",
+    "title": "Bảo tàng Hà Nội: giờ mở cửa, vé 50.000đ, nghỉ thứ Hai, có gì mới 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng hà nội, bảo tàng hà nội giờ mở cửa, giá vé bảo tàng hà nội, bảo tàng hà nội phạm hùng, sa bàn quy hoạch hà nội 100 năm, bảo tàng hà nội kim tự tháp ngược",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Hà Nội ở đâu: đường Phạm Hùng, phường Từ Liêm",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa, nghỉ thứ Hai và những lần tạm đóng",
+        "<p></p>"
+      ],
+      [
+        "Vé 50.000đ và đối tượng miễn, giảm",
+        "<p></p>"
+      ],
+      [
+        "Có gì mới: trưng bày thường xuyên hoàn chỉnh từ đầu 2026",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc kim tự tháp ngược và đường xoáy trôn ốc",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên: qua sông, giờ nên đi, gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotanghanoi.com.vn/",
+        "quote": "Bảo tàng Hà Nội, trang chủ (đọc 13/10/2026): địa chỉ 'Phạm Hùng, Từ Liêm, Hà Nội'; mở cửa 'Từ 9h00 – 17h00', 'Từ Thứ Ba đến Chủ Nhật hàng tuần (Nghỉ Thứ Hai)'; '50K/vé'; 'Trẻ em dưới 16 tuổi: Miễn phí'; 'Học sinh, sinh viên, người cao tuổi (60 tuổi trở lên): Giảm 50%'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/dia-chi-van-hoa-moi-cua-thu-do-post941505.html",
+        "quote": "Nhân Dân, 'Địa chỉ văn hóa mới của Thủ đô' (05/02/2026): dịp năm mới Bính Ngọ 2026, Bảo tàng Hà Nội chính thức mở cửa các không gian trưng bày thường xuyên sau thời gian dài đóng cửa thi công; hơn 7.000 tư liệu, tài liệu, hiện vật, trong đó có sáu bảo vật và nhóm bảo vật quốc gia; có trống đồng Cổ Loa; đường lên các tầng hình xoáy trôn ốc; khánh thành năm 2010 nhân Đại lễ 1000 năm Thăng Long nhưng khi đó chưa có trưng bày thường xuyên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/bao-tang-ha-noi-tam-dung-don-khach-tham-quan-tu-ngay-15-7-91933.html",
+        "quote": "Người Hà Nội, 'Bảo tàng Hà Nội tạm dừng đón khách tham quan từ ngày 15/7' (15/07/2025): tạm dừng đón khách 15/7/2025, dự kiến mở lại 6/8/2025 để thi công triển lãm kỷ niệm 80 năm Ngày truyền thống Công an nhân dân; bảo tàng trên đường Phạm Hùng, khánh thành giai đoạn 1 năm 2010; tổng diện tích 53.963 m2, cao 30,7 m, 4 tầng nổi và 2 tầng hầm, tầng 4 lớn nhất theo kiến trúc kim tự tháp ngược; chi phí hơn 2.300 tỷ đồng; kho lưu giữ hơn 70.000 tài liệu, hiện vật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/bao-tang-ha-noi-chat-cung-nguoi-xem-quy-hoach-thu-do-100-nam-185260629175949314.htm",
+        "quote": "Thanh Niên, 'Bảo tàng Hà Nội chật cứng người xem quy hoạch thủ đô 100 năm' (29/06/2026): chiều 29/6 rất đông người tới Bảo tàng Hà Nội (đường Phạm Hùng, phường Từ Liêm) xem sa bàn tròn quy hoạch tổng thể đường kính 7 m ở tầng 1; trưng bày diễn ra 29/6–29/8, bảo tàng mở cửa miễn phí 9–17 giờ hằng ngày trong thời gian này.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00212"
+  }
+}

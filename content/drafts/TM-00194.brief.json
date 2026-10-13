@@ -1,0 +1,202 @@
+{
+  "writer": "writer-w4c",
+  "queued": "2026-10-13T09:16:56.643264+00:00",
+  "topic": {
+    "topic_id": "TM-00194",
+    "url": "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+    "title": "Côn Sơn Kiếp Bạc đi xe máy từ Hà Nội: đường đi, lễ hội, lưu ý",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "côn sơn kiếp bạc",
+    "secondary_keywords": [
+      "côn sơn kiếp bạc cách hà nội bao nhiêu km",
+      "đường đi côn sơn kiếp bạc xe máy",
+      "lễ hội côn sơn kiếp bạc mùa thu 2026",
+      "đền kiếp bạc",
+      "chùa côn sơn bàn cờ tiên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội (nhất là phía Long Biên, Gia Lâm) muốn đi xe máy về Côn Sơn – Kiếp Bạc ở Chí Linh, nay thuộc thành phố Hải Phòng: bao xa, đi quốc lộ nào để không lạc vào cao tốc, nên đi mùa lễ hội hay ngày thường, tham quan những gì trong một ngày.",
+    "information_gain": "Site chưa có bài riêng về Côn Sơn – Kiếp Bạc. /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ và /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ chỉ liệt kê tên khu di tích trong danh sách điểm đến của Hải Phòng; /du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/ nói về sườn Quảng Ninh của cùng quần thể di sản. Bài này thêm: các con số quãng đường đặt cạnh nhau (khoảng 80 km theo VnExpress 2013; Hải Dương cũ cách Hà Nội khoảng 60 km và Côn Sơn cách TP Hải Dương cũ khoảng 30 km), QL37 chạy qua khu di tích và hay ách tắc dịp lễ hội (Báo Chính phủ 2024), điểm giao QL37 – QL18 tại Km87+403, lịch Lễ hội mùa thu 26/9–4/10/2026 (lễ hội đầu tiên sau khi UNESCO ghi danh 12/7/2025), các điểm Bàn Cờ Tiên, Thạch Bàn, đền Kiếp Bạc nhìn ra sông Lục Đầu, và việc Hải Dương nhập vào Hải Phòng theo Nghị quyết 202/2025/QH15.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/con-son-kiep-bac-mot-coi-binh-yen-2887549.html",
+        "quote": "VnExpress, “Côn Sơn - Kiếp Bạc, một cõi bình yên” (Vũ Thịnh, 25/10/2013): “Cách Hà Nội chừng 80 km”, khu di tích gắn với Trần Hưng Đạo và Nguyễn Trãi; sườn núi Kỳ Lân có đỉnh gọi là Bàn Cờ Tiên; sườn phải núi Kỳ Lân còn nền nhà Nguyễn Trãi dạy học và phiến đá Thạch Bàn (hòn đá “năm gian”); đền Kiếp Bạc nằm giữa thung lũng núi Rồng, tam quan “Lưỡng long chầu nguyệt”, nhìn ra sông Thương (sông Lục Đầu), thời Trần là bến Bình Than; giữa dòng có Cồn Kiếm dài 200 m; khu Côn Sơn – Kiếp Bạc là một trong 23 di tích quốc gia đặc biệt (thời điểm 2013).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hai-duong-4462664.html",
+        "quote": "VnExpress, Cẩm nang du lịch Hải Dương (đăng 17/5/2022, cập nhật 4/1/2024): “Hải Dương cách Hà Nội khoảng 60 km”; có xe cá nhân, xe khách (60.000–70.000 đồng), limousine, tàu hỏa từ ga Long Biên; Khu di tích quốc gia đặc biệt Côn Sơn – Kiếp Bạc; Văn miếu Mao Điền nằm phía bắc Quốc lộ 5A chừng 200 m, cách Hà Nội 42 km, cách TP Hải Dương 16 km; Hội thi pháo đất được đưa vào Lễ hội mùa xuân Côn Sơn – Kiếp Bạc ngày 16 tháng Giêng âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-diem-thu-gian-ngoai-troi-cuoi-tuan-o-hai-duong-4683582.html",
+        "quote": "VnExpress, “5 điểm thư giãn ngoài trời cuối tuần ở Hải Dương” (7/12/2023): Hải Dương cách Hà Nội khoảng 60 km; “Nằm cách thành phố Hải Dương khoảng 30 km, khu di tích Côn Sơn - Kiếp Bạc có suối Côn Sơn chảy từ đỉnh núi”, rừng thông; Khu trải nghiệm Côn Sơn (Côn Sơn Camping) do BQL khu di tích mở đón khách từ tháng 9 (2023), có thuê lều trại, bếp nướng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/xem-xet-dau-tu-du-an-cai-tao-nang-cap-quoc-lo-37-doan-qua-tinh-hai-duong-102240506164532606.htm",
+        "quote": "Báo Chính phủ, “Xem xét đầu tư dự án cải tạo, nâng cấp quốc lộ 37 đoạn qua tỉnh Hải Dương” (6/5/2024): dự án có điểm đầu tại Km87+403 QL37 giao với QL18 (tại Km37+750 QL18), điểm cuối Km99+680 QL37 giáp Bắc Giang; QL37 đoạn qua TP Chí Linh “đi qua Khu Di tích Lịch sử-Văn hóa Quốc gia đặc biệt Côn Sơn-Kiếp Bạc và khu vực dân cư tập trung”, “thường xuyên ách tắc trong các dịp lễ hội”; đoạn từ cầu Chanh (Ninh Giang) đến ngã ba Sao Đỏ (Km87+050) đã được cải tạo, đoạn còn lại chưa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/su-kien/khai-hoi-con-son-kiep-bac-mua-thu-nam-2026-va-cong-bo-bo-nhan-dien-thuong-hieu-di-san-the-gioi-971957",
+        "quote": "Cổng TTĐT TP Hải Phòng, “Khai hội Côn Sơn, Kiếp Bạc - mùa Thu năm 2026 và công bố Bộ nhận diện thương hiệu Di sản thế giới” (đọc 13/10/2026): tối 26/9 tại đền Kiếp Bạc tổ chức lễ tưởng niệm 726 năm ngày mất Trần Hưng Đạo và khai hội; lễ hội mùa Thu 2026 diễn ra 9 ngày, từ 26/9 đến 4/10/2026, là mùa lễ hội đầu tiên sau khi quần thể Yên Tử - Vĩnh Nghiêm - Côn Sơn, Kiếp Bạc được UNESCO ghi danh ngày 12/7/2025 (kỳ họp 47); nghi lễ gồm cáo yết, rước văn, khai ấn đền Kiếp Bạc, cầu an, hội hoa đăng, rước, tế và giỗ Đức Thánh Trần; tục “Tháng Tám giỗ Cha”.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 7 sắp xếp “thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là thành phố Hải Phòng”. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 49500,
+        "checked": "2026-10-13",
+        "keyword": "côn sơn kiếp bạc"
+      }
+    ],
+    "outline": [
+      "Côn Sơn – Kiếp Bạc ở đâu, cách Hà Nội bao nhiêu km (các con số theo nguồn)",
+      "Đi xe máy: theo QL5 về hướng Hải Dương cũ rồi vào Chí Linh, tránh cao tốc",
+      "QL37 qua khu di tích: vì sao hay tắc mùa lễ hội",
+      "Côn Sơn: suối, rừng thông, Bàn Cờ Tiên, Thạch Bàn",
+      "Đền Kiếp Bạc và sông Lục Đầu",
+      "Lễ hội mùa xuân và mùa thu 2026 sau khi thành Di sản thế giới",
+      "Lịch trình một ngày và chuẩn bị xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00194.json",
+  "draft_template": {
+    "id": "TM-00194",
+    "url": "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+    "title": "Côn Sơn Kiếp Bạc đi xe máy từ Hà Nội: đường đi, lễ hội, lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "côn sơn kiếp bạc, côn sơn kiếp bạc cách hà nội bao nhiêu km, đường đi côn sơn kiếp bạc xe máy, lễ hội côn sơn kiếp bạc mùa thu 2026, đền kiếp bạc, chùa côn sơn bàn cờ tiên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Côn Sơn – Kiếp Bạc ở đâu, cách Hà Nội bao nhiêu km (các con số theo nguồn)",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: theo QL5 về hướng Hải Dương cũ rồi vào Chí Linh, tránh cao tốc",
+        "<p></p>"
+      ],
+      [
+        "QL37 qua khu di tích: vì sao hay tắc mùa lễ hội",
+        "<p></p>"
+      ],
+      [
+        "Côn Sơn: suối, rừng thông, Bàn Cờ Tiên, Thạch Bàn",
+        "<p></p>"
+      ],
+      [
+        "Đền Kiếp Bạc và sông Lục Đầu",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội mùa xuân và mùa thu 2026 sau khi thành Di sản thế giới",
+        "<p></p>"
+      ],
+      [
+        "Lịch trình một ngày và chuẩn bị xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/con-son-kiep-bac-mot-coi-binh-yen-2887549.html",
+        "quote": "VnExpress, “Côn Sơn - Kiếp Bạc, một cõi bình yên” (Vũ Thịnh, 25/10/2013): “Cách Hà Nội chừng 80 km”, khu di tích gắn với Trần Hưng Đạo và Nguyễn Trãi; sườn núi Kỳ Lân có đỉnh gọi là Bàn Cờ Tiên; sườn phải núi Kỳ Lân còn nền nhà Nguyễn Trãi dạy học và phiến đá Thạch Bàn (hòn đá “năm gian”); đền Kiếp Bạc nằm giữa thung lũng núi Rồng, tam quan “Lưỡng long chầu nguyệt”, nhìn ra sông Thương (sông Lục Đầu), thời Trần là bến Bình Than; giữa dòng có Cồn Kiếm dài 200 m; khu Côn Sơn – Kiếp Bạc là một trong 23 di tích quốc gia đặc biệt (thời điểm 2013).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hai-duong-4462664.html",
+        "quote": "VnExpress, Cẩm nang du lịch Hải Dương (đăng 17/5/2022, cập nhật 4/1/2024): “Hải Dương cách Hà Nội khoảng 60 km”; có xe cá nhân, xe khách (60.000–70.000 đồng), limousine, tàu hỏa từ ga Long Biên; Khu di tích quốc gia đặc biệt Côn Sơn – Kiếp Bạc; Văn miếu Mao Điền nằm phía bắc Quốc lộ 5A chừng 200 m, cách Hà Nội 42 km, cách TP Hải Dương 16 km; Hội thi pháo đất được đưa vào Lễ hội mùa xuân Côn Sơn – Kiếp Bạc ngày 16 tháng Giêng âm lịch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-diem-thu-gian-ngoai-troi-cuoi-tuan-o-hai-duong-4683582.html",
+        "quote": "VnExpress, “5 điểm thư giãn ngoài trời cuối tuần ở Hải Dương” (7/12/2023): Hải Dương cách Hà Nội khoảng 60 km; “Nằm cách thành phố Hải Dương khoảng 30 km, khu di tích Côn Sơn - Kiếp Bạc có suối Côn Sơn chảy từ đỉnh núi”, rừng thông; Khu trải nghiệm Côn Sơn (Côn Sơn Camping) do BQL khu di tích mở đón khách từ tháng 9 (2023), có thuê lều trại, bếp nướng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/xem-xet-dau-tu-du-an-cai-tao-nang-cap-quoc-lo-37-doan-qua-tinh-hai-duong-102240506164532606.htm",
+        "quote": "Báo Chính phủ, “Xem xét đầu tư dự án cải tạo, nâng cấp quốc lộ 37 đoạn qua tỉnh Hải Dương” (6/5/2024): dự án có điểm đầu tại Km87+403 QL37 giao với QL18 (tại Km37+750 QL18), điểm cuối Km99+680 QL37 giáp Bắc Giang; QL37 đoạn qua TP Chí Linh “đi qua Khu Di tích Lịch sử-Văn hóa Quốc gia đặc biệt Côn Sơn-Kiếp Bạc và khu vực dân cư tập trung”, “thường xuyên ách tắc trong các dịp lễ hội”; đoạn từ cầu Chanh (Ninh Giang) đến ngã ba Sao Đỏ (Km87+050) đã được cải tạo, đoạn còn lại chưa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/su-kien/khai-hoi-con-son-kiep-bac-mua-thu-nam-2026-va-cong-bo-bo-nhan-dien-thuong-hieu-di-san-the-gioi-971957",
+        "quote": "Cổng TTĐT TP Hải Phòng, “Khai hội Côn Sơn, Kiếp Bạc - mùa Thu năm 2026 và công bố Bộ nhận diện thương hiệu Di sản thế giới” (đọc 13/10/2026): tối 26/9 tại đền Kiếp Bạc tổ chức lễ tưởng niệm 726 năm ngày mất Trần Hưng Đạo và khai hội; lễ hội mùa Thu 2026 diễn ra 9 ngày, từ 26/9 đến 4/10/2026, là mùa lễ hội đầu tiên sau khi quần thể Yên Tử - Vĩnh Nghiêm - Côn Sơn, Kiếp Bạc được UNESCO ghi danh ngày 12/7/2025 (kỳ họp 47); nghi lễ gồm cáo yết, rước văn, khai ấn đền Kiếp Bạc, cầu an, hội hoa đăng, rước, tế và giỗ Đức Thánh Trần; tục “Tháng Tám giỗ Cha”.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 7 sắp xếp “thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là thành phố Hải Phòng”. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00194"
+  }
+}

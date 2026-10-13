@@ -1,0 +1,201 @@
+{
+  "writer": "writer-w4c",
+  "queued": "2026-10-13T09:16:56.644811+00:00",
+  "topic": {
+    "topic_id": "TM-00197",
+    "url": "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+    "title": "Hồ Ba Bể đi xe máy từ Hà Nội: quốc lộ 3, vé thắng cảnh, đi thuyền",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ ba bể",
+    "secondary_keywords": [
+      "hà nội đi hồ ba bể bao nhiêu km",
+      "hồ ba bể đi xe máy",
+      "vé thắng cảnh hồ ba bể",
+      "đi thuyền hồ ba bể",
+      "hồ ba bể thái nguyên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thuê xe ở Hà Nội định chạy xe máy lên hồ Ba Bể (Bắc Kạn cũ, nay thuộc Thái Nguyên) 2–3 ngày: quãng đường bao xa, phải đi quốc lộ 3 cũ vì cao tốc cấm xe máy, từ Bắc Kạn vào hồ đi tỉnh lộ nào, vé và thuyền giá bao nhiêu, mùa nào nên đi.",
+    "information_gain": "Site chưa có bài V2 về hồ Ba Bể (chỉ có các bài V1 cũ về Ba Bể trong mục kinh nghiệm, đã noindex). Gần nhất là /du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/ (khác tuyến) và /kinh-nghiem/mang-gi-khi-di-phuot-xe-may/ (đồ dùng chung). Bài này thêm: hai cách đi Hà Nội – Bắc Kạn (QL3 cũ đi được xe máy, khoảng 3 tiếng; cao tốc chỉ cho ô tô), từ Bắc Kạn vào hồ theo tỉnh lộ 256 (khoảng 60 km) hoặc 257 qua Chợ Đồn (khoảng 70 km); các con số 165 km tới Bắc Kạn và 220 km tới hồ đặt cạnh nhau; vé thắng cảnh 70.000/40.000 đồng (2025); giá xuồng máy, kayak; QL3 qua Thái Nguyên hư hỏng sau mưa 18/8–8/9/2026; 90 thuyền được kiểm định dịp 2/9/2026. Lưu ý /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ là tuyến Ba Vì (phía tây Hà Nội), chỉ trùng chữ 'Ba'; bài này về hồ Ba Bể theo quốc lộ 3 lên phía bắc — đường đi, vé thắng cảnh, đi thuyền — không có trong bài Ba Vì.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ho-ba-be-4650105.html",
+        "quote": "VnExpress, Kinh nghiệm du lịch hồ Ba Bể (đăng 14/9/2023, cập nhật 4/2/2025): hồ cách TP Bắc Kạn 70 km về phía tây bắc, thuộc xã Nam Mẫu, huyện Ba Bể (cũ), gồm Pé Lèng, Pé Lù, Pé Lầm, dài hơn 8 km, mặt nước khoảng 500 ha; “Bắc Kạn ... cách Hà Nội 165 km. Từ Hà Nội tới Bắc Kạn có hai đường là theo quốc lộ 3 cũ (khoảng 3 tiếng di chuyển, đi được xe máy) và theo cao tốc Hà Nội - Thái Nguyên sau đó vào tiếp quốc lộ 3, thời gian khoảng 2 tiếng (chỉ đi được ôtô)”; từ TP Bắc Kạn đi tỉnh lộ 256 khoảng 60 km hoặc tỉnh lộ 257 qua Chợ Đồn khoảng 70 km; mùa mưa tháng 4–10, mùa khô tháng 11–2 có thể xuống 0 độ C; đẹp nhất tháng 2–4; xuồng máy 300.000 đồng–1 triệu đồng tùy 2–8 tiếng; kayak/SUP 1,2–1,5 triệu đồng/nhóm 3 thuyền/ngày; homestay 150.000 đồng–1,2 triệu đồng/phòng đôi; cần áo khoác buổi sớm và đêm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-ho-ba-be-4837193.html",
+        "quote": "VnExpress, “48 giờ ở hồ Ba Bể” (Tâm Anh, 10/1/2025): đi ô tô theo cao tốc Hà Nội – Thái Nguyên (CT07) rồi quốc lộ 3; “Khoảng cách từ Hà Nội 220 km, tổng thời gian di chuyển 4 giờ 30 phút bằng ôtô”; mua vé thắng cảnh ở bến thuyền chính: “Vé cho người lớn 70.000 đồng, trẻ em 6-16 tuổi là 40.000 đồng”; thác Đầu Đẳng cách hồ khoảng 3 km, giáp Tuyên Quang; Ao Tiên rộng 3.000 m2; động Puông cao hơn 20 m, sông Năng chảy qua gần 300 m; cung trekking Bản Cám khoảng 4 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/vuon-quoc-gia-ba-be-dam-bao-cac-dieu-kien-don-khach-dip-nghi-le-29-post1328535.vov",
+        "quote": "VOV (Công Luận – Thuý Kiều/VOV-Đông Bắc, 29/8/2026): Vườn quốc gia Ba Bể thuộc tỉnh Thái Nguyên; dịp nghỉ lễ 2/9/2026 có 90 thuyền chở khách được kiểm định, gần 60 cơ sở lưu trú, homestay quanh hồ chuẩn bị trước khoảng một tháng; công suất phòng khoảng 60–70%. Bài không nêu giá vé, giá thuyền.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-bo-tinh-huong-khan-cap-ve-thien-tai-tren-quoc-lo-3-va-duong-ho-chi-minh-post1137742.vnp",
+        "quote": "VietnamPlus (Diệp Anh, 22/9/2026): công bố tình huống khẩn cấp thiên tai để khắc phục hư hỏng tại Km130+950, Km148+400, Km202+130 Quốc lộ 3 qua tỉnh Thái Nguyên, do mưa lớn từ 18/8/2026 đến 8/9/2026; bài không nêu cấm đường hay phân luồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 3 sắp xếp “tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh mới có tên gọi là tỉnh Thái Nguyên”. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 14800,
+        "checked": "2026-10-13",
+        "keyword": "hồ ba bể"
+      }
+    ],
+    "outline": [
+      "Hồ Ba Bể ở đâu sau sáp nhập, cách Hà Nội bao xa (các con số theo nguồn)",
+      "Xe máy đi QL3 cũ tới Bắc Kạn, không vào cao tốc",
+      "Từ Bắc Kạn vào hồ: tỉnh lộ 256 hay 257 qua Chợ Đồn",
+      "Vé thắng cảnh, thuyền, kayak và các điểm trên hồ",
+      "Mùa nào đi, thời tiết lạnh và mưa",
+      "QL3 sau mưa lũ 2026: kiểm tra trước khi đi",
+      "Lịch trình 2–3 ngày gợi ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+        "layers": [
+          "intent_cluster_near",
+          "title"
+        ],
+        "scores": {
+          "intent_cluster_near": 0.75,
+          "title": 0.554
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00197.json",
+  "draft_template": {
+    "id": "TM-00197",
+    "url": "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+    "title": "Hồ Ba Bể đi xe máy từ Hà Nội: quốc lộ 3, vé thắng cảnh, đi thuyền",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ ba bể, hà nội đi hồ ba bể bao nhiêu km, hồ ba bể đi xe máy, vé thắng cảnh hồ ba bể, đi thuyền hồ ba bể, hồ ba bể thái nguyên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Ba Bể ở đâu sau sáp nhập, cách Hà Nội bao xa (các con số theo nguồn)",
+        "<p></p>"
+      ],
+      [
+        "Xe máy đi QL3 cũ tới Bắc Kạn, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Từ Bắc Kạn vào hồ: tỉnh lộ 256 hay 257 qua Chợ Đồn",
+        "<p></p>"
+      ],
+      [
+        "Vé thắng cảnh, thuyền, kayak và các điểm trên hồ",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đi, thời tiết lạnh và mưa",
+        "<p></p>"
+      ],
+      [
+        "QL3 sau mưa lũ 2026: kiểm tra trước khi đi",
+        "<p></p>"
+      ],
+      [
+        "Lịch trình 2–3 ngày gợi ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ho-ba-be-4650105.html",
+        "quote": "VnExpress, Kinh nghiệm du lịch hồ Ba Bể (đăng 14/9/2023, cập nhật 4/2/2025): hồ cách TP Bắc Kạn 70 km về phía tây bắc, thuộc xã Nam Mẫu, huyện Ba Bể (cũ), gồm Pé Lèng, Pé Lù, Pé Lầm, dài hơn 8 km, mặt nước khoảng 500 ha; “Bắc Kạn ... cách Hà Nội 165 km. Từ Hà Nội tới Bắc Kạn có hai đường là theo quốc lộ 3 cũ (khoảng 3 tiếng di chuyển, đi được xe máy) và theo cao tốc Hà Nội - Thái Nguyên sau đó vào tiếp quốc lộ 3, thời gian khoảng 2 tiếng (chỉ đi được ôtô)”; từ TP Bắc Kạn đi tỉnh lộ 256 khoảng 60 km hoặc tỉnh lộ 257 qua Chợ Đồn khoảng 70 km; mùa mưa tháng 4–10, mùa khô tháng 11–2 có thể xuống 0 độ C; đẹp nhất tháng 2–4; xuồng máy 300.000 đồng–1 triệu đồng tùy 2–8 tiếng; kayak/SUP 1,2–1,5 triệu đồng/nhóm 3 thuyền/ngày; homestay 150.000 đồng–1,2 triệu đồng/phòng đôi; cần áo khoác buổi sớm và đêm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-ho-ba-be-4837193.html",
+        "quote": "VnExpress, “48 giờ ở hồ Ba Bể” (Tâm Anh, 10/1/2025): đi ô tô theo cao tốc Hà Nội – Thái Nguyên (CT07) rồi quốc lộ 3; “Khoảng cách từ Hà Nội 220 km, tổng thời gian di chuyển 4 giờ 30 phút bằng ôtô”; mua vé thắng cảnh ở bến thuyền chính: “Vé cho người lớn 70.000 đồng, trẻ em 6-16 tuổi là 40.000 đồng”; thác Đầu Đẳng cách hồ khoảng 3 km, giáp Tuyên Quang; Ao Tiên rộng 3.000 m2; động Puông cao hơn 20 m, sông Năng chảy qua gần 300 m; cung trekking Bản Cám khoảng 4 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/vuon-quoc-gia-ba-be-dam-bao-cac-dieu-kien-don-khach-dip-nghi-le-29-post1328535.vov",
+        "quote": "VOV (Công Luận – Thuý Kiều/VOV-Đông Bắc, 29/8/2026): Vườn quốc gia Ba Bể thuộc tỉnh Thái Nguyên; dịp nghỉ lễ 2/9/2026 có 90 thuyền chở khách được kiểm định, gần 60 cơ sở lưu trú, homestay quanh hồ chuẩn bị trước khoảng một tháng; công suất phòng khoảng 60–70%. Bài không nêu giá vé, giá thuyền.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-bo-tinh-huong-khan-cap-ve-thien-tai-tren-quoc-lo-3-va-duong-ho-chi-minh-post1137742.vnp",
+        "quote": "VietnamPlus (Diệp Anh, 22/9/2026): công bố tình huống khẩn cấp thiên tai để khắc phục hư hỏng tại Km130+950, Km148+400, Km202+130 Quốc lộ 3 qua tỉnh Thái Nguyên, do mưa lớn từ 18/8/2026 đến 8/9/2026; bài không nêu cấm đường hay phân luồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 3 sắp xếp “tỉnh Bắc Kạn và tỉnh Thái Nguyên thành tỉnh mới có tên gọi là tỉnh Thái Nguyên”. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00197"
+  }
+}

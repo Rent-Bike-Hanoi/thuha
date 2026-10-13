@@ -1,0 +1,150 @@
+{
+  "writer": "writer-w4e",
+  "queued": "2026-10-13T09:16:56.879882+00:00",
+  "topic": {
+    "topic_id": "TM-00208",
+    "url": "/du-lich/lang-lua-van-phuc/",
+    "title": "Làng lụa Vạn Phúc: đi xe máy từ Long Biên, xem dệt, mua lụa thật ở đâu",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng lụa vạn phúc",
+    "secondary_keywords": [
+      "làng lụa vạn phúc ở đâu",
+      "lụa vạn phúc thật giả",
+      "giá lụa vạn phúc",
+      "làng lụa hà đông",
+      "chợ lụa vạn phúc"
+    ],
+    "intent": "transactional",
+    "user_problem": "Khách thuê xe ở Long Biên muốn đi làng lụa Vạn Phúc (Hà Đông) nửa ngày: ở đâu, có gì để xem ngoài mua sắm, phân biệt lụa Vạn Phúc với hàng nhập ra sao và giá tham khảo thế nào.",
+    "information_gain": "Site có /du-lich/lang-gom-bat-trang/ (làng nghề gốm phía bên này sông) và /du-lich/ha-noi/ (hub chung), chưa có bài về làng lụa. Bài này thêm: Quyết định 3971/QĐ-UBND ngày 3/8/2026 công nhận điểm du lịch làng nghề Vạn Phúc; quy mô (hơn 4.000 hộ, khoảng 14.620 nhân khẩu, quy hoạch 54,68 ha, phố lụa hơn 150 gian); các điểm xem dệt (Trung tâm Bảo tồn – Phát triển lụa, Công ty CP Phát triển lụa Vạn Phúc, HTX Vụn Art), đình thờ bà Ả Lã Đê Nương; các mốc 2001, 2011, 2023, đầu 2025 (Mạng lưới Thành phố Thủ công sáng tạo thế giới); cách tránh mua nhầm hàng Trung Quốc (khu Trung tâm kinh doanh được Hiệp hội thẩm định, mã QR truy xuất) và mặt bằng giá ghi rõ năm 2017.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ha-noi-chinh-thuc-cong-nhan-diem-du-lich-lang-nghe-det-lua-van-phuc-ha-dong-1214969.html",
+        "quote": "Hà Nội Mới, 'Hà Nội chính thức công nhận điểm du lịch Làng nghề dệt lụa Vạn Phúc - Hà Đông' (03/08/2026): ngày 3/8/2026 UBND TP ban hành Quyết định 3971/QĐ-UBND; theo hồ sơ của UBND phường Hà Đông, làng có hơn 4.000 hộ, khoảng 14.620 nhân khẩu, bên sông Nhuệ, 'cách trung tâm Hà Nội khoảng 10km về phía Tây Nam', quy hoạch 54,68 ha; Phố Lụa có hơn 150 gian hàng cùng khu chợ lụa; điểm trải nghiệm: Trung tâm Bảo tồn – Phát triển lụa Vạn Phúc, Công ty CP Phát triển lụa Vạn Phúc, HTX Vụn Art (tranh ghép lụa vụn); xưởng dệt, cơ sở may áo dài mở cửa đón khách; Đình Vạn Phúc thờ bà tổ nghề Ả Lã Đê Nương, Chùa Vạn Phúc; danh hiệu làng nghề truyền thống 2001, Thương hiệu vàng Thăng Long 2011, Di sản văn hóa phi vật thể quốc gia 2023, đầu năm 2025 gia nhập Mạng lưới các Thành phố Thủ công sáng tạo thế giới.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lua-trung-quoc-ban-o-lang-nghe-van-phuc-pho-co-ha-noi-3661616.html",
+        "quote": "VnExpress, 'Lụa Trung Quốc bán ở làng nghề Vạn Phúc, phố cổ Hà Nội' (28/10/2017): ở cổng làng có bày bán hàng Trung Quốc; theo chủ cửa hàng, khăn, quần áo sợi công nghiệp, hoa văn dập máy xuất xứ Trung Quốc giá 40.000–500.000 đồng; lụa dệt tại Vạn Phúc 100% tơ tằm giá 500.000–1,2 triệu đồng/m2 (năm 2017), khăn từ 400.000 đồng, cà vạt từ 500.000 đồng; vải đũi gai khoảng 2 triệu đồng/m2; loại pha 50–70% tơ tằm 150.000–250.000 đồng/m2 vẫn sản xuất tại làng; ông Phạm Khắc Hà (Chủ tịch Hiệp hội) nói Trung tâm kinh doanh lụa Vạn Phúc (khoảng 20 gian) chỉ bán lụa của làng, được Hiệp hội thẩm định.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv8.vtv.vn/lua-van-phuc-noi-nhung-soi-to-det-nen-hon-cot-nghin-nam-dat-kinh-ky-107260106103653638.htm",
+        "quote": "VTV, 'Lụa Vạn Phúc: Nơi những sợi tơ dệt nên hồn cốt nghìn năm đất kinh kỳ' (06/01/2026): lụa Vạn Phúc nổi tiếng nhất với lụa Vân, hoa văn dệt nổi hiện lên khi có ánh sáng; nghệ nhân Phạm Khắc Hà: lụa 'được dệt từ 100% tơ tằm tự nhiên'; làng cạnh tranh với lụa công nghiệp giá rẻ, hàng nhái nhãn mác, người dân đẩy mạnh đăng ký sở hữu trí tuệ và 'ứng dụng mã QR để truy xuất nguồn gốc'; du khách có thể tham gia công đoạn dệt tại các xưởng gia đình.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 4400,
+        "checked": "2026-10-13",
+        "keyword": "làng lụa vạn phúc"
+      }
+    ],
+    "outline": [
+      "Làng lụa Vạn Phúc ở đâu và vì sao vừa được công nhận điểm du lịch (8/2026)",
+      "Xem gì: phố lụa, xưởng dệt, Trung tâm Bảo tồn, Vụn Art, đình làng",
+      "Lụa Vân và lụa 100% tơ tằm: nhận biết qua nguồn gốc, không đoán bằng mắt",
+      "Tránh mua nhầm hàng nhập: hỏi xuất xứ, mã QR, khu được Hiệp hội thẩm định",
+      "Giá tham khảo (số liệu năm 2017) và cách hỏi giá",
+      "Đi xe máy từ Long Biên: qua sông, giờ nên đi, gửi xe",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00208.json",
+  "draft_template": {
+    "id": "TM-00208",
+    "url": "/du-lich/lang-lua-van-phuc/",
+    "title": "Làng lụa Vạn Phúc: đi xe máy từ Long Biên, xem dệt, mua lụa thật ở đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng lụa vạn phúc, làng lụa vạn phúc ở đâu, lụa vạn phúc thật giả, giá lụa vạn phúc, làng lụa hà đông, chợ lụa vạn phúc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng lụa Vạn Phúc ở đâu và vì sao vừa được công nhận điểm du lịch (8/2026)",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: phố lụa, xưởng dệt, Trung tâm Bảo tồn, Vụn Art, đình làng",
+        "<p></p>"
+      ],
+      [
+        "Lụa Vân và lụa 100% tơ tằm: nhận biết qua nguồn gốc, không đoán bằng mắt",
+        "<p></p>"
+      ],
+      [
+        "Tránh mua nhầm hàng nhập: hỏi xuất xứ, mã QR, khu được Hiệp hội thẩm định",
+        "<p></p>"
+      ],
+      [
+        "Giá tham khảo (số liệu năm 2017) và cách hỏi giá",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên: qua sông, giờ nên đi, gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ha-noi-chinh-thuc-cong-nhan-diem-du-lich-lang-nghe-det-lua-van-phuc-ha-dong-1214969.html",
+        "quote": "Hà Nội Mới, 'Hà Nội chính thức công nhận điểm du lịch Làng nghề dệt lụa Vạn Phúc - Hà Đông' (03/08/2026): ngày 3/8/2026 UBND TP ban hành Quyết định 3971/QĐ-UBND; theo hồ sơ của UBND phường Hà Đông, làng có hơn 4.000 hộ, khoảng 14.620 nhân khẩu, bên sông Nhuệ, 'cách trung tâm Hà Nội khoảng 10km về phía Tây Nam', quy hoạch 54,68 ha; Phố Lụa có hơn 150 gian hàng cùng khu chợ lụa; điểm trải nghiệm: Trung tâm Bảo tồn – Phát triển lụa Vạn Phúc, Công ty CP Phát triển lụa Vạn Phúc, HTX Vụn Art (tranh ghép lụa vụn); xưởng dệt, cơ sở may áo dài mở cửa đón khách; Đình Vạn Phúc thờ bà tổ nghề Ả Lã Đê Nương, Chùa Vạn Phúc; danh hiệu làng nghề truyền thống 2001, Thương hiệu vàng Thăng Long 2011, Di sản văn hóa phi vật thể quốc gia 2023, đầu năm 2025 gia nhập Mạng lưới các Thành phố Thủ công sáng tạo thế giới.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lua-trung-quoc-ban-o-lang-nghe-van-phuc-pho-co-ha-noi-3661616.html",
+        "quote": "VnExpress, 'Lụa Trung Quốc bán ở làng nghề Vạn Phúc, phố cổ Hà Nội' (28/10/2017): ở cổng làng có bày bán hàng Trung Quốc; theo chủ cửa hàng, khăn, quần áo sợi công nghiệp, hoa văn dập máy xuất xứ Trung Quốc giá 40.000–500.000 đồng; lụa dệt tại Vạn Phúc 100% tơ tằm giá 500.000–1,2 triệu đồng/m2 (năm 2017), khăn từ 400.000 đồng, cà vạt từ 500.000 đồng; vải đũi gai khoảng 2 triệu đồng/m2; loại pha 50–70% tơ tằm 150.000–250.000 đồng/m2 vẫn sản xuất tại làng; ông Phạm Khắc Hà (Chủ tịch Hiệp hội) nói Trung tâm kinh doanh lụa Vạn Phúc (khoảng 20 gian) chỉ bán lụa của làng, được Hiệp hội thẩm định.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv8.vtv.vn/lua-van-phuc-noi-nhung-soi-to-det-nen-hon-cot-nghin-nam-dat-kinh-ky-107260106103653638.htm",
+        "quote": "VTV, 'Lụa Vạn Phúc: Nơi những sợi tơ dệt nên hồn cốt nghìn năm đất kinh kỳ' (06/01/2026): lụa Vạn Phúc nổi tiếng nhất với lụa Vân, hoa văn dệt nổi hiện lên khi có ánh sáng; nghệ nhân Phạm Khắc Hà: lụa 'được dệt từ 100% tơ tằm tự nhiên'; làng cạnh tranh với lụa công nghiệp giá rẻ, hàng nhái nhãn mác, người dân đẩy mạnh đăng ký sở hữu trí tuệ và 'ứng dụng mã QR để truy xuất nguồn gốc'; du khách có thể tham gia công đoạn dệt tại các xưởng gia đình.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00208"
+  }
+}

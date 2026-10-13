@@ -1,0 +1,176 @@
+{
+  "writer": "writer-w4e",
+  "queued": "2026-10-13T09:16:56.879014+00:00",
+  "topic": {
+    "topic_id": "TM-00206",
+    "url": "/du-lich/chua-mot-cot/",
+    "title": "Chùa Một Cột: lịch sử từ 1049, đài sen trên trụ đá, đi xe máy từ Long Biên",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa một cột",
+    "secondary_keywords": [
+      "chùa một cột ở đâu",
+      "chùa diên hựu",
+      "lịch sử chùa một cột",
+      "chùa một cột giờ mở cửa",
+      "chùa một cột gửi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe ở Long Biên muốn ghé chùa Một Cột trong buổi tham quan khu Ba Đình: chùa ở đâu so với Lăng Bác và Bảo tàng Hồ Chí Minh, có gì đáng xem, lịch sử thật ra sao và đi xe máy, gửi xe thế nào.",
+    "information_gain": "Site chưa có bài riêng về chùa Một Cột. Gần nhất là /du-lich/lang-bac-gio-mo-cua/ (lịch viếng Lăng, đợt tu bổ 2026, không nói về chùa), /du-lich/ha-noi/ (hub chung) và /du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/ (một di tích khác cùng tuyến Ba Đình). Bài này thêm: chùa dựng năm 1049 đời Lý Thái Tông theo giấc mộng Quan Âm, bị quân Pháp phá năm 1954 và phục dựng năm 1955 do KTS Nguyễn Bá Lăng; số đo đài sen (mỗi cạnh 3 m, trụ đá cao 4 m, đường kính 1,2 m, 13 bậc lên chùa, hồ vuông mỗi cạnh 20 m); chùa Diên Hựu cách đài sen 10 m; xếp hạng di tích năm 1962, kỷ lục châu Á năm 2012; vị trí trong quần thể di tích Lăng, sát Bảo tàng Hồ Chí Minh; và nói rõ những gì chưa có nguồn chính thức (giờ mở cửa, phí, chỗ gửi xe).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/chua-mot-cot-duoc-cong-nhan-ngoi-chua-co-kien-truc-doc-dao-nhat-chau-a-322817.html",
+        "quote": "Hà Nội Mới, 'Chùa Một Cột được công nhận Ngôi chùa có kiến trúc độc đáo nhất Châu Á' (13/11/2012): xếp hạng Di tích lịch sử kiến trúc nghệ thuật quốc gia năm 1962; ngày 12/11/2012 nhận kỷ lục châu Á; chùa còn gọi Diên Hựu Tự hoặc Liên Hoa Đài, ở phố Chùa Một Cột, quận Ba Đình (cũ); xây năm 1049 theo giấc mơ vua Lý Thái Tông và gợi ý của nhà sư Thiền Tuệ; năm 1954 quân Pháp đặt thuốc nổ phá chùa, năm 1955 Bộ Văn hóa phục dựng, KTS Nguyễn Bá Lăng đảm nhiệm; chùa hình vuông bằng gỗ, mỗi cạnh 3 m, dựng trên trụ đá cao 4 m (chưa kể phần chìm), đường kính 1,2 m; khi đó có dự án tu bổ dự kiến hơn 31 tỷ đồng đang lấy ý kiến.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-mot-cot-quan-ba-dinh-76497.html",
+        "quote": "Người Hà Nội, 'Chùa Một Cột (quận Ba Đình)' (02/09/2023): chùa 'nằm trong quần thể di tích Lăng Chủ tịch Hồ Chí Minh'; từ sân lên sàn chùa 'phải bước lên 13 bậc, bậc rộng 1,4m'; tường trái có bia đá năm Cảnh Trị 3 (1665); chùa giữa hồ thả sen 'mỗi cạnh hồ 20m'; chùa Diên Hựu 'ở phía tây nam chùa Một Cột, cách nhau 10m', có 33 bia, trong đó bia 'Nhất Trụ tự bi' năm 1847; chùa 'nhìn ra vườn cây cảnh và núi giả của Bảo tàng Hồ Chí Minh'; năm 1954 quân Pháp phá chùa; được công nhận di tích năm 1962.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/chua-mot-cot-trong-ky-uc-mot-thoi-kho-khan-khoi-lua-1368779896.htm",
+        "quote": "Dân trí, 'Chùa Một Cột trong ký ức một thời khó khăn, khói lửa' (12/05/2013): đài Liên Hoa trên cột đá 'được sửa chữa lại năm 1955 do kiến trúc sư Nguyễn Bá Lăng đảm nhiệm và giữ nguyên hình dáng cho đến ngày nay'; Liên Hoa Đài có cửa gỗ luôn mở, 'rất đông du khách chen chúc leo lên'; bài đặt vấn đề bảo vệ di tích khi khách đông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-cong-trinh-kien-truc-ben-quang-truong-ba-dinh-3272054.html",
+        "quote": "VnExpress, 'Những công trình kiến trúc bên quảng trường Ba Đình' (01/09/2015): chùa Một Cột (Diên Hựu Tự) 'nằm ở khu vực quảng trường Ba Đình, kế bên Lăng Hồ chủ tịch', xây năm 1049; năm 1954 quân Pháp phá hủy, phục dựng năm 1955 'với kiến trúc gần nguyên như cũ'; quảng trường giới hạn bởi Hoàng Văn Thụ, Hùng Vương, Độc Lập, Chùa Một Cột.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanghochiminh.vn/thong-tin-huu-ich-1.htm",
+        "quote": "Bảo tàng Hồ Chí Minh, trang 'Thông tin hữu ích' (đăng 02/08/2018, đọc 13/10/2026): xe buýt đến Bảo tàng các tuyến 09, 14, 33, 45 (giá vé ghi 7.000đ/lượt tại thời điểm đăng); có quán cà phê 'Gần Chùa Một cột'; ATM tại 19, 21, 94 Ngọc Hà. Trang không nêu chỗ gửi xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 40500,
+        "checked": "2026-10-13",
+        "keyword": "chùa một cột"
+      }
+    ],
+    "outline": [
+      "Chùa Một Cột ở đâu: trong quần thể di tích Lăng, sát Bảo tàng Hồ Chí Minh",
+      "Lịch sử: dựng năm 1049, bị phá 1954, phục dựng 1955",
+      "Xem gì: đài sen 3 m trên trụ đá, 13 bậc, chùa Diên Hựu",
+      "Ghép lịch với Lăng Bác, Bảo tàng Hồ Chí Minh",
+      "Đi xe máy từ Long Biên và gửi xe: điều đã biết, điều cần hỏi",
+      "Ứng xử khi khách đông trên đài sen",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-bac-gio-mo-cua/",
+      "/du-lich/ha-noi/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/du-lich/cau-chuong-duong/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00206.json",
+  "draft_template": {
+    "id": "TM-00206",
+    "url": "/du-lich/chua-mot-cot/",
+    "title": "Chùa Một Cột: lịch sử từ 1049, đài sen trên trụ đá, đi xe máy từ Long Biên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa một cột, chùa một cột ở đâu, chùa diên hựu, lịch sử chùa một cột, chùa một cột giờ mở cửa, chùa một cột gửi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Một Cột ở đâu: trong quần thể di tích Lăng, sát Bảo tàng Hồ Chí Minh",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: dựng năm 1049, bị phá 1954, phục dựng 1955",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: đài sen 3 m trên trụ đá, 13 bậc, chùa Diên Hựu",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Lăng Bác, Bảo tàng Hồ Chí Minh",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và gửi xe: điều đã biết, điều cần hỏi",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi khách đông trên đài sen",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/chua-mot-cot-duoc-cong-nhan-ngoi-chua-co-kien-truc-doc-dao-nhat-chau-a-322817.html",
+        "quote": "Hà Nội Mới, 'Chùa Một Cột được công nhận Ngôi chùa có kiến trúc độc đáo nhất Châu Á' (13/11/2012): xếp hạng Di tích lịch sử kiến trúc nghệ thuật quốc gia năm 1962; ngày 12/11/2012 nhận kỷ lục châu Á; chùa còn gọi Diên Hựu Tự hoặc Liên Hoa Đài, ở phố Chùa Một Cột, quận Ba Đình (cũ); xây năm 1049 theo giấc mơ vua Lý Thái Tông và gợi ý của nhà sư Thiền Tuệ; năm 1954 quân Pháp đặt thuốc nổ phá chùa, năm 1955 Bộ Văn hóa phục dựng, KTS Nguyễn Bá Lăng đảm nhiệm; chùa hình vuông bằng gỗ, mỗi cạnh 3 m, dựng trên trụ đá cao 4 m (chưa kể phần chìm), đường kính 1,2 m; khi đó có dự án tu bổ dự kiến hơn 31 tỷ đồng đang lấy ý kiến.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-mot-cot-quan-ba-dinh-76497.html",
+        "quote": "Người Hà Nội, 'Chùa Một Cột (quận Ba Đình)' (02/09/2023): chùa 'nằm trong quần thể di tích Lăng Chủ tịch Hồ Chí Minh'; từ sân lên sàn chùa 'phải bước lên 13 bậc, bậc rộng 1,4m'; tường trái có bia đá năm Cảnh Trị 3 (1665); chùa giữa hồ thả sen 'mỗi cạnh hồ 20m'; chùa Diên Hựu 'ở phía tây nam chùa Một Cột, cách nhau 10m', có 33 bia, trong đó bia 'Nhất Trụ tự bi' năm 1847; chùa 'nhìn ra vườn cây cảnh và núi giả của Bảo tàng Hồ Chí Minh'; năm 1954 quân Pháp phá chùa; được công nhận di tích năm 1962.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/chua-mot-cot-trong-ky-uc-mot-thoi-kho-khan-khoi-lua-1368779896.htm",
+        "quote": "Dân trí, 'Chùa Một Cột trong ký ức một thời khó khăn, khói lửa' (12/05/2013): đài Liên Hoa trên cột đá 'được sửa chữa lại năm 1955 do kiến trúc sư Nguyễn Bá Lăng đảm nhiệm và giữ nguyên hình dáng cho đến ngày nay'; Liên Hoa Đài có cửa gỗ luôn mở, 'rất đông du khách chen chúc leo lên'; bài đặt vấn đề bảo vệ di tích khi khách đông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-cong-trinh-kien-truc-ben-quang-truong-ba-dinh-3272054.html",
+        "quote": "VnExpress, 'Những công trình kiến trúc bên quảng trường Ba Đình' (01/09/2015): chùa Một Cột (Diên Hựu Tự) 'nằm ở khu vực quảng trường Ba Đình, kế bên Lăng Hồ chủ tịch', xây năm 1049; năm 1954 quân Pháp phá hủy, phục dựng năm 1955 'với kiến trúc gần nguyên như cũ'; quảng trường giới hạn bởi Hoàng Văn Thụ, Hùng Vương, Độc Lập, Chùa Một Cột.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanghochiminh.vn/thong-tin-huu-ich-1.htm",
+        "quote": "Bảo tàng Hồ Chí Minh, trang 'Thông tin hữu ích' (đăng 02/08/2018, đọc 13/10/2026): xe buýt đến Bảo tàng các tuyến 09, 14, 33, 45 (giá vé ghi 7.000đ/lượt tại thời điểm đăng); có quán cà phê 'Gần Chùa Một cột'; ATM tại 19, 21, 94 Ngọc Hà. Trang không nêu chỗ gửi xe máy.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00206"
+  }
+}

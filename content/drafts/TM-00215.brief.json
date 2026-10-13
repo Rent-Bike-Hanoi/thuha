@@ -1,0 +1,199 @@
+{
+  "writer": "writer-w4f",
+  "queued": "2026-10-13T09:16:56.997045+00:00",
+  "topic": {
+    "topic_id": "TM-00215",
+    "url": "/du-lich/cho-dem-pho-co-ha-noi/",
+    "title": "Chợ đêm phố cổ Hà Nội: giờ họp, tuyến phố, cấm xe máy 19h–24h cuối tuần",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chợ đêm phố cổ",
+    "secondary_keywords": [
+      "chợ đêm phố cổ hà nội mấy giờ",
+      "chợ đêm hàng đào",
+      "chợ đêm đồng xuân",
+      "chợ đêm phố cổ bán gì",
+      "chợ đêm phố cổ gửi xe ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe ở Long Biên muốn đi chợ đêm phố cổ tối cuối tuần: chợ họp tối nào, từ mấy giờ, chạy qua những phố nào, mua gì và vì sao từ 7/2026 không thể chạy xe máy vào tận nơi.",
+    "information_gain": "Gần nhất là /du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/ (không gian đi bộ quanh hồ và phố sách; chỉ nhắc chợ đêm trong ranh giới cấm xe), /du-lich/ha-noi/pho-co/ (gợi ý chung) và /thue-xe-may/hoan-kiem/. Bài này thêm riêng về chợ đêm: họp tối thứ Sáu, thứ Bảy, Chủ nhật, khoảng 18h–23h (báo 2023, 2024); trục Hàng Đào – Hàng Ngang – Hàng Đường – tới cổng chợ Đồng Xuân, sang Hàng Khoai, Hàng Giấy, dài khoảng 3 km; hàng bình dân và hàng nhái thương hiệu (giá ví dụ năm 2023); lịch sử từ 2003/2004 và đợt mở rộng 3/10/2014; ví dụ tạm dừng gian hàng đoạn Hàng Đào 9/3/2025; và cách đi khi khu vực 1 cấm xe máy 19h–24h (220 điểm trông giữ, Park and Ride, xe buýt miễn phí trong vành đai 1).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/cho-dem-ha-noi-nuom-nuop-khach-tay-mua-sam-do-gia-re-20231203041852187.htm",
+        "quote": "Dân trí, 'Chợ đêm Hà Nội nườm nượp khách Tây mua sắm đồ giá rẻ' (04/12/2023): 'Chợ đêm phố cổ mở cửa vào các tối thứ 6, thứ 7 và chủ nhật hàng tuần từ 18h đến 23h'; xuyên qua Hàng Đào, Hàng Ngang, Hàng Đường, 'tổng chiều dài khoảng 3km'; hàng bình dân, ví dụ tất khoảng 100 nghìn/5 đôi; có túi 'Dior' 200.000đ, giày 'Nike' vài trăm nghìn (hàng nhái); chợ bắt đầu hoạt động từ 2003.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/hanh-trinh/5-khu-cho-dam-chat-ha-noi-du-khach-nen-ghe-tham-mot-lan-1389022.html",
+        "quote": "Lao Động, '5 khu chợ đậm chất Hà Nội du khách nên ghé thăm một lần' (Chí Long, 05/09/2024): chợ đêm phố cổ chạy dọc các dãy phố, bắt đầu từ Hàng Đào, kéo qua cổng chợ Đồng Xuân, sang Hàng Khoai, Hàng Giấy; nằm cạnh Hồ Gươm và khu phố đi bộ; họp các tối thứ 6, 7, chủ nhật, 18h–23h; bán quần áo, túi, giày dép, trang sức, đồ thủ công, đồ ăn giá bình dân.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/chon-nay-moi-that-cho-dem-37214.htm",
+        "quote": "Tạp chí Công Thương, 'Chốn này mới thật chợ đêm...' (05/10/2014): sau 10 năm mở chợ đêm trên tuyến phố đi bộ Hàng Đào – Đồng Xuân, tối 3/10/2014 quận Hoàn Kiếm mở rộng không gian đi bộ sang khu bảo tồn cấp I khu phố cổ (trải dài 6 tuyến phố), gắn kết với tuyến Hàng Đào – Đồng Xuân thành chợ đêm du lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/ha-noi-tam-dung-hoat-dong-kinh-doanh-cua-cac-gian-hang-trong-pho-co-20250307234254910.htm",
+        "quote": "Dân trí, 'Hà Nội: Tạm dừng hoạt động kinh doanh của các gian hàng trong phố cổ' (08/03/2025): từ 19h đến 24h ngày 9/3/2025, quận Hoàn Kiếm tạm dừng kinh doanh các gian hàng đoạn từ ngã 5 Hàng Đào tới ngã 3 Hàng Đào – Gia Ngư để phục vụ sự kiện Gala âm nhạc; không gian đi bộ dịp đó hoạt động từ 13h thứ Sáu đến 24h Chủ nhật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn thí điểm 1/7–31/12, tại khu vực 1 Hà Nội cấm 'xe mô tô, xe gắn máy và ô tô các loại' (trừ xe Bộ Quốc phòng, Bộ Công an) từ 19 giờ tới 24 giờ thứ Sáu, thứ Bảy, Chủ nhật; vẫn duy trì phố đi bộ Hồ Hoàn Kiếm, khu phố cổ và chợ đêm. Khu vực 1 gồm các tuyến trong không gian phố đi bộ Hồ Hoàn Kiếm, khu phố cổ và chợ đêm, bao quanh bởi Tràng Tiền – Hàng Khay – Lê Thái Tổ – Hàng Đào – Hàng Ngang – Hàng Buồm – Mã Mây – Hàng Bạc – Hàng Mắm – Nguyễn Hữu Huân – Lý Thái Tổ – Ngô Quyền. Khu vực 2 nằm trong trục Tràng Thi – Thợ Nhuộm – Hàng Bông – Phùng Hưng – Phan Đình Phùng – Hàng Đậu – Trần Nhật Duật – Trần Quang Khải – Tràng Tiền – Hàng Khay. Sở Xây dựng bố trí 220 bãi, điểm trông giữ phương tiện; 10 bãi đỗ trung chuyển (Park and Ride) như Long Biên, Trần Khát Chân, Trần Khánh Dư, công viên Thủ Lệ; miễn vé xe buýt trong Vành đai 1 từ 1/7/2026 đến hết 30/6/2027.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-bat-dau-han-che-phuong-tien-o-vung-loi-hoan-kiem-5091809.html",
+        "quote": "VnExpress, 'Hà Nội bắt đầu hạn chế phương tiện ở vùng lõi Hoàn Kiếm' (Võ Hải, 01/07/2026): giai đoạn 1 (1/7–31/12/2026) chỉ thí điểm tại khu vực 1 và khu vực 2 thuộc phường Hoàn Kiếm; khu vực 1 là 'bên trong đường bao khu phố đi bộ và chợ đêm', gồm 12 tuyến Tràng Tiền – Hàng Khay – Lê Thái Tổ – Hàng Đào – Hàng Ngang – Hàng Buồm – Mã Mây – Hàng Bạc – Hàng Mắm – Nguyễn Hữu Huân – Lý Thái Tổ – Ngô Quyền; cấm xe môtô, xe gắn máy và ôtô từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật tại khu vực 1. Khu vực 2 theo trục Tràng Thi – Thợ Nhuộm – Hàng Bông – Phùng Hưng (đoạn Hàng Bông – Lê Văn Linh – Phan Đình Phùng) – Phan Đình Phùng – Hàng Đậu – Trần Nhật Duật – Trần Quang Khải – Tràng Tiền – Hàng Khay 'trở vào trong khu vực phố cổ'; ở khu vực 2 hạn chế ôtô trên 16 chỗ giờ cao điểm. Phạm vi thí điểm toàn vành đai 1 gồm 9 phường (Hoàn Kiếm, Cửa Nam, Ba Đình, Giảng Võ, Ngọc Hà, Tây Hồ, Ô Chợ Dừa, Hai Bà Trưng, Văn Miếu – Quốc Tử Giám); giai đoạn 2 (2027) mở rộng ở Hoàn Kiếm, Cửa Nam; giai đoạn 3 (2028–2029) toàn vành đai 1. 220 bãi, điểm trông giữ trong và lân cận vành đai 1; dự kiến 10 bãi Park and Ride ở Yên Phụ, Trần Khát Chân, Cầu Giấy, Trần Khánh Dư, Trần Quang Khải, công viên Thủ Lệ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 260,
+        "checked": "2026-10-13",
+        "keyword": "chợ đêm phố cổ"
+      }
+    ],
+    "outline": [
+      "Chợ đêm phố cổ họp khi nào, chạy qua phố nào",
+      "Mua gì, ăn gì và chuyện hàng nhái",
+      "Lịch sử ngắn: từ tuyến Hàng Đào – Đồng Xuân đến khu phố cổ",
+      "Từ 1/7/2026: khu vực 1 cấm xe máy 19h–24h thứ Sáu–Chủ nhật",
+      "Đi từ Long Biên: gửi xe ngoài khu vực 1, đi bộ hoặc xe buýt",
+      "Khi chợ tạm dừng: sự kiện, ngày lễ",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/ha-noi/pho-co/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.571
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ha-noi/pho-co/",
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00215.json",
+  "draft_template": {
+    "id": "TM-00215",
+    "url": "/du-lich/cho-dem-pho-co-ha-noi/",
+    "title": "Chợ đêm phố cổ Hà Nội: giờ họp, tuyến phố, cấm xe máy 19h–24h cuối tuần",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ đêm phố cổ, chợ đêm phố cổ hà nội mấy giờ, chợ đêm hàng đào, chợ đêm đồng xuân, chợ đêm phố cổ bán gì, chợ đêm phố cổ gửi xe ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ đêm phố cổ họp khi nào, chạy qua phố nào",
+        "<p></p>"
+      ],
+      [
+        "Mua gì, ăn gì và chuyện hàng nhái",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử ngắn: từ tuyến Hàng Đào – Đồng Xuân đến khu phố cổ",
+        "<p></p>"
+      ],
+      [
+        "Từ 1/7/2026: khu vực 1 cấm xe máy 19h–24h thứ Sáu–Chủ nhật",
+        "<p></p>"
+      ],
+      [
+        "Đi từ Long Biên: gửi xe ngoài khu vực 1, đi bộ hoặc xe buýt",
+        "<p></p>"
+      ],
+      [
+        "Khi chợ tạm dừng: sự kiện, ngày lễ",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/cho-dem-ha-noi-nuom-nuop-khach-tay-mua-sam-do-gia-re-20231203041852187.htm",
+        "quote": "Dân trí, 'Chợ đêm Hà Nội nườm nượp khách Tây mua sắm đồ giá rẻ' (04/12/2023): 'Chợ đêm phố cổ mở cửa vào các tối thứ 6, thứ 7 và chủ nhật hàng tuần từ 18h đến 23h'; xuyên qua Hàng Đào, Hàng Ngang, Hàng Đường, 'tổng chiều dài khoảng 3km'; hàng bình dân, ví dụ tất khoảng 100 nghìn/5 đôi; có túi 'Dior' 200.000đ, giày 'Nike' vài trăm nghìn (hàng nhái); chợ bắt đầu hoạt động từ 2003.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/hanh-trinh/5-khu-cho-dam-chat-ha-noi-du-khach-nen-ghe-tham-mot-lan-1389022.html",
+        "quote": "Lao Động, '5 khu chợ đậm chất Hà Nội du khách nên ghé thăm một lần' (Chí Long, 05/09/2024): chợ đêm phố cổ chạy dọc các dãy phố, bắt đầu từ Hàng Đào, kéo qua cổng chợ Đồng Xuân, sang Hàng Khoai, Hàng Giấy; nằm cạnh Hồ Gươm và khu phố đi bộ; họp các tối thứ 6, 7, chủ nhật, 18h–23h; bán quần áo, túi, giày dép, trang sức, đồ thủ công, đồ ăn giá bình dân.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/chon-nay-moi-that-cho-dem-37214.htm",
+        "quote": "Tạp chí Công Thương, 'Chốn này mới thật chợ đêm...' (05/10/2014): sau 10 năm mở chợ đêm trên tuyến phố đi bộ Hàng Đào – Đồng Xuân, tối 3/10/2014 quận Hoàn Kiếm mở rộng không gian đi bộ sang khu bảo tồn cấp I khu phố cổ (trải dài 6 tuyến phố), gắn kết với tuyến Hàng Đào – Đồng Xuân thành chợ đêm du lịch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/ha-noi-tam-dung-hoat-dong-kinh-doanh-cua-cac-gian-hang-trong-pho-co-20250307234254910.htm",
+        "quote": "Dân trí, 'Hà Nội: Tạm dừng hoạt động kinh doanh của các gian hàng trong phố cổ' (08/03/2025): từ 19h đến 24h ngày 9/3/2025, quận Hoàn Kiếm tạm dừng kinh doanh các gian hàng đoạn từ ngã 5 Hàng Đào tới ngã 3 Hàng Đào – Gia Ngư để phục vụ sự kiện Gala âm nhạc; không gian đi bộ dịp đó hoạt động từ 13h thứ Sáu đến 24h Chủ nhật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn thí điểm 1/7–31/12, tại khu vực 1 Hà Nội cấm 'xe mô tô, xe gắn máy và ô tô các loại' (trừ xe Bộ Quốc phòng, Bộ Công an) từ 19 giờ tới 24 giờ thứ Sáu, thứ Bảy, Chủ nhật; vẫn duy trì phố đi bộ Hồ Hoàn Kiếm, khu phố cổ và chợ đêm. Khu vực 1 gồm các tuyến trong không gian phố đi bộ Hồ Hoàn Kiếm, khu phố cổ và chợ đêm, bao quanh bởi Tràng Tiền – Hàng Khay – Lê Thái Tổ – Hàng Đào – Hàng Ngang – Hàng Buồm – Mã Mây – Hàng Bạc – Hàng Mắm – Nguyễn Hữu Huân – Lý Thái Tổ – Ngô Quyền. Khu vực 2 nằm trong trục Tràng Thi – Thợ Nhuộm – Hàng Bông – Phùng Hưng – Phan Đình Phùng – Hàng Đậu – Trần Nhật Duật – Trần Quang Khải – Tràng Tiền – Hàng Khay. Sở Xây dựng bố trí 220 bãi, điểm trông giữ phương tiện; 10 bãi đỗ trung chuyển (Park and Ride) như Long Biên, Trần Khát Chân, Trần Khánh Dư, công viên Thủ Lệ; miễn vé xe buýt trong Vành đai 1 từ 1/7/2026 đến hết 30/6/2027.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-bat-dau-han-che-phuong-tien-o-vung-loi-hoan-kiem-5091809.html",
+        "quote": "VnExpress, 'Hà Nội bắt đầu hạn chế phương tiện ở vùng lõi Hoàn Kiếm' (Võ Hải, 01/07/2026): giai đoạn 1 (1/7–31/12/2026) chỉ thí điểm tại khu vực 1 và khu vực 2 thuộc phường Hoàn Kiếm; khu vực 1 là 'bên trong đường bao khu phố đi bộ và chợ đêm', gồm 12 tuyến Tràng Tiền – Hàng Khay – Lê Thái Tổ – Hàng Đào – Hàng Ngang – Hàng Buồm – Mã Mây – Hàng Bạc – Hàng Mắm – Nguyễn Hữu Huân – Lý Thái Tổ – Ngô Quyền; cấm xe môtô, xe gắn máy và ôtô từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật tại khu vực 1. Khu vực 2 theo trục Tràng Thi – Thợ Nhuộm – Hàng Bông – Phùng Hưng (đoạn Hàng Bông – Lê Văn Linh – Phan Đình Phùng) – Phan Đình Phùng – Hàng Đậu – Trần Nhật Duật – Trần Quang Khải – Tràng Tiền – Hàng Khay 'trở vào trong khu vực phố cổ'; ở khu vực 2 hạn chế ôtô trên 16 chỗ giờ cao điểm. Phạm vi thí điểm toàn vành đai 1 gồm 9 phường (Hoàn Kiếm, Cửa Nam, Ba Đình, Giảng Võ, Ngọc Hà, Tây Hồ, Ô Chợ Dừa, Hai Bà Trưng, Văn Miếu – Quốc Tử Giám); giai đoạn 2 (2027) mở rộng ở Hoàn Kiếm, Cửa Nam; giai đoạn 3 (2028–2029) toàn vành đai 1. 220 bãi, điểm trông giữ trong và lân cận vành đai 1; dự kiến 10 bãi Park and Ride ở Yên Phụ, Trần Khát Chân, Cầu Giấy, Trần Khánh Dư, Trần Quang Khải, công viên Thủ Lệ.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00215"
+  }
+}

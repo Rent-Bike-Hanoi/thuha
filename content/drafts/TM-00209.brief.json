@@ -1,0 +1,176 @@
+{
+  "writer": "writer-w4e",
+  "queued": "2026-10-13T09:16:56.878499+00:00",
+  "topic": {
+    "topic_id": "TM-00209",
+    "url": "/du-lich/cho-dong-xuan/",
+    "title": "Chợ Đồng Xuân: mấy giờ mở cửa, mua gì, đi xe máy và cấm xe tối cuối tuần",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chợ đồng xuân",
+    "secondary_keywords": [
+      "chợ đồng xuân mấy giờ mở cửa",
+      "chợ đồng xuân bán gì",
+      "ngõ chợ đồng xuân ăn gì",
+      "chợ đồng xuân gửi xe",
+      "lịch sử chợ đồng xuân"
+    ],
+    "intent": "transactional",
+    "user_problem": "Khách thuê xe ở Long Biên (chợ chỉ cách cầu Long Biên một đoạn ngắn) muốn đi chợ Đồng Xuân: chợ mở mấy giờ, còn đáng đi không, ăn gì ở ngõ chợ và tối thứ Sáu–Chủ nhật có được đi xe máy vào khu phố cổ không.",
+    "information_gain": "Gần nhất là /du-lich/ha-noi/pho-co/ (gợi ý chung đi bộ phố cổ sau khi gửi xe, không nói về chợ), /du-lich/ha-noi/cho-long-bien/ (chợ đầu mối hoa quả, không phải Đồng Xuân) và /du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/ (không gian đi bộ quanh hồ). Bài này thêm: lịch sử chợ (lập năm 1889, trận đánh 14/2/1947, hỏa hoạn 1994, xây lại giữ 3 khối tam giác mặt tiền); hiện trạng 2025 (từng hơn 2.000 gian ở 3 tầng, nhiều gian đóng cửa); giờ ki-ốt 8h–20h và ngõ chợ ăn uống dài khoảng 200 m; kế hoạch biến khu chợ thành trung tâm Lễ hội Thiết kế Sáng tạo tháng 11/2026; vị trí so với ranh giới khu vực 1 vùng phát thải thấp và bãi Park and Ride.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/130-nam-cho-dong-xuan-627683.html",
+        "quote": "Nhịp sống Hà Nội (Hà Nội Mới), '130 năm chợ Đồng Xuân' (26/10/2019): trước đây người dân họp chợ cạnh chùa Cầu Đông (Hàng Đường) và cạnh đền Bạch Mã (Hàng Buồm); năm 1889 người Pháp giải tỏa, dồn vào khu đất trống phường Đồng Xuân lập chợ; trận đánh ở chợ ngày 14-2-1947; năm 1994 chợ bị hỏa hoạn thiêu gần như toàn bộ gian hàng; chợ xây lại lớn hơn, chỉ giữ lại 3 khối tam giác mặt tiền; chợ Đêm Đồng Xuân ra đời từ năm 2003.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/hang-tram-gian-hang-cho-dong-xuan-dap-chieu-khong-bong-nguoi-20250603004224906.htm",
+        "quote": "Dân trí, 'Hàng trăm gian hàng chợ Đồng Xuân đắp chiếu, không bóng người' (03/06/2025): chợ 'từng có hơn 2.000 gian hàng ở 3 tầng'; sau Covid-19 hàng trăm gian đóng cửa, trả mặt bằng; một tiểu thương nói khách du lịch giảm khoảng 80%; tầng 3 nhiều gian 'cửa đóng then cài'; khách nước ngoài chủ yếu dạo tầng 1, tầng 2.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/hanh-trinh/5-khu-cho-dam-chat-ha-noi-du-khach-nen-ghe-tham-mot-lan-1389022.html",
+        "quote": "Lao Động, '5 khu chợ đậm chất Hà Nội du khách nên ghé thăm một lần' (Chí Long, 05/09/2024): chợ Đồng Xuân chủ yếu bán buôn, có quầy bán lẻ (vải, giày dép, kẹo bánh, văn phòng phẩm); 'Các ki-ốt buôn bán trong chợ mở cửa từ 8h - 20h các ngày trong tuần', khu ăn uống ở ngõ chợ mở tới rạng sáng; ngõ chợ Đồng Xuân dài khoảng 200 m (bánh tôm, bún chả que tre, phở tíu, bún ốc, chè...).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/cho-dong-xuan-se-la-trung-tam-cua-le-hoi-thiet-ke-sang-tao-ha-noi-dien-ra-vao-thang-11-2026-96874.html",
+        "quote": "Người Hà Nội, 'Chợ Đồng Xuân sẽ là trung tâm của Lễ hội Thiết kế Sáng tạo Hà Nội diễn ra vào tháng 11/2026' (12/01/2026): trong Năm Sáng tạo 2026, khu vực Chợ Đồng Xuân – Bắc Qua là khu trung tâm của Lễ hội; ra mắt sách 'Đồng Xuân - Không gian ký ức'; theo kế hoạch lễ hội 'chính thức khai mạc với chuỗi hoạt động sáng tạo tại chợ Đồng Xuân vào tháng 11/2026'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-bat-dau-han-che-phuong-tien-o-vung-loi-hoan-kiem-5091809.html",
+        "quote": "VnExpress, 'Hà Nội bắt đầu hạn chế phương tiện ở vùng lõi Hoàn Kiếm' (Võ Hải, 01/07/2026): giai đoạn 1 (1/7–31/12/2026) chỉ thí điểm tại khu vực 1 và khu vực 2 thuộc phường Hoàn Kiếm; khu vực 1 là 'bên trong đường bao khu phố đi bộ và chợ đêm', gồm 12 tuyến Tràng Tiền – Hàng Khay – Lê Thái Tổ – Hàng Đào – Hàng Ngang – Hàng Buồm – Mã Mây – Hàng Bạc – Hàng Mắm – Nguyễn Hữu Huân – Lý Thái Tổ – Ngô Quyền; cấm xe môtô, xe gắn máy và ôtô từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật tại khu vực 1. Khu vực 2 theo trục Tràng Thi – Thợ Nhuộm – Hàng Bông – Phùng Hưng (đoạn Hàng Bông – Lê Văn Linh – Phan Đình Phùng) – Phan Đình Phùng – Hàng Đậu – Trần Nhật Duật – Trần Quang Khải – Tràng Tiền – Hàng Khay 'trở vào trong khu vực phố cổ'; ở khu vực 2 hạn chế ôtô trên 16 chỗ giờ cao điểm. Phạm vi thí điểm toàn vành đai 1 gồm 9 phường (Hoàn Kiếm, Cửa Nam, Ba Đình, Giảng Võ, Ngọc Hà, Tây Hồ, Ô Chợ Dừa, Hai Bà Trưng, Văn Miếu – Quốc Tử Giám); giai đoạn 2 (2027) mở rộng ở Hoàn Kiếm, Cửa Nam; giai đoạn 3 (2028–2029) toàn vành đai 1. 220 bãi, điểm trông giữ trong và lân cận vành đai 1; dự kiến 10 bãi Park and Ride ở Yên Phụ, Trần Khát Chân, Cầu Giấy, Trần Khánh Dư, Trần Quang Khải, công viên Thủ Lệ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 74000,
+        "checked": "2026-10-13",
+        "keyword": "chợ đồng xuân"
+      }
+    ],
+    "outline": [
+      "Chợ Đồng Xuân ở đâu, đi từ Long Biên qua cầu nào",
+      "130 năm lịch sử trong 5 mốc: 1889, 1947, 1994, 2003, 2026",
+      "Giờ mở cửa và chợ bây giờ ra sao (2025–2026)",
+      "Mua gì, ăn gì ở ngõ chợ",
+      "Xe máy và vùng phát thải thấp: tối thứ Sáu–Chủ nhật gửi xe ở đâu",
+      "Lễ hội Thiết kế Sáng tạo tháng 11/2026 tại chợ",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/du-lich/ha-noi/cho-long-bien/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00209.json",
+  "draft_template": {
+    "id": "TM-00209",
+    "url": "/du-lich/cho-dong-xuan/",
+    "title": "Chợ Đồng Xuân: mấy giờ mở cửa, mua gì, đi xe máy và cấm xe tối cuối tuần",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ đồng xuân, chợ đồng xuân mấy giờ mở cửa, chợ đồng xuân bán gì, ngõ chợ đồng xuân ăn gì, chợ đồng xuân gửi xe, lịch sử chợ đồng xuân",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ Đồng Xuân ở đâu, đi từ Long Biên qua cầu nào",
+        "<p></p>"
+      ],
+      [
+        "130 năm lịch sử trong 5 mốc: 1889, 1947, 1994, 2003, 2026",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa và chợ bây giờ ra sao (2025–2026)",
+        "<p></p>"
+      ],
+      [
+        "Mua gì, ăn gì ở ngõ chợ",
+        "<p></p>"
+      ],
+      [
+        "Xe máy và vùng phát thải thấp: tối thứ Sáu–Chủ nhật gửi xe ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Thiết kế Sáng tạo tháng 11/2026 tại chợ",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/130-nam-cho-dong-xuan-627683.html",
+        "quote": "Nhịp sống Hà Nội (Hà Nội Mới), '130 năm chợ Đồng Xuân' (26/10/2019): trước đây người dân họp chợ cạnh chùa Cầu Đông (Hàng Đường) và cạnh đền Bạch Mã (Hàng Buồm); năm 1889 người Pháp giải tỏa, dồn vào khu đất trống phường Đồng Xuân lập chợ; trận đánh ở chợ ngày 14-2-1947; năm 1994 chợ bị hỏa hoạn thiêu gần như toàn bộ gian hàng; chợ xây lại lớn hơn, chỉ giữ lại 3 khối tam giác mặt tiền; chợ Đêm Đồng Xuân ra đời từ năm 2003.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/hang-tram-gian-hang-cho-dong-xuan-dap-chieu-khong-bong-nguoi-20250603004224906.htm",
+        "quote": "Dân trí, 'Hàng trăm gian hàng chợ Đồng Xuân đắp chiếu, không bóng người' (03/06/2025): chợ 'từng có hơn 2.000 gian hàng ở 3 tầng'; sau Covid-19 hàng trăm gian đóng cửa, trả mặt bằng; một tiểu thương nói khách du lịch giảm khoảng 80%; tầng 3 nhiều gian 'cửa đóng then cài'; khách nước ngoài chủ yếu dạo tầng 1, tầng 2.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/hanh-trinh/5-khu-cho-dam-chat-ha-noi-du-khach-nen-ghe-tham-mot-lan-1389022.html",
+        "quote": "Lao Động, '5 khu chợ đậm chất Hà Nội du khách nên ghé thăm một lần' (Chí Long, 05/09/2024): chợ Đồng Xuân chủ yếu bán buôn, có quầy bán lẻ (vải, giày dép, kẹo bánh, văn phòng phẩm); 'Các ki-ốt buôn bán trong chợ mở cửa từ 8h - 20h các ngày trong tuần', khu ăn uống ở ngõ chợ mở tới rạng sáng; ngõ chợ Đồng Xuân dài khoảng 200 m (bánh tôm, bún chả que tre, phở tíu, bún ốc, chè...).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/cho-dong-xuan-se-la-trung-tam-cua-le-hoi-thiet-ke-sang-tao-ha-noi-dien-ra-vao-thang-11-2026-96874.html",
+        "quote": "Người Hà Nội, 'Chợ Đồng Xuân sẽ là trung tâm của Lễ hội Thiết kế Sáng tạo Hà Nội diễn ra vào tháng 11/2026' (12/01/2026): trong Năm Sáng tạo 2026, khu vực Chợ Đồng Xuân – Bắc Qua là khu trung tâm của Lễ hội; ra mắt sách 'Đồng Xuân - Không gian ký ức'; theo kế hoạch lễ hội 'chính thức khai mạc với chuỗi hoạt động sáng tạo tại chợ Đồng Xuân vào tháng 11/2026'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-bat-dau-han-che-phuong-tien-o-vung-loi-hoan-kiem-5091809.html",
+        "quote": "VnExpress, 'Hà Nội bắt đầu hạn chế phương tiện ở vùng lõi Hoàn Kiếm' (Võ Hải, 01/07/2026): giai đoạn 1 (1/7–31/12/2026) chỉ thí điểm tại khu vực 1 và khu vực 2 thuộc phường Hoàn Kiếm; khu vực 1 là 'bên trong đường bao khu phố đi bộ và chợ đêm', gồm 12 tuyến Tràng Tiền – Hàng Khay – Lê Thái Tổ – Hàng Đào – Hàng Ngang – Hàng Buồm – Mã Mây – Hàng Bạc – Hàng Mắm – Nguyễn Hữu Huân – Lý Thái Tổ – Ngô Quyền; cấm xe môtô, xe gắn máy và ôtô từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật tại khu vực 1. Khu vực 2 theo trục Tràng Thi – Thợ Nhuộm – Hàng Bông – Phùng Hưng (đoạn Hàng Bông – Lê Văn Linh – Phan Đình Phùng) – Phan Đình Phùng – Hàng Đậu – Trần Nhật Duật – Trần Quang Khải – Tràng Tiền – Hàng Khay 'trở vào trong khu vực phố cổ'; ở khu vực 2 hạn chế ôtô trên 16 chỗ giờ cao điểm. Phạm vi thí điểm toàn vành đai 1 gồm 9 phường (Hoàn Kiếm, Cửa Nam, Ba Đình, Giảng Võ, Ngọc Hà, Tây Hồ, Ô Chợ Dừa, Hai Bà Trưng, Văn Miếu – Quốc Tử Giám); giai đoạn 2 (2027) mở rộng ở Hoàn Kiếm, Cửa Nam; giai đoạn 3 (2028–2029) toàn vành đai 1. 220 bãi, điểm trông giữ trong và lân cận vành đai 1; dự kiến 10 bãi Park and Ride ở Yên Phụ, Trần Khát Chân, Cầu Giấy, Trần Khánh Dư, Trần Quang Khải, công viên Thủ Lệ.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00209"
+  }
+}

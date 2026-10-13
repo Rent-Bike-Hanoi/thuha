@@ -1,0 +1,214 @@
+{
+  "writer": "writer-w4d",
+  "queued": "2026-10-13T09:16:56.756553+00:00",
+  "topic": {
+    "topic_id": "TM-00203",
+    "url": "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+    "title": "Hà Nội đi Sầm Sơn bằng xe máy: quốc lộ 1A, đường vào biển, lưu ý",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "hà nội đi sầm sơn",
+    "secondary_keywords": [
+      "hà nội đi sầm sơn bao nhiêu km",
+      "hà nội đi sầm sơn bằng xe máy",
+      "đường vào biển sầm sơn",
+      "đại lộ nam sông mã",
+      "tắm biển sầm sơn lưu ý"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn chạy xe máy đi biển Sầm Sơn (Thanh Hóa): các hướng dẫn hay ghi 180 km và 2 tiếng là theo cao tốc, vậy xe máy đi quốc lộ nào, vào biển bằng đường nào, tắm biển và mùa đông khách cần biết gì.",
+    "information_gain": "Site chưa có bài Sầm Sơn. Gần nhất là /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ (chặng QL1A Hà Nội – Ninh Bình, dừng ở Ninh Bình). Bài này thêm: giải thích con số 180 km/hơn 2 tiếng của VnExpress là theo chuỗi cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình – Mai Sơn – QL45 (cấm xe máy); hai đường từ QL1A vào biển (qua cầu Nguyệt Viên vào Đại lộ Nam Sông Mã, hoặc cầu vượt QL47 rồi theo QL47) theo Báo Xây dựng; QL1A qua Tam Điệp, Bỉm Sơn, Hà Trung hay ùn tắc dịp lễ; 4 bãi tắm A–D và giờ không được tắm (buổi trưa, sau 17h); số khách 2025–2026 và mùa thấp điểm; Thanh Hóa không sáp nhập. So với /du-lich/ha-noi-di-lang-son-bang-xe-may/ (tuyến quốc lộ 1A đi lên phía bắc): bài này đi theo hướng ngược lại, về phía nam tới biển Sầm Sơn, với đường vào biển và lưu ý mùa hè riêng của điểm đến; không lặp nội dung Lạng Sơn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-bien-sam-son-4471606.html",
+        "quote": "VnExpress, Cẩm nang du lịch biển Sầm Sơn (đăng 14/6/2022, cập nhật 5/3/2026): Sầm Sơn cách Hà Nội khoảng 180 km, cách TP Thanh Hóa khoảng 16 km; “Quãng đường từ Hà Nội đến Sầm Sơn gần 180 km, thời gian di chuyển khoảng hơn 2 tiếng ... đều là cao tốc, bắt đầu từ Pháp Vân - Cầu Giẽ, rồi đến cao tốc Ninh Bình, Cao Bồ - Mai Sơn và Mai Sơn - QL45”; bãi biển dài 9 km từ chân núi Trường Lệ; mùa cao điểm tháng 5–8, đông nhất 30/4–1/5; 4 bãi tắm A, B, C, D (A, B gần trung tâm, đông; D vắng); “Thời gian buổi trưa và từ 17h trở đi là thời gian quy định khách du lịch không được tắm biển, đội cứu hộ không làm việc”; ngày biển động có dòng chảy xa bờ; nên hỏi kỹ giá dịch vụ không niêm yết.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/dip-304-tu-ha-noi-di-sam-son-theo-cao-toc-doan-mai-son-ql45-the-nao-192588546.htm",
+        "quote": "Báo Xây dựng, “Dịp 30/4: Từ Hà Nội đi Sầm Sơn theo cao tốc đoạn Mai Sơn - QL45 thế nào?” (Phúc Tuấn, 21/4/2023): cao tốc giúp giảm tải QL1A, nơi các khu vực Tam Điệp, Bỉm Sơn, Hà Trung thường ùn tắc dịp lễ; từ QL1A về TP Thanh Hóa, “qua cầu Nguyệt Viên rẽ trái để vào đường Nam Sông Mã xuống Sầm Sơn”; hoặc theo QL1A “đến cầu vượt QL47 rẽ xuống Sầm Sơn theo QL47 hoặc đi thêm khoảng gần 1km qua BigC vào Đại lộ Nam Sông Mã”; CSGT Thanh Hóa bố trí tổ phân luồng trên các tuyến xuống Sầm Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/sam-son-but-pha-voi-chien-luoc-du-lich-bon-mua.htm",
+        "quote": "VnEconomy, “Sầm Sơn chuyển mình với du lịch bốn mùa hấp dẫn” (24/8/2026): tính đến giữa tháng 8/2026 Sầm Sơn đón khoảng 8,7 triệu lượt khách; năm 2025 khoảng 8,8 triệu lượt, hơn 70% khách và doanh thu tập trung 3 tháng hè; phường Sầm Sơn triển khai Đề án du lịch bốn mùa (Quyết định 2606/QĐ-UBND ngày 5/8/2026) và Kế hoạch 327/KH-UBND ngày 13/8/2026 cho mùa thấp điểm; 4 điểm check-in tại Đền Độc Cước, cửa biển Bà Triệu, đường Trần Nhân Tông, bãi biển phía Nam Đền Độc Cước.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/sam-son-hut-gan-6-trieu-luot-khach-sau-nua-nam-tang-toc-huong-toi-muc-tieu-9-trieu-khach-243505.html",
+        "quote": "Báo Văn Hóa (Nguyễn Linh, 2026): theo UBND phường Sầm Sơn, 6 tháng đầu 2026 đón khoảng 5,943 triệu lượt khách; tại các bãi biển có chòi quan sát cứu hộ, biển cảnh báo nguy hiểm, loa truyền thanh; phường sẽ “quản lý nghiêm bãi đỗ xe, xe điện 4 bánh, xe xích lô”.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): Thanh Hóa thuộc 11 tỉnh, thành phố không thực hiện sắp xếp; khoản 8 nhập Hà Nam, Nam Định vào Ninh Bình (QL1A qua Phủ Lý nay thuộc Ninh Bình). Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 20,
+        "checked": "2026-10-13",
+        "keyword": "hà nội đi sầm sơn"
+      }
+    ],
+    "outline": [
+      "Hà Nội đi Sầm Sơn bao nhiêu km: con số 180 km là đường nào",
+      "Xe máy đi QL1A qua Phủ Lý, Ninh Bình, Bỉm Sơn, không vào cao tốc",
+      "Từ QL1A vào biển: cầu Nguyệt Viên – Đại lộ Nam Sông Mã hoặc QL47",
+      "Đoạn hay tắc dịp lễ và giờ nên xuất phát",
+      "Bãi A, B, C, D và quy định giờ tắm biển",
+      "Mùa cao điểm, mùa thấp điểm và các điểm tham quan gần biển"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/xe-may-chay-qua-toc-do-phat-bao-nhieu/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+        "layers": [
+          "intent_cluster_near",
+          "title"
+        ],
+        "scores": {
+          "intent_cluster_near": 0.75,
+          "title": 0.514
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.432
+        }
+      },
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.432
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00203.json",
+  "draft_template": {
+    "id": "TM-00203",
+    "url": "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+    "title": "Hà Nội đi Sầm Sơn bằng xe máy: quốc lộ 1A, đường vào biển, lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hà nội đi sầm sơn, hà nội đi sầm sơn bao nhiêu km, hà nội đi sầm sơn bằng xe máy, đường vào biển sầm sơn, đại lộ nam sông mã, tắm biển sầm sơn lưu ý",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hà Nội đi Sầm Sơn bao nhiêu km: con số 180 km là đường nào",
+        "<p></p>"
+      ],
+      [
+        "Xe máy đi QL1A qua Phủ Lý, Ninh Bình, Bỉm Sơn, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Từ QL1A vào biển: cầu Nguyệt Viên – Đại lộ Nam Sông Mã hoặc QL47",
+        "<p></p>"
+      ],
+      [
+        "Đoạn hay tắc dịp lễ và giờ nên xuất phát",
+        "<p></p>"
+      ],
+      [
+        "Bãi A, B, C, D và quy định giờ tắm biển",
+        "<p></p>"
+      ],
+      [
+        "Mùa cao điểm, mùa thấp điểm và các điểm tham quan gần biển",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-bien-sam-son-4471606.html",
+        "quote": "VnExpress, Cẩm nang du lịch biển Sầm Sơn (đăng 14/6/2022, cập nhật 5/3/2026): Sầm Sơn cách Hà Nội khoảng 180 km, cách TP Thanh Hóa khoảng 16 km; “Quãng đường từ Hà Nội đến Sầm Sơn gần 180 km, thời gian di chuyển khoảng hơn 2 tiếng ... đều là cao tốc, bắt đầu từ Pháp Vân - Cầu Giẽ, rồi đến cao tốc Ninh Bình, Cao Bồ - Mai Sơn và Mai Sơn - QL45”; bãi biển dài 9 km từ chân núi Trường Lệ; mùa cao điểm tháng 5–8, đông nhất 30/4–1/5; 4 bãi tắm A, B, C, D (A, B gần trung tâm, đông; D vắng); “Thời gian buổi trưa và từ 17h trở đi là thời gian quy định khách du lịch không được tắm biển, đội cứu hộ không làm việc”; ngày biển động có dòng chảy xa bờ; nên hỏi kỹ giá dịch vụ không niêm yết.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoxaydung.vn/dip-304-tu-ha-noi-di-sam-son-theo-cao-toc-doan-mai-son-ql45-the-nao-192588546.htm",
+        "quote": "Báo Xây dựng, “Dịp 30/4: Từ Hà Nội đi Sầm Sơn theo cao tốc đoạn Mai Sơn - QL45 thế nào?” (Phúc Tuấn, 21/4/2023): cao tốc giúp giảm tải QL1A, nơi các khu vực Tam Điệp, Bỉm Sơn, Hà Trung thường ùn tắc dịp lễ; từ QL1A về TP Thanh Hóa, “qua cầu Nguyệt Viên rẽ trái để vào đường Nam Sông Mã xuống Sầm Sơn”; hoặc theo QL1A “đến cầu vượt QL47 rẽ xuống Sầm Sơn theo QL47 hoặc đi thêm khoảng gần 1km qua BigC vào Đại lộ Nam Sông Mã”; CSGT Thanh Hóa bố trí tổ phân luồng trên các tuyến xuống Sầm Sơn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/sam-son-but-pha-voi-chien-luoc-du-lich-bon-mua.htm",
+        "quote": "VnEconomy, “Sầm Sơn chuyển mình với du lịch bốn mùa hấp dẫn” (24/8/2026): tính đến giữa tháng 8/2026 Sầm Sơn đón khoảng 8,7 triệu lượt khách; năm 2025 khoảng 8,8 triệu lượt, hơn 70% khách và doanh thu tập trung 3 tháng hè; phường Sầm Sơn triển khai Đề án du lịch bốn mùa (Quyết định 2606/QĐ-UBND ngày 5/8/2026) và Kế hoạch 327/KH-UBND ngày 13/8/2026 cho mùa thấp điểm; 4 điểm check-in tại Đền Độc Cước, cửa biển Bà Triệu, đường Trần Nhân Tông, bãi biển phía Nam Đền Độc Cước.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/sam-son-hut-gan-6-trieu-luot-khach-sau-nua-nam-tang-toc-huong-toi-muc-tieu-9-trieu-khach-243505.html",
+        "quote": "Báo Văn Hóa (Nguyễn Linh, 2026): theo UBND phường Sầm Sơn, 6 tháng đầu 2026 đón khoảng 5,943 triệu lượt khách; tại các bãi biển có chòi quan sát cứu hộ, biển cảnh báo nguy hiểm, loa truyền thanh; phường sẽ “quản lý nghiêm bãi đỗ xe, xe điện 4 bánh, xe xích lô”.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): Thanh Hóa thuộc 11 tỉnh, thành phố không thực hiện sắp xếp; khoản 8 nhập Hà Nam, Nam Định vào Ninh Bình (QL1A qua Phủ Lý nay thuộc Ninh Bình). Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00203"
+  }
+}

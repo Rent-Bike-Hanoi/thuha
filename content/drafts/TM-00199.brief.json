@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w4c",
+  "queued": "2026-10-13T09:16:56.645648+00:00",
+  "topic": {
+    "topic_id": "TM-00199",
+    "url": "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+    "title": "Vườn quốc gia Xuân Sơn Phú Thọ đi xe máy: đường đi, hang, thác",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "xuân sơn phú thọ",
+    "secondary_keywords": [
+      "vườn quốc gia xuân sơn",
+      "xuân sơn cách hà nội bao nhiêu km",
+      "hang lạng xuân sơn",
+      "đường đi vườn quốc gia xuân sơn",
+      "xuân sơn tân sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy tới Vườn quốc gia Xuân Sơn (Tân Sơn, Phú Thọ) 1–2 ngày để tắm suối, xem hang động: bao xa, đi qua Sơn Tây và cầu Trung Hà thế nào, trong vườn có gì, mùa nào hợp.",
+    "information_gain": "Site chưa có bài Xuân Sơn. Gần nhất là /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ (cùng ra phía Sơn Tây theo QL32 nhưng dừng ở Ba Vì) và /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/. Bài này thêm: Xuân Sơn cách Hà Nội 120 km, cách Việt Trì 80 km (Trung tâm Thông tin Xúc tiến Du lịch Phú Thọ); tuyến QL32 (Tam Nông) ↔ cầu Trung Hà ↔ Ba Vì nối Thanh Sơn, Tân Sơn với Hà Nội (VietNamNet 2024); độ cao 700–1.300 m, 16 hang động (hang Lạng, Thổ Thần, hang Na, động Tiên dài khoảng 10 km), các thác Lưng Trời, Tô Anh, Tô Bun, Kẹm, Xoan; suối Lấp, suối Thang; Xuân Sơn được xác định là địa điểm tiềm năng thành khu du lịch quốc gia (quy hoạch 13/6/2024).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/vuon-quoc-gia-xuan-son",
+        "quote": "Trung tâm Thông tin Xúc tiến Du lịch Phú Thọ, trang “Vườn quốc gia Xuân Sơn” (đọc 13/10/2026, trang không ghi ngày): địa chỉ xã Xuân Sơn, Tân Sơn, Phú Thọ; nằm ở phần cuối dãy Hoàng Liên Sơn, “cách Hà Nội 120km, cách thành phố Việt Trì 80km”, phía Tây Nam giáp Hòa Bình (cũ), Tây Bắc giáp Sơn La; trang ghi diện tích 2.432 ha, độ cao 700–1.300 m; 16 hang động, nổi bật Thổ Thần, hang Lạng (dài và rộng nhất, có suối ngầm thông hang Cỏi), hang Na, động Tiên (hang ngầm trong đá hoa, dài khoảng 10 km); thác Lưng Trời, Tô Anh, Tô Bun, Kẹm, Xoan; đồng bào Dao và Mường sống trong vùng lõi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/doi-song/phu-tho-phat-trien-du-lich-vuon-quoc-gia-xuan-son-huong-den-khu-du-lich-quoc-gia-20241004124749304.htm",
+        "quote": "VTV.vn, “Phú Thọ: Phát triển du lịch Vườn quốc gia Xuân Sơn hướng đến khu du lịch quốc gia” (Giang Chu, 4/10/2024): VQG Xuân Sơn thuộc huyện Tân Sơn (cũ), “chỉ cách Hà Nội 120km”; ngày 13/6/2024 Thủ tướng phê duyệt Quy hoạch hệ thống du lịch 2021–2030, xác định Xuân Sơn là địa điểm tiềm năng phát triển thành khu du lịch quốc gia; sản phẩm: hang động, thác, cảnh quan, văn hóa dân tộc thiểu số.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/mien-suoi-mat-duoi-tan-rung-nguyen-sinh-xuan-son-75729.html",
+        "quote": "Dân tộc và Phát triển (VietNamNet), “Miền suối mát dưới tán rừng nguyên sinh Xuân Sơn” (Việt Hà, 05/06/2026): Xuân Sơn ở phía Tây tỉnh Phú Thọ, “diện tích hơn 15.000 ha”, rừng nguyên sinh trên núi đá vôi; mùa hè là thời điểm hấp dẫn nhất; suối Lấp, suối Thang chảy dưới chân núi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/sap-cau-phong-chau-cac-phuong-tien-di-lai-nhu-the-nao-2320032.html",
+        "quote": "VietNamNet, “Sập cầu Phong Châu, các phương tiện đi lại như thế nào?” (09/09/2024): phương án phân luồng sau sự cố cầu Phong Châu – xe từ các huyện Thanh Thủy, Tam Nông, Thanh Sơn, Tân Sơn (cũ) đi Hà Nội, Vĩnh Phúc theo tuyến “Quốc lộ 32 (Tam Nông) → đi cầu Trung Hà hoặc → đi Tỉnh lộ 317G → đi Tỉnh lộ 317E → đi cầu Đồng Quang → đi huyện Ba Vì, Hà Nội”, và chiều ngược lại; hoặc qua đường Hồ Chí Minh, Quốc lộ 2.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 4 sắp xếp “tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ”. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 260,
+        "checked": "2026-10-13",
+        "keyword": "xuân sơn phú thọ"
+      }
+    ],
+    "outline": [
+      "Vườn quốc gia Xuân Sơn ở đâu, cách Hà Nội bao xa",
+      "Hướng đi xe máy: QL32 qua Sơn Tây, cầu Trung Hà sang Phú Thọ",
+      "Hang Lạng, Thổ Thần, hang Na, động Tiên",
+      "Thác, suối và mùa hè ở Xuân Sơn",
+      "Văn hóa người Dao, Mường trong vùng lõi",
+      "Chuẩn bị: đường núi, xăng, áo mưa, đi cùng người địa phương"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00199.json",
+  "draft_template": {
+    "id": "TM-00199",
+    "url": "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+    "title": "Vườn quốc gia Xuân Sơn Phú Thọ đi xe máy: đường đi, hang, thác",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "xuân sơn phú thọ, vườn quốc gia xuân sơn, xuân sơn cách hà nội bao nhiêu km, hang lạng xuân sơn, đường đi vườn quốc gia xuân sơn, xuân sơn tân sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vườn quốc gia Xuân Sơn ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Hướng đi xe máy: QL32 qua Sơn Tây, cầu Trung Hà sang Phú Thọ",
+        "<p></p>"
+      ],
+      [
+        "Hang Lạng, Thổ Thần, hang Na, động Tiên",
+        "<p></p>"
+      ],
+      [
+        "Thác, suối và mùa hè ở Xuân Sơn",
+        "<p></p>"
+      ],
+      [
+        "Văn hóa người Dao, Mường trong vùng lõi",
+        "<p></p>"
+      ],
+      [
+        "Chuẩn bị: đường núi, xăng, áo mưa, đi cùng người địa phương",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/vuon-quoc-gia-xuan-son",
+        "quote": "Trung tâm Thông tin Xúc tiến Du lịch Phú Thọ, trang “Vườn quốc gia Xuân Sơn” (đọc 13/10/2026, trang không ghi ngày): địa chỉ xã Xuân Sơn, Tân Sơn, Phú Thọ; nằm ở phần cuối dãy Hoàng Liên Sơn, “cách Hà Nội 120km, cách thành phố Việt Trì 80km”, phía Tây Nam giáp Hòa Bình (cũ), Tây Bắc giáp Sơn La; trang ghi diện tích 2.432 ha, độ cao 700–1.300 m; 16 hang động, nổi bật Thổ Thần, hang Lạng (dài và rộng nhất, có suối ngầm thông hang Cỏi), hang Na, động Tiên (hang ngầm trong đá hoa, dài khoảng 10 km); thác Lưng Trời, Tô Anh, Tô Bun, Kẹm, Xoan; đồng bào Dao và Mường sống trong vùng lõi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/doi-song/phu-tho-phat-trien-du-lich-vuon-quoc-gia-xuan-son-huong-den-khu-du-lich-quoc-gia-20241004124749304.htm",
+        "quote": "VTV.vn, “Phú Thọ: Phát triển du lịch Vườn quốc gia Xuân Sơn hướng đến khu du lịch quốc gia” (Giang Chu, 4/10/2024): VQG Xuân Sơn thuộc huyện Tân Sơn (cũ), “chỉ cách Hà Nội 120km”; ngày 13/6/2024 Thủ tướng phê duyệt Quy hoạch hệ thống du lịch 2021–2030, xác định Xuân Sơn là địa điểm tiềm năng phát triển thành khu du lịch quốc gia; sản phẩm: hang động, thác, cảnh quan, văn hóa dân tộc thiểu số.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/mien-suoi-mat-duoi-tan-rung-nguyen-sinh-xuan-son-75729.html",
+        "quote": "Dân tộc và Phát triển (VietNamNet), “Miền suối mát dưới tán rừng nguyên sinh Xuân Sơn” (Việt Hà, 05/06/2026): Xuân Sơn ở phía Tây tỉnh Phú Thọ, “diện tích hơn 15.000 ha”, rừng nguyên sinh trên núi đá vôi; mùa hè là thời điểm hấp dẫn nhất; suối Lấp, suối Thang chảy dưới chân núi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/sap-cau-phong-chau-cac-phuong-tien-di-lai-nhu-the-nao-2320032.html",
+        "quote": "VietNamNet, “Sập cầu Phong Châu, các phương tiện đi lại như thế nào?” (09/09/2024): phương án phân luồng sau sự cố cầu Phong Châu – xe từ các huyện Thanh Thủy, Tam Nông, Thanh Sơn, Tân Sơn (cũ) đi Hà Nội, Vĩnh Phúc theo tuyến “Quốc lộ 32 (Tam Nông) → đi cầu Trung Hà hoặc → đi Tỉnh lộ 317G → đi Tỉnh lộ 317E → đi cầu Đồng Quang → đi huyện Ba Vì, Hà Nội”, và chiều ngược lại; hoặc qua đường Hồ Chí Minh, Quốc lộ 2.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 4 sắp xếp “tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh mới có tên gọi là tỉnh Phú Thọ”. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00199"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "writer": "writer-w4b",
+  "queued": "2026-10-13T09:16:56.534864+00:00",
+  "topic": {
+    "topic_id": "TM-00192",
+    "url": "/xe-dien/vinfast-evo-grand/",
+    "title": "VinFast Evo Grand: pin 2,4 kWh, 262 km khi thêm pin, giá các bản",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "vinfast evo grand",
+    "secondary_keywords": [
+      "evo grand giá bao nhiêu",
+      "evo grand ii khác evo grand",
+      "evo grand đi được bao nhiêu km",
+      "evo grand có cần bằng lái không",
+      "evo grand premia limited"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đang chọn xe máy điện tầm 20–30 triệu muốn biết VinFast Evo Grand và bản mới Evo Grand II/Premia/Limited khác nhau gì, đi được bao xa, giá bao nhiêu và có cần bằng A1 không.",
+    "information_gain": "Site đã có bài VinFast Evo và Evo Lite Neo (dòng phổ thông, ắc quy/pin nhỏ) cùng /xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/ so chung. Bài này riêng về Evo Grand, dữ liệu đọc 13/10/2026: Evo Grand pin LFP 2,4 kWh (thêm pin phụ 2,4 kWh), 262 km khi lắp 2 pin ở 30 km/h, 2.250 W, 70 km/h, cốp 35 lít, yên 770 mm, IP67; giá Evo Grand 22,5 triệu theo bảng giá 7/2026 (Tuổi Trẻ); thế hệ mới ra mắt 21/9/2026 gồm Evo Grand II 25,9 triệu, Premia 27,9 triệu, Limited 29,9 triệu (Dân trí), pin phụ 5 triệu, cốp còn 16 lít khi lắp pin phụ; khác biệt giữa các bản (LCD, khởi hành ngang dốc, 3 chế độ lái, smartkey). Áp 70 km/h và 2.250 W vào Luật 36/2024: là xe mô tô, cần bằng A1, đủ 18 tuổi.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-evo-grand",
+        "quote": "VinFast, trang sản phẩm Evo Grand (đọc 13/10/2026 qua công cụ trích xuất): bảo hành xe 6 năm/không giới hạn km, pin 8 năm/không giới hạn km; 02 chế độ lái Eco & Sport; IP67, động cơ chịu ngập 0,5 m trong 30 phút; D x R x C 1856 x 683 x 1133 mm; yên 770 mm; gầm 133 mm; cốp 35L; công suất tối đa 2250W; tốc độ tối đa 70 km/h (1 người 65 kg/chế độ Sport); 262 km/lần sạc (khi lắp thêm pin phụ); 0–50 km/h <16 giây; pin LFP 2,4 kWh (tùy chọn thêm 1 pin 2,4 kWh); tìm xe, định vị qua ứng dụng E-Scooter. Lưu ý: quãng đường khi lắp 2 pin theo kiểm thử của VinFast tại 30 km/h; quãng đường thực tế có thể giảm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-evo-grand-ii",
+        "quote": "VinFast, trang Evo Grand II (đọc 13/10/2026 qua công cụ trích xuất): tiêu đề trang \"Xe máy điện Evo Grand II - Giá từ 25,9 triệu, tốc độ 70 km/h\", mô tả \"giá niêm yết 25,9 triệu\"; động cơ Inhub 2.250 W, 70 km/h, pin LFP 2,4 kWh, nâng cấp pin phụ lên 262 km/lần sạc; yên 770 mm; D x R x C 1856 x 675 x 1133; cốp 35L (16L khi lắp thêm pin phụ); 0–40 km/h <16 giây; IP67; bảo hành xe 6 năm, pin 8 năm không giới hạn km; ghi 'Kế thừa thành công của Evo Grand thế hệ đầu tiên'. Trang danh sách shop.vinfastauto.com cùng ngày liệt kê cả Evo Grand, Evo Grand II, Evo Grand Premia, Evo Grand Limited, Evo Grand Lite.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/o-to-xe-may/vinfast-evo-grand-moi-gia-tu-259-trieu-dong-co-ho-tro-khoi-hanh-ngang-doc-20260921191038157.htm",
+        "quote": "Dân trí, \"VinFast Evo Grand mới giá từ 25,9 triệu đồng, có hỗ trợ khởi hành ngang dốc\" (21/09/2026, đọc 13/10/2026): ngày 21/9 VinFast ra mắt Evo Grand II, Evo Grand Premia, Evo Grand Limited giá 25,9; 27,9; 29,9 triệu đồng; từ 19/9 đến 19/12 giảm 3 triệu cho chủ ô tô, xe máy xăng, xe điện ắc-quy chì hoặc xe VinFast; Evo Grand thế hệ đầu ra mắt tháng 7 năm ngoái; vành 12 inch; Premia và Limited có vành nhôm, đồng hồ LCD, hỗ trợ khởi hành ngang dốc, công tắc passing, 3 chế độ lái (Eco, Normal, Sport); Evo Grand II 2 chế độ; Smart Key và chống trộm chỉ có trên Limited; cả ba có cổng USB Type-A và Type-C, cốp 35 lít; động cơ Inhub 2.250W, 70km/h, pin cố định 2,4kWh dưới sàn; pin rời thứ hai giá 5 triệu đồng, tổng 262km; dùng pin phụ phải cắm/rút dây nguồn thủ công trong cốp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/xe-may-dien-vinfast-giam-gia-12-mau-xe-re-nhat-nay-con-chua-den-12-trieu-dong-100260709083620223.htm",
+        "quote": "Tuổi Trẻ, \"Xe máy điện VinFast điều chỉnh giá 12 mẫu, xe rẻ nhất chưa đến 12 triệu đồng\" (09/07/2026, đọc 13/10/2026): bảng giá mới: Evo Grand Lite 16,5 triệu (giảm 3,4 triệu); Evo 18,8–24,1 triệu; Evo Grand 22,5 triệu đồng (giảm 1,4 triệu); miễn phí đổi pin tối đa 20 lần mỗi tháng đến hết 30-6-2028; miễn phí sạc tại trạm V-Green đến hết 31-5-2027.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe có vận tốc thiết kế không lớn hơn 50 km/h, nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô là xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 57 khoản 1 điểm a: hạng A1 cấp cho người lái xe mô tô hai bánh có công suất động cơ điện đến 11 kW. Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 12100,
+        "checked": "2026-10-13",
+        "keyword": "vinfast evo grand"
+      }
+    ],
+    "outline": [
+      "Evo Grand nằm ở đâu trong dải xe điện VinFast",
+      "Pin LFP 2,4 kWh và pin phụ: 262 km, cốp còn 16 lít",
+      "Evo Grand và thế hệ mới II, Premia, Limited khác nhau gì",
+      "Giá: 22,5 triệu (7/2026) và 25,9–29,9 triệu (9/2026)",
+      "70 km/h, 2.250 W: vì sao cần bằng A1",
+      "Bảo hành 6 năm xe, 8 năm pin và sạc miễn phí đến 5/2027"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+      "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+      "/xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/",
+      "/xe-dien/pin-sac/",
+      "/thue-xe-dien/ha-noi/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00192.json",
+  "draft_template": {
+    "id": "TM-00192",
+    "url": "/xe-dien/vinfast-evo-grand/",
+    "title": "VinFast Evo Grand: pin 2,4 kWh, 262 km khi thêm pin, giá các bản",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vinfast evo grand, evo grand giá bao nhiêu, evo grand ii khác evo grand, evo grand đi được bao nhiêu km, evo grand có cần bằng lái không, evo grand premia limited",
+    "excerpt": "",
+    "sections": [
+      [
+        "Evo Grand nằm ở đâu trong dải xe điện VinFast",
+        "<p></p>"
+      ],
+      [
+        "Pin LFP 2,4 kWh và pin phụ: 262 km, cốp còn 16 lít",
+        "<p></p>"
+      ],
+      [
+        "Evo Grand và thế hệ mới II, Premia, Limited khác nhau gì",
+        "<p></p>"
+      ],
+      [
+        "Giá: 22,5 triệu (7/2026) và 25,9–29,9 triệu (9/2026)",
+        "<p></p>"
+      ],
+      [
+        "70 km/h, 2.250 W: vì sao cần bằng A1",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành 6 năm xe, 8 năm pin và sạc miễn phí đến 5/2027",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-evo-grand",
+        "quote": "VinFast, trang sản phẩm Evo Grand (đọc 13/10/2026 qua công cụ trích xuất): bảo hành xe 6 năm/không giới hạn km, pin 8 năm/không giới hạn km; 02 chế độ lái Eco & Sport; IP67, động cơ chịu ngập 0,5 m trong 30 phút; D x R x C 1856 x 683 x 1133 mm; yên 770 mm; gầm 133 mm; cốp 35L; công suất tối đa 2250W; tốc độ tối đa 70 km/h (1 người 65 kg/chế độ Sport); 262 km/lần sạc (khi lắp thêm pin phụ); 0–50 km/h <16 giây; pin LFP 2,4 kWh (tùy chọn thêm 1 pin 2,4 kWh); tìm xe, định vị qua ứng dụng E-Scooter. Lưu ý: quãng đường khi lắp 2 pin theo kiểm thử của VinFast tại 30 km/h; quãng đường thực tế có thể giảm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-evo-grand-ii",
+        "quote": "VinFast, trang Evo Grand II (đọc 13/10/2026 qua công cụ trích xuất): tiêu đề trang \"Xe máy điện Evo Grand II - Giá từ 25,9 triệu, tốc độ 70 km/h\", mô tả \"giá niêm yết 25,9 triệu\"; động cơ Inhub 2.250 W, 70 km/h, pin LFP 2,4 kWh, nâng cấp pin phụ lên 262 km/lần sạc; yên 770 mm; D x R x C 1856 x 675 x 1133; cốp 35L (16L khi lắp thêm pin phụ); 0–40 km/h <16 giây; IP67; bảo hành xe 6 năm, pin 8 năm không giới hạn km; ghi 'Kế thừa thành công của Evo Grand thế hệ đầu tiên'. Trang danh sách shop.vinfastauto.com cùng ngày liệt kê cả Evo Grand, Evo Grand II, Evo Grand Premia, Evo Grand Limited, Evo Grand Lite.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/o-to-xe-may/vinfast-evo-grand-moi-gia-tu-259-trieu-dong-co-ho-tro-khoi-hanh-ngang-doc-20260921191038157.htm",
+        "quote": "Dân trí, \"VinFast Evo Grand mới giá từ 25,9 triệu đồng, có hỗ trợ khởi hành ngang dốc\" (21/09/2026, đọc 13/10/2026): ngày 21/9 VinFast ra mắt Evo Grand II, Evo Grand Premia, Evo Grand Limited giá 25,9; 27,9; 29,9 triệu đồng; từ 19/9 đến 19/12 giảm 3 triệu cho chủ ô tô, xe máy xăng, xe điện ắc-quy chì hoặc xe VinFast; Evo Grand thế hệ đầu ra mắt tháng 7 năm ngoái; vành 12 inch; Premia và Limited có vành nhôm, đồng hồ LCD, hỗ trợ khởi hành ngang dốc, công tắc passing, 3 chế độ lái (Eco, Normal, Sport); Evo Grand II 2 chế độ; Smart Key và chống trộm chỉ có trên Limited; cả ba có cổng USB Type-A và Type-C, cốp 35 lít; động cơ Inhub 2.250W, 70km/h, pin cố định 2,4kWh dưới sàn; pin rời thứ hai giá 5 triệu đồng, tổng 262km; dùng pin phụ phải cắm/rút dây nguồn thủ công trong cốp.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/xe-may-dien-vinfast-giam-gia-12-mau-xe-re-nhat-nay-con-chua-den-12-trieu-dong-100260709083620223.htm",
+        "quote": "Tuổi Trẻ, \"Xe máy điện VinFast điều chỉnh giá 12 mẫu, xe rẻ nhất chưa đến 12 triệu đồng\" (09/07/2026, đọc 13/10/2026): bảng giá mới: Evo Grand Lite 16,5 triệu (giảm 3,4 triệu); Evo 18,8–24,1 triệu; Evo Grand 22,5 triệu đồng (giảm 1,4 triệu); miễn phí đổi pin tối đa 20 lần mỗi tháng đến hết 30-6-2028; miễn phí sạc tại trạm V-Green đến hết 31-5-2027.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe có vận tốc thiết kế không lớn hơn 50 km/h, nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô là xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 57 khoản 1 điểm a: hạng A1 cấp cho người lái xe mô tô hai bánh có công suất động cơ điện đến 11 kW. Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00192"
+  }
+}

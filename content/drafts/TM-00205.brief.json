@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w4d",
+  "queued": "2026-10-13T09:16:56.754764+00:00",
+  "topic": {
+    "topic_id": "TM-00205",
+    "url": "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+    "title": "Vườn quốc gia Cúc Phương đi xe máy từ Hà Nội: đường đi, tour, mùa bướm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "vườn quốc gia cúc phương",
+    "secondary_keywords": [
+      "cúc phương cách hà nội bao nhiêu km",
+      "đường đi cúc phương bằng xe máy",
+      "mùa bướm cúc phương",
+      "giá tour cúc phương",
+      "rừng cúc phương"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy tới Vườn quốc gia Cúc Phương (Nho Quan, Ninh Bình) trong ngày hoặc ngủ lại: bao xa, đi QL1A rồi rẽ đường nào thay vì cao tốc, trong vườn đi bộ bao xa, tour và mùa bướm khi nào.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ chỉ đưa người đọc tới Tràng An, Tam Cốc, Bái Đính, không nhắc Cúc Phương. Bài này thêm: Cúc Phương cách Hà Nội gần 130 km, 2,5–3 tiếng (VnExpress, cập nhật 4/2026); lộ trình VnExpress cho ô tô (CT01 → QL1A tại Phủ Lý → ĐT477) và cách xe máy đi QL1A suốt; lối từ TP Ninh Bình qua Bái Đính (15 km) rồi khoảng 25 km tới vườn; khu trung tâm Bống cách cổng 20 km, chỉ có điện 4 tiếng buổi tối; giá tour nửa ngày, một ngày, tour đêm 19h–22h; xe điện 20.000 đồng/người; mùa bướm tháng 4–5, mùa khô tháng 9–12 hợp trekking; đỉnh Mây Bạc 648 m; ranh giới 3 tỉnh nay là Ninh Bình, Phú Thọ, Thanh Hóa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vuon-quoc-gia-cuc-phuong-4779568.html",
+        "quote": "VnExpress, Cẩm nang Vườn Quốc gia Cúc Phương (đăng 22/8/2024, cập nhật 14/4/2026): vườn nằm trên ranh giới ba tỉnh Ninh Bình, Hòa Bình, Thanh Hóa, cổng chính ở huyện Nho Quan, là vườn quốc gia đầu tiên của Việt Nam; “Vườn quốc gia Cúc Phương nằm cách Hà Nội gần 130 km ... khoảng 2,5 đến 3 tiếng. Du khách có thể di chuyển theo CT01, sau đó vào QL1A tại Phủ Lý rồi theo DT477. Một lựa chọn khác là đi theo đường Hồ Chí Minh”; từ TP Ninh Bình qua Tràng An đến chùa Bái Đính (15 km) rồi theo đường sau bãi đỗ xe Bái Đính đến Cúc Phương khoảng 25 km; mùa khô tháng 9–12 hợp trekking, tháng 4–5 mùa bướm trắng và đom đóm; khu trung tâm Bống cách cổng 20 km, điện chỉ có 4 tiếng buổi tối; đỉnh Mây Bạc 648 m, đi về khoảng 4 tiếng; động Người Xưa đi bộ 300 m, chỉ tham quan khi trời sáng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vuon-quoc-gia-cuc-phuong-4779568.html",
+        "quote": "VnExpress, cùng cẩm nang (cập nhật 14/4/2026), phần dịch vụ: tour nửa ngày 130.000, 160.000 và 250.000 đồng/người lớn, 50.000–110.000 đồng/trẻ em; tour một ngày 160.000 đồng/người lớn, 50.000 đồng/trẻ em; có thể đi bộ hoặc thuê xe điện 20.000 đồng/người; “Phí bãi đỗ xe từ 20.000 đến 35.000 động một xe một ngày” (bài không ghi loại xe); tour đêm 19h–22h, mỗi tour 1,5 tiếng, 100.000 đồng/người lớn và trẻ trên 10 tuổi, 50.000 đồng/trẻ dưới 10 tuổi; mua vé online trên trang của vườn; mùa bướm tháng 4 đông khách, nên đặt lưu trú sớm; nhà nghỉ trong vườn 350.000 đồng–1 triệu đồng/đêm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-chua-bai-dinh-4833152.html",
+        "quote": "VnExpress, Cẩm nang du lịch chùa Bái Đính (đăng 19/1/2025, cập nhật 4/3/2026): chùa Bái Đính ở phía tây cố đô Hoa Lư, bên quốc lộ 38B, cách TP Hoa Lư (Ninh Bình) 15 km và cách Hà Nội 95 km; ô tô theo cao tốc CT01 khoảng 1 tiếng 30 phút; “Nếu đi xe máy, du khách di chuyển theo quốc lộ 1A, sau đó rẽ vào quốc lộ 21C”; xe điện 60.000 đồng/người khứ hồi từ cổng chùa vào trung tâm khoảng 3,5 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 8 sắp xếp tỉnh Hà Nam, tỉnh Nam Định và tỉnh Ninh Bình thành tỉnh Ninh Bình; khoản 4 sắp xếp tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh Phú Thọ; Thanh Hóa không thực hiện sắp xếp. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 33100,
+        "checked": "2026-10-13",
+        "keyword": "vườn quốc gia cúc phương"
+      }
+    ],
+    "outline": [
+      "Cúc Phương ở đâu, cách Hà Nội bao xa",
+      "Xe máy đi QL1A tới Phủ Lý rồi ĐT477, hoặc ghép từ Bái Đính",
+      "Trong vườn: trung tâm du khách, động Người Xưa, cây chò, đỉnh Mây Bạc",
+      "Tour nửa ngày, một ngày, tour đêm và xe điện",
+      "Mùa bướm tháng 4–5 và mùa khô để trekking",
+      "Ngủ lại trong vườn hay đi về trong ngày, lưu ý chạy xe tối"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00205.json",
+  "draft_template": {
+    "id": "TM-00205",
+    "url": "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+    "title": "Vườn quốc gia Cúc Phương đi xe máy từ Hà Nội: đường đi, tour, mùa bướm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vườn quốc gia cúc phương, cúc phương cách hà nội bao nhiêu km, đường đi cúc phương bằng xe máy, mùa bướm cúc phương, giá tour cúc phương, rừng cúc phương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cúc Phương ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Xe máy đi QL1A tới Phủ Lý rồi ĐT477, hoặc ghép từ Bái Đính",
+        "<p></p>"
+      ],
+      [
+        "Trong vườn: trung tâm du khách, động Người Xưa, cây chò, đỉnh Mây Bạc",
+        "<p></p>"
+      ],
+      [
+        "Tour nửa ngày, một ngày, tour đêm và xe điện",
+        "<p></p>"
+      ],
+      [
+        "Mùa bướm tháng 4–5 và mùa khô để trekking",
+        "<p></p>"
+      ],
+      [
+        "Ngủ lại trong vườn hay đi về trong ngày, lưu ý chạy xe tối",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vuon-quoc-gia-cuc-phuong-4779568.html",
+        "quote": "VnExpress, Cẩm nang Vườn Quốc gia Cúc Phương (đăng 22/8/2024, cập nhật 14/4/2026): vườn nằm trên ranh giới ba tỉnh Ninh Bình, Hòa Bình, Thanh Hóa, cổng chính ở huyện Nho Quan, là vườn quốc gia đầu tiên của Việt Nam; “Vườn quốc gia Cúc Phương nằm cách Hà Nội gần 130 km ... khoảng 2,5 đến 3 tiếng. Du khách có thể di chuyển theo CT01, sau đó vào QL1A tại Phủ Lý rồi theo DT477. Một lựa chọn khác là đi theo đường Hồ Chí Minh”; từ TP Ninh Bình qua Tràng An đến chùa Bái Đính (15 km) rồi theo đường sau bãi đỗ xe Bái Đính đến Cúc Phương khoảng 25 km; mùa khô tháng 9–12 hợp trekking, tháng 4–5 mùa bướm trắng và đom đóm; khu trung tâm Bống cách cổng 20 km, điện chỉ có 4 tiếng buổi tối; đỉnh Mây Bạc 648 m, đi về khoảng 4 tiếng; động Người Xưa đi bộ 300 m, chỉ tham quan khi trời sáng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vuon-quoc-gia-cuc-phuong-4779568.html",
+        "quote": "VnExpress, cùng cẩm nang (cập nhật 14/4/2026), phần dịch vụ: tour nửa ngày 130.000, 160.000 và 250.000 đồng/người lớn, 50.000–110.000 đồng/trẻ em; tour một ngày 160.000 đồng/người lớn, 50.000 đồng/trẻ em; có thể đi bộ hoặc thuê xe điện 20.000 đồng/người; “Phí bãi đỗ xe từ 20.000 đến 35.000 động một xe một ngày” (bài không ghi loại xe); tour đêm 19h–22h, mỗi tour 1,5 tiếng, 100.000 đồng/người lớn và trẻ trên 10 tuổi, 50.000 đồng/trẻ dưới 10 tuổi; mua vé online trên trang của vườn; mùa bướm tháng 4 đông khách, nên đặt lưu trú sớm; nhà nghỉ trong vườn 350.000 đồng–1 triệu đồng/đêm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-chua-bai-dinh-4833152.html",
+        "quote": "VnExpress, Cẩm nang du lịch chùa Bái Đính (đăng 19/1/2025, cập nhật 4/3/2026): chùa Bái Đính ở phía tây cố đô Hoa Lư, bên quốc lộ 38B, cách TP Hoa Lư (Ninh Bình) 15 km và cách Hà Nội 95 km; ô tô theo cao tốc CT01 khoảng 1 tiếng 30 phút; “Nếu đi xe máy, du khách di chuyển theo quốc lộ 1A, sau đó rẽ vào quốc lộ 21C”; xe điện 60.000 đồng/người khứ hồi từ cổng chùa vào trung tâm khoảng 3,5 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Nghị quyết 202/2025/QH15 (Báo Chính phủ, 12/6/2025; hiệu lực từ ngày thông qua 12/6/2025): khoản 8 sắp xếp tỉnh Hà Nam, tỉnh Nam Định và tỉnh Ninh Bình thành tỉnh Ninh Bình; khoản 4 sắp xếp tỉnh Vĩnh Phúc, tỉnh Hòa Bình và tỉnh Phú Thọ thành tỉnh Phú Thọ; Thanh Hóa không thực hiện sắp xếp. Chính quyền địa phương ở tỉnh, thành phố hình thành sau sắp xếp chính thức hoạt động từ ngày 01/7/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (đọc 13/10/2026): Điều 7 khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00205"
+  }
+}
