@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w11e",
+  "queued": "2026-10-13T15:52:36.574379+00:00",
+  "topic": {
+    "topic_id": "TM-00393",
+    "url": "/du-lich/cau-pa-uon-quynh-nhai/",
+    "title": "Cầu Pá Uôn Quỳnh Nhai: trụ 98,6 m, cách TP Sơn La 70 km, thuyền lòng hồ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cầu pá uôn",
+    "secondary_keywords": [
+      "cầu pá uôn quỳnh nhai",
+      "cầu pá uôn ở đâu",
+      "lòng hồ quỳnh nhai",
+      "quốc lộ 279 quỳnh nhai",
+      "đền nàng han quỳnh nhai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Tây Bắc qua Sơn La muốn biết cầu Pá Uôn nằm ở đâu, cách TP Sơn La bao xa, xem gì, có đi thuyền lòng hồ được không và lễ hội nào ở đầu cầu.",
+    "information_gain": "Trang chưa có bài nào về Quỳnh Nhai hay lòng hồ thủy điện Sơn La; /du-lich/ha-noi-di-dien-bien-bang-xe-may/ chỉ đi QL6 qua TP Sơn La. Bài này thêm: cầu trên QL279, xã Chiềng Ơn, cách TP Sơn La khoảng 70 km; dài khoảng 1.418 m, 11 trụ, rộng 9 m (Báo Sơn La); trụ chính 98,6 m được Kỷ lục Việt Nam xác nhận (Báo Sơn La đăng lại trên Cục Du lịch, 10/2024) và giải thích con số 'cao 103,8 m'; bến thuyền đầu cầu, các điểm lòng hồ (đảo Trái Tim, vịnh Bình Yên, đền Nàng Han); lễ đua thuyền ngày 10 tháng Giêng; và tình trạng mưa lũ tháng 7/2026 ở Quỳnh Nhai.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/cau-pa-uon-niem-tu-hao-cua-nguoi-quynh-nhai-37554.html",
+        "quote": "Báo Sơn La (đăng 03/07/2022): cầu Pá Uôn ở xã Chiềng Ơn (Quỳnh Nhai), trên quốc lộ 279, cách trung tâm TP Sơn La khoảng 70 km; dài khoảng 1.418 m, cao 103,8 m, rộng 9 m, gồm 11 trụ, hai làn xe; mỗi năm đón trên 100.000 lượt khách; từ bến thuyền cầu Pá Uôn có thuyền du lịch đi các điểm trên lòng hồ; ngày 10 tháng Giêng âm lịch có lễ hội đua thuyền truyền thống Quỳnh Nhai, bãi đua ở đầu cầu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/58807",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại Báo Sơn La (01/10/2024), 'Quỳnh Nhai (Sơn La): Sắc màu du lịch vùng lòng hồ thủy điện': 'Cầu Pá Uôn đã được tổ chức Kỷ lục Việt Nam xác nhận là cây cầu có trụ cao nhất Việt Nam với trụ chính cao tới 98,6m'; lòng hồ hơn 10.500 ha mặt nước tại Quỳnh Nhai; các sản phẩm: Pá Uôn Ecolakes, đảo Trái tim, vịnh Bình Yên, đảo Pú Dăn, khu du lịch văn hóa tâm linh (đền Linh Sơn Thủy Từ – Nàng Han), du lịch cộng đồng bản Bon; huyện có 8 cơ sở lưu trú, trong đó 1 khách sạn.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/son-la-mua-lu-gay-thiet-hai-hang-chuc-ti-dong-nhieu-khu-vuc-van-bi-chia-cat-do-sat-lo-a176041.html",
+        "quote": "Tạp chí Luật sư Việt Nam, 18/07/2026: mưa 16–17/7/2026 ở Sơn La; Quỳnh Nhai có 1 nhà phải di dời khẩn cấp và 1 nhà sơ tán; trên quốc lộ có 33 vị trí sạt lở taluy, QL279D tắc 4 vị trí đã thông; toàn tỉnh thiệt hại khoảng 35 tỉ đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1300,
+        "checked": "2026-10-13",
+        "keyword": "cầu pá uôn"
+      }
+    ],
+    "notes": "Chiều cao: Báo Sơn La 2022 ghi 'cao 103,8 m' (không nói rõ là trụ hay tổng); bài 2024 ghi trụ chính 98,6 m theo Kỷ lục Việt Nam — viết 'trụ chính 98,6 m (Kỷ lục VN); Báo Sơn La từng ghi cao 103,8 m'. Năm khởi công/hoàn thành mâu thuẫn trên mạng (2007, 2010, 2011) — không ghi. Báo Lao Động (31/8/2026) có tin QL279D sạt lở nhưng trang không tải được nên không dùng làm bằng chứng; QL279D khác QL279 qua cầu Pá Uôn — đừng nhầm. Không có giá thuyền, giá vé lòng hồ chính thức; không ghi giá. Không ghi số điện thoại khách sạn, HTX. Xe máy từ Hà Nội đi QL6 tới TP Sơn La rồi rẽ; không vào cao tốc CT08/CT02. Tên đơn vị hành chính sau sắp xếp 2025 (huyện Quỳnh Nhai, xã Chiềng Ơn) CHƯA xác minh; giữ tên theo nguồn.",
+    "outline": [
+      "Cầu Pá Uôn ở đâu và cách TP Sơn La bao xa",
+      "Những con số của cầu: 1.418 m, 11 trụ, trụ chính 98,6 m",
+      "Đường xe máy từ TP Sơn La theo QL279 và tình hình mưa lũ 2026",
+      "Đi thuyền từ bến đầu cầu: đảo Trái Tim, vịnh Bình Yên, đền Nàng Han",
+      "Lễ đua thuyền 10 tháng Giêng và lúc nào nên đến",
+      "Ăn cá lòng hồ, chỗ ngủ và lưu ý an toàn trên mặt nước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00393.json",
+  "draft_template": {
+    "id": "TM-00393",
+    "url": "/du-lich/cau-pa-uon-quynh-nhai/",
+    "title": "Cầu Pá Uôn Quỳnh Nhai: trụ 98,6 m, cách TP Sơn La 70 km, thuyền lòng hồ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cầu pá uôn, cầu pá uôn quỳnh nhai, cầu pá uôn ở đâu, lòng hồ quỳnh nhai, quốc lộ 279 quỳnh nhai, đền nàng han quỳnh nhai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cầu Pá Uôn ở đâu và cách TP Sơn La bao xa",
+        "<p></p>"
+      ],
+      [
+        "Những con số của cầu: 1.418 m, 11 trụ, trụ chính 98,6 m",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy từ TP Sơn La theo QL279 và tình hình mưa lũ 2026",
+        "<p></p>"
+      ],
+      [
+        "Đi thuyền từ bến đầu cầu: đảo Trái Tim, vịnh Bình Yên, đền Nàng Han",
+        "<p></p>"
+      ],
+      [
+        "Lễ đua thuyền 10 tháng Giêng và lúc nào nên đến",
+        "<p></p>"
+      ],
+      [
+        "Ăn cá lòng hồ, chỗ ngủ và lưu ý an toàn trên mặt nước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/cau-pa-uon-niem-tu-hao-cua-nguoi-quynh-nhai-37554.html",
+        "quote": "Báo Sơn La (đăng 03/07/2022): cầu Pá Uôn ở xã Chiềng Ơn (Quỳnh Nhai), trên quốc lộ 279, cách trung tâm TP Sơn La khoảng 70 km; dài khoảng 1.418 m, cao 103,8 m, rộng 9 m, gồm 11 trụ, hai làn xe; mỗi năm đón trên 100.000 lượt khách; từ bến thuyền cầu Pá Uôn có thuyền du lịch đi các điểm trên lòng hồ; ngày 10 tháng Giêng âm lịch có lễ hội đua thuyền truyền thống Quỳnh Nhai, bãi đua ở đầu cầu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/58807",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại Báo Sơn La (01/10/2024), 'Quỳnh Nhai (Sơn La): Sắc màu du lịch vùng lòng hồ thủy điện': 'Cầu Pá Uôn đã được tổ chức Kỷ lục Việt Nam xác nhận là cây cầu có trụ cao nhất Việt Nam với trụ chính cao tới 98,6m'; lòng hồ hơn 10.500 ha mặt nước tại Quỳnh Nhai; các sản phẩm: Pá Uôn Ecolakes, đảo Trái tim, vịnh Bình Yên, đảo Pú Dăn, khu du lịch văn hóa tâm linh (đền Linh Sơn Thủy Từ – Nàng Han), du lịch cộng đồng bản Bon; huyện có 8 cơ sở lưu trú, trong đó 1 khách sạn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/son-la-mua-lu-gay-thiet-hai-hang-chuc-ti-dong-nhieu-khu-vuc-van-bi-chia-cat-do-sat-lo-a176041.html",
+        "quote": "Tạp chí Luật sư Việt Nam, 18/07/2026: mưa 16–17/7/2026 ở Sơn La; Quỳnh Nhai có 1 nhà phải di dời khẩn cấp và 1 nhà sơ tán; trên quốc lộ có 33 vị trí sạt lở taluy, QL279D tắc 4 vị trí đã thông; toàn tỉnh thiệt hại khoảng 35 tỉ đồng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00393"
+  }
+}

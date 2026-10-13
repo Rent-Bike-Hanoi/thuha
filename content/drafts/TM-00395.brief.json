@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w11e",
+  "queued": "2026-10-13T15:52:36.573526+00:00",
+  "topic": {
+    "topic_id": "TM-00395",
+    "url": "/du-lich/rung-thong-ban-ang/",
+    "title": "Rừng thông bản Áng Mộc Châu: cách trung tâm 2 km, hồ 3 ha, cắm trại",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "rừng thông bản áng",
+    "secondary_keywords": [
+      "rừng thông bản áng mộc châu",
+      "bản áng mộc châu",
+      "cắm trại rừng thông bản áng",
+      "rừng thông bản áng ở đâu",
+      "vé rừng thông bản áng"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy lên Mộc Châu muốn biết rừng thông bản Áng nằm đâu, đi từ trung tâm thế nào, có thu vé không, có cắm trại được không.",
+    "information_gain": "Các bài Mộc Châu trên trang (/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/, /du-lich/doi-che-trai-tim-moc-chau/, /du-lich/thac-dai-yem-moc-chau/) không nhắc bản Áng. Bài này thêm: vị trí cách trung tâm Mộc Châu 2 km theo QL43, diện tích trên 43 ha (VnExpress) hay gần 50 ha với hồ nước 3 ha (Báo Sơn La 6/2024); tư cách pháp lý 'Khu du lịch cấp tỉnh' theo QĐ 249/QĐ-UBND ngày 14/02/2022 (Cổng dữ liệu mở Sơn La); tên hành chính mới phường Mộc Sơn (Báo Sơn La 8/2026); lịch sử thu 'vé lưu trú' cắm trại 100.000 đồng năm 2021; và khuyến nghị xem bảng giá tại cổng vì chưa có giá chính thức 2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-moc-chau-4098678.html",
+        "quote": "VnExpress, Cẩm nang du lịch Mộc Châu (đăng 15/5/2020, cập nhật 12/1/2026): 'Rừng thông nằm trong khu vực bản Áng thuộc xã Đông Sang, huyện Mộc Châu, tỉnh Sơn La, cách trung tâm thị trấn Mộc Châu 2 km theo quốc lộ 43'; tổng diện tích trên 43 ha gồm rừng thông và một hồ nước, là điểm cắm trại.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-trai-giua-rung-thong-moc-chau-4305856.html",
+        "quote": "VnExpress, 09/07/2021: khu cắm trại ở rừng thông Bản Áng có bàn ghế, lều, ổ cắm điện trên bàn; khi đó 'chưa bán vé tham quan mà chỉ có vé lưu trú giá 100.000 đồng một người'; được mang đồ ăn, đồ uống nhưng phải dọn sạch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/emagazine/san-pham-du-lich-dac-sac-tren-cao-nguyen-moc-chau-fA3u8AsIg.html",
+        "quote": "Báo Sơn La, emagazine 'Sản phẩm du lịch đặc sắc trên cao nguyên Mộc Châu' (khoảng 6/2024): rừng thông bản Áng, xã Đông Sang có diện tích gần 50 ha, thông cổ thụ bao quanh hồ nước tự nhiên rộng 3 ha, có khu nghỉ dưỡng, vui chơi giải trí; bản Áng cũng là bản du lịch cộng đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://data.sonla.gov.vn/detail_data/danh-sach-cac-khu-diem-du-lich-da-duoc-bo-vhttdl-va-ubnd-tinh-son-la-cong-nhan-627",
+        "quote": "Cổng dữ liệu mở Sơn La (Sở VHTTDL cung cấp, 28/10/2024): 'Khu du lịch nghỉ dưỡng và vui chơi giải trí cao cấp Rừng thông bản Áng', bản Áng xã Đông Sang, huyện Mộc Châu, công nhận Khu du lịch cấp tỉnh theo 249/QĐ-UBND ngày 14/02/2022, do Công ty TNHH Phát triển du lịch quốc tế Phượng Hoàng Mộc Châu quản lý.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/xung-dang-la-diem-den-thien-nhien-khu-vuc-hang-dau-the-gioi-7Wmj6HwDg.html",
+        "quote": "Báo Sơn La, 29/08/2026: liệt kê 'Khu du lịch nghỉ dưỡng và vui chơi giải trí cao cấp rừng thông bản Áng, phường Mộc Sơn' trong các khu, điểm du lịch của Mộc Châu dịp 2/9/2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 9900,
+        "checked": "2026-10-13",
+        "keyword": "rừng thông bản áng"
+      }
+    ],
+    "notes": "Giá vé 2026 CHƯA xác minh (video YouTube nói 79.000đ, blog nói 80.000đ — không dùng); ghi 'xem bảng giá tại cổng'. Giờ mở cửa CHƯA có nguồn chính thức (Trip.com ghi 8h–17h, không dùng). Diện tích hai số: trên 43 ha (VnExpress) / gần 50 ha (Báo Sơn La) — ghi cả hai. Khoảng cách các blog ghi 2–10 km; dùng 2 km theo QL43 (VnExpress). Tên hành chính: xã Đông Sang cũ, nay phường Mộc Sơn theo Báo Sơn La 8/2026. Không ghi số điện thoại công ty quản lý. Xe máy từ Hà Nội theo QL6 (bài Mộc Châu đã có), không vào cao tốc. Không đốt lửa trong rừng thông.",
+    "outline": [
+      "Rừng thông bản Áng ở đâu: 2 km từ trung tâm theo QL43, nay thuộc phường Mộc Sơn",
+      "Khu du lịch cấp tỉnh: ai quản lý, có thu vé không",
+      "Đi xe máy vào, gửi xe và đường trong khu",
+      "Hồ 3 ha, cắm trại, dịch vụ trong khu và quy định giữ vệ sinh",
+      "Ghép bản Áng với đồi chè trái tim, thác Dải Yếm trong một ngày",
+      "Mùa nào đẹp và lưu ý thời tiết sương lạnh Mộc Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/doi-che-trai-tim-moc-chau/",
+      "/du-lich/thac-dai-yem-moc-chau/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00395.json",
+  "draft_template": {
+    "id": "TM-00395",
+    "url": "/du-lich/rung-thong-ban-ang/",
+    "title": "Rừng thông bản Áng Mộc Châu: cách trung tâm 2 km, hồ 3 ha, cắm trại",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "rừng thông bản áng, rừng thông bản áng mộc châu, bản áng mộc châu, cắm trại rừng thông bản áng, rừng thông bản áng ở đâu, vé rừng thông bản áng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Rừng thông bản Áng ở đâu: 2 km từ trung tâm theo QL43, nay thuộc phường Mộc Sơn",
+        "<p></p>"
+      ],
+      [
+        "Khu du lịch cấp tỉnh: ai quản lý, có thu vé không",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy vào, gửi xe và đường trong khu",
+        "<p></p>"
+      ],
+      [
+        "Hồ 3 ha, cắm trại, dịch vụ trong khu và quy định giữ vệ sinh",
+        "<p></p>"
+      ],
+      [
+        "Ghép bản Áng với đồi chè trái tim, thác Dải Yếm trong một ngày",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đẹp và lưu ý thời tiết sương lạnh Mộc Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-moc-chau-4098678.html",
+        "quote": "VnExpress, Cẩm nang du lịch Mộc Châu (đăng 15/5/2020, cập nhật 12/1/2026): 'Rừng thông nằm trong khu vực bản Áng thuộc xã Đông Sang, huyện Mộc Châu, tỉnh Sơn La, cách trung tâm thị trấn Mộc Châu 2 km theo quốc lộ 43'; tổng diện tích trên 43 ha gồm rừng thông và một hồ nước, là điểm cắm trại.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-trai-giua-rung-thong-moc-chau-4305856.html",
+        "quote": "VnExpress, 09/07/2021: khu cắm trại ở rừng thông Bản Áng có bàn ghế, lều, ổ cắm điện trên bàn; khi đó 'chưa bán vé tham quan mà chỉ có vé lưu trú giá 100.000 đồng một người'; được mang đồ ăn, đồ uống nhưng phải dọn sạch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/emagazine/san-pham-du-lich-dac-sac-tren-cao-nguyen-moc-chau-fA3u8AsIg.html",
+        "quote": "Báo Sơn La, emagazine 'Sản phẩm du lịch đặc sắc trên cao nguyên Mộc Châu' (khoảng 6/2024): rừng thông bản Áng, xã Đông Sang có diện tích gần 50 ha, thông cổ thụ bao quanh hồ nước tự nhiên rộng 3 ha, có khu nghỉ dưỡng, vui chơi giải trí; bản Áng cũng là bản du lịch cộng đồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://data.sonla.gov.vn/detail_data/danh-sach-cac-khu-diem-du-lich-da-duoc-bo-vhttdl-va-ubnd-tinh-son-la-cong-nhan-627",
+        "quote": "Cổng dữ liệu mở Sơn La (Sở VHTTDL cung cấp, 28/10/2024): 'Khu du lịch nghỉ dưỡng và vui chơi giải trí cao cấp Rừng thông bản Áng', bản Áng xã Đông Sang, huyện Mộc Châu, công nhận Khu du lịch cấp tỉnh theo 249/QĐ-UBND ngày 14/02/2022, do Công ty TNHH Phát triển du lịch quốc tế Phượng Hoàng Mộc Châu quản lý.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/xung-dang-la-diem-den-thien-nhien-khu-vuc-hang-dau-the-gioi-7Wmj6HwDg.html",
+        "quote": "Báo Sơn La, 29/08/2026: liệt kê 'Khu du lịch nghỉ dưỡng và vui chơi giải trí cao cấp rừng thông bản Áng, phường Mộc Sơn' trong các khu, điểm du lịch của Mộc Châu dịp 2/9/2026.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00395"
+  }
+}

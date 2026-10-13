@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w11d",
+  "queued": "2026-10-13T15:52:36.414098+00:00",
+  "topic": {
+    "topic_id": "TM-00388",
+    "url": "/du-lich/ham-de-castries/",
+    "title": "Hầm De Castries (hầm Đờ Cát) Điện Biên: xem gì, vé, ghép với đồi A1",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hầm de castries",
+    "secondary_keywords": [
+      "hầm đờ cát",
+      "hầm đờ cát điện biên",
+      "sở chỉ huy tập đoàn cứ điểm điện biên phủ",
+      "vé hầm đờ cát",
+      "hầm de castries ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đã tới Điện Biên Phủ muốn biết hầm De Castries nằm ở đâu, bên trong có gì, mất bao lâu, vé ra sao và đi từ đồi A1 sang thế nào.",
+    "information_gain": "/du-lich/ha-noi-di-dien-bien-bang-xe-may/ chỉ ghi 'hầm Đờ Cát cách đồi A1 khoảng 1 km' (VnExpress) và không có thông tin vé. Bài này thêm từ trang di tích của Sở VHTTDL Điện Biên: tên đầy đủ (Sở chỉ huy tập đoàn cứ điểm, Sở chỉ huy GONO), vị trí phường Thanh Trường cũ, kích thước 20 m × 8 m chia 4 ngăn, sâu 2 m, 4 xe tăng ở 4 hướng, mốc 17h30 ngày 7/5/1954 và đại đội 360; điểm thu phí biên lai điện tử (Báo Tin tức 2/2024); đối tượng miễn/giảm theo NQ 61/2017; và giải thích chênh lệch khoảng cách A1–hầm (500 m đường chim bay theo Sở, khoảng 1 km đường đi theo VnExpress).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2011/Ham-De-Castries-5048.aspx",
+        "quote": "Sở VHTTDL Điện Biên, trang Di tích ('Hầm De Castries', 20/7/2011): tên đầy đủ là Sở chỉ huy tập đoàn cứ điểm Điện Biên Phủ hay Sở chỉ huy GoNo, thuộc phường Thanh Trường, TP Điện Biên Phủ; nằm ở trung tâm tập đoàn cứ điểm, sâu dưới lòng đất 2 m; căn hầm dài 20 m, rộng 8 m, chia 4 ngăn vừa làm việc vừa ăn nghỉ; xung quanh là hàng rào kẽm gai gài mìn và 4 xe tăng phòng thủ ở 4 hướng; 17h30 ngày 7/5/1954 đồng chí Tạ Quốc Luật, chỉ huy trưởng đại đội 360, trung đoàn 209, đại đoàn 312 bắt sống De Castries và Bộ chỉ huy quân Pháp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2012/Di-tich-doi-A1--5009.aspx",
+        "quote": "Sở VHTTDL Điện Biên ('Di tích đồi A1', 2012): đồi A1 cách Sở chỉ huy tập đoàn cứ điểm Điện Biên Phủ của thực dân Pháp khoảng 500 m về phía Tây theo đường chim bay.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dien-bien-4687746.html",
+        "quote": "VnExpress, Cẩm nang du lịch Điện Biên (21/12/2023, cập nhật cùng ngày 15:25): hầm chỉ huy của tướng Đờ Cát ở trung tâm tập đoàn cứ điểm, thuộc cánh đồng Mường Thanh, 'nằm cách đồi A1 khoảng 1 km'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/su-dung-phan-mem-quan-ly-thu-phi-tham-quan-bang-bien-lai-dien-tu-post1055686.html",
+        "quote": "Báo Tin tức (TTXVN), 27/02/2024: thu phí tham quan bằng biên lai điện tử tại 4 điểm gồm Đồi A1, Tượng đài Chiến thắng, Hầm Đờ Cát và Sở Chỉ huy Chiến dịch ở Mường Phăng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2019-12-11/Nhung-goi-y-khi-toi-tham-quan-Bao-tang-va-Di-tich-emhw5cf7uttj.aspx",
+        "quote": "Sở VHTTDL Điện Biên (10/10/2019): giá vé mỗi điểm di tích 15.000 đồng/người/lượt từ giữa 2013 (QĐ 06/2013/QĐ-UBND); NQ 61/2017/NQ-HĐND miễn cho người dưới 18 tuổi, cựu chiến binh, người có công...; giảm 50% cho người cao tuổi, người khuyết tật; cần xuất trình giấy tờ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dulichtaybac.vn/diem-den/dien-bien/gia-ve-tham-quan-mot-so-diem-du-lich-tren-dia-ban-tinh-dien-bien",
+        "quote": "TT XTDL Điện Biên (dulichtaybac.vn, 27/10/2022): vé các điểm di tích Chiến trường Điện Biên Phủ 25.000 đồng/điểm/người, trong 4 điểm thu vé có Hầm Đờ Cát; miễn cựu chiến binh, người dưới 18 tuổi; 50% với người trên 60 tuổi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 170,
+        "checked": "2026-10-13",
+        "keyword": "hầm de castries"
+      }
+    ],
+    "notes": "Giá vé 2026 CHƯA xác minh (15.000đ năm 2013–2019 theo Sở; 25.000đ/điểm theo TT XTDL 2022); không chốt một con số. Giờ mở cửa ban ngày CHƯA có nguồn văn bản. Mái che kính và chi tiết 'Tổng thống Mỹ' trên Wikipedia không dùng. VnExpress (2023) ghi khoảng 1 km là khoảng cách đi lại; 500 m là đường chim bay theo Sở — viết rõ hai loại. Tên phường 'Thanh Trường' là địa danh cũ trong bài 2011; sau sắp xếp 2025 có thể đã đổi, không khẳng định tên mới. Không ghi số điện thoại di tích. Xe máy từ Hà Nội đi QL6, không vào cao tốc CT08/CT02.",
+    "outline": [
+      "Hầm De Castries là gì: Sở chỉ huy GONO giữa cánh đồng Mường Thanh",
+      "Bên trong căn hầm 20 × 8 m: 4 ngăn, xe tăng, hàng rào kẽm gai",
+      "Chiều 7/5/1954: đại đội 360 và lá cờ trên nóc hầm",
+      "Vé, biên lai điện tử và đối tượng miễn giảm",
+      "Đi từ đồi A1 sang hầm: 500 m đường chim bay, khoảng 1 km đường đi",
+      "Lịch nửa ngày A1 – hầm Đờ Cát – Tượng đài bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00388.json",
+  "draft_template": {
+    "id": "TM-00388",
+    "url": "/du-lich/ham-de-castries/",
+    "title": "Hầm De Castries (hầm Đờ Cát) Điện Biên: xem gì, vé, ghép với đồi A1",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hầm de castries, hầm đờ cát, hầm đờ cát điện biên, sở chỉ huy tập đoàn cứ điểm điện biên phủ, vé hầm đờ cát, hầm de castries ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hầm De Castries là gì: Sở chỉ huy GONO giữa cánh đồng Mường Thanh",
+        "<p></p>"
+      ],
+      [
+        "Bên trong căn hầm 20 × 8 m: 4 ngăn, xe tăng, hàng rào kẽm gai",
+        "<p></p>"
+      ],
+      [
+        "Chiều 7/5/1954: đại đội 360 và lá cờ trên nóc hầm",
+        "<p></p>"
+      ],
+      [
+        "Vé, biên lai điện tử và đối tượng miễn giảm",
+        "<p></p>"
+      ],
+      [
+        "Đi từ đồi A1 sang hầm: 500 m đường chim bay, khoảng 1 km đường đi",
+        "<p></p>"
+      ],
+      [
+        "Lịch nửa ngày A1 – hầm Đờ Cát – Tượng đài bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2011/Ham-De-Castries-5048.aspx",
+        "quote": "Sở VHTTDL Điện Biên, trang Di tích ('Hầm De Castries', 20/7/2011): tên đầy đủ là Sở chỉ huy tập đoàn cứ điểm Điện Biên Phủ hay Sở chỉ huy GoNo, thuộc phường Thanh Trường, TP Điện Biên Phủ; nằm ở trung tâm tập đoàn cứ điểm, sâu dưới lòng đất 2 m; căn hầm dài 20 m, rộng 8 m, chia 4 ngăn vừa làm việc vừa ăn nghỉ; xung quanh là hàng rào kẽm gai gài mìn và 4 xe tăng phòng thủ ở 4 hướng; 17h30 ngày 7/5/1954 đồng chí Tạ Quốc Luật, chỉ huy trưởng đại đội 360, trung đoàn 209, đại đoàn 312 bắt sống De Castries và Bộ chỉ huy quân Pháp.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2012/Di-tich-doi-A1--5009.aspx",
+        "quote": "Sở VHTTDL Điện Biên ('Di tích đồi A1', 2012): đồi A1 cách Sở chỉ huy tập đoàn cứ điểm Điện Biên Phủ của thực dân Pháp khoảng 500 m về phía Tây theo đường chim bay.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dien-bien-4687746.html",
+        "quote": "VnExpress, Cẩm nang du lịch Điện Biên (21/12/2023, cập nhật cùng ngày 15:25): hầm chỉ huy của tướng Đờ Cát ở trung tâm tập đoàn cứ điểm, thuộc cánh đồng Mường Thanh, 'nằm cách đồi A1 khoảng 1 km'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/su-dung-phan-mem-quan-ly-thu-phi-tham-quan-bang-bien-lai-dien-tu-post1055686.html",
+        "quote": "Báo Tin tức (TTXVN), 27/02/2024: thu phí tham quan bằng biên lai điện tử tại 4 điểm gồm Đồi A1, Tượng đài Chiến thắng, Hầm Đờ Cát và Sở Chỉ huy Chiến dịch ở Mường Phăng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2019-12-11/Nhung-goi-y-khi-toi-tham-quan-Bao-tang-va-Di-tich-emhw5cf7uttj.aspx",
+        "quote": "Sở VHTTDL Điện Biên (10/10/2019): giá vé mỗi điểm di tích 15.000 đồng/người/lượt từ giữa 2013 (QĐ 06/2013/QĐ-UBND); NQ 61/2017/NQ-HĐND miễn cho người dưới 18 tuổi, cựu chiến binh, người có công...; giảm 50% cho người cao tuổi, người khuyết tật; cần xuất trình giấy tờ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dulichtaybac.vn/diem-den/dien-bien/gia-ve-tham-quan-mot-so-diem-du-lich-tren-dia-ban-tinh-dien-bien",
+        "quote": "TT XTDL Điện Biên (dulichtaybac.vn, 27/10/2022): vé các điểm di tích Chiến trường Điện Biên Phủ 25.000 đồng/điểm/người, trong 4 điểm thu vé có Hầm Đờ Cát; miễn cựu chiến binh, người dưới 18 tuổi; 50% với người trên 60 tuổi.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00388"
+  }
+}

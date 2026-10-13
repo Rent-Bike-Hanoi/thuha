@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w11e",
+  "queued": "2026-10-13T15:52:36.575201+00:00",
+  "topic": {
+    "topic_id": "TM-00397",
+    "url": "/du-lich/muong-lo-nghia-lo/",
+    "title": "Mường Lò Nghĩa Lộ: cánh đồng lớn thứ hai Tây Bắc, lễ hội tháng 10, cách đi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "mường lò nghĩa lộ",
+    "secondary_keywords": [
+      "cánh đồng mường lò",
+      "lễ hội mường lò 2026",
+      "nghĩa lộ có gì chơi",
+      "xòe thái nghĩa lộ",
+      "nghĩa lộ đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi QL32 lên Mù Cang Chải thường chỉ ngủ một đêm ở Nghĩa Lộ; họ muốn biết Mường Lò có gì đáng dừng lại, mùa lúa chín lúc nào và lịch Lễ hội Mường Lò 2026 (vé, địa điểm).",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ coi Nghĩa Lộ là điểm ngủ đêm 'giữa cánh đồng Mường Lò' và không nói gì thêm. Bài này thêm: Mường Lò là cánh đồng lớn thứ hai Tây Bắc ('Nhất Thanh, nhì Lò'), cách TP Yên Bái chừng 80 km, đẹp nhất giữa tháng 9–đầu tháng 10 (VnExpress); lịch Lễ hội Văn hóa, Du lịch Mường Lò 2026 đã dời sang 16–21/10, khai mạc 20 giờ 16/10 tại sân vận động Nghĩa Lộ với Đại Xòe 2.026 người, diễu diễn 17h30–19h trên trục Điện Biên – Nguyễn Quang Bích, Hội chợ 15–21/10 ở quảng trường Gold Field (Báo Lào Cai 13/10/2026, Nhân Dân 6/10); vé khai mạc miễn phí, phát từ 8h 14/10; và tình trạng QL32 sau mưa 9/2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/muong-lo-canh-dong-lua-lon-thu-hai-tay-bac-3642014.html",
+        "quote": "VnExpress, 18/09/2017: thung lũng Mường Lò cách TP Yên Bái chừng 80 km về phía tây, bao trọn thị xã Nghĩa Lộ và một vài xã của huyện Văn Chấn; 'Nhất Thanh, nhì Lò, tam Than, tứ Tấc', Mường Lò là cánh đồng lúa lớn thứ hai Tây Bắc; 12 dân tộc, người Thái chiếm đa số; đẹp nhất từ giữa tháng 9 đến đầu tháng 10; quãng đường chừng 200 km trên QL32: Hà Nội – Sơn Tây – cầu Trung Hà – Thanh Sơn – Tân Sơn – Thu Cúc – Văn Chấn – Nghĩa Lộ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ra-soat-tien-do-to-chuc-le-hoi-van-hoa-du-lich-muong-lo-nam-2026-post911856.html",
+        "quote": "Báo Lào Cai, 13/10/2026: Lễ hội Văn hóa, Du lịch Mường Lò năm 2026 chủ đề 'Tinh hoa Xòe Thái - Sắc màu Tây Bắc', dự kiến khai mạc 20 giờ ngày 16/10/2026 tại Sân vận động Nghĩa Lộ, màn Đại Xòe 2.026 người; diễu diễn đường phố 17 giờ 30 đến 19 giờ ngày 16/10 trên trục đường Điện Biên - Nguyễn Quang Bích; Hội chợ Du lịch Tây Bắc và không gian OCOP 15–21/10 tại Quảng trường Gold Field; sân vận động trên 11.000 chỗ ngồi; múa xòe các tối 16, 17, 18/10.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/thong-bao-ve-viec-phat-ve-tham-du-le-khai-mac-le-hoi-van-hoa-du-lich-muong-lo-nam-2026-post911525.html",
+        "quote": "Báo Lào Cai, Thông báo của Ban Tổ chức (09/10/2026): 'Vé tham dự Lễ khai mạc hoàn toàn miễn phí, không mua bán dưới bất kỳ hình thức nào'; phát vé từ 08h00 ngày 14/10/2026 đến khi hết; điểm phát ở phường Yên Bái (Quảng trường 19/8, Km5) và phường Nghĩa Lộ (Quảng trường Gold Field, Khách sạn Hoàng Long, Khách sạn Nghĩa Lộ, Nhà thờ Nghĩa Lộ); du khách đăng ký qua công ty lữ hành, khách sạn, cơ sở lưu trú.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/le-hoi-van-hoa-du-lich-muong-lo-tinh-hoa-xoe-thai-sac-mau-tay-bac-post993280.html",
+        "quote": "Báo Nhân Dân, 06/10/2026: lễ hội tổ chức từ 16/10 đến 21/10/2026, gắn kỷ niệm 5 năm Nghệ thuật Xòe Thái được UNESCO ghi danh; trong tháng 10/2026 có trải nghiệm 'Một ngày sống cùng bản Thái', du lịch cộng đồng tại phường Nghĩa Lộ, thi đấu thể thao dân tộc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/mua-lon-gay-sat-lo-nhieu-tuyen-duong-tai-lao-cai-post1136383.vnp",
+        "quote": "VietnamPlus, 15/09/2026: mưa đêm 14 đến ngày 15/9 gây sạt lở tại Km265+900 QL32 (xã Tú Lệ), đã thông xe 16 giờ cùng ngày; QL32 có sạt taluy dương tại 6 vị trí; nhiều đường tỉnh hư hỏng lề tại 75 vị trí, mặt đường tại 60 vị trí.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1673-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-lao-cai-nam-2025-119250616214156071.htm",
+        "quote": "Toàn văn Nghị quyết 1673/NQ-UBTVQH15 (16/6/2025) trên xaydungchinhsach.chinhphu.vn: Điều 1 khoản 82 sắp xếp phường Tân An, phường Pú Trạng, xã Nghĩa An và xã Nghĩa Sơn thành phường Nghĩa Lộ; khoản 83 lập phường Trung Tâm (gồm cả xã Nghĩa Lộ cũ); chính quyền mới hoạt động từ 01/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 50,
+        "checked": "2026-10-13",
+        "keyword": "mường lò nghĩa lộ"
+      }
+    ],
+    "notes": "Lịch lễ hội ĐÃ ĐỔI: VietnamPlus/Cổng Nghĩa Lộ 8/2026 ghi 25/9–2/10; Báo Lào Cai 12/9 ghi 'Tuần Văn hóa 1–7/10'; nguồn mới nhất (Báo Lào Cai 13/10/2026, Nhân Dân 6/10) ghi 16–21/10, khai mạc 20h 16/10 — chỉ dùng lịch mới, ghi 'theo Ban tổ chức tại thời điểm 13/10/2026'. Chưa có nguồn chính thức về phân luồng giao thông, cấm xe máy quanh sân vận động 16/10 — khuyên gửi xe xa, đi bộ vào. Khoảng cách 'chừng 200 km' Hà Nội – Nghĩa Lộ là số của VnExpress 2017 (ô tô/chung), không phải đo xe máy. Không ghi giá phòng; khách sạn kín dịp lễ. Biên tập: tiêu đề bền, mốc ngày cụ thể chỉ ghi trong thân bài kèm nguồn và ngày.",
+    "outline": [
+      "Mường Lò ở đâu và vì sao 'Nhất Thanh, nhì Lò'",
+      "Đi xe máy QL32 tới Nghĩa Lộ: lộ trình theo nguồn và tình trạng đường tháng 9/2026",
+      "Mùa lúa chín giữa tháng 9 – đầu tháng 10 và chỗ ngắm cánh đồng",
+      "Lễ hội Mường Lò 2026 (16–21/10): khai mạc, Đại Xòe, hội chợ, vé miễn phí",
+      "Gửi xe, đi bộ và an toàn khi đông người dịp lễ hội",
+      "Từ Nghĩa Lộ đi tiếp: Tú Lệ – Mù Cang Chải, Suối Giàng, Trạm Tấu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/ta-xua-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00397.json",
+  "draft_template": {
+    "id": "TM-00397",
+    "url": "/du-lich/muong-lo-nghia-lo/",
+    "title": "Mường Lò Nghĩa Lộ: cánh đồng lớn thứ hai Tây Bắc, lễ hội tháng 10, cách đi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "mường lò nghĩa lộ, cánh đồng mường lò, lễ hội mường lò 2026, nghĩa lộ có gì chơi, xòe thái nghĩa lộ, nghĩa lộ đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Mường Lò ở đâu và vì sao 'Nhất Thanh, nhì Lò'",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy QL32 tới Nghĩa Lộ: lộ trình theo nguồn và tình trạng đường tháng 9/2026",
+        "<p></p>"
+      ],
+      [
+        "Mùa lúa chín giữa tháng 9 – đầu tháng 10 và chỗ ngắm cánh đồng",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Mường Lò 2026 (16–21/10): khai mạc, Đại Xòe, hội chợ, vé miễn phí",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe, đi bộ và an toàn khi đông người dịp lễ hội",
+        "<p></p>"
+      ],
+      [
+        "Từ Nghĩa Lộ đi tiếp: Tú Lệ – Mù Cang Chải, Suối Giàng, Trạm Tấu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/muong-lo-canh-dong-lua-lon-thu-hai-tay-bac-3642014.html",
+        "quote": "VnExpress, 18/09/2017: thung lũng Mường Lò cách TP Yên Bái chừng 80 km về phía tây, bao trọn thị xã Nghĩa Lộ và một vài xã của huyện Văn Chấn; 'Nhất Thanh, nhì Lò, tam Than, tứ Tấc', Mường Lò là cánh đồng lúa lớn thứ hai Tây Bắc; 12 dân tộc, người Thái chiếm đa số; đẹp nhất từ giữa tháng 9 đến đầu tháng 10; quãng đường chừng 200 km trên QL32: Hà Nội – Sơn Tây – cầu Trung Hà – Thanh Sơn – Tân Sơn – Thu Cúc – Văn Chấn – Nghĩa Lộ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ra-soat-tien-do-to-chuc-le-hoi-van-hoa-du-lich-muong-lo-nam-2026-post911856.html",
+        "quote": "Báo Lào Cai, 13/10/2026: Lễ hội Văn hóa, Du lịch Mường Lò năm 2026 chủ đề 'Tinh hoa Xòe Thái - Sắc màu Tây Bắc', dự kiến khai mạc 20 giờ ngày 16/10/2026 tại Sân vận động Nghĩa Lộ, màn Đại Xòe 2.026 người; diễu diễn đường phố 17 giờ 30 đến 19 giờ ngày 16/10 trên trục đường Điện Biên - Nguyễn Quang Bích; Hội chợ Du lịch Tây Bắc và không gian OCOP 15–21/10 tại Quảng trường Gold Field; sân vận động trên 11.000 chỗ ngồi; múa xòe các tối 16, 17, 18/10.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/thong-bao-ve-viec-phat-ve-tham-du-le-khai-mac-le-hoi-van-hoa-du-lich-muong-lo-nam-2026-post911525.html",
+        "quote": "Báo Lào Cai, Thông báo của Ban Tổ chức (09/10/2026): 'Vé tham dự Lễ khai mạc hoàn toàn miễn phí, không mua bán dưới bất kỳ hình thức nào'; phát vé từ 08h00 ngày 14/10/2026 đến khi hết; điểm phát ở phường Yên Bái (Quảng trường 19/8, Km5) và phường Nghĩa Lộ (Quảng trường Gold Field, Khách sạn Hoàng Long, Khách sạn Nghĩa Lộ, Nhà thờ Nghĩa Lộ); du khách đăng ký qua công ty lữ hành, khách sạn, cơ sở lưu trú.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/le-hoi-van-hoa-du-lich-muong-lo-tinh-hoa-xoe-thai-sac-mau-tay-bac-post993280.html",
+        "quote": "Báo Nhân Dân, 06/10/2026: lễ hội tổ chức từ 16/10 đến 21/10/2026, gắn kỷ niệm 5 năm Nghệ thuật Xòe Thái được UNESCO ghi danh; trong tháng 10/2026 có trải nghiệm 'Một ngày sống cùng bản Thái', du lịch cộng đồng tại phường Nghĩa Lộ, thi đấu thể thao dân tộc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/mua-lon-gay-sat-lo-nhieu-tuyen-duong-tai-lao-cai-post1136383.vnp",
+        "quote": "VietnamPlus, 15/09/2026: mưa đêm 14 đến ngày 15/9 gây sạt lở tại Km265+900 QL32 (xã Tú Lệ), đã thông xe 16 giờ cùng ngày; QL32 có sạt taluy dương tại 6 vị trí; nhiều đường tỉnh hư hỏng lề tại 75 vị trí, mặt đường tại 60 vị trí.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1673-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-lao-cai-nam-2025-119250616214156071.htm",
+        "quote": "Toàn văn Nghị quyết 1673/NQ-UBTVQH15 (16/6/2025) trên xaydungchinhsach.chinhphu.vn: Điều 1 khoản 82 sắp xếp phường Tân An, phường Pú Trạng, xã Nghĩa An và xã Nghĩa Sơn thành phường Nghĩa Lộ; khoản 83 lập phường Trung Tâm (gồm cả xã Nghĩa Lộ cũ); chính quyền mới hoạt động từ 01/7/2025.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00397"
+  }
+}

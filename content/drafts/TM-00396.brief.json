@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w11e",
+  "queued": "2026-10-13T15:52:36.574643+00:00",
+  "topic": {
+    "topic_id": "TM-00396",
+    "url": "/du-lich/ky-quan-san-bat-xat/",
+    "title": "Ky Quan San (Bạch Mộc Lương Tử) 3.046 m: lối Bát Xát, cấm leo tự phát 2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ky quan san",
+    "secondary_keywords": [
+      "bạch mộc lương tử",
+      "kỳ quan san bát xát",
+      "leo bạch mộc lương tử",
+      "vườn quốc gia bát xát cấm trekking",
+      "sàng ma sáo"
+    ],
+    "intent": "informational",
+    "user_problem": "Người định chạy xe máy lên Bát Xát (Lào Cai) để leo Ky Quan San cần biết đỉnh ở đâu, đi từ hướng nào, mất mấy ngày và quy định 2026 của Vườn quốc gia Bát Xát về cấm trekking tự phát.",
+    "information_gain": "/du-lich/y-ty-lao-cai/ có nhắc đỉnh Lảo Thẩn và đường Bát Xát – Y Tý nhưng không nói gì về leo núi hay quy định rừng. Bài này thêm: Ky Quan San 3.046 m, hai hướng lên (Sàng Ma Sáo – Bát Xát, dễ hơn; Dền Sung – Sin Suối Hồ, Lai Châu, hiểm trở hơn), khoảng 30 km chân núi – đỉnh, 3 ngày 2 đêm, lán 2.100 m gần đỉnh núi Muối (Nhân Dân); quyết định chuyển Khu bảo tồn thành VQG Bát Xát (3/2026, 18.510 ha, 3 xã Mường Hum, Dền Sáng, Y Tý); lệnh cấm trekking tự phát công bố 5/2026; tạm dừng 14–20/4/2026 vì cháy rừng cấp V; hướng dẫn an toàn du lịch của Sở VHTTDL Lào Cai (văn bản 2801 ngày 7/8/2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/chinh-phuc-dinh-nui-cao-3046-m-post612032.html",
+        "quote": "Báo Nhân Dân, 08/08/2020: đỉnh Bạch Mộc Lương Tử (dãy Ky Quan San) cao 3.046 m, giữa Lai Châu và Lào Cai, được khai phá từ năm 2012; hai hướng: dễ hơn từ xã Sàng Ma Sáo, huyện Bát Xát (Lào Cai), hiểm trở hơn từ bản Dền Sung, xã Sin Suối Hồ, huyện Phong Thổ (Lai Châu); đoàn đi từ Sa Pa gần hai giờ chạy xe tới điểm tập kết Sàng Ma Sáo; hành trình 3 ngày 2 đêm, chân núi lên đỉnh khoảng 30 km; lán nghỉ đêm ở độ cao 2.100 m gần đỉnh núi Muối.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/saigontimes/cam-trekking-tu-phat-loat-dinh-nui-noi-tieng-o-mien-bac-1061229857.htm",
+        "quote": "Tuổi Trẻ Online (KTSG Online), 18/05/2026: Ban Quản lý VQG Bát Xát cấm leo núi, trekking, hiking tự phát tại Lảo Thẩn, Ky Quan San, Cú Nhù San, Nhìu Cồ San, Putaleng, Vân Sam; tự ý vào rừng khi chưa khai báo hoặc chưa được cấp phép là vi phạm; tạm dừng du lịch 14–20/4 do cháy rừng cấp V; doanh nghiệp tạm dừng tour, dự kiến mở lại khoảng tháng 9 hoặc 10; tháng 3 UBND tỉnh Lào Cai chuyển hạng Khu bảo tồn thiên nhiên Bát Xát thành VQG Bát Xát, khoảng 18.510 ha trên 3 xã Mường Hum, Dền Sáng, Y Tý (phân khu bảo vệ nghiêm ngặt gần 14.700 ha).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vntravel.org.vn/siet-viec-trekking-tu-phat-cua-du-khach-tai-cac-dinh-nui-cao-nhat-viet-nam-a8815.html",
+        "quote": "Tạp chí Du lịch Việt Nam điện tử (vntravel.org.vn), 17/05/2026: BQL VQG Bát Xát 'chính thức nghiêm cấm các hoạt động leo núi, trekking, hiking tự phát' tại Lảo Thẩn, Ky Quan San, Nhìu Cồ San, Putaleng, Vân Sam; nhiều khu vực không có sóng điện thoại; giới hạn số lượng khách, đăng ký lộ trình, tuân thủ kiểm lâm, dùng người dẫn đường địa phương đang trở thành yêu cầu bắt buộc tại nhiều khu vực.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vntravel.org.vn/lao-cai-chu-dong-bao-dam-an-toan-cho-du-khach-mua-mua-bao-cach-lam-chuyen-nghiep-de-giu-vung-hinh-anh-diem-den-a9436.html",
+        "quote": "vntravel.org.vn, 09/08/2026: ngày 7/8/2026 Sở VHTTDL tỉnh Lào Cai ban hành Văn bản số 2801/VHTTDL-QLPTDL kèm Hướng dẫn bảo đảm an toàn trong hoạt động du lịch; với tuyến trekking, leo núi phải phân loại độ khó, cập nhật cảnh báo thời tiết, kiểm tra sức khỏe khách, có liên lạc khẩn cấp và phương án cứu hộ; khuyến cáo du khách không tự ý chinh phục các cung trekking khi có cảnh báo mưa lớn, chọn doanh nghiệp lữ hành, hướng dẫn viên được cấp phép.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://laichau.gov.vn/du-khach/trekking-noc-nha-dong-duong-pu-ta-leng.html",
+        "quote": "Cổng TTĐT Lai Châu (7/10/2024), bài về Pu Ta Leng: so sánh các cung — 'Ky Quan San đặt ra thử thách vì độ khó cao'; porter địa phương là người dẫn đường cần thiết kể cả ở cung dễ nhất.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1673-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-lao-cai-nam-2025-119250616214156071.htm",
+        "quote": "Toàn văn Nghị quyết 1673/NQ-UBTVQH15 (16/6/2025): Điều 1 khoản 47 sắp xếp các xã Dền Thàng, Sàng Ma Sáo và Dền Sáng thành xã Dền Sáng; khoản 46 gộp Nậm Pung, Trung Lèng Hồ, Mường Hum thành xã Mường Hum; khoản 52 lập xã Bát Xát; tỉnh Lào Cai.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 880,
+        "checked": "2026-10-13",
+        "keyword": "ky quan san"
+      }
+    ],
+    "notes": "Báo chí dẫn 'Điều 11 Nghị định 168/2024/NĐ-CP' cho mức phạt 4–6 triệu khi vào rừng không phép và 6–10 triệu khi cắm trại trong phân khu nghiêm ngặt: SỐ HIỆU SAI (đã đọc toàn văn NĐ 168/2024 trên chinhphu.vn: đây là nghị định giao thông, Điều 11 về vật nuôi kéo xe). Không trích mức phạt hay số nghị định; chỉ viết 'có thể bị xử phạt hành chính theo thông báo của BQL VQG'. CHƯA xác minh tour đã mở lại sau tháng 9/2026 hay chưa — ghi rõ. Sàng Ma Sáo nay thuộc xã Dền Sáng (NQ 1673 khoản 47, đã đọc toàn văn); 'huyện Bát Xát' không còn — viết 'khu vực Bát Xát cũ'. Không ghi giá tour, số điện thoại porter, không hướng dẫn tự leo. Không chép số độ cao lán khác ngoài 2.100 m. Xe máy: từ Hà Nội không vào cao tốc Nội Bài – Lào Cai; gửi xe 3 ngày tại điểm tập kết phải thỏa thuận rõ (chưa có nguồn về bãi gửi).",
+    "outline": [
+      "Ky Quan San (Bạch Mộc Lương Tử) ở đâu, cao bao nhiêu",
+      "Vườn quốc gia Bát Xát 2026: cấm trekking tự phát, khai báo, tạm dừng mùa cháy rừng",
+      "Hai hướng lên: Bát Xát (Lào Cai) và Dền Sung (Lai Châu)",
+      "Lịch 3 ngày 2 đêm: lán 2.100 m, núi Muối, sống lưng đỉnh",
+      "Chạy xe máy tới điểm tập kết và gửi xe nhiều ngày",
+      "Mùa đi, an toàn mùa mưa theo hướng dẫn của Lào Cai"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/y-ty-lao-cai/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/cap-treo-fansipan/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00396.json",
+  "draft_template": {
+    "id": "TM-00396",
+    "url": "/du-lich/ky-quan-san-bat-xat/",
+    "title": "Ky Quan San (Bạch Mộc Lương Tử) 3.046 m: lối Bát Xát, cấm leo tự phát 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ky quan san, bạch mộc lương tử, kỳ quan san bát xát, leo bạch mộc lương tử, vườn quốc gia bát xát cấm trekking, sàng ma sáo",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ky Quan San (Bạch Mộc Lương Tử) ở đâu, cao bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Vườn quốc gia Bát Xát 2026: cấm trekking tự phát, khai báo, tạm dừng mùa cháy rừng",
+        "<p></p>"
+      ],
+      [
+        "Hai hướng lên: Bát Xát (Lào Cai) và Dền Sung (Lai Châu)",
+        "<p></p>"
+      ],
+      [
+        "Lịch 3 ngày 2 đêm: lán 2.100 m, núi Muối, sống lưng đỉnh",
+        "<p></p>"
+      ],
+      [
+        "Chạy xe máy tới điểm tập kết và gửi xe nhiều ngày",
+        "<p></p>"
+      ],
+      [
+        "Mùa đi, an toàn mùa mưa theo hướng dẫn của Lào Cai",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/chinh-phuc-dinh-nui-cao-3046-m-post612032.html",
+        "quote": "Báo Nhân Dân, 08/08/2020: đỉnh Bạch Mộc Lương Tử (dãy Ky Quan San) cao 3.046 m, giữa Lai Châu và Lào Cai, được khai phá từ năm 2012; hai hướng: dễ hơn từ xã Sàng Ma Sáo, huyện Bát Xát (Lào Cai), hiểm trở hơn từ bản Dền Sung, xã Sin Suối Hồ, huyện Phong Thổ (Lai Châu); đoàn đi từ Sa Pa gần hai giờ chạy xe tới điểm tập kết Sàng Ma Sáo; hành trình 3 ngày 2 đêm, chân núi lên đỉnh khoảng 30 km; lán nghỉ đêm ở độ cao 2.100 m gần đỉnh núi Muối.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/saigontimes/cam-trekking-tu-phat-loat-dinh-nui-noi-tieng-o-mien-bac-1061229857.htm",
+        "quote": "Tuổi Trẻ Online (KTSG Online), 18/05/2026: Ban Quản lý VQG Bát Xát cấm leo núi, trekking, hiking tự phát tại Lảo Thẩn, Ky Quan San, Cú Nhù San, Nhìu Cồ San, Putaleng, Vân Sam; tự ý vào rừng khi chưa khai báo hoặc chưa được cấp phép là vi phạm; tạm dừng du lịch 14–20/4 do cháy rừng cấp V; doanh nghiệp tạm dừng tour, dự kiến mở lại khoảng tháng 9 hoặc 10; tháng 3 UBND tỉnh Lào Cai chuyển hạng Khu bảo tồn thiên nhiên Bát Xát thành VQG Bát Xát, khoảng 18.510 ha trên 3 xã Mường Hum, Dền Sáng, Y Tý (phân khu bảo vệ nghiêm ngặt gần 14.700 ha).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vntravel.org.vn/siet-viec-trekking-tu-phat-cua-du-khach-tai-cac-dinh-nui-cao-nhat-viet-nam-a8815.html",
+        "quote": "Tạp chí Du lịch Việt Nam điện tử (vntravel.org.vn), 17/05/2026: BQL VQG Bát Xát 'chính thức nghiêm cấm các hoạt động leo núi, trekking, hiking tự phát' tại Lảo Thẩn, Ky Quan San, Nhìu Cồ San, Putaleng, Vân Sam; nhiều khu vực không có sóng điện thoại; giới hạn số lượng khách, đăng ký lộ trình, tuân thủ kiểm lâm, dùng người dẫn đường địa phương đang trở thành yêu cầu bắt buộc tại nhiều khu vực.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vntravel.org.vn/lao-cai-chu-dong-bao-dam-an-toan-cho-du-khach-mua-mua-bao-cach-lam-chuyen-nghiep-de-giu-vung-hinh-anh-diem-den-a9436.html",
+        "quote": "vntravel.org.vn, 09/08/2026: ngày 7/8/2026 Sở VHTTDL tỉnh Lào Cai ban hành Văn bản số 2801/VHTTDL-QLPTDL kèm Hướng dẫn bảo đảm an toàn trong hoạt động du lịch; với tuyến trekking, leo núi phải phân loại độ khó, cập nhật cảnh báo thời tiết, kiểm tra sức khỏe khách, có liên lạc khẩn cấp và phương án cứu hộ; khuyến cáo du khách không tự ý chinh phục các cung trekking khi có cảnh báo mưa lớn, chọn doanh nghiệp lữ hành, hướng dẫn viên được cấp phép.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://laichau.gov.vn/du-khach/trekking-noc-nha-dong-duong-pu-ta-leng.html",
+        "quote": "Cổng TTĐT Lai Châu (7/10/2024), bài về Pu Ta Leng: so sánh các cung — 'Ky Quan San đặt ra thử thách vì độ khó cao'; porter địa phương là người dẫn đường cần thiết kể cả ở cung dễ nhất.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-quyet-so-1673-nq-ubtvqh15-sap-xep-cac-dvhc-cap-xa-cua-tinh-lao-cai-nam-2025-119250616214156071.htm",
+        "quote": "Toàn văn Nghị quyết 1673/NQ-UBTVQH15 (16/6/2025): Điều 1 khoản 47 sắp xếp các xã Dền Thàng, Sàng Ma Sáo và Dền Sáng thành xã Dền Sáng; khoản 46 gộp Nậm Pung, Trung Lèng Hồ, Mường Hum thành xã Mường Hum; khoản 52 lập xã Bát Xát; tỉnh Lào Cai.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00396"
+  }
+}

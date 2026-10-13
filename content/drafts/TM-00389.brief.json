@@ -1,0 +1,184 @@
+{
+  "writer": "writer-w11d",
+  "queued": "2026-10-13T15:52:36.415722+00:00",
+  "topic": {
+    "topic_id": "TM-00389",
+    "url": "/du-lich/so-chi-huy-muong-phang/",
+    "title": "Sở chỉ huy Mường Phăng: đường xe máy từ TP Điện Biên, hầm 69 m, Pá Khoang",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "sở chỉ huy mường phăng",
+    "secondary_keywords": [
+      "di tích mường phăng",
+      "sở chỉ huy chiến dịch điện biên phủ",
+      "mường phăng cách điện biên bao xa",
+      "hồ pá khoang",
+      "lán đại tướng võ nguyên giáp"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã ở TP Điện Biên Phủ muốn tự đi xe máy lên Sở chỉ huy chiến dịch ở Mường Phăng: cách bao xa, đường thế nào, trong rừng có gì, vé và kết hợp hồ Pá Khoang ra sao.",
+    "information_gain": "/du-lich/ha-noi-di-dien-bien-bang-xe-may/ chỉ ghi Mường Phăng 'cách thành phố hơn 30 km, nên dành riêng nửa ngày'. Bài này thêm: thời gian Bộ chỉ huy đóng quân 105 ngày (31/1–15/5/1954) dưới chân núi Pú Đồn, danh sách lán hầm theo thứ tự từ ngoài vào (Sở VHTTDL Điện Biên), đường bê tông xuyên rừng hơn 1 km và đường hầm 69 m cao 1,70 m có phòng họp 18 m² (Nhân Dân), hồ Pá Khoang cách TP 32 km đường ô tô ở độ cao 916 m (TT XTDL Điện Biên), chênh lệch khoảng cách 'hơn 30 km' và 'gần 40 km' giữa các nguồn, và điểm thu phí biên lai điện tử tại Mường Phăng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2012/So-chi-huy-chien-dich-8547.aspx",
+        "quote": "Sở VHTTDL Điện Biên, trang Di tích ('Sở chỉ huy chiến dịch', 08/6/2012): Bộ chỉ huy chiến dịch đóng tại Mường Phăng 105 ngày từ 31/1/1954 đến 15/5/1954; các cơ quan xây dọc con suối nhỏ quanh chân núi Pú Đồn; từ ngoài vào có trạm gác tiền tiêu, lán và hầm cơ quan thông tin, sĩ quan liên lạc, đoàn cố vấn, cơ quan chính trị, lán và hầm Đại tướng Võ Nguyên Giáp, đường hầm xuyên sơn, lán Tham mưu trưởng Hoàng Văn Thái, lán tác chiến, hội trường, nhà ăn, bếp Hoàng Cầm, lán Ban cơ yếu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ve-muong-phang-tham-so-chi-huy-chien-dich-dien-bien-phu-post644892.html",
+        "quote": "Báo Nhân Dân, 07/05/2021: Sở chỉ huy ở khu rừng già dưới chân núi Pú Đồn, xã Mường Phăng, cách TP Điện Biên Phủ gần 40 km; đường bê tông xuyên rừng dài hơn 1 km; đường hầm nối lán Đại tướng với lán Tham mưu trưởng và lán cố vấn dài 69 m, cao 1,70 m, rộng 1–3 m, giữa hầm có phòng họp 18 m² và 5 vị trí đặt máy thông tin; từ điểm cao nhất có thể nhìn thung lũng Mường Thanh và các đồi Him Lam, Độc Lập, D1, C1, A1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dien-bien-4687746.html",
+        "quote": "VnExpress, Cẩm nang du lịch Điện Biên (21/12/2023): Di tích Sở Chỉ huy Chiến dịch tại Mường Phăng nằm ở độ cao hơn 1.000 m, chân núi Pú Đồn, dưới tán rừng cổ thụ, 'cách trung tâm thành phố Điện Biên Phủ hơn 30 km'; ở Mường Phăng có vườn anh đào nở gần Tết trên đảo giữa hồ Pá Khoang.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://web.archive.org/web/20170427024925/http://dulichdienbien.vn/vi/dienbien-attractions/pa-khoang-diem-hen-rung-truc-dien-bien-4.html",
+        "quote": "Trung tâm Thông tin Xúc tiến Du lịch Điện Biên (bản lưu Wayback 26/4/2017 của dulichdienbien.vn): hồ Pá Khoang thuộc xã Mường Phăng, cách TP Điện Biên Phủ 32 km đường ô tô (khoảng 15 km đường chim bay) theo hướng Đông Bắc, trên bình độ 916 m; hồ dài 12 km, rộng 3 km; 'Pá Khoang' nghĩa là rừng trúc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/su-dung-phan-mem-quan-ly-thu-phi-tham-quan-bang-bien-lai-dien-tu-post1055686.html",
+        "quote": "Báo Tin tức (TTXVN), 27/02/2024: thu phí tham quan bằng biên lai điện tử tại 4 điểm, trong đó có Sở Chỉ huy Chiến dịch Điện Biên Phủ ở xã Mường Phăng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/mua-lon-gay-sat-lo-nhieu-tuyen-duong-o-dien-bien-lai-chau-bi-chia-cat-post1312812.vov",
+        "quote": "VOV, 06/07/2026: mưa do hoàn lưu bão số 1 gây sạt lở trên QL6 tại Km436+050 và các đường tỉnh 140B, 144 ở Điện Biên; cảnh báo nguy cơ lũ quét, sạt lở tiếp tục ở mức cao.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "sở chỉ huy mường phăng"
+      }
+    ],
+    "notes": "Khoảng cách mâu thuẫn: 'hơn 30 km' (VnExpress 2023), 32 km tới hồ Pá Khoang (TT XTDL, bản lưu 2017), 'gần 40 km' (Nhân Dân 2021); viết là 'khoảng 30–40 km tùy điểm xuất phát và nguồn', không chốt. Số hiệu đường từ TP vào Mường Phăng CHƯA xác minh; không ghi. Giá vé 2026 chưa xác minh (xem nguồn 15.000đ/25.000đ ở bài A1). Giờ mở cửa chưa có nguồn. Con số 'khoảng 90 km²' diện tích khu rừng trên trang Sở có thể là lỗi đơn vị — không dùng. Hồ Pá Khoang: không ghi giá thuyền, chưa có nguồn. Sau sắp xếp hành chính 2025, 'xã Mường Phăng' có thể đã gộp; giữ tên theo nguồn. Đường đèo rừng hẹp: đi ban ngày, trời khô; mùa mưa tháng 5–9 hay sạt lở.",
+    "outline": [
+      "Mường Phăng cách TP Điện Biên Phủ bao xa: các con số 30–40 km và vì sao khác",
+      "Đường xe máy lên Mường Phăng: đổ xăng, giờ đi, mùa mưa",
+      "105 ngày ở rừng Pú Đồn: thứ tự các lán hầm từ cổng vào",
+      "Đường hầm 69 m, lán Đại tướng, bếp Hoàng Cầm và điểm cao nhìn Mường Thanh",
+      "Ghé hồ Pá Khoang trên đường về",
+      "Vé, giờ và lưu ý khi tham quan di tích trong rừng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/ao-mua-di-xe-may/",
+      "/bao-duong/phanh-xe-may-keu-phanh-khong-an/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00389.json",
+  "draft_template": {
+    "id": "TM-00389",
+    "url": "/du-lich/so-chi-huy-muong-phang/",
+    "title": "Sở chỉ huy Mường Phăng: đường xe máy từ TP Điện Biên, hầm 69 m, Pá Khoang",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "sở chỉ huy mường phăng, di tích mường phăng, sở chỉ huy chiến dịch điện biên phủ, mường phăng cách điện biên bao xa, hồ pá khoang, lán đại tướng võ nguyên giáp",
+    "excerpt": "",
+    "sections": [
+      [
+        "Mường Phăng cách TP Điện Biên Phủ bao xa: các con số 30–40 km và vì sao khác",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy lên Mường Phăng: đổ xăng, giờ đi, mùa mưa",
+        "<p></p>"
+      ],
+      [
+        "105 ngày ở rừng Pú Đồn: thứ tự các lán hầm từ cổng vào",
+        "<p></p>"
+      ],
+      [
+        "Đường hầm 69 m, lán Đại tướng, bếp Hoàng Cầm và điểm cao nhìn Mường Thanh",
+        "<p></p>"
+      ],
+      [
+        "Ghé hồ Pá Khoang trên đường về",
+        "<p></p>"
+      ],
+      [
+        "Vé, giờ và lưu ý khi tham quan di tích trong rừng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/ditich/pages/2012/So-chi-huy-chien-dich-8547.aspx",
+        "quote": "Sở VHTTDL Điện Biên, trang Di tích ('Sở chỉ huy chiến dịch', 08/6/2012): Bộ chỉ huy chiến dịch đóng tại Mường Phăng 105 ngày từ 31/1/1954 đến 15/5/1954; các cơ quan xây dọc con suối nhỏ quanh chân núi Pú Đồn; từ ngoài vào có trạm gác tiền tiêu, lán và hầm cơ quan thông tin, sĩ quan liên lạc, đoàn cố vấn, cơ quan chính trị, lán và hầm Đại tướng Võ Nguyên Giáp, đường hầm xuyên sơn, lán Tham mưu trưởng Hoàng Văn Thái, lán tác chiến, hội trường, nhà ăn, bếp Hoàng Cầm, lán Ban cơ yếu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ve-muong-phang-tham-so-chi-huy-chien-dich-dien-bien-phu-post644892.html",
+        "quote": "Báo Nhân Dân, 07/05/2021: Sở chỉ huy ở khu rừng già dưới chân núi Pú Đồn, xã Mường Phăng, cách TP Điện Biên Phủ gần 40 km; đường bê tông xuyên rừng dài hơn 1 km; đường hầm nối lán Đại tướng với lán Tham mưu trưởng và lán cố vấn dài 69 m, cao 1,70 m, rộng 1–3 m, giữa hầm có phòng họp 18 m² và 5 vị trí đặt máy thông tin; từ điểm cao nhất có thể nhìn thung lũng Mường Thanh và các đồi Him Lam, Độc Lập, D1, C1, A1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dien-bien-4687746.html",
+        "quote": "VnExpress, Cẩm nang du lịch Điện Biên (21/12/2023): Di tích Sở Chỉ huy Chiến dịch tại Mường Phăng nằm ở độ cao hơn 1.000 m, chân núi Pú Đồn, dưới tán rừng cổ thụ, 'cách trung tâm thành phố Điện Biên Phủ hơn 30 km'; ở Mường Phăng có vườn anh đào nở gần Tết trên đảo giữa hồ Pá Khoang.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://web.archive.org/web/20170427024925/http://dulichdienbien.vn/vi/dienbien-attractions/pa-khoang-diem-hen-rung-truc-dien-bien-4.html",
+        "quote": "Trung tâm Thông tin Xúc tiến Du lịch Điện Biên (bản lưu Wayback 26/4/2017 của dulichdienbien.vn): hồ Pá Khoang thuộc xã Mường Phăng, cách TP Điện Biên Phủ 32 km đường ô tô (khoảng 15 km đường chim bay) theo hướng Đông Bắc, trên bình độ 916 m; hồ dài 12 km, rộng 3 km; 'Pá Khoang' nghĩa là rừng trúc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/su-dung-phan-mem-quan-ly-thu-phi-tham-quan-bang-bien-lai-dien-tu-post1055686.html",
+        "quote": "Báo Tin tức (TTXVN), 27/02/2024: thu phí tham quan bằng biên lai điện tử tại 4 điểm, trong đó có Sở Chỉ huy Chiến dịch Điện Biên Phủ ở xã Mường Phăng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/mua-lon-gay-sat-lo-nhieu-tuyen-duong-o-dien-bien-lai-chau-bi-chia-cat-post1312812.vov",
+        "quote": "VOV, 06/07/2026: mưa do hoàn lưu bão số 1 gây sạt lở trên QL6 tại Km436+050 và các đường tỉnh 140B, 144 ở Điện Biên; cảnh báo nguy cơ lũ quét, sạt lở tiếp tục ở mức cao.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00389"
+  }
+}
