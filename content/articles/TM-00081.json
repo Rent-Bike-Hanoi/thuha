@@ -9,7 +9,7 @@
   "title": "Trả xe máy thuê muộn tính phí thế nào? 20.000đ/giờ, quá 6 giờ tính một ngày",
   "art": "Trả muộn",
   "tone": "gold",
-  "keywords": "phí trả xe máy thuê muộn, trả xe máy thuê muộn, phí quá giờ thuê xe máy, thuê xe máy trả muộn tính tiền thế nào, một ngày thuê xe máy 24 giờ",
+  "keywords": "phí trả xe máy thuê muộn, trả xe máy thuê muộn, phí quá giờ thuê xe máy, thuê xe máy trả muộn tính tiền thế nào, một ngày thuê xe máy 24 giờ, thuê xe máy theo giờ",
   "excerpt": "Tại Nguyễn Hà, một ngày thuê là 24 giờ từ lúc nhận xe; trả muộn tính 20.000đ mỗi giờ, quá 6 giờ tính tròn thêm một ngày thuê. Cách tính, ví dụ cụ thể và cách báo trước để không mất phí.",
   "sections": [
     [
@@ -39,6 +39,10 @@
   ],
   "faqTitle": "Câu hỏi thường gặp về trả xe máy thuê muộn",
   "faq": [
+    [
+      "Có thuê xe máy theo giờ được không?",
+      "Có thể thuê để dùng vài giờ, nhưng cửa hàng không có giá theo giờ: theo chính sách, thuê theo giờ hoặc nửa ngày vẫn tính giá một ngày (24 giờ từ lúc nhận xe). Nếu chỉ cần xe vài giờ, cứ dùng trọn ngày thuê; trả sớm không được hoàn lại tiền đã thanh toán."
+    ],
     [
       "Trả xe muộn 1 tiếng có bị tính thêm không?",
       "Có, 20.000đ cho mỗi giờ trả muộn so với giờ nhận xe ghi trong hợp đồng."
