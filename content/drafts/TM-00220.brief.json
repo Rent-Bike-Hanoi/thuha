@@ -1,0 +1,164 @@
+{
+  "writer": "writer-w5a",
+  "queued": "2026-10-13T13:26:23.238697+00:00",
+  "topic": {
+    "topic_id": "TM-00220",
+    "url": "/du-lich/chua-quan-su/",
+    "title": "Chùa Quán Sứ: lịch sử, kiến trúc, trụ sở Giáo hội và cách đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa quán sứ",
+    "secondary_keywords": [
+      "chùa quán sứ ở đâu",
+      "73 quán sứ",
+      "lịch sử chùa quán sứ",
+      "chùa quán sứ trụ sở giáo hội phật giáo",
+      "đi lễ chùa quán sứ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ và khách tham quan muốn biết chùa Quán Sứ ở đâu, vì sao có tên này, kiến trúc có gì và khi nào chùa đông khách để sắp xếp thời gian.",
+    "information_gain": "Site chưa có bài về chùa Quán Sứ. Gần nhất là /du-lich/chua-tran-quoc/ và /du-lich/chua-mot-cot/ (chùa khác), /du-lich/nha-tu-hoa-lo/ và /du-lich/nha-tho-lon-ha-noi/ (điểm cùng khu trung tâm, không nói về chùa). Bài này thêm: địa chỉ 73 Quán Sứ; nguồn gốc tên gọi từ nhà quán đón sứ thần; các mốc 1934 (Tổng hội Phật giáo Bắc Kỳ), 1942 (trùng tu theo thiết kế KTS Nguyễn Ngọc Ngoạn và Nguyễn Xuân Tùng), 1980/1981 (trụ sở Trung ương Giáo hội) với chú thích chỗ các nguồn lệch nhau; kiến trúc tam quan gác chuông, chính điện cao hơn sân 1,8–1,9 m, 12 bậc; hiện vật (27 pho tượng, 5 quả chuông, 8 bia); và bài học đám đông dịp tôn trí xá lợi 14–16/5/2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-quan-su-quan-hoan-kiem-76698.html",
+        "quote": "Người Hà Nội, 'Chùa Quán Sứ (quận Hoàn Kiếm)' (Sơn Dương, 10/09/2023): 'số nhà 73 phố Quán Sứ, phường Trần Hưng Đạo, quận Hoàn Kiếm'; chùa dựng thế kỷ 15 cạnh nhà Quán Sứ để sứ thần Lão Qua, Chiêm Thành tụng kinh; tu sửa 1855, 1876, 1881; 1934 Hội Phật giáo Bắc Kỳ đặt trụ sở; 1935–1942 tòa soạn báo Đuốc Tuệ; 'Năm 1942, chùa được trùng tu lớn để làm trụ sở Trung ương Hội Phật giáo Việt Nam'; tam quan gác chuông kiểu chồng diêm ba tầng; chính điện cao khoảng 1,8 m so với sân, 12 bậc; 27 pho tượng tròn sơn son thếp vàng, 5 quả chuông đồng (3 quả thời Gia Long), 8 bia, 13 câu đối; thờ Phật và Lý Quốc Sư.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/chua-quan-su-tp-ha-noi-post2204.html",
+        "quote": "Giác Ngộ Online, 'Chùa Quán Sứ Tp Hà Nội' (17/12/2008): chùa ở số 73 phố Quán Sứ; năm 1942 xây lại 'theo bản vẽ thiết kế của hai kiến trúc sư Nguyễn Ngọc Ngoạn và Nguyễn Xuân Tùng'; tam quan có gác chuông ở giữa; chính điện cao 1,9 m so với sân, mặt tiền 7 gian; hiện là trụ sở Trung ương Giáo hội Phật giáo Việt Nam.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chua-hon-500-nam-tuoi-o-ha-noi-ruoc-xa-loi-duc-phat-4882802.html",
+        "quote": "VnExpress, 'Chùa hơn 500 năm tuổi ở Hà Nội rước xá lợi Đức Phật' (08/05/2025): 'Chùa Quán Sứ có từ thế kỷ 16', theo Hoàng Lê Nhất Thống Chí vua Lê Thế Tông dựng nhà Quán Sứ đón sứ thần, sau dựng chùa trong khuôn viên; từ năm 1981 là trụ sở Trung ương Giáo hội Phật giáo Việt Nam; chùa thường ít khách du lịch, chủ yếu phục vụ người đi lễ; dự kiến 'hàng triệu lượt người' chiêm bái xá lợi trong ba ngày 14–16/5/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/ngoi-chua-hon-500-nam-tuoi-o-ha-noi-truoc-ngay-cung-nghinh-xa-loi-phat-185250512003603269.htm",
+        "quote": "Thanh Niên, 'Ngôi chùa hơn 500 năm tuổi ở Hà Nội trước ngày cung nghinh xá lợi Phật' (Đình Huy, 12/05/2025): địa chỉ 'số 73 phố Quán Sứ, P.Trần Hưng Đạo, Q.Hoàn Kiếm'; xây từ thế kỷ 15, trùng tu năm 1942; 'năm 1980 trở thành trụ sở T.Ư của Giáo hội Phật giáo Việt Nam'; xá lợi tôn trí tại tầng 1 hội trường chùa từ 13 đến 16/5/2025; khách xếp hàng từ Cung Văn hóa Hữu nghị Việt – Xô rồi đi bộ vào chùa, không cần đăng ký trước.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 18100,
+        "checked": "2026-10-13",
+        "keyword": "chùa quán sứ"
+      }
+    ],
+    "notes": "Các nguồn lệch nhau: niên đại thế kỷ 15 (Người Hà Nội, Thanh Niên) hay thế kỷ 16 (VnExpress); trở thành trụ sở Trung ương Giáo hội năm 1980 (Thanh Niên) hay 1981 (VnExpress); chính điện cao 1,8 m (Người Hà Nội) hay 1,9 m (Giác Ngộ) — viết kèm nguồn, không gộp. Giờ mở cửa chùa: không có nguồn. Tên phường mới sau sắp xếp 2025 chưa có nguồn đã fetch (các bài ghi phường Trần Hưng Đạo, quận Hoàn Kiếm cũ) — chỉ ghi 'số 73 phố Quán Sứ'. Chùa không nằm trong danh sách đường bao khu vực 1 vùng phát thải thấp; không cần nhắc lệnh cấm. Chỗ gửi xe máy, phí gửi: chưa có nguồn. Dịp xá lợi 2025 là sự kiện đã qua, chỉ dùng làm ví dụ ngày đông. Không ghi km từ Long Biên.",
+    "outline": [
+      "Chùa Quán Sứ ở đâu: số 73 phố Quán Sứ",
+      "Vì sao gọi là Quán Sứ: nhà quán đón sứ thần thời Lê",
+      "Các mốc 1934, 1942 và trụ sở Giáo hội Phật giáo Việt Nam",
+      "Kiến trúc và hiện vật: tam quan gác chuông, chính điện, tượng, chuông",
+      "Khi nào chùa đông: bài học từ dịp tôn trí xá lợi 5/2025",
+      "Đi xe máy và ghép lịch với Hỏa Lò, Nhà thờ Lớn",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tu-hoa-lo/",
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/ha-noi/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00220.json",
+  "draft_template": {
+    "id": "TM-00220",
+    "url": "/du-lich/chua-quan-su/",
+    "title": "Chùa Quán Sứ: lịch sử, kiến trúc, trụ sở Giáo hội và cách đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa quán sứ, chùa quán sứ ở đâu, 73 quán sứ, lịch sử chùa quán sứ, chùa quán sứ trụ sở giáo hội phật giáo, đi lễ chùa quán sứ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Quán Sứ ở đâu: số 73 phố Quán Sứ",
+        "<p></p>"
+      ],
+      [
+        "Vì sao gọi là Quán Sứ: nhà quán đón sứ thần thời Lê",
+        "<p></p>"
+      ],
+      [
+        "Các mốc 1934, 1942 và trụ sở Giáo hội Phật giáo Việt Nam",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc và hiện vật: tam quan gác chuông, chính điện, tượng, chuông",
+        "<p></p>"
+      ],
+      [
+        "Khi nào chùa đông: bài học từ dịp tôn trí xá lợi 5/2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và ghép lịch với Hỏa Lò, Nhà thờ Lớn",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-quan-su-quan-hoan-kiem-76698.html",
+        "quote": "Người Hà Nội, 'Chùa Quán Sứ (quận Hoàn Kiếm)' (Sơn Dương, 10/09/2023): 'số nhà 73 phố Quán Sứ, phường Trần Hưng Đạo, quận Hoàn Kiếm'; chùa dựng thế kỷ 15 cạnh nhà Quán Sứ để sứ thần Lão Qua, Chiêm Thành tụng kinh; tu sửa 1855, 1876, 1881; 1934 Hội Phật giáo Bắc Kỳ đặt trụ sở; 1935–1942 tòa soạn báo Đuốc Tuệ; 'Năm 1942, chùa được trùng tu lớn để làm trụ sở Trung ương Hội Phật giáo Việt Nam'; tam quan gác chuông kiểu chồng diêm ba tầng; chính điện cao khoảng 1,8 m so với sân, 12 bậc; 27 pho tượng tròn sơn son thếp vàng, 5 quả chuông đồng (3 quả thời Gia Long), 8 bia, 13 câu đối; thờ Phật và Lý Quốc Sư.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/chua-quan-su-tp-ha-noi-post2204.html",
+        "quote": "Giác Ngộ Online, 'Chùa Quán Sứ Tp Hà Nội' (17/12/2008): chùa ở số 73 phố Quán Sứ; năm 1942 xây lại 'theo bản vẽ thiết kế của hai kiến trúc sư Nguyễn Ngọc Ngoạn và Nguyễn Xuân Tùng'; tam quan có gác chuông ở giữa; chính điện cao 1,9 m so với sân, mặt tiền 7 gian; hiện là trụ sở Trung ương Giáo hội Phật giáo Việt Nam.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chua-hon-500-nam-tuoi-o-ha-noi-ruoc-xa-loi-duc-phat-4882802.html",
+        "quote": "VnExpress, 'Chùa hơn 500 năm tuổi ở Hà Nội rước xá lợi Đức Phật' (08/05/2025): 'Chùa Quán Sứ có từ thế kỷ 16', theo Hoàng Lê Nhất Thống Chí vua Lê Thế Tông dựng nhà Quán Sứ đón sứ thần, sau dựng chùa trong khuôn viên; từ năm 1981 là trụ sở Trung ương Giáo hội Phật giáo Việt Nam; chùa thường ít khách du lịch, chủ yếu phục vụ người đi lễ; dự kiến 'hàng triệu lượt người' chiêm bái xá lợi trong ba ngày 14–16/5/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/ngoi-chua-hon-500-nam-tuoi-o-ha-noi-truoc-ngay-cung-nghinh-xa-loi-phat-185250512003603269.htm",
+        "quote": "Thanh Niên, 'Ngôi chùa hơn 500 năm tuổi ở Hà Nội trước ngày cung nghinh xá lợi Phật' (Đình Huy, 12/05/2025): địa chỉ 'số 73 phố Quán Sứ, P.Trần Hưng Đạo, Q.Hoàn Kiếm'; xây từ thế kỷ 15, trùng tu năm 1942; 'năm 1980 trở thành trụ sở T.Ư của Giáo hội Phật giáo Việt Nam'; xá lợi tôn trí tại tầng 1 hội trường chùa từ 13 đến 16/5/2025; khách xếp hàng từ Cung Văn hóa Hữu nghị Việt – Xô rồi đi bộ vào chùa, không cần đăng ký trước.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00220"
+  }
+}

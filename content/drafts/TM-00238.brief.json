@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w5d",
+  "queued": "2026-10-13T13:26:23.660853+00:00",
+  "topic": {
+    "topic_id": "TM-00238",
+    "url": "/xe-may/xe-may-bi-do-kiem-tra-gi/",
+    "title": "Xe máy bị đổ, ngã xe: kiểm tra gì trước khi nổ máy đi tiếp",
+    "hub": "xe-may",
+    "subtopic": "van-hanh",
+    "primary_keyword": "xe máy bị đổ kiểm tra gì",
+    "secondary_keywords": [
+      "xe máy bị đổ không nổ được",
+      "ngã xe máy phải làm gì",
+      "xe ga bị đổ có sao không",
+      "xe thuê bị đổ trầy xước"
+    ],
+    "intent": "informational",
+    "user_problem": "Người vừa làm đổ xe khi dựng, dắt hoặc bị ngã nhẹ trên đường muốn biết phải làm gì trước tiên, kiểm tra bộ phận nào trước khi nổ máy đi tiếp, vì sao xe không nổ sau khi đổ, và nếu là xe thuê thì xử lý chi phí thế nào.",
+    "information_gain": "Các bài hiện có chỉ chạm một phần: /bao-duong/xe-may-bi-chet-may-giua-duong/ (chết máy nói chung), /bao-duong/cong-tac-chan-chong-ben/ (xe không nổ do chân chống), /thue-xe/xe-may-thue-bi-hong-giua-duong-phai-lam-sao/ (thủ tục xe thuê hỏng), /luat-giao-thong/gay-tai-nan-roi-bo-chay-xe-may-phat-bao-nhieu/ (nghĩa vụ khi va chạm). Bài mới là checklist riêng sau khi đổ/ngã xe theo sách Honda: ưu tiên an toàn người và gọi cấp cứu khi cần; vặn khóa điện về Off trước; kiểm tra rò rỉ dầu/dung dịch, ốc bu lông, tay lái, cần điều khiển, phanh, bánh; khởi động không nổ trong 5 giây thì Off, chờ 10 giây; bảo dưỡng ống thông hơi vách máy sau khi đổ xe; lái chậm và đưa xe đi kiểm tra vì có hư hỏng không nhìn thấy; và ai chịu chi phí khi xe thuê bị đổ.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Khi gặp sự cố trên đường' (Hướng dẫn về an toàn): an toàn tính mạng là ưu tiên hàng đầu; nếu bạn hoặc ai đó bị thương, đánh giá mức độ vết thương và xem có đủ an toàn để tiếp tục lái không, gọi cấp cứu ngay nếu cần, thực hiện theo luật và quy định địa phương khi có người hoặc phương tiện khác liên quan. Nếu vẫn muốn tiếp tục lái, trước tiên vặn khóa điện về Off, đánh giá tình trạng xe: kiểm tra rò rỉ dầu/dung dịch, mức độ siết chặt các ốc và bu lông quan trọng, hoạt động của tay lái, các cần điều khiển, phanh và bánh xe; lái thật chậm và cẩn thận; xe có thể hư hỏng ở bộ phận mắt thường không nhìn thấy, hãy mang xe đến trạm sửa chữa uy tín kiểm tra càng sớm càng tốt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Khởi động động cơ' (tr. 94–95): xe có hệ thống tắt máy bằng chân chống nghiêng – không khởi động được khi chân chống nghiêng đang hạ, hạ chân chống khi máy chạy thì máy tự tắt; 'Nếu xe bị đổ, trước tiên bạn phải vặn khóa điện sang vị trí Off, sau đó kiểm tra xe cẩn thận'; nếu động cơ không khởi động trong vòng 5 giây, vặn khóa điện về Off và đợi 10 giây trước khi khởi động lại để khôi phục điện áp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Ống thông hơi vách máy': thực hiện bảo dưỡng thường xuyên hơn nếu lái xe dưới trời mưa, chạy tốc độ cao, sau khi rửa xe hoặc bị đổ xe; cần bảo dưỡng nếu thấy cặn bẩn ở phần trong suốt của ống xả cặn; nếu ống xả cặn bị tràn, bộ lọc gió có thể nhiễm bẩn dầu động cơ và gây động cơ hoạt động kém.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "phone: 0334 699 969",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "xe máy bị đổ kiểm tra gì"
+      }
+    ],
+    "notes": "Không có nguồn hôm nay về 'cảm biến góc nghiêng tự ngắt máy khi đổ' trên xe Honda phổ thông – KHÔNG viết rằng xe tự tắt máy khi đổ (chỉ có hệ thống tắt máy bằng chân chống nghiêng). Hướng dẫn trích từ sách Air Blade và SH; với xe khác viết 'theo sách hướng dẫn của xe bạn'. Không đưa bước sơ cứu y tế chi tiết (không có nguồn y tế); chỉ dẫn lời Honda 'gọi cấp cứu ngay nếu cần'. Nếu có va chạm với người/xe khác thì link bài gây tai nạn, không lặp mức phạt. Business-facts không nói khách phải báo cửa hàng trong bao lâu – chỉ khuyên gọi số cửa hàng và xử lý theo hợp đồng.",
+    "outline": [
+      "Câu trả lời ngắn: an toàn người trước, khóa điện về Off",
+      "Kiểm tra nhanh 6 điểm theo sách Honda",
+      "Vì sao xe không nổ sau khi đổ: chân chống, khóa điện, 5 giây – 10 giây",
+      "Hư hỏng không nhìn thấy: khi nào phải đưa xe đi kiểm tra",
+      "Ống thông hơi vách máy và lọc gió sau khi đổ xe",
+      "Xe thuê bị đổ: báo cửa hàng, ai chịu chi phí"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xe-may-bi-chet-may-giua-duong/",
+      "/bao-duong/cong-tac-chan-chong-ben/",
+      "/thue-xe/xe-may-thue-bi-hong-giua-duong-phai-lam-sao/",
+      "/luat-giao-thong/gay-tai-nan-roi-bo-chay-xe-may-phat-bao-nhieu/",
+      "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00238.json",
+  "draft_template": {
+    "id": "TM-00238",
+    "url": "/xe-may/xe-may-bi-do-kiem-tra-gi/",
+    "title": "Xe máy bị đổ, ngã xe: kiểm tra gì trước khi nổ máy đi tiếp",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "xe máy bị đổ kiểm tra gì, xe máy bị đổ không nổ được, ngã xe máy phải làm gì, xe ga bị đổ có sao không, xe thuê bị đổ trầy xước",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: an toàn người trước, khóa điện về Off",
+        "<p></p>"
+      ],
+      [
+        "Kiểm tra nhanh 6 điểm theo sách Honda",
+        "<p></p>"
+      ],
+      [
+        "Vì sao xe không nổ sau khi đổ: chân chống, khóa điện, 5 giây – 10 giây",
+        "<p></p>"
+      ],
+      [
+        "Hư hỏng không nhìn thấy: khi nào phải đưa xe đi kiểm tra",
+        "<p></p>"
+      ],
+      [
+        "Ống thông hơi vách máy và lọc gió sau khi đổ xe",
+        "<p></p>"
+      ],
+      [
+        "Xe thuê bị đổ: báo cửa hàng, ai chịu chi phí",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Khi gặp sự cố trên đường' (Hướng dẫn về an toàn): an toàn tính mạng là ưu tiên hàng đầu; nếu bạn hoặc ai đó bị thương, đánh giá mức độ vết thương và xem có đủ an toàn để tiếp tục lái không, gọi cấp cứu ngay nếu cần, thực hiện theo luật và quy định địa phương khi có người hoặc phương tiện khác liên quan. Nếu vẫn muốn tiếp tục lái, trước tiên vặn khóa điện về Off, đánh giá tình trạng xe: kiểm tra rò rỉ dầu/dung dịch, mức độ siết chặt các ốc và bu lông quan trọng, hoạt động của tay lái, các cần điều khiển, phanh và bánh xe; lái thật chậm và cẩn thận; xe có thể hư hỏng ở bộ phận mắt thường không nhìn thấy, hãy mang xe đến trạm sửa chữa uy tín kiểm tra càng sớm càng tốt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Khởi động động cơ' (tr. 94–95): xe có hệ thống tắt máy bằng chân chống nghiêng – không khởi động được khi chân chống nghiêng đang hạ, hạ chân chống khi máy chạy thì máy tự tắt; 'Nếu xe bị đổ, trước tiên bạn phải vặn khóa điện sang vị trí Off, sau đó kiểm tra xe cẩn thận'; nếu động cơ không khởi động trong vòng 5 giây, vặn khóa điện về Off và đợi 10 giây trước khi khởi động lại để khôi phục điện áp.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Ống thông hơi vách máy': thực hiện bảo dưỡng thường xuyên hơn nếu lái xe dưới trời mưa, chạy tốc độ cao, sau khi rửa xe hoặc bị đổ xe; cần bảo dưỡng nếu thấy cặn bẩn ở phần trong suốt của ống xả cặn; nếu ống xả cặn bị tràn, bộ lọc gió có thể nhiễm bẩn dầu động cơ và gây động cơ hoạt động kém.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "phone: 0334 699 969",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00238"
+  }
+}

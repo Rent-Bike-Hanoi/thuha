@@ -1,0 +1,151 @@
+{
+  "writer": "writer-w5b",
+  "queued": "2026-10-13T13:26:23.374524+00:00",
+  "topic": {
+    "topic_id": "TM-00226",
+    "url": "/du-lich/pho-hang-ma-trung-thu/",
+    "title": "Phố Hàng Mã mùa Trung thu: đoạn cấm xe 24/24, gửi xe, giá đèn lồng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "phố hàng mã trung thu",
+    "secondary_keywords": [
+      "chợ trung thu hàng mã",
+      "hàng mã trung thu cấm xe",
+      "gửi xe hàng mã trung thu",
+      "giá đèn ông sao hàng mã",
+      "đi chơi trung thu phố cổ"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Gia đình và người trẻ muốn đi chơi Trung thu ở phố Hàng Mã cần biết đoạn nào cấm xe, gửi xe máy ở đâu, giờ nào đông nhất và giá đèn lồng, mặt nạ, đầu lân khoảng bao nhiêu để chuẩn bị.",
+    "information_gain": "Site có /du-lich/cho-dem-pho-co-ha-noi/ (chợ đêm cuối tuần), /du-lich/pho-bich-hoa-phung-hung/ (có nhắc Hàng Mã trong chợ Tết) và /du-lich/ha-noi/pho-co/ nhưng chưa bài nào về chợ Trung thu Hàng Mã. Bài này thêm: cách tổ chức năm 2026 làm mốc tham chiếu — chợ từ 11 đến 25/9/2026, cấm đường 24/24 đoạn Hàng Mã từ ngã tư Hàng Đường đến Hàng Cót; điểm trông xe ở Thuốc Bắc, một phần Hàng Mã, nút Hàng Lược – Hàng Rươi (điểm miễn phí ở Thuốc Bắc chỉ dành cho cư dân Hàng Mã); lời khuyên gửi xe ngoài khu vực rồi đi bộ vào; giá đèn ông sao nhỏ 30–50 nghìn, lớn 60–80 nghìn, mặt nạ giấy bồi 50–70 nghìn, đầu lân 200–800 nghìn; và các không gian Trung thu khác ở 22 Hàng Buồm, 87 Mã Mây.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ha-noi-cam-duong-tuyen-pho-hang-ma-de-to-chuc-cho-trung-thu-truyen-thong-100260914105634008.htm",
+        "quote": "Tuổi Trẻ, 'Hà Nội cấm đường tuyến phố Hàng Mã để tổ chức chợ Trung thu truyền thống' (14/09/2026): 'Chợ Trung thu truyền thống phố cổ năm 2026' trên phố Hàng Mã, đoạn từ ngã tư Hàng Mã – Hàng Đường đến ngã tư Hàng Mã – Hàng Cót, 'cấm đường 24/24h' đến hết 25/9; xe phân luồng theo phương án tổ chức giao thông; điểm trông giữ xe đạp, xe máy ở phố Thuốc Bắc, một phần phố Hàng Mã và nút Hàng Lược – Hàng Rươi; điểm ở Thuốc Bắc miễn phí cho người dân phố Hàng Mã; UBND phường Hoàn Kiếm tổ chức; có hoạt động tại 22 Hàng Buồm, 87 Mã Mây, Trung tâm Thông tin văn hóa Hồ Gươm (2 Lê Thái Tổ).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/di-choi-trung-thu-hang-ma-luu-y-doan-pho-cam-xe-2424-267568.html",
+        "quote": "Báo Văn Hóa, 'Đi chơi Trung thu Hàng Mã, lưu ý đoạn phố cấm xe 24/24' (Phúc Bình, 21/09/2026): chợ Trung thu từ ngày 11 đến hết 25/9/2026; đoạn Hàng Mã – Hàng Đường đến Hàng Mã – Hàng Cót cấm đường 24/24 giờ; nên gửi xe ngoài khu vực rồi đi bộ vào, hẹn điểm gặp nếu đi đông người; 'Đèn ông sao loại nhỏ có giá khoảng 30 - 50 nghìn đồng/chiếc', đèn lớn 60–80 nghìn, mặt nạ giấy bồi 50–70 nghìn, đầu lân khoảng 200–800 nghìn; 'Càng về chiều tối, Hàng Mã càng nhộn nhịp'; 20h ngày 25/9 có lễ rước 'Đêm hội Trăng Rằm' tại không gian đi bộ Hồ Gươm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/pho-hang-ma-dong-kin-nguoi-ruc-ro-sac-mau-dip-can-trung-thu-100260920184827338.htm",
+        "quote": "Tuổi Trẻ, 'Phố Hàng Mã đông kín người, rực rỡ sắc màu dịp cận Trung thu' (20/09/2026): chiều 20/9 (10/8 âm lịch) 'hàng ngàn người dân đổ về phố Hàng Mã'; Tết Trung thu 2026 rơi vào 25/9; bày bán đèn lồng, mặt nạ giấy bồi, đầu lân, đèn ông sao, trống, bánh Trung thu; đoạn cấm xe 24/24h đến hết 25/9.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 260,
+        "checked": "2026-10-13",
+        "keyword": "phố hàng mã trung thu"
+      }
+    ],
+    "notes": "Bài viết lúc Trung thu 2026 đã qua (25/9/2026): mọi mốc ngày, đoạn cấm xe, điểm trông xe là của năm 2026 — viết 'năm 2026 thành phố đã tổ chức như sau', khuyên xem thông báo của phường Hoàn Kiếm cho năm sau. Ngày Trung thu 2027 và lịch chợ năm sau: chưa có nguồn, không đoán. Giá đồ chơi là giá 'khoảng' theo Báo Văn Hóa 9/2026. Tình trạng ùn tắc Hàng Lược, Chả Cá, Hàng Cót: thấy trong kết quả tìm kiếm tổng hợp nhưng chưa fetch được bài gốc (VOV/Dân trí) — nếu dùng, cần nguồn; tốt nhất bỏ. Phố Hàng Mã không nằm trong danh sách 12 tuyến bao khu vực 1 vùng phát thải thấp; không viết rằng Hàng Mã thuộc khu vực cấm xe tối cuối tuần. Phí gửi xe ở các điểm trông giữ (trừ điểm miễn phí cho cư dân): chưa có nguồn.",
+    "outline": [
+      "Chợ Trung thu Hàng Mã: diễn ra ở đoạn nào, kéo dài bao lâu (mốc 2026)",
+      "Đoạn cấm xe 24/24 và cách đi xe máy tới gần",
+      "Gửi xe ở đâu: Thuốc Bắc, Hàng Lược – Hàng Rươi",
+      "Giá đèn ông sao, mặt nạ, đầu lân năm 2026",
+      "Giờ nào đông và mẹo đi cùng trẻ nhỏ",
+      "Không gian Trung thu khác quanh phố cổ",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cho-dem-pho-co-ha-noi/",
+      "/du-lich/pho-bich-hoa-phung-hung/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00226.json",
+  "draft_template": {
+    "id": "TM-00226",
+    "url": "/du-lich/pho-hang-ma-trung-thu/",
+    "title": "Phố Hàng Mã mùa Trung thu: đoạn cấm xe 24/24, gửi xe, giá đèn lồng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phố hàng mã trung thu, chợ trung thu hàng mã, hàng mã trung thu cấm xe, gửi xe hàng mã trung thu, giá đèn ông sao hàng mã, đi chơi trung thu phố cổ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ Trung thu Hàng Mã: diễn ra ở đoạn nào, kéo dài bao lâu (mốc 2026)",
+        "<p></p>"
+      ],
+      [
+        "Đoạn cấm xe 24/24 và cách đi xe máy tới gần",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe ở đâu: Thuốc Bắc, Hàng Lược – Hàng Rươi",
+        "<p></p>"
+      ],
+      [
+        "Giá đèn ông sao, mặt nạ, đầu lân năm 2026",
+        "<p></p>"
+      ],
+      [
+        "Giờ nào đông và mẹo đi cùng trẻ nhỏ",
+        "<p></p>"
+      ],
+      [
+        "Không gian Trung thu khác quanh phố cổ",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ha-noi-cam-duong-tuyen-pho-hang-ma-de-to-chuc-cho-trung-thu-truyen-thong-100260914105634008.htm",
+        "quote": "Tuổi Trẻ, 'Hà Nội cấm đường tuyến phố Hàng Mã để tổ chức chợ Trung thu truyền thống' (14/09/2026): 'Chợ Trung thu truyền thống phố cổ năm 2026' trên phố Hàng Mã, đoạn từ ngã tư Hàng Mã – Hàng Đường đến ngã tư Hàng Mã – Hàng Cót, 'cấm đường 24/24h' đến hết 25/9; xe phân luồng theo phương án tổ chức giao thông; điểm trông giữ xe đạp, xe máy ở phố Thuốc Bắc, một phần phố Hàng Mã và nút Hàng Lược – Hàng Rươi; điểm ở Thuốc Bắc miễn phí cho người dân phố Hàng Mã; UBND phường Hoàn Kiếm tổ chức; có hoạt động tại 22 Hàng Buồm, 87 Mã Mây, Trung tâm Thông tin văn hóa Hồ Gươm (2 Lê Thái Tổ).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/di-choi-trung-thu-hang-ma-luu-y-doan-pho-cam-xe-2424-267568.html",
+        "quote": "Báo Văn Hóa, 'Đi chơi Trung thu Hàng Mã, lưu ý đoạn phố cấm xe 24/24' (Phúc Bình, 21/09/2026): chợ Trung thu từ ngày 11 đến hết 25/9/2026; đoạn Hàng Mã – Hàng Đường đến Hàng Mã – Hàng Cót cấm đường 24/24 giờ; nên gửi xe ngoài khu vực rồi đi bộ vào, hẹn điểm gặp nếu đi đông người; 'Đèn ông sao loại nhỏ có giá khoảng 30 - 50 nghìn đồng/chiếc', đèn lớn 60–80 nghìn, mặt nạ giấy bồi 50–70 nghìn, đầu lân khoảng 200–800 nghìn; 'Càng về chiều tối, Hàng Mã càng nhộn nhịp'; 20h ngày 25/9 có lễ rước 'Đêm hội Trăng Rằm' tại không gian đi bộ Hồ Gươm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/pho-hang-ma-dong-kin-nguoi-ruc-ro-sac-mau-dip-can-trung-thu-100260920184827338.htm",
+        "quote": "Tuổi Trẻ, 'Phố Hàng Mã đông kín người, rực rỡ sắc màu dịp cận Trung thu' (20/09/2026): chiều 20/9 (10/8 âm lịch) 'hàng ngàn người dân đổ về phố Hàng Mã'; Tết Trung thu 2026 rơi vào 25/9; bày bán đèn lồng, mặt nạ giấy bồi, đầu lân, đèn ông sao, trống, bánh Trung thu; đoạn cấm xe 24/24h đến hết 25/9.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00226"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w5d",
+  "queued": "2026-10-13T13:26:23.660407+00:00",
+  "topic": {
+    "topic_id": "TM-00237",
+    "url": "/xe-may/phuoc-xe-may-bi-chay-dau/",
+    "title": "Phuộc xe máy bị chảy dầu: dấu hiệu, nguyên nhân, có đi tiếp được không",
+    "hub": "xe-may",
+    "subtopic": "van-hanh",
+    "primary_keyword": "phuộc xe máy bị chảy dầu",
+    "secondary_keywords": [
+      "giảm xóc xe máy chảy dầu",
+      "phớt phuộc xe máy",
+      "thay dầu phuộc xe máy",
+      "chỉnh giảm xóc sau xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy thấy ống phuộc trước ướt dầu, xe nảy hoặc kêu lộc cộc khi qua ổ gà, muốn biết nguyên nhân, có nguy hiểm không, sửa thế nào và có được bảo hành không.",
+    "information_gain": "Chưa có bài nào về giảm xóc: /bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/ chỉ liệt kê hạng mục, /bao-duong/xe-may-keu-lach-cach-khi-chay/ nói tiếng kêu nói chung, /xe-may/xe-may-cho-duoc-bao-nhieu-kg/ nói chở nặng. Bài mới tập trung vào phuộc chảy dầu: dấu hiệu (ty phuộc ướt dầu, nảy, kêu) và cách xử lý thay phớt/dầu đúng loại, đúng lượng (VTC News), khuyến cáo của Honda (bùn, muối làm tăng mài mòn hệ thống treo trước và gây rò rỉ dầu; giảm xóc nằm trong lịch kiểm tra định kỳ; chỉnh tải trước lò xo sau ở SH theo 5 nấc, chuẩn là nấc 2), điều kiện bảo hành giảm xóc của Yamaha (bảo hành theo cụm, từ chối nếu đã tháo), và chính sách xe thuê.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/dau-hieu-nen-thay-giam-xoc-xe-may-ar922026.html",
+        "quote": "VTC News, 'Dấu hiệu nên thay giảm xóc xe máy' (28/01/2025, đọc 13/10/2026): giảm xóc chảy dầu là dấu hiệu dễ nhận biết cần thay; nếu phuộc rỉ dầu bám ướt hoặc kêu lộc cộc, bị nảy khi qua ổ gà là giảm xóc hở phớt, chảy dầu ty thủy lực; với giảm xóc trước cần tháo pít-tông, xi lanh và đổ dầu đúng chủng loại, đúng định lượng tiêu chuẩn của nhà sản xuất, nếu sau khi thay vẫn cứng là thừa dầu; lệch tay lái hoặc mất cân bằng khi chở hàng có thể do gãy lò xo một bên, ống phuộc hai bên không đều hoặc pít-tông cong; phuộc cứng có thể do va chạm, ty phuộc cong, phớt hỏng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF cdn.honda.com.vn, đọc 13/10/2026): mục chăm sóc xe – muối và bùn, bụi bẩn có thể làm tăng tốc độ mài mòn của hệ thống treo trước và gây rò rỉ dầu, vì vậy phải rửa xe sạch sau khi đi đường gần biển, đường có muối, đường bùn; bảng 'Lịch bảo dưỡng' có hạng mục 'Giảm xóc'; mục 'Khi gặp sự cố trên đường': nếu tiếp tục lái sau sự cố phải vặn khóa điện về Off, kiểm tra rò rỉ dầu/dung dịch, ốc bu lông, tay lái, phanh, bánh xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Điều chỉnh hệ thống giảm xóc sau' (tr. 141): cần cờ-lê móc, Honda khuyên mang xe đến Cửa hàng Honda ủy nhiệm; tải trước lò xo chỉnh theo tải trọng hoặc mặt đường, vị trí 1 nhẹ, 3 đến 5 mạnh, vị trí tiêu chuẩn là 2; điều chỉnh giảm xóc trái và phải về cùng mức; chỉnh thẳng từ 1 sang 5 hoặc 5 sang 1 có thể làm hỏng giảm xóc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bao-hanh-san-pham/",
+        "quote": "Yamaha Motor Việt Nam, trang chính sách bảo hành sản phẩm (đọc 13/10/2026): một số phụ tùng bảo hành theo cụm, trong đó có giảm xóc; Yamaha từ chối bảo hành nếu phát hiện dấu hiệu đã tháo hoặc điều chỉnh trước; gioăng, phớt, vòng đệm hư hỏng theo thời gian hoặc do tháo lắp bảo dưỡng thông thường thuộc nhóm không bảo hành.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "phuộc xe máy bị chảy dầu"
+      }
+    ],
+    "notes": "URL trang bảo hành Yamaha cần writer xác minh lại: nội dung trích từ bản tải trong lô nghiên cứu hôm nay (tệp yd-bao-hanh-san-pham), nhóm chưa tự tải lại URL chính xác – nếu không mở được https://yamaha-motor.com.vn/bao-hanh-san-pham/ thì BỎ evidence này. Tần suất kiểm tra 'Giảm xóc' trong lịch bảo dưỡng Honda nằm ở dạng hình (dấu tích) không trích được – không nêu mốc km. Không có nguồn chính thức về giá thay phớt/phục hồi phuộc (con số 200.000–500.000đ chỉ thấy trên trang muaban.net, không dùng). Không có tiêu chuẩn chính thức 'chảy dầu thì có được đi tiếp' – chỉ nói giảm xóc hỏng làm xe nảy, mất ổn định và nên kiểm tra sớm; không đưa quãng đường cho phép. Lỗi xe thuê do hao mòn là 'lỗi của xe' theo policies.damage – không hứa cửa hàng chịu 100%.",
+    "outline": [
+      "Câu trả lời ngắn: phuộc ướt dầu là hở phớt, nên sửa sớm",
+      "Dấu hiệu phuộc chảy dầu và giảm xóc yếu",
+      "Vì sao phuộc chảy dầu: phớt, bùn, va chạm",
+      "Sửa thế nào: thay phớt, thay dầu đúng loại, đúng lượng",
+      "Giảm xóc sau chỉnh nấc: làm đúng theo sách Honda",
+      "Bảo hành giảm xóc và xe thuê bị chảy dầu phuộc"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/bao-duong/xe-may-keu-lach-cach-khi-chay/",
+      "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/",
+      "/bao-duong/rua-xe-may-tai-nha-dung-cach/",
+      "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00237.json",
+  "draft_template": {
+    "id": "TM-00237",
+    "url": "/xe-may/phuoc-xe-may-bi-chay-dau/",
+    "title": "Phuộc xe máy bị chảy dầu: dấu hiệu, nguyên nhân, có đi tiếp được không",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phuộc xe máy bị chảy dầu, giảm xóc xe máy chảy dầu, phớt phuộc xe máy, thay dầu phuộc xe máy, chỉnh giảm xóc sau xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: phuộc ướt dầu là hở phớt, nên sửa sớm",
+        "<p></p>"
+      ],
+      [
+        "Dấu hiệu phuộc chảy dầu và giảm xóc yếu",
+        "<p></p>"
+      ],
+      [
+        "Vì sao phuộc chảy dầu: phớt, bùn, va chạm",
+        "<p></p>"
+      ],
+      [
+        "Sửa thế nào: thay phớt, thay dầu đúng loại, đúng lượng",
+        "<p></p>"
+      ],
+      [
+        "Giảm xóc sau chỉnh nấc: làm đúng theo sách Honda",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành giảm xóc và xe thuê bị chảy dầu phuộc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/dau-hieu-nen-thay-giam-xoc-xe-may-ar922026.html",
+        "quote": "VTC News, 'Dấu hiệu nên thay giảm xóc xe máy' (28/01/2025, đọc 13/10/2026): giảm xóc chảy dầu là dấu hiệu dễ nhận biết cần thay; nếu phuộc rỉ dầu bám ướt hoặc kêu lộc cộc, bị nảy khi qua ổ gà là giảm xóc hở phớt, chảy dầu ty thủy lực; với giảm xóc trước cần tháo pít-tông, xi lanh và đổ dầu đúng chủng loại, đúng định lượng tiêu chuẩn của nhà sản xuất, nếu sau khi thay vẫn cứng là thừa dầu; lệch tay lái hoặc mất cân bằng khi chở hàng có thể do gãy lò xo một bên, ống phuộc hai bên không đều hoặc pít-tông cong; phuộc cứng có thể do va chạm, ty phuộc cong, phớt hỏng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF cdn.honda.com.vn, đọc 13/10/2026): mục chăm sóc xe – muối và bùn, bụi bẩn có thể làm tăng tốc độ mài mòn của hệ thống treo trước và gây rò rỉ dầu, vì vậy phải rửa xe sạch sau khi đi đường gần biển, đường có muối, đường bùn; bảng 'Lịch bảo dưỡng' có hạng mục 'Giảm xóc'; mục 'Khi gặp sự cố trên đường': nếu tiếp tục lái sau sự cố phải vặn khóa điện về Off, kiểm tra rò rỉ dầu/dung dịch, ốc bu lông, tay lái, phanh, bánh xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Điều chỉnh hệ thống giảm xóc sau' (tr. 141): cần cờ-lê móc, Honda khuyên mang xe đến Cửa hàng Honda ủy nhiệm; tải trước lò xo chỉnh theo tải trọng hoặc mặt đường, vị trí 1 nhẹ, 3 đến 5 mạnh, vị trí tiêu chuẩn là 2; điều chỉnh giảm xóc trái và phải về cùng mức; chỉnh thẳng từ 1 sang 5 hoặc 5 sang 1 có thể làm hỏng giảm xóc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bao-hanh-san-pham/",
+        "quote": "Yamaha Motor Việt Nam, trang chính sách bảo hành sản phẩm (đọc 13/10/2026): một số phụ tùng bảo hành theo cụm, trong đó có giảm xóc; Yamaha từ chối bảo hành nếu phát hiện dấu hiệu đã tháo hoặc điều chỉnh trước; gioăng, phớt, vòng đệm hư hỏng theo thời gian hoặc do tháo lắp bảo dưỡng thông thường thuộc nhóm không bảo hành.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00237"
+  }
+}

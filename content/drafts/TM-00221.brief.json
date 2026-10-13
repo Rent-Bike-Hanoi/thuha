@@ -1,0 +1,151 @@
+{
+  "writer": "writer-w5a",
+  "queued": "2026-10-13T13:26:23.237839+00:00",
+  "topic": {
+    "topic_id": "TM-00221",
+    "url": "/du-lich/chua-ha-cau-giay/",
+    "title": "Chùa Hà Cầu Giấy: giờ mở 5h30–19h, lễ cầu duyên và lúc nào đông",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa hà",
+    "secondary_keywords": [
+      "chùa hà cầu duyên",
+      "chùa hà ở đâu",
+      "chùa hà mấy giờ mở cửa",
+      "thánh đức tự",
+      "sắm lễ chùa hà"
+    ],
+    "intent": "informational",
+    "user_problem": "Người trẻ và khách ngoại tỉnh muốn đi lễ chùa Hà cần biết chùa ở đâu, mở cửa mấy giờ, ngày nào đông, sắm lễ thế nào và lịch sử thật của ngôi chùa.",
+    "information_gain": "Site chưa có bài về chùa Hà. Gần nhất là /du-lich/chua-tran-quoc/ và /du-lich/phu-tay-ho/ (điểm tâm linh khác) và /du-lich/bao-tang-dan-toc-hoc-viet-nam/ (cùng khu Cầu Giấy, không nói về chùa). Bài này thêm: giờ mở 5h30–19h và các ngày đông (mùng 1, rằm, trước 14/2 và 7/7 âm lịch) theo VnExpress 2/2025; ba mâm lễ và mức giá mâm 100.000–250.000đ; hai bãi gửi xe miễn phí do phường bố trí dịp đông; lịch sử dựng lại bằng gạch năm Chính Hòa (1680), chuông Cảnh Thịnh 1799 cao 1,3 m; vai trò trong Cách mạng tháng Tám 1945; năm xếp hạng di tích (1995 hoặc 1996, nêu rõ chênh lệch).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nguoi-tre-di-le-chua-ha-cau-duyen-truoc-valentine-4847505.html",
+        "quote": "VnExpress, 'Người trẻ đi lễ chùa Hà cầu duyên trước Valentine' (10/02/2025): chùa Hà (Thánh Đức tự) ở phường Dịch Vọng, quận Cầu Giấy (cũ); 'Chùa Hà mở cửa từ 5h30 sáng đến 19h hàng ngày'; đông vào mùng 1, rằm và nhất là trước Valentine 14/2 và Thất tịch 7/7 âm lịch; thường sắm 3 mâm (ban Tam Bảo, ban Đức Ông, ban Mẫu), giá mâm 100.000–250.000đ; phường và chùa bố trí thêm bảo vệ, hướng dẫn và 2 bãi gửi xe miễn phí bên ngoài; người trông chùa nói 'Hơn 70% khách là giới trẻ'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/chua-ha-di-tich-lich-su-van-hoa-va-cach-mang-48619.html",
+        "quote": "Hà Nội Mới, 'Chùa Hà - di tích lịch sử văn hóa và cách mạng' (06/01/2005): chùa thuộc phường Dịch Vọng, quận Cầu Giấy; dựng lại bằng gạch thời Chính Hòa (1680); chuông đúc năm Cảnh Thịnh 7 (1799), 'Chuông cao 1m30, chu vi miệng 1m50'; 1941–1945 là nơi liên lạc của Xứ ủy Bắc Kỳ, tháng 8/1945 có các cuộc họp chuẩn bị khởi nghĩa; 'Năm 1995, Chùa Hà đã được Nhà nước công nhận là di tích lịch sử - văn hóa quốc gia'; chùa chính kiểu chữ Đinh gồm Tiền đường và Thượng điện.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-ha-quan-cau-giay-76291.html",
+        "quote": "Người Hà Nội, 'Chùa Hà (quận Cầu Giấy)' (Sơn Dương, 27/08/2023): chùa ở xóm Bối Hà, thôn Trung, phường Dịch Vọng, quận Cầu Giấy, còn gọi Thánh Đức tự; 'được xây bằng gạch ngói vào năm Chính Hoà (1680)'; chuông đồng đúc năm Cảnh Thịnh thứ 7 (1799); Bộ Văn hóa – Thông tin xếp hạng di tích lịch sử, kiến trúc nghệ thuật năm 1996; có tam quan, vườn, ao bán nguyệt; 21 pho tượng Phật, 6 tượng Mẫu, 18 bia thời Nguyễn; có điện thờ Mẫu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 49500,
+        "checked": "2026-10-13",
+        "keyword": "chùa hà"
+      }
+    ],
+    "notes": "Năm xếp hạng lệch: 1995 (Hà Nội Mới) và 1996 (Người Hà Nội) — ghi cả hai kèm nguồn. Truyền thuyết lập chùa (Lý Thánh Tông hay Lê Thánh Tông) không thống nhất; chuyện 'linh thiêng cầu duyên' là tục dân gian, viết trung tính, không hứa hẹn kết quả. Giờ mở 5h30–19h và giá mâm lễ là số 2/2025, ghi rõ thời điểm. Bãi gửi xe miễn phí chỉ được nêu cho dịp đông 2/2025, không viết như thường xuyên. Tên phường mới sau sắp xếp 2025 chưa có nguồn đã fetch — tránh ghi tên phường mới. Không thuộc vùng phát thải thấp. Không ghi km từ Long Biên.",
+    "outline": [
+      "Chùa Hà ở đâu và mở cửa mấy giờ",
+      "Ngày nào đông: mùng 1, rằm, trước 14/2 và 7/7 âm lịch",
+      "Sắm lễ ba ban và mức giá mâm lễ đã được báo ghi nhận",
+      "Lịch sử: Thánh Đức tự, Chính Hòa 1680, chuông 1799, di tích cách mạng 1945",
+      "Gửi xe và đi xe máy giờ cao điểm khu Cầu Giấy",
+      "Ứng xử khi chùa đông",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/phu-tay-ho/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00221.json",
+  "draft_template": {
+    "id": "TM-00221",
+    "url": "/du-lich/chua-ha-cau-giay/",
+    "title": "Chùa Hà Cầu Giấy: giờ mở 5h30–19h, lễ cầu duyên và lúc nào đông",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa hà, chùa hà cầu duyên, chùa hà ở đâu, chùa hà mấy giờ mở cửa, thánh đức tự, sắm lễ chùa hà",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Hà ở đâu và mở cửa mấy giờ",
+        "<p></p>"
+      ],
+      [
+        "Ngày nào đông: mùng 1, rằm, trước 14/2 và 7/7 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Sắm lễ ba ban và mức giá mâm lễ đã được báo ghi nhận",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: Thánh Đức tự, Chính Hòa 1680, chuông 1799, di tích cách mạng 1945",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe và đi xe máy giờ cao điểm khu Cầu Giấy",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi chùa đông",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nguoi-tre-di-le-chua-ha-cau-duyen-truoc-valentine-4847505.html",
+        "quote": "VnExpress, 'Người trẻ đi lễ chùa Hà cầu duyên trước Valentine' (10/02/2025): chùa Hà (Thánh Đức tự) ở phường Dịch Vọng, quận Cầu Giấy (cũ); 'Chùa Hà mở cửa từ 5h30 sáng đến 19h hàng ngày'; đông vào mùng 1, rằm và nhất là trước Valentine 14/2 và Thất tịch 7/7 âm lịch; thường sắm 3 mâm (ban Tam Bảo, ban Đức Ông, ban Mẫu), giá mâm 100.000–250.000đ; phường và chùa bố trí thêm bảo vệ, hướng dẫn và 2 bãi gửi xe miễn phí bên ngoài; người trông chùa nói 'Hơn 70% khách là giới trẻ'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/chua-ha-di-tich-lich-su-van-hoa-va-cach-mang-48619.html",
+        "quote": "Hà Nội Mới, 'Chùa Hà - di tích lịch sử văn hóa và cách mạng' (06/01/2005): chùa thuộc phường Dịch Vọng, quận Cầu Giấy; dựng lại bằng gạch thời Chính Hòa (1680); chuông đúc năm Cảnh Thịnh 7 (1799), 'Chuông cao 1m30, chu vi miệng 1m50'; 1941–1945 là nơi liên lạc của Xứ ủy Bắc Kỳ, tháng 8/1945 có các cuộc họp chuẩn bị khởi nghĩa; 'Năm 1995, Chùa Hà đã được Nhà nước công nhận là di tích lịch sử - văn hóa quốc gia'; chùa chính kiểu chữ Đinh gồm Tiền đường và Thượng điện.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-ha-quan-cau-giay-76291.html",
+        "quote": "Người Hà Nội, 'Chùa Hà (quận Cầu Giấy)' (Sơn Dương, 27/08/2023): chùa ở xóm Bối Hà, thôn Trung, phường Dịch Vọng, quận Cầu Giấy, còn gọi Thánh Đức tự; 'được xây bằng gạch ngói vào năm Chính Hoà (1680)'; chuông đồng đúc năm Cảnh Thịnh thứ 7 (1799); Bộ Văn hóa – Thông tin xếp hạng di tích lịch sử, kiến trúc nghệ thuật năm 1996; có tam quan, vườn, ao bán nguyệt; 21 pho tượng Phật, 6 tượng Mẫu, 18 bia thời Nguyễn; có điện thờ Mẫu.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00221"
+  }
+}

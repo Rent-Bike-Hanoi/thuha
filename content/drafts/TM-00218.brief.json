@@ -1,0 +1,190 @@
+{
+  "writer": "writer-w5a",
+  "queued": "2026-10-13T13:26:23.238330+00:00",
+  "topic": {
+    "topic_id": "TM-00218",
+    "url": "/du-lich/vuon-thu-ha-noi/",
+    "title": "Vườn thú Hà Nội (Thủ Lệ): giá vé, giờ mở, 3 cổng vào và gửi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "vườn thú hà nội",
+    "secondary_keywords": [
+      "vườn thú thủ lệ",
+      "công viên thủ lệ",
+      "giá vé vườn thú hà nội 2026",
+      "vườn thú hà nội mấy giờ mở cửa",
+      "gửi xe vườn thú hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Gia đình có con nhỏ và khách thuê xe muốn đi Vườn thú Hà Nội (công viên Thủ Lệ) cần biết giá vé theo chiều cao, giờ mở cửa, giờ xem thú, nên vào cổng nào và gửi xe máy bao nhiêu tiền.",
+    "information_gain": "Site chưa có bài về Vườn thú Hà Nội. Gần nhất là /du-lich/cong-vien-thong-nhat/ (một công viên khác, không thu vé), /du-lich/bao-tang-dan-toc-hoc-viet-nam/ (điểm khác phía tây) và hub /du-lich/ha-noi/. Bài này thêm số liệu từ trang chính thức vuonthuhanoi.com: vé 50.000đ (cao trên 1,3 m) và 30.000đ (từ 1,3 m trở xuống), giờ mở mùa hè 7h–22h, mùa đông 7h30–22h nhưng chỉ trưng bày thú 8h–16h; 3 cổng Bưởi, Nguyễn Văn Ngọc (có bãi xe lớn), Cầu Giấy; bảng phí gửi xe máy ngày/đêm/cả ngày đêm; các quy định cấm cho thú ăn, cấm mang động vật và cấm đi xe trong vườn; mốc 50 năm (6/8/1976–6/8/2026), gần 600 cá thể, gần 90 loài; và bãi Park and Ride dự kiến ở khu vực công viên Thủ Lệ trong đề án vùng phát thải thấp.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/",
+        "quote": "Vườn thú Hà Nội, trang chủ vuonthuhanoi.com (đọc 13/10/2026): vé 50.000đ/vé 'Đối với người có chiều cao lớn hơn 1,3m'; 30.000đ/vé 'Đối với người có chiều cao nhỏ hơn hoặc bằng 1,3m'; mở cửa thứ Hai đến Chủ nhật kể cả ngày Lễ, Tết; 'Mùa Đông từ: 7h30 đến 22h00', 'Mùa Hè từ: 7h00 đến 22h00', 'Trưng bày động vật từ: 8h00 đến 16h00'; sau 16h trả lại không gian yên tĩnh cho thú nghỉ; địa chỉ 'Thủ Lệ - Phường Giảng Võ - Hà Nội'. Trang không ghi ngày chuyển mùa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/huong-dan-tham-quan/",
+        "quote": "Vườn thú Hà Nội, trang 'Hướng dẫn tham quan' (đăng 30/05/2025, đọc 13/10/2026): 3 cổng chính là cổng đường Bưởi; cổng đường Nguyễn Văn Ngọc 'đối diện với khách sạn Deawoo, có bãi gửi xe với diện tích lớn và thuận lợi'; cổng đường Cầu Giấy 'đối diện với trường Đại học Giao thông vận tải'; xe buýt các tuyến 09, 25, 27, 28, 32, 34, 38, 49; metro tuyến Nhổn – ga Hà Nội; phí gửi xe máy (kể cả xe điện) 5.000đ ban ngày, 8.000đ ban đêm, 12.000đ cả ngày và đêm mỗi lượt; xe đạp 3.000đ/5.000đ/7.000đ; ô tô đến 9 chỗ 25.000đ/lượt/giờ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/20145-2/",
+        "quote": "Vườn thú Hà Nội, 'Quy định Vườn thú Hà Nội' ban hành kèm quyết định số 177/QĐ-VTHN ngày 12/12/2019 (đọc 13/10/2026): cấm mang vũ khí như súng bắn chim, chất nổ, chất cháy; 'Cấm mang động vật vào Vườn thú Hà Nội'; 'không trêu chọc, kích động và cho động vật ăn bất kì loại đồ ăn nào'; 'không đi lại bằng các loại xe trong phạm vi Vườn thú Hà Nội'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/gioi-thieu-thong-tin-vuon-thu/",
+        "quote": "Vườn thú Hà Nội, trang 'Thông tin Vườn thú Hà Nội' (đọc 13/10/2026): thành lập ngày 06/08/1976; tổng diện tích công viên gần 19 ha, trong đó 8,7 ha là hồ nước; quản lý gần 600 cá thể động vật thuộc gần 90 loài; điểm check-in gồm cầu trái tim hồ Thủ Lệ, cổng Nguyễn Văn Ngọc, cổng đường Cầu Giấy, cổng đường Bưởi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/nang-cap-cong-vien-thu-le-theo-mo-hinh-cong-vien-dong-vat-ban-hoang-da-tai-ngoai-thanh-post1865742.tpo",
+        "quote": "Tiền Phong, 'Nâng cấp Công viên Thủ lệ theo mô hình công viên động vật bán hoang dã tại ngoại thành' (Trần Hoàng, 06/08/2026): lễ kỷ niệm 50 năm thành lập (6/8/1976–6/8/2026); Công viên Thủ Lệ là 'tên gọi khác của Vườn thú Hà Nội'; ban đầu khoảng 300 cá thể thuộc gần 30 loài, nay gần 600 cá thể thuộc gần 90 loài; thành phố 'có thể nghiên cứu' nâng cấp theo mô hình công viên động vật bán hoang dã ở ngoại thành, chưa có mốc thời gian hay dự án phê duyệt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-bat-dau-han-che-phuong-tien-o-vung-loi-hoan-kiem-5091809.html",
+        "quote": "VnExpress, 'Hà Nội bắt đầu hạn chế phương tiện ở vùng lõi Hoàn Kiếm' (01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12/2026 tại khu vực 1 và 2 của phường Hoàn Kiếm; khu vực 1 là 'bên trong đường bao khu phố đi bộ và chợ đêm', giới hạn bởi 12 tuyến Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền; cấm xe mô tô, xe gắn máy và ô tô từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an; xe ưu tiên hoạt động 24/24); 220 bãi, điểm trông giữ trong và lân cận Vành đai 1; dự kiến 10 bãi Park and Ride ở Yên Phụ, Trần Khát Chân, Cầu Giấy, Trần Khánh Dư, Trần Quang Khải, khu vực công viên Thủ Lệ; miễn vé xe buýt trợ giá trong Vành đai 1 từ 1/7/2026 đến 30/6/2027.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 40500,
+        "checked": "2026-10-13",
+        "keyword": "vườn thú hà nội"
+      }
+    ],
+    "notes": "Trang chủ không ghi tháng chuyển giờ mùa hè/mùa đông, không viết tháng cụ thể. Trang 'Dịch vụ trông giữ phương tiện' trống; phí gửi xe chỉ có ở trang Hướng dẫn (đăng 30/05/2025), khuyên kiểm tra tại cổng. Mục metro trên trang Hướng dẫn ghi 'tuyến metro Nhổn – ga Hà Nội' nhưng không nêu ga gần nhất; không tự suy ra ga nào. Quy định không nói về flycam, hút thuốc. Bãi Park and Ride ở khu vực Thủ Lệ là 'dự kiến' theo VnExpress, chưa có địa chỉ/giờ mở: không viết như đã hoạt động. Vườn thú không nằm trong khu vực 1 vùng phát thải thấp (chỉ ở phường Hoàn Kiếm). Quãng đường từ Long Biên chưa có nguồn đo, không ghi km. Không dùng số hotline của vườn trong bài (chỉ số cửa hàng).",
+    "outline": [
+      "Vườn thú Hà Nội ở đâu: Thủ Lệ, phường Giảng Võ, 3 cổng",
+      "Giá vé theo chiều cao và giờ mở cửa, giờ xem thú 8h–16h",
+      "Gửi xe máy: cổng Nguyễn Văn Ngọc và bảng phí ngày, đêm",
+      "Trong vườn có gì: hồ Thủ Lệ 8,7 ha, gần 600 cá thể, gần 90 loài",
+      "Quy định cần nhớ: không cho thú ăn, không mang thú cưng, không đi xe trong vườn",
+      "50 năm và hướng nâng cấp: những gì mới chỉ là định hướng",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/",
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00218.json",
+  "draft_template": {
+    "id": "TM-00218",
+    "url": "/du-lich/vuon-thu-ha-noi/",
+    "title": "Vườn thú Hà Nội (Thủ Lệ): giá vé, giờ mở, 3 cổng vào và gửi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vườn thú hà nội, vườn thú thủ lệ, công viên thủ lệ, giá vé vườn thú hà nội 2026, vườn thú hà nội mấy giờ mở cửa, gửi xe vườn thú hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vườn thú Hà Nội ở đâu: Thủ Lệ, phường Giảng Võ, 3 cổng",
+        "<p></p>"
+      ],
+      [
+        "Giá vé theo chiều cao và giờ mở cửa, giờ xem thú 8h–16h",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe máy: cổng Nguyễn Văn Ngọc và bảng phí ngày, đêm",
+        "<p></p>"
+      ],
+      [
+        "Trong vườn có gì: hồ Thủ Lệ 8,7 ha, gần 600 cá thể, gần 90 loài",
+        "<p></p>"
+      ],
+      [
+        "Quy định cần nhớ: không cho thú ăn, không mang thú cưng, không đi xe trong vườn",
+        "<p></p>"
+      ],
+      [
+        "50 năm và hướng nâng cấp: những gì mới chỉ là định hướng",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/",
+        "quote": "Vườn thú Hà Nội, trang chủ vuonthuhanoi.com (đọc 13/10/2026): vé 50.000đ/vé 'Đối với người có chiều cao lớn hơn 1,3m'; 30.000đ/vé 'Đối với người có chiều cao nhỏ hơn hoặc bằng 1,3m'; mở cửa thứ Hai đến Chủ nhật kể cả ngày Lễ, Tết; 'Mùa Đông từ: 7h30 đến 22h00', 'Mùa Hè từ: 7h00 đến 22h00', 'Trưng bày động vật từ: 8h00 đến 16h00'; sau 16h trả lại không gian yên tĩnh cho thú nghỉ; địa chỉ 'Thủ Lệ - Phường Giảng Võ - Hà Nội'. Trang không ghi ngày chuyển mùa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/huong-dan-tham-quan/",
+        "quote": "Vườn thú Hà Nội, trang 'Hướng dẫn tham quan' (đăng 30/05/2025, đọc 13/10/2026): 3 cổng chính là cổng đường Bưởi; cổng đường Nguyễn Văn Ngọc 'đối diện với khách sạn Deawoo, có bãi gửi xe với diện tích lớn và thuận lợi'; cổng đường Cầu Giấy 'đối diện với trường Đại học Giao thông vận tải'; xe buýt các tuyến 09, 25, 27, 28, 32, 34, 38, 49; metro tuyến Nhổn – ga Hà Nội; phí gửi xe máy (kể cả xe điện) 5.000đ ban ngày, 8.000đ ban đêm, 12.000đ cả ngày và đêm mỗi lượt; xe đạp 3.000đ/5.000đ/7.000đ; ô tô đến 9 chỗ 25.000đ/lượt/giờ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/20145-2/",
+        "quote": "Vườn thú Hà Nội, 'Quy định Vườn thú Hà Nội' ban hành kèm quyết định số 177/QĐ-VTHN ngày 12/12/2019 (đọc 13/10/2026): cấm mang vũ khí như súng bắn chim, chất nổ, chất cháy; 'Cấm mang động vật vào Vườn thú Hà Nội'; 'không trêu chọc, kích động và cho động vật ăn bất kì loại đồ ăn nào'; 'không đi lại bằng các loại xe trong phạm vi Vườn thú Hà Nội'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonthuhanoi.com/gioi-thieu-thong-tin-vuon-thu/",
+        "quote": "Vườn thú Hà Nội, trang 'Thông tin Vườn thú Hà Nội' (đọc 13/10/2026): thành lập ngày 06/08/1976; tổng diện tích công viên gần 19 ha, trong đó 8,7 ha là hồ nước; quản lý gần 600 cá thể động vật thuộc gần 90 loài; điểm check-in gồm cầu trái tim hồ Thủ Lệ, cổng Nguyễn Văn Ngọc, cổng đường Cầu Giấy, cổng đường Bưởi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/nang-cap-cong-vien-thu-le-theo-mo-hinh-cong-vien-dong-vat-ban-hoang-da-tai-ngoai-thanh-post1865742.tpo",
+        "quote": "Tiền Phong, 'Nâng cấp Công viên Thủ lệ theo mô hình công viên động vật bán hoang dã tại ngoại thành' (Trần Hoàng, 06/08/2026): lễ kỷ niệm 50 năm thành lập (6/8/1976–6/8/2026); Công viên Thủ Lệ là 'tên gọi khác của Vườn thú Hà Nội'; ban đầu khoảng 300 cá thể thuộc gần 30 loài, nay gần 600 cá thể thuộc gần 90 loài; thành phố 'có thể nghiên cứu' nâng cấp theo mô hình công viên động vật bán hoang dã ở ngoại thành, chưa có mốc thời gian hay dự án phê duyệt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-bat-dau-han-che-phuong-tien-o-vung-loi-hoan-kiem-5091809.html",
+        "quote": "VnExpress, 'Hà Nội bắt đầu hạn chế phương tiện ở vùng lõi Hoàn Kiếm' (01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12/2026 tại khu vực 1 và 2 của phường Hoàn Kiếm; khu vực 1 là 'bên trong đường bao khu phố đi bộ và chợ đêm', giới hạn bởi 12 tuyến Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền; cấm xe mô tô, xe gắn máy và ô tô từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an; xe ưu tiên hoạt động 24/24); 220 bãi, điểm trông giữ trong và lân cận Vành đai 1; dự kiến 10 bãi Park and Ride ở Yên Phụ, Trần Khát Chân, Cầu Giấy, Trần Khánh Dư, Trần Quang Khải, khu vực công viên Thủ Lệ; miễn vé xe buýt trợ giá trong Vành đai 1 từ 1/7/2026 đến 30/6/2027.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00218"
+  }
+}

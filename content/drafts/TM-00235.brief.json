@@ -1,0 +1,189 @@
+{
+  "writer": "writer-w5c",
+  "queued": "2026-10-13T13:26:23.524380+00:00",
+  "topic": {
+    "topic_id": "TM-00235",
+    "url": "/xe-may/xang-e10-xe-may/",
+    "title": "Xăng E10 cho xe máy: lộ trình từ 1/6/2026, xe đời cũ đổ được không",
+    "hub": "xe-may",
+    "subtopic": "van-hanh",
+    "primary_keyword": "xăng e10 xe máy",
+    "secondary_keywords": [
+      "xe máy cũ đổ xăng e10 được không",
+      "xăng e10 có hại xe máy không",
+      "honda yamaha sym tương thích e10",
+      "lộ trình xăng e10"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy (cả xe cũ, xe chế hòa khí, xe 50cc) thấy cây xăng chuyển sang E10 từ giữa 2026 và muốn biết xe mình đổ được không, hãng nói gì, và cần để ý gì sau khi đổi xăng.",
+    "information_gain": "/bao-duong/xang-e5-hay-a95-cho-xe-may/ chỉ so E5 RON 92 với RON 95 theo sách hướng dẫn và không nhắc E10 hay lộ trình mới. Bài mới cập nhật: Thông tư 50/2025/TT-BCT (từ 1/6/2026 xăng không chì phải pha thành E10 trên toàn quốc; E5 RON 92 tiếp tục đến hết 31/12/2030), yêu cầu rà soát tương thích của Bộ Công Thương, công bố từng hãng (Honda: mọi xe máy phân phối chính thức từ 1997, điều kiện RON ≥ 91 và ethanol ≤ 10%; Yamaha: xe FI và xe chế hòa khí từ 2017; SYM: các dòng 50cc như Elite 50, Attila 50), giới hạn 10% ethanol và tác hại khi vượt trong sách Honda.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/loat-quy-dinh-moi-tac-dong-toi-nguoi-di-xe-may-tu-thang-62026",
+        "quote": "Cổng TTĐT tỉnh Hà Tĩnh, bài 'Loạt quy định mới tác động tới người đi xe máy từ tháng 6/2026' (03/06/2026, nguồn nguoiduatin.vn, đọc 13/10/2026): theo Thông tư 50/2025, từ 01/06/2026 'xăng không chì (theo quy chuẩn quốc gia hiện hành) phải phối trộn, pha chế thành xăng E10 để sử dụng cho động cơ xăng trên toàn quốc' và 'tiếp tục phối trộn, pha chế xăng E5RON 92 để sử dụng cho động cơ xăng đến hết ngày 31 tháng 12 năm 2030'. Bài nêu Yamaha cho biết xe phun xăng điện tử (FI) và xe chế hòa khí sản xuất từ năm 2017 có thể dùng E10, xe chế hòa khí trước 2017 phù hợp với E5.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/bo-cong-thuong-yeu-cau-ra-soat-kha-nang-tuong-thich-cua-phuong-tien-voi-xang-e10-10418691.html",
+        "quote": "Báo Đại biểu Nhân dân (30/05/2026, đọc 13/10/2026): theo Thông tư 50/2025/TT-BCT, từ 1/6/2026 xăng không chì phải pha thành E10 trên cả nước; Cục Công nghiệp (Bộ Công Thương) yêu cầu hiệp hội, doanh nghiệp ô tô, xe máy rà soát tương thích (động cơ, hệ thống phun, cấp nhiên liệu, vật liệu tiếp xúc nhiên liệu; ảnh hưởng tới hiệu suất, tiêu hao, độ bền, khí thải), lập danh mục xe tương thích hoàn toàn / có điều kiện / không khuyến nghị, công bố hướng dẫn cho từng dòng xe và báo cáo trước 5/6/2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://znews.vn/honda-lam-ro-kha-nang-tuong-thich-xang-e10-cua-xe-dang-ban-o-viet-nam-post1661270.html",
+        "quote": "Znews (19/6/2026, đọc 13/10/2026): Honda Việt Nam xác nhận tất cả ô tô, xe máy do hãng sản xuất, lắp ráp, nhập khẩu và phân phối chính thức đều phù hợp xăng E10; tại Việt Nam là từ năm 2006 với ô tô và từ năm 1997 với xe máy; các chi tiết chính tiếp xúc nhiên liệu được chọn vật liệu có xem xét đặc tính nhiên liệu chứa ethanol.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://doanhnghiephoinhap.vn/dung-xang-e10-cho-xe-may-nguoi-dung-can-doc-ky-khuyen-nghi-tu-hang-137735.html",
+        "quote": "Doanh nghiệp & Hội nhập (28/05/2026, đọc 13/10/2026): theo Honda Việt Nam, E10 có tỷ lệ ethanol khoảng 9–10%, chỉ số octan không nhỏ hơn 92; xe máy Honda tương thích E10 nếu nhiên liệu có octan từ 91 trở lên và ethanol không quá 10%, Honda khuyên xem mục nhiên liệu trong sách hướng dẫn theo đời xe. SYM cho biết các dòng 50cc của hãng (cả trước và sau 2010) dùng được E10, gồm Priti 50, Shark EFI 50, Galaxy 50, Elegant Sport 50, Angela 50, Elite 50, Attila 50, Elegant 50.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Nhiên liệu chứa cồn' (tr. 144): có thể dùng nhiên liệu pha cồn không quá 10% ethanol, không chứa chì và đáp ứng chỉ số octan tối thiểu; dùng xăng chứa trên 10% ethanol có thể phá hủy lớp sơn trong bình xăng, làm hỏng ống dẫn nhiên liệu cao su, gây gỉ bình xăng, làm máy vận hành kém; nếu xe có vấn đề vận hành thì thử đổi sang loại xăng khác. Bảng thông số: xăng khuyên dùng RON 91 hoặc cao hơn (ACA160CAF), RON 92 hoặc cao hơn (bản 125), 'Dung tích ETHANOL không quá 10%'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.fuel: trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "xăng e10 xe máy"
+      }
+    ],
+    "notes": "Chưa đọc được bản chính thức Thông tư 50/2025/TT-BCT (chỉ có bản in trước phát hành trên vbpl.vn, chưa tải) – trích lộ trình qua Cổng TTĐT Hà Tĩnh và báo; có tin Bộ Công Thương từng công bố dự thảo sửa Thông tư 50 (4/2026) – writer không khẳng định không có sửa đổi, ghi 'theo Thông tư 50/2025 (đối chiếu 13/10/2026)'. Báo Lào Cai nói E10 mở rộng toàn quốc từ giữa tháng 5/2026 qua Petrolimex, PVOil – không dùng mốc này để tránh mâu thuẫn. Không có công bố chính thức của Suzuki, Piaggio cho từng mẫu xe máy cũ trong nguồn đã đọc – không liệt kê. Không nêu giá xăng E10. Thông tin Yamaha (FI; chế hòa khí từ 2017) lấy qua báo, chưa đọc thông cáo gốc của Yamaha. Không khẳng định xe nào của cửa hàng đổ E10; chính sách xăng của cửa hàng chỉ là policies.fuel.",
+    "outline": [
+      "Câu trả lời ngắn: phần lớn xe máy dùng được E10",
+      "Lộ trình E10 và E5 RON 92 theo Thông tư 50/2025",
+      "Từng hãng nói gì: Honda, Yamaha, SYM",
+      "Xe chế hòa khí đời cũ, xe 50cc: lưu ý riêng",
+      "Vì sao giới hạn 10% ethanol: sách hướng dẫn Honda",
+      "Sau khi chuyển sang E10 cần để ý gì",
+      "Xe thuê đổ xăng gì"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xang-e5-hay-a95-cho-xe-may/",
+      "/bao-duong/xe-may-hao-xang-bat-thuong/",
+      "/bao-duong/ve-sinh-kim-phun-xang-dien-tu-bao-lau-mot-lan/",
+      "/xe-may/sym-elite-50/",
+      "/bao-duong/xe-ga-bi-giat-i-khi-tang-ga/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00235.json",
+  "draft_template": {
+    "id": "TM-00235",
+    "url": "/xe-may/xang-e10-xe-may/",
+    "title": "Xăng E10 cho xe máy: lộ trình từ 1/6/2026, xe đời cũ đổ được không",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "xăng e10 xe máy, xe máy cũ đổ xăng e10 được không, xăng e10 có hại xe máy không, honda yamaha sym tương thích e10, lộ trình xăng e10",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: phần lớn xe máy dùng được E10",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình E10 và E5 RON 92 theo Thông tư 50/2025",
+        "<p></p>"
+      ],
+      [
+        "Từng hãng nói gì: Honda, Yamaha, SYM",
+        "<p></p>"
+      ],
+      [
+        "Xe chế hòa khí đời cũ, xe 50cc: lưu ý riêng",
+        "<p></p>"
+      ],
+      [
+        "Vì sao giới hạn 10% ethanol: sách hướng dẫn Honda",
+        "<p></p>"
+      ],
+      [
+        "Sau khi chuyển sang E10 cần để ý gì",
+        "<p></p>"
+      ],
+      [
+        "Xe thuê đổ xăng gì",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/loat-quy-dinh-moi-tac-dong-toi-nguoi-di-xe-may-tu-thang-62026",
+        "quote": "Cổng TTĐT tỉnh Hà Tĩnh, bài 'Loạt quy định mới tác động tới người đi xe máy từ tháng 6/2026' (03/06/2026, nguồn nguoiduatin.vn, đọc 13/10/2026): theo Thông tư 50/2025, từ 01/06/2026 'xăng không chì (theo quy chuẩn quốc gia hiện hành) phải phối trộn, pha chế thành xăng E10 để sử dụng cho động cơ xăng trên toàn quốc' và 'tiếp tục phối trộn, pha chế xăng E5RON 92 để sử dụng cho động cơ xăng đến hết ngày 31 tháng 12 năm 2030'. Bài nêu Yamaha cho biết xe phun xăng điện tử (FI) và xe chế hòa khí sản xuất từ năm 2017 có thể dùng E10, xe chế hòa khí trước 2017 phù hợp với E5.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/bo-cong-thuong-yeu-cau-ra-soat-kha-nang-tuong-thich-cua-phuong-tien-voi-xang-e10-10418691.html",
+        "quote": "Báo Đại biểu Nhân dân (30/05/2026, đọc 13/10/2026): theo Thông tư 50/2025/TT-BCT, từ 1/6/2026 xăng không chì phải pha thành E10 trên cả nước; Cục Công nghiệp (Bộ Công Thương) yêu cầu hiệp hội, doanh nghiệp ô tô, xe máy rà soát tương thích (động cơ, hệ thống phun, cấp nhiên liệu, vật liệu tiếp xúc nhiên liệu; ảnh hưởng tới hiệu suất, tiêu hao, độ bền, khí thải), lập danh mục xe tương thích hoàn toàn / có điều kiện / không khuyến nghị, công bố hướng dẫn cho từng dòng xe và báo cáo trước 5/6/2026.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://znews.vn/honda-lam-ro-kha-nang-tuong-thich-xang-e10-cua-xe-dang-ban-o-viet-nam-post1661270.html",
+        "quote": "Znews (19/6/2026, đọc 13/10/2026): Honda Việt Nam xác nhận tất cả ô tô, xe máy do hãng sản xuất, lắp ráp, nhập khẩu và phân phối chính thức đều phù hợp xăng E10; tại Việt Nam là từ năm 2006 với ô tô và từ năm 1997 với xe máy; các chi tiết chính tiếp xúc nhiên liệu được chọn vật liệu có xem xét đặc tính nhiên liệu chứa ethanol.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://doanhnghiephoinhap.vn/dung-xang-e10-cho-xe-may-nguoi-dung-can-doc-ky-khuyen-nghi-tu-hang-137735.html",
+        "quote": "Doanh nghiệp & Hội nhập (28/05/2026, đọc 13/10/2026): theo Honda Việt Nam, E10 có tỷ lệ ethanol khoảng 9–10%, chỉ số octan không nhỏ hơn 92; xe máy Honda tương thích E10 nếu nhiên liệu có octan từ 91 trở lên và ethanol không quá 10%, Honda khuyên xem mục nhiên liệu trong sách hướng dẫn theo đời xe. SYM cho biết các dòng 50cc của hãng (cả trước và sau 2010) dùng được E10, gồm Priti 50, Shark EFI 50, Galaxy 50, Elegant Sport 50, Angela 50, Elite 50, Attila 50, Elegant 50.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF cdn.honda.com.vn, đọc 13/10/2026), mục 'Nhiên liệu chứa cồn' (tr. 144): có thể dùng nhiên liệu pha cồn không quá 10% ethanol, không chứa chì và đáp ứng chỉ số octan tối thiểu; dùng xăng chứa trên 10% ethanol có thể phá hủy lớp sơn trong bình xăng, làm hỏng ống dẫn nhiên liệu cao su, gây gỉ bình xăng, làm máy vận hành kém; nếu xe có vấn đề vận hành thì thử đổi sang loại xăng khác. Bảng thông số: xăng khuyên dùng RON 91 hoặc cao hơn (ACA160CAF), RON 92 hoặc cao hơn (bản 125), 'Dung tích ETHANOL không quá 10%'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.fuel: trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00235"
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w5c",
+  "queued": "2026-10-13T13:26:23.521904+00:00",
+  "topic": {
+    "topic_id": "TM-00233",
+    "url": "/luat-giao-thong/di-xe-khong-chinh-chu-co-bi-phat/",
+    "title": "Đi xe không chính chủ có bị phạt không? Xe mượn, xe thuê, xe mua cũ",
+    "hub": "luat-giao-thong",
+    "subtopic": "giay-to-bang-lai",
+    "primary_keyword": "xe không chính chủ có bị phạt không",
+    "secondary_keywords": [
+      "đi xe mượn có bị phạt không chính chủ",
+      "lỗi xe không chính chủ xe máy",
+      "đi xe thuê có bị phạt không chính chủ",
+      "csgt có kiểm tra xe chính chủ không"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi xe mượn của người thân, xe thuê của cửa hàng hoặc xe mua lại chưa sang tên lo bị CSGT phạt 'không chính chủ' khi dừng xe kiểm tra, và muốn biết cần mang giấy tờ gì.",
+    "information_gain": "/luat-giao-thong/sang-ten-xe-may/ viết cho người mua–bán xe (hồ sơ, 30 ngày, lệ phí) và chỉ có một FAQ về mức phạt không sang tên. Bài mới trả lời câu hỏi của NGƯỜI LÁI: luật không có lỗi 'người đi xe không chính chủ' – lỗi thuộc chủ xe không làm thủ tục khi đổi chủ (Điều 32 khoản 3 điểm a NĐ 168, 800 nghìn–1 triệu với cá nhân); việc xác minh chỉ qua điều tra tai nạn, đăng ký xe, xử lý vi phạm tại trụ sở (Điều 47 khoản 10); người lái chỉ cần mang đăng ký xe, bằng lái, bảo hiểm (Luật Điều 56); và rủi ro thật nằm ở chỗ khác: xe không có đăng ký (Điều 32 khoản 8 điểm đ) hoặc không xuất trình được giấy tờ bị tạm giữ xe (Điều 48 khoản 3).",
+    "evidence": [
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF trên storage-vnportal.vnpt.vn (đọc 13/10/2026), Điều 32 khoản 3 điểm a: phạt 800.000–1.000.000 đồng đối với cá nhân, 1.600.000–2.000.000 đồng đối với tổ chức là CHỦ xe mô tô, xe gắn máy không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định. Điều 32 khoản 8 điểm đ: phạt 4.000.000–6.000.000 đồng (cá nhân), 8.000.000–12.000.000 đồng (tổ chức) là chủ xe mô tô, xe gắn máy đưa phương tiện không có chứng nhận đăng ký xe (hoặc đã hết hạn, hết hiệu lực) tham gia giao thông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF trên storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 47 khoản 10: việc xác minh để phát hiện hành vi tại điểm a khoản 3, điểm h khoản 7 Điều 32 được thực hiện thông qua công tác điều tra, giải quyết vụ tai nạn giao thông; qua công tác đăng ký xe; qua công tác xử lý vụ việc vi phạm hành chính tại trụ sở đơn vị.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, hợp nhất 55/VBHN-VPQH (PDF datafiles.chinhphu.vn, đọc 13/10/2026), Điều 56 khoản 1: người lái xe phải đủ tuổi, sức khỏe, có giấy phép lái xe còn điểm, còn hiệu lực phù hợp loại xe (trừ người lái xe gắn máy theo khoản 4) và khi tham gia giao thông phải mang theo: (a) chứng nhận đăng ký xe hoặc bản sao có chứng thực kèm giấy xác nhận của tổ chức tín dụng nếu xe đang thế chấp; (b) giấy phép lái xe phù hợp; (c) chứng nhận kiểm định đối với xe cơ giới theo quy định; (d) chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF trên storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 48 khoản 3: người điều khiển không xuất trình được giấy tờ (bản giấy hoặc tích hợp trên tài khoản định danh điện tử) thì bị lập biên bản lỗi không có giấy tờ, đồng thời lập biên bản với chủ phương tiện theo Điều 32 và tạm giữ phương tiện; nếu trong thời hạn hẹn xuất trình được giấy tờ hợp lệ thì không xử phạt lỗi không có giấy tờ và không xử phạt chủ phương tiện. Điều 18 khoản 2 điểm b: người lái xe mô tô, xe gắn máy không có chứng nhận bảo hiểm bắt buộc còn hiệu lực bị phạt 200.000–300.000 đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+        "quote": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026, PDF datafiles.chinhphu.vn (đọc 13/10/2026), hiệu lực 15/8/2026: Điều 11 sửa Điều 32 nhưng chỉ bổ sung khoản 9a, điểm e khoản 11, điểm e khoản 13 (đều về xe ô tô, thiết bị giám sát hành trình, hàng hóa) và điểm c khoản 21; Điều 19 khoản 17 bãi bỏ điểm d, đ, e, g khoản 17 Điều 32. Không sửa điểm a khoản 3, điểm đ khoản 8 Điều 32 và khoản 10 Điều 47.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1600,
+        "checked": "2026-10-13",
+        "keyword": "xe không chính chủ có bị phạt không"
+      }
+    ],
+    "notes": "Không tìm được văn bản hỏi–đáp chính thức của Cục CSGT riêng về 'xe không chính chủ' hôm nay; kết luận 'người lái xe mượn/xe thuê không bị phạt lỗi không chính chủ' là suy ra từ việc Điều 32 chỉ phạt CHỦ XE và Điều 47 khoản 10 – writer diễn đạt thận trọng ('Nghị định 168 không có hành vi riêng xử phạt người lái vì xe không đứng tên mình'). Thời hạn 30 ngày làm thủ tục khi mua bán đã có ở /luat-giao-thong/sang-ten-xe-may/ (Thông tư 79/2024) – link sang, không lặp chi tiết vì không trích lại hôm nay. Với xe thuê: không mô tả giấy tờ cửa hàng giao cho khách vì business-facts không ghi; chỉ link /thue-xe/thue-xe-may-ha-noi-can-giay-to-gi/. Không viết về phạt nguội.",
+    "outline": [
+      "Câu trả lời ngắn: người lái không bị phạt vì xe không đứng tên mình",
+      "Lỗi 'không chính chủ' thực ra là lỗi của chủ xe không sang tên",
+      "Khi nào lỗi này bị phát hiện: 3 kênh xác minh",
+      "Đi xe mượn, xe thuê cần mang giấy tờ gì",
+      "Rủi ro thật: xe không có đăng ký, không xuất trình được giấy tờ",
+      "Mua xe cũ chưa sang tên: nên làm gì"
+    ],
+    "suggested_internal_links": [
+      "/luat-giao-thong/sang-ten-xe-may/",
+      "/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/",
+      "/luat-giao-thong/giao-xe-may-cho-nguoi-chua-du-tuoi/",
+      "/thue-xe/thue-xe-may-ha-noi-can-giay-to-gi/",
+      "/thue-xe/hop-dong-thue-xe-may-gom-nhung-gi/"
+    ],
+    "content_type": "legal",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00233.json",
+  "draft_template": {
+    "id": "TM-00233",
+    "url": "/luat-giao-thong/di-xe-khong-chinh-chu-co-bi-phat/",
+    "title": "Đi xe không chính chủ có bị phạt không? Xe mượn, xe thuê, xe mua cũ",
+    "hub": "luat-giao-thong",
+    "parent": "/luat-giao-thong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "xe không chính chủ có bị phạt không, đi xe mượn có bị phạt không chính chủ, lỗi xe không chính chủ xe máy, đi xe thuê có bị phạt không chính chủ, csgt có kiểm tra xe chính chủ không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: người lái không bị phạt vì xe không đứng tên mình",
+        "<p></p>"
+      ],
+      [
+        "Lỗi 'không chính chủ' thực ra là lỗi của chủ xe không sang tên",
+        "<p></p>"
+      ],
+      [
+        "Khi nào lỗi này bị phát hiện: 3 kênh xác minh",
+        "<p></p>"
+      ],
+      [
+        "Đi xe mượn, xe thuê cần mang giấy tờ gì",
+        "<p></p>"
+      ],
+      [
+        "Rủi ro thật: xe không có đăng ký, không xuất trình được giấy tờ",
+        "<p></p>"
+      ],
+      [
+        "Mua xe cũ chưa sang tên: nên làm gì",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF trên storage-vnportal.vnpt.vn (đọc 13/10/2026), Điều 32 khoản 3 điểm a: phạt 800.000–1.000.000 đồng đối với cá nhân, 1.600.000–2.000.000 đồng đối với tổ chức là CHỦ xe mô tô, xe gắn máy không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định. Điều 32 khoản 8 điểm đ: phạt 4.000.000–6.000.000 đồng (cá nhân), 8.000.000–12.000.000 đồng (tổ chức) là chủ xe mô tô, xe gắn máy đưa phương tiện không có chứng nhận đăng ký xe (hoặc đã hết hạn, hết hiệu lực) tham gia giao thông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF trên storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 47 khoản 10: việc xác minh để phát hiện hành vi tại điểm a khoản 3, điểm h khoản 7 Điều 32 được thực hiện thông qua công tác điều tra, giải quyết vụ tai nạn giao thông; qua công tác đăng ký xe; qua công tác xử lý vụ việc vi phạm hành chính tại trụ sở đơn vị.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, hợp nhất 55/VBHN-VPQH (PDF datafiles.chinhphu.vn, đọc 13/10/2026), Điều 56 khoản 1: người lái xe phải đủ tuổi, sức khỏe, có giấy phép lái xe còn điểm, còn hiệu lực phù hợp loại xe (trừ người lái xe gắn máy theo khoản 4) và khi tham gia giao thông phải mang theo: (a) chứng nhận đăng ký xe hoặc bản sao có chứng thực kèm giấy xác nhận của tổ chức tín dụng nếu xe đang thế chấp; (b) giấy phép lái xe phù hợp; (c) chứng nhận kiểm định đối với xe cơ giới theo quy định; (d) chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF trên storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 48 khoản 3: người điều khiển không xuất trình được giấy tờ (bản giấy hoặc tích hợp trên tài khoản định danh điện tử) thì bị lập biên bản lỗi không có giấy tờ, đồng thời lập biên bản với chủ phương tiện theo Điều 32 và tạm giữ phương tiện; nếu trong thời hạn hẹn xuất trình được giấy tờ hợp lệ thì không xử phạt lỗi không có giấy tờ và không xử phạt chủ phương tiện. Điều 18 khoản 2 điểm b: người lái xe mô tô, xe gắn máy không có chứng nhận bảo hiểm bắt buộc còn hiệu lực bị phạt 200.000–300.000 đồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+        "quote": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026, PDF datafiles.chinhphu.vn (đọc 13/10/2026), hiệu lực 15/8/2026: Điều 11 sửa Điều 32 nhưng chỉ bổ sung khoản 9a, điểm e khoản 11, điểm e khoản 13 (đều về xe ô tô, thiết bị giám sát hành trình, hàng hóa) và điểm c khoản 21; Điều 19 khoản 17 bãi bỏ điểm d, đ, e, g khoản 17 Điều 32. Không sửa điểm a khoản 3, điểm đ khoản 8 Điều 32 và khoản 10 Điều 47.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00233"
+  }
+}

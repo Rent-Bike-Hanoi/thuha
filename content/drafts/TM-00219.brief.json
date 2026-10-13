@@ -1,0 +1,177 @@
+{
+  "writer": "writer-w5a",
+  "queued": "2026-10-13T13:26:23.239207+00:00",
+  "topic": {
+    "topic_id": "TM-00219",
+    "url": "/du-lich/vuon-bach-thao-ha-noi/",
+    "title": "Vườn Bách Thảo Hà Nội: công viên từ 1890, đã hạ rào, vào từ đâu",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "vườn bách thảo hà nội",
+    "secondary_keywords": [
+      "công viên bách thảo",
+      "bách thảo hà nội ở đâu",
+      "công viên bách thảo hạ rào",
+      "vé vào bách thảo",
+      "núi sưa bách thảo"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn tìm một công viên cây cổ thụ yên tĩnh ở Ba Đình cần biết Bách Thảo ở đâu, vào từ phố nào, còn thu vé không sau khi hạ rào và trong vườn có gì đáng xem.",
+    "information_gain": "Site chưa có bài về Bách Thảo. Gần nhất là /du-lich/cong-vien-thong-nhat/ (công viên khác đã bỏ vé), /du-lich/lang-bac-gio-mo-cua/ và /du-lich/bao-tang-ho-chi-minh/ (điểm cùng khu Ba Đình, không nói về Bách Thảo). Bài này thêm: vườn lập năm 1890, từng rộng hơn 33 ha nay hơn 10 ha (VietnamNet) hoặc khoảng 20 ha (VOV) — nêu rõ chênh lệch; đổi tên Công viên Bách Thảo sau 1954; hai cổng Hoàng Hoa Thám và Ngọc Hà; núi Sưa, đền Sưa, hồ Vị Danh; việc hạ rào sắt ghi nhận tháng 2/2026; dự án cải tạo 148,5 tỷ đồng giai đoạn 2023–2026 và việc chậm tiến độ; mức vé cũ 5.000–15.000đ (2023) và lý do không khẳng định mức vé hiện tại.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/multimedia/cong-vien-bach-thao-thong-thoang-hon-sau-khi-ha-rao-sat-202655.html",
+        "quote": "Báo Văn Hóa, 'Công viên Bách Thảo thông thoáng hơn sau khi hạ rào sắt' (Thanh Mai, Hà Châu, 04/02/2026): công viên ở phường Ba Đình 'đã được gỡ bỏ hàng rào', người dân vào 'từ nhiều hướng'; là 'lá phổi xanh' với nhiều cây cổ thụ. Bài không nói về vé.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dao-choi-cuoi-tuan-tai-cong-vien-bach-thao-68779.html",
+        "quote": "Người Hà Nội, 'Dạo chơi cuối tuần tại công viên Bách Thảo' (Kim Ngân, 07/04/2023): xây dựng từ năm 1890 bởi người Pháp; địa chỉ 01 Hoàng Hoa Thám, Ngọc Hà, Ba Đình; hai cổng: đầu phố Hoàng Hoa Thám và 'ngay giữa phố Ngọc Hà'; vé 'chỉ dao động từ 5.000 – 15.000 đồng phụ thuộc vào phương tiện đi lại'; mở cửa 5h–22h hằng ngày; núi Sưa (6.481 m²) hay bị nhầm là núi Nùng, có đền Sưa thờ Huyền Thiên Hắc Đế; hồ chính là hồ Vị Danh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/en/a-peaceful-and-green-oasis-in-the-heart-of-hanoi-704658.html",
+        "quote": "VietnamNet (tiếng Anh), 'A peaceful and green oasis in the heart of Hanoi' (05/02/2021): năm 1890 chính quyền thuộc địa Pháp lấy đất làm vườn thực vật; ban đầu 'over 33 hectares', nay 'over 10 hectares'; sau giải phóng 1954 được cải tạo và đổi tên Công viên Bách Thảo; góc tây bắc có gò cao gọi là núi Nùng, trên đỉnh có đền cổ thờ Huyền Thiên Hắc Đế; cổng chính phố Ngọc Hà, cổng phụ đầu phố Hoàng Hoa Thám.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baodauthau.vn/ha-noi-dau-tu-gan-890-ty-dong-nang-cap-cai-tao-cong-vien-thong-nhat-thu-le-va-bach-thao-post144641.html",
+        "quote": "Báo Đấu thầu, 'Hà Nội: Đầu tư gần 890 tỷ đồng nâng cấp, cải tạo công viên Thống Nhất, Thủ Lệ và Bách Thảo' (06/10/2023): công viên Bách Thảo (phường Ngọc Hà, quận Ba Đình cũ) tổng mức đầu tư 148,5 tỷ đồng, cải tạo tường rào đặc phía Nam, hàng rào sắt, đường giao thông chính, đường dạo, chỗ nghỉ, hồ và sân chơi trẻ em có mái che; thuộc giai đoạn 2023–2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/cong-vien-bach-thao-xuong-cap-nghiem-trong-ha-noi-cai-tao-cham-tre-post1156955.vov",
+        "quote": "VOV, 'Công viên Bách Thảo xuống cấp nghiêm trọng, Hà Nội cải tạo chậm trễ' (25/02/2025): công viên 'có diện tích khoảng 20 ha', ở phường Ngọc Hà, quận Ba Đình (cũ), nhiều hạng mục xuống cấp; kế hoạch cải tạo khi đó 'vẫn chỉ nằm trên giấy'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 480,
+        "checked": "2026-10-13",
+        "keyword": "vườn bách thảo hà nội"
+      }
+    ],
+    "notes": "Diện tích lệch nhau: hơn 10 ha (VietnamNet 2021, Zing/Sở Xây dựng 2022) và khoảng 20 ha (VOV 2025) — nêu cả hai, không chọn một. Vé 5.000–15.000đ và giờ 5h–22h là số năm 2023; sau khi hạ rào (2/2026) chưa tìm được nguồn nói còn thu vé hay miễn phí — không khẳng định, khuyên hỏi tại chỗ. Chưa có nguồn xác nhận dự án cải tạo 148,5 tỷ đã khởi công/hoàn thành. Tên 'núi Nùng' vs 'núi Sưa': hai nguồn gọi khác nhau, nên viết 'gò cao thường được gọi là núi Nùng, có nguồn gọi núi Sưa'. Chỗ gửi xe máy và phí: chưa có nguồn. Không thuộc vùng phát thải thấp giai đoạn 1. Không ghi km từ Long Biên.",
+    "outline": [
+      "Bách Thảo ở đâu và vào từ cổng nào: Hoàng Hoa Thám, Ngọc Hà",
+      "Từ vườn thực vật 1890 đến Công viên Bách Thảo",
+      "Xem gì: cây cổ thụ, gò núi Nùng/núi Sưa, đền Sưa, hồ Vị Danh",
+      "Sau khi hạ rào 2/2026: vé và giờ mở, điều đã biết và điều cần hỏi",
+      "Dự án cải tạo 148,5 tỷ đồng: kế hoạch và tiến độ",
+      "Ghép lịch với Lăng Bác, Bảo tàng Hồ Chí Minh",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-bac-gio-mo-cua/",
+      "/du-lich/bao-tang-ho-chi-minh/",
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/ha-noi/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00219.json",
+  "draft_template": {
+    "id": "TM-00219",
+    "url": "/du-lich/vuon-bach-thao-ha-noi/",
+    "title": "Vườn Bách Thảo Hà Nội: công viên từ 1890, đã hạ rào, vào từ đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vườn bách thảo hà nội, công viên bách thảo, bách thảo hà nội ở đâu, công viên bách thảo hạ rào, vé vào bách thảo, núi sưa bách thảo",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bách Thảo ở đâu và vào từ cổng nào: Hoàng Hoa Thám, Ngọc Hà",
+        "<p></p>"
+      ],
+      [
+        "Từ vườn thực vật 1890 đến Công viên Bách Thảo",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: cây cổ thụ, gò núi Nùng/núi Sưa, đền Sưa, hồ Vị Danh",
+        "<p></p>"
+      ],
+      [
+        "Sau khi hạ rào 2/2026: vé và giờ mở, điều đã biết và điều cần hỏi",
+        "<p></p>"
+      ],
+      [
+        "Dự án cải tạo 148,5 tỷ đồng: kế hoạch và tiến độ",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Lăng Bác, Bảo tàng Hồ Chí Minh",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/multimedia/cong-vien-bach-thao-thong-thoang-hon-sau-khi-ha-rao-sat-202655.html",
+        "quote": "Báo Văn Hóa, 'Công viên Bách Thảo thông thoáng hơn sau khi hạ rào sắt' (Thanh Mai, Hà Châu, 04/02/2026): công viên ở phường Ba Đình 'đã được gỡ bỏ hàng rào', người dân vào 'từ nhiều hướng'; là 'lá phổi xanh' với nhiều cây cổ thụ. Bài không nói về vé.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dao-choi-cuoi-tuan-tai-cong-vien-bach-thao-68779.html",
+        "quote": "Người Hà Nội, 'Dạo chơi cuối tuần tại công viên Bách Thảo' (Kim Ngân, 07/04/2023): xây dựng từ năm 1890 bởi người Pháp; địa chỉ 01 Hoàng Hoa Thám, Ngọc Hà, Ba Đình; hai cổng: đầu phố Hoàng Hoa Thám và 'ngay giữa phố Ngọc Hà'; vé 'chỉ dao động từ 5.000 – 15.000 đồng phụ thuộc vào phương tiện đi lại'; mở cửa 5h–22h hằng ngày; núi Sưa (6.481 m²) hay bị nhầm là núi Nùng, có đền Sưa thờ Huyền Thiên Hắc Đế; hồ chính là hồ Vị Danh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/en/a-peaceful-and-green-oasis-in-the-heart-of-hanoi-704658.html",
+        "quote": "VietnamNet (tiếng Anh), 'A peaceful and green oasis in the heart of Hanoi' (05/02/2021): năm 1890 chính quyền thuộc địa Pháp lấy đất làm vườn thực vật; ban đầu 'over 33 hectares', nay 'over 10 hectares'; sau giải phóng 1954 được cải tạo và đổi tên Công viên Bách Thảo; góc tây bắc có gò cao gọi là núi Nùng, trên đỉnh có đền cổ thờ Huyền Thiên Hắc Đế; cổng chính phố Ngọc Hà, cổng phụ đầu phố Hoàng Hoa Thám.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baodauthau.vn/ha-noi-dau-tu-gan-890-ty-dong-nang-cap-cai-tao-cong-vien-thong-nhat-thu-le-va-bach-thao-post144641.html",
+        "quote": "Báo Đấu thầu, 'Hà Nội: Đầu tư gần 890 tỷ đồng nâng cấp, cải tạo công viên Thống Nhất, Thủ Lệ và Bách Thảo' (06/10/2023): công viên Bách Thảo (phường Ngọc Hà, quận Ba Đình cũ) tổng mức đầu tư 148,5 tỷ đồng, cải tạo tường rào đặc phía Nam, hàng rào sắt, đường giao thông chính, đường dạo, chỗ nghỉ, hồ và sân chơi trẻ em có mái che; thuộc giai đoạn 2023–2026.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/cong-vien-bach-thao-xuong-cap-nghiem-trong-ha-noi-cai-tao-cham-tre-post1156955.vov",
+        "quote": "VOV, 'Công viên Bách Thảo xuống cấp nghiêm trọng, Hà Nội cải tạo chậm trễ' (25/02/2025): công viên 'có diện tích khoảng 20 ha', ở phường Ngọc Hà, quận Ba Đình (cũ), nhiều hạng mục xuống cấp; kế hoạch cải tạo khi đó 'vẫn chỉ nằm trên giấy'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00219"
+  }
+}

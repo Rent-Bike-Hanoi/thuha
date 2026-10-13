@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w5d",
+  "queued": "2026-10-13T13:26:23.661107+00:00",
+  "topic": {
+    "topic_id": "TM-00241",
+    "url": "/kinh-nghiem/phong-cuop-giat-khi-di-xe-may/",
+    "title": "Phòng cướp giật khi đi xe máy ở Hà Nội: túi, điện thoại, xử lý khi bị giật",
+    "hub": "kinh-nghiem",
+    "subtopic": "an-toan",
+    "primary_keyword": "phòng cướp giật khi đi xe máy",
+    "secondary_keywords": [
+      "bị giật điện thoại khi đi xe máy",
+      "cướp giật túi xách xe máy",
+      "bị cướp giật phải làm gì",
+      "an toàn cho khách du lịch đi xe máy hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy ở Hà Nội, nhất là khách du lịch và người mới thuê xe, lo bị giật túi, điện thoại khi đang chạy hoặc dừng đèn đỏ; muốn biết thủ đoạn thường gặp, cách mang đồ và nên làm gì nếu bị giật.",
+    "information_gain": "Chưa có bài nào về cướp giật; /kinh-nghiem/lai-xe-o-ha-noi/ và /kinh-nghiem/di-xe-may-ban-dem-an-toan/ nói kỹ năng lái, không nói an ninh tài sản. Bài mới tổng hợp từ Công an Hà Nội qua báo: thủ đoạn (xe máy tháo hoặc lắp biển giả, bám người đeo túi trên vai, chọn lúc nhá nhem tối, nơi vắng, ít camera – vụ bắt đối tượng 8 vụ năm 2026), 5 biện pháp công an khuyến cáo (hạn chế trang sức, quan sát đối tượng nghi vấn, không cho người lạ đi nhờ xe, bình tĩnh tri hô, ghi nhớ đặc điểm để tố giác), trình báo công an sau khi bị cướp, và cách mang túi, điện thoại khi đi xe máy; liên kết sang thủ tục cấp lại bằng lái nếu mất giấy tờ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/cong-an-khuyen-cao-5-bien-phap-chong-cuop-giat-tren-duong-ha-noi-post290083.html",
+        "quote": "Báo Pháp luật Việt Nam (31/10/2018, đọc 13/10/2026): có nhóm đối tượng trong nửa tháng thực hiện tới 20 vụ cướp, cướp giật ở Hà Nội; đối tượng thường dùng xe máy tháo biển hoặc lắp biển giả, bám theo người để lộ sơ hở như đeo túi trên vai; theo Công an Hà Nội, đa số là đối tượng có tiền án, tiền sự, nghiện ma túy. Công an khuyến cáo: hạn chế đeo trang sức khi ra đường; chú ý quan sát, phòng tránh đối tượng nghi vấn; không cho người lạ đi nhờ xe; giữ bình tĩnh khi bị cướp, tri hô để tìm sự giúp đỡ; ghi nhớ đặc điểm đối tượng để tố giác.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/phap-luat/bat-doi-tuong-gay-ra-hang-loat-vu-cuop-giat-214708.html",
+        "quote": "Báo Văn hóa (26/03/2026, đọc 13/10/2026): Phòng Cảnh sát hình sự Công an TP Hà Nội bắt một đối tượng gây 8 vụ cướp giật ở Hà Nội và Phú Thọ; tháng 1–2/2026 phát hiện 4 vụ ở các xã Hát Môn, Quảng Oai, Phúc Thịnh; đối tượng thường chọn lúc nhá nhem tối, khu vực vắng người, ít camera giám sát rồi nhanh chóng tẩu thoát; bị khởi tố về tội 'Cướp giật tài sản' theo Điều 171 Bộ luật Hình sự.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/canh-giac-voi-nan-cuop-giat-giua-ban-ngay-tren-duong-ha-noi-post112116.html",
+        "quote": "Báo Pháp luật Việt Nam (06/06/2012, đọc 13/10/2026): ví dụ cướp giật giữa ban ngày trên phố Bạch Mai và trên cầu Vĩnh Tuy (đối tượng đạp đổ xe máy để lấy túi xách); trinh sát Phòng CSHS Công an Hà Nội cho biết tội phạm cướp giật chủ yếu nhắm vào phụ nữ đeo trang sức kim loại quý; người bị hại cần đến cơ quan công an trình báo để phục vụ điều tra, khoanh vùng, vây bắt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "phòng cướp giật khi đi xe máy"
+      }
+    ],
+    "notes": "Nguồn khuyến cáo chính của Công an Hà Nội là bài năm 2018 và 2012 (qua báo) – ghi rõ năm, không trình bày như số liệu hiện tại; con số '20 vụ trong nửa tháng' là năm 2018. Chưa tìm được khuyến cáo chính thức 2026 của Công an TP Hà Nội trên trang congan.hanoi.gov.vn. Không nêu số điện thoại công an/ đường dây nóng (chỉ được dùng số cửa hàng); có thể nói chung 'báo công an phường gần nhất'. Lời khuyên cụ thể về cất túi vào cốp, không treo túi ở móc trước chỉ thấy trong tóm tắt tìm kiếm, chưa thấy trong trang đã đọc – nếu viết thì để dạng lời khuyên chung (general-advice), không gán cho công an. Không nói về bảo hiểm mất cắp. Bài không gắn với xe thuê bị mất (business-facts không có chính sách).",
+    "outline": [
+      "Câu trả lời ngắn: không để lộ túi, điện thoại, trang sức khi chạy xe",
+      "Thủ đoạn cướp giật thường gặp ở Hà Nội",
+      "Mang túi, điện thoại, giấy tờ thế nào khi đi xe máy",
+      "5 khuyến cáo của công an",
+      "Bị giật đồ: bình tĩnh, tri hô, ghi nhớ, trình báo",
+      "Mất giấy tờ, bằng lái sau khi bị cướp"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/lai-xe-o-ha-noi/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/luat-giao-thong/cap-lai-bang-lai-xe-may-bi-mat/",
+      "/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/",
+      "/du-lich/ha-noi/pho-co/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00241.json",
+  "draft_template": {
+    "id": "TM-00241",
+    "url": "/kinh-nghiem/phong-cuop-giat-khi-di-xe-may/",
+    "title": "Phòng cướp giật khi đi xe máy ở Hà Nội: túi, điện thoại, xử lý khi bị giật",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phòng cướp giật khi đi xe máy, bị giật điện thoại khi đi xe máy, cướp giật túi xách xe máy, bị cướp giật phải làm gì, an toàn cho khách du lịch đi xe máy hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: không để lộ túi, điện thoại, trang sức khi chạy xe",
+        "<p></p>"
+      ],
+      [
+        "Thủ đoạn cướp giật thường gặp ở Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Mang túi, điện thoại, giấy tờ thế nào khi đi xe máy",
+        "<p></p>"
+      ],
+      [
+        "5 khuyến cáo của công an",
+        "<p></p>"
+      ],
+      [
+        "Bị giật đồ: bình tĩnh, tri hô, ghi nhớ, trình báo",
+        "<p></p>"
+      ],
+      [
+        "Mất giấy tờ, bằng lái sau khi bị cướp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/cong-an-khuyen-cao-5-bien-phap-chong-cuop-giat-tren-duong-ha-noi-post290083.html",
+        "quote": "Báo Pháp luật Việt Nam (31/10/2018, đọc 13/10/2026): có nhóm đối tượng trong nửa tháng thực hiện tới 20 vụ cướp, cướp giật ở Hà Nội; đối tượng thường dùng xe máy tháo biển hoặc lắp biển giả, bám theo người để lộ sơ hở như đeo túi trên vai; theo Công an Hà Nội, đa số là đối tượng có tiền án, tiền sự, nghiện ma túy. Công an khuyến cáo: hạn chế đeo trang sức khi ra đường; chú ý quan sát, phòng tránh đối tượng nghi vấn; không cho người lạ đi nhờ xe; giữ bình tĩnh khi bị cướp, tri hô để tìm sự giúp đỡ; ghi nhớ đặc điểm đối tượng để tố giác.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/phap-luat/bat-doi-tuong-gay-ra-hang-loat-vu-cuop-giat-214708.html",
+        "quote": "Báo Văn hóa (26/03/2026, đọc 13/10/2026): Phòng Cảnh sát hình sự Công an TP Hà Nội bắt một đối tượng gây 8 vụ cướp giật ở Hà Nội và Phú Thọ; tháng 1–2/2026 phát hiện 4 vụ ở các xã Hát Môn, Quảng Oai, Phúc Thịnh; đối tượng thường chọn lúc nhá nhem tối, khu vực vắng người, ít camera giám sát rồi nhanh chóng tẩu thoát; bị khởi tố về tội 'Cướp giật tài sản' theo Điều 171 Bộ luật Hình sự.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/canh-giac-voi-nan-cuop-giat-giua-ban-ngay-tren-duong-ha-noi-post112116.html",
+        "quote": "Báo Pháp luật Việt Nam (06/06/2012, đọc 13/10/2026): ví dụ cướp giật giữa ban ngày trên phố Bạch Mai và trên cầu Vĩnh Tuy (đối tượng đạp đổ xe máy để lấy túi xách); trinh sát Phòng CSHS Công an Hà Nội cho biết tội phạm cướp giật chủ yếu nhắm vào phụ nữ đeo trang sức kim loại quý; người bị hại cần đến cơ quan công an trình báo để phục vụ điều tra, khoanh vùng, vây bắt.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00241"
+  }
+}

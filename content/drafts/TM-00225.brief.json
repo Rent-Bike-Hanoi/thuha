@@ -1,0 +1,151 @@
+{
+  "writer": "writer-w5b",
+  "queued": "2026-10-13T13:26:23.374291+00:00",
+  "topic": {
+    "topic_id": "TM-00225",
+    "url": "/du-lich/lang-co-dong-ngac/",
+    "title": "Làng cổ Đông Ngạc: làng tiến sĩ, đình Vẽ, nhà cổ và đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng cổ đông ngạc",
+    "secondary_keywords": [
+      "làng đông ngạc",
+      "làng vẽ",
+      "làng tiến sĩ hà nội",
+      "đình đông ngạc",
+      "chùa tư khánh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích kiến trúc làng cổ muốn một buổi đi xe máy khám phá Đông Ngạc cần biết làng có gì đáng xem (đình, văn chỉ, chùa, nhà thờ họ, nhà cổ), lễ hội vào dịp nào và cách ứng xử khi vào nhà dân.",
+    "information_gain": "Site chưa có bài về Đông Ngạc. Gần nhất là /du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/ (tuyến cầu phía bắc, không nói về làng), /du-lich/lang-hoa-nhat-tan-quat-tu-lien/ (làng nghề hoa khác) và /du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ (làng cổ ngoại thành). Bài này thêm: 22 tiến sĩ (21 văn, 1 võ) ghi ở văn chỉ, người đỗ đầu Phan Phu Tiên; đình Vẽ dựng năm 1635, xếp hạng quốc gia năm 1993, hội làng tháng 2 âm lịch; chùa Tư Khánh thời Lê Thần Tông với chuông 750 kg năm 1817; nhà thờ họ Phan hơn 400 năm; khoảng 100 nhà cổ trên 100 năm; 32 di tích; nhà bà Phạm Thị Thiền là cơ sở cách mạng 1939–1945; và lời nhắc xin phép trước khi vào nhà dân.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lang-trong-pho-hon-500-tuoi-o-ha-noi-4816806.html",
+        "quote": "VnExpress, 'Làng trong phố hơn 500 tuổi ở Hà Nội' (19/11/2024): Đông Ngạc nay là phường Đông Ngạc, quận Bắc Từ Liêm (cũ), 'cách trung tâm Hà Nội khoảng 15 km', đi ô tô hoặc xe máy dễ dàng; lõi làng cổ khoảng 120 ha gồm 5 xóm; văn chỉ ghi danh 22 tiến sĩ (21 văn, 1 võ); người đỗ đầu là Phan Phu Tiên khoa Bính Tý 1396; đình Vẽ gần 500 năm, xếp hạng di tích quốc gia năm 1993, hội làng ngày 10 tháng 2 âm lịch; hơn 100 ngôi nhà trên trăm năm; nhà ông Đỗ Ngọc Đỉnh khoảng 200 năm; nhà bà Phạm Thị Thiền là nơi họp, cất giấu tài liệu cách mạng 1939–1945; khách nên xin phép trước khi vào nhà dân.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ngoi-lang-tien-si-ha-noi-tung-len-bao-my-giu-gan-100-nha-co-tram-nam-2487491.html",
+        "quote": "VietNamNet, ''Ngôi làng tiến sĩ' Hà Nội từng lên báo Mỹ, giữ gần 100 nhà cổ trăm năm' (19/03/2026): làng Đông Ngạc (nay phường Đông Ngạc), tên Nôm Kẻ Vẽ, cách trung tâm khoảng 10 km về phía tây bắc; CNN từng giới thiệu năm 2019; theo văn bia ở đình làng có 22 tiến sĩ, đứng thứ ba cả nước sau Mộ Trạch, Kim Đôi và đứng đầu Hà Nội; khoảng 100 nhà trên 100 năm; nhà thờ họ Phan hơn 400 năm, rộng khoảng 1.000 m²; đình Vẽ khoảng 400 năm, tu bổ lần gần nhất năm 1994, hội từ mùng 8 đến 11 tháng 2 âm lịch; cổng Cái, cổng Đồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/lang-co-dong-ngac-not-lang-giua-long-do-thi-677176.html",
+        "quote": "Nhịp sống Hà Nội (Hà Nội Mới), 'Làng cổ Đông Ngạc: Nốt lặng giữa lòng đô thị' (Linh Tâm, 08/09/2024): làng ven sông Hồng 'cách trung tâm Thủ đô khoảng 10km'; có 32 di tích (đình, đền, chùa, miếu, văn chỉ, di tích cách mạng, nhà thờ họ) và 100 nhà cổ; 22 tiến sĩ (21 văn, 1 võ); đình Đông Ngạc (đình Vẽ) dựng năm 1635, xếp hạng di tích quốc gia năm 1993; chùa Tư Khánh xây thời Lê Thần Tông (1653–1658), chuông đồng 750 kg năm 1817; nhà thờ Đỗ Thế Giai, nhà thờ họ Phan; món giò Chèm, nem Vẽ, bánh khoai phồng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 480,
+        "checked": "2026-10-13",
+        "keyword": "làng cổ đông ngạc"
+      }
+    ],
+    "notes": "Khoảng cách tới trung tâm lệch: 15 km (VnExpress) và 10 km (VietNamNet, Nhịp sống Hà Nội) — nêu kèm nguồn hoặc bỏ; không tính km từ Long Biên (chưa có nguồn đo). Năm đỗ của Phan Phu Tiên: 1396 (VnExpress) vs 1393 (VietNamNet) — ghi kèm nguồn. Tuổi đình: gần 500 năm (VnExpress), khoảng 400 năm (VietNamNet), dựng 1635 (Hà Nội Mới). Ngày hội: ngày 10 tháng 2 âm lịch (VnExpress) hoặc 8–11 tháng 2 âm lịch (VietNamNet). Giờ mở đình, chùa, nhà thờ họ và vé: không có nguồn (nhiều nơi là nhà dân, phải xin phép). Chỗ gửi xe máy: chưa có nguồn. Cổng thông tin bactuliem.hanoi.gov.vn không còn truy cập được.",
+    "outline": [
+      "Đông Ngạc ở đâu: làng Kẻ Vẽ ven sông Hồng, nay là phường Đông Ngạc",
+      "Vì sao gọi là làng tiến sĩ: 22 tiến sĩ và văn chỉ",
+      "Đình Vẽ, chùa Tư Khánh và các nhà thờ họ nên ghé",
+      "Nhà cổ trăm năm: xem thế nào cho phải phép",
+      "Hội làng tháng 2 âm lịch và món ăn của làng",
+      "Đi xe máy và gửi xe: những điều cần hỏi trước",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/ha-noi/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00225.json",
+  "draft_template": {
+    "id": "TM-00225",
+    "url": "/du-lich/lang-co-dong-ngac/",
+    "title": "Làng cổ Đông Ngạc: làng tiến sĩ, đình Vẽ, nhà cổ và đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng cổ đông ngạc, làng đông ngạc, làng vẽ, làng tiến sĩ hà nội, đình đông ngạc, chùa tư khánh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đông Ngạc ở đâu: làng Kẻ Vẽ ven sông Hồng, nay là phường Đông Ngạc",
+        "<p></p>"
+      ],
+      [
+        "Vì sao gọi là làng tiến sĩ: 22 tiến sĩ và văn chỉ",
+        "<p></p>"
+      ],
+      [
+        "Đình Vẽ, chùa Tư Khánh và các nhà thờ họ nên ghé",
+        "<p></p>"
+      ],
+      [
+        "Nhà cổ trăm năm: xem thế nào cho phải phép",
+        "<p></p>"
+      ],
+      [
+        "Hội làng tháng 2 âm lịch và món ăn của làng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và gửi xe: những điều cần hỏi trước",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lang-trong-pho-hon-500-tuoi-o-ha-noi-4816806.html",
+        "quote": "VnExpress, 'Làng trong phố hơn 500 tuổi ở Hà Nội' (19/11/2024): Đông Ngạc nay là phường Đông Ngạc, quận Bắc Từ Liêm (cũ), 'cách trung tâm Hà Nội khoảng 15 km', đi ô tô hoặc xe máy dễ dàng; lõi làng cổ khoảng 120 ha gồm 5 xóm; văn chỉ ghi danh 22 tiến sĩ (21 văn, 1 võ); người đỗ đầu là Phan Phu Tiên khoa Bính Tý 1396; đình Vẽ gần 500 năm, xếp hạng di tích quốc gia năm 1993, hội làng ngày 10 tháng 2 âm lịch; hơn 100 ngôi nhà trên trăm năm; nhà ông Đỗ Ngọc Đỉnh khoảng 200 năm; nhà bà Phạm Thị Thiền là nơi họp, cất giấu tài liệu cách mạng 1939–1945; khách nên xin phép trước khi vào nhà dân.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ngoi-lang-tien-si-ha-noi-tung-len-bao-my-giu-gan-100-nha-co-tram-nam-2487491.html",
+        "quote": "VietNamNet, ''Ngôi làng tiến sĩ' Hà Nội từng lên báo Mỹ, giữ gần 100 nhà cổ trăm năm' (19/03/2026): làng Đông Ngạc (nay phường Đông Ngạc), tên Nôm Kẻ Vẽ, cách trung tâm khoảng 10 km về phía tây bắc; CNN từng giới thiệu năm 2019; theo văn bia ở đình làng có 22 tiến sĩ, đứng thứ ba cả nước sau Mộ Trạch, Kim Đôi và đứng đầu Hà Nội; khoảng 100 nhà trên 100 năm; nhà thờ họ Phan hơn 400 năm, rộng khoảng 1.000 m²; đình Vẽ khoảng 400 năm, tu bổ lần gần nhất năm 1994, hội từ mùng 8 đến 11 tháng 2 âm lịch; cổng Cái, cổng Đồng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/lang-co-dong-ngac-not-lang-giua-long-do-thi-677176.html",
+        "quote": "Nhịp sống Hà Nội (Hà Nội Mới), 'Làng cổ Đông Ngạc: Nốt lặng giữa lòng đô thị' (Linh Tâm, 08/09/2024): làng ven sông Hồng 'cách trung tâm Thủ đô khoảng 10km'; có 32 di tích (đình, đền, chùa, miếu, văn chỉ, di tích cách mạng, nhà thờ họ) và 100 nhà cổ; 22 tiến sĩ (21 văn, 1 võ); đình Đông Ngạc (đình Vẽ) dựng năm 1635, xếp hạng di tích quốc gia năm 1993; chùa Tư Khánh xây thời Lê Thần Tông (1653–1658), chuông đồng 750 kg năm 1817; nhà thờ Đỗ Thế Giai, nhà thờ họ Phan; món giò Chèm, nem Vẽ, bánh khoai phồng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00225"
+  }
+}
