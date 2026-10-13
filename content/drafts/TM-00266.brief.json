@@ -1,0 +1,196 @@
+{
+  "writer": "writer-w7c",
+  "queued": "2026-10-13T13:57:05.288014+00:00",
+  "topic": {
+    "topic_id": "TM-00266",
+    "url": "/du-lich/bao-tang-van-hoc-viet-nam/",
+    "title": "Bảo tàng Văn học Việt Nam: giờ mở cửa, vé 40.000đ, nghỉ thứ Bảy, Chủ nhật",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bảo tàng văn học việt nam",
+    "secondary_keywords": [
+      "bảo tàng văn học việt nam giờ mở cửa",
+      "giá vé bảo tàng văn học",
+      "bảo tàng văn học 275 âu cơ",
+      "bảo tàng văn học có gì",
+      "bảo tàng văn học thứ 7 có mở không"
+    ],
+    "intent": "informational",
+    "user_problem": "Học sinh, sinh viên, phụ huynh và khách thuê xe đi vòng Hồ Tây muốn ghé Bảo tàng Văn học Việt Nam ở Âu Cơ cần biết mở ngày nào (cuối tuần có mở không), giá vé từng đối tượng, trưng bày gì ở mỗi tầng và nội quy cần lưu ý.",
+    "information_gain": "Site chưa có bài về Bảo tàng Văn học Việt Nam. Gần nhất là /du-lich/ha-noi/vong-ho-tay-xe-may/ (chỉ là tuyến chạy xe quanh hồ), /du-lich/phu-tay-ho/ và /du-lich/lang-hoa-nhat-tan-quat-tu-lien/ (điểm cùng khu Âu Cơ – Nhật Tân) và các bài bảo tàng khác như /du-lich/bao-tang-my-thuat-viet-nam/. Bài này thêm dữ liệu từ trang chính thức baotangvanhoc.vn: giờ 8h–12h, 13h30–17h, chỉ mở thứ Hai–thứ Sáu, thứ Bảy, Chủ nhật, ngày lễ đóng (đoàn cuối tuần phải đăng ký trước); bảng vé 40.000đ/30.000đ/20.000đ; nội dung 3 tầng trưng bày, 20 tượng danh nhân ngoài trời, hơn 2.000 m2 trưng bày; mốc thành lập 8/11/2011 và mở cửa 26/6/2015; nội quy (trẻ dưới 10 tuổi phải có người lớn, không mang đồ ăn, vật nuôi; quay phim của tổ chức phải có công văn); các tuyến buýt 31, 33, 41, 55, 58 qua số 275 Âu Cơ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/gio-mo-cua/",
+        "quote": "Bảo tàng Văn học Việt Nam, trang 'Giờ mở cửa' (đọc 13/10/2026): sáng 8h00–12h00, chiều 13h30–17h; 'Hệ thống trưng bày mở cửa từ thứ Hai đến thứ Sáu hàng tuần. Thứ 7, Chủ nhật và các ngày Lễ không mở cửa'; khách đoàn liên hệ trước. Giá vé: người lớn 40.000 VND; học sinh cấp 3, sinh viên (có thẻ) 30.000 VND; học sinh cấp 1–2 20.000 VND (đoàn từ 30 người trở lên được phục vụ xem phim). Chân trang: địa chỉ 'Ngõ 275 Âu Cơ - P.Tây Hồ - Tp. Hà Nội'; cơ quan chủ quản Hội Nhà văn Việt Nam.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/noi-quy-bao-tang/",
+        "quote": "Bảo tàng Văn học Việt Nam, 'Nội quy tham quan' (đọc 13/10/2026): thời gian tham quan 8h00–17h00 thứ Hai đến thứ Sáu (lễ, Tết có thông báo sau); các đoàn tham quan vào thứ Bảy, Chủ nhật cần đăng ký trước; mua vé tại phòng bán vé; trang phục lịch sự, không hút thuốc; 'Để xe đúng nơi quy định, theo hướng dẫn của nhân viên bảo vệ'; không mang đồ ăn, thức uống, vật nuôi vào bảo tàng; không chạm, ngồi lên hiện vật; ghi âm, ghi hình của tổ chức phải có công văn, giấy giới thiệu; trẻ em dưới 10 tuổi cần có người lớn đi cùng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/loi-gioi-thieu/",
+        "quote": "Bảo tàng Văn học Việt Nam, 'Lời giới thiệu' (đọc 13/10/2026): thành lập ngày 8/11/2011 theo Quyết định 1987/QĐ-TTg, chính thức mở cửa đón khách ngày 26/6/2015; xây tại 275 Âu Cơ (trang ghi phường Quảng An, quận Tây Hồ), 'cách trung tâm Hà Nội 6,2 km về phía Bắc', trên đất Trường Viết văn Quảng Bá cũ; trưng bày ngoài trời gồm phù điêu gốm và 20 tượng danh nhân văn học cổ – trung đại; trong nhà hơn 2.000 m2, hàng vạn hiện vật; tầng 1 văn học cổ trung đại (thế kỷ 10–19) và học hành thi cử thế kỷ 19; tầng 2 nhà văn Giải thưởng Hồ Chí Minh và không gian 'Xóm Chòi'; tầng 3 nhà văn Giải thưởng Nhà nước và các kỳ đại hội Hội Nhà văn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/thong-tin-huu-ich/den-voi-bao-tang/",
+        "quote": "Bảo tàng Văn học Việt Nam, 'Đến với bảo tàng' (đọc 13/10/2026): các tuyến xe buýt qua số 275 đường Âu Cơ, P. Tây Hồ: 31, 33, 41, 55, 58. (Trang có số hotline của bảo tàng – không đưa vào bài.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 3600,
+        "checked": "2026-10-13",
+        "keyword": "bảo tàng văn học việt nam"
+      }
+    ],
+    "notes": "Chưa kiểm chứng: phí và vị trí gửi xe máy (nội quy chỉ nói 'để xe đúng nơi quy định'); quãng đường từ Long Biên; thời lượng tham quan. Hai trang chính thức lệch nhẹ về giờ: trang Giờ mở cửa ghi nghỉ trưa 12h–13h30, nội quy ghi 8h–17h liền – viết theo trang Giờ mở cửa và nói rõ có nghỉ trưa. Không nói cuối tuần mở cho khách lẻ (chỉ đoàn đăng ký trước). Trang Lời giới thiệu dùng địa danh cũ 'phường Quảng An, quận Tây Hồ', chân trang ghi 'P.Tây Hồ' – dùng 'phường Tây Hồ'. Không in số hotline của bảo tàng (quy tắc chỉ số điện thoại của cửa hàng). Không phải khu vực 1 vùng phát thải thấp.",
+    "outline": [
+      "Bảo tàng Văn học Việt Nam ở đâu, mở ngày nào",
+      "Giá vé theo từng đối tượng",
+      "Ba tầng trưng bày và khu ngoài trời có gì",
+      "Nội quy cần biết trước khi vào",
+      "Đi xe máy, xe buýt và ghép với vòng Hồ Tây",
+      "Gợi ý lịch ghé nửa ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/phu-tay-ho/",
+      "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+      "/du-lich/bao-tang-my-thuat-viet-nam/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.563
+        }
+      },
+      {
+        "url": "/du-lich/bao-tang-thien-nhien-viet-nam/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.454
+        }
+      },
+      {
+        "url": "/du-lich/bao-tang-my-thuat-viet-nam/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.437
+        }
+      },
+      {
+        "url": "/du-lich/bao-tang-phu-nu-viet-nam/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.663
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/bao-tang-phu-nu-viet-nam/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00266.json",
+  "draft_template": {
+    "id": "TM-00266",
+    "url": "/du-lich/bao-tang-van-hoc-viet-nam/",
+    "title": "Bảo tàng Văn học Việt Nam: giờ mở cửa, vé 40.000đ, nghỉ thứ Bảy, Chủ nhật",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng văn học việt nam, bảo tàng văn học việt nam giờ mở cửa, giá vé bảo tàng văn học, bảo tàng văn học 275 âu cơ, bảo tàng văn học có gì, bảo tàng văn học thứ 7 có mở không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Văn học Việt Nam ở đâu, mở ngày nào",
+        "<p></p>"
+      ],
+      [
+        "Giá vé theo từng đối tượng",
+        "<p></p>"
+      ],
+      [
+        "Ba tầng trưng bày và khu ngoài trời có gì",
+        "<p></p>"
+      ],
+      [
+        "Nội quy cần biết trước khi vào",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, xe buýt và ghép với vòng Hồ Tây",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý lịch ghé nửa ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/gio-mo-cua/",
+        "quote": "Bảo tàng Văn học Việt Nam, trang 'Giờ mở cửa' (đọc 13/10/2026): sáng 8h00–12h00, chiều 13h30–17h; 'Hệ thống trưng bày mở cửa từ thứ Hai đến thứ Sáu hàng tuần. Thứ 7, Chủ nhật và các ngày Lễ không mở cửa'; khách đoàn liên hệ trước. Giá vé: người lớn 40.000 VND; học sinh cấp 3, sinh viên (có thẻ) 30.000 VND; học sinh cấp 1–2 20.000 VND (đoàn từ 30 người trở lên được phục vụ xem phim). Chân trang: địa chỉ 'Ngõ 275 Âu Cơ - P.Tây Hồ - Tp. Hà Nội'; cơ quan chủ quản Hội Nhà văn Việt Nam.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/noi-quy-bao-tang/",
+        "quote": "Bảo tàng Văn học Việt Nam, 'Nội quy tham quan' (đọc 13/10/2026): thời gian tham quan 8h00–17h00 thứ Hai đến thứ Sáu (lễ, Tết có thông báo sau); các đoàn tham quan vào thứ Bảy, Chủ nhật cần đăng ký trước; mua vé tại phòng bán vé; trang phục lịch sự, không hút thuốc; 'Để xe đúng nơi quy định, theo hướng dẫn của nhân viên bảo vệ'; không mang đồ ăn, thức uống, vật nuôi vào bảo tàng; không chạm, ngồi lên hiện vật; ghi âm, ghi hình của tổ chức phải có công văn, giấy giới thiệu; trẻ em dưới 10 tuổi cần có người lớn đi cùng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/loi-gioi-thieu/",
+        "quote": "Bảo tàng Văn học Việt Nam, 'Lời giới thiệu' (đọc 13/10/2026): thành lập ngày 8/11/2011 theo Quyết định 1987/QĐ-TTg, chính thức mở cửa đón khách ngày 26/6/2015; xây tại 275 Âu Cơ (trang ghi phường Quảng An, quận Tây Hồ), 'cách trung tâm Hà Nội 6,2 km về phía Bắc', trên đất Trường Viết văn Quảng Bá cũ; trưng bày ngoài trời gồm phù điêu gốm và 20 tượng danh nhân văn học cổ – trung đại; trong nhà hơn 2.000 m2, hàng vạn hiện vật; tầng 1 văn học cổ trung đại (thế kỷ 10–19) và học hành thi cử thế kỷ 19; tầng 2 nhà văn Giải thưởng Hồ Chí Minh và không gian 'Xóm Chòi'; tầng 3 nhà văn Giải thưởng Nhà nước và các kỳ đại hội Hội Nhà văn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotangvanhoc.vn/thong-tin-huu-ich/den-voi-bao-tang/",
+        "quote": "Bảo tàng Văn học Việt Nam, 'Đến với bảo tàng' (đọc 13/10/2026): các tuyến xe buýt qua số 275 đường Âu Cơ, P. Tây Hồ: 31, 33, 41, 55, 58. (Trang có số hotline của bảo tàng – không đưa vào bài.)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00266"
+  }
+}

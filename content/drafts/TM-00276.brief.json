@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w7d",
+  "queued": "2026-10-13T13:57:05.399684+00:00",
+  "topic": {
+    "topic_id": "TM-00276",
+    "url": "/du-lich/den-soc-soc-son/",
+    "title": "Đền Sóc Sóc Sơn: nơi Thánh Gióng về trời, hội Gióng mùng 6–8 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền sóc sóc sơn",
+    "secondary_keywords": [
+      "đền sóc",
+      "đền gióng sóc sơn",
+      "hội gióng đền sóc",
+      "khu di tích đền sóc",
+      "lễ hội đền sóc 2026"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ đầu năm, gia đình và khách thuê xe muốn đi đền Sóc (Sóc Sơn) cần biết đền thờ ai, hội Gióng diễn ra ngày nào, có những nghi lễ, lễ vật gì và năm nay ban tổ chức bố trí gửi xe thế nào.",
+    "information_gain": "Site chưa có bài về đền Sóc. Gần nhất là /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ (lễ hội đền khác), /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ và /du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/ (cầu đi về phía bắc). Bài này thêm: đền Sóc là khu di tích quốc gia đặc biệt ở xã Sóc Sơn, nơi tương truyền Thánh Gióng cởi giáp bay về trời; hội Gióng đền Sóc từ mùng 6 đến mùng 8 tháng Giêng (khai hội 22/2/2026); 8 lễ vật của 8 thôn (Thần mã, Cầu húc, Trầu cau, Voi chiến, Ngà voi, Cỏ voi, Kiệu tướng, Giò hoa tre); thứ tự rước theo thôn (Cục Di sản); UNESCO ghi danh Hội Gióng tháng 11/2010; năm 2026 lần đầu tổ chức với 2 xã Sóc Sơn và Đa Phúc, có điểm trông giữ xe miễn phí; các điểm Đền Hạ, Đền Mẫu, Chùa Đại Bi, Đền Thượng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/khai-hoi-giong-den-soc-nam-2026-734536.html",
+        "quote": "Hànộimới, 'Khai hội Gióng đền Sóc năm 2026' (22/02/2026): sáng 22/2 (mùng 6 tháng Giêng năm Bính Ngọ) khai mạc tại Khu di tích quốc gia đặc biệt đền Sóc (xã Sóc Sơn); tương truyền Thánh Gióng phi ngựa đến chân núi Sóc, cởi giáp trụ rồi bay về trời; hội mở hằng năm từ mùng 6 đến mùng 8 tháng Giêng âm lịch; 8 lễ vật của 8 thôn hai xã Sóc Sơn, Đa Phúc: Thần mã, Cầu húc, Trầu cau, Voi chiến, Ngà voi, Cỏ voi, Kiệu tướng, Giò hoa tre; UNESCO công nhận năm 2010; năm đầu tổ chức với 2 xã sau chính quyền hai cấp; kinh doanh được quản lý chặt; 'bố trí điểm trông giữ xe miễn phí'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-nghin-nguoi-du-khai-hoi-giong-den-soc-post944171.html",
+        "quote": "Nhân Dân, 'Hàng nghìn người dự khai hội Gióng đền Sóc' (22/02/2026): đền Sóc nằm ở xã Sóc Sơn nhưng không gian lễ hội gồm cả xã Sóc Sơn và xã Đa Phúc; phần hội có vật Cầu Húc (thôn Xuân Dục), Kéo Mỏ (Đền Bà, thôn Xuân Lai), trò chơi dân gian; chương trình nghệ thuật 'Đêm linh thiêng – Hào khí Thánh Gióng' tối 23/2/2026 gồm dâng hương tại Đền Hạ, Đền Mẫu, Chùa Đại Bi và Đền Thượng; ban tổ chức bố trí điểm trông giữ xe miễn phí.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/hoi-giong-o-den-phu-dong-va-den-soc-486",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), 'Hội Gióng ở đền Phù Đổng và đền Sóc' (đọc 13/10/2026): Hội Gióng ở đền Sóc (xã Phù Linh, huyện Sóc Sơn – địa danh cũ) – nơi Thánh hóa – diễn ra từ mùng 6 đến mùng 8 tháng Giêng; thứ tự rước: thôn Vệ Linh rước giò hoa tre, Dược Thượng rước voi, Đan Tảo rước trầu cau, Đức Hậu rước ngà voi, Yên Sào rước cỏ voi, Yên Tàng rước tướng, gần đây thêm Xuân Dục rước 'Cầu Húc'; có nghi thức tắm tượng Thánh Gióng; UNESCO công nhận Di sản văn hóa phi vật thể đại diện của nhân loại tháng 11/2010.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đền sóc sóc sơn"
+      }
+    ],
+    "notes": "Chưa kiểm chứng: giờ mở cửa và vé ngày thường; bãi gửi xe ngày thường (điểm giữ xe miễn phí chỉ được nêu cho lễ hội 2026); đường đi và km từ Long Biên; số bậc/độ cao lên Đền Thượng. Địa danh: Cục Di sản ghi xã Phù Linh, huyện Sóc Sơn (cũ); báo 2026 ghi xã Sóc Sơn. Gần sân bay Nội Bài – theo brief KHÔNG đề cập sân bay. Ngày âm lịch cần quy đổi theo năm. Không thuộc khu vực 1.",
+    "outline": [
+      "Đền Sóc ở đâu, gắn với truyền thuyết nào",
+      "Các điểm trong khu di tích: Đền Hạ, Đền Mẫu, Chùa Đại Bi, Đền Thượng",
+      "Hội Gióng mùng 6–8 tháng Giêng và 8 lễ vật",
+      "Thứ tự rước của các thôn",
+      "Gửi xe và lưu ý khi đi ngày hội",
+      "Đi ngày thường: những gì cần hỏi trước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00276.json",
+  "draft_template": {
+    "id": "TM-00276",
+    "url": "/du-lich/den-soc-soc-son/",
+    "title": "Đền Sóc Sóc Sơn: nơi Thánh Gióng về trời, hội Gióng mùng 6–8 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền sóc sóc sơn, đền sóc, đền gióng sóc sơn, hội gióng đền sóc, khu di tích đền sóc, lễ hội đền sóc 2026",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Sóc ở đâu, gắn với truyền thuyết nào",
+        "<p></p>"
+      ],
+      [
+        "Các điểm trong khu di tích: Đền Hạ, Đền Mẫu, Chùa Đại Bi, Đền Thượng",
+        "<p></p>"
+      ],
+      [
+        "Hội Gióng mùng 6–8 tháng Giêng và 8 lễ vật",
+        "<p></p>"
+      ],
+      [
+        "Thứ tự rước của các thôn",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe và lưu ý khi đi ngày hội",
+        "<p></p>"
+      ],
+      [
+        "Đi ngày thường: những gì cần hỏi trước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/khai-hoi-giong-den-soc-nam-2026-734536.html",
+        "quote": "Hànộimới, 'Khai hội Gióng đền Sóc năm 2026' (22/02/2026): sáng 22/2 (mùng 6 tháng Giêng năm Bính Ngọ) khai mạc tại Khu di tích quốc gia đặc biệt đền Sóc (xã Sóc Sơn); tương truyền Thánh Gióng phi ngựa đến chân núi Sóc, cởi giáp trụ rồi bay về trời; hội mở hằng năm từ mùng 6 đến mùng 8 tháng Giêng âm lịch; 8 lễ vật của 8 thôn hai xã Sóc Sơn, Đa Phúc: Thần mã, Cầu húc, Trầu cau, Voi chiến, Ngà voi, Cỏ voi, Kiệu tướng, Giò hoa tre; UNESCO công nhận năm 2010; năm đầu tổ chức với 2 xã sau chính quyền hai cấp; kinh doanh được quản lý chặt; 'bố trí điểm trông giữ xe miễn phí'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-nghin-nguoi-du-khai-hoi-giong-den-soc-post944171.html",
+        "quote": "Nhân Dân, 'Hàng nghìn người dự khai hội Gióng đền Sóc' (22/02/2026): đền Sóc nằm ở xã Sóc Sơn nhưng không gian lễ hội gồm cả xã Sóc Sơn và xã Đa Phúc; phần hội có vật Cầu Húc (thôn Xuân Dục), Kéo Mỏ (Đền Bà, thôn Xuân Lai), trò chơi dân gian; chương trình nghệ thuật 'Đêm linh thiêng – Hào khí Thánh Gióng' tối 23/2/2026 gồm dâng hương tại Đền Hạ, Đền Mẫu, Chùa Đại Bi và Đền Thượng; ban tổ chức bố trí điểm trông giữ xe miễn phí.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/hoi-giong-o-den-phu-dong-va-den-soc-486",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), 'Hội Gióng ở đền Phù Đổng và đền Sóc' (đọc 13/10/2026): Hội Gióng ở đền Sóc (xã Phù Linh, huyện Sóc Sơn – địa danh cũ) – nơi Thánh hóa – diễn ra từ mùng 6 đến mùng 8 tháng Giêng; thứ tự rước: thôn Vệ Linh rước giò hoa tre, Dược Thượng rước voi, Đan Tảo rước trầu cau, Đức Hậu rước ngà voi, Yên Sào rước cỏ voi, Yên Tàng rước tướng, gần đây thêm Xuân Dục rước 'Cầu Húc'; có nghi thức tắm tượng Thánh Gióng; UNESCO công nhận Di sản văn hóa phi vật thể đại diện của nhân loại tháng 11/2010.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00276"
+  }
+}

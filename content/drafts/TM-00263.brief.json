@@ -1,0 +1,200 @@
+{
+  "writer": "writer-w7b",
+  "queued": "2026-10-13T13:57:05.179565+00:00",
+  "topic": {
+    "topic_id": "TM-00263",
+    "url": "/xe-dien/vinfast-viper/",
+    "title": "VinFast Viper: giá 35 triệu, 3.000 W, 70 km/h, 2 pin đi ~156 km",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "vinfast viper",
+    "secondary_keywords": [
+      "xe máy điện vinfast viper giá",
+      "vinfast viper đi được bao nhiêu km",
+      "viper đổi pin",
+      "vinfast viper cần bằng gì",
+      "viper và vero x"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi làm muốn xe máy điện chạy nhanh, đổi pin được, cần biết Viper giá bao nhiêu, đi bao xa với 1–2 pin, có cần bằng A1 không và bảo hành thế nào.",
+    "information_gain": "Site đã có Vero X (/xe-dien/vinfast-vero-x/, chỉ nêu Viper cùng nhóm cao cấp) và trạm đổi pin (/xe-dien/tram-doi-pin-vinfast/, nhắc giá Viper theo Tuổi Trẻ 3/2026) nhưng chưa có bài riêng về Viper. Bài thêm số liệu VinFast đọc 13/10/2026: giá niêm yết 35 triệu đồng (thấp hơn mức 39,9/45,5 triệu báo chí đưa lúc ra mắt), BLDC inhub 3000 W, 70 km/h, 0–50 km/h 15 giây, pin LFP 1,5 kWh + tùy chọn pin thứ hai, ~156 km khi lắp 2 pin, cốp 10 l khi lắp 2 pin, yên 780 mm, IP67 ngập 0,5 m trong 30 phút, bảo hành xe 6 năm, pin 8 năm; kết luận A1 theo Điều 34 và 57 Luật 36/2024 vì vượt 50 km/h nhưng dưới 11 kW.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-viper",
+        "quote": "VinFast, trang sản phẩm Viper (đọc 13/10/2026): \"Xe máy điện đổi pin\"; \"Giá niêm yết 35 triệu đồng\"; tốc độ tối đa 70 km/h (1 người 65 kg/Chế độ Sport); quãng đường ~156 km/lần sạc (khi lắp thêm pin phụ); bảo hành xe 6 năm/không giới hạn số km, pin 8 năm/không giới hạn số km; Smart Key, tìm xe trong bãi đỗ; IP67, động cơ chống nước ở mức ngập 0,5m trong 30 phút; 2 khay chứa pin trong cốp; động cơ BLDC Inhub công suất tối đa 3000 W; pin LFP 1,5 kWh (tùy chọn thêm 1 pin 1.5 kWh); màn hình TFT; phanh đĩa trước, phanh cơ bánh sau; 1907 x 692 x 1135 mm; yên 780 mm; gầm 138 mm; cốp 10L (khi lắp 2 PIN); 0–50 km/h 15 giây (1 người 65 kg); xác thực pin, cổng sạc USB. Lưu ý trên trang: quãng đường 1 lần sạc khi lắp 2 pin theo kiểm thử của VinFast tại 30 km/h; thực tế có thể giảm. Menu cùng trang: Kinet từ 40.000.000 VNĐ, Viper từ 35.000.000 VNĐ, Vero X từ 34.900.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast, trang danh sách xe máy điện shop.vinfastauto.com (đọc 13/10/2026): mục xe cao cấp liên kết tới Vero X, Viper, Kinet; liên kết chính sách bảo hành, dịch vụ pin xe máy điện.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/can-canh-xe-may-dien-doi-pin-vinfast-viper-ngoai-doi-thuc-gia-tu-40-trieu-chay-toi-156km-doi-2-pin-20260318172140204.htm",
+        "quote": "Tuổi Trẻ, \"Cận cảnh xe máy điện đổi pin VinFast Viper ngoài đời thực...\" (đăng 19/03/2026, đọc 13/10/2026): lúc sắp mở bán giá niêm yết 39,9 triệu đồng (chưa kèm pin) và 45,5 triệu đồng (đã gồm pin); BLDC inhub 3.000W, 70 km/h, 0–50 km/h khoảng 15 giây, khoảng 156 km khi trang bị hai pin; hệ thống quản lý pin ưu tiên viên pin tốt hơn; đổi pin tại tủ, chi phí 9.000 đồng/pin/lần, khách mua xe pin rời được miễn phí đổi pin 20 lần mỗi tháng đến hết 30-6-2028; bảo hành 6 năm xe, 8 năm pin.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe hai hoặc ba bánh chạy bằng động cơ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ nhiệt thì dung tích làm việc không lớn hơn 50 cm3; nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô là xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\"; điểm b: đủ 18 tuổi được cấp GPLX hạng A1, A. Điều 57 khoản 1 điểm a: hạng A1 cho mô tô hai bánh đến 125 cm3 hoặc động cơ điện đến 11 kW.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 14800,
+        "checked": "2026-10-13",
+        "keyword": "vinfast viper"
+      }
+    ],
+    "notes": "Chưa xác minh: (1) trang VinFast ghi \"Giá niêm yết 35 triệu đồng\" nhưng không nói đã gồm pin hay chưa, cũng không ghi giá thuê pin – không viết \"đã gồm pin\"; nêu chênh lệch với giá báo chí tháng 3/2026 và khuyên hỏi đại lý. (2) Quãng đường khi chỉ 1 pin không có trên trang (chỉ ~156 km khi 2 pin) – không chia đôi để suy ra. (3) Giá đổi pin 9.000 đ và ưu đãi miễn phí 20 lần/tháng là theo Tuổi Trẻ 3/2026, chưa đối chiếu trang VinFast hôm nay. (4) Thời gian sạc, khối lượng xe, tải trọng không có trên trang. (5) Banner \"Ưu đãi chỉ tới 31/12!\" không nêu nội dung – không dùng. Pháp lý: 70 km/h > 50 km/h nên là mô tô; 3 kW ≤ 11 kW nên bằng A1. Cửa hàng chỉ ghi có xe điện Tailg – không viết có Viper.",
+    "outline": [
+      "VinFast Viper là xe gì, giá niêm yết hiện tại",
+      "Động cơ 3.000 W, 70 km/h, tăng tốc 0–50 km/h",
+      "Pin LFP 1,5 kWh, lắp thêm pin thứ hai, ~156 km",
+      "Đổi pin tại tủ: những gì đã biết và cần hỏi lại",
+      "Kích thước, yên 780 mm, cốp 10 lít khi lắp 2 pin, IP67",
+      "Cần bằng A1 và đăng ký biển số",
+      "Viper hay Vero X: chọn theo nhu cầu"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/vinfast-vero-x/",
+      "/xe-dien/tram-doi-pin-vinfast/",
+      "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+      "/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/",
+      "/xe-dien/xe-may-dien-co-can-dang-ky-bien-so-khong/"
+    ],
+    "content_type": "review",
+    "overlap": [
+      {
+        "url": "/xe-dien/vinfast-flazz/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.483
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/xe-dien/vinfast-flazz/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00263.json",
+  "draft_template": {
+    "id": "TM-00263",
+    "url": "/xe-dien/vinfast-viper/",
+    "title": "VinFast Viper: giá 35 triệu, 3.000 W, 70 km/h, 2 pin đi ~156 km",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vinfast viper, xe máy điện vinfast viper giá, vinfast viper đi được bao nhiêu km, viper đổi pin, vinfast viper cần bằng gì, viper và vero x",
+    "excerpt": "",
+    "sections": [
+      [
+        "VinFast Viper là xe gì, giá niêm yết hiện tại",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 3.000 W, 70 km/h, tăng tốc 0–50 km/h",
+        "<p></p>"
+      ],
+      [
+        "Pin LFP 1,5 kWh, lắp thêm pin thứ hai, ~156 km",
+        "<p></p>"
+      ],
+      [
+        "Đổi pin tại tủ: những gì đã biết và cần hỏi lại",
+        "<p></p>"
+      ],
+      [
+        "Kích thước, yên 780 mm, cốp 10 lít khi lắp 2 pin, IP67",
+        "<p></p>"
+      ],
+      [
+        "Cần bằng A1 và đăng ký biển số",
+        "<p></p>"
+      ],
+      [
+        "Viper hay Vero X: chọn theo nhu cầu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-viper",
+        "quote": "VinFast, trang sản phẩm Viper (đọc 13/10/2026): \"Xe máy điện đổi pin\"; \"Giá niêm yết 35 triệu đồng\"; tốc độ tối đa 70 km/h (1 người 65 kg/Chế độ Sport); quãng đường ~156 km/lần sạc (khi lắp thêm pin phụ); bảo hành xe 6 năm/không giới hạn số km, pin 8 năm/không giới hạn số km; Smart Key, tìm xe trong bãi đỗ; IP67, động cơ chống nước ở mức ngập 0,5m trong 30 phút; 2 khay chứa pin trong cốp; động cơ BLDC Inhub công suất tối đa 3000 W; pin LFP 1,5 kWh (tùy chọn thêm 1 pin 1.5 kWh); màn hình TFT; phanh đĩa trước, phanh cơ bánh sau; 1907 x 692 x 1135 mm; yên 780 mm; gầm 138 mm; cốp 10L (khi lắp 2 PIN); 0–50 km/h 15 giây (1 người 65 kg); xác thực pin, cổng sạc USB. Lưu ý trên trang: quãng đường 1 lần sạc khi lắp 2 pin theo kiểm thử của VinFast tại 30 km/h; thực tế có thể giảm. Menu cùng trang: Kinet từ 40.000.000 VNĐ, Viper từ 35.000.000 VNĐ, Vero X từ 34.900.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast, trang danh sách xe máy điện shop.vinfastauto.com (đọc 13/10/2026): mục xe cao cấp liên kết tới Vero X, Viper, Kinet; liên kết chính sách bảo hành, dịch vụ pin xe máy điện.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/can-canh-xe-may-dien-doi-pin-vinfast-viper-ngoai-doi-thuc-gia-tu-40-trieu-chay-toi-156km-doi-2-pin-20260318172140204.htm",
+        "quote": "Tuổi Trẻ, \"Cận cảnh xe máy điện đổi pin VinFast Viper ngoài đời thực...\" (đăng 19/03/2026, đọc 13/10/2026): lúc sắp mở bán giá niêm yết 39,9 triệu đồng (chưa kèm pin) và 45,5 triệu đồng (đã gồm pin); BLDC inhub 3.000W, 70 km/h, 0–50 km/h khoảng 15 giây, khoảng 156 km khi trang bị hai pin; hệ thống quản lý pin ưu tiên viên pin tốt hơn; đổi pin tại tủ, chi phí 9.000 đồng/pin/lần, khách mua xe pin rời được miễn phí đổi pin 20 lần mỗi tháng đến hết 30-6-2028; bảo hành 6 năm xe, 8 năm pin.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe hai hoặc ba bánh chạy bằng động cơ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ nhiệt thì dung tích làm việc không lớn hơn 50 cm3; nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô là xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\"; điểm b: đủ 18 tuổi được cấp GPLX hạng A1, A. Điều 57 khoản 1 điểm a: hạng A1 cho mô tô hai bánh đến 125 cm3 hoặc động cơ điện đến 11 kW.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00263"
+  }
+}

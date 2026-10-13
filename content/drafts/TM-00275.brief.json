@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w7d",
+  "queued": "2026-10-13T13:57:05.399182+00:00",
+  "topic": {
+    "topic_id": "TM-00275",
+    "url": "/du-lich/chua-dau-thuong-tin/",
+    "title": "Chùa Đậu Thường Tín: hai pho nhục thân thiền sư, lễ hội và cách đi",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa đậu thường tín",
+    "secondary_keywords": [
+      "chùa đậu",
+      "nhục thân vũ khắc minh vũ khắc trường",
+      "toàn thân xá lợi chùa đậu",
+      "pháp vũ tự",
+      "thành đạo tự"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ chùa ngoại thành, khách tò mò về hai pho tượng nhục thân thiền sư và người đi xe máy về phía Thường Tín muốn biết chùa Đậu ở đâu, vì sao nổi tiếng, xem nhục thân ở đâu và kiến trúc chùa có gì.",
+    "information_gain": "Site chưa có bài về chùa Đậu. Gần nhất là /du-lich/di-chua-huong-bang-xe-may/ và /du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/ (chùa phía nam nhưng xa hơn) và /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/. Bài này thêm: chùa Đậu (Pháp Vũ tự/Thành Đạo tự) ở thôn Gia Phúc, xã Nguyễn Trãi, Thường Tín (địa danh khi đăng), một trong hệ chùa Tứ pháp; giữ hai pho nhục thân thiền sư Vũ Khắc Minh (? – 1639) và Vũ Khắc Trường (? – 1689) – Bảo vật quốc gia năm 2016, đặt trong tủ kính bơm khí nitơ ở nhà Tổ; Việt Nam chỉ có 4 trường hợp nhục thân được bảo tồn; chùa gắn với vua Lê, chúa Trịnh thế kỷ 17; kiến trúc tiền đường giữa thế kỷ 17, bậc rồng đá, gạch thời Mạc, khánh gỗ niên hiệu Chính Hòa; xếp hạng năm 1964.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/chua-dau-va-cau-chuyen-toan-than-xa-loi-cua-thien-su-vu-khac-minh-vu-khac-truong-20250419213350205.htm",
+        "quote": "Tuổi Trẻ, 'Chùa Đậu và câu chuyện toàn thân xá lợi của thiền sư Vũ Khắc Minh, Vũ Khắc Trường' (19/04/2025): Việt Nam ghi nhận 4 tượng nhục thân bất hoại thế kỷ 17–18, riêng chùa Đậu (Thường Tín) có hai: thiền sư Vũ Khắc Minh (? – 1639) và Vũ Khắc Trường (? – 1689); hai pho ngồi kiết già trên bệ sơn son thếp vàng trong nhà Tổ, bảo quản trong tủ kính đặc biệt bơm khí nitơ; chùa Đậu (Thành Đạo tự) thuộc thôn Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín; thế kỷ 17 vua Lê Thần Tông, chúa Trịnh Tráng và cung tần phủ chúa công đức tu sửa; hai trường hợp khác là Chuyết Chuyết (chùa Phật Tích) và Như Trí (chùa Tiêu).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tim-kiem-giai-phap-bao-quan-toan-than-xa-loi-hai-vi-thien-su-chua-dau-post1033805.vnp",
+        "quote": "VietnamPlus, hội thảo 'Chùa Đậu (Thành Đạo tự) và dấu ấn hai vị thiền sư họ Vũ' (19/04/2025): chùa tọa lạc tại thôn Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín; trải qua Trần, Lê, Mạc, Lê Trung Hưng, gắn với hoàng tộc nhà Lê, phủ chúa Trịnh; 'toàn thân xá lợi' hai thiền sư được Nhà nước công nhận Bảo vật quốc gia năm 2016; hai vị là chú cháu, thầy trò, pháp hiệu Tự Đạo Chân – Tự Đạo Tâm; Trưởng Ban Văn hóa TƯ GHPGVN kiến nghị khoác y áo cho nhục thân và xem lại vị trí đặt hai pho tượng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-dau-huyen-thuong-tin-76158.html",
+        "quote": "Người Hà Nội, 'Chùa Đậu (huyện Thường Tín)' (22/08/2023): tên chữ Pháp Vũ tự hoặc Thành Đạo tự, thờ Phật và hệ Tứ pháp (Pháp Vân, Pháp Vũ, Pháp Lôi, Pháp Điện); bậc tam quan có đôi chồn đá thời Trần; lối giữa bó rồng đá '500 năm tuổi'; tiền đường mang nghệ thuật giữa thế kỷ 17; gạch rồng thời Mạc; khánh gỗ niên hiệu Chính Hòa; Thượng điện cũ bị phá trong kháng chiến chống Pháp; chùa được Bộ Văn hóa xếp hạng di tích kiến trúc nghệ thuật năm 1964; bài ghi là di tích quốc gia đặc biệt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 2400,
+        "checked": "2026-10-13",
+        "keyword": "chùa đậu thường tín"
+      }
+    ],
+    "notes": "Chưa kiểm chứng: giờ mở cửa, nhà Tổ có mở cho khách xem nhục thân mọi ngày không, chỗ gửi xe máy, đường đi và km từ Long Biên (không có nguồn – chỉ nói hướng Thường Tín phía nam Hà Nội). Ngày lễ hội (mùng 8–10 tháng Giêng) chỉ thấy trên Facebook xã và blog – không dùng con số. Địa danh sau sắp xếp 2025 có thể là xã Thượng Phúc (chỉ thấy snippet) – viết 'Thường Tín (cũ)'. Xếp hạng 'đặc biệt' chỉ một nguồn – viết thận trọng. Không dùng câu '2.000 năm tuổi' của blog. Không thuộc khu vực 1.",
+    "outline": [
+      "Chùa Đậu ở đâu, thuộc hệ chùa Tứ pháp",
+      "Hai pho nhục thân Vũ Khắc Minh, Vũ Khắc Trường",
+      "Bảo vật quốc gia và cách bảo quản bằng tủ kính nitơ",
+      "Kiến trúc: tam quan, rồng đá, gạch thời Mạc",
+      "Ứng xử khi chiêm bái nhục thân",
+      "Đi xe máy về Thường Tín: những gì cần hỏi trước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-chua-huong-bang-xe-may/",
+      "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00275.json",
+  "draft_template": {
+    "id": "TM-00275",
+    "url": "/du-lich/chua-dau-thuong-tin/",
+    "title": "Chùa Đậu Thường Tín: hai pho nhục thân thiền sư, lễ hội và cách đi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa đậu thường tín, chùa đậu, nhục thân vũ khắc minh vũ khắc trường, toàn thân xá lợi chùa đậu, pháp vũ tự, thành đạo tự",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Đậu ở đâu, thuộc hệ chùa Tứ pháp",
+        "<p></p>"
+      ],
+      [
+        "Hai pho nhục thân Vũ Khắc Minh, Vũ Khắc Trường",
+        "<p></p>"
+      ],
+      [
+        "Bảo vật quốc gia và cách bảo quản bằng tủ kính nitơ",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc: tam quan, rồng đá, gạch thời Mạc",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi chiêm bái nhục thân",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy về Thường Tín: những gì cần hỏi trước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/chua-dau-va-cau-chuyen-toan-than-xa-loi-cua-thien-su-vu-khac-minh-vu-khac-truong-20250419213350205.htm",
+        "quote": "Tuổi Trẻ, 'Chùa Đậu và câu chuyện toàn thân xá lợi của thiền sư Vũ Khắc Minh, Vũ Khắc Trường' (19/04/2025): Việt Nam ghi nhận 4 tượng nhục thân bất hoại thế kỷ 17–18, riêng chùa Đậu (Thường Tín) có hai: thiền sư Vũ Khắc Minh (? – 1639) và Vũ Khắc Trường (? – 1689); hai pho ngồi kiết già trên bệ sơn son thếp vàng trong nhà Tổ, bảo quản trong tủ kính đặc biệt bơm khí nitơ; chùa Đậu (Thành Đạo tự) thuộc thôn Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín; thế kỷ 17 vua Lê Thần Tông, chúa Trịnh Tráng và cung tần phủ chúa công đức tu sửa; hai trường hợp khác là Chuyết Chuyết (chùa Phật Tích) và Như Trí (chùa Tiêu).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tim-kiem-giai-phap-bao-quan-toan-than-xa-loi-hai-vi-thien-su-chua-dau-post1033805.vnp",
+        "quote": "VietnamPlus, hội thảo 'Chùa Đậu (Thành Đạo tự) và dấu ấn hai vị thiền sư họ Vũ' (19/04/2025): chùa tọa lạc tại thôn Gia Phúc, xã Nguyễn Trãi, huyện Thường Tín; trải qua Trần, Lê, Mạc, Lê Trung Hưng, gắn với hoàng tộc nhà Lê, phủ chúa Trịnh; 'toàn thân xá lợi' hai thiền sư được Nhà nước công nhận Bảo vật quốc gia năm 2016; hai vị là chú cháu, thầy trò, pháp hiệu Tự Đạo Chân – Tự Đạo Tâm; Trưởng Ban Văn hóa TƯ GHPGVN kiến nghị khoác y áo cho nhục thân và xem lại vị trí đặt hai pho tượng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-dau-huyen-thuong-tin-76158.html",
+        "quote": "Người Hà Nội, 'Chùa Đậu (huyện Thường Tín)' (22/08/2023): tên chữ Pháp Vũ tự hoặc Thành Đạo tự, thờ Phật và hệ Tứ pháp (Pháp Vân, Pháp Vũ, Pháp Lôi, Pháp Điện); bậc tam quan có đôi chồn đá thời Trần; lối giữa bó rồng đá '500 năm tuổi'; tiền đường mang nghệ thuật giữa thế kỷ 17; gạch rồng thời Mạc; khánh gỗ niên hiệu Chính Hòa; Thượng điện cũ bị phá trong kháng chiến chống Pháp; chùa được Bộ Văn hóa xếp hạng di tích kiến trúc nghệ thuật năm 1964; bài ghi là di tích quốc gia đặc biệt.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00275"
+  }
+}

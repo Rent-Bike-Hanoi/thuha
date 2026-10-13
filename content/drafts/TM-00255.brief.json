@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w7a",
+  "queued": "2026-10-13T13:57:05.065729+00:00",
+  "topic": {
+    "topic_id": "TM-00255",
+    "url": "/xe-may/yamaha-nmax-155/",
+    "title": "Yamaha NMAX 155: giá 69–79 triệu, ABS 2 kênh, TCS, cần bằng A",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "yamaha nmax",
+    "secondary_keywords": [
+      "nmax 155 giá bao nhiêu",
+      "nmax tech max khác gì bản tiêu chuẩn",
+      "yamaha nmax thông số kỹ thuật",
+      "nmax hao xăng",
+      "nmax cần bằng gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn mua xe ga 155 cc dáng maxi để đi phố và đi xa cần biết NMAX có mấy bản, giá, trọng lượng, cốp, mức hao xăng và có đi được bằng A1 không.",
+    "information_gain": "Site đã có NVX 155 (/xe-may/yamaha-nvx-155/), Vario 160 (/xe-may/honda-vario-160/) và SH160i (/xe-may/honda-sh-160i-va-sh-125i-2026/) nhưng chưa có bài NMAX. Bài thêm số liệu Yamaha đọc 13/10/2026: bản tiêu chuẩn 69.000.000 đ và TECH MAX 79.000.000 đ; 155,1 cm³, 11,3 kW, 14,2 Nm; 2,26 và 2,30 l/100 km; bình 7,1 l; nặng 131 và 135 kg; yên 770 mm; cốp 24 l (bản tiêu chuẩn); ABS hai bánh đĩa 230 mm, TCS, Stop & Start; áp Điều 57 Luật 36/2024: trên 125 cm³ nên phải có bằng A, không phải A1 – điểm người mua hay nhầm.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/nmax-dc31/",
+        "quote": "Yamaha Motor Việt Nam, trang NMAX – Phiên bản tiêu chuẩn (đọc 13/10/2026): giá bán lẻ đề xuất 69.000.000 VNĐ; động cơ Yamaha G3Y1E xăng 4 kỳ 1 xy-lanh làm mát bằng chất lỏng, 155,1 cc, 58 x 58,7 mm, tỷ số nén 11,6:1, công suất tối đa 11,3 kW/8.000 vòng/phút, mô-men 14,2 Nm/6.500 vòng/phút; bình xăng 7,1 L; tiêu thụ 2,26 l/100 km; phanh trước/sau đĩa, ABS; lốp 110/70-13 và 130/70-13; D x R x C 1935 x 740 x 1200 mm; yên 770 mm; gầm 127 mm; trục bánh 1340 mm; trọng lượng 131 kg; ngăn chứa đồ 24 L; tải trọng lớn nhất 167 kg; bảo hành 3 năm hoặc 30.000 km. Tính năng: ABS dual channel với đĩa trước sau 230 mm, cổng USB Type-C, khóa thông minh, Stop & Start System II, kết nối Y-Connect, kiểm soát lực kéo TCS, động cơ Blue Core SOHC 4 van.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/nmax-phien-ban-tech-max-dc21/",
+        "quote": "Yamaha Motor Việt Nam, trang NMAX – Phiên bản TECH MAX (đọc 13/10/2026): giá bán lẻ đề xuất 79.000.000 VNĐ; động cơ mã G3Y2E, 155,1 cc, 11,3 kW/8.000 vòng/phút, 14,2 Nm/6.500 vòng/phút; tiêu thụ 2,30 l/100 km; bình 7,1 L; ắc quy 12V-6AH (bản tiêu chuẩn 12V-5AH); phanh đĩa ABS hai bánh; kích thước 1935 x 740 x 1200 mm; yên 770 mm; trọng lượng 135 kg; tải trọng lớn nhất 167 kg; bảo hành 3 năm hoặc 30.000 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, trang bảng giá xe máy cập nhật tháng 10/2026 (đọc 13/10/2026): NMAX – Phiên bản tiêu chuẩn 69.000.000 VNĐ; NMAX – Phiên bản TECH MAX 79.000.000 VNĐ; cùng bảng NVX 155 VVA ABS màu mới 55.300.000 VNĐ, XMAX 140.000.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 4400,
+        "checked": "2026-10-13",
+        "keyword": "yamaha nmax"
+      }
+    ],
+    "notes": "Chưa xác minh: trang TECH MAX không ghi dung tích cốp – không suy từ bản tiêu chuẩn; trang không nêu TECH MAX hơn bản tiêu chuẩn những trang bị gì ngoài khác mã động cơ, ắc quy, mức hao xăng và trọng lượng – không bịa danh sách tính năng riêng (hỏi đại lý). Trang không ghi tốc độ tối đa, không ghi dung tích nhớt. Không so giá với Honda khi chưa đọc trang Honda cùng ngày (có thể dùng giá Vario 160 56.690.000 đ từ honda.com.vn/xe-may/bang-gia đọc 13/10/2026 nếu writer muốn đối chiếu, nhưng phải trích nguồn). Business-facts không liệt kê NMAX trong đội xe: không viết cửa hàng có NMAX cho thuê.",
+    "outline": [
+      "NMAX 155 giá bao nhiêu: bản tiêu chuẩn và TECH MAX",
+      "Thông số động cơ, hao xăng, bình 7,1 lít",
+      "Kích thước, yên 770 mm, nặng 131–135 kg: có hợp người thấp",
+      "Trang bị an toàn: ABS 2 kênh, TCS, Stop & Start",
+      "NMAX khác NVX 155 ở điểm nào theo số liệu hãng",
+      "Cần bằng A vì sao, bảo hành 3 năm"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/yamaha-nvx-155/",
+      "/xe-may/honda-vario-160/",
+      "/xe-may/honda-sh-160i-va-sh-125i-2026/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00255.json",
+  "draft_template": {
+    "id": "TM-00255",
+    "url": "/xe-may/yamaha-nmax-155/",
+    "title": "Yamaha NMAX 155: giá 69–79 triệu, ABS 2 kênh, TCS, cần bằng A",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "yamaha nmax, nmax 155 giá bao nhiêu, nmax tech max khác gì bản tiêu chuẩn, yamaha nmax thông số kỹ thuật, nmax hao xăng, nmax cần bằng gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "NMAX 155 giá bao nhiêu: bản tiêu chuẩn và TECH MAX",
+        "<p></p>"
+      ],
+      [
+        "Thông số động cơ, hao xăng, bình 7,1 lít",
+        "<p></p>"
+      ],
+      [
+        "Kích thước, yên 770 mm, nặng 131–135 kg: có hợp người thấp",
+        "<p></p>"
+      ],
+      [
+        "Trang bị an toàn: ABS 2 kênh, TCS, Stop & Start",
+        "<p></p>"
+      ],
+      [
+        "NMAX khác NVX 155 ở điểm nào theo số liệu hãng",
+        "<p></p>"
+      ],
+      [
+        "Cần bằng A vì sao, bảo hành 3 năm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/nmax-dc31/",
+        "quote": "Yamaha Motor Việt Nam, trang NMAX – Phiên bản tiêu chuẩn (đọc 13/10/2026): giá bán lẻ đề xuất 69.000.000 VNĐ; động cơ Yamaha G3Y1E xăng 4 kỳ 1 xy-lanh làm mát bằng chất lỏng, 155,1 cc, 58 x 58,7 mm, tỷ số nén 11,6:1, công suất tối đa 11,3 kW/8.000 vòng/phút, mô-men 14,2 Nm/6.500 vòng/phút; bình xăng 7,1 L; tiêu thụ 2,26 l/100 km; phanh trước/sau đĩa, ABS; lốp 110/70-13 và 130/70-13; D x R x C 1935 x 740 x 1200 mm; yên 770 mm; gầm 127 mm; trục bánh 1340 mm; trọng lượng 131 kg; ngăn chứa đồ 24 L; tải trọng lớn nhất 167 kg; bảo hành 3 năm hoặc 30.000 km. Tính năng: ABS dual channel với đĩa trước sau 230 mm, cổng USB Type-C, khóa thông minh, Stop & Start System II, kết nối Y-Connect, kiểm soát lực kéo TCS, động cơ Blue Core SOHC 4 van.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/nmax-phien-ban-tech-max-dc21/",
+        "quote": "Yamaha Motor Việt Nam, trang NMAX – Phiên bản TECH MAX (đọc 13/10/2026): giá bán lẻ đề xuất 79.000.000 VNĐ; động cơ mã G3Y2E, 155,1 cc, 11,3 kW/8.000 vòng/phút, 14,2 Nm/6.500 vòng/phút; tiêu thụ 2,30 l/100 km; bình 7,1 L; ắc quy 12V-6AH (bản tiêu chuẩn 12V-5AH); phanh đĩa ABS hai bánh; kích thước 1935 x 740 x 1200 mm; yên 770 mm; trọng lượng 135 kg; tải trọng lớn nhất 167 kg; bảo hành 3 năm hoặc 30.000 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, trang bảng giá xe máy cập nhật tháng 10/2026 (đọc 13/10/2026): NMAX – Phiên bản tiêu chuẩn 69.000.000 VNĐ; NMAX – Phiên bản TECH MAX 79.000.000 VNĐ; cùng bảng NVX 155 VVA ABS màu mới 55.300.000 VNĐ, XMAX 140.000.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00255"
+  }
+}

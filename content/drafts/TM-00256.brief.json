@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w7a",
+  "queued": "2026-10-13T13:57:05.066978+00:00",
+  "topic": {
+    "topic_id": "TM-00256",
+    "url": "/xe-may/yamaha-lexi-155/",
+    "title": "Yamaha Lexi 155 VVA-ABS: giá 4 phiên bản, yên 768 mm, cần bằng A",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "yamaha lexi 155",
+    "secondary_keywords": [
+      "lexi 155 giá bao nhiêu",
+      "yamaha lexi thông số",
+      "lexi 155 hao xăng",
+      "lexi tiêu chuẩn và cao cấp",
+      "lexi 155 có cần bằng a không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người tìm xe ga 155 cc tầm 48–50 triệu, yên thấp, muốn biết Lexi có những bản nào, giá, nặng bao nhiêu, hao xăng và cần bằng hạng gì.",
+    "information_gain": "Site có NVX 155 (/xe-may/yamaha-nvx-155/) và bài Air Blade 125/160 (/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/) nhưng chưa có bài Lexi. Bài thêm số liệu Yamaha 13/10/2026: 4 dòng giá 48.500.000–49.900.000 đ; 155,1 cm³ làm mát chất lỏng, 11,3 kW, 14,2 Nm, 2,19 l/100 km, bình 4,2 l; nặng 118 kg; yên 768 mm; ABS bánh trước, phanh sau tang trống; lốp 14 inch; bảo hành 3 năm/30.000 km; và kết luận bằng A theo Điều 57 Luật 36/2024 – điều mà người đổi từ xe 125 cc hay bỏ qua.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/lexi-155-vva-abs-phien-ban-cao-cap-moi-bvy4/",
+        "quote": "Yamaha Motor Việt Nam, trang LEXi 155 VVA-ABS phiên bản cao cấp mới (đọc 13/10/2026): giá bán lẻ đề xuất 49.900.000 VNĐ; động cơ xăng 4 kỳ 1 xi lanh làm mát bằng chất lỏng, 155,1 cc, 58,0 x 58,7, tỷ số nén 11,6:1, 11,3 kW/8000 vòng/phút, 14,2 N.m/6500 vòng/phút; bình xăng 4,2 lít; tiêu thụ 2,19 l/100 km; khung underbone; phanh trước đĩa thủy lực có ABS, phanh sau tang trống cơ khí; lốp 90/90-14 trước, 100/90-14 sau; 1968 x 719 x 1138 mm; yên 768 mm; chiều dài cơ sở 1353 mm; trọng lượng 118 kg; gầm 135 mm; bảo hành 3 năm hoặc 30.000 km. Tính năng: đồng hồ LCD kết nối Y-connect, cổng sạc, khóa smartkey, phuộc sau có bình dầu, hộc chứa đồ đựng được 1 mũ 3/4, sàn để chân phẳng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/lexi-155-vva-abs-phien-ban-tieu-chuan-moi-bvy3/",
+        "quote": "Yamaha Motor Việt Nam, trang LEXi 155 VVA-ABS phiên bản tiêu chuẩn mới (đọc 13/10/2026): giá bán lẻ đề xuất 48.900.000 VNĐ; cùng thông số động cơ 155,1 cc, 11,3 kW; 1968 x 719 x 1138 mm; yên 768 mm; trọng lượng 118 kg; gầm 135 mm; bảo hành 3 năm hoặc 30.000 km tùy điều kiện nào đến trước.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, bảng giá xe máy cập nhật tháng 10/2026 (đọc 13/10/2026), mục Lexi: LEXi 155 VVA-ABS phiên bản tiêu chuẩn 48.500.000 VNĐ; phiên bản tiêu chuẩn mới 48.900.000 VNĐ; phiên bản cao cấp mới 49.900.000 VNĐ; phiên bản cao cấp 48.900.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 590,
+        "checked": "2026-10-13",
+        "keyword": "yamaha lexi 155"
+      }
+    ],
+    "notes": "Chưa xác minh: trang không giải thích VVA là gì và không nêu khác biệt trang bị giữa bản \"tiêu chuẩn\" và \"cao cấp\", giữa bản \"mới\" và bản cũ (chỉ khác giá/màu) – writer không tự liệt kê khác biệt, ghi \"hỏi đại lý\". Trang ghi \"LEXi 2024\" trong phần mô tả: không khẳng định đời xe. Không có dung tích cốp bằng lít, không có tốc độ tối đa, không có tải trọng. Business-facts không liệt kê Lexi trong đội xe: không viết cửa hàng cho thuê Lexi.",
+    "outline": [
+      "Lexi 155 có mấy phiên bản, giá tháng 10/2026",
+      "Động cơ 155,1 cm³: công suất, hao 2,19 l/100 km, bình 4,2 lít",
+      "Yên 768 mm, nặng 118 kg: dễ chống chân không",
+      "Phanh ABS bánh trước, lốp 14 inch, smartkey",
+      "Lexi 155 cần bằng A chứ không phải A1",
+      "Bảo hành và lưu ý khi chọn bản"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/yamaha-nvx-155/",
+      "/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/",
+      "/xe-may/chon-xe-so-hay-xe-ga/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00256.json",
+  "draft_template": {
+    "id": "TM-00256",
+    "url": "/xe-may/yamaha-lexi-155/",
+    "title": "Yamaha Lexi 155 VVA-ABS: giá 4 phiên bản, yên 768 mm, cần bằng A",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "yamaha lexi 155, lexi 155 giá bao nhiêu, yamaha lexi thông số, lexi 155 hao xăng, lexi tiêu chuẩn và cao cấp, lexi 155 có cần bằng a không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Lexi 155 có mấy phiên bản, giá tháng 10/2026",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 155,1 cm³: công suất, hao 2,19 l/100 km, bình 4,2 lít",
+        "<p></p>"
+      ],
+      [
+        "Yên 768 mm, nặng 118 kg: dễ chống chân không",
+        "<p></p>"
+      ],
+      [
+        "Phanh ABS bánh trước, lốp 14 inch, smartkey",
+        "<p></p>"
+      ],
+      [
+        "Lexi 155 cần bằng A chứ không phải A1",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành và lưu ý khi chọn bản",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/lexi-155-vva-abs-phien-ban-cao-cap-moi-bvy4/",
+        "quote": "Yamaha Motor Việt Nam, trang LEXi 155 VVA-ABS phiên bản cao cấp mới (đọc 13/10/2026): giá bán lẻ đề xuất 49.900.000 VNĐ; động cơ xăng 4 kỳ 1 xi lanh làm mát bằng chất lỏng, 155,1 cc, 58,0 x 58,7, tỷ số nén 11,6:1, 11,3 kW/8000 vòng/phút, 14,2 N.m/6500 vòng/phút; bình xăng 4,2 lít; tiêu thụ 2,19 l/100 km; khung underbone; phanh trước đĩa thủy lực có ABS, phanh sau tang trống cơ khí; lốp 90/90-14 trước, 100/90-14 sau; 1968 x 719 x 1138 mm; yên 768 mm; chiều dài cơ sở 1353 mm; trọng lượng 118 kg; gầm 135 mm; bảo hành 3 năm hoặc 30.000 km. Tính năng: đồng hồ LCD kết nối Y-connect, cổng sạc, khóa smartkey, phuộc sau có bình dầu, hộc chứa đồ đựng được 1 mũ 3/4, sàn để chân phẳng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/lexi-155-vva-abs-phien-ban-tieu-chuan-moi-bvy3/",
+        "quote": "Yamaha Motor Việt Nam, trang LEXi 155 VVA-ABS phiên bản tiêu chuẩn mới (đọc 13/10/2026): giá bán lẻ đề xuất 48.900.000 VNĐ; cùng thông số động cơ 155,1 cc, 11,3 kW; 1968 x 719 x 1138 mm; yên 768 mm; trọng lượng 118 kg; gầm 135 mm; bảo hành 3 năm hoặc 30.000 km tùy điều kiện nào đến trước.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, bảng giá xe máy cập nhật tháng 10/2026 (đọc 13/10/2026), mục Lexi: LEXi 155 VVA-ABS phiên bản tiêu chuẩn 48.500.000 VNĐ; phiên bản tiêu chuẩn mới 48.900.000 VNĐ; phiên bản cao cấp mới 49.900.000 VNĐ; phiên bản cao cấp 48.900.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00256"
+  }
+}
