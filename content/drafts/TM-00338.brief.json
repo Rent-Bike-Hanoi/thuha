@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w9e",
+  "queued": "2026-10-13T15:09:28.477754+00:00",
+  "topic": {
+    "topic_id": "TM-00338",
+    "url": "/du-lich/chua-phat-tich-bac-ninh/",
+    "title": "Chùa Phật Tích Bắc Ninh: tượng A Di Đà đá, hội hoa mẫu đơn, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa phật tích bắc ninh",
+    "secondary_keywords": [
+      "chùa phật tích ở đâu",
+      "hội khán hoa mẫu đơn chùa phật tích",
+      "tượng a di đà chùa phật tích",
+      "chùa phật tích cách hà nội bao xa",
+      "chùa phật tích đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội tìm một điểm đi lễ, vãn cảnh gần (khoảng 20 km) cần biết chùa Phật Tích có gì đáng xem, hội đầu xuân vào ngày nào, đi bằng xe máy hoặc xe buýt ra sao.",
+    "information_gain": "Chưa có bài nào về chùa Phật Tích; /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ chỉ nói đền Đô, chùa Dâu, Đông Hồ, còn /du-lich/chua-dau-thuong-tin/ chỉ nhắc tên thiền sư Chuyết Chuyết của chùa Phật Tích. Bài mới thêm: vị trí sườn nam núi Lạn Kha, khoảng cách 20 km (VnExpress, Phật Sự Online), hai nhóm bảo vật quốc gia (tượng A Di Đà đá xanh thời Lý và 10 linh thú đá), tượng A Di Đà 27 m trên đỉnh núi, lịch hội Khán hoa mẫu đơn mùng 3–4 Tết (2026 là 19–20/2) với chương trình từng ngày, cách đi xe buýt 54, 203 từ Long Biên, và chỉ dẫn đường 295 từ TP Bắc Ninh cũ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/du-khach-tung-bung-tray-hoi-khan-hoa-mau-don-chua-phat-tich-post1094738.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Du khách tưng bừng trẩy hội Khán hoa mẫu đơn chùa Phật Tích' (20/2/2026) (đọc 13/10/2026): hằng năm Lễ hội Phật Tích (hội Khán hoa mẫu đơn) diễn ra mùng 3–4 Tết (năm 2026 là 19–20/2) tại di tích quốc gia đặc biệt chùa Phật Tích, xã Phật Tích, tỉnh Bắc Ninh; mùng 3 dâng hương khai hội, trưng bày hoa mẫu đơn, tối khai hội; mùng 4 lễ cầu quốc thái dân an; có hát quan họ trên thuyền; huy động hàng trăm công an, dân phòng; chùa được công nhận di tích quốc gia đặc biệt ngày 31/12/2014; lưu giữ 2 nhóm bảo vật quốc gia: hàng linh thú đá và tượng Phật A Di Đà bằng đá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://phatsuonline.vn/tham-ngoi-gia-lam-hang-nghin-nam-tuoi-o-xu-kinh-bac-60",
+        "quote": "Phật Sự Online, 'Thăm ngôi già lam hàng nghìn năm tuổi ở xứ Kinh Bắc' (18/6/2026) (đọc 13/10/2026): chùa Phật Tích (Vạn Phúc tự) ở sườn nam núi Lạn Kha, cách Hà Nội khoảng 20 km, cách trung tâm TP Bắc Ninh (cũ) khoảng 15 km; năm 1057 vua Lý Thánh Tông cho xây chùa; tượng A Di Đà đá xanh nguyên khối cao 2,7 m thời Lý; 10 linh thú đá (5 đôi) được công nhận bảo vật quốc gia năm 2017; vườn tháp hơn 32 ngọn; từ bến xe Long Biên đi xe buýt 54 hoặc 203; tuyến 04 Lim – Thành Đô có bến dưới chân chùa; từ TP Bắc Ninh cũ theo Lý Thái Tổ – Nguyễn Trãi – QL38 – đường 295 rồi thêm khoảng 7 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ky-luc-tai-ba-ngoi-chua-co-o-dat-kinh-bac-3291859.html",
+        "quote": "VnExpress, 'Kỷ lục tại ba ngôi chùa cổ ở đất Kinh Bắc' (9/10/2015) (đọc 13/10/2026): chùa Phật Tích (chùa Vạn Phúc) ở xã Phật Tích, huyện Tiên Du, cách Hà Nội 20 km về phía đông; tượng A Di Đà thời Lý bằng đá xanh nguyên khối cao 1,85 m, năm 2006 được xác lập là tượng Phật đá thời Lý lớn nhất Việt Nam; tượng A Di Đà trên đỉnh núi cao 27 m; 5 cặp linh thú đá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/du-xuan-den-ba-ngoi-chua-co-noi-tieng-bac-ninh-4704196.html",
+        "quote": "VnExpress, 'Du xuân đến ba ngôi chùa cổ nổi tiếng Bắc Ninh' (11/2/2024) (đọc 13/10/2026): chùa Phật Tích trên núi Lạn Kha; lễ hội mùng 3 đến mùng 5 Tết; từ khoảng 3 km đã thấy hai công trình lớn trên đỉnh núi; gợi ý lộ trình Phật Tích – chùa Dâu – Bút Tháp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1600,
+        "checked": "2026-10-13",
+        "keyword": "chùa phật tích bắc ninh"
+      }
+    ],
+    "notes": "Chiều cao tượng A Di Đà đá: VnExpress 2015 ghi 1,85 m, Phật Sự Online 2026 ghi 2,7 m (có thể gồm bệ) – nêu cả hai, không chọn. Thời gian hội: VietnamPlus 2026 ghi mùng 3–4 Tết, VnExpress 2024 ghi mùng 3–5 Tết. Địa chỉ mới: xã Phật Tích, tỉnh Bắc Ninh (VietnamPlus 2026). Không có nguồn về giờ mở, vé, phí gửi xe. Đường xe máy từ Long Biên chưa có nguồn chi tiết; chỉ có chỉ dẫn từ TP Bắc Ninh cũ và xe buýt. Cảnh báo không vào đoạn có biển cao tốc/cấm xe máy (xem bài Bắc Ninh về QL1 hỗn hợp).",
+    "outline": [
+      "Câu trả lời ngắn: Phật Tích cách Hà Nội 20 km, nổi bật nhất là gì",
+      "Lịch sử và hai nhóm bảo vật quốc gia",
+      "Hội Khán hoa mẫu đơn mùng 3–4 Tết: chương trình từng ngày",
+      "Đi xe máy hay xe buýt 54, 203 từ Long Biên",
+      "Ghép với chùa Dâu, Bút Tháp trong một ngày",
+      "Lưu ý mùa hội: đông người, giữ đồ, gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/chua-dau-thuong-tin/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/long-bien/",
+      "/kinh-nghiem/phong-cuop-giat-khi-di-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00338.json",
+  "draft_template": {
+    "id": "TM-00338",
+    "url": "/du-lich/chua-phat-tich-bac-ninh/",
+    "title": "Chùa Phật Tích Bắc Ninh: tượng A Di Đà đá, hội hoa mẫu đơn, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa phật tích bắc ninh, chùa phật tích ở đâu, hội khán hoa mẫu đơn chùa phật tích, tượng a di đà chùa phật tích, chùa phật tích cách hà nội bao xa, chùa phật tích đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Phật Tích cách Hà Nội 20 km, nổi bật nhất là gì",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử và hai nhóm bảo vật quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Hội Khán hoa mẫu đơn mùng 3–4 Tết: chương trình từng ngày",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy hay xe buýt 54, 203 từ Long Biên",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chùa Dâu, Bút Tháp trong một ngày",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý mùa hội: đông người, giữ đồ, gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/du-khach-tung-bung-tray-hoi-khan-hoa-mau-don-chua-phat-tich-post1094738.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Du khách tưng bừng trẩy hội Khán hoa mẫu đơn chùa Phật Tích' (20/2/2026) (đọc 13/10/2026): hằng năm Lễ hội Phật Tích (hội Khán hoa mẫu đơn) diễn ra mùng 3–4 Tết (năm 2026 là 19–20/2) tại di tích quốc gia đặc biệt chùa Phật Tích, xã Phật Tích, tỉnh Bắc Ninh; mùng 3 dâng hương khai hội, trưng bày hoa mẫu đơn, tối khai hội; mùng 4 lễ cầu quốc thái dân an; có hát quan họ trên thuyền; huy động hàng trăm công an, dân phòng; chùa được công nhận di tích quốc gia đặc biệt ngày 31/12/2014; lưu giữ 2 nhóm bảo vật quốc gia: hàng linh thú đá và tượng Phật A Di Đà bằng đá.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://phatsuonline.vn/tham-ngoi-gia-lam-hang-nghin-nam-tuoi-o-xu-kinh-bac-60",
+        "quote": "Phật Sự Online, 'Thăm ngôi già lam hàng nghìn năm tuổi ở xứ Kinh Bắc' (18/6/2026) (đọc 13/10/2026): chùa Phật Tích (Vạn Phúc tự) ở sườn nam núi Lạn Kha, cách Hà Nội khoảng 20 km, cách trung tâm TP Bắc Ninh (cũ) khoảng 15 km; năm 1057 vua Lý Thánh Tông cho xây chùa; tượng A Di Đà đá xanh nguyên khối cao 2,7 m thời Lý; 10 linh thú đá (5 đôi) được công nhận bảo vật quốc gia năm 2017; vườn tháp hơn 32 ngọn; từ bến xe Long Biên đi xe buýt 54 hoặc 203; tuyến 04 Lim – Thành Đô có bến dưới chân chùa; từ TP Bắc Ninh cũ theo Lý Thái Tổ – Nguyễn Trãi – QL38 – đường 295 rồi thêm khoảng 7 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ky-luc-tai-ba-ngoi-chua-co-o-dat-kinh-bac-3291859.html",
+        "quote": "VnExpress, 'Kỷ lục tại ba ngôi chùa cổ ở đất Kinh Bắc' (9/10/2015) (đọc 13/10/2026): chùa Phật Tích (chùa Vạn Phúc) ở xã Phật Tích, huyện Tiên Du, cách Hà Nội 20 km về phía đông; tượng A Di Đà thời Lý bằng đá xanh nguyên khối cao 1,85 m, năm 2006 được xác lập là tượng Phật đá thời Lý lớn nhất Việt Nam; tượng A Di Đà trên đỉnh núi cao 27 m; 5 cặp linh thú đá.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/du-xuan-den-ba-ngoi-chua-co-noi-tieng-bac-ninh-4704196.html",
+        "quote": "VnExpress, 'Du xuân đến ba ngôi chùa cổ nổi tiếng Bắc Ninh' (11/2/2024) (đọc 13/10/2026): chùa Phật Tích trên núi Lạn Kha; lễ hội mùng 3 đến mùng 5 Tết; từ khoảng 3 km đã thấy hai công trình lớn trên đỉnh núi; gợi ý lộ trình Phật Tích – chùa Dâu – Bút Tháp.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00338"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w9f",
+  "queued": "2026-10-13T15:09:28.607842+00:00",
+  "topic": {
+    "topic_id": "TM-00347",
+    "url": "/du-lich/van-mieu-mao-dien/",
+    "title": "Văn miếu Mao Điền: bên quốc lộ 5, 643 tiến sĩ xứ Đông, hội tháng Hai",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "văn miếu mao điền",
+    "secondary_keywords": [
+      "văn miếu mao điền ở đâu",
+      "văn miếu mao điền hải phòng",
+      "lễ hội văn miếu mao điền 2026",
+      "văn miếu mao điền cách hà nội bao xa",
+      "trường thi hương hải dương"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy theo quốc lộ 5 hoặc phụ huynh muốn cho con thăm một văn miếu ngoài Hà Nội cần biết Văn miếu Mao Điền ở đâu sau sáp nhập, có gì để xem, lễ hội ngày nào và đi từ Long Biên thế nào.",
+    "information_gain": "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/ chỉ nhắc Mao Điền là điểm nghỉ chân (phía bắc QL5A chừng 200 m, cách Hà Nội 42 km); /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ viết làn xe máy QL5 nhưng không nói Mao Điền. Bài mới thêm: địa chỉ mới xã Mao Điền, TP Hải Phòng; lịch sử (dựng cuối thế kỷ XV ở Vĩnh Lại, chuyển về Mao Điền năm 1801, hợp nhất với trường thi Hương trấn Hải Dương); bia đề danh 643 tiến sĩ (1075–1919); QĐ 2082/QĐ-TTg ngày 25/12/2017 xếp hạng quốc gia đặc biệt; khu du lịch cấp tỉnh 6/12/2024; do BQL Côn Sơn – Kiếp Bạc quản lý từ 1/7/2025; lễ hội khai ngày 18 tháng Hai âm lịch (2026: 4–6/4) với lễ tiến chữ, thư pháp, ca trù; khoảng cách 40 km (Cục Di sản).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/van-mieu-mao-dien-tinh-hai-duong-3248",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Văn miếu Mao Điền, tỉnh Hải Dương' (không ghi ngày đăng, đọc 13/10/2026): ở làng Mao (Mậu Tài), xã Cẩm Điền, huyện Cẩm Giàng (địa danh cũ), nằm ngay trên quốc lộ 5 mới, cách Hà Nội khoảng 40 km về phía đông, cách TP Hải Dương khoảng 16 km về phía tây; chuyển về vị trí hiện nay và hoàn thành ngày 26/7 năm Tân Dậu (1801); hai nhà bia dựng năm 2002 với 12 tấm bia ghi tiến sĩ Hải Dương 1075–1919; xếp hạng di tích quốc gia đặc biệt theo Quyết định 2082/QĐ-TTg ngày 25/12/2017.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/khai-hoi-truyen-thong-van-mieu-mao-dien-nam-2026-539762.html",
+        "quote": "Báo Hải Phòng, 'Khai hội truyền thống Văn miếu Mao Điền năm 2026' (5/4/2026) (đọc 13/10/2026): ngày 5/4 (18/2 âm lịch) khai hội tại di tích quốc gia đặc biệt Văn miếu Mao Điền, xã Mao Điền (Hải Phòng); lễ hội 4–6/4; văn miếu xây cuối thế kỷ XV ở xã Vĩnh Lại, năm 1801 chuyển về Mao Điền, hợp nhất với trường thi Hương trấn Hải Dương; bia đề danh 643 tiến sĩ nho học trấn Hải Dương (1075–1919); di tích quốc gia 1992, quốc gia đặc biệt 2017; từ 1/7/2025 do Ban Quản lý di tích Côn Sơn – Kiếp Bạc quản lý; nghi lễ tế cáo yết, khai hội, lễ tiến chữ dâng Thánh; giao lưu thư pháp, cờ người, hát xẩm, ca trù.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/hai-phong-trai-nghiem-giao-duc-di-san-tai-di-tich-quoc-gia-dac-biet-van-mieu-mao-dien/73358.html",
+        "quote": "Chính sách & Cuộc sống (TTXVN), 'Hải Phòng: Trải nghiệm giáo dục di sản tại di tích quốc gia đặc biệt Văn miếu Mao Điền' (22/11/2025) (đọc 13/10/2026): di tích xã Mao Điền, TP Hải Phòng, lịch sử gần 600 năm, được gọi là văn miếu lớn thứ hai cả nước; UBND tỉnh Hải Dương (cũ) công nhận khu du lịch cấp tỉnh ngày 6/12/2024; phối thờ 8 vị đại khoa (có Phạm Sư Mệnh, Vũ Hữu, nữ tiến sĩ Nguyễn Thị Duệ); chương trình 15–30/11/2025 gồm viết thư pháp, in mộc bản, chụp ảnh cổ phục, thi trạng nguyên nhỏ tuổi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP ngày 26/12/2024, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (Cổng TTĐT Chính phủ) (đọc 13/10/2026): Điều 7 khoản 7: \"Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\" điểm b: \"Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\". Điều 7 khoản 13 điểm c: \"Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;\"",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 8100,
+        "checked": "2026-10-13",
+        "keyword": "văn miếu mao điền"
+      }
+    ],
+    "notes": "Khoảng cách: Cục Di sản ghi khoảng 40 km; bài Côn Sơn (dẫn VnExpress) ghi 42 km – nêu cả hai. Năm chuyển về Mao Điền: Báo Hải Phòng ghi 'xây cuối thế kỷ XV ở Vĩnh Lại', Cục Di sản ghi văn miếu trấn lập khoảng 1740–1800 ở Vân Dậu – lịch sử nhiều lớp, viết thận trọng. Thời gian lễ hội 2026: Báo HP ghi 4–6/4, bài Facebook địa phương ghi 4–5/4 (không dùng). Chưa có nguồn giờ mở cửa, vé, gửi xe – không viết. Đi QL5: làn xe máy, cấm làn 1–2 đã có trong bài Hà Nội đi Hải Phòng – link, không lặp. Cao tốc Hà Nội – Hải Phòng cấm xe máy (NĐ 168).",
+    "outline": [
+      "Câu trả lời ngắn: Mao Điền ở đâu, cách Hà Nội bao xa",
+      "Từ trường thi Hương xứ Đông đến di tích quốc gia đặc biệt",
+      "Xem gì: nhà bia 643 tiến sĩ, khu thờ 8 vị đại khoa",
+      "Lễ hội khai ngày 18 tháng Hai âm lịch",
+      "Đi xe máy theo quốc lộ 5: làn nào, không lên cao tốc",
+      "Ghép với Côn Sơn – Kiếp Bạc trong một ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+      "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00347.json",
+  "draft_template": {
+    "id": "TM-00347",
+    "url": "/du-lich/van-mieu-mao-dien/",
+    "title": "Văn miếu Mao Điền: bên quốc lộ 5, 643 tiến sĩ xứ Đông, hội tháng Hai",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "văn miếu mao điền, văn miếu mao điền ở đâu, văn miếu mao điền hải phòng, lễ hội văn miếu mao điền 2026, văn miếu mao điền cách hà nội bao xa, trường thi hương hải dương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Mao Điền ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Từ trường thi Hương xứ Đông đến di tích quốc gia đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: nhà bia 643 tiến sĩ, khu thờ 8 vị đại khoa",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội khai ngày 18 tháng Hai âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo quốc lộ 5: làn nào, không lên cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Côn Sơn – Kiếp Bạc trong một ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/van-mieu-mao-dien-tinh-hai-duong-3248",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Văn miếu Mao Điền, tỉnh Hải Dương' (không ghi ngày đăng, đọc 13/10/2026): ở làng Mao (Mậu Tài), xã Cẩm Điền, huyện Cẩm Giàng (địa danh cũ), nằm ngay trên quốc lộ 5 mới, cách Hà Nội khoảng 40 km về phía đông, cách TP Hải Dương khoảng 16 km về phía tây; chuyển về vị trí hiện nay và hoàn thành ngày 26/7 năm Tân Dậu (1801); hai nhà bia dựng năm 2002 với 12 tấm bia ghi tiến sĩ Hải Dương 1075–1919; xếp hạng di tích quốc gia đặc biệt theo Quyết định 2082/QĐ-TTg ngày 25/12/2017.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/khai-hoi-truyen-thong-van-mieu-mao-dien-nam-2026-539762.html",
+        "quote": "Báo Hải Phòng, 'Khai hội truyền thống Văn miếu Mao Điền năm 2026' (5/4/2026) (đọc 13/10/2026): ngày 5/4 (18/2 âm lịch) khai hội tại di tích quốc gia đặc biệt Văn miếu Mao Điền, xã Mao Điền (Hải Phòng); lễ hội 4–6/4; văn miếu xây cuối thế kỷ XV ở xã Vĩnh Lại, năm 1801 chuyển về Mao Điền, hợp nhất với trường thi Hương trấn Hải Dương; bia đề danh 643 tiến sĩ nho học trấn Hải Dương (1075–1919); di tích quốc gia 1992, quốc gia đặc biệt 2017; từ 1/7/2025 do Ban Quản lý di tích Côn Sơn – Kiếp Bạc quản lý; nghi lễ tế cáo yết, khai hội, lễ tiến chữ dâng Thánh; giao lưu thư pháp, cờ người, hát xẩm, ca trù.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/hai-phong-trai-nghiem-giao-duc-di-san-tai-di-tich-quoc-gia-dac-biet-van-mieu-mao-dien/73358.html",
+        "quote": "Chính sách & Cuộc sống (TTXVN), 'Hải Phòng: Trải nghiệm giáo dục di sản tại di tích quốc gia đặc biệt Văn miếu Mao Điền' (22/11/2025) (đọc 13/10/2026): di tích xã Mao Điền, TP Hải Phòng, lịch sử gần 600 năm, được gọi là văn miếu lớn thứ hai cả nước; UBND tỉnh Hải Dương (cũ) công nhận khu du lịch cấp tỉnh ngày 6/12/2024; phối thờ 8 vị đại khoa (có Phạm Sư Mệnh, Vũ Hữu, nữ tiến sĩ Nguyễn Thị Duệ); chương trình 15–30/11/2025 gồm viết thư pháp, in mộc bản, chụp ảnh cổ phục, thi trạng nguyên nhỏ tuổi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP ngày 26/12/2024, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (Cổng TTĐT Chính phủ) (đọc 13/10/2026): Điều 7 khoản 7: \"Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\" điểm b: \"Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\". Điều 7 khoản 13 điểm c: \"Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;\"",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00347"
+  }
+}

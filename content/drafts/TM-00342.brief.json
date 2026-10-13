@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w9e",
+  "queued": "2026-10-13T15:09:28.478315+00:00",
+  "topic": {
+    "topic_id": "TM-00342",
+    "url": "/du-lich/chua-bo-da-bac-ninh/",
+    "title": "Chùa Bổ Đà Bắc Ninh: vườn tháp 97 tháp cổ, mộc bản, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa bổ đà bắc ninh",
+    "secondary_keywords": [
+      "chùa bổ đà ở đâu",
+      "vườn tháp chùa bổ đà",
+      "mộc bản chùa bổ đà",
+      "chùa bổ đà cách hà nội bao xa",
+      "chùa bổ đà vĩnh nghiêm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội tìm một ngôi chùa cổ yên tĩnh khoảng 60 km để đi xe máy trong ngày muốn biết chùa Bổ Đà ở đâu sau sáp nhập, có gì khác các chùa khác (vườn tháp, tường đất, mộc bản) và nên ghép với điểm nào.",
+    "information_gain": "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ chỉ nhắc chùa Bổ Đà nằm trong khu di tích Tây Yên Tử, không có thông tin tham quan; chưa bài nào viết riêng. Bài mới thêm: vị trí núi Phượng Hoàng, phường Vân Hà, tỉnh Bắc Ninh, cách Hà Nội khoảng 60 km (VnExpress 2/2026); vườn tháp gần 8.000 m² với khoảng 110 tháp và mộ, trong đó 97 tháp cổ; gần 2.000 mộc bản gỗ thị khắc thời Lê Cảnh Hưng; tường bao bằng đá núi, gạch và đất nện; xếp hạng quốc gia đặc biệt 2016; cách chùa Vĩnh Nghiêm 40 km và gợi ý dừng khoảng một tiếng trên đường về Hà Nội.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html",
+        "quote": "VnExpress, '5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm' (18/2/2026) (đọc 13/10/2026): Bổ Đà tọa lạc trên núi Phượng Hoàng (Bổ Đà sơn), phía bắc sông Cầu, thuộc phường Vân Hà, tỉnh Bắc Ninh; cách Hà Nội khoảng 60 km; xây dựng từ khoảng thế kỷ XI, trải qua nhiều lần trùng tu; danh sách chọn theo tiêu chí dưới 80 km, chưa đến hai tiếng lái xe, thích hợp đi trong ngày.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hai-ngoi-chua-co-o-bac-ninh-duoc-unesco-vinh-danh-di-san-4915507.html",
+        "quote": "VnExpress, 'Hai ngôi chùa cổ ở Bắc Ninh được UNESCO vinh danh di sản' (19/7/2025) (đọc 13/10/2026): chùa Bổ Đà cách chùa Vĩnh Nghiêm 40 km; gần 2.000 tấm mộc bản bằng gỗ thị, phần lớn khắc thời Lê Cảnh Hưng (1740–1786); vườn tháp gần 8.000 m², khoảng 110 tháp và mộ, trong đó 97 tháp cổ; tường bao bằng đá núi, gạch chỉ và đất nện; xếp hạng di tích quốc gia đặc biệt năm 2016; thuộc quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO công nhận ngày 12/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-vang-canh-chua-o-bac-giang-4854529.html",
+        "quote": "VnExpress, '48 giờ vãng cảnh chùa ở Bắc Giang' (28/2/2025) (đọc 13/10/2026): chùa Bổ Đà cách thành phố Bắc Giang khoảng 20 km trên đường về Hà Nội; du khách dừng chân vãng cảnh khoảng một tiếng; Bắc Giang cách Hà Nội khoảng 50 km, bài nói ô tô đi thuận tiện nhờ cao tốc CT01.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP ngày 26/12/2024, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (Cổng TTĐT Chính phủ) (đọc 13/10/2026): Điều 7 khoản 7: \"Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\" điểm b: \"Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\". Điều 7 khoản 13 điểm c: \"Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;\"",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 70,
+        "checked": "2026-10-13",
+        "keyword": "chùa bổ đà bắc ninh"
+      }
+    ],
+    "notes": "Không có nguồn đã đọc về ngày lễ hội, giờ mở cửa, vé, gửi xe – không viết. Bài VietnamPlus 2025 về Bổ Đà quá thời gian tải, không dùng. Tuyến xe máy cụ thể chưa có nguồn; CT01 cấm xe máy. Cẩn thận phân biệt 'mộc bản gần 2.000 tấm' (Bổ Đà) với 'hơn 3.000 tấm' (Vĩnh Nghiêm). Nếu Vĩnh Nghiêm cũng được duyệt, hai bài phải tách rõ: bài này chỉ Bổ Đà, link chéo.",
+    "outline": [
+      "Câu trả lời ngắn: chùa Bổ Đà ở đâu, cách Hà Nội bao xa",
+      "Vườn tháp 97 tháp cổ và tường bao đất nện",
+      "Kho mộc bản gỗ thị thời Lê Cảnh Hưng",
+      "Chùa trong quần thể di sản thế giới 2025",
+      "Đi xe máy: không đi CT01, dừng bao lâu",
+      "Ghép với chùa Vĩnh Nghiêm (40 km) hay về Hà Nội trong ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00342.json",
+  "draft_template": {
+    "id": "TM-00342",
+    "url": "/du-lich/chua-bo-da-bac-ninh/",
+    "title": "Chùa Bổ Đà Bắc Ninh: vườn tháp 97 tháp cổ, mộc bản, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa bổ đà bắc ninh, chùa bổ đà ở đâu, vườn tháp chùa bổ đà, mộc bản chùa bổ đà, chùa bổ đà cách hà nội bao xa, chùa bổ đà vĩnh nghiêm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: chùa Bổ Đà ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Vườn tháp 97 tháp cổ và tường bao đất nện",
+        "<p></p>"
+      ],
+      [
+        "Kho mộc bản gỗ thị thời Lê Cảnh Hưng",
+        "<p></p>"
+      ],
+      [
+        "Chùa trong quần thể di sản thế giới 2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: không đi CT01, dừng bao lâu",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chùa Vĩnh Nghiêm (40 km) hay về Hà Nội trong ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html",
+        "quote": "VnExpress, '5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm' (18/2/2026) (đọc 13/10/2026): Bổ Đà tọa lạc trên núi Phượng Hoàng (Bổ Đà sơn), phía bắc sông Cầu, thuộc phường Vân Hà, tỉnh Bắc Ninh; cách Hà Nội khoảng 60 km; xây dựng từ khoảng thế kỷ XI, trải qua nhiều lần trùng tu; danh sách chọn theo tiêu chí dưới 80 km, chưa đến hai tiếng lái xe, thích hợp đi trong ngày.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hai-ngoi-chua-co-o-bac-ninh-duoc-unesco-vinh-danh-di-san-4915507.html",
+        "quote": "VnExpress, 'Hai ngôi chùa cổ ở Bắc Ninh được UNESCO vinh danh di sản' (19/7/2025) (đọc 13/10/2026): chùa Bổ Đà cách chùa Vĩnh Nghiêm 40 km; gần 2.000 tấm mộc bản bằng gỗ thị, phần lớn khắc thời Lê Cảnh Hưng (1740–1786); vườn tháp gần 8.000 m², khoảng 110 tháp và mộ, trong đó 97 tháp cổ; tường bao bằng đá núi, gạch chỉ và đất nện; xếp hạng di tích quốc gia đặc biệt năm 2016; thuộc quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO công nhận ngày 12/7/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-vang-canh-chua-o-bac-giang-4854529.html",
+        "quote": "VnExpress, '48 giờ vãng cảnh chùa ở Bắc Giang' (28/2/2025) (đọc 13/10/2026): chùa Bổ Đà cách thành phố Bắc Giang khoảng 20 km trên đường về Hà Nội; du khách dừng chân vãng cảnh khoảng một tiếng; Bắc Giang cách Hà Nội khoảng 50 km, bài nói ô tô đi thuận tiện nhờ cao tốc CT01.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP ngày 26/12/2024, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (Cổng TTĐT Chính phủ) (đọc 13/10/2026): Điều 7 khoản 7: \"Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\" điểm b: \"Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\". Điều 7 khoản 13 điểm c: \"Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;\"",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00342"
+  }
+}

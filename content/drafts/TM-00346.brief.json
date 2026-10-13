@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w9f",
+  "queued": "2026-10-13T15:09:28.608751+00:00",
+  "topic": {
+    "topic_id": "TM-00346",
+    "url": "/du-lich/chua-co-le-ninh-binh/",
+    "title": "Chùa Cổ Lễ: hội tháng Chín âm lịch, tháp Cửu phẩm, chuông 9 tấn",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa cổ lễ",
+    "secondary_keywords": [
+      "lễ hội chùa cổ lễ",
+      "chùa cổ lễ ở đâu",
+      "tháp cửu phẩm liên hoa chùa cổ lễ",
+      "đại hồng chung chùa cổ lễ",
+      "chùa cổ lễ cách hà nội bao xa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn xem hội chùa Cổ Lễ (bơi chải, rước) hoặc tháp Cửu phẩm và chuông lớn cần biết chùa nay thuộc xã, tỉnh nào, hội vào ngày nào và quãng đường hơn 100 km bằng xe máy cần lưu ý gì.",
+    "information_gain": "/du-lich/den-tran-nam-dinh-di-xe-may/ và /du-lich/phu-day-di-xe-may-tu-ha-noi/ chỉ viết đền Trần (phường Nam Định) và Phủ Dày; chưa bài nào về chùa Cổ Lễ. Bài mới thêm: địa chỉ mới xã Cổ Lễ, tỉnh Ninh Bình; xếp hạng di tích quốc gia đặc biệt theo QĐ 1959/QĐ-TTg ngày 11/9/2025; lễ hội 13–16 tháng Chín âm lịch có thi bơi chải trên sông Cổ Lễ; số liệu chính thức của Cục Di sản (tháp Cửu phẩm liên hoa 26,30 m, 11 tầng; chuông tầng hai cao 4,2 m nặng 9.000 kg đúc 2003, theo mẫu chuông năm 1936) và chỗ các báo ghi khác (32 m); khoảng cách 'hơn 100 km'.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/chua-co-le-22295",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Chùa Cổ Lễ' (không ghi ngày đăng, đọc 13/10/2026): chùa Cổ Lễ (Thần Quang tự) trước thuộc xã Cổ Lễ, huyện Trực Ninh, Nam Định, nay thuộc xã Cổ Lễ, tỉnh Ninh Bình, có lịch sử từ thời Lý; tháp Cửu phẩm liên hoa cao 26,30 m, 11 tầng (1 đế, 9 tầng sen, 1 đỉnh); chuông tầng hai cao 4,2 m, rộng 2,3 m, nặng 9.000 kg, đúc năm 2003 theo mẫu chuông do cố trụ trì Thích Thế Long đúc năm 1936; chuông tầng ba nặng 300 kg, đúc năm 1799; cầu cuốn xây năm 1921; xếp hạng theo Quyết định số 1959/QĐ-TTg ngày 11/9/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3399",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (dulichninhbinh.com.vn), 'Chùa Cổ Lễ đón nhận Bằng xếp hạng Di tích quốc gia đặc biệt' (cập nhật 3/11/2025) (đọc 13/10/2026): sáng 2/11/2025 (13/9 âm lịch Ất Tỵ) tại xã Cổ Lễ, tỉnh Ninh Bình, đón Bằng xếp hạng theo QĐ 1959/QĐ-TTg ngày 11/9/2025; lễ hội diễn ra từ 13 đến 16/9 âm lịch hằng năm, gồm nghi lễ Phật giáo, rước, diễn xướng dân gian, nổi bật là hội thi bơi chải trên sông Cổ Lễ; chùa khởi dựng thời Lý thế kỷ XII; Đại Hồng Chung cao 4,2 m, nặng 9 tấn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantoctongiao.vn/dau-nam-tham-chua-co-le-1773966447100.htm",
+        "quote": "Tạp chí Dân tộc & Tôn giáo, 'Đầu năm thăm chùa Cổ Lễ' (Hoàng Thu, 20/3/2026) (đọc 13/10/2026): chùa ở xã Cổ Lễ, tỉnh Ninh Bình; khuôn viên gần 10 mẫu Bắc Bộ (khoảng 36.000 m²); tháp Cửu phẩm liên hoa 11 tầng, bát giác, giữa hồ lớn, 64 bậc từ chân lên đỉnh; Đại Hồng Chung nặng 9 tấn đúc năm 1936 bởi Hòa thượng Thích Thế Long; năm 2005 có chuông thay thế cũng nặng 9 tấn; di tích quốc gia đặc biệt 11/9/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ngoi-chua-cach-ha-noi-hon-100km-co-bau-vat-lon-bac-nhat-viet-nam-2379086.html",
+        "quote": "VietNamNet, 'Ngôi chùa cách Hà Nội hơn 100km có báu vật lớn bậc nhất Việt Nam' (Thảo Trinh, 10/3/2025) (đọc 13/10/2026): chùa Cổ Lễ cách Hà Nội hơn 100 km; tháp Cửu phẩm liên hoa cao 32 m, 9 tầng sen, cầu thang xoắn 98 bậc; Đại Hồng Chung cao 4,2 m, đường kính 2,2 m, thành dày 8 cm, đúc khoảng năm 1936; lễ hội 13–16 tháng 9 âm lịch có rước, tụng kinh, trò chơi dân gian, bơi chải.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 5400,
+        "checked": "2026-10-13",
+        "keyword": "chùa cổ lễ"
+      }
+    ],
+    "notes": "Lịch hội 2026 (12–16/9 âm lịch = 21–25/10/2026) chỉ thấy ở đoạn trích tìm kiếm của Lao Động và cổng xã Cổ Lễ (cole.ninhbinh.gov.vn), cả hai không tải được – CHƯA kiểm chứng; chỉ dùng mốc 13–16/9 âm lịch hằng năm và nhắc kiểm tra thông báo của xã. Số liệu mâu thuẫn: tháp 26,30 m (Cục Di sản) vs 32 m (VietNamNet); 64 bậc vs 98 bậc; chuông 9 tấn: bản 1936 và chuông đúc 2003/2005 (các nguồn ghi năm khác nhau) – ưu tiên Cục Di sản, nêu khác biệt. Hơn 100 km mỗi chiều: tuyến xe máy (QL1 – QL21) chưa có nguồn – không ghi tên đường; nhắc không vào cao tốc Pháp Vân – Cầu Giẽ – Ninh Bình (NĐ 168, xem bài Ninh Bình). Không có nguồn giờ mở, vé, gửi xe.",
+    "outline": [
+      "Câu trả lời ngắn: chùa ở đâu, hội vào ngày nào",
+      "Chùa Cổ Lễ sau sáp nhập và xếp hạng quốc gia đặc biệt 2025",
+      "Tháp Cửu phẩm liên hoa và Đại Hồng Chung: số liệu chính thức",
+      "Lễ hội 13–16 tháng Chín âm lịch: rước, bơi chải",
+      "Hơn 100 km bằng xe máy: không vào cao tốc, nghỉ dọc đường",
+      "Ghép với đền Trần, Phủ Dày nếu ở lại một đêm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/phu-day-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00346.json",
+  "draft_template": {
+    "id": "TM-00346",
+    "url": "/du-lich/chua-co-le-ninh-binh/",
+    "title": "Chùa Cổ Lễ: hội tháng Chín âm lịch, tháp Cửu phẩm, chuông 9 tấn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa cổ lễ, lễ hội chùa cổ lễ, chùa cổ lễ ở đâu, tháp cửu phẩm liên hoa chùa cổ lễ, đại hồng chung chùa cổ lễ, chùa cổ lễ cách hà nội bao xa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: chùa ở đâu, hội vào ngày nào",
+        "<p></p>"
+      ],
+      [
+        "Chùa Cổ Lễ sau sáp nhập và xếp hạng quốc gia đặc biệt 2025",
+        "<p></p>"
+      ],
+      [
+        "Tháp Cửu phẩm liên hoa và Đại Hồng Chung: số liệu chính thức",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 13–16 tháng Chín âm lịch: rước, bơi chải",
+        "<p></p>"
+      ],
+      [
+        "Hơn 100 km bằng xe máy: không vào cao tốc, nghỉ dọc đường",
+        "<p></p>"
+      ],
+      [
+        "Ghép với đền Trần, Phủ Dày nếu ở lại một đêm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/chua-co-le-22295",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Chùa Cổ Lễ' (không ghi ngày đăng, đọc 13/10/2026): chùa Cổ Lễ (Thần Quang tự) trước thuộc xã Cổ Lễ, huyện Trực Ninh, Nam Định, nay thuộc xã Cổ Lễ, tỉnh Ninh Bình, có lịch sử từ thời Lý; tháp Cửu phẩm liên hoa cao 26,30 m, 11 tầng (1 đế, 9 tầng sen, 1 đỉnh); chuông tầng hai cao 4,2 m, rộng 2,3 m, nặng 9.000 kg, đúc năm 2003 theo mẫu chuông do cố trụ trì Thích Thế Long đúc năm 1936; chuông tầng ba nặng 300 kg, đúc năm 1799; cầu cuốn xây năm 1921; xếp hạng theo Quyết định số 1959/QĐ-TTg ngày 11/9/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3399",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (dulichninhbinh.com.vn), 'Chùa Cổ Lễ đón nhận Bằng xếp hạng Di tích quốc gia đặc biệt' (cập nhật 3/11/2025) (đọc 13/10/2026): sáng 2/11/2025 (13/9 âm lịch Ất Tỵ) tại xã Cổ Lễ, tỉnh Ninh Bình, đón Bằng xếp hạng theo QĐ 1959/QĐ-TTg ngày 11/9/2025; lễ hội diễn ra từ 13 đến 16/9 âm lịch hằng năm, gồm nghi lễ Phật giáo, rước, diễn xướng dân gian, nổi bật là hội thi bơi chải trên sông Cổ Lễ; chùa khởi dựng thời Lý thế kỷ XII; Đại Hồng Chung cao 4,2 m, nặng 9 tấn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantoctongiao.vn/dau-nam-tham-chua-co-le-1773966447100.htm",
+        "quote": "Tạp chí Dân tộc & Tôn giáo, 'Đầu năm thăm chùa Cổ Lễ' (Hoàng Thu, 20/3/2026) (đọc 13/10/2026): chùa ở xã Cổ Lễ, tỉnh Ninh Bình; khuôn viên gần 10 mẫu Bắc Bộ (khoảng 36.000 m²); tháp Cửu phẩm liên hoa 11 tầng, bát giác, giữa hồ lớn, 64 bậc từ chân lên đỉnh; Đại Hồng Chung nặng 9 tấn đúc năm 1936 bởi Hòa thượng Thích Thế Long; năm 2005 có chuông thay thế cũng nặng 9 tấn; di tích quốc gia đặc biệt 11/9/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ngoi-chua-cach-ha-noi-hon-100km-co-bau-vat-lon-bac-nhat-viet-nam-2379086.html",
+        "quote": "VietNamNet, 'Ngôi chùa cách Hà Nội hơn 100km có báu vật lớn bậc nhất Việt Nam' (Thảo Trinh, 10/3/2025) (đọc 13/10/2026): chùa Cổ Lễ cách Hà Nội hơn 100 km; tháp Cửu phẩm liên hoa cao 32 m, 9 tầng sen, cầu thang xoắn 98 bậc; Đại Hồng Chung cao 4,2 m, đường kính 2,2 m, thành dày 8 cm, đúc khoảng năm 1936; lễ hội 13–16 tháng 9 âm lịch có rước, tụng kinh, trò chơi dân gian, bơi chải.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00346"
+  }
+}

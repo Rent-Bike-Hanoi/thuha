@@ -1,0 +1,186 @@
+{
+  "writer": "writer-w9f",
+  "queued": "2026-10-13T15:09:28.607288+00:00",
+  "topic": {
+    "topic_id": "TM-00345",
+    "url": "/du-lich/chua-keo-thai-binh/",
+    "title": "Chùa Keo Thái Bình: kiến trúc, gác chuông, lễ hội mùa thu và cách đi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa keo thái bình",
+    "secondary_keywords": [
+      "chùa keo thái bình",
+      "chùa keo ở đâu",
+      "gác chuông chùa keo",
+      "chùa keo cách hà nội bao xa",
+      "hội chùa keo tháng 9 âm lịch",
+      "lễ hội chùa keo"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người ở Hà Nội định đi hội chùa Keo mùa Thu bằng xe máy cần biết hội 2026 diễn ra ngày nào, chùa nay thuộc xã, tỉnh nào, có gì để xem và quãng đường 110 km có hợp đi về trong ngày không.",
+    "information_gain": "Chưa có bài nào về chùa Keo; /du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/ chỉ viết phố Hiến (Hưng Yên) và không nhắc chùa Keo dù nay cùng tỉnh. Bài mới thêm: lịch hội Thu 2026 (19–24/10, tức mùng 10 đến hết 15 tháng Chín âm lịch, khai mạc 19/10), hội Xuân mùng 4 Tết; địa chỉ mới xã Vũ Tiên, tỉnh Hưng Yên; gác chuông gỗ cao 11,04 m, 3 tầng 12 mái, kỷ lục 2007; chùa dựng năm 1632, nay 17 công trình 128 gian; xếp hạng quốc gia đặc biệt 2012, lễ hội di sản phi vật thể 2017; khoảng cách 110 km (VnExpress) nên tính thời gian đi về và không lên cao tốc.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ron-rang-le-hoi-chua-keo-mua-thu-nam-2026-post1137736.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Rộn ràng Lễ hội chùa Keo mùa Thu năm 2026' (22/9/2026) (đọc 13/10/2026): lễ hội 6 ngày, từ 19 đến 24/10/2026 (mùng 10 đến hết ngày 15 tháng 9 âm lịch Bính Ngọ); khai mạc dự kiến 19/10 tại di tích quốc gia đặc biệt chùa Keo (Thần Quang tự), xã Vũ Tiên, tỉnh Hưng Yên; phần lễ: khai chỉ, rước Đức Thánh Dương Không Lộ, thực hành tín ngưỡng thờ Mẫu Tam phủ; trò diễn múa rối chầu Thánh, múa trải cạn, múa ếch vồ, đêm hội hoa đăng; phần hội: du thuyền hát hội, chèo, têm trầu cánh phượng, ẩm thực, cờ tướng, giải lân sư rồng; di tích quốc gia 1962, quốc gia đặc biệt 2012, lễ hội là di sản văn hóa phi vật thể quốc gia 2017.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/tim-ve-mien-di-san-chua-keo-78686.html",
+        "quote": "Dân tộc & Phát triển (VietNamNet), 'Tìm về miền di sản chùa Keo' (23/9/2026) (đọc 13/10/2026): lễ hội chùa Keo mùa Thu 2026 tổ chức 19–24/10; chùa ở xã Vũ Tiên, tỉnh Hưng Yên (trước thuộc Thái Bình); có rước Đức Thánh Không Lộ, múa rối chầu Thánh, đêm hội hoa đăng, du thuyền hát hội.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://banquanlyditichhy.vn/gac-chuong-chua-keo-kiet-tac-kien-truc-go-doc-dao-cua-nghe-thuat-kien-truc-co-viet-nam-c216.html",
+        "quote": "Ban Quản lý Di tích tỉnh Hưng Yên, 'Gác chuông chùa Keo – kiệt tác kiến trúc gỗ' (Phạm Thị Phương, cập nhật 18/3/2026) (đọc 13/10/2026): chùa Keo ở xã Vũ Tiên, tỉnh Hưng Yên, gần 400 năm tuổi; gác chuông cao 11,04 m, 3 tầng, 12 mặt mái, khung 4 cột cái và 12 cột quân; năm 2007 được xác lập kỷ lục gác chuông bằng gỗ cao nhất Việt Nam; tầng hai treo chuông Chính Hòa 19 (1698), tầng ba chuông Cảnh Thịnh 4 (1796).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/chua-keo-ngoi-co-tu-co-nghe-thuat-kien-truc-doc-nhat-vo-nhi-post618271.vnp",
+        "quote": "VietnamPlus, 'Chùa Keo – ngôi cổ tự có nghệ thuật kiến trúc độc nhất vô nhị' (29/8/2021) (đọc 13/10/2026): chùa xây năm 1632; ban đầu 21 công trình, 157 gian trên khu đất 58.000 m², hiện còn 17 công trình, 128 gian; hành lang Đông, Tây mỗi dãy 33 gian; hội Xuân mùng 4 Tết, hội Thu 13–15 tháng Chín âm lịch; lưu 197 di vật, cổ vật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html",
+        "quote": "VnExpress, '5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm' (18/2/2026) (đọc 13/10/2026): chùa Keo ở xã Vũ Tiên, tỉnh Hưng Yên (huyện Vũ Thư, Thái Bình cũ), cách Hà Nội 110 km, khoảng 1 tiếng 45 phút lái xe; xây dựng thế kỷ XVII; gác chuông ba tầng mái.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP ngày 26/12/2024, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (Cổng TTĐT Chính phủ) (đọc 13/10/2026): Điều 7 khoản 7: \"Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\" điểm b: \"Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\". Điều 7 khoản 13 điểm c: \"Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;\"",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 18100,
+        "checked": "2026-10-13",
+        "keyword": "chùa keo thái bình"
+      }
+    ],
+    "notes": "Bài thời sự: hội diễn ra 19–24/10/2026, sau đó cần sửa thành hướng dẫn chung (hội Thu mùng 10–15 tháng Chín âm lịch, chính hội 13–15 theo nguồn 2021). Năm chuông tầng hai: BQL ghi 1698, VietnamPlus 2021 ghi 1686 – nêu theo BQL hoặc bỏ năm. Thời gian '1 tiếng 45 phút' là lái ô tô, không áp cho xe máy. Chưa có nguồn tuyến xe máy, phân luồng, gửi xe, vé – không viết; cảnh báo không vào cao tốc (CT01, Cầu Giẽ – Ninh Bình, CT16 Hưng Yên – Thái Bình theo VnExpress cẩm nang Hưng Yên) bằng NĐ 168. 110 km mỗi chiều: khuyên cân nhắc ở lại hoặc đi sớm; xe 50cc không phù hợp (không khẳng định số liệu). Biên tập: đổi sang chủ đề bền (chùa Keo), lịch lễ hội 2026 ghi là của năm 2026, có ngày.",
+    "outline": [
+      "Câu trả lời ngắn: hội Thu 2026 ngày nào, chùa ở đâu",
+      "Chương trình lễ hội mùa Thu: khai chỉ, rước Thánh, hoa đăng",
+      "Gác chuông 11,04 m và quần thể 1632",
+      "110 km bằng xe máy: đi về trong ngày có nên không",
+      "Không lên cao tốc: mức phạt và cách chọn đường",
+      "Ứng xử ngày hội và hội Xuân mùng 4 Tết"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00345.json",
+  "draft_template": {
+    "id": "TM-00345",
+    "url": "/du-lich/chua-keo-thai-binh/",
+    "title": "Chùa Keo Thái Bình: kiến trúc, gác chuông, lễ hội mùa thu và cách đi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa keo thái bình, chùa keo thái bình, chùa keo ở đâu, gác chuông chùa keo, chùa keo cách hà nội bao xa, hội chùa keo tháng 9 âm lịch, lễ hội chùa keo",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: hội Thu 2026 ngày nào, chùa ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Chương trình lễ hội mùa Thu: khai chỉ, rước Thánh, hoa đăng",
+        "<p></p>"
+      ],
+      [
+        "Gác chuông 11,04 m và quần thể 1632",
+        "<p></p>"
+      ],
+      [
+        "110 km bằng xe máy: đi về trong ngày có nên không",
+        "<p></p>"
+      ],
+      [
+        "Không lên cao tốc: mức phạt và cách chọn đường",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử ngày hội và hội Xuân mùng 4 Tết",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ron-rang-le-hoi-chua-keo-mua-thu-nam-2026-post1137736.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Rộn ràng Lễ hội chùa Keo mùa Thu năm 2026' (22/9/2026) (đọc 13/10/2026): lễ hội 6 ngày, từ 19 đến 24/10/2026 (mùng 10 đến hết ngày 15 tháng 9 âm lịch Bính Ngọ); khai mạc dự kiến 19/10 tại di tích quốc gia đặc biệt chùa Keo (Thần Quang tự), xã Vũ Tiên, tỉnh Hưng Yên; phần lễ: khai chỉ, rước Đức Thánh Dương Không Lộ, thực hành tín ngưỡng thờ Mẫu Tam phủ; trò diễn múa rối chầu Thánh, múa trải cạn, múa ếch vồ, đêm hội hoa đăng; phần hội: du thuyền hát hội, chèo, têm trầu cánh phượng, ẩm thực, cờ tướng, giải lân sư rồng; di tích quốc gia 1962, quốc gia đặc biệt 2012, lễ hội là di sản văn hóa phi vật thể quốc gia 2017.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/tim-ve-mien-di-san-chua-keo-78686.html",
+        "quote": "Dân tộc & Phát triển (VietNamNet), 'Tìm về miền di sản chùa Keo' (23/9/2026) (đọc 13/10/2026): lễ hội chùa Keo mùa Thu 2026 tổ chức 19–24/10; chùa ở xã Vũ Tiên, tỉnh Hưng Yên (trước thuộc Thái Bình); có rước Đức Thánh Không Lộ, múa rối chầu Thánh, đêm hội hoa đăng, du thuyền hát hội.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://banquanlyditichhy.vn/gac-chuong-chua-keo-kiet-tac-kien-truc-go-doc-dao-cua-nghe-thuat-kien-truc-co-viet-nam-c216.html",
+        "quote": "Ban Quản lý Di tích tỉnh Hưng Yên, 'Gác chuông chùa Keo – kiệt tác kiến trúc gỗ' (Phạm Thị Phương, cập nhật 18/3/2026) (đọc 13/10/2026): chùa Keo ở xã Vũ Tiên, tỉnh Hưng Yên, gần 400 năm tuổi; gác chuông cao 11,04 m, 3 tầng, 12 mặt mái, khung 4 cột cái và 12 cột quân; năm 2007 được xác lập kỷ lục gác chuông bằng gỗ cao nhất Việt Nam; tầng hai treo chuông Chính Hòa 19 (1698), tầng ba chuông Cảnh Thịnh 4 (1796).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/chua-keo-ngoi-co-tu-co-nghe-thuat-kien-truc-doc-nhat-vo-nhi-post618271.vnp",
+        "quote": "VietnamPlus, 'Chùa Keo – ngôi cổ tự có nghệ thuật kiến trúc độc nhất vô nhị' (29/8/2021) (đọc 13/10/2026): chùa xây năm 1632; ban đầu 21 công trình, 157 gian trên khu đất 58.000 m², hiện còn 17 công trình, 128 gian; hành lang Đông, Tây mỗi dãy 33 gian; hội Xuân mùng 4 Tết, hội Thu 13–15 tháng Chín âm lịch; lưu 197 di vật, cổ vật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html",
+        "quote": "VnExpress, '5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm' (18/2/2026) (đọc 13/10/2026): chùa Keo ở xã Vũ Tiên, tỉnh Hưng Yên (huyện Vũ Thư, Thái Bình cũ), cách Hà Nội 110 km, khoảng 1 tiếng 45 phút lái xe; xây dựng thế kỷ XVII; gác chuông ba tầng mái.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Nghị định 168/2024/NĐ-CP ngày 26/12/2024, toàn văn đăng trên xaydungchinhsach.chinhphu.vn (Cổng TTĐT Chính phủ) (đọc 13/10/2026): Điều 7 khoản 7: \"Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây:\" điểm b: \"Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;\". Điều 7 khoản 13 điểm c: \"Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm;\"",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00345"
+  }
+}

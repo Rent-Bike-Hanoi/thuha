@@ -1,0 +1,133 @@
+{
+  "writer": "writer-w9f",
+  "queued": "2026-10-13T15:09:28.609532+00:00",
+  "topic": {
+    "topic_id": "TM-00344",
+    "url": "/du-lich/chua-nom-lang-nom-hung-yen/",
+    "title": "Chùa Nôm Hưng Yên: 128 tượng đất, cầu đá 9 nhịp, cách Hà Nội 30 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa nôm hưng yên",
+    "secondary_keywords": [
+      "làng nôm hưng yên",
+      "chùa nôm đi xe máy",
+      "chùa nôm cách hà nội bao xa",
+      "cầu đá làng nôm",
+      "tượng đất chùa nôm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Long Biên, Gia Lâm muốn một chuyến xe máy nửa ngày tới một làng cổ yên tĩnh cần biết chùa Nôm, làng Nôm ở đâu, có gì để xem và vừa được công nhận điểm du lịch thì có gì thay đổi.",
+    "information_gain": "Chưa có bài nào về chùa Nôm/làng Nôm; /du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/ đi quốc lộ 5 qua Hưng Yên nhưng không nhắc làng Nôm. Bài mới thêm: vị trí xã Đại Đồng, tỉnh Hưng Yên, cách Hà Nội khoảng 30 km; khuôn viên trên 8.000 m² tường đá ong; 128 pho tượng Phật bằng đất; cầu đá cổ 9 nhịp; cổng làng xây năm 1915; quần thể di tích làng Nôm xếp hạng quốc gia 2020; được công nhận Điểm du lịch (công bố 23/8/2026); xã Đại Đồng có 63 di tích, 13 đã xếp hạng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-nhan-diem-du-lich-di-tich-lich-su-van-hoa-quoc-gia-chua-nom-post1131925.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Công nhận Điểm du lịch Di tích lịch sử-văn hóa Quốc gia chùa Nôm' (23/8/2026) (đọc 13/10/2026): ngày 23/8/2026 công bố quyết định của UBND tỉnh Hưng Yên công nhận Điểm du lịch chùa Nôm, cùng Lễ Vu Lan; chùa Nôm ở làng Nôm (nay thôn Đồng Tiến), xã Đại Đồng, tỉnh Hưng Yên, cách Hà Nội khoảng 30 km; có 128 pho tượng Phật bằng đất; diện tích trên 8.000 m²; quần thể có cầu đá cổ 9 nhịp; năm 2020 quần thể di tích làng Nôm được xếp hạng di tích lịch sử – kiến trúc nghệ thuật quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyen.dcs.vn/chua-nom-tu-di-tich-quoc-gia-den-diem-du-lich-hap-dan-c231892.html",
+        "quote": "Cổng TTĐT Đảng bộ tỉnh Hưng Yên, 'Chùa Nôm – Từ di tích quốc gia đến điểm du lịch hấp dẫn' (30/8/2026) (đọc 13/10/2026): chùa Nôm (Linh Thông cổ tự) trên khuôn đất rộng 8.000 m² bao quanh bằng tường đá ong; 128 pho tượng lớn nhỏ bằng đất; tượng đồng Cửu Long Phật Đản cao khoảng 45 cm; chùa phục dựng năm Canh Thân (1680); cổng làng Nôm xây năm 1915; đình Đại Đồng giữ 14 đạo sắc phong; quần thể di tích làng Nôm xếp hạng quốc gia năm 2020; xã Đại Đồng có 63 di tích, 13 đã xếp hạng, 27 lễ hội; hằng năm đón hàng trăm nghìn lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1300,
+        "checked": "2026-10-13",
+        "keyword": "chùa nôm hưng yên"
+      }
+    ],
+    "notes": "Thời điểm công nhận điểm du lịch: Cổng Đảng bộ ghi 'tháng 4/2026', VietnamPlus ghi lễ công bố 23/8/2026 – viết 'được công nhận, công bố ngày 23/8/2026'. Chưa có nguồn đã đọc về tuyến xe máy (quốc lộ 5 hay đường khác), giờ mở cửa, vé, gửi xe, ngày hội làng – không viết. Tuổi cầu đá chưa có nguồn chính thức (bài báo 2023 ghi 'hơn 200 tuổi', không đọc được). Gần Long Biên nên hợp xe 50cc? Không khẳng định – tùy tuyến; nếu đi QL5 xem làn xe máy ở bài Hải Phòng.",
+    "outline": [
+      "Câu trả lời ngắn: chùa Nôm ở đâu, cách Hà Nội bao xa",
+      "Làng Nôm: cổng làng 1915, cầu đá 9 nhịp, đình Đại Đồng",
+      "Chùa Nôm và 128 pho tượng đất",
+      "Vừa thành điểm du lịch 2026: nghĩa là gì với khách",
+      "Đi xe máy từ Long Biên: lưu ý quốc lộ 5 và đường làng",
+      "Ứng xử khi tham quan làng cổ và chùa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/ecopark-di-xe-may-tu-long-bien/",
+      "/du-lich/lang-co-dong-ngac/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00344.json",
+  "draft_template": {
+    "id": "TM-00344",
+    "url": "/du-lich/chua-nom-lang-nom-hung-yen/",
+    "title": "Chùa Nôm Hưng Yên: 128 tượng đất, cầu đá 9 nhịp, cách Hà Nội 30 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa nôm hưng yên, làng nôm hưng yên, chùa nôm đi xe máy, chùa nôm cách hà nội bao xa, cầu đá làng nôm, tượng đất chùa nôm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: chùa Nôm ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Làng Nôm: cổng làng 1915, cầu đá 9 nhịp, đình Đại Đồng",
+        "<p></p>"
+      ],
+      [
+        "Chùa Nôm và 128 pho tượng đất",
+        "<p></p>"
+      ],
+      [
+        "Vừa thành điểm du lịch 2026: nghĩa là gì với khách",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên: lưu ý quốc lộ 5 và đường làng",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi tham quan làng cổ và chùa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-nhan-diem-du-lich-di-tich-lich-su-van-hoa-quoc-gia-chua-nom-post1131925.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Công nhận Điểm du lịch Di tích lịch sử-văn hóa Quốc gia chùa Nôm' (23/8/2026) (đọc 13/10/2026): ngày 23/8/2026 công bố quyết định của UBND tỉnh Hưng Yên công nhận Điểm du lịch chùa Nôm, cùng Lễ Vu Lan; chùa Nôm ở làng Nôm (nay thôn Đồng Tiến), xã Đại Đồng, tỉnh Hưng Yên, cách Hà Nội khoảng 30 km; có 128 pho tượng Phật bằng đất; diện tích trên 8.000 m²; quần thể có cầu đá cổ 9 nhịp; năm 2020 quần thể di tích làng Nôm được xếp hạng di tích lịch sử – kiến trúc nghệ thuật quốc gia.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyen.dcs.vn/chua-nom-tu-di-tich-quoc-gia-den-diem-du-lich-hap-dan-c231892.html",
+        "quote": "Cổng TTĐT Đảng bộ tỉnh Hưng Yên, 'Chùa Nôm – Từ di tích quốc gia đến điểm du lịch hấp dẫn' (30/8/2026) (đọc 13/10/2026): chùa Nôm (Linh Thông cổ tự) trên khuôn đất rộng 8.000 m² bao quanh bằng tường đá ong; 128 pho tượng lớn nhỏ bằng đất; tượng đồng Cửu Long Phật Đản cao khoảng 45 cm; chùa phục dựng năm Canh Thân (1680); cổng làng Nôm xây năm 1915; đình Đại Đồng giữ 14 đạo sắc phong; quần thể di tích làng Nôm xếp hạng quốc gia năm 2020; xã Đại Đồng có 63 di tích, 13 đã xếp hạng, 27 lễ hội; hằng năm đón hàng trăm nghìn lượt khách.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00344"
+  }
+}

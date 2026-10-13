@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w9f",
+  "queued": "2026-10-13T15:09:28.609149+00:00",
+  "topic": {
+    "topic_id": "TM-00343",
+    "url": "/du-lich/den-chu-dong-tu-da-hoa-da-trach/",
+    "title": "Đền Chử Đồng Tử (Đa Hòa – Dạ Trạch): lễ hội tháng Hai, đi đê sông Hồng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền chử đồng tử",
+    "secondary_keywords": [
+      "đền đa hòa",
+      "đền dạ trạch",
+      "lễ hội chử đồng tử tiên dung 2026",
+      "đền chử đồng tử cách hà nội bao xa",
+      "đền đa hòa hưng yên đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi đền thờ Chử Đồng Tử – Tiên Dung bằng xe máy theo đê sông Hồng cần biết hai đền Đa Hòa, Dạ Trạch nay ở xã nào, lễ hội ngày nào, cách bao xa và có gì để xem.",
+    "information_gain": "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/ chỉ có một câu gợi ý tuyến 'Phố Hiến – đền Đa Hòa – Dạ Trạch – Văn Giang' và không có địa chỉ, lễ hội hay đường đi. Bài mới thêm: hai địa điểm mới (đền Đa Hòa xã Mễ Sở, đền Dạ Trạch xã Triệu Việt Vương, tỉnh Hưng Yên); lễ hội 10–12 tháng Hai âm lịch (2026: 28–30/3) với rước nước từ bến sông Hồng và kiệu thành hoàng 9 làng tổng Mễ; xếp hạng di tích quốc gia đặc biệt theo QĐ 1473/QĐ-TTg ngày 26/11/2024; đền Đa Hòa dựng lại năm 1894, 18 công trình, nhìn sang bãi Tự Nhiên; khoảng cách 25 km theo đê sông Hồng (cổng tỉnh) và 28 km (VnExpress).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/khai-mac-le-hoi-den-da-hoa-da-trach-nam-2026-3193152.html",
+        "quote": "Báo Hưng Yên, 'Khai mạc Lễ hội đền Đa Hòa – Dạ Trạch năm 2026' (28/3/2026) (đọc 13/10/2026): sáng 28/3 (10/2 âm lịch) khai mạc tại đền Đa Hòa (xã Mễ Sở); lễ hội 3 ngày 28–30/3/2026 (10–12/2 âm lịch) tại đền Đa Hòa (xã Mễ Sở) và đền Dạ Trạch (xã Triệu Việt Vương); đón Bằng xếp hạng di tích quốc gia đặc biệt theo Quyết định 1473/QĐ-TTg ngày 26/11/2024; rước kiệu thành hoàng các làng; chương trình nghệ thuật 'Bến sông huyền thoại' với hơn 70 diễn viên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/le-hoi-ton-vinh-tinh-yeu-cua-nguoi-viet-post952328.html",
+        "quote": "Nhân Dân, 'Lễ hội tôn vinh tình yêu của người Việt' (Quỳnh Dung, 1/4/2026) (đọc 13/10/2026): lễ hội đền Đa Hòa – Dạ Trạch diễn ra 10–12 tháng 2 âm lịch hằng năm tại đền Đa Hòa (xã Mễ Sở) và đền Dạ Trạch (xã Triệu Việt Vương), tỉnh Hưng Yên; năm nay ngày 10 âm lịch là 28/3; có lễ rước nước từ bến sông Hồng vào đền, rước kiệu thành hoàng của chín làng tổng Mễ xưa; Tiên Dung là con gái Vua Hùng thứ 18.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/khach-tay-thay-binh-yen-khi-tham-den-tho-chu-dong-tu-3885839.html",
+        "quote": "VnExpress, 'Khách Tây thấy bình yên khi thăm đền thờ Chử Đồng Tử' (Phong Vinh, 26/2/2019) (đọc 13/10/2026): đền Đa Hòa ở huyện Khoái Châu cũ, bên bờ sông Hồng, cách trung tâm Hà Nội khoảng 28 km về hướng nam; được tiến sĩ Chu Mạnh Trinh dựng lại năm 1894 trên nền đền cổ; gồm 18 công trình lớn nhỏ; ngọ môn 3 cửa; đền quay hướng tây nhìn sang bãi Tự Nhiên; xếp hạng di tích năm 1962.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyen.gov.vn/den-chu-dong-tu-tien-dung-c27723.html",
+        "quote": "Cổng TTĐT tỉnh Hưng Yên, 'Đền Chử Đồng Tử – Tiên Dung' (26/10/2004) (đọc 13/10/2026): đền thuộc xã Bình Minh, huyện Khoái Châu (địa danh cũ), cách Hà Nội khoảng 25 km theo đường đê sông Hồng; khu đất cao, hình chữ nhật, diện tích 18.720 m²; ngọ môn 3 cửa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1300,
+        "checked": "2026-10-13",
+        "keyword": "đền chử đồng tử"
+      }
+    ],
+    "notes": "Ngày lễ hội: cẩm nang Hưng Yên của VnExpress (9/6/2025) ghi 'tháng 3 âm lịch' – sai so với Báo Hưng Yên/Nhân Dân (10–12 tháng Hai âm lịch); dùng nguồn địa phương. Địa danh cũ (xã Bình Minh, huyện Khoái Châu) đã đổi – dùng xã Mễ Sở / Triệu Việt Vương (2026). Khoảng cách 25 km theo đê (2004) vs 28 km (2019) – nêu cả hai. Chưa có nguồn mô tả từng đoạn đường đê, cấm tải, giờ mở cửa, vé, gửi xe. Lưu ý an toàn đường đê (hẹp, dốc lên xuống) chỉ viết chung, không số liệu.",
+    "outline": [
+      "Câu trả lời ngắn: hai đền ở đâu, cách Hà Nội bao xa",
+      "Chử Đồng Tử – Tiên Dung và vì sao có hai đền",
+      "Lễ hội 10–12 tháng Hai: rước nước sông Hồng, kiệu chín làng",
+      "Đền Đa Hòa: dựng lại 1894, 18 công trình, nhìn sang bãi Tự Nhiên",
+      "Đi xe máy theo đê sông Hồng: lưu ý an toàn",
+      "Ghép với Bát Tràng hoặc phố Hiến trong ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/ha-noi/bai-giua-song-hong/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00343.json",
+  "draft_template": {
+    "id": "TM-00343",
+    "url": "/du-lich/den-chu-dong-tu-da-hoa-da-trach/",
+    "title": "Đền Chử Đồng Tử (Đa Hòa – Dạ Trạch): lễ hội tháng Hai, đi đê sông Hồng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền chử đồng tử, đền đa hòa, đền dạ trạch, lễ hội chử đồng tử tiên dung 2026, đền chử đồng tử cách hà nội bao xa, đền đa hòa hưng yên đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: hai đền ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Chử Đồng Tử – Tiên Dung và vì sao có hai đền",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 10–12 tháng Hai: rước nước sông Hồng, kiệu chín làng",
+        "<p></p>"
+      ],
+      [
+        "Đền Đa Hòa: dựng lại 1894, 18 công trình, nhìn sang bãi Tự Nhiên",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo đê sông Hồng: lưu ý an toàn",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Bát Tràng hoặc phố Hiến trong ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/khai-mac-le-hoi-den-da-hoa-da-trach-nam-2026-3193152.html",
+        "quote": "Báo Hưng Yên, 'Khai mạc Lễ hội đền Đa Hòa – Dạ Trạch năm 2026' (28/3/2026) (đọc 13/10/2026): sáng 28/3 (10/2 âm lịch) khai mạc tại đền Đa Hòa (xã Mễ Sở); lễ hội 3 ngày 28–30/3/2026 (10–12/2 âm lịch) tại đền Đa Hòa (xã Mễ Sở) và đền Dạ Trạch (xã Triệu Việt Vương); đón Bằng xếp hạng di tích quốc gia đặc biệt theo Quyết định 1473/QĐ-TTg ngày 26/11/2024; rước kiệu thành hoàng các làng; chương trình nghệ thuật 'Bến sông huyền thoại' với hơn 70 diễn viên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/le-hoi-ton-vinh-tinh-yeu-cua-nguoi-viet-post952328.html",
+        "quote": "Nhân Dân, 'Lễ hội tôn vinh tình yêu của người Việt' (Quỳnh Dung, 1/4/2026) (đọc 13/10/2026): lễ hội đền Đa Hòa – Dạ Trạch diễn ra 10–12 tháng 2 âm lịch hằng năm tại đền Đa Hòa (xã Mễ Sở) và đền Dạ Trạch (xã Triệu Việt Vương), tỉnh Hưng Yên; năm nay ngày 10 âm lịch là 28/3; có lễ rước nước từ bến sông Hồng vào đền, rước kiệu thành hoàng của chín làng tổng Mễ xưa; Tiên Dung là con gái Vua Hùng thứ 18.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/khach-tay-thay-binh-yen-khi-tham-den-tho-chu-dong-tu-3885839.html",
+        "quote": "VnExpress, 'Khách Tây thấy bình yên khi thăm đền thờ Chử Đồng Tử' (Phong Vinh, 26/2/2019) (đọc 13/10/2026): đền Đa Hòa ở huyện Khoái Châu cũ, bên bờ sông Hồng, cách trung tâm Hà Nội khoảng 28 km về hướng nam; được tiến sĩ Chu Mạnh Trinh dựng lại năm 1894 trên nền đền cổ; gồm 18 công trình lớn nhỏ; ngọ môn 3 cửa; đền quay hướng tây nhìn sang bãi Tự Nhiên; xếp hạng di tích năm 1962.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyen.gov.vn/den-chu-dong-tu-tien-dung-c27723.html",
+        "quote": "Cổng TTĐT tỉnh Hưng Yên, 'Đền Chử Đồng Tử – Tiên Dung' (26/10/2004) (đọc 13/10/2026): đền thuộc xã Bình Minh, huyện Khoái Châu (địa danh cũ), cách Hà Nội khoảng 25 km theo đường đê sông Hồng; khu đất cao, hình chữ nhật, diện tích 18.720 m²; ngọ môn 3 cửa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00343"
+  }
+}
