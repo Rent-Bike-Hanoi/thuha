@@ -1,0 +1,182 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:47:06.745047+00:00",
+  "topic": {
+    "topic_id": "TM-00170",
+    "url": "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/",
+    "title": "Găng tay, áo giáp đi xe máy: có cần không và chọn loại nào",
+    "hub": "kinh-nghiem",
+    "subtopic": "trang-bi",
+    "primary_keyword": "găng tay đi xe máy",
+    "secondary_keywords": [
+      "áo giáp đi xe máy có cần không",
+      "đồ bảo hộ đi xe máy gồm những gì",
+      "giày đi xe máy loại nào",
+      "quần áo bảo hộ đi xe máy đường dài"
+    ],
+    "intent": "commercial",
+    "user_problem": "Người đi xe máy hằng ngày ở Hà Nội hoặc chuẩn bị đi tỉnh, đi đèo phân vân có cần găng tay, áo có giáp, giày bảo hộ không, luật có bắt buộc không, và nếu mua thì nên chọn theo tiêu chí gì.",
+    "information_gain": "Gần nhất /kinh-nghiem/mang-gi-khi-di-phuot-xe-may/ (một dòng găng tay, giày, đồ bảo hộ gối–khuỷu trong checklist), /luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/ (mũ bảo hiểm bắt buộc) và /kinh-nghiem/ao-mua-di-xe-may/. Bài này trả lời riêng câu 'có cần không': luật chỉ bắt buộc mũ bảo hiểm (Điều 33 khoản 2 Luật 36/2024), găng tay, áo giáp là tự chọn; tiêu chí cụ thể trong sách hướng dẫn Honda (găng da che kín ngón, chống trầy; giày đế chống trượt, bảo vệ mắt cá; áo khoác dài tay màu dễ nhận biết, quần dài chất liệu bền; tránh quần áo rộng bị cuốn vào xe) và nhận định của Honda rằng mũ và trang phục bảo hộ làm giảm đáng kể số lượng, mức độ thương tích; VnExpress: đồ bảo hộ giữ cơ thể không chạm trực tiếp mặt đường, có thể rách sờn bề mặt nhưng bảo vệ da; khi đi xa nên dùng phục trang chuyên dụng; Bộ luật đường bộ Anh (Highway Code, Rule 84) khuyên giày, găng, quần áo phù hợp; cân nhắc khi trời nóng (không quá rườm rà, VOV).",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026), phần An toàn xe máy: 'Thực tế đã chứng minh: đội mũ bảo hiểm và mặc trang phục bảo hộ làm giảm đáng kể số lượng và mức độ thương tích ở đầu và các tổn thương khác'; người lái và người ngồi sau đội mũ đạt tiêu chuẩn, đeo kính bảo vệ mắt, mặc quần áo bảo hộ màu dễ nhận biết; tránh mặc quần áo quá rộng vì có thể bị cuốn vào bộ phận của xe. Mục Cảnh báo khi lái xe: Găng tay – sử dụng găng tay da che kín các ngón tay và có khả năng chống trầy xước; Giày bảo hộ – đế chống trượt và bảo vệ mắt cá chân; Áo khoác và quần dài – áo khoác dài tay, màu dễ nhận biết, có khả năng bảo vệ và quần dài chất liệu bền dành cho việc lái xe (hoặc mặc trang phục bảo hộ). Sách Wave Alpha (bản 9/2025) có cùng các khuyến nghị găng tay, giày bảo hộ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026, PDF trên datafiles.chinhphu.vn (đọc 13/10/2026). Điều 33 khoản 2: người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách. Điều 33 khoản 3 điểm c: người lái xe mô tô, xe gắn máy không được sử dụng ô. (Điều 33 không đặt yêu cầu về găng tay, áo, giày.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/tam-quan-trong-cua-do-bao-ho-khi-tai-nan-xe-may-3162090.html",
+        "quote": "VnExpress, 'Tầm quan trọng của đồ bảo hộ khi tai nạn xe máy' (Minh Hy, 25/3/2015, đọc 13/10/2026): bộ đồ bảo hộ cơ bản gồm mũ bảo hiểm (loại trùm đầu tốt nhất), găng tay, quần áo, giày; tùy trường hợp thêm kính mắt; các bộ phận này giúp cơ thể không tiếp xúc trực tiếp với mặt đường nếu bị ngã; đồ bảo hộ có thể rách sờn bề mặt nhưng vẫn đảm bảo an toàn cho da người mặc; không có đồ bảo hộ người ngã có thể chấn thương toàn thân, từ đầu tới tay chân. Bài không nêu số liệu hay tiêu chuẩn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-viec-can-chuan-bi-truoc-khi-lai-xe-may-duong-dai-4706829.html",
+        "quote": "VnExpress, 'Những việc cần chuẩn bị trước khi lái xe máy đường dài' (Tân Phan, 1/2/2024, đọc 13/10/2026): người lái xe máy nên dùng quần áo dài, dày (ví dụ quần jeans, áo khoác da), đi giày bít mũi, đeo găng tay bảo hộ và dùng mũ bảo hiểm kín dạng full-face; phương án tốt nhất vẫn là phục trang bảo hộ chuyên dụng; trời nắng đeo kính râm để quan sát rõ, tránh mỏi mắt; mang quần áo mưa chuyên dụng (quần riêng, áo riêng) thay vì áo mưa cánh dơi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://www.gov.uk/guidance/the-highway-code/rules-for-motorcyclists-83-to-88",
+        "quote": "GOV.UK, The Highway Code (Bộ quy tắc đường bộ Vương quốc Anh), 'Rules for motorcyclists (83 to 88)' (đọc 13/10/2026; tiếng Anh, tóm tắt): Rule 83 – người lái và người ngồi sau xe mô tô, xe tay ga phải đội mũ bảo hiểm trên mọi hành trình; Rule 84 – nên đeo kính bảo vệ mắt; giày ủng, găng tay và quần áo phù hợp có thể giúp bảo vệ bạn nếu bị va chạm; kính trầy xước hoặc không vừa làm hạn chế tầm nhìn; Rule 86–87 – ban ngày nên mặc đồ huỳnh quang hoặc có dải sáng, ban đêm mặc đồ phản quang để xe khác nhìn thấy từ xa hơn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/tin-24h/luu-y-ban-nen-biet-khi-di-xe-may-trong-nhung-ngay-nang-nong-1051920.vov",
+        "quote": "VOV (VOVGT), 'Lưu ý bạn nên biết khi đi xe máy trong những ngày nắng nóng' (Diên Thành, 24/05/2020, đọc 13/10/2026): nên trang bị đồ bảo hộ (áo chống nắng) để tạo lớp cách nhiệt, nhưng không quá 'rườm rà' dẫn tới khó khăn trong điều khiển phương tiện.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 320,
+        "checked": "2026-10-13",
+        "keyword": "găng tay đi xe máy"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: luật chỉ bắt buộc mũ, nhưng găng tay đáng dùng",
+      "Ngã xe thì tay, chân, da chịu gì: đồ bảo hộ giúp ở đâu",
+      "Chọn găng tay: da, che kín ngón, chống trầy",
+      "Áo có giáp, quần dài, giày: khi nào cần, chọn theo tiêu chí gì",
+      "Đi phố hằng ngày, đi đường dài, đi đèo: mức trang bị khác nhau",
+      "Trời nóng và trời mưa: mặc sao cho vẫn an toàn"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
+      "/kinh-nghiem/ao-mua-di-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00170.json",
+  "draft_template": {
+    "id": "TM-00170",
+    "url": "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/",
+    "title": "Găng tay, áo giáp đi xe máy: có cần không và chọn loại nào",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "găng tay đi xe máy, áo giáp đi xe máy có cần không, đồ bảo hộ đi xe máy gồm những gì, giày đi xe máy loại nào, quần áo bảo hộ đi xe máy đường dài",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: luật chỉ bắt buộc mũ, nhưng găng tay đáng dùng",
+        "<p></p>"
+      ],
+      [
+        "Ngã xe thì tay, chân, da chịu gì: đồ bảo hộ giúp ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Chọn găng tay: da, che kín ngón, chống trầy",
+        "<p></p>"
+      ],
+      [
+        "Áo có giáp, quần dài, giày: khi nào cần, chọn theo tiêu chí gì",
+        "<p></p>"
+      ],
+      [
+        "Đi phố hằng ngày, đi đường dài, đi đèo: mức trang bị khác nhau",
+        "<p></p>"
+      ],
+      [
+        "Trời nóng và trời mưa: mặc sao cho vẫn an toàn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026), phần An toàn xe máy: 'Thực tế đã chứng minh: đội mũ bảo hiểm và mặc trang phục bảo hộ làm giảm đáng kể số lượng và mức độ thương tích ở đầu và các tổn thương khác'; người lái và người ngồi sau đội mũ đạt tiêu chuẩn, đeo kính bảo vệ mắt, mặc quần áo bảo hộ màu dễ nhận biết; tránh mặc quần áo quá rộng vì có thể bị cuốn vào bộ phận của xe. Mục Cảnh báo khi lái xe: Găng tay – sử dụng găng tay da che kín các ngón tay và có khả năng chống trầy xước; Giày bảo hộ – đế chống trượt và bảo vệ mắt cá chân; Áo khoác và quần dài – áo khoác dài tay, màu dễ nhận biết, có khả năng bảo vệ và quần dài chất liệu bền dành cho việc lái xe (hoặc mặc trang phục bảo hộ). Sách Wave Alpha (bản 9/2025) có cùng các khuyến nghị găng tay, giày bảo hộ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026, PDF trên datafiles.chinhphu.vn (đọc 13/10/2026). Điều 33 khoản 2: người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách. Điều 33 khoản 3 điểm c: người lái xe mô tô, xe gắn máy không được sử dụng ô. (Điều 33 không đặt yêu cầu về găng tay, áo, giày.)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/tam-quan-trong-cua-do-bao-ho-khi-tai-nan-xe-may-3162090.html",
+        "quote": "VnExpress, 'Tầm quan trọng của đồ bảo hộ khi tai nạn xe máy' (Minh Hy, 25/3/2015, đọc 13/10/2026): bộ đồ bảo hộ cơ bản gồm mũ bảo hiểm (loại trùm đầu tốt nhất), găng tay, quần áo, giày; tùy trường hợp thêm kính mắt; các bộ phận này giúp cơ thể không tiếp xúc trực tiếp với mặt đường nếu bị ngã; đồ bảo hộ có thể rách sờn bề mặt nhưng vẫn đảm bảo an toàn cho da người mặc; không có đồ bảo hộ người ngã có thể chấn thương toàn thân, từ đầu tới tay chân. Bài không nêu số liệu hay tiêu chuẩn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-viec-can-chuan-bi-truoc-khi-lai-xe-may-duong-dai-4706829.html",
+        "quote": "VnExpress, 'Những việc cần chuẩn bị trước khi lái xe máy đường dài' (Tân Phan, 1/2/2024, đọc 13/10/2026): người lái xe máy nên dùng quần áo dài, dày (ví dụ quần jeans, áo khoác da), đi giày bít mũi, đeo găng tay bảo hộ và dùng mũ bảo hiểm kín dạng full-face; phương án tốt nhất vẫn là phục trang bảo hộ chuyên dụng; trời nắng đeo kính râm để quan sát rõ, tránh mỏi mắt; mang quần áo mưa chuyên dụng (quần riêng, áo riêng) thay vì áo mưa cánh dơi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://www.gov.uk/guidance/the-highway-code/rules-for-motorcyclists-83-to-88",
+        "quote": "GOV.UK, The Highway Code (Bộ quy tắc đường bộ Vương quốc Anh), 'Rules for motorcyclists (83 to 88)' (đọc 13/10/2026; tiếng Anh, tóm tắt): Rule 83 – người lái và người ngồi sau xe mô tô, xe tay ga phải đội mũ bảo hiểm trên mọi hành trình; Rule 84 – nên đeo kính bảo vệ mắt; giày ủng, găng tay và quần áo phù hợp có thể giúp bảo vệ bạn nếu bị va chạm; kính trầy xước hoặc không vừa làm hạn chế tầm nhìn; Rule 86–87 – ban ngày nên mặc đồ huỳnh quang hoặc có dải sáng, ban đêm mặc đồ phản quang để xe khác nhìn thấy từ xa hơn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/tin-24h/luu-y-ban-nen-biet-khi-di-xe-may-trong-nhung-ngay-nang-nong-1051920.vov",
+        "quote": "VOV (VOVGT), 'Lưu ý bạn nên biết khi đi xe máy trong những ngày nắng nóng' (Diên Thành, 24/05/2020, đọc 13/10/2026): nên trang bị đồ bảo hộ (áo chống nắng) để tạo lớp cách nhiệt, nhưng không quá 'rườm rà' dẫn tới khó khăn trong điều khiển phương tiện.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00170"
+  }
+}

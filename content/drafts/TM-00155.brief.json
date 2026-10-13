@@ -1,0 +1,158 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-13T08:47:05.065813+00:00",
+  "topic": {
+    "topic_id": "TM-00155",
+    "url": "/xe-may/vespa-primavera-125/",
+    "title": "Vespa Primavera 125: giá bản thường, S, RED và thông số 2026",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "vespa primavera",
+    "secondary_keywords": [
+      "vespa primavera giá bao nhiêu",
+      "primavera 125 thông số",
+      "primavera s khác primavera",
+      "primavera red",
+      "vespa primavera hao xăng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích Vespa dáng cổ điển muốn biết Primavera 125 đang có những bản nào, giá đã gồm VAT, bản S và RED khác gì, xe tốn xăng thế nào và bảo hành bao lâu.",
+    "information_gain": "Site chưa có bài về Vespa Primavera; các bài xe ga hiện có chỉ nói về Honda. Bài này thêm dữ liệu Vespa Việt Nam đọc ngày 13/10/2026: Primavera 125 80.000.000 đ, Primavera S 125 82.400.000 đ, Primavera RED 125 84.200.000 đ (đã gồm VAT); RED là phiên bản gắn với chiến dịch (RED) phòng chống AIDS; thông số Primavera 125 từ PDF 2026: 124,5 cc i-Get 3 van, 7,9 kW, 10,4 Nm, bình 8,0 ± 0,5 lít, 2,4 l/100 km, Euro 3, đĩa 200 mm ABS, lốp 110/70–12 và 120/70–12, đèn full-LED, cổng USB ở hộc trước, bảo hành 5 năm hoặc 50.000 km; và chỉ ra Primavera dùng chung động cơ, khung với Sprint (khác phong cách, mâm 5 chấu, đèn).",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.vespa.com/vn_VI/models/primavera/primavera-125-4s3v-2025",
+        "quote": "Vespa Việt Nam, trang Vespa Primavera 125 (đọc 13/10/2026 qua công cụ trích xuất vì trang chặn truy cập tự động trực tiếp): ₫ 80,000,000 giá bán lẻ đề xuất (bao gồm VAT); phiên bản Primavera, Primavera S, Primavera RED. Mô tả: thiết kế thanh lịch, điểm nhấn chrome; động cơ i-get chuẩn Euro 3; cổng USB trong hộc chứa đồ phía trước; bảng đồng hồ analogue-LCD; phụ kiện Vespa MIA kết nối điện thoại; ốp chắn bùn sau, nắp bình ắc quy đen nhám, vành 5 chấu; đèn full-LED, đèn định vị và xi-nhan LED; giảm xóc thủy lực đơn, ABS một kênh, động cơ phun xăng điện tử 125 cc 3V “(2.4 lít/100KM)”.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.vespa.com/vn_VI/models/primavera/primavera-red-125-4s3v-2020/",
+        "quote": "Vespa Việt Nam, trang Vespa Primavera RED 125 (đọc 13/10/2026): ₫ 84,200,000 giá bán lẻ đề xuất (bao gồm VAT), màu Primavera RED; nội dung “Cùng (Primavera)RED hướng về một thế giới không còn bệnh AIDS”; khối “Các dòng xe – Giá bán lẻ đề xuất (bao gồm VAT)”: Vespa Primavera 125 ₫ 80,000,000; Vespa Primavera S 125 ₫ 82,400,000.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://wlassets.vespa.com/wlassets/vespa/vn/tech_spec/2026/Prima/original/Prima.pdf?1791172091298",
+        "quote": "Vespa Việt Nam, bảng thông số Vespa Primavera 125cc (PDF 2026 liên kết từ trang sản phẩm, đọc 13/10/2026): giá 80,000,000 VNĐ (đã bao gồm VAT); xi-lanh đơn, 4 kỳ, 3 van, i-Get; 52 x 58.6 mm; 124.5 cc; 7.9 kW/7,700 vòng/phút; 10.4 Nm/5,000 vòng/phút; phun xăng điện tử; làm mát bằng gió cưỡng bức; CVT; khung thép liền khối có gia cường; giảm xóc trước tay đòn đơn, sau lò xo trụ & giảm chấn thủy lực điều chỉnh 4 mức; lốp không săm 110/70–12\" và 120/70–12\"; phanh trước đĩa 200 mm có ABS, sau tang trống 140 mm; bình xăng 8,0 ± 0,5 lít; Dài/Rộng/Trục cơ sở 1,870/735/1,340 mm; Euro 3; tiêu hao 2.4L/100KM; huy hiệu “Bảo hành 5 năm hoặc 50.000km”.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://wlassets.vespa.com/wlassets/vespa/vn/tech_spec/2026/Sprint/original/Sprint.pdf?1791172014715",
+        "quote": "Vespa Việt Nam, bảng thông số Vespa Sprint 125cc (PDF 2026, đọc 13/10/2026): cùng động cơ 124.5 cc 7.9 kW/10.4 Nm, cùng kích thước 1,870/735/1,340 mm, cùng lốp 12 inch và phanh 200/140 mm như Primavera 125; tiêu hao ghi 2.41L/100KM; giá 85,900,000 VNĐ (đã bao gồm VAT).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1900,
+        "checked": "2026-10-13",
+        "keyword": "vespa primavera"
+      }
+    ],
+    "outline": [
+      "Primavera 125 có 3 bản: giá bản thường, S và RED (đã gồm VAT)",
+      "Primavera RED là gì",
+      "Thông số: 124,5 cc i-Get, 7,9 kW, bình 8 lít, Euro 3",
+      "Đèn full-LED, cổng USB hộc trước, phanh ABS một kênh",
+      "Primavera và Sprint: cùng động cơ, khác ở đâu",
+      "Tiêu hao 2,4 l/100 km, bảo hành 5 năm/50.000 km và ai hợp với Primavera"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/honda-vision-2026/",
+      "/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/",
+      "/bao-duong/lop-xe-may-bao-lau-thay/",
+      "/bao-duong/xang-e5-hay-a95-cho-xe-may/",
+      "/xe-may/kinh-nghiem-mua-xe-may-cu/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00155.json",
+  "draft_template": {
+    "id": "TM-00155",
+    "url": "/xe-may/vespa-primavera-125/",
+    "title": "Vespa Primavera 125: giá bản thường, S, RED và thông số 2026",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vespa primavera, vespa primavera giá bao nhiêu, primavera 125 thông số, primavera s khác primavera, primavera red, vespa primavera hao xăng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Primavera 125 có 3 bản: giá bản thường, S và RED (đã gồm VAT)",
+        "<p></p>"
+      ],
+      [
+        "Primavera RED là gì",
+        "<p></p>"
+      ],
+      [
+        "Thông số: 124,5 cc i-Get, 7,9 kW, bình 8 lít, Euro 3",
+        "<p></p>"
+      ],
+      [
+        "Đèn full-LED, cổng USB hộc trước, phanh ABS một kênh",
+        "<p></p>"
+      ],
+      [
+        "Primavera và Sprint: cùng động cơ, khác ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Tiêu hao 2,4 l/100 km, bảo hành 5 năm/50.000 km và ai hợp với Primavera",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.vespa.com/vn_VI/models/primavera/primavera-125-4s3v-2025",
+        "quote": "Vespa Việt Nam, trang Vespa Primavera 125 (đọc 13/10/2026 qua công cụ trích xuất vì trang chặn truy cập tự động trực tiếp): ₫ 80,000,000 giá bán lẻ đề xuất (bao gồm VAT); phiên bản Primavera, Primavera S, Primavera RED. Mô tả: thiết kế thanh lịch, điểm nhấn chrome; động cơ i-get chuẩn Euro 3; cổng USB trong hộc chứa đồ phía trước; bảng đồng hồ analogue-LCD; phụ kiện Vespa MIA kết nối điện thoại; ốp chắn bùn sau, nắp bình ắc quy đen nhám, vành 5 chấu; đèn full-LED, đèn định vị và xi-nhan LED; giảm xóc thủy lực đơn, ABS một kênh, động cơ phun xăng điện tử 125 cc 3V “(2.4 lít/100KM)”.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.vespa.com/vn_VI/models/primavera/primavera-red-125-4s3v-2020/",
+        "quote": "Vespa Việt Nam, trang Vespa Primavera RED 125 (đọc 13/10/2026): ₫ 84,200,000 giá bán lẻ đề xuất (bao gồm VAT), màu Primavera RED; nội dung “Cùng (Primavera)RED hướng về một thế giới không còn bệnh AIDS”; khối “Các dòng xe – Giá bán lẻ đề xuất (bao gồm VAT)”: Vespa Primavera 125 ₫ 80,000,000; Vespa Primavera S 125 ₫ 82,400,000.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://wlassets.vespa.com/wlassets/vespa/vn/tech_spec/2026/Prima/original/Prima.pdf?1791172091298",
+        "quote": "Vespa Việt Nam, bảng thông số Vespa Primavera 125cc (PDF 2026 liên kết từ trang sản phẩm, đọc 13/10/2026): giá 80,000,000 VNĐ (đã bao gồm VAT); xi-lanh đơn, 4 kỳ, 3 van, i-Get; 52 x 58.6 mm; 124.5 cc; 7.9 kW/7,700 vòng/phút; 10.4 Nm/5,000 vòng/phút; phun xăng điện tử; làm mát bằng gió cưỡng bức; CVT; khung thép liền khối có gia cường; giảm xóc trước tay đòn đơn, sau lò xo trụ & giảm chấn thủy lực điều chỉnh 4 mức; lốp không săm 110/70–12\" và 120/70–12\"; phanh trước đĩa 200 mm có ABS, sau tang trống 140 mm; bình xăng 8,0 ± 0,5 lít; Dài/Rộng/Trục cơ sở 1,870/735/1,340 mm; Euro 3; tiêu hao 2.4L/100KM; huy hiệu “Bảo hành 5 năm hoặc 50.000km”.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://wlassets.vespa.com/wlassets/vespa/vn/tech_spec/2026/Sprint/original/Sprint.pdf?1791172014715",
+        "quote": "Vespa Việt Nam, bảng thông số Vespa Sprint 125cc (PDF 2026, đọc 13/10/2026): cùng động cơ 124.5 cc 7.9 kW/10.4 Nm, cùng kích thước 1,870/735/1,340 mm, cùng lốp 12 inch và phanh 200/140 mm như Primavera 125; tiêu hao ghi 2.41L/100KM; giá 85,900,000 VNĐ (đã bao gồm VAT).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00155"
+  }
+}

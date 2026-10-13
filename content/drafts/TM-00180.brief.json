@@ -1,0 +1,202 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:47:07.850301+00:00",
+  "topic": {
+    "topic_id": "TM-00180",
+    "url": "/du-lich/bao-tang-lich-su-quoc-gia/",
+    "title": "Bảo tàng Lịch sử Quốc gia: giờ mở cửa, giá vé, hai cơ sở, nội quy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bảo tàng lịch sử quốc gia",
+    "secondary_keywords": [
+      "bảo tàng lịch sử quốc gia giờ mở cửa",
+      "giá vé bảo tàng lịch sử quốc gia",
+      "1 tràng tiền",
+      "216 trần quang khải",
+      "bảo tàng lịch sử việt nam hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe muốn tham quan Bảo tàng Lịch sử Quốc gia: mở cửa giờ nào, nghỉ ngày nào, một vé có vào được cả hai cơ sở không, chụp ảnh có mất phí không, nội quy ra sao và đi xe máy tới Tràng Tiền cần lưu ý gì.",
+    "information_gain": "Site chưa có bài về bảo tàng này. Gần nhất là /du-lich/ha-noi/ (hub), /du-lich/ha-noi/pho-co/ và /du-lich/ha-noi/cau-long-bien/ (không nêu giờ, vé). Bài này thêm từ trang chính thức: giờ 8:00–12:00 và 13:30–17:00, nghỉ thứ Hai đầu tiên mỗi tháng (lễ trùng thứ Hai vẫn mở); vé 40.000đ người lớn, 20.000đ sinh viên, 10.000đ học sinh, một vé vào cả 1 Tràng Tiền và 216 Trần Quang Khải; miễn trẻ dưới 6 tuổi, giảm 50% người cao tuổi; phí chụp ảnh 30.000đ/máy, quay phim 400.000đ/máy; nội quy gửi hành lý, không ăn uống; xe buýt 02, 34, 44, 49, 51; tòa nhà Đông Dương khánh thành 1932; Trần Quang Khải, Tràng Tiền nằm trong danh sách tuyến thí điểm vùng phát thải thấp 2026.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3196/opening-time",
+        "quote": "Vietnam National Museum of History, 'Opening Time' (đọc 13/10/2026): 'Morning: from 8:00 to 12:00 Afternoon: from 13:30 to 17:00'; 'Museum is open every day except the first Monday of every month. If a public holiday coincides with Monday, Museum is still opened for visitors'; lịch Tết Nguyên đán có thông báo riêng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3197/ticket-price",
+        "quote": "Vietnam National Museum of History, 'Ticket Price' (đọc 13/10/2026): người lớn 40.000 VND; sinh viên cao đẳng, đại học 20.000 VND; học sinh 10.000 VND; vé gồm hai cơ sở số 1 Tràng Tiền (lịch sử Việt Nam từ tiền sử đến 1945) và 216 Trần Quang Khải (từ giữa thế kỷ XIX đến nay); miễn phí trẻ dưới 6 tuổi và người khuyết tật theo quy định; giảm 50% cho đối tượng chính sách ưu đãi, người cao tuổi, người khuyết tật; phí chụp ảnh 30.000 VND/máy, quay video 400.000 VND/máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3199/visiting-regulation",
+        "quote": "Vietnam National Museum of History, 'Visiting regulation' (đọc 13/10/2026): vé mua ở quầy phải xuất trình tại cửa phòng trưng bày; đoàn khách hoặc khách cần thuyết minh liên hệ phòng thông tin ở cổng số 1 Tràng Tiền; không mang vũ khí, chất dễ cháy, chất nổ, chất độc; gửi hành lý vào tủ gần cửa (trừ tiền, trang sức); không hút thuốc, ăn uống, gây ồn, chạm vào hiện vật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3195/accessibility",
+        "quote": "Vietnam National Museum of History, 'Accessibility' (đọc 13/10/2026): các tuyến xe buýt tới bảo tàng 'No. 02; 34; 44; 49; 51'. Trang không nêu chỗ gửi xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/trung-bay-ky-niem-90-nam-toa-nha-bao-tang-lich-su-quoc-gia-102221117150416016.htm",
+        "quote": "Báo Điện tử Chính phủ (Hồng Hà, 17/11/2022): tòa nhà bảo tàng phía sau Nhà hát Lớn, bên bờ sông Hồng, do các kiến trúc sư Hebrard và Batteur thiết kế; khởi công 1/1926, khánh thành 17/3/1932; phong cách kiến trúc Đông Dương kết hợp Đông – Tây.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/bao-tang-lich-su-quoc-gia-dia-chi-ky-uc-cua-dan-toc-185261008090246111.htm",
+        "quote": "Thanh Niên (theo Báo Văn Hóa, 08/10/2026): Bảo tàng Lịch sử quốc gia thành lập năm 2011 trên cơ sở sáp nhập Bảo tàng Lịch sử Việt Nam và Bảo tàng Cách mạng Việt Nam; tiền thân Bảo tàng Louis Finot do Viện Viễn Đông Bác cổ xây năm 1926, khánh thành 1932; Chủ tịch Hồ Chí Minh 7 lần đến thăm hai bảo tàng tiền thân (1946–1964); bảo tàng đang thực hiện các bước xây dựng bảo tàng số.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12; tại khu vực 1 cấm 'xe mô tô, xe gắn máy và ô tô các loại' từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an). Khu vực 1 giới hạn bởi 12 tuyến: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền, bao gồm phố đi bộ Hồ Hoàn Kiếm, phố cổ, chợ đêm. Khu vực 2 gồm 10 tuyến: Tràng Thi, Thợ Nhuộm, Hàng Bông, Phùng Hưng, Phan Đình Phùng, Hàng Đậu, Trần Nhật Duật, Trần Quang Khải, Tràng Tiền, Hàng Khay (bài không nêu quy định hạn chế cụ thể cho khu vực 2). Hà Nội bố trí 220 bãi/điểm trông giữ xe; bãi đỗ trung chuyển gồm Long Biên, Trần Khát Chân, Trần Khánh Dư, khu vực công viên Thủ Lệ. Bài không nói rõ xe máy điện có thuộc diện cấm hay không.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 18100,
+        "checked": "2026-10-13",
+        "keyword": "bảo tàng lịch sử quốc gia"
+      }
+    ],
+    "outline": [
+      "Bảo tàng Lịch sử Quốc gia ở đâu: 1 Tràng Tiền và 216 Trần Quang Khải",
+      "Giờ mở cửa và ngày nghỉ (thứ Hai đầu tháng)",
+      "Giá vé, miễn giảm, phí chụp ảnh",
+      "Nội quy tham quan",
+      "Tòa nhà Đông Dương 1932 và nên xem gì",
+      "Đi xe máy từ Long Biên, xe buýt và lưu ý khu vực Hồ Gươm",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/du-lich/cau-chuong-duong/",
+      "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00180.json",
+  "draft_template": {
+    "id": "TM-00180",
+    "url": "/du-lich/bao-tang-lich-su-quoc-gia/",
+    "title": "Bảo tàng Lịch sử Quốc gia: giờ mở cửa, giá vé, hai cơ sở, nội quy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng lịch sử quốc gia, bảo tàng lịch sử quốc gia giờ mở cửa, giá vé bảo tàng lịch sử quốc gia, 1 tràng tiền, 216 trần quang khải, bảo tàng lịch sử việt nam hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Lịch sử Quốc gia ở đâu: 1 Tràng Tiền và 216 Trần Quang Khải",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa và ngày nghỉ (thứ Hai đầu tháng)",
+        "<p></p>"
+      ],
+      [
+        "Giá vé, miễn giảm, phí chụp ảnh",
+        "<p></p>"
+      ],
+      [
+        "Nội quy tham quan",
+        "<p></p>"
+      ],
+      [
+        "Tòa nhà Đông Dương 1932 và nên xem gì",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên, xe buýt và lưu ý khu vực Hồ Gươm",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3196/opening-time",
+        "quote": "Vietnam National Museum of History, 'Opening Time' (đọc 13/10/2026): 'Morning: from 8:00 to 12:00 Afternoon: from 13:30 to 17:00'; 'Museum is open every day except the first Monday of every month. If a public holiday coincides with Monday, Museum is still opened for visitors'; lịch Tết Nguyên đán có thông báo riêng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3197/ticket-price",
+        "quote": "Vietnam National Museum of History, 'Ticket Price' (đọc 13/10/2026): người lớn 40.000 VND; sinh viên cao đẳng, đại học 20.000 VND; học sinh 10.000 VND; vé gồm hai cơ sở số 1 Tràng Tiền (lịch sử Việt Nam từ tiền sử đến 1945) và 216 Trần Quang Khải (từ giữa thế kỷ XIX đến nay); miễn phí trẻ dưới 6 tuổi và người khuyết tật theo quy định; giảm 50% cho đối tượng chính sách ưu đãi, người cao tuổi, người khuyết tật; phí chụp ảnh 30.000 VND/máy, quay video 400.000 VND/máy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3199/visiting-regulation",
+        "quote": "Vietnam National Museum of History, 'Visiting regulation' (đọc 13/10/2026): vé mua ở quầy phải xuất trình tại cửa phòng trưng bày; đoàn khách hoặc khách cần thuyết minh liên hệ phòng thông tin ở cổng số 1 Tràng Tiền; không mang vũ khí, chất dễ cháy, chất nổ, chất độc; gửi hành lý vào tủ gần cửa (trừ tiền, trang sức); không hút thuốc, ăn uống, gây ồn, chạm vào hiện vật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsuquocgia.vn/en/Articles/3195/accessibility",
+        "quote": "Vietnam National Museum of History, 'Accessibility' (đọc 13/10/2026): các tuyến xe buýt tới bảo tàng 'No. 02; 34; 44; 49; 51'. Trang không nêu chỗ gửi xe máy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/trung-bay-ky-niem-90-nam-toa-nha-bao-tang-lich-su-quoc-gia-102221117150416016.htm",
+        "quote": "Báo Điện tử Chính phủ (Hồng Hà, 17/11/2022): tòa nhà bảo tàng phía sau Nhà hát Lớn, bên bờ sông Hồng, do các kiến trúc sư Hebrard và Batteur thiết kế; khởi công 1/1926, khánh thành 17/3/1932; phong cách kiến trúc Đông Dương kết hợp Đông – Tây.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/bao-tang-lich-su-quoc-gia-dia-chi-ky-uc-cua-dan-toc-185261008090246111.htm",
+        "quote": "Thanh Niên (theo Báo Văn Hóa, 08/10/2026): Bảo tàng Lịch sử quốc gia thành lập năm 2011 trên cơ sở sáp nhập Bảo tàng Lịch sử Việt Nam và Bảo tàng Cách mạng Việt Nam; tiền thân Bảo tàng Louis Finot do Viện Viễn Đông Bác cổ xây năm 1926, khánh thành 1932; Chủ tịch Hồ Chí Minh 7 lần đến thăm hai bảo tàng tiền thân (1946–1964); bảo tàng đang thực hiện các bước xây dựng bảo tàng số.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12; tại khu vực 1 cấm 'xe mô tô, xe gắn máy và ô tô các loại' từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an). Khu vực 1 giới hạn bởi 12 tuyến: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền, bao gồm phố đi bộ Hồ Hoàn Kiếm, phố cổ, chợ đêm. Khu vực 2 gồm 10 tuyến: Tràng Thi, Thợ Nhuộm, Hàng Bông, Phùng Hưng, Phan Đình Phùng, Hàng Đậu, Trần Nhật Duật, Trần Quang Khải, Tràng Tiền, Hàng Khay (bài không nêu quy định hạn chế cụ thể cho khu vực 2). Hà Nội bố trí 220 bãi/điểm trông giữ xe; bãi đỗ trung chuyển gồm Long Biên, Trần Khát Chân, Trần Khánh Dư, khu vực công viên Thủ Lệ. Bài không nói rõ xe máy điện có thuộc diện cấm hay không.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00180"
+  }
+}

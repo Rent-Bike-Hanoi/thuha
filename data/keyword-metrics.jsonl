@@ -282,3 +282,37 @@
 {"keyword": "phố hiến hưng yên", "volume": 2400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
 {"keyword": "chùa tam chúc", "volume": 49500, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
 {"keyword": "hà nội đi lạng sơn", "volume": 50, "kd": null, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "honda winner r", "volume": 2400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "honda wave rsx", "volume": 1900, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "yamaha latte", "volume": 3600, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "yamaha pg-1", "volume": 14800, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "sym attila", "volume": 880, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "piaggio liberty", "volume": 1300, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vespa sprint", "volume": 14800, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vespa primavera", "volume": 1900, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "piaggio medley", "volume": 720, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vinfast vero x", "volume": 2900, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vinfast klara s", "volume": 1300, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vinfast theon s", "volume": 3600, "kd": 7, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "yadea voltguard", "volume": 1600, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "dat bike quantum", "volume": 5400, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "xe máy điện tailg", "volume": 880, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "pin lfp xe máy điện", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "keyword not in database (no row returned)"}
+{"keyword": "trạm đổi pin vinfast", "volume": 2400, "kd": 17, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "đi xe máy sương mù", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "keyword not in database (no row returned)"}
+{"keyword": "đi xe máy đường dài", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "keyword not in database (no row returned)"}
+{"keyword": "qua đường ngang đường sắt", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "keyword not in database (no row returned)"}
+{"keyword": "xe máy hết xăng", "volume": 90, "kd": null, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "dựng chân chống giữa", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "keyword not in database (no row returned)"}
+{"keyword": "găng tay đi xe máy", "volume": 320, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "đi xe máy trời nắng nóng", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "keyword not in database (no row returned)"}
+{"keyword": "đền ngọc sơn", "volume": 27100, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "chùa trấn quốc", "volume": 40500, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "đền quán thánh", "volume": 14800, "kd": 0, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "bảo tàng phụ nữ việt nam", "volume": 9900, "kd": 13, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "bảo tàng mỹ thuật việt nam", "volume": 18100, "kd": 12, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "nhà hát lớn hà nội", "volume": 74000, "kd": 14, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "làng hoa nhật tân", "volume": 260, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "phố đường tàu hà nội", "volume": 9900, "kd": 0, "intent": "navigational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "bảo tàng lịch sử quốc gia", "volume": 18100, "kd": 2, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "bảo tàng lịch sử quân sự việt nam", "volume": 110000, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}

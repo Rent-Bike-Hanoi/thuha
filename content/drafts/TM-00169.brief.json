@@ -1,0 +1,167 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:47:06.643172+00:00",
+  "topic": {
+    "topic_id": "TM-00169",
+    "url": "/kinh-nghiem/dung-chan-chong-giua-xe-may/",
+    "title": "Dựng chân chống giữa xe máy: cách nhẹ tay, không đổ xe",
+    "hub": "kinh-nghiem",
+    "subtopic": "ky-nang-lai",
+    "primary_keyword": "dựng chân chống giữa",
+    "secondary_keywords": [
+      "cách dựng chân chống đứng xe máy",
+      "dựng chân chống giữa không nổi",
+      "khi nào dùng chân chống giữa",
+      "chân chống nghiêng hay chân chống giữa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mới đi xe, người dáng nhỏ hoặc khách thuê xe muốn dựng xe bằng chân chống giữa (chân chống đứng) mà không tốn sức, không làm đổ xe, và biết lúc nào nên dùng chân chống giữa thay vì chân chống nghiêng.",
+    "information_gain": "Site chưa có bài về thao tác chân chống. Gần nhất /bao-duong/xe-may-bi-chet-may-giua-duong/ chỉ nhắc 'dựng chân chống giữa' khi xử lý sự cố; /kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/ và /kinh-nghiem/cach-di-xe-so/ dạy lái, không dạy dựng xe; bài /bao-duong/cong-tac-chan-chong-ben/ (TM-00135, đã xuất bản) lo phần công tắc chân chống bên và lỗi xe không nổ khi hạ chân chống – bài này chỉ nhắc một câu và dẫn link, trọng tâm là thao tác dựng chân chống giữa (chân chống đứng). Bài thêm: quy trình chính thức trong sách hướng dẫn Honda LEAD và Wave Alpha (tắt máy, đứng bên trái, giữ tay nắm trái và tay dắt sau, chân phải gạt mũi chân chống xuống đồng thời nhấc xe kéo về phía sau, quay hết tay lái sang trái vì sang phải dễ đổ); nơi dựng (mặt phẳng chắc, dốc hoặc trơn, không gần vật dễ cháy, không chạm ống xả nóng); những việc Honda yêu cầu dựng chân chống đứng (kiểm tra dầu, kiểm tra chân chống nghiêng, cất xe lâu ngày, xe ngập nước tháo bugi); công tắc chân chống nghiêng trên mọi xe ga Honda; khối lượng Wave Alpha 96 kg; mẹo tư thế (đứng sát xe, lưng thẳng, khóa gối, kéo lên không kéo ra; tập với tấm gỗ 19 mm) theo Cycle World.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026), mục 'Dựng xe bằng chân chống nghiêng hoặc chân chống đứng': 1. Tắt máy. 2. Chân chống nghiêng: gạt xuống, từ từ nghiêng xe sang trái cho đến khi trọng lượng dồn hết về chân chống nghiêng. Chân chống đứng: để hạ chân chống đứng, đứng bên trái xe; giữ tay nắm bên trái và tay dắt sau; dùng chân phải gạt mũi chân chống đứng xuống dưới, đồng thời nhấc xe lên và kéo về phía sau. 3. Quay hết tay lái sang trái (quay sang phải làm giảm độ ổn định và có thể làm đổ xe). 4. Khóa. Mục 'Dựng xe': dựng trên bề mặt bằng phẳng, chắc chắn; nếu buộc phải dựng trên bề mặt dốc hoặc trơn trượt, dựng sao cho xe không bị di chuyển hoặc đổ; không để vật liệu dễ cháy gần chi tiết nóng; không chạm vùng gần động cơ, ống xả, phanh cho đến khi nguội hẳn. Xe có hệ thống tắt máy bằng chân chống nghiêng: không khởi động được khi chân chống nghiêng đang hạ; hạ chân chống nghiêng khi máy đang chạy thì động cơ tự tắt. Kiểm tra chân chống nghiêng: dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn rồi kiểm tra.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave Alpha (bản đăng 9/2025, đọc 13/10/2026): quy trình dựng chân chống đứng giống LEAD (đứng bên trái, giữ tay nắm trái và tay dắt sau, chân phải gạt mũi chân chống xuống, đồng thời nhấc xe lên và kéo về phía sau; quay hết tay lái sang trái; vặn khóa điện sang LOCK, rút chìa, đóng khóa an toàn; vặn van xăng sang OFF). Kiểm tra dầu động cơ: nếu máy nguội cho nổ cầm chừng 3–5 phút, tắt máy đợi khoảng 2–3 phút, dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn rồi đọc que thăm. Bảo quản xe: dựng xe chắc chắn bằng chân chống đứng. Thông số: khối lượng bản thân 96 kg (212 lb).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=ch%C3%A2n+ch%E1%BB%91ng",
+        "quote": "Honda Việt Nam, trang Câu hỏi thường gặp (tìm 'chân chống', đọc 13/10/2026): câu 'Xe để lâu ngày không sử dụng cần bảo quản thế nào?' (cập nhật 21/09/2021): rửa xe sạch, dựng xe bằng chân chống đứng, bôi trơn xích tải (nếu có), tránh hết điện ắc quy (tháo cực âm hoặc nổ máy mỗi tuần một lần khoảng 10 phút), phủ bạt nếu để ngoài trời; không nên nổ máy tại chỗ quá lâu, nhất là xe làm mát bằng không khí. Câu 'Những mẫu xe nào có công tắc chân chống bên?' (cập nhật 20/09/2021): tất cả các mẫu xe ga hiện nay đều có công tắc chân chống (điện) bên; khi hạ chân chống xuống, động cơ được ngắt ngay; động cơ chỉ khởi động được khi gạt chân chống lên. Câu mùa mưa: xe chết máy do ngập nước thì đưa ra khỏi chỗ ngập, tắt khóa điện, dựng xe trên chân chống chính, tháo bugi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://cycleworld.com/2015/09/25/cycle-world-tips-and-tricks-how-to-use-your-motorcycle-centerstand",
+        "quote": "Cycle World (Mỹ), 'How to Use Your Motorcycle's Centerstand' (Mark Lindemann, 25/9/2015, đọc 13/10/2026; tiếng Anh, tóm tắt): đứng bên trái, giữ tay nắm trái, để bánh trước thẳng; đặt chân phải lên mũi chân chống, ấn xuống tới khi chân chống chạm đất; lắc nhẹ xe tới khi cảm thấy cả hai chân của chân chống chạm đất; đứng sát xe, lưng thẳng, khóa thẳng chân phải và kéo lên chứ không kéo ra ngoài; nếu khó, tập bằng cách cho bánh sau lên tấm gỗ dày 3/4 inch (19 mm) hoặc khối dày 1 inch (2,5 cm). Bài không nói cách hạ xe khỏi chân chống.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "dựng chân chống giữa"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: dùng trọng lượng người, không dùng sức tay",
+      "Chân chống giữa, chân chống đứng, chân chống chính là một",
+      "Các bước dựng theo sách hướng dẫn Honda",
+      "Mẹo cho người nhỏ người: tư thế, lắc xe, tập với tấm gỗ",
+      "Chọn chỗ dựng xe: mặt phẳng, dốc, ống xả nóng",
+      "Khi nào nên dùng chân chống giữa thay vì chân chống nghiêng"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/cong-tac-chan-chong-ben/",
+      "/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/",
+      "/kinh-nghiem/cach-di-xe-so/",
+      "/bao-duong/xe-may-bi-chet-may-giua-duong/",
+      "/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/"
+    ],
+    "content_type": "howto",
+    "overlap": [
+      {
+        "url": "/bao-duong/cong-tac-chan-chong-ben/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.528
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/bao-duong/cong-tac-chan-chong-ben/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00169.json",
+  "draft_template": {
+    "id": "TM-00169",
+    "url": "/kinh-nghiem/dung-chan-chong-giua-xe-may/",
+    "title": "Dựng chân chống giữa xe máy: cách nhẹ tay, không đổ xe",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "dựng chân chống giữa, cách dựng chân chống đứng xe máy, dựng chân chống giữa không nổi, khi nào dùng chân chống giữa, chân chống nghiêng hay chân chống giữa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: dùng trọng lượng người, không dùng sức tay",
+        "<p></p>"
+      ],
+      [
+        "Chân chống giữa, chân chống đứng, chân chống chính là một",
+        "<p></p>"
+      ],
+      [
+        "Các bước dựng theo sách hướng dẫn Honda",
+        "<p></p>"
+      ],
+      [
+        "Mẹo cho người nhỏ người: tư thế, lắc xe, tập với tấm gỗ",
+        "<p></p>"
+      ],
+      [
+        "Chọn chỗ dựng xe: mặt phẳng, dốc, ống xả nóng",
+        "<p></p>"
+      ],
+      [
+        "Khi nào nên dùng chân chống giữa thay vì chân chống nghiêng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026), mục 'Dựng xe bằng chân chống nghiêng hoặc chân chống đứng': 1. Tắt máy. 2. Chân chống nghiêng: gạt xuống, từ từ nghiêng xe sang trái cho đến khi trọng lượng dồn hết về chân chống nghiêng. Chân chống đứng: để hạ chân chống đứng, đứng bên trái xe; giữ tay nắm bên trái và tay dắt sau; dùng chân phải gạt mũi chân chống đứng xuống dưới, đồng thời nhấc xe lên và kéo về phía sau. 3. Quay hết tay lái sang trái (quay sang phải làm giảm độ ổn định và có thể làm đổ xe). 4. Khóa. Mục 'Dựng xe': dựng trên bề mặt bằng phẳng, chắc chắn; nếu buộc phải dựng trên bề mặt dốc hoặc trơn trượt, dựng sao cho xe không bị di chuyển hoặc đổ; không để vật liệu dễ cháy gần chi tiết nóng; không chạm vùng gần động cơ, ống xả, phanh cho đến khi nguội hẳn. Xe có hệ thống tắt máy bằng chân chống nghiêng: không khởi động được khi chân chống nghiêng đang hạ; hạ chân chống nghiêng khi máy đang chạy thì động cơ tự tắt. Kiểm tra chân chống nghiêng: dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn rồi kiểm tra.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave Alpha (bản đăng 9/2025, đọc 13/10/2026): quy trình dựng chân chống đứng giống LEAD (đứng bên trái, giữ tay nắm trái và tay dắt sau, chân phải gạt mũi chân chống xuống, đồng thời nhấc xe lên và kéo về phía sau; quay hết tay lái sang trái; vặn khóa điện sang LOCK, rút chìa, đóng khóa an toàn; vặn van xăng sang OFF). Kiểm tra dầu động cơ: nếu máy nguội cho nổ cầm chừng 3–5 phút, tắt máy đợi khoảng 2–3 phút, dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn rồi đọc que thăm. Bảo quản xe: dựng xe chắc chắn bằng chân chống đứng. Thông số: khối lượng bản thân 96 kg (212 lb).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=ch%C3%A2n+ch%E1%BB%91ng",
+        "quote": "Honda Việt Nam, trang Câu hỏi thường gặp (tìm 'chân chống', đọc 13/10/2026): câu 'Xe để lâu ngày không sử dụng cần bảo quản thế nào?' (cập nhật 21/09/2021): rửa xe sạch, dựng xe bằng chân chống đứng, bôi trơn xích tải (nếu có), tránh hết điện ắc quy (tháo cực âm hoặc nổ máy mỗi tuần một lần khoảng 10 phút), phủ bạt nếu để ngoài trời; không nên nổ máy tại chỗ quá lâu, nhất là xe làm mát bằng không khí. Câu 'Những mẫu xe nào có công tắc chân chống bên?' (cập nhật 20/09/2021): tất cả các mẫu xe ga hiện nay đều có công tắc chân chống (điện) bên; khi hạ chân chống xuống, động cơ được ngắt ngay; động cơ chỉ khởi động được khi gạt chân chống lên. Câu mùa mưa: xe chết máy do ngập nước thì đưa ra khỏi chỗ ngập, tắt khóa điện, dựng xe trên chân chống chính, tháo bugi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://cycleworld.com/2015/09/25/cycle-world-tips-and-tricks-how-to-use-your-motorcycle-centerstand",
+        "quote": "Cycle World (Mỹ), 'How to Use Your Motorcycle's Centerstand' (Mark Lindemann, 25/9/2015, đọc 13/10/2026; tiếng Anh, tóm tắt): đứng bên trái, giữ tay nắm trái, để bánh trước thẳng; đặt chân phải lên mũi chân chống, ấn xuống tới khi chân chống chạm đất; lắc nhẹ xe tới khi cảm thấy cả hai chân của chân chống chạm đất; đứng sát xe, lưng thẳng, khóa thẳng chân phải và kéo lên chứ không kéo ra ngoài; nếu khó, tập bằng cách cho bánh sau lên tấm gỗ dày 3/4 inch (19 mm) hoặc khối dày 1 inch (2,5 cm). Bài không nói cách hạ xe khỏi chân chống.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00169"
+  }
+}

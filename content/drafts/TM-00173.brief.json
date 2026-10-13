@@ -1,0 +1,176 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:47:07.068632+00:00",
+  "topic": {
+    "topic_id": "TM-00173",
+    "url": "/du-lich/chua-tran-quoc/",
+    "title": "Chùa Trấn Quốc: lịch sử 1.500 năm, khi nào đông, đi xe máy và lưu ý",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa trấn quốc",
+    "secondary_keywords": [
+      "chùa trấn quốc ở đâu",
+      "chùa trấn quốc lịch sử",
+      "bảo tháp chùa trấn quốc",
+      "cây bồ đề chùa trấn quốc",
+      "đi lễ chùa trấn quốc đầu năm"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe muốn ghé chùa Trấn Quốc trên đường Thanh Niên: chùa ở đâu, có gì để xem (bảo tháp, cây bồ đề), nên đi lúc nào để tránh tắc đường Thanh Niên dịp Tết, và kết hợp với đền Quán Thánh thế nào.",
+    "information_gain": "Gần nhất là /du-lich/ha-noi/vong-ho-tay-xe-may/ (nhắc chùa là một điểm dừng, tên Khai Quốc 541–548 và việc chuyển chùa thời Hậu Lê, nhắc ăn mặc kín đáo) và /du-lich/ha-noi/ (hub). Bài này không lặp lại vòng hồ mà đi sâu vào riêng chùa: địa chỉ 46 Thanh Niên; mốc tên gọi An Quốc (thế kỷ XV), dời ra đảo Kim Ngư năm 1615, tên Trấn Quốc đời Lê Hy Tông, đổi Trấn Bắc năm 1842; bảo tháp Lục độ đài sen cao 15 m, 11 tầng, 66 tượng, dựng 1998–2003; cây bồ đề do Tổng thống Ấn Độ tặng 24/3/1959; di tích quốc gia 1962; cảnh đường Thanh Niên kẹt cứng chiều mùng 3 Tết (2024); tuyến khảo sát Quán Thánh – Thanh Niên – Trấn Quốc của Sở Du lịch (2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/saigontimes/tran-quoc-chua-co-dat-thang-long-10692066.htm",
+        "quote": "Tuổi Trẻ/TBKTSG Online, 'Trấn Quốc - chùa cổ đất Thăng Long' (23/10/2012): chùa dựng lần đầu thời Lý Nam Đế (541–548) trên bãi sông Hồng, tên Khai Quốc; thời Lê Thái Tông đổi tên An Quốc; năm 1615 do bờ sông lở, chùa dời về đảo Kim Ngư phía đông Hồ Tây; tên Trấn Quốc có từ cuối thế kỷ XVII đời Lê Hy Tông; năm 1842 vua Thiệu Trị đổi tên Trấn Bắc nhưng dân vẫn gọi Trấn Quốc. Bảo tháp Lục độ đài sen khởi công 6/1998, hoàn thành cuối 2003, cao 15 m, 11 tầng, 66 pho tượng, 9 tầng đài sen trên đỉnh, dựng đối xứng với cây bồ đề.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ben-trong-ngoi-chua-dep-bac-nhat-the-gioi-o-ha-noi-3494018.html",
+        "quote": "VnExpress, 'Bên trong ngôi chùa đẹp bậc nhất thế giới ở Hà Nội' (Ngọc Thành, 05/11/2016): chùa 'có lịch sử 1.500 năm'; bảo tháp cao 15 m, 11 tầng, khánh thành 2003; cây bồ đề do Tổng thống Ấn Độ tặng khi thăm chùa ngày 24/3/1959; được Bộ Văn hóa Thông tin công nhận di tích lịch sử văn hóa quốc gia năm 1962; Thrillist xếp vào danh sách chùa đẹp nhất thế giới. Bài không nêu giờ mở cửa, vé.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://kinhtedothi.vn/ha-noi-nhung-den-chua-thu-hut-dong-du-khach-den-vao-ngay-mung-1-ram.html",
+        "quote": "Kinh tế & Đô thị, 'Hà Nội: Những đền, chùa thu hút đông du khách đến vào ngày mùng 1, rằm' (Như Hương tổng hợp, 05/07/2024): chùa Trấn Quốc ở '46 Thanh Niên, phường Yên Phụ, quận Tây Hồ' (địa giới cũ); bài không nêu giờ mở cửa hay vé của chùa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/chieu-mung-3-tet-nguoi-dan-no-nuc-le-chua-tran-quoc-duong-thanh-nien-ket-cung-post1611895.tpo",
+        "quote": "Tiền Phong (Đức Nguyễn, 12/02/2024): chiều mùng 3 Tết, 'đường Thanh Niên (quận Tây Hồ) kẹt cứng', 'phương tiện nhích từng tí một'; gần 18h khuôn viên chùa vẫn rất đông; nhiều du khách quốc tế cũng tới tham quan, check in. Bài không nói về gửi xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ket-noi-ho-guom-thang-long-tu-tran-dau-an-moi-cho-du-lich-ha-noi-976202.html",
+        "quote": "Hà Nội Mới (Hoàng Quyên, 29/05/2026): Sở Du lịch Hà Nội khảo sát tuyến 'Lăng Bác – Quán Thánh – Thanh Niên – Trấn Quốc' trong kế hoạch kết nối Hồ Gươm – Thăng Long tứ trấn năm 2026 (Kế hoạch 17/KH-SDL); bài không nêu giá, lịch tour.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 40500,
+        "checked": "2026-10-13",
+        "keyword": "chùa trấn quốc"
+      }
+    ],
+    "outline": [
+      "Chùa Trấn Quốc ở đâu trên đường Thanh Niên",
+      "1.500 năm qua các tên gọi: Khai Quốc, An Quốc, Trấn Quốc, Trấn Bắc",
+      "Xem gì: bảo tháp Lục độ đài sen, cây bồ đề 1959",
+      "Khi nào đông: Tết, mùng 1, rằm và đường Thanh Niên kẹt xe",
+      "Đi xe máy từ Long Biên và lưu ý dừng đỗ",
+      "Kết hợp với đền Quán Thánh và vòng Hồ Tây",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/ha-noi/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00173.json",
+  "draft_template": {
+    "id": "TM-00173",
+    "url": "/du-lich/chua-tran-quoc/",
+    "title": "Chùa Trấn Quốc: lịch sử 1.500 năm, khi nào đông, đi xe máy và lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa trấn quốc, chùa trấn quốc ở đâu, chùa trấn quốc lịch sử, bảo tháp chùa trấn quốc, cây bồ đề chùa trấn quốc, đi lễ chùa trấn quốc đầu năm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Trấn Quốc ở đâu trên đường Thanh Niên",
+        "<p></p>"
+      ],
+      [
+        "1.500 năm qua các tên gọi: Khai Quốc, An Quốc, Trấn Quốc, Trấn Bắc",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: bảo tháp Lục độ đài sen, cây bồ đề 1959",
+        "<p></p>"
+      ],
+      [
+        "Khi nào đông: Tết, mùng 1, rằm và đường Thanh Niên kẹt xe",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và lưu ý dừng đỗ",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với đền Quán Thánh và vòng Hồ Tây",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/saigontimes/tran-quoc-chua-co-dat-thang-long-10692066.htm",
+        "quote": "Tuổi Trẻ/TBKTSG Online, 'Trấn Quốc - chùa cổ đất Thăng Long' (23/10/2012): chùa dựng lần đầu thời Lý Nam Đế (541–548) trên bãi sông Hồng, tên Khai Quốc; thời Lê Thái Tông đổi tên An Quốc; năm 1615 do bờ sông lở, chùa dời về đảo Kim Ngư phía đông Hồ Tây; tên Trấn Quốc có từ cuối thế kỷ XVII đời Lê Hy Tông; năm 1842 vua Thiệu Trị đổi tên Trấn Bắc nhưng dân vẫn gọi Trấn Quốc. Bảo tháp Lục độ đài sen khởi công 6/1998, hoàn thành cuối 2003, cao 15 m, 11 tầng, 66 pho tượng, 9 tầng đài sen trên đỉnh, dựng đối xứng với cây bồ đề.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ben-trong-ngoi-chua-dep-bac-nhat-the-gioi-o-ha-noi-3494018.html",
+        "quote": "VnExpress, 'Bên trong ngôi chùa đẹp bậc nhất thế giới ở Hà Nội' (Ngọc Thành, 05/11/2016): chùa 'có lịch sử 1.500 năm'; bảo tháp cao 15 m, 11 tầng, khánh thành 2003; cây bồ đề do Tổng thống Ấn Độ tặng khi thăm chùa ngày 24/3/1959; được Bộ Văn hóa Thông tin công nhận di tích lịch sử văn hóa quốc gia năm 1962; Thrillist xếp vào danh sách chùa đẹp nhất thế giới. Bài không nêu giờ mở cửa, vé.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://kinhtedothi.vn/ha-noi-nhung-den-chua-thu-hut-dong-du-khach-den-vao-ngay-mung-1-ram.html",
+        "quote": "Kinh tế & Đô thị, 'Hà Nội: Những đền, chùa thu hút đông du khách đến vào ngày mùng 1, rằm' (Như Hương tổng hợp, 05/07/2024): chùa Trấn Quốc ở '46 Thanh Niên, phường Yên Phụ, quận Tây Hồ' (địa giới cũ); bài không nêu giờ mở cửa hay vé của chùa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/chieu-mung-3-tet-nguoi-dan-no-nuc-le-chua-tran-quoc-duong-thanh-nien-ket-cung-post1611895.tpo",
+        "quote": "Tiền Phong (Đức Nguyễn, 12/02/2024): chiều mùng 3 Tết, 'đường Thanh Niên (quận Tây Hồ) kẹt cứng', 'phương tiện nhích từng tí một'; gần 18h khuôn viên chùa vẫn rất đông; nhiều du khách quốc tế cũng tới tham quan, check in. Bài không nói về gửi xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ket-noi-ho-guom-thang-long-tu-tran-dau-an-moi-cho-du-lich-ha-noi-976202.html",
+        "quote": "Hà Nội Mới (Hoàng Quyên, 29/05/2026): Sở Du lịch Hà Nội khảo sát tuyến 'Lăng Bác – Quán Thánh – Thanh Niên – Trấn Quốc' trong kế hoạch kết nối Hồ Gươm – Thăng Long tứ trấn năm 2026 (Kế hoạch 17/KH-SDL); bài không nêu giá, lịch tour.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00173"
+  }
+}

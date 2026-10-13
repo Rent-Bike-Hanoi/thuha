@@ -1,0 +1,176 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:47:07.514880+00:00",
+  "topic": {
+    "topic_id": "TM-00177",
+    "url": "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+    "title": "Nhà hát Lớn Hà Nội đóng cửa trùng tu: còn xem gì, đi xe máy lưu ý gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "nhà hát lớn hà nội",
+    "secondary_keywords": [
+      "nhà hát lớn hà nội đóng cửa",
+      "nhà hát lớn hà nội trùng tu",
+      "nhà hát lớn có cho tham quan không",
+      "tour nhà hát lớn hà nội",
+      "quảng trường cách mạng tháng tám"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Khách đọc các bài cũ về tour Nhà hát Lớn muốn biết năm 2026 còn vào tham quan được không, đóng cửa đến bao giờ, còn ngắm được gì từ bên ngoài và đi xe máy tới khu Tràng Tiền buổi tối cuối tuần có bị cấm không.",
+    "information_gain": "Site chưa có bài về Nhà hát Lớn. Gần nhất là /du-lich/ha-noi/ (hub), /du-lich/ha-noi/pho-co/ và /du-lich/ha-noi/cau-long-bien/ (không nhắc nhà hát). Nhiều trang khác vẫn đăng giá tour cũ. Bài này cập nhật: theo Trung tâm Lưu trữ quốc gia I (9/3/2026), sau 31/01/2026 nhà hát tạm đóng cửa trùng tu, bảo tồn, nâng cấp dự kiến khoảng hai năm và du khách không được vào tham quan; chương trình chia tay '115 năm Nhà hát kể chuyện' (22/11/2025–31/1/2026, 480.000–600.000đ) đã kết thúc; thông tin kiến trúc (1A Tràng Tiền, phường Cửa Nam; xây 1901–1911; các kiến trúc sư Broyer, V. Harlay, F. Lagisquet); Tràng Tiền là tuyến ranh giới khu vực 1 trong thí điểm cấm xe máy 19h–24h thứ Sáu–Chủ nhật (1/7–31/12/2026); gợi ý ghé Bảo tàng Lịch sử Quốc gia ngay phía sau.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/khong-the-tham-quan-nha-hat-lon-ha-noi-do-dong-cua-trung-tu-hay-cung-chung-toi-kham-pha-cong-trinh-nay-qua-tai-lieu-luu-tru.htm",
+        "quote": "Trung tâm Lưu trữ quốc gia I, 'Không thể tham quan nhà hát lớn Hà Nội do đóng cửa trùng tu?...' (Hoàng Hằng, 09/03/2026): Nhà hát Lớn ở số 1A Tràng Tiền, phường Cửa Nam, trên quảng trường Cách mạng tháng Tám; do các kiến trúc sư Pháp Broyer, V. Harlay và F. Lagisquet thiết kế, xây dựng và hoàn thiện giai đoạn 1901–1911; 'Sau ngày 31/01/2026, Nhà hát tạm đóng cửa để phục vụ công tác trùng tu, bảo tồn và nâng cấp tổng thể dự kiến kéo dài hai năm. Trong giai đoạn này, du khách sẽ không được trực tiếp tham quan'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ben-trong-nha-hat-lon-ha-noi-truoc-khi-dong-cua-hai-nam-4995945.html",
+        "quote": "VnExpress, 'Bên trong Nhà hát Lớn Hà Nội trước khi đóng cửa hai năm' (Tú Nguyễn, 22/12/2025): chương trình '115 năm Nhà hát kể chuyện' do Hexogon Việt Nam tổ chức, như 'lời tạm biệt công chúng' trước khi trùng tu dự kiến hai năm; khung giờ 10h, 14h, 16h, 20h; vé 480.000–600.000 đồng; khách đi theo hướng dẫn viên, từ tầng 1 lên tầng 3 rồi khán phòng; mỗi buổi khoảng 60–100 khách.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://cafef.vn/chi-con-11-ngay-de-vao-tham-nha-hat-lon-truoc-khi-dong-cua-nhung-lai-la-thoi-diem-trai-nghiem-tuyet-voi-nhat-188260121091035922.chn",
+        "quote": "CafeF (Châu Anh, theo Đời sống & Pháp luật, 21/01/2026): 'sau ngày 31/1/2026, nơi này sẽ chính thức đóng cửa' để trùng tu khoảng 2 năm; chương trình trải nghiệm được kéo dài đến hết 31/1/2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/trung-bay-ky-niem-90-nam-toa-nha-bao-tang-lich-su-quoc-gia-102221117150416016.htm",
+        "quote": "Báo Điện tử Chính phủ (Hồng Hà, 17/11/2022): tòa nhà Bảo tàng Lịch sử quốc gia nằm phía sau Nhà hát Lớn, bên bờ sông Hồng; khởi công 1/1926, khánh thành 17/3/1932, phong cách kiến trúc Đông Dương.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12; tại khu vực 1 cấm 'xe mô tô, xe gắn máy và ô tô các loại' từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an). Khu vực 1 giới hạn bởi 12 tuyến: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền, bao gồm phố đi bộ Hồ Hoàn Kiếm, phố cổ, chợ đêm. Khu vực 2 gồm 10 tuyến: Tràng Thi, Thợ Nhuộm, Hàng Bông, Phùng Hưng, Phan Đình Phùng, Hàng Đậu, Trần Nhật Duật, Trần Quang Khải, Tràng Tiền, Hàng Khay (bài không nêu quy định hạn chế cụ thể cho khu vực 2). Hà Nội bố trí 220 bãi/điểm trông giữ xe; bãi đỗ trung chuyển gồm Long Biên, Trần Khát Chân, Trần Khánh Dư, khu vực công viên Thủ Lệ. Bài không nói rõ xe máy điện có thuộc diện cấm hay không.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 74000,
+        "checked": "2026-10-13",
+        "keyword": "nhà hát lớn hà nội"
+      }
+    ],
+    "outline": [
+      "Nhà hát Lớn Hà Nội năm 2026: đang đóng cửa trùng tu",
+      "Đóng từ khi nào, dự kiến bao lâu",
+      "Còn ngắm được gì: mặt tiền, quảng trường Cách mạng tháng Tám",
+      "Vài nét kiến trúc: 1901–1911 và các kiến trúc sư",
+      "Đi xe máy tới Tràng Tiền: giờ cấm tối cuối tuần",
+      "Ghé gần đó: Bảo tàng Lịch sử Quốc gia",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00177.json",
+  "draft_template": {
+    "id": "TM-00177",
+    "url": "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+    "title": "Nhà hát Lớn Hà Nội đóng cửa trùng tu: còn xem gì, đi xe máy lưu ý gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà hát lớn hà nội, nhà hát lớn hà nội đóng cửa, nhà hát lớn hà nội trùng tu, nhà hát lớn có cho tham quan không, tour nhà hát lớn hà nội, quảng trường cách mạng tháng tám",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà hát Lớn Hà Nội năm 2026: đang đóng cửa trùng tu",
+        "<p></p>"
+      ],
+      [
+        "Đóng từ khi nào, dự kiến bao lâu",
+        "<p></p>"
+      ],
+      [
+        "Còn ngắm được gì: mặt tiền, quảng trường Cách mạng tháng Tám",
+        "<p></p>"
+      ],
+      [
+        "Vài nét kiến trúc: 1901–1911 và các kiến trúc sư",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy tới Tràng Tiền: giờ cấm tối cuối tuần",
+        "<p></p>"
+      ],
+      [
+        "Ghé gần đó: Bảo tàng Lịch sử Quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/khong-the-tham-quan-nha-hat-lon-ha-noi-do-dong-cua-trung-tu-hay-cung-chung-toi-kham-pha-cong-trinh-nay-qua-tai-lieu-luu-tru.htm",
+        "quote": "Trung tâm Lưu trữ quốc gia I, 'Không thể tham quan nhà hát lớn Hà Nội do đóng cửa trùng tu?...' (Hoàng Hằng, 09/03/2026): Nhà hát Lớn ở số 1A Tràng Tiền, phường Cửa Nam, trên quảng trường Cách mạng tháng Tám; do các kiến trúc sư Pháp Broyer, V. Harlay và F. Lagisquet thiết kế, xây dựng và hoàn thiện giai đoạn 1901–1911; 'Sau ngày 31/01/2026, Nhà hát tạm đóng cửa để phục vụ công tác trùng tu, bảo tồn và nâng cấp tổng thể dự kiến kéo dài hai năm. Trong giai đoạn này, du khách sẽ không được trực tiếp tham quan'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ben-trong-nha-hat-lon-ha-noi-truoc-khi-dong-cua-hai-nam-4995945.html",
+        "quote": "VnExpress, 'Bên trong Nhà hát Lớn Hà Nội trước khi đóng cửa hai năm' (Tú Nguyễn, 22/12/2025): chương trình '115 năm Nhà hát kể chuyện' do Hexogon Việt Nam tổ chức, như 'lời tạm biệt công chúng' trước khi trùng tu dự kiến hai năm; khung giờ 10h, 14h, 16h, 20h; vé 480.000–600.000 đồng; khách đi theo hướng dẫn viên, từ tầng 1 lên tầng 3 rồi khán phòng; mỗi buổi khoảng 60–100 khách.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://cafef.vn/chi-con-11-ngay-de-vao-tham-nha-hat-lon-truoc-khi-dong-cua-nhung-lai-la-thoi-diem-trai-nghiem-tuyet-voi-nhat-188260121091035922.chn",
+        "quote": "CafeF (Châu Anh, theo Đời sống & Pháp luật, 21/01/2026): 'sau ngày 31/1/2026, nơi này sẽ chính thức đóng cửa' để trùng tu khoảng 2 năm; chương trình trải nghiệm được kéo dài đến hết 31/1/2026.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/trung-bay-ky-niem-90-nam-toa-nha-bao-tang-lich-su-quoc-gia-102221117150416016.htm",
+        "quote": "Báo Điện tử Chính phủ (Hồng Hà, 17/11/2022): tòa nhà Bảo tàng Lịch sử quốc gia nằm phía sau Nhà hát Lớn, bên bờ sông Hồng; khởi công 1/1926, khánh thành 17/3/1932, phong cách kiến trúc Đông Dương.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12; tại khu vực 1 cấm 'xe mô tô, xe gắn máy và ô tô các loại' từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an). Khu vực 1 giới hạn bởi 12 tuyến: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền, bao gồm phố đi bộ Hồ Hoàn Kiếm, phố cổ, chợ đêm. Khu vực 2 gồm 10 tuyến: Tràng Thi, Thợ Nhuộm, Hàng Bông, Phùng Hưng, Phan Đình Phùng, Hàng Đậu, Trần Nhật Duật, Trần Quang Khải, Tràng Tiền, Hàng Khay (bài không nêu quy định hạn chế cụ thể cho khu vực 2). Hà Nội bố trí 220 bãi/điểm trông giữ xe; bãi đỗ trung chuyển gồm Long Biên, Trần Khát Chân, Trần Khánh Dư, khu vực công viên Thủ Lệ. Bài không nói rõ xe máy điện có thuộc diện cấm hay không.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00177"
+  }
+}

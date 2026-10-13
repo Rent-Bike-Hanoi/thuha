@@ -1,0 +1,171 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:47:05.736115+00:00",
+  "topic": {
+    "topic_id": "TM-00161",
+    "url": "/xe-dien/dat-bike-quantum-s1-s2-s3/",
+    "title": "Dat Bike Quantum S1, S2, S3: 200–285 km, giá, pin LFP và bằng lái",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "dat bike quantum",
+    "secondary_keywords": [
+      "dat bike quantum s1",
+      "dat bike quantum s2",
+      "dat bike quantum s3",
+      "giá xe máy điện dat bike",
+      "quantum đi được bao nhiêu km"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội cần xe máy điện đi xa, chạy nhanh như xe xăng đang cân nhắc Dat Bike Quantum muốn biết ba bản S1, S2, S3 khác nhau ra sao, giá đã gồm pin chưa, sạc bao lâu và cần bằng gì.",
+    "information_gain": "/xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/ chỉ nhắc thời gian sạc Quantum S3 và /xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/ chỉ trích chuẩn IP. Bài này so đủ ba bản theo trang chính hãng dat.bike (cập nhật 09/10/2026): giá đã gồm pin, sạc, VAT 34,9–50,9 triệu; pin LFP 72V 57Ah/85Ah, 4,3/6,4 kWh, 200/285 km; 90/100 km/h; động cơ 6.000/7.000 W; sạc 2 giờ 30 đến 7 giờ tùy bộ sạc 900 W hay 1.800 W; 144/130 kg; cốp 44 lít; bảo hành 3 năm/30.000 km và điều kiện lội nước 60 cm trong 30 phút. Bài áp 6–7 kW, 90–100 km/h vào Luật 36/2024/QH15: xe mô tô, hạng A1.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/dat-bike-quantum-s-series/",
+        "quote": "Dat Bike, bài \"Dat Bike Quantum S Series – Xe điện xa nhất, hiệu năng tốt nhất\" (đăng 09/01/2026, cập nhật 09/10/2026, đọc 13/10/2026), bảng S1 / S2 / S3: giá đã gồm pin, sạc, VAT 49.900.000 / 42.900.000 / 34.900.000 đồng (đen, xanh, cam), màu trắng và xám 50.900.000 / 43.900.000 / 35.900.000; quãng đường 285 / 285 / 200 km; sạc S1 4h bộ sạc 1.800 W; S2 7h bộ 900 W hoặc 4h bộ 1.800 W; S3 5h bộ 900 W hoặc 2h30 bộ 1.800 W; vận tốc 100 / 90 / 90 km/h; công suất 7000 / 7000 / 6000 W (phần mô tả S2 ghi 6.000 W); pin LiFePO4 72V 85Ah (6,4 kWh, độ bền 350.000 km ~25 năm, sau đó còn khoảng 80%) cho S1, S2 và 57Ah (4,3 kWh, 245.000 km ~20 năm) cho S3; 0-50 km/h 3 giây; khối lượng 144 / 144 / 130 kg; yên 790 / 760 / 760 mm; cốp 41 lít + 2 hộc trước 1,5 lít, tổng 44 lít; IP67 cho động cơ, pin, cổng sạc, ECU, IP65 phần còn lại; Hill Assist, Cruise control, hỗ trợ dắt xe (lùi).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/gia-xe-may-dien-dat-bike/",
+        "quote": "Dat Bike, \"Cập nhật giá xe máy điện Dat Bike mới nhất 2026\" (đăng 17/10/2025, cập nhật 09/10/2026, đọc 13/10/2026): bảng giá tham khảo (ghi 'cập nhật tháng 01/2026'): Era E2 29,9 triệu, E1 32,9–33,9 triệu; Quantum S1 49,9 triệu (trắng, xám 50,9 triệu); S2 42,9 triệu (43,9 triệu); S3 34,9 triệu (35,9 triệu); Quantum 49,9 triệu; Weaver 39,9 triệu; Weaver 200 54,9 triệu; Weaver ++ 65,9 triệu. FAQ: giá niêm yết là giá trọn gói gồm pin, bộ sạc tiêu chuẩn và VAT; màu trắng, xám cao hơn khoảng 1.000.000 đồng. Bảo hành tiêu chuẩn 3 năm hoặc 30.000 km; xe đi mưa, ngập vẫn được bảo hành khi mức ngập không quá 60 cm và hoạt động liên tục dưới nước không quá 30 phút; không bảo hành pin hỏng do sử dụng, bảo quản sai.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/xe-may-dien-quantum-s1/",
+        "quote": "Dat Bike, trang sản phẩm Quantum S1 (cập nhật 04/09/2026, đọc 13/10/2026): giá 49.900.000đ, 50.900.000đ (màu trắng & xám), \"Đã kèm Pin + Sạc + VAT\"; 285 km/lần sạc; 7000W; 100 km/h; khối số liệu ghi \"0-50km/h trong 2.69s\" còn tiêu đề ghi \"0-50km/h chỉ trong 3 giây\"; bảng so sánh trên trang: giá đã bao gồm pin, chi phí nâng cấp pin và phần mềm nâng cao tính năng; sạc S1 4h bộ 1.800W. Bài Quantum S Series (dat.bike/dat-bike-quantum-s-series/) thêm: với bộ sạc 1,8 kW, 1 giờ sạc đầu tiên đi được khoảng 100 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe hai hoặc ba bánh có vận tốc thiết kế không lớn hơn 50 km/h, nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 57 khoản 1 điểm a: hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW; điểm b: hạng A cho mô tô hai bánh có công suất động cơ điện trên 11 kW. Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 5400,
+        "checked": "2026-10-13",
+        "keyword": "dat bike quantum"
+      }
+    ],
+    "outline": [
+      "Quantum S1, S2, S3: ba bản khác nhau ở đâu",
+      "Pin LFP 4,3 và 6,4 kWh: 200 và 285 km",
+      "Sạc 2 giờ 30 đến 7 giờ: bộ sạc 900 W hay 1.800 W",
+      "Giá đã gồm pin, sạc, VAT: 34,9–50,9 triệu",
+      "Bảo hành 3 năm/30.000 km và giới hạn lội nước",
+      "90–100 km/h: bằng A1 và đăng ký biển số"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+      "/xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/",
+      "/xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/xe-dien/xe-may-dien-hay-xe-xang/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00161.json",
+  "draft_template": {
+    "id": "TM-00161",
+    "url": "/xe-dien/dat-bike-quantum-s1-s2-s3/",
+    "title": "Dat Bike Quantum S1, S2, S3: 200–285 km, giá, pin LFP và bằng lái",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "dat bike quantum, dat bike quantum s1, dat bike quantum s2, dat bike quantum s3, giá xe máy điện dat bike, quantum đi được bao nhiêu km",
+    "excerpt": "",
+    "sections": [
+      [
+        "Quantum S1, S2, S3: ba bản khác nhau ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Pin LFP 4,3 và 6,4 kWh: 200 và 285 km",
+        "<p></p>"
+      ],
+      [
+        "Sạc 2 giờ 30 đến 7 giờ: bộ sạc 900 W hay 1.800 W",
+        "<p></p>"
+      ],
+      [
+        "Giá đã gồm pin, sạc, VAT: 34,9–50,9 triệu",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành 3 năm/30.000 km và giới hạn lội nước",
+        "<p></p>"
+      ],
+      [
+        "90–100 km/h: bằng A1 và đăng ký biển số",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/dat-bike-quantum-s-series/",
+        "quote": "Dat Bike, bài \"Dat Bike Quantum S Series – Xe điện xa nhất, hiệu năng tốt nhất\" (đăng 09/01/2026, cập nhật 09/10/2026, đọc 13/10/2026), bảng S1 / S2 / S3: giá đã gồm pin, sạc, VAT 49.900.000 / 42.900.000 / 34.900.000 đồng (đen, xanh, cam), màu trắng và xám 50.900.000 / 43.900.000 / 35.900.000; quãng đường 285 / 285 / 200 km; sạc S1 4h bộ sạc 1.800 W; S2 7h bộ 900 W hoặc 4h bộ 1.800 W; S3 5h bộ 900 W hoặc 2h30 bộ 1.800 W; vận tốc 100 / 90 / 90 km/h; công suất 7000 / 7000 / 6000 W (phần mô tả S2 ghi 6.000 W); pin LiFePO4 72V 85Ah (6,4 kWh, độ bền 350.000 km ~25 năm, sau đó còn khoảng 80%) cho S1, S2 và 57Ah (4,3 kWh, 245.000 km ~20 năm) cho S3; 0-50 km/h 3 giây; khối lượng 144 / 144 / 130 kg; yên 790 / 760 / 760 mm; cốp 41 lít + 2 hộc trước 1,5 lít, tổng 44 lít; IP67 cho động cơ, pin, cổng sạc, ECU, IP65 phần còn lại; Hill Assist, Cruise control, hỗ trợ dắt xe (lùi).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/gia-xe-may-dien-dat-bike/",
+        "quote": "Dat Bike, \"Cập nhật giá xe máy điện Dat Bike mới nhất 2026\" (đăng 17/10/2025, cập nhật 09/10/2026, đọc 13/10/2026): bảng giá tham khảo (ghi 'cập nhật tháng 01/2026'): Era E2 29,9 triệu, E1 32,9–33,9 triệu; Quantum S1 49,9 triệu (trắng, xám 50,9 triệu); S2 42,9 triệu (43,9 triệu); S3 34,9 triệu (35,9 triệu); Quantum 49,9 triệu; Weaver 39,9 triệu; Weaver 200 54,9 triệu; Weaver ++ 65,9 triệu. FAQ: giá niêm yết là giá trọn gói gồm pin, bộ sạc tiêu chuẩn và VAT; màu trắng, xám cao hơn khoảng 1.000.000 đồng. Bảo hành tiêu chuẩn 3 năm hoặc 30.000 km; xe đi mưa, ngập vẫn được bảo hành khi mức ngập không quá 60 cm và hoạt động liên tục dưới nước không quá 30 phút; không bảo hành pin hỏng do sử dụng, bảo quản sai.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/xe-may-dien-quantum-s1/",
+        "quote": "Dat Bike, trang sản phẩm Quantum S1 (cập nhật 04/09/2026, đọc 13/10/2026): giá 49.900.000đ, 50.900.000đ (màu trắng & xám), \"Đã kèm Pin + Sạc + VAT\"; 285 km/lần sạc; 7000W; 100 km/h; khối số liệu ghi \"0-50km/h trong 2.69s\" còn tiêu đề ghi \"0-50km/h chỉ trong 3 giây\"; bảng so sánh trên trang: giá đã bao gồm pin, chi phí nâng cấp pin và phần mềm nâng cao tính năng; sạc S1 4h bộ 1.800W. Bài Quantum S Series (dat.bike/dat-bike-quantum-s-series/) thêm: với bộ sạc 1,8 kW, 1 giờ sạc đầu tiên đi được khoảng 100 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe hai hoặc ba bánh có vận tốc thiết kế không lớn hơn 50 km/h, nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 57 khoản 1 điểm a: hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW; điểm b: hạng A cho mô tô hai bánh có công suất động cơ điện trên 11 kW. Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00161"
+  }
+}

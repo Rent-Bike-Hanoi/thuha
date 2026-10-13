@@ -1,0 +1,233 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:47:06.855273+00:00",
+  "topic": {
+    "topic_id": "TM-00171",
+    "url": "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+    "title": "Đi xe máy trời nắng nóng 40 độ ở Hà Nội: giờ tránh, nước uống, xe",
+    "hub": "kinh-nghiem",
+    "subtopic": "di-chuyen-ha-noi",
+    "primary_keyword": "đi xe máy trời nắng nóng",
+    "secondary_keywords": [
+      "chạy xe máy giữa trưa nắng",
+      "say nắng khi đi xe máy",
+      "xe máy quá nhiệt mùa hè",
+      "nắng nóng hà nội mấy giờ nóng nhất"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy ở Hà Nội mùa hè (đi làm, giao hàng, khách du lịch thuê xe) muốn biết giờ nào nên tránh, cần uống nước, nghỉ thế nào, dấu hiệu say nắng, đột quỵ, và chăm xe ra sao để không quá nhiệt khi trời 37–40 độ.",
+    "information_gain": "Chưa có bài riêng. Gần nhất /kinh-nghiem/lai-xe-o-ha-noi/ (chuẩn bị chung, không có thời tiết), /kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/ (giờ tắc), /bao-duong/xe-may/ap-suat-lop/ (áp suất lốp); có seed anh em về xe nóng máy, quạt két nước. Bài này thêm số liệu chính thức: bản tin nắng nóng Trung tâm Dự báo KTTV quốc gia ngày 24/6/2026 ghi trạm Láng (Hà Nội) 39,6 độ lúc 13h, thời gian nóng dự báo 10–17 giờ, và lưu ý nhiệt độ cảm nhận ngoài trời có thể cao hơn nhiệt độ dự báo 2–4 độ, thậm chí hơn, trên bê tông, đường nhựa; nắng nóng gây mất nước khi tiếp xúc lâu; giờ nên tránh (11h–15h theo VOV, 10h–15h theo bác sĩ BV Tâm Anh), nghỉ 15 phút sau mỗi 2 giờ lái, uống nước đều kể cả khi chưa khát, dấu hiệu đột quỵ và ca người chạy giao hàng 58 tuổi; phía xe theo sách hướng dẫn Honda: đo áp suất khi lốp nguội, không đổ thêm xăng sau khi vòi tự ngắt (chừa chỗ cho xăng nở theo nhiệt), quy trình khi đèn báo quá nhiệt, không nổ máy tại chỗ lâu (xe làm mát bằng không khí), không chạm ống xả nóng; luật cấm dùng ô khi lái (Điều 33).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://kttv.gov.vn//upload/thoitiet/2026/6/24/dbqg_nong_20260624_1400.pdf",
+        "quote": "Trung tâm Dự báo Khí tượng Thủy văn quốc gia (Cục Khí tượng Thủy văn), Tin dự báo nắng nóng ở khu vực Bắc Bộ và Trung Bộ số NONG-38/14h00/DBQG ngày 24/6/2026 (PDF trên kttv.gov.vn, đọc 13/10/2026): ngày 24/6 đồng bằng Bắc Bộ có nắng nóng gay gắt, có nơi đặc biệt gay gắt, nhiệt độ lúc 13h phổ biến 36–39 độ, có nơi trên 39 độ như trạm Láng (Hà Nội) 39,6 độ; độ ẩm tương đối thấp nhất phổ biến 45–55%; dự báo ngày 25/6 trung du và đồng bằng Bắc Bộ nhiệt độ cao nhất 36–38 độ, có nơi trên 38 độ, thời gian nóng 10–17 giờ; cảnh báo cấp độ rủi ro thiên tai do nắng nóng cấp 1; nắng nóng có thể gây tình trạng mất nước với cơ thể người khi tiếp xúc lâu với nền nhiệt cao; 'nhiệt độ dự báo trong các bản tin nắng nóng và nhiệt độ cảm nhận thực tế ngoài trời có thể chênh lệch từ 2-4 độ, thậm chí có thể cao hơn phụ thuộc vào các điều kiện mặt đệm như bê tông, đường nhựa'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://kttv.gov.vn//upload/thoitiet/2026/4/7/dbqg_nong_20260407_1400.pdf",
+        "quote": "Trung tâm Dự báo Khí tượng Thủy văn quốc gia, Tin dự báo nắng nóng số NONG-31/14h00/DBQG ngày 07/4/2026 (PDF trên kttv.gov.vn, đọc 13/10/2026): chiều 07/4 'đồng bằng Bắc Bộ, cao nguyên Trung Bộ và Nam Bộ có nắng nóng, có nơi nắng nóng gay gắt' với nhiệt độ lúc 13h phổ biến 35–36 độ, có nơi trên 37 độ; cùng câu lưu ý nhiệt độ cảm nhận ngoài trời có thể chênh 2–4 độ hoặc hơn tùy mặt đệm bê tông, đường nhựa; cho thấy nắng nóng ở miền Bắc có thể bắt đầu từ tháng 4.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/tin-24h/luu-y-ban-nen-biet-khi-di-xe-may-trong-nhung-ngay-nang-nong-1051920.vov",
+        "quote": "VOV (VOVGT), 'Lưu ý bạn nên biết khi đi xe máy trong những ngày nắng nóng' (Diên Thành, 24/05/2020, đọc 13/10/2026): hạn chế lái xe trong khung giờ từ 11h–15h; nên nghỉ 15 phút sau mỗi 2 giờ lái xe; bổ sung nước cho cơ thể nhiều hơn bình thường; trang bị áo chống nắng tạo lớp cách nhiệt nhưng không quá rườm rà; làm chủ tốc độ, không phóng nhanh vượt ẩu; chú ý khi dừng xe trong bóng râm gần nút giao thông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/dot-quy-do-nang-nong-4923188.html",
+        "quote": "VnExpress Sức khỏe, 'Đột quỵ do nắng nóng' (Linh Đặng, 6/8/2025, nội dung với Bệnh viện Đa khoa Tâm Anh Hà Nội, ThS.BS Vũ Thị Hinh, đọc 13/10/2026): ông Hoàng, 58 tuổi, sau một ngày chạy xe giao hàng trong nắng nóng đột ngột méo miệng, yếu nửa người, được chẩn đoán nhồi máu não; nắng nóng làm tăng nhịp tim, thân nhiệt, mất nước, rối loạn điện giải, cô đặc máu; người có tiền sử tim mạch, rối loạn mỡ máu, huyết áp cao, lớn tuổi có nguy cơ cao; dấu hiệu: méo miệng, nói ngọng hoặc không nói được, yếu liệt tay chân một bên, thị lực giảm đột ngột; khuyến cáo hạn chế ra ngoài lúc nắng gắt nhất là 10h–15h, bổ sung nước đều đặn kể cả khi chưa khát (nước lọc, nước điện giải), tránh nước đá quá lạnh, nghỉ trong bóng râm, lau khô mồ hôi trước khi vào phòng lạnh; miền Bắc những ngày đó nhiệt độ ngoài trời 35–37 độ, có thời điểm xấp xỉ 40 độ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026): kiểm tra áp suất lốp ít nhất mỗi tháng một lần hoặc khi thấy lốp non, luôn kiểm tra khi lốp nguội (áp suất lốp nguội chỉ người lái: trước 175 kPa, sau 225 kPa); không tiếp tục đổ xăng sau khi vòi bơm tự dừng – vòi dừng để chừa khoảng trống trong bình để xăng không bị tràn ra ngoài do nhiệt độ không khí thay đổi; nổ máy tại chỗ trong thời gian dài có thể làm hỏng động cơ do làm mát và bôi trơn không đảm bảo; khi đèn báo quá nhiệt dung dịch làm mát sáng hoặc tăng tốc chậm: đưa xe vào lề, tắt máy bằng khóa điện, để động cơ nguội, kiểm tra két tản nhiệt có rò rỉ (rò rỉ thì không khởi động, mang xe đến cửa hàng Honda ủy nhiệm), kiểm tra và bổ sung dung dịch làm mát; tiếp tục lái khi động cơ quá nhiệt có thể gây hư hỏng nghiêm trọng; không chạm vào động cơ, ống xả, phanh cho đến khi nguội hẳn, không để vật dễ cháy gần chi tiết nóng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=ch%C3%A2n+ch%E1%BB%91ng",
+        "quote": "Honda Việt Nam, trang Câu hỏi thường gặp, câu về bảo quản xe để lâu (cập nhật 21/09/2021, đọc 13/10/2026): 'Quý khách không nên nổ máy tại chỗ quá lâu, đặc biệt các xe làm mát bằng không khí, sẽ có nguy cơ bị quá nhiệt gây hư hỏng động cơ.'",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026, PDF trên datafiles.chinhphu.vn (đọc 13/10/2026). Điều 33 khoản 3 điểm c: người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được sử dụng ô, thiết bị âm thanh (trừ thiết bị trợ thính).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đi xe máy trời nắng nóng"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: tránh 10h–15h, uống nước đều, nghỉ sau mỗi 2 giờ",
+      "Hà Nội nóng đến đâu: số đo trạm Láng và nhiệt độ trên mặt đường",
+      "Người lái: mất nước, say nắng, dấu hiệu đột quỵ cần dừng ngay",
+      "Mặc gì khi trời nóng mà vẫn an toàn",
+      "Xe máy ngày nắng: lốp, xăng, quá nhiệt, chỗ đỗ",
+      "Tắc đường giữa trưa: không nổ máy tại chỗ quá lâu"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/lai-xe-o-ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/bao-duong/xe-may/ap-suat-lop/",
+      "/kinh-nghiem/ao-mua-di-xe-may/",
+      "/bao-duong/xe-may-bi-chet-may-giua-duong/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.51
+        }
+      },
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.51
+        }
+      },
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.41
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.428
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00171.json",
+  "draft_template": {
+    "id": "TM-00171",
+    "url": "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+    "title": "Đi xe máy trời nắng nóng 40 độ ở Hà Nội: giờ tránh, nước uống, xe",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đi xe máy trời nắng nóng, chạy xe máy giữa trưa nắng, say nắng khi đi xe máy, xe máy quá nhiệt mùa hè, nắng nóng hà nội mấy giờ nóng nhất",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: tránh 10h–15h, uống nước đều, nghỉ sau mỗi 2 giờ",
+        "<p></p>"
+      ],
+      [
+        "Hà Nội nóng đến đâu: số đo trạm Láng và nhiệt độ trên mặt đường",
+        "<p></p>"
+      ],
+      [
+        "Người lái: mất nước, say nắng, dấu hiệu đột quỵ cần dừng ngay",
+        "<p></p>"
+      ],
+      [
+        "Mặc gì khi trời nóng mà vẫn an toàn",
+        "<p></p>"
+      ],
+      [
+        "Xe máy ngày nắng: lốp, xăng, quá nhiệt, chỗ đỗ",
+        "<p></p>"
+      ],
+      [
+        "Tắc đường giữa trưa: không nổ máy tại chỗ quá lâu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://kttv.gov.vn//upload/thoitiet/2026/6/24/dbqg_nong_20260624_1400.pdf",
+        "quote": "Trung tâm Dự báo Khí tượng Thủy văn quốc gia (Cục Khí tượng Thủy văn), Tin dự báo nắng nóng ở khu vực Bắc Bộ và Trung Bộ số NONG-38/14h00/DBQG ngày 24/6/2026 (PDF trên kttv.gov.vn, đọc 13/10/2026): ngày 24/6 đồng bằng Bắc Bộ có nắng nóng gay gắt, có nơi đặc biệt gay gắt, nhiệt độ lúc 13h phổ biến 36–39 độ, có nơi trên 39 độ như trạm Láng (Hà Nội) 39,6 độ; độ ẩm tương đối thấp nhất phổ biến 45–55%; dự báo ngày 25/6 trung du và đồng bằng Bắc Bộ nhiệt độ cao nhất 36–38 độ, có nơi trên 38 độ, thời gian nóng 10–17 giờ; cảnh báo cấp độ rủi ro thiên tai do nắng nóng cấp 1; nắng nóng có thể gây tình trạng mất nước với cơ thể người khi tiếp xúc lâu với nền nhiệt cao; 'nhiệt độ dự báo trong các bản tin nắng nóng và nhiệt độ cảm nhận thực tế ngoài trời có thể chênh lệch từ 2-4 độ, thậm chí có thể cao hơn phụ thuộc vào các điều kiện mặt đệm như bê tông, đường nhựa'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://kttv.gov.vn//upload/thoitiet/2026/4/7/dbqg_nong_20260407_1400.pdf",
+        "quote": "Trung tâm Dự báo Khí tượng Thủy văn quốc gia, Tin dự báo nắng nóng số NONG-31/14h00/DBQG ngày 07/4/2026 (PDF trên kttv.gov.vn, đọc 13/10/2026): chiều 07/4 'đồng bằng Bắc Bộ, cao nguyên Trung Bộ và Nam Bộ có nắng nóng, có nơi nắng nóng gay gắt' với nhiệt độ lúc 13h phổ biến 35–36 độ, có nơi trên 37 độ; cùng câu lưu ý nhiệt độ cảm nhận ngoài trời có thể chênh 2–4 độ hoặc hơn tùy mặt đệm bê tông, đường nhựa; cho thấy nắng nóng ở miền Bắc có thể bắt đầu từ tháng 4.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/tin-24h/luu-y-ban-nen-biet-khi-di-xe-may-trong-nhung-ngay-nang-nong-1051920.vov",
+        "quote": "VOV (VOVGT), 'Lưu ý bạn nên biết khi đi xe máy trong những ngày nắng nóng' (Diên Thành, 24/05/2020, đọc 13/10/2026): hạn chế lái xe trong khung giờ từ 11h–15h; nên nghỉ 15 phút sau mỗi 2 giờ lái xe; bổ sung nước cho cơ thể nhiều hơn bình thường; trang bị áo chống nắng tạo lớp cách nhiệt nhưng không quá rườm rà; làm chủ tốc độ, không phóng nhanh vượt ẩu; chú ý khi dừng xe trong bóng râm gần nút giao thông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/dot-quy-do-nang-nong-4923188.html",
+        "quote": "VnExpress Sức khỏe, 'Đột quỵ do nắng nóng' (Linh Đặng, 6/8/2025, nội dung với Bệnh viện Đa khoa Tâm Anh Hà Nội, ThS.BS Vũ Thị Hinh, đọc 13/10/2026): ông Hoàng, 58 tuổi, sau một ngày chạy xe giao hàng trong nắng nóng đột ngột méo miệng, yếu nửa người, được chẩn đoán nhồi máu não; nắng nóng làm tăng nhịp tim, thân nhiệt, mất nước, rối loạn điện giải, cô đặc máu; người có tiền sử tim mạch, rối loạn mỡ máu, huyết áp cao, lớn tuổi có nguy cơ cao; dấu hiệu: méo miệng, nói ngọng hoặc không nói được, yếu liệt tay chân một bên, thị lực giảm đột ngột; khuyến cáo hạn chế ra ngoài lúc nắng gắt nhất là 10h–15h, bổ sung nước đều đặn kể cả khi chưa khát (nước lọc, nước điện giải), tránh nước đá quá lạnh, nghỉ trong bóng râm, lau khô mồ hôi trước khi vào phòng lạnh; miền Bắc những ngày đó nhiệt độ ngoài trời 35–37 độ, có thời điểm xấp xỉ 40 độ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026): kiểm tra áp suất lốp ít nhất mỗi tháng một lần hoặc khi thấy lốp non, luôn kiểm tra khi lốp nguội (áp suất lốp nguội chỉ người lái: trước 175 kPa, sau 225 kPa); không tiếp tục đổ xăng sau khi vòi bơm tự dừng – vòi dừng để chừa khoảng trống trong bình để xăng không bị tràn ra ngoài do nhiệt độ không khí thay đổi; nổ máy tại chỗ trong thời gian dài có thể làm hỏng động cơ do làm mát và bôi trơn không đảm bảo; khi đèn báo quá nhiệt dung dịch làm mát sáng hoặc tăng tốc chậm: đưa xe vào lề, tắt máy bằng khóa điện, để động cơ nguội, kiểm tra két tản nhiệt có rò rỉ (rò rỉ thì không khởi động, mang xe đến cửa hàng Honda ủy nhiệm), kiểm tra và bổ sung dung dịch làm mát; tiếp tục lái khi động cơ quá nhiệt có thể gây hư hỏng nghiêm trọng; không chạm vào động cơ, ống xả, phanh cho đến khi nguội hẳn, không để vật dễ cháy gần chi tiết nóng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=ch%C3%A2n+ch%E1%BB%91ng",
+        "quote": "Honda Việt Nam, trang Câu hỏi thường gặp, câu về bảo quản xe để lâu (cập nhật 21/09/2021, đọc 13/10/2026): 'Quý khách không nên nổ máy tại chỗ quá lâu, đặc biệt các xe làm mát bằng không khí, sẽ có nguy cơ bị quá nhiệt gây hư hỏng động cơ.'",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15, Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026, PDF trên datafiles.chinhphu.vn (đọc 13/10/2026). Điều 33 khoản 3 điểm c: người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được sử dụng ô, thiết bị âm thanh (trừ thiết bị trợ thính).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00171"
+  }
+}

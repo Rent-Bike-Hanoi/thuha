@@ -1,0 +1,197 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:47:05.956744+00:00",
+  "topic": {
+    "topic_id": "TM-00163",
+    "url": "/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/",
+    "title": "Pin LFP và ắc quy chì trên xe máy điện khác gì: nặng, sạc, bảo hành",
+    "hub": "xe-dien",
+    "subtopic": "pin-sac",
+    "primary_keyword": "pin lfp xe máy điện",
+    "secondary_keywords": [
+      "pin lfp và ắc quy",
+      "pin lithium hay ắc quy xe điện",
+      "ắc quy graphene",
+      "tuổi thọ pin lfp",
+      "xe điện dùng ắc quy đi được bao xa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chọn xe máy điện ở Hà Nội thấy cùng tầm giá có xe dùng pin LFP và xe dùng ắc quy chì (kể cả ắc quy graphene) muốn biết khác nhau thế nào về quãng đường, trọng lượng, thời gian sạc, tuổi thọ và bảo hành.",
+    "information_gain": "/xe-dien/pin-sac/ là checklist nhận xe, /xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/ chỉ nói pin lithium không cần 'sạc nhồi' như ắc quy chì, /xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/ chỉ so mẫu pin lithium. Bài này đặt cạnh nhau số liệu hãng: VinFast Evo Lite Neo 5 bình ắc quy 12V-21Ah (1,26 kWh), 78 km, sạc 10 giờ; Tailg R71 ắc quy 72V22.3Ah, 60 km, sạc 6–8 giờ; so với Klara S 2022 pin LFP 3,5 kWh nặng 28 kg, 194 km, sạc 6 giờ, hơn 2000 chu kỳ còn 70%; Dat Bike LFP 4,3–6,4 kWh. Thêm khác biệt bảo hành có văn bản: VinFast pin LFP 8 năm, pin khác 3 năm; Yadea pin lithium 24 tháng, ắc quy graphene 24 tháng (18 tháng đổi mới), ắc quy Thiên Năng 16 tháng; và cách sạc khác nhau theo hãng.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-evo-lite-neo",
+        "quote": "VinFast, trang sản phẩm Evo Lite Neo (đọc 13/10/2026): loại ắc quy: 5 bình ắc quy 12V - 21Ah mắc nối tiếp; dung lượng ắc quy 1.26 kWh; thời gian sạc tiêu chuẩn: sạc 220W - 10h đạt 100%; trọng lượng 105 kg bao gồm ắc quy; quãng đường khoảng 78 km (điều kiện kiểm thử của VinFast tại 30 km/h); tốc độ tối đa 49 km/h; công suất 1200 W/1600 W.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+        "quote": "VinFast, bài thông số Klara S 2022 (24/08/2022, đọc 13/10/2026): 1 pin LFP 3,5 kWh, nặng 28 kg, đặt dưới sàn để chân (thay cho ắc quy đặt trong cốp ở Klara S đời trước, cốp tăng lên 23 L); 194 km ở 30 km/h; sạc đầy khoảng 6h với sạc 1.000 W; tuổi thọ hơn 2000 lần sạc/xả, dung lượng vẫn còn 70%; phần mềm quản lý pin BMS; pin có tính năng xác thực, xe không thể thay pin khác; không chứa Coban, Niken; pin tự tắt sau 14 ngày không dùng hoặc khi dung lượng dưới 20%.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+        "quote": "VinFast, trang Chính sách bảo hành xe máy điện (đọc 13/10/2026): xe dùng pin LFP bảo hành xe 6 năm, pin 8 năm, không giới hạn km; các dòng xe còn lại bảo hành 3 năm; pin khác (không phải LFP) bảo hành 3 năm; ắc quy 12V bảo hành 1 năm; không bảo hành tình trạng chai tự nhiên của pin/ắc quy và dung lượng giảm dần theo thời gian, cũng như phồng, nứt, cháy, nổ của pin/ắc quy do đỗ xe nơi nhiệt độ cao hoặc lắp thêm thiết bị tiêu thụ điện.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.yadea.com.vn/ho-tro-bao-hanh/",
+        "quote": "Yadea Việt Nam, trang Hỗ trợ bảo hành (cập nhật 31/07/2026, đọc 13/10/2026): xe bán sau 14/7/2023 theo gói bảo hành tiêu chuẩn: pin Lithium 48V12Ah bảo hành 24 tháng đổi mới nguyên bộ; bình ắc quy Graphene bảo hành 24 tháng, trong đó 18 tháng đầu đổi mới nguyên bình, 6 tháng tiếp theo đổi bình bảo dưỡng; bình ắc quy Thiên Năng bảo hành 16 tháng (13 tháng đầu đổi mới, 3 tháng tiếp đổi bình bảo dưỡng); từ 01/03/2025 các bản pin Lithium của Voltguard, Velax, Osta H+, Oris H, Vekoo H bảo hành toàn xe 3 năm/30.000 km; không bảo hành ắc quy cạn kiệt, chai, chết bình do để lâu không sạc định kỳ; hướng dẫn: trong 3 lần sạc đầu nên tiếp tục cắm sạc khoảng 1-2 tiếng sau khi đèn báo chuyển xanh để 'làm già ắc quy'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.tailg.net.vn/productinfo-118.html",
+        "quote": "TAILG Việt Nam, trang Paris R71 (đọc 13/10/2026): ắc-quy 72V22.3Ah, quãng đường 60 km, sạc 6-8h, trọng lượng xe 110 kg, 49 km/h. Trang FAQ (tailg.net.vn/faq.html): một nguyên nhân sạc không vào là \"Pin bị phồng do sạc quá mức\" (cách khắc phục: thay pin mới); khuyên sạc khi còn 1-2 vạch và dùng bộ sạc chính hãng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/dat-bike-quantum-s-series/",
+        "quote": "Dat Bike, bài Quantum S Series (cập nhật 09/10/2026, đọc 13/10/2026): pin LiFePO4 (LFP) 72V, 57Ah–85Ah (4,3–6,4 kWh), 200–285 km/lần sạc; hãng công bố tuổi thọ pin khoảng 245.000–350.000 km, tương đương 20–25 năm, sau đó còn khoảng 80% dung lượng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "pin lfp xe máy điện"
+      }
+    ],
+    "outline": [
+      "Nhìn thông số để biết xe dùng pin LFP hay ắc quy",
+      "Dung lượng và quãng đường: 1,26 kWh/78 km so với 3,5 kWh/194 km",
+      "Trọng lượng và vị trí đặt pin, cốp",
+      "Thời gian sạc và cách sạc khác nhau theo hãng",
+      "Tuổi thọ và bảo hành: 8 năm, 3 năm, 24 tháng, 16 tháng",
+      "Chọn loại nào theo quãng đường và ngân sách"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/pin-sac/",
+      "/xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/",
+      "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+      "/xe-dien/xe-may-dien-hay-xe-xang/",
+      "/thue-xe-dien/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00163.json",
+  "draft_template": {
+    "id": "TM-00163",
+    "url": "/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/",
+    "title": "Pin LFP và ắc quy chì trên xe máy điện khác gì: nặng, sạc, bảo hành",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "pin lfp xe máy điện, pin lfp và ắc quy, pin lithium hay ắc quy xe điện, ắc quy graphene, tuổi thọ pin lfp, xe điện dùng ắc quy đi được bao xa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhìn thông số để biết xe dùng pin LFP hay ắc quy",
+        "<p></p>"
+      ],
+      [
+        "Dung lượng và quãng đường: 1,26 kWh/78 km so với 3,5 kWh/194 km",
+        "<p></p>"
+      ],
+      [
+        "Trọng lượng và vị trí đặt pin, cốp",
+        "<p></p>"
+      ],
+      [
+        "Thời gian sạc và cách sạc khác nhau theo hãng",
+        "<p></p>"
+      ],
+      [
+        "Tuổi thọ và bảo hành: 8 năm, 3 năm, 24 tháng, 16 tháng",
+        "<p></p>"
+      ],
+      [
+        "Chọn loại nào theo quãng đường và ngân sách",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-evo-lite-neo",
+        "quote": "VinFast, trang sản phẩm Evo Lite Neo (đọc 13/10/2026): loại ắc quy: 5 bình ắc quy 12V - 21Ah mắc nối tiếp; dung lượng ắc quy 1.26 kWh; thời gian sạc tiêu chuẩn: sạc 220W - 10h đạt 100%; trọng lượng 105 kg bao gồm ắc quy; quãng đường khoảng 78 km (điều kiện kiểm thử của VinFast tại 30 km/h); tốc độ tối đa 49 km/h; công suất 1200 W/1600 W.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+        "quote": "VinFast, bài thông số Klara S 2022 (24/08/2022, đọc 13/10/2026): 1 pin LFP 3,5 kWh, nặng 28 kg, đặt dưới sàn để chân (thay cho ắc quy đặt trong cốp ở Klara S đời trước, cốp tăng lên 23 L); 194 km ở 30 km/h; sạc đầy khoảng 6h với sạc 1.000 W; tuổi thọ hơn 2000 lần sạc/xả, dung lượng vẫn còn 70%; phần mềm quản lý pin BMS; pin có tính năng xác thực, xe không thể thay pin khác; không chứa Coban, Niken; pin tự tắt sau 14 ngày không dùng hoặc khi dung lượng dưới 20%.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+        "quote": "VinFast, trang Chính sách bảo hành xe máy điện (đọc 13/10/2026): xe dùng pin LFP bảo hành xe 6 năm, pin 8 năm, không giới hạn km; các dòng xe còn lại bảo hành 3 năm; pin khác (không phải LFP) bảo hành 3 năm; ắc quy 12V bảo hành 1 năm; không bảo hành tình trạng chai tự nhiên của pin/ắc quy và dung lượng giảm dần theo thời gian, cũng như phồng, nứt, cháy, nổ của pin/ắc quy do đỗ xe nơi nhiệt độ cao hoặc lắp thêm thiết bị tiêu thụ điện.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.yadea.com.vn/ho-tro-bao-hanh/",
+        "quote": "Yadea Việt Nam, trang Hỗ trợ bảo hành (cập nhật 31/07/2026, đọc 13/10/2026): xe bán sau 14/7/2023 theo gói bảo hành tiêu chuẩn: pin Lithium 48V12Ah bảo hành 24 tháng đổi mới nguyên bộ; bình ắc quy Graphene bảo hành 24 tháng, trong đó 18 tháng đầu đổi mới nguyên bình, 6 tháng tiếp theo đổi bình bảo dưỡng; bình ắc quy Thiên Năng bảo hành 16 tháng (13 tháng đầu đổi mới, 3 tháng tiếp đổi bình bảo dưỡng); từ 01/03/2025 các bản pin Lithium của Voltguard, Velax, Osta H+, Oris H, Vekoo H bảo hành toàn xe 3 năm/30.000 km; không bảo hành ắc quy cạn kiệt, chai, chết bình do để lâu không sạc định kỳ; hướng dẫn: trong 3 lần sạc đầu nên tiếp tục cắm sạc khoảng 1-2 tiếng sau khi đèn báo chuyển xanh để 'làm già ắc quy'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.tailg.net.vn/productinfo-118.html",
+        "quote": "TAILG Việt Nam, trang Paris R71 (đọc 13/10/2026): ắc-quy 72V22.3Ah, quãng đường 60 km, sạc 6-8h, trọng lượng xe 110 kg, 49 km/h. Trang FAQ (tailg.net.vn/faq.html): một nguyên nhân sạc không vào là \"Pin bị phồng do sạc quá mức\" (cách khắc phục: thay pin mới); khuyên sạc khi còn 1-2 vạch và dùng bộ sạc chính hãng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://dat.bike/dat-bike-quantum-s-series/",
+        "quote": "Dat Bike, bài Quantum S Series (cập nhật 09/10/2026, đọc 13/10/2026): pin LiFePO4 (LFP) 72V, 57Ah–85Ah (4,3–6,4 kWh), 200–285 km/lần sạc; hãng công bố tuổi thọ pin khoảng 245.000–350.000 km, tương đương 20–25 năm, sau đó còn khoảng 80% dung lượng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00163"
+  }
+}

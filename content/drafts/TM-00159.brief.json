@@ -1,0 +1,197 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:47:05.494418+00:00",
+  "topic": {
+    "topic_id": "TM-00159",
+    "url": "/xe-dien/vinfast-theon-s/",
+    "title": "VinFast Theon S: 99 km/h, pin LFP 3,5 kWh, 150 km và giá niêm yết",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "vinfast theon s",
+    "secondary_keywords": [
+      "theon s đi được bao nhiêu km",
+      "giá vinfast theon s",
+      "theon s có cần bằng lái không",
+      "theon s thuê pin",
+      "xe máy điện vinfast cao cấp"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn một xe máy điện mạnh để đi làm xa hoặc ra ngoại thành Hà Nội tìm hiểu VinFast Theon S: tốc độ, quãng đường, thời gian sạc, giá niêm yết, còn bán không và cần bằng gì.",
+    "information_gain": "Chưa bài nào trên site nói về xe máy điện tốc độ cao: /xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/ chỉ so mẫu phổ thông, /xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/ chỉ nêu ngưỡng 50 km/h. Bài này dùng thông số chính hãng Theon S (7.100 W, 99 km/h, 0-50 km/h 4,9 giây, pin LFP 3,5 kWh 28 kg, 150 km, sạc 1000 W khoảng 6 giờ, ABS 2 kênh, cốp 24 lít), giá niêm yết 2025 (60 triệu, kèm pin 70,9 triệu), bảng giá lăn bánh VnExpress (thuê pin 63 triệu / mua pin 82,9 triệu, đời 2023), và kiểm tra ngày 13/10/2026 rằng menu VinFast không còn Theon S. Bài áp 7,1 kW vào Điều 57 Luật 36/2024: dưới 11 kW nên hạng A1 là đủ.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-theon-s",
+        "quote": "VinFast, bài \"Chi tiết thông số kỹ thuật Theon S\" (22/08/2022, đọc 13/10/2026): ra mắt 26/04/2022, bản nâng cấp của Theon (đầu 2021); công suất tối đa 7.100 W, danh định 3.500 W; động cơ Center Motor đặt giữa, truyền động xích; tốc độ tối đa 99 km/h (1 người 65 kg); 0-50 km/h 4,9 giây; IP67, ngập 0,5 m trong 30 phút; 1 pin LFP 3,5 kWh, nặng 28 kg, đặt dưới sàn để chân; sạc tiêu chuẩn khoảng 6 giờ, sạc 1000 W; quãng đường 1 lần sạc 150 km; dài x rộng x cao 1994 x 690 x 1150 mm; trục bánh 1350 mm; gầm 145 mm; yên 780 mm; cốp 24 L; lốp 100/80-16 và 120/80-16; phanh đĩa ABS 2 kênh; đèn LED Projector; PAAK (điện thoại làm chìa khóa), HMI tích hợp eSIM, khóa thông minh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/thong-bao-chinh-sach-gia-ban-cac-dong-xe-may-dien-vinfast-2025-0",
+        "quote": "VinFast, thông báo chính sách giá xe máy điện 2025 (03/01/2025, đọc 13/10/2026): VinFast Theon S giá bán niêm yết 60.000.000 VNĐ, kèm pin 70.900.000 VNĐ; hiệu lực từ 03/01/2025 cho đến khi có thông báo tiếp theo.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-theon-s-215",
+        "quote": "VnExpress, trang dữ liệu xe \"VinFast Theon S 2023\" (tít ghi 'giá lăn bánh tháng 10/2026', đọc 13/10/2026): 2 phiên bản, thuê pin 63 triệu, mua pin 82,9 triệu; dự tính lăn bánh khu vực I (Hà Nội/TP HCM) bản thuê pin 67.126.000 đồng gồm giá 63.000.000, phí trước bạ 2% 1.260.000, đăng ký biển số 2.800.000, bảo hiểm TNDS 66.000; trọng lượng khô 117 kg, ướt 145 kg (gồm 1 pin LFP); phanh đĩa ABS trước và sau; nguồn ảnh: VinFast Auto.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast, trang danh sách xe máy điện shop.vinfastauto.com (đọc 13/10/2026), menu sản phẩm: Dòng cao cấp: Vero X, Viper, Kinet; Dòng trung cấp: Feliz 2027, Feliz 2025, Feliz II, Kyo; Dòng phổ thông: Evo Grand Limited, Evo Grand Premia, Evo Grand II, Evo Lite Neo, Evo, Evo Lite, Evo Grand, Evo Grand Lite, Flazz, Flazz Max, ZGoo, Amio, Amio S, Amio S2, VF DrgnFly eBike. Menu không có Klara S/Klara S2, Theon/Theon S hay Vento S.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/dich-vu-pin-xe-may-dien",
+        "quote": "VinFast, trang \"Pin và trạm sạc xe máy điện\" (đọc 13/10/2026): chính sách thuê pin dòng pin rời cũ áp dụng cho Ludo, Impes, Klara S và Theon (bán trước ngày 16/12/2022), đặt cọc pin 1.200.000 VNĐ/pin; ghi chú \"Xe Theon chỉ áp dụng gói Tiêu chuẩn 2 pin\" (Theon đời trước, không phải Theon S 1 pin LFP).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe hai hoặc ba bánh có vận tốc thiết kế không lớn hơn 50 km/h, nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 57 khoản 1 điểm a: hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW; điểm b: hạng A cho mô tô hai bánh có công suất động cơ điện trên 11 kW. Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 3600,
+        "checked": "2026-10-13",
+        "keyword": "vinfast theon s"
+      }
+    ],
+    "outline": [
+      "Theon S là gì: bản nâng cấp Theon ra mắt 26/04/2022",
+      "Động cơ 7.100 W, 99 km/h, 0-50 km/h 4,9 giây",
+      "Pin LFP 3,5 kWh: 150 km, sạc khoảng 6 giờ",
+      "Giá niêm yết 2025 và bảng lăn bánh báo chí",
+      "Còn bán không: đối chiếu website VinFast 13/10/2026",
+      "Bằng A1, đăng ký biển số với xe điện tốc độ cao"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/xe-dien/xe-may-dien-co-can-dang-ky-bien-so-khong/",
+      "/xe-dien/xe-may-dien-hay-xe-xang/",
+      "/thue-xe-dien/ha-noi/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00159.json",
+  "draft_template": {
+    "id": "TM-00159",
+    "url": "/xe-dien/vinfast-theon-s/",
+    "title": "VinFast Theon S: 99 km/h, pin LFP 3,5 kWh, 150 km và giá niêm yết",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vinfast theon s, theon s đi được bao nhiêu km, giá vinfast theon s, theon s có cần bằng lái không, theon s thuê pin, xe máy điện vinfast cao cấp",
+    "excerpt": "",
+    "sections": [
+      [
+        "Theon S là gì: bản nâng cấp Theon ra mắt 26/04/2022",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 7.100 W, 99 km/h, 0-50 km/h 4,9 giây",
+        "<p></p>"
+      ],
+      [
+        "Pin LFP 3,5 kWh: 150 km, sạc khoảng 6 giờ",
+        "<p></p>"
+      ],
+      [
+        "Giá niêm yết 2025 và bảng lăn bánh báo chí",
+        "<p></p>"
+      ],
+      [
+        "Còn bán không: đối chiếu website VinFast 13/10/2026",
+        "<p></p>"
+      ],
+      [
+        "Bằng A1, đăng ký biển số với xe điện tốc độ cao",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-theon-s",
+        "quote": "VinFast, bài \"Chi tiết thông số kỹ thuật Theon S\" (22/08/2022, đọc 13/10/2026): ra mắt 26/04/2022, bản nâng cấp của Theon (đầu 2021); công suất tối đa 7.100 W, danh định 3.500 W; động cơ Center Motor đặt giữa, truyền động xích; tốc độ tối đa 99 km/h (1 người 65 kg); 0-50 km/h 4,9 giây; IP67, ngập 0,5 m trong 30 phút; 1 pin LFP 3,5 kWh, nặng 28 kg, đặt dưới sàn để chân; sạc tiêu chuẩn khoảng 6 giờ, sạc 1000 W; quãng đường 1 lần sạc 150 km; dài x rộng x cao 1994 x 690 x 1150 mm; trục bánh 1350 mm; gầm 145 mm; yên 780 mm; cốp 24 L; lốp 100/80-16 và 120/80-16; phanh đĩa ABS 2 kênh; đèn LED Projector; PAAK (điện thoại làm chìa khóa), HMI tích hợp eSIM, khóa thông minh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/thong-bao-chinh-sach-gia-ban-cac-dong-xe-may-dien-vinfast-2025-0",
+        "quote": "VinFast, thông báo chính sách giá xe máy điện 2025 (03/01/2025, đọc 13/10/2026): VinFast Theon S giá bán niêm yết 60.000.000 VNĐ, kèm pin 70.900.000 VNĐ; hiệu lực từ 03/01/2025 cho đến khi có thông báo tiếp theo.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/oto-xe-may/v-bike/dong-xe/vinfast-theon-s-215",
+        "quote": "VnExpress, trang dữ liệu xe \"VinFast Theon S 2023\" (tít ghi 'giá lăn bánh tháng 10/2026', đọc 13/10/2026): 2 phiên bản, thuê pin 63 triệu, mua pin 82,9 triệu; dự tính lăn bánh khu vực I (Hà Nội/TP HCM) bản thuê pin 67.126.000 đồng gồm giá 63.000.000, phí trước bạ 2% 1.260.000, đăng ký biển số 2.800.000, bảo hiểm TNDS 66.000; trọng lượng khô 117 kg, ướt 145 kg (gồm 1 pin LFP); phanh đĩa ABS trước và sau; nguồn ảnh: VinFast Auto.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast, trang danh sách xe máy điện shop.vinfastauto.com (đọc 13/10/2026), menu sản phẩm: Dòng cao cấp: Vero X, Viper, Kinet; Dòng trung cấp: Feliz 2027, Feliz 2025, Feliz II, Kyo; Dòng phổ thông: Evo Grand Limited, Evo Grand Premia, Evo Grand II, Evo Lite Neo, Evo, Evo Lite, Evo Grand, Evo Grand Lite, Flazz, Flazz Max, ZGoo, Amio, Amio S, Amio S2, VF DrgnFly eBike. Menu không có Klara S/Klara S2, Theon/Theon S hay Vento S.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/dich-vu-pin-xe-may-dien",
+        "quote": "VinFast, trang \"Pin và trạm sạc xe máy điện\" (đọc 13/10/2026): chính sách thuê pin dòng pin rời cũ áp dụng cho Ludo, Impes, Klara S và Theon (bán trước ngày 16/12/2022), đặt cọc pin 1.200.000 VNĐ/pin; ghi chú \"Xe Theon chỉ áp dụng gói Tiêu chuẩn 2 pin\" (Theon đời trước, không phải Theon S 1 pin LFP).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe hai hoặc ba bánh có vận tốc thiết kế không lớn hơn 50 km/h, nếu động cơ điện thì công suất không lớn hơn 04 kW; điểm e: xe mô tô gồm xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy. Điều 57 khoản 1 điểm a: hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc công suất động cơ điện đến 11 kW; điểm b: hạng A cho mô tô hai bánh có công suất động cơ điện trên 11 kW. Điều 59 khoản 1 điểm b: người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00159"
+  }
+}

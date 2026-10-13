@@ -1,0 +1,189 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:47:06.958592+00:00",
+  "topic": {
+    "topic_id": "TM-00172",
+    "url": "/du-lich/den-ngoc-son-va-cau-the-huc/",
+    "title": "Đền Ngọc Sơn và cầu Thê Húc: vé 50.000đ, giờ mở cửa, gửi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền ngọc sơn",
+    "secondary_keywords": [
+      "đền ngọc sơn giờ mở cửa",
+      "giá vé đền ngọc sơn",
+      "cầu thê húc",
+      "tour đêm đền ngọc sơn",
+      "đền ngọc sơn gửi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe ở Long Biên muốn ghé đền Ngọc Sơn và cầu Thê Húc ở Hồ Gươm: vé bao nhiêu, ai được miễn giảm, ngày nào miễn phí, mặc gì, gửi xe máy ra sao khi cuối tuần là phố đi bộ và tối cuối tuần có lệnh cấm xe máy thí điểm.",
+    "information_gain": "Site chưa có bài về đền Ngọc Sơn. Gần nhất là /du-lich/ha-noi/pho-co/ (đi bộ phố cổ sau khi gửi xe, không có giá vé, giờ hay quy định của đền), /du-lich/ha-noi/ (hub chung) và /thue-xe-may/hoan-kiem/ (cách nhận xe ở Hoàn Kiếm). Bài này thêm: phí 50.000đ/lượt (tăng từ 30.000đ theo nghị quyết HĐND Hà Nội thông qua 6/12/2023) và các ngày miễn phí; cầu Thê Húc là lối vào duy nhất, Tháp Bút xây năm 1865, Đài Nghiên; khuyến nghị trang phục kín đáo; tour đêm 'Ngọc Sơn – Đêm huyền bí' (2024: thứ Tư, thứ Năm, 268.000đ, ghi rõ năm); cuối tuần quanh hồ là phố đi bộ phải gửi xe bên ngoài, và lệnh thí điểm vùng phát thải thấp cấm xe máy 19h–24h thứ Sáu–Chủ nhật tại khu vực 1 (1/7–31/12/2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/tang-phi-tham-quan-nhieu-danh-lam-thang-canh-di-tich-lich-su-tai-ha-noi-140982.html",
+        "quote": "Thời báo Tài chính Việt Nam, 'Tăng phí tham quan nhiều danh lam thắng cảnh, di tích lịch sử tại Hà Nội' (Hà Anh tổng hợp, 07/12/2023): ngày 6/12, kỳ họp thứ 14 HĐND TP Hà Nội khóa XVI thông qua nghị quyết sửa Nghị quyết 06/2020/NQ-HĐND; đền Ngọc Sơn tăng từ 30.000 lên 50.000 đồng/lượt; đền Ngọc Sơn miễn phí ngày giỗ Thánh Trần (20/8 âm lịch) và mùng 1 âm lịch hằng tháng; mọi di tích miễn phí ngày Di sản văn hóa 23/11. Bài không nêu số nghị quyết và ngày hiệu lực.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolamdong.vn/den-ngoc-son-kham-pha-oc-dao-binh-yen-giua-long-ha-noi-402364.html",
+        "quote": "Báo Lâm Đồng, 'Đền Ngọc Sơn: Khám phá ốc đảo bình yên giữa lòng Hà Nội' (CTVX, 12/11/2025): địa chỉ đường Đinh Tiên Hoàng, phường Hàng Trống (cũ), Hoàn Kiếm; vé '50.000 VNĐ/người lớn. Trẻ em dưới 15 tuổi được miễn phí'; 'Cầu Thê Húc là lối đi duy nhất dẫn vào đền'; Tháp Bút 'ngọn tháp đá 5 tầng được xây dựng trên núi Ngọc Bội vào năm 1865', Đài Nghiên đặt trên lưng ba con thiềm thừ; nên mặc 'trang phục lịch sự, kín đáo'; cuối tuần quanh Hồ Hoàn Kiếm là phố đi bộ, cấm phương tiện, du khách cần 'gửi xe ở các điểm trông giữ bên ngoài và đi bộ vào'; đền thường đông mùng 1 và rằm; mùa thu, mùa xuân thời tiết dễ chịu nhất.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/mot-lan-ghe-tham-den-ngoc-son-591947.html",
+        "quote": "Hà Nội Mới, 'Một lần ghé thăm đền Ngọc Sơn' (Tùng Lâm, 28/08/2017): giờ mở cửa 'Từ 7h sáng - 18h hàng ngày'; vé khi đó 30.000đ người lớn, 15.000đ trẻ em (giá cũ trước nghị quyết 2023); khách ăn mặc chưa kín có thể mượn áo dài khoác miễn phí của ban quản lý; đền thờ Trần Hưng Đạo và Văn Xương Đế Quân; cầu Thê Húc màu đỏ son; Tháp Bút khắc chữ 'Tả Thanh Thiên', do Nguyễn Văn Siêu dựng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/khach-ha-noi-hut-hang-vi-trai-nghiem-tour-dem-den-ngoc-son-qua-chong-vanh-20240326132321461.htm",
+        "quote": "Dân trí (Phúc Anh, 27/03/2024): tour 'Ngọc Sơn - Đêm huyền bí' có ba suất 19h, 20h, 21h vào thứ Tư và thứ Năm hằng tuần; giá '268.000 đồng/người' gồm hai quà lưu niệm; thời lượng khoảng 30 phút, dự kiến kéo dài lên 45 phút từ tháng 4/2024.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ket-noi-ho-guom-thang-long-tu-tran-dau-an-moi-cho-du-lich-ha-noi-976202.html",
+        "quote": "Hà Nội Mới, 'Kết nối Hồ Gươm - Thăng Long tứ trấn' (Hoàng Quyên, 29/05/2026): Sở Du lịch Hà Nội ban hành Kế hoạch 17/KH-SDL năm 2026 cho tuyến kết nối đền Ngọc Sơn, khu vực Hồ Hoàn Kiếm và các đền Thăng Long tứ trấn; tuyến khảo sát gồm Ngọc Sơn – Hoàn Kiếm – Bạch Mã; bài không nêu giá hay lịch tour.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12; tại khu vực 1 cấm 'xe mô tô, xe gắn máy và ô tô các loại' từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an). Khu vực 1 giới hạn bởi 12 tuyến: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền, bao gồm phố đi bộ Hồ Hoàn Kiếm, phố cổ, chợ đêm. Khu vực 2 gồm 10 tuyến: Tràng Thi, Thợ Nhuộm, Hàng Bông, Phùng Hưng, Phan Đình Phùng, Hàng Đậu, Trần Nhật Duật, Trần Quang Khải, Tràng Tiền, Hàng Khay (bài không nêu quy định hạn chế cụ thể cho khu vực 2). Hà Nội bố trí 220 bãi/điểm trông giữ xe; bãi đỗ trung chuyển gồm Long Biên, Trần Khát Chân, Trần Khánh Dư, khu vực công viên Thủ Lệ. Bài không nói rõ xe máy điện có thuộc diện cấm hay không.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 27100,
+        "checked": "2026-10-13",
+        "keyword": "đền ngọc sơn"
+      }
+    ],
+    "outline": [
+      "Đền Ngọc Sơn, cầu Thê Húc ở đâu trên Hồ Gươm",
+      "Giá vé 50.000đ, miễn giảm và ngày miễn phí",
+      "Giờ mở cửa và tour đêm (ghi năm nguồn)",
+      "Trang phục và cách ứng xử trong đền",
+      "Đi xe máy từ Long Biên: phố đi bộ cuối tuần, lệnh cấm 19h–24h thứ Sáu–Chủ nhật, gửi xe",
+      "Nên đi lúc nào: tránh mùng 1, rằm",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/ha-noi/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00172.json",
+  "draft_template": {
+    "id": "TM-00172",
+    "url": "/du-lich/den-ngoc-son-va-cau-the-huc/",
+    "title": "Đền Ngọc Sơn và cầu Thê Húc: vé 50.000đ, giờ mở cửa, gửi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền ngọc sơn, đền ngọc sơn giờ mở cửa, giá vé đền ngọc sơn, cầu thê húc, tour đêm đền ngọc sơn, đền ngọc sơn gửi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Ngọc Sơn, cầu Thê Húc ở đâu trên Hồ Gươm",
+        "<p></p>"
+      ],
+      [
+        "Giá vé 50.000đ, miễn giảm và ngày miễn phí",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa và tour đêm (ghi năm nguồn)",
+        "<p></p>"
+      ],
+      [
+        "Trang phục và cách ứng xử trong đền",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên: phố đi bộ cuối tuần, lệnh cấm 19h–24h thứ Sáu–Chủ nhật, gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Nên đi lúc nào: tránh mùng 1, rằm",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/tang-phi-tham-quan-nhieu-danh-lam-thang-canh-di-tich-lich-su-tai-ha-noi-140982.html",
+        "quote": "Thời báo Tài chính Việt Nam, 'Tăng phí tham quan nhiều danh lam thắng cảnh, di tích lịch sử tại Hà Nội' (Hà Anh tổng hợp, 07/12/2023): ngày 6/12, kỳ họp thứ 14 HĐND TP Hà Nội khóa XVI thông qua nghị quyết sửa Nghị quyết 06/2020/NQ-HĐND; đền Ngọc Sơn tăng từ 30.000 lên 50.000 đồng/lượt; đền Ngọc Sơn miễn phí ngày giỗ Thánh Trần (20/8 âm lịch) và mùng 1 âm lịch hằng tháng; mọi di tích miễn phí ngày Di sản văn hóa 23/11. Bài không nêu số nghị quyết và ngày hiệu lực.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolamdong.vn/den-ngoc-son-kham-pha-oc-dao-binh-yen-giua-long-ha-noi-402364.html",
+        "quote": "Báo Lâm Đồng, 'Đền Ngọc Sơn: Khám phá ốc đảo bình yên giữa lòng Hà Nội' (CTVX, 12/11/2025): địa chỉ đường Đinh Tiên Hoàng, phường Hàng Trống (cũ), Hoàn Kiếm; vé '50.000 VNĐ/người lớn. Trẻ em dưới 15 tuổi được miễn phí'; 'Cầu Thê Húc là lối đi duy nhất dẫn vào đền'; Tháp Bút 'ngọn tháp đá 5 tầng được xây dựng trên núi Ngọc Bội vào năm 1865', Đài Nghiên đặt trên lưng ba con thiềm thừ; nên mặc 'trang phục lịch sự, kín đáo'; cuối tuần quanh Hồ Hoàn Kiếm là phố đi bộ, cấm phương tiện, du khách cần 'gửi xe ở các điểm trông giữ bên ngoài và đi bộ vào'; đền thường đông mùng 1 và rằm; mùa thu, mùa xuân thời tiết dễ chịu nhất.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/mot-lan-ghe-tham-den-ngoc-son-591947.html",
+        "quote": "Hà Nội Mới, 'Một lần ghé thăm đền Ngọc Sơn' (Tùng Lâm, 28/08/2017): giờ mở cửa 'Từ 7h sáng - 18h hàng ngày'; vé khi đó 30.000đ người lớn, 15.000đ trẻ em (giá cũ trước nghị quyết 2023); khách ăn mặc chưa kín có thể mượn áo dài khoác miễn phí của ban quản lý; đền thờ Trần Hưng Đạo và Văn Xương Đế Quân; cầu Thê Húc màu đỏ son; Tháp Bút khắc chữ 'Tả Thanh Thiên', do Nguyễn Văn Siêu dựng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/khach-ha-noi-hut-hang-vi-trai-nghiem-tour-dem-den-ngoc-son-qua-chong-vanh-20240326132321461.htm",
+        "quote": "Dân trí (Phúc Anh, 27/03/2024): tour 'Ngọc Sơn - Đêm huyền bí' có ba suất 19h, 20h, 21h vào thứ Tư và thứ Năm hằng tuần; giá '268.000 đồng/người' gồm hai quà lưu niệm; thời lượng khoảng 30 phút, dự kiến kéo dài lên 45 phút từ tháng 4/2024.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ket-noi-ho-guom-thang-long-tu-tran-dau-an-moi-cho-du-lich-ha-noi-976202.html",
+        "quote": "Hà Nội Mới, 'Kết nối Hồ Gươm - Thăng Long tứ trấn' (Hoàng Quyên, 29/05/2026): Sở Du lịch Hà Nội ban hành Kế hoạch 17/KH-SDL năm 2026 cho tuyến kết nối đền Ngọc Sơn, khu vực Hồ Hoàn Kiếm và các đền Thăng Long tứ trấn; tuyến khảo sát gồm Ngọc Sơn – Hoàn Kiếm – Bạch Mã; bài không nêu giá hay lịch tour.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/ha-noi-bat-dau-thi-diem-vung-phat-thai-thap-post860196.html",
+        "quote": "SGGP, 'Hà Nội bắt đầu thí điểm vùng phát thải thấp' (Quốc Khánh, 01/07/2026): giai đoạn 1 thí điểm từ 1/7 đến 31/12; tại khu vực 1 cấm 'xe mô tô, xe gắn máy và ô tô các loại' từ 19h đến 24h thứ Sáu, thứ Bảy, Chủ nhật (trừ xe Bộ Quốc phòng, Bộ Công an). Khu vực 1 giới hạn bởi 12 tuyến: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ, Ngô Quyền, bao gồm phố đi bộ Hồ Hoàn Kiếm, phố cổ, chợ đêm. Khu vực 2 gồm 10 tuyến: Tràng Thi, Thợ Nhuộm, Hàng Bông, Phùng Hưng, Phan Đình Phùng, Hàng Đậu, Trần Nhật Duật, Trần Quang Khải, Tràng Tiền, Hàng Khay (bài không nêu quy định hạn chế cụ thể cho khu vực 2). Hà Nội bố trí 220 bãi/điểm trông giữ xe; bãi đỗ trung chuyển gồm Long Biên, Trần Khát Chân, Trần Khánh Dư, khu vực công viên Thủ Lệ. Bài không nói rõ xe máy điện có thuộc diện cấm hay không.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00172"
+  }
+}
