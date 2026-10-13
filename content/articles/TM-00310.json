@@ -1,0 +1,99 @@
+{
+  "id": "TM-00310",
+  "url": "/xe-dien/pin-xe-may-dien-troi-lanh/",
+  "title": "Pin xe máy điện khi trời lạnh: vì sao yếu, sạc và cất xe thế nào",
+  "hub": "xe-dien",
+  "parent": "/xe-dien/",
+  "kind": "article",
+  "art": "Pin mùa lạnh",
+  "tone": "white",
+  "keywords": "pin xe máy điện trời lạnh, xe máy điện mùa đông yếu, sạc xe máy điện khi trời lạnh, nhiệt độ pin xe máy điện, pin lithium dưới 10 độ",
+  "excerpt": "Theo sách VinFast Evo Lite, khi nhiệt độ bên trong pin dưới 10°C xe tự giảm hiệu năng. Sạc ở chỗ có mái che, giữ pin 20–80%, cất xe lâu ngày ở 50–80% và 15–35°C.",
+  "sections": [
+    [
+      "Câu trả lời ngắn: pin dưới 10°C xe tự giảm hiệu năng",
+      "<p>Xe máy điện yếu đi trong những ngày rét không phải do hỏng. Đó là cơ chế bảo vệ pin. <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf\" target=\"_blank\" rel=\"noopener\">Sách hướng dẫn sử dụng VinFast Evo Lite</a> (đọc 13/10/2026), mục 5.1.1, viết: <em>“Khi nhiệt độ bên trong pin dưới 10°C, hoặc trên 45°C, hoặc dung lượng pin dưới 20%, hiệu năng của xe sẽ giảm xuống để đảm bảo an toàn của pin.”</em> <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol001-06-evo_max_vn_owner_manual_vie.pdf\" target=\"_blank\" rel=\"noopener\">Sách VinFast Evo</a> ghi cùng các ngưỡng.</p><p>Điểm dễ hiểu sai: <strong>10°C là nhiệt độ bên trong pin, không phải nhiệt độ không khí</strong>. Pin vừa chạy xong hoặc vừa để trong nhà ấm hơn trời; pin để ngoài trời qua đêm thì nguội dần theo trời. Vì vậy cùng một buổi sáng, hai xe có thể phản ứng khác nhau.</p><p>Ba việc làm ngay khi trời rét:</p><ul><li>Để xe và sạc ở chỗ có mái che, trong nhà nếu được, thay vì ngoài trời.</li><li>Giữ pin trong khoảng 20–80% khi dùng hằng ngày, tránh để xuống dưới 20%, vì dưới 20% xe cũng tự giảm hiệu năng.</li><li>Cất xe lâu ngày thì để pin 50–80% và kiểm tra hằng tháng.</li></ul><p>Các ngưỡng trong bài là của pin Lithium-ion trên VinFast Evo và Evo Lite. Xe khác, pin khác (LFP, ắc quy chì) có thông số riêng trong sách của hãng.</p>"
+    ],
+    [
+      "Vì sao pin lithium yếu khi lạnh: ngưỡng 10–35°C trong sách hãng",
+      "<p>Theo mục sạc của <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf\" target=\"_blank\" rel=\"noopener\">sách Evo Lite</a>, pin Lithium-ion <strong>hoạt động tốt nhất ở dải 10°C đến 35°C</strong>. Ra khỏi dải này theo chiều lạnh, pin cho ra công suất kém hơn và hệ thống quản lý pin (BMS) chủ động hạn chế để bảo vệ cell pin. Bạn cảm nhận được qua việc xe vọt kém, tốc độ tối đa thấp hơn và số phần trăm pin tụt nhanh hơn bình thường.</p><div class=\"table-scroll\"><table><thead><tr><th>Ngưỡng (nhiệt độ bên trong pin)</th><th>Sách VinFast Evo / Evo Lite ghi gì</th></tr></thead><tbody><tr><td>Dưới 10°C</td><td>Hiệu năng xe giảm để đảm bảo an toàn pin</td></tr><tr><td>10–35°C</td><td>Dải pin hoạt động tốt nhất</td></tr><tr><td>15–35°C</td><td>Dải nhiệt độ lưu trữ dài hạn</td></tr><tr><td>Trên 45°C</td><td>Hiệu năng giảm; không nên sạc khi pin ≥ 45°C</td></tr><tr><td>55°C</td><td>Nhiệt độ tối đa bên trong pin khi sạc; vượt ngưỡng pin từ chối sạc</td></tr></tbody></table></div><p>Hãng xe máy điện chưa công bố xe mất bao nhiêu phần trăm quãng đường khi lạnh. <a href=\"https://vnexpress.net/xe-dien-ghet-thoi-tiet-lanh-xe-hybrid-so-troi-nong-5072293.html\" target=\"_blank\" rel=\"noopener\">VnExpress</a> có dẫn một nghiên cứu của AAA, nhưng đó là thử nghiệm trên <strong>ô tô điện</strong> ở nhiệt độ âm, không phải xe máy điện và không phải điều kiện của Hà Nội, nên bài không dùng con số đó để ước tính cho xe máy. Quãng đường danh định của từng mẫu ở bài <a href=\"/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/\">xe máy điện đi được bao nhiêu km một lần sạc</a>.</p>"
+    ],
+    [
+      "Mã lỗi BMS 35 và 38: pin quá lạnh khi sạc, khi chạy",
+      "<p>Bảng mã lỗi trong <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf\" target=\"_blank\" rel=\"noopener\">sách Evo Lite</a> có hai mã liên quan trực tiếp tới trời lạnh:</p><div class=\"table-scroll\"><table><thead><tr><th>Mã</th><th>Nội dung theo sách</th><th>Khi nào hay gặp</th></tr></thead><tbody><tr><td>35</td><td>BMS bảo vệ do nhiệt độ quá thấp khi nạp</td><td>Cắm sạc khi pin còn rất lạnh</td></tr><tr><td>38</td><td>BMS bảo vệ do nhiệt độ quá thấp khi xả</td><td>Khởi hành khi pin đã nguội lâu ngoài trời</td></tr></tbody></table></div><p>Cả hai là <strong>chức năng bảo vệ</strong>, không phải báo hỏng. Cách xử lý hợp lý là đưa xe vào chỗ kín gió, ấm hơn, để pin tự ấm dần rồi thử lại; đừng hơ pin bằng lửa, máy sấy hay lò sưởi đặt sát. Nếu mã lỗi vẫn còn khi pin đã ở nơi ấm, hoặc xuất hiện cả khi trời không lạnh, mang xe tới xưởng dịch vụ của hãng.</p><p>Xe hãng khác có bảng mã riêng; số 35, 38 ở đây chỉ đúng với sách VinFast Evo Lite.</p>"
+    ],
+    [
+      "Sạc mùa lạnh: sạc ở đâu, mức 20–80%",
+      "<p>Sách Evo Lite ghi duy trì mức pin 20–80% tốt hơn cho tuổi thọ pin, và xe giảm hiệu năng khi dung lượng dưới 20%. Mùa lạnh, hai ngưỡng này cộng dồn: pin vừa lạnh vừa cạn thì xe yếu rõ nhất. Vì vậy:</p><ul><li><strong>Sạc ở chỗ có mái che</strong>, kín gió, ưu tiên trong nhà, để pin không quá lạnh lúc nạp và tránh mã lỗi 35.</li><li><strong>Đừng để pin xuống dưới 20%</strong> rồi mới sạc. Sạc bù sớm hơn vào những ngày rét.</li><li><strong>Sau khi chạy, đợi pin nguội bớt nếu pin nóng.</strong> Sách dặn không nên sạc khi nhiệt độ pin ≥ 45°C và nên đợi khoảng một giờ sau khi dùng xe. Mùa lạnh pin ít khi nóng tới mức đó, nhưng quy tắc vẫn giữ nguyên.</li><li><strong>Không cần sạc đầy 100% mỗi ngày</strong>; sạc đầy khi chuẩn bị đi xa.</li></ul><p>Chỗ cắm sạc an toàn, ổ điện, sạc qua đêm có nên không là câu hỏi khác, xem <a href=\"/xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/\">sạc xe máy điện qua đêm có an toàn không</a>. Thói quen sạc hằng ngày ở bài <a href=\"/xe-dien/pin-sac/\">pin và sạc xe máy điện</a>.</p>"
+    ],
+    [
+      "Cất xe lâu ngày mùa đông: 50–80%, 15–35°C, kiểm tra hằng tháng",
+      "<p>Nghỉ Tết, về quê, đi công tác dài ngày là lúc pin dễ hỏng nhất vì không ai để ý. <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf\" target=\"_blank\" rel=\"noopener\">Sách Evo Lite</a> quy định:</p><ul><li>Đỗ xe trên 14 ngày: sạc pin ở mức 50–80% trước khi cất.</li><li>Lưu trữ dài hạn: để pin trong dải 15°C đến 35°C.</li><li>Kiểm tra dung lượng mỗi tháng, sạc lại khi dưới 10%.</li><li>Pin còn dưới 20% thì phải sạc lại trong vòng 3 ngày.</li><li>Sạc đầy 100% ít nhất mỗi tháng một lần.</li></ul><p>Sách cũng cho biết BMS tự tắt pin khi dung lượng dưới 10% sau 1 ngày, hoặc từ 10% trở lên sau 14 ngày không tiêu thụ, không cắm sạc. Khi đó cần cắm sạc để pin hoạt động lại. Nếu về nhà thấy xe “chết hẳn”, hãy thử cắm sạc trước khi nghĩ tới hỏng hóc.</p><p>Với mùa đông, dải lưu trữ 15–35°C có nghĩa là chỗ cất nên ở trong nhà hơn là sân hay nhà xe ngoài trời. Chuyện này còn liên quan bảo hành: <a href=\"https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien\" target=\"_blank\" rel=\"noopener\">chính sách bảo hành xe máy điện của VinFast</a> không bảo hành hư hỏng pin do không tuân thủ quy định bảo quản trong thời gian không sử dụng, và không bảo hành dung lượng giảm theo thời gian vốn <em>“phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, nhiệt độ môi trường trong quá trình sử dụng”</em>.</p>"
+    ],
+    [
+      "Đi xa mùa lạnh: dự phòng quãng đường",
+      "<p>Không có con số chính thức về việc xe máy điện mất bao nhiêu km khi lạnh, nên đừng tính lộ trình sát với quãng đường danh định. Cách làm an toàn:</p><ul><li>Sạc đầy ngay trước chuyến đi, sạc trong nhà để pin ấm lúc xuất phát.</li><li>Chọn điểm sạc hoặc điểm đổi pin trên đường trước khi đi, thay vì đợi pin xuống dưới 20% rồi mới tìm.</li><li>Theo dõi phần trăm pin trong nửa đầu quãng đường; nếu tụt nhanh hơn ngày thường, rút ngắn lộ trình hoặc sạc bù sớm.</li><li>Khi dừng nghỉ lâu, đỗ xe ở chỗ kín gió.</li></ul><p>Mùa lạnh ở Hà Nội còn có những ngày sương mù, trời nồm; cách đi an toàn khi đường trơn, tầm nhìn kém ở bài <a href=\"/kinh-nghiem/di-xe-may-khi-co-suong-mu-troi-nom-o-ha-noi/\">đi xe máy khi có sương mù, trời nồm ở Hà Nội</a>. Khác biệt giữa pin LFP, pin lithium và ắc quy chì ở bài <a href=\"/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/\">pin LFP và ắc quy chì trên xe máy điện khác gì</a>. Nếu bạn thuê xe điện Tailg của cửa hàng, ngưỡng nhiệt độ và cách sạc cho xe đó, hãy hỏi cửa hàng qua số 0334 699 969.</p>"
+    ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp về pin xe máy điện khi trời lạnh",
+  "faq": [
+    [
+      "Xe máy điện mùa đông yếu có phải pin hỏng không?",
+      "Thường là không. Sách VinFast Evo Lite ghi khi nhiệt độ bên trong pin dưới 10°C, xe tự giảm hiệu năng để bảo vệ pin. Pin ấm lại thì xe chạy bình thường."
+    ],
+    [
+      "Pin lithium dưới 10 độ có sạc được không?",
+      "Sách Evo Lite có mã lỗi 35 “BMS bảo vệ do nhiệt độ quá thấp khi nạp”, nghĩa là pin quá lạnh có thể bị chặn sạc. Đưa xe vào chỗ ấm hơn rồi cắm lại."
+    ],
+    [
+      "Ngưỡng 10°C là nhiệt độ ngoài trời hay trong pin?",
+      "Trong pin. Pin vừa chạy hoặc để trong nhà ấm hơn không khí, nên trời rét chưa chắc pin đã dưới 10°C."
+    ],
+    [
+      "Các ngưỡng này có đúng với xe Tailg hay pin LFP không?",
+      "Không suy ra được. Số liệu là của pin Lithium-ion trên VinFast Evo và Evo Lite. Xe khác xem sách hãng; xe Tailg của cửa hàng thì hỏi cửa hàng."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+      "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 13/10/2026), mục 5.1.1: 'Khi nhiệt độ bên trong pin dưới 10°C, hoặc trên 45°C, hoặc dung lượng pin dưới 20%, hiệu năng của xe sẽ giảm xuống để đảm bảo an toàn của pin.' Dung lượng pin giảm dần theo thời gian do hao mòn tự nhiên.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+      "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 13/10/2026), mục sạc: pin Lithium-ion hoạt động tốt nhất ở dải 10°C đến 35°C; không nên sạc khi nhiệt độ pin ≥ 45°C, sau khi dùng xe nên đợi khoảng một giờ; nhiệt độ tối đa bên trong pin khi sạc là 55°C, vượt ngưỡng pin từ chối sạc; duy trì 20–80% tốt hơn cho tuổi thọ pin.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+      "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 13/10/2026): đỗ xe trên 14 ngày cần sạc 50–80%, kiểm tra dung lượng mỗi tháng và sạc lại khi dưới 10%; còn dưới 20% phải sạc lại trong vòng 3 ngày; sạc đầy 100% ít nhất mỗi tháng một lần; lưu trữ dài hạn để pin 50–80% trong dải 15°C đến 35°C; BMS tự tắt pin khi dung lượng < 10% sau 1 ngày hoặc ≥ 10% sau 14 ngày không tiêu thụ/không cắm sạc, cần cắm sạc để pin hoạt động lại. Bảng mã lỗi: 35 'BMS bảo vệ do nhiệt độ quá thấp khi nạp', 38 'BMS bảo vệ do nhiệt độ quá thấp khi xả'.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://static-cms-prod.vinfastauto.com/espcne9bol001-06-evo_max_vn_owner_manual_vie.pdf",
+      "quote": "VinFast, Hướng dẫn sử dụng xe máy điện VinFast Evo (ESPCNE9BOL001/06, đọc 13/10/2026): cùng các ngưỡng – hiệu năng giảm khi nhiệt độ bên trong pin dưới 10°C hoặc trên 45°C; pin hoạt động tốt nhất 10–35°C; lưu trữ dài hạn 15–35°C.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "press",
+      "source": "https://vnexpress.net/xe-dien-ghet-thoi-tiet-lanh-xe-hybrid-so-troi-nong-5072293.html",
+      "quote": "VnExpress, 'Xe điện ghét thời tiết lạnh, xe hybrid sợ trời nóng' (đọc 13/10/2026): dẫn nghiên cứu AAA trên ô tô – ở -6,7°C xe điện mất 39% phạm vi hoạt động so với điều kiện cơ bản. (Số liệu ô tô, nhiệt độ thấp hơn nhiều so với Hà Nội.)",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "official",
+      "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+      "quote": "VinFast, Chính sách bảo hành xe máy điện (đọc 13/10/2026): không bảo hành tình trạng chai tự nhiên của pin, dung lượng giảm theo thời gian 'phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, nhiệt độ môi trường trong quá trình sử dụng'; không bảo hành hư hỏng pin do không tuân thủ quy định bảo quản trong thời gian không sử dụng.",
+      "checked": "2026-10-13"
+    }
+  ],
+  "factoryVersion": 2,
+  "topic_id": "TM-00310",
+  "publishedAt": "2026-10-13T14:37:43.060952+00:00",
+  "publishedBy": "Claude Code (editor, lô 13/10 đợt 8)"
+}
