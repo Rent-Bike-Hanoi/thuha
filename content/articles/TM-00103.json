@@ -36,7 +36,7 @@
     ],
     [
       "Thuê Elite 50 ở Nguyễn Hà: giá và điều kiện",
-      "<p>Theo chủ cửa hàng (10/2026), nhóm xe 50cc của Thuê xe máy Nguyễn Hà có 3 xe: <strong>SYM Elite 50 màu xanh đen</strong>, một xe ga 50cc màu trắng và một xe Cub 50. Vì chỉ có một chiếc Elite 50, hãy gọi trước để giữ xe.</p><div class=\"table-scroll\"><table><thead><tr><th>Thời hạn</th><th>Giá thuê xe 50cc</th></tr></thead><tbody><tr><td>Ngày (24 giờ từ lúc nhận xe)</td><td>200 nghìn đồng</td></tr><tr><td>Tuần</td><td>1 triệu đồng</td></tr><tr><td>Tháng</td><td>2 triệu đồng</td></tr></tbody></table></div><ul><li><strong>Tuổi</strong>: cửa hàng nhận khách thuê xe 50cc từ 18 tuổi, cao hơn mức 16 tuổi của luật.</li><li><strong>Giấy phép</strong>: xe gắn máy dưới 50cc không yêu cầu bằng A1.</li><li><strong>Đặt cọc</strong>: 2–5 triệu đồng tùy xe và thời hạn thuê; cọc tiền thì cửa hàng không giữ giấy tờ gốc.</li><li><strong>Mũ bảo hiểm</strong> cơ bản miễn phí; trả xe với khoảng 0,5–1 lít xăng.</li></ul><p>Địa chỉ: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, gần Bến xe Gia Lâm; mở cửa 08:00–17:00 hằng ngày; điện thoại 0334 699 969. Chi tiết và cách đặt ở <a href=\"/thue-xe-50cc/ha-noi/\">thuê xe máy 50cc Hà Nội</a>.</p>"
+      "<p>Theo chủ cửa hàng (10/2026), nhóm xe 50cc của Thuê xe máy Nguyễn Hà có 3 xe: <strong>SYM Elite 50 màu xanh đen</strong>, một xe ga 50cc màu trắng và một xe Cub 50. Vì chỉ có một chiếc Elite 50, hãy gọi trước để giữ xe.</p><div class=\"table-scroll\"><table><thead><tr><th>Thời hạn</th><th>Giá thuê xe 50cc</th></tr></thead><tbody><tr><td>Ngày (24 giờ từ lúc nhận xe)</td><td>200 nghìn đồng</td></tr><tr><td>Tuần</td><td>1 triệu đồng</td></tr><tr><td>Tháng</td><td>2 triệu đồng</td></tr></tbody></table></div><ul><li><strong>Tuổi</strong>: cửa hàng nhận khách thuê xe 50cc từ 18 tuổi, cao hơn mức 16 tuổi của luật.</li><li><strong>Giấy phép</strong>: xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1.</li><li><strong>Đặt cọc</strong>: 2–5 triệu đồng tùy xe và thời hạn thuê; cọc tiền thì cửa hàng không giữ giấy tờ gốc.</li><li><strong>Mũ bảo hiểm</strong> cơ bản miễn phí; trả xe với khoảng 0,5–1 lít xăng.</li></ul><p>Địa chỉ: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, gần Bến xe Gia Lâm; mở cửa 08:00–17:00 hằng ngày; điện thoại 0334 699 969. Chi tiết và cách đặt ở <a href=\"/thue-xe-50cc/ha-noi/\">thuê xe máy 50cc Hà Nội</a>.</p>"
     ]
   ],
   "faqTitle": "Câu hỏi thường gặp về SYM Elite 50",
@@ -98,7 +98,7 @@
     {
       "type": "business-facts",
       "source": "config/business-facts.json",
-      "quote": "policies.license_50cc: xe gắn máy dưới 50cc không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
+      "quote": "policies.license_50cc: xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
       "checked": "2026-10-13"
     },
     {

@@ -28,7 +28,7 @@
     ],
     [
       "Không có bằng: chọn xe gắn máy dưới 50 cm³",
-      "<p>Khoản 4 Điều 56 Luật 36/2024 cho phép người lái <strong>xe gắn máy</strong> (dung tích đến 50 cm³ hoặc động cơ điện đến 4 kW) không cần giấy phép lái xe, chỉ cần <strong>đủ 16 tuổi</strong>, đủ sức khỏe và hiểu quy tắc giao thông. Đây là cách hợp pháp để du khách không có IDP vẫn tự đi lại trong phố: xe nhẹ, dễ điều khiển, tốc độ thiết kế thấp – xem <a href=\"/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/\">xe 50cc chạy được bao nhiêu km/h</a>. Các quy tắc khác vẫn áp dụng như xe máy: mũ bảo hiểm, nồng độ cồn, đèn, làn đường.</p><p>Tại Nguyễn Hà, nhóm xe 50cc có ba xe (SYM Elite 50, xe ga 50cc, Cub 50); theo chủ cửa hàng, xe gắn máy dưới 50cc không yêu cầu bằng A1, và cửa hàng nhận khách thuê xe 50cc từ 18 tuổi. Chi tiết: <a href=\"/thue-xe-50cc/ha-noi/\">thuê xe 50cc Hà Nội</a> và <a href=\"/luat-giao-thong/xe-50cc-co-can-bang-lai/\">xe 50cc có cần bằng lái không</a>.</p>"
+      "<p>Khoản 4 Điều 56 Luật 36/2024 cho phép người lái <strong>xe gắn máy</strong> (dung tích đến 50 cm³ hoặc động cơ điện đến 4 kW) không cần giấy phép lái xe, chỉ cần <strong>đủ 16 tuổi</strong>, đủ sức khỏe và hiểu quy tắc giao thông. Đây là cách hợp pháp để du khách không có IDP vẫn tự đi lại trong phố: xe nhẹ, dễ điều khiển, tốc độ thiết kế thấp – xem <a href=\"/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/\">xe 50cc chạy được bao nhiêu km/h</a>. Các quy tắc khác vẫn áp dụng như xe máy: mũ bảo hiểm, nồng độ cồn, đèn, làn đường.</p><p>Tại Nguyễn Hà, nhóm xe 50cc có ba xe (SYM Elite 50, xe ga 50cc, Cub 50); theo chủ cửa hàng, xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1, và cửa hàng nhận khách thuê xe 50cc từ 18 tuổi. Chi tiết: <a href=\"/thue-xe-50cc/ha-noi/\">thuê xe 50cc Hà Nội</a> và <a href=\"/luat-giao-thong/xe-50cc-co-can-bang-lai/\">xe 50cc có cần bằng lái không</a>.</p>"
     ],
     [
       "Giấy tờ khi thuê xe với hộ chiếu",
@@ -109,7 +109,7 @@
     {
       "type": "business-facts",
       "source": "config/business-facts.json",
-      "quote": "license_50cc: xe gắn máy dưới 50cc không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
+      "quote": "license_50cc: xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
       "checked": "2026-10-12"
     },
     {

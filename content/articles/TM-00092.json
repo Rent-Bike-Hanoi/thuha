@@ -32,7 +32,7 @@
     ],
     [
       "Thuê xe điện tại Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà có xe máy điện Tailg cho thuê theo tuần 600–800 nghìn, theo tháng 1,5–1,8 triệu (giá ngày tùy mẫu). Quy định tuổi của cửa hàng: xe 50 cm³ nhận khách từ 18 tuổi; các xe khác nhận khách từ 20 tuổi có giấy phép phù hợp; xe gắn máy dưới 50 cm³ không yêu cầu bằng A1 với người lái đủ 16 tuổi theo luật, nhưng cửa hàng vẫn giữ mốc 18 tuổi cho hợp đồng thuê.</p><p>Với xe điện, hãy hỏi nhân viên loại xe ghi trên giấy đăng ký. Xe là xe mô tô thì mang bằng A1 và căn cước; xe là xe gắn máy thì chỉ cần căn cước và đủ tuổi theo chính sách cửa hàng. Gọi 0334 699 969 trước để giữ đúng mẫu xe. Chi phí vận hành điện so với xăng ở bài <a href=\"/xe-dien/xe-may-dien-hay-xe-xang/\">xe máy điện hay xe xăng</a>; thủ tục thuê tại <a href=\"/thue-xe-dien/ha-noi/\">thuê xe máy điện Hà Nội</a>.</p>"
+      "<p>Thuê xe máy Nguyễn Hà có xe máy điện Tailg cho thuê theo tuần 600–800 nghìn, theo tháng 1,5–1,8 triệu (giá ngày tùy mẫu). Quy định tuổi của cửa hàng: xe 50 cm³ nhận khách từ 18 tuổi; các xe khác nhận khách từ 20 tuổi có giấy phép phù hợp; xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1 với người lái đủ 16 tuổi theo luật, nhưng cửa hàng vẫn giữ mốc 18 tuổi cho hợp đồng thuê.</p><p>Với xe điện, hãy hỏi nhân viên loại xe ghi trên giấy đăng ký. Xe là xe mô tô thì mang bằng A1 và căn cước; xe là xe gắn máy thì chỉ cần căn cước và đủ tuổi theo chính sách cửa hàng. Gọi 0334 699 969 trước để giữ đúng mẫu xe. Chi phí vận hành điện so với xăng ở bài <a href=\"/xe-dien/xe-may-dien-hay-xe-xang/\">xe máy điện hay xe xăng</a>; thủ tục thuê tại <a href=\"/thue-xe-dien/ha-noi/\">thuê xe máy điện Hà Nội</a>.</p>"
     ]
   ],
   "faqTitle": "Câu hỏi thường gặp về bằng lái xe máy điện",
@@ -124,7 +124,7 @@
     {
       "type": "business-facts",
       "source": "config/business-facts.json",
-      "quote": "policies.license_50cc: xe gắn máy dưới 50cc không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
+      "quote": "policies.license_50cc: xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
       "checked": "2026-10-12"
     },
     {
