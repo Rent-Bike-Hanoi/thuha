@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w11a",
+  "queued": "2026-10-13T15:49:46.274810+00:00",
+  "topic": {
+    "topic_id": "TM-00376",
+    "url": "/du-lich/nha-tho-bui-chu/",
+    "title": "Nhà thờ Bùi Chu mới: cung hiến 25/9/2026, tháp 39 m, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ bùi chu",
+    "secondary_keywords": [
+      "nhà thờ chính tòa bùi chu",
+      "nhà thờ bùi chu mới",
+      "nhà thờ bùi chu ở đâu",
+      "nhà thờ bùi chu khánh thành",
+      "giáo phận bùi chu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đến xem nhà thờ chính tòa Bùi Chu sau khi tái thiết cần biết nhà thờ mới đã xong chưa, khác nhà thờ cũ thế nào, nay ở xã nào và đường xe máy từ Hà Nội.",
+    "information_gain": "Site có /du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/ (nhà thờ đổ Hải Lý, Giao Thủy) và /du-lich/chua-co-le-ninh-binh/ nhưng không bài nào về nhà thờ Bùi Chu. Bài mới thêm thông tin mới nhất: nhà thờ cũ xây năm 1885 dưới thời Đức cha Onate – Thuận; khởi công tái thiết 22/8/2020 trên nền móng cũ; khánh thành và cung hiến 9h00 thứ Sáu 25/9/2026; số đo nhà thờ mới (rộng 18 m, dài 72 m, nóc 17 m, hai tháp 39 m), 26 cột cái lim cao 9,6 m, quảng trường 75 × 300 m với 12 cổng và tháp đồng hồ 28 m; địa chỉ gần trung tâm xã Xuân Trường, tỉnh Ninh Bình; đường theo QL1A về Nam Định qua chùa Cổ Lễ (VnExpress).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://gpbuichu.org/index.php/news/TIN-GIAO-PHAN-75/gioi-thieu-nha-tho-chinh-toa-moi-gp-bui-chu-20753.html",
+        "quote": "Giáo phận Bùi Chu (Ban Xây dựng), 'Giới thiệu Nhà thờ Chính toà mới, Gp. Bùi Chu' (22/09/2026, đọc 13/10/2026): nhà thờ cũ xây năm 1885 thời Đức cha Wenceslao Onate – Thuận, gạch nung vữa vôi; sau 135 năm xuống cấp; nhà thờ tọa lạc gần trung tâm xã Xuân Trường, tỉnh Ninh Bình; khởi công tái thiết ngày 22/8/2020 trên nền móng cũ (quyết định trong bối cảnh 'vẫn còn những ý kiến trái chiều'); thi công 6 năm 1 tháng; kết cấu 26 cột cái cao 9,6 m đường kính 70 cm và 30 cột phụ cao 6 m, gỗ lim Campuchia; phong cách Ba-rốc; rộng 18 m, dài 72 m, tay Thánh giá 32 m, nóc 17 m, tháp 39 m, nền cao 2,4 m; quảng trường rộng 75 m dài 300 m, 12 cổng, tượng Đức Mẹ Vô Nhiễm 4,1 m, tháp đồng hồ cao 28 m, đài tôn kính 44 thánh tử đạo Bùi Chu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hdgmvietnam.com/chi-tiet/thanh-le-khanh-thanh-va-cung-hien-nha-tho-chinh-toa-bui-chu",
+        "quote": "Hội đồng Giám mục Việt Nam (đăng tin WGPBC 25/9/2026), 'Thánh lễ Khánh thành và Cung hiến Nhà thờ Chính tòa Bùi Chu' (đọc 13/10/2026): thánh lễ khánh thành và cung hiến lúc 9h00 thứ Sáu 25/9/2026 do Đức cha Tôma, Giám mục Giáo phận Bùi Chu chủ sự; 8h45 cắt băng khánh thành; 'hàng vạn con dân' về dự; nhà thờ chính tòa mới hoàn thiện 'sau gần 10 năm vất vả'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/noel-xu-dao-bui-chu-2912361.html",
+        "quote": "VnExpress, 'Noel xứ đạo Bùi Chu' (18/12/2013, đọc 13/10/2026): xứ đạo Bùi Chu cách Hà Nội 120 km; từ Hà Nội theo quốc lộ 1A về Nam Định, đi tiếp con đường qua chùa Cổ Lễ đến Xuân Trường; giáo phận có hơn 100 nhà thờ lớn nhỏ; gần đó có nhà thờ Phú Nhai (kiến trúc Gothic), Ninh Cường, Kiên Lao, Sa Chu được tham quan nhiều.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "nhà thờ bùi chu"
+      }
+    ],
+    "notes": "Năm xây nhà thờ cũ: 1885 (Giáo phận 2026) vs 1884 (VnExpress 2013) – dùng 1885 theo giáo phận. Khoảng cách 120 km là của VnExpress 2013, đo tới 'xứ đạo Bùi Chu', không rõ điểm xuất phát – ghi 'khoảng'. Chưa có nguồn về giờ mở cửa cho khách tham quan, giờ lễ, quy định chụp ảnh/trang phục, chỗ gửi xe ngày thường – không bịa; khuyên tránh giờ lễ và hỏi phòng khách/văn phòng giáo xứ (không ghi số điện thoại). Tranh cãi hạ giải năm 2019 chỉ nhắc ngắn theo đúng câu 'ý kiến trái chiều' của giáo phận; nếu muốn chi tiết, cần đọc thêm Tuổi Trẻ/VnExpress 2019 (lô này chỉ thấy qua kết quả tìm kiếm, chưa đọc toàn văn – không dùng). Đây là nơi thờ tự đang hoạt động: không viết như khu du lịch. Cảnh báo chung: không đi xe máy vào cao tốc (Pháp Vân – Cầu Giẽ – Ninh Bình và các đường dẫn cao tốc); bật bản đồ chế độ xe máy. Lệnh cấm này KHÔNG được trích từ nguồn đọc trong lô này – writer dùng nguồn luật đã có trên site, không tự thêm mức phạt. Không có số liệu thời gian/khoảng cách cho ô tô trong các nguồn đã dùng; nếu writer gặp con số 'đi ô tô' ở trang khác thì phải ghi rõ là số liệu ô tô.",
+    "outline": [
+      "Câu trả lời ngắn: nhà thờ Bùi Chu ở đâu, đã khánh thành chưa",
+      "Từ nhà thờ 1885 đến tái thiết 2020–2026",
+      "Nhà thờ mới: số đo, cột lim, tháp chuông 39 m, quảng trường",
+      "Đến tham quan nơi thờ tự: tránh giờ lễ, trang phục, chụp ảnh",
+      "Đi xe máy từ Hà Nội: QL1A, Nam Định, qua chùa Cổ Lễ",
+      "Ghép các nhà thờ lân cận: Phú Nhai, Hải Lý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/",
+      "/du-lich/chua-co-le-ninh-binh/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00376.json",
+  "draft_template": {
+    "id": "TM-00376",
+    "url": "/du-lich/nha-tho-bui-chu/",
+    "title": "Nhà thờ Bùi Chu mới: cung hiến 25/9/2026, tháp 39 m, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ bùi chu, nhà thờ chính tòa bùi chu, nhà thờ bùi chu mới, nhà thờ bùi chu ở đâu, nhà thờ bùi chu khánh thành, giáo phận bùi chu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: nhà thờ Bùi Chu ở đâu, đã khánh thành chưa",
+        "<p></p>"
+      ],
+      [
+        "Từ nhà thờ 1885 đến tái thiết 2020–2026",
+        "<p></p>"
+      ],
+      [
+        "Nhà thờ mới: số đo, cột lim, tháp chuông 39 m, quảng trường",
+        "<p></p>"
+      ],
+      [
+        "Đến tham quan nơi thờ tự: tránh giờ lễ, trang phục, chụp ảnh",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: QL1A, Nam Định, qua chùa Cổ Lễ",
+        "<p></p>"
+      ],
+      [
+        "Ghép các nhà thờ lân cận: Phú Nhai, Hải Lý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://gpbuichu.org/index.php/news/TIN-GIAO-PHAN-75/gioi-thieu-nha-tho-chinh-toa-moi-gp-bui-chu-20753.html",
+        "quote": "Giáo phận Bùi Chu (Ban Xây dựng), 'Giới thiệu Nhà thờ Chính toà mới, Gp. Bùi Chu' (22/09/2026, đọc 13/10/2026): nhà thờ cũ xây năm 1885 thời Đức cha Wenceslao Onate – Thuận, gạch nung vữa vôi; sau 135 năm xuống cấp; nhà thờ tọa lạc gần trung tâm xã Xuân Trường, tỉnh Ninh Bình; khởi công tái thiết ngày 22/8/2020 trên nền móng cũ (quyết định trong bối cảnh 'vẫn còn những ý kiến trái chiều'); thi công 6 năm 1 tháng; kết cấu 26 cột cái cao 9,6 m đường kính 70 cm và 30 cột phụ cao 6 m, gỗ lim Campuchia; phong cách Ba-rốc; rộng 18 m, dài 72 m, tay Thánh giá 32 m, nóc 17 m, tháp 39 m, nền cao 2,4 m; quảng trường rộng 75 m dài 300 m, 12 cổng, tượng Đức Mẹ Vô Nhiễm 4,1 m, tháp đồng hồ cao 28 m, đài tôn kính 44 thánh tử đạo Bùi Chu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hdgmvietnam.com/chi-tiet/thanh-le-khanh-thanh-va-cung-hien-nha-tho-chinh-toa-bui-chu",
+        "quote": "Hội đồng Giám mục Việt Nam (đăng tin WGPBC 25/9/2026), 'Thánh lễ Khánh thành và Cung hiến Nhà thờ Chính tòa Bùi Chu' (đọc 13/10/2026): thánh lễ khánh thành và cung hiến lúc 9h00 thứ Sáu 25/9/2026 do Đức cha Tôma, Giám mục Giáo phận Bùi Chu chủ sự; 8h45 cắt băng khánh thành; 'hàng vạn con dân' về dự; nhà thờ chính tòa mới hoàn thiện 'sau gần 10 năm vất vả'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/noel-xu-dao-bui-chu-2912361.html",
+        "quote": "VnExpress, 'Noel xứ đạo Bùi Chu' (18/12/2013, đọc 13/10/2026): xứ đạo Bùi Chu cách Hà Nội 120 km; từ Hà Nội theo quốc lộ 1A về Nam Định, đi tiếp con đường qua chùa Cổ Lễ đến Xuân Trường; giáo phận có hơn 100 nhà thờ lớn nhỏ; gần đó có nhà thờ Phú Nhai (kiến trúc Gothic), Ninh Cường, Kiên Lao, Sa Chu được tham quan nhiều.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00376"
+  }
+}

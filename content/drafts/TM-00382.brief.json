@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w11b",
+  "queued": "2026-10-13T15:49:46.416598+00:00",
+  "topic": {
+    "topic_id": "TM-00382",
+    "url": "/du-lich/bien-dong-chau/",
+    "title": "Biển Đồng Châu: bãi cát 5 km, cánh đồng ngao, đi xe máy từ Hà Nội",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "biển đồng châu",
+    "secondary_keywords": [
+      "biển đồng châu thái bình",
+      "biển đồng châu hưng yên",
+      "xã đồng châu tiền hải",
+      "biển cồn vành",
+      "new đồng châu resort"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội tìm bãi biển gần, vắng để đi cuối tuần cần biết biển Đồng Châu nay thuộc tỉnh/xã nào, bãi biển có gì, mùa nào đông và có thể ghép Cồn Vành không.",
+    "information_gain": "Site chưa có bài nào về biển của Thái Bình cũ; gần nhất /du-lich/chua-keo-thai-binh/ (chùa) và /du-lich/do-son-di-xe-may-tu-ha-noi/ (biển Hải Phòng). Bài mới thêm: địa chỉ mới xã Đồng Châu (sáp nhập Đông Minh, Đông Cơ, Đông Lâm, Đông Hoàng; 30,67 km², bờ biển 10,3 km) thuộc Hưng Yên; bờ cát dài 5 km, cánh đồng ngao với chòi canh; cách TP Thái Bình cũ khoảng 30 km theo QL39B; lượng khách dịp 30/4–1/5 và 2/9/2026 (Cồn Vành hơn 30.000 lượt trong 5 ngày lễ 2/9, Đồng Châu và Cồn Tiên hàng nghìn lượt); hạ tầng còn khiêm tốn, khuyến cáo dùng phao, tắm ở khu an toàn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/net-nguyen-so-bai-bien-dong-chau-23223.html",
+        "quote": "Báo Hưng Yên (bài đăng 16/09/2020, khi còn là Báo Thái Bình; đọc 13/10/2026): bãi biển Đồng Châu thuộc xã Đông Minh, huyện Tiền Hải, tỉnh Thái Bình (cũ), cách thành phố Thái Bình 30 km theo quốc lộ 39B; bờ cát dài 5 km, sóng êm, hàng phi lao ven bờ; cánh đồng ngao với những chòi canh; quán lá ven bờ bán hải sản; khu nghỉ dưỡng New Đồng Châu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://congan.hungyen.gov.vn/cong-an-xa-dong-chau-chu-dong-trien-khai-cac-bien-phap-ung-pho-thien-tai-tim-kiem-cuu-nan-truoc-mua--c236734.html",
+        "quote": "Công an tỉnh Hưng Yên, 'Công an xã Đồng Châu chủ động triển khai các biện pháp ứng phó thiên tai...' (05/06/2026, đọc 13/10/2026): xã Đồng Châu là xã ven biển sáp nhập từ 4 xã Đông Minh, Đông Cơ, Đông Lâm, Đông Hoàng (cũ), diện tích 30,67 km², dân số 30.332, bờ biển dài 10,3 km; nguy cơ ngập úng, sạt lở, ảnh hưởng đê biển, giông lốc mùa mưa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/bai-bien-con-vanh-dong-chau-don-hang-chuc-nghin-luot-nguoi-ve-tam-bien-trong-dip-nghi-le-3194589.html",
+        "quote": "Báo Hưng Yên, 'Bãi biển Cồn Vành, Đồng Châu đón hàng chục nghìn lượt người về tắm biển trong dịp nghỉ lễ' (03/05/2026, đọc 13/10/2026): dịp 30/4–1/5, Cồn Vành (xã Hưng Phú) trung bình khoảng 10.000 lượt khách/ngày; bãi biển Đồng Châu ở xã Đồng Châu đón hàng nghìn lượt khách; khu Resort New Đồng Châu đưa vào sử dụng thêm 52 phòng; hạ tầng phục vụ còn khá khiêm tốn; đường vào Cồn Vành chiều ngày lễ rất đông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/bai-bien-con-vanh-dong-chau-don-hon-30-000-luot-du-khach-ve-tam-bien-nghi-duong-trong-dip-nghi-le-2--3198806.html",
+        "quote": "Báo Hưng Yên, 'Bãi biển Cồn Vành, Đồng Châu đón hơn 30.000 lượt du khách... dịp nghỉ lễ 2/9' (02/09/2026, đọc 13/10/2026): kỳ nghỉ 2/9 năm 2026 kéo dài 5 ngày, Cồn Vành đón hơn 30.000 lượt, cao điểm ngày 1/9 hơn 10.000 lượt; Trung tâm Xúc tiến du lịch tỉnh yêu cầu hộ kinh doanh niêm yết giá, khuyến cáo khách dùng phao tắm ở khu vực an toàn; bãi biển Đồng Châu, Cồn Tiên (xã Đồng Châu) đón hàng nghìn lượt; Resort New Đồng Châu gần 2.000 lượt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/hung-yen-san-sang-chao-don-khach-tham-gia-trai-nghiem-mua-du-lich-he-3194559.html",
+        "quote": "Báo Hưng Yên, 'Hưng Yên sẵn sàng chào đón khách tham gia trải nghiệm mùa du lịch hè' (01/05/2026, đọc 13/10/2026): Cồn Vành (xã Hưng Phú) là một phần khu dự trữ sinh quyển châu thổ sông Hồng; Sở VHTTDL yêu cầu địa phương không để du khách tiếp cận khu vực nguy hiểm hoặc chưa đủ điều kiện khai thác; Cồn Vành có 19 cơ sở kinh doanh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1300,
+        "checked": "2026-10-13",
+        "keyword": "biển đồng châu"
+      }
+    ],
+    "notes": "Chưa có nguồn đọc được về khoảng cách Hà Nội – Đồng Châu (các trang lữ hành ghi 110–120 km, không dùng), mùa tắm biển chính thức, cứu hộ, vé vào bãi, giá hải sản – không viết. Việc Thái Bình hợp nhất vào Hưng Yên: các nguồn Báo Hưng Yên/Công an Hưng Yên mặc nhiên coi Đồng Châu thuộc Hưng Yên; nghị quyết sáp nhập chưa đọc trong lô này – writer dẫn nghị quyết từ bài site đã có (vd /du-lich/chua-keo-thai-binh/ nếu có) hoặc chỉ viết 'nay thuộc tỉnh Hưng Yên theo Báo Hưng Yên'. Số liệu khách là ước tính dịp lễ của Trung tâm XTDL tỉnh – ghi rõ. Không quảng cáo resort (chỉ nêu tên như báo). QL39B từ TP Thái Bình cũ, tuyến từ Hà Nội qua Hưng Yên: writer chỉ dùng hướng có nguồn; không vào cao tốc. Cảnh báo bão, triều cường mùa mưa. Cảnh báo chung: không đi xe máy vào cao tốc (Pháp Vân – Cầu Giẽ – Ninh Bình và các đường dẫn cao tốc); bật bản đồ chế độ xe máy. Lệnh cấm này KHÔNG được trích từ nguồn đọc trong lô này – writer dùng nguồn luật đã có trên site, không tự thêm mức phạt. Không có số liệu thời gian/khoảng cách cho ô tô trong các nguồn đã dùng; nếu writer gặp con số 'đi ô tô' ở trang khác thì phải ghi rõ là số liệu ô tô.",
+    "outline": [
+      "Câu trả lời ngắn: biển Đồng Châu ở đâu, nay thuộc xã nào",
+      "Bãi biển có gì: bờ cát 5 km, phi lao, cánh đồng ngao",
+      "Mùa đông khách: số liệu lễ 30/4 và 2/9 năm 2026",
+      "Ghép Cồn Vành và chùa Keo trong chuyến 2 ngày",
+      "Đi xe máy từ Hà Nội và an toàn khi tắm biển hoang sơ",
+      "Lưu ý mùa mưa bão và hạ tầng còn hạn chế"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00382.json",
+  "draft_template": {
+    "id": "TM-00382",
+    "url": "/du-lich/bien-dong-chau/",
+    "title": "Biển Đồng Châu: bãi cát 5 km, cánh đồng ngao, đi xe máy từ Hà Nội",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "biển đồng châu, biển đồng châu thái bình, biển đồng châu hưng yên, xã đồng châu tiền hải, biển cồn vành, new đồng châu resort",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: biển Đồng Châu ở đâu, nay thuộc xã nào",
+        "<p></p>"
+      ],
+      [
+        "Bãi biển có gì: bờ cát 5 km, phi lao, cánh đồng ngao",
+        "<p></p>"
+      ],
+      [
+        "Mùa đông khách: số liệu lễ 30/4 và 2/9 năm 2026",
+        "<p></p>"
+      ],
+      [
+        "Ghép Cồn Vành và chùa Keo trong chuyến 2 ngày",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội và an toàn khi tắm biển hoang sơ",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý mùa mưa bão và hạ tầng còn hạn chế",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/net-nguyen-so-bai-bien-dong-chau-23223.html",
+        "quote": "Báo Hưng Yên (bài đăng 16/09/2020, khi còn là Báo Thái Bình; đọc 13/10/2026): bãi biển Đồng Châu thuộc xã Đông Minh, huyện Tiền Hải, tỉnh Thái Bình (cũ), cách thành phố Thái Bình 30 km theo quốc lộ 39B; bờ cát dài 5 km, sóng êm, hàng phi lao ven bờ; cánh đồng ngao với những chòi canh; quán lá ven bờ bán hải sản; khu nghỉ dưỡng New Đồng Châu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://congan.hungyen.gov.vn/cong-an-xa-dong-chau-chu-dong-trien-khai-cac-bien-phap-ung-pho-thien-tai-tim-kiem-cuu-nan-truoc-mua--c236734.html",
+        "quote": "Công an tỉnh Hưng Yên, 'Công an xã Đồng Châu chủ động triển khai các biện pháp ứng phó thiên tai...' (05/06/2026, đọc 13/10/2026): xã Đồng Châu là xã ven biển sáp nhập từ 4 xã Đông Minh, Đông Cơ, Đông Lâm, Đông Hoàng (cũ), diện tích 30,67 km², dân số 30.332, bờ biển dài 10,3 km; nguy cơ ngập úng, sạt lở, ảnh hưởng đê biển, giông lốc mùa mưa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/bai-bien-con-vanh-dong-chau-don-hang-chuc-nghin-luot-nguoi-ve-tam-bien-trong-dip-nghi-le-3194589.html",
+        "quote": "Báo Hưng Yên, 'Bãi biển Cồn Vành, Đồng Châu đón hàng chục nghìn lượt người về tắm biển trong dịp nghỉ lễ' (03/05/2026, đọc 13/10/2026): dịp 30/4–1/5, Cồn Vành (xã Hưng Phú) trung bình khoảng 10.000 lượt khách/ngày; bãi biển Đồng Châu ở xã Đồng Châu đón hàng nghìn lượt khách; khu Resort New Đồng Châu đưa vào sử dụng thêm 52 phòng; hạ tầng phục vụ còn khá khiêm tốn; đường vào Cồn Vành chiều ngày lễ rất đông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/bai-bien-con-vanh-dong-chau-don-hon-30-000-luot-du-khach-ve-tam-bien-nghi-duong-trong-dip-nghi-le-2--3198806.html",
+        "quote": "Báo Hưng Yên, 'Bãi biển Cồn Vành, Đồng Châu đón hơn 30.000 lượt du khách... dịp nghỉ lễ 2/9' (02/09/2026, đọc 13/10/2026): kỳ nghỉ 2/9 năm 2026 kéo dài 5 ngày, Cồn Vành đón hơn 30.000 lượt, cao điểm ngày 1/9 hơn 10.000 lượt; Trung tâm Xúc tiến du lịch tỉnh yêu cầu hộ kinh doanh niêm yết giá, khuyến cáo khách dùng phao tắm ở khu vực an toàn; bãi biển Đồng Châu, Cồn Tiên (xã Đồng Châu) đón hàng nghìn lượt; Resort New Đồng Châu gần 2.000 lượt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/hung-yen-san-sang-chao-don-khach-tham-gia-trai-nghiem-mua-du-lich-he-3194559.html",
+        "quote": "Báo Hưng Yên, 'Hưng Yên sẵn sàng chào đón khách tham gia trải nghiệm mùa du lịch hè' (01/05/2026, đọc 13/10/2026): Cồn Vành (xã Hưng Phú) là một phần khu dự trữ sinh quyển châu thổ sông Hồng; Sở VHTTDL yêu cầu địa phương không để du khách tiếp cận khu vực nguy hiểm hoặc chưa đủ điều kiện khai thác; Cồn Vành có 19 cơ sở kinh doanh.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00382"
+  }
+}

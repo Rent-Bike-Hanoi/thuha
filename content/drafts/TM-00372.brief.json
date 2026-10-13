@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w11a",
+  "queued": "2026-10-13T15:49:46.274498+00:00",
+  "topic": {
+    "topic_id": "TM-00372",
+    "url": "/du-lich/ngu-dong-thi-son/",
+    "title": "Ngũ Động Thi Sơn và đền Trúc: hiện không thu vé, 5 hang, hội tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ngũ động thi sơn",
+    "secondary_keywords": [
+      "đền trúc ngũ động sơn",
+      "đền trúc hà nam",
+      "lễ hội đền trúc",
+      "ngũ động thi sơn giá vé",
+      "hát dậm quyển sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội muốn đi một ngày về Kim Bảng (Hà Nam cũ) cần biết Ngũ Động Thi Sơn – đền Trúc nay thuộc phường nào, có thu vé không, xem gì trong hang và lễ hội đền Trúc diễn ra khi nào.",
+    "information_gain": "Site chưa có bài nào về điểm đến Hà Nam cũ ngoài /du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/ (chỉ chùa Tam Chúc) và bài tổng /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ (không nhắc Ngũ Động). Bài mới thêm: địa chỉ sau sáp nhập (phường Lý Thường Kiệt, tỉnh Ninh Bình), giá vé theo bảng 2026 của Sở Du lịch ('hiện tại không thu vé', mức niêm yết 30.000 đ), 5 hang liên hoàn trong núi Cấm (hai nguồn chính thức ghi gần 200 m và hơn 100 m – nêu rõ chênh lệch), lễ hội mùng 1 tháng Giêng – mùng 10 tháng Hai âm lịch (chính hội 1–6 tháng Hai), hát Dậm Quyển Sơn là di sản phi vật thể quốc gia 2019, và đường xe máy QL1 – Phủ Lý – cầu Hồng Phú – QL21 tới cầu treo Cấm Sơn, ghép với chùa Bà Đanh bên kia sông Đáy.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026' (cập nhật 27/02/2026, đọc 13/10/2026): mục 23 'Đền Trúc - Ngũ Động Thi Sơn': 'Hiện tại không thu vé' – 'Giá vé: 30.000 VNĐ'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3333",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Đền Trúc, Ngũ Động Sơn - Điểm đến linh thiêng giữa non nước Ninh Bình' (cập nhật 26/08/2025, đọc 13/10/2026): đền Trúc - Ngũ Động Sơn thuộc phường Lý Thường Kiệt, tỉnh Ninh Bình; di tích lịch sử văn hóa cấp quốc gia (1994) và điểm du lịch (2009); nằm trên quốc lộ 21A, cách Hà Nội khoảng 60 km; đền thờ Lý Thường Kiệt, làm bằng gỗ lim, kiểu chữ 'Đinh', trước cửa là sông Đáy; Ngũ Động Sơn trong lòng núi Cấm gồm 5 hang đá vôi nối liền, dài gần 200 m; có thể leo lên đỉnh núi Cấm; lễ hội từ mùng 1 tháng Giêng đến mùng 10 tháng 2 âm lịch, có đua thuyền trên sông Đáy, bơi chải, kéo co, chọi gà; hát Dậm Quyển Sơn được giới thiệu tới 16 quốc gia, vào danh mục di sản văn hóa phi vật thể quốc gia năm 2019.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3140",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Lễ hội Đền Trúc – Về miền di tích lịch sử Lý Thường Kiệt' (cập nhật 22/07/2025, đọc 13/10/2026): lễ hội tổ chức từ mùng 1 tháng Giêng đến mùng 10 tháng hai âm lịch, chính hội từ mùng 1 đến mùng 6 tháng hai âm lịch; phần lễ rước kiệu, dâng hương, tế lễ; phần hội có đấu vật, cờ người, thi nấu ăn, hát chầu văn, hát dậm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://sodulich.ninhbinh.gov.vn/vi/tai-nguyen-du-lich-van-hoa/so-du-lich-trien-khai-ra-soat-danh-gia-thuc-trang-tai-nguyen-chat-luong-dich-vu-tai-diem-du-lich-den-truc-ngu-dong-son-2427.html",
+        "quote": "Sở Du lịch Ninh Bình, 'Sở Du lịch triển khai rà soát, đánh giá thực trạng tài nguyên, chất lượng dịch vụ tại điểm du lịch Đền Trúc - Ngũ Động Sơn' (17/10/2025, đọc 13/10/2026): Ngũ Động Sơn gồm năm hang động nối liền, dài hơn 100 m; ngày 10/10/2025 Sở khảo sát điểm du lịch và chỉ ra hạn chế: dịch vụ chưa phong phú, thiếu hướng dẫn viên tại điểm; truyền thuyết Lý Thường Kiệt dừng quân năm 1069 bên sông Đáy, dạy dân múa hát Dậm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chua-ba-danh-khong-con-vang-ve-2909959.html",
+        "quote": "VnExpress, 'Chùa Bà Đanh không còn vắng vẻ' (18/11/2013, đọc 13/10/2026): từ Hà Nội đi quốc lộ 1 đến Phủ Lý, rẽ phải qua cầu Hồng Phú vào quốc lộ 21, đi khoảng 10 km tới cầu treo Cấm Sơn; từ chùa Bà Đanh quay lại cầu treo Cấm Sơn là tới quần thể đền Trúc – Ngũ Động Thi Sơn nằm ngay đối diện.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "ngũ động thi sơn"
+      }
+    ],
+    "notes": "Chênh lệch chiều dài hang: 'gần 200 m' (item/3333) vs 'hơn 100 m' (Sở Du lịch 2025) – viết 'khoảng 100–200 m tùy nguồn' và dẫn cả hai. Giá vé: bảng 2026 ghi đồng thời 'hiện tại không thu vé' và 'giá vé 30.000 VNĐ' – viết rằng hiện không thu, mức 30.000 đ là giá niêm yết, nên hỏi tại cổng. Không có nguồn về giờ mở cửa, phí gửi xe, đèn chiếu sáng trong hang – không viết (trip.com ghi 8:00–17:00, không phải nguồn chính thức, không dùng). Lộ trình VnExpress 2013 dùng tên cũ (TP Phủ Lý nay là phường Phủ Lý); khoảng cách 60 km của trang Sở là ước lượng tới Hà Nội, không rõ điểm đo. Ngày dương lịch lễ hội 2027 chưa công bố – chỉ ghi âm lịch. Cảnh báo chung: không đi xe máy vào cao tốc (Pháp Vân – Cầu Giẽ – Ninh Bình và các đường dẫn cao tốc); bật bản đồ chế độ xe máy. Lệnh cấm này KHÔNG được trích từ nguồn đọc trong lô này – writer dùng nguồn luật đã có trên site, không tự thêm mức phạt. Không có số liệu thời gian/khoảng cách cho ô tô trong các nguồn đã dùng; nếu writer gặp con số 'đi ô tô' ở trang khác thì phải ghi rõ là số liệu ô tô.",
+    "outline": [
+      "Câu trả lời ngắn: Ngũ Động Thi Sơn ở đâu, có mất vé không",
+      "Đền Trúc thờ Lý Thường Kiệt: kiến trúc và di tích quốc gia 1994",
+      "Năm hang trong núi Cấm: dài bao nhiêu, xem gì, leo đỉnh núi",
+      "Lễ hội đền Trúc và hát Dậm Quyển Sơn (tháng Giêng – tháng Hai âm lịch)",
+      "Đi xe máy từ Hà Nội: QL1, Phủ Lý, cầu Hồng Phú, QL21",
+      "Ghép chùa Bà Đanh, Tam Chúc và lưu ý an toàn trong hang"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00372.json",
+  "draft_template": {
+    "id": "TM-00372",
+    "url": "/du-lich/ngu-dong-thi-son/",
+    "title": "Ngũ Động Thi Sơn và đền Trúc: hiện không thu vé, 5 hang, hội tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ngũ động thi sơn, đền trúc ngũ động sơn, đền trúc hà nam, lễ hội đền trúc, ngũ động thi sơn giá vé, hát dậm quyển sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Ngũ Động Thi Sơn ở đâu, có mất vé không",
+        "<p></p>"
+      ],
+      [
+        "Đền Trúc thờ Lý Thường Kiệt: kiến trúc và di tích quốc gia 1994",
+        "<p></p>"
+      ],
+      [
+        "Năm hang trong núi Cấm: dài bao nhiêu, xem gì, leo đỉnh núi",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội đền Trúc và hát Dậm Quyển Sơn (tháng Giêng – tháng Hai âm lịch)",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: QL1, Phủ Lý, cầu Hồng Phú, QL21",
+        "<p></p>"
+      ],
+      [
+        "Ghép chùa Bà Đanh, Tam Chúc và lưu ý an toàn trong hang",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026' (cập nhật 27/02/2026, đọc 13/10/2026): mục 23 'Đền Trúc - Ngũ Động Thi Sơn': 'Hiện tại không thu vé' – 'Giá vé: 30.000 VNĐ'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3333",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Đền Trúc, Ngũ Động Sơn - Điểm đến linh thiêng giữa non nước Ninh Bình' (cập nhật 26/08/2025, đọc 13/10/2026): đền Trúc - Ngũ Động Sơn thuộc phường Lý Thường Kiệt, tỉnh Ninh Bình; di tích lịch sử văn hóa cấp quốc gia (1994) và điểm du lịch (2009); nằm trên quốc lộ 21A, cách Hà Nội khoảng 60 km; đền thờ Lý Thường Kiệt, làm bằng gỗ lim, kiểu chữ 'Đinh', trước cửa là sông Đáy; Ngũ Động Sơn trong lòng núi Cấm gồm 5 hang đá vôi nối liền, dài gần 200 m; có thể leo lên đỉnh núi Cấm; lễ hội từ mùng 1 tháng Giêng đến mùng 10 tháng 2 âm lịch, có đua thuyền trên sông Đáy, bơi chải, kéo co, chọi gà; hát Dậm Quyển Sơn được giới thiệu tới 16 quốc gia, vào danh mục di sản văn hóa phi vật thể quốc gia năm 2019.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3140",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Lễ hội Đền Trúc – Về miền di tích lịch sử Lý Thường Kiệt' (cập nhật 22/07/2025, đọc 13/10/2026): lễ hội tổ chức từ mùng 1 tháng Giêng đến mùng 10 tháng hai âm lịch, chính hội từ mùng 1 đến mùng 6 tháng hai âm lịch; phần lễ rước kiệu, dâng hương, tế lễ; phần hội có đấu vật, cờ người, thi nấu ăn, hát chầu văn, hát dậm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://sodulich.ninhbinh.gov.vn/vi/tai-nguyen-du-lich-van-hoa/so-du-lich-trien-khai-ra-soat-danh-gia-thuc-trang-tai-nguyen-chat-luong-dich-vu-tai-diem-du-lich-den-truc-ngu-dong-son-2427.html",
+        "quote": "Sở Du lịch Ninh Bình, 'Sở Du lịch triển khai rà soát, đánh giá thực trạng tài nguyên, chất lượng dịch vụ tại điểm du lịch Đền Trúc - Ngũ Động Sơn' (17/10/2025, đọc 13/10/2026): Ngũ Động Sơn gồm năm hang động nối liền, dài hơn 100 m; ngày 10/10/2025 Sở khảo sát điểm du lịch và chỉ ra hạn chế: dịch vụ chưa phong phú, thiếu hướng dẫn viên tại điểm; truyền thuyết Lý Thường Kiệt dừng quân năm 1069 bên sông Đáy, dạy dân múa hát Dậm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chua-ba-danh-khong-con-vang-ve-2909959.html",
+        "quote": "VnExpress, 'Chùa Bà Đanh không còn vắng vẻ' (18/11/2013, đọc 13/10/2026): từ Hà Nội đi quốc lộ 1 đến Phủ Lý, rẽ phải qua cầu Hồng Phú vào quốc lộ 21, đi khoảng 10 km tới cầu treo Cấm Sơn; từ chùa Bà Đanh quay lại cầu treo Cấm Sơn là tới quần thể đền Trúc – Ngũ Động Thi Sơn nằm ngay đối diện.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00372"
+  }
+}
