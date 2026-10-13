@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w19a",
+  "queued": "2026-10-13T23:56:41.974050+00:00",
+  "topic": {
+    "topic_id": "TM-00502",
+    "url": "/du-lich/canh-dong-muong-than/",
+    "title": "Cánh đồng Mường Than Than Uyên: mùa lúa, đi xe máy, lưu ý sau lũ 7/2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cánh đồng mường than",
+    "secondary_keywords": [
+      "mường than lai châu",
+      "than uyên mùa lúa chín",
+      "nhất thanh nhì lò tam than tứ tấc",
+      "quốc lộ 32 than uyên"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người chạy vòng Mù Cang Chải – Than Uyên – Lai Châu bằng xe máy muốn biết cánh đồng Mường Than nằm đâu trên QL32, mùa nào lúa đẹp, và đoạn đường qua xã Mường Than sau trận lũ quét tháng 7/2026 có đi được không.",
+    "information_gain": "Trang chưa có bài nào về Mường Than (Than Uyên); các bài 'Mường Thanh' (/du-lich/ham-de-castries/, /du-lich/doi-a1-dien-bien/) là cánh đồng khác ở Điện Biên. /du-lich/muong-lo-nghia-lo/ giải thích 'Nhất Thanh, nhì Lò' nhưng dừng ở Mường Lò; /du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ chỉ nhắc nối tiếp QL32 sang Than Uyên. Bài mới: vị trí cánh đồng thứ ba trong câu 'tam Than', diện tích lúa vụ Đông Xuân hơn 2.044 ha (TTXVN 2024), hai vụ gặt (Đông Xuân tháng 5, vụ mùa thu), và cập nhật an toàn QL32 sau lũ quét 17/7/2026: thông xe tạm Km354 ngày 19/7, các điểm Km356–Km362, lũ tràn lại 24/7.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-diem-den-dep-nhat-lai-chau-3384024.html",
+        "quote": "VnExpress, 'Những điểm đến đẹp nhất Lai Châu' (không hiện ngày trong bản tải, bài cũ, đọc 13/10/2026): 'Nhất Thanh, nhì Lò, tam Than, tứ Tấc' là câu nói về những cánh đồng đẹp bậc nhất Tây Bắc; cánh đồng Mường Than thuộc huyện Than Uyên, nằm trên quốc lộ 32 nối huyện Mù Cang Chải với Lai Châu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/bai-4-ghi-o-canh-dong-lon-thu-ba-tay-bac-post383553.html",
+        "quote": "Báo Lào Cai, 'Bài 4: Ghi ở cánh đồng lớn thứ ba Tây Bắc' (4/5/2024, đọc 13/10/2026): Than Uyên ở sườn Tây dãy Hoàng Liên Sơn, trong thung lũng cánh đồng Mường Than; giải thích 'nhất Thanh, nhì Lò, tam Than, tứ Tấc' (Mường Thanh – Điện Biên, Mường Lò – Yên Bái, Mường Than – Than Uyên, Lai Châu, Mường Tấc – Sơn La); hai ngả từ Lào Cai sang Than Uyên: qua Sa Pa, Tam Đường (ngã ba Bình Lư), Tân Uyên hoặc từ Văn Bàn qua đèo Khau Co; Than Uyên từng là điểm trung chuyển quân lương lên Điện Biên Phủ. Nguồn trước 2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/canh-dong-vang-muong-than-vao-mua-gat-post955366.vnp",
+        "quote": "VietnamPlus (TTXVN), phóng sự ảnh 25/5/2024, đọc 13/10/2026: cánh đồng Mường Than, huyện Than Uyên, được mệnh danh một trong bốn vựa lúa lớn của Tây Bắc, đang vào mùa gặt lúa vụ Đông Xuân; tổng số hơn 2.044 ha lúa vụ Đông Xuân của huyện, đã thu hoạch khoảng 1/4 diện tích. Nguồn trước 2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lai-chau-khac-phuc-sat-lo-thong-xe-tam-thoi-tuyen-quoc-lo-32-qua-xa-muong-than-post1125084.vnp",
+        "quote": "VietnamPlus (TTXVN), 19/7/2026, đọc 13/10/2026: khoảng 14 giờ ngày 19/7 thông xe tạm thời cho phương tiện dưới 3,5 tấn trên QL32 đoạn Km354 qua bản Che Bó, xã Mường Than; lũ cuốn bùn đất, cây cối tràn kín mặt đường khoảng 800 m; các vị trí Km356, Km357, Km359, Km361, Km362 cũng lũ quét, sạt lở, phải cắm chốt cấm người và phương tiện; CSGT khuyến cáo hạn chế di chuyển qua khu vực khi không thật cần thiết.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lu-lai-tran-ve-muong-than-5101070.html",
+        "quote": "VnExpress, 'Lũ lại tràn về Mường Than' (24/7/2026, đọc 13/10/2026): sáng 24/7 nước từ khe núi dãy Hoàng Liên Sơn tràn qua khoảng 100 m quốc lộ 32 tại Đội 11, xã Mường Than; trận lũ quét 17/7 làm xã ghi nhận 7 người chết, 1 người mất tích, khoảng 800 m QL32 bị tàn phá; mưa lớn gây sạt lở, ách tắc cục bộ QL32 đoạn Than Uyên – Mường Than; chính quyền khuyến cáo không đi qua khu vực Đội 11, không tụ tập xem lũ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "cánh đồng mường than"
+      }
+    ],
+    "notes": "Thiên tai 7/2026 có người chết: viết thận trọng, tôn trọng, không giật tít, không khuyến khích 'đi xem' vùng lũ; khuyên kiểm tra tình trạng QL32 với CSGT/Sở Xây dựng Lai Châu trước khi đi. Chưa tìm được nguồn về tình trạng QL32 qua Mường Than sau tháng 7/2026 (8–10/2026) – writer cần kiểm tra lại. Mùa lúa vụ mùa (thu) không có nguồn chính thức nêu tháng cụ thể cho Mường Than – chỉ nguồn TTXVN về vụ Đông Xuân (gặt cuối tháng 5/2024); không bịa 'tháng 9–10'. Không có số km từ Mù Cang Chải hay TP Lai Châu từ nguồn đã đọc. Tên hành chính: nguồn 2026 dùng 'xã Mường Than (Lai Châu)'; huyện Than Uyên là tên cũ.",
+    "outline": [
+      "Mường Than ở đâu: 'tam Than' trên quốc lộ 32",
+      "Hai vụ lúa: khi nào đồng vàng, khi nào đồng nước",
+      "Nối Mù Cang Chải – Than Uyên – Ô Quy Hồ thành vòng nhiều ngày",
+      "QL32 qua xã Mường Than sau lũ quét 7/2026: những gì đã biết",
+      "Đi mùa mưa: dấu hiệu nguy hiểm và khi nào nên dừng",
+      "Ứng xử khi đi qua vùng vừa chịu thiên tai"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/du-lich/deo-o-quy-ho/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/ao-mua-di-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00502.json",
+  "draft_template": {
+    "id": "TM-00502",
+    "url": "/du-lich/canh-dong-muong-than/",
+    "title": "Cánh đồng Mường Than Than Uyên: mùa lúa, đi xe máy, lưu ý sau lũ 7/2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cánh đồng mường than, mường than lai châu, than uyên mùa lúa chín, nhất thanh nhì lò tam than tứ tấc, quốc lộ 32 than uyên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Mường Than ở đâu: 'tam Than' trên quốc lộ 32",
+        "<p></p>"
+      ],
+      [
+        "Hai vụ lúa: khi nào đồng vàng, khi nào đồng nước",
+        "<p></p>"
+      ],
+      [
+        "Nối Mù Cang Chải – Than Uyên – Ô Quy Hồ thành vòng nhiều ngày",
+        "<p></p>"
+      ],
+      [
+        "QL32 qua xã Mường Than sau lũ quét 7/2026: những gì đã biết",
+        "<p></p>"
+      ],
+      [
+        "Đi mùa mưa: dấu hiệu nguy hiểm và khi nào nên dừng",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi đi qua vùng vừa chịu thiên tai",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-diem-den-dep-nhat-lai-chau-3384024.html",
+        "quote": "VnExpress, 'Những điểm đến đẹp nhất Lai Châu' (không hiện ngày trong bản tải, bài cũ, đọc 13/10/2026): 'Nhất Thanh, nhì Lò, tam Than, tứ Tấc' là câu nói về những cánh đồng đẹp bậc nhất Tây Bắc; cánh đồng Mường Than thuộc huyện Than Uyên, nằm trên quốc lộ 32 nối huyện Mù Cang Chải với Lai Châu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/bai-4-ghi-o-canh-dong-lon-thu-ba-tay-bac-post383553.html",
+        "quote": "Báo Lào Cai, 'Bài 4: Ghi ở cánh đồng lớn thứ ba Tây Bắc' (4/5/2024, đọc 13/10/2026): Than Uyên ở sườn Tây dãy Hoàng Liên Sơn, trong thung lũng cánh đồng Mường Than; giải thích 'nhất Thanh, nhì Lò, tam Than, tứ Tấc' (Mường Thanh – Điện Biên, Mường Lò – Yên Bái, Mường Than – Than Uyên, Lai Châu, Mường Tấc – Sơn La); hai ngả từ Lào Cai sang Than Uyên: qua Sa Pa, Tam Đường (ngã ba Bình Lư), Tân Uyên hoặc từ Văn Bàn qua đèo Khau Co; Than Uyên từng là điểm trung chuyển quân lương lên Điện Biên Phủ. Nguồn trước 2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/canh-dong-vang-muong-than-vao-mua-gat-post955366.vnp",
+        "quote": "VietnamPlus (TTXVN), phóng sự ảnh 25/5/2024, đọc 13/10/2026: cánh đồng Mường Than, huyện Than Uyên, được mệnh danh một trong bốn vựa lúa lớn của Tây Bắc, đang vào mùa gặt lúa vụ Đông Xuân; tổng số hơn 2.044 ha lúa vụ Đông Xuân của huyện, đã thu hoạch khoảng 1/4 diện tích. Nguồn trước 2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lai-chau-khac-phuc-sat-lo-thong-xe-tam-thoi-tuyen-quoc-lo-32-qua-xa-muong-than-post1125084.vnp",
+        "quote": "VietnamPlus (TTXVN), 19/7/2026, đọc 13/10/2026: khoảng 14 giờ ngày 19/7 thông xe tạm thời cho phương tiện dưới 3,5 tấn trên QL32 đoạn Km354 qua bản Che Bó, xã Mường Than; lũ cuốn bùn đất, cây cối tràn kín mặt đường khoảng 800 m; các vị trí Km356, Km357, Km359, Km361, Km362 cũng lũ quét, sạt lở, phải cắm chốt cấm người và phương tiện; CSGT khuyến cáo hạn chế di chuyển qua khu vực khi không thật cần thiết.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lu-lai-tran-ve-muong-than-5101070.html",
+        "quote": "VnExpress, 'Lũ lại tràn về Mường Than' (24/7/2026, đọc 13/10/2026): sáng 24/7 nước từ khe núi dãy Hoàng Liên Sơn tràn qua khoảng 100 m quốc lộ 32 tại Đội 11, xã Mường Than; trận lũ quét 17/7 làm xã ghi nhận 7 người chết, 1 người mất tích, khoảng 800 m QL32 bị tàn phá; mưa lớn gây sạt lở, ách tắc cục bộ QL32 đoạn Than Uyên – Mường Than; chính quyền khuyến cáo không đi qua khu vực Đội 11, không tụ tập xem lũ.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00502"
+  }
+}

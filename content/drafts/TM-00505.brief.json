@@ -1,0 +1,170 @@
+{
+  "writer": "writer-w19b",
+  "queued": "2026-10-13T23:56:42.131331+00:00",
+  "topic": {
+    "topic_id": "TM-00505",
+    "url": "/du-lich/lang-co-hung-lo/",
+    "title": "Làng cổ Hùng Lô Phú Thọ: đình Xốm, nhà gỗ trăm tuổi, ghép với đền Hùng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng cổ hùng lô",
+    "secondary_keywords": [
+      "đình hùng lô",
+      "hùng lô việt trì",
+      "làng cổ gần đền hùng",
+      "du lịch cộng đồng hùng lô"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi đền Hùng bằng xe máy từ Hà Nội muốn ghé thêm một điểm gần Việt Trì: làng cổ Hùng Lô cách đền bao xa, có gì xem (đình, nhà cổ, hát Xoan), nên đi dịp nào và ứng xử ra sao khi vào nhà dân.",
+    "information_gain": "Trang chưa có bài nào nhắc Hùng Lô; /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ chỉ nói khu di tích đền Hùng, /du-lich/dam-ao-chau-phu-tho/ và /du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/ ở phía Tây tỉnh. Bài mới: Hùng Lô cách đền Hùng khoảng 10 km, cách trung tâm Việt Trì khoảng 5 km; đình Hùng Lô (đình Xốm) xây thời Lê Hy Tông, hướng núi Nghĩa Lĩnh, giữ 5 cỗ kiệu sơn son thiếp vàng hơn 300 năm, 11 đạo sắc phong; khoảng 50 nhà gỗ cổ trên 100 năm là nhà dân đang ở; công nhận Điểm du lịch văn hóa cộng đồng theo Quyết định 2406/QĐ-UBND; lễ hội làng 10/3 và 12/9 âm lịch; trải nghiệm làm bánh chưng, bánh giầy, mì gạo, học hát Xoan.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/ve-phu-tho-song-tron-tung-khoanh-khac-181197.html",
+        "quote": "Báo Văn hóa, 'Về Phú Thọ, sống trọn từng khoảnh khắc' (13/11/2025, đọc 13/10/2026): làng cổ Hùng Lô cách đền Hùng khoảng 10 km, là nơi giữ hồn hát Xoan; đình cổ hơn 300 năm tuổi giữa làng lưu giữ 11 đạo sắc phong và nhiều cổ vật; du khách xem nghệ nhân hát Xoan, một số gia đình mở lớp ngắn học hát Xoan, đánh trống đình, nấu món truyền thống; thăm nhà làm bánh chưng, bánh giầy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/di-san/giu-hon-di-san-noi-lang-co-46800.html",
+        "quote": "Báo Văn hóa, 'Giữ hồn di sản nơi làng cổ' (19/4/2023, đọc 13/10/2026): từ trung tâm TP Việt Trì khoảng 10–15 phút chạy xe tới làng cổ Hùng Lô bên sông Lô; tên xưa Khả Lãm Trang, làng Xốm, An Lãm, An Lão, sau 1945 là xã Hùng Lô; đình xây từ thời vua Lê Hy Tông, hướng núi Nghĩa Lĩnh; lễ hội làng Xốm hai lần mỗi năm: Giỗ Tổ 10/3 âm lịch và lễ tiệc Thánh hóa 12/9 âm lịch, lớn nhất là rước kiệu về đền Hùng ngày Giỗ Tổ; còn khoảng 50 ngôi nhà gỗ cổ từ 100 năm tuổi trở lên. Nguồn trước 2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/phu-tho-day-manh-khai-thac-diem-du-lich-van-hoa-cong-dong-hung-lo-post415780.html",
+        "quote": "Báo Pháp Luật Việt Nam, 6/10/2021, đọc 13/10/2026: UBND tỉnh Phú Thọ ban hành Quyết định số 2406/QĐ-UBND công nhận Điểm du lịch văn hóa cộng đồng Hùng Lô; xã Hùng Lô cách trung tâm Việt Trì khoảng 5 km bên sông Lô; khu di tích Đình Xốm – Đình Hùng Lô thuộc quần thể di tích đền Hùng; đình lưu giữ 5 cỗ kiệu sơn son thiếp vàng và khí tự lễ hội hơn 300 năm; năm 1918 làng được thưởng biển 'Kỷ niệm Hùng Vương đệ nhất hội'; theo Trung tâm Xúc tiến du lịch Phú Thọ có khoảng 50 nhà gỗ cổ trên 100 năm. Nguồn trước 2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ve-phu-tho-tham-nha-co-hung-lo-post385731.html",
+        "quote": "Báo Pháp Luật Việt Nam, 19/3/2021, đọc 13/10/2026: khoảng 50 nhà gỗ cổ do chủ sở hữu đang dùng làm nhà ở, sinh hoạt hoặc nhà thờ họ; kết cấu chồng rường, 3 gian 2 chái, chạm tứ linh, tứ quý; khách giao lưu với chủ nhà, trải nghiệm làm mì gạo, bánh chưng, bánh đa, kẹo vừng. Nguồn trước 2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/goi-y-diem-den-khong-the-bo-qua-khi-toi-phu-tho-dip-gio-to-hung-vuong-2387776.html",
+        "quote": "VietNamNet, 4/4/2025, đọc 13/10/2026: làng cổ Hùng Lô cách đền Hùng khoảng 10 km, từ trung tâm Việt Trì khoảng 15 phút chạy xe; đình Hùng Lô trên diện tích 500 m², bắt đầu xây thời vua Lê Hy Tông; gần 50 nhà cổ tuổi 100–200 năm; dịp Giỗ Tổ khách đổ về Phú Thọ rất đông, nên đặt phòng sớm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "làng cổ hùng lô"
+      }
+    ],
+    "notes": "Nhà cổ là nhà dân đang ở: viết rõ xin phép trước khi vào, không có giá vé chung – không có nguồn về vé/giờ mở cửa đình, không ghi. Hát Xoan: Báo Văn hóa 2025 nói Hùng Lô 'giữ hồn hát Xoan' nhưng không nói Hùng Lô là phường Xoan gốc – không viết là phường gốc. Hành chính: nguồn 2021–2023 ghi 'xã Hùng Lô, TP Việt Trì'; nguồn 2026 (baomoi trích báo khác, chưa đọc trực tiếp) gọi 'phường Vân Phú' – writer xác minh tên mới trước khi dùng, nếu không ghi 'xã Hùng Lô (cũ)'. Quyết định 2406/QĐ-UBND chỉ có qua bài báo, không đọc văn bản gốc; năm ban hành chỉ biết qua ngày đăng bài (10/2021). Không có số km Hà Nội – Hùng Lô từ nguồn – dẫn bài đền Hùng cho lộ trình.",
+    "outline": [
+      "Hùng Lô ở đâu: cách đền Hùng khoảng 10 km bên sông Lô",
+      "Đình Hùng Lô (đình Xốm): kiệu cổ, sắc phong, lễ rước về đền Hùng",
+      "Khoảng 50 nhà gỗ trăm tuổi: xem thế nào khi đó là nhà dân",
+      "Trải nghiệm: hát Xoan, bánh chưng, bánh giầy, mì gạo",
+      "Đi dịp nào: Giỗ Tổ 10/3 và lễ 12/9 âm lịch, tránh đông",
+      "Lịch nửa ngày đền Hùng – Hùng Lô bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/dam-ao-chau-phu-tho/",
+      "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00505.json",
+  "draft_template": {
+    "id": "TM-00505",
+    "url": "/du-lich/lang-co-hung-lo/",
+    "title": "Làng cổ Hùng Lô Phú Thọ: đình Xốm, nhà gỗ trăm tuổi, ghép với đền Hùng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng cổ hùng lô, đình hùng lô, hùng lô việt trì, làng cổ gần đền hùng, du lịch cộng đồng hùng lô",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hùng Lô ở đâu: cách đền Hùng khoảng 10 km bên sông Lô",
+        "<p></p>"
+      ],
+      [
+        "Đình Hùng Lô (đình Xốm): kiệu cổ, sắc phong, lễ rước về đền Hùng",
+        "<p></p>"
+      ],
+      [
+        "Khoảng 50 nhà gỗ trăm tuổi: xem thế nào khi đó là nhà dân",
+        "<p></p>"
+      ],
+      [
+        "Trải nghiệm: hát Xoan, bánh chưng, bánh giầy, mì gạo",
+        "<p></p>"
+      ],
+      [
+        "Đi dịp nào: Giỗ Tổ 10/3 và lễ 12/9 âm lịch, tránh đông",
+        "<p></p>"
+      ],
+      [
+        "Lịch nửa ngày đền Hùng – Hùng Lô bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/ve-phu-tho-song-tron-tung-khoanh-khac-181197.html",
+        "quote": "Báo Văn hóa, 'Về Phú Thọ, sống trọn từng khoảnh khắc' (13/11/2025, đọc 13/10/2026): làng cổ Hùng Lô cách đền Hùng khoảng 10 km, là nơi giữ hồn hát Xoan; đình cổ hơn 300 năm tuổi giữa làng lưu giữ 11 đạo sắc phong và nhiều cổ vật; du khách xem nghệ nhân hát Xoan, một số gia đình mở lớp ngắn học hát Xoan, đánh trống đình, nấu món truyền thống; thăm nhà làm bánh chưng, bánh giầy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/di-san/giu-hon-di-san-noi-lang-co-46800.html",
+        "quote": "Báo Văn hóa, 'Giữ hồn di sản nơi làng cổ' (19/4/2023, đọc 13/10/2026): từ trung tâm TP Việt Trì khoảng 10–15 phút chạy xe tới làng cổ Hùng Lô bên sông Lô; tên xưa Khả Lãm Trang, làng Xốm, An Lãm, An Lão, sau 1945 là xã Hùng Lô; đình xây từ thời vua Lê Hy Tông, hướng núi Nghĩa Lĩnh; lễ hội làng Xốm hai lần mỗi năm: Giỗ Tổ 10/3 âm lịch và lễ tiệc Thánh hóa 12/9 âm lịch, lớn nhất là rước kiệu về đền Hùng ngày Giỗ Tổ; còn khoảng 50 ngôi nhà gỗ cổ từ 100 năm tuổi trở lên. Nguồn trước 2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/phu-tho-day-manh-khai-thac-diem-du-lich-van-hoa-cong-dong-hung-lo-post415780.html",
+        "quote": "Báo Pháp Luật Việt Nam, 6/10/2021, đọc 13/10/2026: UBND tỉnh Phú Thọ ban hành Quyết định số 2406/QĐ-UBND công nhận Điểm du lịch văn hóa cộng đồng Hùng Lô; xã Hùng Lô cách trung tâm Việt Trì khoảng 5 km bên sông Lô; khu di tích Đình Xốm – Đình Hùng Lô thuộc quần thể di tích đền Hùng; đình lưu giữ 5 cỗ kiệu sơn son thiếp vàng và khí tự lễ hội hơn 300 năm; năm 1918 làng được thưởng biển 'Kỷ niệm Hùng Vương đệ nhất hội'; theo Trung tâm Xúc tiến du lịch Phú Thọ có khoảng 50 nhà gỗ cổ trên 100 năm. Nguồn trước 2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ve-phu-tho-tham-nha-co-hung-lo-post385731.html",
+        "quote": "Báo Pháp Luật Việt Nam, 19/3/2021, đọc 13/10/2026: khoảng 50 nhà gỗ cổ do chủ sở hữu đang dùng làm nhà ở, sinh hoạt hoặc nhà thờ họ; kết cấu chồng rường, 3 gian 2 chái, chạm tứ linh, tứ quý; khách giao lưu với chủ nhà, trải nghiệm làm mì gạo, bánh chưng, bánh đa, kẹo vừng. Nguồn trước 2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/goi-y-diem-den-khong-the-bo-qua-khi-toi-phu-tho-dip-gio-to-hung-vuong-2387776.html",
+        "quote": "VietNamNet, 4/4/2025, đọc 13/10/2026: làng cổ Hùng Lô cách đền Hùng khoảng 10 km, từ trung tâm Việt Trì khoảng 15 phút chạy xe; đình Hùng Lô trên diện tích 500 m², bắt đầu xây thời vua Lê Hy Tông; gần 50 nhà cổ tuổi 100–200 năm; dịp Giỗ Tổ khách đổ về Phú Thọ rất đông, nên đặt phòng sớm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00505"
+  }
+}

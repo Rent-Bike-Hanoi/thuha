@@ -1,0 +1,185 @@
+{
+  "writer": "writer-w19a",
+  "queued": "2026-10-13T23:56:41.972662+00:00",
+  "topic": {
+    "topic_id": "TM-00498",
+    "url": "/du-lich/thung-lung-tu-le/",
+    "title": "Thung lũng Tú Lệ: nếp Tan, cốm mùa thu, tắm khoáng, đi xe máy QL32",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thung lũng tú lệ",
+    "secondary_keywords": [
+      "tú lệ lào cai",
+      "cốm tú lệ",
+      "lễ hội cốm tú lệ",
+      "tắm khoáng nóng tú lệ",
+      "đi tú lệ bằng xe máy"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người thuê xe máy ở Hà Nội đi Mù Cang Chải muốn biết có nên nghỉ một đêm ở Tú Lệ không: ở đâu, ăn cốm, tắm khoáng thế nào, mùa nào đẹp và đoạn QL32 qua xã có sạt lở không.",
+    "information_gain": "Tú Lệ hiện chỉ là điểm đi qua trong /du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ (một dòng 'ăn sáng, mua cốm'), /du-lich/muong-lo-nghia-lo/ và /du-lich/suoi-khoang-nong-tram-tau/. Bài mới coi Tú Lệ là điểm nghỉ đêm: thung lũng giữa ba núi Khau Phạ, Khau Thán, Khau Song; nếp Tan và mùa cốm tháng 9–10; Lễ hội Cốm 22–23/8/2026 tại thôn Nước Nóng; 3 điểm khoáng nóng lộ thiên và vướng mắc cấp phép 2026; số cơ sở lưu trú sau hợp nhất xã; điểm sạt lở Km265+900 QL32 ngày 15/9/2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tu-le-da-dang-san-pham-du-lich-post649709.html",
+        "quote": "Báo Lào Cai, 'Tú Lệ đa dạng sản phẩm du lịch' (26/7/2025, đọc 13/10/2026): sau hợp nhất hai xã Cao Phạ và Tú Lệ, xã Tú Lệ (mới) có du lịch cộng đồng, nghỉ dưỡng, khoáng nóng, dù lượn; có đèo Khau Phạ 'một trong Tứ đại đỉnh đèo', thung lũng Lìm Mông 360 ha, suối khoáng nóng; xã có 32 cơ sở lưu trú, trong đó 27 homestay, khách sạn đủ điều kiện hoạt động, 5 cơ sở đang hoàn thiện hồ sơ; hằng năm đón khoảng 200.000 lượt khách; trải nghiệm giã cốm, bánh chưng từ gạo nếp Tan bản địa; bản Tà Sung có homestay nhà sàn Thái; khu cắm trại 13 điểm ở bản Tà Dông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lao-cai-sap-to-chuc-le-hoi-com-huong-sac-mua-thu-tu-le-nam-2026-post1127248.vnp",
+        "quote": "VietnamPlus (TTXVN), 31/7/2026, đọc 13/10/2026: UBND xã Tú Lệ ban hành kế hoạch Lễ hội Cốm 'Hương sắc mùa thu Tú Lệ' năm 2026, diễn ra hai ngày 22 và 23/8 tại khuôn viên Lechamp, thôn Nước Nóng; trưng bày cốm và sản phẩm OCOP, trình diễn trang phục dân tộc, chợ đêm ẩm thực, phiên chợ nông sản; trải nghiệm quy trình làm cốm nếp tan tại thôn Nà Lóng; lễ hội là hoạt động thường niên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/co-gai-ha-noi-ngo-ngang-khi-den-tu-le-ngam-sao-tam-khoang-giua-dai-ngan-post879953.html",
+        "quote": "Báo Lào Cai, 19/8/2025, đọc 13/10/2026: thung lũng Tú Lệ như 'lòng chảo' giữa ba ngọn núi Khau Phạ, Khau Thán và Khau Song; ruộng bậc thang đẹp nhất từ cuối tháng 7 đến tháng 10; mùa cốm khoảng tháng 9–10; từ Hà Nội theo quốc lộ 32 khoảng 280 km; homestay, resort giá phòng từ 500.000 đồng trở lên một đêm; đường đèo có sương mù sáng sớm, nên tránh khởi hành quá trễ, mang áo ấm cả mùa hè.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khai-thac-ben-vung-tai-nguyen-nuoc-khoang-nong-post902631.html",
+        "quote": "Báo Lào Cai, 'Khai thác bền vững tài nguyên nước khoáng nóng' (27/6/2026, đọc 13/10/2026): tại xã Tú Lệ có 3 điểm nước khoáng nóng lộ thiên với 11 đơn vị, hộ dân đang khai thác phục vụ kinh doanh du lịch; việc khai thác ở các xã phía Tây tỉnh vướng quy hoạch và thủ tục cấp phép; ở thôn Suối Khoáng, xã Văn Chấn, một số hộ, hợp tác xã đã phải dừng khai thác, đóng bể theo yêu cầu của UBND xã.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khoang-nong-lam-nong-thi-truong-du-lich-post884354.html",
+        "quote": "Báo Lào Cai, 13/10/2025, đọc 13/10/2026: nước khoáng tự nhiên ấm 35–45°C ở các xã Văn Chấn, Hạnh Phúc, Tú Lệ; thu, đông, xuân là thời điểm lý tưởng tắm khoáng; 9 tháng năm 2025 xã Tú Lệ đón trên 62.780 lượt khách, doanh thu trên 12,5 tỷ đồng; người dân bán xôi nếp Tú Lệ, rượu thóc, mật ong.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/mua-lon-gay-sat-lo-nhieu-tuyen-duong-tai-lao-cai-post1136383.vnp",
+        "quote": "VietnamPlus (TTXVN), 15/9/2026, đọc 13/10/2026: mưa lớn đêm 14 đến ngày 15/9 gây sạt lở taluy dương và tắc đường tại Km265+900 Quốc lộ 32 thuộc xã Tú Lệ; đến 16 giờ cùng ngày đã thông xe; QL32 ghi nhận sạt taluy dương tại 6 vị trí với trên 755 m³ và một vị trí sạt taluy âm dài khoảng 10 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "thung lũng tú lệ"
+      }
+    ],
+    "notes": "Tú Lệ nay là xã Tú Lệ, tỉnh Lào Cai (sau hợp nhất xã Cao Phạ và Tú Lệ cũ; trước 7/2025 thuộc huyện Văn Chấn, Yên Bái cũ). Khoảng cách 280 km là con số báo nêu, không phải đo; route article ghi Hà Nội – Mù Cang Chải gần 300 km. Lễ hội Cốm 2026 đã diễn ra 22–23/8, viết như sự kiện thường niên, không hứa lịch 2027. Giá phòng '500.000 đồng trở lên' từ bài 8/2025; giá tắm khoáng không có nguồn – không ghi. Điểm khoáng nóng đang vướng cấp phép (6/2026): khuyên hỏi cơ sở trước, không khẳng định cơ sở nào được phép. Không tìm được trang chính thức laocai.gov.vn trực tiếp (VietnamPlus dẫn ảnh Cổng TTĐT tỉnh). Dù lượn: chỉ nhắc có hoạt động, không ghi giá/lịch.",
+    "outline": [
+      "Tú Lệ ở đâu trên quốc lộ 32 và có nên nghỉ một đêm",
+      "Mùa đẹp: lúa từ cuối tháng 7, cốm nếp Tan tháng 9–10",
+      "Lễ hội Cốm 'Hương sắc mùa thu Tú Lệ' và trải nghiệm ở Nà Lóng",
+      "Tắm khoáng nóng: 3 điểm lộ thiên, hỏi gì trước khi tắm",
+      "Ngủ ở đâu: homestay bản Tà Sung, thôn Nước Nóng",
+      "Đoạn QL32 qua Tú Lệ: sạt lở 15/9/2026, sương mù, đi giờ nào"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/du-lich/suoi-khoang-nong-tram-tau/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00498.json",
+  "draft_template": {
+    "id": "TM-00498",
+    "url": "/du-lich/thung-lung-tu-le/",
+    "title": "Thung lũng Tú Lệ: nếp Tan, cốm mùa thu, tắm khoáng, đi xe máy QL32",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thung lũng tú lệ, tú lệ lào cai, cốm tú lệ, lễ hội cốm tú lệ, tắm khoáng nóng tú lệ, đi tú lệ bằng xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tú Lệ ở đâu trên quốc lộ 32 và có nên nghỉ một đêm",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp: lúa từ cuối tháng 7, cốm nếp Tan tháng 9–10",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Cốm 'Hương sắc mùa thu Tú Lệ' và trải nghiệm ở Nà Lóng",
+        "<p></p>"
+      ],
+      [
+        "Tắm khoáng nóng: 3 điểm lộ thiên, hỏi gì trước khi tắm",
+        "<p></p>"
+      ],
+      [
+        "Ngủ ở đâu: homestay bản Tà Sung, thôn Nước Nóng",
+        "<p></p>"
+      ],
+      [
+        "Đoạn QL32 qua Tú Lệ: sạt lở 15/9/2026, sương mù, đi giờ nào",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tu-le-da-dang-san-pham-du-lich-post649709.html",
+        "quote": "Báo Lào Cai, 'Tú Lệ đa dạng sản phẩm du lịch' (26/7/2025, đọc 13/10/2026): sau hợp nhất hai xã Cao Phạ và Tú Lệ, xã Tú Lệ (mới) có du lịch cộng đồng, nghỉ dưỡng, khoáng nóng, dù lượn; có đèo Khau Phạ 'một trong Tứ đại đỉnh đèo', thung lũng Lìm Mông 360 ha, suối khoáng nóng; xã có 32 cơ sở lưu trú, trong đó 27 homestay, khách sạn đủ điều kiện hoạt động, 5 cơ sở đang hoàn thiện hồ sơ; hằng năm đón khoảng 200.000 lượt khách; trải nghiệm giã cốm, bánh chưng từ gạo nếp Tan bản địa; bản Tà Sung có homestay nhà sàn Thái; khu cắm trại 13 điểm ở bản Tà Dông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lao-cai-sap-to-chuc-le-hoi-com-huong-sac-mua-thu-tu-le-nam-2026-post1127248.vnp",
+        "quote": "VietnamPlus (TTXVN), 31/7/2026, đọc 13/10/2026: UBND xã Tú Lệ ban hành kế hoạch Lễ hội Cốm 'Hương sắc mùa thu Tú Lệ' năm 2026, diễn ra hai ngày 22 và 23/8 tại khuôn viên Lechamp, thôn Nước Nóng; trưng bày cốm và sản phẩm OCOP, trình diễn trang phục dân tộc, chợ đêm ẩm thực, phiên chợ nông sản; trải nghiệm quy trình làm cốm nếp tan tại thôn Nà Lóng; lễ hội là hoạt động thường niên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/co-gai-ha-noi-ngo-ngang-khi-den-tu-le-ngam-sao-tam-khoang-giua-dai-ngan-post879953.html",
+        "quote": "Báo Lào Cai, 19/8/2025, đọc 13/10/2026: thung lũng Tú Lệ như 'lòng chảo' giữa ba ngọn núi Khau Phạ, Khau Thán và Khau Song; ruộng bậc thang đẹp nhất từ cuối tháng 7 đến tháng 10; mùa cốm khoảng tháng 9–10; từ Hà Nội theo quốc lộ 32 khoảng 280 km; homestay, resort giá phòng từ 500.000 đồng trở lên một đêm; đường đèo có sương mù sáng sớm, nên tránh khởi hành quá trễ, mang áo ấm cả mùa hè.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khai-thac-ben-vung-tai-nguyen-nuoc-khoang-nong-post902631.html",
+        "quote": "Báo Lào Cai, 'Khai thác bền vững tài nguyên nước khoáng nóng' (27/6/2026, đọc 13/10/2026): tại xã Tú Lệ có 3 điểm nước khoáng nóng lộ thiên với 11 đơn vị, hộ dân đang khai thác phục vụ kinh doanh du lịch; việc khai thác ở các xã phía Tây tỉnh vướng quy hoạch và thủ tục cấp phép; ở thôn Suối Khoáng, xã Văn Chấn, một số hộ, hợp tác xã đã phải dừng khai thác, đóng bể theo yêu cầu của UBND xã.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khoang-nong-lam-nong-thi-truong-du-lich-post884354.html",
+        "quote": "Báo Lào Cai, 13/10/2025, đọc 13/10/2026: nước khoáng tự nhiên ấm 35–45°C ở các xã Văn Chấn, Hạnh Phúc, Tú Lệ; thu, đông, xuân là thời điểm lý tưởng tắm khoáng; 9 tháng năm 2025 xã Tú Lệ đón trên 62.780 lượt khách, doanh thu trên 12,5 tỷ đồng; người dân bán xôi nếp Tú Lệ, rượu thóc, mật ong.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/mua-lon-gay-sat-lo-nhieu-tuyen-duong-tai-lao-cai-post1136383.vnp",
+        "quote": "VietnamPlus (TTXVN), 15/9/2026, đọc 13/10/2026: mưa lớn đêm 14 đến ngày 15/9 gây sạt lở taluy dương và tắc đường tại Km265+900 Quốc lộ 32 thuộc xã Tú Lệ; đến 16 giờ cùng ngày đã thông xe; QL32 ghi nhận sạt taluy dương tại 6 vị trí với trên 755 m³ và một vị trí sạt taluy âm dài khoảng 10 m.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00498"
+  }
+}
