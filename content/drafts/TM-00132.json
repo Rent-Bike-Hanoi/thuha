@@ -1,0 +1,91 @@
+{
+  "id": "TM-00132",
+  "topic_id": "TM-00132",
+  "url": "/bao-duong/smart-key-xe-may-honda-het-pin/",
+  "title": "Smart Key xe máy Honda hết pin: cách mở xe và thay pin CR2032",
+  "hub": "bao-duong",
+  "parent": "/bao-duong/",
+  "kind": "article",
+  "factoryVersion": 2,
+  "art": "Smart Key",
+  "tone": "black",
+  "keywords": "smartkey hết pin, thay pin smartkey honda, pin cr2032 smartkey, mở khóa smartkey bằng mã id, smartkey không nhận, chìa khóa thông minh xe máy hết pin",
+  "excerpt": "Đèn khóa thông minh nháy 5 lần khi bật On là pin FOB yếu. Mở yên bằng chìa khẩn cấp, nhập mã ID trên thẻ để nổ máy, rồi thay pin CR2032 (thường dùng khoảng 2 năm).",
+  "sections": [
+    [
+      "Câu trả lời ngắn: dấu hiệu pin FOB yếu và cách xử lý ngay",
+      "<p>Theo <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">sách hướng dẫn sử dụng Air Blade 125/160 của Honda Việt Nam</a> (đọc 13/10/2026), pin FOB sắp hết khi <strong>đèn báo Hệ thống khóa thông minh nhấp nháy 5 lần lúc vặn khóa điện sang On</strong>, hoặc khi phạm vi nhận khóa không ổn định: lúc đứng gần xe mới vặn được, lúc lại không. Nếu ấn nút ON/OFF mà đèn LED trên FOB không phản hồi, sổ hướng dẫn bảo thay pin. Pin là loại <strong>CR2032</strong>, tuổi thọ thông thường <strong>khoảng 2 năm</strong>.</p><p>Khi FOB đã chết hẳn và bạn đang đứng cạnh xe, có hai việc làm được ngay mà không cần thợ:</p><ul><li><strong>Mở yên</strong> bằng chìa khóa khẩn cấp giấu trong FOB, để lấy đồ hoặc lấy thẻ ID nếu bạn cất trong cốp.</li><li><strong>Mở khóa điện</strong> bằng mã ID in trên thẻ ID đi kèm xe, nhập bằng cách ấn núm khóa điện theo từng số, rồi nổ máy đi về thay pin.</li></ul><p>Cả hai cách chỉ dùng được khi bạn còn chìa khẩn cấp và biết mã ID. Nếu thẻ ID đang nằm trong cốp, mở yên trước rồi mới nhập mã. Các bước dưới đây theo sổ Air Blade và trang hỏi đáp của Honda; xe Honda khác có thể khác ở vài thao tác, nên mở sổ hướng dẫn đi kèm xe của bạn để đối chiếu.</p>"
+    ],
+    [
+      "Có phải hết pin FOB hay do nhiễu sóng, ắc quy yếu",
+      "<p>Khóa thông minh không nhận chưa chắc là do pin. Mục Tìm kiếm hư hỏng trong <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">sổ Air Blade</a> liệt kê các trường hợp hệ thống có thể không hoạt động dù FOB còn pin:</p><ul><li>Xe đỗ gần nguồn sóng vô tuyến mạnh.</li><li>FOB để sát điện thoại di động hoặc thiết bị điện tử khác trong cùng túi.</li><li>FOB bị vật kim loại che hoặc bọc.</li></ul><p>Thử trước: lấy FOB ra khỏi túi, tách khỏi điện thoại, cầm gần xe rồi vặn lại. Nếu vẫn không được, ấn nút ON/OFF trên FOB và nhìn đèn LED. Đèn không sáng thì nhiều khả năng là pin FOB.</p><p>Còn một nguyên nhân nằm ở xe chứ không ở chìa: <strong>bình điện yếu</strong>. Sổ Air Blade ghi rằng nếu vòng tròn quanh ổ khóa không sáng màu xanh thì có thể do bình điện yếu. Khi đó thay pin FOB không giải quyết được gì; xem dấu hiệu và cách kiểm tra ở bài <a href=\"/bao-duong/binh-ac-quy-xe-may-bao-lau-thay/\">bình ắc quy xe máy bao lâu thay</a>. Xe để nhiều tuần không đi hay gặp đúng tình huống này, cách bảo quản ở bài <a href=\"/bao-duong/xe-may-de-lau-khong-di/\">xe máy để lâu không đi</a>.</p><p>Với xe Yamaha, <a href=\"https://yamaha-motor.com.vn/tin-tuc/khoa-smartkey-khong-van-duoc-nguyen-nhan-va-cach-xu-ly/\" target=\"_blank\" rel=\"noopener\">bài của Yamaha Motor Việt Nam</a> (đăng 26/04/2026) cho biết hệ thống khóa thông minh của một số xe tự tắt nếu không dùng xe khoảng 9 ngày; nhấn núm một lần để đánh thức. Yamaha cũng mô tả dấu hiệu pin sắp cạn khác Honda: đèn chỉ báo trên đồng hồ nháy khoảng 20 giây khi vừa bật xe.</p>"
+    ],
+    [
+      "Mở yên bằng chìa khóa khẩn cấp",
+      "<p>Trong FOB có một chìa khóa cơ nhỏ gọi là chìa khóa khẩn cấp. Theo <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">sổ Air Blade 125/160</a>, cách mở yên khi FOB không còn tác dụng:</p><ol><li>Tháo nắp chìa khóa khẩn cấp trên FOB và rút chìa ra.</li><li>Tìm rãnh mở yên trên xe, khớp vấu của chìa với rãnh.</li><li>Vặn chìa <strong>ngược chiều kim đồng hồ</strong> để mở yên.</li></ol><p>Chìa khẩn cấp chỉ mở yên; nó không bật được khóa điện. Muốn nổ máy, bạn vẫn phải nhập mã ID ở bước tiếp theo. Nếu bạn cất thẻ ID trong cốp xe, đây là lúc lấy ra. Tốt hơn hết là đừng cất thẻ trong cốp: Yamaha khuyên ghi lại mã ID và cất thẻ ở nơi không để cùng xe, đồng thời không để remote trong cốp.</p>"
+    ],
+    [
+      "Mở khóa điện bằng mã ID trên thẻ: từng bước",
+      "<p>Quy trình dưới đây áp dụng cho Air Blade 125/160, theo <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">sổ hướng dẫn Honda</a>:</p><ol><li>Xem mã ID in trên thẻ ID đi kèm xe.</li><li>Ấn và giữ núm khóa điện <strong>hơn 4 giây</strong>, đến khi vòng tròn quanh ổ khóa và đèn khóa thông minh nhấp nháy.</li><li>Nhập từng số của mã, từ trái sang phải: mỗi khi vòng tròn sáng, ấn núm khóa điện đúng số lần bằng chữ số đó, trong vòng <strong>5 giây</strong>. Với số 0, chờ khoảng 5 giây không ấn.</li><li>Nhập đúng thì khóa điện mở. Trong vòng <strong>6 phút</strong>, vặn khóa sang On và khởi động.</li></ol><p>Mỗi số được tính bằng số lần ấn trong lúc vòng tròn sáng, nên ấn đều tay, đếm rõ, đừng ấn vội. Trước khi bắt đầu, ghi mã ra giấy hoặc mở ảnh chụp thẻ để khỏi nhầm thứ tự.</p><p><strong>Xe dùng FOB 3 nút</strong> có quy trình khác. Theo <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener\">hỏi đáp của Honda Việt Nam</a> (cập nhật 23/09/2021): dùng chìa khẩn cấp mở yên, tháo ốp bình điện, tháo giắc cắm thử màu xanh, nối giắc cắm chế độ EM có trong bộ dụng cụ, rồi nhập mã ID bằng số lần nhấn khóa điện, mỗi số trong 5 giây. Xong thì tháo giắc EM, lắp lại giắc xanh; còi kêu 2 lần, và bạn có 6 phút để vặn On.</p><p><strong>SH125i/150i đời 2020 dùng FOB 2 nút</strong>: theo <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=kh%E1%BB%9Fi+%C4%91%E1%BB%99ng\" target=\"_blank\" rel=\"noopener\">hỏi đáp Honda cập nhật 14/06/2022</a>, nhấn giữ khóa điện hơn 4 giây cho vòng tròn và đèn khóa thông minh nhấp nháy, ấn khóa điện thêm một lần để vào chế độ nhập mã, nhập từng số trong 5 giây mỗi khi vòng tròn sáng, rồi vặn On trong vòng 6 phút.</p><p>Xe Yamaha nhập mã theo cách riêng (giữ núm khoảng 5 giây, làm 3 lần, đèn nháy theo số), nên đừng áp quy trình Honda cho xe Yamaha.</p>"
+    ],
+    [
+      "Thay pin CR2032 tại nhà an toàn",
+      "<p>Honda khuyến cáo mang FOB đến cửa hàng Honda ủy nhiệm để thay pin. Nếu tự làm, <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">sổ Air Blade</a> lưu ý các điểm sau:</p><ul><li>Mua đúng pin <strong>CR2032</strong>.</li><li>Tháo nắp FOB bằng đồng xu hoặc tua vít dẹt <strong>bọc khăn</strong>, để không làm xước vỏ chống thấm.</li><li>Không chạm tay vào mạch điện bên trong.</li><li>Lắp pin mới với mặt <strong>cực âm (−) hướng lên</strong>, đóng nắp kín.</li><li>Thử lại: ấn nút ON/OFF xem LED trên FOB có sáng không, rồi vặn khóa điện.</li></ul><p><strong>Cảnh báo về pin cúc áo:</strong> sổ Honda ghi rằng nuốt phải pin có thể gây bỏng nghiêm trọng bên trong cơ thể, thậm chí tử vong. Để pin mới và pin cũ xa tầm tay trẻ em, bỏ pin cũ ngay sau khi thay.</p><p>Pin thường dùng được khoảng 2 năm theo cả Honda và Yamaha. Nếu xe bạn mua đã gần 2 năm mà chưa từng thay, có thể thay sớm trước khi đèn báo nháy, nhất là trước chuyến đi xa.</p>"
+    ],
+    [
+      "Mất FOB, quên mã ID: phải làm gì",
+      "<p>Mỗi xe Honda dùng SMART Key đăng ký được <strong>tối đa 4 chìa khóa</strong>, theo <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener\">hỏi đáp của Honda Việt Nam</a> (cập nhật 20/09/2021). Vì vậy mất FOB không có nghĩa là bỏ xe; nhưng việc đăng ký chìa mới cần làm ở cửa hàng Honda ủy nhiệm, không tự làm tại nhà được. Khi đi, nên mang theo thẻ ID, chìa khóa khẩn cấp nếu còn, và giấy tờ xe để cửa hàng đối chiếu.</p><p>Nếu mất cả FOB lẫn thẻ ID, bạn không có mã để nhập, nên không thể tự mở khóa điện theo các bước ở trên. Lúc đó đừng cố cạy ổ khóa; liên hệ cửa hàng Honda ủy nhiệm.</p><p>Ba việc nên làm ngay hôm nay để tránh rơi vào cảnh này:</p><ul><li>Chụp ảnh hoặc ghi mã ID ra nơi khác ngoài xe, ví dụ trong điện thoại.</li><li>Cất thẻ ID ở nhà, không để trong cốp.</li><li>Biết chỗ rút chìa khẩn cấp trên FOB của mình trước khi cần đến.</li></ul><p>Xe đề không nổ vì lý do khác ngoài khóa thông minh, xem danh sách kiểm tra ở bài <a href=\"/bao-duong/xe-may/khong-de-duoc/\">xe máy không đề được</a>. Nếu bạn đang đi xe thuê và khóa thông minh không nhận, gọi chủ xe trước khi mang xe đi sửa; cách xử lý và ai chịu chi phí có ở bài <a href=\"/thue-xe/xe-may-thue-bi-hong-giua-duong-phai-lam-sao/\">xe máy thuê bị hỏng giữa đường</a>. Khách thuê tại Nguyễn Hà gọi 0334 699 969.</p>"
+    ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp về Smart Key hết pin",
+  "faq": [
+    [
+      "Pin FOB Smart Key Honda là loại gì?",
+      "Loại CR2032, theo sổ hướng dẫn Air Blade 125/160. Lắp mặt cực âm (−) hướng lên."
+    ],
+    [
+      "Hết pin FOB thì còn khởi động xe được không?",
+      "Được, nếu bạn có mã ID trên thẻ ID: nhập mã bằng cách ấn núm khóa điện, rồi vặn On trong vòng 6 phút. Chìa khẩn cấp trong FOB chỉ mở được yên."
+    ],
+    [
+      "Đèn khóa thông minh nháy 5 lần có phải xe hỏng không?",
+      "Theo sổ Air Blade, nháy 5 lần khi vặn sang On là báo pin FOB yếu, cần thay pin sớm, không phải lỗi động cơ."
+    ],
+    [
+      "Thay pin rồi mà vòng tròn ổ khóa vẫn không sáng xanh?",
+      "Sổ Honda cho biết vòng tròn không sáng xanh có thể do bình điện của xe yếu. Kiểm tra ắc quy hoặc đưa xe đến cửa hàng Honda ủy nhiệm."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026), mục Thay pin thiết bị điều khiển FOB trang 106–107: “Nếu đèn báo Hệ thống khóa THÔNG MINH Honda nhấp nháy 5 lần khi vặn khóa điện sang vị trí (On), hoặc phạm vi hoạt động không ổn định, hãy thay pin ngay khi có thể.” Honda khuyến cáo mang đến cửa hàng ủy nhiệm; loại pin CR2032; tháo nắp bằng đồng xu hoặc tua vít dẹt bọc khăn, không chạm mạch điện, không làm xước vỏ chống thấm; lắp pin mặt cực âm (-) hướng lên; cảnh báo nuốt pin có thể gây bỏng nghiêm trọng bên trong, thậm chí tử vong, để pin xa trẻ em. Trang 135: “Thông thường, pin của thiết bị điều khiển FOB có tuổi thọ khoảng 2 năm.”",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026), Tìm kiếm hư hỏng trang 119–124: khóa thông minh có thể không hoạt động khi pin FOB yếu, gần nguồn sóng mạnh, để cạnh điện thoại hoặc bị vật kim loại che; nếu LED trên FOB không phản hồi khi ấn nút ON/OFF thì thay pin. Mở yên khẩn cấp: tháo nắp chìa khóa khẩn cấp, khớp vấu chìa với rãnh mở yên, vặn ngược chiều kim đồng hồ. Mở ổ khóa điện khẩn cấp: kiểm tra mã ID trên thẻ ID; ấn và giữ khóa điện hơn 4 giây đến khi vòng tròn ổ khóa và đèn khóa thông minh nhấp nháy; nhập từng số từ trái sang phải bằng số lần ấn khóa điện trong vòng 5 giây khi vòng tròn sáng (số 0 thì chờ khoảng 5 giây không ấn); nhập đúng thì khóa điện mở, trong vòng 6 phút vặn sang On để khởi động. Nếu vòng tròn ổ khóa không sáng màu xanh có thể do bình điện yếu.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+      "quote": "Honda Việt Nam, hỏi đáp “Với xe sử dụng SMART Key có FOB loại 3 nút thì làm thế nào để mở khóa điện trong trường hợp khẩn cấp?” (cập nhật 23/09/2021, đọc 13/10/2026): dùng chìa khóa khẩn cấp mở yên, tháo ốp bình điện, tháo giắc cắm thử màu xanh, kiểm tra mã ID trên thẻ, nối giắc cắm chế độ EM trong bộ dụng cụ, nhập mã ID bằng số lần nhấn khóa điện trong 5 giây mỗi số; xong tháo giắc EM, lắp lại giắc xanh, còi kêu 2 lần, vặn On trong vòng 6 phút. Hỏi đáp “Khóa SMART Key có điểm gì khác biệt…” (cập nhật 20/09/2021): đăng ký được tối đa 4 chìa khóa dùng cho xe.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=kh%E1%BB%9Fi+%C4%91%E1%BB%99ng",
+      "quote": "Honda Việt Nam, hỏi đáp “Với xe SH125i/150i 2020 sử dụng SMART Key có FOB loại 2 nút thì làm thế nào để mở khóa điện trong trường hợp khẩn cấp?” (cập nhật 14/06/2022, đọc 13/10/2026): kiểm tra mã ID trên thẻ; nhấn giữ khóa điện hơn 4 giây cho vòng tròn ổ khóa và đèn khóa thông minh nhấp nháy; ấn khóa điện để bật chế độ nhập mã; nhập từng số trong 5 giây mỗi khi vòng tròn sáng; nhập xong, khóa điện mở, vặn On trong vòng 6 phút để khởi động.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://yamaha-motor.com.vn/tin-tuc/khoa-smartkey-khong-van-duoc-nguyen-nhan-va-cach-xu-ly/",
+      "quote": "Yamaha Motor Việt Nam, bài “Khóa Smartkey không vặn được: Nguyên nhân và cách xử lý” (đăng 26/04/2026, đọc 13/10/2026): tuổi thọ pin remote thường khoảng 2 năm; pin sắp cạn thì đèn chỉ báo trên đồng hồ nhấp nháy khoảng 20 giây khi vừa bật xe; hết hẳn thì núm khóa bị khóa cứng; hệ thống khóa thông minh của một số xe (như Yamaha) tự tắt nếu không dùng xe khoảng 9 ngày, nhấn núm một lần để đánh thức; quy trình nhập mã ID khẩn cấp trên xe Yamaha khác Honda (giữ núm khoảng 5 giây, làm 3 lần, đèn nháy theo số); pin thường là CR2032; không để remote trong cốp, ghi lại mã ID và cất thẻ ở nơi không để cùng xe.",
+      "checked": "2026-10-13"
+    }
+  ]
+}
