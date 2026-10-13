@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w16a",
+  "queued": "2026-10-13T22:15:32.960860+00:00",
+  "topic": {
+    "topic_id": "TM-00467",
+    "url": "/du-lich/nha-tho-ham-long/",
+    "title": "Nhà thờ Hàm Long: giờ lễ, kiến trúc của KTS Đốc Thân, mùa Giáng sinh",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "nhà thờ hàm long",
+    "secondary_keywords": [
+      "giờ lễ nhà thờ hàm long",
+      "nhà thờ hàm long giáng sinh",
+      "nhà thờ hàm long ở đâu",
+      "nhà thờ hàm long kiến trúc",
+      "giáo xứ hàm long"
+    ],
+    "intent": "transactional",
+    "user_problem": "Giáo dân, người đi lễ tối Chúa nhật và người muốn ngắm phố Hàm Long dịp Giáng sinh cần biết nhà thờ ở đâu, giờ lễ chính thức (có lễ 20h Chúa nhật), nhà thờ có gì đặc biệt và nên tránh giờ nào khi đi xe máy.",
+    "information_gain": "Site chưa có bài về nhà thờ Hàm Long; /du-lich/nha-tho-lon-ha-noi/ chỉ nói Nhà thờ Lớn. Cụm 'Hàm Long' trên site chỉ xuất hiện ở /du-lich/ho-quan-son/ (chùa Hàm Long ở Mỹ Đức – địa điểm khác). Bài mới bổ sung: giờ lễ trên trang Tổng Giáo phận Hà Nội (cập nhật 21/10/2025: thứ Hai 5h30; thứ Ba–thứ Bảy 5h30 và 19h00; Chúa nhật 6h30, 8h30 thiếu nhi, 16h30, 18h30, 20h00), lịch sử (khởi công 12/1934, khánh thành 7/5/1939, quan thầy thánh An-tôn), KTS người Việt Đốc Thân dùng giấy bản, rơm, hồ vôi làm vòm cuốn tạo âm, phù điêu biểu tượng dòng Phan sinh, thánh tích 19 vị tử đạo, và hai mặt tiền Hàm Long – Ngô Thì Nhậm.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://www.tonggiaophanhanoi.org/giao-xu-ham-long/",
+        "quote": "Tổng Giáo phận Hà Nội, trang Giáo xứ Hàm Long (đăng 18/10/2016, sửa 21/10/2025; đọc 13/10/2026): địa chỉ số 21 Hàm Long, P. Cửa Nam, TP. Hà Nội; thuộc Giáo hạt Chính Tòa; thành lập 24/12/1934; quan thầy thánh An-tôn (13/6); nhà thờ khánh thành 7/5/1939; khoảng 4.400 giáo dân. Giờ lễ: thứ Hai 5h30; thứ Ba – thứ Bảy 5h30 và 19h00; Chúa Nhật 6h30, 08h30 (thiếu nhi), 16h30, 18h30 và 20h00. Kiến trúc gothic nét riêng; trên cung thánh có thánh An-tôn, thánh Phanxicô Assisi và thánh Clara; lưu giữ thánh tích 19 vị anh hùng tử đạo.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-ve-dep-long-lay-cua-cac-nha-tho-o-ha-noi-dip-giang-sinh-post852341.html",
+        "quote": "Báo Nhân Dân (24/12/2024; đọc 13/10/2026): nhà thờ Hàm Long do kiến trúc sư Doctor Thân, người Việt từng du học Pháp, thiết kế và xây dựng; khởi công 12/1934, hoàn thành 7/5/1939; quan thầy thánh Antôn thành Padova; KTS dùng giấy bản, rơm, hồ vôi tạo các vòm cuốn có hiệu quả phản âm tốt; phù điêu dưới gác chuông khắc thánh giá với hai cánh tay – biểu tượng dòng Phan sinh; dịp Giáng sinh cả đoạn phố Hàm Long trang trí hàng nghìn ngọn đèn, có cây thông lớn trước nhà thờ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/7-nha-tho-dep-noi-tieng-o-ha-noi-3325014.html",
+        "quote": "VnExpress (11/12/2015; đọc 13/10/2026): nhà thờ Hàm Long là một trong những nhà thờ đẹp nhất Hà Nội, có hai mặt tiền trên phố Hàm Long và Ngô Thì Nhậm; nhiều cô dâu chú rể chọn tổ chức đám cưới; không gian rộng, họa tiết trang trí dây thừng kiểu dây áo dòng Phanxicô; địa chỉ số 21 phố Hàm Long.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "nhà thờ hàm long"
+      }
+    ],
+    "notes": "Tên phường: TGP ghi 'P. Cửa Nam' (trang sửa 21/10/2025, sau 1/7/2025) – dùng tên này. Không có nguồn về giờ mở cửa cho khách tham quan ngoài giờ lễ, quy định chụp ảnh/cưới hỏi, chỗ gửi xe máy – không viết. Giờ lễ có thể thay đổi dịp lễ trọng (Giáng sinh, Phục sinh); lịch lễ đêm Giáng sinh 2026 chưa có nguồn. VnExpress 2015 cũ (trước 2025) – chỉ dùng cho mô tả kiến trúc không đổi. Tên KTS: Nhân Dân ghi 'Doctor Thân'; Wikipedia (không fetch, không dùng) ghi Lý Đức Thân – writer chỉ ghi 'KTS Đốc Thân (Doctor Thân)' theo Nhân Dân. Không ghi tên linh mục, số điện thoại.",
+    "outline": [
+      "Nhà thờ Hàm Long ở đâu: 21 Hàm Long, hai mặt tiền",
+      "Giờ lễ chính thức theo Tổng Giáo phận (cập nhật 10/2025)",
+      "Lịch sử 1934–1939 và KTS Đốc Thân",
+      "Kiến trúc: vòm cuốn giấy bản – rơm, phù điêu Phan sinh, thánh tích 19 vị tử đạo",
+      "Mùa Giáng sinh trên phố Hàm Long: đi giờ nào cho đỡ đông",
+      "Đi xe máy từ Long Biên và lưu ý khi tham quan"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/cho-hom-duc-vien/",
+      "/du-lich/thap-rua-ho-guom/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00467.json",
+  "draft_template": {
+    "id": "TM-00467",
+    "url": "/du-lich/nha-tho-ham-long/",
+    "title": "Nhà thờ Hàm Long: giờ lễ, kiến trúc của KTS Đốc Thân, mùa Giáng sinh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ hàm long, giờ lễ nhà thờ hàm long, nhà thờ hàm long giáng sinh, nhà thờ hàm long ở đâu, nhà thờ hàm long kiến trúc, giáo xứ hàm long",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ Hàm Long ở đâu: 21 Hàm Long, hai mặt tiền",
+        "<p></p>"
+      ],
+      [
+        "Giờ lễ chính thức theo Tổng Giáo phận (cập nhật 10/2025)",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử 1934–1939 và KTS Đốc Thân",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc: vòm cuốn giấy bản – rơm, phù điêu Phan sinh, thánh tích 19 vị tử đạo",
+        "<p></p>"
+      ],
+      [
+        "Mùa Giáng sinh trên phố Hàm Long: đi giờ nào cho đỡ đông",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và lưu ý khi tham quan",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://www.tonggiaophanhanoi.org/giao-xu-ham-long/",
+        "quote": "Tổng Giáo phận Hà Nội, trang Giáo xứ Hàm Long (đăng 18/10/2016, sửa 21/10/2025; đọc 13/10/2026): địa chỉ số 21 Hàm Long, P. Cửa Nam, TP. Hà Nội; thuộc Giáo hạt Chính Tòa; thành lập 24/12/1934; quan thầy thánh An-tôn (13/6); nhà thờ khánh thành 7/5/1939; khoảng 4.400 giáo dân. Giờ lễ: thứ Hai 5h30; thứ Ba – thứ Bảy 5h30 và 19h00; Chúa Nhật 6h30, 08h30 (thiếu nhi), 16h30, 18h30 và 20h00. Kiến trúc gothic nét riêng; trên cung thánh có thánh An-tôn, thánh Phanxicô Assisi và thánh Clara; lưu giữ thánh tích 19 vị anh hùng tử đạo.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-ve-dep-long-lay-cua-cac-nha-tho-o-ha-noi-dip-giang-sinh-post852341.html",
+        "quote": "Báo Nhân Dân (24/12/2024; đọc 13/10/2026): nhà thờ Hàm Long do kiến trúc sư Doctor Thân, người Việt từng du học Pháp, thiết kế và xây dựng; khởi công 12/1934, hoàn thành 7/5/1939; quan thầy thánh Antôn thành Padova; KTS dùng giấy bản, rơm, hồ vôi tạo các vòm cuốn có hiệu quả phản âm tốt; phù điêu dưới gác chuông khắc thánh giá với hai cánh tay – biểu tượng dòng Phan sinh; dịp Giáng sinh cả đoạn phố Hàm Long trang trí hàng nghìn ngọn đèn, có cây thông lớn trước nhà thờ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/7-nha-tho-dep-noi-tieng-o-ha-noi-3325014.html",
+        "quote": "VnExpress (11/12/2015; đọc 13/10/2026): nhà thờ Hàm Long là một trong những nhà thờ đẹp nhất Hà Nội, có hai mặt tiền trên phố Hàm Long và Ngô Thì Nhậm; nhiều cô dâu chú rể chọn tổ chức đám cưới; không gian rộng, họa tiết trang trí dây thừng kiểu dây áo dòng Phanxicô; địa chỉ số 21 phố Hàm Long.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00467"
+  }
+}

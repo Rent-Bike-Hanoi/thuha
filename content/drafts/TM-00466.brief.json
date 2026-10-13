@@ -1,0 +1,156 @@
+{
+  "writer": "writer-w16a",
+  "queued": "2026-10-13T22:15:32.960599+00:00",
+  "topic": {
+    "topic_id": "TM-00466",
+    "url": "/du-lich/nha-tho-cua-bac/",
+    "title": "Nhà thờ Cửa Bắc: giờ lễ có lễ tiếng Anh, kiến trúc tháp chuông lệch Hébrard",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "nhà thờ cửa bắc",
+    "secondary_keywords": [
+      "giờ lễ nhà thờ cửa bắc",
+      "nhà thờ cửa bắc lễ tiếng anh",
+      "nhà thờ cửa bắc kiến trúc",
+      "nhà thờ cửa bắc 56 phan đình phùng",
+      "nhà thờ cửa bắc xây năm nào"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ, khách nước ngoài cần lễ tiếng Anh và người thích kiến trúc Pháp muốn đến nhà thờ Cửa Bắc cần biết giờ lễ chính thức, lúc nào nên vào chụp ảnh mà không làm phiền thánh lễ, và nhà thờ có gì khác Nhà thờ Lớn.",
+    "information_gain": "/du-lich/pho-phan-dinh-phung/ chỉ nhắc nhà thờ Cửa Bắc một dòng (xây 1925, phong cách Roman, tháp chuông lệch) và ghi rõ 'chưa có nguồn về giờ lễ'; /du-lich/nha-tho-lon-ha-noi/ nói về Nhà thờ Lớn. Bài mới bổ sung: giờ lễ trên trang Tổng Giáo phận Hà Nội (cập nhật 3/2026: ngày thường 19h00, thứ Bảy 6h30 và 19h00, Chúa nhật 6h30, 8h30 thiếu nhi, 10h30 tiếng Anh, 19h00), tên tước hiệu Đức Mẹ Hà Nội, cung hiến 4/11/2014, KTS Ernest Hébrard và lý do tháp chuông đặt lệch, mốc đặt đá 4/12/1927 – khánh thành 1/2/1931, và chi tiết ngoại thất (tượng Đức Mẹ, hang đá, sách lễ song ngữ).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://www.tonggiaophanhanoi.org/giao-xu-cua-bac/",
+        "quote": "Tổng Giáo phận Hà Nội, trang Giáo xứ Cửa Bắc (đăng 2/4/2019, sửa 20/3/2026; đọc 13/10/2026): địa chỉ số 56 Phan Đình Phùng, P. Ba Đình, TP. Hà Nội; thuộc Giáo hạt Chính Tòa; quan thầy và tước hiệu Đức Mẹ Hà Nội (2/7); nhà thờ được cung hiến ngày 4/11/2014. Giờ lễ: ngày thường 19h00; thứ Bảy 06h30, 19h00; Chúa Nhật 6h30, 8h30 (thiếu nhi), 10h30 (tiếng Anh), 19h00. Nhà thờ xây từ 1925–1930 dưới thời Đức Cha Gendreau; KTS Ernest Hébrard tạo không gian phi đối xứng với tháp chuông vút cao phía bên sảnh chính.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/nha-tho-co-kien-truc-lech-tung-don-tong-thong-my-185250510210112335.htm",
+        "quote": "Thanh Niên (11/5/2025; đọc 13/10/2026): nhà thờ Cửa Bắc (56 Phan Đình Phùng, P.Quán Thánh) xây năm 1927, khánh thành 1931, do KTS Ernest Hébrard (1875–1933) thiết kế theo ý tưởng cha Dronet; tên ban đầu Nữ Vương Các Thánh Tử Đạo; mặt bằng kiểu Basilica hình chữ thập; tháp chuông lệch về hướng đông nam để hút tầm nhìn từ phố Cửa Bắc về Quán Thánh; phong cách Đông Dương: cửa sổ hoa hồng, kính màu, mái ngói đua xa, trùng thiềm; nội thất tường trơn, nhiều cửa sổ cao lấy sáng; năm 2006 vợ chồng Tổng thống Mỹ George W. Bush đến thăm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/ve-nha-tho-ma-tong-thong-my-tung-ghe-tham-212709.html",
+        "quote": "Báo Công lý (29/8/2022; đọc 13/10/2026): giáo xứ khoảng hơn 300 giáo dân, nhiều người nước ngoài dự lễ; nhà thờ ở giao Nguyễn Biểu – Phan Đình Phùng – Hoàng Diệu, gần lăng Hồ Chủ tịch, Hoàng thành; cha Gendreau đặt viên đá đầu tiên ngày 4/12/1927, khánh thành 1/2/1931; tên ban đầu Église des Martyrs; ngoại thất sơn vàng sẫm sau trùng tu; sân có tượng Đức Mẹ bồng Chúa hài đồng và hang đá; tháp chuông lệch phải nhìn từ phía Nguyễn Biểu; sau ghế có sách lễ tiếng Anh, tiếng Việt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "nhà thờ cửa bắc"
+      }
+    ],
+    "notes": "Năm xây dựng lệch giữa nguồn: TGP Hà Nội ghi '1925–1930'; Thanh Niên và Công lý ghi đặt đá 4/12/1927, khánh thành 1/2/1931; bài /du-lich/pho-phan-dinh-phung/ ghi 1925 theo Người Hà Nội – writer nêu cả hai mốc, ưu tiên mốc đặt đá/khánh thành có ngày cụ thể. Công lý ghi ông bà Bush dự lễ 'ngày 19/6/2006 nhân dịp APEC' – ngày này không khớp thời gian APEC 2006 (không có nguồn xác minh), chỉ ghi 'năm 2006' theo Thanh Niên. Phường: TGP (cập nhật 3/2026) ghi 'P. Ba Đình'; Thanh Niên 5/2025 và Công lý ghi phường Quán Thánh (tên cũ trước 1/7/2025) – dùng 'phường Ba Đình' theo TGP. Giờ lễ có thể đổi theo mùa/lễ trọng; không có nguồn về giờ mở cửa cho khách tham quan ngoài giờ lễ, quy định trang phục, chỗ gửi xe – không viết. Không ghi số điện thoại giáo xứ.",
+    "outline": [
+      "Nhà thờ Cửa Bắc ở đâu và vì sao gọi là 'Cửa Bắc'",
+      "Giờ lễ chính thức, lễ tiếng Anh Chúa nhật 10h30",
+      "Kiến trúc Hébrard: tháp chuông lệch, phong cách Đông Dương",
+      "Lịch sử: đặt đá 1927, khánh thành 1931, cung hiến 2014",
+      "Đi tham quan lịch sự: chọn giờ, chụp ảnh ngoài sân",
+      "Kết hợp phố Phan Đình Phùng, Hoàng thành, đền Quán Thánh bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-phan-dinh-phung/",
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/du-lich/hoang-thanh-thang-long/",
+      "/du-lich/den-quan-thanh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/pho-phan-dinh-phung/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/pho-phan-dinh-phung/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00466.json",
+  "draft_template": {
+    "id": "TM-00466",
+    "url": "/du-lich/nha-tho-cua-bac/",
+    "title": "Nhà thờ Cửa Bắc: giờ lễ có lễ tiếng Anh, kiến trúc tháp chuông lệch Hébrard",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ cửa bắc, giờ lễ nhà thờ cửa bắc, nhà thờ cửa bắc lễ tiếng anh, nhà thờ cửa bắc kiến trúc, nhà thờ cửa bắc 56 phan đình phùng, nhà thờ cửa bắc xây năm nào",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ Cửa Bắc ở đâu và vì sao gọi là 'Cửa Bắc'",
+        "<p></p>"
+      ],
+      [
+        "Giờ lễ chính thức, lễ tiếng Anh Chúa nhật 10h30",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc Hébrard: tháp chuông lệch, phong cách Đông Dương",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: đặt đá 1927, khánh thành 1931, cung hiến 2014",
+        "<p></p>"
+      ],
+      [
+        "Đi tham quan lịch sự: chọn giờ, chụp ảnh ngoài sân",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp phố Phan Đình Phùng, Hoàng thành, đền Quán Thánh bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://www.tonggiaophanhanoi.org/giao-xu-cua-bac/",
+        "quote": "Tổng Giáo phận Hà Nội, trang Giáo xứ Cửa Bắc (đăng 2/4/2019, sửa 20/3/2026; đọc 13/10/2026): địa chỉ số 56 Phan Đình Phùng, P. Ba Đình, TP. Hà Nội; thuộc Giáo hạt Chính Tòa; quan thầy và tước hiệu Đức Mẹ Hà Nội (2/7); nhà thờ được cung hiến ngày 4/11/2014. Giờ lễ: ngày thường 19h00; thứ Bảy 06h30, 19h00; Chúa Nhật 6h30, 8h30 (thiếu nhi), 10h30 (tiếng Anh), 19h00. Nhà thờ xây từ 1925–1930 dưới thời Đức Cha Gendreau; KTS Ernest Hébrard tạo không gian phi đối xứng với tháp chuông vút cao phía bên sảnh chính.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/nha-tho-co-kien-truc-lech-tung-don-tong-thong-my-185250510210112335.htm",
+        "quote": "Thanh Niên (11/5/2025; đọc 13/10/2026): nhà thờ Cửa Bắc (56 Phan Đình Phùng, P.Quán Thánh) xây năm 1927, khánh thành 1931, do KTS Ernest Hébrard (1875–1933) thiết kế theo ý tưởng cha Dronet; tên ban đầu Nữ Vương Các Thánh Tử Đạo; mặt bằng kiểu Basilica hình chữ thập; tháp chuông lệch về hướng đông nam để hút tầm nhìn từ phố Cửa Bắc về Quán Thánh; phong cách Đông Dương: cửa sổ hoa hồng, kính màu, mái ngói đua xa, trùng thiềm; nội thất tường trơn, nhiều cửa sổ cao lấy sáng; năm 2006 vợ chồng Tổng thống Mỹ George W. Bush đến thăm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/ve-nha-tho-ma-tong-thong-my-tung-ghe-tham-212709.html",
+        "quote": "Báo Công lý (29/8/2022; đọc 13/10/2026): giáo xứ khoảng hơn 300 giáo dân, nhiều người nước ngoài dự lễ; nhà thờ ở giao Nguyễn Biểu – Phan Đình Phùng – Hoàng Diệu, gần lăng Hồ Chủ tịch, Hoàng thành; cha Gendreau đặt viên đá đầu tiên ngày 4/12/1927, khánh thành 1/2/1931; tên ban đầu Église des Martyrs; ngoại thất sơn vàng sẫm sau trùng tu; sân có tượng Đức Mẹ bồng Chúa hài đồng và hang đá; tháp chuông lệch phải nhìn từ phía Nguyễn Biểu; sau ghế có sách lễ tiếng Anh, tiếng Việt.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00466"
+  }
+}

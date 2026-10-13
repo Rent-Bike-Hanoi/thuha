@@ -1,0 +1,156 @@
+{
+  "writer": "writer-w16a",
+  "queued": "2026-10-13T22:15:32.959254+00:00",
+  "topic": {
+    "topic_id": "TM-00468",
+    "url": "/du-lich/cho-hoa-quang-an/",
+    "title": "Chợ hoa Quảng An (Quảng Bá): chợ đêm họp mấy giờ, giờ cao điểm, mua sỉ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chợ hoa quảng an",
+    "secondary_keywords": [
+      "chợ hoa quảng bá",
+      "chợ hoa quảng bá mấy giờ",
+      "chợ hoa đêm hà nội",
+      "chợ hoa 236 âu cơ",
+      "mua hoa sỉ hà nội"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người mua hoa sỉ, người chuẩn bị 8/3, 20/10, Tết và bạn trẻ muốn đi chợ hoa đêm cần biết chợ Quảng An – Quảng Bá họp từ mấy giờ, mấy giờ đông nhất, dịp Tết có mở sớm hơn không và giá hoa tham khảo theo nguồn có ghi năm.",
+    "information_gain": "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/ chỉ nhắc chợ hoa Quảng Bá một đoạn ngắn và ghi rõ 'nguồn không nêu giờ họp chợ hay giá'; /du-lich/pho-bich-hoa-phung-hung/ nói chợ hoa Tết Hàng Lược – Phùng Hưng (chợ khác). Bài mới bổ sung: địa chỉ 236 Âu Cơ, giờ họp thường ngày từ khoảng 23h đến 5–6h sáng và Tết mở từ 21h (Nhân Dân 12/2024), khung đông nhất (0–2h theo Lao Động 3/2025; 2–4h theo Người Lao Động 2/2026), quy mô hơn 300 hộ kinh doanh cố định dịp giáp Tết, nguồn hoa từ Tây Tựu, Mê Linh, Nhật Tân, và giá tham khảo có ghi ngày (hồng khoảng 6.000 đồng/bông, bó gói sẵn 300.000–500.000 đồng dịp 8/3/2025).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/nld/video-kham-pha-cho-hoa-lon-nhat-thu-do-ha-noi-dip-giap-tet-196260208130935816.htm",
+        "quote": "Người Lao Động (đăng trên tuoitre.vn/nld, 8/2/2026; đọc 13/10/2026): chợ hoa Quảng An (còn gọi chợ hoa Quảng Bá) ở 236 đường Âu Cơ, thuộc phường Quảng An, quận Tây Hồ cũ, là chợ hoa đêm lớn nhất Thủ đô; ban đầu tiêu thụ hoa các làng Nhật Tân, Tứ Liên, Tây Tựu, nay là trung tâm phân phối hoa của Hà Nội và một số tỉnh phía Bắc; từ khoảng 23 giờ mỗi ngày chợ tấp nập khi xe chở hoa đổ về; cao điểm khoảng 2–4 giờ sáng; chủ sạp vẫn cho chụp ảnh dù không mua.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cho-hoa-quang-ba-noi-mua-xuan-dang-bat-dau-post853806.html",
+        "quote": "Báo Nhân Dân (23/12/2024, sửa 5/1/2025; đọc 13/10/2026): chợ hoa Quảng Bá trên đường Âu Cơ thường hoạt động từ 23 giờ đêm đến 6 giờ sáng hôm sau; dịp Tết mở sớm hơn, từ 21 giờ; theo Ban quản lý chợ, ngày cao điểm giáp Tết có hơn 300 hộ kinh doanh cố định và hàng nghìn lượt khách mỗi đêm; hoa từ Tây Tựu, Mê Linh, Nhật Tân.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/cho-hoa-lon-nhat-ha-noi-tap-nap-xuyen-dem-dip-83-1473874.html",
+        "quote": "Báo Lao Động (8/3/2025; đọc 13/10/2026): chợ hoa Quảng Bá (quận Tây Hồ) dịp 8/3 bán hồng, ly, cúc; theo một tiểu thương, hoa hồng khoảng 6.000 đồng/bông; bó hoa gói sẵn 300.000–500.000 đồng; chợ mở cửa từ 23h đêm đến 5h sáng; 0h–2h sáng là lúc sôi động nhất.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1900,
+        "checked": "2026-10-13",
+        "keyword": "chợ hoa quảng an"
+      }
+    ],
+    "notes": "Giờ họp lệch nhẹ giữa nguồn: 23h–6h (Nhân Dân 12/2024), 23h–5h (Lao Động 3/2025); cao điểm 0–2h (Lao Động) hay 2–4h (NLĐ 2/2026) – writer ghi khoảng và dẫn nguồn. Giá hoa là của dịp 8/3/2025 (lời tiểu thương) – chỉ ghi kèm ngày, không coi là giá hiện tại. Tên phường mới: NLĐ chỉ ghi 'phường Quảng An, quận Tây Hồ cũ' – không khẳng định tên phường sau 1/7/2025, ghi '236 Âu Cơ'. Không có nguồn chính thức về bãi gửi xe máy, phân luồng giao thông đêm cận Tết – không viết; nhắc an toàn khi đi xe ban đêm bằng link nội bộ. Kế hoạch cải tạo chợ của UBND quận Tây Hồ (Lao Động) không tải được – không dùng.",
+    "outline": [
+      "Chợ hoa Quảng An – Quảng Bá ở đâu: 236 Âu Cơ",
+      "Giờ họp: từ 23h đến rạng sáng, Tết mở từ 21h",
+      "Mấy giờ đông nhất và nên đến lúc nào",
+      "Mua gì, giá tham khảo theo nguồn có ghi ngày",
+      "Đi xe máy ban đêm từ Long Biên: đường Âu Cơ, an toàn khi về khuya",
+      "Ghép với làng hoa Nhật Tân, Phủ Tây Hồ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/phu-tay-ho/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00468.json",
+  "draft_template": {
+    "id": "TM-00468",
+    "url": "/du-lich/cho-hoa-quang-an/",
+    "title": "Chợ hoa Quảng An (Quảng Bá): chợ đêm họp mấy giờ, giờ cao điểm, mua sỉ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ hoa quảng an, chợ hoa quảng bá, chợ hoa quảng bá mấy giờ, chợ hoa đêm hà nội, chợ hoa 236 âu cơ, mua hoa sỉ hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ hoa Quảng An – Quảng Bá ở đâu: 236 Âu Cơ",
+        "<p></p>"
+      ],
+      [
+        "Giờ họp: từ 23h đến rạng sáng, Tết mở từ 21h",
+        "<p></p>"
+      ],
+      [
+        "Mấy giờ đông nhất và nên đến lúc nào",
+        "<p></p>"
+      ],
+      [
+        "Mua gì, giá tham khảo theo nguồn có ghi ngày",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy ban đêm từ Long Biên: đường Âu Cơ, an toàn khi về khuya",
+        "<p></p>"
+      ],
+      [
+        "Ghép với làng hoa Nhật Tân, Phủ Tây Hồ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/nld/video-kham-pha-cho-hoa-lon-nhat-thu-do-ha-noi-dip-giap-tet-196260208130935816.htm",
+        "quote": "Người Lao Động (đăng trên tuoitre.vn/nld, 8/2/2026; đọc 13/10/2026): chợ hoa Quảng An (còn gọi chợ hoa Quảng Bá) ở 236 đường Âu Cơ, thuộc phường Quảng An, quận Tây Hồ cũ, là chợ hoa đêm lớn nhất Thủ đô; ban đầu tiêu thụ hoa các làng Nhật Tân, Tứ Liên, Tây Tựu, nay là trung tâm phân phối hoa của Hà Nội và một số tỉnh phía Bắc; từ khoảng 23 giờ mỗi ngày chợ tấp nập khi xe chở hoa đổ về; cao điểm khoảng 2–4 giờ sáng; chủ sạp vẫn cho chụp ảnh dù không mua.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cho-hoa-quang-ba-noi-mua-xuan-dang-bat-dau-post853806.html",
+        "quote": "Báo Nhân Dân (23/12/2024, sửa 5/1/2025; đọc 13/10/2026): chợ hoa Quảng Bá trên đường Âu Cơ thường hoạt động từ 23 giờ đêm đến 6 giờ sáng hôm sau; dịp Tết mở sớm hơn, từ 21 giờ; theo Ban quản lý chợ, ngày cao điểm giáp Tết có hơn 300 hộ kinh doanh cố định và hàng nghìn lượt khách mỗi đêm; hoa từ Tây Tựu, Mê Linh, Nhật Tân.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/cho-hoa-lon-nhat-ha-noi-tap-nap-xuyen-dem-dip-83-1473874.html",
+        "quote": "Báo Lao Động (8/3/2025; đọc 13/10/2026): chợ hoa Quảng Bá (quận Tây Hồ) dịp 8/3 bán hồng, ly, cúc; theo một tiểu thương, hoa hồng khoảng 6.000 đồng/bông; bó hoa gói sẵn 300.000–500.000 đồng; chợ mở cửa từ 23h đêm đến 5h sáng; 0h–2h sáng là lúc sôi động nhất.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00468"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w16b",
+  "queued": "2026-10-13T22:15:33.107741+00:00",
+  "topic": {
+    "topic_id": "TM-00469",
+    "url": "/du-lich/thap-nuoc-hang-dau/",
+    "title": "Tháp nước Hàng Đậu: tháp 1894, khi nào vào được bên trong, ngắm ở đâu",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "tháp nước hàng đậu",
+    "secondary_keywords": [
+      "bốt hàng đậu",
+      "tháp nước hàng đậu có vào được không",
+      "tháp nước hàng đậu lễ hội thiết kế sáng tạo",
+      "tháp nước hàng đậu xây năm nào",
+      "chụp ảnh tháp nước hàng đậu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chụp ảnh, khách đi phố cổ và người thấy tháp nước Hàng Đậu trên mạng muốn biết tháp xây năm nào, có vào bên trong được không (chỉ mở khi có sự kiện), và đứng ở đâu, đi xe máy qua nút ngã sáu thế nào cho an toàn.",
+    "information_gain": "Site chưa có bài về tháp nước Hàng Đậu; tên 'Hàng Đậu' chỉ xuất hiện trong danh sách tuyến phố vành đai hạn chế xe ở /du-lich/nha-tho-lon-ha-noi/, /du-lich/den-ngoc-son-va-cau-the-huc/ và chỉ đường lên cầu ở /du-lich/cau-chuong-duong/. Bài mới bổ sung: lịch sử (xây 1894 cùng hệ thống nhà máy nước Yên Phụ), thông số (hình trụ đường kính 19 m, 3 tầng, đài nước thép 1.250 m³ trên 8 bức tường đá, 17 cửa sổ tầng một bị bịt), vị trí ngã sáu Hàng Than – Hàng Lược – Hàng Giấy – Hàng Đậu – Quán Thánh – Phan Đình Phùng, lần đầu mở cửa 17/11–31/12/2023 trong Lễ hội Thiết kế Sáng tạo, và việc tháp nằm trong dự án 'Ngỡ ngàng Hà Nội' 2026 – để người đọc biết tháp không mở cửa thường xuyên.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/ha-noi-cai-tao-thap-nuoc-hang-dau-thanh-khong-gian-nghe-thuat-103231108190422619.htm",
+        "quote": "Báo Điện tử Chính phủ – Thăng Long (8/11/2023; đọc 13/10/2026): tháp nước Hàng Đậu nằm tại ngã 6 giao các phố Hàng Than, Hàng Lược, Hàng Giấy, Hàng Đậu, Quán Thánh, Phan Đình Phùng; xây năm 1894 do người Pháp xây dựng; từ công trình cũ không sử dụng được cải tạo, sắp đặt thành không gian nghệ thuật và lần đầu tiên mở cửa cho khách vào tham quan; trưng bày 17/11–31/12 trong Lễ hội Thiết kế Sáng tạo Hà Nội 2023; tháp hình trụ tròn đường kính 19 m, cao 3 tầng, mái chóp nón, đài nước thép dung tích 1.250 m³ trên đỉnh 8 bức tường đá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/thap-nuoc-hang-dau-cong-trinh-co-129-nam-tuoi-cua-ha-noi-sap-duoc-mo-cua-20231108160624999.htm",
+        "quote": "Dân trí (8/11/2023; đọc 13/10/2026): tên thường gọi bốt Hàng Đậu; xây năm 1894 để cung cấp nước sạch, cùng với việc xây Nhà máy nước Yên Phụ; hệ thống đường ống, van sắt vẫn nguyên vẹn; 17 cửa sổ ở tầng một đã bị bịt kín; trưng bày 'Không gian sắp đặt Nước và Di sản' với âm thanh của nước và ánh sáng từ vật liệu tái chế, do Sở VH-TT Hà Nội, Hội Kiến trúc sư Việt Nam phối hợp tổ chức, mở cho người dân tham quan 17/11–31/12/2023.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ha-noi-van-hoa-la-trung-tam-trong-chien-luoc-phat-trien-741953.html",
+        "quote": "Hà Nội Mới (29/3/2026; đọc 13/10/2026): một số không gian sáng tạo và di sản công nghiệp đang được vận hành theo cách tiếp cận mới, tiêu biểu như tháp nước Hàng Đậu, nhà máy xe lửa Gia Lâm; các địa điểm này trở thành không gian tổ chức hoạt động văn hóa, sáng tạo.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/khoi-day-suc-song-moi-cho-khong-gian-do-thi-ha-noi-421837.html",
+        "quote": "Báo Thế giới & Việt Nam (22/7/2026; đọc 13/10/2026): trong Lễ hội Thiết kế Sáng tạo Hà Nội 2026, Sở Văn hóa và Thể thao Hà Nội cùng Tạp chí Kiến trúc giới thiệu dự án 'Ngỡ ngàng Hà Nội' nghiên cứu 46 điểm nghệ thuật đường phố; các điểm can thiệp gồm khu phố cổ, chợ Đồng Xuân, tháp nước Hàng Đậu, gầm cầu, bãi giữa sông Hồng, khu tập thể cũ; một số điểm sẽ được chọn triển khai thí điểm trong lễ hội 2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 3600,
+        "checked": "2026-10-13",
+        "keyword": "tháp nước hàng đậu"
+      }
+    ],
+    "notes": "Không có nguồn về lịch mở cửa thường xuyên, giờ hay vé vào tháp năm 2026 – writer phải nói rõ tháp chỉ mở theo sự kiện (lần mở đã xác minh: 17/11–31/12/2023), và chưa có thông báo lịch Lễ hội Thiết kế Sáng tạo 2026 cho tháp. Chiều cao: chinhphu và Dân trí ghi '3 tầng'; một số báo khác (Báo Lạng Sơn, không fetch) ghi 25 m – không dùng. Đơn vị hành chính: chinhphu ghi quận Hoàn Kiếm, Dân trí ghi quận Ba Đình (cũ, mâu thuẫn) – không ghi phường, chỉ ghi nút ngã sáu. Không có nguồn về chỗ dừng xe/gửi xe quanh nút giao; khuyên không dừng xe giữa vòng xuyến để chụp ảnh (an toàn chung, không trích dẫn quy định).",
+    "outline": [
+      "Tháp nước Hàng Đậu ở đâu: giữa ngã sáu đầu phố cổ",
+      "Lịch sử: tháp cấp nước xây năm 1894",
+      "Kiến trúc: hình trụ 19 m, đài nước thép 1.250 m³",
+      "Có vào bên trong được không: lần mở 2023 và dự án 2026",
+      "Ngắm và chụp ảnh từ đâu, đi xe máy qua nút ngã sáu an toàn",
+      "Ghép với Phan Đình Phùng, đền Quán Thánh, chợ Đồng Xuân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-phan-dinh-phung/",
+      "/du-lich/den-quan-thanh/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00469.json",
+  "draft_template": {
+    "id": "TM-00469",
+    "url": "/du-lich/thap-nuoc-hang-dau/",
+    "title": "Tháp nước Hàng Đậu: tháp 1894, khi nào vào được bên trong, ngắm ở đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "tháp nước hàng đậu, bốt hàng đậu, tháp nước hàng đậu có vào được không, tháp nước hàng đậu lễ hội thiết kế sáng tạo, tháp nước hàng đậu xây năm nào, chụp ảnh tháp nước hàng đậu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tháp nước Hàng Đậu ở đâu: giữa ngã sáu đầu phố cổ",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: tháp cấp nước xây năm 1894",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc: hình trụ 19 m, đài nước thép 1.250 m³",
+        "<p></p>"
+      ],
+      [
+        "Có vào bên trong được không: lần mở 2023 và dự án 2026",
+        "<p></p>"
+      ],
+      [
+        "Ngắm và chụp ảnh từ đâu, đi xe máy qua nút ngã sáu an toàn",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Phan Đình Phùng, đền Quán Thánh, chợ Đồng Xuân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/ha-noi-cai-tao-thap-nuoc-hang-dau-thanh-khong-gian-nghe-thuat-103231108190422619.htm",
+        "quote": "Báo Điện tử Chính phủ – Thăng Long (8/11/2023; đọc 13/10/2026): tháp nước Hàng Đậu nằm tại ngã 6 giao các phố Hàng Than, Hàng Lược, Hàng Giấy, Hàng Đậu, Quán Thánh, Phan Đình Phùng; xây năm 1894 do người Pháp xây dựng; từ công trình cũ không sử dụng được cải tạo, sắp đặt thành không gian nghệ thuật và lần đầu tiên mở cửa cho khách vào tham quan; trưng bày 17/11–31/12 trong Lễ hội Thiết kế Sáng tạo Hà Nội 2023; tháp hình trụ tròn đường kính 19 m, cao 3 tầng, mái chóp nón, đài nước thép dung tích 1.250 m³ trên đỉnh 8 bức tường đá.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/thap-nuoc-hang-dau-cong-trinh-co-129-nam-tuoi-cua-ha-noi-sap-duoc-mo-cua-20231108160624999.htm",
+        "quote": "Dân trí (8/11/2023; đọc 13/10/2026): tên thường gọi bốt Hàng Đậu; xây năm 1894 để cung cấp nước sạch, cùng với việc xây Nhà máy nước Yên Phụ; hệ thống đường ống, van sắt vẫn nguyên vẹn; 17 cửa sổ ở tầng một đã bị bịt kín; trưng bày 'Không gian sắp đặt Nước và Di sản' với âm thanh của nước và ánh sáng từ vật liệu tái chế, do Sở VH-TT Hà Nội, Hội Kiến trúc sư Việt Nam phối hợp tổ chức, mở cho người dân tham quan 17/11–31/12/2023.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/ha-noi-van-hoa-la-trung-tam-trong-chien-luoc-phat-trien-741953.html",
+        "quote": "Hà Nội Mới (29/3/2026; đọc 13/10/2026): một số không gian sáng tạo và di sản công nghiệp đang được vận hành theo cách tiếp cận mới, tiêu biểu như tháp nước Hàng Đậu, nhà máy xe lửa Gia Lâm; các địa điểm này trở thành không gian tổ chức hoạt động văn hóa, sáng tạo.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/khoi-day-suc-song-moi-cho-khong-gian-do-thi-ha-noi-421837.html",
+        "quote": "Báo Thế giới & Việt Nam (22/7/2026; đọc 13/10/2026): trong Lễ hội Thiết kế Sáng tạo Hà Nội 2026, Sở Văn hóa và Thể thao Hà Nội cùng Tạp chí Kiến trúc giới thiệu dự án 'Ngỡ ngàng Hà Nội' nghiên cứu 46 điểm nghệ thuật đường phố; các điểm can thiệp gồm khu phố cổ, chợ Đồng Xuân, tháp nước Hàng Đậu, gầm cầu, bãi giữa sông Hồng, khu tập thể cũ; một số điểm sẽ được chọn triển khai thí điểm trong lễ hội 2026.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00469"
+  }
+}

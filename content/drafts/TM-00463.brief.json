@@ -1,0 +1,185 @@
+{
+  "writer": "writer-w16a",
+  "queued": "2026-10-13T22:15:32.960014+00:00",
+  "topic": {
+    "topic_id": "TM-00463",
+    "url": "/du-lich/bao-tang-chien-thang-b52/",
+    "title": "Bảo tàng Chiến thắng B-52: giờ mở cửa, xác B-52 ngoài sân, hồ Hữu Tiệp",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bảo tàng chiến thắng b52",
+    "secondary_keywords": [
+      "bảo tàng b52 đội cấn",
+      "bảo tàng chiến thắng b-52 giờ mở cửa",
+      "hồ hữu tiệp",
+      "xác máy bay b52 hà nội",
+      "bảo tàng b52 có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội, học sinh và du khách muốn xem xác máy bay B-52 cần biết bảo tàng ở 157 Đội Cấn mở ngày nào, giờ nào (nghỉ thứ Hai và thứ Sáu), bên trong có gì và có nên ghép với hồ Hữu Tiệp gần đó không.",
+    "information_gain": "Site chưa có bài về Bảo tàng Chiến thắng B-52 (157 Đội Cấn). /du-lich/bao-tang-phong-khong-khong-quan/ là bảo tàng khác (173C Trường Chinh) và chỉ nói MiG-21, bệ phóng bắn rơi B-52, còn ghi rõ nguồn không liệt kê xác B-52 ở đó. Bài mới bổ sung: lịch mở cửa từ trang chính thức (nghỉ thứ Hai, thứ Sáu; sáng 8–11 giờ, chiều 13 giờ 30–16 giờ 30), xác B-52 xếp tỷ lệ 1:1 ngoài sân từ mảnh của 16 chiếc rơi tại chỗ, sa bàn 3D mapping sau đợt nâng cấp 12/2022, khu trong nhà khoảng 1.500 m² và ngoài trời khoảng 4.000 m², và di tích hồ Hữu Tiệp (ngõ 55 Hoàng Hoa Thám) để ghép một buổi.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "http://baotangchienthangb52.com.vn/gioi-thieu2",
+        "quote": "Bảo tàng Chiến thắng B-52, trang Giới thiệu (không ghi ngày; đọc 13/10/2026): bảo tàng của lực lượng vũ trang Thủ đô, khánh thành 22/12/1997 nhân 25 năm chiến thắng 'Điện Biên Phủ trên không'; nằm trong không gian di tích 'Hồ Hữu Tiệp, xác máy bay B-52' và làng hoa Ngọc Hà. Trưng bày trong nhà: truyền thống LLVT Thủ đô, sa bàn chiến dịch 12 ngày đêm tháng 12/1972, chuyên đề 'Không quân chiến lược và chiến thuật Mỹ'. Ngoài trời: ra đa dẫn đường P35, bệ phóng tên lửa SAM2 của Tiểu đoàn 72; xác các máy bay B-52 lắp theo hình dạng thân dài 49,05 m, sải cánh 56,39 m. Địa chỉ 157 Đội Cấn, Ba Đình. Mở cửa các ngày trong tuần trừ thứ Hai và thứ Sáu; sáng 8–11 giờ, chiều 13 giờ 30–16 giờ 30.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://baotangchienthangb52.com.vn/tham-quan/quy-dinh-tham-quan",
+        "quote": "Bảo tàng Chiến thắng B-52, trang Quy định tham quan (không ghi ngày; đọc 13/10/2026): Địa chỉ 157 Đội Cấn, Ba Đình, Hà Nội; bảo tàng mở cửa các ngày trong tuần (trừ thứ Hai và thứ Sáu); sáng từ 8 giờ đến 11 giờ, chiều từ 13 giờ 30 đến 16 giờ 30. Chân trang chủ (đọc 13/10/2026) ghi 'Các ngày thứ Ba, Tư, Năm, Bảy và Chủ nhật'. Trang 'Thời gian và giá vé' không có nội dung giá vé; trang 'Đường đến Bảo tàng' ghi 'Nội dung đang được cập nhật...'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/quoc-phong-an-ninh/tin-tuc/khanh-thanh-cong-trinh-cai-tao-nang-cap-bao-tang-chien-thang-b-52-713544",
+        "quote": "Báo Quân đội nhân dân (11/12/2022; đọc 13/10/2026): Bộ tư lệnh Thủ đô Hà Nội khánh thành công trình cải tạo, nâng cấp bảo tàng sau gần 5 tháng thi công; hệ thống sa bàn dùng công nghệ hiện đại, số hóa tăng tương tác, tra cứu; bảo tàng mở cửa đón khách từ 15/12/2022 tại số 157 phố Đội Cấn, phường Ngọc Hà, quận Ba Đình.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/50-nam-chien-thang-ha-noi-dien-bien-phu-tren-khong/am-vang-chien-thang/noi-luu-giu-quang-ba-tam-voc-chien-thang-b-52-714153",
+        "quote": "Báo Quân đội nhân dân (18/12/2022; đọc 13/10/2026): theo Phó giám đốc bảo tàng, trong 12 ngày đêm năm 1972 ta bắn rơi 34 B-52, Hà Nội bắn rơi 25 chiếc; 16 chiếc rơi tại chỗ được thu mảnh xác, tập kết ở Bách Thảo, sau 1997 chuyển về bảo tàng và xếp thành hình khối tỷ lệ 1:1 như một chiếc B-52 ở sân; còn có radar P-35, đài chỉ huy, bệ phóng SAM-2, MiG-21, pháo cao xạ; phim về trận 'Điện Biên Phủ trên không' dùng công nghệ 3D mapping.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/bao-tang-chien-thang-b-52-co-mot-khong-hai-tren-the-gioi-cua-viet-nam-tong-dien-tich-hon-7-500m2-luu-giu-chien-tich-ha-noi-12-ngay-dem-bao-lua-120100.html",
+        "quote": "Người Quan sát (14/3/2024; đọc 13/10/2026): bảo tàng thành lập 6/11/1986, khánh thành 22/12/1997, cải tạo nâng cấp 12/2022, tổng diện tích trên 7.550 m²; khu trong nhà khoảng 1.500 m², khu ngoài trời khoảng 4.000 m²; sa bàn kết hợp âm thanh, ánh sáng, hiệu ứng khói và phim màn ảnh lớn; bảo tàng còn thu thập hồ sơ các di tích như điểm B-52 rơi đầu tiên ở Phù Lỗ, đài tưởng niệm Khâm Thiên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://visitbadinh.com.vn/vi/place/details/ho-huu-tiep-va-xac-may-bay-b52-3",
+        "quote": "Cổng thông tin du lịch phường Ba Đình (Phòng VHXH phường Ba Đình; không ghi ngày; đọc 13/10/2026): di tích Địa điểm lưu niệm chiến thắng B-52 tại hồ Hữu Tiệp, xếp hạng di tích lịch sử quốc gia ngày 27/12/1990; địa chỉ ngõ 55 Hoàng Hoa Thám (hoặc lối ngõ 155 Ngọc Hà); đêm 27/12/1972 Tiểu đoàn 72 (Trung đoàn 285) bắn trúng một B-52 khi chưa kịp cắt bom, phần lớn thân và cánh cắm xuống hồ; di tích là không gian mở gồm hồ, bia dẫn tích, đài kỷ niệm, cạnh đình Hữu Tiệp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 390,
+        "checked": "2026-10-13",
+        "keyword": "bảo tàng chiến thắng b52"
+      }
+    ],
+    "notes": "Giá vé: trang chính thức không nêu (mục giá vé 'đang được cập nhật'); vài trang du lịch thương mại (Green SM) ghi miễn phí – không dùng làm nguồn, writer không ghi giá vé. Chiều dài xác B-52 lệch giữa nguồn: trang chính thức 49,05 m, Người Quan sát 59,05 m – dùng số của trang chính thức hoặc bỏ. Lịch mở cửa lấy từ trang chính thức không ghi ngày cập nhật, đọc 13/10/2026; chân trang chủ khớp (thứ Ba, Tư, Năm, Bảy, Chủ nhật). Không ghi số điện thoại bảo tàng (quy tắc brief). Phường: QĐND 2022 ghi phường Ngọc Hà, quận Ba Đình (tên cũ); cổng du lịch phường Ba Đình ghi 'phường Ba Đình' ở thẻ địa chỉ hồ Hữu Tiệp nhưng phần thân bài vẫn ghi phường Ngọc Hà – writer nên ghi '157 Đội Cấn' và không khẳng định tên phường mới. Không có nguồn về chỗ gửi xe máy; hồ Hữu Tiệp mở cửa tự do (không gian mở) theo cổng du lịch, không có giờ.",
+    "outline": [
+      "Bảo tàng Chiến thắng B-52 ở đâu, khác Bảo tàng Phòng không – Không quân thế nào",
+      "Giờ mở cửa: nghỉ thứ Hai và thứ Sáu, hai ca sáng – chiều",
+      "Khu ngoài trời: xác B-52 xếp tỷ lệ 1:1, ra đa P35, bệ phóng SAM-2",
+      "Trong nhà: sa bàn 12 ngày đêm, phim 3D mapping sau nâng cấp 2022",
+      "Ghép hồ Hữu Tiệp: xác B-52 nằm giữa hồ ở ngõ 55 Hoàng Hoa Thám",
+      "Đi xe máy từ Long Biên và những điều nguồn chưa nêu (giá vé, gửi xe)"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-phong-khong-khong-quan/",
+      "/du-lich/hoang-thanh-thang-long/",
+      "/du-lich/lang-bac-gio-mo-cua/",
+      "/du-lich/bao-tang-lich-su-quan-su-viet-nam/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00463.json",
+  "draft_template": {
+    "id": "TM-00463",
+    "url": "/du-lich/bao-tang-chien-thang-b52/",
+    "title": "Bảo tàng Chiến thắng B-52: giờ mở cửa, xác B-52 ngoài sân, hồ Hữu Tiệp",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng chiến thắng b52, bảo tàng b52 đội cấn, bảo tàng chiến thắng b-52 giờ mở cửa, hồ hữu tiệp, xác máy bay b52 hà nội, bảo tàng b52 có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Chiến thắng B-52 ở đâu, khác Bảo tàng Phòng không – Không quân thế nào",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa: nghỉ thứ Hai và thứ Sáu, hai ca sáng – chiều",
+        "<p></p>"
+      ],
+      [
+        "Khu ngoài trời: xác B-52 xếp tỷ lệ 1:1, ra đa P35, bệ phóng SAM-2",
+        "<p></p>"
+      ],
+      [
+        "Trong nhà: sa bàn 12 ngày đêm, phim 3D mapping sau nâng cấp 2022",
+        "<p></p>"
+      ],
+      [
+        "Ghép hồ Hữu Tiệp: xác B-52 nằm giữa hồ ở ngõ 55 Hoàng Hoa Thám",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và những điều nguồn chưa nêu (giá vé, gửi xe)",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "http://baotangchienthangb52.com.vn/gioi-thieu2",
+        "quote": "Bảo tàng Chiến thắng B-52, trang Giới thiệu (không ghi ngày; đọc 13/10/2026): bảo tàng của lực lượng vũ trang Thủ đô, khánh thành 22/12/1997 nhân 25 năm chiến thắng 'Điện Biên Phủ trên không'; nằm trong không gian di tích 'Hồ Hữu Tiệp, xác máy bay B-52' và làng hoa Ngọc Hà. Trưng bày trong nhà: truyền thống LLVT Thủ đô, sa bàn chiến dịch 12 ngày đêm tháng 12/1972, chuyên đề 'Không quân chiến lược và chiến thuật Mỹ'. Ngoài trời: ra đa dẫn đường P35, bệ phóng tên lửa SAM2 của Tiểu đoàn 72; xác các máy bay B-52 lắp theo hình dạng thân dài 49,05 m, sải cánh 56,39 m. Địa chỉ 157 Đội Cấn, Ba Đình. Mở cửa các ngày trong tuần trừ thứ Hai và thứ Sáu; sáng 8–11 giờ, chiều 13 giờ 30–16 giờ 30.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://baotangchienthangb52.com.vn/tham-quan/quy-dinh-tham-quan",
+        "quote": "Bảo tàng Chiến thắng B-52, trang Quy định tham quan (không ghi ngày; đọc 13/10/2026): Địa chỉ 157 Đội Cấn, Ba Đình, Hà Nội; bảo tàng mở cửa các ngày trong tuần (trừ thứ Hai và thứ Sáu); sáng từ 8 giờ đến 11 giờ, chiều từ 13 giờ 30 đến 16 giờ 30. Chân trang chủ (đọc 13/10/2026) ghi 'Các ngày thứ Ba, Tư, Năm, Bảy và Chủ nhật'. Trang 'Thời gian và giá vé' không có nội dung giá vé; trang 'Đường đến Bảo tàng' ghi 'Nội dung đang được cập nhật...'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/quoc-phong-an-ninh/tin-tuc/khanh-thanh-cong-trinh-cai-tao-nang-cap-bao-tang-chien-thang-b-52-713544",
+        "quote": "Báo Quân đội nhân dân (11/12/2022; đọc 13/10/2026): Bộ tư lệnh Thủ đô Hà Nội khánh thành công trình cải tạo, nâng cấp bảo tàng sau gần 5 tháng thi công; hệ thống sa bàn dùng công nghệ hiện đại, số hóa tăng tương tác, tra cứu; bảo tàng mở cửa đón khách từ 15/12/2022 tại số 157 phố Đội Cấn, phường Ngọc Hà, quận Ba Đình.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/50-nam-chien-thang-ha-noi-dien-bien-phu-tren-khong/am-vang-chien-thang/noi-luu-giu-quang-ba-tam-voc-chien-thang-b-52-714153",
+        "quote": "Báo Quân đội nhân dân (18/12/2022; đọc 13/10/2026): theo Phó giám đốc bảo tàng, trong 12 ngày đêm năm 1972 ta bắn rơi 34 B-52, Hà Nội bắn rơi 25 chiếc; 16 chiếc rơi tại chỗ được thu mảnh xác, tập kết ở Bách Thảo, sau 1997 chuyển về bảo tàng và xếp thành hình khối tỷ lệ 1:1 như một chiếc B-52 ở sân; còn có radar P-35, đài chỉ huy, bệ phóng SAM-2, MiG-21, pháo cao xạ; phim về trận 'Điện Biên Phủ trên không' dùng công nghệ 3D mapping.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/bao-tang-chien-thang-b-52-co-mot-khong-hai-tren-the-gioi-cua-viet-nam-tong-dien-tich-hon-7-500m2-luu-giu-chien-tich-ha-noi-12-ngay-dem-bao-lua-120100.html",
+        "quote": "Người Quan sát (14/3/2024; đọc 13/10/2026): bảo tàng thành lập 6/11/1986, khánh thành 22/12/1997, cải tạo nâng cấp 12/2022, tổng diện tích trên 7.550 m²; khu trong nhà khoảng 1.500 m², khu ngoài trời khoảng 4.000 m²; sa bàn kết hợp âm thanh, ánh sáng, hiệu ứng khói và phim màn ảnh lớn; bảo tàng còn thu thập hồ sơ các di tích như điểm B-52 rơi đầu tiên ở Phù Lỗ, đài tưởng niệm Khâm Thiên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://visitbadinh.com.vn/vi/place/details/ho-huu-tiep-va-xac-may-bay-b52-3",
+        "quote": "Cổng thông tin du lịch phường Ba Đình (Phòng VHXH phường Ba Đình; không ghi ngày; đọc 13/10/2026): di tích Địa điểm lưu niệm chiến thắng B-52 tại hồ Hữu Tiệp, xếp hạng di tích lịch sử quốc gia ngày 27/12/1990; địa chỉ ngõ 55 Hoàng Hoa Thám (hoặc lối ngõ 155 Ngọc Hà); đêm 27/12/1972 Tiểu đoàn 72 (Trung đoàn 285) bắn trúng một B-52 khi chưa kịp cắt bom, phần lớn thân và cánh cắm xuống hồ; di tích là không gian mở gồm hồ, bia dẫn tích, đài kỷ niệm, cạnh đình Hữu Tiệp.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00463"
+  }
+}
