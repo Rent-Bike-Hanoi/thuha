@@ -557,3 +557,15 @@
 {"keyword": "xe máy qua cầu thanh trì", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
 {"keyword": "vành đai 3 trên cao xe máy", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
 {"keyword": "gửi xe máy ga metro hà nội", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "honda rebel 500", "volume": 1600, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "honda gb350s", "volume": 390, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "honda cb500 hornet", "volume": 140, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "honda cl500", "volume": 1600, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "yamaha mt-03", "volume": 1300, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "yamaha yzf-r3", "volume": 320, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "sym tuscany 150", "volume": 140, "kd": 0, "intent": "transactional", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "yadea velax", "volume": 5400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "selex ally sv eco", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}
+{"keyword": "vinfast amio", "volume": 2400, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vinfast zgoo", "volume": 1300, "kd": 0, "intent": "informational", "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": null}
+{"keyword": "vinfast kinet", "volume": null, "kd": null, "intent": null, "location": "vn", "language": "vi", "source": "openseo-dataforseo", "checked": "2026-10-13", "note": "no volume returned by OpenSEO"}

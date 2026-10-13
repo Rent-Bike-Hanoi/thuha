@@ -1,0 +1,177 @@
+{
+  "writer": "writer-w13a",
+  "queued": "2026-10-13T16:44:21.714999+00:00",
+  "topic": {
+    "topic_id": "TM-00425",
+    "url": "/xe-may/yamaha-yzf-r3/",
+    "title": "Yamaha YZF-R3: giá 132 triệu, 321 cc, hao 3,65 l/100 km, bằng A",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "yamaha yzf-r3",
+    "secondary_keywords": [
+      "yamaha r3 giá bao nhiêu",
+      "r3 2025 và 2024 khác gì",
+      "yzf-r3 thông số",
+      "r3 hao xăng",
+      "r3 cần bằng gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn mua sport bike 300 cc đầu tiên cần biết Yamaha R3 bản 2024 và 2025 cùng giá có khác nhau không, công suất, nặng, hao xăng, tải trọng và cần bằng gì.",
+    "information_gain": "Site có /xe-may/yamaha-r15-va-r15m/, /xe-may/honda-cbr150r/ nhưng chưa có bài về sport bike 321 cc. Bài thêm số liệu Yamaha đọc 13/10/2026: R3 2025 và R3 2024 cùng 132.000.000 đ; 321 cc 2 xi-lanh, 30,9 kW/10.750 vòng; mô-men ghi 29,5 Nm (2025) và 29,6 Nm (2024); hao 3,65 l/100 km; bình 14 l; dầu 2,4 l; nặng 169 kg; yên 780 mm; gầm 160 mm; tải trọng lớn nhất 329 kg; phanh trước đĩa 298 mm ABS; bảo hành 3 năm/30.000 km; so nhanh với MT-03 cùng máy (129–132 triệu) và R15; Điều 57 → bằng A.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/yzf-r3-2025-brab/",
+        "quote": "Yamaha Motor Việt Nam, trang YZF-R3 2025 (đọc 13/10/2026): giá bán lẻ đề xuất 132.000.000 VNĐ, màu Đen; giới thiệu \"thiết kế dựa trên cảm hứng từ huyền thoại YZR-M1\". Thông số: 4 thì, 2 xy lanh, làm mát chất lỏng; 321 cc; 68,0 x 44,1 mm; 11,2:1; 30.9 kW/10.750 vòng/phút; 29.5 Nm/9.000 vòng/phút; tiêu thụ 3,65 lít/100km; phun xăng điện tử; đánh lửa TCI; ly hợp đa đĩa ướt; 6 số; phanh trước đĩa đơn thủy lực ∅298 x 4,5 mm, ABS; lốp 110/70-17M/C 54H, 140/70-17M/C 66H không săm; đèn LED; 2.090 x 735 x 1.140 mm; yên 780 mm; trục bánh 1.380 mm; trọng lượng ướt 169 kg; bình 14.0 lít; dầu máy 2.4 lít; gầm 160 mm; tải trọng lớn nhất 329 kg; bảo hành 3 năm hoặc 30.000 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/yzf-r3-2024-bvjh/",
+        "quote": "Yamaha Motor Việt Nam, trang YZF-R3 2024 (đọc 13/10/2026): giá bán lẻ đề xuất 132.000.000 VNĐ, màu Đen; mô-men 29.6 Nm/9.000 vòng/phút; tiêu thụ 3.65 lít/100km; phanh trước đĩa đơn thủy lực ∅298 x 4,5 mm, ABS; yên 780 mm; trọng lượng ướt 169 kg; bảo hành 3 năm hoặc 30.000 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, trang bảng giá xe máy (đọc 13/10/2026), giá bán lẻ đề xuất: MT-03 129.000.000 VNĐ; MT-03 MỚI 132.000.000 VNĐ; YZF-R3 2025 132.000.000 VNĐ; YZF-R3 2024 132.000.000 VNĐ; cùng bảng XS155R 2025 78.000.000 VNĐ, YZF-R15M 86.000.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: \"Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1...\".",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 320,
+        "checked": "2026-10-13",
+        "keyword": "yamaha yzf-r3"
+      }
+    ],
+    "notes": "Chưa xác minh: (1) hai trang R3 ghi mô-men khác nhau 29,5 vs 29,6 Nm và trang không nói bản 2025 khác bản 2024 ở điểm nào – không tự bịa khác biệt, chỉ nói trang hãng chỉ thể hiện cùng giá, cùng màu Đen; (2) trang không ghi tốc độ tối đa, phanh sau (ô trống), ABS mấy kênh; (3) \"Tải trọng lớn nhất 329 kg\" có thể là tổng khối lượng cho phép – trích nguyên văn, không diễn giải là chở được 329 kg hàng. Business-facts không liệt kê R3: không viết cửa hàng cho thuê.",
+    "outline": [
+      "Yamaha YZF-R3 giá bao nhiêu, bản 2024 và 2025 trên bảng giá",
+      "Động cơ 321 cc: 30,9 kW, 29,5–29,6 Nm",
+      "Hao 3,65 l/100 km, bình 14 lít, nặng 169 kg",
+      "Phanh ABS, lốp và khung gầm",
+      "R3 so với MT-03 cùng máy và R15",
+      "Bảo hành 3 năm/30.000 km, cần bằng A",
+      "Những gì trang Yamaha không ghi"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/yamaha-r15-va-r15m/",
+      "/xe-may/honda-cbr150r/",
+      "/xe-may/yamaha-mt-15/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/xe-may/phanh-abs-xe-may-den-bao-abs/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00425.json",
+  "draft_template": {
+    "id": "TM-00425",
+    "url": "/xe-may/yamaha-yzf-r3/",
+    "title": "Yamaha YZF-R3: giá 132 triệu, 321 cc, hao 3,65 l/100 km, bằng A",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "yamaha yzf-r3, yamaha r3 giá bao nhiêu, r3 2025 và 2024 khác gì, yzf-r3 thông số, r3 hao xăng, r3 cần bằng gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Yamaha YZF-R3 giá bao nhiêu, bản 2024 và 2025 trên bảng giá",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 321 cc: 30,9 kW, 29,5–29,6 Nm",
+        "<p></p>"
+      ],
+      [
+        "Hao 3,65 l/100 km, bình 14 lít, nặng 169 kg",
+        "<p></p>"
+      ],
+      [
+        "Phanh ABS, lốp và khung gầm",
+        "<p></p>"
+      ],
+      [
+        "R3 so với MT-03 cùng máy và R15",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành 3 năm/30.000 km, cần bằng A",
+        "<p></p>"
+      ],
+      [
+        "Những gì trang Yamaha không ghi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/yzf-r3-2025-brab/",
+        "quote": "Yamaha Motor Việt Nam, trang YZF-R3 2025 (đọc 13/10/2026): giá bán lẻ đề xuất 132.000.000 VNĐ, màu Đen; giới thiệu \"thiết kế dựa trên cảm hứng từ huyền thoại YZR-M1\". Thông số: 4 thì, 2 xy lanh, làm mát chất lỏng; 321 cc; 68,0 x 44,1 mm; 11,2:1; 30.9 kW/10.750 vòng/phút; 29.5 Nm/9.000 vòng/phút; tiêu thụ 3,65 lít/100km; phun xăng điện tử; đánh lửa TCI; ly hợp đa đĩa ướt; 6 số; phanh trước đĩa đơn thủy lực ∅298 x 4,5 mm, ABS; lốp 110/70-17M/C 54H, 140/70-17M/C 66H không săm; đèn LED; 2.090 x 735 x 1.140 mm; yên 780 mm; trục bánh 1.380 mm; trọng lượng ướt 169 kg; bình 14.0 lít; dầu máy 2.4 lít; gầm 160 mm; tải trọng lớn nhất 329 kg; bảo hành 3 năm hoặc 30.000 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/xe/yzf-r3-2024-bvjh/",
+        "quote": "Yamaha Motor Việt Nam, trang YZF-R3 2024 (đọc 13/10/2026): giá bán lẻ đề xuất 132.000.000 VNĐ, màu Đen; mô-men 29.6 Nm/9.000 vòng/phút; tiêu thụ 3.65 lít/100km; phanh trước đĩa đơn thủy lực ∅298 x 4,5 mm, ABS; yên 780 mm; trọng lượng ướt 169 kg; bảo hành 3 năm hoặc 30.000 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/bang-gia-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, trang bảng giá xe máy (đọc 13/10/2026), giá bán lẻ đề xuất: MT-03 129.000.000 VNĐ; MT-03 MỚI 132.000.000 VNĐ; YZF-R3 2025 132.000.000 VNĐ; YZF-R3 2024 132.000.000 VNĐ; cùng bảng XS155R 2025 78.000.000 VNĐ, YZF-R15M 86.000.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn, ghi \"Nguồn: Chinhphu.vn\"; đọc 13/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: \"Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1...\".",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00425"
+  }
+}
