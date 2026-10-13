@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w12b",
+  "queued": "2026-10-13T16:20:48.439488+00:00",
+  "topic": {
+    "topic_id": "TM-00409",
+    "url": "/du-lich/pho-phan-dinh-phung/",
+    "title": "Phố Phan Đình Phùng: hàng sấu giữ lại theo đề án 2026, đi dạo, chụp ảnh",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "phố phan đình phùng",
+    "secondary_keywords": [
+      "đường phan đình phùng",
+      "phố phan đình phùng mùa thu",
+      "con đường đẹp nhất hà nội",
+      "hàng sấu phan đình phùng",
+      "nhà thờ cửa bắc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi dạo, chụp ảnh mùa thu ở phố Phan Đình Phùng cần biết phố dài bao nhiêu, đoạn nào nhiều cây, có gì quanh đó (nhà thờ Cửa Bắc, Bắc Môn) và hàng cây có bị thay đổi sau bão Yagi hay đề án cây xanh mới không.",
+    "information_gain": "Site chưa có bài về phố Phan Đình Phùng. Gần nhất là /du-lich/hoang-thanh-thang-long/, /du-lich/den-quan-thanh/ và /du-lich/ha-noi/vong-ho-tay-xe-may/ (cùng khu Ba Đình). Bài này thêm: chiều dài khoảng 1,5 km nối Mai Xuân Thưởng – Hàng Cót, nhà thờ Cửa Bắc xây 1925, Bắc Môn thờ Nguyễn Tri Phương, Hoàng Diệu (Người Hà Nội 2023); thiệt hại cây cổ thụ sau bão Yagi 7/9/2024 (Hà Nội Online); và thay đổi có ngày: đề án cây xanh theo Quyết định 5008 của Chủ tịch UBND TP (Tiền Phong 12/10/2026) giữ hàng sấu từ Mai Xuân Thưởng đến Cửa Bắc, hàng nhội từ Cửa Bắc đến Hàng Đậu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/moi-tuyen-pho-ha-noi-se-co-loai-cay-xanh-chu-dao-post1884468.tpo",
+        "quote": "Báo Tiền Phong, 'Mỗi tuyến phố Hà Nội sẽ có loài cây xanh chủ đạo' (12/10/2026; đọc 13/10/2026): Chủ tịch UBND TP Hà Nội ký quyết định số 5008 phê duyệt đề án Quản lý phát triển hệ thống cây xanh, công viên, vườn hoa, mặt nước; mục tiêu đến 2030 cây xanh đô thị trên 10 m²/người; nhóm 'phố ký ức' Ba Đình – Hoàn Kiếm ưu tiên giữ sấu, nhội, thàn mát, quếch, sao đen; 'Phố Phan Đình Phùng tiếp tục giữ hàng sấu từ Mai Xuân Thưởng đến Cửa Bắc, hàng nhội từ Cửa Bắc đến Hàng Đậu', dưới gốc có thể bổ sung cỏ nhung, lài tây, nguyệt quế.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/mua-di-qua-duong-phan-dinh-phung-73991.html",
+        "quote": "Báo Người Hà Nội, 'Mùa đi qua đường Phan Đình Phùng' (10/7/2023, bài dự thi 'Hà Nội và tôi' của tác giả Chung Tiến Lực; đọc 13/10/2026): đường dài khoảng 1,5 km nối Mai Xuân Thưởng đến Hàng Cót, ngang qua Hoàng Diệu, Đặng Dung, Nguyễn Tri Phương, Hàng Bún; bốn hàng cây cổ thụ trên hè hai bên; nhà thờ Cửa Bắc xây năm 1925 theo phong cách Roman, tháp chuông lệch phải; đối diện là Bắc Môn còn vết đạn đại bác, lầu thờ Nguyễn Tri Phương và Hoàng Diệu; nhiều biệt thự Pháp; trường THPT Phan Đình Phùng; tháng 10 cây thay lá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoionline.vn/pho-nang-tho-dep-nhat-thu-do-ra-sao-sau-sieu-bao-263925.htm",
+        "quote": "Hà Nội Online, 'Phố nàng thơ đẹp nhất Thủ đô ra sao sau siêu bão?' (8/9/2024; đọc 13/10/2026): phố Phan Đình Phùng có ba hàng cây chính với vỉa hè rộng, cây đa phần là sấu, xà cừ trăm tuổi; sau bão số 3 (Yagi) tối và đêm 7/9/2024 nhiều cây lớn, có cây cổ thụ, bị đổ rạp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "phố phan đình phùng"
+      }
+    ],
+    "notes": "Số hàng cây mâu thuẫn: 'bốn hàng' (Người Hà Nội, văn dự thi) và 'ba hàng cây chính' (Hà Nội Online) – viết 'ba đến bốn hàng cây tùy đoạn' hoặc nêu nguồn. Bài Người Hà Nội là văn dự thi, chỉ dùng cho mô tả địa lý (chiều dài, phố giao cắt, nhà thờ Cửa Bắc 1925) và nêu rõ nguồn. Quy định đỗ xe, chụp ảnh trên vỉa hè, phạt dừng đỗ: không có nguồn riêng cho phố này – có thể link bài luật đỗ xe chung. Không ghi giờ lễ nhà thờ Cửa Bắc (không có nguồn). Không có thông tin cây đã trồng thay sau bão Yagi.",
+    "outline": [
+      "Phố Phan Đình Phùng ở đâu, dài bao nhiêu",
+      "Hàng sấu, hàng nhội: đề án cây xanh 10/2026 nói gì",
+      "Sau bão Yagi 2024: những gì đã mất",
+      "Dọc phố có gì: nhà thờ Cửa Bắc, Bắc Môn, biệt thự Pháp",
+      "Đi dạo, chụp ảnh mùa thu mà không đỗ xe sai chỗ",
+      "Ghép lịch: Hoàng thành, đền Quán Thánh, Lăng Bác"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/hoang-thanh-thang-long/",
+      "/du-lich/den-quan-thanh/",
+      "/du-lich/lang-bac-gio-mo-cua/",
+      "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00409.json",
+  "draft_template": {
+    "id": "TM-00409",
+    "url": "/du-lich/pho-phan-dinh-phung/",
+    "title": "Phố Phan Đình Phùng: hàng sấu giữ lại theo đề án 2026, đi dạo, chụp ảnh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phố phan đình phùng, đường phan đình phùng, phố phan đình phùng mùa thu, con đường đẹp nhất hà nội, hàng sấu phan đình phùng, nhà thờ cửa bắc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phố Phan Đình Phùng ở đâu, dài bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Hàng sấu, hàng nhội: đề án cây xanh 10/2026 nói gì",
+        "<p></p>"
+      ],
+      [
+        "Sau bão Yagi 2024: những gì đã mất",
+        "<p></p>"
+      ],
+      [
+        "Dọc phố có gì: nhà thờ Cửa Bắc, Bắc Môn, biệt thự Pháp",
+        "<p></p>"
+      ],
+      [
+        "Đi dạo, chụp ảnh mùa thu mà không đỗ xe sai chỗ",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch: Hoàng thành, đền Quán Thánh, Lăng Bác",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/moi-tuyen-pho-ha-noi-se-co-loai-cay-xanh-chu-dao-post1884468.tpo",
+        "quote": "Báo Tiền Phong, 'Mỗi tuyến phố Hà Nội sẽ có loài cây xanh chủ đạo' (12/10/2026; đọc 13/10/2026): Chủ tịch UBND TP Hà Nội ký quyết định số 5008 phê duyệt đề án Quản lý phát triển hệ thống cây xanh, công viên, vườn hoa, mặt nước; mục tiêu đến 2030 cây xanh đô thị trên 10 m²/người; nhóm 'phố ký ức' Ba Đình – Hoàn Kiếm ưu tiên giữ sấu, nhội, thàn mát, quếch, sao đen; 'Phố Phan Đình Phùng tiếp tục giữ hàng sấu từ Mai Xuân Thưởng đến Cửa Bắc, hàng nhội từ Cửa Bắc đến Hàng Đậu', dưới gốc có thể bổ sung cỏ nhung, lài tây, nguyệt quế.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/mua-di-qua-duong-phan-dinh-phung-73991.html",
+        "quote": "Báo Người Hà Nội, 'Mùa đi qua đường Phan Đình Phùng' (10/7/2023, bài dự thi 'Hà Nội và tôi' của tác giả Chung Tiến Lực; đọc 13/10/2026): đường dài khoảng 1,5 km nối Mai Xuân Thưởng đến Hàng Cót, ngang qua Hoàng Diệu, Đặng Dung, Nguyễn Tri Phương, Hàng Bún; bốn hàng cây cổ thụ trên hè hai bên; nhà thờ Cửa Bắc xây năm 1925 theo phong cách Roman, tháp chuông lệch phải; đối diện là Bắc Môn còn vết đạn đại bác, lầu thờ Nguyễn Tri Phương và Hoàng Diệu; nhiều biệt thự Pháp; trường THPT Phan Đình Phùng; tháng 10 cây thay lá.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoionline.vn/pho-nang-tho-dep-nhat-thu-do-ra-sao-sau-sieu-bao-263925.htm",
+        "quote": "Hà Nội Online, 'Phố nàng thơ đẹp nhất Thủ đô ra sao sau siêu bão?' (8/9/2024; đọc 13/10/2026): phố Phan Đình Phùng có ba hàng cây chính với vỉa hè rộng, cây đa phần là sấu, xà cừ trăm tuổi; sau bão số 3 (Yagi) tối và đêm 7/9/2024 nhiều cây lớn, có cây cổ thụ, bị đổ rạp.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00409"
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "writer": "writer-w12b",
+  "queued": "2026-10-13T16:20:48.438700+00:00",
+  "topic": {
+    "topic_id": "TM-00407",
+    "url": "/du-lich/chua-lien-phai/",
+    "title": "Chùa Liên Phái 300 năm: tổ đình thiền phái Liên Tông, tháp cổ, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa liên phái",
+    "secondary_keywords": [
+      "chùa liên phái bạch mai",
+      "chùa liên phái ở đâu",
+      "tháp cửu phẩm liên hoa",
+      "thiền phái liên tông",
+      "chùa liên phái 300 năm"
+    ],
+    "intent": "informational",
+    "user_problem": "Phật tử và người yêu di tích ở khu Bạch Mai – Hai Bà Trưng cần biết chùa Liên Phái ở đâu, lịch sử 300 năm, có gì để xem (tháp cổ, tượng Thượng Giai) và lưu ý khi đi lễ.",
+    "information_gain": "Site chưa có bài về chùa Liên Phái. Gần nhất là /du-lich/chua-quan-su/, /du-lich/chua-tran-quoc/ và /du-lich/chua-boc/ (các chùa nội thành khác). Bài này thêm: tên chùa qua các thời (Liên Hoa 1726 → Liên Tông 1733 → Liên Phái 1840 vì kiêng húy Thiệu Trị), người khai sơn Như Trừng Lân Giác (Trịnh Thập, em chúa Trịnh Cương), tổ đình thiền phái Liên Tông, trung tâm in khắc kinh; tượng Nguyễn Đăng Giai (Thượng Giai) chuyển từ chùa Liên Trì bên Hồ Gươm; xếp hạng quốc gia 28/4/1962 (trang 360 di tích Hai Bà Trưng); mốc lễ kỷ niệm 300 năm ngày 1/4/2026 và trụ trì Hòa thượng Thích Gia Quang (Dân tộc & Phát triển).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://360ditich.haibatrung.hanoi.gov.vn/vi/vtour/details/di-tich-chua-lien-phai-3",
+        "quote": "Trang 360 di tích quận Hai Bà Trưng (Phòng VHTT Hai Bà Trưng; đọc 13/10/2026, trang không ghi ngày): chùa Liên Phái (Liên Phái tự) ở cuối ngõ Chùa Liên Phái, phố Bạch Mai, phường Cầu Dền (cũ); theo bia, mới xây (1726) tên chùa Liên Hoa, năm 1733 đổi Liên Tông, năm 1840 đời Thiệu Trị đổi thành Liên Phái vì kiêng húy; do Lân Giác Thượng sĩ tên thật Trịnh Thập, em ruột chúa Trịnh Cương tạo dựng; là chùa Tổ phái Liên Tông, trung tâm in khắc gỗ kinh Phật lớn; gồm Tam quan, tháp Liên hoa 11 tầng, nhà bia, chùa chính, nhà Mẫu, nhà Tổ, vườn tháp; chuông 'Liên Tông tục diện' thời Lê Trung Hưng, biển gỗ khắc 3 bài thơ năm Khải Định thứ nhất (1919); tượng Nguyễn Đăng Giai (Thượng Giai) – người dựng chùa Liên Trì cạnh hồ Hoàn Kiếm nay chỉ còn tháp Hòa Phong; xếp hạng di tích quốc gia ngày 28/4/1962.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/dau-moc-300-nam-chua-lien-phai-tu-dong-thien-den-di-san-van-hoa-74355.html",
+        "quote": "Báo Dân tộc & Phát triển, 'Dấu mốc 300 năm chùa Liên Phái – Từ dòng thiền đến di sản văn hóa' (1/4/2026; đọc 13/10/2026): sáng 1/4/2026 chùa tổ chức lễ giỗ Tổ khai sáng và kỷ niệm 300 năm; chùa ở ngõ chùa Liên Phái, phường Bạch Mai, do Thiền sư Như Trừng Lân Giác (1696–1733) khởi dựng năm Bính Ngọ (1726), niên hiệu Bảo Thái; trụ trì Hòa thượng Thích Gia Quang; xếp hạng di tích quốc gia từ năm 1962; kiến trúc 'nội công ngoại quốc'; tháp cổ cửu phẩm Liên Hoa cao 10 tầng; bảo tháp Cứu Sinh bằng đá xanh gần 300 năm tuổi; phường Bạch Mai có 13 di tích lịch sử – văn hóa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 5400,
+        "checked": "2026-10-13",
+        "keyword": "chùa liên phái"
+      }
+    ],
+    "notes": "Mâu thuẫn số tầng tháp: 11 tầng (trang 360 di tích) và 10 tầng (Dân tộc & Phát triển, chú thích ảnh) – viết 'khoảng 10–11 tầng, tùy cách đếm' hoặc nêu cả hai nguồn. Tên 'tháp Diệu Quang' chỉ thấy trên bài Facebook – không dùng. Giờ mở cửa, gửi xe, quy định trang phục: không có nguồn – không viết. Địa giới mới: phường Bạch Mai (sau 7/2025) – trang 360 dùng tên cũ phường Cầu Dền. Ngõ hẹp, cuối ngõ: không có nguồn về việc ô tô/xe máy vào được tới cổng – khuyên kiểm tra thực tế.",
+    "outline": [
+      "Chùa Liên Phái ở đâu: cuối ngõ Liên Phái, phố Bạch Mai",
+      "Ba lần đổi tên: Liên Hoa, Liên Tông, Liên Phái",
+      "Thiền sư Như Trừng Lân Giác và thiền phái Liên Tông",
+      "Xem gì: tháp cửu phẩm, bảo tháp Cứu Sinh, tượng Thượng Giai",
+      "Mốc 300 năm (1/4/2026) và lễ giỗ Tổ",
+      "Đi lễ bằng xe máy vào ngõ hẹp: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-quan-su/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/chua-boc/",
+      "/du-lich/thap-rua-ho-guom/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00407.json",
+  "draft_template": {
+    "id": "TM-00407",
+    "url": "/du-lich/chua-lien-phai/",
+    "title": "Chùa Liên Phái 300 năm: tổ đình thiền phái Liên Tông, tháp cổ, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa liên phái, chùa liên phái bạch mai, chùa liên phái ở đâu, tháp cửu phẩm liên hoa, thiền phái liên tông, chùa liên phái 300 năm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Liên Phái ở đâu: cuối ngõ Liên Phái, phố Bạch Mai",
+        "<p></p>"
+      ],
+      [
+        "Ba lần đổi tên: Liên Hoa, Liên Tông, Liên Phái",
+        "<p></p>"
+      ],
+      [
+        "Thiền sư Như Trừng Lân Giác và thiền phái Liên Tông",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: tháp cửu phẩm, bảo tháp Cứu Sinh, tượng Thượng Giai",
+        "<p></p>"
+      ],
+      [
+        "Mốc 300 năm (1/4/2026) và lễ giỗ Tổ",
+        "<p></p>"
+      ],
+      [
+        "Đi lễ bằng xe máy vào ngõ hẹp: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://360ditich.haibatrung.hanoi.gov.vn/vi/vtour/details/di-tich-chua-lien-phai-3",
+        "quote": "Trang 360 di tích quận Hai Bà Trưng (Phòng VHTT Hai Bà Trưng; đọc 13/10/2026, trang không ghi ngày): chùa Liên Phái (Liên Phái tự) ở cuối ngõ Chùa Liên Phái, phố Bạch Mai, phường Cầu Dền (cũ); theo bia, mới xây (1726) tên chùa Liên Hoa, năm 1733 đổi Liên Tông, năm 1840 đời Thiệu Trị đổi thành Liên Phái vì kiêng húy; do Lân Giác Thượng sĩ tên thật Trịnh Thập, em ruột chúa Trịnh Cương tạo dựng; là chùa Tổ phái Liên Tông, trung tâm in khắc gỗ kinh Phật lớn; gồm Tam quan, tháp Liên hoa 11 tầng, nhà bia, chùa chính, nhà Mẫu, nhà Tổ, vườn tháp; chuông 'Liên Tông tục diện' thời Lê Trung Hưng, biển gỗ khắc 3 bài thơ năm Khải Định thứ nhất (1919); tượng Nguyễn Đăng Giai (Thượng Giai) – người dựng chùa Liên Trì cạnh hồ Hoàn Kiếm nay chỉ còn tháp Hòa Phong; xếp hạng di tích quốc gia ngày 28/4/1962.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/dau-moc-300-nam-chua-lien-phai-tu-dong-thien-den-di-san-van-hoa-74355.html",
+        "quote": "Báo Dân tộc & Phát triển, 'Dấu mốc 300 năm chùa Liên Phái – Từ dòng thiền đến di sản văn hóa' (1/4/2026; đọc 13/10/2026): sáng 1/4/2026 chùa tổ chức lễ giỗ Tổ khai sáng và kỷ niệm 300 năm; chùa ở ngõ chùa Liên Phái, phường Bạch Mai, do Thiền sư Như Trừng Lân Giác (1696–1733) khởi dựng năm Bính Ngọ (1726), niên hiệu Bảo Thái; trụ trì Hòa thượng Thích Gia Quang; xếp hạng di tích quốc gia từ năm 1962; kiến trúc 'nội công ngoại quốc'; tháp cổ cửu phẩm Liên Hoa cao 10 tầng; bảo tháp Cứu Sinh bằng đá xanh gần 300 năm tuổi; phường Bạch Mai có 13 di tích lịch sử – văn hóa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00407"
+  }
+}

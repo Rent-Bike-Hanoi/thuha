@@ -1,0 +1,156 @@
+{
+  "writer": "writer-w12b",
+  "queued": "2026-10-13T16:20:48.438251+00:00",
+  "topic": {
+    "topic_id": "TM-00408",
+    "url": "/du-lich/bao-tang-phong-khong-khong-quan/",
+    "title": "Bảo tàng Phòng không – Không quân: MiG-21, B-52, triển lãm đến 1/2027",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bảo tàng phòng không không quân",
+    "secondary_keywords": [
+      "bảo tàng phòng không không quân hà nội",
+      "bảo tàng không quân trường chinh",
+      "bảo tàng pkkq",
+      "bảo tàng máy bay hà nội",
+      "triển lãm trận đánh độc đáo phòng không không quân"
+    ],
+    "intent": "informational",
+    "user_problem": "Gia đình có trẻ thích máy bay, học sinh và khách quan tâm lịch sử quân sự muốn xem máy bay, tên lửa thật ở Hà Nội cần biết bảo tàng ở đâu, trưng bày gì, có triển lãm gì đang mở.",
+    "information_gain": "Bài gần nhất là /du-lich/bao-tang-lich-su-quan-su-viet-nam/ (bảo tàng khác ở Đại lộ Thăng Long) và /du-lich/nha-tu-hoa-lo/. Bài này thêm dữ liệu riêng của Bảo tàng PK-KQ: thành lập 22/10/1963, xây mới 2004, mở cửa 28/8/2007, xếp hạng 2; diện tích trưng bày 18.200 m² (ngoài trời 15.000 m², trong nhà 3.200 m²), 73 hiện vật thể khối lớn ngoài trời (pháo 37 mm Tô Vĩnh Diện, bệ phóng tên lửa bắn rơi B-52 đầu tiên, MiG-21 bắn rơi B-52 đêm 27/12/1972, A-37 Phi đội Quyết Thắng), hơn 3.000 hiện vật trong nhà theo 6 chủ đề (Bảo tàng Lịch sử Quốc gia); và triển lãm chuyên đề 'Một số trận đánh độc đáo...' khai mạc 14h 11/8/2026 tại số 173C Trường Chinh, hơn 300 hình ảnh, tư liệu, hiện vật, 12 trận đánh (Bảo tàng LSQS VN). Khác /du-lich/bao-tang-ha-noi/ (bảo tàng thành phố, Phạm Hùng): đây là bảo tàng của Quân chủng Phòng không – Không quân, hiện vật máy bay, tên lửa; chỉ trùng chữ 'bảo tàng'.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/17531/bao-tang-phong-khong-khong-quan-viet-nam.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, bài 'Bảo tàng Phòng không - Không quân Việt Nam' (mục Trưng bày thường xuyên; kết quả tìm kiếm ghi 31/12/2014; đọc 13/10/2026): bảo tàng thành lập ngày 22/10/1963, địa chỉ ghi 'số 171 đường Trường Chinh'; tiền thân Phòng Truyền thống Phòng không năm 1958; năm 2004 đầu tư xây mới, ngày 28/8/2007 mở cửa; tổng diện tích trưng bày 18.200 m² (ngoài trời 15.000 m², trong nhà 3.200 m²); xếp hạng 2; ngoài trời 73 hiện vật thể khối lớn của 4 lực lượng máy bay, pháo cao xạ, tên lửa, ra đa: khẩu pháo 37 mm của Anh hùng Tô Vĩnh Diện, pháo 90 mm trận đầu 5/8/1964, ra đa bắt tín hiệu B-52 sớm 35 phút năm 1972, bệ phóng tên lửa bắn rơi B-52 đầu tiên tháng 12/1972, MiG-21 bắn rơi B-52 đêm 27/12/1972; còn MiG-17, MiG-19, trực thăng, A-37 Phi đội Quyết Thắng; trong nhà hơn 3.000 hiện vật, hình ảnh ở tầng 1 và 2 theo 6 chủ đề, có phần về chuyến bay vũ trụ Việt Nam – Liên Xô 1980.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://btlsqsvn.mod.gov.vn/tin-tuc/chi-tiet/duyet-trien-lam-chuyen-de-mot-so-tran-danh-doc-dao-cua-bo-doi-phong-khong-khong-quan-cd678bd9-34e7-4f1c-b4d8-618258f75550",
+        "quote": "Bảo tàng Lịch sử Quân sự Việt Nam (trang tin, bài của Bảo tàng PK-KQ, 6/8/2026; đọc 13/10/2026 qua TinyFish): sáng 6/8/2026 duyệt Triển lãm chuyên đề 'Một số trận đánh độc đáo của Bộ đội Phòng không - Không quân', hơn 300 hình ảnh, tư liệu, hiện vật; 4 phần, 12 trận đánh tiêu biểu của Pháo phòng không, Không quân, Ra-da, Tên lửa (bắn rơi B-24 ở Điện Biên Phủ, trận 8 viên đạn hạ F-105D tại Hà Nội, tiến công tàu chiến Mỹ, vạch nhiễu bắn B-52); dự kiến khai mạc 14 giờ ngày 11/8/2026 tại Bảo tàng Phòng không - Không quân, số 173C đường Trường Chinh, Hà Nội.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://btlsqsvn.mod.gov.vn/tin-tuc/chi-tiet/khai-mac-trien-lam-chuyen-de-mot-so-tran-danh-doc-dao-cua-bo-doi-phong-khong-khong-quan-6961d796-f123-42a6-8b57-524ffec2ac48",
+        "quote": "Bảo tàng Lịch sử Quân sự Việt Nam, 'Khai mạc triển lãm chuyên đề...' (đọc 13/10/2026; phần mô tả trang): chiều 11/8/2026 Quân chủng PK-KQ khai mạc triển lãm (lần thứ 3) nhân 81 năm Quốc khánh và 63 năm Ngày truyền thống Quân chủng (22/10/1963 – 22/10/2026). Đoạn kết quả tìm kiếm của cùng trang ghi triển lãm mở từ 11/08/2026 đến hết 09/01/2027 tại số 173C Trường Chinh (toàn văn chưa tải được, xem notes).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 14800,
+        "checked": "2026-10-13",
+        "keyword": "bảo tàng phòng không không quân"
+      }
+    ],
+    "notes": "Giờ mở cửa và giá vé của Bảo tàng PK-KQ: chỉ có trên trang du lịch/thương mại với số liệu mâu thuẫn (vé 15.000 hay 30.000 đ; thứ Sáu chỉ đón đoàn; cuối tuần chỉ mở khu ngoài trời) – KHÔNG đưa vào bài; khuyên gọi/kiểm tra trước. Giờ mở cửa '08:00–16:30, trừ thứ Hai và thứ Sáu' trên trang btlsqsvn.mod.gov.vn là của Bảo tàng Lịch sử Quân sự VN, KHÔNG phải PK-KQ – không dùng nhầm. Ngày kết thúc triển lãm 9/1/2027 chỉ thấy trong đoạn trích kết quả tìm kiếm (toàn văn bài khai mạc không tải được) – viết 'theo thông báo, mở đến đầu tháng 1/2027, kiểm tra lại'. Địa chỉ: 171 (bài Bảo tàng Lịch sử Quốc gia) và 173C (bài 2026 của chính Bảo tàng PK-KQ) – dùng 173C. Số liệu 73 hiện vật/3.000 hiện vật là từ bài cũ (ngày theo kết quả tìm kiếm 2014) – ghi 'theo giới thiệu của Bảo tàng Lịch sử Quốc gia'. Phường hiện nay (Phương Liệt/Khương Mai) chưa xác minh.",
+    "outline": [
+      "Bảo tàng Phòng không – Không quân ở đâu: 173C Trường Chinh",
+      "Khu ngoài trời: 73 hiện vật lớn, MiG-21, bệ phóng tên lửa",
+      "Trong nhà: 6 chủ đề, từ Điện Biên Phủ đến 12 ngày đêm 1972",
+      "Triển lãm 'Một số trận đánh độc đáo' 2026",
+      "Giờ mở, vé: vì sao nên gọi trước",
+      "Đi xe máy trên Trường Chinh giờ cao điểm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-lich-su-quan-su-viet-nam/",
+      "/du-lich/nha-tu-hoa-lo/",
+      "/du-lich/bao-tang-ha-noi/",
+      "/thue-xe-may/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/bao-tang-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.451
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/bao-tang-ha-noi/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00408.json",
+  "draft_template": {
+    "id": "TM-00408",
+    "url": "/du-lich/bao-tang-phong-khong-khong-quan/",
+    "title": "Bảo tàng Phòng không – Không quân: MiG-21, B-52, triển lãm đến 1/2027",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng phòng không không quân, bảo tàng phòng không không quân hà nội, bảo tàng không quân trường chinh, bảo tàng pkkq, bảo tàng máy bay hà nội, triển lãm trận đánh độc đáo phòng không không quân",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Phòng không – Không quân ở đâu: 173C Trường Chinh",
+        "<p></p>"
+      ],
+      [
+        "Khu ngoài trời: 73 hiện vật lớn, MiG-21, bệ phóng tên lửa",
+        "<p></p>"
+      ],
+      [
+        "Trong nhà: 6 chủ đề, từ Điện Biên Phủ đến 12 ngày đêm 1972",
+        "<p></p>"
+      ],
+      [
+        "Triển lãm 'Một số trận đánh độc đáo' 2026",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở, vé: vì sao nên gọi trước",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy trên Trường Chinh giờ cao điểm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/17531/bao-tang-phong-khong-khong-quan-viet-nam.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, bài 'Bảo tàng Phòng không - Không quân Việt Nam' (mục Trưng bày thường xuyên; kết quả tìm kiếm ghi 31/12/2014; đọc 13/10/2026): bảo tàng thành lập ngày 22/10/1963, địa chỉ ghi 'số 171 đường Trường Chinh'; tiền thân Phòng Truyền thống Phòng không năm 1958; năm 2004 đầu tư xây mới, ngày 28/8/2007 mở cửa; tổng diện tích trưng bày 18.200 m² (ngoài trời 15.000 m², trong nhà 3.200 m²); xếp hạng 2; ngoài trời 73 hiện vật thể khối lớn của 4 lực lượng máy bay, pháo cao xạ, tên lửa, ra đa: khẩu pháo 37 mm của Anh hùng Tô Vĩnh Diện, pháo 90 mm trận đầu 5/8/1964, ra đa bắt tín hiệu B-52 sớm 35 phút năm 1972, bệ phóng tên lửa bắn rơi B-52 đầu tiên tháng 12/1972, MiG-21 bắn rơi B-52 đêm 27/12/1972; còn MiG-17, MiG-19, trực thăng, A-37 Phi đội Quyết Thắng; trong nhà hơn 3.000 hiện vật, hình ảnh ở tầng 1 và 2 theo 6 chủ đề, có phần về chuyến bay vũ trụ Việt Nam – Liên Xô 1980.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://btlsqsvn.mod.gov.vn/tin-tuc/chi-tiet/duyet-trien-lam-chuyen-de-mot-so-tran-danh-doc-dao-cua-bo-doi-phong-khong-khong-quan-cd678bd9-34e7-4f1c-b4d8-618258f75550",
+        "quote": "Bảo tàng Lịch sử Quân sự Việt Nam (trang tin, bài của Bảo tàng PK-KQ, 6/8/2026; đọc 13/10/2026 qua TinyFish): sáng 6/8/2026 duyệt Triển lãm chuyên đề 'Một số trận đánh độc đáo của Bộ đội Phòng không - Không quân', hơn 300 hình ảnh, tư liệu, hiện vật; 4 phần, 12 trận đánh tiêu biểu của Pháo phòng không, Không quân, Ra-da, Tên lửa (bắn rơi B-24 ở Điện Biên Phủ, trận 8 viên đạn hạ F-105D tại Hà Nội, tiến công tàu chiến Mỹ, vạch nhiễu bắn B-52); dự kiến khai mạc 14 giờ ngày 11/8/2026 tại Bảo tàng Phòng không - Không quân, số 173C đường Trường Chinh, Hà Nội.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://btlsqsvn.mod.gov.vn/tin-tuc/chi-tiet/khai-mac-trien-lam-chuyen-de-mot-so-tran-danh-doc-dao-cua-bo-doi-phong-khong-khong-quan-6961d796-f123-42a6-8b57-524ffec2ac48",
+        "quote": "Bảo tàng Lịch sử Quân sự Việt Nam, 'Khai mạc triển lãm chuyên đề...' (đọc 13/10/2026; phần mô tả trang): chiều 11/8/2026 Quân chủng PK-KQ khai mạc triển lãm (lần thứ 3) nhân 81 năm Quốc khánh và 63 năm Ngày truyền thống Quân chủng (22/10/1963 – 22/10/2026). Đoạn kết quả tìm kiếm của cùng trang ghi triển lãm mở từ 11/08/2026 đến hết 09/01/2027 tại số 173C Trường Chinh (toàn văn chưa tải được, xem notes).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00408"
+  }
+}

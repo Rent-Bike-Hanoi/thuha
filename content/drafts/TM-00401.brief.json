@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w12a",
+  "queued": "2026-10-13T16:20:48.300065+00:00",
+  "topic": {
+    "topic_id": "TM-00401",
+    "url": "/du-lich/cong-vien-vo-thi-sau/",
+    "title": "Công viên Võ Thị Sáu (Tuổi Trẻ Thủ đô cũ): 26,75 ha, có gì mới 2026",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "công viên võ thị sáu hà nội",
+    "secondary_keywords": [
+      "công viên tuổi trẻ thủ đô",
+      "công viên tuổi trẻ đổi tên",
+      "nhà trưng bày võ thị sáu",
+      "công viên võ thị sáu bạch mai",
+      "nhà hát thành phố hà nội võ thị sáu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người tìm 'công viên Tuổi Trẻ' trên bản đồ cũ không thấy tên quen, cần biết công viên đã đổi tên, hiện có gì (nhà trưng bày Anh hùng Võ Thị Sáu) và các dự án đang chuẩn bị quanh đó.",
+    "information_gain": "Site chưa có bài về công viên này. Gần nhất là /du-lich/cong-vien-thong-nhat/ (công viên lân cận cùng phường Hai Bà Trưng cũ) và /du-lich/cong-vien-yen-so/. Bài này thêm các mốc thay đổi có ngày: HĐND TP thông qua đổi tên ngày 10/7/2025 (diện tích 26,75 ha, mặt chính phố Võ Thị Sáu); gắn biển tên mới 29/8/2025; VOV 24/12/2025 nêu vốn hơn 35 tỷ đồng và các khu tưởng niệm (hơn 3.000 m²), đình và cây xanh (hơn 8.000 m²), đền và tháp Vọng Cảnh (khoảng 1.000 m²); khánh thành Nhà trưng bày Anh hùng LLVT Võ Thị Sáu 10/1/2026; và dự án Nhà hát thành phố Hà Nội 9.000 m², 2.000 tỷ đồng trên phố Võ Thị Sáu cùng kế hoạch mở rộng phố lên 22,5 m (Hà Nội Mới 29/4/2026).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/ha-noi-doi-ten-cong-vien-tuoi-tre-thu-do-thanh-cong-vien-vo-thi-sau-103250710111441135.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô (10/7/2025; đọc 13/10/2026): sáng 10/7 HĐND TP Hà Nội thông qua nghị quyết đặt tên, đổi tên đường phố và công trình công cộng năm 2025; đổi tên công viên Tuổi trẻ Thủ đô thành công viên Võ Thị Sáu (phường Hai Bà Trưng), cho khu vực đất đã xây dựng và quy hoạch công viên thuộc phường Thanh Nhàn (cũ – nay là phường Bạch Mai), mặt chính nằm trên phố Võ Thị Sáu; diện tích 26,75 ha.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoionline.vn/cong-vien-tuoi-tre-chinh-thuc-mang-ten-vo-thi-sau-355671.htm",
+        "quote": "Hà Nội Online, 'Công viên Tuổi trẻ chính thức mang tên Võ Thị Sáu' (29/8/2025; đọc 13/10/2026): phường Bạch Mai tổ chức lễ công bố quyết định và gắn biển tên công viên Võ Thị Sáu sáng 29/8; thời gian tới sẽ triển khai dự án Nhà trưng bày Anh hùng Lực lượng vũ trang nhân dân Võ Thị Sáu tại công viên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/ha-noi-hoan-thien-he-thong-cong-vien-huong-toi-do-thi-xanh-dang-song-post1255503.vov",
+        "quote": "VOV, 'Hà Nội hoàn thiện hệ thống công viên, hướng tới đô thị xanh, đáng sống' (24/12/2025; đọc 13/10/2026 qua WebFetch): công viên Võ Thị Sáu (phường Bạch Mai, trước là công viên Tuổi trẻ Thủ đô) tổng diện tích hơn 26 ha; vốn hơn 35 tỷ đồng (vốn tự có, hình thức hợp tác công tư); các khu: khu tưởng niệm Võ Thị Sáu hơn 3.000 m², khu đình và công viên cây xanh hơn 8.000 m², khu đền và tháp Vọng Cảnh khoảng 1.000 m²; dự kiến khánh thành 7/1/2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchisonglam.vn/tin-tuc-vhnt-ngay-10-1-2026",
+        "quote": "Tạp chí Sông Lam, 'Tin tức VHNT ngày 10/1/2026' (đọc 13/10/2026; dẫn ảnh hanoimoi.vn): ngày 10/1/2026 tại phường Bạch Mai khánh thành Nhà trưng bày Anh hùng Lực lượng vũ trang nhân dân Võ Thị Sáu, xây trong tổng thể Công viên Võ Thị Sáu, quy mô khoảng 2,6 ha gồm nhà tưởng niệm, sân quảng trường, tượng đài Anh hùng Võ Thị Sáu và cây xanh, cảnh quan; Võ Thị Sáu tên thật Nguyễn Thị Sáu, sinh năm 1933, quê xã Phước Long Thọ, huyện Đất Đỏ, Bà Rịa – Vũng Tàu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/vach-tran-chieu-tro-xuyen-tac-chong-pha-viec-xay-dung-cac-du-an-cong-trinh-van-hoa-747510.html",
+        "quote": "Báo Hà Nội Mới (29/4/2026; đọc 13/10/2026): dự án Nhà hát thành phố Hà Nội sẽ xây ở phố Võ Thị Sáu (phường Bạch Mai), quy mô 9.000 m², tổng vốn 2.000 tỷ đồng, thuộc Chương trình hành động 08-CTr/TU; bài nhắc khu vực Công viên Tuổi Trẻ 'bao năm nay bị xuống cấp' và thành phố đã phê duyệt kế hoạch mở rộng phố Võ Thị Sáu lên 22,5 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 480,
+        "checked": "2026-10-13",
+        "keyword": "công viên võ thị sáu hà nội"
+      }
+    ],
+    "notes": "Nguồn chính thức phường Bạch Mai (bachmai.hanoi.gov.vn) không truy cập được (lỗi kết nối) – mốc 10/1/2026 lấy từ Tạp chí Sông Lam dẫn Hà Nội Mới. Mâu thuẫn quy mô: '2,6 ha' (Sông Lam, khu nhà trưng bày) và các diện tích khu trong VOV – viết rõ là phần khu tưởng niệm, không phải toàn công viên 26,75 ha. Giờ mở cửa nhà trưng bày, vé, gửi xe: không có nguồn – không viết. Vị trí chính xác Nhà hát thành phố trong công viên và tiến độ thi công/mở rộng phố: chưa có ngày khởi công cụ thể – viết là 'dự án', nhắc người đọc kiểm tra rào chắn thi công. Không dùng ngày 7/1/2026 làm ngày khánh thành (chỉ là 'dự kiến' trong VOV).",
+    "outline": [
+      "Công viên Tuổi Trẻ Thủ đô nay tên gì, ở đâu",
+      "Các mốc 2025–2026: đổi tên, gắn biển, khánh thành nhà trưng bày",
+      "Khu tưởng niệm Anh hùng Võ Thị Sáu có gì",
+      "Dự án Nhà hát thành phố và mở rộng phố Võ Thị Sáu",
+      "Đi xe máy và những điều chưa có thông báo (giờ, vé, gửi xe)",
+      "Kết hợp công viên Thống Nhất và các điểm lân cận"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/cong-vien-yen-so/",
+      "/du-lich/bao-tang-phu-nu-viet-nam/",
+      "/thue-xe-may/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00401.json",
+  "draft_template": {
+    "id": "TM-00401",
+    "url": "/du-lich/cong-vien-vo-thi-sau/",
+    "title": "Công viên Võ Thị Sáu (Tuổi Trẻ Thủ đô cũ): 26,75 ha, có gì mới 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "công viên võ thị sáu hà nội, công viên tuổi trẻ thủ đô, công viên tuổi trẻ đổi tên, nhà trưng bày võ thị sáu, công viên võ thị sáu bạch mai, nhà hát thành phố hà nội võ thị sáu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Công viên Tuổi Trẻ Thủ đô nay tên gì, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Các mốc 2025–2026: đổi tên, gắn biển, khánh thành nhà trưng bày",
+        "<p></p>"
+      ],
+      [
+        "Khu tưởng niệm Anh hùng Võ Thị Sáu có gì",
+        "<p></p>"
+      ],
+      [
+        "Dự án Nhà hát thành phố và mở rộng phố Võ Thị Sáu",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và những điều chưa có thông báo (giờ, vé, gửi xe)",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp công viên Thống Nhất và các điểm lân cận",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/ha-noi-doi-ten-cong-vien-tuoi-tre-thu-do-thanh-cong-vien-vo-thi-sau-103250710111441135.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô (10/7/2025; đọc 13/10/2026): sáng 10/7 HĐND TP Hà Nội thông qua nghị quyết đặt tên, đổi tên đường phố và công trình công cộng năm 2025; đổi tên công viên Tuổi trẻ Thủ đô thành công viên Võ Thị Sáu (phường Hai Bà Trưng), cho khu vực đất đã xây dựng và quy hoạch công viên thuộc phường Thanh Nhàn (cũ – nay là phường Bạch Mai), mặt chính nằm trên phố Võ Thị Sáu; diện tích 26,75 ha.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoionline.vn/cong-vien-tuoi-tre-chinh-thuc-mang-ten-vo-thi-sau-355671.htm",
+        "quote": "Hà Nội Online, 'Công viên Tuổi trẻ chính thức mang tên Võ Thị Sáu' (29/8/2025; đọc 13/10/2026): phường Bạch Mai tổ chức lễ công bố quyết định và gắn biển tên công viên Võ Thị Sáu sáng 29/8; thời gian tới sẽ triển khai dự án Nhà trưng bày Anh hùng Lực lượng vũ trang nhân dân Võ Thị Sáu tại công viên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/ha-noi-hoan-thien-he-thong-cong-vien-huong-toi-do-thi-xanh-dang-song-post1255503.vov",
+        "quote": "VOV, 'Hà Nội hoàn thiện hệ thống công viên, hướng tới đô thị xanh, đáng sống' (24/12/2025; đọc 13/10/2026 qua WebFetch): công viên Võ Thị Sáu (phường Bạch Mai, trước là công viên Tuổi trẻ Thủ đô) tổng diện tích hơn 26 ha; vốn hơn 35 tỷ đồng (vốn tự có, hình thức hợp tác công tư); các khu: khu tưởng niệm Võ Thị Sáu hơn 3.000 m², khu đình và công viên cây xanh hơn 8.000 m², khu đền và tháp Vọng Cảnh khoảng 1.000 m²; dự kiến khánh thành 7/1/2026.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchisonglam.vn/tin-tuc-vhnt-ngay-10-1-2026",
+        "quote": "Tạp chí Sông Lam, 'Tin tức VHNT ngày 10/1/2026' (đọc 13/10/2026; dẫn ảnh hanoimoi.vn): ngày 10/1/2026 tại phường Bạch Mai khánh thành Nhà trưng bày Anh hùng Lực lượng vũ trang nhân dân Võ Thị Sáu, xây trong tổng thể Công viên Võ Thị Sáu, quy mô khoảng 2,6 ha gồm nhà tưởng niệm, sân quảng trường, tượng đài Anh hùng Võ Thị Sáu và cây xanh, cảnh quan; Võ Thị Sáu tên thật Nguyễn Thị Sáu, sinh năm 1933, quê xã Phước Long Thọ, huyện Đất Đỏ, Bà Rịa – Vũng Tàu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/vach-tran-chieu-tro-xuyen-tac-chong-pha-viec-xay-dung-cac-du-an-cong-trinh-van-hoa-747510.html",
+        "quote": "Báo Hà Nội Mới (29/4/2026; đọc 13/10/2026): dự án Nhà hát thành phố Hà Nội sẽ xây ở phố Võ Thị Sáu (phường Bạch Mai), quy mô 9.000 m², tổng vốn 2.000 tỷ đồng, thuộc Chương trình hành động 08-CTr/TU; bài nhắc khu vực Công viên Tuổi Trẻ 'bao năm nay bị xuống cấp' và thành phố đã phê duyệt kế hoạch mở rộng phố Võ Thị Sáu lên 22,5 m.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00401"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w12a",
+  "queued": "2026-10-13T16:20:48.298295+00:00",
+  "topic": {
+    "topic_id": "TM-00402",
+    "url": "/du-lich/cong-vien-cau-giay/",
+    "title": "Công viên Cầu Giấy sau cải tạo 66 tỷ: không rào, có gì, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "công viên cầu giấy",
+    "secondary_keywords": [
+      "công viên cầu giấy cải tạo",
+      "công viên yên hòa",
+      "công viên cầu giấy thành thái",
+      "công viên cầu giấy có gì",
+      "công viên cầu giấy mở cửa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Cầu Giấy, sinh viên và gia đình có trẻ nhỏ muốn biết công viên Cầu Giấy (Thành Thái) đã cải tạo xong chưa, bỏ rào ra sao, khu vui chơi trẻ em có gì.",
+    "information_gain": "Site chưa có bài về công viên Cầu Giấy. Gần nhất là /du-lich/chua-ha-cau-giay/ (chùa cùng khu vực, không nói công viên) và /du-lich/cong-vien-thong-nhat/ (công viên khác cũng hạ rào). Bài này thêm: tên gọi khác công viên Yên Hòa, phố Thành Thái, 6.540 m², hoạt động từ 2014 với vốn ban đầu 8 tỷ (Báo Chính phủ 2/2023, Dân trí 3/2025); dự án cải tạo hơn 66 tỷ đồng, tháo toàn bộ rào sắt, thay bằng tường thấp khoảng 40 cm; và kết quả sau 8 tháng (Sức khỏe & Đời sống 21/10/2025; VOV 24/12/2025): nạo vét hồ, đài phun nước, khu trẻ em mới với thảm cao su giảm chấn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/cong-vien-cau-giay-thao-rao-sat-phuc-vu-nguoi-dan-mien-phi-103230210173643469.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô, 'Công viên Cầu Giấy tháo rào sắt phục vụ người dân miễn phí' (10/2/2023; đọc 13/10/2026): công viên Cầu Giấy hay công viên Yên Hòa nằm ở phố Thành Thái, phường Dịch Vọng, Cầu Giấy, diện tích 6.540 m²; chia 3 phân khu: khu vui chơi trẻ em, khu thể dục thể thao, khu hồ nước và quảng trường; nhiều đoạn rào sắt đã được tháo, là công viên lớn tiếp theo sau Thống Nhất được đề nghị tháo rào để phục vụ người dân miễn phí.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/cong-vien-cau-giay-pha-do-toan-bo-hang-rao-cai-tao-lai-nhieu-hang-muc-20250322130529321.htm",
+        "quote": "Báo Dân trí, 'Công viên Cầu Giấy phá dỡ toàn bộ hàng rào, cải tạo lại nhiều hạng mục' (23/3/2025; đọc 13/10/2026): công viên trên đường Thành Thái, diện tích 6.540 m², hoạt động từ năm 2014 với vốn ban đầu 8 tỷ đồng xã hội hóa; UBND quận Cầu Giấy phê duyệt dự án cải tạo tổng mức hơn 66 tỷ đồng; toàn bộ hàng rào sắt cũ tháo dỡ, thay bằng tường thấp khoảng 40 cm; hạng mục: ngầm hóa điện, nhà điều hành, quảng trường; khu A1 (bên phải cổng chính) thay thiết bị trẻ em; sẽ thêm chòi nghỉ, nhà vệ sinh, suối nước nhân tạo quanh hồ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://suckhoedoisong.vn/cong-vien-cau-giay-khoac-ao-moi-sau-8-thang-tu-sua-169251020213532485.htm",
+        "quote": "Báo Sức khỏe & Đời sống, 'Công viên Cầu Giấy khoác áo mới sau 8 tháng tu sửa' (21/10/2025; đọc 13/10/2026): sau 8 tháng thi công công viên có lối dạo sạch, hồ nước trong, đài phun nước nghệ thuật và logo mới; vốn 66 tỷ đồng; khu vui chơi trẻ em thay mới cầu trượt, xích đu, lưới nhện, nhà bóng, tổ hợp vận động; thảm cao su giảm chấn phủ toàn bộ mặt sàn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/ha-noi-hoan-thien-he-thong-cong-vien-huong-toi-do-thi-xanh-dang-song-post1255503.vov",
+        "quote": "VOV (24/12/2025; đọc 13/10/2026 qua WebFetch): công viên Cầu Giấy (đường Thành Thái, phường Cầu Giấy) rộng khoảng 6.500 m², tổng mức đầu tư hơn 66 tỷ đồng; đã nạo vét hồ, thay cỏ nhân tạo, thiết kế lại khu trẻ em, đường dạo, cây xanh, chiếu sáng; đã hoàn thành và đưa vào sử dụng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 60500,
+        "checked": "2026-10-13",
+        "keyword": "công viên cầu giấy"
+      }
+    ],
+    "notes": "Không có nguồn chính thức về giờ mở cửa hay chỗ gửi xe máy (công viên mở, không rào – không có cổng thu phí theo bài 2023/2025, nhưng không khẳng định 'miễn phí gửi xe'). Một số trang (vietnam.vn trích dẫn) ghi 'diện tích dự án 95.282 m²' – có thể nhầm với dự án khác, KHÔNG dùng. Tên phường hiện nay: VOV ghi 'phường Cầu Giấy' (sau sắp xếp), bài 2023 ghi 'phường Dịch Vọng' – nói rõ là tên cũ. Không có nguồn khoảng cách từ cửa hàng.",
+    "outline": [
+      "Công viên Cầu Giấy (Yên Hòa) ở đâu, rộng bao nhiêu",
+      "Từ hạ rào 2023 đến cải tạo 66 tỷ năm 2025",
+      "Sau cải tạo có gì: hồ, đài phun nước, khu trẻ em thảm cao su",
+      "Đưa trẻ nhỏ đi chơi: lưu ý an toàn",
+      "Đi xe máy, dừng đỗ và điều chưa có thông báo",
+      "Kết hợp Bảo tàng Dân tộc học, chùa Hà"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-ha-cau-giay/",
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+      "/thue-xe-may/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00402.json",
+  "draft_template": {
+    "id": "TM-00402",
+    "url": "/du-lich/cong-vien-cau-giay/",
+    "title": "Công viên Cầu Giấy sau cải tạo 66 tỷ: không rào, có gì, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "công viên cầu giấy, công viên cầu giấy cải tạo, công viên yên hòa, công viên cầu giấy thành thái, công viên cầu giấy có gì, công viên cầu giấy mở cửa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Công viên Cầu Giấy (Yên Hòa) ở đâu, rộng bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Từ hạ rào 2023 đến cải tạo 66 tỷ năm 2025",
+        "<p></p>"
+      ],
+      [
+        "Sau cải tạo có gì: hồ, đài phun nước, khu trẻ em thảm cao su",
+        "<p></p>"
+      ],
+      [
+        "Đưa trẻ nhỏ đi chơi: lưu ý an toàn",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, dừng đỗ và điều chưa có thông báo",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp Bảo tàng Dân tộc học, chùa Hà",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/cong-vien-cau-giay-thao-rao-sat-phuc-vu-nguoi-dan-mien-phi-103230210173643469.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô, 'Công viên Cầu Giấy tháo rào sắt phục vụ người dân miễn phí' (10/2/2023; đọc 13/10/2026): công viên Cầu Giấy hay công viên Yên Hòa nằm ở phố Thành Thái, phường Dịch Vọng, Cầu Giấy, diện tích 6.540 m²; chia 3 phân khu: khu vui chơi trẻ em, khu thể dục thể thao, khu hồ nước và quảng trường; nhiều đoạn rào sắt đã được tháo, là công viên lớn tiếp theo sau Thống Nhất được đề nghị tháo rào để phục vụ người dân miễn phí.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/cong-vien-cau-giay-pha-do-toan-bo-hang-rao-cai-tao-lai-nhieu-hang-muc-20250322130529321.htm",
+        "quote": "Báo Dân trí, 'Công viên Cầu Giấy phá dỡ toàn bộ hàng rào, cải tạo lại nhiều hạng mục' (23/3/2025; đọc 13/10/2026): công viên trên đường Thành Thái, diện tích 6.540 m², hoạt động từ năm 2014 với vốn ban đầu 8 tỷ đồng xã hội hóa; UBND quận Cầu Giấy phê duyệt dự án cải tạo tổng mức hơn 66 tỷ đồng; toàn bộ hàng rào sắt cũ tháo dỡ, thay bằng tường thấp khoảng 40 cm; hạng mục: ngầm hóa điện, nhà điều hành, quảng trường; khu A1 (bên phải cổng chính) thay thiết bị trẻ em; sẽ thêm chòi nghỉ, nhà vệ sinh, suối nước nhân tạo quanh hồ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://suckhoedoisong.vn/cong-vien-cau-giay-khoac-ao-moi-sau-8-thang-tu-sua-169251020213532485.htm",
+        "quote": "Báo Sức khỏe & Đời sống, 'Công viên Cầu Giấy khoác áo mới sau 8 tháng tu sửa' (21/10/2025; đọc 13/10/2026): sau 8 tháng thi công công viên có lối dạo sạch, hồ nước trong, đài phun nước nghệ thuật và logo mới; vốn 66 tỷ đồng; khu vui chơi trẻ em thay mới cầu trượt, xích đu, lưới nhện, nhà bóng, tổ hợp vận động; thảm cao su giảm chấn phủ toàn bộ mặt sàn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/xa-hoi/ha-noi-hoan-thien-he-thong-cong-vien-huong-toi-do-thi-xanh-dang-song-post1255503.vov",
+        "quote": "VOV (24/12/2025; đọc 13/10/2026 qua WebFetch): công viên Cầu Giấy (đường Thành Thái, phường Cầu Giấy) rộng khoảng 6.500 m², tổng mức đầu tư hơn 66 tỷ đồng; đã nạo vét hồ, thay cỏ nhân tạo, thiết kế lại khu trẻ em, đường dạo, cây xanh, chiếu sáng; đã hoàn thành và đưa vào sử dụng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00402"
+  }
+}

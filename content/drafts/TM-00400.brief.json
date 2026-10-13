@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w12a",
+  "queued": "2026-10-13T16:20:48.299104+00:00",
+  "topic": {
+    "topic_id": "TM-00400",
+    "url": "/du-lich/cong-vien-nghia-do/",
+    "title": "Công viên Nghĩa Đô mở lại 2026: cải tạo 61 tỷ, đường dạo trên hồ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "công viên nghĩa đô",
+    "secondary_keywords": [
+      "công viên nghĩa đô mở cửa",
+      "công viên nghĩa đô cải tạo",
+      "công viên nghĩa đô ở đâu",
+      "công viên nghĩa đô cầu giấy",
+      "công viên nghĩa đô có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người dân Cầu Giấy và người muốn tìm chỗ đi dạo cần biết công viên Nghĩa Đô đã mở lại chưa sau đợt quây tôn cải tạo, đổi những gì, nằm ở phố nào.",
+    "information_gain": "Site chưa có bài về công viên Nghĩa Đô. Gần nhất là /du-lich/cong-vien-thong-nhat/ và /du-lich/vuon-bach-thao-ha-noi/ (cũng là công viên hạ rào nhưng khác địa điểm) và /du-lich/chua-ha-cau-giay/ (cùng khu Cầu Giấy). Bài này thêm mốc khánh thành 29/1/2026 (Báo Chính phủ): dự án cải tạo gần 61 tỷ đồng trên tổng diện tích 86.541 m²; cổng trượt tự động, sân quảng trường mới, đường dạo trên mặt hồ, đèn năng lượng mặt trời ven hồ, camera; cùng thông tin trước đó (Báo Tin tức 3/10/2025, Tiền Phong 16/12/2025): công viên hơn 42.000 m² giữa phố Nguyễn Văn Huyên và Tô Hiệu, từng quây tôn toàn bộ khi thi công, cầu đi bộ qua hồ điều hòa mô phỏng cây đàn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/khanh-thanh-cong-vien-nghia-do-cong-trinh-cap-thanh-pho-chao-mung-thanh-cong-dai-hoi-xiv-cua-dang-10326012917501381.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô, 'Khánh thành Công viên Nghĩa Đô...' (29/1/2026; đọc 13/10/2026): ngày 29/1 phường Nghĩa Đô khánh thành, gắn biển dự án Cải tạo, sửa chữa Công viên Nghĩa Đô; tổng mức đầu tư gần 61 tỷ đồng, triển khai trên tổng diện tích 86.541 m²; hai cổng chính được sơn sửa, ốp đá, thay bằng cổng trượt tự động; sân quảng trường làm mới; đường dạo nhánh và sân tập thể thao lát gạch bê tông giả đá; khu vui chơi trẻ em nâng cấp; hệ thống đường dạo trên mặt hồ 'mà không làm thay đổi diện tích mặt nước'; chòi nghỉ xây mới; nhà vệ sinh nâng cấp; bổ sung nhà dịch vụ, nhà tập kết rác; đèn năng lượng mặt trời ven hồ và camera giám sát; trồng bổ sung cây bụi, hoa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/cong-vien-nghia-do-ky-vong-thanh-diem-nhan-do-thi-khi-mo-cua-tro-lai-post759196.html",
+        "quote": "Báo Tin tức (TTXVN), 'Công viên Nghĩa Đô kỳ vọng thành điểm nhấn đô thị khi mở cửa trở lại' (3/10/2025; đọc 13/10/2026): công viên rộng hơn 42.000 m², nằm giữa hai phố Nguyễn Văn Huyên và Tô Hiệu, từng được gọi là 'hòn ngọc xanh'; khi đó đang kè sụt lún, san nền khu trũng, toàn bộ công viên quây tôn; điểm nhấn là cầu đi bộ bắc qua hồ điều hòa mô phỏng hình cây đàn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/cong-vien-nghia-do-ha-noi-sap-hoan-thien-voi-dien-mao-moi-hien-dai-post1803500.tpo",
+        "quote": "Báo Tiền Phong, 'Công viên Nghĩa Đô Hà Nội sắp hoàn thiện với diện mạo mới hiện đại' (16/12/2025; đọc 13/10/2026): công viên Nghĩa Đô (phường Nghĩa Đô) diện tích 42.000 m², một trong những công viên lớn nhất ở trung tâm; điểm nhấn là cầu đi bộ qua hồ điều hòa mô phỏng hình cây đàn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoionline.vn/cong-vien-nghia-do-mo-cua-tro-lai-trong-dien-mao-moi-383957.htm",
+        "quote": "Hà Nội Online (Đài PT-TH Hà Nội), 'Công viên Nghĩa Đô mở cửa trở lại trong diện mạo mới' (29/1/2026; đọc 13/10/2026): tiêu đề và sapo xác nhận công viên mở cửa trở lại, trong bối cảnh nhiều công viên Hà Nội được hạ rào, mở cửa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 22200,
+        "checked": "2026-10-13",
+        "keyword": "công viên nghĩa đô"
+      }
+    ],
+    "notes": "Mâu thuẫn diện tích: 86.541 m² là diện tích triển khai dự án (Báo Chính phủ), 42.000 m² là diện tích công viên theo Báo Tin tức/Tiền Phong – viết rõ hai con số khác nhau, không cộng gộp. Giờ mở cửa, có thu vé hay không, chỗ gửi xe máy: không có nguồn chính thức – không viết con số. Cổng trượt tự động gợi ý công viên có giờ đóng/mở nhưng chưa xác minh. Không xác nhận cầu 'cây đàn' đã hoàn thành (bài khánh thành không nhắc riêng) – viết thận trọng. Không có nguồn khoảng cách từ cửa hàng.",
+    "outline": [
+      "Công viên Nghĩa Đô ở đâu: giữa Nguyễn Văn Huyên và Tô Hiệu",
+      "Từ quây tôn đến khánh thành 29/1/2026",
+      "Những gì mới: cổng trượt, quảng trường, đường dạo trên hồ",
+      "42.000 m² hay 86.541 m²: đọc đúng số liệu",
+      "Giờ mở, vé, gửi xe: điều cần tự kiểm tra",
+      "Đi xe máy và kết hợp chùa Hà, các điểm Cầu Giấy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-ha-cau-giay/",
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/vuon-bach-thao-ha-noi/",
+      "/thue-xe-may/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00400.json",
+  "draft_template": {
+    "id": "TM-00400",
+    "url": "/du-lich/cong-vien-nghia-do/",
+    "title": "Công viên Nghĩa Đô mở lại 2026: cải tạo 61 tỷ, đường dạo trên hồ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "công viên nghĩa đô, công viên nghĩa đô mở cửa, công viên nghĩa đô cải tạo, công viên nghĩa đô ở đâu, công viên nghĩa đô cầu giấy, công viên nghĩa đô có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Công viên Nghĩa Đô ở đâu: giữa Nguyễn Văn Huyên và Tô Hiệu",
+        "<p></p>"
+      ],
+      [
+        "Từ quây tôn đến khánh thành 29/1/2026",
+        "<p></p>"
+      ],
+      [
+        "Những gì mới: cổng trượt, quảng trường, đường dạo trên hồ",
+        "<p></p>"
+      ],
+      [
+        "42.000 m² hay 86.541 m²: đọc đúng số liệu",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở, vé, gửi xe: điều cần tự kiểm tra",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và kết hợp chùa Hà, các điểm Cầu Giấy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/khanh-thanh-cong-vien-nghia-do-cong-trinh-cap-thanh-pho-chao-mung-thanh-cong-dai-hoi-xiv-cua-dang-10326012917501381.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô, 'Khánh thành Công viên Nghĩa Đô...' (29/1/2026; đọc 13/10/2026): ngày 29/1 phường Nghĩa Đô khánh thành, gắn biển dự án Cải tạo, sửa chữa Công viên Nghĩa Đô; tổng mức đầu tư gần 61 tỷ đồng, triển khai trên tổng diện tích 86.541 m²; hai cổng chính được sơn sửa, ốp đá, thay bằng cổng trượt tự động; sân quảng trường làm mới; đường dạo nhánh và sân tập thể thao lát gạch bê tông giả đá; khu vui chơi trẻ em nâng cấp; hệ thống đường dạo trên mặt hồ 'mà không làm thay đổi diện tích mặt nước'; chòi nghỉ xây mới; nhà vệ sinh nâng cấp; bổ sung nhà dịch vụ, nhà tập kết rác; đèn năng lượng mặt trời ven hồ và camera giám sát; trồng bổ sung cây bụi, hoa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/cong-vien-nghia-do-ky-vong-thanh-diem-nhan-do-thi-khi-mo-cua-tro-lai-post759196.html",
+        "quote": "Báo Tin tức (TTXVN), 'Công viên Nghĩa Đô kỳ vọng thành điểm nhấn đô thị khi mở cửa trở lại' (3/10/2025; đọc 13/10/2026): công viên rộng hơn 42.000 m², nằm giữa hai phố Nguyễn Văn Huyên và Tô Hiệu, từng được gọi là 'hòn ngọc xanh'; khi đó đang kè sụt lún, san nền khu trũng, toàn bộ công viên quây tôn; điểm nhấn là cầu đi bộ bắc qua hồ điều hòa mô phỏng hình cây đàn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/cong-vien-nghia-do-ha-noi-sap-hoan-thien-voi-dien-mao-moi-hien-dai-post1803500.tpo",
+        "quote": "Báo Tiền Phong, 'Công viên Nghĩa Đô Hà Nội sắp hoàn thiện với diện mạo mới hiện đại' (16/12/2025; đọc 13/10/2026): công viên Nghĩa Đô (phường Nghĩa Đô) diện tích 42.000 m², một trong những công viên lớn nhất ở trung tâm; điểm nhấn là cầu đi bộ qua hồ điều hòa mô phỏng hình cây đàn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoionline.vn/cong-vien-nghia-do-mo-cua-tro-lai-trong-dien-mao-moi-383957.htm",
+        "quote": "Hà Nội Online (Đài PT-TH Hà Nội), 'Công viên Nghĩa Đô mở cửa trở lại trong diện mạo mới' (29/1/2026; đọc 13/10/2026): tiêu đề và sapo xác nhận công viên mở cửa trở lại, trong bối cảnh nhiều công viên Hà Nội được hạ rào, mở cửa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00400"
+  }
+}
