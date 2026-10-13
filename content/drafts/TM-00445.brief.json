@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w14a",
+  "queued": "2026-10-13T21:05:06.360342+00:00",
+  "topic": {
+    "topic_id": "TM-00445",
+    "url": "/du-lich/vuon-hoa-ly-thai-to/",
+    "title": "Vườn hoa Lý Thái Tổ: cải tạo 3 khu, cột mốc Km0, 114 cây xanh",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "vườn hoa lý thái tổ",
+    "secondary_keywords": [
+      "tượng đài lý thái tổ",
+      "cột mốc km0 hà nội",
+      "km0 hồ gươm",
+      "vườn hoa lý thái tổ cải tạo",
+      "nhà bát giác hồ gươm"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách dạo Hồ Gươm muốn biết vườn hoa Lý Thái Tổ (tượng vua Lý Thái Tổ, nhà Bát giác) sau đợt cải tạo có gì, cột mốc Km0 đặt ở đâu và khu nào có thể đang rào chắn.",
+    "information_gain": "Site chưa có bài về vườn hoa Lý Thái Tổ; các bài /du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/, /du-lich/thap-rua-ho-guom/, /du-lich/den-ngoc-son-va-cau-the-huc/ chỉ nhắc phố Lý Thái Tổ trong danh sách cấm xe. Bài này thêm số liệu chính thức của UBND quận Hoàn Kiếm (3/2025): kích thước 212 m x 54,051 m, 11.459 m²; ba khu (Khánh tiết 5.637 m², sân nhà Bát giác 3.033 m², vườn hoa sau 2.789 m²); tượng đài giữ nguyên bệ; Km0 đặt giữa sân Khánh tiết theo phương án thi tuyển 2020; phun nước âm sàn; cây từ 100 lên 114; kế hoạch thi công 4–10/2025, và cảnh báo rằng chưa có nguồn xác nhận hoàn thành.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/cai-tao-vuon-hoa-ly-thai-to-trong-them-cay-xanh-post787350.html",
+        "quote": "Sài Gòn Giải Phóng (24/3/2025; đọc 13/10/2026), theo thông tin của UBND quận Hoàn Kiếm: vườn hoa Lý Thái Tổ ở phường Tràng Tiền, kích thước 212 m x 54,051 m, tổng diện tích 11.459 m², giới hạn bởi Đinh Tiên Hoàng, Lê Thạch, Lê Lai, Ngô Quyền; sắp xếp lại 3 khu: Khánh tiết giáp Đinh Tiên Hoàng 5.637 m², sân nhà Bát giác 3.033 m², vườn hoa phía sau giáp Ngô Quyền 2.789 m²; tượng đài vua Lý Thái Tổ giữ nguyên bệ, chỉ ốp lại mặt sân; hiện có 100 cây (20 loại); dự kiến thi công tháng 4/2025, hoàn thành tháng 10/2025; vườn hoa không nằm trong khoanh vùng bảo vệ di tích đền Ngọc Sơn và hồ Hoàn Kiếm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/ha-noi-du-kien-cai-tao-vuon-hoa-ly-thai-to-trong-thang-42025-173076.html",
+        "quote": "Thời báo Tài chính Việt Nam (24/3/2025; đọc 13/10/2026): hạng mục Km0 đặt tại trung tâm sân Khánh tiết, từ kết quả cuộc thi tuyển phương án do Hội Kiến trúc sư Việt Nam tổ chức năm 2020, đang điều chỉnh cho phù hợp điều kiện kỹ thuật; dịch chuyển 25 cây (16 cây trong nội bộ vườn, thay 9 cây sâu bệnh); tổng cây bóng mát sau cải tạo 114 cây (tăng 14 cây); khu vườn phía sau có hệ thống phun nước âm sàn dùng cho các kỳ lễ tết; hạ tầng vườn hoa đã hơn 20 năm sử dụng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://voh.com.vn/xa-hoi/cai-tao-vuon-hoa-ly-thai-to-khong-di-doi-cay-co-thu-586228.html",
+        "quote": "VOH (24/3/2025; đọc 13/10/2026): tối 23/3/2025 UBND quận Hoàn Kiếm phát thông báo chính thức; Km0 đặt tại trung tâm sân Khánh tiết, phía trước tượng đài vua Lý Thái Tổ; trồng bổ sung 30 cây mới; vòi phun đặt âm sàn nên mặt sân phẳng; lấy ý kiến cộng đồng xong ngày 25/2, dự kiến thi công tháng 4, hoàn thành tháng 10.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/cot-moc-km0-duoc-dat-tai-vi-tri-nao-o-ho-guom-post543229.html",
+        "quote": "Báo Pháp luật Việt Nam (23/3/2025; đọc 13/10/2026): Km0 đặt tại trung tâm sân Khánh tiết vườn hoa Lý Thái Tổ; khu công viên vườn hoa tổ chức 2 trục: Nhà Kèn – Ngân hàng Nhà nước và Văn phòng Chủ tịch nước – Cung Thiếu nhi; bố trí nhạc nước dọc trục Đông – Tây; bổ sung nhà vệ sinh công cộng và Trung tâm thông tin du lịch; lát đá lòng đường Lê Lai, Lê Thạch. (Bài này ghi diện tích 10.040 m², khác số 11.459 m² của các báo khác.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 5400,
+        "checked": "2026-10-13",
+        "keyword": "vườn hoa lý thái tổ"
+      }
+    ],
+    "notes": "CHƯA XÁC MINH tình trạng hoàn thành: tất cả nguồn đọc được là kế hoạch 3/2025 (thi công 4–10/2025); một bài cafebiz/nguoiduatin 9/2025 (chỉ đọc snippet) vẫn nói vườn hoa 'nằm trong kế hoạch cải tạo'. Không tìm thấy bài báo khánh thành Km0. Người viết phải trình bày Km0 là 'theo phương án', không khẳng định đã có cột mốc. Diện tích mâu thuẫn (11.459 m² vs 10.040 m² vs 'hơn 12.000 m²') – dùng 11.459 m² (nhiều nguồn, có kích thước). Số cây trồng bổ sung: 30 (VOH) vs 23 (TBTC) – nêu cả hai hoặc chỉ dùng tổng 114. Tên 'nhà Bát giác' và 'Nhà Kèn' dùng song song trong nguồn. Phố Lý Thái Tổ/Đinh Tiên Hoàng nằm trong vùng cấm xe máy tối cuối tuần – lấy từ bài phố đi bộ đã có, không lặp số liệu mới.",
+    "outline": [
+      "Vườn hoa Lý Thái Tổ ở đâu, rộng bao nhiêu",
+      "Ba khu sau cải tạo: Khánh tiết, nhà Bát giác, vườn hoa phía sau",
+      "Cột mốc Km0: đặt ở đâu theo phương án, đã có chưa",
+      "Cây xanh: giữ cây cổ thụ, 114 cây sau cải tạo",
+      "Đi xe máy đến và gửi xe khi phố đi bộ cấm xe cuối tuần",
+      "Kết hợp với tháp Rùa, đền Ngọc Sơn, phố sách"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/du-lich/thap-rua-ho-guom/",
+      "/du-lich/den-ngoc-son-va-cau-the-huc/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00445.json",
+  "draft_template": {
+    "id": "TM-00445",
+    "url": "/du-lich/vuon-hoa-ly-thai-to/",
+    "title": "Vườn hoa Lý Thái Tổ: cải tạo 3 khu, cột mốc Km0, 114 cây xanh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vườn hoa lý thái tổ, tượng đài lý thái tổ, cột mốc km0 hà nội, km0 hồ gươm, vườn hoa lý thái tổ cải tạo, nhà bát giác hồ gươm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vườn hoa Lý Thái Tổ ở đâu, rộng bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Ba khu sau cải tạo: Khánh tiết, nhà Bát giác, vườn hoa phía sau",
+        "<p></p>"
+      ],
+      [
+        "Cột mốc Km0: đặt ở đâu theo phương án, đã có chưa",
+        "<p></p>"
+      ],
+      [
+        "Cây xanh: giữ cây cổ thụ, 114 cây sau cải tạo",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy đến và gửi xe khi phố đi bộ cấm xe cuối tuần",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với tháp Rùa, đền Ngọc Sơn, phố sách",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/cai-tao-vuon-hoa-ly-thai-to-trong-them-cay-xanh-post787350.html",
+        "quote": "Sài Gòn Giải Phóng (24/3/2025; đọc 13/10/2026), theo thông tin của UBND quận Hoàn Kiếm: vườn hoa Lý Thái Tổ ở phường Tràng Tiền, kích thước 212 m x 54,051 m, tổng diện tích 11.459 m², giới hạn bởi Đinh Tiên Hoàng, Lê Thạch, Lê Lai, Ngô Quyền; sắp xếp lại 3 khu: Khánh tiết giáp Đinh Tiên Hoàng 5.637 m², sân nhà Bát giác 3.033 m², vườn hoa phía sau giáp Ngô Quyền 2.789 m²; tượng đài vua Lý Thái Tổ giữ nguyên bệ, chỉ ốp lại mặt sân; hiện có 100 cây (20 loại); dự kiến thi công tháng 4/2025, hoàn thành tháng 10/2025; vườn hoa không nằm trong khoanh vùng bảo vệ di tích đền Ngọc Sơn và hồ Hoàn Kiếm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/ha-noi-du-kien-cai-tao-vuon-hoa-ly-thai-to-trong-thang-42025-173076.html",
+        "quote": "Thời báo Tài chính Việt Nam (24/3/2025; đọc 13/10/2026): hạng mục Km0 đặt tại trung tâm sân Khánh tiết, từ kết quả cuộc thi tuyển phương án do Hội Kiến trúc sư Việt Nam tổ chức năm 2020, đang điều chỉnh cho phù hợp điều kiện kỹ thuật; dịch chuyển 25 cây (16 cây trong nội bộ vườn, thay 9 cây sâu bệnh); tổng cây bóng mát sau cải tạo 114 cây (tăng 14 cây); khu vườn phía sau có hệ thống phun nước âm sàn dùng cho các kỳ lễ tết; hạ tầng vườn hoa đã hơn 20 năm sử dụng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://voh.com.vn/xa-hoi/cai-tao-vuon-hoa-ly-thai-to-khong-di-doi-cay-co-thu-586228.html",
+        "quote": "VOH (24/3/2025; đọc 13/10/2026): tối 23/3/2025 UBND quận Hoàn Kiếm phát thông báo chính thức; Km0 đặt tại trung tâm sân Khánh tiết, phía trước tượng đài vua Lý Thái Tổ; trồng bổ sung 30 cây mới; vòi phun đặt âm sàn nên mặt sân phẳng; lấy ý kiến cộng đồng xong ngày 25/2, dự kiến thi công tháng 4, hoàn thành tháng 10.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/cot-moc-km0-duoc-dat-tai-vi-tri-nao-o-ho-guom-post543229.html",
+        "quote": "Báo Pháp luật Việt Nam (23/3/2025; đọc 13/10/2026): Km0 đặt tại trung tâm sân Khánh tiết vườn hoa Lý Thái Tổ; khu công viên vườn hoa tổ chức 2 trục: Nhà Kèn – Ngân hàng Nhà nước và Văn phòng Chủ tịch nước – Cung Thiếu nhi; bố trí nhạc nước dọc trục Đông – Tây; bổ sung nhà vệ sinh công cộng và Trung tâm thông tin du lịch; lát đá lòng đường Lê Lai, Lê Thạch. (Bài này ghi diện tích 10.040 m², khác số 11.459 m² của các báo khác.)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00445"
+  }
+}

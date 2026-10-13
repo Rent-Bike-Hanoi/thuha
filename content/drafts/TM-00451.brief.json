@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w14a",
+  "queued": "2026-10-13T21:05:06.359416+00:00",
+  "topic": {
+    "topic_id": "TM-00451",
+    "url": "/du-lich/ho-truc-bach/",
+    "title": "Hồ Trúc Bạch: rừng trúc 7.500 cây, phố ẩm thực đảo Ngọc – Ngũ Xã",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hồ trúc bạch",
+    "secondary_keywords": [
+      "hồ trúc bạch ở đâu",
+      "phố ẩm thực ngũ xã",
+      "đảo ngọc ngũ xã",
+      "rừng trúc hồ trúc bạch",
+      "đường thanh niên hồ trúc bạch"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người dạo tối quanh Hồ Tây – Trúc Bạch muốn biết hồ Trúc Bạch có gì để xem, chụp ảnh rừng trúc ở đâu, phố ẩm thực đảo Ngọc – Ngũ Xã mở khi nào và cấm xe giờ nào.",
+    "information_gain": "/du-lich/ha-noi/vong-ho-tay-xe-may/ và /du-lich/chua-tran-quoc/ chỉ nhắc hồ Trúc Bạch như phía bên kia đường Thanh Niên. Bài này thêm: rừng trúc hơn 7.500 cây trên 1.000 m² ở góc Thanh Niên – Trấn Vũ (dự án 11/2023); khu phố ẩm thực đêm kết hợp đi bộ đảo Ngọc – Ngũ Xã khai trương 23/12/2022, 2 trục Ngũ Xã – Nguyễn Khắc Hiếu dài khoảng 120 m, cấm xe cơ giới từ 18h thứ Sáu đến 24h Chủ nhật; đảo Ngọc – Trúc Bạch được công nhận điểm du lịch cấp thành phố (11/2024); nghề đúc đồng Ngũ Xã được công nhận nghề truyền thống.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ha-noi-khai-truong-pho-am-thuc-dem-post731461.html",
+        "quote": "Nhân Dân (23/12/2022; đọc 13/10/2026): tối 23/12/2022 UBND quận Ba Đình khai trương 'Khu phố Ẩm thực đêm kết hợp đi bộ đảo Ngọc – Ngũ Xã' (phường Trúc Bạch), tuyến phố đi bộ đêm thứ ba của Hà Nội; hạt nhân là 2 phố Ngũ Xã, Nguyễn Khắc Hiếu dài khoảng 120 m, mặt cắt khoảng 8 m; kết hợp chợ hàng hóa, sản phẩm OCOP, trưng bày nghề đúc đồng Ngũ Xã tại Bảo tàng nghề đúc đồng; khu ẩm thực mở tất cả các ngày; cuối tuần từ 18 giờ thứ Sáu đến 24 giờ Chủ nhật cấm phương tiện cơ giới trên 2 phố Ngũ Xã và Nguyễn Khắc Hiếu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/rung-truc-ven-ho-truc-bach-post798612.html",
+        "quote": "Nhân Dân (4/3/2024; đọc 13/10/2026): tháng 11/2023 quận Ba Đình thực hiện dự án trồng trúc, cải tạo cảnh quan ven hồ Trúc Bạch tại điểm giao đường Thanh Niên và phố Trấn Vũ; dự án cơ bản hoàn thành với hơn 7.500 cây trúc trên thửa đất 1.000 m².",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/kham-pha-ha-noi-xua-qua-dem-truc-bach-114084.html",
+        "quote": "Báo Văn hóa (30/11/2024; đọc 13/10/2026): Sở Du lịch Hà Nội phối hợp UBND quận Ba Đình tổ chức chương trình 'Đêm Trúc Bạch 2024' tại khu phố ẩm thực đêm đảo Ngọc – Ngũ Xã, chủ đề thời bao cấp; công bố quyết định công nhận 3 điểm du lịch cấp thành phố: đền Quán Thánh, đền Voi Phục và đảo Ngọc – Trúc Bạch; công nhận nghề đúc đồng Ngũ Xã là nghề truyền thống Hà Nội và khai trương tuyến du lịch tàu điện số 6.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 14800,
+        "checked": "2026-10-13",
+        "keyword": "hồ trúc bạch"
+      }
+    ],
+    "notes": "Giờ cấm xe cuối tuần lấy từ bài khai trương 12/2022 – chưa có nguồn 2025–2026 xác nhận còn áp dụng; người viết ghi 'theo quy định lúc khai trương (12/2022)' và khuyên xem biển. Diện tích hồ (22 ha, bờ 1,8 km) và chuyện cung Trúc Lâm thời chúa Trịnh chỉ có ở trang Vietnam Airlines (thương mại) – không đưa số, có thể kể lịch sử dạng 'tương truyền' nếu tìm được nguồn khác. Không có nguồn về đạp vịt, bia tưởng niệm, phí gửi xe. Chú ý trùng lặp với bài vòng Hồ Tây: tập trung phía Trúc Bạch, đảo Ngọc, không mô tả lại cả vòng Hồ Tây.",
+    "outline": [
+      "Hồ Trúc Bạch ở đâu, khác Hồ Tây thế nào",
+      "Rừng trúc góc Thanh Niên – Trấn Vũ: chụp ảnh ở đâu",
+      "Phố ẩm thực đảo Ngọc – Ngũ Xã: mở khi nào, cấm xe giờ nào",
+      "Nghề đúc đồng Ngũ Xã và điểm du lịch đảo Ngọc – Trúc Bạch",
+      "Gợi ý một vòng tối: Quán Thánh – Trúc Bạch – Trấn Quốc",
+      "Đi xe máy và đỗ xe quanh hồ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/den-quan-thanh/",
+      "/du-lich/phu-tay-ho/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00451.json",
+  "draft_template": {
+    "id": "TM-00451",
+    "url": "/du-lich/ho-truc-bach/",
+    "title": "Hồ Trúc Bạch: rừng trúc 7.500 cây, phố ẩm thực đảo Ngọc – Ngũ Xã",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ trúc bạch, hồ trúc bạch ở đâu, phố ẩm thực ngũ xã, đảo ngọc ngũ xã, rừng trúc hồ trúc bạch, đường thanh niên hồ trúc bạch",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Trúc Bạch ở đâu, khác Hồ Tây thế nào",
+        "<p></p>"
+      ],
+      [
+        "Rừng trúc góc Thanh Niên – Trấn Vũ: chụp ảnh ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Phố ẩm thực đảo Ngọc – Ngũ Xã: mở khi nào, cấm xe giờ nào",
+        "<p></p>"
+      ],
+      [
+        "Nghề đúc đồng Ngũ Xã và điểm du lịch đảo Ngọc – Trúc Bạch",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý một vòng tối: Quán Thánh – Trúc Bạch – Trấn Quốc",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và đỗ xe quanh hồ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ha-noi-khai-truong-pho-am-thuc-dem-post731461.html",
+        "quote": "Nhân Dân (23/12/2022; đọc 13/10/2026): tối 23/12/2022 UBND quận Ba Đình khai trương 'Khu phố Ẩm thực đêm kết hợp đi bộ đảo Ngọc – Ngũ Xã' (phường Trúc Bạch), tuyến phố đi bộ đêm thứ ba của Hà Nội; hạt nhân là 2 phố Ngũ Xã, Nguyễn Khắc Hiếu dài khoảng 120 m, mặt cắt khoảng 8 m; kết hợp chợ hàng hóa, sản phẩm OCOP, trưng bày nghề đúc đồng Ngũ Xã tại Bảo tàng nghề đúc đồng; khu ẩm thực mở tất cả các ngày; cuối tuần từ 18 giờ thứ Sáu đến 24 giờ Chủ nhật cấm phương tiện cơ giới trên 2 phố Ngũ Xã và Nguyễn Khắc Hiếu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/rung-truc-ven-ho-truc-bach-post798612.html",
+        "quote": "Nhân Dân (4/3/2024; đọc 13/10/2026): tháng 11/2023 quận Ba Đình thực hiện dự án trồng trúc, cải tạo cảnh quan ven hồ Trúc Bạch tại điểm giao đường Thanh Niên và phố Trấn Vũ; dự án cơ bản hoàn thành với hơn 7.500 cây trúc trên thửa đất 1.000 m².",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/kham-pha-ha-noi-xua-qua-dem-truc-bach-114084.html",
+        "quote": "Báo Văn hóa (30/11/2024; đọc 13/10/2026): Sở Du lịch Hà Nội phối hợp UBND quận Ba Đình tổ chức chương trình 'Đêm Trúc Bạch 2024' tại khu phố ẩm thực đêm đảo Ngọc – Ngũ Xã, chủ đề thời bao cấp; công bố quyết định công nhận 3 điểm du lịch cấp thành phố: đền Quán Thánh, đền Voi Phục và đảo Ngọc – Trúc Bạch; công nhận nghề đúc đồng Ngũ Xã là nghề truyền thống Hà Nội và khai trương tuyến du lịch tàu điện số 6.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00451"
+  }
+}

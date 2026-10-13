@@ -1,0 +1,182 @@
+{
+  "writer": "writer-w14a",
+  "queued": "2026-10-13T21:05:06.359998+00:00",
+  "topic": {
+    "topic_id": "TM-00444",
+    "url": "/du-lich/ho-thien-quang/",
+    "title": "Hồ Thiền Quang: 4 góc Xuân–Hạ–Thu–Đông, quảng trường Trần Nhân Tông 2026",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hồ thiền quang",
+    "secondary_keywords": [
+      "hồ thiền quang ở đâu",
+      "hồ thiền quang sau cải tạo",
+      "phố đi bộ trần nhân tông",
+      "hồ ha le",
+      "quảng trường trần nhân tông"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở nội thành và khách thuê xe muốn đi dạo, chụp ảnh quanh hồ Thiền Quang cần biết hồ ở đâu, sau cải tạo có gì, khu nào đang thi công năm 2026 và gửi xe, đi lối nào cho tiện.",
+    "information_gain": "Site chưa có bài riêng về hồ Thiền Quang. /du-lich/cong-vien-thong-nhat/ chỉ nhắc hồ như mốc cạnh cổng chính và việc dỡ khoảng 400 m rào phía Trần Nhân Tông. Bài này bổ sung: kích thước hồ (chu vi khoảng 1,6 km, 5 ha, giữa 4 phố Nguyễn Du – Trần Nhân Tông – Quang Trung – Trần Bình Trọng), dự án cải tạo 2024 (4 không gian mở Xuân – Hạ – Thu – Đông, đường dạo lát đá, giữ toàn bộ cây lâu năm, 2 giai đoạn), và công trình mới từ đầu 7/2026: quảng trường phố đi bộ Trần Nhân Tông có đài phun nước, thay vỉa hè đá granite, dự kiến xong trước 31/12/2026 – để người đọc biết đoạn nào đang rào chắn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.24h.com.vn/tin-tuc-trong-ngay/ha-noi-xay-quang-truong-pho-di-bo-tran-nhan-tong-ben-cong-vien-thong-nhat-c46a1776263.html",
+        "quote": "24h.com.vn (7/7/2026; đọc 13/10/2026): Ban QLDA đầu tư – hạ tầng phường Hai Bà Trưng cải tạo hè phố Trần Nhân Tông, xây quảng trường phố đi bộ với đài phun nước trung tâm, sân sự kiện lát đá, chiếu sáng; tháo dỡ hai đoạn tường rào hai bên cổng Công viên Thống Nhất; công trình khởi công đầu tháng 7, dự kiến hoàn thành trước 31/12/2026. Hồ Thiền Quang (còn gọi hồ Hale) là hồ nước ngọt tự nhiên ở phường Hai Bà Trưng, chu vi khoảng 1,6 km, diện tích 5 ha, nằm giữa 4 phố Nguyễn Du, Trần Nhân Tông, Quang Trung, Trần Bình Trọng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/xay-dung-khong-gian-mo-phuc-vu-cong-dong-tren-he-tuyen-pho-tran-nhan-tong-20260707065059242.htm",
+        "quote": "Dân trí (7/7/2026; đọc 13/10/2026): phạm vi cải tạo là hè phố Trần Nhân Tông và cổng Công viên Thống Nhất từ phố Nguyễn Đình Chiểu đến phố Trần Bình Trọng; toàn bộ vỉa hè thay gạch block bằng đá granite; cải tạo nguyên trạng cổng công viên, bổ sung chiếu sáng và màn hình LED; công trình triển khai từ đầu tháng 7, dự kiến xong trước 31/12; đây là hạng mục cuối cùng hoàn thiện cảnh quan quanh Công viên Thống Nhất (rộng hơn 50 ha).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ha-noi-xay-khong-gian-mo-pho-di-bo-tran-nhan-tong-truoc-cong-vien-thong-nhat-2533278.html",
+        "quote": "VietNamNet (7/7/2026; đọc 13/10/2026): khu phố đi bộ Trần Nhân Tông sẽ có đài phun nước và trụ nước uống công cộng; dự án nhằm cụ thể hóa đồ án thiết kế đô thị khu vực quanh hồ Thiền Quang; dự kiến hoàn thành trước 31/12.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/toan-canh-ho-thien-quang-voi-4-khong-gian-mo-sap-hoan-thien-post1683181.tpo",
+        "quote": "Tiền Phong (17/10/2024; đọc 13/10/2026): sau khoảng 6 tháng thi công, dự án cải tạo cảnh quan quanh hồ Thiền Quang hoàn thành giai đoạn 1 (triển khai từ 3/2024); giữ toàn bộ cây xanh lâu năm; bờ cỏ viền hồ 'làm mềm', không bê tông hóa; 4 góc hồ có 4 không gian mở tên Xuân – Hạ – Thu – Đông; giai đoạn 2 (không gian trung tâm) dự kiến chuẩn bị đầu tư năm 2025, hoàn thành năm 2026; đồ án đoạt hạng mục 'Ý tưởng – Vì tình yêu Hà Nội' giải Bùi Xuân Phái 2024.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/ho-thien-quang-se-duoc-cai-tao-thanh-khong-gian-mo-post1097737.html",
+        "quote": "Báo Tin tức – TTXVN (13/7/2024; đọc 13/10/2026): dự án cải tạo hồ Thiền Quang tổng mức đầu tư 109 tỷ đồng, chủ đầu tư Ban QLDA quận Hai Bà Trưng; đường dạo quanh hồ lát đá granite; khi xong sẽ kết nối vườn hoa, đường dạo quanh hồ và trục phía Bắc Công viên Thống Nhất thành không gian đi bộ; nơi diễn ra hoạt động văn hóa trong không gian phố đi bộ Trần Nhân Tông cuối tuần.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 5400,
+        "checked": "2026-10-13",
+        "keyword": "hồ thiền quang"
+      }
+    ],
+    "notes": "Mức đầu tư không thống nhất giữa các nguồn (109 tỷ theo Báo Tin tức 7/2024; một bài Facebook Hanoinews ghi 89 tỷ – không dùng). Không tìm thấy nguồn báo xác nhận giai đoạn 2 (không gian trung tâm) đã xong; chỉ có dự kiến 2026. Không có nguồn chính thức về điểm gửi xe máy quanh hồ, giờ cấm xe phố đi bộ Trần Nhân Tông năm 2026 – không ghi giờ cấm. Tên 'hồ Hale' chỉ thấy ở 24h. Địa giới: phường Hai Bà Trưng (sau sắp xếp 2025). Không ghi khoảng cách/phút từ cửa hàng.",
+    "outline": [
+      "Hồ Thiền Quang ở đâu, rộng bao nhiêu",
+      "Sau cải tạo 2024: 4 góc Xuân – Hạ – Thu – Đông và đường dạo đá",
+      "Công trình 2026: quảng trường phố đi bộ Trần Nhân Tông, xong trước 31/12",
+      "Đi dạo thế nào: hướng đi một vòng hồ và nối sang Công viên Thống Nhất",
+      "Đi xe máy từ Long Biên và lưu ý đỗ xe khi phố đang thi công",
+      "Những gì chưa có thông báo chính thức"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cong-vien-thong-nhat/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/du-lich/cau-vinh-tuy-xe-may/",
+      "/thue-xe-may/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/cong-vien-thong-nhat/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/cong-vien-thong-nhat/",
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00444.json",
+  "draft_template": {
+    "id": "TM-00444",
+    "url": "/du-lich/ho-thien-quang/",
+    "title": "Hồ Thiền Quang: 4 góc Xuân–Hạ–Thu–Đông, quảng trường Trần Nhân Tông 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ thiền quang, hồ thiền quang ở đâu, hồ thiền quang sau cải tạo, phố đi bộ trần nhân tông, hồ ha le, quảng trường trần nhân tông",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Thiền Quang ở đâu, rộng bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Sau cải tạo 2024: 4 góc Xuân – Hạ – Thu – Đông và đường dạo đá",
+        "<p></p>"
+      ],
+      [
+        "Công trình 2026: quảng trường phố đi bộ Trần Nhân Tông, xong trước 31/12",
+        "<p></p>"
+      ],
+      [
+        "Đi dạo thế nào: hướng đi một vòng hồ và nối sang Công viên Thống Nhất",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và lưu ý đỗ xe khi phố đang thi công",
+        "<p></p>"
+      ],
+      [
+        "Những gì chưa có thông báo chính thức",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.24h.com.vn/tin-tuc-trong-ngay/ha-noi-xay-quang-truong-pho-di-bo-tran-nhan-tong-ben-cong-vien-thong-nhat-c46a1776263.html",
+        "quote": "24h.com.vn (7/7/2026; đọc 13/10/2026): Ban QLDA đầu tư – hạ tầng phường Hai Bà Trưng cải tạo hè phố Trần Nhân Tông, xây quảng trường phố đi bộ với đài phun nước trung tâm, sân sự kiện lát đá, chiếu sáng; tháo dỡ hai đoạn tường rào hai bên cổng Công viên Thống Nhất; công trình khởi công đầu tháng 7, dự kiến hoàn thành trước 31/12/2026. Hồ Thiền Quang (còn gọi hồ Hale) là hồ nước ngọt tự nhiên ở phường Hai Bà Trưng, chu vi khoảng 1,6 km, diện tích 5 ha, nằm giữa 4 phố Nguyễn Du, Trần Nhân Tông, Quang Trung, Trần Bình Trọng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/xay-dung-khong-gian-mo-phuc-vu-cong-dong-tren-he-tuyen-pho-tran-nhan-tong-20260707065059242.htm",
+        "quote": "Dân trí (7/7/2026; đọc 13/10/2026): phạm vi cải tạo là hè phố Trần Nhân Tông và cổng Công viên Thống Nhất từ phố Nguyễn Đình Chiểu đến phố Trần Bình Trọng; toàn bộ vỉa hè thay gạch block bằng đá granite; cải tạo nguyên trạng cổng công viên, bổ sung chiếu sáng và màn hình LED; công trình triển khai từ đầu tháng 7, dự kiến xong trước 31/12; đây là hạng mục cuối cùng hoàn thiện cảnh quan quanh Công viên Thống Nhất (rộng hơn 50 ha).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ha-noi-xay-khong-gian-mo-pho-di-bo-tran-nhan-tong-truoc-cong-vien-thong-nhat-2533278.html",
+        "quote": "VietNamNet (7/7/2026; đọc 13/10/2026): khu phố đi bộ Trần Nhân Tông sẽ có đài phun nước và trụ nước uống công cộng; dự án nhằm cụ thể hóa đồ án thiết kế đô thị khu vực quanh hồ Thiền Quang; dự kiến hoàn thành trước 31/12.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/toan-canh-ho-thien-quang-voi-4-khong-gian-mo-sap-hoan-thien-post1683181.tpo",
+        "quote": "Tiền Phong (17/10/2024; đọc 13/10/2026): sau khoảng 6 tháng thi công, dự án cải tạo cảnh quan quanh hồ Thiền Quang hoàn thành giai đoạn 1 (triển khai từ 3/2024); giữ toàn bộ cây xanh lâu năm; bờ cỏ viền hồ 'làm mềm', không bê tông hóa; 4 góc hồ có 4 không gian mở tên Xuân – Hạ – Thu – Đông; giai đoạn 2 (không gian trung tâm) dự kiến chuẩn bị đầu tư năm 2025, hoàn thành năm 2026; đồ án đoạt hạng mục 'Ý tưởng – Vì tình yêu Hà Nội' giải Bùi Xuân Phái 2024.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/ho-thien-quang-se-duoc-cai-tao-thanh-khong-gian-mo-post1097737.html",
+        "quote": "Báo Tin tức – TTXVN (13/7/2024; đọc 13/10/2026): dự án cải tạo hồ Thiền Quang tổng mức đầu tư 109 tỷ đồng, chủ đầu tư Ban QLDA quận Hai Bà Trưng; đường dạo quanh hồ lát đá granite; khi xong sẽ kết nối vườn hoa, đường dạo quanh hồ và trục phía Bắc Công viên Thống Nhất thành không gian đi bộ; nơi diễn ra hoạt động văn hóa trong không gian phố đi bộ Trần Nhân Tông cuối tuần.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00444"
+  }
+}

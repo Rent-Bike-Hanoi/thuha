@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w14b",
+  "queued": "2026-10-13T21:05:06.532626+00:00",
+  "topic": {
+    "topic_id": "TM-00449",
+    "url": "/du-lich/den-ha-loi-me-linh/",
+    "title": "Đền Hạ Lôi Mê Linh: thành cổ Mê Linh, hội mùng 4–10 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền hạ lôi mê linh",
+    "secondary_keywords": [
+      "đền hai bà trưng mê linh",
+      "lễ hội đền hai bà trưng mê linh",
+      "thành cổ mê linh",
+      "đền hai bà trưng hạ lôi",
+      "hộp thư bí mật trường chinh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi lễ hoặc tham quan nơi thờ Hai Bà Trưng ở Mê Linh cần biết đền ở đâu, trong khu di tích có những gì, mùa hội diễn ra ngày nào và đi xe máy ra sao.",
+    "information_gain": "/du-lich/den-hai-ba-trung-dong-nhan/ chỉ nhắc đền Hạ Lôi trong bảng phân biệt (vị trí, xếp hạng, hội mùng 6 tháng Giêng) và nói rõ Mê Linh nằm ngoài phạm vi bài. Bài này là hướng dẫn riêng cho Mê Linh: khu đền rộng 129.824 m² nhìn ra đê sông Hồng; danh sách hạng mục (đền Hai Bà, đền thân phụ – thân mẫu, đền nữ tướng/nam tướng, hồ mắt voi, nhà bia Hộp thư bí mật của đồng chí Trường Chinh); dấu vết thành cổ Mê Linh dài 1.750 m; hội mùng 4–10 tháng Giêng, 5 năm rước kiệu một lần; lễ khai hội 2026 ngày 22/2/2026; xếp hạng đặc biệt theo QĐ 2383/QĐ-TTg (9/12/2013).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/di-tich-lich-su-den-hai-ba-trung-2970",
+        "quote": "Cục Di sản văn hóa, 'Di tích lịch sử Đền Hai Bà Trưng' (theo hồ sơ xếp hạng; đọc 13/10/2026): đền còn gọi đền Hạ Lôi, thôn Hạ Lôi, xã Mê Linh; nằm trên khu đất cao nhìn ra đê sông Hồng, diện tích 129.824 m²; hạng mục gồm cổng đền, nghi môn ngoại – nội, gác chuông, gác trống, đền thờ Hai Bà, đền thờ thân phụ – thân mẫu Hai Bà, đền thờ thân phụ – thân mẫu ông Thi Sách, đền thờ nữ tướng và nam tướng, nhà bia lưu niệm Hộp thư bí mật của đồng chí Trường Chinh (cây lụa già thân rỗng, 1943–1945), hồ bán nguyệt, hồ mắt voi, suối vòi voi, hồ tắm voi; thành cổ Mê Linh còn dấu vết đắp đất dài 1.750 m, chỗ rộng nhất 500 m, hẹp nhất 200 m; nhà hữu mạc trưng bày di vật khai quật thành cổ; lễ hội từ mùng 4 đến mùng 10 tháng Giêng, chính hội mùng 6; cứ 5 năm rước kiệu Hai Bà và kiệu Thành hoàng làng Hạ Lôi một lần; xếp hạng di tích quốc gia đặc biệt theo Quyết định 2383/QĐ-TTg ngày 9/12/2013.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thethaovanhoa.vn/le-ky-niem-1986-nam-khoi-nghia-hai-ba-trung-va-khai-mac-le-hoi-den-hai-ba-trung-nam-2026-20260222112504808.htm",
+        "quote": "Thể thao & Văn hóa – TTXVN (22/2/2026; đọc 13/10/2026): sáng 22/2/2026 (mùng 6 tháng Giêng Bính Ngọ), tại Khu di tích quốc gia đặc biệt Đền Hai Bà Trưng (xã Mê Linh, TP Hà Nội) diễn ra Lễ kỷ niệm 1.986 năm Khởi nghĩa Hai Bà Trưng (40–2026) và khai mạc lễ hội 2026; nghi thức gồm rước kiệu, rước bài vị các vị vua, rước ngựa chiến, trống hội, múa sênh tiền.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/khai-mac-le-hoi-den-hai-ba-trung-xuan-binh-ngo-2026-post944151.html",
+        "quote": "Nhân Dân (22/2/2026; đọc 13/10/2026): Phó Chủ tịch nước Võ Thị Ánh Xuân dự lễ; Chủ tịch UBND xã Mê Linh Trần Thanh Hoài đánh trống khai hội, mở màn mùa lễ hội xuân Bính Ngọ 2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/doi-noi-52FA82FBF/ha-noi-khai-mac-le-hoi-den-hai-ba-trung-9b40fdc93.html",
+        "quote": "Thanh tra (3/2/2025; đọc 13/10/2026): sáng 3/2/2025 khai hội đền Hai Bà Trưng (kỷ niệm 1.985 năm khởi nghĩa) tại Khu di tích lịch sử quốc gia đặc biệt; lễ hội diễn ra đến ngày 10 tháng Giêng năm Ất Tỵ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đền hạ lôi mê linh"
+      }
+    ],
+    "notes": "Trùng ý định một phần với /du-lich/den-hai-ba-trung-dong-nhan/ (bài đó đã liệt 'đền hai bà trưng mê linh' trong keywords) – bài mới phải đi sâu về Mê Linh, không lặp phần so sánh; editor cân nhắc khi validate. Giờ mở cửa, vé, gửi xe: không có nguồn chính thức – không ghi. Khoảng cách từ Long Biên và lộ trình (qua cầu Thăng Long/Nhật Tân) chưa có nguồn – không ghi km. Năm rước kiệu gần nhất / kế tiếp (chu kỳ 5 năm) chưa xác minh. Địa giới: xã Mê Linh, Hà Nội (không còn huyện Mê Linh sau 7/2025 theo cách ghi của báo 2026).",
+    "outline": [
+      "Đền Hạ Lôi ở đâu và khác đền Đồng Nhân thế nào",
+      "Trong khu di tích gần 13 ha có gì",
+      "Thành cổ Mê Linh và nhà bia Hộp thư bí mật",
+      "Lễ hội mùng 4–10 tháng Giêng: chính hội, rước kiệu 5 năm một lần",
+      "Đi xe máy từ Long Biên ngày hội: giờ đi, đỗ xe, an toàn",
+      "Kết hợp Cổ Loa, đền Sóc trong một chuyến"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-hai-ba-trung-dong-nhan/",
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/du-lich/thanh-co-loa/",
+      "/du-lich/den-soc-soc-son/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/den-hai-ba-trung-dong-nhan/",
+        "layers": [
+          "exact_keyword",
+          "keyword_normalized"
+        ],
+        "scores": {
+          "exact_keyword": 1.0,
+          "keyword_normalized": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/den-hai-ba-trung-dong-nhan/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00449.json",
+  "draft_template": {
+    "id": "TM-00449",
+    "url": "/du-lich/den-ha-loi-me-linh/",
+    "title": "Đền Hạ Lôi Mê Linh: thành cổ Mê Linh, hội mùng 4–10 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền hạ lôi mê linh, đền hai bà trưng mê linh, lễ hội đền hai bà trưng mê linh, thành cổ mê linh, đền hai bà trưng hạ lôi, hộp thư bí mật trường chinh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Hạ Lôi ở đâu và khác đền Đồng Nhân thế nào",
+        "<p></p>"
+      ],
+      [
+        "Trong khu di tích gần 13 ha có gì",
+        "<p></p>"
+      ],
+      [
+        "Thành cổ Mê Linh và nhà bia Hộp thư bí mật",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội mùng 4–10 tháng Giêng: chính hội, rước kiệu 5 năm một lần",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên ngày hội: giờ đi, đỗ xe, an toàn",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp Cổ Loa, đền Sóc trong một chuyến",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/di-tich-lich-su-den-hai-ba-trung-2970",
+        "quote": "Cục Di sản văn hóa, 'Di tích lịch sử Đền Hai Bà Trưng' (theo hồ sơ xếp hạng; đọc 13/10/2026): đền còn gọi đền Hạ Lôi, thôn Hạ Lôi, xã Mê Linh; nằm trên khu đất cao nhìn ra đê sông Hồng, diện tích 129.824 m²; hạng mục gồm cổng đền, nghi môn ngoại – nội, gác chuông, gác trống, đền thờ Hai Bà, đền thờ thân phụ – thân mẫu Hai Bà, đền thờ thân phụ – thân mẫu ông Thi Sách, đền thờ nữ tướng và nam tướng, nhà bia lưu niệm Hộp thư bí mật của đồng chí Trường Chinh (cây lụa già thân rỗng, 1943–1945), hồ bán nguyệt, hồ mắt voi, suối vòi voi, hồ tắm voi; thành cổ Mê Linh còn dấu vết đắp đất dài 1.750 m, chỗ rộng nhất 500 m, hẹp nhất 200 m; nhà hữu mạc trưng bày di vật khai quật thành cổ; lễ hội từ mùng 4 đến mùng 10 tháng Giêng, chính hội mùng 6; cứ 5 năm rước kiệu Hai Bà và kiệu Thành hoàng làng Hạ Lôi một lần; xếp hạng di tích quốc gia đặc biệt theo Quyết định 2383/QĐ-TTg ngày 9/12/2013.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thethaovanhoa.vn/le-ky-niem-1986-nam-khoi-nghia-hai-ba-trung-va-khai-mac-le-hoi-den-hai-ba-trung-nam-2026-20260222112504808.htm",
+        "quote": "Thể thao & Văn hóa – TTXVN (22/2/2026; đọc 13/10/2026): sáng 22/2/2026 (mùng 6 tháng Giêng Bính Ngọ), tại Khu di tích quốc gia đặc biệt Đền Hai Bà Trưng (xã Mê Linh, TP Hà Nội) diễn ra Lễ kỷ niệm 1.986 năm Khởi nghĩa Hai Bà Trưng (40–2026) và khai mạc lễ hội 2026; nghi thức gồm rước kiệu, rước bài vị các vị vua, rước ngựa chiến, trống hội, múa sênh tiền.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/khai-mac-le-hoi-den-hai-ba-trung-xuan-binh-ngo-2026-post944151.html",
+        "quote": "Nhân Dân (22/2/2026; đọc 13/10/2026): Phó Chủ tịch nước Võ Thị Ánh Xuân dự lễ; Chủ tịch UBND xã Mê Linh Trần Thanh Hoài đánh trống khai hội, mở màn mùa lễ hội xuân Bính Ngọ 2026.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/doi-noi-52FA82FBF/ha-noi-khai-mac-le-hoi-den-hai-ba-trung-9b40fdc93.html",
+        "quote": "Thanh tra (3/2/2025; đọc 13/10/2026): sáng 3/2/2025 khai hội đền Hai Bà Trưng (kỷ niệm 1.985 năm khởi nghĩa) tại Khu di tích lịch sử quốc gia đặc biệt; lễ hội diễn ra đến ngày 10 tháng Giêng năm Ất Tỵ.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00449"
+  }
+}

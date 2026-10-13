@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w14b",
+  "queued": "2026-10-13T21:05:06.532282+00:00",
+  "topic": {
+    "topic_id": "TM-00447",
+    "url": "/du-lich/lang-son-mai-ha-thai/",
+    "title": "Làng sơn mài Hạ Thái: xem làm sơn mài, điểm du lịch làng nghề từ 2020",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng sơn mài hạ thái",
+    "secondary_keywords": [
+      "làng nghề sơn mài hạ thái",
+      "sơn mài hạ thái ở đâu",
+      "duyên thái thường tín",
+      "trải nghiệm vẽ sơn mài",
+      "tranh sơn mài hạ thái"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi một buổi xem làng nghề quanh Hà Nội cần biết làng sơn mài Hạ Thái ở đâu, có gì để xem, có nơi cho khách trải nghiệm không và nên mua gì.",
+    "information_gain": "Site đã có các làng nghề /du-lich/lang-gom-bat-trang/, /du-lich/lang-lua-van-phuc/, /du-lich/lang-kieu-ky-dat-vang/, /du-lich/lang-non-chuong/ nhưng chưa có làng sơn mài. Bài này thêm: vị trí xã Duyên Thái (Thường Tín) cách trung tâm khoảng 17–20 km; nghề sơn có từ thế kỷ XVII, sơn mài hình thành từ thập niên 1930 với họa sĩ trường Mỹ thuật Đông Dương; 3 màu gốc (then, son, cánh gián); 12–15 nước sơn mỗi sản phẩm; được công nhận điểm du lịch năm 2020; số hộ còn làm nghề (138/238) và 5 hộ đón khách trải nghiệm – để người đọc biết đi đâu thay vì đi lạc trong cụm công nghiệp.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2817/27",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, trang Điểm đến 'Làng nghề sơn mài Hạ Thái' (đọc 13/10/2026): vị trí xã Duyên Thái, huyện Thường Tín, cách trung tâm khoảng 17 km về phía nam; tương truyền nghề sơn có từ thế kỷ 17 (sơn son thếp vàng đồ thờ); đầu thập niên 1930 họa sĩ trường Mỹ thuật Đông Dương thêm vỏ trứng, ốc, cật tre và kỹ thuật mài, tạo nên sơn mài; ban đầu chỉ 3 màu: sơn then (đen), sơn son (đỏ), sơn cánh gián (vàng nâu); chất liệu gỗ, tre, nứa, song, mây, gần đây thêm composite, gốm sứ; công đoạn chính: bó hom vóc, trang trí, mài và đánh bóng; xã đã quy hoạch cụm, điểm công nghiệp ngay tại làng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/gin-giu-va-phat-trien-lang-nghe-son-mai-ha-thai-103240314101855414.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô (16/3/2024; đọc 13/10/2026): làng Hạ Thái cách trung tâm Hà Nội gần 20 km về phía Nam, là một trong 7 điểm du lịch làng nghề của Thủ đô; năm 2020 được UBND TP Hà Nội công nhận là điểm du lịch làng nghề; theo Chủ tịch Hội làng nghề Nguyễn Thị Hồi, một sản phẩm qua vài chục công đoạn, khoảng 12–15 nước sơn; làng còn thiếu nhà vệ sinh công cộng, khu trải nghiệm, phòng trưng bày, điểm đỗ xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/khu-sinh-thai-dan-phuong-duoc-cong-nhan-la-diem-du-lich-d134789.html",
+        "quote": "Báo Đầu tư (không ghi ngày trên bản đọc được; đọc 13/10/2026): UBND TP Hà Nội ra quyết định công nhận 3 điểm du lịch, trong đó có Điểm du lịch làng nghề sơn mài Hạ Thái (xã Duyên Thái, huyện Thường Tín); làng nghề có lịch sử khoảng 300 năm, hàng chục cơ sở và 250 hộ sản xuất kinh doanh đồ thờ, thủ công mỹ nghệ, nội thất, sơn mài; sản phẩm có mặt ở Anh, Pháp, Nga, Mỹ, Tây Ban Nha, Australia, Italia, Nhật Bản, Hàn Quốc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thesaigontimes.vn/saigontimes/kinh-te-lang-nghe-va-cuoc-chuyen-doi-so/",
+        "quote": "Sài Gòn Times (24/4/2025; đọc 13/10/2026): theo khảo sát của EkoCenter Hà Nội, cụm công nghiệp làng nghề xã Duyên Thái có 238 hộ sản xuất kinh doanh và doanh nghiệp nhưng chỉ 138 hộ (58%) còn làm sơn mài, 100 hộ (42%) đã chuyển nghề; 5 hộ đã kết hợp trải nghiệm nghề sơn mài và mở phòng trưng bày đón khách; xã Duyên Thái được chọn phát triển mô hình Trung tâm Thiết kế sáng tạo, giới thiệu, quảng bá OCOP và làng nghề gắn với du lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 320,
+        "checked": "2026-10-13",
+        "keyword": "làng sơn mài hạ thái"
+      }
+    ],
+    "notes": "Tuổi làng nghề không thống nhất (hơn 200 năm, khoảng 300 năm, nghề sơn từ thế kỷ XVII) – nêu là 'tương truyền'. Khoảng cách 17 km (Cục Du lịch) vs gần 20 km (Chính phủ) – ghi 'khoảng 17–20 km'. Giá trải nghiệm (70–300 nghìn đồng, tên xưởng cụ thể) chỉ thấy ở snippet tìm kiếm, không đọc được nguồn – KHÔNG đưa giá. Sau sắp xếp hành chính 7/2025, xã Duyên Thái có thể đã nhập xã mới – không tìm thấy nguồn xác nhận tên xã mới; người viết ghi 'xã Duyên Thái (cũ), Thường Tín'. Không có lộ trình chính thức từ Long Biên (qua cầu Thanh Trì/QL1A là gợi ý, chưa có nguồn).",
+    "outline": [
+      "Làng sơn mài Hạ Thái ở đâu, cách trung tâm bao xa",
+      "Từ sơn son thếp vàng đến sơn mài: lịch sử ngắn",
+      "Một món sơn mài làm thế nào: vóc, 12–15 nước sơn, mài",
+      "Đến làng xem gì: xưởng, phòng trưng bày, hộ đón khách",
+      "Mua sơn mài: phân biệt hàng thủ công và hàng gia công",
+      "Kết hợp chùa Đậu, làng nón Chuông trong một ngày xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/lang-kieu-ky-dat-vang/",
+      "/du-lich/chua-dau-thuong-tin/",
+      "/du-lich/cau-thanh-tri-xe-may/",
+      "/du-lich/lang-non-chuong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00447.json",
+  "draft_template": {
+    "id": "TM-00447",
+    "url": "/du-lich/lang-son-mai-ha-thai/",
+    "title": "Làng sơn mài Hạ Thái: xem làm sơn mài, điểm du lịch làng nghề từ 2020",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng sơn mài hạ thái, làng nghề sơn mài hạ thái, sơn mài hạ thái ở đâu, duyên thái thường tín, trải nghiệm vẽ sơn mài, tranh sơn mài hạ thái",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng sơn mài Hạ Thái ở đâu, cách trung tâm bao xa",
+        "<p></p>"
+      ],
+      [
+        "Từ sơn son thếp vàng đến sơn mài: lịch sử ngắn",
+        "<p></p>"
+      ],
+      [
+        "Một món sơn mài làm thế nào: vóc, 12–15 nước sơn, mài",
+        "<p></p>"
+      ],
+      [
+        "Đến làng xem gì: xưởng, phòng trưng bày, hộ đón khách",
+        "<p></p>"
+      ],
+      [
+        "Mua sơn mài: phân biệt hàng thủ công và hàng gia công",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp chùa Đậu, làng nón Chuông trong một ngày xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2817/27",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, trang Điểm đến 'Làng nghề sơn mài Hạ Thái' (đọc 13/10/2026): vị trí xã Duyên Thái, huyện Thường Tín, cách trung tâm khoảng 17 km về phía nam; tương truyền nghề sơn có từ thế kỷ 17 (sơn son thếp vàng đồ thờ); đầu thập niên 1930 họa sĩ trường Mỹ thuật Đông Dương thêm vỏ trứng, ốc, cật tre và kỹ thuật mài, tạo nên sơn mài; ban đầu chỉ 3 màu: sơn then (đen), sơn son (đỏ), sơn cánh gián (vàng nâu); chất liệu gỗ, tre, nứa, song, mây, gần đây thêm composite, gốm sứ; công đoạn chính: bó hom vóc, trang trí, mài và đánh bóng; xã đã quy hoạch cụm, điểm công nghiệp ngay tại làng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://thanglong.chinhphu.vn/gin-giu-va-phat-trien-lang-nghe-son-mai-ha-thai-103240314101855414.htm",
+        "quote": "Báo Điện tử Chính phủ – chuyên trang Thủ đô (16/3/2024; đọc 13/10/2026): làng Hạ Thái cách trung tâm Hà Nội gần 20 km về phía Nam, là một trong 7 điểm du lịch làng nghề của Thủ đô; năm 2020 được UBND TP Hà Nội công nhận là điểm du lịch làng nghề; theo Chủ tịch Hội làng nghề Nguyễn Thị Hồi, một sản phẩm qua vài chục công đoạn, khoảng 12–15 nước sơn; làng còn thiếu nhà vệ sinh công cộng, khu trải nghiệm, phòng trưng bày, điểm đỗ xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/khu-sinh-thai-dan-phuong-duoc-cong-nhan-la-diem-du-lich-d134789.html",
+        "quote": "Báo Đầu tư (không ghi ngày trên bản đọc được; đọc 13/10/2026): UBND TP Hà Nội ra quyết định công nhận 3 điểm du lịch, trong đó có Điểm du lịch làng nghề sơn mài Hạ Thái (xã Duyên Thái, huyện Thường Tín); làng nghề có lịch sử khoảng 300 năm, hàng chục cơ sở và 250 hộ sản xuất kinh doanh đồ thờ, thủ công mỹ nghệ, nội thất, sơn mài; sản phẩm có mặt ở Anh, Pháp, Nga, Mỹ, Tây Ban Nha, Australia, Italia, Nhật Bản, Hàn Quốc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thesaigontimes.vn/saigontimes/kinh-te-lang-nghe-va-cuoc-chuyen-doi-so/",
+        "quote": "Sài Gòn Times (24/4/2025; đọc 13/10/2026): theo khảo sát của EkoCenter Hà Nội, cụm công nghiệp làng nghề xã Duyên Thái có 238 hộ sản xuất kinh doanh và doanh nghiệp nhưng chỉ 138 hộ (58%) còn làm sơn mài, 100 hộ (42%) đã chuyển nghề; 5 hộ đã kết hợp trải nghiệm nghề sơn mài và mở phòng trưng bày đón khách; xã Duyên Thái được chọn phát triển mô hình Trung tâm Thiết kế sáng tạo, giới thiệu, quảng bá OCOP và làng nghề gắn với du lịch.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00447"
+  }
+}
