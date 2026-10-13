@@ -1,0 +1,194 @@
+{
+  "writer": "writer-w12d",
+  "queued": "2026-10-13T16:22:02.918490+00:00",
+  "topic": {
+    "topic_id": "TM-00416",
+    "url": "/du-lich/cau-vinh-tuy-xe-may/",
+    "title": "Đi xe máy qua cầu Vĩnh Tuy: cầu 1 hay cầu 2, chiều nào, làn nào",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "xe máy qua cầu vĩnh tuy",
+    "secondary_keywords": [
+      "cầu vĩnh tuy 2 xe máy đi làn nào",
+      "cầu vĩnh tuy một chiều",
+      "tốc độ xe máy cầu vĩnh tuy",
+      "vành đai 2 trên cao cấm xe máy"
+    ],
+    "intent": "commercial",
+    "user_problem": "Người thuê xe ở Long Biên muốn qua sông sang Hai Bà Trưng, Hoàng Mai (hoặc ngược lại) bằng cầu Vĩnh Tuy cần biết cầu nào đi chiều nào, làn xe máy ở đâu, tốc độ tối đa và chỗ dễ đi nhầm lên Vành đai 2 trên cao.",
+    "information_gain": "Gần nhất là /du-lich/cau-chuong-duong/ (chỉ nhắc Vĩnh Tuy là cầu thay thế) và /du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/. Bài thêm: Vĩnh Tuy 2 một chiều Hai Bà Trưng → Long Biên, Vĩnh Tuy 1 một chiều ngược lại; làn hỗn hợp xe máy sát lan can phải rộng 4,8 m, 40 km/h theo phương án 18/10/2023; 3 nhánh lên cầu (CV1A, CV1B, Minh Khai); đường gom Đàm Quang Trung một chiều; nhánh CV1C cấm xe trên 18 tấn; cảnh báo Vành đai 2 trên cao Vĩnh Tuy – Ngã Tư Sở chỉ dành cho ô tô.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thong-xe-cau-vinh-tuy-2-4647538.html",
+        "quote": "VnExpress, 'Thông xe cầu Vĩnh Tuy 2' (30/8/2023): cầu Vĩnh Tuy giai đoạn hai dài 3,5 km, rộng 19,25 m, tổng mức đầu tư hơn 2.500 tỷ đồng; cầu Vĩnh Tuy 2 một chiều từ Hai Bà Trưng sang Long Biên, cầu Vĩnh Tuy 1 một chiều ngược lại; điểm đầu giao Trần Quang Khải - Nguyễn Khoái - Minh Khai, điểm cuối giao đường Long Biên - Thạch Bàn; sau giai đoạn hai cầu có mặt cắt ngang 40 m với 8 làn ôtô.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tu-308-xe-tho-so-duoc-di-tren-cau-vinh-tuy-post769758.html",
+        "quote": "Nhân Dân, 'Từ 30/8, xe thô sơ được đi trên cầu Vĩnh Tuy' (29/8/2023): Sở GTVT Hà Nội phân luồng: lên cầu Vĩnh Tuy 2 qua ba nhánh – từ đê Nguyễn Khoái hướng cầu Thanh Trì rẽ phải vào nhánh CV1B (làn 6m), từ đê Nguyễn Khoái hướng cầu Chương Dương rẽ phải nhánh CV1A (làn 7m); làn xe cơ giới và làn hỗn hợp phân bằng dải phân cách cứng; đường gom hai bên cầu - đường Đàm Quang Trung (Long Biên) tổ chức một chiều cùng chiều với xe qua cầu, đoạn Cổ Linh đến Bát Khối.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/thuc-hien-phan-luong-giao-thong-moi-tren-cau-vinh-tuy-tu-ngay-1810-post902863.vnp",
+        "quote": "VietnamPlus, 'Thực hiện phân luồng giao thông mới trên cầu Vĩnh Tuy từ ngày 18/10' (18/10/2023): cầu Vĩnh Tuy mới một chiều Hai Bà Trưng đi Long Biên; cầu Vĩnh Tuy cũ một chiều Long Biên đi Hai Bà Trưng; mỗi cầu 3 làn xe cơ giới 3,75 m/làn tốc độ tối đa 60 km/h và 1 làn xe hỗn hợp (xe máy và xe thô sơ) sát lan can phải rộng 4,8m, tốc độ tối đa 40 km/h, phân cách bằng dải phân cách cứng; đi từ Minh Khai và cầu cạn Vành đai 2 muốn sang Long Biên đi thẳng lên cầu Vĩnh Tuy 2; cấm ô tô từ Phố Trạm lên cầu Vĩnh Tuy đi trung tâm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/video-dieu-chinh-giao-thong-tren-nhanh-ramp-cv1c-cau-vinh-tuy-post905685.html",
+        "quote": "Nhân Dân, 'Điều chỉnh giao thông trên nhánh Ramp CV1C cầu Vĩnh Tuy' (4/9/2025): từ 3/9 cấm toàn bộ phương tiện tải trọng trên 18 tấn qua nhánh CV1C hướng từ cầu Vĩnh Tuy rẽ phải đi đường Nguyễn Khoái; xe buýt vẫn được phép.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://cand.vn/phat-nang-tien-tru-diem-gplx-nhieu-tai-xe-xe-may-di-len-vanh-dai-2-tren-cao-post755950.html",
+        "quote": "Công an Nhân dân, 'Phạt nặng tiền, trừ điểm GPLX nhiều tài xế xe máy đi lên Vành đai 2 trên cao' (8/1/2025): 'Đường Vành đai 2 trên cao nối từ cầu Vĩnh Tuy đến Ngã Tư Sở được thiết kế với 4 làn xe chạy (mỗi chiều 2 làn xe) và không có làn khẩn cấp. Tuyến đường này được thiết kế với tốc độ lưu thông tối đa là 80km/h và chỉ dành cho ô tô. Tại các đầu đường, lực lượng chức năng đặt biển cấm xe gắn máy, xe mô tô, xe đạp, người đi bộ.'; Đội CSGT số 4 phát hiện xe máy đi lên hướng từ cầu Vĩnh Tuy đi ngã tư Vọng.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/dien-mao-9-cau-bac-qua-song-hong-4800203.html",
+        "quote": "VnExpress, 'Diện mạo 9 cầu bắc qua sông Hồng' (8/10/2024): cầu Vĩnh Tuy nối Hai Bà Trưng và Long Biên, khởi công năm 2005, khánh thành giai đoạn 1 năm 2010, dài 3,7 km; giai đoạn 2 đưa vào sử dụng năm 2023, nhịp đúc hẫng 135 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "xe máy qua cầu vĩnh tuy"
+      }
+    ],
+    "notes": "Phương án 18/10/2023 ghi cầu Vĩnh Tuy cũ cũng có làn hỗn hợp 4,8m/40 km/h (giống cầu mới), khác phương án 30/8/2023 (cầu cũ: 4 làn cơ giới 40 km/h, làn hỗn hợp 2,7m/30 km/h). Dùng phương án mới hơn (18/10/2023) nhưng ghi mốc; chưa tìm thấy điều chỉnh nào sau 10/2023 cho làn xe máy – writer ghi 'theo phương án Sở GTVT từ 18/10/2023' và khuyên theo biển báo tại chỗ. Không nêu mức phạt (đã có /luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/; Nghị định 238/2026 đã sửa Nghị định 168, mức phạt CAND 1/2025 có thể đã đổi). Thông tin cháy bãi xe dưới gầm cầu Vĩnh Tuy chỉ thấy ở tiêu đề, chưa đọc – không dùng. Không có nguồn đo thời gian/đường từ cửa hàng tới đầu cầu.",
+    "outline": [
+      "Hai cầu Vĩnh Tuy: cầu nào đi chiều nào",
+      "Làn xe máy: vị trí, bề rộng, tốc độ tối đa",
+      "Lên cầu từ Hai Bà Trưng: nhánh CV1A, CV1B, Minh Khai",
+      "Xuống cầu phía Long Biên: đường gom Đàm Quang Trung",
+      "Đừng đi thẳng lên Vành đai 2 trên cao",
+      "Chọn Vĩnh Tuy, Chương Dương hay Long Biên khi về Bồ Đề"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cau-chuong-duong/",
+      "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/thue-xe-may/long-bien/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/vanh-dai-3-tren-cao-xe-may/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/vanh-dai-3-tren-cao-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00416.json",
+  "draft_template": {
+    "id": "TM-00416",
+    "url": "/du-lich/cau-vinh-tuy-xe-may/",
+    "title": "Đi xe máy qua cầu Vĩnh Tuy: cầu 1 hay cầu 2, chiều nào, làn nào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "xe máy qua cầu vĩnh tuy, cầu vĩnh tuy 2 xe máy đi làn nào, cầu vĩnh tuy một chiều, tốc độ xe máy cầu vĩnh tuy, vành đai 2 trên cao cấm xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hai cầu Vĩnh Tuy: cầu nào đi chiều nào",
+        "<p></p>"
+      ],
+      [
+        "Làn xe máy: vị trí, bề rộng, tốc độ tối đa",
+        "<p></p>"
+      ],
+      [
+        "Lên cầu từ Hai Bà Trưng: nhánh CV1A, CV1B, Minh Khai",
+        "<p></p>"
+      ],
+      [
+        "Xuống cầu phía Long Biên: đường gom Đàm Quang Trung",
+        "<p></p>"
+      ],
+      [
+        "Đừng đi thẳng lên Vành đai 2 trên cao",
+        "<p></p>"
+      ],
+      [
+        "Chọn Vĩnh Tuy, Chương Dương hay Long Biên khi về Bồ Đề",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thong-xe-cau-vinh-tuy-2-4647538.html",
+        "quote": "VnExpress, 'Thông xe cầu Vĩnh Tuy 2' (30/8/2023): cầu Vĩnh Tuy giai đoạn hai dài 3,5 km, rộng 19,25 m, tổng mức đầu tư hơn 2.500 tỷ đồng; cầu Vĩnh Tuy 2 một chiều từ Hai Bà Trưng sang Long Biên, cầu Vĩnh Tuy 1 một chiều ngược lại; điểm đầu giao Trần Quang Khải - Nguyễn Khoái - Minh Khai, điểm cuối giao đường Long Biên - Thạch Bàn; sau giai đoạn hai cầu có mặt cắt ngang 40 m với 8 làn ôtô.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tu-308-xe-tho-so-duoc-di-tren-cau-vinh-tuy-post769758.html",
+        "quote": "Nhân Dân, 'Từ 30/8, xe thô sơ được đi trên cầu Vĩnh Tuy' (29/8/2023): Sở GTVT Hà Nội phân luồng: lên cầu Vĩnh Tuy 2 qua ba nhánh – từ đê Nguyễn Khoái hướng cầu Thanh Trì rẽ phải vào nhánh CV1B (làn 6m), từ đê Nguyễn Khoái hướng cầu Chương Dương rẽ phải nhánh CV1A (làn 7m); làn xe cơ giới và làn hỗn hợp phân bằng dải phân cách cứng; đường gom hai bên cầu - đường Đàm Quang Trung (Long Biên) tổ chức một chiều cùng chiều với xe qua cầu, đoạn Cổ Linh đến Bát Khối.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/thuc-hien-phan-luong-giao-thong-moi-tren-cau-vinh-tuy-tu-ngay-1810-post902863.vnp",
+        "quote": "VietnamPlus, 'Thực hiện phân luồng giao thông mới trên cầu Vĩnh Tuy từ ngày 18/10' (18/10/2023): cầu Vĩnh Tuy mới một chiều Hai Bà Trưng đi Long Biên; cầu Vĩnh Tuy cũ một chiều Long Biên đi Hai Bà Trưng; mỗi cầu 3 làn xe cơ giới 3,75 m/làn tốc độ tối đa 60 km/h và 1 làn xe hỗn hợp (xe máy và xe thô sơ) sát lan can phải rộng 4,8m, tốc độ tối đa 40 km/h, phân cách bằng dải phân cách cứng; đi từ Minh Khai và cầu cạn Vành đai 2 muốn sang Long Biên đi thẳng lên cầu Vĩnh Tuy 2; cấm ô tô từ Phố Trạm lên cầu Vĩnh Tuy đi trung tâm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/video-dieu-chinh-giao-thong-tren-nhanh-ramp-cv1c-cau-vinh-tuy-post905685.html",
+        "quote": "Nhân Dân, 'Điều chỉnh giao thông trên nhánh Ramp CV1C cầu Vĩnh Tuy' (4/9/2025): từ 3/9 cấm toàn bộ phương tiện tải trọng trên 18 tấn qua nhánh CV1C hướng từ cầu Vĩnh Tuy rẽ phải đi đường Nguyễn Khoái; xe buýt vẫn được phép.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://cand.vn/phat-nang-tien-tru-diem-gplx-nhieu-tai-xe-xe-may-di-len-vanh-dai-2-tren-cao-post755950.html",
+        "quote": "Công an Nhân dân, 'Phạt nặng tiền, trừ điểm GPLX nhiều tài xế xe máy đi lên Vành đai 2 trên cao' (8/1/2025): 'Đường Vành đai 2 trên cao nối từ cầu Vĩnh Tuy đến Ngã Tư Sở được thiết kế với 4 làn xe chạy (mỗi chiều 2 làn xe) và không có làn khẩn cấp. Tuyến đường này được thiết kế với tốc độ lưu thông tối đa là 80km/h và chỉ dành cho ô tô. Tại các đầu đường, lực lượng chức năng đặt biển cấm xe gắn máy, xe mô tô, xe đạp, người đi bộ.'; Đội CSGT số 4 phát hiện xe máy đi lên hướng từ cầu Vĩnh Tuy đi ngã tư Vọng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/dien-mao-9-cau-bac-qua-song-hong-4800203.html",
+        "quote": "VnExpress, 'Diện mạo 9 cầu bắc qua sông Hồng' (8/10/2024): cầu Vĩnh Tuy nối Hai Bà Trưng và Long Biên, khởi công năm 2005, khánh thành giai đoạn 1 năm 2010, dài 3,7 km; giai đoạn 2 đưa vào sử dụng năm 2023, nhịp đúc hẫng 135 m.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00416"
+  }
+}
