@@ -1,0 +1,168 @@
+{
+  "writer": "writer-w10d",
+  "queued": "2026-10-13T15:31:11.471618+00:00",
+  "topic": {
+    "topic_id": "TM-00371",
+    "url": "/du-lich/suoi-khoang-nong-tram-tau/",
+    "title": "Suối khoáng nóng Trạm Tấu: bể 600 m² 40–45°C, vé tắm, đường từ Nghĩa Lộ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "suối khoáng nóng trạm tấu",
+    "secondary_keywords": [
+      "suối nước nóng trạm tấu",
+      "tắm khoáng trạm tấu giá vé",
+      "nghĩa lộ đi trạm tấu",
+      "trạm tấu yên bái"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi mùa lúa Tú Lệ, Mù Cang Chải bằng xe máy muốn rẽ Trạm Tấu ngâm khoáng cần biết từ Nghĩa Lộ vào bao xa, đường thế nào, vé tắm cho khách không ở lại và có nên ngủ lại.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ đi QL32 qua Nghĩa Lộ, Tú Lệ, Khau Phạ nhưng không rẽ Trạm Tấu. Bài này thêm: Hà Nội – Nghĩa Lộ khoảng 190 km, Nghĩa Lộ – Trạm Tấu khoảng 30 km có đoạn hẹp sát vực (VnExpress 2023); bể khoáng ngoài trời hơn 600 m² nhiệt độ 40–45°C kèm bể lạnh; khách lưu trú miễn phí tắm, khách ngoài mua vé 50.000–120.000 đ (2023) so với 70.000 đ (2020); khu ở cách trung tâm 2 km; và việc khu khoáng quá tải phải liên kết homestay (Báo Lào Cai 2/2025). Khác /du-lich/kenh-ga/ (suối khoáng nóng Kênh Gà ở Ninh Bình, đi thuyền vào): đây là suối khoáng ở Trạm Tấu, Yên Bái cũ, trên cung đường Tây Bắc; chỉ trùng loại hình 'suối khoáng nóng'.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-tram-tau-4645565.html",
+        "quote": "VnExpress, Cẩm nang du lịch Trạm Tấu (2/9/2023): Trạm Tấu cách TP Yên Bái khoảng 100 km; từ Hà Nội đi đến thị xã Nghĩa Lộ (khoảng 190 km) rồi vào Trạm Tấu (khoảng 30 km); đường Nghĩa Lộ – Trạm Tấu có đoạn hẹp, ngoằn ngoèo, một bên là vực; khu suối khoáng nóng có bể bơi khoáng ngoài trời hơn 600 m², nhiệt độ trung bình 40–45 độ C, có bể lạnh; khách lưu trú được miễn phí tắm khoáng (trừ nhà cộng đồng), khách ngoài mua vé 50.000–120.000 đồng; homestay suối khoáng nóng (Cường Hải) 800.000 đồng – 5,5 triệu đồng/căn; ruộng đẹp giữa tháng 8 – giữa tháng 10.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/4-khu-nghi-duong-suoi-khoang-nong-hut-khach-4179971.html",
+        "quote": "VnExpress, '4 khu nghỉ dưỡng suối khoáng nóng hút khách' (23/10/2020): khu du lịch suối khoáng nóng Trạm Tấu cách trung tâm huyện 2 km; vé tắm khoáng khách lẻ 70.000 đồng/người; nhiều bể từ lạnh, ấm đến nóng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/doi-song/dan-phuot-phat-sot-voi-suoi-nuoc-nong-dep-nhu-tien-canh-o-yen-bai-20180129222052931.htm",
+        "quote": "Dân trí (30/1/2018): suối ở khu 5 thị trấn Trạm Tấu, cách trung tâm khoảng 2 km, diện tích khoảng 600 m², nhiệt độ nước trung bình 43–45 độ C, nằm giữa ruộng bậc thang; cách Hà Nội khoảng 200 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/dua-du-lich-di-xa-hon-post410137.html",
+        "quote": "Báo Lào Cai (19/2/2025): huyện Trạm Tấu khai thác suối khoáng nóng, du lịch nghỉ dưỡng; một chủ homestay nói khu du lịch suối khoáng nóng 'không còn sức chứa' nên homestay liên kết để khách tắm khoáng; huyện có 43 cơ sở lưu trú (1 khách sạn 3 sao, 5 nhà nghỉ, 37 homestay).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 390,
+        "checked": "2026-10-13",
+        "keyword": "suối khoáng nóng trạm tấu"
+      }
+    ],
+    "notes": "Giá vé chỉ có mốc 2020 (70.000 đ) và 2023 (50.000–120.000 đ) – ghi năm, khuyên hỏi lại. Giờ mở cửa: chưa có nguồn. Nhiệt độ ghi 40–45°C (VnExpress) và 43–45°C (Dân trí) – nêu khoảng. 190 km Hà Nội – Nghĩa Lộ không nói tuyến; xe máy đi QL32 (theo bài Mù Cang Chải), KHÔNG vào cao tốc Nội Bài – Lào Cai. Sau 1/7/2025 Yên Bái nhập Lào Cai; tên 'xã Trạm Tấu' thấy trong danh mục địa phương Báo Lào Cai, chưa đối chiếu nghị quyết. Mùa mưa: sạt lở QL32/đường vào Trạm Tấu – kiểm tra tin đường trước khi đi; không chạy đêm. Ngâm nước 40–45°C: giới hạn thời gian, người tim mạch/huyết áp hỏi bác sĩ.",
+    "outline": [
+      "Suối khoáng nóng Trạm Tấu ở đâu, nay thuộc tỉnh nào",
+      "Từ Hà Nội: QL32 tới Nghĩa Lộ, rẽ 30 km vào Trạm Tấu",
+      "Bể khoáng ngoài trời: nhiệt độ, bể lạnh, vé tắm",
+      "Ngủ lại homestay hay tắm rồi đi tiếp Tú Lệ",
+      "Ngâm khoáng nóng an toàn",
+      "Mùa lúa và mùa mưa: chọn thời điểm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/ta-xua-di-xe-may-tu-ha-noi/",
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/kenh-ga/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.4
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/kenh-ga/",
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00371.json",
+  "draft_template": {
+    "id": "TM-00371",
+    "url": "/du-lich/suoi-khoang-nong-tram-tau/",
+    "title": "Suối khoáng nóng Trạm Tấu: bể 600 m² 40–45°C, vé tắm, đường từ Nghĩa Lộ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "suối khoáng nóng trạm tấu, suối nước nóng trạm tấu, tắm khoáng trạm tấu giá vé, nghĩa lộ đi trạm tấu, trạm tấu yên bái",
+    "excerpt": "",
+    "sections": [
+      [
+        "Suối khoáng nóng Trạm Tấu ở đâu, nay thuộc tỉnh nào",
+        "<p></p>"
+      ],
+      [
+        "Từ Hà Nội: QL32 tới Nghĩa Lộ, rẽ 30 km vào Trạm Tấu",
+        "<p></p>"
+      ],
+      [
+        "Bể khoáng ngoài trời: nhiệt độ, bể lạnh, vé tắm",
+        "<p></p>"
+      ],
+      [
+        "Ngủ lại homestay hay tắm rồi đi tiếp Tú Lệ",
+        "<p></p>"
+      ],
+      [
+        "Ngâm khoáng nóng an toàn",
+        "<p></p>"
+      ],
+      [
+        "Mùa lúa và mùa mưa: chọn thời điểm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-tram-tau-4645565.html",
+        "quote": "VnExpress, Cẩm nang du lịch Trạm Tấu (2/9/2023): Trạm Tấu cách TP Yên Bái khoảng 100 km; từ Hà Nội đi đến thị xã Nghĩa Lộ (khoảng 190 km) rồi vào Trạm Tấu (khoảng 30 km); đường Nghĩa Lộ – Trạm Tấu có đoạn hẹp, ngoằn ngoèo, một bên là vực; khu suối khoáng nóng có bể bơi khoáng ngoài trời hơn 600 m², nhiệt độ trung bình 40–45 độ C, có bể lạnh; khách lưu trú được miễn phí tắm khoáng (trừ nhà cộng đồng), khách ngoài mua vé 50.000–120.000 đồng; homestay suối khoáng nóng (Cường Hải) 800.000 đồng – 5,5 triệu đồng/căn; ruộng đẹp giữa tháng 8 – giữa tháng 10.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/4-khu-nghi-duong-suoi-khoang-nong-hut-khach-4179971.html",
+        "quote": "VnExpress, '4 khu nghỉ dưỡng suối khoáng nóng hút khách' (23/10/2020): khu du lịch suối khoáng nóng Trạm Tấu cách trung tâm huyện 2 km; vé tắm khoáng khách lẻ 70.000 đồng/người; nhiều bể từ lạnh, ấm đến nóng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/doi-song/dan-phuot-phat-sot-voi-suoi-nuoc-nong-dep-nhu-tien-canh-o-yen-bai-20180129222052931.htm",
+        "quote": "Dân trí (30/1/2018): suối ở khu 5 thị trấn Trạm Tấu, cách trung tâm khoảng 2 km, diện tích khoảng 600 m², nhiệt độ nước trung bình 43–45 độ C, nằm giữa ruộng bậc thang; cách Hà Nội khoảng 200 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/dua-du-lich-di-xa-hon-post410137.html",
+        "quote": "Báo Lào Cai (19/2/2025): huyện Trạm Tấu khai thác suối khoáng nóng, du lịch nghỉ dưỡng; một chủ homestay nói khu du lịch suối khoáng nóng 'không còn sức chứa' nên homestay liên kết để khách tắm khoáng; huyện có 43 cơ sở lưu trú (1 khách sạn 3 sao, 5 nhà nghỉ, 37 homestay).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00371"
+  }
+}
