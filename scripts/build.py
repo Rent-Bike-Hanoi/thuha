@@ -261,6 +261,8 @@ SERVICE_LINKS=[
  ('/thue-xe-may/ha-noi/theo-thang/','Thuê xe máy theo tháng Hà Nội',('theo tháng','theo-thang','dài hạn','dai-han')),
  ('/thue-xe-may/ha-noi/theo-ngay/','Thuê xe máy Hà Nội theo ngày và tuần',('theo ngày','theo-ngay','theo tuần','theo-tuan','trong ngày','cuối tuần','day-trip','ngày 1 đêm','ngày 2 đêm','ngày 3 đêm')),
 ]
+# Bảng rộng phải cuộn ngang trên điện thoại: bọc mọi <table> chưa nằm trong .table-scroll (nguồn bài viết tay lẫn V2).
+def wrap_tables(h): return re.sub(r'(<div class="table-scroll">\s*)?(<table\b.*?</table>)',lambda m:m.group(0) if m.group(1) else f'<div class="table-scroll">{m.group(2)}</div>',h,flags=re.S)
 def service_nav(p,sections_html):
  text=' '.join([p['url'],p['title'],p.get('intent',''),p.get('keywords','')]).lower()
  picks=[(u,a) for u,a,keys in SERVICE_LINKS if u!=p['url'] and f'href="{u}"' not in sections_html and any(k in text for k in keys)][:2]
@@ -271,7 +273,7 @@ for p in P:
  crumbs='<a href="/">Trang chủ</a><span>/</span><a href="'+hub['url']+'">'+E(hub['label'])+'</a>'
  if par and par['url']!=hub['url']:crumbs+='<span>/</span><a href="'+par['url']+'">'+E(par['title'])+'</a>'
  if p['kind']!='hub':crumbs+='<span>/</span><span>'+E(p['title'])+'</span>'
- sections=''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{expand_photos(b)}</section>' for i,(t,b) in enumerate(p['sections']))
+ sections=''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{wrap_tables(expand_photos(b))}</section>' for i,(t,b) in enumerate(p['sections']))
  if p.get('faq'):
   n=len(p['sections'])+1
   sections+=f'<section id="muc-{n}" class="article-faq"><h2>{E(p.get("faqTitle","Câu hỏi thường gặp khi thuê xe máy Hà Nội"))}</h2>'+''.join(f'<details class="faq-item"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q,a in p['faq'])+'</section>'
