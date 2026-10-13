@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w8c",
+  "queued": "2026-10-13T14:29:11.406118+00:00",
+  "topic": {
+    "topic_id": "TM-00291",
+    "url": "/du-lich/ban-cat-cat-sa-pa/",
+    "title": "Bản Cát Cát Sa Pa: vé 150.000đ, phí thác 10.000đ, đường bậc đá dốc",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản cát cát sa pa",
+    "secondary_keywords": [
+      "giá vé bản cát cát",
+      "thác cát cát",
+      "bản cát cát cách sa pa bao xa",
+      "đi bản cát cát bằng xe máy",
+      "trekking cát cát fansipan"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đã lên Sa Pa bằng xe máy muốn ghé bản Cát Cát cần biết vé vào bản và phí thắng cảnh thác Cát Cát hiện thu bao nhiêu, ai được miễn giảm, đường vào dốc thế nào (đi bộ hay chạy xe), và các tuyến đi bộ xa hơn từ Cát Cát có hợp với mình không.",
+    "information_gain": "Bài gần nhất là /du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/ – chỉ hướng dẫn quãng đường và lộ trình lên Sa Pa, không nhắc bản Cát Cát. Bài này thêm: vé vào bản 150.000đ người lớn, 70.000đ trẻ 1–1,4 m (Trung tâm XTDL Lào Cai 2024; Tuổi Trẻ 8/2024 xác nhận 150.000đ/lượt do doanh nghiệp khai thác); phí thắng cảnh thác Cát Cát 10.000đ/5.000đ từ 1/1/2025 theo QĐ 4639/QĐ-UBND thị xã Sa Pa, đối tượng miễn và giảm 50%; khoảng cách 2 km từ trung tâm, đường cua tay áo và 'hàng nghìn bậc đá' (lên dốc khi quay về); cầu Si, nơi hợp lưu suối Tiên Sa, suối Vàng, suối Bạc; cảnh báo con số 50.000đ trong cẩm nang cũ; tuyến trek Cát Cát – Fansipan 12 km, 3 ngày 2 đêm và Vũng Rồng – giếng Tiên 8 km của VQG Hoàng Liên chỉ dành cho người có kinh nghiệm.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/18229/TinChiTiet/Cap-nhat-gia-ve-tham-quan-cac-diem-du-lich-tai-Sa-Pa-moi-nhat-.pvd",
+        "quote": "Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh Lào Cai (dulichlaocai.vn), 'Cập nhật giá vé tham quan các điểm du lịch tại Sa Pa mới nhất' (bài năm 2024, đọc 13/10/2026): giá vé vào bản Cát Cát người lớn 150.000 đồng/người; trẻ em 70.000 đồng/người (cao 1–1,4 m); trẻ dưới 1 m miễn phí.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/dulichtphcm/aen-sapa-du-khach-dung-quen-vao-ban-cat-cat-10780407.htm",
+        "quote": "Tuổi Trẻ, 'Đến Sapa, du khách đừng quên vào bản Cát Cát' (20/8/2024, đọc 13/10/2026): Cát Cát là làng người H'Mông, cách trung tâm 2 km; du khách đi bộ, thuê xe máy hoặc taxi theo con đường dốc nhỏ; 'một doanh nghiệp đã khai thác du lịch với giá vé người lớn vào cổng là 150.000 đồng/lượt'; 'Đường vào bản Cát Cát có hàng nghìn bậc đá lên, xuống'; có biểu diễn văn nghệ bên thác, cho thuê trang phục dân tộc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thu-phi-tham-quan-khu-vuc-dinh-fansipan-va-thac-cat-cat-tu-112025-post853086.html",
+        "quote": "Báo Nhân Dân, 'Thu phí tham quan khu vực đỉnh Fansipan và thác Cát Cát từ 1/1/2025' (28/12/2024, đọc 13/10/2026): Quyết định 4639/QĐ-UBND của UBND thị xã Sa Pa phê duyệt thu phí tham quan danh lam thắng cảnh thác Cát Cát, xã Hoàng Liên từ 1/1/2025: người từ 16 tuổi 10.000đ, trẻ trên 6 đến dưới 16 tuổi 5.000đ; miễn cho trẻ dưới 6 tuổi, người khuyết tật đặc biệt nặng...; giảm 50% cho người cao tuổi, người khuyết tật nặng, người hưởng chính sách ưu đãi hưởng thụ văn hóa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Sa Pa 2026 từ A-Z' (cập nhật 16/4/2026, đọc 13/10/2026), mục Bản Cát Cát: cách trung tâm Sa Pa 2 km, đi trekking hoặc xe máy đều được; đường có nhiều đoạn cua tay áo; qua cầu Si tới trung tâm bản, nơi hội tụ suối Tiên Sa, suối Vàng, suối Bạc; bản người Mông giữ nghề dệt vải, chạm bạc. (Mục này ghi vé 50.000đ – số cũ, mâu thuẫn nguồn 2024.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vqghl.laocai.gov.vn/tin-du-lich-va-dich-vu/vuon-quoc-gia-hoang-lien-sa-pa-diem-du-lich-sinh-thai-cua-tay-bac-1394646",
+        "quote": "Vườn quốc gia Hoàng Liên (vqghl.laocai.gov.vn), 'Vườn Quốc gia Hoàng Liên Sa Pa: Điểm du lịch sinh thái của Tây Bắc' (14/06/2025, tin đăng lại từ dulichvietnam.com.vn, đọc 13/10/2026): tuyến trekking bản Cát Cát – Fansipan 'thích hợp cho những khách... đã có kinh nghiệm trekking. Độ khó cao', 12 km, 3 ngày 2 đêm; từ bản Cát Cát theo khe núi về phía Fansipan khoảng 8 km tới khu Vũng Rồng – giếng Tiên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 110,
+        "checked": "2026-10-13",
+        "keyword": "bản cát cát sa pa"
+      }
+    ],
+    "notes": "Chưa kiểm chứng: giờ mở cửa (chỉ có các trang đại lý/OTA với số mâu thuẫn 5h30–18h30, 7h30–18h, 6h–20h – không dùng); giá vé năm 2026 (nguồn chính thức mới nhất là 2024); có/không cho xe máy chạy vào trong bản, vị trí và phí gửi xe; lịch biểu diễn văn nghệ. Mức 50.000đ trong cẩm nang VnExpress là số cũ – không dùng. Phí thác Cát Cát 10.000đ là phí riêng của địa phương, không suy diễn đã gồm trong vé 150.000đ. Tên hành chính: các nguồn dùng 'xã Hoàng Liên, thị xã Sa Pa' (trước 7/2025) – ghi 'tên cũ' nếu dùng. Không in số điện thoại BQL. Cảnh báo người viết: đường về là leo dốc, nhắc giày đế bám và sức khỏe; tuyến trek 12 km không khuyến khích tự đi.",
+    "outline": [
+      "Bản Cát Cát ở đâu, cách trung tâm Sa Pa bao xa",
+      "Vé vào bản và phí thắng cảnh thác Cát Cát: ai được miễn, giảm",
+      "Đường vào bản: bậc đá, dốc khi quay về, đi bộ hay xe máy",
+      "Trong bản có gì: cầu Si, ba con suối, nghề dệt và chạm bạc",
+      "Tuyến đi bộ xa hơn từ Cát Cát: chỉ dành cho người có kinh nghiệm",
+      "Ghép Cát Cát vào lịch Sa Pa và lưu ý khi chạy xe dốc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00291.json",
+  "draft_template": {
+    "id": "TM-00291",
+    "url": "/du-lich/ban-cat-cat-sa-pa/",
+    "title": "Bản Cát Cát Sa Pa: vé 150.000đ, phí thác 10.000đ, đường bậc đá dốc",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản cát cát sa pa, giá vé bản cát cát, thác cát cát, bản cát cát cách sa pa bao xa, đi bản cát cát bằng xe máy, trekking cát cát fansipan",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bản Cát Cát ở đâu, cách trung tâm Sa Pa bao xa",
+        "<p></p>"
+      ],
+      [
+        "Vé vào bản và phí thắng cảnh thác Cát Cát: ai được miễn, giảm",
+        "<p></p>"
+      ],
+      [
+        "Đường vào bản: bậc đá, dốc khi quay về, đi bộ hay xe máy",
+        "<p></p>"
+      ],
+      [
+        "Trong bản có gì: cầu Si, ba con suối, nghề dệt và chạm bạc",
+        "<p></p>"
+      ],
+      [
+        "Tuyến đi bộ xa hơn từ Cát Cát: chỉ dành cho người có kinh nghiệm",
+        "<p></p>"
+      ],
+      [
+        "Ghép Cát Cát vào lịch Sa Pa và lưu ý khi chạy xe dốc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/18229/TinChiTiet/Cap-nhat-gia-ve-tham-quan-cac-diem-du-lich-tai-Sa-Pa-moi-nhat-.pvd",
+        "quote": "Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh Lào Cai (dulichlaocai.vn), 'Cập nhật giá vé tham quan các điểm du lịch tại Sa Pa mới nhất' (bài năm 2024, đọc 13/10/2026): giá vé vào bản Cát Cát người lớn 150.000 đồng/người; trẻ em 70.000 đồng/người (cao 1–1,4 m); trẻ dưới 1 m miễn phí.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/dulichtphcm/aen-sapa-du-khach-dung-quen-vao-ban-cat-cat-10780407.htm",
+        "quote": "Tuổi Trẻ, 'Đến Sapa, du khách đừng quên vào bản Cát Cát' (20/8/2024, đọc 13/10/2026): Cát Cát là làng người H'Mông, cách trung tâm 2 km; du khách đi bộ, thuê xe máy hoặc taxi theo con đường dốc nhỏ; 'một doanh nghiệp đã khai thác du lịch với giá vé người lớn vào cổng là 150.000 đồng/lượt'; 'Đường vào bản Cát Cát có hàng nghìn bậc đá lên, xuống'; có biểu diễn văn nghệ bên thác, cho thuê trang phục dân tộc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thu-phi-tham-quan-khu-vuc-dinh-fansipan-va-thac-cat-cat-tu-112025-post853086.html",
+        "quote": "Báo Nhân Dân, 'Thu phí tham quan khu vực đỉnh Fansipan và thác Cát Cát từ 1/1/2025' (28/12/2024, đọc 13/10/2026): Quyết định 4639/QĐ-UBND của UBND thị xã Sa Pa phê duyệt thu phí tham quan danh lam thắng cảnh thác Cát Cát, xã Hoàng Liên từ 1/1/2025: người từ 16 tuổi 10.000đ, trẻ trên 6 đến dưới 16 tuổi 5.000đ; miễn cho trẻ dưới 6 tuổi, người khuyết tật đặc biệt nặng...; giảm 50% cho người cao tuổi, người khuyết tật nặng, người hưởng chính sách ưu đãi hưởng thụ văn hóa.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Sa Pa 2026 từ A-Z' (cập nhật 16/4/2026, đọc 13/10/2026), mục Bản Cát Cát: cách trung tâm Sa Pa 2 km, đi trekking hoặc xe máy đều được; đường có nhiều đoạn cua tay áo; qua cầu Si tới trung tâm bản, nơi hội tụ suối Tiên Sa, suối Vàng, suối Bạc; bản người Mông giữ nghề dệt vải, chạm bạc. (Mục này ghi vé 50.000đ – số cũ, mâu thuẫn nguồn 2024.)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vqghl.laocai.gov.vn/tin-du-lich-va-dich-vu/vuon-quoc-gia-hoang-lien-sa-pa-diem-du-lich-sinh-thai-cua-tay-bac-1394646",
+        "quote": "Vườn quốc gia Hoàng Liên (vqghl.laocai.gov.vn), 'Vườn Quốc gia Hoàng Liên Sa Pa: Điểm du lịch sinh thái của Tây Bắc' (14/06/2025, tin đăng lại từ dulichvietnam.com.vn, đọc 13/10/2026): tuyến trekking bản Cát Cát – Fansipan 'thích hợp cho những khách... đã có kinh nghiệm trekking. Độ khó cao', 12 km, 3 ngày 2 đêm; từ bản Cát Cát theo khe núi về phía Fansipan khoảng 8 km tới khu Vũng Rồng – giếng Tiên.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00291"
+  }
+}

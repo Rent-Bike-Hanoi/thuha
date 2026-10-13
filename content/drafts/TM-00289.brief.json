@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w8b",
+  "queued": "2026-10-13T14:29:11.264384+00:00",
+  "topic": {
+    "topic_id": "TM-00289",
+    "url": "/du-lich/vinh-lan-ha/",
+    "title": "Vịnh Lan Hạ: giá vé tham quan 120.000đ từ 2026, bến Bèo, tuyến tàu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "vịnh lan hạ giá vé",
+    "secondary_keywords": [
+      "phí tham quan vịnh lan hạ 2026",
+      "đi vịnh lan hạ từ bến bèo",
+      "tuyến tham quan vịnh lan hạ",
+      "vịnh lan hạ ngủ đêm phí",
+      "liên thông vịnh hạ long lan hạ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã đi xe máy ra Cát Bà muốn đi tàu vịnh Lan Hạ cần biết phí tham quan mới từ 1/1/2026, mua vé ở đâu, có những tuyến nào và tàu được chạy đến mấy giờ.",
+    "information_gain": "Bài /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ chỉ hướng dẫn tới thị trấn Cát Bà (QL5, cầu Tân Vũ – Lạch Huyện, phà Đồng Bài), không có phần đi vịnh. Bài mới thêm: phí tham quan các vịnh quần đảo Cát Bà theo nghị quyết HĐND Hải Phòng hiệu lực 1/1/2026 (120.000đ người lớn, 60.000đ trẻ từ 6 tuổi; ngủ đêm 400.000–650.000đ; dưới 6 tuổi miễn); các mức cũ 30.000đ, 80.000đ trên báo cũ không còn đúng; mua vé tàu tại bến Bèo; các tuyến (bến Bèo – đảo Khỉ – hang Sáng Tối, Gia Luận – Trà Báu, bến Cát Bà – Cát Ông); thuê tàu riêng theo nhóm; quy chế liên vịnh Hạ Long – Lan Hạ (VHL3–VHL6) ký 26/3/2026 và giờ tàu mùa hè 5h–20h, mùa đông 5h30–19h.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/hai-phong-dieu-chinh-muc-thu-phi-tham-quan-danh-lam-thang-canh-tu-nam-2026-529647.html",
+        "quote": "Báo Hải Phòng, 15/12/2025 (đọc 13/10/2026): HĐND thành phố Hải Phòng khóa 16 (kỳ họp thứ 32) thông qua nghị quyết về phí tham quan, hiệu lực từ 1/1/2026; phí tham quan tuyến các vịnh thuộc quần đảo Cát Bà 120.000 đồng/lượt người lớn, 60.000 đồng/lượt trẻ em từ 6 tuổi; tham quan kết hợp lưu trú qua đêm trên vịnh: 400.000 đồng (1 đêm), 600.000 đồng (2 đêm), 650.000 đồng (3 đêm) người lớn, trẻ em 300.000/500.000/550.000 đồng; miễn phí trẻ dưới 6 tuổi; giảm 50% cho người cao tuổi và một số đối tượng; Vườn quốc gia Cát Bà 160.000 đồng người lớn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vinh-lan-ha-4634997.html",
+        "quote": "VnExpress, 'Du lịch Vịnh Lan Hạ 2024 từ A-Z', cập nhật 4/1/2024 (đọc 13/10/2026): du khách tới đảo Cát Bà rồi mua vé tàu tại bến Bèo ở trung tâm đảo; tuyến 2: bến Bèo – đảo Khỉ – hòn Rùa – cửa Việt Hải – hòn Ba Trái Đào – hang Tối – hang Sáng; tuyến 3: bến Gót – Gia Luận – Trà Báu – Áng Ông Cậm – hang Tối – hang Sáng; tuyến 4: bến tàu Trung tâm du lịch Cát Bà – đảo Cát Ông – chùa Thiên Ứng; thuê tàu riêng nhóm 10–20 người 1,6–5 triệu đồng/tàu, 25–50 người 2,2–7 triệu; hang Sáng Tối cách bến Bèo khoảng 12 km; khu lưu trú tự phát trên vịnh bị dỡ bỏ từ cuối 2022; bài ghi vé một lượt từ 80.000 đồng (mức cũ).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/quang-ninh-va-hai-phong-khai-thong-4-tuyen-du-lich-lien-vinh-5057390.html",
+        "quote": "VnExpress, 1/4/2026 (đọc 13/10/2026): quy chế phối hợp Quảng Ninh – Hải Phòng ký ngày 26/3 lập 4 hành trình chung VHL3–VHL6 nối vịnh Hạ Long với Lan Hạ (Trà Báu, hang Sáng, hang Tối, Ba Trái Đào, làng chài Cái Bèo, bến Gia Luận, cửa Việt Hải); mùa hè tàu hoạt động từ 5h và phải về cảng trước 20h, mùa đông từ 5h30 đến trước 19h; tàu phải lắp AIS hoặc GPS, không dùng hoặc bán sản phẩm nhựa dùng một lần.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/lien-thong-du-lich-vinh-ha-long-vinh-lan-ha-tu-1-5-476725.html",
+        "quote": "Báo Công lý, 26/4/2025 (đọc 13/10/2026): từ 1/5/2025, theo Nghị quyết 51/2025/NQ-HĐND tỉnh Quảng Ninh, tàu du lịch đủ điều kiện từ Cát Bà được đưa khách tham quan hành trình VHL3, VHL4, VHL5, VHL6 trên vịnh Hạ Long và đón trả khách tại cảng Tuần Châu, cảng Hạ Long; phí VHL6 150.000 đồng/người/ngày, VHL3 và VHL4 200.000 đồng/người/lần.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cat-ba-4136515.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Cát Bà 2026 từ A-Z', cập nhật 16/4/2026 (đọc 13/10/2026): bài vẫn ghi tại bến Cái Bèo du khách mua vé thắng cảnh 30.000 đồng/người rồi đi tàu hoặc xuồng ra Lan Hạ (mức cũ, thấp hơn phí 120.000 đồng áp dụng từ 1/1/2026 theo Báo Hải Phòng).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 30,
+        "checked": "2026-10-13",
+        "keyword": "vịnh lan hạ giá vé"
+      }
+    ],
+    "notes": "Mâu thuẫn phí: VnExpress 2024 (80.000đ) và VnExpress Cát Bà 4/2026 (30.000đ) so với nghị quyết hiệu lực 1/1/2026 (120.000đ): dùng 120.000đ, nhắc mức cũ để người đọc không nhầm. Giá tour/tàu ghép 2026 chỉ có trên trang đại lý: không dùng; giá thuê tàu riêng là số 2024. Phí gửi xe máy ở bến Bèo không có nguồn (VnExpress Cát Bà chỉ có giá gửi xe ở bến cáp treo: 5.000đ ngày, 10.000đ qua đêm cho xe máy). Không viết chi tiết đường ra Cát Bà (đã có bài route), chỉ link. Có thể vẫn còn tuyến 1 (bến Bèo – làng chài – vịnh) nhưng nguồn chính thức chưa đọc được.",
+    "outline": [
+      "Phí tham quan vịnh Lan Hạ từ 1/1/2026",
+      "Mua vé ở đâu: bến Bèo, Gia Luận",
+      "Các tuyến tàu và điểm dừng: hang Sáng Tối, đảo Khỉ, làng chài Cái Bèo",
+      "Thuê tàu riêng, tàu ghép, ngủ đêm trên vịnh",
+      "Liên vịnh Hạ Long – Lan Hạ và giờ tàu chạy",
+      "Xe máy để đâu khi xuống tàu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00289.json",
+  "draft_template": {
+    "id": "TM-00289",
+    "url": "/du-lich/vinh-lan-ha/",
+    "title": "Vịnh Lan Hạ: giá vé tham quan 120.000đ từ 2026, bến Bèo, tuyến tàu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vịnh lan hạ giá vé, phí tham quan vịnh lan hạ 2026, đi vịnh lan hạ từ bến bèo, tuyến tham quan vịnh lan hạ, vịnh lan hạ ngủ đêm phí, liên thông vịnh hạ long lan hạ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phí tham quan vịnh Lan Hạ từ 1/1/2026",
+        "<p></p>"
+      ],
+      [
+        "Mua vé ở đâu: bến Bèo, Gia Luận",
+        "<p></p>"
+      ],
+      [
+        "Các tuyến tàu và điểm dừng: hang Sáng Tối, đảo Khỉ, làng chài Cái Bèo",
+        "<p></p>"
+      ],
+      [
+        "Thuê tàu riêng, tàu ghép, ngủ đêm trên vịnh",
+        "<p></p>"
+      ],
+      [
+        "Liên vịnh Hạ Long – Lan Hạ và giờ tàu chạy",
+        "<p></p>"
+      ],
+      [
+        "Xe máy để đâu khi xuống tàu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/hai-phong-dieu-chinh-muc-thu-phi-tham-quan-danh-lam-thang-canh-tu-nam-2026-529647.html",
+        "quote": "Báo Hải Phòng, 15/12/2025 (đọc 13/10/2026): HĐND thành phố Hải Phòng khóa 16 (kỳ họp thứ 32) thông qua nghị quyết về phí tham quan, hiệu lực từ 1/1/2026; phí tham quan tuyến các vịnh thuộc quần đảo Cát Bà 120.000 đồng/lượt người lớn, 60.000 đồng/lượt trẻ em từ 6 tuổi; tham quan kết hợp lưu trú qua đêm trên vịnh: 400.000 đồng (1 đêm), 600.000 đồng (2 đêm), 650.000 đồng (3 đêm) người lớn, trẻ em 300.000/500.000/550.000 đồng; miễn phí trẻ dưới 6 tuổi; giảm 50% cho người cao tuổi và một số đối tượng; Vườn quốc gia Cát Bà 160.000 đồng người lớn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vinh-lan-ha-4634997.html",
+        "quote": "VnExpress, 'Du lịch Vịnh Lan Hạ 2024 từ A-Z', cập nhật 4/1/2024 (đọc 13/10/2026): du khách tới đảo Cát Bà rồi mua vé tàu tại bến Bèo ở trung tâm đảo; tuyến 2: bến Bèo – đảo Khỉ – hòn Rùa – cửa Việt Hải – hòn Ba Trái Đào – hang Tối – hang Sáng; tuyến 3: bến Gót – Gia Luận – Trà Báu – Áng Ông Cậm – hang Tối – hang Sáng; tuyến 4: bến tàu Trung tâm du lịch Cát Bà – đảo Cát Ông – chùa Thiên Ứng; thuê tàu riêng nhóm 10–20 người 1,6–5 triệu đồng/tàu, 25–50 người 2,2–7 triệu; hang Sáng Tối cách bến Bèo khoảng 12 km; khu lưu trú tự phát trên vịnh bị dỡ bỏ từ cuối 2022; bài ghi vé một lượt từ 80.000 đồng (mức cũ).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/quang-ninh-va-hai-phong-khai-thong-4-tuyen-du-lich-lien-vinh-5057390.html",
+        "quote": "VnExpress, 1/4/2026 (đọc 13/10/2026): quy chế phối hợp Quảng Ninh – Hải Phòng ký ngày 26/3 lập 4 hành trình chung VHL3–VHL6 nối vịnh Hạ Long với Lan Hạ (Trà Báu, hang Sáng, hang Tối, Ba Trái Đào, làng chài Cái Bèo, bến Gia Luận, cửa Việt Hải); mùa hè tàu hoạt động từ 5h và phải về cảng trước 20h, mùa đông từ 5h30 đến trước 19h; tàu phải lắp AIS hoặc GPS, không dùng hoặc bán sản phẩm nhựa dùng một lần.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/lien-thong-du-lich-vinh-ha-long-vinh-lan-ha-tu-1-5-476725.html",
+        "quote": "Báo Công lý, 26/4/2025 (đọc 13/10/2026): từ 1/5/2025, theo Nghị quyết 51/2025/NQ-HĐND tỉnh Quảng Ninh, tàu du lịch đủ điều kiện từ Cát Bà được đưa khách tham quan hành trình VHL3, VHL4, VHL5, VHL6 trên vịnh Hạ Long và đón trả khách tại cảng Tuần Châu, cảng Hạ Long; phí VHL6 150.000 đồng/người/ngày, VHL3 và VHL4 200.000 đồng/người/lần.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cat-ba-4136515.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Cát Bà 2026 từ A-Z', cập nhật 16/4/2026 (đọc 13/10/2026): bài vẫn ghi tại bến Cái Bèo du khách mua vé thắng cảnh 30.000 đồng/người rồi đi tàu hoặc xuồng ra Lan Hạ (mức cũ, thấp hơn phí 120.000 đồng áp dụng từ 1/1/2026 theo Báo Hải Phòng).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00289"
+  }
+}

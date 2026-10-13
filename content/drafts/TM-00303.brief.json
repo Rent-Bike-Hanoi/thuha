@@ -1,0 +1,164 @@
+{
+  "writer": "writer-w8e",
+  "queued": "2026-10-13T14:29:11.670745+00:00",
+  "topic": {
+    "topic_id": "TM-00303",
+    "url": "/luat-giao-thong/lap-den-tro-sang-xe-may-co-bi-phat/",
+    "title": "Lắp đèn trợ sáng xe máy có bị phạt không? Đèn, màu sơn, độ xe 2026",
+    "hub": "luat-giao-thong",
+    "subtopic": "muc-phat",
+    "primary_keyword": "lắp đèn trợ sáng xe máy có bị phạt không",
+    "secondary_keywords": [
+      "độ đèn xe máy phạt bao nhiêu",
+      "đổi màu sơn xe máy có phải đăng ký lại",
+      "tự ý thay đổi kết cấu xe máy phạt",
+      "lắp đèn chiếu hậu xe máy",
+      "độ xe máy bị phạt"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy muốn lắp thêm đèn trợ sáng, đèn LED, đổi màu sơn hoặc độ dáng xe và cần biết việc nào bị phạt, ai bị phạt (người lái hay chủ xe) và khi nào phải đổi đăng ký.",
+    "information_gain": "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/ chỉ nhắc một câu về đèn 'không đúng tiêu chuẩn thiết kế'; /luat-giao-thong/net-po-bam-coi-xe-may-phat-bao-nhieu/ nói về pô, còi; /luat-giao-thong/dang-ky-xe-may-moi/ chỉ một dòng về màu sơn. Bài này gom riêng nhóm lỗi 'độ xe' theo hai đối tượng bị phạt: người điều khiển (Điều 14 NĐ 168: đèn không đúng thiết kế, đèn chiếu về phía sau) và chủ xe (Điều 32: thiết bị ánh sáng gây mất trật tự, tự ý đổi màu sơn, tự ý thay đổi khung, máy, hình dáng), kèm biện pháp khắc phục đã sửa bởi NĐ 238/2026 và nghĩa vụ đổi đăng ký theo Điều 39 Luật 36.",
+    "evidence": [
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 14 khoản 1 (người điều khiển xe mô tô, xe gắn máy) phạt 400.000–600.000 đồng: điểm c 'điều khiển xe không có đèn chiếu sáng gần, xa hoặc có nhưng không có tác dụng, không [đúng] tiêu chuẩn thiết kế'; điểm đ 'điều khiển xe lắp đèn chiếu sáng về phía sau xe'. Khoản 2 điểm d phạt 2.000.000–3.000.000 đồng khi xe không có bộ phận giảm thanh hoặc không bảo đảm quy chuẩn khí thải, tiếng ồn; điểm đ: còi không đúng quy chuẩn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 32 (chủ phương tiện): khoản 1 điểm a phạt cá nhân 200.000–300.000 đồng khi tự ý thay đổi nhãn hiệu, màu sơn xe mô tô, xe gắn máy không đúng chứng nhận đăng ký; khoản 3 điểm c phạt cá nhân 800.000–1.000.000 đồng khi lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe gây mất trật tự, an toàn giao thông; khoản 3 điểm b cùng mức khi không làm thủ tục đổi chứng nhận đăng ký xe theo quy định; khoản 8 điểm b phạt cá nhân 4.000.000–6.000.000 đồng khi tự ý thay đổi khung, máy, hình dáng, kích thước, đặc tính của xe; khoản 19 điểm a buộc khôi phục nhãn hiệu, màu sơn ghi trong chứng nhận đăng ký.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+        "quote": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi Nghị định 168 (bản PDF ký số trên datafiles.chinhphu.vn, đọc 13/10/2026), Điều 19 khoản 5: bổ sung cụm từ \"khoản 1; điểm d,\" vào trước \"điểm đ\" tại điểm a khoản 6 Điều 14 Nghị định 168 – tức biện pháp buộc thay thế thiết bị đủ tiêu chuẩn hoặc khôi phục tính năng kỹ thuật nay áp dụng cả với các lỗi tại khoản 1 (gồm đèn không đúng thiết kế) và điểm d khoản 2 Điều 14. Có hiệu lực từ 15/8/2026 (Điều 20).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 39 khoản 3 điểm b: đổi chứng nhận đăng ký xe, biển số trong trường hợp 'cải tạo, thay đổi màu sơn'; Điều 35 khoản 1: xe cơ giới tham gia giao thông phải có chứng nhận đăng ký, gắn biển số và bảo đảm chất lượng an toàn kỹ thuật, bảo vệ môi trường; Điều 42 khoản 2: xe mô tô, xe gắn máy chỉ thực hiện kiểm định khí thải.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 90,
+        "checked": "2026-10-13",
+        "keyword": "lắp đèn trợ sáng xe máy có bị phạt không"
+      }
+    ],
+    "notes": "Bản text NĐ 168 trích từ PDF scan có lỗi OCR: điểm c khoản 1 Điều 14 hiện ra 'không dùng tiêu chuẩn thiết kế' – nhiều khả năng là 'không đúng tiêu chuẩn thiết kế'; người viết mở PDF gốc để xác nhận trước khi trích nguyên văn. Luật không có danh mục 'đèn trợ sáng được phép'; không khẳng định đèn trợ sáng loại nào hợp pháp. Không có nguồn chính thức về quy chuẩn ánh sáng/độ sáng đèn xe máy trong lô này. Không khẳng định CSGT 'phạt cả người lái và chủ xe' trong mọi trường hợp; Điều 32 áp dụng cho chủ phương tiện (có thể trùng người lái). Sách hướng dẫn Honda LEAD (đọc 13/10/2026) khuyến cáo không lắp phụ kiện không chính hãng hoặc cải tạo làm thay đổi thiết kế, có thể mất bảo hành – hub luật chỉ dùng nguồn law/official nên chỉ nêu ở dạng tham khảo nếu cần. Không đề cập thủ tục đổi đăng ký chi tiết (Thông tư 79/2024 chưa đọc lại hôm nay).",
+    "outline": [
+      "Câu trả lời ngắn: đèn không đúng thiết kế bị phạt người lái, độ xe bị phạt chủ xe",
+      "Lỗi về đèn khi đang lái: Điều 14 Nghị định 168",
+      "Chủ xe lắp đèn, âm thanh gây mất trật tự, đổi màu sơn, thay đổi kết cấu",
+      "Nghị định 238/2026 thay đổi gì về biện pháp khắc phục",
+      "Đổi màu sơn, cải tạo: khi nào phải đổi chứng nhận đăng ký",
+      "Thay đèn, bóng đèn thế nào để không vi phạm",
+      "Văn bản gốc để kiểm tra"
+    ],
+    "suggested_internal_links": [
+      "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/net-po-bam-coi-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/dang-ky-xe-may-moi/",
+      "/luat-giao-thong/xe-may-co-phai-kiem-dinh-khi-thai-khong/",
+      "/bao-duong/den-xe-may-bi-mo-nhap-nhay/"
+    ],
+    "content_type": "legal",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00303.json",
+  "draft_template": {
+    "id": "TM-00303",
+    "url": "/luat-giao-thong/lap-den-tro-sang-xe-may-co-bi-phat/",
+    "title": "Lắp đèn trợ sáng xe máy có bị phạt không? Đèn, màu sơn, độ xe 2026",
+    "hub": "luat-giao-thong",
+    "parent": "/luat-giao-thong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "lắp đèn trợ sáng xe máy có bị phạt không, độ đèn xe máy phạt bao nhiêu, đổi màu sơn xe máy có phải đăng ký lại, tự ý thay đổi kết cấu xe máy phạt, lắp đèn chiếu hậu xe máy, độ xe máy bị phạt",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đèn không đúng thiết kế bị phạt người lái, độ xe bị phạt chủ xe",
+        "<p></p>"
+      ],
+      [
+        "Lỗi về đèn khi đang lái: Điều 14 Nghị định 168",
+        "<p></p>"
+      ],
+      [
+        "Chủ xe lắp đèn, âm thanh gây mất trật tự, đổi màu sơn, thay đổi kết cấu",
+        "<p></p>"
+      ],
+      [
+        "Nghị định 238/2026 thay đổi gì về biện pháp khắc phục",
+        "<p></p>"
+      ],
+      [
+        "Đổi màu sơn, cải tạo: khi nào phải đổi chứng nhận đăng ký",
+        "<p></p>"
+      ],
+      [
+        "Thay đèn, bóng đèn thế nào để không vi phạm",
+        "<p></p>"
+      ],
+      [
+        "Văn bản gốc để kiểm tra",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 14 khoản 1 (người điều khiển xe mô tô, xe gắn máy) phạt 400.000–600.000 đồng: điểm c 'điều khiển xe không có đèn chiếu sáng gần, xa hoặc có nhưng không có tác dụng, không [đúng] tiêu chuẩn thiết kế'; điểm đ 'điều khiển xe lắp đèn chiếu sáng về phía sau xe'. Khoản 2 điểm d phạt 2.000.000–3.000.000 đồng khi xe không có bộ phận giảm thanh hoặc không bảo đảm quy chuẩn khí thải, tiếng ồn; điểm đ: còi không đúng quy chuẩn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 32 (chủ phương tiện): khoản 1 điểm a phạt cá nhân 200.000–300.000 đồng khi tự ý thay đổi nhãn hiệu, màu sơn xe mô tô, xe gắn máy không đúng chứng nhận đăng ký; khoản 3 điểm c phạt cá nhân 800.000–1.000.000 đồng khi lắp đặt, sử dụng thiết bị âm thanh, ánh sáng trên xe gây mất trật tự, an toàn giao thông; khoản 3 điểm b cùng mức khi không làm thủ tục đổi chứng nhận đăng ký xe theo quy định; khoản 8 điểm b phạt cá nhân 4.000.000–6.000.000 đồng khi tự ý thay đổi khung, máy, hình dáng, kích thước, đặc tính của xe; khoản 19 điểm a buộc khôi phục nhãn hiệu, màu sơn ghi trong chứng nhận đăng ký.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+        "quote": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi Nghị định 168 (bản PDF ký số trên datafiles.chinhphu.vn, đọc 13/10/2026), Điều 19 khoản 5: bổ sung cụm từ \"khoản 1; điểm d,\" vào trước \"điểm đ\" tại điểm a khoản 6 Điều 14 Nghị định 168 – tức biện pháp buộc thay thế thiết bị đủ tiêu chuẩn hoặc khôi phục tính năng kỹ thuật nay áp dụng cả với các lỗi tại khoản 1 (gồm đèn không đúng thiết kế) và điểm d khoản 2 Điều 14. Có hiệu lực từ 15/8/2026 (Điều 20).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 39 khoản 3 điểm b: đổi chứng nhận đăng ký xe, biển số trong trường hợp 'cải tạo, thay đổi màu sơn'; Điều 35 khoản 1: xe cơ giới tham gia giao thông phải có chứng nhận đăng ký, gắn biển số và bảo đảm chất lượng an toàn kỹ thuật, bảo vệ môi trường; Điều 42 khoản 2: xe mô tô, xe gắn máy chỉ thực hiện kiểm định khí thải.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00303"
+  }
+}

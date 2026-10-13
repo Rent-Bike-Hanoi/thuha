@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w8c",
+  "queued": "2026-10-13T14:29:11.406396+00:00",
+  "topic": {
+    "topic_id": "TM-00293",
+    "url": "/du-lich/thac-bac-thac-tinh-yeu-sa-pa/",
+    "title": "Thác Bạc và thác Tình Yêu Sa Pa: vé, đi bộ 1,5 km, cách nhau 2 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác bạc sa pa",
+    "secondary_keywords": [
+      "thác tình yêu sa pa",
+      "vé thác bạc sa pa",
+      "suối vàng thác tình yêu",
+      "trạm tôn sa pa",
+      "thác bạc cách sa pa bao xa"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách chạy xe máy từ trung tâm Sa Pa theo QL4D muốn ghé thác Bạc và thác Tình Yêu trong một buổi cần biết hai thác cách nhau bao xa, mỗi nơi thu vé bao nhiêu, phải đi bộ bao lâu, đường có trơn không và cách kết hợp với đèo Ô Quy Hồ.",
+    "information_gain": "Bài /du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/ không nhắc hai thác này. Bài này thêm số liệu từ Trung tâm XTDL Lào Cai và Vườn quốc gia Hoàng Liên: thác Bạc cạnh QL4D cách trung tâm 12 km, cao hơn 200 m, thượng nguồn suối Mường Hoa; thác Tình Yêu cách trung tâm khoảng 14 km, cách thác Bạc khoảng 2 km, cao gần 100 m, nằm trong VQG Hoàng Liên, phải đi bộ đường mòn 1,5 km từ Trạm Tôn; bảng vé 2024 (thác Bạc 20.000/10.000đ; thác Tình Yêu 70.000/30.000đ) đặt cạnh số của VnExpress (20.000đ và 75.000đ) và vé cổng khu bảo tồn VQG 70.000đ; Trạm Tôn là điểm đầu tuyến trek Fansipan 10,5 km; lưu ý bậc đá trơn, nước mạnh; cảnh báo sạt lở QL4D mùa mưa 2026.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/22290/TinChiTiet/Thac-Bac-%E2%80%93-Thac-Tinh-Yeu-Hai-diem-den-ly-tuong-cua-nhung-ngay-dau-he-o-Sa-Pa.pvd",
+        "quote": "Trung tâm XTĐT-TM&DL tỉnh Lào Cai (dulichlaocai.vn), 'Thác Bạc – Thác Tình Yêu: Hai điểm đến lý tưởng của những ngày đầu hè ở Sa Pa' (đọc 13/10/2026): hai điểm 'chung 1 con đường chỉ cách nhau khoảng 2km'; thác Bạc nằm cạnh quốc lộ, thuộc phường Ô Quy Hồ, cách trung tâm thị xã 12 km về hướng tây bắc, cao hơn 200 m, là thượng nguồn suối Mường Hoa dưới chân đèo Ô Quý Hồ; thác Tình Yêu bên QL4D, cách thị trấn khoảng 14 km, cách thác Bạc khoảng 2 km, thuộc VQG Hoàng Liên, cao gần 100 m, suối Vàng chảy qua; phải đi xuyên qua rừng nguyên sinh trước khi tới thác.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/18229/TinChiTiet/Cap-nhat-gia-ve-tham-quan-cac-diem-du-lich-tai-Sa-Pa-moi-nhat-.pvd",
+        "quote": "Trung tâm XTĐT-TM&DL tỉnh Lào Cai (dulichlaocai.vn), 'Cập nhật giá vé tham quan các điểm du lịch tại Sa Pa mới nhất' (bài năm 2024, đọc 13/10/2026): thác Bạc người lớn 20.000đ, trẻ em 10.000đ; thác Tình Yêu người lớn 70.000đ, trẻ em 30.000đ (cao 1–1,4 m), dưới 1 m miễn phí; cổng trời Sa Pa người lớn 120.000đ, trẻ em 40.000đ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vqghl.laocai.gov.vn/tin-du-lich-va-dich-vu/vuon-quoc-gia-hoang-lien-sa-pa-diem-du-lich-sinh-thai-cua-tay-bac-1394646",
+        "quote": "Vườn quốc gia Hoàng Liên (vqghl.laocai.gov.vn), bài 14/06/2025 (tin đăng lại từ dulichvietnam.com.vn, đọc 13/10/2026): vé vào cổng khu bảo tồn 70.000 VNĐ/người lớn; phí leo núi Fansipan khoảng 150.000đ/người Việt; 'Để đến thác Tình Yêu... bạn đi bộ theo đường mòn dài 1,5 km từ Trạm Tôn'; tuyến Trạm Tôn – Fansipan khoảng 10,5 km, 1–2 ngày, điểm nghỉ ở độ cao 2.800 m; VQG cách trung tâm thị xã 'chưa đầy 20km', tự lái phải đi đường đèo.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Sa Pa 2026 từ A-Z' (cập nhật 16/4/2026, đọc 13/10/2026): thác Bạc và thác Tình Yêu nằm trên trục đường đèo Ô Quy Hồ, cách đỉnh đèo 3 km; thác Bạc có bậc thang lên đỉnh thác, càng lên càng lạnh, nước chảy mạnh, cần tránh trơn trượt; đường từ cổng vào thác Tình Yêu 1,5 km phải đi bộ; 'Vé vào thác Bạc 20.000 đồng một người, vé thác Tình Yêu 75.000 đồng một người'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/dat-da-sat-lo-tran-xuong-sat-duong-xe-chay-tren-quoc-lo-4d-10026062510594862.htm",
+        "quote": "VTV.vn, 'Đất đá sạt lở tràn xuống sát đường xe chạy trên Quốc lộ 4D' (25/6/2026, đọc 13/10/2026): QL4D thường xuyên sạt lở, đặc biệt khu vực đèo Ô Quý Hồ và xã Tả Phìn; có 25 điểm nguy cơ sạt lở, 9 điểm nguy cơ cao; mưa nhỏ kéo dài, sương mù dày, mặt đường trơn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "thác bạc sa pa"
+      }
+    ],
+    "notes": "Chưa kiểm chứng: giá vé năm 2026 (nguồn chính thức mới nhất là 2024); giá vé thác Tình Yêu lệch giữa 70.000đ (dulichlaocai 2024, VQG) và 75.000đ (VnExpress) – ghi cả hai kèm nguồn; giờ mở cửa hai điểm; chỗ gửi xe máy và phí. Trang VQG là tin đăng lại từ dulichvietnam.com.vn và còn ghi 'thác Tình Yêu dài khoảng 1.600m' – khác kiểu đo với 'cao gần 100m' của dulichlaocai; không viết số 1.600 m. Không khuyến khích tắm hồ dưới chân thác (dulichlaocai nhắc có thể tắm) – nhắc đá rêu trơn, nước lạnh và chảy mạnh. Không viết tuyến trek Fansipan như việc tự làm được. Không in số điện thoại VQG.",
+    "outline": [
+      "Thác Bạc và thác Tình Yêu nằm ở đâu trên QL4D",
+      "Vé tham quan: con số của Lào Cai, VQG Hoàng Liên và báo chí",
+      "Thác Bạc: bậc thang lên đỉnh thác và chỗ dễ trơn",
+      "Thác Tình Yêu: đi bộ 1,5 km từ Trạm Tôn qua rừng VQG",
+      "Chạy xe trên QL4D mùa mưa: sạt lở, sương mù",
+      "Gợi ý một buổi: thác Bạc – thác Tình Yêu – đỉnh Ô Quy Hồ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00293.json",
+  "draft_template": {
+    "id": "TM-00293",
+    "url": "/du-lich/thac-bac-thac-tinh-yeu-sa-pa/",
+    "title": "Thác Bạc và thác Tình Yêu Sa Pa: vé, đi bộ 1,5 km, cách nhau 2 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác bạc sa pa, thác tình yêu sa pa, vé thác bạc sa pa, suối vàng thác tình yêu, trạm tôn sa pa, thác bạc cách sa pa bao xa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Bạc và thác Tình Yêu nằm ở đâu trên QL4D",
+        "<p></p>"
+      ],
+      [
+        "Vé tham quan: con số của Lào Cai, VQG Hoàng Liên và báo chí",
+        "<p></p>"
+      ],
+      [
+        "Thác Bạc: bậc thang lên đỉnh thác và chỗ dễ trơn",
+        "<p></p>"
+      ],
+      [
+        "Thác Tình Yêu: đi bộ 1,5 km từ Trạm Tôn qua rừng VQG",
+        "<p></p>"
+      ],
+      [
+        "Chạy xe trên QL4D mùa mưa: sạt lở, sương mù",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý một buổi: thác Bạc – thác Tình Yêu – đỉnh Ô Quy Hồ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/22290/TinChiTiet/Thac-Bac-%E2%80%93-Thac-Tinh-Yeu-Hai-diem-den-ly-tuong-cua-nhung-ngay-dau-he-o-Sa-Pa.pvd",
+        "quote": "Trung tâm XTĐT-TM&DL tỉnh Lào Cai (dulichlaocai.vn), 'Thác Bạc – Thác Tình Yêu: Hai điểm đến lý tưởng của những ngày đầu hè ở Sa Pa' (đọc 13/10/2026): hai điểm 'chung 1 con đường chỉ cách nhau khoảng 2km'; thác Bạc nằm cạnh quốc lộ, thuộc phường Ô Quy Hồ, cách trung tâm thị xã 12 km về hướng tây bắc, cao hơn 200 m, là thượng nguồn suối Mường Hoa dưới chân đèo Ô Quý Hồ; thác Tình Yêu bên QL4D, cách thị trấn khoảng 14 km, cách thác Bạc khoảng 2 km, thuộc VQG Hoàng Liên, cao gần 100 m, suối Vàng chảy qua; phải đi xuyên qua rừng nguyên sinh trước khi tới thác.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://dulichlaocai.vn/18229/TinChiTiet/Cap-nhat-gia-ve-tham-quan-cac-diem-du-lich-tai-Sa-Pa-moi-nhat-.pvd",
+        "quote": "Trung tâm XTĐT-TM&DL tỉnh Lào Cai (dulichlaocai.vn), 'Cập nhật giá vé tham quan các điểm du lịch tại Sa Pa mới nhất' (bài năm 2024, đọc 13/10/2026): thác Bạc người lớn 20.000đ, trẻ em 10.000đ; thác Tình Yêu người lớn 70.000đ, trẻ em 30.000đ (cao 1–1,4 m), dưới 1 m miễn phí; cổng trời Sa Pa người lớn 120.000đ, trẻ em 40.000đ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vqghl.laocai.gov.vn/tin-du-lich-va-dich-vu/vuon-quoc-gia-hoang-lien-sa-pa-diem-du-lich-sinh-thai-cua-tay-bac-1394646",
+        "quote": "Vườn quốc gia Hoàng Liên (vqghl.laocai.gov.vn), bài 14/06/2025 (tin đăng lại từ dulichvietnam.com.vn, đọc 13/10/2026): vé vào cổng khu bảo tồn 70.000 VNĐ/người lớn; phí leo núi Fansipan khoảng 150.000đ/người Việt; 'Để đến thác Tình Yêu... bạn đi bộ theo đường mòn dài 1,5 km từ Trạm Tôn'; tuyến Trạm Tôn – Fansipan khoảng 10,5 km, 1–2 ngày, điểm nghỉ ở độ cao 2.800 m; VQG cách trung tâm thị xã 'chưa đầy 20km', tự lái phải đi đường đèo.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Sa Pa 2026 từ A-Z' (cập nhật 16/4/2026, đọc 13/10/2026): thác Bạc và thác Tình Yêu nằm trên trục đường đèo Ô Quy Hồ, cách đỉnh đèo 3 km; thác Bạc có bậc thang lên đỉnh thác, càng lên càng lạnh, nước chảy mạnh, cần tránh trơn trượt; đường từ cổng vào thác Tình Yêu 1,5 km phải đi bộ; 'Vé vào thác Bạc 20.000 đồng một người, vé thác Tình Yêu 75.000 đồng một người'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/dat-da-sat-lo-tran-xuong-sat-duong-xe-chay-tren-quoc-lo-4d-10026062510594862.htm",
+        "quote": "VTV.vn, 'Đất đá sạt lở tràn xuống sát đường xe chạy trên Quốc lộ 4D' (25/6/2026, đọc 13/10/2026): QL4D thường xuyên sạt lở, đặc biệt khu vực đèo Ô Quý Hồ và xã Tả Phìn; có 25 điểm nguy cơ sạt lở, 9 điểm nguy cơ cao; mưa nhỏ kéo dài, sương mù dày, mặt đường trơn.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00293"
+  }
+}

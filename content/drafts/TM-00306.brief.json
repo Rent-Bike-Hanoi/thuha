@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w8e",
+  "queued": "2026-10-13T14:29:11.671749+00:00",
+  "topic": {
+    "topic_id": "TM-00306",
+    "url": "/luat-giao-thong/truong-hop-phai-giam-toc-do/",
+    "title": "Các trường hợp phải giảm tốc độ khi đi xe máy theo Luật 2024",
+    "hub": "luat-giao-thong",
+    "subtopic": "quy-tac-giao-thong",
+    "primary_keyword": "các trường hợp phải giảm tốc độ",
+    "secondary_keywords": [
+      "khi nào phải giảm tốc độ xe máy",
+      "giảm tốc độ khi qua trường học",
+      "không giảm tốc độ gây tai nạn phạt",
+      "khoảng cách an toàn trời mưa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người học lái và người đi xe máy hằng ngày muốn biết luật bắt buộc giảm tốc độ, dừng lại ở những tình huống nào (không chỉ chạy dưới biển tốc độ tối đa) và hậu quả pháp lý khi không giảm tốc.",
+    "information_gain": "/luat-giao-thong/xe-may-chay-qua-toc-do-phat-bao-nhieu/ chỉ nói tốc độ tối đa theo Thông tư 38 và mức phạt chạy quá tốc độ; /luat-giao-thong/khong-giu-khoang-cach-an-toan-xe-may-phat-bao-nhieu/ nói về khoảng cách. Chưa bài nào trình bày danh sách 14 trường hợp phải quan sát, giảm tốc hoặc dừng tại Điều 12 khoản 3 Luật 36/2024 (người đi bộ, nơi giao nhau, cầu hẹp, hầm, trường học, chợ, vật nuôi, xe ưu tiên, trời mưa, đường trơn…), nguyên tắc 'tốc độ phù hợp' ở khoản 2 và việc NĐ 168 chỉ phạt nặng hành vi không giảm tốc khi đã gây tai nạn.",
+    "evidence": [
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026), Điều 12 khoản 2: người điều khiển phải bảo đảm tốc độ phù hợp điều kiện cầu, đường, mật độ giao thông, địa hình, thời tiết; khoản 3 phải quan sát, giảm tốc độ hoặc dừng lại trong các trường hợp: a) nơi có vạch hoặc báo hiệu cho người đi bộ, người đi bộ, xe lăn đang qua đường; b) báo hiệu nguy hiểm, chướng ngại vật; c) chuyển hướng, tầm nhìn hạn chế; d) nơi giao nhau với đường bộ, đường sắt; đường hẹp, vòng, quanh co, đèo, dốc; đ) cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ; e) khu vực trường học, bệnh viện, bến xe, công trình công cộng đông người, khu đông dân cư, chợ, khu vực thi công, hiện trường tai nạn; g) vật nuôi trên đường; h) tránh xe ngược chiều, cho xe sau vượt, khi xe trước có tín hiệu xin đường, tín hiệu khẩn cấp; i) điểm dừng đỗ có khách lên xuống; k) gặp xe siêu trường, siêu trọng, hàng nguy hiểm, đoàn người đi bộ; l) gặp xe ưu tiên; m) trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, đất đá rơi vãi; n) khu vực đang kiểm soát giao thông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+        "quote": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024, hiệu lực 01/01/2025 (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 4 – người lái xe phải chấp hành tốc độ và khoảng cách an toàn theo Điều 12 Luật Trật tự, an toàn giao thông đường bộ; Điều 7 – xe gắn máy tốc độ khai thác tối đa 40 km/h; Điều 6 Bảng 1 – xe cơ giới trong khu đông dân cư tối đa 60 km/h (đường đôi, một chiều từ 2 làn) và 50 km/h (đường hai chiều, một chiều 1 làn); Điều 11 khoản 2 điểm b – trời mưa, sương mù, mặt đường trơn, đường quanh co, đèo dốc, tầm nhìn hạn chế phải giữ khoảng cách lớn hơn trị số trên biển hoặc trong Bảng 3; dưới 60 km/h người lái tự chủ động giữ khoảng cách phù hợp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7 khoản 10 điểm a phạt 10.000.000–14.000.000 đồng khi 'điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông'; khoản 13 điểm d trừ 10 điểm. Khoản 1 điểm h phạt 200.000–400.000 đồng khi không nhường đường cho xe đi ngược chiều tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật; khoản 5 điểm c phạt 1.000.000–2.000.000 đồng khi chuyển hướng không nhường đường cho người đi bộ, xe thô sơ qua đường nơi không có vạch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7 khoản 2 điểm c phạt 400.000–600.000 đồng khi chạy tốc độ thấp mà không đi bên phải phần đường gây cản trở giao thông; khoản 1 điểm k phạt 200.000–400.000 đồng khi chạy dưới tốc độ tối thiểu trên đoạn có quy định tốc độ tối thiểu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "các trường hợp phải giảm tốc độ"
+      }
+    ],
+    "notes": "Theo phần Điều 7 NĐ 168 đã đọc, không thấy điểm phạt riêng cho 'không giảm tốc độ' khi chưa gây tai nạn đối với xe máy; người viết không được bịa mức phạt cho hành vi này, chỉ nêu khoản 10 điểm a (khi gây tai nạn) và các lỗi liên quan. Không cần lặp bảng tốc độ tối đa (đã có ở bài chạy quá tốc độ) – chỉ dẫn link. Điều 12 khoản 4 nay giao Bộ Xây dựng quy định chi tiết (Luật 118/2025); Thông tư 38 vẫn do Bộ GTVT ban hành, chưa thấy văn bản thay thế trong lô này. Tránh trùng nội dung với bài khoảng cách an toàn.",
+    "outline": [
+      "Câu trả lời ngắn: tốc độ tối đa không phải là tốc độ an toàn",
+      "14 trường hợp phải giảm tốc hoặc dừng theo Điều 12 Luật 2024",
+      "Nhóm tình huống hay gặp khi đi xe máy ở Hà Nội: trường học, chợ, người đi bộ, mưa",
+      "Khoảng cách an toàn khi trời mưa, đường trơn theo Thông tư 38",
+      "Không giảm tốc độ bị xử lý thế nào theo Nghị định 168",
+      "Văn bản gốc để kiểm tra"
+    ],
+    "suggested_internal_links": [
+      "/luat-giao-thong/xe-may-chay-qua-toc-do-phat-bao-nhieu/",
+      "/luat-giao-thong/khong-giu-khoang-cach-an-toan-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/khong-nhuong-duong-cho-nguoi-di-bo-phat-bao-nhieu/",
+      "/luat-giao-thong/khong-nhuong-duong-xe-uu-tien-phat-bao-nhieu/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "legal",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00306.json",
+  "draft_template": {
+    "id": "TM-00306",
+    "url": "/luat-giao-thong/truong-hop-phai-giam-toc-do/",
+    "title": "Các trường hợp phải giảm tốc độ khi đi xe máy theo Luật 2024",
+    "hub": "luat-giao-thong",
+    "parent": "/luat-giao-thong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "các trường hợp phải giảm tốc độ, khi nào phải giảm tốc độ xe máy, giảm tốc độ khi qua trường học, không giảm tốc độ gây tai nạn phạt, khoảng cách an toàn trời mưa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: tốc độ tối đa không phải là tốc độ an toàn",
+        "<p></p>"
+      ],
+      [
+        "14 trường hợp phải giảm tốc hoặc dừng theo Điều 12 Luật 2024",
+        "<p></p>"
+      ],
+      [
+        "Nhóm tình huống hay gặp khi đi xe máy ở Hà Nội: trường học, chợ, người đi bộ, mưa",
+        "<p></p>"
+      ],
+      [
+        "Khoảng cách an toàn khi trời mưa, đường trơn theo Thông tư 38",
+        "<p></p>"
+      ],
+      [
+        "Không giảm tốc độ bị xử lý thế nào theo Nghị định 168",
+        "<p></p>"
+      ],
+      [
+        "Văn bản gốc để kiểm tra",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026), Điều 12 khoản 2: người điều khiển phải bảo đảm tốc độ phù hợp điều kiện cầu, đường, mật độ giao thông, địa hình, thời tiết; khoản 3 phải quan sát, giảm tốc độ hoặc dừng lại trong các trường hợp: a) nơi có vạch hoặc báo hiệu cho người đi bộ, người đi bộ, xe lăn đang qua đường; b) báo hiệu nguy hiểm, chướng ngại vật; c) chuyển hướng, tầm nhìn hạn chế; d) nơi giao nhau với đường bộ, đường sắt; đường hẹp, vòng, quanh co, đèo, dốc; đ) cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ; e) khu vực trường học, bệnh viện, bến xe, công trình công cộng đông người, khu đông dân cư, chợ, khu vực thi công, hiện trường tai nạn; g) vật nuôi trên đường; h) tránh xe ngược chiều, cho xe sau vượt, khi xe trước có tín hiệu xin đường, tín hiệu khẩn cấp; i) điểm dừng đỗ có khách lên xuống; k) gặp xe siêu trường, siêu trọng, hàng nguy hiểm, đoàn người đi bộ; l) gặp xe ưu tiên; m) trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, đất đá rơi vãi; n) khu vực đang kiểm soát giao thông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+        "quote": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024, hiệu lực 01/01/2025 (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 4 – người lái xe phải chấp hành tốc độ và khoảng cách an toàn theo Điều 12 Luật Trật tự, an toàn giao thông đường bộ; Điều 7 – xe gắn máy tốc độ khai thác tối đa 40 km/h; Điều 6 Bảng 1 – xe cơ giới trong khu đông dân cư tối đa 60 km/h (đường đôi, một chiều từ 2 làn) và 50 km/h (đường hai chiều, một chiều 1 làn); Điều 11 khoản 2 điểm b – trời mưa, sương mù, mặt đường trơn, đường quanh co, đèo dốc, tầm nhìn hạn chế phải giữ khoảng cách lớn hơn trị số trên biển hoặc trong Bảng 3; dưới 60 km/h người lái tự chủ động giữ khoảng cách phù hợp.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7 khoản 10 điểm a phạt 10.000.000–14.000.000 đồng khi 'điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông'; khoản 13 điểm d trừ 10 điểm. Khoản 1 điểm h phạt 200.000–400.000 đồng khi không nhường đường cho xe đi ngược chiều tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật; khoản 5 điểm c phạt 1.000.000–2.000.000 đồng khi chuyển hướng không nhường đường cho người đi bộ, xe thô sơ qua đường nơi không có vạch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7 khoản 2 điểm c phạt 400.000–600.000 đồng khi chạy tốc độ thấp mà không đi bên phải phần đường gây cản trở giao thông; khoản 1 điểm k phạt 200.000–400.000 đồng khi chạy dưới tốc độ tối thiểu trên đoạn có quy định tốc độ tối thiểu.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00306"
+  }
+}

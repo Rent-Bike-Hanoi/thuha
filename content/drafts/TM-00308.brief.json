@@ -1,0 +1,177 @@
+{
+  "writer": "writer-w8f",
+  "queued": "2026-10-13T14:29:11.806505+00:00",
+  "topic": {
+    "topic_id": "TM-00308",
+    "url": "/xe-may/cai-lai-den-bao-thay-dau-honda/",
+    "title": "Cách cài lại đèn báo thay dầu xe máy Honda sau khi thay nhớt",
+    "hub": "xe-may",
+    "subtopic": "van-hanh",
+    "primary_keyword": "cài lại đèn báo thay dầu Honda",
+    "secondary_keywords": [
+      "reset đèn báo thay nhớt Honda",
+      "đèn OIL CHANGE sáng",
+      "đèn báo thay dầu LEAD",
+      "đèn báo thay dầu Air Blade",
+      "cài khoảng cách thay dầu"
+    ],
+    "intent": "informational",
+    "user_problem": "Chủ xe hoặc người thuê dài ngày thấy biểu tượng thay dầu (OIL CHANGE) sáng trên đồng hồ dù đã thay nhớt, hoặc tự thay nhớt ở tiệm ngoài, và cần thao tác tắt/cài lại đèn đúng cho từng mẫu Honda.",
+    "information_gain": "/bao-duong/xe-may/thay-nhot/ nói mốc thay nhớt và kiểm tra que thăm; /bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/ chỉ nhắc một câu phải cài lại đèn báo dầu. Chưa bài nào hướng dẫn thao tác: LEAD 125 giữ nút MODE khi bật khóa hơn 3 giây; Air Blade giữ nút SET khi bật khóa hơn 3 giây và chỉnh khoảng nhắc 500–6.000 km theo bước 500 km; SH125/160 cài 'thay dầu tiếp theo' theo quãng đường 100–6.000 km hoặc tháng/năm và cửa sổ nhắc trước 100 km. Kèm lưu ý đèn không tự tắt và cài lại khi thay sớm.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng LEAD 125 (đọc 13/10/2026), mục Đèn báo THAY DẦU: đèn sáng lần đầu khi xe chạy được khoảng 1.000 km và mỗi 6.000 km sau khi cài đặt lại. Để cài đặt lại, ấn và giữ nút MODE đồng thời xoay khóa điện sang On, rồi giữ nút MODE hơn 3 giây. Đèn không tắt cho tới khi được cài đặt lại. Nếu thay dầu trước khi đèn sáng, hãy cài lại sau khi thay; khi cài lại, đèn sáng khoảng 2 giây rồi tắt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 13/10/2026), Đèn báo OIL CHANGE: bật khi quãng đường đạt khoảng thời gian thay dầu đã lập trình; đặt lại sau lần thay dầu đầu tiên ở khoảng 1.000 km, sau đó khoảng mỗi 6.000 km. Để đặt lại: nhấn và giữ nút SET trong khi vặn khóa điện sang On, tiếp tục giữ SET hơn 3 giây; đèn không tắt cho đến khi đặt lại; nếu đặt lại khi chưa có tín hiệu, đèn xuất hiện 2 giây rồi biến mất.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng Air Blade (đọc 13/10/2026): có thể cài khoảng cách đèn OIL CHANGE – nhấn SET (đèn nhấp nháy), nhấn SELECT đến giá trị mong muốn, thiết lập được mỗi 500 km trong phạm vi 500–6.000 km, nhấn SET để xác nhận; nếu không nhấn công tắc trong khoảng 30 giây, màn hình về hiển thị thường và cài đặt chưa xác nhận không được lưu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (đọc 13/10/2026): mục OIL CHANGE cho phép lập trình lời nhắc lần thay dầu tiếp theo theo DISTANCE (100–6.000 km) hoặc MONTH/YEAR (2020–2099), chọn bằng công tắc chọn; cửa sổ thông tin bật lên khi còn 100 km đến lần thay dầu, 500 km đến lần kiểm tra định kỳ hoặc một tháng trước tháng đã cài; thông báo 'Gần đến thời gian thay dầu xe của bạn' – khắc phục: thay dầu động cơ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "cài lại đèn báo thay dầu Honda"
+      }
+    ],
+    "notes": "Sách Vision (đọc 13/10/2026) không có mục đèn báo thay dầu – không khẳng định Vision có đèn này. Chỉ mô tả 3 mẫu đã đọc (LEAD 125, Air Blade 125/160, SH125/160); các mẫu khác (Vario, SH Mode) chưa kiểm tra. Mốc 1.000/6.000 km là mốc nhắc của đồng hồ; không thay thế lịch bảo dưỡng (link bài thay nhớt). Không hướng dẫn người thuê tự thay nhớt xe thuê; business-facts không có chính sách riêng về bảo dưỡng xe thuê ngoài policies.damage – người viết khuyên báo cửa hàng khi đèn sáng, không hứa miễn phí. Không trích thao tác 'cài đồng hồ báo giờ' nằm cạnh trong sách LEAD để tránh nhầm.",
+    "outline": [
+      "Câu trả lời ngắn: đèn thay dầu không tự tắt, phải cài lại sau khi thay nhớt",
+      "Đèn OIL CHANGE sáng khi nào: mốc 1.000 km và 6.000 km",
+      "LEAD 125: giữ MODE khi bật khóa hơn 3 giây",
+      "Air Blade 125/160: giữ SET và chỉnh khoảng nhắc 500–6.000 km",
+      "SH125i/160i: cài thay dầu tiếp theo theo km hoặc tháng",
+      "Lỗi hay gặp khi cài lại và khi nào nhờ cửa hàng Honda",
+      "Xe thuê báo đèn thay dầu: báo cửa hàng"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xe-may/thay-nhot/",
+      "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
+      "/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/",
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/xe-may/honda-lead-125/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00308.json",
+  "draft_template": {
+    "id": "TM-00308",
+    "url": "/xe-may/cai-lai-den-bao-thay-dau-honda/",
+    "title": "Cách cài lại đèn báo thay dầu xe máy Honda sau khi thay nhớt",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cài lại đèn báo thay dầu Honda, reset đèn báo thay nhớt Honda, đèn OIL CHANGE sáng, đèn báo thay dầu LEAD, đèn báo thay dầu Air Blade, cài khoảng cách thay dầu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đèn thay dầu không tự tắt, phải cài lại sau khi thay nhớt",
+        "<p></p>"
+      ],
+      [
+        "Đèn OIL CHANGE sáng khi nào: mốc 1.000 km và 6.000 km",
+        "<p></p>"
+      ],
+      [
+        "LEAD 125: giữ MODE khi bật khóa hơn 3 giây",
+        "<p></p>"
+      ],
+      [
+        "Air Blade 125/160: giữ SET và chỉnh khoảng nhắc 500–6.000 km",
+        "<p></p>"
+      ],
+      [
+        "SH125i/160i: cài thay dầu tiếp theo theo km hoặc tháng",
+        "<p></p>"
+      ],
+      [
+        "Lỗi hay gặp khi cài lại và khi nào nhờ cửa hàng Honda",
+        "<p></p>"
+      ],
+      [
+        "Xe thuê báo đèn thay dầu: báo cửa hàng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng LEAD 125 (đọc 13/10/2026), mục Đèn báo THAY DẦU: đèn sáng lần đầu khi xe chạy được khoảng 1.000 km và mỗi 6.000 km sau khi cài đặt lại. Để cài đặt lại, ấn và giữ nút MODE đồng thời xoay khóa điện sang On, rồi giữ nút MODE hơn 3 giây. Đèn không tắt cho tới khi được cài đặt lại. Nếu thay dầu trước khi đèn sáng, hãy cài lại sau khi thay; khi cài lại, đèn sáng khoảng 2 giây rồi tắt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 13/10/2026), Đèn báo OIL CHANGE: bật khi quãng đường đạt khoảng thời gian thay dầu đã lập trình; đặt lại sau lần thay dầu đầu tiên ở khoảng 1.000 km, sau đó khoảng mỗi 6.000 km. Để đặt lại: nhấn và giữ nút SET trong khi vặn khóa điện sang On, tiếp tục giữ SET hơn 3 giây; đèn không tắt cho đến khi đặt lại; nếu đặt lại khi chưa có tín hiệu, đèn xuất hiện 2 giây rồi biến mất.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng Air Blade (đọc 13/10/2026): có thể cài khoảng cách đèn OIL CHANGE – nhấn SET (đèn nhấp nháy), nhấn SELECT đến giá trị mong muốn, thiết lập được mỗi 500 km trong phạm vi 500–6.000 km, nhấn SET để xác nhận; nếu không nhấn công tắc trong khoảng 30 giây, màn hình về hiển thị thường và cài đặt chưa xác nhận không được lưu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/UG9NBoEDyF0DHrjoTphA.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng SH125D/AD, SH160D/AD (đọc 13/10/2026): mục OIL CHANGE cho phép lập trình lời nhắc lần thay dầu tiếp theo theo DISTANCE (100–6.000 km) hoặc MONTH/YEAR (2020–2099), chọn bằng công tắc chọn; cửa sổ thông tin bật lên khi còn 100 km đến lần thay dầu, 500 km đến lần kiểm tra định kỳ hoặc một tháng trước tháng đã cài; thông báo 'Gần đến thời gian thay dầu xe của bạn' – khắc phục: thay dầu động cơ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00308"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "writer": "writer-w8f",
+  "queued": "2026-10-13T14:29:11.807237+00:00",
+  "topic": {
+    "topic_id": "TM-00309",
+    "url": "/xe-dien/bao-duong-xe-may-dien-dinh-ky/",
+    "title": "Bảo dưỡng xe máy điện định kỳ: mốc 1.000 km, 5.000 km và hạng mục",
+    "hub": "xe-dien",
+    "subtopic": "van-hanh-xe-dien",
+    "primary_keyword": "bảo dưỡng xe máy điện định kỳ",
+    "secondary_keywords": [
+      "lịch bảo dưỡng xe máy điện VinFast",
+      "xe máy điện có cần bảo dưỡng không",
+      "bảo dưỡng xe điện gồm những gì",
+      "không bảo dưỡng có mất bảo hành không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mới dùng hoặc thuê xe máy điện nghĩ xe điện không cần bảo dưỡng, hoặc không biết mốc nào phải mang xe đi kiểm tra và kiểm tra những gì (không có thay nhớt, bugi như xe xăng).",
+    "information_gain": "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/ và /bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/ chỉ nói xe xăng Honda; /xe-dien/pin-sac/ là checklist khi nhận xe; /xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/ nói chống nước. Chưa bài nào trình bày lịch bảo dưỡng xe máy điện theo sách hướng dẫn hãng: mốc 1.000 km/1 tháng rồi mỗi 5.000 km/6 tháng (đến 60.000 km/72 tháng), 21 hạng mục kiểm tra – bôi trơn – thay thế (thay phớt động cơ ở mốc 30.000 và 60.000 km), và điều khoản bảo hành loại trừ khi không tuân thủ lịch bảo dưỡng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien",
+        "quote": "VinFast, Câu hỏi thường gặp về xe máy điện (đọc 13/10/2026): 'Theo khuyến cáo của VinFast, người dùng nên bảo dưỡng xe máy điện sau 1000km hoặc sau 1 tháng khi mua xe. Những lần tiếp theo thực hiện sau 5000km hoặc 6 tháng kể từ kỳ bảo dưỡng gần nhất.'",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+        "quote": "VinFast, Hướng dẫn sử dụng xe máy điện VinFast Evo Lite (ESPCNE9BOL003/01, đọc 13/10/2026), mục 6.1.2 Lịch trình bảo dưỡng: các mốc 1, 5, 10, 15… 60 nghìn km hoặc tháng thứ 1, 6, 12, 18… 72, tùy điều kiện nào đến trước; 21 hạng mục gồm tay phanh, đèn/còi/đồng hồ, vỏ bọc tay ga, chân chống, cơ cấu khóa yên, cổng kết nối và hình dạng bên ngoài pin Lithium-ion, dầu phanh, phanh trước, ống dầu phanh, vành – bu-lông – bi trục trước/sau, lốp (độ sâu hoa lốp, áp suất), cổ phốt (bôi trơn mốc 20, 40, 60 nghìn km), giảm xóc trước/sau, phanh sau, dây phanh sau, động cơ, phớt động cơ (thay ở mốc 30 và 60 nghìn km), tấm lót khay pin. Ghi chú KT = kiểm tra, BT = bôi trơn bằng mỡ, TT = thay thế.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+        "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 13/10/2026), mục 6.1: nên kiểm tra xe trước khi lái và theo lịch bảo dưỡng; nên mang xe đến ĐLPP và XDV của VinFast; nếu quãng đường trên HMI vượt mốc trong lịch thì lặp lại chu kỳ; nên bảo dưỡng thường xuyên hơn nếu thường lái trong điều kiện ẩm ướt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+        "quote": "VinFast, Chính sách bảo hành xe máy điện (đọc 13/10/2026): không bảo hành hư hỏng 'do việc không tuân thủ lịch bảo dưỡng định kỳ hoặc bảo dưỡng, sửa chữa không đúng theo hướng dẫn của nhà sản xuất', hư hỏng do hoán cải trái phép, do sử dụng xe trong điều kiện ngập nước; bảo hành không áp dụng cho làm sạch, kiểm tra, điều chỉnh và hạng mục bảo dưỡng định kỳ. Pin LFP mua theo xe mới bảo hành 8 năm, pin khác 3 năm, ắc quy 12V 1 năm (không giới hạn quãng đường).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "bảo dưỡng xe máy điện định kỳ"
+      }
+    ],
+    "notes": "Lịch chi tiết là của VinFast Evo Lite (sách Evo cùng cấu trúc); không áp cho Tailg/Yadea – xe điện của cửa hàng là Tailg, chưa có sách hướng dẫn Tailg trong lô này, nên viết 'theo sách của từng hãng' và lấy VinFast làm ví dụ. Không nêu giá/chi phí bảo dưỡng xe điện (chưa có nguồn). FAQ VinFast trang 'cau-hoi-xe-may-dien' có đoạn bảo hành mâu thuẫn (3/5 năm vs 6 năm xe, 8 năm pin) – chỉ dùng trang chính sách bảo hành cho số năm. Không viết 'xe điện không cần bảo dưỡng'. Hub đặt xe-dien/van-hanh-xe-dien vì là xe điện (yêu cầu ban đầu gợi ý hub xe-may/van-hanh).",
+    "outline": [
+      "Câu trả lời ngắn: xe điện vẫn cần bảo dưỡng, mốc 1.000 km rồi mỗi 5.000 km",
+      "Xe điện bỏ được gì so với xe xăng và còn lại những gì",
+      "Bảng 21 hạng mục theo sách hướng dẫn VinFast",
+      "Pin, cổng kết nối và tấm lót khay pin: kiểm tra gì",
+      "Đi mưa, ẩm ướt thì rút ngắn lịch",
+      "Bỏ lịch bảo dưỡng ảnh hưởng bảo hành thế nào",
+      "Xe máy điện thuê: ai lo bảo dưỡng"
+    ],
+    "suggested_internal_links": [
+      "/xe-dien/pin-sac/",
+      "/xe-dien/xe-may-dien-tailg/",
+      "/xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/",
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/thue-xe-dien/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.429
+        }
+      },
+      {
+        "url": "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.477
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00309.json",
+  "draft_template": {
+    "id": "TM-00309",
+    "url": "/xe-dien/bao-duong-xe-may-dien-dinh-ky/",
+    "title": "Bảo dưỡng xe máy điện định kỳ: mốc 1.000 km, 5.000 km và hạng mục",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo dưỡng xe máy điện định kỳ, lịch bảo dưỡng xe máy điện VinFast, xe máy điện có cần bảo dưỡng không, bảo dưỡng xe điện gồm những gì, không bảo dưỡng có mất bảo hành không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: xe điện vẫn cần bảo dưỡng, mốc 1.000 km rồi mỗi 5.000 km",
+        "<p></p>"
+      ],
+      [
+        "Xe điện bỏ được gì so với xe xăng và còn lại những gì",
+        "<p></p>"
+      ],
+      [
+        "Bảng 21 hạng mục theo sách hướng dẫn VinFast",
+        "<p></p>"
+      ],
+      [
+        "Pin, cổng kết nối và tấm lót khay pin: kiểm tra gì",
+        "<p></p>"
+      ],
+      [
+        "Đi mưa, ẩm ướt thì rút ngắn lịch",
+        "<p></p>"
+      ],
+      [
+        "Bỏ lịch bảo dưỡng ảnh hưởng bảo hành thế nào",
+        "<p></p>"
+      ],
+      [
+        "Xe máy điện thuê: ai lo bảo dưỡng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien",
+        "quote": "VinFast, Câu hỏi thường gặp về xe máy điện (đọc 13/10/2026): 'Theo khuyến cáo của VinFast, người dùng nên bảo dưỡng xe máy điện sau 1000km hoặc sau 1 tháng khi mua xe. Những lần tiếp theo thực hiện sau 5000km hoặc 6 tháng kể từ kỳ bảo dưỡng gần nhất.'",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+        "quote": "VinFast, Hướng dẫn sử dụng xe máy điện VinFast Evo Lite (ESPCNE9BOL003/01, đọc 13/10/2026), mục 6.1.2 Lịch trình bảo dưỡng: các mốc 1, 5, 10, 15… 60 nghìn km hoặc tháng thứ 1, 6, 12, 18… 72, tùy điều kiện nào đến trước; 21 hạng mục gồm tay phanh, đèn/còi/đồng hồ, vỏ bọc tay ga, chân chống, cơ cấu khóa yên, cổng kết nối và hình dạng bên ngoài pin Lithium-ion, dầu phanh, phanh trước, ống dầu phanh, vành – bu-lông – bi trục trước/sau, lốp (độ sâu hoa lốp, áp suất), cổ phốt (bôi trơn mốc 20, 40, 60 nghìn km), giảm xóc trước/sau, phanh sau, dây phanh sau, động cơ, phớt động cơ (thay ở mốc 30 và 60 nghìn km), tấm lót khay pin. Ghi chú KT = kiểm tra, BT = bôi trơn bằng mỡ, TT = thay thế.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+        "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 13/10/2026), mục 6.1: nên kiểm tra xe trước khi lái và theo lịch bảo dưỡng; nên mang xe đến ĐLPP và XDV của VinFast; nếu quãng đường trên HMI vượt mốc trong lịch thì lặp lại chu kỳ; nên bảo dưỡng thường xuyên hơn nếu thường lái trong điều kiện ẩm ướt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+        "quote": "VinFast, Chính sách bảo hành xe máy điện (đọc 13/10/2026): không bảo hành hư hỏng 'do việc không tuân thủ lịch bảo dưỡng định kỳ hoặc bảo dưỡng, sửa chữa không đúng theo hướng dẫn của nhà sản xuất', hư hỏng do hoán cải trái phép, do sử dụng xe trong điều kiện ngập nước; bảo hành không áp dụng cho làm sạch, kiểm tra, điều chỉnh và hạng mục bảo dưỡng định kỳ. Pin LFP mua theo xe mới bảo hành 8 năm, pin khác 3 năm, ắc quy 12V 1 năm (không giới hạn quãng đường).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00309"
+  }
+}

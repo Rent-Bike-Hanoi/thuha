@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w8e",
+  "queued": "2026-10-13T14:29:11.671411+00:00",
+  "topic": {
+    "topic_id": "TM-00305",
+    "url": "/luat-giao-thong/di-xe-may-trong-ham-duong-bo/",
+    "title": "Đi xe máy trong hầm đường bộ: bật đèn, cấm vượt, dừng đỗ, quay đầu",
+    "hub": "luat-giao-thong",
+    "subtopic": "quy-tac-giao-thong",
+    "primary_keyword": "đi xe máy trong hầm đường bộ",
+    "secondary_keywords": [
+      "xe máy vào hầm có phải bật đèn",
+      "vượt xe trong hầm phạt bao nhiêu",
+      "dừng xe trong hầm phạt",
+      "quay đầu trong hầm",
+      "xe hỏng trong hầm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy qua hầm chui, hầm đường bộ (ví dụ trong nội đô Hà Nội) muốn biết đầy đủ quy tắc riêng trong hầm: đèn, vượt, dừng đỗ, quay đầu, tụ tập và phải làm gì khi xe hỏng giữa hầm.",
+    "information_gain": "Các quy tắc trong hầm hiện nằm rải rác: /luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/ có một đoạn về đèn trong hầm, /luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/ nói quay đầu trong hầm, /luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/ nói dừng đỗ trong hầm. Chưa bài nào đi theo Điều 26 Luật 36 (giao thông trong hầm) để gom một danh sách: bật đèn chiếu gần, cấm vượt (Điều 14 khoản 6 điểm k), giảm tốc khi vào hầm (Điều 12 khoản 3 điểm đ), không dừng đỗ và quy trình khi xe gặp sự cố, kèm bảng mức phạt tương ứng của NĐ 168.",
+    "evidence": [
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026), Điều 26 'Giao thông trong hầm đường bộ': khoản 1 xe cơ giới phải bật đèn chiếu gần; khoản 2 không dừng xe, đỗ xe trong hầm; gặp sự cố kỹ thuật hoặc bất khả kháng buộc phải dừng thì đưa xe vào vị trí dừng, đỗ khẩn cấp; nếu không di chuyển được phải báo hiệu bằng đèn khẩn cấp, đặt biển hoặc đèn cảnh báo phía sau ở khoảng cách bảo đảm an toàn và nhanh chóng báo cho CSGT hoặc cơ quan quản lý hầm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 14 khoản 6 điểm k: không được vượt xe trong hầm đường bộ; Điều 12 khoản 3 điểm đ: phải quan sát, giảm tốc độ hoặc dừng lại tại nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7: khoản 3 điểm h phạt 600.000–800.000 đồng khi chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần; khoản 4 điểm b phạt 800.000–1.000.000 đồng khi dừng, đỗ xe trong hầm không đúng nơi quy định; khoản 4 điểm d phạt 800.000–1.000.000 đồng khi quay đầu xe trong hầm; khoản 4 điểm c phạt 800.000–1.000.000 đồng khi vượt xe trong trường hợp không được vượt; khoản 2 điểm d phạt 400.000–600.000 đồng khi tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7 khoản 10 điểm b phạt 10.000.000–14.000.000 đồng khi vi phạm điểm h khoản 3 (không bật đèn trong hầm) mà gây tai nạn; khoản 10 điểm a cùng mức khi dừng xe, đỗ xe, quay đầu xe, vượt xe không đúng quy định gây tai nạn; khoản 13 điểm d trừ 10 điểm giấy phép lái xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+        "quote": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi Nghị định 168 (bản PDF ký số trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 19 khoản 3 bổ sung 'hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển' vào điểm b khoản 6 Điều 7 NĐ 168 (đi vào khu vực, đường cấm, phạt 2–3 triệu đồng theo NĐ 168) – áp dụng khi hầm có quy định cấm xe máy; các điểm về đèn, dừng đỗ, quay đầu trong hầm của Điều 7 không bị sửa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đi xe máy trong hầm đường bộ"
+      }
+    ],
+    "notes": "Không nêu tên, chiều dài hay quy định cấm xe máy của hầm cụ thể ở Hà Nội (Kim Liên, Thanh Xuân, Văn Cao…) – chưa có nguồn chính thức trong lô này. Mức 2–3 triệu đồng của điểm b khoản 6 Điều 7 lấy từ khoản 6 NĐ 168 (đọc 13/10/2026). Không khẳng định có 'làn dừng khẩn cấp' trong hầm đô thị Hà Nội. Không suy diễn Thông tư 38 có tốc độ riêng trong hầm (chưa thấy điều khoản riêng).",
+    "outline": [
+      "Câu trả lời ngắn: bật đèn chiếu gần, không vượt, không dừng, không quay đầu",
+      "Điều 26 Luật 2024 quy định gì về hầm đường bộ",
+      "Bảng mức phạt các lỗi trong hầm theo Nghị định 168",
+      "Xe hỏng, hết xăng giữa hầm: làm gì theo luật",
+      "Hầm có biển cấm xe máy và Nghị định 238/2026",
+      "Văn bản gốc để kiểm tra"
+    ],
+    "suggested_internal_links": [
+      "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+      "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+      "/luat-giao-thong/vuot-phai-xe-may-phat-bao-nhieu/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "legal",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00305.json",
+  "draft_template": {
+    "id": "TM-00305",
+    "url": "/luat-giao-thong/di-xe-may-trong-ham-duong-bo/",
+    "title": "Đi xe máy trong hầm đường bộ: bật đèn, cấm vượt, dừng đỗ, quay đầu",
+    "hub": "luat-giao-thong",
+    "parent": "/luat-giao-thong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đi xe máy trong hầm đường bộ, xe máy vào hầm có phải bật đèn, vượt xe trong hầm phạt bao nhiêu, dừng xe trong hầm phạt, quay đầu trong hầm, xe hỏng trong hầm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: bật đèn chiếu gần, không vượt, không dừng, không quay đầu",
+        "<p></p>"
+      ],
+      [
+        "Điều 26 Luật 2024 quy định gì về hầm đường bộ",
+        "<p></p>"
+      ],
+      [
+        "Bảng mức phạt các lỗi trong hầm theo Nghị định 168",
+        "<p></p>"
+      ],
+      [
+        "Xe hỏng, hết xăng giữa hầm: làm gì theo luật",
+        "<p></p>"
+      ],
+      [
+        "Hầm có biển cấm xe máy và Nghị định 238/2026",
+        "<p></p>"
+      ],
+      [
+        "Văn bản gốc để kiểm tra",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026), Điều 26 'Giao thông trong hầm đường bộ': khoản 1 xe cơ giới phải bật đèn chiếu gần; khoản 2 không dừng xe, đỗ xe trong hầm; gặp sự cố kỹ thuật hoặc bất khả kháng buộc phải dừng thì đưa xe vào vị trí dừng, đỗ khẩn cấp; nếu không di chuyển được phải báo hiệu bằng đèn khẩn cấp, đặt biển hoặc đèn cảnh báo phía sau ở khoảng cách bảo đảm an toàn và nhanh chóng báo cho CSGT hoặc cơ quan quản lý hầm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, văn bản hợp nhất 55/VBHN-VPQH (bản PDF trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 14 khoản 6 điểm k: không được vượt xe trong hầm đường bộ; Điều 12 khoản 3 điểm đ: phải quan sát, giảm tốc độ hoặc dừng lại tại nơi cầu, cống hẹp, đập tràn, đường ngầm, hầm chui, hầm đường bộ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7: khoản 3 điểm h phạt 600.000–800.000 đồng khi chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần; khoản 4 điểm b phạt 800.000–1.000.000 đồng khi dừng, đỗ xe trong hầm không đúng nơi quy định; khoản 4 điểm d phạt 800.000–1.000.000 đồng khi quay đầu xe trong hầm; khoản 4 điểm c phạt 800.000–1.000.000 đồng khi vượt xe trong trường hợp không được vượt; khoản 2 điểm d phạt 400.000–600.000 đồng khi tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP (bản PDF đăng trên cổng thông tin tỉnh, storage-vnportal.vnpt.vn, đọc 13/10/2026), Điều 7 khoản 10 điểm b phạt 10.000.000–14.000.000 đồng khi vi phạm điểm h khoản 3 (không bật đèn trong hầm) mà gây tai nạn; khoản 10 điểm a cùng mức khi dừng xe, đỗ xe, quay đầu xe, vượt xe không đúng quy định gây tai nạn; khoản 13 điểm d trừ 10 điểm giấy phép lái xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+        "quote": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi Nghị định 168 (bản PDF ký số trên datafiles.chinhphu.vn, đọc 13/10/2026): Điều 19 khoản 3 bổ sung 'hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển' vào điểm b khoản 6 Điều 7 NĐ 168 (đi vào khu vực, đường cấm, phạt 2–3 triệu đồng theo NĐ 168) – áp dụng khi hầm có quy định cấm xe máy; các điểm về đèn, dừng đỗ, quay đầu trong hầm của Điều 7 không bị sửa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00305"
+  }
+}

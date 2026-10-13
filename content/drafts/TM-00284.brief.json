@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w8b",
+  "queued": "2026-10-13T14:29:11.264122+00:00",
+  "topic": {
+    "topic_id": "TM-00284",
+    "url": "/du-lich/co-do-hoa-lu/",
+    "title": "Cố đô Hoa Lư: vé 20.000đ, đền vua Đinh – vua Lê, phố cổ Hoa Lư",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cố đô hoa lư giá vé",
+    "secondary_keywords": [
+      "đền vua đinh vua lê",
+      "cố đô hoa lư có gì",
+      "phố cổ hoa lư miễn phí",
+      "thuyền hồ kỳ lân giá",
+      "hoa lư đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Ninh Bình trong ngày muốn ghép cố đô Hoa Lư với Tràng An cần biết vé, xem gì ở đền vua Đinh, vua Lê và phố cổ Hoa Lư có mất tiền không.",
+    "information_gain": "Bài /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ chỉ gợi ý đi 'Tràng An và cố đô Hoa Lư' trong một ngày, không mô tả gì. Bài mới thêm: vé 2026 20.000đ người lớn, 10.000đ trẻ 6–15 tuổi và người từ 60 tuổi; hai đền vua Đinh, vua Lê cách nhau khoảng 500 m, dựng lại thế kỷ 17 trên nền kinh đô 968–1010; cặp long sàng đá là Bảo vật quốc gia; kinh đô xưa rộng khoảng 300 ha; Hoa Lư là một trong bốn vùng lõi di sản Tràng An; phố cổ Hoa Lư ở trung tâm thành phố miễn phí tham quan, thuyền hồ Kỳ Lân 100.000đ, VIP 150.000đ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), trang 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026', cập nhật 27/02/2026 (đọc 13/10/2026): Khu di tích Cố đô Hoa Lư: người lớn 20.000 vnđ/người; trẻ em 6–15 tuổi 10.000 vnđ/người; người cao tuổi (từ 60 tuổi trở lên), người tàn tật 10.000 vnđ/người. Phố cổ Hoa Lư: tham quan miễn phí; vé thuyền hồ Kỳ Lân (thả đèn hoa đăng) người lớn 100k, trẻ em dưới 1,29 m 80k; thuyền VIP người lớn 150k, trẻ em dưới 1,29 m 100k.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/den-tho-vua-dinh-vua-le-noi-luu-dau-vet-vuong-trieu-co-do-post901663.vnp",
+        "quote": "VietnamPlus, 18/10/2023 (đọc 13/10/2026): năm 968 Đinh Bộ Lĩnh chọn Hoa Lư làm kinh đô; Hoa Lư gắn 12 năm triều Đinh (968–980), 29 năm Tiền Lê (980–1009) và đầu nhà Lý (1009–1010); đền vua Đinh và đền vua Lê xây từ thời Lý, được dựng lại thế kỷ 17, ở xã Trường Yên; đền vua Đinh theo kiểu 'nội công, ngoại quốc'; cặp long sàng đá trước ngọ môn và ở sân rồng là Bảo vật quốc gia, long sàng sân rồng dài 1,8 m, rộng 1,4 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoninhbinh.org.vn/co-do-hoa-lu-kinh-do-dau-tien-cua-nha-nuoc-phong-kien-tap/d20200402063640559.htm",
+        "quote": "Báo Ninh Bình, 'Cố đô Hoa Lư – Kinh đô đầu tiên của Nhà nước phong kiến tập quyền' (2/4/2020, đọc 13/10/2026): kinh đô xưa rộng khoảng 300 ha gồm Thành Ngoại, Thành Nội, Thành Nam; hai đền vua Đinh, vua Lê cách nhau khoảng 500 m; đền vua Lê thờ Lê Đại Hành, Lê Ngọa Triều và Hoàng hậu Dương Vân Nga, có phòng trưng bày hiện vật bên trái khu đền; gần đó có chùa Nhất Trụ (cách đền vua Lê khoảng 200 m).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ninh-binh-4127327.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z', cập nhật 17/10/2025 (đọc 13/10/2026): Hoa Lư là kinh đô từ năm 968–1010 qua ba triều Đinh – Tiền Lê – Tiền Lý, là một trong bốn vùng lõi của quần thể di sản thế giới Tràng An; nên đăng ký nghe thuyết minh; vé vào cửa 20.000 đồng/người.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2754",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, cập nhật 27/08/2024 (đọc 13/10/2026): Phố cổ Hoa Lư nằm tại trung tâm thành phố Ninh Bình (cũ), phục dựng, mô phỏng văn hóa Đại Việt thế kỷ X; có hồ Kỳ Lân, chùa Bạc, dịch vụ thuyền trên hồ và cho thuê trang phục chụp ảnh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 50,
+        "checked": "2026-10-13",
+        "keyword": "cố đô hoa lư giá vé"
+      }
+    ],
+    "notes": "Giờ mở cửa khu di tích, phí thuyết minh, phí gửi xe: không có nguồn, không ghi. Địa danh hành chính mới (xã Trường Yên cũ nay thuộc đơn vị nào sau 7/2025) chưa xác minh: viết 'xã Trường Yên (cũ)'. Lễ hội Hoa Lư: chỉ thấy tiêu đề 'Lễ hội Hoa Lư năm 2025 diễn ra 6–8/4' trên Báo Ninh Bình, chưa có lịch 2026/2027: không ghi ngày. Không ghi hotline. Không nhầm 'phố cổ Hoa Lư' (khu mới ở thành phố) với khu di tích cố đô.",
+    "outline": [
+      "Cố đô Hoa Lư ở đâu, khác gì phố cổ Hoa Lư",
+      "Vé 2026 và ai được giảm",
+      "Đền vua Đinh: long sàng, bảo vật quốc gia",
+      "Đền vua Lê và các điểm quanh khu di tích",
+      "Ghép với Tràng An trong một ngày bằng xe máy",
+      "Phố cổ Hoa Lư buổi tối: miễn phí, thuyền hồ Kỳ Lân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/hoang-thanh-thang-long/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00284.json",
+  "draft_template": {
+    "id": "TM-00284",
+    "url": "/du-lich/co-do-hoa-lu/",
+    "title": "Cố đô Hoa Lư: vé 20.000đ, đền vua Đinh – vua Lê, phố cổ Hoa Lư",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cố đô hoa lư giá vé, đền vua đinh vua lê, cố đô hoa lư có gì, phố cổ hoa lư miễn phí, thuyền hồ kỳ lân giá, hoa lư đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cố đô Hoa Lư ở đâu, khác gì phố cổ Hoa Lư",
+        "<p></p>"
+      ],
+      [
+        "Vé 2026 và ai được giảm",
+        "<p></p>"
+      ],
+      [
+        "Đền vua Đinh: long sàng, bảo vật quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Đền vua Lê và các điểm quanh khu di tích",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Tràng An trong một ngày bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Phố cổ Hoa Lư buổi tối: miễn phí, thuyền hồ Kỳ Lân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), trang 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026', cập nhật 27/02/2026 (đọc 13/10/2026): Khu di tích Cố đô Hoa Lư: người lớn 20.000 vnđ/người; trẻ em 6–15 tuổi 10.000 vnđ/người; người cao tuổi (từ 60 tuổi trở lên), người tàn tật 10.000 vnđ/người. Phố cổ Hoa Lư: tham quan miễn phí; vé thuyền hồ Kỳ Lân (thả đèn hoa đăng) người lớn 100k, trẻ em dưới 1,29 m 80k; thuyền VIP người lớn 150k, trẻ em dưới 1,29 m 100k.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/den-tho-vua-dinh-vua-le-noi-luu-dau-vet-vuong-trieu-co-do-post901663.vnp",
+        "quote": "VietnamPlus, 18/10/2023 (đọc 13/10/2026): năm 968 Đinh Bộ Lĩnh chọn Hoa Lư làm kinh đô; Hoa Lư gắn 12 năm triều Đinh (968–980), 29 năm Tiền Lê (980–1009) và đầu nhà Lý (1009–1010); đền vua Đinh và đền vua Lê xây từ thời Lý, được dựng lại thế kỷ 17, ở xã Trường Yên; đền vua Đinh theo kiểu 'nội công, ngoại quốc'; cặp long sàng đá trước ngọ môn và ở sân rồng là Bảo vật quốc gia, long sàng sân rồng dài 1,8 m, rộng 1,4 m.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoninhbinh.org.vn/co-do-hoa-lu-kinh-do-dau-tien-cua-nha-nuoc-phong-kien-tap/d20200402063640559.htm",
+        "quote": "Báo Ninh Bình, 'Cố đô Hoa Lư – Kinh đô đầu tiên của Nhà nước phong kiến tập quyền' (2/4/2020, đọc 13/10/2026): kinh đô xưa rộng khoảng 300 ha gồm Thành Ngoại, Thành Nội, Thành Nam; hai đền vua Đinh, vua Lê cách nhau khoảng 500 m; đền vua Lê thờ Lê Đại Hành, Lê Ngọa Triều và Hoàng hậu Dương Vân Nga, có phòng trưng bày hiện vật bên trái khu đền; gần đó có chùa Nhất Trụ (cách đền vua Lê khoảng 200 m).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ninh-binh-4127327.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z', cập nhật 17/10/2025 (đọc 13/10/2026): Hoa Lư là kinh đô từ năm 968–1010 qua ba triều Đinh – Tiền Lê – Tiền Lý, là một trong bốn vùng lõi của quần thể di sản thế giới Tràng An; nên đăng ký nghe thuyết minh; vé vào cửa 20.000 đồng/người.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2754",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, cập nhật 27/08/2024 (đọc 13/10/2026): Phố cổ Hoa Lư nằm tại trung tâm thành phố Ninh Bình (cũ), phục dựng, mô phỏng văn hóa Đại Việt thế kỷ X; có hồ Kỳ Lân, chùa Bạc, dịch vụ thuyền trên hồ và cho thuê trang phục chụp ảnh.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00284"
+  }
+}

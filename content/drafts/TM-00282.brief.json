@@ -1,0 +1,167 @@
+{
+  "writer": "writer-w8a",
+  "queued": "2026-10-13T14:29:11.141997+00:00",
+  "topic": {
+    "topic_id": "TM-00282",
+    "url": "/du-lich/dam-van-long/",
+    "title": "Đầm Vân Long Ninh Bình: vé 100.000đ, đi thuyền ngắm voọc, chim",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đầm vân long ninh bình",
+    "secondary_keywords": [
+      "vé đầm vân long 2026",
+      "đi thuyền vân long bao lâu",
+      "voọc mông trắng vân long",
+      "vân long cách hà nội bao xa",
+      "vân long đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn một điểm Ninh Bình yên tĩnh hơn Tràng An cần biết đầm Vân Long ở đâu, vé 2026 bao nhiêu, đi thuyền ngắm được gì (voọc, chim) và có hợp đi xe máy trong ngày không.",
+    "information_gain": "Site chưa có bài về Vân Long; /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ không nhắc. Bài mới thêm: vé 2026 100.000đ người lớn, 50.000đ trẻ em theo bảng Sở Du lịch (VnExpress cũ ghi 20.000đ thắng cảnh + 60.000đ/đò 2 người, nên phải hỏi vé mới đã gồm đò chưa); Vân Long cách Hà Nội khoảng 80 km, cách TP Ninh Bình khoảng 17 km, là khu bảo tồn đất ngập nước hơn 3.000 ha, lớn nhất đồng bằng Bắc Bộ; 102 loài chim, hơn 200 cá thể voọc mông trắng; 'vịnh không sóng' và hai kỷ lục năm 2010; các núi, hang nhìn thấy trên tuyến thuyền.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), trang 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026', cập nhật 27/02/2026 (đọc 13/10/2026): Khu du lịch Vân Long, vé tham quan: người lớn 100.000 vnđ/người; trẻ em 50.000 vnđ/người.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/the-gioi-chim-thu-o-dam-van-long-4308752.html",
+        "quote": "VnExpress, 'Thế giới chim thú ở đầm Vân Long', 16/7/2021 (đọc 13/10/2026): khu bảo tồn thiên nhiên đất ngập nước ở huyện Gia Viễn, cách TP Ninh Bình khoảng 17 km, cách Hà Nội khoảng 80 km; diện tích trên 3.000 ha, lớn nhất đồng bằng Bắc Bộ; 102 loài chim được ghi nhận; hơn 200 cá thể voọc quần đùi trắng (voọc mông trắng); vé thắng cảnh 20.000 đồng/người và vé đò 60.000 đồng/đò chở 2 người; trên tuyến thuyền có núi Mèo Cào, Mâm Xôi, Hòm Sách và các hang Cá, Bóng, Rùa, Chanh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ninh-binh-4127327.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z', cập nhật 17/10/2025 (đọc 13/10/2026): Vân Long được gọi là 'vịnh không sóng'; nước trong; giữ 2 kỷ lục năm 2010 của Trung tâm sách kỷ lục Việt Nam: nơi có số lượng cá thể voọc mông trắng nhiều nhất và nơi có bức tranh tự nhiên lớn nhất; vé tham quan 20.000 đồng/người và vé thuyền 60.000/2 người (mức cũ).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+        "quote": "Ban Quản lý Quần thể danh thắng Tràng An, trang trangandanhthang.vn 'Giá vé tham quan các khu, điểm du lịch' (trang không ghi ngày, đọc 13/10/2026): Khu du lịch Vân Long: người lớn 100.000 vnđ/người, trẻ em 50.000 vnđ/người (khớp bảng của Sở Du lịch).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, toàn văn đăng trên Cổng hành chính công Nghệ An (đọc 13/10/2026): Điều 25 khoản 3: '... xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc.'",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 880,
+        "checked": "2026-10-13",
+        "keyword": "đầm vân long ninh bình"
+      }
+    ],
+    "notes": "Chưa rõ vé 100.000đ (2026) đã gồm đò hay chưa và quy định số khách/đò: chưa có nguồn, phải viết 'hỏi tại quầy'. Thời gian đi thuyền chưa có nguồn chính thức (Tuổi Trẻ 2017 ghi khoảng 1 giờ 30 phút nhưng chưa đọc trực tiếp, không dùng). Tên hành chính mới của khu vực (sau 7/2025) chưa xác minh: dùng 'Gia Viễn (cũ)'. Phí gửi xe, giờ mở cửa: không có nguồn. Không ghi hotline. Số liệu voọc/chim là năm 2021.",
+    "outline": [
+      "Vân Long ở đâu, cách Hà Nội bao xa",
+      "Vé 2026 và mức cũ trên các trang cẩm nang",
+      "Đi thuyền: ngắm voọc mông trắng, chim nước, núi đá",
+      "Mùa nào đẹp, giờ nào dễ thấy voọc",
+      "Đi xe máy trong ngày: đường, gửi xe, ghép điểm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00282.json",
+  "draft_template": {
+    "id": "TM-00282",
+    "url": "/du-lich/dam-van-long/",
+    "title": "Đầm Vân Long Ninh Bình: vé 100.000đ, đi thuyền ngắm voọc, chim",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đầm vân long ninh bình, vé đầm vân long 2026, đi thuyền vân long bao lâu, voọc mông trắng vân long, vân long cách hà nội bao xa, vân long đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vân Long ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Vé 2026 và mức cũ trên các trang cẩm nang",
+        "<p></p>"
+      ],
+      [
+        "Đi thuyền: ngắm voọc mông trắng, chim nước, núi đá",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đẹp, giờ nào dễ thấy voọc",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy trong ngày: đường, gửi xe, ghép điểm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), trang 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026', cập nhật 27/02/2026 (đọc 13/10/2026): Khu du lịch Vân Long, vé tham quan: người lớn 100.000 vnđ/người; trẻ em 50.000 vnđ/người.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/the-gioi-chim-thu-o-dam-van-long-4308752.html",
+        "quote": "VnExpress, 'Thế giới chim thú ở đầm Vân Long', 16/7/2021 (đọc 13/10/2026): khu bảo tồn thiên nhiên đất ngập nước ở huyện Gia Viễn, cách TP Ninh Bình khoảng 17 km, cách Hà Nội khoảng 80 km; diện tích trên 3.000 ha, lớn nhất đồng bằng Bắc Bộ; 102 loài chim được ghi nhận; hơn 200 cá thể voọc quần đùi trắng (voọc mông trắng); vé thắng cảnh 20.000 đồng/người và vé đò 60.000 đồng/đò chở 2 người; trên tuyến thuyền có núi Mèo Cào, Mâm Xôi, Hòm Sách và các hang Cá, Bóng, Rùa, Chanh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ninh-binh-4127327.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Ninh Bình 2025 từ A-Z', cập nhật 17/10/2025 (đọc 13/10/2026): Vân Long được gọi là 'vịnh không sóng'; nước trong; giữ 2 kỷ lục năm 2010 của Trung tâm sách kỷ lục Việt Nam: nơi có số lượng cá thể voọc mông trắng nhiều nhất và nơi có bức tranh tự nhiên lớn nhất; vé tham quan 20.000 đồng/người và vé thuyền 60.000/2 người (mức cũ).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://trangandanhthang.vn/gia-ve-tham-quan-cac-khu-diem-du-lich/",
+        "quote": "Ban Quản lý Quần thể danh thắng Tràng An, trang trangandanhthang.vn 'Giá vé tham quan các khu, điểm du lịch' (trang không ghi ngày, đọc 13/10/2026): Khu du lịch Vân Long: người lớn 100.000 vnđ/người, trẻ em 50.000 vnđ/người (khớp bảng của Sở Du lịch).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15, toàn văn đăng trên Cổng hành chính công Nghệ An (đọc 13/10/2026): Điều 25 khoản 3: '... xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc.'",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00282"
+  }
+}

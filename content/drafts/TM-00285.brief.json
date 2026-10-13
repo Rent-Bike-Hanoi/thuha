@@ -1,0 +1,154 @@
+{
+  "writer": "writer-w8b",
+  "queued": "2026-10-13T14:29:11.263860+00:00",
+  "topic": {
+    "topic_id": "TM-00285",
+    "url": "/du-lich/kenh-ga/",
+    "title": "Suối khoáng nóng Kênh Gà: giá vé 2026, đi thuyền vào làng nổi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "suối khoáng nóng kênh gà",
+    "secondary_keywords": [
+      "kênh gà ninh bình giá vé",
+      "minawa kênh gà giá vé 2026",
+      "làng nổi kênh gà",
+      "kênh gà đi xe máy",
+      "tắm khoáng nóng gần hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi tắm khoáng nóng mùa lạnh cần biết Kênh Gà ở đâu, vé 2026 ngày thường, cuối tuần bao nhiêu và vì sao phải đi thuyền vào làng.",
+    "information_gain": "Site chưa có bài về Kênh Gà; /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ không nhắc. Bài mới thêm: giá combo 2026 của khu nghỉ dưỡng suối khoáng Kênh Gà theo bảng Sở Du lịch (350.000đ ngày thường, 400.000đ cuối tuần, 500.000đ ngày lễ; gồm vé vào cửa, một lần tắm khoáng, bể bơi, xông hơi; miễn phí trẻ dưới 5 tuổi); làng nổi được sông Hoàng Long bao quanh nên phải ngồi thuyền vào; nước khoáng từ lòng núi Hang Cả, ổn định khoảng 53°C; địa chỉ thôn Kênh Gà, xã Gia Viễn; gợi ý ghép với Vân Long, Bái Đính.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), trang 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026', cập nhật 27/02/2026 (đọc 13/10/2026): Khu nghỉ dưỡng nước khoáng nóng Kênh Gà – Minawa Kenh Ga Resort and Spa: vé combo cơ bản gồm vé vào cửa, 01 lần tắm khoáng, bể bơi, xông hơi, tham quan nội khu, nguồn khoáng; người lớn, trẻ em trên 5 tuổi: trong tuần 350.000 vnđ/khách, cuối tuần 400.000 vnđ/khách, lễ 500.000 vnđ/khách; miễn phí trẻ dưới 5 tuổi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3392",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Minawa Kênh Gà Resort & Spa – Chốn nghỉ dưỡng suối khoáng giữa miền sông nước Ninh Bình', cập nhật 28/10/2025 (đọc 13/10/2026): nằm tại thôn Kênh Gà, xã Gia Viễn, tỉnh Ninh Bình; tên Kênh Gà do trên núi có hòn đá hình gà trống; bao bọc bởi sông Hoàng Long, muốn vào khu nghỉ dưỡng phải ngồi thuyền qua sông; nguồn khoáng từ lòng núi Hang Cả, nhiệt độ ổn định khoảng 53°C; có bồn thảo dược, tắm bùn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2876",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, cập nhật 18/12/2024 (đọc 13/10/2026): Khu nghỉ dưỡng suối khoáng nóng Kênh Gà thuộc làng nổi Kênh Gà; nằm trong top 5 điểm đến có nguồn nước khoáng nóng lộ thiên đẹp nhất Việt Nam; để vào khu nghỉ dưỡng phải di chuyển bằng thuyền qua sông Hoàng Long; mùa nước cạn sông uốn khúc, mùa nước nổi thành vùng đầm rộng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2535",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Du lịch nghỉ dưỡng suối khoáng nóng Kênh Gà – Ninh Bình', cập nhật 29/11/2023 (đọc 13/10/2026): nước khoáng có hàm lượng muối khoáng cao, trong, không mùi, nhiệt độ ổn định 53°C; có thể kết hợp tham quan đầm Vân Long, Tràng An, chùa Bái Đính.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 210,
+        "checked": "2026-10-13",
+        "keyword": "suối khoáng nóng kênh gà"
+      }
+    ],
+    "notes": "Chưa có nguồn: giá thuyền qua sông Hoàng Long (có thể đã gồm trong combo hay không), bến thuyền xuất phát, giờ mở cửa, phí gửi xe máy, khoảng cách từ Hà Nội, giá tham quan động Vân Trình: không ghi số. Giá trên các trang bán vé (eholiday, xeduykhang...) khác bảng Sở và không dùng. Minawa là doanh nghiệp tư nhân: viết trung lập, không hàm ý cửa hàng liên kết. Cảnh báo sức khỏe khi tắm nước 53°C chỉ ở mức chung (không đưa lời khuyên y tế).",
+    "outline": [
+      "Kênh Gà ở đâu, vì sao phải đi thuyền vào",
+      "Giá combo 2026: ngày thường, cuối tuần, lễ",
+      "Nguồn khoáng 53°C và các dịch vụ trong khu",
+      "Ghép Kênh Gà với Vân Long hoặc Bái Đính",
+      "Đi xe máy mùa lạnh: giữ ấm, về trước khi tối"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-khi-co-suong-mu-troi-nom-o-ha-noi/",
+      "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00285.json",
+  "draft_template": {
+    "id": "TM-00285",
+    "url": "/du-lich/kenh-ga/",
+    "title": "Suối khoáng nóng Kênh Gà: giá vé 2026, đi thuyền vào làng nổi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "suối khoáng nóng kênh gà, kênh gà ninh bình giá vé, minawa kênh gà giá vé 2026, làng nổi kênh gà, kênh gà đi xe máy, tắm khoáng nóng gần hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Kênh Gà ở đâu, vì sao phải đi thuyền vào",
+        "<p></p>"
+      ],
+      [
+        "Giá combo 2026: ngày thường, cuối tuần, lễ",
+        "<p></p>"
+      ],
+      [
+        "Nguồn khoáng 53°C và các dịch vụ trong khu",
+        "<p></p>"
+      ],
+      [
+        "Ghép Kênh Gà với Vân Long hoặc Bái Đính",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy mùa lạnh: giữ ấm, về trước khi tối",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/cat/0502",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình (Sở Du lịch Ninh Bình), trang 'Bảng giá vé các khu, điểm du lịch tỉnh Ninh Bình năm 2026', cập nhật 27/02/2026 (đọc 13/10/2026): Khu nghỉ dưỡng nước khoáng nóng Kênh Gà – Minawa Kenh Ga Resort and Spa: vé combo cơ bản gồm vé vào cửa, 01 lần tắm khoáng, bể bơi, xông hơi, tham quan nội khu, nguồn khoáng; người lớn, trẻ em trên 5 tuổi: trong tuần 350.000 vnđ/khách, cuối tuần 400.000 vnđ/khách, lễ 500.000 vnđ/khách; miễn phí trẻ dưới 5 tuổi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3392",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Minawa Kênh Gà Resort & Spa – Chốn nghỉ dưỡng suối khoáng giữa miền sông nước Ninh Bình', cập nhật 28/10/2025 (đọc 13/10/2026): nằm tại thôn Kênh Gà, xã Gia Viễn, tỉnh Ninh Bình; tên Kênh Gà do trên núi có hòn đá hình gà trống; bao bọc bởi sông Hoàng Long, muốn vào khu nghỉ dưỡng phải ngồi thuyền qua sông; nguồn khoáng từ lòng núi Hang Cả, nhiệt độ ổn định khoảng 53°C; có bồn thảo dược, tắm bùn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2876",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, cập nhật 18/12/2024 (đọc 13/10/2026): Khu nghỉ dưỡng suối khoáng nóng Kênh Gà thuộc làng nổi Kênh Gà; nằm trong top 5 điểm đến có nguồn nước khoáng nóng lộ thiên đẹp nhất Việt Nam; để vào khu nghỉ dưỡng phải di chuyển bằng thuyền qua sông Hoàng Long; mùa nước cạn sông uốn khúc, mùa nước nổi thành vùng đầm rộng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2535",
+        "quote": "Trung tâm Thông tin xúc tiến du lịch Ninh Bình, 'Du lịch nghỉ dưỡng suối khoáng nóng Kênh Gà – Ninh Bình', cập nhật 29/11/2023 (đọc 13/10/2026): nước khoáng có hàm lượng muối khoáng cao, trong, không mùi, nhiệt độ ổn định 53°C; có thể kết hợp tham quan đầm Vân Long, Tràng An, chùa Bái Đính.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00285"
+  }
+}
