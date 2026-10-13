@@ -1,0 +1,215 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:17:50.876871+00:00",
+  "topic": {
+    "topic_id": "TM-00128",
+    "url": "/bao-duong/ma-phanh-xe-may-bao-lau-thay/",
+    "title": "Má phanh xe máy bao lâu thay? Dấu hiệu mòn cần thay",
+    "hub": "bao-duong",
+    "subtopic": "lop-phanh-nhot-ac-quy",
+    "primary_keyword": "má phanh xe máy bao lâu thay",
+    "secondary_keywords": [
+      "thay má phanh xe máy bao nhiêu tiền",
+      "má phanh xe ga mòn",
+      "guốc phanh xe số bao lâu thay",
+      "dấu chỉ thị mòn má phanh",
+      "phanh cbs mòn má phanh sau"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe ga hoặc xe số muốn biết bao nhiêu km thì phải thay má (guốc) phanh, tự xem độ mòn ở đâu trên từng loại phanh, và giá má phanh chính hãng khoảng bao nhiêu.",
+    "information_gain": "Phải dẫn và khác với /bao-duong/phanh-xe-may-keu-phanh-khong-an/: bài đó chẩn đoán tiếng kêu, phanh không ăn và trích dấu chỉ thị mòn của Air Blade. Bài này trả lời câu hỏi chu kỳ: Honda không đặt km thay cố định mà yêu cầu kiểm tra má phanh mỗi 4.000 km (xe bảo hành 2 năm) hoặc 6.000 km (xe bảo hành 3 năm), lịch Honda kiểm tra độ mòn guốc/má phanh ở mọi lần định kỳ từ lần 2; Yamaha ghi mốc thay 15.000–20.000 km; cách xem độ mòn trên phanh tang trống cả hai bánh (Wave Alpha) và phanh đĩa (Lead xem từ phía dưới ngàm), hành trình tự do tay/bàn đạp; vì sao xe CBS dùng phanh trái phân lực cho cả hai bánh; giá đề xuất bộ má phanh 78.000 đồng, má phanh dầu 117.000 đồng chưa VAT. Khác /bao-duong/dau-phanh-xe-may-bao-lau-thay/: bài đó về dầu phanh (chất lỏng trong phanh đĩa, thay theo thời gian); bài này về má phanh (bộ phận ma sát mòn theo km) và vạch báo mòn.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/phu-tung/phu-tung-detail?id_pt=14",
+        "quote": "Honda Việt Nam, trang phụ tùng Bộ má phanh (đọc 13/10/2026): “Giá từ: 78.000 VNĐ”; “Honda khuyến cáo cần kiểm tra má phanh mỗi 4000km với xe bảo hành 2 năm hoặc mỗi 6000km với xe bảo hành 3 năm để đảm bảo xe được vận hành an toàn.” Giá chưa bao gồm VAT.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/phu-tung/phu-tung-detail?id_pt=13",
+        "quote": "Honda Việt Nam, trang phụ tùng Bộ má phanh dầu (đọc 13/10/2026): giá từ 117.000 VNĐ (chưa VAT); cùng khuyến cáo kiểm tra má phanh mỗi 4000 km với xe bảo hành 2 năm hoặc mỗi 6000 km với xe bảo hành 3 năm; hệ thống phanh để tình trạng xấu lâu có thể lây hư hỏng sang bộ phận liên quan, trường hợp xấu gây tai nạn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (đọc 13/10/2026): kiểm tra má phanh trước: xem dấu chỉ thị mòn má phanh, “Cần thay thế má phanh nếu má phanh bị mòn tới dấu chỉ thị”, kiểm tra má phanh từ phía dưới ngàm phanh, nên để Cửa hàng Honda ủy nhiệm thay, “Luôn thay cả má phanh bên trái và bên phải cùng lúc”. Phanh sau có vạch chỉ thị mòn: khi nhấn hết phanh mà dấu chỉ trên cần phanh trùng dấu tham chiếu trên bát phanh thì phải thay guốc phanh mới.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave Alpha (đọc 13/10/2026): “Phanh trước và sau có dấu chỉ thị độ mòn” (phanh guốc cả hai bánh); hành trình tự do ở đầu tay phanh trước 10 - 20 mm, ở đầu bàn đạp phanh sau 20 - 30 mm; lịch bảo dưỡng có mục Mòn guốc phanh được kiểm tra ở các mốc định kỳ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/bao-duong-dinh-ky",
+        "quote": "Honda Việt Nam, trang Bảo dưỡng định kỳ xe máy, ảnh “Lịch kiểm tra định kỳ từ 350cc trở xuống” (đọc 13/10/2026; ký hiệu V: vệ sinh, K: kiểm tra, T: thay thế, B: bôi trơn; cột là lần kiểm tra định kỳ 1–7, ảnh không ghi km): dòng 23 Độ mòn guốc/má phanh (trước & sau): K ở các lần 2, 3, 4, 5, 6, 7; dòng 24 Hệ thống phanh: K ở cả 7 lần.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, hỏi đáp “Hệ thống phanh/thắng kết hợp (CBS) có đặc điểm gì nổi bật?” (cập nhật 20/09/2021, đọc 13/10/2026): phanh tay phải chỉ tác động bánh trước bằng phanh đĩa; phanh tay trái có CBS phân bổ lực phanh cho cả bánh trước và bánh sau; Honda khuyến cáo dùng đồng thời cả cần phanh trái và phải một cách hợp lý.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/bao-duong-xe-may-dinh-ky-va-nhung-luu-y-quan-trong/",
+        "quote": "Yamaha Motor Việt Nam, bài “Bảo dưỡng xe máy gồm những gì? Mốc thời gian cần kiểm tra?” (đăng 01/06/2025, đọc 13/10/2026): mục 2.2 “Thay dầu phanh và má phanh: Sau 15.000 – 20.000 km”; má phanh mòn dần theo thời gian, mòn cũng là nguyên nhân gây cong vênh đĩa phanh, không thay kịp có thể phải thay cả đĩa.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "má phanh xe máy bao lâu thay"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: Honda kiểm tra mỗi 4.000–6.000 km, Yamaha thay ở 15.000–20.000 km",
+      "Phanh đĩa: xem dấu chỉ thị mòn má phanh ở đâu",
+      "Phanh tang trống: dấu chỉ thị trên cần phanh và hành trình tự do",
+      "Vì sao má phanh sau của xe CBS mòn nhanh hơn",
+      "Giá má phanh chính hãng và thay một bên hay cả cặp",
+      "Khi nào phải thay ngay, không chờ đến mốc"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/phanh-xe-may-keu-phanh-khong-an/",
+      "/kinh-nghiem/cach-phanh-xe-may-an-toan/",
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.546
+        }
+      },
+      {
+        "url": "/bao-duong/lop-xe-may-bao-lau-thay/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.403
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00128.json",
+  "draft_template": {
+    "id": "TM-00128",
+    "url": "/bao-duong/ma-phanh-xe-may-bao-lau-thay/",
+    "title": "Má phanh xe máy bao lâu thay? Dấu hiệu mòn cần thay",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "má phanh xe máy bao lâu thay, thay má phanh xe máy bao nhiêu tiền, má phanh xe ga mòn, guốc phanh xe số bao lâu thay, dấu chỉ thị mòn má phanh, phanh cbs mòn má phanh sau",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Honda kiểm tra mỗi 4.000–6.000 km, Yamaha thay ở 15.000–20.000 km",
+        "<p></p>"
+      ],
+      [
+        "Phanh đĩa: xem dấu chỉ thị mòn má phanh ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Phanh tang trống: dấu chỉ thị trên cần phanh và hành trình tự do",
+        "<p></p>"
+      ],
+      [
+        "Vì sao má phanh sau của xe CBS mòn nhanh hơn",
+        "<p></p>"
+      ],
+      [
+        "Giá má phanh chính hãng và thay một bên hay cả cặp",
+        "<p></p>"
+      ],
+      [
+        "Khi nào phải thay ngay, không chờ đến mốc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/phu-tung/phu-tung-detail?id_pt=14",
+        "quote": "Honda Việt Nam, trang phụ tùng Bộ má phanh (đọc 13/10/2026): “Giá từ: 78.000 VNĐ”; “Honda khuyến cáo cần kiểm tra má phanh mỗi 4000km với xe bảo hành 2 năm hoặc mỗi 6000km với xe bảo hành 3 năm để đảm bảo xe được vận hành an toàn.” Giá chưa bao gồm VAT.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/phu-tung/phu-tung-detail?id_pt=13",
+        "quote": "Honda Việt Nam, trang phụ tùng Bộ má phanh dầu (đọc 13/10/2026): giá từ 117.000 VNĐ (chưa VAT); cùng khuyến cáo kiểm tra má phanh mỗi 4000 km với xe bảo hành 2 năm hoặc mỗi 6000 km với xe bảo hành 3 năm; hệ thống phanh để tình trạng xấu lâu có thể lây hư hỏng sang bộ phận liên quan, trường hợp xấu gây tai nạn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (đọc 13/10/2026): kiểm tra má phanh trước: xem dấu chỉ thị mòn má phanh, “Cần thay thế má phanh nếu má phanh bị mòn tới dấu chỉ thị”, kiểm tra má phanh từ phía dưới ngàm phanh, nên để Cửa hàng Honda ủy nhiệm thay, “Luôn thay cả má phanh bên trái và bên phải cùng lúc”. Phanh sau có vạch chỉ thị mòn: khi nhấn hết phanh mà dấu chỉ trên cần phanh trùng dấu tham chiếu trên bát phanh thì phải thay guốc phanh mới.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave Alpha (đọc 13/10/2026): “Phanh trước và sau có dấu chỉ thị độ mòn” (phanh guốc cả hai bánh); hành trình tự do ở đầu tay phanh trước 10 - 20 mm, ở đầu bàn đạp phanh sau 20 - 30 mm; lịch bảo dưỡng có mục Mòn guốc phanh được kiểm tra ở các mốc định kỳ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/bao-duong-dinh-ky",
+        "quote": "Honda Việt Nam, trang Bảo dưỡng định kỳ xe máy, ảnh “Lịch kiểm tra định kỳ từ 350cc trở xuống” (đọc 13/10/2026; ký hiệu V: vệ sinh, K: kiểm tra, T: thay thế, B: bôi trơn; cột là lần kiểm tra định kỳ 1–7, ảnh không ghi km): dòng 23 Độ mòn guốc/má phanh (trước & sau): K ở các lần 2, 3, 4, 5, 6, 7; dòng 24 Hệ thống phanh: K ở cả 7 lần.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, hỏi đáp “Hệ thống phanh/thắng kết hợp (CBS) có đặc điểm gì nổi bật?” (cập nhật 20/09/2021, đọc 13/10/2026): phanh tay phải chỉ tác động bánh trước bằng phanh đĩa; phanh tay trái có CBS phân bổ lực phanh cho cả bánh trước và bánh sau; Honda khuyến cáo dùng đồng thời cả cần phanh trái và phải một cách hợp lý.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/bao-duong-xe-may-dinh-ky-va-nhung-luu-y-quan-trong/",
+        "quote": "Yamaha Motor Việt Nam, bài “Bảo dưỡng xe máy gồm những gì? Mốc thời gian cần kiểm tra?” (đăng 01/06/2025, đọc 13/10/2026): mục 2.2 “Thay dầu phanh và má phanh: Sau 15.000 – 20.000 km”; má phanh mòn dần theo thời gian, mòn cũng là nguyên nhân gây cong vênh đĩa phanh, không thay kịp có thể phải thay cả đĩa.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00128"
+  }
+}

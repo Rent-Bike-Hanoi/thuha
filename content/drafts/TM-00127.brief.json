@@ -1,0 +1,220 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:17:50.795615+00:00",
+  "topic": {
+    "topic_id": "TM-00127",
+    "url": "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
+    "title": "Dầu phanh xe máy bao lâu thay? Dùng loại DOT nào",
+    "hub": "bao-duong",
+    "subtopic": "lop-phanh-nhot-ac-quy",
+    "primary_keyword": "dầu phanh xe máy",
+    "secondary_keywords": [
+      "dầu phanh xe máy bao lâu thay",
+      "dầu phanh dot 3 hay dot 4",
+      "kiểm tra dầu phanh xe máy",
+      "dầu phanh bị đen",
+      "giá dầu phanh honda"
+    ],
+    "intent": "informational",
+    "user_problem": "Chủ xe ga, xe có phanh đĩa thấy tay phanh mềm hoặc được thợ khuyên thay dầu phanh, muốn biết bao lâu thay một lần, xe nào mới có dầu phanh, dùng DOT 3 hay DOT 4 và tự kiểm tra mức dầu ra sao.",
+    "information_gain": "Gần nhất là /bao-duong/phanh-xe-may-keu-phanh-khong-an/ (bài chẩn đoán tiếng kêu, chỉ nhắc dầu phanh DOT và mốc 2 năm trong một bước) và /bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/ (dầu phanh là một dòng trong bảng). Bài này chuyên về dầu phanh: xe nào có dầu phanh (phanh đĩa thủy lực) và xe nào không (Wave Alpha phanh tang trống cả hai bánh, lịch không có mục dầu phanh); mốc Honda 2 năm thay, kiểm tra mỗi 6.000 km và lời khuyên trang hóa chất Honda kiểm tra mỗi 4.000 km, thay nếu dầu chuyển vàng sậm; mốc 20.000–25.000 km của Yamaha; DOT 3 hoặc DOT 4 theo sổ Honda; không đổ lẫn hai loại; dầu bẩn là dấu hiệu piston rỉ, cao su lão hóa; chai 200 ml giá đề xuất 61.000 đồng chưa VAT.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026): Lịch bảo dưỡng trang 80, mục Dầu phanh *4 kiểm tra ở các mốc 6, 12, 18, 24, 30, 36 nghìn km và kiểm tra hằng năm, thay định kỳ 2 năm (*4: việc thay mới đòi hỏi kỹ năng sửa chữa). Trang 86: “Không tự đổ thêm hoặc thay thế dầu phanh, ngoại trừ trường hợp khẩn cấp. Chỉ sử dụng dầu phanh sạch đựng trong bình kín.” Dầu phanh có thể phá hủy bề mặt sơn và nhựa. Dầu phanh khuyên dùng: Honda DOT 3 hoặc DOT 4 hoặc loại tương đương. Kiểm tra: hộp dầu nằm ngang, mức dầu trên vạch DƯỚI (LOWER); nếu thấp hơn vạch hoặc hành trình tự do tay phanh vượt tiêu chuẩn thì kiểm tra má phanh, má không mòn thì có khả năng rò rỉ dầu phanh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026): kiểm tra dầu phanh: dựng xe thẳng đứng trên mặt phẳng, kiểm tra hộp dầu phanh trước nằm ngang và mức dầu ở trên vạch LOWER hoặc LWR. Thông số: Dầu phanh khuyên dùng Honda DOT 3 hoặc DOT 4.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/phu-tung/hoa-chat-detail?id_pt=1",
+        "quote": "Honda Việt Nam, trang hóa chất Dầu phanh (đọc 13/10/2026): “Dầu phanh được thay thế sau khi sử dụng 2 năm. Ngoài ra 4000 km cần kiểm tra và thay thế nếu dầu biến thành màu vàng sậm.” Dung tích 200 ml, giá bán lẻ 61.000 VNĐ (chưa bao gồm VAT).",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=d%E1%BA%A7u+phanh",
+        "quote": "Honda Việt Nam, hỏi đáp “Dầu phanh bẩn xe có ảnh hưởng gì không?” (cập nhật 21/09/2021, đọc 13/10/2026): “Dầu phanh bẩn là dấu hiệu của các bộ phận hệ thống phanh đã xuống cấp: piston han rỉ hoặc cao su lão hóa, v.v. Vì vậy cần phải thay dầu phanh và kiểm tra bảo dưỡng phanh.”",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave Alpha (đọc 13/10/2026): Lịch bảo dưỡng trang 39–40 có mục Mòn guốc phanh, Hệ thống phanh, Công tắc đèn phanh nhưng không có mục dầu phanh; trang 63: “Phanh trước và sau có dấu chỉ thị độ mòn” (phanh guốc, chỉnh bằng ốc điều chỉnh và hành trình tự do: tay phanh trước 10–20 mm, bàn đạp phanh sau 20–30 mm).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/thay-dau-phanh-thang-xe-may-dinh-ky/",
+        "quote": "Yamaha Motor Việt Nam, bài “Khi nào cần thay dầu phanh (thắng) xe máy định kỳ?” (đăng 26/04/2023, đọc 13/10/2026): dầu phanh hút ẩm, ngậm nước làm biến chất, bóp phanh không còn cảm giác như trước, có thể dẫn đến mất phanh; theo khuyến cáo của Yamaha nên thay sau khoảng 20.000–25.000 km; các loại DOT 2, DOT 3, DOT 4, DOT 5, LHM+, mỗi hệ thống phanh phù hợp một loại, thường ghi ký hiệu trên khay chứa dầu; không bổ sung dầu cũ mà thay mới, không đổ lẫn hai loại dầu phanh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "dầu phanh xe máy"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: 2 năm theo Honda, 20.000–25.000 km theo Yamaha",
+      "Xe nào có dầu phanh, xe nào không",
+      "Tự kiểm tra mức dầu và màu dầu phanh",
+      "DOT 3 hay DOT 4: đọc ký hiệu trên nắp hộp dầu",
+      "Những điều không nên làm: châm thêm, đổ lẫn, tự xả gió",
+      "Giá dầu phanh chính hãng và khi nào ra tiệm ngay"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/phanh-xe-may-keu-phanh-khong-an/",
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/kinh-nghiem/cach-phanh-xe-may-an-toan/",
+      "/bao-duong/rua-xe-may-tai-nha-dung-cach/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/bao-duong/phanh-xe-may-keu-phanh-khong-an/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      },
+      {
+        "url": "/bao-duong/ma-phanh-xe-may-bao-lau-thay/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.546
+        }
+      },
+      {
+        "url": "/bao-duong/bugi-xe-may-bao-lau-thay/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.414
+        }
+      },
+      {
+        "url": "/bao-duong/lop-xe-may-bao-lau-thay/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.429
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/bao-duong/phanh-xe-may-keu-phanh-khong-an/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00127.json",
+  "draft_template": {
+    "id": "TM-00127",
+    "url": "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
+    "title": "Dầu phanh xe máy bao lâu thay? Dùng loại DOT nào",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "dầu phanh xe máy, dầu phanh xe máy bao lâu thay, dầu phanh dot 3 hay dot 4, kiểm tra dầu phanh xe máy, dầu phanh bị đen, giá dầu phanh honda",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: 2 năm theo Honda, 20.000–25.000 km theo Yamaha",
+        "<p></p>"
+      ],
+      [
+        "Xe nào có dầu phanh, xe nào không",
+        "<p></p>"
+      ],
+      [
+        "Tự kiểm tra mức dầu và màu dầu phanh",
+        "<p></p>"
+      ],
+      [
+        "DOT 3 hay DOT 4: đọc ký hiệu trên nắp hộp dầu",
+        "<p></p>"
+      ],
+      [
+        "Những điều không nên làm: châm thêm, đổ lẫn, tự xả gió",
+        "<p></p>"
+      ],
+      [
+        "Giá dầu phanh chính hãng và khi nào ra tiệm ngay",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026): Lịch bảo dưỡng trang 80, mục Dầu phanh *4 kiểm tra ở các mốc 6, 12, 18, 24, 30, 36 nghìn km và kiểm tra hằng năm, thay định kỳ 2 năm (*4: việc thay mới đòi hỏi kỹ năng sửa chữa). Trang 86: “Không tự đổ thêm hoặc thay thế dầu phanh, ngoại trừ trường hợp khẩn cấp. Chỉ sử dụng dầu phanh sạch đựng trong bình kín.” Dầu phanh có thể phá hủy bề mặt sơn và nhựa. Dầu phanh khuyên dùng: Honda DOT 3 hoặc DOT 4 hoặc loại tương đương. Kiểm tra: hộp dầu nằm ngang, mức dầu trên vạch DƯỚI (LOWER); nếu thấp hơn vạch hoặc hành trình tự do tay phanh vượt tiêu chuẩn thì kiểm tra má phanh, má không mòn thì có khả năng rò rỉ dầu phanh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng LEAD 125 (bản đăng 11/2025, đọc 13/10/2026): kiểm tra dầu phanh: dựng xe thẳng đứng trên mặt phẳng, kiểm tra hộp dầu phanh trước nằm ngang và mức dầu ở trên vạch LOWER hoặc LWR. Thông số: Dầu phanh khuyên dùng Honda DOT 3 hoặc DOT 4.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/phu-tung/hoa-chat-detail?id_pt=1",
+        "quote": "Honda Việt Nam, trang hóa chất Dầu phanh (đọc 13/10/2026): “Dầu phanh được thay thế sau khi sử dụng 2 năm. Ngoài ra 4000 km cần kiểm tra và thay thế nếu dầu biến thành màu vàng sậm.” Dung tích 200 ml, giá bán lẻ 61.000 VNĐ (chưa bao gồm VAT).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=d%E1%BA%A7u+phanh",
+        "quote": "Honda Việt Nam, hỏi đáp “Dầu phanh bẩn xe có ảnh hưởng gì không?” (cập nhật 21/09/2021, đọc 13/10/2026): “Dầu phanh bẩn là dấu hiệu của các bộ phận hệ thống phanh đã xuống cấp: piston han rỉ hoặc cao su lão hóa, v.v. Vì vậy cần phải thay dầu phanh và kiểm tra bảo dưỡng phanh.”",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave Alpha (đọc 13/10/2026): Lịch bảo dưỡng trang 39–40 có mục Mòn guốc phanh, Hệ thống phanh, Công tắc đèn phanh nhưng không có mục dầu phanh; trang 63: “Phanh trước và sau có dấu chỉ thị độ mòn” (phanh guốc, chỉnh bằng ốc điều chỉnh và hành trình tự do: tay phanh trước 10–20 mm, bàn đạp phanh sau 20–30 mm).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/thay-dau-phanh-thang-xe-may-dinh-ky/",
+        "quote": "Yamaha Motor Việt Nam, bài “Khi nào cần thay dầu phanh (thắng) xe máy định kỳ?” (đăng 26/04/2023, đọc 13/10/2026): dầu phanh hút ẩm, ngậm nước làm biến chất, bóp phanh không còn cảm giác như trước, có thể dẫn đến mất phanh; theo khuyến cáo của Yamaha nên thay sau khoảng 20.000–25.000 km; các loại DOT 2, DOT 3, DOT 4, DOT 5, LHM+, mỗi hệ thống phanh phù hợp một loại, thường ghi ký hiệu trên khay chứa dầu; không bổ sung dầu cũ mà thay mới, không đổ lẫn hai loại dầu phanh.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00127"
+  }
+}

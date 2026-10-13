@@ -1,0 +1,171 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-13T08:17:50.175031+00:00",
+  "topic": {
+    "topic_id": "TM-00120",
+    "url": "/xe-may/honda-super-cub-c125/",
+    "title": "Honda Super Cub C125: giá, thông số, xe số 4 cấp hợp với ai",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "honda super cub c125",
+    "secondary_keywords": [
+      "super cub c125 giá bao nhiêu",
+      "super cub 125 có côn không",
+      "super cub c125 hao xăng",
+      "super cub c125 màu mới 2026",
+      "super cub c125 chở được bao nhiêu kg"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích xe số kiểu cổ điển muốn biết Super Cub C125 chính hãng giá gần 90 triệu có gì, đi có phải bóp côn không, hao xăng và chở được bao nhiêu.",
+    "information_gain": "Site chưa có bài về Super Cub C125; gần nhất là /xe-may/chon-xe-so-hay-xe-ga/ và /kinh-nghiem/cach-di-xe-so/ (nói chung về xe số) và /xe-may/yamaha-sirius-hay-honda-wave-alpha/ (xe số phổ thông). Bài này thêm dữ liệu Honda cho bản Super Cub mới bán từ 12/9/2026: Euro 4, giảm tới 32% khí thải, 2 màu mới Xám đen và Bạc trắng, giá 87.372.000–88.353.818 đ (thuế 8%) và 88.990.000–89.990.000 đ (10%), thông số 123,9 cm³, 6,87 kW, 1,55 l/100 km, 109 kg, yên 780 mm, bình 3,7 lít; từ sách hướng dẫn: hộp số 4 cấp số vòng khi dừng, RON 91 cho kiểu Việt Nam, trọng tải tối đa 150 kg, áp suất lốp sau 280 kPa khi chở hai người, lịch bôi trơn xích.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-super-cub-moi-sac-mau-thoi-thuong-va-dong-co-dat-tieu-chuan-khi-thai-euro-4-bieu-tuong-cua-di-san-huyen-thoai-khi-chat-thoi-dai",
+        "quote": "Honda Việt Nam, thông cáo “Honda Việt Nam giới thiệu Super Cub mới…” (Hà Nội, 5/9/2026; đọc 13/10/2026): Super Cub mới thêm hai màu Xám đen và Bạc trắng bên cạnh Đen nhám; động cơ 125cc PGM-FI đạt Euro 4, giảm tới 32% lượng khí thải so với bản trước; đèn LED toàn phần và đèn trước luôn sáng AHO; đồng hồ tròn viền chrome với màn hình LCD (nhiên liệu, quãng đường, thời gian); phanh đĩa thủy lực trước, vành nhôm đúc 17-inch, lốp không săm; yên đệm Urethane; Smart Key 3 chức năng (cảnh báo chống trộm, xác định vị trí, khởi động hệ thống điện). Phân phối tại HEAD từ 12/9/2026. Giá bán lẻ đề xuất (8% / 10% thuế GTGT): Đặc biệt – Đen: 88.353.818 / 89.990.000; Tiêu chuẩn – Xám đen, Bạc trắng: 87.372.000 / 88.990.000 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/san-pham/super-cub-c125",
+        "quote": "Honda Việt Nam, trang sản phẩm Super Cub C125 (đọc 13/10/2026): 2 phiên bản Đặc Biệt (88.353.818 VNĐ) và Tiêu Chuẩn (87.372.000 VNĐ theo trang So sánh). Thông số: khối lượng bản thân 109 kg; 1.910 x 718 x 1.002 mm; trục bánh xe 1.243 mm; độ cao yên 780 mm; khoảng sáng gầm 136 mm; bình xăng 3,7 lít; lốp trước 70/90-17, sau 80/90-17; phuộc sau lò xo trụ đôi; 4 kỳ 1 xy-lanh làm mát bằng không khí; 6,87 kW/7.500 vòng/phút; 10,15 Nm/5.000 vòng/phút; 123,9 cm³; tỷ số nén 10:1; mức tiêu thụ 1,55 l/100 km; truyền động cơ khí; khởi động điện; dầu máy 0,80 L sau khi xả, 0,85 L khi thay lọc dầu, 1,00 L khi rã máy. “Lịch sử đời xe” 2019, 2022, 2025, 2026.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2026/chghOdG0U2acVrAenJCL.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng Super Cub (C125; PDF tải từ trang sản phẩm; đọc 13/10/2026): mã kiểu V, II V là Việt Nam; kiểu V/II V dùng xăng RON 91 hoặc cao hơn (kiểu IN dùng RON 90), ethanol không quá 10%; bình 3,7 L. Hộp số có bốn số tiến; khi dừng xe có thể sang thẳng từ số 4 về N (4 số vòng), khi xe đang chạy dùng hệ thống trả số; sách cảnh báo không để chân trên cần số vì có thể hỏng cơ cấu sang số và ly hợp. Áp suất lốp nguội: chỉ người lái trước 200 kPa, sau 225 kPa; người lái và người ngồi sau trước 200 kPa, sau 280 kPa; hành trình tự do xích tải 25–35 mm. Khối lượng trọng tải tối đa (kiểu V, II V) 150 kg, gồm người lái, người ngồi sau, toàn bộ hành lý và phụ kiện; khối lượng bản thân kiểu V 109 kg; chở người lái và 1 người ngồi sau; bán kính quay tối thiểu 2,0 m. Hộp đựng đồ dưới yên mở bằng nút khi FOB trong phạm vi (sách không ghi dung tích).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/tin-tuc/xe-may/honda-viet-nam-dieu-chinh-gia-ban-le-de-xuat-mot-so-mau-xe-may-2026",
+        "quote": "Honda Việt Nam, bảng giá áp dụng từ 1/7/2026 (thông báo 01/07/2026; đọc 13/10/2026), đời Super Cub trước bản 9/2026: Tiêu chuẩn 88.090.000 (thuế 10%) / 86.488.363 (thuế 8%); Đặc biệt 89.090.000 / 87.470.182 VNĐ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/images/xe-may/bao-duong-dinh-ky/Lich_bao_duong_Xe_tu_350cc_tro_xuong.jpg",
+        "quote": "Honda Việt Nam, bảng “Lịch kiểm tra định kỳ từ 350cc trở xuống” trên trang Bảo dưỡng định kỳ (đọc 13/10/2026): 7 lần kiểm tra định kỳ; dầu động cơ thay ở cả 7 lần; bộ lọc dầu động cơ thay ở lần 1 và lần 5 với ghi chú áp dụng cho “SH300, SH350, Super Cup, Rebel 300”; xích tải kiểm tra và bôi trơn ở mỗi lần, khuyến nghị kiểm tra và bôi trơn sau mỗi 500 km; dầu phanh thay sau mỗi 2 năm. Bảng chung đăng trên trang Chính sách bảo hành (bao-duong-dinh-ki-350cc-tro-xuong.jpg) ghi 7 mốc kiểm tra 1, 6, 12, 18, 24, 30, 36 nghìn km, xích tải loại có phớt kiểm tra và bôi trơn mỗi 1.000 km, loại thường mỗi 500 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 1000,
+        "checked": "2026-10-13",
+        "keyword": "honda super cub c125"
+      }
+    ],
+    "outline": [
+      "Super Cub C125 bản 9/2026: màu mới, Euro 4 và giá",
+      "Thông số chính: 123,9 cm³, 109 kg, yên 780 mm, bình 3,7 lít",
+      "Hộp số 4 cấp số vòng: đi khác xe số thường thế nào",
+      "Tiêu hao 1,55 l/100 km, xăng RON 91, trọng tải 150 kg",
+      "Bảo dưỡng: thay dầu, lọc dầu, bôi trơn xích",
+      "Super Cub C125 hợp với ai"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/chon-xe-so-hay-xe-ga/",
+      "/kinh-nghiem/cach-di-xe-so/",
+      "/xe-may/yamaha-sirius-hay-honda-wave-alpha/",
+      "/bao-duong/xe-may/thay-nhot/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00120.json",
+  "draft_template": {
+    "id": "TM-00120",
+    "url": "/xe-may/honda-super-cub-c125/",
+    "title": "Honda Super Cub C125: giá, thông số, xe số 4 cấp hợp với ai",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "honda super cub c125, super cub c125 giá bao nhiêu, super cub 125 có côn không, super cub c125 hao xăng, super cub c125 màu mới 2026, super cub c125 chở được bao nhiêu kg",
+    "excerpt": "",
+    "sections": [
+      [
+        "Super Cub C125 bản 9/2026: màu mới, Euro 4 và giá",
+        "<p></p>"
+      ],
+      [
+        "Thông số chính: 123,9 cm³, 109 kg, yên 780 mm, bình 3,7 lít",
+        "<p></p>"
+      ],
+      [
+        "Hộp số 4 cấp số vòng: đi khác xe số thường thế nào",
+        "<p></p>"
+      ],
+      [
+        "Tiêu hao 1,55 l/100 km, xăng RON 91, trọng tải 150 kg",
+        "<p></p>"
+      ],
+      [
+        "Bảo dưỡng: thay dầu, lọc dầu, bôi trơn xích",
+        "<p></p>"
+      ],
+      [
+        "Super Cub C125 hợp với ai",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-super-cub-moi-sac-mau-thoi-thuong-va-dong-co-dat-tieu-chuan-khi-thai-euro-4-bieu-tuong-cua-di-san-huyen-thoai-khi-chat-thoi-dai",
+        "quote": "Honda Việt Nam, thông cáo “Honda Việt Nam giới thiệu Super Cub mới…” (Hà Nội, 5/9/2026; đọc 13/10/2026): Super Cub mới thêm hai màu Xám đen và Bạc trắng bên cạnh Đen nhám; động cơ 125cc PGM-FI đạt Euro 4, giảm tới 32% lượng khí thải so với bản trước; đèn LED toàn phần và đèn trước luôn sáng AHO; đồng hồ tròn viền chrome với màn hình LCD (nhiên liệu, quãng đường, thời gian); phanh đĩa thủy lực trước, vành nhôm đúc 17-inch, lốp không săm; yên đệm Urethane; Smart Key 3 chức năng (cảnh báo chống trộm, xác định vị trí, khởi động hệ thống điện). Phân phối tại HEAD từ 12/9/2026. Giá bán lẻ đề xuất (8% / 10% thuế GTGT): Đặc biệt – Đen: 88.353.818 / 89.990.000; Tiêu chuẩn – Xám đen, Bạc trắng: 87.372.000 / 88.990.000 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/san-pham/super-cub-c125",
+        "quote": "Honda Việt Nam, trang sản phẩm Super Cub C125 (đọc 13/10/2026): 2 phiên bản Đặc Biệt (88.353.818 VNĐ) và Tiêu Chuẩn (87.372.000 VNĐ theo trang So sánh). Thông số: khối lượng bản thân 109 kg; 1.910 x 718 x 1.002 mm; trục bánh xe 1.243 mm; độ cao yên 780 mm; khoảng sáng gầm 136 mm; bình xăng 3,7 lít; lốp trước 70/90-17, sau 80/90-17; phuộc sau lò xo trụ đôi; 4 kỳ 1 xy-lanh làm mát bằng không khí; 6,87 kW/7.500 vòng/phút; 10,15 Nm/5.000 vòng/phút; 123,9 cm³; tỷ số nén 10:1; mức tiêu thụ 1,55 l/100 km; truyền động cơ khí; khởi động điện; dầu máy 0,80 L sau khi xả, 0,85 L khi thay lọc dầu, 1,00 L khi rã máy. “Lịch sử đời xe” 2019, 2022, 2025, 2026.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2026/chghOdG0U2acVrAenJCL.pdf",
+        "quote": "Honda, Hướng dẫn sử dụng Super Cub (C125; PDF tải từ trang sản phẩm; đọc 13/10/2026): mã kiểu V, II V là Việt Nam; kiểu V/II V dùng xăng RON 91 hoặc cao hơn (kiểu IN dùng RON 90), ethanol không quá 10%; bình 3,7 L. Hộp số có bốn số tiến; khi dừng xe có thể sang thẳng từ số 4 về N (4 số vòng), khi xe đang chạy dùng hệ thống trả số; sách cảnh báo không để chân trên cần số vì có thể hỏng cơ cấu sang số và ly hợp. Áp suất lốp nguội: chỉ người lái trước 200 kPa, sau 225 kPa; người lái và người ngồi sau trước 200 kPa, sau 280 kPa; hành trình tự do xích tải 25–35 mm. Khối lượng trọng tải tối đa (kiểu V, II V) 150 kg, gồm người lái, người ngồi sau, toàn bộ hành lý và phụ kiện; khối lượng bản thân kiểu V 109 kg; chở người lái và 1 người ngồi sau; bán kính quay tối thiểu 2,0 m. Hộp đựng đồ dưới yên mở bằng nút khi FOB trong phạm vi (sách không ghi dung tích).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/tin-tuc/xe-may/honda-viet-nam-dieu-chinh-gia-ban-le-de-xuat-mot-so-mau-xe-may-2026",
+        "quote": "Honda Việt Nam, bảng giá áp dụng từ 1/7/2026 (thông báo 01/07/2026; đọc 13/10/2026), đời Super Cub trước bản 9/2026: Tiêu chuẩn 88.090.000 (thuế 10%) / 86.488.363 (thuế 8%); Đặc biệt 89.090.000 / 87.470.182 VNĐ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/images/xe-may/bao-duong-dinh-ky/Lich_bao_duong_Xe_tu_350cc_tro_xuong.jpg",
+        "quote": "Honda Việt Nam, bảng “Lịch kiểm tra định kỳ từ 350cc trở xuống” trên trang Bảo dưỡng định kỳ (đọc 13/10/2026): 7 lần kiểm tra định kỳ; dầu động cơ thay ở cả 7 lần; bộ lọc dầu động cơ thay ở lần 1 và lần 5 với ghi chú áp dụng cho “SH300, SH350, Super Cup, Rebel 300”; xích tải kiểm tra và bôi trơn ở mỗi lần, khuyến nghị kiểm tra và bôi trơn sau mỗi 500 km; dầu phanh thay sau mỗi 2 năm. Bảng chung đăng trên trang Chính sách bảo hành (bao-duong-dinh-ki-350cc-tro-xuong.jpg) ghi 7 mốc kiểm tra 1, 6, 12, 18, 24, 30, 36 nghìn km, xích tải loại có phớt kiểm tra và bôi trơn mỗi 1.000 km, loại thường mỗi 500 km.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00120"
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:17:52.529663+00:00",
+  "topic": {
+    "topic_id": "TM-00147",
+    "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+    "title": "Hà Nội đi Lạng Sơn bằng xe máy: quốc lộ 1, lên Mẫu Sơn",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "hà nội đi lạng sơn",
+    "secondary_keywords": [
+      "hà nội đi lạng sơn bằng xe máy",
+      "hà nội lạng sơn bao nhiêu km",
+      "đường lên mẫu sơn",
+      "mẫu sơn có tuyết không",
+      "cao tốc bắc giang lạng sơn xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thuê xe ở Long Biên (gần Bến xe Gia Lâm) muốn đi Lạng Sơn và lên Mẫu Sơn bằng xe máy: quãng đường bao xa, đi quốc lộ 1 thế nào khi không được vào cao tốc Bắc Giang – Lạng Sơn, đường lên Mẫu Sơn dài bao nhiêu, mùa băng giá có an toàn không.",
+    "information_gain": "Site chưa có bài về Lạng Sơn. Gần nhất là /du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/ (cũng tuyến dài phía Bắc nhưng khác hướng), /kinh-nghiem/di-xe-may-duong-deo/ (kỹ năng đèo chung) và /du-lich/ha-noi/ben-xe-gia-lam/ (xe khách). Bài này thêm: Lạng Sơn không sáp nhập (một trong 11 tỉnh, thành giữ nguyên – NQ 202/2025/QH15); cấu trúc tuyến: QL1 Hà Nội – Bắc Giang dài khoảng 46 km khai thác hỗn hợp ô tô, xe máy, còn cao tốc Bắc Giang – Lạng Sơn dài 64 km đi song song với QL1 được nâng cấp 110 km — xe máy phải đi QL1; tổng chuyến xe máy hơn 200 km; Mẫu Sơn cách TP Lạng Sơn khoảng 30–31 km theo QL4B, đường đèo 15 km lên đỉnh, đỉnh Phja Pò 1.541 m; băng giá tháng 1/2024 (-2°C, mặt đường trơn phải dắt xe); phố đi bộ Kỳ Lừa 18h–24h thứ Sáu, thứ Bảy. Khác /kinh-nghiem/lai-xe-o-ha-noi/: bài đó chuẩn bị chung khi đi xe trong nội đô; bài này là tuyến quốc lộ 1 lên Lạng Sơn và Mẫu Sơn, không đi cao tốc.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/nghi-quyet-ve-viec-sap-xep-don-vi-hanh-chinh-cap-tinh-10375832.html",
+        "quote": "Đại biểu Nhân dân (12/06/2025): theo Nghị quyết 202/2025/QH15, Lạng Sơn thuộc nhóm '11 tỉnh, thành phố không thực hiện sắp xếp' (Điều 1 khoản 24); Bắc Giang và Bắc Ninh hợp thành tỉnh Bắc Ninh; chính quyền mới hoạt động từ 01/07/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/cuc-canh-sat-giao-thong-khan-truong-tach-lan-o-to-va-xe-may-tren-duong-ha-noi-bac-giang-2025092109555263.htm",
+        "quote": "Tuổi Trẻ (Hồng Quang, 21/09/2025): tuyến Hà Nội – Bắc Ninh – Bắc Giang dài khoảng 46 km 'khai thác hỗn hợp xe máy và ô tô, không đảm bảo tiêu chuẩn cao tốc'; biển tốc độ 90, 70, 50 km/h theo làn đoạn cầu Phù Đổng – cầu Như Nguyệt; Cục CSGT đề nghị nghiên cứu tách làn ô tô và xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cao-toc-bac-giang-lang-son-thong-xe-3989081.html",
+        "quote": "VnExpress (Đoàn Loan, 29/9/2019): dự án gồm cao tốc Bắc Giang – TP Lạng Sơn dài 64 km (điểm đầu km 45+100 giao QL1 tại xã Mai Sao, huyện Chi Lăng cũ; điểm cuối nối QL1 đoạn Hà Nội – Bắc Giang) và nâng cấp 110 km QL1 qua Bắc Giang, tổng vốn 12.189 tỷ đồng; thời gian Hà Nội – Lạng Sơn rút từ 3,5 giờ (theo QL1) xuống 2,5 giờ. Bài không nói về xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Lạng Sơn 2023' (Tâm Anh, 13/10/2023): Hà Nội – Lạng Sơn khoảng 160 km, ô tô dưới 3 tiếng vì phần lớn đi cao tốc; Mẫu Sơn 'cách thành phố Lạng Sơn 30 km về phía đông bắc, theo quốc lộ 4B', độ cao 1.200–1.541 m, mùa đông 'thường xuất hiện tuyết rơi'; ải Chi Lăng dài 20 km giữa Chi Lăng và Hữu Lũng; phố đi bộ Kỳ Lừa mở thứ Sáu, thứ Bảy 'từ 18h đến 24h'. Bài không nói về xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/phuot-xe-may-hon-200-km-len-dinh-mau-son-san-bang-4704757.html",
+        "quote": "VnExpress, 'Phượt xe máy hơn 200 km lên đỉnh Mẫu Sơn săn băng' (Quỳnh Mai, 25/1/2024): một người đi xe máy rời Hà Nội 15h ngày 23/1, tới TP Lạng Sơn 19h; từ TP đến chân núi khoảng 20 phút; đường từ chân núi lên đỉnh khoảng 15 km, quanh co, hẹp, dễ ùn khi xe lên xuống cùng lúc; băng xuất hiện từ tối 22/1, dày 3–5 cm, sáng 24/1 khoảng -2°C; có đoạn băng mỏng trơn phải dắt xe; dưới 5°C tay chân tê cóng, chỉ hợp người có kinh nghiệm đi xa; nên mặc ấm, mặc áo mưa chắn gió.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://mauson.langson.gov.vn/gioi-thieu/thong-tin-chung",
+        "quote": "UBND xã Mẫu Sơn, tỉnh Lạng Sơn, trang 'Thông tin chung' (đọc 13/10/2026, không ghi ngày đăng): xã hình thành sau sáp nhập, diện tích tự nhiên 13.713,27 ha; đỉnh cao nhất Núi Cha (Phja Pò) 1.541 m; nhiệt độ trung bình 21–22°C, độ ẩm 83–85%; khu du lịch cách TP Lạng Sơn 31 km về phía đông; tiếp giáp quốc lộ 4B; xã biên giới với đường biên 16,325 km; điểm tham quan: suối Long Đầu, Khu Linh Địa Cổ Mẫu Sơn (1.190 m), hơn 30 biệt thự thời Pháp trên đỉnh, thác Bản Khiếng, thác Bièng Khút.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Cổng Hành chính công Nghệ An, toàn văn Luật TTATGTĐB số 36/2024/QH15 (đăng 09/09/2024): Điều 25 khoản 3 — 'Xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc'.",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 50,
+        "checked": "2026-10-13",
+        "keyword": "hà nội đi lạng sơn"
+      }
+    ],
+    "outline": [
+      "Hà Nội đi Lạng Sơn bao nhiêu km bằng xe máy, mất bao lâu",
+      "Lộ trình: QL1 Hà Nội – Bắc Giang, rồi QL1 song song cao tốc Bắc Giang – Lạng Sơn",
+      "Vì sao xe máy không vào cao tốc và lưu ý đoạn khai thác hỗn hợp",
+      "Từ TP Lạng Sơn lên Mẫu Sơn: QL4B, 15 km đường đèo",
+      "Mùa băng giá: khi nào có, đi thế nào an toàn",
+      "Điểm dừng khác: ải Chi Lăng, phố đi bộ Kỳ Lừa",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/du-lich/ha-noi/ben-xe-gia-lam/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.449
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.449
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/kinh-nghiem/lai-xe-o-ha-noi/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00147.json",
+  "draft_template": {
+    "id": "TM-00147",
+    "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+    "title": "Hà Nội đi Lạng Sơn bằng xe máy: quốc lộ 1, lên Mẫu Sơn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hà nội đi lạng sơn, hà nội đi lạng sơn bằng xe máy, hà nội lạng sơn bao nhiêu km, đường lên mẫu sơn, mẫu sơn có tuyết không, cao tốc bắc giang lạng sơn xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hà Nội đi Lạng Sơn bao nhiêu km bằng xe máy, mất bao lâu",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình: QL1 Hà Nội – Bắc Giang, rồi QL1 song song cao tốc Bắc Giang – Lạng Sơn",
+        "<p></p>"
+      ],
+      [
+        "Vì sao xe máy không vào cao tốc và lưu ý đoạn khai thác hỗn hợp",
+        "<p></p>"
+      ],
+      [
+        "Từ TP Lạng Sơn lên Mẫu Sơn: QL4B, 15 km đường đèo",
+        "<p></p>"
+      ],
+      [
+        "Mùa băng giá: khi nào có, đi thế nào an toàn",
+        "<p></p>"
+      ],
+      [
+        "Điểm dừng khác: ải Chi Lăng, phố đi bộ Kỳ Lừa",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/nghi-quyet-ve-viec-sap-xep-don-vi-hanh-chinh-cap-tinh-10375832.html",
+        "quote": "Đại biểu Nhân dân (12/06/2025): theo Nghị quyết 202/2025/QH15, Lạng Sơn thuộc nhóm '11 tỉnh, thành phố không thực hiện sắp xếp' (Điều 1 khoản 24); Bắc Giang và Bắc Ninh hợp thành tỉnh Bắc Ninh; chính quyền mới hoạt động từ 01/07/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/cuc-canh-sat-giao-thong-khan-truong-tach-lan-o-to-va-xe-may-tren-duong-ha-noi-bac-giang-2025092109555263.htm",
+        "quote": "Tuổi Trẻ (Hồng Quang, 21/09/2025): tuyến Hà Nội – Bắc Ninh – Bắc Giang dài khoảng 46 km 'khai thác hỗn hợp xe máy và ô tô, không đảm bảo tiêu chuẩn cao tốc'; biển tốc độ 90, 70, 50 km/h theo làn đoạn cầu Phù Đổng – cầu Như Nguyệt; Cục CSGT đề nghị nghiên cứu tách làn ô tô và xe máy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cao-toc-bac-giang-lang-son-thong-xe-3989081.html",
+        "quote": "VnExpress (Đoàn Loan, 29/9/2019): dự án gồm cao tốc Bắc Giang – TP Lạng Sơn dài 64 km (điểm đầu km 45+100 giao QL1 tại xã Mai Sao, huyện Chi Lăng cũ; điểm cuối nối QL1 đoạn Hà Nội – Bắc Giang) và nâng cấp 110 km QL1 qua Bắc Giang, tổng vốn 12.189 tỷ đồng; thời gian Hà Nội – Lạng Sơn rút từ 3,5 giờ (theo QL1) xuống 2,5 giờ. Bài không nói về xe máy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Lạng Sơn 2023' (Tâm Anh, 13/10/2023): Hà Nội – Lạng Sơn khoảng 160 km, ô tô dưới 3 tiếng vì phần lớn đi cao tốc; Mẫu Sơn 'cách thành phố Lạng Sơn 30 km về phía đông bắc, theo quốc lộ 4B', độ cao 1.200–1.541 m, mùa đông 'thường xuất hiện tuyết rơi'; ải Chi Lăng dài 20 km giữa Chi Lăng và Hữu Lũng; phố đi bộ Kỳ Lừa mở thứ Sáu, thứ Bảy 'từ 18h đến 24h'. Bài không nói về xe máy.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/phuot-xe-may-hon-200-km-len-dinh-mau-son-san-bang-4704757.html",
+        "quote": "VnExpress, 'Phượt xe máy hơn 200 km lên đỉnh Mẫu Sơn săn băng' (Quỳnh Mai, 25/1/2024): một người đi xe máy rời Hà Nội 15h ngày 23/1, tới TP Lạng Sơn 19h; từ TP đến chân núi khoảng 20 phút; đường từ chân núi lên đỉnh khoảng 15 km, quanh co, hẹp, dễ ùn khi xe lên xuống cùng lúc; băng xuất hiện từ tối 22/1, dày 3–5 cm, sáng 24/1 khoảng -2°C; có đoạn băng mỏng trơn phải dắt xe; dưới 5°C tay chân tê cóng, chỉ hợp người có kinh nghiệm đi xa; nên mặc ấm, mặc áo mưa chắn gió.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://mauson.langson.gov.vn/gioi-thieu/thong-tin-chung",
+        "quote": "UBND xã Mẫu Sơn, tỉnh Lạng Sơn, trang 'Thông tin chung' (đọc 13/10/2026, không ghi ngày đăng): xã hình thành sau sáp nhập, diện tích tự nhiên 13.713,27 ha; đỉnh cao nhất Núi Cha (Phja Pò) 1.541 m; nhiệt độ trung bình 21–22°C, độ ẩm 83–85%; khu du lịch cách TP Lạng Sơn 31 km về phía đông; tiếp giáp quốc lộ 4B; xã biên giới với đường biên 16,325 km; điểm tham quan: suối Long Đầu, Khu Linh Địa Cổ Mẫu Sơn (1.190 m), hơn 30 biệt thự thời Pháp trên đỉnh, thác Bản Khiếng, thác Bièng Khút.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Cổng Hành chính công Nghệ An, toàn văn Luật TTATGTĐB số 36/2024/QH15 (đăng 09/09/2024): Điều 25 khoản 3 — 'Xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00147"
+  }
+}

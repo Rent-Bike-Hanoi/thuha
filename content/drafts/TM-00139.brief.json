@@ -1,0 +1,150 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:17:51.807440+00:00",
+  "topic": {
+    "topic_id": "TM-00139",
+    "url": "/du-lich/lang-bac-gio-mo-cua/",
+    "title": "Lăng Bác giờ mở cửa: lịch viếng, đợt tu bổ 2026 và quy định",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "lăng bác giờ mở cửa",
+    "secondary_keywords": [
+      "lịch viếng lăng bác 2026",
+      "lăng bác đóng cửa tu bổ",
+      "lăng bác mở cửa thứ mấy",
+      "giờ viếng lăng mùa lạnh",
+      "quảng trường ba đình giờ mở cửa"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe muốn viếng Lăng Chủ tịch Hồ Chí Minh cần biết hôm nay Lăng có mở không (đợt tu bổ 4/9–2/11/2026), viếng ngày nào trong tuần, khung giờ mùa nóng/mùa lạnh, có mất phí không và nên mặc gì.",
+    "information_gain": "Site chưa có bài về Lăng Bác. Gần nhất là /du-lich/ha-noi/ (hub chung), /du-lich/ha-noi/pho-co/ và /kinh-nghiem/lai-xe-o-ha-noi/, đều không có lịch viếng. Bài này thêm: thông báo tu bổ định kỳ từ 4/9 đến 2/11/2026 và mở lại 3/11/2026 (Công văn 1909/CV-BTL ngày 23/4/2026); lịch viếng sáng thứ Ba, Tư, Năm, Bảy, Chủ nhật, nghỉ thứ Hai và thứ Sáu trừ 19/5, 2/9, mùng 1 Tết; khung giờ mùa nóng (1/4–31/10) và mùa lạnh (1/11–31/3), riêng thứ Bảy mùa lạnh đến 11h30; viếng miễn phí; quảng trường Ba Đình mở 6h–22h, lễ thượng cờ 6h và hạ cờ 21h. Cảnh báo cho khách thuê xe: Lăng mở 7h30–8h, cửa hàng mở 08:00.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tu-bo-dinh-ky-lang-chu-tich-ho-chi-minh-tu-49-den-211-post1133954.vnp",
+        "quote": "VietnamPlus/TTXVN, 'Tu bổ định kỳ Lăng Chủ tịch Hồ Chí Minh từ 4/9 đến 2/11' (03/09/2026): theo Công văn số 1909/CV-BTL ngày 23/4/2026 của Bộ Tư lệnh Lăng Chủ tịch Hồ Chí Minh, công trình Lăng 'sẽ được tiến hành tu bổ định kỳ từ ngày 4/9/2026 đến ngày 2/11/2026'; Lăng mở cửa trở lại phục vụ nhân dân và khách quốc tế từ ngày 3/11/2026. Bài không nói về Phủ Chủ tịch, nhà sàn hay quảng trường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/tam-dung-to-chuc-vao-lang-vieng-chu-tich-ho-chi-minh-tu-ngay-4-9-de-tu-bo-dinh-ky-100260809174846229.htm",
+        "quote": "Tuổi Trẻ, 'Tạm dừng tổ chức vào lăng viếng Chủ tịch Hồ Chí Minh từ ngày 4-9 để tu bổ định kỳ' (Nam Trần, 09/08/2026): tạm dừng đón nhân dân, khách quốc tế từ 4-9 đến 2-11-2026, mở lại từ 3-11-2026. Lịch thường: viếng buổi sáng thứ Ba, Tư, Năm, Bảy, Chủ nhật; 'Thứ hai và thứ sáu không tổ chức lễ viếng'. Mùa nóng (1-4 đến 31-10): 7h30–10h30, thứ Bảy, Chủ nhật, ngày lễ 7h30–11h. Mùa lạnh (1-11 đến 31-3): 8h–11h, Chủ nhật và ngày lễ 8h–11h, thứ Bảy 8h–11h30. Các ngày 19-5, 2-9, mùng 1 Tết Nguyên đán vẫn tổ chức viếng nếu trùng thứ Hai hoặc thứ Sáu. Bài không nêu trang phục, gửi đồ, gửi xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/5-dia-diem-lich-su-tai-ha-noi-khong-the-bo-lo-trong-dip-le-304-20260422145839728.htm",
+        "quote": "Dân trí, '5 địa điểm lịch sử tại Hà Nội không thể bỏ lỡ trong dịp lễ 30/4' (29/04/2026): Lăng Chủ tịch Hồ Chí Minh, '2 Hùng Vương, Ba Đình, Hà Nội', 'không thu phí vào viếng'; mùa hè (1/4–31/10) thứ Ba–thứ Năm 7h30–10h30, cuối tuần, ngày lễ 7h30–11h; mùa đông cuối tuần, ngày lễ 8h–11h30; quảng trường Ba Đình mở '6h-22h hằng ngày'; lễ chào cờ 6h và hạ cờ 21h hằng ngày; khách nên mặc 'trang phục lịch sự khi vào lăng'. Bài không nêu gửi xe.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 590,
+        "checked": "2026-10-13",
+        "keyword": "lăng bác giờ mở cửa"
+      }
+    ],
+    "outline": [
+      "Lăng Bác có mở cửa không: đợt tu bổ 4/9–2/11/2026",
+      "Lịch viếng trong tuần và ngày lễ đặc biệt",
+      "Giờ viếng mùa nóng và mùa lạnh",
+      "Quảng trường Ba Đình: giờ mở, lễ thượng cờ, hạ cờ",
+      "Trang phục và những điều chưa có công bố chính thức",
+      "Đi xe máy từ Long Biên: lưu ý giờ sáng sớm",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/",
+      "/kinh-nghiem/lai-xe-o-ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00139.json",
+  "draft_template": {
+    "id": "TM-00139",
+    "url": "/du-lich/lang-bac-gio-mo-cua/",
+    "title": "Lăng Bác giờ mở cửa: lịch viếng, đợt tu bổ 2026 và quy định",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "lăng bác giờ mở cửa, lịch viếng lăng bác 2026, lăng bác đóng cửa tu bổ, lăng bác mở cửa thứ mấy, giờ viếng lăng mùa lạnh, quảng trường ba đình giờ mở cửa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Lăng Bác có mở cửa không: đợt tu bổ 4/9–2/11/2026",
+        "<p></p>"
+      ],
+      [
+        "Lịch viếng trong tuần và ngày lễ đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Giờ viếng mùa nóng và mùa lạnh",
+        "<p></p>"
+      ],
+      [
+        "Quảng trường Ba Đình: giờ mở, lễ thượng cờ, hạ cờ",
+        "<p></p>"
+      ],
+      [
+        "Trang phục và những điều chưa có công bố chính thức",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên: lưu ý giờ sáng sớm",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tu-bo-dinh-ky-lang-chu-tich-ho-chi-minh-tu-49-den-211-post1133954.vnp",
+        "quote": "VietnamPlus/TTXVN, 'Tu bổ định kỳ Lăng Chủ tịch Hồ Chí Minh từ 4/9 đến 2/11' (03/09/2026): theo Công văn số 1909/CV-BTL ngày 23/4/2026 của Bộ Tư lệnh Lăng Chủ tịch Hồ Chí Minh, công trình Lăng 'sẽ được tiến hành tu bổ định kỳ từ ngày 4/9/2026 đến ngày 2/11/2026'; Lăng mở cửa trở lại phục vụ nhân dân và khách quốc tế từ ngày 3/11/2026. Bài không nói về Phủ Chủ tịch, nhà sàn hay quảng trường.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/tam-dung-to-chuc-vao-lang-vieng-chu-tich-ho-chi-minh-tu-ngay-4-9-de-tu-bo-dinh-ky-100260809174846229.htm",
+        "quote": "Tuổi Trẻ, 'Tạm dừng tổ chức vào lăng viếng Chủ tịch Hồ Chí Minh từ ngày 4-9 để tu bổ định kỳ' (Nam Trần, 09/08/2026): tạm dừng đón nhân dân, khách quốc tế từ 4-9 đến 2-11-2026, mở lại từ 3-11-2026. Lịch thường: viếng buổi sáng thứ Ba, Tư, Năm, Bảy, Chủ nhật; 'Thứ hai và thứ sáu không tổ chức lễ viếng'. Mùa nóng (1-4 đến 31-10): 7h30–10h30, thứ Bảy, Chủ nhật, ngày lễ 7h30–11h. Mùa lạnh (1-11 đến 31-3): 8h–11h, Chủ nhật và ngày lễ 8h–11h, thứ Bảy 8h–11h30. Các ngày 19-5, 2-9, mùng 1 Tết Nguyên đán vẫn tổ chức viếng nếu trùng thứ Hai hoặc thứ Sáu. Bài không nêu trang phục, gửi đồ, gửi xe.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/5-dia-diem-lich-su-tai-ha-noi-khong-the-bo-lo-trong-dip-le-304-20260422145839728.htm",
+        "quote": "Dân trí, '5 địa điểm lịch sử tại Hà Nội không thể bỏ lỡ trong dịp lễ 30/4' (29/04/2026): Lăng Chủ tịch Hồ Chí Minh, '2 Hùng Vương, Ba Đình, Hà Nội', 'không thu phí vào viếng'; mùa hè (1/4–31/10) thứ Ba–thứ Năm 7h30–10h30, cuối tuần, ngày lễ 7h30–11h; mùa đông cuối tuần, ngày lễ 8h–11h30; quảng trường Ba Đình mở '6h-22h hằng ngày'; lễ chào cờ 6h và hạ cờ 21h hằng ngày; khách nên mặc 'trang phục lịch sự khi vào lăng'. Bài không nêu gửi xe.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00139"
+  }
+}

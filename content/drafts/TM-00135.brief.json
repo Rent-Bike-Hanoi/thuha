@@ -1,0 +1,183 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:17:51.466369+00:00",
+  "topic": {
+    "topic_id": "TM-00135",
+    "url": "/bao-duong/cong-tac-chan-chong-ben/",
+    "title": "Công tắc chân chống bên: vì sao xe không nổ khi hạ chân chống",
+    "hub": "bao-duong",
+    "subtopic": "su-co-thuong-gap",
+    "primary_keyword": "chân chống xe máy không nổ",
+    "secondary_keywords": [
+      "công tắc chân chống xe ga",
+      "hạ chân chống xe tắt máy",
+      "cảm biến chân chống bị lỗi",
+      "xe ga không đề được do chân chống",
+      "chân chống nghiêng xe máy"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe ga (nhất là người mới, khách thuê xe) bấm đề không ăn hoặc xe tắt máy khi hạ chân chống, muốn hiểu cơ chế ngắt máy bằng chân chống nghiêng, xe nào có, và cách nhận biết công tắc bị bẩn, hỏng.",
+    "information_gain": "Gần nhất là /bao-duong/xe-may/khong-de-duoc/ (chỉ một mục nhắc gạt chân chống lên rồi đề lại) và /bao-duong/xe-may-bi-chet-may-giua-duong/. Bài này đi sâu vào hệ thống: theo Honda mọi mẫu xe ga hiện nay đều có công tắc chân chống bên, hạ chân chống là ngắt máy ngay; xe ga Honda còn yêu cầu bóp phanh sau thì mô tơ đề mới chạy; Super Cub C125 bản Việt Nam không trang bị công tắc này, sổ Wave Alpha cũng không mô tả; quy trình tự kiểm tra trong sổ Air Blade (nổ máy, hạ chân chống, máy phải tắt), bôi trơn chốt và kiểm tra lò xo; lịch Honda kiểm tra chân chống và công tắc ở mọi lần bảo dưỡng; Yamaha: bụi bẩn kẹt công tắc, lỗi cảm biến chân chống khiến đèn báo động cơ sáng hoặc nháy và xe ngắt khởi động.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, hỏi đáp “Hiện nay, những mẫu xe nào của Honda Việt Nam có chức năng công tắc chân chống bên?” (cập nhật 20/09/2021, đọc 13/10/2026): “Tất cả các mẫu xe ga hiện nay đều có công tắc chân chống (điện) bên. Công tắc chống bên này được thiết kế khi người sử dụng hạ chân chống xuống, động cơ sẽ được ngắt ngay tức thì. Động cơ chỉ có thể khởi động khi người sử dụng gạt chân chống lên, giúp cho khách hàng tránh trường hợp quên gạt chân chống khi vận hành xe.”",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026): trang 61 “Chiếc xe này được trang bị hệ thống tắt máy bằng chân chống nghiêng”: động cơ không thể khởi động nếu chân chống nghiêng đang hạ; hạ chân chống khi động cơ đang chạy thì động cơ tự tắt; trang 62: mô tơ khởi động chỉ hoạt động khi bóp tay phanh sau và chân chống nghiêng đã gạt lên. Trang 104 Kiểm tra chân chống nghiêng: kiểm tra chân chống hoạt động trơn tru, nếu cứng hoặc kêu cót két thì làm sạch khu vực chốt và bôi trơn bu lông chốt bằng mỡ sạch; kiểm tra lò xo; ngồi lên xe, gạt chân chống lên, khởi động, hạ hết chân chống xuống: “Động cơ sẽ dừng ngay khi hạ chân chống nghiêng. Nếu động cơ không dừng, hãy mang xe đến Cửa hàng Honda ủy nhiệm để kiểm tra.” Lịch bảo dưỡng: Chân chống nghiêng kiểm tra trước khi lái và ở các mốc định kỳ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Vision (đọc 13/10/2026), trang 42–43: “Chiếc xe này được trang bị hệ thống tắt máy bằng chân chống nghiêng”: nếu hạ chân chống nghiêng xuống, động cơ không thể khởi động; hạ khi động cơ đang hoạt động thì động cơ tự động tắt; mô tơ đề chỉ hoạt động khi bóp phanh và chân chống nghiêng được gạt lên.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/bao-duong-dinh-ky",
+        "quote": "Honda Việt Nam, trang Bảo dưỡng định kỳ xe máy, ảnh “Lịch kiểm tra định kỳ từ 350cc trở xuống” (đọc 13/10/2026; ký hiệu V: vệ sinh, K: kiểm tra, T: thay thế, B: bôi trơn; cột là lần kiểm tra định kỳ 1–7, ảnh không ghi km): dòng 31 “Chân chống nghiêng và công tắc nếu có”: K ở cả 7 lần kiểm tra.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, hỏi đáp “Đặc điểm xe Super Cub C125” (cập nhật 23/09/2021, đọc 13/10/2026): “Super Cub C125 phiên bản Việt Nam không trang bị Gác để chân sau, Tem phản quang trắng trên dè trước/dè sau, Công tắc chân chống bên.”",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/nguyen-nhan-va-cach-khac-phuc-xe-may-de-khong-no-hieu-qua/",
+        "quote": "Yamaha Motor Việt Nam, bài “Nguyên nhân và cách khắc phục xe máy đề không nổ hiệu quả” (đăng 14/09/2026, đọc 13/10/2026): ở xe ga hiện đại, nếu cảm biến (như cảm biến chân chống, cảm biến nghiêng) bị lỗi, xe tự ngắt hệ thống khởi động, có thể thấy đèn báo lỗi động cơ nhấp nháy hoặc sáng liên tục; cách xử lý: kiểm tra chân chống nghiêng đã gạt hết lên chưa và vệ sinh khu vực công tắc chân chống vì bụi bẩn thường bám gây kẹt, xem dây điện lộ ra có đứt không, rồi đưa xe đến đại lý quét mã lỗi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "chân chống xe máy không nổ"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: hạ chân chống là xe ga tự ngắt máy",
+      "Xe nào có công tắc chân chống, xe nào không",
+      "Hai điều kiện để đề được: chân chống gạt lên, bóp phanh",
+      "Tự kiểm tra công tắc chân chống theo sổ Honda",
+      "Dấu hiệu công tắc bẩn, kẹt hoặc cảm biến lỗi",
+      "Vì sao không nên bỏ công tắc chân chống"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xe-may/khong-de-duoc/",
+      "/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/",
+      "/bao-duong/xe-may-bi-chet-may-giua-duong/",
+      "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00135.json",
+  "draft_template": {
+    "id": "TM-00135",
+    "url": "/bao-duong/cong-tac-chan-chong-ben/",
+    "title": "Công tắc chân chống bên: vì sao xe không nổ khi hạ chân chống",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chân chống xe máy không nổ, công tắc chân chống xe ga, hạ chân chống xe tắt máy, cảm biến chân chống bị lỗi, xe ga không đề được do chân chống, chân chống nghiêng xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: hạ chân chống là xe ga tự ngắt máy",
+        "<p></p>"
+      ],
+      [
+        "Xe nào có công tắc chân chống, xe nào không",
+        "<p></p>"
+      ],
+      [
+        "Hai điều kiện để đề được: chân chống gạt lên, bóp phanh",
+        "<p></p>"
+      ],
+      [
+        "Tự kiểm tra công tắc chân chống theo sổ Honda",
+        "<p></p>"
+      ],
+      [
+        "Dấu hiệu công tắc bẩn, kẹt hoặc cảm biến lỗi",
+        "<p></p>"
+      ],
+      [
+        "Vì sao không nên bỏ công tắc chân chống",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, hỏi đáp “Hiện nay, những mẫu xe nào của Honda Việt Nam có chức năng công tắc chân chống bên?” (cập nhật 20/09/2021, đọc 13/10/2026): “Tất cả các mẫu xe ga hiện nay đều có công tắc chân chống (điện) bên. Công tắc chống bên này được thiết kế khi người sử dụng hạ chân chống xuống, động cơ sẽ được ngắt ngay tức thì. Động cơ chỉ có thể khởi động khi người sử dụng gạt chân chống lên, giúp cho khách hàng tránh trường hợp quên gạt chân chống khi vận hành xe.”",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026): trang 61 “Chiếc xe này được trang bị hệ thống tắt máy bằng chân chống nghiêng”: động cơ không thể khởi động nếu chân chống nghiêng đang hạ; hạ chân chống khi động cơ đang chạy thì động cơ tự tắt; trang 62: mô tơ khởi động chỉ hoạt động khi bóp tay phanh sau và chân chống nghiêng đã gạt lên. Trang 104 Kiểm tra chân chống nghiêng: kiểm tra chân chống hoạt động trơn tru, nếu cứng hoặc kêu cót két thì làm sạch khu vực chốt và bôi trơn bu lông chốt bằng mỡ sạch; kiểm tra lò xo; ngồi lên xe, gạt chân chống lên, khởi động, hạ hết chân chống xuống: “Động cơ sẽ dừng ngay khi hạ chân chống nghiêng. Nếu động cơ không dừng, hãy mang xe đến Cửa hàng Honda ủy nhiệm để kiểm tra.” Lịch bảo dưỡng: Chân chống nghiêng kiểm tra trước khi lái và ở các mốc định kỳ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Vision (đọc 13/10/2026), trang 42–43: “Chiếc xe này được trang bị hệ thống tắt máy bằng chân chống nghiêng”: nếu hạ chân chống nghiêng xuống, động cơ không thể khởi động; hạ khi động cơ đang hoạt động thì động cơ tự động tắt; mô tơ đề chỉ hoạt động khi bóp phanh và chân chống nghiêng được gạt lên.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/bao-duong-dinh-ky",
+        "quote": "Honda Việt Nam, trang Bảo dưỡng định kỳ xe máy, ảnh “Lịch kiểm tra định kỳ từ 350cc trở xuống” (đọc 13/10/2026; ký hiệu V: vệ sinh, K: kiểm tra, T: thay thế, B: bôi trơn; cột là lần kiểm tra định kỳ 1–7, ảnh không ghi km): dòng 31 “Chân chống nghiêng và công tắc nếu có”: K ở cả 7 lần kiểm tra.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, hỏi đáp “Đặc điểm xe Super Cub C125” (cập nhật 23/09/2021, đọc 13/10/2026): “Super Cub C125 phiên bản Việt Nam không trang bị Gác để chân sau, Tem phản quang trắng trên dè trước/dè sau, Công tắc chân chống bên.”",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/nguyen-nhan-va-cach-khac-phuc-xe-may-de-khong-no-hieu-qua/",
+        "quote": "Yamaha Motor Việt Nam, bài “Nguyên nhân và cách khắc phục xe máy đề không nổ hiệu quả” (đăng 14/09/2026, đọc 13/10/2026): ở xe ga hiện đại, nếu cảm biến (như cảm biến chân chống, cảm biến nghiêng) bị lỗi, xe tự ngắt hệ thống khởi động, có thể thấy đèn báo lỗi động cơ nhấp nháy hoặc sáng liên tục; cách xử lý: kiểm tra chân chống nghiêng đã gạt hết lên chưa và vệ sinh khu vực công tắc chân chống vì bụi bẩn thường bám gây kẹt, xem dây điện lộ ra có đứt không, rồi đưa xe đến đại lý quét mã lỗi.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00135"
+  }
+}

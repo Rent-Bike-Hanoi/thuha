@@ -1,0 +1,230 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-13T08:17:52.247602+00:00",
+  "topic": {
+    "topic_id": "TM-00144",
+    "url": "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+    "title": "Hà Nội đi Bắc Ninh bằng xe máy: chùa Dâu, đền Đô, làng tranh Đông Hồ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hà nội đi bắc ninh",
+    "secondary_keywords": [
+      "hà nội đi bắc ninh bằng xe máy",
+      "chùa dâu bắc ninh",
+      "đền đô từ sơn",
+      "làng tranh đông hồ ở đâu",
+      "quốc lộ 1 hà nội bắc giang xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe ở Long Biên muốn đi Bắc Ninh trong ngày để thăm đền Đô, chùa Dâu, làng tranh Đông Hồ: các điểm này nay thuộc phường nào sau sáp nhập, cách Hà Nội bao xa, xe máy đi đường nào (tuyến QL1 Hà Nội – Bắc Giang có cho xe máy không) và mùa lễ hội khi nào.",
+    "information_gain": "Gần nhất là /du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/ (tổng hợp nhiều điểm, không đi sâu Bắc Ninh) và /du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/ (đi qua hướng Bắc Ninh nhưng đích là Yên Tử); /du-lich/ha-noi/ben-xe-gia-lam/ chỉ nói xe khách. Bài này thêm: Bắc Ninh mới gồm Bắc Giang + Bắc Ninh theo Điều 1 Nghị quyết 202/2025/QH15 (hiệu lực bộ máy 1/7/2025); địa chỉ mới đền Đô (phường Từ Sơn), chùa Dâu (phường Trí Quả); đền Đô cách Hà Nội 18 km, chùa Dâu 32 km; tình trạng tuyến QL1 Hà Nội – Bắc Giang dài khoảng 46 km khai thác hỗn hợp ô tô và xe máy, biển tốc độ 90/70/50 km/h theo làn (Tuổi Trẻ 9/2025); lễ hội đền Đô 14–16/3 âm lịch (năm 2026 là 30/4–2/5); nghề tranh Đông Hồ được UNESCO ghi danh cần bảo vệ khẩn cấp ngày 9/12/2025, chỉ còn 3 hộ làm nghề. Khác /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/: Ninh Bình là hướng nam theo quốc lộ 1; bài này là hướng đông bắc sang Bắc Ninh (chùa Dâu, đền Đô, làng tranh Đông Hồ), chỉ khoảng vài chục km.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/nghi-quyet-ve-viec-sap-xep-don-vi-hanh-chinh-cap-tinh-10375832.html",
+        "quote": "Đại biểu Nhân dân (12/06/2025): Quốc hội thông qua Nghị quyết số 202/2025/QH15 ngày 12/6/2025 về sắp xếp đơn vị hành chính cấp tỉnh; Điều 1 sắp xếp tỉnh Bắc Giang và tỉnh Bắc Ninh 'thành tỉnh mới có tên gọi là Bắc Ninh'; nghị quyết có hiệu lực từ ngày thông qua, chính quyền địa phương mới hoạt động từ 01/07/2025.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/cuc-canh-sat-giao-thong-khan-truong-tach-lan-o-to-va-xe-may-tren-duong-ha-noi-bac-giang-2025092109555263.htm",
+        "quote": "Tuổi Trẻ (Hồng Quang, 21/09/2025): tuyến Hà Nội – Bắc Ninh – Bắc Giang dài khoảng 46 km 'khai thác hỗn hợp xe máy và ô tô, không đảm bảo tiêu chuẩn cao tốc'; Cục CSGT đề nghị nghiên cứu tách làn ô tô và xe máy; đoạn cầu Phù Đổng – cầu Như Nguyệt có biển tốc độ 90, 70, 50 km/h theo làn; lưu lượng khoảng 53.500 xe/ngày đêm; đề xuất cấm xe khách trên 29 chỗ và xe tải trên 7,5 tấn đi làn 1.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-tham-kinh-bac-theo-bac-bling-4860664.html",
+        "quote": "VnExpress, '48 giờ thăm Kinh Bắc theo Bắc Bling' (Tâm Anh, 14/3/2025): đền Đô ở phường Đình Bảng (Từ Sơn cũ), 'cách Hà Nội 18 km'; chùa Dâu ở Thanh Khương, Thuận Thành cũ, khoảng 20 km từ trung tâm Hà Nội; làng tranh Đông Hồ 'cách TP Bắc Ninh 15 đến 20 km', khoảng 30 phút. Bài không nêu giờ mở cửa, vé.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html",
+        "quote": "VnExpress, '5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm' (Tâm Anh tổng hợp, 18/2/2026): chùa Dâu 'nằm ở phường Trí Quả, tỉnh Bắc Ninh', 'cách Hà Nội 32 km', được coi là trung tâm Phật giáo đầu tiên của Việt Nam, nơi khởi nguồn tín ngưỡng Tứ pháp; tháp Hòa Phong cao 17 m bằng gạch nung.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-van-du-khach-tray-hoi-den-do-tri-an-cong-duc-cac-vi-vua-trieu-ly-post959551.html",
+        "quote": "Nhân Dân (An Trân, 01/05/2026): Đền Đô (Lý Bát Đế, Cổ Pháp Điện) ở phường Từ Sơn, tỉnh Bắc Ninh, thờ 8 vị vua triều Lý, xây dựng thế kỷ XI, di tích quốc gia đặc biệt (công nhận 2014); lễ hội năm 2026 'diễn ra từ ngày 30/4-2/5 (tức từ 14-16/3 năm Bính Ngọ)', chính hội 15/3 âm lịch; ngày 29/4/2026 khánh thành giai đoạn 1 tu bổ đền (khởi công 8/2025, hơn 73 tỷ đồng).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/giu-hon-tranh-dong-ho-trong-doi-song-duong-dai-post829289.html",
+        "quote": "Sài Gòn Giải Phóng (Vĩnh Xuân, 18/12/2025): làng Đông Hồ xưa 'nay là khu phố Đông Khê, phường Song Hồ', tỉnh Bắc Ninh; UNESCO ghi danh nghề tranh dân gian Đông Hồ ngày 9-12-2025 (danh sách cần bảo vệ khẩn cấp); 'Đông Hồ hôm nay chỉ còn lại 3 hộ với khoảng 30 người thuộc 4 thế hệ có thể thực hành nghề', trước những năm 1950 khoảng 180 hộ. Bài không có giờ mở cửa, phí tham quan.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Cổng Hành chính công Nghệ An, toàn văn Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (đăng 09/09/2024): Điều 25 khoản 3 — 'Xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc' (trừ phương tiện phục vụ quản lý, bảo trì đường cao tốc).",
+        "verbatim": true,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 70,
+        "checked": "2026-10-13",
+        "keyword": "hà nội đi bắc ninh"
+      }
+    ],
+    "outline": [
+      "Bắc Ninh sau sáp nhập 2025: các điểm nay thuộc phường nào",
+      "Hà Nội đi Bắc Ninh bằng xe máy: tuyến QL1, làn xe máy, không vào cao tốc",
+      "Đền Đô (phường Từ Sơn): xem gì, lễ hội 14–16/3 âm lịch",
+      "Chùa Dâu (phường Trí Quả): ngôi chùa cổ, tháp Hòa Phong",
+      "Làng tranh Đông Hồ: di sản cần bảo vệ khẩn cấp, còn 3 hộ làm nghề",
+      "Gợi ý lịch trình một ngày và lưu ý an toàn",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/",
+      "/thue-xe-may/ha-noi/theo-ngay/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.505
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.466
+        }
+      },
+      {
+        "url": "/kinh-nghiem/lai-xe-o-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.466
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00144.json",
+  "draft_template": {
+    "id": "TM-00144",
+    "url": "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+    "title": "Hà Nội đi Bắc Ninh bằng xe máy: chùa Dâu, đền Đô, làng tranh Đông Hồ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hà nội đi bắc ninh, hà nội đi bắc ninh bằng xe máy, chùa dâu bắc ninh, đền đô từ sơn, làng tranh đông hồ ở đâu, quốc lộ 1 hà nội bắc giang xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bắc Ninh sau sáp nhập 2025: các điểm nay thuộc phường nào",
+        "<p></p>"
+      ],
+      [
+        "Hà Nội đi Bắc Ninh bằng xe máy: tuyến QL1, làn xe máy, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Đền Đô (phường Từ Sơn): xem gì, lễ hội 14–16/3 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Chùa Dâu (phường Trí Quả): ngôi chùa cổ, tháp Hòa Phong",
+        "<p></p>"
+      ],
+      [
+        "Làng tranh Đông Hồ: di sản cần bảo vệ khẩn cấp, còn 3 hộ làm nghề",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý lịch trình một ngày và lưu ý an toàn",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/nghi-quyet-ve-viec-sap-xep-don-vi-hanh-chinh-cap-tinh-10375832.html",
+        "quote": "Đại biểu Nhân dân (12/06/2025): Quốc hội thông qua Nghị quyết số 202/2025/QH15 ngày 12/6/2025 về sắp xếp đơn vị hành chính cấp tỉnh; Điều 1 sắp xếp tỉnh Bắc Giang và tỉnh Bắc Ninh 'thành tỉnh mới có tên gọi là Bắc Ninh'; nghị quyết có hiệu lực từ ngày thông qua, chính quyền địa phương mới hoạt động từ 01/07/2025.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/cuc-canh-sat-giao-thong-khan-truong-tach-lan-o-to-va-xe-may-tren-duong-ha-noi-bac-giang-2025092109555263.htm",
+        "quote": "Tuổi Trẻ (Hồng Quang, 21/09/2025): tuyến Hà Nội – Bắc Ninh – Bắc Giang dài khoảng 46 km 'khai thác hỗn hợp xe máy và ô tô, không đảm bảo tiêu chuẩn cao tốc'; Cục CSGT đề nghị nghiên cứu tách làn ô tô và xe máy; đoạn cầu Phù Đổng – cầu Như Nguyệt có biển tốc độ 90, 70, 50 km/h theo làn; lưu lượng khoảng 53.500 xe/ngày đêm; đề xuất cấm xe khách trên 29 chỗ và xe tải trên 7,5 tấn đi làn 1.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-tham-kinh-bac-theo-bac-bling-4860664.html",
+        "quote": "VnExpress, '48 giờ thăm Kinh Bắc theo Bắc Bling' (Tâm Anh, 14/3/2025): đền Đô ở phường Đình Bảng (Từ Sơn cũ), 'cách Hà Nội 18 km'; chùa Dâu ở Thanh Khương, Thuận Thành cũ, khoảng 20 km từ trung tâm Hà Nội; làng tranh Đông Hồ 'cách TP Bắc Ninh 15 đến 20 km', khoảng 30 phút. Bài không nêu giờ mở cửa, vé.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-ngoi-chua-canh-dep-gan-ha-noi-cho-chuyen-xuat-hanh-dau-nam-5041457.html",
+        "quote": "VnExpress, '5 ngôi chùa cảnh đẹp gần Hà Nội cho chuyến xuất hành đầu năm' (Tâm Anh tổng hợp, 18/2/2026): chùa Dâu 'nằm ở phường Trí Quả, tỉnh Bắc Ninh', 'cách Hà Nội 32 km', được coi là trung tâm Phật giáo đầu tiên của Việt Nam, nơi khởi nguồn tín ngưỡng Tứ pháp; tháp Hòa Phong cao 17 m bằng gạch nung.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-van-du-khach-tray-hoi-den-do-tri-an-cong-duc-cac-vi-vua-trieu-ly-post959551.html",
+        "quote": "Nhân Dân (An Trân, 01/05/2026): Đền Đô (Lý Bát Đế, Cổ Pháp Điện) ở phường Từ Sơn, tỉnh Bắc Ninh, thờ 8 vị vua triều Lý, xây dựng thế kỷ XI, di tích quốc gia đặc biệt (công nhận 2014); lễ hội năm 2026 'diễn ra từ ngày 30/4-2/5 (tức từ 14-16/3 năm Bính Ngọ)', chính hội 15/3 âm lịch; ngày 29/4/2026 khánh thành giai đoạn 1 tu bổ đền (khởi công 8/2025, hơn 73 tỷ đồng).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/giu-hon-tranh-dong-ho-trong-doi-song-duong-dai-post829289.html",
+        "quote": "Sài Gòn Giải Phóng (Vĩnh Xuân, 18/12/2025): làng Đông Hồ xưa 'nay là khu phố Đông Khê, phường Song Hồ', tỉnh Bắc Ninh; UNESCO ghi danh nghề tranh dân gian Đông Hồ ngày 9-12-2025 (danh sách cần bảo vệ khẩn cấp); 'Đông Hồ hôm nay chỉ còn lại 3 hộ với khoảng 30 người thuộc 4 thế hệ có thể thực hành nghề', trước những năm 1950 khoảng 180 hộ. Bài không có giờ mở cửa, phí tham quan.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Cổng Hành chính công Nghệ An, toàn văn Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (đăng 09/09/2024): Điều 25 khoản 3 — 'Xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc' (trừ phương tiện phục vụ quản lý, bảo trì đường cao tốc).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00144"
+  }
+}

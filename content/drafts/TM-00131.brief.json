@@ -1,0 +1,183 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-13T08:17:51.123139+00:00",
+  "topic": {
+    "topic_id": "TM-00131",
+    "url": "/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/",
+    "title": "Đèn báo lỗi FI nháy trên xe máy Honda: nghĩa là gì",
+    "hub": "bao-duong",
+    "subtopic": "su-co-thuong-gap",
+    "primary_keyword": "đèn fi nháy",
+    "secondary_keywords": [
+      "đèn báo lỗi phun xăng điện tử",
+      "đèn mil xe máy honda sáng",
+      "đèn fi sáng khi đang chạy",
+      "đèn check engine xe máy",
+      "chờ đèn fi tắt mới đề"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe Honda phun xăng điện tử (Vision, Air Blade, Lead, Winner, Wave RSX FI) thấy đèn FI/MIL sáng hoặc nháy trên đồng hồ, cần biết khi nào là bình thường, khi nào phải dừng, có đi tiếp được không và cần làm gì.",
+    "information_gain": "Gần nhất là /bao-duong/xe-may/khong-de-duoc/ (chỉ nhắc kiểm tra đèn PGM-FI khi đề quay mà máy không nổ) và /bao-duong/xe-may-bi-chet-may-giua-duong/. Bài này chuyên về đèn MIL: đèn sáng giây lát khi bật khóa là bình thường và sổ Vision yêu cầu xác nhận đèn tắt trước khi đề; sáng khi đang chạy nghĩa là PGM-FI có thể trục trặc nghiêm trọng, phải giảm tốc và đưa xe tới HEAD; hỏi đáp Honda giải thích có lỗi tạm thời, đèn chỉ tắt hẳn khi HEAD sửa và xóa lỗi trong bộ nhớ, đèn lúc có lúc không thường do giắc tiếp xúc kém; khi MIL sáng, hệ thống Idling Stop ngừng hoạt động; xe chế hòa khí như Wave Alpha không có đèn này; báo chí ghi thói quen đề khi đèn FI chưa tắt là một nguyên nhân òa ga.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026): Đèn báo lỗi PGM-FI (Phun xăng điện tử) (MIL) “sẽ sáng trong giây lát khi vặn khóa điện sang vị trí (On)”. Tìm kiếm hư hỏng trang 112: “Nếu đèn này sáng khi đang lái xe, có thể hệ thống PGM-FI bị trục trặc nghiêm trọng. Hãy giảm tốc độ và mang xe đến Cửa hàng Honda ủy nhiệm để kiểm tra càng sớm càng tốt.” Trang 116: khi MIL sáng, hệ thống Idling Stop không hoạt động để bảo vệ động cơ. Trang 110: mô tơ đề quay mà máy không nổ thì kiểm tra xăng và xem đèn MIL có sáng không, nếu sáng liên hệ cửa hàng ủy nhiệm càng sớm càng tốt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Vision (bản đăng 9/2025, đọc 13/10/2026): MIL “Sáng ngay khi vặn khóa điện sang vị trí (On)”; quy trình khởi động trang 43 yêu cầu “Xác nhận điểm sau: Đèn báo lỗi hệ thống PGM-FI (MIL) tắt” trước khi nhấn nút đề với tay ga đóng hoàn toàn; động cơ sẽ không khởi động nếu mở ga hoàn toàn. Tìm kiếm hư hỏng: đèn sáng khi đang lái xe có thể là PGM-FI trục trặc nghiêm trọng, giảm tốc và mang xe đến cửa hàng Honda ủy nhiệm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, các hỏi đáp về lỗi MIL (cập nhật 21/09/2021, đọc 13/10/2026): tín hiệu MIL “có nghĩa xe của Quý khách đã có vấn đề nào đó với hệ thống phun xăng điện tử PGM-FI, có những trường hợp chỉ là lỗi tạm thời, xe vẫn có thể vận hành bình thường”, nhưng HVN khuyến cáo nhanh chóng mang xe đến HEAD gần nhất để kiểm tra; “Đèn tín hiệu MIL trên xe sẽ tắt khi vấn đề về lỗi được khắc phục và lỗi trong bộ nhớ được xóa bởi nhân viên kỹ thuật của các Cửa hàng Honda ủy nhiệm (HEAD)”; MIL có thể xuất hiện rồi không xuất hiện nữa, nguyên nhân có thể do đầu nối dây tiếp xúc kém; lỗi cụ thể do kỹ thuật viên HEAD kiểm tra, xác định.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave RSX FI (bản đăng 9/2025, đọc 13/10/2026): đèn báo lỗi PGM-FI (MIL) sáng trong giây lát khi vặn khóa điện sang On; nếu đèn sáng trong khi lái xe, có thể hệ thống PGM-FI bị trục trặc, giảm tốc độ và mang xe đến cửa hàng Honda ủy nhiệm. (Đối chiếu: sách Wave Alpha cùng nguồn mô tả van xăng dẫn nhiên liệu tới bộ chế hòa khí và cần le gió, không có mục đèn MIL.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/nguyen-nhan-va-cach-khac-phuc-xe-may-de-khong-no-hieu-qua/",
+        "quote": "Yamaha Motor Việt Nam, bài “Nguyên nhân và cách khắc phục xe máy đề không nổ hiệu quả” (đăng 14/09/2026, đọc 13/10/2026): ở xe ga hiện đại, nếu các cảm biến (như cảm biến chân chống, cảm biến nghiêng) bị lỗi, xe tự ngắt hệ thống khởi động, có thể nhận biết qua đèn báo lỗi động cơ nhấp nháy hoặc sáng liên tục khi bật khóa điện; nên đưa xe đến đại lý quét mã lỗi; nhiều người bật khóa đã đề ngay khi đèn FI chưa tắt khiến hệ thống phun xăng chưa sẵn sàng, cần chờ đèn báo phun xăng điện tử tắt hẳn mới nhấn đề.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/khac-phuc-hien-tuong-oa-ga-tren-xe-may-2851722.html",
+        "quote": "VnExpress, bài “Khắc phục hiện tượng òa ga trên xe máy” (19/7/2013, đọc 13/10/2026): theo kỹ thuật viên Thành Gia Motor, một thao tác ít người để ý dẫn đến òa ga ở xe PGM-FI là bật công tắc điện để nổ khi đèn báo FI chưa tắt; chuyên gia khuyến cáo sau khi bật khóa điện và trước khi ấn nút khởi động, chờ đèn báo FI trên bảng điều khiển tắt hẳn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đèn fi nháy"
+      }
+    ],
+    "outline": [
+      "Câu trả lời ngắn: đèn FI sáng lúc bật khóa là bình thường, sáng khi chạy là lỗi",
+      "Ba tình huống đèn FI và việc cần làm ngay",
+      "Vì sao phải chờ đèn FI tắt mới đề",
+      "Đèn FI lúc có lúc không: lỗi tạm thời hay giắc lỏng",
+      "Ai đọc và xóa được mã lỗi",
+      "Xe nào không có đèn FI"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xe-may/khong-de-duoc/",
+      "/bao-duong/xe-may-bi-chet-may-giua-duong/",
+      "/bao-duong/xe-ga-bi-giat-i-khi-tang-ga/",
+      "/thue-xe/xe-may-thue-bi-hong-giua-duong-phai-lam-sao/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00131.json",
+  "draft_template": {
+    "id": "TM-00131",
+    "url": "/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/",
+    "title": "Đèn báo lỗi FI nháy trên xe máy Honda: nghĩa là gì",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đèn fi nháy, đèn báo lỗi phun xăng điện tử, đèn mil xe máy honda sáng, đèn fi sáng khi đang chạy, đèn check engine xe máy, chờ đèn fi tắt mới đề",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đèn FI sáng lúc bật khóa là bình thường, sáng khi chạy là lỗi",
+        "<p></p>"
+      ],
+      [
+        "Ba tình huống đèn FI và việc cần làm ngay",
+        "<p></p>"
+      ],
+      [
+        "Vì sao phải chờ đèn FI tắt mới đề",
+        "<p></p>"
+      ],
+      [
+        "Đèn FI lúc có lúc không: lỗi tạm thời hay giắc lỏng",
+        "<p></p>"
+      ],
+      [
+        "Ai đọc và xóa được mã lỗi",
+        "<p></p>"
+      ],
+      [
+        "Xe nào không có đèn FI",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Air Blade 125/160 (đọc 13/10/2026): Đèn báo lỗi PGM-FI (Phun xăng điện tử) (MIL) “sẽ sáng trong giây lát khi vặn khóa điện sang vị trí (On)”. Tìm kiếm hư hỏng trang 112: “Nếu đèn này sáng khi đang lái xe, có thể hệ thống PGM-FI bị trục trặc nghiêm trọng. Hãy giảm tốc độ và mang xe đến Cửa hàng Honda ủy nhiệm để kiểm tra càng sớm càng tốt.” Trang 116: khi MIL sáng, hệ thống Idling Stop không hoạt động để bảo vệ động cơ. Trang 110: mô tơ đề quay mà máy không nổ thì kiểm tra xăng và xem đèn MIL có sáng không, nếu sáng liên hệ cửa hàng ủy nhiệm càng sớm càng tốt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/vax6VIxISbzWmEpEfkZX.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Vision (bản đăng 9/2025, đọc 13/10/2026): MIL “Sáng ngay khi vặn khóa điện sang vị trí (On)”; quy trình khởi động trang 43 yêu cầu “Xác nhận điểm sau: Đèn báo lỗi hệ thống PGM-FI (MIL) tắt” trước khi nhấn nút đề với tay ga đóng hoàn toàn; động cơ sẽ không khởi động nếu mở ga hoàn toàn. Tìm kiếm hư hỏng: đèn sáng khi đang lái xe có thể là PGM-FI trục trặc nghiêm trọng, giảm tốc và mang xe đến cửa hàng Honda ủy nhiệm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, các hỏi đáp về lỗi MIL (cập nhật 21/09/2021, đọc 13/10/2026): tín hiệu MIL “có nghĩa xe của Quý khách đã có vấn đề nào đó với hệ thống phun xăng điện tử PGM-FI, có những trường hợp chỉ là lỗi tạm thời, xe vẫn có thể vận hành bình thường”, nhưng HVN khuyến cáo nhanh chóng mang xe đến HEAD gần nhất để kiểm tra; “Đèn tín hiệu MIL trên xe sẽ tắt khi vấn đề về lỗi được khắc phục và lỗi trong bộ nhớ được xóa bởi nhân viên kỹ thuật của các Cửa hàng Honda ủy nhiệm (HEAD)”; MIL có thể xuất hiện rồi không xuất hiện nữa, nguyên nhân có thể do đầu nối dây tiếp xúc kém; lỗi cụ thể do kỹ thuật viên HEAD kiểm tra, xác định.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+        "quote": "Honda Việt Nam, sách hướng dẫn sử dụng Wave RSX FI (bản đăng 9/2025, đọc 13/10/2026): đèn báo lỗi PGM-FI (MIL) sáng trong giây lát khi vặn khóa điện sang On; nếu đèn sáng trong khi lái xe, có thể hệ thống PGM-FI bị trục trặc, giảm tốc độ và mang xe đến cửa hàng Honda ủy nhiệm. (Đối chiếu: sách Wave Alpha cùng nguồn mô tả van xăng dẫn nhiên liệu tới bộ chế hòa khí và cần le gió, không có mục đèn MIL.)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/nguyen-nhan-va-cach-khac-phuc-xe-may-de-khong-no-hieu-qua/",
+        "quote": "Yamaha Motor Việt Nam, bài “Nguyên nhân và cách khắc phục xe máy đề không nổ hiệu quả” (đăng 14/09/2026, đọc 13/10/2026): ở xe ga hiện đại, nếu các cảm biến (như cảm biến chân chống, cảm biến nghiêng) bị lỗi, xe tự ngắt hệ thống khởi động, có thể nhận biết qua đèn báo lỗi động cơ nhấp nháy hoặc sáng liên tục khi bật khóa điện; nên đưa xe đến đại lý quét mã lỗi; nhiều người bật khóa đã đề ngay khi đèn FI chưa tắt khiến hệ thống phun xăng chưa sẵn sàng, cần chờ đèn báo phun xăng điện tử tắt hẳn mới nhấn đề.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/khac-phuc-hien-tuong-oa-ga-tren-xe-may-2851722.html",
+        "quote": "VnExpress, bài “Khắc phục hiện tượng òa ga trên xe máy” (19/7/2013, đọc 13/10/2026): theo kỹ thuật viên Thành Gia Motor, một thao tác ít người để ý dẫn đến òa ga ở xe PGM-FI là bật công tắc điện để nổ khi đèn báo FI chưa tắt; chuyên gia khuyến cáo sau khi bật khóa điện và trước khi ấn nút khởi động, chờ đèn báo FI trên bảng điều khiển tắt hẳn.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00131"
+  }
+}
