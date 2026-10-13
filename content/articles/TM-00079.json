@@ -62,7 +62,7 @@
     {
       "type": "business-facts",
       "source": "config/business-facts.json",
-      "quote": "license_50cc: xe gắn máy dưới 50cc không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
+      "quote": "license_50cc: xe gắn máy (không lớn hơn 50 cm³, vận tốc thiết kế không lớn hơn 50 km/h) không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
       "checked": "2026-10-12"
     },
     {

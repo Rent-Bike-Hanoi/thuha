@@ -1,0 +1,238 @@
+{
+  "writer": "writer-w6a",
+  "queued": "2026-10-13T13:40:33.833659+00:00",
+  "topic": {
+    "topic_id": "TM-00246",
+    "url": "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+    "title": "Đồ Sơn đi xe máy từ Hà Nội: tránh cao tốc, khu 1-2-3, mùa tắm biển",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đồ sơn đi xe máy",
+    "secondary_keywords": [
+      "đồ sơn cách hà nội bao nhiêu km",
+      "biển đồ sơn tháng mấy tắm được",
+      "đồi rồng đồ sơn",
+      "dinh bảo đại đồ sơn",
+      "lễ hội chọi trâu đồ sơn"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy xuống biển Đồ Sơn cuối tuần: đi đường nào khi chỉ dẫn phổ biến là cao tốc Hà Nội – Hải Phòng (xe máy không được đi), tháng nào tắm biển được, nên ở khu nào và chơi gì.",
+    "information_gain": "Site có /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ (QL5 tới trung tâm Hải Phòng, chỉ nhắc Đồ Sơn trong danh sách điểm đến) và /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/. Bài này thêm chặng cuối và nội dung riêng Đồ Sơn: 120 km/1,5–2 giờ của VnExpress là lộ trình ô tô qua cao tốc CT04 nên xe máy phải đi QL5 rồi vào ĐT353 (đường Phạm Văn Đồng, gần 20 km từ trung tâm Hải Phòng, 20–30 phút); mùa tắm tháng 5–8, tháng 10–4 không hợp tắm; khác biệt khu 1–2–3, Đồi Rồng (miễn vé cổng chính), Dinh Bảo Đại 1928, bến K15 di tích quốc gia đặc biệt 2024, chọi trâu 9/8 âm lịch; cảnh báo tắc đường cuối tuần, gửi xe bãi có quản lý; dự án tái sinh khu 2. Khác /du-lich/ha-noi-di-sam-son-bang-xe-may/ (biển Sầm Sơn ở Thanh Hóa, hướng nam theo QL1A): bài này về bãi biển Đồ Sơn ở Hải Phòng theo hướng đông, chỉ trùng chữ 'sơn'.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-do-son-5077128.html",
+        "quote": "VnExpress, Cẩm nang du lịch biển Đồ Sơn (đăng 31/5/2026, cập nhật 2/6/2026): Đồ Sơn cách trung tâm Hải Phòng khoảng 20 km và cách Hà Nội 120 km “theo cao tốc Hà Nội - Hải Phòng (CT04)”, qua trạm thu phí cuối rẽ phải theo TL353, khoảng 1,5–2 tiếng (đây là lộ trình ô tô qua cao tốc); từ Hải Phòng theo đường chính Phạm Văn Đồng (ĐT353) gần 20 km, 20–30 phút, đường hai làn xe, xe buýt tuyến 03; thời điểm đẹp nhất mùa hè (tháng 5–8), “Từ tháng 10 đến tháng 4 năm sau, thời tiết không thích hợp để tắm biển”; khu 3 tách biệt, bãi nhỏ; Đồi Rồng đón khách từ hè 2020 ở khu Vạn Hương (cuối khu 2 giáp khu 3), bãi nhân tạo dài hơn 1 km, rộng 23 ha, “miễn phí vé vào cổng chính”; đảo Hòn Dấu 12,5 km², hải đăng hơn trăm tuổi; Dinh Bảo Đại xây 1928, cao gần 40 m so với mặt biển, 1.000 m² trong khuôn viên hơn 3.700 m², khoảng 70.000 lượt khách/năm; bến K15 di tích quốc gia đặc biệt năm 2024; chọi trâu ngày 9/8 âm lịch ở sân vận động trung tâm phường Đồ Sơn, 16 “ông trâu”, vào cửa tự do; thuê xe máy tại chỗ 120.000–150.000 đồng/ngày; nước đục do gần cửa sông, nhiều vỏ sò; “Cuối tuần Đồ Sơn khá đông, dễ tắc đường vào khu 2 và 3. Du khách lưu ý gửi xe ở bãi có quản lý, không đỗ tự phát”.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/hai-phong-danh-thuc-bai-tam-danh-tieng-o-do-son-185260417114556023.htm",
+        "quote": "Thanh Niên, “Hải Phòng ‘đánh thức’ bãi tắm danh tiếng ở Đồ Sơn” (17/4/2026): Sở Xây dựng Hải Phòng vừa hoàn tất kiểm tra phương án kiến trúc dự án khu du lịch biển Đồ Sơn – tái sinh bãi tắm khu 2 (đã xuống cấp nhiều năm); phân khu 1 bảo tồn nguyên trạng Dinh thự vua Bảo Đại; phân khu 2 có khách sạn cao 20 tầng, trung tâm hội nghị; định hướng phát triển đến năm 2040.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Báo Điện tử Chính phủ (12/6/2025), Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh, có hiệu lực từ ngày được thông qua (12/6/2025); sau sắp xếp cả nước có 34 đơn vị hành chính cấp tỉnh: khoản 7 sắp xếp thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là thành phố Hải Phòng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Trung tâm Phục vụ Hành chính công tỉnh Nghệ An, toàn văn Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) (đọc 13/10/2026): Điều 25 “Giao thông trên đường cao tốc”, khoản 3: xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ “không được đi trên đường cao tốc, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc”.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 (xe mô tô, xe gắn máy) khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng với hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "đồ sơn đi xe máy"
+      }
+    ],
+    "notes": "120 km và 1,5–2 giờ là lộ trình ô tô qua cao tốc CT04 – không dùng cho xe máy. Chưa có nguồn đã fetch hôm nay về số km đoạn Hà Nội – Hải Phòng theo QL5 cho xe máy: writer link sang /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ thay vì tự nêu tổng quãng đường. Dự án tái sinh khu 2 có thể biến một phần khu 2 thành công trường – chưa có lịch thi công, không khẳng định đóng bãi. Giá vé các tiện ích Đồi Rồng không có trong nguồn (chỉ nói khách tham quan mua vé). Chọi trâu theo âm lịch: không tự quy đổi ngày dương. Giá thuê xe tại Đồ Sơn là thông tin của VnExpress, không phải giá cửa hàng.",
+    "outline": [
+      "Đồ Sơn cách Hà Nội bao xa: vì sao con số 120 km là của ô tô",
+      "Đi xe máy: QL5 tới Hải Phòng rồi ĐT353 (Phạm Văn Đồng) xuống Đồ Sơn",
+      "Tháng nào tắm biển được, tháng nào chỉ nên tham quan",
+      "Khu 1, khu 2, khu 3 và Đồi Rồng khác nhau thế nào",
+      "Dinh Bảo Đại, bến K15, đảo Hòn Dấu, chọi trâu 9/8 âm lịch",
+      "Tắc đường cuối tuần, gửi xe và dự án tái sinh khu 2"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "route",
+    "overlap": [
+      {
+        "url": "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.531
+        }
+      },
+      {
+        "url": "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+        "layers": [
+          "intent_cluster_near",
+          "title"
+        ],
+        "scores": {
+          "intent_cluster_near": 0.75,
+          "title": 0.592
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.565
+        }
+      },
+      {
+        "url": "/du-lich/thanh-co-son-tay-di-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.422
+        }
+      },
+      {
+        "url": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.407
+        }
+      },
+      {
+        "url": "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.498
+        }
+      },
+      {
+        "url": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.424
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00246.json",
+  "draft_template": {
+    "id": "TM-00246",
+    "url": "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+    "title": "Đồ Sơn đi xe máy từ Hà Nội: tránh cao tốc, khu 1-2-3, mùa tắm biển",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đồ sơn đi xe máy, đồ sơn cách hà nội bao nhiêu km, biển đồ sơn tháng mấy tắm được, đồi rồng đồ sơn, dinh bảo đại đồ sơn, lễ hội chọi trâu đồ sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồ Sơn cách Hà Nội bao xa: vì sao con số 120 km là của ô tô",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: QL5 tới Hải Phòng rồi ĐT353 (Phạm Văn Đồng) xuống Đồ Sơn",
+        "<p></p>"
+      ],
+      [
+        "Tháng nào tắm biển được, tháng nào chỉ nên tham quan",
+        "<p></p>"
+      ],
+      [
+        "Khu 1, khu 2, khu 3 và Đồi Rồng khác nhau thế nào",
+        "<p></p>"
+      ],
+      [
+        "Dinh Bảo Đại, bến K15, đảo Hòn Dấu, chọi trâu 9/8 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Tắc đường cuối tuần, gửi xe và dự án tái sinh khu 2",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-do-son-5077128.html",
+        "quote": "VnExpress, Cẩm nang du lịch biển Đồ Sơn (đăng 31/5/2026, cập nhật 2/6/2026): Đồ Sơn cách trung tâm Hải Phòng khoảng 20 km và cách Hà Nội 120 km “theo cao tốc Hà Nội - Hải Phòng (CT04)”, qua trạm thu phí cuối rẽ phải theo TL353, khoảng 1,5–2 tiếng (đây là lộ trình ô tô qua cao tốc); từ Hải Phòng theo đường chính Phạm Văn Đồng (ĐT353) gần 20 km, 20–30 phút, đường hai làn xe, xe buýt tuyến 03; thời điểm đẹp nhất mùa hè (tháng 5–8), “Từ tháng 10 đến tháng 4 năm sau, thời tiết không thích hợp để tắm biển”; khu 3 tách biệt, bãi nhỏ; Đồi Rồng đón khách từ hè 2020 ở khu Vạn Hương (cuối khu 2 giáp khu 3), bãi nhân tạo dài hơn 1 km, rộng 23 ha, “miễn phí vé vào cổng chính”; đảo Hòn Dấu 12,5 km², hải đăng hơn trăm tuổi; Dinh Bảo Đại xây 1928, cao gần 40 m so với mặt biển, 1.000 m² trong khuôn viên hơn 3.700 m², khoảng 70.000 lượt khách/năm; bến K15 di tích quốc gia đặc biệt năm 2024; chọi trâu ngày 9/8 âm lịch ở sân vận động trung tâm phường Đồ Sơn, 16 “ông trâu”, vào cửa tự do; thuê xe máy tại chỗ 120.000–150.000 đồng/ngày; nước đục do gần cửa sông, nhiều vỏ sò; “Cuối tuần Đồ Sơn khá đông, dễ tắc đường vào khu 2 và 3. Du khách lưu ý gửi xe ở bãi có quản lý, không đỗ tự phát”.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/hai-phong-danh-thuc-bai-tam-danh-tieng-o-do-son-185260417114556023.htm",
+        "quote": "Thanh Niên, “Hải Phòng ‘đánh thức’ bãi tắm danh tiếng ở Đồ Sơn” (17/4/2026): Sở Xây dựng Hải Phòng vừa hoàn tất kiểm tra phương án kiến trúc dự án khu du lịch biển Đồ Sơn – tái sinh bãi tắm khu 2 (đã xuống cấp nhiều năm); phân khu 1 bảo tồn nguyên trạng Dinh thự vua Bảo Đại; phân khu 2 có khách sạn cao 20 tầng, trung tâm hội nghị; định hướng phát triển đến năm 2040.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/nghi-quyet-cua-quoc-hoi-ve-sap-xep-don-vi-hanh-chinh-cap-tinh-102250612191145158.htm",
+        "quote": "Báo Điện tử Chính phủ (12/6/2025), Nghị quyết số 202/2025/QH15 về sắp xếp đơn vị hành chính cấp tỉnh, có hiệu lực từ ngày được thông qua (12/6/2025); sau sắp xếp cả nước có 34 đơn vị hành chính cấp tỉnh: khoản 7 sắp xếp thành phố Hải Phòng và tỉnh Hải Dương thành thành phố mới có tên gọi là thành phố Hải Phòng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Trung tâm Phục vụ Hành chính công tỉnh Nghệ An, toàn văn Luật Trật tự, an toàn giao thông đường bộ (số 36/2024/QH15) (đọc 13/10/2026): Điều 25 “Giao thông trên đường cao tốc”, khoản 3: xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ “không được đi trên đường cao tốc, trừ người, phương tiện giao thông đường bộ và thiết bị phục vụ việc quản lý, bảo trì đường cao tốc”.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://storage-vnportal.vnpt.vn/gov-tha/6443/FileQuanTriTinTuc/N%C4%90%20So%20168_2024%20XU%20PHAT%20VPHC%20GT%C4%90B638714994106201900.pdf",
+        "quote": "Nghị định 168/2024/NĐ-CP, bản PDF đăng trên hệ thống cổng thông tin storage-vnportal.vnpt.vn (đọc 13/10/2026): Điều 7 (xe mô tô, xe gắn máy) khoản 7 phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng với hành vi tại điểm b “Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc”; Điều 7 khoản 13 điểm c: thực hiện hành vi tại điểm b khoản 7 bị trừ điểm giấy phép lái xe 06 điểm.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00246"
+  }
+}

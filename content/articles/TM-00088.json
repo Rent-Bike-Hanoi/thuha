@@ -12,7 +12,7 @@
     ],
     [
       "Số liệu từng hãng và điều kiện đo",
-      "<div class=\"table-scroll\"><table><thead><tr><th>Xe</th><th>Pin</th><th>Quãng đường công bố</th><th>Điều kiện đo</th><th>Nguồn (đối chiếu 12/10/2026)</th></tr></thead><tbody><tr><td>Yadea Osta H+</td><td>LFP 2,16 kWh</td><td>Khoảng 120 km</td><td>Điều kiện thử nghiệm tiêu chuẩn của hãng</td><td>Yadea Việt Nam, cập nhật 10/04/2026</td></tr><tr><td>Yadea Osta P</td><td>LFP 3,24 kWh</td><td>Khoảng 180 km</td><td>Tốc độ tối đa 63 km/h; điều kiện tiêu chuẩn của hãng</td><td>Yadea Việt Nam, cập nhật 10/04/2026</td></tr><tr><td>Dat Bike Era (E1, E2)</td><td>4,3 kWh</td><td>Lên đến 200 km</td><td>Bài của hãng không nêu điều kiện đo</td><td>Dat Bike, cập nhật 9/10/2026</td></tr><tr><td>VinFast Evo200</td><td>LFP 3,5 kWh</td><td>Khoảng 203 km</td><td>Đo ở 30 km/h, một người 65 kg</td><td>vinfastauto.com (xem ghi chú)</td></tr><tr><td>VinFast Feliz S</td><td>3,5 kWh</td><td>198 km</td><td>Đo ở 30 km/h, một người 65 kg</td><td>vinfastauto.com (xem ghi chú)</td></tr></tbody></table></div><p>Ghi chú: trang VinFast chặn truy cập tự động vào ngày đối chiếu, nên hai dòng VinFast lấy từ kết quả tìm kiếm dẫn thẳng từ vinfastauto.com; hãy mở trang thông số của hãng để xác nhận trước khi quyết định. Honda ICON e: công bố pin lithium-ion chống nước IP67 và cốp 26 lít trong thông cáo xuất xưởng, nhưng thông số quãng đường nằm ở trang sản phẩm không mở được khi đối chiếu nên bài không trích. Giá tham khảo: Yadea Osta H+ 28.990.000 đồng, Osta P 33.990.000 đồng (đã gồm VAT, theo trang hãng).</p>"
+      "<div class=\"table-scroll\"><table><thead><tr><th>Xe</th><th>Pin</th><th>Quãng đường công bố</th><th>Điều kiện đo</th><th>Nguồn (đối chiếu 12/10/2026)</th></tr></thead><tbody><tr><td>Yadea Osta H+</td><td>LFP 2,16 kWh</td><td>Khoảng 120 km</td><td>Điều kiện thử nghiệm tiêu chuẩn của hãng</td><td>Yadea Việt Nam, cập nhật 10/04/2026</td></tr><tr><td>Yadea Osta P</td><td>LFP 3,24 kWh</td><td>Khoảng 180 km</td><td>Tốc độ tối đa 63 km/h; điều kiện tiêu chuẩn của hãng</td><td>Yadea Việt Nam, cập nhật 10/04/2026</td></tr><tr><td>Dat Bike Era (E1, E2)</td><td>4,3 kWh</td><td>Lên đến 200 km</td><td>Bài của hãng không nêu điều kiện đo</td><td>Dat Bike, cập nhật 9/10/2026</td></tr><tr><td>VinFast Evo200</td><td>LFP 3,5 kWh</td><td>Khoảng 203 km</td><td>Đo ở 30 km/h, một người 65 kg</td><td>vinfastauto.com (xem ghi chú)</td></tr><tr><td>VinFast Feliz S</td><td>3,5 kWh</td><td>198 km</td><td>Đo ở 30 km/h, một người 65 kg</td><td>vinfastauto.com (xem ghi chú)</td></tr></tbody></table></div><p>Ghi chú: trang VinFast chặn truy cập tự động vào ngày đối chiếu, nên hai dòng VinFast lấy từ kết quả tìm kiếm dẫn thẳng từ vinfastauto.com; hãy mở trang thông số của hãng để xác nhận trước khi quyết định. Honda ICON e: công bố pin lithium-ion chống nước IP67 và cốp 26 lít trong thông cáo xuất xưởng, nhưng thông số quãng đường nằm ở trang sản phẩm không mở được khi đối chiếu nên bài không trích. Giá tham khảo: Yadea Osta H+ 28.990.000 đồng, Osta P 33.990.000 đồng (đã gồm VAT, theo trang hãng).</p><p><strong>Cập nhật 13/10/2026:</strong> trang bán hàng của VinFast không còn niêm yết <strong>Evo200</strong> và <strong>Feliz S</strong>; địa chỉ cũ của hai mẫu chuyển về danh sách xe máy điện (<a href=\"https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html\" target=\"_blank\" rel=\"noopener\">shop.vinfastauto.com</a>, đọc 13/10/2026). Số liệu hai mẫu này ở đây là thông số cũ, hữu ích khi xem xe đã qua sử dụng. Thông số mẫu đang bán xem <a href=\"/xe-dien/vinfast-evo-thong-so-pin-quang-duong-va-toc-do/\">VinFast Evo</a>, <a href=\"/xe-dien/vinfast-evo-lite-neo/\">VinFast Evo Lite Neo</a> và <a href=\"/xe-dien/vinfast-feliz-s/\">VinFast Feliz S và Feliz 2025</a>.</p>"
     ],
     [
       "Vì sao thực tế thấp hơn số công bố",
@@ -39,7 +39,7 @@
   "faq": [
     [
       "Xe máy điện đi được bao nhiêu km một lần sạc?",
-      "Theo hãng công bố: Yadea Osta H+ khoảng 120 km, Osta P khoảng 180 km, Dat Bike Era lên đến 200 km, VinFast Evo200 khoảng 203 km ở 30 km/h với tải 65 kg; thực tế thấp hơn tùy tốc độ, tải và nhiệt độ."
+      "Theo hãng công bố: Yadea Osta H+ khoảng 120 km, Osta P khoảng 180 km, Dat Bike Era lên đến 200 km, VinFast Evo200 (đã ngừng niêm yết từ trước 13/10/2026) khoảng 203 km ở 30 km/h với tải 65 kg; thực tế thấp hơn tùy tốc độ, tải và nhiệt độ."
     ],
     [
       "Vì sao xe điện của tôi không đi được như quảng cáo?",
@@ -96,6 +96,18 @@
       "source": "config/business-facts.json",
       "quote": "prices.xe điện / fleet: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng; có xe máy điện Tailg màu đen nhám; 0334 699 969",
       "checked": "2026-10-12"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+      "quote": "VinFast, trang danh sách xe máy điện shop.vinfastauto.com (đọc 13/10/2026): dòng Feliz chỉ còn Feliz 2025 (26.000.000 đ), Feliz II (23.000.000 đ) và Feliz 2027 trong menu (từ 26.900.000 VNĐ); không có Feliz S. Địa chỉ cũ https://shop.vinfastauto.com/vn_vi/xe-may-dien-feliz-s.html chuyển hướng về trang danh sách này.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+      "quote": "VinFast, trang danh sách xe máy điện shop.vinfastauto.com (đọc 13/10/2026): \"Xe máy điện Evo 18.800.000 đ\", kèm ưu đãi \"Trả thẳng, ưu đãi 2 Triệu\" (không ghi thời hạn); danh sách không có Evo200 hay Evo200 Lite; địa chỉ cũ https://shop.vinfastauto.com/vn_vi/xe-may-dien-evo200.html chuyển hướng về trang danh sách này.",
+      "checked": "2026-10-13"
     }
   ],
   "id": "TM-00088",

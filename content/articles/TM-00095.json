@@ -20,7 +20,7 @@
     ],
     [
       "Sức mạnh, tiêu hao nhiên liệu, bình xăng",
-      "<ul><li><strong>Sirius FI</strong> có dung tích và mô men cao hơn (9,5 so với 8,44 Nm), hành trình piston dài (57,9 mm) – máy khỏe ở vòng tua thấp, chở hai người lên cầu nhẹ ga hơn.</li><li><strong>Wave Alpha</strong> nhẹ hơn 2–4 kg, tiêu thụ hãng công bố 1,72 l/100 km; bình 3,7 lít nhỏ hơn nên đổ xăng thường xuyên hơn.</li><li><strong>Sirius chế hòa khí</strong> tiêu thụ 2,08 l/100 km theo hãng, cao hơn hai xe phun xăng; bù lại cấu tạo đơn giản, thợ nào cũng sửa được.</li><li>Cả ba dùng xăng RON 92 trở lên theo khuyến cáo chung của hãng xe tại Việt Nam – xem <a href=\"/bao-duong/xang-e5-hay-a95-cho-xe-may/\">xăng E5 hay A95 cho xe máy</a>.</li></ul>"
+      "<ul><li><strong>Sirius FI</strong> có dung tích và mô men cao hơn (9,5 so với 8,44 Nm), hành trình piston dài (57,9 mm) – máy khỏe ở vòng tua thấp, chở hai người lên cầu nhẹ ga hơn.</li><li><strong>Wave Alpha</strong> nhẹ hơn 2–4 kg, tiêu thụ hãng công bố 1,72 l/100 km; bình 3,7 lít nhỏ hơn nên đổ xăng thường xuyên hơn.</li><li><strong>Sirius chế hòa khí</strong> tiêu thụ 2,08 l/100 km theo hãng, cao hơn hai xe phun xăng; bù lại cấu tạo đơn giản, thợ nào cũng sửa được.</li><li>Về xăng: sách hướng dẫn Wave Alpha của Honda khuyên dùng xăng không chì <strong>RON 91 trở lên</strong> (<a href=\"https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf\" target=\"_blank\" rel=\"noopener\">sách hướng dẫn Honda</a>, đọc 13/10/2026); Yamaha không ghi trị số RON cho Sirius trên trang sản phẩm. Cách chọn xăng ở cây xăng xem <a href=\"/bao-duong/xang-e5-hay-a95-cho-xe-may/\">xăng E5 hay A95 cho xe máy</a>; thông số đầy đủ của Wave Alpha xem <a href=\"/xe-may/honda-wave-alpha-110/\">Honda Wave Alpha 110</a>.</li></ul>"
     ],
     [
       "Phanh, lốp, kích thước và cảm giác ngồi",
@@ -88,6 +88,12 @@
       "source": "config/business-facts.json",
       "quote": "prices.xe số: 150–200 nghìn/ngày, 700–800 nghìn/tuần, 1–1,2 triệu/tháng",
       "checked": "2026-10-12"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+      "quote": "Honda, Sách hướng dẫn sử dụng AFB110MD (Wave Alpha), liên kết từ trang sản phẩm Wave Alpha 110 (đọc 13/10/2026), kiểu V, IV V bán tại Việt Nam: khối lượng trọng tải tối đa 155 kg (gồm người lái, người ngồi sau, hành lý, phụ kiện); khối lượng hành lý tối đa 5 kg (hộp đựng đồ); chở người lái và 1 người ngồi sau; bán kính quay tối thiểu 1,90 m; xăng không chì, khuyên dùng RON 91 hoặc cao hơn; xăng chứa cồn không quá 10% ethanol; bình xăng 3,7 L; bình điện 12 V-3 Ah; lốp bố sợi dệt chéo, có săm; áp suất lốp nguội: chỉ người lái trước 200 kPa, sau 225 kPa; người lái và người ngồi sau trước 200 kPa, sau 280 kPa; độ chùng xích 25–35 mm; tốc độ về số cho phép: từ số 4 về số 3 ở 80 km/h hoặc thấp hơn, số 3 về số 2 ở 55 km/h hoặc thấp hơn, số 2 về số 1 ở 30 km/h hoặc thấp hơn; dầu máy JASO T 903 MA, SAE 10W-30.",
+      "checked": "2026-10-13"
     }
   ],
   "id": "TM-00095",

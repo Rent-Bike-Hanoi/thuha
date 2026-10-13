@@ -37182,7 +37182,7 @@
   },
   {
     "title": "Trả xe máy thuê muộn tính phí thế nào? 20.000đ/giờ, quá 6 giờ tính một ngày",
-    "keyword": "phí trả xe máy thuê muộn, trả xe máy thuê muộn, phí quá giờ thuê xe máy, thuê xe máy trả muộn tính tiền thế nào, một ngày thuê xe máy 24 giờ",
+    "keyword": "phí trả xe máy thuê muộn, trả xe máy thuê muộn, phí quá giờ thuê xe máy, thuê xe máy trả muộn tính tiền thế nào, một ngày thuê xe máy 24 giờ, thuê xe máy theo giờ",
     "hub": "thue-xe",
     "pillar": "/thue-xe-may/ha-noi/",
     "url": "/thue-xe/tra-xe-may-thue-muon-tinh-phi-the-nao/",
@@ -37285,6 +37285,1311 @@
     "hub": "xe-may",
     "pillar": "/xe-may/",
     "url": "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda LEAD 125: thông số, cốp xe, mức tiêu hao xăng",
+    "keyword": "honda lead 125, honda lead 2026 giá bao nhiêu, cốp xe lead bao nhiêu lít, lead 125 hao xăng bao nhiêu, lead abs và lead cbs khác gì, thông số kỹ thuật honda lead",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-lead-125/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Wave Alpha 110: thông số, giá và tiêu hao nhiên liệu",
+    "keyword": "honda wave alpha, wave alpha 2026 giá bao nhiêu, wave alpha phiên bản cổ điển, wave alpha bao nhiêu km 1 lít xăng, thông số kỹ thuật wave alpha 110, wave alpha đổ xăng gì",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-wave-alpha-110/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Janus: thông số, giá và có hợp với người mới",
+    "keyword": "yamaha janus, janus 125 giá bao nhiêu, janus phiên bản tiêu chuẩn và đặc biệt khác gì, janus có smartkey không, janus hao xăng bao nhiêu, xe ga nhẹ cho người mới tập đi",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-janus-thong-so-gia-va-co-hop-voi-nguoi-moi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Grande: thông số, giá và tiêu hao xăng",
+    "keyword": "yamaha grande, grande hybrid giá bao nhiêu, grande 2025 có mấy phiên bản, grande hao xăng bao nhiêu, cốp xe grande bao nhiêu lít, grande abs và tiêu chuẩn khác gì",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-grande-thong-so-gia-va-tieu-hao-xang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Blade 110: thông số, giá và khác Wave Alpha ở đâu",
+    "keyword": "honda blade 110, honda blade giá bao nhiêu, blade và wave alpha nên mua xe nào, honda blade vành đúc phanh đĩa, thông số kỹ thuật honda blade, blade 110 hao xăng bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-blade-110/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Future 125 FI: thông số, giá và mức tiêu hao xăng",
+    "keyword": "honda future 125, future 125 fi 2026 giá bao nhiêu, future 125 hao xăng bao nhiêu, future 125 có mấy phiên bản, thông số kỹ thuật future 125 fi, future 125 chở được bao nhiêu kg",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-future-125-fi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "SYM Elite 50: thông số xe ga 50cc không cần bằng lái",
+    "keyword": "sym elite 50, sym elite 50 giá bao nhiêu, elite 50 hao xăng bao nhiêu, xe ga 50cc sym, elite 50 phiên bản đặc biệt, xe ga 50cc chở được bao nhiêu kg",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/sym-elite-50/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Evo Lite Neo: quãng đường, tốc độ, có cần bằng lái",
+    "keyword": "vinfast evo lite neo, evo lite neo đi được bao nhiêu km, evo lite neo có cần bằng lái không, evo lite neo ắc quy, giá vinfast evo lite neo",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-evo-lite-neo/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Feliz S: quãng đường mỗi lần sạc, tốc độ, giá và Feliz 2025",
+    "keyword": "vinfast feliz s, feliz s đi được bao nhiêu km, giá xe feliz s, feliz s tốc độ tối đa, vinfast feliz 2025, feliz s cần bằng gì",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-feliz-s/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Evo: thông số pin, quãng đường và tốc độ",
+    "keyword": "vinfast evo, xe máy điện vinfast evo, vinfast evo đi được bao nhiêu km, vinfast evo thuê pin, giá vinfast evo, vinfast evo200",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-evo-thong-so-pin-quang-duong-va-toc-do/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng gốm Bát Tràng: đi xe máy từ Long Biên theo đê, chợ gốm, vé bảo tàng",
+    "keyword": "làng gốm bát tràng, đi bát tràng bằng xe máy, làng gốm bát tràng ở đâu, chợ gốm bát tràng mấy giờ mở cửa, bảo tàng gốm bát tràng giá vé, đường đê bát tràng",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-gom-bat-trang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Ecopark đi xe máy từ Long Biên: đường đê Bát Tràng, chơi gì, lưu ý",
+    "keyword": "ecopark đi xe máy, đi ecopark bằng xe máy, ecopark ở đâu, ecopark có mất phí vào không, đường đi ecopark từ long biên, công viên hồ thiên nga ecopark",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ecopark-di-xe-may-tu-long-bien/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi chùa Hương bằng xe máy: đường đi, giá vé đò, cáp treo, mùa lễ hội",
+    "keyword": "chùa hương, đi chùa hương bằng xe máy, giá vé chùa hương 2026, cáp treo chùa hương bao nhiêu tiền, lễ hội chùa hương 2026, chùa hương cách hà nội bao nhiêu km",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/di-chua-huong-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi Đền Hùng bằng xe máy: quốc lộ 2, bãi gửi xe, lịch giỗ Tổ 2026",
+    "keyword": "đi đền hùng bằng xe máy, hà nội đi đền hùng bao nhiêu km, đền hùng ở đâu, giỗ tổ hùng vương 2026 ngày nào, bãi gửi xe đền hùng, đường lên đền thượng bao nhiêu bậc",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Cao Bằng bằng xe máy: quốc lộ 3, các đèo và thác Bản Giốc",
+    "keyword": "hà nội đi cao bằng bằng xe máy, hà nội đi thác bản giốc bao nhiêu km, vé thác bản giốc, đi cao bằng mùa nào đẹp, đèo mã phục, phượt cao bằng xe máy mấy ngày",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Hòa Bình bằng xe máy: quốc lộ 6, thủy điện, hồ Hòa Bình",
+    "keyword": "hà nội đi hòa bình bằng xe máy, hà nội đi hòa bình bao nhiêu km, hồ hòa bình đi thuyền, cảng thung nai, thủy điện hòa bình giá vé, hòa bình sáp nhập tỉnh nào",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Thái Nguyên xe máy: quốc lộ 3, đồi chè Tân Cương, hồ Núi Cốc",
+    "keyword": "hà nội đi thái nguyên xe máy, hà nội đi thái nguyên bao nhiêu km, đồi chè tân cương, hồ núi cốc giá vé, xe máy có được đi cao tốc hà nội thái nguyên không, thái nguyên sáp nhập bắc kạn",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hợp đồng thuê xe máy gồm những gì? Điều khoản cần đọc trước khi ký",
+    "keyword": "hợp đồng thuê xe máy, điều khoản hợp đồng thuê xe máy, hợp đồng thuê xe máy cần những gì, tiền cọc thuê xe máy, trách nhiệm khi xe thuê bị hỏng",
+    "hub": "thue-xe",
+    "pillar": "/thue-xe/",
+    "url": "/thue-xe/hop-dong-thue-xe-may-gom-nhung-gi/",
+    "priority": "P0",
+    "status": "published"
+  },
+  {
+    "title": "Mũ bảo hiểm đạt chuẩn: cách nhận biết tem CR và QCVN 2:2021",
+    "keyword": "mũ bảo hiểm đạt chuẩn, cách chọn mũ bảo hiểm đạt chuẩn, tem hợp quy CR mũ bảo hiểm, QCVN 2:2021/BKHCN, nhãn mũ bảo hiểm, cỡ mũ bảo hiểm",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/mu-bao-hiem-dat-chuan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Vario 160: thông số, giá niêm yết, cốp 17,9 lít, hao xăng",
+    "keyword": "honda vario 160, vario 160 giá bao nhiêu, vario 160 thông số kỹ thuật, vario 160 hao xăng không, vario 160 abs, vario 160 cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-vario-160/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Vario 125 2027: bản Street và Đặc biệt, giá, thông số",
+    "keyword": "honda vario 125, vario 125 2027 giá bao nhiêu, vario 125 street ghi đông trần, vario 125 hao xăng, cốp vario 125 bao nhiêu lít, vario 125 có abs không",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-vario-125-2027/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda SH Mode 2027: giá 4 phiên bản, thông số, cốp 18,5 lít",
+    "keyword": "honda sh mode, sh mode 2027 giá bao nhiêu, sh mode 125 thông số, sh mode abs và cbs khác gì, sh mode cao bao nhiêu, sh mode hao xăng không",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-sh-mode-2027/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda SH 160i và SH 125i 2026: giá, thông số, khác nhau ở đâu",
+    "keyword": "honda sh 160i, sh 160i giá bao nhiêu, sh 125i giá bao nhiêu, sh160i và sh125i khác gì, sh 160i cao bao nhiêu, sh 160i hao xăng",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-sh-160i-va-sh-125i-2026/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Super Cub C125: giá, thông số, xe số 4 cấp hợp với ai",
+    "keyword": "honda super cub c125, super cub c125 giá bao nhiêu, super cub 125 có côn không, super cub c125 hao xăng, super cub c125 màu mới 2026, super cub c125 chở được bao nhiêu kg",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-super-cub-c125/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Exciter 155 VVA-TCS: giá 4 phiên bản, thông số, TCS và ABS",
+    "keyword": "yamaha exciter 155, exciter 155 2026 giá bao nhiêu, exciter 155 vva tcs có gì mới, exciter 155 bản nào có abs, exciter 155 hao xăng, exciter 155 cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-exciter-155-vva-tcs/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha NVX 155: 4 phiên bản, giá, YECVT, cốp 24,5 lít",
+    "keyword": "yamaha nvx, nvx 155 giá bao nhiêu, nvx gp và sp khác gì, nvx yecvt là gì, nvx 155 hao xăng, nvx cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-nvx-155/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Sirius FI: giá 3 phiên bản, thông số, lịch bảo dưỡng",
+    "keyword": "yamaha sirius fi, sirius fi giá bao nhiêu, sirius fi phanh đĩa vành đúc giá, sirius fi hao xăng bao nhiêu, sirius fi cốp chứa được gì, sirius fi bao lâu thay nhớt",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-sirius-fi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Jupiter Finn: giá, thông số, phanh UBS, hao 1,64 l/100 km",
+    "keyword": "yamaha jupiter finn, jupiter finn giá bao nhiêu, jupiter finn tiêu chuẩn và cao cấp khác gì, phanh ubs là gì, jupiter finn hao xăng, jupiter finn hay sirius fi",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-jupiter-finn/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha FreeGo: giá bản tiêu chuẩn và S ABS, cốp 25 lít, thông số",
+    "keyword": "yamaha freego, freego giá bao nhiêu, freego s abs khác bản tiêu chuẩn, freego cốp bao nhiêu lít, freego hao xăng, freego cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-freego-gia-ban-tieu-chuan-va-s-abs-cop-25-lit-thong-so/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bugi xe máy bao lâu thay? Mốc km, mã bugi và dấu hiệu hỏng",
+    "keyword": "bugi xe máy bao lâu thay, thay bugi xe máy bao nhiêu km, dấu hiệu bugi yếu, bugi xe air blade loại nào, khe hở bugi xe máy, giá bugi honda chính hãng",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/bugi-xe-may-bao-lau-thay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Dầu phanh xe máy bao lâu thay? Dùng loại DOT nào",
+    "keyword": "dầu phanh xe máy, dầu phanh xe máy bao lâu thay, dầu phanh dot 3 hay dot 4, kiểm tra dầu phanh xe máy, dầu phanh bị đen, giá dầu phanh honda",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Má phanh xe máy bao lâu thay? Dấu hiệu mòn cần thay",
+    "keyword": "má phanh xe máy bao lâu thay, thay má phanh xe máy bao nhiêu tiền, má phanh xe ga mòn, guốc phanh xe số bao lâu thay, dấu chỉ thị mòn má phanh, phanh cbs mòn má phanh sau",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/ma-phanh-xe-may-bao-lau-thay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhông sên đĩa xe số bao lâu thay? Độ chùng xích chuẩn, cách chỉnh",
+    "keyword": "nhông sên đĩa bao lâu thay, độ chùng xích xe máy bao nhiêu, tăng sên xe số, bôi trơn xích xe máy bao lâu một lần, thay nhông xích wave alpha, giá bộ nhông xích honda",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/sen-nhong-dia-xe-so/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhớt láp xe ga (nhớt hộp số) bao lâu thay một lần",
+    "keyword": "nhớt láp xe ga, dầu láp xe ga bao lâu thay, nhớt hộp số xe tay ga, dầu truyền động cuối, thay nhớt láp bao nhiêu tiền, nhớt láp xe lead bao nhiêu ml",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/nhot-hop-so-xe-ga-nhot-lap-bao-lau-thay-mot-lan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đèn báo lỗi FI nháy trên xe máy Honda: nghĩa là gì, làm gì",
+    "keyword": "đèn fi nháy, đèn báo lỗi phun xăng điện tử, đèn mil xe máy honda sáng, đèn fi sáng khi đang chạy, đèn check engine xe máy, chờ đèn fi tắt mới đề",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Smart Key xe máy Honda hết pin: cách mở xe và thay pin CR2032",
+    "keyword": "smartkey hết pin, thay pin smartkey honda, pin cr2032 smartkey, mở khóa smartkey bằng mã id, smartkey không nhận, chìa khóa thông minh xe máy hết pin",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/smart-key-xe-may-honda-het-pin/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy khó nổ buổi sáng: nguyên nhân và cách khởi động đúng",
+    "keyword": "xe máy khó nổ buổi sáng, xe máy khó nổ khi trời lạnh, xe ga khó đề buổi sáng, cách dùng le gió xe số, xe để qua đêm khó nổ, có nên làm nóng máy buổi sáng",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/xe-may-kho-no-buoi-sang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vệ sinh kim phun xe máy bao lâu một lần: mốc Honda và xưởng",
+    "keyword": "vệ sinh kim phun xe máy, vệ sinh kim phun xe máy bao nhiêu km, dung dịch vệ sinh kim phun honda, kim phun bẩn dấu hiệu, vệ sinh buồng đốt xe máy, súc béc xăng xe ga",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/ve-sinh-kim-phun-xang-dien-tu-bao-lau-mot-lan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chân chống xe máy không nổ: công tắc chân chống bên hoạt động ra sao",
+    "keyword": "chân chống xe máy không nổ, công tắc chân chống xe ga, hạ chân chống xe tắt máy, cảm biến chân chống bị lỗi, xe ga không đề được do chân chống, chân chống nghiêng xe máy",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/cong-tac-chan-chong-ben/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy bị nóng máy, quạt két nước chạy liên tục: xử lý thế nào",
+    "keyword": "xe máy nóng máy, đèn báo nhiệt độ nước làm mát sáng, quạt két nước xe máy chạy liên tục, xe ga nóng máy khi đi đường dài, xe máy quá nhiệt phải làm sao, xe tay ga nóng máy tắt máy",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/xe-may-bi-nong-may-quat-ket-nuoc-chay-lien-tuc/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đồng hồ xăng xe máy không lên: nguyên nhân và cách kiểm tra",
+    "keyword": "đồng hồ xăng xe máy không lên, kim xăng xe máy không chạy, đồng hồ xăng báo sai, phao xăng xe máy hỏng, vạch xăng nhấp nháy, xe máy còn bao nhiêu xăng khi báo E",
+    "hub": "bao-duong",
+    "pillar": "/bao-duong/",
+    "url": "/bao-duong/dong-ho-xang-xe-may-khong-len/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Văn Miếu – Quốc Tử Giám: giờ mở cửa, vé, gửi xe máy",
+    "keyword": "văn miếu quốc tử giám, văn miếu quốc tử giám giờ mở cửa, giá vé văn miếu 2026, văn miếu gửi xe máy ở đâu, tour đêm văn miếu tinh hoa đạo học, văn miếu ở phường nào",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Lăng Bác giờ mở cửa: lịch viếng, đợt tu bổ 2026 và quy định",
+    "keyword": "lăng bác giờ mở cửa, lịch viếng lăng bác 2026, lăng bác đóng cửa tu bổ, lăng bác mở cửa thứ mấy, giờ viếng lăng mùa lạnh, quảng trường ba đình giờ mở cửa",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-bac-gio-mo-cua/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Dân tộc học Việt Nam: giờ mở cửa, vé, đi xe máy",
+    "keyword": "bảo tàng dân tộc học, bảo tàng dân tộc học giờ mở cửa, giá vé bảo tàng dân tộc học, bảo tàng dân tộc học ở đâu, phí chụp ảnh bảo tàng dân tộc học, múa rối nước bảo tàng dân tộc học",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-dan-toc-hoc-viet-nam/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hoàng thành Thăng Long: giờ mở cửa, vé, gửi xe máy",
+    "keyword": "hoàng thành thăng long, hoàng thành thăng long giờ mở cửa, giá vé hoàng thành thăng long 2026, hoàng thành thăng long gửi xe, tour đêm giải mã hoàng thành thăng long, 19c hoàng diệu",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/hoang-thanh-thang-long/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhà tù Hỏa Lò: giờ mở cửa, vé ban ngày, tour đêm",
+    "keyword": "nhà tù hỏa lò, nhà tù hỏa lò giờ mở cửa, giá vé nhà tù hỏa lò, tour đêm hỏa lò đêm thiêng liêng, hỏa lò ở đâu, nhà tù hỏa lò gửi xe",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/nha-tu-hoa-lo/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phố sách 19/12 và phố đi bộ Hồ Gươm cuối tuần: giờ, gửi xe",
+    "keyword": "phố đi bộ hồ gươm, phố đi bộ hồ gươm mấy giờ, phố đi bộ hồ gươm cấm xe máy, phố sách 19/12 mở cửa mấy giờ, gửi xe phố đi bộ hồ gươm, phố sách hà nội ở đâu",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Bắc Ninh bằng xe máy: chùa Dâu, đền Đô, làng tranh Đông Hồ",
+    "keyword": "hà nội đi bắc ninh, hà nội đi bắc ninh bằng xe máy, chùa dâu bắc ninh, đền đô từ sơn, làng tranh đông hồ ở đâu, quốc lộ 1 hà nội bắc giang xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi phố Hiến Hưng Yên bằng xe máy: quốc lộ 5, chùa Chuông",
+    "keyword": "phố hiến hưng yên, hà nội đi phố hiến bằng xe máy, phố hiến ở đâu, chùa chuông hưng yên, văn miếu xích đằng, nhãn lồng hưng yên mùa nào",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi chùa Tam Chúc bằng xe máy: đường đi, vé xe điện, thuyền",
+    "keyword": "chùa tam chúc, hà nội đi tam chúc bằng xe máy, chùa tam chúc giá vé, tam chúc cách hà nội bao nhiêu km, tam chúc thuộc tỉnh nào, xe điện tam chúc",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Lạng Sơn bằng xe máy: quốc lộ 1, lên Mẫu Sơn",
+    "keyword": "hà nội đi lạng sơn, hà nội đi lạng sơn bằng xe máy, hà nội lạng sơn bao nhiêu km, đường lên mẫu sơn, mẫu sơn có tuyết không, cao tốc bắc giang lạng sơn xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda WINNER R: giá 3 phiên bản, thông số, ABS, hao xăng 2,59 l",
+    "keyword": "honda winner r, winner r giá bao nhiêu, winner r thông số kỹ thuật, winner r abs, winner r hao xăng, winner r cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-winner-r/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda Wave RSX FI: giá 3 phiên bản, thông số, hao 1,56 l/100 km",
+    "keyword": "honda wave rsx, wave rsx giá bao nhiêu, wave rsx fi thông số, wave rsx phanh đĩa hay phanh cơ, wave rsx hao xăng, wave rsx chở được bao nhiêu kg",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-wave-rsx-fi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha Latte: giá 4 dòng niêm yết, cốp 37 lít, hao 1,8 l/100 km",
+    "keyword": "yamaha latte, latte giá bao nhiêu, yamaha latte thông số, latte cốp bao nhiêu lít, latte hao xăng không, latte cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-latte-gia-4-dong-niem-yet-cop-37-lit-hao-1-8-l-100-km/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha PG-1: giá các bản tiêu chuẩn và ABS, thông số, hao xăng",
+    "keyword": "yamaha pg-1, pg-1 giá bao nhiêu, pg-1 abs khác gì bản tiêu chuẩn, yamaha pg1 thông số, pg-1 hao xăng, pg-1 cao bao nhiêu",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-pg-1/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "SYM Attila 50: giá 26,2 triệu, thông số, hao 2,22 l/100 km",
+    "keyword": "sym attila, attila 50 giá bao nhiêu, sym attila 50cc thông số, attila 50 hao xăng, xe ga 50cc sym attila, attila 50 cốp",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/sym-attila-50/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Piaggio Liberty 125: giá 3 phiên bản, ABS, bánh 16 inch, hao xăng",
+    "keyword": "piaggio liberty, piaggio liberty giá bao nhiêu, liberty 125 thông số, liberty s khác liberty z, liberty hao xăng, xe bánh cao piaggio",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/piaggio-liberty-125/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vespa Sprint: giá 8 phiên bản 125–180cc, thông số Sprint 125",
+    "keyword": "vespa sprint, vespa sprint giá bao nhiêu, vespa sprint 125 thông số, sprint s 125 khác sprint 125, vespa sprint hao xăng, vespa sprint bảo hành",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/vespa-sprint-gia-8-phien-ban-125-180cc-thong-so-sprint-125/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vespa Primavera 125: giá bản thường, S, RED và thông số 2026",
+    "keyword": "vespa primavera, vespa primavera giá bao nhiêu, primavera 125 thông số, primavera s khác primavera, primavera red, vespa primavera hao xăng",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/vespa-primavera-125/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Piaggio Medley S 125 và 150: giá, ABS 2 kênh, cốp 2 mũ, thông số",
+    "keyword": "piaggio medley, piaggio medley giá bao nhiêu, medley s 125 thông số, medley 125 hay 150, medley hao xăng, medley abs 2 kênh",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/piaggio-medley-s-125-va-150/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Vero X: pin LFP 2,4 kWh, 134 km mỗi lần sạc, giá và bằng lái",
+    "keyword": "vinfast vero x, vero x đi được bao nhiêu km, giá xe vinfast vero x, vero x có cần bằng lái không, vero x pin phụ, xe máy điện 2 pin vinfast",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-vero-x/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Klara S (Klara S2): thông số, giá 2025 và còn bán không",
+    "keyword": "vinfast klara s, vinfast klara s2, klara s2 đi được bao nhiêu km, giá klara s2, klara s có cần bằng lái không, thuê pin klara s",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-klara-s-klara-s2/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Theon S: 99 km/h, pin LFP 3,5 kWh, 150 km và giá niêm yết",
+    "keyword": "vinfast theon s, theon s đi được bao nhiêu km, giá vinfast theon s, theon s có cần bằng lái không, theon s thuê pin, xe máy điện vinfast cao cấp",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-theon-s/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yadea Voltguard U80, U50, P-L: pin LFP, quãng đường, giá, bằng lái",
+    "keyword": "yadea voltguard, yadea voltguard u80, yadea voltguard u50, yadea voltguard p-l, voltguard đi được bao nhiêu km, giá xe điện yadea voltguard",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/yadea-voltguard-u80-u50-p-l/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Dat Bike Quantum S1, S2, S3: 200–285 km, giá, pin LFP và bằng lái",
+    "keyword": "dat bike quantum, dat bike quantum s1, dat bike quantum s2, dat bike quantum s3, giá xe máy điện dat bike, quantum đi được bao nhiêu km",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/dat-bike-quantum-s1-s2-s3/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy điện Tailg: các mẫu xe gắn máy điện, ắc quy và quãng đường",
+    "keyword": "xe máy điện tailg, tailg việt nam, xe điện tailg có cần bằng lái không, tailg r71, tailg đi được bao nhiêu km, ắc quy xe điện tailg",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/xe-may-dien-tailg/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Pin LFP và ắc quy chì trên xe máy điện khác gì: nặng, sạc, bảo hành",
+    "keyword": "pin lfp xe máy điện, pin lfp và ắc quy, pin lithium hay ắc quy xe điện, ắc quy graphene, tuổi thọ pin lfp, xe điện dùng ắc quy đi được bao xa",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Trạm đổi pin VinFast: cách đổi, phí 9.000 đồng/lượt, giá thuê pin",
+    "keyword": "trạm đổi pin vinfast, tủ đổi pin vinfast, phí đổi pin vinfast, giá thuê pin xe máy điện vinfast, cách đổi pin xe máy điện vinfast, tủ đổi pin v-green",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/tram-doi-pin-vinfast/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe máy khi có sương mù, trời nồm ở Hà Nội: đèn, tốc độ, phanh",
+    "keyword": "đi xe máy sương mù, đi xe máy trời nồm, sương mù hà nội tầm nhìn, bật đèn khi sương mù xe máy, đèn chạy ban ngày xe máy có tác dụng gì",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/di-xe-may-khi-co-suong-mu-troi-nom-o-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe máy đường dài bao lâu nên nghỉ? Dấu hiệu mệt và cách nghỉ",
+    "keyword": "đi xe máy đường dài, chạy xe máy đường dài bao lâu nghỉ một lần, dấu hiệu buồn ngủ khi lái xe máy, một ngày đi xe máy được bao nhiêu km, ngồi xe máy đường dài đỡ mỏi",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe máy qua đường ngang đường sắt an toàn: dừng ở đâu, nhìn gì",
+    "keyword": "qua đường ngang đường sắt, đường ngang không có rào chắn, lối đi tự mở qua đường sắt, xe máy chết máy trên đường ray, biển giao nhau với đường sắt",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/di-xe-may-qua-duong-ngang-duong-sat-an-toan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy hết xăng giữa đường: dừng an toàn, dắt xe, đổ lại xăng",
+    "keyword": "xe máy hết xăng, xe máy hết xăng giữa đường phải làm sao, đèn báo xăng nhấp nháy còn bao nhiêu lít, chạy kiệt xăng có hại xe không, trả xe thuê cần bao nhiêu xăng",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/xe-may-het-xang-giua-duong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Dựng chân chống giữa xe máy: cách nhẹ tay, không đổ xe",
+    "keyword": "dựng chân chống giữa, cách dựng chân chống đứng xe máy, dựng chân chống giữa không nổi, khi nào dùng chân chống giữa, chân chống nghiêng hay chân chống giữa",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/dung-chan-chong-giua-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Găng tay, áo giáp đi xe máy: có cần không và chọn loại nào",
+    "keyword": "găng tay đi xe máy, áo giáp đi xe máy có cần không, đồ bảo hộ đi xe máy gồm những gì, giày đi xe máy loại nào, quần áo bảo hộ đi xe máy đường dài",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe máy trời nắng nóng 40 độ ở Hà Nội: giờ tránh, nước uống, xe",
+    "keyword": "đi xe máy trời nắng nóng, chạy xe máy giữa trưa nắng, say nắng khi đi xe máy, xe máy quá nhiệt mùa hè, nắng nóng hà nội mấy giờ nóng nhất",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đền Ngọc Sơn và cầu Thê Húc: vé 50.000đ, giờ mở cửa, gửi xe máy",
+    "keyword": "đền ngọc sơn, đền ngọc sơn giờ mở cửa, giá vé đền ngọc sơn, cầu thê húc, tour đêm đền ngọc sơn, đền ngọc sơn gửi xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/den-ngoc-son-va-cau-the-huc/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Trấn Quốc: lịch sử 1.500 năm, khi nào đông, đi xe máy và lưu ý",
+    "keyword": "chùa trấn quốc, chùa trấn quốc ở đâu, chùa trấn quốc lịch sử, bảo tháp chùa trấn quốc, cây bồ đề chùa trấn quốc, đi lễ chùa trấn quốc đầu năm",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-tran-quoc/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đền Quán Thánh: giờ mở cửa, vé 10.000đ, tượng Trấn Vũ và lưu ý",
+    "keyword": "đền quán thánh, đền quán thánh giờ mở cửa, vé đền quán thánh, tượng huyền thiên trấn vũ, thăng long tứ trấn, đền quán thánh ở đâu",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/den-quan-thanh/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Phụ nữ Việt Nam: giờ mở cửa, vé, audio guide, triển lãm 2026",
+    "keyword": "bảo tàng phụ nữ việt nam, bảo tàng phụ nữ việt nam giờ mở cửa, giá vé bảo tàng phụ nữ, 36 lý thường kiệt, bảo tàng phụ nữ có gì, audio guide bảo tàng phụ nữ",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-phu-nu-viet-nam/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Mỹ thuật Việt Nam: giờ mở cửa, giá vé, nghỉ thứ Hai, thuyết minh",
+    "keyword": "bảo tàng mỹ thuật việt nam, bảo tàng mỹ thuật việt nam giờ mở cửa, giá vé bảo tàng mỹ thuật việt nam, 66 nguyễn thái học, imuseum vfa, bảo tàng mỹ thuật có gì",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-my-thuat-viet-nam/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhà hát Lớn Hà Nội đóng cửa trùng tu: còn xem gì, đi xe máy lưu ý gì",
+    "keyword": "nhà hát lớn hà nội, nhà hát lớn hà nội đóng cửa, nhà hát lớn hà nội trùng tu, nhà hát lớn có cho tham quan không, tour nhà hát lớn hà nội, quảng trường cách mạng tháng tám",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng hoa Nhật Tân, quất Tứ Liên: mùa đẹp, lễ hội Tết, đi xe máy",
+    "keyword": "làng hoa nhật tân, làng đào nhật tân, vườn đào nhật tân, làng quất tứ liên, đào nhật tân tết 2026, chợ hoa quảng bá",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phố đường tàu Hà Nội 2026: có bị cấm không, quy định và an toàn",
+    "keyword": "phố đường tàu hà nội, cà phê đường tàu hà nội, phố đường tàu có bị cấm không, phố đường tàu phùng hưng, phố đường tàu khâm thiên, cà phê đường tàu bị phạt",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/pho-duong-tau-ha-noi-2026/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Lịch sử Quốc gia: giờ mở cửa, giá vé, hai cơ sở, nội quy",
+    "keyword": "bảo tàng lịch sử quốc gia, bảo tàng lịch sử quốc gia giờ mở cửa, giá vé bảo tàng lịch sử quốc gia, 1 tràng tiền, 216 trần quang khải, bảo tàng lịch sử việt nam hà nội",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-lich-su-quoc-gia/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Lịch sử Quân sự Việt Nam ở Đại lộ Thăng Long: giờ mở, vé, gửi xe, Cột cờ",
+    "keyword": "bảo tàng lịch sử quân sự việt nam, bảo tàng lịch sử quân sự giờ mở cửa, giá vé bảo tàng lịch sử quân sự, bảo tàng quân sự đại lộ thăng long, cột cờ hà nội, bảo tàng lịch sử quân sự gửi xe",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-lich-su-quan-su-viet-nam/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda SH350i: giá 3 phiên bản, thông số 329,6 cc, cần bằng A",
+    "keyword": "honda sh350i, sh350i giá bao nhiêu, sh350i thông số kỹ thuật, sh350i hao xăng, sh350i cần bằng gì, sh350i nặng bao nhiêu kg",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-sh350i/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda CBR150R: giá 3 phiên bản, thông số, ABS 2 kênh, cần bằng A",
+    "keyword": "honda cbr150r, cbr150r giá bao nhiêu, cbr150r thông số kỹ thuật, cbr150r hao xăng, cbr150r abs, cbr150r khác winner r",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-cbr150r/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha XS155R: giá 78.000.000 đ, 3 màu, máy 155,1 cc VVA, cần bằng A",
+    "keyword": "yamaha xs155r, xs155r giá bao nhiêu, xs155r thông số kỹ thuật, xs155r cao yên bao nhiêu, xs155r hao xăng, xe neo retro yamaha",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-xs155r/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha MT-15: giá 69.000.000 đ, thông số 155,1 cc, hao 1,936 l/100 km",
+    "keyword": "yamaha mt-15, mt-15 giá bao nhiêu, mt15 thông số kỹ thuật, mt-15 hao xăng, mt-15 cao yên, mt-15 cần bằng gì",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-mt-15/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yamaha R15 và R15M: giá 78.000.000 và 86.000.000 đ, ABS, quickshifter",
+    "keyword": "yamaha r15, yzf-r15 giá bao nhiêu, r15m khác r15, r15 thông số kỹ thuật, r15 hao xăng, r15 có abs không",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/yamaha-r15-va-r15m/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Suzuki Satria 2026: giá Satria và Satria Pro, thông số, ABS",
+    "keyword": "suzuki satria, satria giá bao nhiêu, satria pro khác satria, satria thông số kỹ thuật, satria hao xăng, satria có abs không",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/suzuki-satria-2026/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "SYM Angela 50: giá, thông số xe số 50cc, so với Galaxy 50",
+    "keyword": "sym angela 50, angela 50 giá bao nhiêu, xe số 50cc sym, sym galaxy 50, angela 50 hao xăng",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/sym-angela-50/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Kymco Like 50 và Like 50Fi: giá, thông số xe ga 50cc, hao xăng",
+    "keyword": "kymco like, kymco like 50 giá bao nhiêu, like 50fi, xe ga 50cc kymco, kymco like hao xăng, xe ga 50cc không cần bằng",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/kymco-like-50-va-like-50fi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vespa GTS 125, 150, 300: giá các phiên bản, thông số, bằng A1 hay A",
+    "keyword": "vespa gts, vespa gts giá bao nhiêu, vespa gts 125, vespa gts 300 supertech, vespa gts khác sprint, vespa gts cần bằng gì",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/vespa-gts/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Piaggio Beverly S 400: giá 235.000.000 đồng, thông số, ABS/ASR, bằng A",
+    "keyword": "piaggio beverly, piaggio beverly 400 giá, beverly s 400 thông số, beverly hao xăng, xe tay ga bánh lớn 400cc, beverly cần bằng gì",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/piaggio-beverly-s-400/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "VinFast Evo Grand: pin 2,4 kWh, 262 km khi thêm pin, giá các bản",
+    "keyword": "vinfast evo grand, evo grand giá bao nhiêu, evo grand ii khác evo grand, evo grand đi được bao nhiêu km, evo grand có cần bằng lái không, evo grand premia limited",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/vinfast-evo-grand/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Yadea Orla: 48 km/h, ắc quy Graphene, 65 km/lần sạc, giá 21.690.000 đồng",
+    "keyword": "yadea orla, yadea orla p giá, yadea orla đi được bao nhiêu km, yadea orla có cần bằng lái không, xe máy điện 50 km/h cho học sinh, yadea orla sạc bao lâu",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/yadea-orla/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Côn Sơn Kiếp Bạc đi xe máy từ Hà Nội: đường đi, lễ hội, lưu ý",
+    "keyword": "côn sơn kiếp bạc, côn sơn kiếp bạc cách hà nội bao nhiêu km, đường đi côn sơn kiếp bạc xe máy, lễ hội côn sơn kiếp bạc mùa thu 2026, đền kiếp bạc, chùa côn sơn bàn cờ tiên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Tây Yên Tử đi xe máy từ Hà Nội: đường 293, cáp treo lên chùa Đồng",
+    "keyword": "tây yên tử, tây yên tử cách hà nội bao nhiêu km, đường đi tây yên tử bằng xe máy, cáp treo tây yên tử, chùa hạ chùa thượng tây yên tử, tây yên tử bắc giang",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Tây Thiên và Thiền viện Trúc Lâm đi xe máy: đường đi, cáp treo, lễ hội",
+    "keyword": "tây thiên, thiền viện trúc lâm tây thiên, tây thiên cách hà nội bao nhiêu km, cáp treo tây thiên, lễ hội tây thiên, đường đi tây thiên bằng xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/tay-thien-va-thien-vien-truc-lam-di-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hồ Ba Bể đi xe máy từ Hà Nội: quốc lộ 3, vé thắng cảnh, đi thuyền",
+    "keyword": "hồ ba bể, hà nội đi hồ ba bể bao nhiêu km, hồ ba bể đi xe máy, vé thắng cảnh hồ ba bể, đi thuyền hồ ba bể, hồ ba bể thái nguyên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Na Hang – Lâm Bình đi xe máy từ Hà Nội: đường đi, thuyền lòng hồ",
+    "keyword": "na hang, na hang lâm bình, hồ na hang, đường đi na hang tuyên quang, thác pác ban, thác khuổi nhi",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vườn quốc gia Xuân Sơn Phú Thọ đi xe máy: đường đi, hang, thác",
+    "keyword": "xuân sơn phú thọ, vườn quốc gia xuân sơn, xuân sơn cách hà nội bao nhiêu km, hang lạng xuân sơn, đường đi vườn quốc gia xuân sơn, xuân sơn tân sơn",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhà thờ đổ Hải Lý và biển Thịnh Long: đi xe máy từ Hà Nội",
+    "keyword": "nhà thờ đổ hải lý, nhà thờ đổ nam định, biển thịnh long, nhà thờ đổ hải lý cách hà nội bao nhiêu km, đường đi nhà thờ đổ hải lý, biển quất lâm",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phủ Dày (Phủ Dầy) đi xe máy từ Hà Nội: đường đi, lễ hội tháng Ba",
+    "keyword": "phủ dày, phủ dầy, lễ hội phủ dầy, đường đi phủ dày nam định, phủ tiên hương phủ vân cát, phủ giầy vụ bản",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/phu-day-di-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Điện Biên bằng xe máy: quốc lộ 6, đèo Pha Đin, mấy ngày",
+    "keyword": "hà nội đi điện biên, hà nội đi điện biên bao nhiêu km, hà nội đi điện biên bằng xe máy, đèo pha đin, quốc lộ 6 sơn la điện biên, phượt điện biên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hà Nội đi Sầm Sơn bằng xe máy: quốc lộ 1A, đường vào biển, lưu ý",
+    "keyword": "hà nội đi sầm sơn, hà nội đi sầm sơn bao nhiêu km, hà nội đi sầm sơn bằng xe máy, đường vào biển sầm sơn, đại lộ nam sông mã, tắm biển sầm sơn lưu ý",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đèo Mã Pì Lèng và Đồng Văn: chặng QL4C, Lũng Cú, sông Nho Quế",
+    "keyword": "mã pì lèng, đèo mã pì lèng, đồng văn mèo vạc, quốc lộ 4c hà giang, sông nho quế đi thuyền, cột cờ lũng cú cách đồng văn",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/deo-ma-pi-leng-va-dong-van/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vườn quốc gia Cúc Phương đi xe máy từ Hà Nội: đường đi, tour, mùa bướm",
+    "keyword": "vườn quốc gia cúc phương, cúc phương cách hà nội bao nhiêu km, đường đi cúc phương bằng xe máy, mùa bướm cúc phương, giá tour cúc phương, rừng cúc phương",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Một Cột: lịch sử từ 1049, đài sen trên trụ đá, đi xe máy từ Long Biên",
+    "keyword": "chùa một cột, chùa một cột ở đâu, chùa diên hựu, lịch sử chùa một cột, chùa một cột giờ mở cửa, chùa một cột gửi xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-mot-cot/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phủ Tây Hồ: giờ mở cửa, ngày đông khách, gửi xe máy khi đi lễ",
+    "keyword": "phủ tây hồ, phủ tây hồ mở cửa mấy giờ, phủ tây hồ gửi xe ở đâu, đi lễ phủ tây hồ, phủ tây hồ mùng 1, phủ tây hồ đặng thai mai",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/phu-tay-ho/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng lụa Vạn Phúc: đi xe máy từ Long Biên, xem dệt, mua lụa thật ở đâu",
+    "keyword": "làng lụa vạn phúc, làng lụa vạn phúc ở đâu, lụa vạn phúc thật giả, giá lụa vạn phúc, làng lụa hà đông, chợ lụa vạn phúc",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-lua-van-phuc/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ Đồng Xuân: mấy giờ mở cửa, mua gì, đi xe máy và cấm xe tối cuối tuần",
+    "keyword": "chợ đồng xuân, chợ đồng xuân mấy giờ mở cửa, chợ đồng xuân bán gì, ngõ chợ đồng xuân ăn gì, chợ đồng xuân gửi xe, lịch sử chợ đồng xuân",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-dong-xuan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhà thờ Lớn Hà Nội: giờ tham quan, giờ lễ, trang phục, đi xe máy",
+    "keyword": "nhà thờ lớn hà nội, nhà thờ lớn hà nội giờ mở cửa, giờ lễ nhà thờ lớn, nhà thờ chính tòa hà nội, nhà thờ lớn hà nội chủ nhật có tham quan không, nhà thờ lớn hà nội noel",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/nha-tho-lon-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Hồ Chí Minh: giờ mở cửa, nghỉ thứ Hai và thứ Sáu, vé, nội quy",
+    "keyword": "bảo tàng hồ chí minh, bảo tàng hồ chí minh giờ mở cửa, bảo tàng hồ chí minh giá vé, bảo tàng hồ chí minh hà nội ở đâu, bảo tàng hồ chí minh 19 ngọc hà, bảo tàng hồ chí minh nội quy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-ho-chi-minh/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Hà Nội: giờ mở cửa, vé 50.000đ, nghỉ thứ Hai, có gì mới 2026",
+    "keyword": "bảo tàng hà nội, bảo tàng hà nội giờ mở cửa, giá vé bảo tàng hà nội, bảo tàng hà nội phạm hùng, sa bàn quy hoạch hà nội 100 năm, bảo tàng hà nội kim tự tháp ngược",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Công viên Thống Nhất: không thu vé, vào cổng nào, đang thi công gì 2026",
+    "keyword": "công viên thống nhất, công viên thống nhất có mất vé không, công viên thống nhất ở đâu, quảng trường trần nhân tông, hồ bảy mẫu, công viên thống nhất đi xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cong-vien-thong-nhat/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phố bích họa Phùng Hưng: ở đoạn nào, còn gì để xem, đi xe máy lưu ý gì",
+    "keyword": "phố bích họa phùng hưng, phố bích họa phùng hưng ở đâu, vòm cầu phùng hưng, 131 vòm cầu đá hà nội, chợ hoa phố cổ phùng hưng, phùng hưng check in",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/pho-bich-hoa-phung-hung/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ đêm phố cổ Hà Nội: giờ họp, tuyến phố, cấm xe máy 19h–24h cuối tuần",
+    "keyword": "chợ đêm phố cổ, chợ đêm phố cổ hà nội mấy giờ, chợ đêm hàng đào, chợ đêm đồng xuân, chợ đêm phố cổ bán gì, chợ đêm phố cổ gửi xe ở đâu",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-dem-pho-co-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đền Bạch Mã 76 Hàng Buồm: trấn Đông Thăng Long, xem gì, đi xe máy",
+    "keyword": "đền bạch mã, đền bạch mã ở đâu, đền bạch mã hàng buồm, thăng long tứ trấn, sự tích đền bạch mã, lễ hội đền bạch mã",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/den-bach-ma-76-hang-buom/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Tháp Rùa Hồ Gươm: ai xây, năm nào, ngắm ở đâu và chuyện cụ rùa",
+    "keyword": "tháp rùa hồ gươm, tháp rùa xây năm nào, tháp rùa ai xây, hồ hoàn kiếm rộng bao nhiêu, cụ rùa hồ gươm, ngắm tháp rùa ở đâu",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/thap-rua-ho-guom/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vườn thú Hà Nội (Thủ Lệ): giá vé, giờ mở, 3 cổng vào và gửi xe máy",
+    "keyword": "vườn thú hà nội, vườn thú thủ lệ, công viên thủ lệ, giá vé vườn thú hà nội 2026, vườn thú hà nội mấy giờ mở cửa, gửi xe vườn thú hà nội",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/vuon-thu-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vườn Bách Thảo Hà Nội: công viên từ 1890, đã hạ rào, vào từ đâu",
+    "keyword": "vườn bách thảo hà nội, công viên bách thảo, bách thảo hà nội ở đâu, công viên bách thảo hạ rào, vé vào bách thảo, núi sưa bách thảo",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/vuon-bach-thao-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Quán Sứ: lịch sử, kiến trúc, trụ sở Giáo hội và cách đi xe máy",
+    "keyword": "chùa quán sứ, chùa quán sứ ở đâu, 73 quán sứ, lịch sử chùa quán sứ, chùa quán sứ trụ sở giáo hội phật giáo, đi lễ chùa quán sứ",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-quan-su/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Hà Cầu Giấy: giờ mở 5h30–19h, lễ cầu duyên và lúc nào đông",
+    "keyword": "chùa hà, chùa hà cầu duyên, chùa hà ở đâu, chùa hà mấy giờ mở cửa, thánh đức tự, sắm lễ chùa hà",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-ha-cau-giay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhà cổ 87 Mã Mây: vé 20.000đ, ai được miễn, xem gì trong nhà ống",
+    "keyword": "nhà cổ 87 mã mây, ngôi nhà di sản 87 mã mây, 87 mã mây giá vé, nhà cổ mã mây, nhà ống phố cổ hà nội, 87 mã mây có gì",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/nha-co-87-ma-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hội quán Quảng Đông 22 Hàng Buồm: vé 20.000đ, lịch sử, xem gì",
+    "keyword": "hội quán quảng đông 22 hàng buồm, 22 hàng buồm, di tích 22 hàng buồm, hội quán quảng đông hà nội, 22 hàng buồm giá vé, trung tâm văn hóa nghệ thuật 22 hàng buồm",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/hoi-quan-quang-dong-22-hang-buom/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhà sàn Bác Hồ ở Phủ Chủ tịch: giờ mở cửa, vé, tuyến tham quan",
+    "keyword": "nhà sàn bác hồ, khu di tích phủ chủ tịch, phủ chủ tịch giờ mở cửa, nhà sàn bác hồ giá vé, ao cá bác hồ, nhà 67 phủ chủ tịch",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/nha-san-bac-ho-phu-chu-tich/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng cổ Đông Ngạc: làng tiến sĩ, đình Vẽ, nhà cổ và đi xe máy",
+    "keyword": "làng cổ đông ngạc, làng đông ngạc, làng vẽ, làng tiến sĩ hà nội, đình đông ngạc, chùa tư khánh",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-co-dong-ngac/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phố Hàng Mã mùa Trung thu: đoạn cấm xe 24/24, gửi xe, giá đèn lồng",
+    "keyword": "phố hàng mã trung thu, chợ trung thu hàng mã, hàng mã trung thu cấm xe, gửi xe hàng mã trung thu, giá đèn ông sao hàng mã, đi chơi trung thu phố cổ",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/pho-hang-ma-trung-thu/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đài quan sát Lotte Hà Nội tầng 65: giá vé, giờ mở, sàn kính Skywalk",
+    "keyword": "đài quan sát lotte, lotte observation deck, hanoi sky lotte, giá vé đài quan sát lotte, lotte tầng 65, skywalk lotte hà nội",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/dai-quan-sat-lotte/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Công viên Yên Sở: 323 ha đã hạ rào, khu vui chơi mới, đi xe máy",
+    "keyword": "công viên yên sở, công viên yên sở 2026, công viên yên sở có mất phí không, khu vui chơi công viên yên sở, cắm trại công viên yên sở, hồ yên sở",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cong-vien-yen-so/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Ga Hà Nội: hai khu Lê Duẩn – Trần Quý Cáp, gửi xe máy theo tàu, metro",
+    "keyword": "ga hà nội, ga hàng cỏ, ga trần quý cáp, gửi xe máy theo tàu ga hà nội, metro nhổn ga hà nội ga ngầm, ga hà nội lịch sử",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ga-ha-noi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Không nhường đường cho người đi bộ: xe máy phạt bao nhiêu, trừ mấy điểm",
+    "keyword": "không nhường đường cho người đi bộ phạt bao nhiêu, rẽ không nhường người đi bộ xe máy, vạch kẻ đường cho người đi bộ xe máy, đèn xanh có phải nhường người đi bộ không, đèn vàng nhấp nháy nhường đường",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/khong-nhuong-duong-cho-nguoi-di-bo-phat-bao-nhieu/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Nhường đường tại nơi giao nhau, vòng xuyến: xe nào đi trước, phạt bao nhiêu",
+    "keyword": "nhường đường tại nơi giao nhau, đi vòng xuyến nhường bên nào, nhường đường xe bên phải, đường nhánh ra đường chính nhường đường, không nhường đường tại vòng xuyến phạt bao nhiêu",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/nhuong-duong-tai-noi-giao-nhau-vong-xuyen/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy bị tạm giữ bao lâu? Khi nào bị giữ xe, phí và cách nhận lại",
+    "keyword": "xe máy bị tạm giữ bao lâu, tạm giữ phương tiện vi phạm giao thông, lấy xe bị tạm giữ, phí trông giữ xe bị tạm giữ, lỗi nào bị giữ xe máy",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/xe-may-bi-tam-giu-bao-lau/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe không chính chủ có bị phạt không? Xe mượn, xe thuê, xe mua cũ",
+    "keyword": "xe không chính chủ có bị phạt không, đi xe mượn có bị phạt không chính chủ, lỗi xe không chính chủ xe máy, đi xe thuê có bị phạt không chính chủ, csgt có kiểm tra xe chính chủ không",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/di-xe-khong-chinh-chu-co-bi-phat/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "CSGT được dừng xe khi nào? 4 căn cứ và cách ra hiệu lệnh theo Thông tư 73",
+    "keyword": "csgt được dừng xe khi nào, csgt có được dừng xe không lỗi, thông tư 73/2024/tt-bca dừng xe, căn cứ dừng phương tiện để kiểm soát, hiệu lệnh dừng xe của csgt",
+    "hub": "luat-giao-thong",
+    "pillar": "/luat-giao-thong/",
+    "url": "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xăng E10 cho xe máy: lộ trình từ 1/6/2026, xe đời cũ đổ được không",
+    "keyword": "xăng e10 xe máy, xe máy cũ đổ xăng e10 được không, xăng e10 có hại xe máy không, honda yamaha sym tương thích e10, lộ trình xăng e10",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/xang-e10-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vá lốp không săm xe máy: vá dùi, bơm keo, khi nào phải thay lốp",
+    "keyword": "vá lốp không săm, vá lốp không săm xe máy, lốp không săm bị đinh, vá dùi lốp xe máy, lốp vá tạm chạy bao nhiêu km/h",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/va-lop-khong-sam-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phuộc xe máy bị chảy dầu: dấu hiệu, nguyên nhân, có đi tiếp được không",
+    "keyword": "phuộc xe máy bị chảy dầu, giảm xóc xe máy chảy dầu, phớt phuộc xe máy, thay dầu phuộc xe máy, chỉnh giảm xóc sau xe máy",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/phuoc-xe-may-bi-chay-dau/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy bị đổ, ngã xe: kiểm tra gì trước khi nổ máy đi tiếp",
+    "keyword": "xe máy bị đổ kiểm tra gì, xe máy bị đổ không nổ được, ngã xe máy phải làm gì, xe ga bị đổ có sao không, xe thuê bị đổ trầy xước",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/xe-may-bi-do-kiem-tra-gi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Khóa chống trộm xe máy: khóa đĩa, báo động Smart Key, định vị GPS",
+    "keyword": "khóa chống trộm xe máy, khóa đĩa xe máy, chống trộm xe máy, báo động chống trộm smart key honda, định vị xe máy",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/khoa-chong-trom-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Điểm mù xe tải, xe buýt: người đi xe máy tránh thế nào",
+    "keyword": "điểm mù xe tải, điểm mù xe container, điểm mù xe buýt xe máy, đi xe máy cạnh xe tải, xe tải rẽ phải cuốn xe máy",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/diem-mu-xe-tai-xe-buyt/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Phòng cướp giật khi đi xe máy ở Hà Nội: túi, điện thoại, xử lý khi bị giật",
+    "keyword": "phòng cướp giật khi đi xe máy, bị giật điện thoại khi đi xe máy, cướp giật túi xách xe máy, bị cướp giật phải làm gì, an toàn cho khách du lịch đi xe máy hà nội",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/phong-cuop-giat-khi-di-xe-may/",
     "priority": "P1",
     "status": "published"
   }
