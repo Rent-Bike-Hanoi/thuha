@@ -1,0 +1,185 @@
+{
+  "writer": "writer-w13d",
+  "queued": "2026-10-13T20:37:38.446570+00:00",
+  "topic": {
+    "topic_id": "TM-00439",
+    "url": "/du-lich/pho-co-dong-van-cho-phien/",
+    "title": "Chợ phiên Đồng Văn sáng Chủ nhật và phố cổ: xem gì, ăn gì, chợ lùi Phố Cáo",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ phiên đồng văn",
+    "secondary_keywords": [
+      "phố cổ đồng văn",
+      "chợ phiên đồng văn họp ngày nào",
+      "chợ lùi phố cáo",
+      "chợ phố cáo họp ngày nào",
+      "phố cổ đồng văn buổi tối"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi vòng cao nguyên đá bằng xe máy muốn xếp lịch để kịp chợ phiên Đồng Văn và đi dạo phố cổ: cần biết chợ họp ngày nào, giờ nào đông, ăn gì, phố cổ có gì, và chợ Phố Cáo vì sao mỗi tuần một ngày khác.",
+    "information_gain": "Bài gần nhất /du-lich/deo-ma-pi-leng-va-dong-van/ chỉ nhắc chợ Phố Cáo một dòng (cách 25 km, 6 ngày họp một lần) và không nói về phố cổ hay chợ Chủ nhật; /du-lich/dinh-thu-ho-vuong/ và /du-lich/cot-co-lung-cu/ là điểm khác. Bài mới thêm: phố cổ ở độ cao 1.000–1.600 m, di tích quốc gia từ 2009, còn khoảng 30–40 nếp nhà, trận hỏa hoạn Tết 1923 và chợ đá 15 gian hình chữ U xây 1925–1928 dưới chân núi Đồn Cao; chợ họp sáng Chủ nhật, khu gia súc sâu khoảng 400 m, món ăn (phở, cháo ấu tẩu, thắng cố, bánh cuốn), văn nghệ tối cuối tuần ở sân phố cổ; chợ lùi Phố Cáo chu kỳ 6 ngày, họp khoảng 3h–13h; và vụ sạt lở 2.000 m³ trên QL4C làm sập cổng chào Đồng Văn ngày 8/10/2025.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/64497",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Tuyên Quang (28/8/2025, đọc 13/10/2026): phố cổ Đồng Văn ở độ cao 1.000–1.600 m, xã Đồng Văn, tỉnh Tuyên Quang; hình thành cuối thế kỷ XIX – nửa đầu thế kỷ XX; Tết Nguyên đán 1923 hỏa hoạn thiêu gần hết nhà, sau đó xây khu chợ 15 gian, 3 dãy đối xứng hình chữ U; còn khoảng 30–40 nếp nhà, vài nhà trên 100 năm; chợ phiên họp Chủ nhật hằng tuần; buổi tối cuối tuần có hoạt động văn hóa văn nghệ ở sân phố cổ; năm 2009 được xếp hạng Di tích kiến trúc nghệ thuật quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/cho-phien-dong-van-niu-chan-du-khach-giua-cao-nguyen-da-1644407.html",
+        "quote": "Báo Lao Động (25/01/2026, đọc 13/10/2026): chợ phiên Đồng Văn dưới chân núi Đồn Cao, công trình chợ xây giai đoạn 1925–1928, kết cấu chữ U, kiến trúc Việt – Hoa; họp vào Chủ nhật hằng tuần và các dịp lễ, Tết; mỗi tuần họp một lần vào sáng Chủ nhật; khu ẩm thực bên hông phải chợ có phở; món ăn gồm thắng cố, mèn mén, cháo ấu tẩu, bánh cuốn, phở gà, bún bò.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chen-chan-trong-cho-phien-cuoi-tuan-pho-co-dong-van-5053185.html",
+        "quote": "VnExpress (23/3/2026, đọc 13/10/2026): phiên chợ sáng Chủ nhật hằng tuần ở phố cổ Đồng Văn thu hút hàng nghìn người, sạp bày giữa con phố dài và hẹp đối diện quảng trường; nhiều chủ hàng nói tiếng Mông; mặt hàng đắt khách là thực phẩm, xúc xích, dược liệu, nông cụ; đi sâu vào trong chợ khoảng 400 m là khu chợ gia súc (bò, gà).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.24h.com.vn/an-choi/phien-cho-lui-doc-dao-o-mien-bac-khach-vuot-xa-toi-thuong-thuc-mon-ngon-c76a1794644.html",
+        "quote": "24h (14/9/2026, đọc 13/10/2026): chợ phiên Phố Cáo ở trung tâm xã cùng tên (huyện Đồng Văn cũ), họp mỗi tuần một lần theo chu kỳ 6 ngày, mỗi tuần lùi lại một ngày (ví dụ tuần này ngày Sửu thì phiên sau ngày Mùi), không cố định cuối tuần; họp khoảng 3h đến 13h; bà con từ Vần Chải, Lũng Thầu, Sủng Là… tới chợ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Đồng Văn' (cập nhật 23/3/2026, đọc 13/10/2026): Đồng Văn cách TP Hà Giang 150 km theo quốc lộ 4C; chợ Phố Cáo cách trung tâm thị trấn Đồng Văn 25 km, 6 ngày họp một lần, từ mờ sáng đến hết trưa; quán cà phê Phố Cổ ở góc chợ trung tâm trong căn nhà hơn 100 năm tuổi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/sap-cong-chao-do-sat-lo-dat-tai-xa-dong-van-tuyen-quang-post913715.html",
+        "quote": "Báo Nhân Dân (08/10/2025, đọc 13/10/2026): sáng 8/10 mưa lớn kéo dài làm vạt đồi ta-luy dương trên QL4C sạt khoảng 2.000 m³ đất đá, làm sập cổng chào xã Đồng Văn (khánh thành 11/2024, rộng 10,5 m, cao 6,3 m); xã huy động lực lượng tháo dỡ xong trong trưa cùng ngày; nhiều đường giao thông nông thôn hư hỏng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 880,
+        "checked": "2026-10-13",
+        "keyword": "chợ phiên đồng văn"
+      }
+    ],
+    "notes": "Không có lịch chợ Phố Cáo cho từng tuần từ nguồn chính thức: khuyên hỏi chủ nhà nghỉ, không tự lập lịch. Giờ chợ Đồng Văn chỉ có 'sáng Chủ nhật'; giờ cụ thể chưa xác minh. Không viết giá món ăn. Đoạn đường lên Đồng Văn và quy định tour xe máy đã có ở bài Hà Giang/Mã Pì Lèng: chỉ liên kết, không lặp. Mùa mưa bão QL4C có thể sạt lở: dặn xem tin thời tiết. Xe máy không vào cao tốc (Tuyên Quang – Hà Giang, Nội Bài – Lào Cai). Ghi '(cũ)' với tên huyện Đồng Văn.",
+    "outline": [
+      "Câu trả lời ngắn: chợ Đồng Văn họp sáng Chủ nhật",
+      "Phố cổ Đồng Văn: lịch sử, nhà cổ, di tích quốc gia",
+      "Đi chợ phiên: khu hàng, khu gia súc, ngôn ngữ, lúc đông",
+      "Ăn gì ở chợ và tối cuối tuần ở sân phố cổ",
+      "Chợ lùi Phố Cáo: chu kỳ 6 ngày, giờ họp, cách hỏi lịch",
+      "Xếp lịch xe máy quanh ngày chợ và lưu ý sạt lở QL4C"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/deo-ma-pi-leng-va-dong-van/",
+      "/du-lich/dinh-thu-ho-vuong/",
+      "/du-lich/cot-co-lung-cu/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00439.json",
+  "draft_template": {
+    "id": "TM-00439",
+    "url": "/du-lich/pho-co-dong-van-cho-phien/",
+    "title": "Chợ phiên Đồng Văn sáng Chủ nhật và phố cổ: xem gì, ăn gì, chợ lùi Phố Cáo",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ phiên đồng văn, phố cổ đồng văn, chợ phiên đồng văn họp ngày nào, chợ lùi phố cáo, chợ phố cáo họp ngày nào, phố cổ đồng văn buổi tối",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: chợ Đồng Văn họp sáng Chủ nhật",
+        "<p></p>"
+      ],
+      [
+        "Phố cổ Đồng Văn: lịch sử, nhà cổ, di tích quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Đi chợ phiên: khu hàng, khu gia súc, ngôn ngữ, lúc đông",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì ở chợ và tối cuối tuần ở sân phố cổ",
+        "<p></p>"
+      ],
+      [
+        "Chợ lùi Phố Cáo: chu kỳ 6 ngày, giờ họp, cách hỏi lịch",
+        "<p></p>"
+      ],
+      [
+        "Xếp lịch xe máy quanh ngày chợ và lưu ý sạt lở QL4C",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/64497",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Tuyên Quang (28/8/2025, đọc 13/10/2026): phố cổ Đồng Văn ở độ cao 1.000–1.600 m, xã Đồng Văn, tỉnh Tuyên Quang; hình thành cuối thế kỷ XIX – nửa đầu thế kỷ XX; Tết Nguyên đán 1923 hỏa hoạn thiêu gần hết nhà, sau đó xây khu chợ 15 gian, 3 dãy đối xứng hình chữ U; còn khoảng 30–40 nếp nhà, vài nhà trên 100 năm; chợ phiên họp Chủ nhật hằng tuần; buổi tối cuối tuần có hoạt động văn hóa văn nghệ ở sân phố cổ; năm 2009 được xếp hạng Di tích kiến trúc nghệ thuật quốc gia.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/cho-phien-dong-van-niu-chan-du-khach-giua-cao-nguyen-da-1644407.html",
+        "quote": "Báo Lao Động (25/01/2026, đọc 13/10/2026): chợ phiên Đồng Văn dưới chân núi Đồn Cao, công trình chợ xây giai đoạn 1925–1928, kết cấu chữ U, kiến trúc Việt – Hoa; họp vào Chủ nhật hằng tuần và các dịp lễ, Tết; mỗi tuần họp một lần vào sáng Chủ nhật; khu ẩm thực bên hông phải chợ có phở; món ăn gồm thắng cố, mèn mén, cháo ấu tẩu, bánh cuốn, phở gà, bún bò.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chen-chan-trong-cho-phien-cuoi-tuan-pho-co-dong-van-5053185.html",
+        "quote": "VnExpress (23/3/2026, đọc 13/10/2026): phiên chợ sáng Chủ nhật hằng tuần ở phố cổ Đồng Văn thu hút hàng nghìn người, sạp bày giữa con phố dài và hẹp đối diện quảng trường; nhiều chủ hàng nói tiếng Mông; mặt hàng đắt khách là thực phẩm, xúc xích, dược liệu, nông cụ; đi sâu vào trong chợ khoảng 400 m là khu chợ gia súc (bò, gà).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.24h.com.vn/an-choi/phien-cho-lui-doc-dao-o-mien-bac-khach-vuot-xa-toi-thuong-thuc-mon-ngon-c76a1794644.html",
+        "quote": "24h (14/9/2026, đọc 13/10/2026): chợ phiên Phố Cáo ở trung tâm xã cùng tên (huyện Đồng Văn cũ), họp mỗi tuần một lần theo chu kỳ 6 ngày, mỗi tuần lùi lại một ngày (ví dụ tuần này ngày Sửu thì phiên sau ngày Mùi), không cố định cuối tuần; họp khoảng 3h đến 13h; bà con từ Vần Chải, Lũng Thầu, Sủng Là… tới chợ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Đồng Văn' (cập nhật 23/3/2026, đọc 13/10/2026): Đồng Văn cách TP Hà Giang 150 km theo quốc lộ 4C; chợ Phố Cáo cách trung tâm thị trấn Đồng Văn 25 km, 6 ngày họp một lần, từ mờ sáng đến hết trưa; quán cà phê Phố Cổ ở góc chợ trung tâm trong căn nhà hơn 100 năm tuổi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/sap-cong-chao-do-sat-lo-dat-tai-xa-dong-van-tuyen-quang-post913715.html",
+        "quote": "Báo Nhân Dân (08/10/2025, đọc 13/10/2026): sáng 8/10 mưa lớn kéo dài làm vạt đồi ta-luy dương trên QL4C sạt khoảng 2.000 m³ đất đá, làm sập cổng chào xã Đồng Văn (khánh thành 11/2024, rộng 10,5 m, cao 6,3 m); xã huy động lực lượng tháo dỡ xong trong trưa cùng ngày; nhiều đường giao thông nông thôn hư hỏng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00439"
+  }
+}

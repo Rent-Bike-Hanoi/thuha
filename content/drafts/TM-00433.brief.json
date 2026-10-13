@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w13c",
+  "queued": "2026-10-13T20:37:38.305125+00:00",
+  "topic": {
+    "topic_id": "TM-00433",
+    "url": "/du-lich/nui-bai-tho-ha-long/",
+    "title": "Núi Bài Thơ Hạ Long: đóng cửa từ 2017, có leo được không, ngắm vịnh ở đâu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "núi bài thơ hạ long",
+    "secondary_keywords": [
+      "núi bài thơ có mở cửa không",
+      "leo núi bài thơ",
+      "núi bài thơ hồng gai",
+      "đường bao biển trần quốc nghiễn",
+      "bãi đỗ xe miễn phí hồng gai"
+    ],
+    "intent": "informational",
+    "user_problem": "Du khách đến Hạ Long thấy ảnh chụp từ đỉnh núi Bài Thơ trên mạng và hỏi núi có mở cửa không, có được leo không; họ cần câu trả lời rõ ràng và gợi ý chỗ ngắm vịnh hợp pháp, an toàn ở phía Hòn Gai.",
+    "information_gain": "Chưa có bài nào về khu Hòn Gai: /du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/ chỉ nói đường đi, /du-lich/sun-world-ha-long/ nói phía Bãi Cháy. Nhiều cẩm nang cũ (kể cả VnExpress) vẫn hướng dẫn 'hỏi đường người dân phố Hàng Nồi' để leo. Bài mới nói rõ: núi đóng cửa từ sau vụ cháy rừng tháng 11/2017, đến 9/2026 vẫn chưa mở lại dù có phương án năm 2023; một thanh niên tử vong ngày 28/3/2026 khi tự ý leo; vì sao không nên vượt rào; giá trị di tích (khắc thơ Lê Thánh Tông 1468, Trịnh Cương 1729, khoảng 12 bài thơ, cờ Đảng 1/5/1930); và các lựa chọn thay thế hợp pháp ở Hòn Gai: đường bao biển Trần Quốc Nghiễn 4,7 km, 7 điểm đỗ ô tô miễn phí mới của phường Hồng Gai (8/2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/bao-gio-mo-nui-bai-tho-cho-du-khach-1761162.html",
+        "quote": "Báo Lao Động, 'Bao giờ mở núi Bài Thơ cho du khách?' (04/9/2026, đọc 13/10/2026): núi Bài Thơ ở phường Hồng Gai, cao khoảng 200 m; sau gần 9 năm đóng cửa vì vụ cháy rừng tháng 11/2017 vẫn chưa chính thức mở lại; dù bị rào chắn, du khách nhất là khách nước ngoài vẫn tìm cách vượt hàng rào thép gai; năm 1468 vua Lê Thánh Tông cho khắc thơ lên vách núi, năm 1729 chúa Trịnh Cương họa lại; trên vách núi có khoảng 12 bài thơ; ngày 1/5/1930 lá cờ Đảng lần đầu tung bay trên đỉnh; năm 2023 TP Hạ Long cũ xây dựng phương án khai thác nhưng chưa triển khai.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/de-xuat-dong-hoan-toan-duong-len-nui-bai-tho-hoac-mo-cua-co-kiem-soat-1677659.html",
+        "quote": "Báo Lao Động, 'Đề xuất đóng hoàn toàn đường lên núi Bài Thơ hoặc mở cửa có kiểm soát' (31/3/2026, đọc 13/10/2026): tối 28/3/2026 một nam thanh niên nhà ở chân núi tự ý leo lên núi Bài Thơ để chụp ảnh, trượt ngã tử vong; núi là di tích quốc gia, bị 'đóng cửa' sau vụ cháy rừng năm 2017, người dân và du khách vẫn vượt rào thép gai hoặc đi qua vườn nhà dân để lên đỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ha-long-4457134.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Hạ Long' (cập nhật 28/9/2026, đọc 13/10/2026): TP Hạ Long chia thành hai khu Bãi Cháy và Hòn Gai, nối bằng cầu Bãi Cháy; núi Bài Thơ cao 200 m, tên cũ Truyền Đăng; đường bao biển Trần Quốc Nghiễn ở Hòn Gai dài 4,7 km, điểm đầu từ cầu Bài Thơ, nối với đường bao biển Hạ Long – Cẩm Phả, khánh thành tháng 5/2020, có khuôn viên ngắm vịnh, bãi đỗ xe, bãi tắm. (Cẩm nang vẫn ghi cách hỏi đường lên núi ở phố Hàng Nồi – thông tin đã cũ so với tình trạng đóng cửa.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/phuong-trong-diem-ve-du-lich-dich-vu-cua-quang-ninh-mo-7-bai-do-xe-mien-phi-1747143.html",
+        "quote": "Báo Lao Động (07/8/2026, đọc 13/10/2026): UBND phường Hồng Gai đưa vào sử dụng 7 điểm đỗ xe miễn phí, tổng sức chứa khoảng 400 ô tô: đối diện Vincom Plaza Hạ Long, đoạn Công viên Hoa Hạ Long, sau Trường Tiểu học Trần Hưng Đạo, khu chợ Hạ Long I, cạnh Nhà văn hóa Yết Kiêu 2 sát chợ Hạ Long II, sân Rạp Bạch Đằng – phố Cây Tháp, phố Lê Quý Đôn; có biển 'P - Không thu phí'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 260,
+        "checked": "2026-10-13",
+        "keyword": "núi bài thơ hạ long"
+      }
+    ],
+    "notes": "Không có văn bản chính thức (thông báo đóng cửa) đã đọc; tình trạng đóng cửa dựa trên báo Lao Động 3–9/2026. TUYỆT ĐỐI không hướng dẫn lối lên núi, không đăng ảnh đường leo. 7 điểm đỗ là chỗ đỗ Ô TÔ (khoảng 400 ô tô), bài báo không nói về xe máy: ghi rõ là số liệu cho ô tô, không suy ra chỗ gửi xe máy. Nếu núi mở cửa sau ngày viết, cần cập nhật. Đi từ Hà Nội: xe máy không vào cao tốc; dẫn sang bài đường đi Hạ Long.",
+    "outline": [
+      "Câu trả lời ngắn: núi Bài Thơ đang đóng cửa",
+      "Vì sao đóng từ 2017 và chuyện mở lại đến 9/2026",
+      "Vụ tai nạn tháng 3/2026: rủi ro khi vượt rào",
+      "Giá trị di tích: bia thơ, sự kiện 1930",
+      "Ngắm vịnh hợp pháp ở Hòn Gai: đường bao biển Trần Quốc Nghiễn",
+      "Đỗ xe ở Hồng Gai và đi từ Hà Nội bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/sun-world-ha-long/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00433.json",
+  "draft_template": {
+    "id": "TM-00433",
+    "url": "/du-lich/nui-bai-tho-ha-long/",
+    "title": "Núi Bài Thơ Hạ Long: đóng cửa từ 2017, có leo được không, ngắm vịnh ở đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "núi bài thơ hạ long, núi bài thơ có mở cửa không, leo núi bài thơ, núi bài thơ hồng gai, đường bao biển trần quốc nghiễn, bãi đỗ xe miễn phí hồng gai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: núi Bài Thơ đang đóng cửa",
+        "<p></p>"
+      ],
+      [
+        "Vì sao đóng từ 2017 và chuyện mở lại đến 9/2026",
+        "<p></p>"
+      ],
+      [
+        "Vụ tai nạn tháng 3/2026: rủi ro khi vượt rào",
+        "<p></p>"
+      ],
+      [
+        "Giá trị di tích: bia thơ, sự kiện 1930",
+        "<p></p>"
+      ],
+      [
+        "Ngắm vịnh hợp pháp ở Hòn Gai: đường bao biển Trần Quốc Nghiễn",
+        "<p></p>"
+      ],
+      [
+        "Đỗ xe ở Hồng Gai và đi từ Hà Nội bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/bao-gio-mo-nui-bai-tho-cho-du-khach-1761162.html",
+        "quote": "Báo Lao Động, 'Bao giờ mở núi Bài Thơ cho du khách?' (04/9/2026, đọc 13/10/2026): núi Bài Thơ ở phường Hồng Gai, cao khoảng 200 m; sau gần 9 năm đóng cửa vì vụ cháy rừng tháng 11/2017 vẫn chưa chính thức mở lại; dù bị rào chắn, du khách nhất là khách nước ngoài vẫn tìm cách vượt hàng rào thép gai; năm 1468 vua Lê Thánh Tông cho khắc thơ lên vách núi, năm 1729 chúa Trịnh Cương họa lại; trên vách núi có khoảng 12 bài thơ; ngày 1/5/1930 lá cờ Đảng lần đầu tung bay trên đỉnh; năm 2023 TP Hạ Long cũ xây dựng phương án khai thác nhưng chưa triển khai.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/de-xuat-dong-hoan-toan-duong-len-nui-bai-tho-hoac-mo-cua-co-kiem-soat-1677659.html",
+        "quote": "Báo Lao Động, 'Đề xuất đóng hoàn toàn đường lên núi Bài Thơ hoặc mở cửa có kiểm soát' (31/3/2026, đọc 13/10/2026): tối 28/3/2026 một nam thanh niên nhà ở chân núi tự ý leo lên núi Bài Thơ để chụp ảnh, trượt ngã tử vong; núi là di tích quốc gia, bị 'đóng cửa' sau vụ cháy rừng năm 2017, người dân và du khách vẫn vượt rào thép gai hoặc đi qua vườn nhà dân để lên đỉnh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ha-long-4457134.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Hạ Long' (cập nhật 28/9/2026, đọc 13/10/2026): TP Hạ Long chia thành hai khu Bãi Cháy và Hòn Gai, nối bằng cầu Bãi Cháy; núi Bài Thơ cao 200 m, tên cũ Truyền Đăng; đường bao biển Trần Quốc Nghiễn ở Hòn Gai dài 4,7 km, điểm đầu từ cầu Bài Thơ, nối với đường bao biển Hạ Long – Cẩm Phả, khánh thành tháng 5/2020, có khuôn viên ngắm vịnh, bãi đỗ xe, bãi tắm. (Cẩm nang vẫn ghi cách hỏi đường lên núi ở phố Hàng Nồi – thông tin đã cũ so với tình trạng đóng cửa.)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/phuong-trong-diem-ve-du-lich-dich-vu-cua-quang-ninh-mo-7-bai-do-xe-mien-phi-1747143.html",
+        "quote": "Báo Lao Động (07/8/2026, đọc 13/10/2026): UBND phường Hồng Gai đưa vào sử dụng 7 điểm đỗ xe miễn phí, tổng sức chứa khoảng 400 ô tô: đối diện Vincom Plaza Hạ Long, đoạn Công viên Hoa Hạ Long, sau Trường Tiểu học Trần Hưng Đạo, khu chợ Hạ Long I, cạnh Nhà văn hóa Yết Kiêu 2 sát chợ Hạ Long II, sân Rạp Bạch Đằng – phố Cây Tháp, phố Lê Quý Đôn; có biển 'P - Không thu phí'.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00433"
+  }
+}

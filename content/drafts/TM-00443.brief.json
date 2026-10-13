@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w13d",
+  "queued": "2026-10-13T20:37:38.446269+00:00",
+  "topic": {
+    "topic_id": "TM-00443",
+    "url": "/du-lich/dao-ngoc-vung-van-don/",
+    "title": "Đảo Ngọc Vừng Vân Đồn: bãi Trường Chinh 3 km, di tích Bác Hồ, đi tàu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đảo ngọc vừng",
+    "secondary_keywords": [
+      "ngọc vừng vân đồn",
+      "bãi tắm ngọc vừng",
+      "bãi biển trường chinh ngọc vừng",
+      "đi ngọc vừng bằng tàu",
+      "di tích bác hồ ngọc vừng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã đi Quan Lạn, Cô Tô muốn tìm một đảo vắng hơn ở Vân Đồn cần biết Ngọc Vừng có gì, bãi tắm nào, ngủ ở đâu, ra đảo từ cảng nào và có cần mang xe máy theo không.",
+    "information_gain": "/du-lich/dao-quan-lan/ và /du-lich/dao-co-to-xe-may/ chỉ nói hai đảo đó (cảng Ao Tiên, thuê xe trên đảo) và không nhắc Ngọc Vừng; /du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/ dừng ở Hạ Long. Bài mới thêm: Ngọc Vừng ngoài vịnh Bái Tử Long, rộng hơn 40–45 km² (hai nguồn), bãi Trường Chinh cát trắng gần 3 km, rộng gần 200 m; di tích quốc gia Địa điểm lưu niệm Chủ tịch Hồ Chí Minh (Quyết định 401/QĐ-BVHTTDL, 24/02/2023) gắn với ngày Bác thăm đảo 12/11/1962; đồi pháo 12,7 ly, cột cờ, đình Ngọc Vừng, hồ Cẩu Lẩu; lượng khách 9.000–10.000 lượt/năm (6/2026), cơ sở lưu trú hơn 120 phòng (2023); ba hướng tàu từng được nêu (Hòn Gai, Vũng Đục, Cái Rồng) và việc tàu tuyến đảo Vân Đồn chuyển sang cảng Ao Tiên từ 2023, nên phải kiểm tra lại bến.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/33802",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Quảng Ninh 'Nét mới du lịch Ngọc Vừng' (23/08/2020, đọc 13/10/2026): đảo nằm ngoài khơi vịnh Bái Tử Long, huyện Vân Đồn, diện tích hơn 45 km², gồm 8 đảo đất và hàng trăm đảo đá; bãi biển Trường Chinh cát trắng dài gần 3 km, rộng gần 200 m; có đồi pháo 12,7 ly, cột cờ quốc gia, khu di tích lưu niệm Bác Hồ, đình Ngọc Vừng, hồ nước ngọt Cẩu Lẩu, cảng cổ Cống Yên; ra đảo bằng tàu cao tốc tuyến Hòn Gai – Ngọc Vừng tại bến tàu khách Hòn Gai, hoặc từ bến tàu Vũng Đục (Cẩm Phả) hay cảng Cái Rồng (Vân Đồn); trên đảo có hàng chục xe điện của hộ dân chở khách; hơn 100 phòng nghỉ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/ngoc-vung-bao-ve-moi-truong-gan-voi-phat-trien-du-lich-post3410402.html",
+        "quote": "Báo Quảng Ninh, 'Ngọc Vừng: Bảo vệ môi trường gắn với phát triển du lịch' (08/06/2026, đọc 13/10/2026): Ngọc Vừng thuộc đặc khu Vân Đồn, diện tích hơn 40 km² với hàng chục đảo lớn nhỏ; bãi cát trắng gần 3 km ở phía Nam trung tâm đảo; lượng khách từ khoảng 4.000–5.000 lượt/năm tăng lên khoảng 9.000–10.000 lượt/năm, chủ yếu mùa hè; người dân hạn chế túi nilon, đồ nhựa dùng một lần.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/So/sovanhoathethao/Trang/ChiTietTinTuc.aspx?nid=11901",
+        "quote": "Sở Văn hóa và Thể thao Quảng Ninh, 'Xếp hạng di tích cấp quốc gia địa điểm lưu niệm Chủ tịch Hồ Chí Minh trên đảo Ngọc Vừng' (đọc 13/10/2026): ngày 24/02/2023 Bộ VHTTDL ban hành Quyết định 401/QĐ-BVHTTDL xếp hạng di tích lịch sử cấp quốc gia; di tích ghi dấu Bác Hồ thăm đảo ngày 12/11/1962; gồm khu sân đáp trực thăng và khu công trình lưu niệm (cổng tam quan, nhà trưng bày, nhà bia, hồ bán nguyệt); hằng năm ngày 12/11 có mít tinh, dâng hương; năm chẵn tổ chức lễ hội 2 ngày 11–12/11.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/49963",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Quảng Ninh (26/05/2023, đọc 13/10/2026): bãi cát tự nhiên dài 3 km; xã có 8 cơ sở nhà hàng hải sản (chủ yếu ở bãi biển), 6 cơ sở lưu trú với trên 120 phòng, 28 hộ làm du lịch cộng đồng; hoạt động: tham quan Khu lưu niệm Bác Hồ, đồi pháo 12,7 ly, cột cờ, bắt ốc, cào ngao, đạp xe qua rừng phi lao.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/cang-tau-ben-hon-non-bo-khong-lo-o-van-don-hoat-dong-tu-282-185230215100747835.htm",
+        "quote": "Báo Thanh Niên (15/02/2023, đọc 13/10/2026): UBND huyện Vân Đồn di chuyển phương tiện thủy chở khách từ cảng Cái Rồng sang cảng Ao Tiên phục vụ tuyến đảo; cảng Ao Tiên chính thức hoạt động từ 28/2/2023, khánh thành 31/10/2022; Cái Rồng trở thành cảng chủ yếu cho tàu cá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 2400,
+        "checked": "2026-10-13",
+        "keyword": "đảo ngọc vừng"
+      }
+    ],
+    "notes": "CẢNG VÀ LỊCH TÀU CHƯA XÁC MINH CHO 2026: bài 2020 nêu Hòn Gai, Vũng Đục, Cái Rồng; năm 2023 tàu tuyến đảo chuyển sang Ao Tiên; bài Quan Lạn của trang dẫn Thanh Niên 8/4/2026 về quy định tàu dưới 50 chỗ ở Cái Rồng (không đọc lại hôm nay). Không ghi giờ tàu, giá vé tàu (chỉ thấy trên trang bán vé thương mại): khuyên gọi bến/chỗ nghỉ trước. Diện tích lệch (hơn 45 km² năm 2020; hơn 40 km² năm 2026): nêu cả hai. Số phòng nghỉ là số 2020/2023. Không khẳng định có mang xe máy lên tàu được; trên đảo có xe điện chở khách (2020). Đi từ Hà Nội đến Vân Đồn: xe máy không vào cao tốc Hà Nội – Hải Phòng, Hải Phòng – Hạ Long, Hạ Long – Vân Đồn; đi QL18. Mùa bão: tàu có thể dừng chạy – dặn xem dự báo.",
+    "outline": [
+      "Câu trả lời ngắn: Ngọc Vừng ở đâu, hợp với ai",
+      "Bãi Trường Chinh và các bãi cát của đảo",
+      "Di tích lưu niệm Bác Hồ, đồi pháo, cột cờ, đình làng",
+      "Ra đảo: các bến từng có tàu và vì sao phải hỏi lại trước",
+      "Đi lại, ăn ở trên đảo",
+      "Từ Hà Nội đến Vân Đồn bằng xe máy: QL18, không vào cao tốc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dao-quan-lan/",
+      "/du-lich/dao-co-to-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/den-cua-ong-cam-pha/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00443.json",
+  "draft_template": {
+    "id": "TM-00443",
+    "url": "/du-lich/dao-ngoc-vung-van-don/",
+    "title": "Đảo Ngọc Vừng Vân Đồn: bãi Trường Chinh 3 km, di tích Bác Hồ, đi tàu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đảo ngọc vừng, ngọc vừng vân đồn, bãi tắm ngọc vừng, bãi biển trường chinh ngọc vừng, đi ngọc vừng bằng tàu, di tích bác hồ ngọc vừng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Ngọc Vừng ở đâu, hợp với ai",
+        "<p></p>"
+      ],
+      [
+        "Bãi Trường Chinh và các bãi cát của đảo",
+        "<p></p>"
+      ],
+      [
+        "Di tích lưu niệm Bác Hồ, đồi pháo, cột cờ, đình làng",
+        "<p></p>"
+      ],
+      [
+        "Ra đảo: các bến từng có tàu và vì sao phải hỏi lại trước",
+        "<p></p>"
+      ],
+      [
+        "Đi lại, ăn ở trên đảo",
+        "<p></p>"
+      ],
+      [
+        "Từ Hà Nội đến Vân Đồn bằng xe máy: QL18, không vào cao tốc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/33802",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Quảng Ninh 'Nét mới du lịch Ngọc Vừng' (23/08/2020, đọc 13/10/2026): đảo nằm ngoài khơi vịnh Bái Tử Long, huyện Vân Đồn, diện tích hơn 45 km², gồm 8 đảo đất và hàng trăm đảo đá; bãi biển Trường Chinh cát trắng dài gần 3 km, rộng gần 200 m; có đồi pháo 12,7 ly, cột cờ quốc gia, khu di tích lưu niệm Bác Hồ, đình Ngọc Vừng, hồ nước ngọt Cẩu Lẩu, cảng cổ Cống Yên; ra đảo bằng tàu cao tốc tuyến Hòn Gai – Ngọc Vừng tại bến tàu khách Hòn Gai, hoặc từ bến tàu Vũng Đục (Cẩm Phả) hay cảng Cái Rồng (Vân Đồn); trên đảo có hàng chục xe điện của hộ dân chở khách; hơn 100 phòng nghỉ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/ngoc-vung-bao-ve-moi-truong-gan-voi-phat-trien-du-lich-post3410402.html",
+        "quote": "Báo Quảng Ninh, 'Ngọc Vừng: Bảo vệ môi trường gắn với phát triển du lịch' (08/06/2026, đọc 13/10/2026): Ngọc Vừng thuộc đặc khu Vân Đồn, diện tích hơn 40 km² với hàng chục đảo lớn nhỏ; bãi cát trắng gần 3 km ở phía Nam trung tâm đảo; lượng khách từ khoảng 4.000–5.000 lượt/năm tăng lên khoảng 9.000–10.000 lượt/năm, chủ yếu mùa hè; người dân hạn chế túi nilon, đồ nhựa dùng một lần.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/So/sovanhoathethao/Trang/ChiTietTinTuc.aspx?nid=11901",
+        "quote": "Sở Văn hóa và Thể thao Quảng Ninh, 'Xếp hạng di tích cấp quốc gia địa điểm lưu niệm Chủ tịch Hồ Chí Minh trên đảo Ngọc Vừng' (đọc 13/10/2026): ngày 24/02/2023 Bộ VHTTDL ban hành Quyết định 401/QĐ-BVHTTDL xếp hạng di tích lịch sử cấp quốc gia; di tích ghi dấu Bác Hồ thăm đảo ngày 12/11/1962; gồm khu sân đáp trực thăng và khu công trình lưu niệm (cổng tam quan, nhà trưng bày, nhà bia, hồ bán nguyệt); hằng năm ngày 12/11 có mít tinh, dâng hương; năm chẵn tổ chức lễ hội 2 ngày 11–12/11.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/49963",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Quảng Ninh (26/05/2023, đọc 13/10/2026): bãi cát tự nhiên dài 3 km; xã có 8 cơ sở nhà hàng hải sản (chủ yếu ở bãi biển), 6 cơ sở lưu trú với trên 120 phòng, 28 hộ làm du lịch cộng đồng; hoạt động: tham quan Khu lưu niệm Bác Hồ, đồi pháo 12,7 ly, cột cờ, bắt ốc, cào ngao, đạp xe qua rừng phi lao.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/cang-tau-ben-hon-non-bo-khong-lo-o-van-don-hoat-dong-tu-282-185230215100747835.htm",
+        "quote": "Báo Thanh Niên (15/02/2023, đọc 13/10/2026): UBND huyện Vân Đồn di chuyển phương tiện thủy chở khách từ cảng Cái Rồng sang cảng Ao Tiên phục vụ tuyến đảo; cảng Ao Tiên chính thức hoạt động từ 28/2/2023, khánh thành 31/10/2022; Cái Rồng trở thành cảng chủ yếu cho tàu cá.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00443"
+  }
+}

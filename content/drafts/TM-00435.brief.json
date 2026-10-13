@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w13c",
+  "queued": "2026-10-13T20:37:38.304250+00:00",
+  "topic": {
+    "topic_id": "TM-00435",
+    "url": "/du-lich/nha-hat-lon-hai-phong/",
+    "title": "Nhà hát lớn Hải Phòng: phố đi bộ ẩm thực tối thứ Sáu, thứ Bảy 2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà hát lớn hải phòng",
+    "secondary_keywords": [
+      "phố đi bộ hải phòng",
+      "phố đi bộ ẩm thực đêm hải phòng",
+      "quảng trường nhà hát thành phố hải phòng",
+      "nhà hát thành phố hải phòng xây năm nào",
+      "hải phòng buổi tối đi đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy từ Hà Nội xuống Hải Phòng cuối tuần muốn biết quanh Nhà hát lớn có gì xem buổi tối, phố đi bộ mở ngày nào, mấy giờ, đường nào bị cấm xe, và lịch sử công trình để chụp ảnh, tham quan.",
+    "information_gain": "Bài gần nhất /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ chỉ có đường QL5, làn xe và an toàn, không có điểm tham quan trong thành phố; /du-lich/do-son-di-xe-may-tu-ha-noi/ và /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ nói biển, đảo. Bài mới thêm Kế hoạch 321/KH-UBND (21/8/2026): phố đi bộ ẩm thực đêm tối thứ Sáu, thứ Bảy từ 28/8 đến 24/10/2026, tổ chức lại giao thông 18h–24h trên đoạn Quang Trung – Trần Hưng Đạo, lịch biểu diễn theo giờ ở từng điểm (quảng trường 18h30–19h30, Quang Trung 20h–21h30, Trần Hưng Đạo 20h30–22h), 25–30 gian hàng; sau 24/10 giao phường Hồng Bàng tiếp quản; cùng lịch sử nhà hát (ảnh sớm nhất 12/5/1909, mít tinh 23/8/1945, di tích quốc gia 9/12/2015).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://sotp.haiphong.gov.vn/van-ban-chi-dao-dieu-hanh-68017/thanh-pho-hai-phong-to-chuc-pho-di-bo-am-thuc-va-cac-hoat-dong-nham-phat-trien-kinh-te-ban-dem-961181",
+        "quote": "Sở Tư pháp Hải Phòng đăng Kế hoạch 321/KH-UBND ngày 21/8/2026 của UBND thành phố (đọc 13/10/2026): 'Phố đi bộ ẩm thực đêm thành phố Hải Phòng' tổ chức tối thứ Sáu và thứ Bảy từ 28/8/2026 đến hết 24/10/2026, sau đó bàn giao UBND phường Hồng Bàng tiếp tục; thời gian tổ chức lại giao thông dự kiến 18h00–24h00 thứ Sáu, thứ Bảy (và Chủ nhật 11/10/2026 cho 'Games ON: Hải Phòng 2026' ngày 10–11/10); địa điểm Quảng trường Nhà hát thành phố (số 28 Trần Hưng Đạo, phường Hồng Bàng) và dải vườn hoa trung tâm từ đường Quang Trung (trước tượng đài Nữ tướng Lê Chân) đến đường Trần Hưng Đạo (cây xăng trung tâm); biểu diễn tại quảng trường 18h30–19h30, đường Quang Trung 20h00–21h30, đường Trần Hưng Đạo 20h30–22h00.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/hai-phong-khai-truong-pho-di-bo-am-thuc-dem-ket-noi-van-hoa-va-du-lich-2550565.html",
+        "quote": "VietNamNet (29/8/2026, đọc 13/10/2026): tối 28/8 khai mạc phố đi bộ tại Quảng trường Nhà hát thành phố; không gian kết nối từ đường Quang Trung đến Trần Hưng Đạo, cùng Quảng trường Nhà hát và Sân Cột cờ phía trước; duy trì tối thứ Sáu và thứ Bảy hằng tuần; khoảng 25–30 gian hàng gồm ẩm thực, sản phẩm OCOP, biểu diễn nghệ thuật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/dau-an-lich-su-nghe-thuat-cua-nha-hat-lon-hai-phong-20260216140038926.htm",
+        "quote": "Dân trí, 'Dấu ấn lịch sử – nghệ thuật của Nhà hát lớn Hải Phòng' (21/02/2026, đọc 13/10/2026): chưa xác định chính xác thời điểm khởi công và khánh thành, bức ảnh ngày 12/5/1909 là tư liệu sớm nhất; sáng 23/8/1945 tại quảng trường trước nhà hát diễn ra mít tinh lớn, tuyên bố thành lập Ủy ban hành chính cách mạng lâm thời Hải Phòng; ngày 9/12/2015 Bộ VHTTDL xếp hạng di tích kiến trúc nghệ thuật cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hai-phong-4462112.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Hải Phòng' (cập nhật 31/5/2026, đọc 13/10/2026): Hải Phòng cách Hà Nội 120 km; cao tốc Hà Nội – Hải Phòng 'chỉ dành cho ôtô', các phương tiện khác đi QL5 cũ; Nhà hát lớn được xây năm 1904 trên nền khu chợ cũ làng An Biên, hoàn thành 1912, làm theo nguyên mẫu nhà hát Paris; nay là biểu tượng du lịch, thường có hoạt động văn nghệ, là tụ điểm hẹn hò của giới trẻ buổi tối.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/Du-lich/Nhung-diem-du-lich-hap-dan-tai-khu-vuc-noi-do-Hai-Phong-52536",
+        "quote": "Cổng TTĐT Hải Phòng, 'Những điểm du lịch hấp dẫn tại khu vực nội đô Hải Phòng' (đọc 13/10/2026): Nhà hát thành phố có tuổi đời ngang Nhà hát Hà Nội và Nhà hát lớn Sài Gòn; gần đó có tượng đài Nữ tướng Lê Chân và đền Nghè trên phố Mê Linh; Bảo tàng Hải Phòng lưu giữ khoảng 19.000 hiện vật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 3600,
+        "checked": "2026-10-13",
+        "keyword": "nhà hát lớn hải phòng"
+      }
+    ],
+    "notes": "Năm xây dựng không thống nhất (VnExpress 1904–1912; Dân trí: chưa xác định, ảnh sớm nhất 1909): nêu cả hai. Chưa có nguồn về tour tham quan bên trong nhà hát hay giá vé biểu diễn: không hứa 'vào xem bên trong'. Kế hoạch 321 không công bố điểm trông giữ xe máy: không bịa. Sau 24/10/2026 lịch do phường Hồng Bàng quyết định: ghi rõ cần kiểm tra lại. Xe máy không vào cao tốc Hà Nội – Hải Phòng; liên kết bài QL5.",
+    "outline": [
+      "Câu trả lời ngắn: phố đi bộ quanh Nhà hát mở khi nào",
+      "Lịch tối thứ Sáu, thứ Bảy và giờ biểu diễn từng điểm",
+      "Đường nào cấm xe 18h–24h, nên dừng xe ở đâu",
+      "Nhà hát lớn: hơn 100 năm, sự kiện 1945, di tích quốc gia",
+      "Đi bộ tiếp: tượng đài Lê Chân, đền Nghè, Bảo tàng",
+      "Đi xe máy từ Hà Nội theo QL5 và về đêm an toàn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/ga-long-bien/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00435.json",
+  "draft_template": {
+    "id": "TM-00435",
+    "url": "/du-lich/nha-hat-lon-hai-phong/",
+    "title": "Nhà hát lớn Hải Phòng: phố đi bộ ẩm thực tối thứ Sáu, thứ Bảy 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà hát lớn hải phòng, phố đi bộ hải phòng, phố đi bộ ẩm thực đêm hải phòng, quảng trường nhà hát thành phố hải phòng, nhà hát thành phố hải phòng xây năm nào, hải phòng buổi tối đi đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: phố đi bộ quanh Nhà hát mở khi nào",
+        "<p></p>"
+      ],
+      [
+        "Lịch tối thứ Sáu, thứ Bảy và giờ biểu diễn từng điểm",
+        "<p></p>"
+      ],
+      [
+        "Đường nào cấm xe 18h–24h, nên dừng xe ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Nhà hát lớn: hơn 100 năm, sự kiện 1945, di tích quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ tiếp: tượng đài Lê Chân, đền Nghè, Bảo tàng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội theo QL5 và về đêm an toàn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://sotp.haiphong.gov.vn/van-ban-chi-dao-dieu-hanh-68017/thanh-pho-hai-phong-to-chuc-pho-di-bo-am-thuc-va-cac-hoat-dong-nham-phat-trien-kinh-te-ban-dem-961181",
+        "quote": "Sở Tư pháp Hải Phòng đăng Kế hoạch 321/KH-UBND ngày 21/8/2026 của UBND thành phố (đọc 13/10/2026): 'Phố đi bộ ẩm thực đêm thành phố Hải Phòng' tổ chức tối thứ Sáu và thứ Bảy từ 28/8/2026 đến hết 24/10/2026, sau đó bàn giao UBND phường Hồng Bàng tiếp tục; thời gian tổ chức lại giao thông dự kiến 18h00–24h00 thứ Sáu, thứ Bảy (và Chủ nhật 11/10/2026 cho 'Games ON: Hải Phòng 2026' ngày 10–11/10); địa điểm Quảng trường Nhà hát thành phố (số 28 Trần Hưng Đạo, phường Hồng Bàng) và dải vườn hoa trung tâm từ đường Quang Trung (trước tượng đài Nữ tướng Lê Chân) đến đường Trần Hưng Đạo (cây xăng trung tâm); biểu diễn tại quảng trường 18h30–19h30, đường Quang Trung 20h00–21h30, đường Trần Hưng Đạo 20h30–22h00.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/hai-phong-khai-truong-pho-di-bo-am-thuc-dem-ket-noi-van-hoa-va-du-lich-2550565.html",
+        "quote": "VietNamNet (29/8/2026, đọc 13/10/2026): tối 28/8 khai mạc phố đi bộ tại Quảng trường Nhà hát thành phố; không gian kết nối từ đường Quang Trung đến Trần Hưng Đạo, cùng Quảng trường Nhà hát và Sân Cột cờ phía trước; duy trì tối thứ Sáu và thứ Bảy hằng tuần; khoảng 25–30 gian hàng gồm ẩm thực, sản phẩm OCOP, biểu diễn nghệ thuật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/dau-an-lich-su-nghe-thuat-cua-nha-hat-lon-hai-phong-20260216140038926.htm",
+        "quote": "Dân trí, 'Dấu ấn lịch sử – nghệ thuật của Nhà hát lớn Hải Phòng' (21/02/2026, đọc 13/10/2026): chưa xác định chính xác thời điểm khởi công và khánh thành, bức ảnh ngày 12/5/1909 là tư liệu sớm nhất; sáng 23/8/1945 tại quảng trường trước nhà hát diễn ra mít tinh lớn, tuyên bố thành lập Ủy ban hành chính cách mạng lâm thời Hải Phòng; ngày 9/12/2015 Bộ VHTTDL xếp hạng di tích kiến trúc nghệ thuật cấp quốc gia.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hai-phong-4462112.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Hải Phòng' (cập nhật 31/5/2026, đọc 13/10/2026): Hải Phòng cách Hà Nội 120 km; cao tốc Hà Nội – Hải Phòng 'chỉ dành cho ôtô', các phương tiện khác đi QL5 cũ; Nhà hát lớn được xây năm 1904 trên nền khu chợ cũ làng An Biên, hoàn thành 1912, làm theo nguyên mẫu nhà hát Paris; nay là biểu tượng du lịch, thường có hoạt động văn nghệ, là tụ điểm hẹn hò của giới trẻ buổi tối.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/Du-lich/Nhung-diem-du-lich-hap-dan-tai-khu-vuc-noi-do-Hai-Phong-52536",
+        "quote": "Cổng TTĐT Hải Phòng, 'Những điểm du lịch hấp dẫn tại khu vực nội đô Hải Phòng' (đọc 13/10/2026): Nhà hát thành phố có tuổi đời ngang Nhà hát Hà Nội và Nhà hát lớn Sài Gòn; gần đó có tượng đài Nữ tướng Lê Chân và đền Nghè trên phố Mê Linh; Bảo tàng Hải Phòng lưu giữ khoảng 19.000 hiện vật.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00435"
+  }
+}

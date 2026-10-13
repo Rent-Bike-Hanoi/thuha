@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w13d",
+  "queued": "2026-10-13T20:37:38.447305+00:00",
+  "topic": {
+    "topic_id": "TM-00442",
+    "url": "/du-lich/dao-tuan-chau-ha-long/",
+    "title": "Đảo Tuần Châu Hạ Long: đường nối đảo, bãi tắm, cảng tàu và phà Gia Luận",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đảo tuần châu hạ long",
+    "secondary_keywords": [
+      "cảng tuần châu",
+      "bãi tắm tuần châu",
+      "tuần châu cách trung tâm hạ long bao xa",
+      "phà tuần châu gia luận",
+      "tuần châu có mất phí vào không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy xuống Hạ Long thường được bảo 'lên tàu ở Tuần Châu' mà không biết đảo ở đâu so với Bãi Cháy, đường vào thế nào, bãi tắm có mất tiền không và từ đây đi được những tàu, phà nào.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/ chỉ nói đường QL18; /du-lich/sun-world-ha-long/ nói khu Bãi Cháy; /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ chỉ nhắc một dòng phà Tuần Châu – Gia Luận; /du-lich/vinh-lan-ha/ nhắc cảng Tuần Châu như điểm đón khách. Bài mới tập trung vào chính đảo: cảng tàu khách quốc tế Tuần Châu cách trung tâm Hạ Long 12 km (VnExpress cập nhật 6/2026), đường vượt biển dài hơn 2 km nối đảo từ năm 1999, bãi tắm mở tự do miễn phí (Báo Quảng Ninh 2020) và chỗ các nguồn ghi độ dài bãi khác nhau, hành trình ven bờ VHL8 Tuần Châu – cảng Hạ Long – Nam Cầu Trắng 70.000đ, phân biệt cảng Tuần Châu với cảng tàu khách quốc tế Hạ Long, phường Tuần Châu mới hơn 62 km² và dự án đường sắt tốc độ cao có ga cuối ở Tuần Châu (chưa xây).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vinh-ha-long-4626380.html",
+        "quote": "VnExpress, cẩm nang du lịch vịnh Hạ Long (cập nhật 12/6/2026, đọc 13/10/2026): nếu tự mua vé, tham khảo hai cảng tàu lớn ở Hạ Long gồm Cảng tàu khách quốc tế Tuần Châu (cách trung tâm TP Hạ Long 12 km) và Cảng tàu khách quốc tế Hạ Long ở trung tâm TP Hạ Long, số lượng tàu ít hơn cảng Tuần Châu; hòn Chó Đá cách cảng Tuần Châu khoảng 2,5 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/tuan-chau-dao-ngoc-giua-long-di-san-post2511061.html",
+        "quote": "Báo Quảng Ninh, 'Tuần Châu - Đảo ngọc giữa lòng Di sản' (28/11/2020, đọc 13/10/2026): từ năm 1999 đảo được nối với đất liền bằng con đường vượt biển dài hơn 2 km; từ năm 2016 tập đoàn đầu tư cảng tàu nhân tạo cho trên 500 tàu du lịch, mỗi năm gần 3,6 triệu lượt khách qua cảng; bãi tắm cát trắng 'trải dài hơn 8 km, mở cửa tự do phục vụ miễn phí cho du khách và nhân dân'; tập đoàn khai thác thủy phi cơ, trực thăng, phà kết nối đảo Cát Bà và tàu đi Cô Tô.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/tuan-chau-dao-ngoc-vuon-minh-post3419124.html",
+        "quote": "Báo Quảng Ninh, 'Tuần Châu - Đảo ngọc vươn mình' (26/8/2026, đọc 13/10/2026): con đường nối đảo với đất liền hoàn thành năm 1999; sau sắp xếp chính quyền 2 cấp, phường Tuần Châu rộng hơn 62 km², gần 15.000 dân; bờ biển cát trắng dài gần 10 km; có câu lạc bộ cá heo, nhạc nước, sân golf 18 lỗ; phường dự kiến nâng cấp cảng tàu khách quốc tế Tuần Châu; tuyến đường sắt tốc độ cao Hà Nội – Quảng Ninh theo quy hoạch dài khoảng 120 km, ga cuối tại khu vực công viên Tuần Châu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://halongbay.com.vn/p/58-muc-phi-tham-quan-vinh-ha-long",
+        "quote": "Ban Quản lý vịnh Hạ Long, 'Mức phí tham quan vịnh Hạ Long' (cập nhật 31/3/2025, đọc 13/10/2026): hành trình VHL8 ven bờ Tuần Châu – cảng tàu khách quốc tế Hạ Long – cảng Nam Cầu Trắng 70.000 đồng; VHL1 (động Thiên Cung…) và VHL2 (Ti Tốp, Sửng Sốt…) 250.000 đồng/lần/người.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://halongbay.com.vn/p/16-luu-y-khi-tham-quan-vinh-ha-long",
+        "quote": "Ban Quản lý vịnh Hạ Long, 'Lưu ý khi tham quan vịnh Hạ Long' (cập nhật 06/9/2024, đọc 13/10/2026): không dừng xe tiếp chuyện các đối tượng chèo kéo bán phòng, tàu dọc đường gần TP Hạ Long, cảng Tuần Châu; không tự thuê tàu của người chào mời bên ngoài cảng; vào nhà ga cảng để được hướng dẫn, mua vé.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 170,
+        "checked": "2026-10-13",
+        "keyword": "đảo tuần châu hạ long"
+      }
+    ],
+    "notes": "Độ dài bãi tắm không thống nhất (Báo Quảng Ninh 2020 'hơn 8 km' bãi tắm; Báo Quảng Ninh 8/2026 'bờ biển gần 10 km'; các trang thương mại 1–2 km): nêu nguồn, không chốt một con số. 'Bãi tắm miễn phí' là theo bài 2020 – chưa có xác nhận 2026: ghi kèm năm. Giá vé các show cá heo, nhạc nước, phí gửi xe máy ở cảng, lịch và giá phà Tuần Châu – Gia Luận: chưa có nguồn chính thức hôm nay – không viết số, dẫn sang bài Cát Bà. Đường sắt tốc độ cao mới ở quy hoạch: không viết như đã có. Xe máy không vào cao tốc Hà Nội – Hải Phòng, Hải Phòng – Hạ Long; đi QL18 (bài đường đi Hạ Long). Không lặp bảng phí vịnh chi tiết (thuộc bài vé tham quan vịnh Hạ Long cùng đợt).",
+    "outline": [
+      "Câu trả lời ngắn: Tuần Châu ở đâu, vào đảo thế nào",
+      "Đường vượt biển và phường Tuần Châu hôm nay",
+      "Bãi tắm: miễn phí hay không, dài bao nhiêu theo từng nguồn",
+      "Cảng Tuần Châu hay cảng Hạ Long: chọn bến nào để mua vé vịnh",
+      "Từ Tuần Châu đi đâu: VHL8 ven bờ, phà sang Cát Bà, tàu Cô Tô",
+      "Tránh chèo kéo khi chạy xe máy vào đảo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/sun-world-ha-long/",
+      "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/",
+      "/du-lich/vinh-lan-ha/",
+      "/du-lich/dao-co-to-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P1"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00442.json",
+  "draft_template": {
+    "id": "TM-00442",
+    "url": "/du-lich/dao-tuan-chau-ha-long/",
+    "title": "Đảo Tuần Châu Hạ Long: đường nối đảo, bãi tắm, cảng tàu và phà Gia Luận",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đảo tuần châu hạ long, cảng tuần châu, bãi tắm tuần châu, tuần châu cách trung tâm hạ long bao xa, phà tuần châu gia luận, tuần châu có mất phí vào không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Tuần Châu ở đâu, vào đảo thế nào",
+        "<p></p>"
+      ],
+      [
+        "Đường vượt biển và phường Tuần Châu hôm nay",
+        "<p></p>"
+      ],
+      [
+        "Bãi tắm: miễn phí hay không, dài bao nhiêu theo từng nguồn",
+        "<p></p>"
+      ],
+      [
+        "Cảng Tuần Châu hay cảng Hạ Long: chọn bến nào để mua vé vịnh",
+        "<p></p>"
+      ],
+      [
+        "Từ Tuần Châu đi đâu: VHL8 ven bờ, phà sang Cát Bà, tàu Cô Tô",
+        "<p></p>"
+      ],
+      [
+        "Tránh chèo kéo khi chạy xe máy vào đảo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-vinh-ha-long-4626380.html",
+        "quote": "VnExpress, cẩm nang du lịch vịnh Hạ Long (cập nhật 12/6/2026, đọc 13/10/2026): nếu tự mua vé, tham khảo hai cảng tàu lớn ở Hạ Long gồm Cảng tàu khách quốc tế Tuần Châu (cách trung tâm TP Hạ Long 12 km) và Cảng tàu khách quốc tế Hạ Long ở trung tâm TP Hạ Long, số lượng tàu ít hơn cảng Tuần Châu; hòn Chó Đá cách cảng Tuần Châu khoảng 2,5 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/tuan-chau-dao-ngoc-giua-long-di-san-post2511061.html",
+        "quote": "Báo Quảng Ninh, 'Tuần Châu - Đảo ngọc giữa lòng Di sản' (28/11/2020, đọc 13/10/2026): từ năm 1999 đảo được nối với đất liền bằng con đường vượt biển dài hơn 2 km; từ năm 2016 tập đoàn đầu tư cảng tàu nhân tạo cho trên 500 tàu du lịch, mỗi năm gần 3,6 triệu lượt khách qua cảng; bãi tắm cát trắng 'trải dài hơn 8 km, mở cửa tự do phục vụ miễn phí cho du khách và nhân dân'; tập đoàn khai thác thủy phi cơ, trực thăng, phà kết nối đảo Cát Bà và tàu đi Cô Tô.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/tuan-chau-dao-ngoc-vuon-minh-post3419124.html",
+        "quote": "Báo Quảng Ninh, 'Tuần Châu - Đảo ngọc vươn mình' (26/8/2026, đọc 13/10/2026): con đường nối đảo với đất liền hoàn thành năm 1999; sau sắp xếp chính quyền 2 cấp, phường Tuần Châu rộng hơn 62 km², gần 15.000 dân; bờ biển cát trắng dài gần 10 km; có câu lạc bộ cá heo, nhạc nước, sân golf 18 lỗ; phường dự kiến nâng cấp cảng tàu khách quốc tế Tuần Châu; tuyến đường sắt tốc độ cao Hà Nội – Quảng Ninh theo quy hoạch dài khoảng 120 km, ga cuối tại khu vực công viên Tuần Châu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://halongbay.com.vn/p/58-muc-phi-tham-quan-vinh-ha-long",
+        "quote": "Ban Quản lý vịnh Hạ Long, 'Mức phí tham quan vịnh Hạ Long' (cập nhật 31/3/2025, đọc 13/10/2026): hành trình VHL8 ven bờ Tuần Châu – cảng tàu khách quốc tế Hạ Long – cảng Nam Cầu Trắng 70.000 đồng; VHL1 (động Thiên Cung…) và VHL2 (Ti Tốp, Sửng Sốt…) 250.000 đồng/lần/người.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://halongbay.com.vn/p/16-luu-y-khi-tham-quan-vinh-ha-long",
+        "quote": "Ban Quản lý vịnh Hạ Long, 'Lưu ý khi tham quan vịnh Hạ Long' (cập nhật 06/9/2024, đọc 13/10/2026): không dừng xe tiếp chuyện các đối tượng chèo kéo bán phòng, tàu dọc đường gần TP Hạ Long, cảng Tuần Châu; không tự thuê tàu của người chào mời bên ngoài cảng; vào nhà ga cảng để được hướng dẫn, mua vé.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00442"
+  }
+}

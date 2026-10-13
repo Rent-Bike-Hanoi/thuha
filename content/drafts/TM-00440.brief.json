@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w13d",
+  "queued": "2026-10-13T20:37:38.447581+00:00",
+  "topic": {
+    "topic_id": "TM-00440",
+    "url": "/du-lich/sung-la-nha-cua-pao/",
+    "title": "Sủng Là và Nhà của Pao ở Lũng Cẩm: vé 10.000đ, cách Đồng Văn 20 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà của pao sủng là",
+    "secondary_keywords": [
+      "làng văn hóa lũng cẩm",
+      "thung lũng sủng là",
+      "tam giác mạch sủng là",
+      "nhà của pao vé bao nhiêu",
+      "chuyện của pao phim trường"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hà Giang muốn ghé Nhà của Pao trên đường lên Đồng Văn cần biết nằm ở đâu, cách thị trấn bao xa, có mất phí không, mùa nào đẹp và nên dừng bao lâu.",
+    "information_gain": "Bài /du-lich/deo-ma-pi-leng-va-dong-van/ chỉ ghi Sủng Là 'gần 20 km' trong một gạch đầu dòng; /du-lich/dinh-thu-ho-vuong/ nói nhà Vương; không bài nào nói Lũng Cẩm. Bài mới thêm: làng văn hóa du lịch Lũng Cẩm (xã Sủng Là) khoảng 70 hộ Mông, Lô Lô, Hoa; Nhà của Pao xây năm 1947, nhà trình tường hai tầng khép kín bốn hướng, sân trời ở giữa, lối vào khoảng 300 m; phí 10.000đ/khách; mùa tam giác mạch tháng 10–11; vị trí trong lộ trình dốc Thẩm Mã – Phố Cáo – Sủng Là – Lũng Cẩm theo gợi ý VnExpress 4/2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Đồng Văn' (cập nhật 23/3/2026, đọc 13/10/2026): xã Sủng Là cách thị trấn Đồng Văn gần 20 km, dưới vách núi đá tai mèo; người Mông trồng tam giác mạch trên triền đồi, thời điểm đẹp nhất tháng 10 đến tháng 11; 'Nhà của Pao' ở xã Sủng Là là nhà người dân xây năm 1947, bối cảnh phim 'Chuyện của Pao', kiến trúc Mông khép kín bốn hướng, giữa là sân trời; điểm đến thu phí 10.000 đồng mỗi khách; Đồng Văn cách TP Hà Giang 150 km theo QL4C.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nha-cua-pao-mua-hoa-tam-giac-mach-4541455.html",
+        "quote": "VnExpress, ''Nhà của Pao' mùa hoa tam giác mạch' (28/11/2022, đọc 13/10/2026): làng văn hóa du lịch Lũng Cẩm, xã Sủng Là, là nơi ở của khoảng 70 hộ, chủ yếu dân tộc Mông, Lô Lô và Hoa; lối vào làng là con đường nhỏ dài khoảng 300 m; nhà xây năm 1947, nhà trình tường hai tầng bằng đất, cột gỗ, thềm và chân cột bằng đá, lợp ngói; chủ nhân là ông Mua Súa Páo.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chon-4-diem-di-choi-gan-ha-noi-dip-gio-to-30-4-5058535.html",
+        "quote": "VnExpress (08/4/2026, đọc 13/10/2026): dốc Thẩm Mã là biểu tượng của Hà Giang (cũ), nay là Tuyên Quang; sau dốc Thẩm Mã du khách có thể ghé Phố Cáo, thung lũng Sủng Là và làng văn hóa Lũng Cẩm, nơi quay phim 'Chuyện của Pao'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/64497",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Tuyên Quang (28/8/2025, đọc 13/10/2026): phố cổ Đồng Văn thu hút khách vào các lễ hội lớn như Lễ hội hoa Tam giác mạch, Lễ hội khèn Mông, chợ tình Khâu Vai.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-13",
+        "keyword": "nhà của pao sủng là"
+      }
+    ],
+    "notes": "Phí 10.000đ lấy từ cẩm nang VnExpress (cập nhật 3/2026), không có thông báo của xã/ban quản lý: ghi 'theo VnExpress'. Ngày Lễ hội hoa tam giác mạch 2026 chưa xác minh: không ghi ngày. Không có số liệu đường vào làng cho xe máy (độ dốc, mặt đường): chỉ khuyên đi chậm. Nhà của Pao là nhà dân có người ở: nhắc xin phép trước khi chụp ảnh người. Không lặp phần đường Hà Nội – Hà Giang (đã có bài riêng), xe máy không vào cao tốc.",
+    "outline": [
+      "Câu trả lời ngắn: Nhà của Pao ở đâu, phí bao nhiêu",
+      "Thung lũng Sủng Là và mùa tam giác mạch",
+      "Làng Lũng Cẩm: ai sống ở đây, ứng xử khi tham quan",
+      "Kiến trúc nhà trình tường của Nhà của Pao",
+      "Ghép vào lộ trình dốc Thẩm Mã – Phố Cáo – Đồng Văn",
+      "Lái xe máy vào làng và dừng xe an toàn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/deo-ma-pi-leng-va-dong-van/",
+      "/du-lich/dinh-thu-ho-vuong/",
+      "/du-lich/cong-troi-quan-ba-nui-doi/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00440.json",
+  "draft_template": {
+    "id": "TM-00440",
+    "url": "/du-lich/sung-la-nha-cua-pao/",
+    "title": "Sủng Là và Nhà của Pao ở Lũng Cẩm: vé 10.000đ, cách Đồng Văn 20 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà của pao sủng là, làng văn hóa lũng cẩm, thung lũng sủng là, tam giác mạch sủng là, nhà của pao vé bao nhiêu, chuyện của pao phim trường",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Nhà của Pao ở đâu, phí bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Thung lũng Sủng Là và mùa tam giác mạch",
+        "<p></p>"
+      ],
+      [
+        "Làng Lũng Cẩm: ai sống ở đây, ứng xử khi tham quan",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc nhà trình tường của Nhà của Pao",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào lộ trình dốc Thẩm Mã – Phố Cáo – Đồng Văn",
+        "<p></p>"
+      ],
+      [
+        "Lái xe máy vào làng và dừng xe an toàn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dong-van-4641450.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Đồng Văn' (cập nhật 23/3/2026, đọc 13/10/2026): xã Sủng Là cách thị trấn Đồng Văn gần 20 km, dưới vách núi đá tai mèo; người Mông trồng tam giác mạch trên triền đồi, thời điểm đẹp nhất tháng 10 đến tháng 11; 'Nhà của Pao' ở xã Sủng Là là nhà người dân xây năm 1947, bối cảnh phim 'Chuyện của Pao', kiến trúc Mông khép kín bốn hướng, giữa là sân trời; điểm đến thu phí 10.000 đồng mỗi khách; Đồng Văn cách TP Hà Giang 150 km theo QL4C.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nha-cua-pao-mua-hoa-tam-giac-mach-4541455.html",
+        "quote": "VnExpress, ''Nhà của Pao' mùa hoa tam giác mạch' (28/11/2022, đọc 13/10/2026): làng văn hóa du lịch Lũng Cẩm, xã Sủng Là, là nơi ở của khoảng 70 hộ, chủ yếu dân tộc Mông, Lô Lô và Hoa; lối vào làng là con đường nhỏ dài khoảng 300 m; nhà xây năm 1947, nhà trình tường hai tầng bằng đất, cột gỗ, thềm và chân cột bằng đá, lợp ngói; chủ nhân là ông Mua Súa Páo.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chon-4-diem-di-choi-gan-ha-noi-dip-gio-to-30-4-5058535.html",
+        "quote": "VnExpress (08/4/2026, đọc 13/10/2026): dốc Thẩm Mã là biểu tượng của Hà Giang (cũ), nay là Tuyên Quang; sau dốc Thẩm Mã du khách có thể ghé Phố Cáo, thung lũng Sủng Là và làng văn hóa Lũng Cẩm, nơi quay phim 'Chuyện của Pao'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamtourism.gov.vn/post/64497",
+        "quote": "Cục Du lịch Quốc gia Việt Nam đăng lại bài Báo Tuyên Quang (28/8/2025, đọc 13/10/2026): phố cổ Đồng Văn thu hút khách vào các lễ hội lớn như Lễ hội hoa Tam giác mạch, Lễ hội khèn Mông, chợ tình Khâu Vai.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00440"
+  }
+}

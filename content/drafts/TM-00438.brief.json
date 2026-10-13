@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w13d",
+  "queued": "2026-10-13T20:37:38.445726+00:00",
+  "topic": {
+    "topic_id": "TM-00438",
+    "url": "/du-lich/khu-di-tich-bach-dang-giang/",
+    "title": "Khu di tích Bạch Đằng Giang Thủy Nguyên: không thu phí, xem gì, bãi cọc",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích bạch đằng giang",
+    "secondary_keywords": [
+      "bạch đằng giang thủy nguyên",
+      "bãi cọc cao quỳ",
+      "tượng ngô quyền lê đại hành trần hưng đạo",
+      "quảng trường chiến thắng bạch đằng",
+      "tràng kênh hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Gia đình, học sinh ở Hà Nội muốn đi xe máy xem nơi diễn ra ba trận Bạch Đằng: cần biết khu di tích có mất vé không, gồm những công trình gì, bãi cọc thật ở đâu và cách bao xa trung tâm Hải Phòng.",
+    "information_gain": "Chưa có bài nào về khu di tích này; /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ dừng ở nội thành, /du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/ là di tích Trần ở phía Hải Dương cũ. Bài mới thêm: khu di tích ở Tràng Kênh cách trung tâm Hải Phòng khoảng 18 km, nguyên tắc '3 không' (không thương mại, không thu phí, không rác thải), danh sách công trình xây 2008–2016 (đền Ngô Quyền, Lê Đại Hành, Linh từ Trần Hưng Đạo, chùa Trúc Lâm, nhà bảo tàng cọc), quảng trường 2.000 m² với ba tượng đồng cao 8 m, nặng 40 tấn, 180 cọc mô phỏng; bãi cọc Cao Quỳ thật ở xã Liên Khê cách khoảng 15 km, rộng hơn 30.600 m², khai quật cuối 2019, và chênh lệch số cọc giữa các nguồn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/tin-tuc-su-kien/Khu-di-tich-Bach-Dang-Giang-Noi-hoi-tu-honthieng-song-nui-55755",
+        "quote": "Cổng TTĐT Hải Phòng, 'Khu di tích Bạch Đằng Giang: Nơi hội tụ hồn thiêng sông núi' (đọc 13/10/2026): vùng Tràng Kênh – Bạch Đằng (huyện Thủy Nguyên cũ) cách trung tâm Hải Phòng chừng 18 km về phía Đông Bắc; khu di tích thực hiện '3 không': không thương mại, không thu phí, không rác thải; công trình xây dựng từ 2008 đến 2016 gồm Trụ chiến thắng, đền Bạch Đằng Giang thờ Ngô Quyền, đền Tràng Kênh Vọng Đế thờ Lê Đại Hành, Linh từ Tràng Kênh thờ Trần Hưng Đạo, Trúc Lâm tự Tràng Kênh, đền thờ Thánh Mẫu, đền thờ Chủ tịch Hồ Chí Minh, nhà bảo tàng trưng bày cọc Bạch Đằng; Quảng trường Chiến thắng 2.000 m² xây nổi trên sông, ba tượng đồng Ngô Quyền, Lê Đại Hành, Trần Hưng Đạo mỗi pho cao 8 m, nặng 40 tấn; dưới nước 180 cọc lim bịt sắt dựng lại.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/le-don-nhan-bang-xep-hang-di-tich-lich-su-quoc-gia-khu-di-tich-bach-dang-giang/gan-300-dai-bieu-tham-quan-thuc-te-tai-bai-coc-cao-quy-va-khu-di-tich-lich-su-bach-dang-giang-634286",
+        "quote": "Cổng TTĐT Hải Phòng (tin 28/9/2020, đọc 13/10/2026): gần 300 đại biểu khảo cổ tham quan bãi cọc Cao Quỳ (xã Liên Khê) và khu di tích Bạch Đằng Giang (Tràng Kênh, thị trấn Minh Đức cũ); kết quả khai quật bãi cọc Cao Quỳ phát hiện 37 cọc gỗ, 2 cụm gỗ, 22 hố cọc và 4 hố đất đen; trang thuộc chuyên mục 'Lễ đón nhận Bằng xếp hạng Di tích lịch sử quốc gia Khu di tích Bạch Đằng Giang'.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/can-canh-bai-coc-cao-quy-chung-tich-lich-su-tren-song-bach-dang-20220430161442326.htm",
+        "quote": "Dân trí, 'Cận cảnh bãi cọc Cao Quỳ' (03/5/2022, đọc 13/10/2026): khu di tích Bạch Đằng Giang cách trung tâm Hải Phòng 18 km; cao điểm lễ hội đầu năm đón 20.000–50.000 lượt khách/ngày; cách khu di tích khoảng 15 km là Khu bảo tồn bãi cọc Cao Quỳ rộng hơn 30.600 m² ở xã Liên Khê, khai quật cuối năm 2019, phát hiện 27 cọc gỗ thuộc trận Bạch Đằng năm 1288; năm 2020 Hải Phòng đầu tư 362 tỷ đồng xây đường dẫn và khu bảo tồn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/hai-phong-don-hon-nua-trieu-luot-du-khach-trong-nhung-ngay-dau-nam-2026-d483660.html",
+        "quote": "Báo Đầu tư (đầu 1/2026, đọc 13/10/2026): trong 4 ngày nghỉ Tết Dương lịch 2026, quần thể di tích, danh thắng Tràng Kênh nằm trong các điểm thu hút nhiều du khách của Hải Phòng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hai-phong-4462112.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Hải Phòng' (cập nhật 31/5/2026, đọc 13/10/2026): Hải Phòng cách Hà Nội 120 km; cao tốc Hà Nội – Hải Phòng chỉ dành cho ô tô, các phương tiện khác đi QL5 cũ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": 3600,
+        "checked": "2026-10-13",
+        "keyword": "khu di tích bạch đằng giang"
+      }
+    ],
+    "notes": "Số cọc ở bãi Cao Quỳ không thống nhất (haiphong.gov.vn 37 cọc; Dân trí 27 cọc): nêu cả hai kèm nguồn. Chưa xác minh khu bảo tồn Cao Quỳ đã mở đón khách tự do chưa, giờ mở cửa khu di tích và chỗ gửi xe: không khẳng định. Tên hành chính đã đổi (Thủy Nguyên cũ, thị trấn Minh Đức cũ): ghi '(cũ)'. Đường từ nội thành sang Thủy Nguyên qua cầu nào: chưa có nguồn đo, chỉ nói theo bản đồ chế độ xe máy. Xe máy tuyệt đối không vào cao tốc Hà Nội – Hải Phòng; đi QL5.",
+    "outline": [
+      "Câu trả lời ngắn: ở đâu, có mất vé không",
+      "Ba trận Bạch Đằng và vì sao chọn Tràng Kênh",
+      "Các công trình trong khu di tích nên xem",
+      "Quảng trường Chiến thắng và 180 cọc mô phỏng",
+      "Bãi cọc Cao Quỳ thật: cách 15 km, số cọc khai quật",
+      "Đi xe máy từ Hà Nội: QL5, không cao tốc, mùa lễ hội đông"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P0"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00438.json",
+  "draft_template": {
+    "id": "TM-00438",
+    "url": "/du-lich/khu-di-tich-bach-dang-giang/",
+    "title": "Khu di tích Bạch Đằng Giang Thủy Nguyên: không thu phí, xem gì, bãi cọc",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích bạch đằng giang, bạch đằng giang thủy nguyên, bãi cọc cao quỳ, tượng ngô quyền lê đại hành trần hưng đạo, quảng trường chiến thắng bạch đằng, tràng kênh hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: ở đâu, có mất vé không",
+        "<p></p>"
+      ],
+      [
+        "Ba trận Bạch Đằng và vì sao chọn Tràng Kênh",
+        "<p></p>"
+      ],
+      [
+        "Các công trình trong khu di tích nên xem",
+        "<p></p>"
+      ],
+      [
+        "Quảng trường Chiến thắng và 180 cọc mô phỏng",
+        "<p></p>"
+      ],
+      [
+        "Bãi cọc Cao Quỳ thật: cách 15 km, số cọc khai quật",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: QL5, không cao tốc, mùa lễ hội đông",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/tin-tuc-su-kien/Khu-di-tich-Bach-Dang-Giang-Noi-hoi-tu-honthieng-song-nui-55755",
+        "quote": "Cổng TTĐT Hải Phòng, 'Khu di tích Bạch Đằng Giang: Nơi hội tụ hồn thiêng sông núi' (đọc 13/10/2026): vùng Tràng Kênh – Bạch Đằng (huyện Thủy Nguyên cũ) cách trung tâm Hải Phòng chừng 18 km về phía Đông Bắc; khu di tích thực hiện '3 không': không thương mại, không thu phí, không rác thải; công trình xây dựng từ 2008 đến 2016 gồm Trụ chiến thắng, đền Bạch Đằng Giang thờ Ngô Quyền, đền Tràng Kênh Vọng Đế thờ Lê Đại Hành, Linh từ Tràng Kênh thờ Trần Hưng Đạo, Trúc Lâm tự Tràng Kênh, đền thờ Thánh Mẫu, đền thờ Chủ tịch Hồ Chí Minh, nhà bảo tàng trưng bày cọc Bạch Đằng; Quảng trường Chiến thắng 2.000 m² xây nổi trên sông, ba tượng đồng Ngô Quyền, Lê Đại Hành, Trần Hưng Đạo mỗi pho cao 8 m, nặng 40 tấn; dưới nước 180 cọc lim bịt sắt dựng lại.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/le-don-nhan-bang-xep-hang-di-tich-lich-su-quoc-gia-khu-di-tich-bach-dang-giang/gan-300-dai-bieu-tham-quan-thuc-te-tai-bai-coc-cao-quy-va-khu-di-tich-lich-su-bach-dang-giang-634286",
+        "quote": "Cổng TTĐT Hải Phòng (tin 28/9/2020, đọc 13/10/2026): gần 300 đại biểu khảo cổ tham quan bãi cọc Cao Quỳ (xã Liên Khê) và khu di tích Bạch Đằng Giang (Tràng Kênh, thị trấn Minh Đức cũ); kết quả khai quật bãi cọc Cao Quỳ phát hiện 37 cọc gỗ, 2 cụm gỗ, 22 hố cọc và 4 hố đất đen; trang thuộc chuyên mục 'Lễ đón nhận Bằng xếp hạng Di tích lịch sử quốc gia Khu di tích Bạch Đằng Giang'.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/can-canh-bai-coc-cao-quy-chung-tich-lich-su-tren-song-bach-dang-20220430161442326.htm",
+        "quote": "Dân trí, 'Cận cảnh bãi cọc Cao Quỳ' (03/5/2022, đọc 13/10/2026): khu di tích Bạch Đằng Giang cách trung tâm Hải Phòng 18 km; cao điểm lễ hội đầu năm đón 20.000–50.000 lượt khách/ngày; cách khu di tích khoảng 15 km là Khu bảo tồn bãi cọc Cao Quỳ rộng hơn 30.600 m² ở xã Liên Khê, khai quật cuối năm 2019, phát hiện 27 cọc gỗ thuộc trận Bạch Đằng năm 1288; năm 2020 Hải Phòng đầu tư 362 tỷ đồng xây đường dẫn và khu bảo tồn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/hai-phong-don-hon-nua-trieu-luot-du-khach-trong-nhung-ngay-dau-nam-2026-d483660.html",
+        "quote": "Báo Đầu tư (đầu 1/2026, đọc 13/10/2026): trong 4 ngày nghỉ Tết Dương lịch 2026, quần thể di tích, danh thắng Tràng Kênh nằm trong các điểm thu hút nhiều du khách của Hải Phòng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-hai-phong-4462112.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Hải Phòng' (cập nhật 31/5/2026, đọc 13/10/2026): Hải Phòng cách Hà Nội 120 km; cao tốc Hà Nội – Hải Phòng chỉ dành cho ô tô, các phương tiện khác đi QL5 cũ.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00438"
+  }
+}
