@@ -90,6 +90,18 @@
       "source": "config/business-facts.json",
       "quote": "prices.xe số: 150–200 nghìn/ngày, 700–800 nghìn/tuần, 1–1,2 triệu/tháng",
       "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/tin-tuc/honda-viet-nam-gioi-thieu-super-cub-moi-sac-mau-thoi-thuong-va-dong-co-dat-tieu-chuan-khi-thai-euro-4-bieu-tuong-cua-di-san-huyen-thoai-khi-chat-thoi-dai",
+      "quote": "Honda Việt Nam, thông cáo “Honda Việt Nam giới thiệu Super Cub mới…” (Hà Nội, 5/9/2026; đọc 13/10/2026): Super Cub mới thêm hai màu Xám đen và Bạc trắng bên cạnh Đen nhám; động cơ 125cc PGM-FI đạt Euro 4, giảm tới 32% lượng khí thải so với bản trước; đèn LED toàn phần và đèn trước luôn sáng AHO; đồng hồ tròn viền chrome với màn hình LCD (nhiên liệu, quãng đường, thời gian); phanh đĩa thủy lực trước, vành nhôm đúc 17-inch, lốp không săm; yên đệm Urethane; Smart Key 3 chức năng (cảnh báo chống trộm, xác định vị trí, khởi động hệ thống điện). Phân phối tại HEAD từ 12/9/2026. Giá bán lẻ đề xuất (8% / 10% thuế GTGT): Đặc biệt – Đen: 88.353.818 / 89.990.000; Tiêu chuẩn – Xám đen, Bạc trắng: 87.372.000 / 88.990.000 VNĐ.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/san-pham/super-cub-c125",
+      "quote": "Honda Việt Nam, trang sản phẩm Super Cub C125 (đọc 13/10/2026): 2 phiên bản Đặc Biệt (88.353.818 VNĐ) và Tiêu Chuẩn (87.372.000 VNĐ theo trang So sánh). Thông số: khối lượng bản thân 109 kg; 1.910 x 718 x 1.002 mm; trục bánh xe 1.243 mm; độ cao yên 780 mm; khoảng sáng gầm 136 mm; bình xăng 3,7 lít; lốp trước 70/90-17, sau 80/90-17; phuộc sau lò xo trụ đôi; 4 kỳ 1 xy-lanh làm mát bằng không khí; 6,87 kW/7.500 vòng/phút; 10,15 Nm/5.000 vòng/phút; 123,9 cm³; tỷ số nén 10:1; mức tiêu thụ 1,55 l/100 km; truyền động cơ khí; khởi động điện; dầu máy 0,80 L sau khi xả, 0,85 L khi thay lọc dầu, 1,00 L khi rã máy. “Lịch sử đời xe” 2019, 2022, 2025, 2026.",
+      "checked": "2026-10-13"
     }
   ],
   "factoryVersion": 2,

@@ -94,6 +94,18 @@
       "source": "config/business-facts.json",
       "quote": "policies.age: xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
       "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/so-sanh?sp=%5B%22sh350i%22%5D&version=76&category=2",
+      "quote": "Honda Việt Nam, trang So sánh sản phẩm SH350i (đọc 13/10/2026): giá bán lẻ đề xuất Phiên bản Thể thao 152.890.000 VNĐ, Đặc biệt 152.390.000 VNĐ, Cao cấp 151.390.000 VNĐ; cả 3 bản: xăng 4 kỳ, 1 xi lanh, làm mát chất lỏng, biến thiên vô cấp; ABS 2 kênh, kiểm soát lực kéo HSTC, kết nối điện thoại qua Bluetooth; hộc dưới yên có đèn soi, khóa thông minh, hộc trước có cổng sạc loại C, đèn luôn sáng và đèn tín hiệu dừng khẩn cấp; tổng khối lượng 172 kg; D x R x C 2.160 x 743 x 1.162 mm; trục bánh xe 1.450 mm; độ cao yên 805 mm; khoảng sáng gầm 132 mm; bình xăng 9,3 lít; lốp trước 110/70-16, sau 130/70R16; dung tích xy-lanh 329,6 cm3; công suất tối đa 21,5 kW/7.500 vòng/phút; mô-men 31,8 Nm/5.250 vòng/phút; mức tiêu thụ nhiên liệu 3.63 l/100km; nhớt 1,4 lít (xả), 1,5 lít (xả và thay lưới lọc), 1,85 lít (rã máy); tỷ số nén 10,5:1.",
+      "checked": "2026-10-13"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/R8BlCU6VrTkb1Zitb6V5.pdf",
+      "quote": "Honda, Sách hướng dẫn sử dụng SH350i (SH350A/SH350AS, kiểu V Việt Nam, © 2024; liên kết từ trang sản phẩm, đọc 13/10/2026): xăng khuyên dùng RON 92 hoặc cao hơn, không quá 10% ethanol; bình 9,3 L; khối lượng bản thân 172 kg; khả năng chở tối đa 180 kg (gồm người lái, người ngồi sau, hành lý, phụ kiện); hành lý tối đa: hộp đựng đồ 10 kg, hộp phía trước 1,0 kg, móc treo 1,5 kg, tay dắt sau 3 kg; chở người lái và 1 người ngồi sau; bán kính quay tối thiểu 2,20 m; áp suất lốp trước 200 kPa, sau 250 kPa; lốp sau không săm hướng tâm; dầu SAE 10W-30, API SJ trở lên, JASO MB; dầu phanh DOT 4.",
+      "checked": "2026-10-13"
     }
   ],
   "factoryVersion": 2,
