@@ -75,5 +75,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-01003"
+  "topic_id": "TM-01003",
+  "publishedAt": "2026-10-14T17:10:42.343466+00:00",
+  "publishedBy": "Claude Code (routine)"
 }
