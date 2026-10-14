@@ -1,0 +1,143 @@
+{
+  "writer": "writer-F2",
+  "queued": "2026-10-14T14:50:30.644929+00:00",
+  "topic": {
+    "topic_id": "TM-00798",
+    "url": "/du-lich/khe-ro-son-dong/",
+    "title": "Khe Rỗ Sơn Động: rừng nguyên sinh hơn 7.000 ha, bản Nà Ó",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khe rỗ",
+    "secondary_keywords": [
+      "rừng khe rỗ",
+      "khu bảo tồn khe rỗ",
+      "khe rỗ sơn động",
+      "bản nà ó"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người thích rừng, suối muốn biết Khe Rỗ ở đâu, có gì (hồ, thác, bản) và có chỗ ăn nghỉ không.",
+    "information_gain": "Site chỉ nhắc Khe Rỗ trong danh sách điểm Tây Yên Tử (bài chùa Am Vãi TM-00761); /du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ nói tuyến lên Yên Tử phía Bắc Giang. Bài mới thêm: Khe Rỗ ở xã An Lạc, hơn 7.000 ha, gần 5.100 ha rừng tự nhiên, lưu vực suối Khe Rỗ và Khe Đin, hồ Vũng Tròn, thác Đồng Dương, thôn Nà Ó với HTX du lịch cộng đồng An Lạc (lập 2012), món ăn bản địa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/du-lich-E19590D86/bac-giang-danh-thuc-tiem-nang-du-lich-huyen-vung-cao-son-dong-685005BD.html",
+        "quote": "Báo Thanh tra, 6/11/2021 (đọc 14/10/2026): Khe Rỗ ở xã An Lạc có diện tích hơn 7.000 ha, rừng tự nhiên gần 5.100 ha, là rừng nguyên sinh tiêu biểu của Bắc Giang và vùng Đông Bắc; khu bảo tồn nằm trong lưu vực suối Khe Rỗ và Khe Đin; Sơn Động gần 850 km², 13 dân tộc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/thoi-luong-gio-moi-cho-du-lich-tay-yen-tu.html",
+        "quote": "VnBusiness, 4/5/2020 (đọc 14/10/2026): khu du lịch sinh thái Khe Rỗ (xã An Lạc) có hồ Vũng Tròn, thác Đồng Dương, rừng nguyên sinh; thôn Nà Ó là tâm điểm, khách ăn nghỉ, thưởng thức xôi 7 màu, trứng kiến, cá suối, nhộng ong, măng rừng; HTX du lịch cộng đồng An Lạc lập năm 2012.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/giam-ngheo-phat-trien-kinh-te-o-vung-cao-son-dong-bai-cuoi-thuc-day-cong-nghiep-khong-khoi.html",
+        "quote": "VnBusiness, 25/5/2021 (đọc 14/10/2026): Sơn Động có thắng cảnh Vũng Tròn, Khe Rỗ, Đồng Thông, thác Ba Tia; giao thoa 12 dân tộc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "khe rỗ"
+      }
+    ],
+    "notes": "Nguồn 2020–2021, chưa có bài 2026 về hiện trạng đường, homestay, giá – không ghi giá. Mâu thuẫn số dân tộc (13 vs 12). Địa danh sau sáp nhập (xã An Lạc thuộc Bắc Ninh mới?) chưa xác minh. Khuyến cáo an toàn đi rừng phải viết chung, không có quy định chính thức trong nguồn.",
+    "outline": [
+      "Khe Rỗ ở đâu",
+      "Rừng nguyên sinh và hệ suối",
+      "Hồ Vũng Tròn, thác Đồng Dương",
+      "Bản Nà Ó và du lịch cộng đồng",
+      "Mùa đi và chuẩn bị",
+      "Lộ trình xe máy qua Lục Nam – Sơn Động"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/ho-khuon-than/",
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00798.json",
+  "draft_template": {
+    "id": "TM-00798",
+    "url": "/du-lich/khe-ro-son-dong/",
+    "title": "Khe Rỗ Sơn Động: rừng nguyên sinh hơn 7.000 ha, bản Nà Ó",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khe rỗ, rừng khe rỗ, khu bảo tồn khe rỗ, khe rỗ sơn động, bản nà ó",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khe Rỗ ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Rừng nguyên sinh và hệ suối",
+        "<p></p>"
+      ],
+      [
+        "Hồ Vũng Tròn, thác Đồng Dương",
+        "<p></p>"
+      ],
+      [
+        "Bản Nà Ó và du lịch cộng đồng",
+        "<p></p>"
+      ],
+      [
+        "Mùa đi và chuẩn bị",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình xe máy qua Lục Nam – Sơn Động",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/du-lich-E19590D86/bac-giang-danh-thuc-tiem-nang-du-lich-huyen-vung-cao-son-dong-685005BD.html",
+        "quote": "Báo Thanh tra, 6/11/2021 (đọc 14/10/2026): Khe Rỗ ở xã An Lạc có diện tích hơn 7.000 ha, rừng tự nhiên gần 5.100 ha, là rừng nguyên sinh tiêu biểu của Bắc Giang và vùng Đông Bắc; khu bảo tồn nằm trong lưu vực suối Khe Rỗ và Khe Đin; Sơn Động gần 850 km², 13 dân tộc.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/thoi-luong-gio-moi-cho-du-lich-tay-yen-tu.html",
+        "quote": "VnBusiness, 4/5/2020 (đọc 14/10/2026): khu du lịch sinh thái Khe Rỗ (xã An Lạc) có hồ Vũng Tròn, thác Đồng Dương, rừng nguyên sinh; thôn Nà Ó là tâm điểm, khách ăn nghỉ, thưởng thức xôi 7 màu, trứng kiến, cá suối, nhộng ong, măng rừng; HTX du lịch cộng đồng An Lạc lập năm 2012.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/giam-ngheo-phat-trien-kinh-te-o-vung-cao-son-dong-bai-cuoi-thuc-day-cong-nghiep-khong-khoi.html",
+        "quote": "VnBusiness, 25/5/2021 (đọc 14/10/2026): Sơn Động có thắng cảnh Vũng Tròn, Khe Rỗ, Đồng Thông, thác Ba Tia; giao thoa 12 dân tộc.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00798"
+  }
+}

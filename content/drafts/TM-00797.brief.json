@@ -1,0 +1,142 @@
+{
+  "writer": "writer-F1",
+  "queued": "2026-10-14T14:50:30.408000+00:00",
+  "topic": {
+    "topic_id": "TM-00797",
+    "url": "/du-lich/dinh-lo-hanh-hiep-hoa/",
+    "title": "Đình Lỗ Hạnh Hiệp Hòa: đình thời Mạc 1576, tranh Bát Tiên",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đình lỗ hạnh",
+    "secondary_keywords": [
+      "đình lỗ hạnh hiệp hòa",
+      "đình lỗ hạnh bắc giang",
+      "đệ nhất kinh bắc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mê đình cổ muốn biết đình Lỗ Hạnh có gì đáng xem, cổ đến đâu và đi thế nào từ Hà Nội.",
+    "information_gain": "Site chưa có bài về đình nào ở Hiệp Hòa; /du-lich/dinh-tay-dang (TM-00552) và /du-lich/dinh-huu-bang-thach-that là đình xứ Đoài. Bài mới thêm: đình dựng năm Sùng Khang 11 (1576), được xem là một trong hai đình sớm nhất cả nước sau Tây Đằng, thờ chung 5 làng (Đình Cả), các lần sửa 1694, 1850, 1910, đợt trùng tu gần 13 tỷ năm 2010, tranh Bát Tiên 2,23 × 1 m, bức chạm tiên gảy đàn đáy liên quan ca trù, xếp hạng quốc gia 24-12-1982.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/dinh-i-de-nhat-kinh-bac-i-10102048.html",
+        "quote": "Đại biểu Nhân dân, 11/9/2011 (đọc 14/10/2026): đình Lỗ Hạnh, thôn Lỗ Hạnh, xã Đông Lỗ, Hiệp Hòa, Bắc Giang, xây năm Sùng Khang 11 (1576), diện tích 3.660 m², một trong hai đình sớm nhất toàn quốc sau đình Tây Đằng; thờ Cao Sơn Đại Vương và Phương Dung Tiên Chúa; thờ chung 5 làng Chằm, Chúng, Khoát, Chùa, Hạnh nên gọi Đình Cả; trùng tu 1694, 1850, 1910; tranh Bát Tiên dài 2,23 m cao 1 m, bức chạm tiên gảy đàn đáy; năm 2010 tỉnh đầu tư gần 13 tỷ đồng trùng tu, khánh thành đầu 2011.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://mybacgiang.vn/vi/dinhlohanh",
+        "quote": "Trang du lịch mybacgiang.vn (đọc 14/10/2026): ngày 24-12-1982 đình Lỗ Hạnh được Bộ Văn hóa xếp hạng Di tích lịch sử – văn hóa cấp Quốc gia; đình thuộc làng Lỗ Hạnh, xã Đông Lỗ, huyện Hiệp Hòa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1692234/ba-c-giang-s-hie-p-ho-a-district-holds-festivals-to-support-people-in-need-promote-tourism.html",
+        "quote": "Việt Nam News, 14/2/2025 (đọc 14/10/2026): Hiệp Hòa có 687 di tích, 131 di tích được xếp hạng, trong đó có đình Lỗ Hạnh và hệ thống lăng đá cổ nhất tỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình lỗ hạnh"
+      }
+    ],
+    "notes": "Xác minh địa danh sau sáp nhập (Bắc Giang cũ nay thuộc Bắc Ninh; xã Đông Lỗ cũ) – chưa có nguồn. mybacgiang.vn chưa rõ có phải cổng chính thức; type để 'official' cần biên tập viên kiểm. 'Đệ nhất Kinh Bắc' chỉ là danh xưng truyền miệng theo báo. Không có nguồn lễ hội, khoảng cách, giờ mở cửa.",
+    "outline": [
+      "Đình Lỗ Hạnh ở đâu",
+      "Niên đại 1576 và các lần trùng tu",
+      "Kiến trúc và chạm khắc",
+      "Tranh Bát Tiên và bức tiên gảy đàn đáy",
+      "Xếp hạng di tích",
+      "Gợi ý đi xe máy từ Hà Nội"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dinh-tay-dang/",
+      "/du-lich/dinh-huu-bang-thach-that/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00797.json",
+  "draft_template": {
+    "id": "TM-00797",
+    "url": "/du-lich/dinh-lo-hanh-hiep-hoa/",
+    "title": "Đình Lỗ Hạnh Hiệp Hòa: đình thời Mạc 1576, tranh Bát Tiên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình lỗ hạnh, đình lỗ hạnh hiệp hòa, đình lỗ hạnh bắc giang, đệ nhất kinh bắc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Lỗ Hạnh ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Niên đại 1576 và các lần trùng tu",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc và chạm khắc",
+        "<p></p>"
+      ],
+      [
+        "Tranh Bát Tiên và bức tiên gảy đàn đáy",
+        "<p></p>"
+      ],
+      [
+        "Xếp hạng di tích",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý đi xe máy từ Hà Nội",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/dinh-i-de-nhat-kinh-bac-i-10102048.html",
+        "quote": "Đại biểu Nhân dân, 11/9/2011 (đọc 14/10/2026): đình Lỗ Hạnh, thôn Lỗ Hạnh, xã Đông Lỗ, Hiệp Hòa, Bắc Giang, xây năm Sùng Khang 11 (1576), diện tích 3.660 m², một trong hai đình sớm nhất toàn quốc sau đình Tây Đằng; thờ Cao Sơn Đại Vương và Phương Dung Tiên Chúa; thờ chung 5 làng Chằm, Chúng, Khoát, Chùa, Hạnh nên gọi Đình Cả; trùng tu 1694, 1850, 1910; tranh Bát Tiên dài 2,23 m cao 1 m, bức chạm tiên gảy đàn đáy; năm 2010 tỉnh đầu tư gần 13 tỷ đồng trùng tu, khánh thành đầu 2011.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://mybacgiang.vn/vi/dinhlohanh",
+        "quote": "Trang du lịch mybacgiang.vn (đọc 14/10/2026): ngày 24-12-1982 đình Lỗ Hạnh được Bộ Văn hóa xếp hạng Di tích lịch sử – văn hóa cấp Quốc gia; đình thuộc làng Lỗ Hạnh, xã Đông Lỗ, huyện Hiệp Hòa.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1692234/ba-c-giang-s-hie-p-ho-a-district-holds-festivals-to-support-people-in-need-promote-tourism.html",
+        "quote": "Việt Nam News, 14/2/2025 (đọc 14/10/2026): Hiệp Hòa có 687 di tích, 131 di tích được xếp hạng, trong đó có đình Lỗ Hạnh và hệ thống lăng đá cổ nhất tỉnh.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00797"
+  }
+}
