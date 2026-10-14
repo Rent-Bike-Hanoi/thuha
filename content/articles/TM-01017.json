@@ -16,7 +16,7 @@
     ],
     [
       "Đồng Sơn – Kỳ Thượng ở đâu so với vịnh Hạ Long",
-      "<p>Phần lớn khách biết Hạ Long qua vịnh, bãi tắm và các tuyến tàu. Khu bảo tồn Đồng Sơn – Kỳ Thượng lại nằm ở phía ngược lại: vùng đồi núi trong đất liền của thành phố. Theo <a href=\"https://www.tinnhanhchungkhoan.vn/ve-ha-long-nhung-khong-xuong-bien-ma-len-rung-post304940.html\" target=\"_blank\" rel=\"noopener\">Tin nhanh Chứng khoán (2022)</a>, Kỳ Thượng là xã miền núi cao nhất TP Hạ Long.</p><p>Điểm mốc mà bài báo dùng là Bến xe Bãi Cháy. Nếu bạn đi xe máy từ Hà Nội ra Hạ Long theo hướng dẫn trong bài <a href=\"/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/\">Hà Nội đi Yên Tử bằng xe máy</a> hoặc đã đứng ngắm vịnh từ <a href=\"/du-lich/nui-bai-tho-ha-long/\">núi Bài Thơ</a>, thì chặng lên Kỳ Thượng là một chuyến đi riêng trong ngày, nên tách khỏi lịch tham quan vịnh.</p><p>Chúng tôi không đưa tọa độ hay đường tắt cụ thể vì nguồn báo không công bố. Bạn nên tra bản đồ trước khi đi, hỏi người dân ở trung tâm xã và đi theo đường chính đã được bê tông hóa.</p>"
+      "<p>Phần lớn khách biết Hạ Long qua vịnh, bãi tắm và các tuyến tàu. Khu bảo tồn Đồng Sơn – Kỳ Thượng lại nằm ở phía ngược lại: vùng đồi núi trong đất liền của thành phố. Theo <a href=\"https://www.tinnhanhchungkhoan.vn/ve-ha-long-nhung-khong-xuong-bien-ma-len-rung-post304940.html\" target=\"_blank\" rel=\"noopener\">Tin nhanh Chứng khoán (2022)</a>, Kỳ Thượng là xã miền núi cao nhất TP Hạ Long.</p><p>Điểm mốc mà bài báo dùng là Bến xe Bãi Cháy. Nếu bạn đi xe máy từ Hà Nội ra Hạ Long (có thể ghép với chuyến <a href=\"/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/\">Hà Nội đi Yên Tử bằng xe máy</a>) hoặc đã đứng ngắm vịnh từ <a href=\"/du-lich/nui-bai-tho-ha-long/\">núi Bài Thơ</a>, thì chặng lên Kỳ Thượng là một chuyến đi riêng trong ngày, nên tách khỏi lịch tham quan vịnh.</p><p>Chúng tôi không đưa tọa độ hay đường tắt cụ thể vì nguồn báo không công bố. Bạn nên tra bản đồ trước khi đi, hỏi người dân ở trung tâm xã và đi theo đường chính đã được bê tông hóa.</p>"
     ],
     [
       "Con số về rừng và loài",
@@ -75,5 +75,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-01017"
+  "topic_id": "TM-01017",
+  "publishedAt": "2026-10-14T17:19:13.596386+00:00",
+  "publishedBy": "Claude Code (routine)"
 }
