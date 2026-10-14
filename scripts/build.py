@@ -258,7 +258,7 @@ SERVICE_LINKS=[
  ('/thue-xe-may/hoan-kiem/','Thuê xe máy Hoàn Kiếm và Phố Cổ',('hoàn kiếm','hoan-kiem','phố cổ hà nội','/ha-noi/pho-co/')),
  ('/thue-xe-dien/ha-noi/','Thuê xe máy điện Hà Nội',('xe điện','xe-dien','vinfast')),
  ('/thue-xe-50cc/ha-noi/','Thuê xe máy 50cc Hà Nội',('50cc',)),
- ('/thue-xe-may/ha-noi/theo-thang/','Thuê xe máy theo tháng Hà Nội',('theo tháng','theo-thang','dài hạn','dai-han')),
+ ('/thue-xe-may/ha-noi/theo-thang/','Thuê xe máy theo tháng Hà Nội',('theo tháng','theo-thang','dài hạn','dai-han','sinh viên','sinh-vien','đi làm','di-lam','thuê hay mua','thue-hay-mua','mua xe máy cũ','mua-xe-may-cu','ở lâu','người nước ngoài','nuoc-ngoai','expat')),
  ('/thue-xe-may/ha-noi/theo-ngay/','Thuê xe máy Hà Nội theo ngày và tuần',('theo ngày','theo-ngay','theo tuần','theo-tuan','trong ngày','cuối tuần','day-trip','ngày 1 đêm','ngày 2 đêm','ngày 3 đêm')),
 ]
 # Bảng rộng phải cuộn ngang trên điện thoại: bọc mọi <table> chưa nằm trong .table-scroll (nguồn bài viết tay lẫn V2).
@@ -268,6 +268,18 @@ def service_nav(p,sections_html):
  picks=[(u,a) for u,a,keys in SERVICE_LINKS if u!=p['url'] and f'href="{u}"' not in sections_html and any(k in text for k in keys)][:2]
  if not picks:return ''
  return '<nav class="post-nav" aria-label="Dịch vụ thuê xe liên quan">'+''.join(f'<a class="post-nav-link" href="{u}"><small>Dịch vụ liên quan</small><span>{E(a)}</span></a>' for u,a in picks)+'</nav>'
+# Bài liên quan theo chủ đề: cùng hub, đang index, chấm điểm theo từ chung trong tiêu đề, từ khoá và slug (ổn định, không ngẫu nhiên).
+_STOP=set('và của cho các một những với trong khi đi ở là có không được tại từ theo bằng xe máy hà nội thuê bài gì nào sao bao nhiêu nên hay thế'.split())
+def _toks(q):
+ t=' '.join([q['title'],q.get('keywords','') if isinstance(q.get('keywords',''),str) else ' '.join(q.get('keywords',[])),q['url'].replace('-',' ').replace('/',' ')]).lower()
+ return {w for w in re.findall(r'\w+',t) if len(w)>1 and w not in _STOP and not w.isdigit()}
+_RELPOOL={}
+for q in P:
+ if q['kind'] not in ['hub','page'] and not factory_noindex(q):_RELPOOL.setdefault(q['hub'],[]).append((q,_toks(q)))
+def related_for(p):
+ mine=_toks(p);pool=_RELPOOL.get(p['hub'],[])
+ scored=sorted(((-len(mine&t),q['parent']!=p['url'],q['url'],q) for q,t in pool if q['url']!=p['url']),key=lambda x:x[:3])
+ return [x[3] for x in scored[:3]]
 for p in P:
  par=lookup.get(p['parent']);hub=next(h for h in NAV if h['slug']==p['hub'])
  crumbs='<a href="/">Trang chủ</a><span>/</span><a href="'+hub['url']+'">'+E(hub['label'])+'</a>'
@@ -277,7 +289,7 @@ for p in P:
  if p.get('faq'):
   n=len(p['sections'])+1
   sections+=f'<section id="muc-{n}" class="article-faq"><h2>{E(p.get("faqTitle","Câu hỏi thường gặp khi thuê xe máy Hà Nội"))}</h2>'+''.join(f'<details class="faq-item"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q,a in p['faq'])+'</section>'
- related=[q for q in sorted(P,key=lambda q: q["parent"]!=p["url"]) if q['url']!=p['url'] and q['kind'] not in ['hub','page'] and (q['hub']==p['hub'] or (p['hub'] in ['du-lich','kinh-nghiem','xe-may','xe-dien','bao-duong','luat-giao-thong'] and q['url']=='/thue-xe-may/ha-noi/'))][:3]
+ related=related_for(p)
  if p['kind']=='page':
   if p['url']=='/faq/':
    sections=''.join(f'<details class="faq-item" id="muc-{i+1}"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for i,(q,a) in enumerate(FAQ))
