@@ -1,0 +1,145 @@
+{
+  "writer": "writer-Y",
+  "queued": "2026-10-14T05:48:35.632619+00:00",
+  "topic": {
+    "topic_id": "TM-00742",
+    "url": "/du-lich/chua-chan-tien-ba-trieu/",
+    "title": "Chùa Chân Tiên 151 Bà Triệu: chùa Báo Thiên xưa, 57 pho tượng, hội thề 1427",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa chân tiên",
+    "secondary_keywords": [
+      "chùa chân tiên bà triệu",
+      "đình phụ khánh",
+      "hội thề đông quan",
+      "chùa báo thiên",
+      "chùa phúc lâm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hai Bà Trưng hoặc khách tìm dấu vết chùa Báo Thiên muốn biết chùa Chân Tiên trên phố Bà Triệu có lịch sử dời chùa thế nào và lễ kỷ niệm Hội thề Đông Quan.",
+    "information_gain": "Chưa bài nào trên site về chùa Chân Tiên – đình Phụ Khánh. Gần nhất: /du-lich/nha-tho-lon-ha-noi/ (đất chùa Báo Thiên xưa), /du-lich/nha-tu-hoa-lo/ (đất Phụ Khánh bị lấy xây nhà tù), /du-lich/den-hai-ba-trung-dong-nhan/ (cùng quận). Bài mới bổ sung: chuỗi hai lần dời chùa (Tiên Thị → Phụ Khánh thời Trịnh Sâm → Bà Triệu khi xây Hỏa Lò 1896–1897), bộ 57 pho tượng, bia 1901, chuông niên hiệu Thuận Phúc thời Mạc, lễ Hội thề Đông Quan 22/11 âm lịch và xếp hạng 2/3/1990.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://360ditich.haibatrung.hanoi.gov.vn/vi/vtour/details/di-tich-kien-truc-nghe-thuat-chua-chan-tien-8",
+        "quote": "Cổng 360 di tích Hai Bà Trưng (UBND quận Hai Bà Trưng, Hà Nội), 'Di tích kiến trúc – nghệ thuật Chùa Chân Tiên' (đọc 14/10/2026): số 151 phố Bà Triệu, phường Lê Đại Hành; tên tự Phúc Lâm; truyền thuyết khởi dựng thời Lý Thánh Tông, tên chùa Báo Thiên ở thôn Tiên Thị (khu Nhà thờ Lớn); thế kỷ XVIII dời tới thôn An Phụ tức Phụ Khánh (khu Thợ Nhuộm – Lý Thường Kiệt); cuối thế kỷ XIX Pháp xây Hỏa Lò nên chuyển chùa và đình Phụ Khánh; hạng mục: tam quan, tiền đường và thượng điện, nhà Tổ, nhà Mẫu, trai phòng, vườn tháp; bộ tượng 57 pho thời Lê – Nguyễn; bia 'Phụ Khánh Chân Tiên bi ký' 1901; 12 bia hậu, 6 chuông đồng, 237 bản khắc kinh; tương truyền là nơi Hội thề Đông Quan năm 1427, lễ kỷ niệm ngày 22/11 âm lịch; ngày 2/3/1990 cụm chùa – đình Phụ Khánh được công nhận di tích kiến trúc – nghệ thuật quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-chan-tien-quan-hai-ba-trung-76103.html",
+        "quote": "Người Hà Nội, 'Chùa Chân Tiên (quận Hai Bà Trưng)' (đọc 14/10/2026): thời chúa Trịnh Sâm (1767–1782) mở rộng phủ chúa nên chùa Báo Thiên dời ra Phụ Khánh, lấy tên Chân Tiên ghi nhớ đất Tiên Thị; Pháp lấy đất Phụ Khánh xây nhà tù và tòa án (1896, 1897), chùa dời về phố Bà Triệu; chùa quay hướng tây, tam bảo hình chuôi vồ, tiền đường 5 gian, thượng điện 3 gian; có 17 bia triều Thành Thái, phù điêu gỗ 'Ngũ hổ', chuông lạc khoản 'Thuận Phúc nhị niên' (niên hiệu Mạc Mục Tông 1562–1565); xếp hạng năm 1990.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://en.wikipedia.org/wiki/List_of_Buddhist_temples_in_Hanoi",
+        "quote": "Wikipedia tiếng Anh, 'List of Buddhist temples in Hanoi' (đọc 14/10/2026; nguồn bách khoa mở, chỉ dùng nêu dị bản): ghi chùa Chân Tiên vốn là chùa Báo Thiên ở thôn Tiên Thị, bị người Pháp dời đi thế kỷ XIX khi lấy đất xây Nhà thờ Lớn, đổi tên theo làng gốc; nơi cũ chỉ còn một giếng đá cổ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa chân tiên"
+      }
+    ],
+    "notes": "Dị bản lý do dời chùa lần đầu: thời Trịnh Sâm mở phủ chúa (cổng quận, Người Hà Nội) vs Pháp lấy đất xây Nhà thờ Lớn (Wikipedia) – theo nguồn nhà nước, nêu dị bản. Thế kỷ khởi dựng: 'thế kỷ XII' (cổng quận) vs 'thế kỷ XI' (Người Hà Nội) – Lý Thánh Tông trị vì thế kỷ XI; không đưa vào tiêu đề. Số bia: 12 bia hậu (cổng quận) vs 17 bia Thành Thái (Người Hà Nội). Hội thề Đông Quan tại đây là 'tương truyền'. Ngày lễ 22/11 âm lịch chỉ từ cổng quận; kết quả tìm kiếm khác nói 22 tháng Chạp – không dùng. 'Hội thề 1427' trong tiêu đề có quote nguồn chính thức.",
+    "outline": [
+      "Chùa Chân Tiên ở đâu trên phố Bà Triệu",
+      "Từ chùa Báo Thiên đến Chân Tiên: hai lần dời chùa",
+      "Cụm chùa Chân Tiên – đình Phụ Khánh",
+      "57 pho tượng, bia 1901, chuông thời Mạc",
+      "Tương truyền Hội thề Đông Quan và lễ 22/11 âm lịch",
+      "Ghép tuyến Nhà thờ Lớn – Hỏa Lò – Chân Tiên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/du-lich/nha-tu-hoa-lo/",
+      "/du-lich/den-hai-ba-trung-dong-nhan/",
+      "/du-lich/hoang-thanh-thang-long/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00742.json",
+  "draft_template": {
+    "id": "TM-00742",
+    "url": "/du-lich/chua-chan-tien-ba-trieu/",
+    "title": "Chùa Chân Tiên 151 Bà Triệu: chùa Báo Thiên xưa, 57 pho tượng, hội thề 1427",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa chân tiên, chùa chân tiên bà triệu, đình phụ khánh, hội thề đông quan, chùa báo thiên, chùa phúc lâm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Chân Tiên ở đâu trên phố Bà Triệu",
+        "<p></p>"
+      ],
+      [
+        "Từ chùa Báo Thiên đến Chân Tiên: hai lần dời chùa",
+        "<p></p>"
+      ],
+      [
+        "Cụm chùa Chân Tiên – đình Phụ Khánh",
+        "<p></p>"
+      ],
+      [
+        "57 pho tượng, bia 1901, chuông thời Mạc",
+        "<p></p>"
+      ],
+      [
+        "Tương truyền Hội thề Đông Quan và lễ 22/11 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghép tuyến Nhà thờ Lớn – Hỏa Lò – Chân Tiên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://360ditich.haibatrung.hanoi.gov.vn/vi/vtour/details/di-tich-kien-truc-nghe-thuat-chua-chan-tien-8",
+        "quote": "Cổng 360 di tích Hai Bà Trưng (UBND quận Hai Bà Trưng, Hà Nội), 'Di tích kiến trúc – nghệ thuật Chùa Chân Tiên' (đọc 14/10/2026): số 151 phố Bà Triệu, phường Lê Đại Hành; tên tự Phúc Lâm; truyền thuyết khởi dựng thời Lý Thánh Tông, tên chùa Báo Thiên ở thôn Tiên Thị (khu Nhà thờ Lớn); thế kỷ XVIII dời tới thôn An Phụ tức Phụ Khánh (khu Thợ Nhuộm – Lý Thường Kiệt); cuối thế kỷ XIX Pháp xây Hỏa Lò nên chuyển chùa và đình Phụ Khánh; hạng mục: tam quan, tiền đường và thượng điện, nhà Tổ, nhà Mẫu, trai phòng, vườn tháp; bộ tượng 57 pho thời Lê – Nguyễn; bia 'Phụ Khánh Chân Tiên bi ký' 1901; 12 bia hậu, 6 chuông đồng, 237 bản khắc kinh; tương truyền là nơi Hội thề Đông Quan năm 1427, lễ kỷ niệm ngày 22/11 âm lịch; ngày 2/3/1990 cụm chùa – đình Phụ Khánh được công nhận di tích kiến trúc – nghệ thuật quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-chan-tien-quan-hai-ba-trung-76103.html",
+        "quote": "Người Hà Nội, 'Chùa Chân Tiên (quận Hai Bà Trưng)' (đọc 14/10/2026): thời chúa Trịnh Sâm (1767–1782) mở rộng phủ chúa nên chùa Báo Thiên dời ra Phụ Khánh, lấy tên Chân Tiên ghi nhớ đất Tiên Thị; Pháp lấy đất Phụ Khánh xây nhà tù và tòa án (1896, 1897), chùa dời về phố Bà Triệu; chùa quay hướng tây, tam bảo hình chuôi vồ, tiền đường 5 gian, thượng điện 3 gian; có 17 bia triều Thành Thái, phù điêu gỗ 'Ngũ hổ', chuông lạc khoản 'Thuận Phúc nhị niên' (niên hiệu Mạc Mục Tông 1562–1565); xếp hạng năm 1990.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://en.wikipedia.org/wiki/List_of_Buddhist_temples_in_Hanoi",
+        "quote": "Wikipedia tiếng Anh, 'List of Buddhist temples in Hanoi' (đọc 14/10/2026; nguồn bách khoa mở, chỉ dùng nêu dị bản): ghi chùa Chân Tiên vốn là chùa Báo Thiên ở thôn Tiên Thị, bị người Pháp dời đi thế kỷ XIX khi lấy đất xây Nhà thờ Lớn, đổi tên theo làng gốc; nơi cũ chỉ còn một giếng đá cổ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00742"
+  }
+}

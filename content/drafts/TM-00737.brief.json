@@ -1,0 +1,159 @@
+{
+  "writer": "writer-X",
+  "queued": "2026-10-14T05:48:34.465346+00:00",
+  "topic": {
+    "topic_id": "TM-00737",
+    "url": "/du-lich/chua-cau-dong-hang-duong/",
+    "title": "Chùa Cầu Đông 38B Hàng Đường: nơi duy nhất thờ vợ chồng Trần Thủ Độ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa cầu đông",
+    "secondary_keywords": [
+      "chùa cầu đông hàng đường",
+      "đông môn tự",
+      "tượng trần thủ độ",
+      "linh từ quốc mẫu trần thị dung",
+      "chùa phố cổ hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách phố cổ đi qua Hàng Đường muốn biết ngôi chùa nhỏ số 38B là chùa gì, vì sao có tượng Trần Thủ Độ và vợ, có hiện vật gì.",
+    "information_gain": "Site có /du-lich/ha-noi/pho-co/, /du-lich/den-bach-ma-76-hang-buom/ và /du-lich/cho-dong-xuan/ nhưng chưa bài nào về chùa Cầu Đông. Bài mới bổ sung: tên Đông Môn tự và dấu vết sông Tô, cầu Đông, cửa Đông Hoa; bia 'Đông Môn tự ký' 1624; chuông Cảnh Thịnh 8 (1800) ghi vị trí; gần 60 tượng gỗ; tượng Trần Thủ Độ – Trần Thị Dung và nghi vấn nguồn gốc; Đức Ông là tướng Ngô Văn Long; xếp hạng 1989; giá trị xác định phía đông Hoàng thành.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/bi-an-xung-quanh-hai-pho-tuong-trong-ngoi-chua-cau-dong-post365743.html",
+        "quote": "Báo Pháp luật Việt Nam (đọc 14/10/2026): chùa Cầu Đông ở số 38B phố Hàng Đường; theo tài liệu do Tô Hoài và Nguyễn Vinh Phúc chủ biên, là chùa duy nhất ở Hà Nội thờ vợ chồng Thái sư Trần Thủ Độ; thờ Phật theo dòng Tào Động; hai tượng gỗ đặt bên trái điện thờ, được đánh giá cùng niên đại nửa đầu thế kỷ XVIII với gần 60 tượng cổ khác; nguồn gốc hai tượng vẫn là bí ẩn, chùa không còn thư tịch; tên chữ Đông Môn tự; bia năm Vĩnh Tộ 6 (1624); chuông đồng niên hiệu Cảnh Thịnh 8 (1800) ghi 'cầu đá phía Đông, sông Tô chảy bên trái, cửa Hoa bên phải'; 4 bia đá niên đại 1624, 1639, 1712, 1817; được Bộ Văn hóa Thông tin xếp hạng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-cau-dong-quan-hoan-kiem-76101.html",
+        "quote": "Người Hà Nội, 'Chùa Cầu Đông (quận Hoàn Kiếm)' (đọc 14/10/2026): số 38B Hàng Đường, phường Hàng Đào; tên chùa Đông Môn gắn với cầu đá qua sông Tô Lịch và cửa Đông; truyền thuyết thời Trần Linh Từ quốc mẫu Trần Thị Dung tu bổ chùa nhưng không còn dấu vết vật chất thời Lý – Trần; bia 'Đông Môn tự ký' dựng tháng 10 năm Vĩnh Tộ 6 (1624) ghi việc sư Tự Đạo Án mua đất mở rộng chùa; các công trình: Tam quan, Tiền đường, Thiêu hương, Thượng điện, Tổ đường, điện Mẫu, hành lang; là nơi duy nhất ở Hà Nội có tượng Trần Thủ Độ và Trần Thị Dung; tượng Đức Ông là tướng Ngô Văn Long, thành hoàng làng; được Bộ Văn hóa và Thông tin xếp hạng di tích năm 1989.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/chua-cau-dong-37595.html",
+        "quote": "Hànộimới, 'Chùa Cầu Đông' (đọc 14/10/2026): chùa ở 38 Hàng Đường, nơi duy nhất thờ vợ chồng Trần Thủ Độ; đầu thế kỷ XIX phố Hàng Đường thuộc hai làng Vĩnh Hạnh và Đông Hoa Môn, ranh giới là sông Tô Lịch có cầu đá tên Đông Hoa gọi tắt Cầu Đông; chùa cạnh chợ Cầu Đông; kỷ yếu nhà chùa ghi chùa là cơ sở cách mạng có hầm bí mật, kháng chiến chống Mỹ có đào hầm cho dân trú ẩn; sân và điện lát gạch đỏ, khách đi chân không vào điện.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mytour.vn/vi/blog/bai-viet/bi-mat-ve-cac-chua-noi-tieng-tai-thang-long-ha-noi.html",
+        "quote": "Mytour (đọc 14/10/2026): chùa Cầu Đông còn gọi Đông Hoa Môn tự, số 38B Hàng Đường; phố dài 180 m; chùa xây thời Lê (thế kỷ XVII), sửa 1624, trùng tu 1639, 1711, 1816; 60 pho tượng cổ (Tuyết Sơn, Di Lạc, Tam Thế); 4 bia 1624, 1639, 1711, 1816; chuông đồng thời Tây Sơn năm 1800 niên hiệu Cảnh Thịnh 8; năm 1989 Bộ Văn hóa công nhận di tích lịch sử – văn hóa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa cầu đông"
+      }
+    ],
+    "notes": "Niên đại bia vênh: 1712/1817 (Báo Pháp luật) vs 1711/1816 (Mytour) – ghi theo dị bản, khuyên đọc tại chỗ. Niên đại chùa: 'từ thời Lý' (truyền thuyết, Hànộimới, PLVN) vs 'xây lại cuối thế kỷ XVII/thời Lê' – phải nói rõ thời Lý là truyền thuyết. Địa chỉ 38 vs 38B. Tên ni sư trụ trì trên Hànộimới là thông tin cũ – không dùng. Không viết giờ mở cửa; Hàng Đường là phố cổ đông, không khuyên dừng đỗ trên vỉa hè.",
+    "outline": [
+      "Chùa Cầu Đông nằm đâu giữa phố Hàng Đường",
+      "Tên Đông Môn: sông Tô, cầu Đông, cửa Đông Hoa",
+      "Hai pho tượng Trần Thủ Độ – Trần Thị Dung và nghi vấn",
+      "Bia 1624, chuông Cảnh Thịnh và gần 60 pho tượng",
+      "Cơ sở cách mạng và xếp hạng 1989",
+      "Gợi ý ghép tuyến Hàng Đường – Hàng Buồm – Ô Quan Chưởng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/den-bach-ma-76-hang-buom/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/o-quan-chuong/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00737.json",
+  "draft_template": {
+    "id": "TM-00737",
+    "url": "/du-lich/chua-cau-dong-hang-duong/",
+    "title": "Chùa Cầu Đông 38B Hàng Đường: nơi duy nhất thờ vợ chồng Trần Thủ Độ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa cầu đông, chùa cầu đông hàng đường, đông môn tự, tượng trần thủ độ, linh từ quốc mẫu trần thị dung, chùa phố cổ hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Cầu Đông nằm đâu giữa phố Hàng Đường",
+        "<p></p>"
+      ],
+      [
+        "Tên Đông Môn: sông Tô, cầu Đông, cửa Đông Hoa",
+        "<p></p>"
+      ],
+      [
+        "Hai pho tượng Trần Thủ Độ – Trần Thị Dung và nghi vấn",
+        "<p></p>"
+      ],
+      [
+        "Bia 1624, chuông Cảnh Thịnh và gần 60 pho tượng",
+        "<p></p>"
+      ],
+      [
+        "Cơ sở cách mạng và xếp hạng 1989",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý ghép tuyến Hàng Đường – Hàng Buồm – Ô Quan Chưởng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/bi-an-xung-quanh-hai-pho-tuong-trong-ngoi-chua-cau-dong-post365743.html",
+        "quote": "Báo Pháp luật Việt Nam (đọc 14/10/2026): chùa Cầu Đông ở số 38B phố Hàng Đường; theo tài liệu do Tô Hoài và Nguyễn Vinh Phúc chủ biên, là chùa duy nhất ở Hà Nội thờ vợ chồng Thái sư Trần Thủ Độ; thờ Phật theo dòng Tào Động; hai tượng gỗ đặt bên trái điện thờ, được đánh giá cùng niên đại nửa đầu thế kỷ XVIII với gần 60 tượng cổ khác; nguồn gốc hai tượng vẫn là bí ẩn, chùa không còn thư tịch; tên chữ Đông Môn tự; bia năm Vĩnh Tộ 6 (1624); chuông đồng niên hiệu Cảnh Thịnh 8 (1800) ghi 'cầu đá phía Đông, sông Tô chảy bên trái, cửa Hoa bên phải'; 4 bia đá niên đại 1624, 1639, 1712, 1817; được Bộ Văn hóa Thông tin xếp hạng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-cau-dong-quan-hoan-kiem-76101.html",
+        "quote": "Người Hà Nội, 'Chùa Cầu Đông (quận Hoàn Kiếm)' (đọc 14/10/2026): số 38B Hàng Đường, phường Hàng Đào; tên chùa Đông Môn gắn với cầu đá qua sông Tô Lịch và cửa Đông; truyền thuyết thời Trần Linh Từ quốc mẫu Trần Thị Dung tu bổ chùa nhưng không còn dấu vết vật chất thời Lý – Trần; bia 'Đông Môn tự ký' dựng tháng 10 năm Vĩnh Tộ 6 (1624) ghi việc sư Tự Đạo Án mua đất mở rộng chùa; các công trình: Tam quan, Tiền đường, Thiêu hương, Thượng điện, Tổ đường, điện Mẫu, hành lang; là nơi duy nhất ở Hà Nội có tượng Trần Thủ Độ và Trần Thị Dung; tượng Đức Ông là tướng Ngô Văn Long, thành hoàng làng; được Bộ Văn hóa và Thông tin xếp hạng di tích năm 1989.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/chua-cau-dong-37595.html",
+        "quote": "Hànộimới, 'Chùa Cầu Đông' (đọc 14/10/2026): chùa ở 38 Hàng Đường, nơi duy nhất thờ vợ chồng Trần Thủ Độ; đầu thế kỷ XIX phố Hàng Đường thuộc hai làng Vĩnh Hạnh và Đông Hoa Môn, ranh giới là sông Tô Lịch có cầu đá tên Đông Hoa gọi tắt Cầu Đông; chùa cạnh chợ Cầu Đông; kỷ yếu nhà chùa ghi chùa là cơ sở cách mạng có hầm bí mật, kháng chiến chống Mỹ có đào hầm cho dân trú ẩn; sân và điện lát gạch đỏ, khách đi chân không vào điện.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mytour.vn/vi/blog/bai-viet/bi-mat-ve-cac-chua-noi-tieng-tai-thang-long-ha-noi.html",
+        "quote": "Mytour (đọc 14/10/2026): chùa Cầu Đông còn gọi Đông Hoa Môn tự, số 38B Hàng Đường; phố dài 180 m; chùa xây thời Lê (thế kỷ XVII), sửa 1624, trùng tu 1639, 1711, 1816; 60 pho tượng cổ (Tuyết Sơn, Di Lạc, Tam Thế); 4 bia 1624, 1639, 1711, 1816; chuông đồng thời Tây Sơn năm 1800 niên hiệu Cảnh Thịnh 8; năm 1989 Bộ Văn hóa công nhận di tích lịch sử – văn hóa.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00737"
+  }
+}

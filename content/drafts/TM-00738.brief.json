@@ -1,0 +1,145 @@
+{
+  "writer": "writer-X",
+  "queued": "2026-10-14T05:48:34.682861+00:00",
+  "topic": {
+    "topic_id": "TM-00738",
+    "url": "/du-lich/bich-cau-dao-quan/",
+    "title": "Bích Câu Đạo quán phố Cát Linh: chuyện Tú Uyên – Giáng Kiều, hội tháng Hai",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bích câu đạo quán",
+    "secondary_keywords": [
+      "bích câu đạo quán ở đâu",
+      "tú uyên giáng kiều",
+      "bích câu kỳ ngộ",
+      "lễ hội bích câu",
+      "đạo quán hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đến Văn Miếu hoặc tìm hiểu tích Bích Câu kỳ ngộ muốn biết đạo quán ở đâu, thờ ai, kiến trúc và lễ hội ra sao.",
+    "information_gain": "Site có /du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/ và /du-lich/van-mieu-mao-dien/ ở rất gần nhưng chưa bài nào về Bích Câu Đạo quán. Bài mới bổ sung: vị trí đầu phố Cát Linh cách Văn Miếu khoảng 500 m, truyền thuyết Tú Uyên – Giáng Kiều và chùa Đắc Quốc/An Quốc, các lớp thờ (Tiên ông, Phật, Mẫu), mốc 1946–1947 trụ sở Ủy ban Kháng chiến bị san bằng, 1953 dựng lại, 2011 trùng tu, ba kỳ hội 4/2, 3/6, 12/8 âm lịch và nghi lễ đảo bút, ca trù.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-than-tien-ha-pham-tai-bich-cau-dao-quan-post385299.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Huyền thoại thần tiên hạ phàm tại Bích Câu Đạo quán' (đọc 14/10/2026): cuối thế kỷ XV thời Lê Thánh Tông, hàn sĩ Trần Tú Uyên dựng lều ở gò Kim Quy, mua tranh tố nữ ở chợ Cầu Đông, tiên nữ Giáng Kiều bước ra từ tranh; Tú Uyên được truy phong 'An Quốc chân nhân', phối thờ ở chùa Đắc Quốc, đổi tên chùa An Quốc; thời Lê sơ mở rộng thành Bích Câu đạo quán; thời Gia Long tổng trấn Lê Chất tu sửa; cuối 1946 đầu 1947 là trụ sở Ủy ban Kháng chiến Hà Nội rồi bị quân Pháp san bằng; năm 1953 dân phục dựng; năm 1990 xếp hạng di tích lịch sử văn hóa quốc gia; năm 2011 UBND TP trùng tu; bố cục: tam quan, đền thờ An Quốc chân nhân phía sau, chùa An Quốc bên phải, điện Mẫu bên trái; là điểm sinh hoạt CLB Ca trù Hà Nội; hội tế mồng 4 tháng 2, mồng 3 tháng 6 và lễ lớn nhất 12 tháng 8 âm lịch; lễ thỉnh Tiên đảo bút có thể kéo dài 3 ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-bich-cau-dao-quan-tim-ve-vung-xanh-tam-linh-cua-nguoi-ha-noi.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Lễ hội Bích Câu Đạo Quán: Tìm về vùng xanh tâm linh' (đọc 14/10/2026): ngày hội mùng 4 tháng 2 âm lịch; mở đầu bằng đại lễ cung rước Tiên ông Chân Nhân qua các phố; quán xưa ở gò Kim Quy làng An Trạch, nay là phố Cát Linh, phường Văn Miếu – Quốc Tử Giám; xây thời Lê Thánh Tông thế kỷ XV; năm 1990 được công nhận di tích lịch sử văn hóa; phần hội có ca trù, chầu văn, múa lân; người rước kiệu che khăn đỏ ngang miệng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.greensm.com/vn-vi/news/bich-cau-dao-quan",
+        "quote": "Green SM (cẩm nang du lịch doanh nghiệp, 11/12/2024; đọc 14/10/2026): tên đầy đủ Bích Câu Kỳ Ngộ Đạo Quán; địa chỉ số 14 phố Cát Linh, quận Đống Đa; từ Văn Miếu đi bộ khoảng 500 m; thờ Thái Thượng Lão Quân và các tiên thánh; ghi được công nhận di tích lịch sử quốc gia năm 1994 (đầu bài lại ghi 1990); các hạng mục Nghi Môn, Tiền Tế, Hậu Cung, Nhà Mẫu, Nhà Khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bích câu đạo quán"
+      }
+    ],
+    "notes": "Năm xếp hạng vênh: 1990 (2 bài Báo Pháp luật) vs 1994 (một đoạn Green SM) – dùng 1990 kèm ghi chú. Tên tiên nữ Giáng Kiều (Báo Pháp luật) vs Giáng Hương (Green SM). Niên đại: 'thời Lê Thánh Tông thế kỷ XV' vs 'Lê Trung hưng' (Green SM, mâu thuẫn nội tại) – không đưa vào tiêu đề. Đối tượng thờ chính: Tiên ông Trần Tú Uyên (Báo Pháp luật) vs Thái Thượng Lão Quân (Green SM) – nêu cả hai. Giờ mở cửa 8h–17h và 'miễn phí' chỉ thấy ở trang mia.vn – chưa đối chiếu nguồn thứ hai, không viết. Lịch hội theo âm lịch, không quy đổi dương lịch.",
+    "outline": [
+      "Bích Câu Đạo quán ở đâu, cách Văn Miếu bao xa",
+      "Tích Bích Câu kỳ ngộ: Tú Uyên và Giáng Kiều",
+      "Từ chùa Đắc Quốc đến đạo quán: các lớp thờ",
+      "Thăng trầm 1946–1953 và trùng tu 2011",
+      "Ba kỳ hội trong năm, lễ đảo bút và ca trù",
+      "Ghép với Văn Miếu – Hoàng thành trong một buổi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+      "/du-lich/van-mieu-mao-dien/",
+      "/du-lich/hoang-thanh-thang-long/",
+      "/du-lich/chua-mot-cot/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00738.json",
+  "draft_template": {
+    "id": "TM-00738",
+    "url": "/du-lich/bich-cau-dao-quan/",
+    "title": "Bích Câu Đạo quán phố Cát Linh: chuyện Tú Uyên – Giáng Kiều, hội tháng Hai",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bích câu đạo quán, bích câu đạo quán ở đâu, tú uyên giáng kiều, bích câu kỳ ngộ, lễ hội bích câu, đạo quán hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bích Câu Đạo quán ở đâu, cách Văn Miếu bao xa",
+        "<p></p>"
+      ],
+      [
+        "Tích Bích Câu kỳ ngộ: Tú Uyên và Giáng Kiều",
+        "<p></p>"
+      ],
+      [
+        "Từ chùa Đắc Quốc đến đạo quán: các lớp thờ",
+        "<p></p>"
+      ],
+      [
+        "Thăng trầm 1946–1953 và trùng tu 2011",
+        "<p></p>"
+      ],
+      [
+        "Ba kỳ hội trong năm, lễ đảo bút và ca trù",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Văn Miếu – Hoàng thành trong một buổi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-than-tien-ha-pham-tai-bich-cau-dao-quan-post385299.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Huyền thoại thần tiên hạ phàm tại Bích Câu Đạo quán' (đọc 14/10/2026): cuối thế kỷ XV thời Lê Thánh Tông, hàn sĩ Trần Tú Uyên dựng lều ở gò Kim Quy, mua tranh tố nữ ở chợ Cầu Đông, tiên nữ Giáng Kiều bước ra từ tranh; Tú Uyên được truy phong 'An Quốc chân nhân', phối thờ ở chùa Đắc Quốc, đổi tên chùa An Quốc; thời Lê sơ mở rộng thành Bích Câu đạo quán; thời Gia Long tổng trấn Lê Chất tu sửa; cuối 1946 đầu 1947 là trụ sở Ủy ban Kháng chiến Hà Nội rồi bị quân Pháp san bằng; năm 1953 dân phục dựng; năm 1990 xếp hạng di tích lịch sử văn hóa quốc gia; năm 2011 UBND TP trùng tu; bố cục: tam quan, đền thờ An Quốc chân nhân phía sau, chùa An Quốc bên phải, điện Mẫu bên trái; là điểm sinh hoạt CLB Ca trù Hà Nội; hội tế mồng 4 tháng 2, mồng 3 tháng 6 và lễ lớn nhất 12 tháng 8 âm lịch; lễ thỉnh Tiên đảo bút có thể kéo dài 3 ngày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-bich-cau-dao-quan-tim-ve-vung-xanh-tam-linh-cua-nguoi-ha-noi.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Lễ hội Bích Câu Đạo Quán: Tìm về vùng xanh tâm linh' (đọc 14/10/2026): ngày hội mùng 4 tháng 2 âm lịch; mở đầu bằng đại lễ cung rước Tiên ông Chân Nhân qua các phố; quán xưa ở gò Kim Quy làng An Trạch, nay là phố Cát Linh, phường Văn Miếu – Quốc Tử Giám; xây thời Lê Thánh Tông thế kỷ XV; năm 1990 được công nhận di tích lịch sử văn hóa; phần hội có ca trù, chầu văn, múa lân; người rước kiệu che khăn đỏ ngang miệng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.greensm.com/vn-vi/news/bich-cau-dao-quan",
+        "quote": "Green SM (cẩm nang du lịch doanh nghiệp, 11/12/2024; đọc 14/10/2026): tên đầy đủ Bích Câu Kỳ Ngộ Đạo Quán; địa chỉ số 14 phố Cát Linh, quận Đống Đa; từ Văn Miếu đi bộ khoảng 500 m; thờ Thái Thượng Lão Quân và các tiên thánh; ghi được công nhận di tích lịch sử quốc gia năm 1994 (đầu bài lại ghi 1990); các hạng mục Nghi Môn, Tiền Tế, Hậu Cung, Nhà Mẫu, Nhà Khách.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00738"
+  }
+}

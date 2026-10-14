@@ -1,0 +1,158 @@
+{
+  "writer": "writer-X",
+  "queued": "2026-10-14T05:48:34.229244+00:00",
+  "topic": {
+    "topic_id": "TM-00735",
+    "url": "/du-lich/chua-ba-da-pho-nha-tho/",
+    "title": "Chùa Bà Đá phố Nhà Thờ: Linh Quang tự, tượng đá và tổ đình giữa phố cổ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa bà đá",
+    "secondary_keywords": [
+      "linh quang tự",
+      "chùa bà đá phố nhà thờ",
+      "chùa bà đá hoàn kiếm",
+      "tháp báo thiên",
+      "thành hội phật giáo hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi dạo quanh Nhà thờ Lớn, hồ Gươm muốn biết ngôi chùa nhỏ trong ngõ phố Nhà Thờ là chùa gì, vì sao gọi là Bà Đá, có gì đáng xem.",
+    "information_gain": "Site chưa có bài về chùa Bà Đá. Gần nhất là /du-lich/nha-tho-lon-ha-noi/ (chỉ nói nhà thờ, không nói chùa cạnh đó), /du-lich/chua-quan-su/ (chùa khác, trụ sở Giáo hội TW) và /du-lich/ha-noi/pho-co/ (tổng quan). Bài mới bổ sung: vị trí số 3 Nhà Thờ, tên chữ Linh Quang, truyền thuyết tượng đá phụ nữ, các mốc 1786 cháy – 1793 dựng lại – 1898 đại trùng tu – 1946 mất tượng, vai trò tổ đình và trụ sở Thành hội Phật giáo Hà Nội, năm xếp hạng 2006 và các điểm các nguồn còn vênh nhau.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-ly-ky-ve-chua-cac-ba-o-ha-thanh-post237119.html",
+        "quote": "Báo Pháp luật Việt Nam (PLO), bài 'Huyền thoại ly kỳ về chùa các bà ở Hà thành' 15/01/2017 (đọc 14/10/2026): chùa Bà Đá nay ở số 3 phố Nhà Thờ, Hoàn Kiếm; trước thuộc thôn Tiên Thị, phường Bảo Thiên, huyện Thọ Xương; thời Hồng Đức (1470–1498) chỉ còn am tranh, dân đào được tượng đá hình phụ nữ, sau tượng bị mất; cuối Lê Trịnh (1767–1782) đào đất đắp thành tìm lại được tượng nên gọi chùa Bà Đá; tháng 6 năm Bính Ngọ quân Tây Sơn vào Thăng Long, chùa hóa tro tàn; năm Quý Sửu (1793) sư tổ Khoan Giai dựng chùa ba gian; năm Tân Tỵ (1821) tổ Giác Vượng mở rộng; chùa nguyên là chốn tổ thiền phái Lâm Tế; sau 5/1958 là trụ sở Ban Liên lạc Phật giáo Hà Nội, sau là Thành hội Phật giáo Hà Nội.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-ba-da-quan-hoan-kiem-74864.html",
+        "quote": "Người Hà Nội, bài 'Chùa Bà Đá (quận Hoàn Kiếm)' (đọc 14/10/2026): số 3 phố Nhà Thờ, phường Hàng Trống; tên chữ Linh Quang tự; chùa dựng khoảng niên hiệu Hồng Đức (1460–1497); năm 1786 chùa bị thiêu hủy; năm 1793 thiền sư Khoan Giai (đời thứ 6 phái Tào Động chùa Hồng Phúc) về trụ trì; văn bia 1821, 1850, 1918; năm 1898 (Thành Thái 10) đại trùng tu chính điện, nhà Tổ, hành lang như quy mô ngày nay; năm 1946 Pháp đốt nhà Tổ, thiêu hủy tượng Tổ và tượng Bà Đá; năm 1948 dựng lại nhà Tổ từ chính điện chùa Càn Đà; ngày 5/1/1946 Bác Hồ thăm chùa; UBND TP Hà Nội xếp hạng di tích lịch sử – văn hóa năm 2006.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/4-chua-ba-noi-tieng-o-ha-noi-2966393.html",
+        "quote": "VnExpress, bài '4 chùa Bà nổi tiếng ở Hà Nội' (đọc 14/10/2026): chùa Bà Đá dựng trên nền tháp Báo Thiên của kinh thành Thăng Long xưa, nay là trụ sở Thành hội Phật giáo Hà Nội; tên chữ Linh Quang tự, nằm trong ngõ hẻm thông ra phố Nhà Thờ; chùa có các pho tượng quý.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://en.wikipedia.org/wiki/List_of_Buddhist_temples_in_Hanoi",
+        "quote": "Wikipedia tiếng Anh, 'List of Buddhist temples in Hanoi' (đọc 14/10/2026; nguồn bách khoa mở, chỉ dùng để nêu dị bản): ghi chùa Bà Đá dựng thế kỷ XI dưới thời Lý Thánh Tông, tượng đá phụ nữ được đào thấy thế kỷ XV thời Lê Thánh Tông; từng là trung tâm thiền phái Lâm Tế, nay là trụ sở Thành hội Phật giáo Hà Nội.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa bà đá"
+      }
+    ],
+    "notes": "Niên đại vênh: Hồng Đức 1470–1498 (PLO) vs 1460–1497 (Người Hà Nội) vs thế kỷ XI (Wikipedia) – ghi 'khoảng thời Hồng Đức theo truyền thuyết', nêu dị bản trong bài, không đưa năm vào tiêu đề. Thiền phái: PLO/Wikipedia nói Lâm Tế; Người Hà Nội nói Khoan Giai thuộc Tào Động và chùa thành tổ đình 'Tào Lâm tương tạp' – trình bày cả hai. Chưa xác minh giờ mở cửa, quy định gửi xe; không viết. Phân biệt với chùa Linh Quang Phương Liệt (Thanh Xuân). Phố Nhà Thờ là phố nhỏ khu phố cổ: chỉ khuyên gửi xe ở điểm trông giữ hợp lệ, không nêu giá.",
+    "outline": [
+      "Chùa Bà Đá ở đâu, tên chữ Linh Quang",
+      "Truyền thuyết pho tượng đá và các dị bản niên đại",
+      "Từ đống tro 1786 đến đại trùng tu 1898",
+      "Tổ đình, Thành hội Phật giáo Hà Nội và các mốc thế kỷ XX",
+      "Xem gì trong chùa hôm nay",
+      "Kết hợp với Nhà thờ Lớn, hồ Gươm; lưu ý khi đi xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/du-lich/chua-quan-su/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00735.json",
+  "draft_template": {
+    "id": "TM-00735",
+    "url": "/du-lich/chua-ba-da-pho-nha-tho/",
+    "title": "Chùa Bà Đá phố Nhà Thờ: Linh Quang tự, tượng đá và tổ đình giữa phố cổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa bà đá, linh quang tự, chùa bà đá phố nhà thờ, chùa bà đá hoàn kiếm, tháp báo thiên, thành hội phật giáo hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Bà Đá ở đâu, tên chữ Linh Quang",
+        "<p></p>"
+      ],
+      [
+        "Truyền thuyết pho tượng đá và các dị bản niên đại",
+        "<p></p>"
+      ],
+      [
+        "Từ đống tro 1786 đến đại trùng tu 1898",
+        "<p></p>"
+      ],
+      [
+        "Tổ đình, Thành hội Phật giáo Hà Nội và các mốc thế kỷ XX",
+        "<p></p>"
+      ],
+      [
+        "Xem gì trong chùa hôm nay",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với Nhà thờ Lớn, hồ Gươm; lưu ý khi đi xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-ly-ky-ve-chua-cac-ba-o-ha-thanh-post237119.html",
+        "quote": "Báo Pháp luật Việt Nam (PLO), bài 'Huyền thoại ly kỳ về chùa các bà ở Hà thành' 15/01/2017 (đọc 14/10/2026): chùa Bà Đá nay ở số 3 phố Nhà Thờ, Hoàn Kiếm; trước thuộc thôn Tiên Thị, phường Bảo Thiên, huyện Thọ Xương; thời Hồng Đức (1470–1498) chỉ còn am tranh, dân đào được tượng đá hình phụ nữ, sau tượng bị mất; cuối Lê Trịnh (1767–1782) đào đất đắp thành tìm lại được tượng nên gọi chùa Bà Đá; tháng 6 năm Bính Ngọ quân Tây Sơn vào Thăng Long, chùa hóa tro tàn; năm Quý Sửu (1793) sư tổ Khoan Giai dựng chùa ba gian; năm Tân Tỵ (1821) tổ Giác Vượng mở rộng; chùa nguyên là chốn tổ thiền phái Lâm Tế; sau 5/1958 là trụ sở Ban Liên lạc Phật giáo Hà Nội, sau là Thành hội Phật giáo Hà Nội.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-ba-da-quan-hoan-kiem-74864.html",
+        "quote": "Người Hà Nội, bài 'Chùa Bà Đá (quận Hoàn Kiếm)' (đọc 14/10/2026): số 3 phố Nhà Thờ, phường Hàng Trống; tên chữ Linh Quang tự; chùa dựng khoảng niên hiệu Hồng Đức (1460–1497); năm 1786 chùa bị thiêu hủy; năm 1793 thiền sư Khoan Giai (đời thứ 6 phái Tào Động chùa Hồng Phúc) về trụ trì; văn bia 1821, 1850, 1918; năm 1898 (Thành Thái 10) đại trùng tu chính điện, nhà Tổ, hành lang như quy mô ngày nay; năm 1946 Pháp đốt nhà Tổ, thiêu hủy tượng Tổ và tượng Bà Đá; năm 1948 dựng lại nhà Tổ từ chính điện chùa Càn Đà; ngày 5/1/1946 Bác Hồ thăm chùa; UBND TP Hà Nội xếp hạng di tích lịch sử – văn hóa năm 2006.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/4-chua-ba-noi-tieng-o-ha-noi-2966393.html",
+        "quote": "VnExpress, bài '4 chùa Bà nổi tiếng ở Hà Nội' (đọc 14/10/2026): chùa Bà Đá dựng trên nền tháp Báo Thiên của kinh thành Thăng Long xưa, nay là trụ sở Thành hội Phật giáo Hà Nội; tên chữ Linh Quang tự, nằm trong ngõ hẻm thông ra phố Nhà Thờ; chùa có các pho tượng quý.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://en.wikipedia.org/wiki/List_of_Buddhist_temples_in_Hanoi",
+        "quote": "Wikipedia tiếng Anh, 'List of Buddhist temples in Hanoi' (đọc 14/10/2026; nguồn bách khoa mở, chỉ dùng để nêu dị bản): ghi chùa Bà Đá dựng thế kỷ XI dưới thời Lý Thánh Tông, tượng đá phụ nữ được đào thấy thế kỷ XV thời Lê Thánh Tông; từng là trung tâm thiền phái Lâm Tế, nay là trụ sở Thành hội Phật giáo Hà Nội.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00735"
+  }
+}
