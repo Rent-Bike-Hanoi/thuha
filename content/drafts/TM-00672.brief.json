@@ -1,0 +1,155 @@
+{
+  "writer": "writer-G",
+  "queued": "2026-10-14T05:09:47.465034+00:00",
+  "topic": {
+    "topic_id": "TM-00672",
+    "url": "/du-lich/chua-vua-thinh-yen/",
+    "title": "Chùa Vua phố Thịnh Yên: Đế Thích quán, hội cờ tướng mùng 6–9 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa vua",
+    "secondary_keywords": [
+      "chùa vua thịnh yên",
+      "hưng khánh tự",
+      "hội cờ chùa vua",
+      "đế thích",
+      "thăng long tứ quán"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chơi cờ tướng, khách đi lễ đầu năm muốn biết chùa Vua ở đâu, vì sao gọi là 'chùa Vua', hội thi cờ diễn ra khi nào.",
+    "information_gain": "Site chưa có bài về chùa Vua. /du-lich/den-hai-ba-trung-dong-nhan/ và /du-lich/cho-hom-duc-vien/ ở cùng Hai Bà Trưng nhưng là điểm khác; /du-lich/den-quan-thanh/ là một quán khác trong 'Thăng Long tứ quán'. Bài mới bổ sung: cụm chùa Hưng Khánh – điện Thiên Đế, tín ngưỡng Đế Thích – Vua Cờ, lệ hội cờ (ba giải, thắng 3 năm khắc tên bia), lịch 6–9 tháng Giêng, di vật thời Lê – Tây Sơn – Nguyễn, xếp hạng 1992.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://360ditich.haibatrung.hanoi.gov.vn/vi/vtour/details/di-tich-lich-su-chua-vua-10",
+        "quote": "Cổng 360 di tích Hai Bà Trưng (đọc 14/10/2026): chùa Vua xưa thuộc làng Thịnh Yên, nay số 33 phố Thịnh Yên, phường Phố Huế; cụm gồm chùa Hưng Khánh thờ Phật và điện Thiên đế thờ Đế Thích; còn 14 pho tượng gỗ thế kỷ XIX, chuông Cảnh Thịnh, 2 chuông thời Lê, 2 đỉnh đồng thời Nguyễn; hội từ mồng 6 đến mồng 9 tháng Giêng, mồng 9 chính hội, nội dung chính là thi cờ tướng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/chua-vua-va-hoi-thi-co-lang-thinh-yen-ha-noi-post284926.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): chùa Vua số 33 Thịnh Yên; ngày mùng 9 tháng Giêng dân làng Thịnh Yên (khu chợ Trời) mở hội thi cờ; Đế Thích được tôn là Vua cờ; theo Đại Việt sử ký toàn thư, thời Lý đã dựng chùa tô tượng Đế Thích (1016, 1057, 1134, 1158); PGS Nguyễn Duy Hinh: Đế Thích là Ngọc Hoàng nên gọi là chùa Vua.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-vua-quan-hai-ba-trung-76987.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa Vua gồm chùa Hưng Khánh và điện Thiên Đế; dựng thời Lê sơ; điện Thiên Đế có nghi môn, tiền tế 5 gian, hậu cung, nhà bia, khu bàn cờ; hội 6–9 tháng Giêng, ba giải nhất – nhì – ba, ai đạt giải nhất 3 năm liền được khắc tên lên bia đặt gần sân cờ; Bộ VHTT xếp hạng năm 1992.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa vua"
+      }
+    ],
+    "notes": "Mâu thuẫn: số nhà 33 (cổng 360 di tích, Nhân Dân) vs 17 phố Thịnh Yên (Người Hà Nội) — dùng 33 kèm ghi chú; khởi dựng 'tương truyền thời Lý' vs 'thời Lê sơ'. Không có nguồn lịch hội cờ năm 2027 cụ thể, không có thông tin gửi xe.",
+    "outline": [
+      "Chùa Vua ở đâu, gồm những công trình nào",
+      "Đế Thích – 'Vua Cờ' và tên gọi chùa Vua",
+      "Một trong Thăng Long tứ quán",
+      "Hội cờ mùng 6–9 tháng Giêng: thể lệ, giải",
+      "Di vật đáng xem",
+      "Lưu ý khi đi hội đầu năm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-hai-ba-trung-dong-nhan/",
+      "/du-lich/cho-hom-duc-vien/",
+      "/du-lich/den-quan-thanh/",
+      "/du-lich/chua-lien-phai/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/chua-huyen-thien-hang-khoai/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/chua-huyen-thien-hang-khoai/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00672.json",
+  "draft_template": {
+    "id": "TM-00672",
+    "url": "/du-lich/chua-vua-thinh-yen/",
+    "title": "Chùa Vua phố Thịnh Yên: Đế Thích quán, hội cờ tướng mùng 6–9 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa vua, chùa vua thịnh yên, hưng khánh tự, hội cờ chùa vua, đế thích, thăng long tứ quán",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Vua ở đâu, gồm những công trình nào",
+        "<p></p>"
+      ],
+      [
+        "Đế Thích – 'Vua Cờ' và tên gọi chùa Vua",
+        "<p></p>"
+      ],
+      [
+        "Một trong Thăng Long tứ quán",
+        "<p></p>"
+      ],
+      [
+        "Hội cờ mùng 6–9 tháng Giêng: thể lệ, giải",
+        "<p></p>"
+      ],
+      [
+        "Di vật đáng xem",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi hội đầu năm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://360ditich.haibatrung.hanoi.gov.vn/vi/vtour/details/di-tich-lich-su-chua-vua-10",
+        "quote": "Cổng 360 di tích Hai Bà Trưng (đọc 14/10/2026): chùa Vua xưa thuộc làng Thịnh Yên, nay số 33 phố Thịnh Yên, phường Phố Huế; cụm gồm chùa Hưng Khánh thờ Phật và điện Thiên đế thờ Đế Thích; còn 14 pho tượng gỗ thế kỷ XIX, chuông Cảnh Thịnh, 2 chuông thời Lê, 2 đỉnh đồng thời Nguyễn; hội từ mồng 6 đến mồng 9 tháng Giêng, mồng 9 chính hội, nội dung chính là thi cờ tướng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/chua-vua-va-hoi-thi-co-lang-thinh-yen-ha-noi-post284926.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): chùa Vua số 33 Thịnh Yên; ngày mùng 9 tháng Giêng dân làng Thịnh Yên (khu chợ Trời) mở hội thi cờ; Đế Thích được tôn là Vua cờ; theo Đại Việt sử ký toàn thư, thời Lý đã dựng chùa tô tượng Đế Thích (1016, 1057, 1134, 1158); PGS Nguyễn Duy Hinh: Đế Thích là Ngọc Hoàng nên gọi là chùa Vua.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-vua-quan-hai-ba-trung-76987.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa Vua gồm chùa Hưng Khánh và điện Thiên Đế; dựng thời Lê sơ; điện Thiên Đế có nghi môn, tiền tế 5 gian, hậu cung, nhà bia, khu bàn cờ; hội 6–9 tháng Giêng, ba giải nhất – nhì – ba, ai đạt giải nhất 3 năm liền được khắc tên lên bia đặt gần sân cờ; Bộ VHTT xếp hạng năm 1992.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00672"
+  }
+}
