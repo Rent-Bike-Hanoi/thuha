@@ -1,0 +1,151 @@
+{
+  "writer": "writer-E1",
+  "queued": "2026-10-14T06:39:53.862651+00:00",
+  "topic": {
+    "topic_id": "TM-00778",
+    "url": "/du-lich/dinh-tho-tang/",
+    "title": "Đình Thổ Tang: di tích quốc gia đặc biệt với 21 bức chạm gỗ thế kỷ XVII",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đình thổ tang",
+    "secondary_keywords": [
+      "đình thổ tang vĩnh tường",
+      "đình thổ tang vĩnh phúc",
+      "chạm khắc gỗ đình thổ tang",
+      "di tích quốc gia đặc biệt vĩnh phúc",
+      "đình thổ tang thờ ai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích đình làng, kiến trúc cổ muốn đi xe máy từ Hà Nội lên vùng Vĩnh Tường (Vĩnh Phúc cũ) xem đình Thổ Tang: đình ở đâu, có gì đặc biệt, 21 bức chạm là gì, lễ hội khi nào, kết hợp với tháp Bình Sơn ra sao.",
+    "information_gain": "/du-lich/thap-binh-son/ nói về tháp Bình Sơn (cùng được quy hoạch với đình Thổ Tang) và /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ là tuyến Tam Đảo. Chưa bài nào về đình Thổ Tang: di tích kiến trúc nghệ thuật quốc gia đặc biệt (xếp hạng 24/12/2018), xây thế kỷ XVII, thờ tướng Lân Hổ chống Nguyên Mông; 21 bức chạm gỗ với các cảnh 'Ngày hội xuống đồng' 1,35 m x 0,7 m, 'Bắn hổ', 'Đá cầu', 'Múa' 1,05 m x 0,7 m; cột cái lim đường kính 82 cm; đại trùng tu 2022–2023 và tranh cãi về màu sơn; lễ hội 5 năm một lần 10–12 tháng Giêng; cụm chùa Tùng Vân – đền Trúc Lâm cùng thị trấn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nghe-thuat-cham-go-dinh-tho-tang-post916990.html",
+        "quote": "Nhân Dân, 'Nghệ thuật chạm gỗ đình Thổ Tang' (đọc 14/10/2026): đình xây dựng thế kỷ XVII, thuộc vùng đất Vĩnh Tường, tỉnh Phú Thọ (sau sáp nhập); thờ thần Lân Hổ có công chống Nguyên Mông, được ban tám chữ vàng 'Nam thiên tráng khí, Bắc khấu hàn tâm', bảy sắc phong; còn thờ bà Phùng Thị Dung và thần Nuôi Ná; tòa đại đình năm gian kiểu 'chồng rường, giá chiêng'; chủ yếu gỗ lim, cột cái lớn nhất đường kính 82 cm, một cột gỗ xoan đường kính 70 cm; còn 21 bức chạm khắc gỗ về lễ tịch điền, săn thú, đá cầu, chơi cờ, uống rượu, đánh ghen...; ngày 24/12/2018 Thủ tướng xếp hạng Di tích kiến trúc nghệ thuật quốc gia đặc biệt; đại trùng tu các năm 2022, 2023; trước sân có bốn cây đa là cây di sản; lễ hội 5 năm một lần từ mùng 10 đến 12 tháng Giêng với rước sắc, tế lễ, vật, ca trù, chầu văn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/net-doc-dao-dinh-lang-tho-tang-va-chua-tung-van-post432196.html",
+        "quote": "Nhân Dân, 'Nét độc đáo đình làng Thổ Tang và chùa Tùng Vân' (đọc 14/10/2026): đình Thổ Tang (xã Thổ Tang, Vĩnh Tường) xây thời Hậu Lê khoảng thế kỷ 17 kiểu chữ đinh, gồm hậu cung và tòa năm gian hai dĩ; ghi vào danh mục di tích từ 1964, nhận bằng di tích 1990; 21 bức chạm trên thân kẻ, thân bẩy, thân rường; bức 'Ngày hội xuống đồng' dài 1,35 m rộng 0,7 m; bức 'Đá cầu' hình vuông mỗi chiều 0,4 m; bức 'Múa' 1,05 m x 0,7 m; bức cảnh sinh hoạt gia đình dài 1,4 m rộng 0,75 m; cửa võng ba tầng chạm Cửu Long tranh châu, hoành phi 'Hòa Vi Quý'; chùa Tùng Vân cùng thị trấn xây cách đây 327 năm (tính tại thời điểm bài), di tích quốc gia 1964/1992, bảy gian hai dĩ; đền Trúc Lâm thờ Lân Hổ và thân mẫu Phùng Thị Dong, qua sáu lần tu sửa, còn tám sắc phong triều Nguyễn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/vinh-phuc-tu-bo-phuc-hoi-2-di-tich-kien-truc-nghe-thuat-quoc-gia-dac-biet-20241030110127646.htm",
+        "quote": "Dân trí, 'Vĩnh Phúc tu bổ, phục hồi 2 di tích kiến trúc, nghệ thuật quốc gia đặc biệt' (30/10/2024, đọc 14/10/2026): UBND tỉnh Vĩnh Phúc giao hoàn thiện Quy hoạch bảo quản, tu bổ, phục hồi di tích quốc gia đặc biệt Đình Thổ Tang (huyện Vĩnh Tường) và Tháp Bình Sơn (huyện Sông Lô) theo quyết định của Thủ tướng; đình Thổ Tang thuộc thị trấn Thổ Tang, tạo dựng thế kỷ XVII, bảo lưu kiến trúc thời Hậu Lê; thờ danh tướng Lân Hổ; bố cục hai tòa hình chữ 'đinh'; 21 bức chạm khắc gỗ về chu trình lao động – làm ăn – hưởng thụ thời Lê Trung hưng; hệ thống di tích thờ Lân Hổ trải từ Dục Mỹ – Sơn Vi (Phú Thọ) đến Vĩnh Tường – Yên Lạc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình thổ tang"
+      }
+    ],
+    "notes": "Thanh Niên (6/2023) phản ánh lo ngại trùng tu làm thay đổi màu sơn, mảng chạm – chỉ nêu là 'từng có ý kiến lo ngại' nếu nhắc, không kết luận. Năm xếp hạng quốc gia đặc biệt: Nhân Dân ghi 24/12/2018. Không có nguồn về giờ mở cửa, số km từ Hà Nội, có thu phí hay không – không viết. Địa danh hành chính sau sáp nhập 2025 chỉ theo Nhân Dân ('Vĩnh Tường, tỉnh Phú Thọ'); không bịa tên xã mới. Chùa Tùng Vân '327 năm' là tính tại thời điểm bài cũ – nên viết 'xây thời Lê Huy Tông, cuối thế kỷ XVII'.",
+    "outline": [
+      "Câu trả lời ngắn: đình Thổ Tang ở đâu, vì sao đặc biệt",
+      "Lịch sử và vị thần được thờ (tướng Lân Hổ)",
+      "Kiến trúc: tòa đại đình 5 gian, cột lim 82 cm",
+      "21 bức chạm gỗ: nên xem bức nào",
+      "Lễ hội và cụm chùa Tùng Vân – đền Trúc Lâm",
+      "Ghép tuyến xe máy với tháp Bình Sơn, Tam Đảo",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thap-binh-son/",
+      "/du-lich/tay-thien-va-thien-vien-truc-lam-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00778.json",
+  "draft_template": {
+    "id": "TM-00778",
+    "url": "/du-lich/dinh-tho-tang/",
+    "title": "Đình Thổ Tang: di tích quốc gia đặc biệt với 21 bức chạm gỗ thế kỷ XVII",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình thổ tang, đình thổ tang vĩnh tường, đình thổ tang vĩnh phúc, chạm khắc gỗ đình thổ tang, di tích quốc gia đặc biệt vĩnh phúc, đình thổ tang thờ ai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đình Thổ Tang ở đâu, vì sao đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử và vị thần được thờ (tướng Lân Hổ)",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc: tòa đại đình 5 gian, cột lim 82 cm",
+        "<p></p>"
+      ],
+      [
+        "21 bức chạm gỗ: nên xem bức nào",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội và cụm chùa Tùng Vân – đền Trúc Lâm",
+        "<p></p>"
+      ],
+      [
+        "Ghép tuyến xe máy với tháp Bình Sơn, Tam Đảo",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nghe-thuat-cham-go-dinh-tho-tang-post916990.html",
+        "quote": "Nhân Dân, 'Nghệ thuật chạm gỗ đình Thổ Tang' (đọc 14/10/2026): đình xây dựng thế kỷ XVII, thuộc vùng đất Vĩnh Tường, tỉnh Phú Thọ (sau sáp nhập); thờ thần Lân Hổ có công chống Nguyên Mông, được ban tám chữ vàng 'Nam thiên tráng khí, Bắc khấu hàn tâm', bảy sắc phong; còn thờ bà Phùng Thị Dung và thần Nuôi Ná; tòa đại đình năm gian kiểu 'chồng rường, giá chiêng'; chủ yếu gỗ lim, cột cái lớn nhất đường kính 82 cm, một cột gỗ xoan đường kính 70 cm; còn 21 bức chạm khắc gỗ về lễ tịch điền, săn thú, đá cầu, chơi cờ, uống rượu, đánh ghen...; ngày 24/12/2018 Thủ tướng xếp hạng Di tích kiến trúc nghệ thuật quốc gia đặc biệt; đại trùng tu các năm 2022, 2023; trước sân có bốn cây đa là cây di sản; lễ hội 5 năm một lần từ mùng 10 đến 12 tháng Giêng với rước sắc, tế lễ, vật, ca trù, chầu văn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/net-doc-dao-dinh-lang-tho-tang-va-chua-tung-van-post432196.html",
+        "quote": "Nhân Dân, 'Nét độc đáo đình làng Thổ Tang và chùa Tùng Vân' (đọc 14/10/2026): đình Thổ Tang (xã Thổ Tang, Vĩnh Tường) xây thời Hậu Lê khoảng thế kỷ 17 kiểu chữ đinh, gồm hậu cung và tòa năm gian hai dĩ; ghi vào danh mục di tích từ 1964, nhận bằng di tích 1990; 21 bức chạm trên thân kẻ, thân bẩy, thân rường; bức 'Ngày hội xuống đồng' dài 1,35 m rộng 0,7 m; bức 'Đá cầu' hình vuông mỗi chiều 0,4 m; bức 'Múa' 1,05 m x 0,7 m; bức cảnh sinh hoạt gia đình dài 1,4 m rộng 0,75 m; cửa võng ba tầng chạm Cửu Long tranh châu, hoành phi 'Hòa Vi Quý'; chùa Tùng Vân cùng thị trấn xây cách đây 327 năm (tính tại thời điểm bài), di tích quốc gia 1964/1992, bảy gian hai dĩ; đền Trúc Lâm thờ Lân Hổ và thân mẫu Phùng Thị Dong, qua sáu lần tu sửa, còn tám sắc phong triều Nguyễn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/vinh-phuc-tu-bo-phuc-hoi-2-di-tich-kien-truc-nghe-thuat-quoc-gia-dac-biet-20241030110127646.htm",
+        "quote": "Dân trí, 'Vĩnh Phúc tu bổ, phục hồi 2 di tích kiến trúc, nghệ thuật quốc gia đặc biệt' (30/10/2024, đọc 14/10/2026): UBND tỉnh Vĩnh Phúc giao hoàn thiện Quy hoạch bảo quản, tu bổ, phục hồi di tích quốc gia đặc biệt Đình Thổ Tang (huyện Vĩnh Tường) và Tháp Bình Sơn (huyện Sông Lô) theo quyết định của Thủ tướng; đình Thổ Tang thuộc thị trấn Thổ Tang, tạo dựng thế kỷ XVII, bảo lưu kiến trúc thời Hậu Lê; thờ danh tướng Lân Hổ; bố cục hai tòa hình chữ 'đinh'; 21 bức chạm khắc gỗ về chu trình lao động – làm ăn – hưởng thụ thời Lê Trung hưng; hệ thống di tích thờ Lân Hổ trải từ Dục Mỹ – Sơn Vi (Phú Thọ) đến Vĩnh Tường – Yên Lạc.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00778"
+  }
+}

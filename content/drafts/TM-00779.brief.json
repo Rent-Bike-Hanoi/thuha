@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E1",
+  "queued": "2026-10-14T06:39:54.094768+00:00",
+  "topic": {
+    "topic_id": "TM-00779",
+    "url": "/du-lich/hang-xom-trai-va-mai-da-lang-vanh/",
+    "title": "Hang xóm Trại và Mái đá làng Vành: di tích đặc biệt của Văn hóa Hòa Bình",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang xóm trại mái đá làng vành",
+    "secondary_keywords": [
+      "hang xóm trại",
+      "mái đá làng vành",
+      "di tích quốc gia đặc biệt hòa bình",
+      "văn hóa hòa bình lạc sơn",
+      "mường vang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích lịch sử – khảo cổ đi xe máy vùng Lạc Sơn (Hòa Bình cũ) muốn biết hang xóm Trại và mái đá làng Vành ở đâu, có gì để xem, vào thăm được không, vì sao là di tích quốc gia đặc biệt.",
+    "information_gain": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/, /du-lich/khoang-nong-kim-boi/ và /du-lich/den-chua-thac-bo/ không nói về cụm di tích khảo cổ Lạc Sơn. Bài mới: cụm Hang xóm Trại (xã Mường Vang) – Mái đá làng Vành (xã Yên Phú) xếp hạng quốc gia đặc biệt theo QĐ 694/QĐ-TTg ngày 18/7/2024; niên đại văn hóa Hòa Bình 17.000–8.000 năm, dấu mòn đi lại ~21.000 năm; mái đá do M.Colani khai quật 1929 với 972 hiện vật, tầng văn hóa gần 4 m; hang xóm Trại cao 15 m so với thung lũng, cửa hang rộng hơn 8 m, có phục dựng bếp lửa; quy hoạch 2531/QĐ-TTg ngày 19/11/2025 trên 8 xã ~58.746 ha; đường vào mái đá đang được mở rộng ~2 tỷ đồng; gắn với hồ Cánh Tạng – thông tin để lên lộ trình thăm có trách nhiệm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/mai-da-lang-vanh-va-hang-xom-trai-di-tich-ngan-nam-van-hoa-xu-muong-hoa-binh-20240731094517507.htm",
+        "quote": "Tuổi Trẻ (theo TTXVN), 'Mái đá làng Vành và Hang xóm Trại: Di tích ngàn năm văn hóa xứ Mường Hòa Bình' (31/7/2024, đọc 14/10/2026): hai di tích quốc gia đặc biệt Mái đá làng Vành (xã Yên Phú) và Hang xóm Trại (xã Tân Lập), huyện Lạc Sơn; mái đá dưới chân núi Khụ Vành, được M.Colani phát hiện, khai quật từ 1929; hang sâu 18 m; niên đại văn hóa Hòa Bình 17.000–8.000 năm; khai quật được 972 hiện vật, tầng văn hóa dày gần 4 m; hang xóm Trại nằm cao 15 m so với mặt thung lũng, phát hiện 1975, tầng văn hóa dày 4 m với vỏ ốc, công cụ, mảnh gốm, lúa gạo cháy; dấu mòn đi lại trên đá niên đại khoảng 21.000 năm, được coi là cổ nhất thế giới lần đầu phát hiện ở Đông Nam Á; tìm thấy xương người niên đại 17.000 năm; xã Yên Phú định hướng kết hợp du lịch khi hồ Cánh Tạng hoạt động; người dân xã Tân Lập cắt cử người trông nom hang.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/nang-tam-gia-tri-di-tich-quoc-gia-dac-biet-243652.htm",
+        "quote": "Báo Phú Thọ, 'Nâng tầm giá trị Di tích Quốc gia đặc biệt' (đọc 14/10/2026): cụm di tích khảo cổ Hang xóm Trại (xã Mường Vang) và Mái đá làng Vành (xã Yên Phú) được xếp hạng Di tích Quốc gia đặc biệt theo Quyết định 694/QĐ-TTg ngày 18/7/2024; hang xóm Trại trên sườn núi Khụ Trại, cửa hang rộng hơn 8 m, trong hàng song sắt bảo vệ có phục dựng bếp lửa và cảnh sinh hoạt; tầng văn hóa dày gần 4 m; phát hiện 1971, khai quật lần đầu 1981, mộ táng phát hiện 2008; mái đá làng Vành cao 64 m so với mực nước biển, tầng văn hóa dày 3,7 m; Quyết định 2531/QĐ-TTg ngày 19/11/2025 phê duyệt nhiệm vụ quy hoạch trên 8 xã (Ngọc Sơn, Quyết Thắng, Thượng Cốc, Lạc Sơn, Đại Đồng, Yên Phú, Mường Vang, Nhân Nghĩa) hơn 58.700 ha; mục tiêu đưa cụm di tích thành điểm nhấn tuyến 'Về nguồn Văn hóa Hòa Bình'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/luu-giu-mai-da-lang-vanh-255137.htm",
+        "quote": "Báo Phú Thọ, 'Lưu giữ Mái đá làng Vành' (đọc 14/10/2026): mái đá nằm dưới chân núi Khụ Vành, xóm Vành, xã Yên Phú; được M.Colani phát hiện, khai quật từ 1929; niên đại 17.000–8.000 năm; người dân gọi là 'hang ốc' vì nền có nhiều vỏ ốc núi; xã Yên Phú đang triển khai dự án mở rộng tuyến đường vào khu di tích tổng kinh phí khoảng 2 tỷ đồng từ vốn đầu tư công; định hướng khai thác gắn với du lịch sinh thái hồ chứa nước Cánh Tạng; người dân không chăn thả gia súc trong khu di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tu-bo-phuc-hoi-di-tich-hang-xom-trai-va-mai-da-lang-vanh-o-tinh-phu-tho-post1078047.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Tu bổ, phục hồi Di tích Hang xóm Trại và Mái đá làng Vành ở tỉnh Phú Thọ' (đọc 14/10/2026): Phó Thủ tướng Mai Văn Chính ký Quyết định 2531/QĐ-TTg ngày 19/11/2025; phạm vi nghiên cứu quy hoạch 8 xã diện tích khoảng 58.746,19 ha; đối tượng gồm các hang động đá vôi gắn với cư dân văn hóa Hòa Bình giai đoạn Hòa Bình giữa (niên đại khoảng 17.000–18.000 BP), tín ngưỡng thờ đá của người Mường, lễ Xuống đồng; ảnh chú thích: Hang xóm Trại phát hiện 1975, niên đại 21.000 năm, xếp hạng di tích khảo cổ cấp quốc gia 2001.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang xóm trại mái đá làng vành"
+      }
+    ],
+    "notes": "Mâu thuẫn nguồn: Tuổi Trẻ ghi hang xóm Trại phát hiện 1975 và thuộc xã Tân Lập; Báo Phú Thọ ghi phát hiện 1971, khai quật 1981 và xã Mường Vang (tên xã mới sau sáp nhập) – viết 'phát hiện đầu thập niên 1970 (các nguồn ghi 1971/1975)', địa danh dùng tên mới Mường Vang kèm ghi chú 'xã Tân Lập cũ'. Tầng văn hóa mái đá: 'gần 4 m' (Tuổi Trẻ) và '3,7 m' (Báo Phú Thọ) – dùng 3,7 m/gần 4 m. Không có nguồn về vé vào, giờ mở, khoảng cách km từ Hà Nội hay từ TP Hòa Bình – không viết số; chỉ hướng dẫn hỏi cán bộ văn hóa xã và tôn trọng hàng rào bảo vệ. Hồ Cánh Tạng là hồ chứa đang xây/đưa vào hoạt động theo nguồn – không khẳng định đã khai thác du lịch.",
+    "outline": [
+      "Câu trả lời ngắn: hai di tích ở đâu, vì sao đặc biệt",
+      "Văn hóa Hòa Bình là gì, niên đại 17.000–8.000 năm",
+      "Hang xóm Trại (Mường Vang): dấu mòn 21.000 năm, bếp lửa phục dựng",
+      "Mái đá làng Vành (Yên Phú): 'hang ốc' của M.Colani 1929",
+      "Hiện trạng đón khách, quy hoạch 2025 và hồ Cánh Tạng",
+      "Đi xe máy vùng Lạc Sơn: ghép Kim Bôi, hồ Hòa Bình",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/khoang-nong-kim-boi/",
+      "/du-lich/den-chua-thac-bo/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00779.json",
+  "draft_template": {
+    "id": "TM-00779",
+    "url": "/du-lich/hang-xom-trai-va-mai-da-lang-vanh/",
+    "title": "Hang xóm Trại và Mái đá làng Vành: di tích đặc biệt của Văn hóa Hòa Bình",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang xóm trại mái đá làng vành, hang xóm trại, mái đá làng vành, di tích quốc gia đặc biệt hòa bình, văn hóa hòa bình lạc sơn, mường vang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: hai di tích ở đâu, vì sao đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Văn hóa Hòa Bình là gì, niên đại 17.000–8.000 năm",
+        "<p></p>"
+      ],
+      [
+        "Hang xóm Trại (Mường Vang): dấu mòn 21.000 năm, bếp lửa phục dựng",
+        "<p></p>"
+      ],
+      [
+        "Mái đá làng Vành (Yên Phú): 'hang ốc' của M.Colani 1929",
+        "<p></p>"
+      ],
+      [
+        "Hiện trạng đón khách, quy hoạch 2025 và hồ Cánh Tạng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy vùng Lạc Sơn: ghép Kim Bôi, hồ Hòa Bình",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/mai-da-lang-vanh-va-hang-xom-trai-di-tich-ngan-nam-van-hoa-xu-muong-hoa-binh-20240731094517507.htm",
+        "quote": "Tuổi Trẻ (theo TTXVN), 'Mái đá làng Vành và Hang xóm Trại: Di tích ngàn năm văn hóa xứ Mường Hòa Bình' (31/7/2024, đọc 14/10/2026): hai di tích quốc gia đặc biệt Mái đá làng Vành (xã Yên Phú) và Hang xóm Trại (xã Tân Lập), huyện Lạc Sơn; mái đá dưới chân núi Khụ Vành, được M.Colani phát hiện, khai quật từ 1929; hang sâu 18 m; niên đại văn hóa Hòa Bình 17.000–8.000 năm; khai quật được 972 hiện vật, tầng văn hóa dày gần 4 m; hang xóm Trại nằm cao 15 m so với mặt thung lũng, phát hiện 1975, tầng văn hóa dày 4 m với vỏ ốc, công cụ, mảnh gốm, lúa gạo cháy; dấu mòn đi lại trên đá niên đại khoảng 21.000 năm, được coi là cổ nhất thế giới lần đầu phát hiện ở Đông Nam Á; tìm thấy xương người niên đại 17.000 năm; xã Yên Phú định hướng kết hợp du lịch khi hồ Cánh Tạng hoạt động; người dân xã Tân Lập cắt cử người trông nom hang.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/nang-tam-gia-tri-di-tich-quoc-gia-dac-biet-243652.htm",
+        "quote": "Báo Phú Thọ, 'Nâng tầm giá trị Di tích Quốc gia đặc biệt' (đọc 14/10/2026): cụm di tích khảo cổ Hang xóm Trại (xã Mường Vang) và Mái đá làng Vành (xã Yên Phú) được xếp hạng Di tích Quốc gia đặc biệt theo Quyết định 694/QĐ-TTg ngày 18/7/2024; hang xóm Trại trên sườn núi Khụ Trại, cửa hang rộng hơn 8 m, trong hàng song sắt bảo vệ có phục dựng bếp lửa và cảnh sinh hoạt; tầng văn hóa dày gần 4 m; phát hiện 1971, khai quật lần đầu 1981, mộ táng phát hiện 2008; mái đá làng Vành cao 64 m so với mực nước biển, tầng văn hóa dày 3,7 m; Quyết định 2531/QĐ-TTg ngày 19/11/2025 phê duyệt nhiệm vụ quy hoạch trên 8 xã (Ngọc Sơn, Quyết Thắng, Thượng Cốc, Lạc Sơn, Đại Đồng, Yên Phú, Mường Vang, Nhân Nghĩa) hơn 58.700 ha; mục tiêu đưa cụm di tích thành điểm nhấn tuyến 'Về nguồn Văn hóa Hòa Bình'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/luu-giu-mai-da-lang-vanh-255137.htm",
+        "quote": "Báo Phú Thọ, 'Lưu giữ Mái đá làng Vành' (đọc 14/10/2026): mái đá nằm dưới chân núi Khụ Vành, xóm Vành, xã Yên Phú; được M.Colani phát hiện, khai quật từ 1929; niên đại 17.000–8.000 năm; người dân gọi là 'hang ốc' vì nền có nhiều vỏ ốc núi; xã Yên Phú đang triển khai dự án mở rộng tuyến đường vào khu di tích tổng kinh phí khoảng 2 tỷ đồng từ vốn đầu tư công; định hướng khai thác gắn với du lịch sinh thái hồ chứa nước Cánh Tạng; người dân không chăn thả gia súc trong khu di tích.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tu-bo-phuc-hoi-di-tich-hang-xom-trai-va-mai-da-lang-vanh-o-tinh-phu-tho-post1078047.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Tu bổ, phục hồi Di tích Hang xóm Trại và Mái đá làng Vành ở tỉnh Phú Thọ' (đọc 14/10/2026): Phó Thủ tướng Mai Văn Chính ký Quyết định 2531/QĐ-TTg ngày 19/11/2025; phạm vi nghiên cứu quy hoạch 8 xã diện tích khoảng 58.746,19 ha; đối tượng gồm các hang động đá vôi gắn với cư dân văn hóa Hòa Bình giai đoạn Hòa Bình giữa (niên đại khoảng 17.000–18.000 BP), tín ngưỡng thờ đá của người Mường, lễ Xuống đồng; ảnh chú thích: Hang xóm Trại phát hiện 1975, niên đại 21.000 năm, xếp hạng di tích khảo cổ cấp quốc gia 2001.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00779"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E3",
+  "queued": "2026-10-14T06:39:55.879724+00:00",
+  "topic": {
+    "topic_id": "TM-00787",
+    "url": "/du-lich/hang-tau-moc-chau/",
+    "title": "Hang Táu Mộc Châu: 'làng nguyên thủy' của người Mông cách trung tâm 20 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang táu mộc châu",
+    "secondary_keywords": [
+      "làng nguyên thủy hang táu",
+      "hang táu tà số chiềng hắc",
+      "đường vào hang táu",
+      "hang táu có gì",
+      "du lịch cộng đồng tà số"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy lên Mộc Châu muốn vào Hang Táu (bản Tà Số, Chiềng Hắc): đường vào khó thế nào, có nên tự chạy xe hay gửi xe đi xe ôm, có điện/sóng không, nên đi mùa nào, trong làng có gì.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/, /du-lich/thac-dai-yem-moc-chau/ và /du-lich/doi-che-trai-tim-moc-chau/ không nhắc Hang Táu. Bài mới: Hang Táu là khu sản xuất của hơn 20 hộ Mông bản Tà Số (độ cao hơn 1.100 m), thung lũng hơn 1 ha, cách trung tâm Mộc Châu khoảng 20 km; 'ba không' – không điện lưới, không sóng, không wifi; đoạn đường đất đá cuối hơn 3 km (có nguồn ghi hơn 7 km) rất dốc, lời khuyên gửi xe đi cùng người bản địa; HTX du lịch Hang Táu thành lập 8/2023 với 20 hộ, đón bình quân 3.000 lượt khách/tháng (2025); quy tắc không mang thức ăn vào làng; hang động cuối bản chưa khai thác.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hang-tau-ngoi-lang-nguyen-so-o-moc-chau-4513919.html",
+        "quote": "VnExpress, 'Hang Táu - ngôi làng nguyên sơ ở Mộc Châu' (21/9/2022, đọc 14/10/2026): Hang Táu (xã Chiềng Hắc, Mộc Châu) nằm trong thung lũng cách trung tâm Mộc Châu gần 20 km; không điện lưới, không internet, không sóng điện thoại; thực chất là khu canh tác rộng khoảng 1 ha của 20 hộ người Mông; mùa mưa đường gập ghềnh trơn trượt; chưa định vị chính xác trên Google Maps, tìm 'Tà Số' rồi hỏi đường; đoạn đường đất đá vào làng hơn 7 km nhiều dốc, phải đi xe máy; người dân thu vé vào 30.000 đồng/người, xe ôm đưa đón 150.000 đồng hai chiều (số liệu 2022); có thể mua gà của dân nhờ chế biến nhưng không mang thức ăn vào làng; trải nghiệm trồng trọt, đào măng, học thêu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-tau-lang-nguyen-thuy-3-khong-tren-cao-nguyen-moc-chau-post796832.html",
+        "quote": "Nhân Dân, 'Hang Táu - làng nguyên thủy 3 không trên cao nguyên Mộc Châu' (đọc 14/10/2026): bản Tà Số ở độ cao hơn 1.100 m thuộc xã Chiềng Hắc; Hang Táu nghĩa là bãi đất trống/lòng chảo; cách trung tâm thị trấn Mộc Châu chừng 20 km; từ ngã ba Tà Số lên Hang Táu con đường chỉ hơn 3 km nhưng rất cheo leo, dốc dựng, mặt đường xói lở; quy tắc nhường xe chở khách đang lên dốc; lời khuyên gửi xe tại bãi đỗ và ngồi sau tay lái người bản địa nếu không vững; làng là nơi cư trú của hơn 20 hộ Mông, thung lũng rộng hơn 1 ha; cuối bản có hang động tự nhiên chưa khai thác vì không có điện; từ năm 2020 chủ trương xây bản du lịch cộng đồng Tà Số do dự án GREAT hỗ trợ; dịch vụ cho thuê trang phục, thuê ngựa, bán đồ lưu niệm; một quán ăn ở điểm cuối khu vực.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/tu-van/hang-tau-diem-sang-phat-trien-du-lich-cua-dong-bao-mong-o-son-la-post1156365.vov",
+        "quote": "VOV, 'Hang Táu - điểm sáng phát triển du lịch của đồng bào Mông ở Sơn La' (24/02/2025, đọc 14/10/2026): Hang Táu cách trung tâm thị xã Mộc Châu khoảng 20 km, vốn là khu sản xuất của người Mông bản Tà Số, xã Chiềng Hắc; 'ba không': không điện, không sóng điện thoại, không wifi; hơn 20 hộ; tháng 8/2023 xã thành lập Hợp tác xã du lịch Hang Táu với 20 hộ thành viên, liên kết homestay trong bản Tà Số; đón bình quân 3.000 lượt khách/tháng, doanh thu bình quân 100 triệu đồng/tháng; người dân muốn giữ nguyên sơ, không kéo điện, không làm đường.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/co-gi-o-lang-nguyen-thuy---noi-nguoi-hmong-tron-the-gioi-1851500812.htm",
+        "quote": "Thanh Niên, 'Có gì ở làng nguyên thủy - nơi người H'Mông trốn thế giới?' (đọc 14/10/2026): Hang Táu thuộc bản Tà Số 1, xã Chiềng Hắc; khoảng 20 hộ; là nơi chăn nuôi, làm rẫy chứ không phải nơi ở chính; đường vào hơn 7 km đất đá gập ghềnh, phải đi xe máy; nên tới buổi chiều; vé 30.000 đồng/người và xe ôm 150.000 đồng/2 chiều (số liệu 2022); không được mang thức ăn vào làng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang táu mộc châu"
+      }
+    ],
+    "notes": "Mâu thuẫn chiều dài đoạn đường xấu: 'hơn 7 km' (VnExpress, Thanh Niên 2022) và 'hơn 3 km từ ngã ba Tà Số' (Nhân Dân) – có thể do điểm bắt đầu khác nhau; viết 'đoạn đường đất đá cuối khoảng 3–7 km tùy điểm xuất phát'. Giá vé/xe ôm là số liệu 2022, không đưa vào tiêu đề và ghi rõ 'theo bài 2022, có thể thay đổi'. Mộc Châu nay là thị xã/phường theo sắp xếp 2025 – ghi 'thị xã Mộc Châu (nay phường Mộc Châu)' thận trọng theo nguồn. Không khuyến khích tự chạy xe tay ga lên dốc; dẫn bài đi xe máy đường đèo.",
+    "outline": [
+      "Câu trả lời ngắn: Hang Táu là gì, ở đâu",
+      "Đường vào từ ngã ba Tà Số: dốc, đá, nên tự chạy hay gửi xe",
+      "'Ba không' và quy tắc ứng xử trong làng (không mang thức ăn)",
+      "Trong làng có gì: bãi cỏ, nhà gỗ, thuê ngựa, trang phục, hang chưa khai thác",
+      "HTX du lịch Hang Táu 2023: dịch vụ, homestay bản Tà Số",
+      "Mùa đẹp và ghép với thác Dải Yếm, đồi chè",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/thac-dai-yem-moc-chau/",
+      "/du-lich/doi-che-trai-tim-moc-chau/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00787.json",
+  "draft_template": {
+    "id": "TM-00787",
+    "url": "/du-lich/hang-tau-moc-chau/",
+    "title": "Hang Táu Mộc Châu: 'làng nguyên thủy' của người Mông cách trung tâm 20 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang táu mộc châu, làng nguyên thủy hang táu, hang táu tà số chiềng hắc, đường vào hang táu, hang táu có gì, du lịch cộng đồng tà số",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Hang Táu là gì, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Đường vào từ ngã ba Tà Số: dốc, đá, nên tự chạy hay gửi xe",
+        "<p></p>"
+      ],
+      [
+        "'Ba không' và quy tắc ứng xử trong làng (không mang thức ăn)",
+        "<p></p>"
+      ],
+      [
+        "Trong làng có gì: bãi cỏ, nhà gỗ, thuê ngựa, trang phục, hang chưa khai thác",
+        "<p></p>"
+      ],
+      [
+        "HTX du lịch Hang Táu 2023: dịch vụ, homestay bản Tà Số",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp và ghép với thác Dải Yếm, đồi chè",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hang-tau-ngoi-lang-nguyen-so-o-moc-chau-4513919.html",
+        "quote": "VnExpress, 'Hang Táu - ngôi làng nguyên sơ ở Mộc Châu' (21/9/2022, đọc 14/10/2026): Hang Táu (xã Chiềng Hắc, Mộc Châu) nằm trong thung lũng cách trung tâm Mộc Châu gần 20 km; không điện lưới, không internet, không sóng điện thoại; thực chất là khu canh tác rộng khoảng 1 ha của 20 hộ người Mông; mùa mưa đường gập ghềnh trơn trượt; chưa định vị chính xác trên Google Maps, tìm 'Tà Số' rồi hỏi đường; đoạn đường đất đá vào làng hơn 7 km nhiều dốc, phải đi xe máy; người dân thu vé vào 30.000 đồng/người, xe ôm đưa đón 150.000 đồng hai chiều (số liệu 2022); có thể mua gà của dân nhờ chế biến nhưng không mang thức ăn vào làng; trải nghiệm trồng trọt, đào măng, học thêu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-tau-lang-nguyen-thuy-3-khong-tren-cao-nguyen-moc-chau-post796832.html",
+        "quote": "Nhân Dân, 'Hang Táu - làng nguyên thủy 3 không trên cao nguyên Mộc Châu' (đọc 14/10/2026): bản Tà Số ở độ cao hơn 1.100 m thuộc xã Chiềng Hắc; Hang Táu nghĩa là bãi đất trống/lòng chảo; cách trung tâm thị trấn Mộc Châu chừng 20 km; từ ngã ba Tà Số lên Hang Táu con đường chỉ hơn 3 km nhưng rất cheo leo, dốc dựng, mặt đường xói lở; quy tắc nhường xe chở khách đang lên dốc; lời khuyên gửi xe tại bãi đỗ và ngồi sau tay lái người bản địa nếu không vững; làng là nơi cư trú của hơn 20 hộ Mông, thung lũng rộng hơn 1 ha; cuối bản có hang động tự nhiên chưa khai thác vì không có điện; từ năm 2020 chủ trương xây bản du lịch cộng đồng Tà Số do dự án GREAT hỗ trợ; dịch vụ cho thuê trang phục, thuê ngựa, bán đồ lưu niệm; một quán ăn ở điểm cuối khu vực.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/tu-van/hang-tau-diem-sang-phat-trien-du-lich-cua-dong-bao-mong-o-son-la-post1156365.vov",
+        "quote": "VOV, 'Hang Táu - điểm sáng phát triển du lịch của đồng bào Mông ở Sơn La' (24/02/2025, đọc 14/10/2026): Hang Táu cách trung tâm thị xã Mộc Châu khoảng 20 km, vốn là khu sản xuất của người Mông bản Tà Số, xã Chiềng Hắc; 'ba không': không điện, không sóng điện thoại, không wifi; hơn 20 hộ; tháng 8/2023 xã thành lập Hợp tác xã du lịch Hang Táu với 20 hộ thành viên, liên kết homestay trong bản Tà Số; đón bình quân 3.000 lượt khách/tháng, doanh thu bình quân 100 triệu đồng/tháng; người dân muốn giữ nguyên sơ, không kéo điện, không làm đường.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/co-gi-o-lang-nguyen-thuy---noi-nguoi-hmong-tron-the-gioi-1851500812.htm",
+        "quote": "Thanh Niên, 'Có gì ở làng nguyên thủy - nơi người H'Mông trốn thế giới?' (đọc 14/10/2026): Hang Táu thuộc bản Tà Số 1, xã Chiềng Hắc; khoảng 20 hộ; là nơi chăn nuôi, làm rẫy chứ không phải nơi ở chính; đường vào hơn 7 km đất đá gập ghềnh, phải đi xe máy; nên tới buổi chiều; vé 30.000 đồng/người và xe ôm 150.000 đồng/2 chiều (số liệu 2022); không được mang thức ăn vào làng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00787"
+  }
+}

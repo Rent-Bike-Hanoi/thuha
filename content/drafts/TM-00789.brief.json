@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E4",
+  "queued": "2026-10-14T06:39:56.364345+00:00",
+  "topic": {
+    "topic_id": "TM-00789",
+    "url": "/du-lich/den-nhuoc-son-van-yen/",
+    "title": "Đền Nhược Sơn Văn Yên: đền tướng Hà Chương bên sông Hồng, hội 20/9 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền nhược sơn",
+    "secondary_keywords": [
+      "đền nhược sơn văn yên",
+      "đền nhược sơn châu quế hạ",
+      "lễ hội đền nhược sơn",
+      "tướng hà chương",
+      "du lịch tâm linh văn yên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ đền Đông Cuông bằng xe máy muốn đi tiếp ngược sông Hồng tới đền Nhược Sơn: đền ở đâu, thờ ai, cách Đông Cuông và Mậu A bao xa, hội ngày nào, có nghi lễ gì đặc biệt.",
+    "information_gain": "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/ và /du-lich/muong-lo-nghia-lo/ là nơi khác; chưa có bài về Văn Yên hay đền Nhược Sơn. Bài mới: đền ở thôn Ngọc Châu, xã Châu Quế Hạ, bên bờ sông Hồng, cách thị trấn Mậu A chừng 41 km theo tỉnh lộ 151, cách đền Đông Cuông khoảng 20 km về phía thượng huyện, cách TP Yên Bái khoảng 70 km; thờ Hà Khắc Chương (Hà Chương) – tướng người Tày thời Trần chặn quân Nguyên Mông 1287, được phong 'Bình Nguyên thượng tướng trung dũng hầu'; di tích quốc gia QĐ 72/QĐ-BVHTT 16/11/2005; hội 20 tháng Giêng và 20/9 âm lịch với lễ tế trâu đen, lễ cúng cơm mới từ 0h.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/den-nhuoc-son-diem-den-cua-tam-linh-post608760.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Đền Nhược Sơn - Điểm đến của tâm linh' (đọc 14/10/2026): khu di tích nằm bên bờ sông Hồng, cách thị trấn Mậu A (Văn Yên) chừng 41 km theo tỉnh lộ 151; thuộc thôn Ngọc Châu, xã Châu Quế Hạ; thờ Hà Khắc Chương – võ tướng thời Trần trấn giữ biên cương phía bắc; xếp hạng di tích quốc gia theo quyết định 72/QĐ-BVHTT ngày 16/11/2005; từ TP Yên Bái đến bến đò Nhược Sơn khoảng 70 km; lễ hội 20 tháng Giêng và 20 tháng Chín âm lịch; tên bản địa Loòng Mẹac, Tại Mẹac; theo hồ sơ di tích, tháng Hai năm Đinh Hợi 1287 anh em Hà Đặc, Hà Chương chặn đánh quân Nguyên Mông rút theo sông Lô; Hà Chương hy sinh và được chôn ở cửa thác Nhược Sơn; lễ tế trâu đen, trò chơi đẩy gậy, chọi gà, đánh cầu chinh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/van-yen-vung-dat-giau-du-lich-post574019.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Văn Yên vùng đất giàu du lịch' (đọc 14/10/2026): cách đền Đông Cuông khoảng 20 km về phía thượng huyện là đền Nhược Sơn – di tích quốc gia, trên thế đất bằng phẳng bên bờ sông Hồng ở thôn Ngọc Châu, xã Châu Quế Hạ; thờ Hà Khắc Chương, võ tướng thời Trần chống Nguyên Mông cuối thế kỷ XIII; một năm hai lễ hội chính 20/1 và 20/9 âm lịch; đền Đông Cuông (thôn Bến Đền) là di tích quốc gia 2009, lễ hội ngày Mão tháng Giêng và tháng Chín.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/van-yen-le-dang-huong-cung-com-moi-den-nhuoc-son-xa-chau-que-ha-post414995.html",
+        "quote": "Báo Lào Cai, 'Văn Yên: Lễ dâng hương cúng cơm mới Đền Nhược Sơn' (đọc 14/10/2026): ngày 21–22/10 (19–20 tháng Chín năm Giáp Thìn, tức 2024) tại di tích quốc gia đền Nhược Sơn, thôn Ngọc Châu, xã Châu Quế Hạ diễn ra lễ dâng hương cúng cơm mới tưởng nhớ tướng quân người Tày Hà Chương; 20/9 âm lịch tương truyền là ngày mất của ông; lễ bắt đầu từ 0h00 ngày 20/9 âm lịch với nghi lễ bao sái, thỉnh chuông, xin mổ lợn tại cửa Ngòi Nhược, tiết lợn chia 12 chén cúng Long vương thác Nhược Sơn; ông được vua Trần phong 'Bình Nguyên thượng tướng trung dũng hầu'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/van-yennbspmien-du-lich-tam-linh-post534587.html",
+        "quote": "Báo Lào Cai (bài YBĐT 2017), 'Văn Yên: Miền du lịch tâm linh' (đọc 14/10/2026): theo đường ngược sông Hồng từ đền Đông Cuông tới đền Nhược Sơn (thôn Ngọc Châu, xã Châu Quế Hạ); thờ Hà Khắc Chương; xếp hạng di tích lịch sử cấp quốc gia năm 2006 (theo bài này); lễ 20 tháng Giêng và 20 tháng Chín âm lịch; cao tốc Nội Bài – Lào Cai chạy qua 8 xã của Văn Yên với 2 nút giao vào trung tâm huyện.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền nhược sơn"
+      }
+    ],
+    "notes": "Mâu thuẫn năm xếp hạng: QĐ 72/QĐ-BVHTT ngày 16/11/2005 (bài 'Điểm đến của tâm linh') và 'năm 2006' (bài 2017) – dùng 2005 theo số quyết định, ghi chú có nguồn ghi 2006. Khoảng cách 41 km từ Mậu A và 70 km từ TP Yên Bái là của bài cũ (YBĐT), đường có thể thay đổi. Bài nói 'bến đò Nhược Sơn' – có thể cần qua sông; không có nguồn về cầu/đò hiện tại, writer nên khuyên hỏi địa phương. Không có giờ mở cửa. Yên Bái đã sáp nhập vào Lào Cai (2025); tên xã Châu Quế Hạ có thể đã đổi (baolaocai.vn hiện liệt kê 'Xã Châu Quế') – ghi 'xã Châu Quế Hạ (nay thuộc xã Châu Quế, Lào Cai)' thận trọng. Xe máy không được đi cao tốc Nội Bài – Lào Cai: nhắc rõ.",
+    "outline": [
+      "Câu trả lời ngắn: đền Nhược Sơn ở đâu, thờ ai",
+      "Tướng Hà Chương và trận chặn quân Nguyên Mông 1287",
+      "Vị trí bên sông Hồng: cách Đông Cuông 20 km, Mậu A 41 km, TP Yên Bái 70 km",
+      "Hai kỳ hội 20 tháng Giêng và 20/9 âm lịch: lễ tế trâu đen, cúng cơm mới từ 0h",
+      "Đi xe máy Hà Nội – Văn Yên: không đi cao tốc, ghép Đông Cuông",
+      "Lưu ý về đò/bến, giấy tờ, trang phục khi vào đền",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00789.json",
+  "draft_template": {
+    "id": "TM-00789",
+    "url": "/du-lich/den-nhuoc-son-van-yen/",
+    "title": "Đền Nhược Sơn Văn Yên: đền tướng Hà Chương bên sông Hồng, hội 20/9 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền nhược sơn, đền nhược sơn văn yên, đền nhược sơn châu quế hạ, lễ hội đền nhược sơn, tướng hà chương, du lịch tâm linh văn yên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền Nhược Sơn ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Tướng Hà Chương và trận chặn quân Nguyên Mông 1287",
+        "<p></p>"
+      ],
+      [
+        "Vị trí bên sông Hồng: cách Đông Cuông 20 km, Mậu A 41 km, TP Yên Bái 70 km",
+        "<p></p>"
+      ],
+      [
+        "Hai kỳ hội 20 tháng Giêng và 20/9 âm lịch: lễ tế trâu đen, cúng cơm mới từ 0h",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy Hà Nội – Văn Yên: không đi cao tốc, ghép Đông Cuông",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý về đò/bến, giấy tờ, trang phục khi vào đền",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/den-nhuoc-son-diem-den-cua-tam-linh-post608760.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Đền Nhược Sơn - Điểm đến của tâm linh' (đọc 14/10/2026): khu di tích nằm bên bờ sông Hồng, cách thị trấn Mậu A (Văn Yên) chừng 41 km theo tỉnh lộ 151; thuộc thôn Ngọc Châu, xã Châu Quế Hạ; thờ Hà Khắc Chương – võ tướng thời Trần trấn giữ biên cương phía bắc; xếp hạng di tích quốc gia theo quyết định 72/QĐ-BVHTT ngày 16/11/2005; từ TP Yên Bái đến bến đò Nhược Sơn khoảng 70 km; lễ hội 20 tháng Giêng và 20 tháng Chín âm lịch; tên bản địa Loòng Mẹac, Tại Mẹac; theo hồ sơ di tích, tháng Hai năm Đinh Hợi 1287 anh em Hà Đặc, Hà Chương chặn đánh quân Nguyên Mông rút theo sông Lô; Hà Chương hy sinh và được chôn ở cửa thác Nhược Sơn; lễ tế trâu đen, trò chơi đẩy gậy, chọi gà, đánh cầu chinh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/van-yen-vung-dat-giau-du-lich-post574019.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Văn Yên vùng đất giàu du lịch' (đọc 14/10/2026): cách đền Đông Cuông khoảng 20 km về phía thượng huyện là đền Nhược Sơn – di tích quốc gia, trên thế đất bằng phẳng bên bờ sông Hồng ở thôn Ngọc Châu, xã Châu Quế Hạ; thờ Hà Khắc Chương, võ tướng thời Trần chống Nguyên Mông cuối thế kỷ XIII; một năm hai lễ hội chính 20/1 và 20/9 âm lịch; đền Đông Cuông (thôn Bến Đền) là di tích quốc gia 2009, lễ hội ngày Mão tháng Giêng và tháng Chín.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/van-yen-le-dang-huong-cung-com-moi-den-nhuoc-son-xa-chau-que-ha-post414995.html",
+        "quote": "Báo Lào Cai, 'Văn Yên: Lễ dâng hương cúng cơm mới Đền Nhược Sơn' (đọc 14/10/2026): ngày 21–22/10 (19–20 tháng Chín năm Giáp Thìn, tức 2024) tại di tích quốc gia đền Nhược Sơn, thôn Ngọc Châu, xã Châu Quế Hạ diễn ra lễ dâng hương cúng cơm mới tưởng nhớ tướng quân người Tày Hà Chương; 20/9 âm lịch tương truyền là ngày mất của ông; lễ bắt đầu từ 0h00 ngày 20/9 âm lịch với nghi lễ bao sái, thỉnh chuông, xin mổ lợn tại cửa Ngòi Nhược, tiết lợn chia 12 chén cúng Long vương thác Nhược Sơn; ông được vua Trần phong 'Bình Nguyên thượng tướng trung dũng hầu'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/van-yennbspmien-du-lich-tam-linh-post534587.html",
+        "quote": "Báo Lào Cai (bài YBĐT 2017), 'Văn Yên: Miền du lịch tâm linh' (đọc 14/10/2026): theo đường ngược sông Hồng từ đền Đông Cuông tới đền Nhược Sơn (thôn Ngọc Châu, xã Châu Quế Hạ); thờ Hà Khắc Chương; xếp hạng di tích lịch sử cấp quốc gia năm 2006 (theo bài này); lễ 20 tháng Giêng và 20 tháng Chín âm lịch; cao tốc Nội Bài – Lào Cai chạy qua 8 xã của Văn Yên với 2 nút giao vào trung tâm huyện.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00789"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E3",
+  "queued": "2026-10-14T06:39:55.455391+00:00",
+  "topic": {
+    "topic_id": "TM-00785",
+    "url": "/du-lich/cang-bac-me/",
+    "title": "Căng Bắc Mê: nhà tù Pháp 1939–1942 bên sông Gâm, di tích quốc gia Hà Giang",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "căng bắc mê",
+    "secondary_keywords": [
+      "di tích căng bắc mê",
+      "căng bắc mê hà giang",
+      "nhà tù căng bắc mê",
+      "du lịch bắc mê",
+      "yên cường bắc mê"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy tuyến Hà Giang – Bắc Mê – Na Hang (hoặc Ba Bể) muốn biết Căng Bắc Mê là gì, ở đâu, có gì xem sau trùng tu 2022, mất bao lâu và ghép lộ trình thế nào.",
+    "information_gain": "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/ và /du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ chỉ nhắc Bắc Mê như điểm nối; /du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/ không có. Bài mới: Căng Bắc Mê (thôn Đồn Điền, xã Yên Cường) trên sườn núi Rồng bên sông Gâm, Pháp xây trước 1938 diện tích 2.500 m2, giam khoảng 300 tù chính trị 1939–1942 (Xuân Thủy, Nguyên Hồng, Hoàng Quốc Việt...); di tích quốc gia 21/1/1992; quần thể 3 khu (trung tâm Căng, nhà Bang tá, kho muối Bản Noong); tường đá dài 190 m cao 2 m; khánh thành công trình bảo tồn tôn tạo 9/7/2022; kết nối lòng hồ thủy điện Bắc Mê – tức một 'địa chỉ đỏ' trên tuyến vòng Hà Giang – Na Hang.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ha-giang-khanh-thanh-cong-trinh-bao-ton-ton-tao-di-tich-lich-su-cang-bac-me-post704722.html",
+        "quote": "Nhân Dân, 'Hà Giang khánh thành công trình bảo tồn, tôn tạo di tích lịch sử Căng Bắc Mê' (đọc 14/10/2026): chiều 9/7 (2022) tỉnh Hà Giang khánh thành công trình bảo tồn, tôn tạo di tích quốc gia Căng Bắc Mê; Căng nằm trên sườn núi Rồng, xã Yên Cường, huyện Bắc Mê; giai đoạn 1939–1942 thực dân Pháp giam tù chính trị, lúc đông nhất khoảng 300 người, trong đó có Trần Cung, Hoàng Quốc Việt, Xuân Thủy, Nguyên Hồng, Hà Kế Tấn, Lê Giản; ngày 21/1/1992 được công nhận di tích lịch sử văn hóa cấp quốc gia; tháng 12/2020 tỉnh quyết định đầu tư công trình bảo tồn, tôn tạo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/du-lich/202508/cang-bac-me-bieu-tuong-cua-y-chi-va-long-yeu-nuoc-94e4d3c",
+        "quote": "Báo Tuyên Quang, 'Căng Bắc Mê - Biểu tượng của ý chí và lòng yêu nước' (15/8/2025, đọc 14/10/2026): khu di tích ở sườn núi Rồng, thôn Đồn Điền, xã Yên Cường; Pháp xây trước năm 1938 trên diện tích 2.500 m2, lưng tựa núi đá tai mèo, trước mặt sông Gâm, kiểm soát tuyến đường nối Hà Giang – Tuyên Quang – Cao Bằng; 1939–1942 giam khoảng 300 tù chính trị, tù nhân bị bắt lao dịch đóng gạch, nung vôi, vác đá; cuối 1945 được giải phóng; năm 1992 công nhận di tích quốc gia; Sở VHTTDL phát triển sản phẩm kết nối Căng Bắc Mê với tour lòng hồ thủy điện Bắc Mê, di tích khảo cổ chùa Bó Củng; dự kiến tour ảo, thuyết minh tự động, mã QR.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/202401/ve-noi-luu-giu-dau-tich-cach-mang-ben-dong-gam-698546a",
+        "quote": "Báo Hà Giang (nay Báo Tuyên Quang), 'Về nơi lưu giữ dấu tích cách mạng bên dòng Gâm' (05/01/2024, đọc 14/10/2026): khu di tích thuộc thôn Đồn Điền, xã Yên Cường, diện tích khoảng 2.500 m2, Pháp xây trước 1938 gồm nhà giam, vọng gác, nhà thông tin; từ 1938 đến 1942 hai lần đưa tù chính trị đến giam với số lượng 300 người từ các nhà tù Sơn La, Hỏa Lò, Côn Đảo; Căng được trùng tu, là nơi học sinh tham quan 'địa chỉ đỏ'; khung cảnh rêu phong cổ kính được du khách chọn chụp ảnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/201811/khai-thac-gia-tri-van-hoa-lich-su-cang-bac-me-trong-phat-trien-du-lich-735996",
+        "quote": "Báo Hà Giang (nay Báo Tuyên Quang), 'Khai thác giá trị văn hóa, lịch sử Căng Bắc Mê trong phát triển du lịch' (09/11/2018, đọc 14/10/2026): quần thể gồm 3 khu vực: trung tâm Căng, khu nhà Bang tá và khu kho muối thuộc thôn Bản Noong, xã Lạc Nông; trung tâm Căng khoảng 2.500 m2 với nhà giam, vọng gác, nhà làm việc, nhà thông tin, nhà kho; tường thành bằng đá tảng dài khoảng 190 m, cao 2 m, cách 10 m có lỗ châu mai; hiện vật (bản lề, gạch, ngói, xích tù nhân) lưu ở Bảo tàng tỉnh; trùng tu 2003 và 2009 (nhà tưởng niệm, vọng gác, bậc đá); năm 2018 mỗi năm khoảng 1.548 lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "căng bắc mê"
+      }
+    ],
+    "notes": "Số tù nhân: 'khoảng 300' nhất quán; thời gian giam '1939–1942' (Nhân Dân) và 'từ 1938' (Báo Hà Giang 2024) – dùng 1939–1942, ghi chú Pháp dùng từ 1938. Năm khánh thành tôn tạo: Nhân Dân ghi 'chiều 9/7', bài baotuyenquang 202207 xác nhận tháng 7/2022 (chỉ qua tiêu đề tìm kiếm) – viết 'tháng 7/2022'. Không có nguồn về giờ mở cửa, vé, khoảng cách km từ TP Hà Giang hay Na Hang – không viết số; chỉ nói nằm trên tuyến Hà Giang – Bắc Mê – Na Hang theo nguồn VnExpress Ba Bể (tour liên tỉnh). Lượt khách 1.548/năm là số 2018, cũ. Hà Giang đã sáp nhập vào Tuyên Quang – ghi 'xã Yên Cường, tỉnh Tuyên Quang (Hà Giang cũ)'.",
+    "outline": [
+      "Câu trả lời ngắn: Căng Bắc Mê là gì, ở đâu",
+      "Lịch sử: đồn binh trước 1938, nhà tù 1939–1942 với khoảng 300 tù chính trị",
+      "Khu di tích có gì: tường đá 190 m, vọng gác, nhà tưởng niệm, 3 khu",
+      "Sau tôn tạo 2022: tham quan thế nào",
+      "Ghép tuyến xe máy Hà Giang – Bắc Mê – Na Hang/Ba Bể, lòng hồ Bắc Mê",
+      "So sánh với Nhà tù Sơn La cho người thích lịch sử",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/du-lich/nha-tu-son-la/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00785.json",
+  "draft_template": {
+    "id": "TM-00785",
+    "url": "/du-lich/cang-bac-me/",
+    "title": "Căng Bắc Mê: nhà tù Pháp 1939–1942 bên sông Gâm, di tích quốc gia Hà Giang",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "căng bắc mê, di tích căng bắc mê, căng bắc mê hà giang, nhà tù căng bắc mê, du lịch bắc mê, yên cường bắc mê",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Căng Bắc Mê là gì, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: đồn binh trước 1938, nhà tù 1939–1942 với khoảng 300 tù chính trị",
+        "<p></p>"
+      ],
+      [
+        "Khu di tích có gì: tường đá 190 m, vọng gác, nhà tưởng niệm, 3 khu",
+        "<p></p>"
+      ],
+      [
+        "Sau tôn tạo 2022: tham quan thế nào",
+        "<p></p>"
+      ],
+      [
+        "Ghép tuyến xe máy Hà Giang – Bắc Mê – Na Hang/Ba Bể, lòng hồ Bắc Mê",
+        "<p></p>"
+      ],
+      [
+        "So sánh với Nhà tù Sơn La cho người thích lịch sử",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ha-giang-khanh-thanh-cong-trinh-bao-ton-ton-tao-di-tich-lich-su-cang-bac-me-post704722.html",
+        "quote": "Nhân Dân, 'Hà Giang khánh thành công trình bảo tồn, tôn tạo di tích lịch sử Căng Bắc Mê' (đọc 14/10/2026): chiều 9/7 (2022) tỉnh Hà Giang khánh thành công trình bảo tồn, tôn tạo di tích quốc gia Căng Bắc Mê; Căng nằm trên sườn núi Rồng, xã Yên Cường, huyện Bắc Mê; giai đoạn 1939–1942 thực dân Pháp giam tù chính trị, lúc đông nhất khoảng 300 người, trong đó có Trần Cung, Hoàng Quốc Việt, Xuân Thủy, Nguyên Hồng, Hà Kế Tấn, Lê Giản; ngày 21/1/1992 được công nhận di tích lịch sử văn hóa cấp quốc gia; tháng 12/2020 tỉnh quyết định đầu tư công trình bảo tồn, tôn tạo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/du-lich/202508/cang-bac-me-bieu-tuong-cua-y-chi-va-long-yeu-nuoc-94e4d3c",
+        "quote": "Báo Tuyên Quang, 'Căng Bắc Mê - Biểu tượng của ý chí và lòng yêu nước' (15/8/2025, đọc 14/10/2026): khu di tích ở sườn núi Rồng, thôn Đồn Điền, xã Yên Cường; Pháp xây trước năm 1938 trên diện tích 2.500 m2, lưng tựa núi đá tai mèo, trước mặt sông Gâm, kiểm soát tuyến đường nối Hà Giang – Tuyên Quang – Cao Bằng; 1939–1942 giam khoảng 300 tù chính trị, tù nhân bị bắt lao dịch đóng gạch, nung vôi, vác đá; cuối 1945 được giải phóng; năm 1992 công nhận di tích quốc gia; Sở VHTTDL phát triển sản phẩm kết nối Căng Bắc Mê với tour lòng hồ thủy điện Bắc Mê, di tích khảo cổ chùa Bó Củng; dự kiến tour ảo, thuyết minh tự động, mã QR.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/202401/ve-noi-luu-giu-dau-tich-cach-mang-ben-dong-gam-698546a",
+        "quote": "Báo Hà Giang (nay Báo Tuyên Quang), 'Về nơi lưu giữ dấu tích cách mạng bên dòng Gâm' (05/01/2024, đọc 14/10/2026): khu di tích thuộc thôn Đồn Điền, xã Yên Cường, diện tích khoảng 2.500 m2, Pháp xây trước 1938 gồm nhà giam, vọng gác, nhà thông tin; từ 1938 đến 1942 hai lần đưa tù chính trị đến giam với số lượng 300 người từ các nhà tù Sơn La, Hỏa Lò, Côn Đảo; Căng được trùng tu, là nơi học sinh tham quan 'địa chỉ đỏ'; khung cảnh rêu phong cổ kính được du khách chọn chụp ảnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/201811/khai-thac-gia-tri-van-hoa-lich-su-cang-bac-me-trong-phat-trien-du-lich-735996",
+        "quote": "Báo Hà Giang (nay Báo Tuyên Quang), 'Khai thác giá trị văn hóa, lịch sử Căng Bắc Mê trong phát triển du lịch' (09/11/2018, đọc 14/10/2026): quần thể gồm 3 khu vực: trung tâm Căng, khu nhà Bang tá và khu kho muối thuộc thôn Bản Noong, xã Lạc Nông; trung tâm Căng khoảng 2.500 m2 với nhà giam, vọng gác, nhà làm việc, nhà thông tin, nhà kho; tường thành bằng đá tảng dài khoảng 190 m, cao 2 m, cách 10 m có lỗ châu mai; hiện vật (bản lề, gạch, ngói, xích tù nhân) lưu ở Bảo tàng tỉnh; trùng tu 2003 và 2009 (nhà tưởng niệm, vọng gác, bậc đá); năm 2018 mỗi năm khoảng 1.548 lượt khách.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00785"
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E4",
+  "queued": "2026-10-14T06:39:56.608466+00:00",
+  "topic": {
+    "topic_id": "TM-00790",
+    "url": "/du-lich/den-dai-cai-luc-yen/",
+    "title": "Đền Đại Cại Lục Yên: đền Bà chúa quân lương Vũ Thị Ngọc Anh, thành nhà Bầu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền đại cại",
+    "secondary_keywords": [
+      "đền đại cại lục yên",
+      "đền đại kại yên bái",
+      "bà chúa bầu vũ thị ngọc anh",
+      "thành nhà bầu lục yên",
+      "lễ hội đền đại cại rằm tháng giêng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy hồ Thác Bà – Lục Yên muốn ghé đền Đại Cại: đền ở đâu, thờ ai, liên quan gì tới thành nhà Bầu và tháp Hắc Y, hội rằm tháng Giêng có gì, kết hợp vùng đá quý Lục Yên ra sao.",
+    "information_gain": "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/ dừng ở hồ Thác Bà; chưa bài nào về Lục Yên hay đền Đại Cại. Bài mới: đền ở xã Tân Lĩnh (Lâm Hạ xưa), trong cụm di tích chùa tháp đất nung Hắc Y – đền Đại Cại – đình Bến Lăn – Ao Vua – thành lũy nhà Bầu, xếp hạng quốc gia 17/7/2001; thờ Bà chúa quân lương Vũ Thị Ngọc Anh (Bà chúa Bầu) cùng Vũ Văn Mật xây hệ thống thành nhà Bầu thời Lê Chiêu Tông (1516–1522); 3 sắc phong Cảnh Hưng 1784, Tự Đức 1858, Duy Tân; hội rằm tháng Giêng (15–16) với rước lễ vật ven sông Chảy, đua thuyền – để người mê lịch sử có điểm dừng mới ở Lục Yên.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/dai-cai-den-thieng-post627468.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Đại Cại - đền thiêng' (đọc 14/10/2026): đền Đại Cại ở xã Tân Lĩnh, huyện Lục Yên, thờ Bà chúa quân lương thành nhà Bầu Vũ Thị Ngọc Anh; đền nằm trong quần thể di tích lịch sử văn hóa – khảo cổ học được Bộ VH-TT công nhận; có từ thời Lê do dân xã Lâm Hạ (nay Tân Lĩnh) tạo dựng; theo 'Kiến văn tiểu lục' thời Lê Chiêu Tông (1516–1522) Vũ Văn Mật dấy binh ở suối Khổng (Lập Thạch) kéo lên châu Thu Vật, xây thành nhà Bầu gồm Nghị Lang, Cát Tường, Bắc Pha, Bình Ca, Việt Tĩnh; bà Vũ Thị Ngọc Anh được phong Phó tướng phụ trách quân lương; doanh trại chính của bà là thành Bến Lăn; đền có 3 sắc phong: Cảnh Hưng 44 (26/1/1784), Tự Đức 10 (3/10/1858) và Duy Tân năm thứ 3; huyện Lục Yên tôn tạo đền, rằm tháng Giêng tổ chức dâng hương, đua thuyền trên sông Chảy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/luc-yen-khai-hoi-den-dai-kai-post524902.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Lục Yên khai hội đền Đại Kại' (2018, đọc 14/10/2026): ngày 2–3/3/2018 (15–16 tháng Giêng) UBND xã Tân Lĩnh khai hội; đền nằm trong quần thể di tích lịch sử – văn hóa khảo cổ học Hắc Y, được công nhận di tích lịch sử cấp quốc gia năm 2001; thờ Bà Chúa quân lương Vũ Thị Ngọc Anh, được vua Lê Chiêu Tông phong Phó tướng; hội 15–16 tháng Giêng hằng năm; phần lễ rước lễ vật diễu hành dọc ven sông Chảy lên sân đền; thu hút hàng nghìn du khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/thang-gieng-nho-chua-bau-post608579.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Tháng Giêng nhớ Chúa Bầu' (đọc 14/10/2026): tại khu di tích có chùa tháp Hắc Y bằng đất nung thuộc đời Trần; đền thờ bà Vũ Thị Ngọc Anh (tên tự Ngọc Nữ Huỳnh Dung); bà trực tiếp luyện quân cho 11 doanh trại; ngày 17/7/2001 Bộ Văn hóa – Thông tin xếp hạng cụm di tích chùa tháp đất nung – đền Đại Cại – đình Bến Lăn – Ao Vua – thành lũy nhà Bầu; đền có 3 sắc phong (Cảnh Hưng 1784, Tự Đức 1858, Duy Tân); rằm tháng Giêng hàng nghìn người đến dâng hương, đua thuyền trên sông Chảy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khai-hoi-den-dai-kai-post608523.html",
+        "quote": "Báo Lào Cai (bài YBĐT 2011), 'Khai hội đền Đại Kại' (đọc 14/10/2026): tối 17/2/2011 (15 tháng Giêng Tân Mão) khai mạc lễ hội đền Đại Kại xã Tân Lĩnh; đền trong quần thể di tích chùa tháp Hắc Y – Đại Kại là di tích cấp quốc gia; thờ Bà Chúa quân lương Vũ Thị Ngọc Anh; hội rằm tháng Giêng hằng năm; nằm trong chương trình du lịch về cội nguồn 3 tỉnh Yên Bái – Lào Cai – Phú Thọ năm 2011.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền đại cại"
+      }
+    ],
+    "notes": "Tên gọi 'Đại Cại' và 'Đại Kại' đều xuất hiện trong nguồn – viết 'Đại Cại (còn viết Đại Kại)'. Không có km từ Hà Nội, hồ Thác Bà hay thị trấn Yên Thế tới đền trong nguồn – không viết số, dẫn bài hồ Thác Bà. Không có giờ mở cửa. Yên Bái sáp nhập vào Lào Cai (2025): baolaocai.vn liệt kê 'Xã Tân Lĩnh' vẫn tồn tại – giữ tên. Chợ đá quý Lục Yên không có nguồn fetched trong batch này – writer chỉ nhắc Lục Yên là 'đất ngọc' theo tiêu đề bài Báo Lào Cai nếu cần, không nêu giờ họp chợ.",
+    "outline": [
+      "Câu trả lời ngắn: đền Đại Cại ở đâu, thờ ai",
+      "Bà chúa Bầu Vũ Thị Ngọc Anh và thành nhà Bầu thời Lê – Mạc",
+      "Cụm di tích quốc gia 2001: tháp đất nung Hắc Y, đình Bến Lăn, Ao Vua",
+      "Hiện vật: 3 sắc phong 1784, 1858, Duy Tân",
+      "Hội rằm tháng Giêng: rước lễ ven sông Chảy, đua thuyền",
+      "Đi xe máy từ hồ Thác Bà lên Lục Yên: gợi ý lộ trình và lưu ý",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00790.json",
+  "draft_template": {
+    "id": "TM-00790",
+    "url": "/du-lich/den-dai-cai-luc-yen/",
+    "title": "Đền Đại Cại Lục Yên: đền Bà chúa quân lương Vũ Thị Ngọc Anh, thành nhà Bầu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền đại cại, đền đại cại lục yên, đền đại kại yên bái, bà chúa bầu vũ thị ngọc anh, thành nhà bầu lục yên, lễ hội đền đại cại rằm tháng giêng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền Đại Cại ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Bà chúa Bầu Vũ Thị Ngọc Anh và thành nhà Bầu thời Lê – Mạc",
+        "<p></p>"
+      ],
+      [
+        "Cụm di tích quốc gia 2001: tháp đất nung Hắc Y, đình Bến Lăn, Ao Vua",
+        "<p></p>"
+      ],
+      [
+        "Hiện vật: 3 sắc phong 1784, 1858, Duy Tân",
+        "<p></p>"
+      ],
+      [
+        "Hội rằm tháng Giêng: rước lễ ven sông Chảy, đua thuyền",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ hồ Thác Bà lên Lục Yên: gợi ý lộ trình và lưu ý",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/dai-cai-den-thieng-post627468.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Đại Cại - đền thiêng' (đọc 14/10/2026): đền Đại Cại ở xã Tân Lĩnh, huyện Lục Yên, thờ Bà chúa quân lương thành nhà Bầu Vũ Thị Ngọc Anh; đền nằm trong quần thể di tích lịch sử văn hóa – khảo cổ học được Bộ VH-TT công nhận; có từ thời Lê do dân xã Lâm Hạ (nay Tân Lĩnh) tạo dựng; theo 'Kiến văn tiểu lục' thời Lê Chiêu Tông (1516–1522) Vũ Văn Mật dấy binh ở suối Khổng (Lập Thạch) kéo lên châu Thu Vật, xây thành nhà Bầu gồm Nghị Lang, Cát Tường, Bắc Pha, Bình Ca, Việt Tĩnh; bà Vũ Thị Ngọc Anh được phong Phó tướng phụ trách quân lương; doanh trại chính của bà là thành Bến Lăn; đền có 3 sắc phong: Cảnh Hưng 44 (26/1/1784), Tự Đức 10 (3/10/1858) và Duy Tân năm thứ 3; huyện Lục Yên tôn tạo đền, rằm tháng Giêng tổ chức dâng hương, đua thuyền trên sông Chảy.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/luc-yen-khai-hoi-den-dai-kai-post524902.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Lục Yên khai hội đền Đại Kại' (2018, đọc 14/10/2026): ngày 2–3/3/2018 (15–16 tháng Giêng) UBND xã Tân Lĩnh khai hội; đền nằm trong quần thể di tích lịch sử – văn hóa khảo cổ học Hắc Y, được công nhận di tích lịch sử cấp quốc gia năm 2001; thờ Bà Chúa quân lương Vũ Thị Ngọc Anh, được vua Lê Chiêu Tông phong Phó tướng; hội 15–16 tháng Giêng hằng năm; phần lễ rước lễ vật diễu hành dọc ven sông Chảy lên sân đền; thu hút hàng nghìn du khách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/thang-gieng-nho-chua-bau-post608579.html",
+        "quote": "Báo Lào Cai (bài YBĐT), 'Tháng Giêng nhớ Chúa Bầu' (đọc 14/10/2026): tại khu di tích có chùa tháp Hắc Y bằng đất nung thuộc đời Trần; đền thờ bà Vũ Thị Ngọc Anh (tên tự Ngọc Nữ Huỳnh Dung); bà trực tiếp luyện quân cho 11 doanh trại; ngày 17/7/2001 Bộ Văn hóa – Thông tin xếp hạng cụm di tích chùa tháp đất nung – đền Đại Cại – đình Bến Lăn – Ao Vua – thành lũy nhà Bầu; đền có 3 sắc phong (Cảnh Hưng 1784, Tự Đức 1858, Duy Tân); rằm tháng Giêng hàng nghìn người đến dâng hương, đua thuyền trên sông Chảy.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khai-hoi-den-dai-kai-post608523.html",
+        "quote": "Báo Lào Cai (bài YBĐT 2011), 'Khai hội đền Đại Kại' (đọc 14/10/2026): tối 17/2/2011 (15 tháng Giêng Tân Mão) khai mạc lễ hội đền Đại Kại xã Tân Lĩnh; đền trong quần thể di tích chùa tháp Hắc Y – Đại Kại là di tích cấp quốc gia; thờ Bà Chúa quân lương Vũ Thị Ngọc Anh; hội rằm tháng Giêng hằng năm; nằm trong chương trình du lịch về cội nguồn 3 tỉnh Yên Bái – Lào Cai – Phú Thọ năm 2011.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00790"
+  }
+}

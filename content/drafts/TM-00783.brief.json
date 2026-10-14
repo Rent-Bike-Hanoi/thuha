@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E2",
+  "queued": "2026-10-14T06:39:55.016685+00:00",
+  "topic": {
+    "topic_id": "TM-00783",
+    "url": "/du-lich/den-ha-den-thuong-den-y-la-tuyen-quang/",
+    "title": "Đền Hạ, đền Thượng, đền Ỷ La Tuyên Quang: lễ rước Mẫu 11–16/2 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền hạ đền thượng đền ỷ la tuyên quang",
+    "secondary_keywords": [
+      "đền hạ tuyên quang",
+      "đền thượng tuyên quang",
+      "đền mẫu ỷ la",
+      "lễ hội rước mẫu tuyên quang",
+      "đền thờ mẫu thoải tuyên quang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Tuyên Quang (hoặc đi tiếp Hà Giang, Na Hang) muốn ghé lễ đền ở ngay thành phố: ba đền Hạ – Thượng – Ỷ La ở đâu, thờ ai, khác nhau thế nào, lễ rước Mẫu diễn ra khi nào và đi lại trong thành phố ra sao.",
+    "information_gain": "/du-lich/thanh-nha-mac-tuyen-quang/ chỉ nói về thành cổ; /du-lich/tan-trao-di-xe-may-tu-ha-noi/ và /du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/ là điểm ngoài thành phố. Chưa bài nào về cụm ba đền thờ Mẫu Thoải: đền Hạ (phường Tân Quang/Minh Xuân), đền Thượng (Tràng Đà/Nông Tiến, dưới núi Dùm, sắc phong sớm nhất 1743, di tích quốc gia 2015), đền Ỷ La (xây 1738, giữ 2 chuông cổ, 16 tượng, 6 sắc phong triều Nguyễn); hai công chúa Phương Dung – Ngọc Lân; lễ hội rước Mẫu là di sản phi vật thể quốc gia (QĐ 217/QĐ-BVHTTDL 23/01/2017), diễn ra 11–16/2 âm lịch, năm 2026 từ 28/3 đến 3/4; tục chui kiệu Mẫu; thành phố có 14 đền, 12 đền thờ Mẫu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tuyen-quang-vung-dat-mau-linh-thieng-post864506.html",
+        "quote": "Nhân Dân, 'Tuyên Quang - vùng đất Mẫu linh thiêng' (đọc 14/10/2026): lễ hội đền Hạ, đền Thượng và đền Ỷ La diễn ra từ 11 đến 16/2 âm lịch, là di sản văn hóa phi vật thể quốc gia; sáng 11/2 rước Phương Dung công chúa (chị) từ đền Ỷ La (phường Ỷ La) về đền Hạ (phường Tân Quang); hôm sau rước Ngọc Lân công chúa (em) từ đền Thượng (xã Tràng Đà) về đền Hạ hợp tế; trò chơi tổ tôm, cờ tướng, kéo co, hát chầu văn, thả hoa đăng sông Lô; tục 'chui kiệu Mẫu'; ngày 16/2 lễ hoàn cung; tín ngưỡng thờ Mẫu có ở Tuyên Quang từ đầu thế kỷ 17, nơi được cho là phát tích thánh Mẫu Đệ Tam (Mẫu Thoải); mùa lễ hội đón khoảng 300–400 nghìn lượt khách tâm linh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-van-du-khach-tham-gia-le-hoi-ruoc-mau-tai-tuyen-quang-post864550.html",
+        "quote": "Nhân Dân, 'Hàng vạn du khách tham gia Lễ hội rước Mẫu tại Tuyên Quang' (đọc 14/10/2026): lễ hội 2025 khai mạc 11/3, diễn ra 9–15/3 (mùng 10–16/2 âm lịch); là một trong những lễ hội lớn nhất năm ở thành phố Tuyên Quang; năm 2017 được công nhận di sản văn hóa phi vật thể quốc gia; nhân dân lập đền Tam Kỳ (nay là đền Hạ) thờ chị và đền Thượng thờ em; thánh Mẫu đền Ỷ La do thay đổi vị trí thờ của người chị; hằng năm các vị gặp nhau 2 lần vào trung tuần tháng 2 và tháng 7 âm lịch; thành phố Tuyên Quang có 14 ngôi đền, trong đó 12 đền thờ Mẫu; được coi là nơi thờ chính của Mẫu Thoải lớn nhất cả nước.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://nongtien.tuyenquang.gov.vn/vi/tin-bai/van-hoa-con-nguoi-den-mau-thuong-noi-sinh-hoat-van-hoa-tin-nguong-doc-dao-cua-nhan-dan-phuong-nong-tien-tinh-tuyen-quang?type=NEWS&id=153867",
+        "quote": "Cổng TTĐT phường Nông Tiến, Tuyên Quang (28/8/2025, theo Sở VHTTDL, đọc 14/10/2026): đền Thượng (đền Mẫu Thượng) ở tổ dân phố Tràng Đà 8, phường Nông Tiến, nằm dưới chân núi Dùm, bên sông Lô; từ bến xe Tuyên Quang theo đường Bình Thuận qua cầu Nông Tiến khoảng 500 m rồi rẽ trái theo QL2C mới; thời Nguyễn gọi là đền Sâm Sơn (Tình Húc); sắc phong sớm nhất năm 1743; thờ Ngọc Lân công chúa (Mai Hoa), đền Hạ thờ Phương Dung công chúa (Quỳnh Hoa), được tôn là Mẫu Thoải; năm 2015 Bộ VHTTDL xếp hạng di tích lịch sử văn hóa quốc gia; lễ rước Mẫu từ đền Ỷ La và đền Thượng về đền Hạ, rước kiệu Mẫu từ đền Thượng qua sông; Quyết định 217/QĐ-BVHTTDL ngày 23/01/2017 đưa lễ hội vào danh mục di sản phi vật thể quốc gia; mỗi năm hàng chục ngàn lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://minhxuan.tuyenquang.gov.vn/vi/tin-bai/san-sang-cho-le-hoi-den-ha-den-thuong-den-y-la?type=NEWS&id=226483",
+        "quote": "Cổng TTĐT phường Minh Xuân, Tuyên Quang, 'Sẵn sàng cho Lễ hội Đền Hạ, Đền Thượng, Đền Ỷ La' (27/3/2026, đọc 14/10/2026): lễ hội năm 2026 tổ chức từ 28/3 đến 3/4 (11–16/2 âm lịch) tại ba đền, phường Minh Xuân chủ trì; đền Mẫu Ỷ La xây dựng từ triều Cảnh Hưng năm 1738, thờ công chúa Phương Dung; còn giữ 2 quả chuông cổ, 16 tượng cũ, 6 bản sắc phong của 4 vua triều Nguyễn (Đồng Khánh, Thành Thái, Duy Tân, Khải Định); lễ hội rước Mẫu đền Ỷ La khôi phục từ 2007; lễ Cáo yết tại đền Thượng 7h–8h30 ngày 11/2 âm lịch rồi rước Mẫu về đền Hạ phường Minh Xuân; ba đền là 3 trong 5 di tích của Tuyên Quang xếp hạng quốc gia (theo trang); ban tổ chức bố trí bãi đỗ, trông giữ ô tô, xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền hạ đền thượng đền ỷ la tuyên quang"
+      }
+    ],
+    "notes": "Mâu thuẫn về năm công nhận di sản phi vật thể: Nhân Dân ghi 2017 (QĐ 217 ngày 23/01/2017) – một trang Sở Nội vụ ghi 2018; dùng 2017 theo số quyết định. Phường: nguồn cũ ghi đền Hạ ở phường Tân Quang, nguồn 2026 ghi phường Minh Xuân (sau sắp xếp); đền Thượng từ 'xã Tràng Đà' thành 'phường Nông Tiến' – ghi cả tên cũ/mới. Ngày rước: Nhân Dân ghi 11/2 và 12/2 âm lịch, trang Nông Tiến ghi rước ngày 12/2 – viết 'ngày 11–12/2 âm lịch tùy năm, lễ hội 11–16/2'. 'Hoàn cung 16 tháng Giêng' trong trang Nông Tiến mâu thuẫn với '16/2' của Nhân Dân – dùng 16/2. Không có số km Hà Nội – Tuyên Quang trong nguồn; dẫn bài thành nhà Mạc/Tân Trào. Không nêu giá gửi xe.",
+    "outline": [
+      "Câu trả lời ngắn: ba đền ở đâu, thờ ai",
+      "Vì sao Tuyên Quang là 'vùng Mẫu Thoải'",
+      "Đền Hạ – đền Thượng – đền Ỷ La: vị trí, niên đại, hiện vật",
+      "Lễ hội rước Mẫu 11–16/2 âm lịch: trình tự, tục chui kiệu",
+      "Đi lại bằng xe máy trong thành phố: cầu Nông Tiến, QL2C, gửi xe",
+      "Ghép với thành nhà Mạc, Tân Trào, Na Hang",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-nha-mac-tuyen-quang/",
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00783.json",
+  "draft_template": {
+    "id": "TM-00783",
+    "url": "/du-lich/den-ha-den-thuong-den-y-la-tuyen-quang/",
+    "title": "Đền Hạ, đền Thượng, đền Ỷ La Tuyên Quang: lễ rước Mẫu 11–16/2 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền hạ đền thượng đền ỷ la tuyên quang, đền hạ tuyên quang, đền thượng tuyên quang, đền mẫu ỷ la, lễ hội rước mẫu tuyên quang, đền thờ mẫu thoải tuyên quang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: ba đền ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Vì sao Tuyên Quang là 'vùng Mẫu Thoải'",
+        "<p></p>"
+      ],
+      [
+        "Đền Hạ – đền Thượng – đền Ỷ La: vị trí, niên đại, hiện vật",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội rước Mẫu 11–16/2 âm lịch: trình tự, tục chui kiệu",
+        "<p></p>"
+      ],
+      [
+        "Đi lại bằng xe máy trong thành phố: cầu Nông Tiến, QL2C, gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Ghép với thành nhà Mạc, Tân Trào, Na Hang",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tuyen-quang-vung-dat-mau-linh-thieng-post864506.html",
+        "quote": "Nhân Dân, 'Tuyên Quang - vùng đất Mẫu linh thiêng' (đọc 14/10/2026): lễ hội đền Hạ, đền Thượng và đền Ỷ La diễn ra từ 11 đến 16/2 âm lịch, là di sản văn hóa phi vật thể quốc gia; sáng 11/2 rước Phương Dung công chúa (chị) từ đền Ỷ La (phường Ỷ La) về đền Hạ (phường Tân Quang); hôm sau rước Ngọc Lân công chúa (em) từ đền Thượng (xã Tràng Đà) về đền Hạ hợp tế; trò chơi tổ tôm, cờ tướng, kéo co, hát chầu văn, thả hoa đăng sông Lô; tục 'chui kiệu Mẫu'; ngày 16/2 lễ hoàn cung; tín ngưỡng thờ Mẫu có ở Tuyên Quang từ đầu thế kỷ 17, nơi được cho là phát tích thánh Mẫu Đệ Tam (Mẫu Thoải); mùa lễ hội đón khoảng 300–400 nghìn lượt khách tâm linh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hang-van-du-khach-tham-gia-le-hoi-ruoc-mau-tai-tuyen-quang-post864550.html",
+        "quote": "Nhân Dân, 'Hàng vạn du khách tham gia Lễ hội rước Mẫu tại Tuyên Quang' (đọc 14/10/2026): lễ hội 2025 khai mạc 11/3, diễn ra 9–15/3 (mùng 10–16/2 âm lịch); là một trong những lễ hội lớn nhất năm ở thành phố Tuyên Quang; năm 2017 được công nhận di sản văn hóa phi vật thể quốc gia; nhân dân lập đền Tam Kỳ (nay là đền Hạ) thờ chị và đền Thượng thờ em; thánh Mẫu đền Ỷ La do thay đổi vị trí thờ của người chị; hằng năm các vị gặp nhau 2 lần vào trung tuần tháng 2 và tháng 7 âm lịch; thành phố Tuyên Quang có 14 ngôi đền, trong đó 12 đền thờ Mẫu; được coi là nơi thờ chính của Mẫu Thoải lớn nhất cả nước.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://nongtien.tuyenquang.gov.vn/vi/tin-bai/van-hoa-con-nguoi-den-mau-thuong-noi-sinh-hoat-van-hoa-tin-nguong-doc-dao-cua-nhan-dan-phuong-nong-tien-tinh-tuyen-quang?type=NEWS&id=153867",
+        "quote": "Cổng TTĐT phường Nông Tiến, Tuyên Quang (28/8/2025, theo Sở VHTTDL, đọc 14/10/2026): đền Thượng (đền Mẫu Thượng) ở tổ dân phố Tràng Đà 8, phường Nông Tiến, nằm dưới chân núi Dùm, bên sông Lô; từ bến xe Tuyên Quang theo đường Bình Thuận qua cầu Nông Tiến khoảng 500 m rồi rẽ trái theo QL2C mới; thời Nguyễn gọi là đền Sâm Sơn (Tình Húc); sắc phong sớm nhất năm 1743; thờ Ngọc Lân công chúa (Mai Hoa), đền Hạ thờ Phương Dung công chúa (Quỳnh Hoa), được tôn là Mẫu Thoải; năm 2015 Bộ VHTTDL xếp hạng di tích lịch sử văn hóa quốc gia; lễ rước Mẫu từ đền Ỷ La và đền Thượng về đền Hạ, rước kiệu Mẫu từ đền Thượng qua sông; Quyết định 217/QĐ-BVHTTDL ngày 23/01/2017 đưa lễ hội vào danh mục di sản phi vật thể quốc gia; mỗi năm hàng chục ngàn lượt khách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://minhxuan.tuyenquang.gov.vn/vi/tin-bai/san-sang-cho-le-hoi-den-ha-den-thuong-den-y-la?type=NEWS&id=226483",
+        "quote": "Cổng TTĐT phường Minh Xuân, Tuyên Quang, 'Sẵn sàng cho Lễ hội Đền Hạ, Đền Thượng, Đền Ỷ La' (27/3/2026, đọc 14/10/2026): lễ hội năm 2026 tổ chức từ 28/3 đến 3/4 (11–16/2 âm lịch) tại ba đền, phường Minh Xuân chủ trì; đền Mẫu Ỷ La xây dựng từ triều Cảnh Hưng năm 1738, thờ công chúa Phương Dung; còn giữ 2 quả chuông cổ, 16 tượng cũ, 6 bản sắc phong của 4 vua triều Nguyễn (Đồng Khánh, Thành Thái, Duy Tân, Khải Định); lễ hội rước Mẫu đền Ỷ La khôi phục từ 2007; lễ Cáo yết tại đền Thượng 7h–8h30 ngày 11/2 âm lịch rồi rước Mẫu về đền Hạ phường Minh Xuân; ba đền là 3 trong 5 di tích của Tuyên Quang xếp hạng quốc gia (theo trang); ban tổ chức bố trí bãi đỗ, trông giữ ô tô, xe máy.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00783"
+  }
+}

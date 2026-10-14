@@ -1,0 +1,151 @@
+{
+  "writer": "writer-E1",
+  "queued": "2026-10-14T06:39:53.645857+00:00",
+  "topic": {
+    "topic_id": "TM-00777",
+    "url": "/du-lich/den-tam-giang-bach-hac/",
+    "title": "Đền Tam Giang Bạch Hạc: đền cổ 1.300 tuổi nơi ngã ba sông Việt Trì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền tam giang bạch hạc",
+    "secondary_keywords": [
+      "đền tam giang việt trì",
+      "đền bạch hạc phú thọ",
+      "ngã ba hạc",
+      "lễ hội bơi chải bạch hạc",
+      "đền tam giang thờ ai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy từ Hà Nội về Đền Hùng hoặc đi Phú Thọ muốn ghé thêm một điểm tâm linh ngay cửa ngõ Việt Trì: đền Tam Giang ở đâu, thờ ai, có gì xem, lễ hội khi nào và ghép lộ trình thế nào.",
+    "information_gain": "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ chỉ nói về Đền Hùng; /du-lich/dam-ao-chau-phu-tho/ và /du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/ là điểm khác. Chưa bài nào về đền Tam Giang – Bạch Hạc: cụm di tích quốc gia (xếp hạng 2010) bên tả ngạn nơi hợp lưu sông Hồng – Lô – Đà, cách ngã ba sông khoảng 400 m; nguồn gốc quán Thông Thánh thời Vĩnh Huy (650–655); thờ Thổ Lệnh, Quách A Nương, Trần Nhật Duật; hai kỳ lễ hội 8–10/3 và 25/9 âm lịch với lễ rước nước và bơi chải 48 tay chèo; khu di tích mở rộng 21.000 m2 – thông tin để ghép làm điểm dừng đầu tiên trước khi lên Đền Hùng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/den-tam-giang-bach-hac-lich-su-va-huyen-thoai-39806.vov2",
+        "quote": "VOV2, 'Đền Tam Giang Bạch Hạc - Lịch sử và huyền thoại' (09/01/2023, đọc 14/10/2026): khu di tích quốc gia đền Tam Giang – Bạch Hạc nằm bên tả ngạn nơi hợp lưu sông Hồng, sông Lô, sông Đà (ngã ba Hạc), phường Bạch Hạc, TP Việt Trì; cụm gồm đền Tam Giang, đền Mẫu, chùa Đại Bi, vết chân Thổ Lệnh, bến bơi chải, tượng đài Trần Nhật Duật và phù điêu 18 ngôi chùa; sơ khởi là quán Thông Thánh từ năm Vĩnh Huy (650–655); đình thờ Tam vị Đại Vương gồm Thổ Lệnh Cao quan Bạch Hạc Đại Vương, Trần Nhật Duật và nữ tướng Quách A Nương; hai lễ hội lớn ngày 10/3 (trùng Giỗ Tổ) và 25/9 âm lịch, có lễ rước nước, nấu cơm thi, bơi chải; năm 2010 Bộ VHTTDL công nhận di tích lịch sử cấp quốc gia; khu di tích được tu bổ, mở rộng quy mô 21.000 m2 trên nền đền xưa; lưu giữ chuông 'Thông thánh quán chung ký' niên đại Minh Mệnh 11.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nuoc-thieng-nga-ba-hac-post352385.html",
+        "quote": "Nhân Dân cuối tuần, 'Nước thiêng ngã ba Hạc' (đọc 14/10/2026): đền Tam Giang, tên thường gọi đền Bạch Hạc, tọa lạc bên bờ sông Lô (phường Bạch Hạc, Việt Trì), là ngôi đền cổ 1.300 tuổi; từ vị trí đền đến ngã ba sông khoảng 400 m; thờ Đức Thánh Cả Thổ Lệnh, Đức Thánh bà Quách A Nương và Đức Thánh Hai Trần Nhật Duật; lễ hội mừng ngày sinh Đức Thánh ba ngày từ mồng 8 đến mồng 10/3 âm lịch (trùng hội Đền Hùng), lễ hội thứ hai 25/9 âm lịch; đoàn rước nước gồm đội tế nam 13 người, đội tế nữ 13 người, sáng 8/3 âm lịch thuyền ra điểm xoáy nước giao nhau của các dòng sông lấy nước vào chóe sứ; hội bơi chải 9/3 âm lịch có bốn giáp Tiên Hạc, Đông Nam, Thần Trúc, Bộ Đầu, mỗi chải 24 khoang với 48 tay chèo, một người lái, một người gõ mõ; đền là nơi đồn trú của Trần Nhật Duật trong kháng chiến chống Nguyên Mông lần thứ ba (1287–1288).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/boi-chai-truyen-thong-bach-hac-trong-dip-gio-to-hung-vuong-post465989.html",
+        "quote": "Nhân Dân, 'Bơi chải truyền thống Bạch Hạc trong dịp Giỗ Tổ Hùng Vương' (đọc 14/10/2026): vùng ngã ba Hạc Trì (phường Bạch Hạc, TP Việt Trì) nằm trên hợp lưu sông Hồng – sông Lô – sông Đà; đền Tam Giang Bạch Hạc thờ Cao quan Đại Vương húy Thổ Lệnh và Thạch Khanh; Trần Nhật Duật từng luyện chiến thuyền tại bến sông Bạch Hạc; bơi chải truyền thống Bạch Hạc được khôi phục trong dịp Giỗ Tổ, đường đua 5 km xuất phát từ bến Đình bơi ngược qua gầm cầu Việt Trì vòng xuống bến Gót rồi trở lại; từ năm 2000 bơi chải Bạch Hạc được đưa vào chương trình Đại hội TDTT TP Việt Trì và tỉnh Phú Thọ; đặc sản vùng là cá và bánh dày Bạch Hạc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền tam giang bạch hạc"
+      }
+    ],
+    "notes": "Hai nguồn Nhân Dân và VOV2 đều nói 'quán Thông Thánh từ năm Vĩnh Huy 650–655' nhưng con số '1.300 tuổi' chỉ có ở Nhân Dân (cách tính tròn). VOV2 ghi lễ hội lớn nhất ngày 10/3, Nhân Dân ghi hội kéo dài 8–10/3: viết là 'từ mồng 8 đến mồng 10/3 âm lịch'. Không nguồn nào nêu giờ mở cửa, phí gửi xe, khoảng cách km từ Hà Nội tới đền – không tự thêm; chỉ nói đền ở phường Bạch Hạc, cửa ngõ Việt Trì, và dẫn bài Đền Hùng cho lộ trình. Tên gọi hành chính (phường Bạch Hạc, TP Việt Trì) là theo nguồn trước sáp nhập 2025; ghi chú 'nay thuộc tỉnh Phú Thọ (sau sáp nhập)' một cách thận trọng, không bịa tên phường mới.",
+    "outline": [
+      "Câu trả lời ngắn: đền Tam Giang ở đâu, thờ ai",
+      "Vị trí ngã ba Hạc và cách ghép với lộ trình Hà Nội – Đền Hùng",
+      "Lịch sử: từ quán Thông Thánh (650–655) đến di tích quốc gia 2010",
+      "Ba vị thánh được thờ và cụm di tích có gì xem",
+      "Lễ hội 8–10/3 và 25/9 âm lịch: rước nước, bơi chải",
+      "Lưu ý khi đi xe máy đến Bạch Hạc",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/dam-ao-chau-phu-tho/",
+      "/du-lich/thap-binh-son/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00777.json",
+  "draft_template": {
+    "id": "TM-00777",
+    "url": "/du-lich/den-tam-giang-bach-hac/",
+    "title": "Đền Tam Giang Bạch Hạc: đền cổ 1.300 tuổi nơi ngã ba sông Việt Trì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền tam giang bạch hạc, đền tam giang việt trì, đền bạch hạc phú thọ, ngã ba hạc, lễ hội bơi chải bạch hạc, đền tam giang thờ ai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền Tam Giang ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Vị trí ngã ba Hạc và cách ghép với lộ trình Hà Nội – Đền Hùng",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: từ quán Thông Thánh (650–655) đến di tích quốc gia 2010",
+        "<p></p>"
+      ],
+      [
+        "Ba vị thánh được thờ và cụm di tích có gì xem",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 8–10/3 và 25/9 âm lịch: rước nước, bơi chải",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xe máy đến Bạch Hạc",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/den-tam-giang-bach-hac-lich-su-va-huyen-thoai-39806.vov2",
+        "quote": "VOV2, 'Đền Tam Giang Bạch Hạc - Lịch sử và huyền thoại' (09/01/2023, đọc 14/10/2026): khu di tích quốc gia đền Tam Giang – Bạch Hạc nằm bên tả ngạn nơi hợp lưu sông Hồng, sông Lô, sông Đà (ngã ba Hạc), phường Bạch Hạc, TP Việt Trì; cụm gồm đền Tam Giang, đền Mẫu, chùa Đại Bi, vết chân Thổ Lệnh, bến bơi chải, tượng đài Trần Nhật Duật và phù điêu 18 ngôi chùa; sơ khởi là quán Thông Thánh từ năm Vĩnh Huy (650–655); đình thờ Tam vị Đại Vương gồm Thổ Lệnh Cao quan Bạch Hạc Đại Vương, Trần Nhật Duật và nữ tướng Quách A Nương; hai lễ hội lớn ngày 10/3 (trùng Giỗ Tổ) và 25/9 âm lịch, có lễ rước nước, nấu cơm thi, bơi chải; năm 2010 Bộ VHTTDL công nhận di tích lịch sử cấp quốc gia; khu di tích được tu bổ, mở rộng quy mô 21.000 m2 trên nền đền xưa; lưu giữ chuông 'Thông thánh quán chung ký' niên đại Minh Mệnh 11.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nuoc-thieng-nga-ba-hac-post352385.html",
+        "quote": "Nhân Dân cuối tuần, 'Nước thiêng ngã ba Hạc' (đọc 14/10/2026): đền Tam Giang, tên thường gọi đền Bạch Hạc, tọa lạc bên bờ sông Lô (phường Bạch Hạc, Việt Trì), là ngôi đền cổ 1.300 tuổi; từ vị trí đền đến ngã ba sông khoảng 400 m; thờ Đức Thánh Cả Thổ Lệnh, Đức Thánh bà Quách A Nương và Đức Thánh Hai Trần Nhật Duật; lễ hội mừng ngày sinh Đức Thánh ba ngày từ mồng 8 đến mồng 10/3 âm lịch (trùng hội Đền Hùng), lễ hội thứ hai 25/9 âm lịch; đoàn rước nước gồm đội tế nam 13 người, đội tế nữ 13 người, sáng 8/3 âm lịch thuyền ra điểm xoáy nước giao nhau của các dòng sông lấy nước vào chóe sứ; hội bơi chải 9/3 âm lịch có bốn giáp Tiên Hạc, Đông Nam, Thần Trúc, Bộ Đầu, mỗi chải 24 khoang với 48 tay chèo, một người lái, một người gõ mõ; đền là nơi đồn trú của Trần Nhật Duật trong kháng chiến chống Nguyên Mông lần thứ ba (1287–1288).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/boi-chai-truyen-thong-bach-hac-trong-dip-gio-to-hung-vuong-post465989.html",
+        "quote": "Nhân Dân, 'Bơi chải truyền thống Bạch Hạc trong dịp Giỗ Tổ Hùng Vương' (đọc 14/10/2026): vùng ngã ba Hạc Trì (phường Bạch Hạc, TP Việt Trì) nằm trên hợp lưu sông Hồng – sông Lô – sông Đà; đền Tam Giang Bạch Hạc thờ Cao quan Đại Vương húy Thổ Lệnh và Thạch Khanh; Trần Nhật Duật từng luyện chiến thuyền tại bến sông Bạch Hạc; bơi chải truyền thống Bạch Hạc được khôi phục trong dịp Giỗ Tổ, đường đua 5 km xuất phát từ bến Đình bơi ngược qua gầm cầu Việt Trì vòng xuống bến Gót rồi trở lại; từ năm 2000 bơi chải Bạch Hạc được đưa vào chương trình Đại hội TDTT TP Việt Trì và tỉnh Phú Thọ; đặc sản vùng là cá và bánh dày Bạch Hạc.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00777"
+  }
+}

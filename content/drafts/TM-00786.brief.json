@@ -1,0 +1,164 @@
+{
+  "writer": "writer-E3",
+  "queued": "2026-10-14T06:39:55.677585+00:00",
+  "topic": {
+    "topic_id": "TM-00786",
+    "url": "/du-lich/nga-ba-co-noi-tren-ql6/",
+    "title": "Ngã ba Cò Nòi trên QL6: di tích quốc gia tưởng niệm thanh niên xung phong",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ngã ba cò nòi",
+    "secondary_keywords": [
+      "di tích ngã ba cò nòi",
+      "ngã ba cò nòi sơn la",
+      "tượng đài thanh niên xung phong cò nòi",
+      "ngã ba cò nòi ở đâu",
+      "di tích lịch sử trên quốc lộ 6"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Sơn La – Điện Biên theo QL6 thấy khu tượng đài lớn ở ngã ba QL6/QL37: ngã ba Cò Nòi là gì, cách TP Sơn La bao xa, có gì để xem, dừng bao lâu là hợp lý.",
+    "information_gain": "/du-lich/ha-noi-di-dien-bien-bang-xe-may/ và /du-lich/nha-tu-son-la/ chưa có mục về Cò Nòi; các bài Mộc Châu dừng ở cao nguyên. Bài mới: ngã ba Cò Nòi (xã Cò Nòi, Mai Sơn cũ – nay xã Mai Sơn) là giao điểm QL6 và QL37 (đường 13 cũ), cách TP Sơn La 45 km, cách thị trấn Mai Sơn 10 km; 'cửa ải' duy nhất vào Tây Bắc 1953–1954, Pháp ném gần 70 tấn bom/ngày, khoảng 100 TNXP hy sinh; tượng đài đá xanh cao 12 m khởi công 2000, khánh thành 7/5/2002, di tích quốc gia 29/4/2004; khu 20.000 m2, quy hoạch mở rộng 10,51 ha, khu tưởng niệm tâm linh giai đoạn I khánh thành 7/2021; từ đầu 2026 đón hơn 1.000 lượt khách.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tham-lai-nga-ba-mau-co-noi-post357511.html",
+        "quote": "Nhân Dân, 'Thăm lại Ngã ba máu Cò Nòi' (2019, đọc 14/10/2026): ngã ba Cò Nòi (xã Cò Nòi, huyện Mai Sơn, Sơn La) nằm ở giao điểm QL6 với đường số 13 (đi Phù Yên), cách thành phố Sơn La 45 km, cách thị trấn Mai Sơn 10 km; là Đài tưởng niệm liệt sĩ TNXP hy sinh trong chiến dịch Điện Biên Phủ; ba tuyến vận tải lên Điện Biên đều phải qua Cò Nòi rồi vượt đèo Pha Đin; thường trực tại ngã ba khoảng 1.000 đội viên TNXP; bình quân mỗi ngày Pháp ném gần 70 tấn bom; khoảng 100 TNXP Đội 34 và Đội 40 hy sinh tại đây; khu quy hoạch hơn 20.000 m2; khởi công 22/10/2000; đài tưởng niệm cao 12 m bằng đá xanh nguyên khối từ Thanh Hóa; khánh thành 7/5/2002; ngày 29/4/2004 được xếp hạng Di tích lịch sử quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/quy-hoach-ton-tao-di-tich-lich-su-nga-ba-co-noi-post452299.html",
+        "quote": "Nhân Dân, 'Quy hoạch, tôn tạo di tích lịch sử Ngã ba Cò Nòi' (đọc 14/10/2026): di tích ở vị trí giao nhau QL6 và QL37; trong chiến dịch Đông – Xuân 1953–1954 là cửa ngõ duy nhất vào Tây Bắc; 100 chiến sĩ TNXP hy sinh; Đại tướng Võ Nguyên Giáp viết 'Ngã ba Cò Nòi là một cửa ải tất cả những người ra trận đều phải vượt qua'; khởi công 21/4/2000, công nhận di tích quốc gia 29/4/2004; diện tích 20.000 m2 với cụm tượng đài ba thanh niên xung phong bằng đá xanh; quy hoạch chi tiết 1/500 trên 10,51 ha; giai đoạn 2021–2025 xây 8 hạng mục, 2026–2030 mở đường tránh QL6 và QL37; năm 2020 xây hạng mục Khu tưởng niệm tâm linh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/chinh-tri/nga-ba-co-noi-tu-yet-hau-tuyen-lua-den-dia-chi-do-truyen-thong-cach-mang-post1289425.vov",
+        "quote": "VOV, 'Ngã ba Cò Nòi - từ yết hầu tuyến lửa đến địa chỉ đỏ truyền thống cách mạng' (07/5/2026, đọc 14/10/2026): ngã ba Cò Nòi ở xã Cò Nòi, huyện Mai Sơn cũ, nay là xã Mai Sơn (Sơn La); mỗi ngày hứng chịu hàng trăm tấn bom; năm 2000 tỉnh xây khu di tích tưởng niệm liệt sĩ TNXP, năm 2004 xếp hạng cấp quốc gia; tháng 7/2021 khánh thành Khu tưởng niệm tâm linh giai đoạn I; khu di tích lưu giữ nhiều kỷ vật của TNXP; từ đầu năm 2026 đến nay đón hơn 1.000 lượt khách; đơn vị quản lý là Trung tâm Dịch vụ tổng hợp Mai Sơn; có hướng dẫn viên thuyết minh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/di-san/son-la-quy-hoach-ton-tao-di-tich-lich-su-nga-ba-co-noi-1023554.vov",
+        "quote": "VOV, 'Sơn La quy hoạch, tôn tạo di tích lịch sử Ngã ba Cò Nòi' (18/3/2020, đọc 14/10/2026): di tích khởi công tháng 4/2000, tháng 4/2004 được công nhận di tích lịch sử cấp quốc gia; di tích nằm cạnh QL6; quy hoạch chi tiết 1/500 trên 10,51 ha; xây dựng chia hai giai đoạn 2021–2025 (8 hạng mục) và 2026–2030 (đường tránh QL6 và QL37).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "ngã ba cò nòi"
+      }
+    ],
+    "notes": "Số bom: Nhân Dân 2019 ghi 'gần 70 tấn/ngày', VOV 2026 ghi 'hàng trăm tấn' – dùng 'gần 70 tấn bom mỗi ngày (theo tài liệu tỉnh Sơn La)', ghi chú có nguồn nói nhiều hơn. Số TNXP hy sinh tại chỗ 'khoảng 100'; con số 'hơn 300' trong Nhân Dân là trên cả tuyến đường – không nhầm. Ngày khởi công 21/4 hay 22/10/2000 khác nhau giữa hai bài Nhân Dân – viết 'năm 2000'. Không có giờ mở cửa, vé; theo VOV 2026 có hướng dẫn viên. Hành chính mới: xã Mai Sơn (sau sắp xếp 2025).",
+    "outline": [
+      "Câu trả lời ngắn: ngã ba Cò Nòi ở đâu, vì sao nên dừng",
+      "Vị trí giao QL6 – QL37: cách TP Sơn La 45 km, Mai Sơn 10 km",
+      "Lịch sử 1953–1954: 'cửa ải' lên Điện Biên, gần 70 tấn bom mỗi ngày",
+      "Khu di tích có gì: tượng đài đá xanh 12 m, khu tưởng niệm 2021, kỷ vật",
+      "Mốc: khởi công 2000, khánh thành 7/5/2002, di tích quốc gia 2004",
+      "Ghép lộ trình Mộc Châu – Cò Nòi – Sơn La – Pha Đin – Điện Biên",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/du-lich/nha-tu-son-la/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/doi-a1-dien-bien/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00786.json",
+  "draft_template": {
+    "id": "TM-00786",
+    "url": "/du-lich/nga-ba-co-noi-tren-ql6/",
+    "title": "Ngã ba Cò Nòi trên QL6: di tích quốc gia tưởng niệm thanh niên xung phong",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ngã ba cò nòi, di tích ngã ba cò nòi, ngã ba cò nòi sơn la, tượng đài thanh niên xung phong cò nòi, ngã ba cò nòi ở đâu, di tích lịch sử trên quốc lộ 6",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: ngã ba Cò Nòi ở đâu, vì sao nên dừng",
+        "<p></p>"
+      ],
+      [
+        "Vị trí giao QL6 – QL37: cách TP Sơn La 45 km, Mai Sơn 10 km",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử 1953–1954: 'cửa ải' lên Điện Biên, gần 70 tấn bom mỗi ngày",
+        "<p></p>"
+      ],
+      [
+        "Khu di tích có gì: tượng đài đá xanh 12 m, khu tưởng niệm 2021, kỷ vật",
+        "<p></p>"
+      ],
+      [
+        "Mốc: khởi công 2000, khánh thành 7/5/2002, di tích quốc gia 2004",
+        "<p></p>"
+      ],
+      [
+        "Ghép lộ trình Mộc Châu – Cò Nòi – Sơn La – Pha Đin – Điện Biên",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tham-lai-nga-ba-mau-co-noi-post357511.html",
+        "quote": "Nhân Dân, 'Thăm lại Ngã ba máu Cò Nòi' (2019, đọc 14/10/2026): ngã ba Cò Nòi (xã Cò Nòi, huyện Mai Sơn, Sơn La) nằm ở giao điểm QL6 với đường số 13 (đi Phù Yên), cách thành phố Sơn La 45 km, cách thị trấn Mai Sơn 10 km; là Đài tưởng niệm liệt sĩ TNXP hy sinh trong chiến dịch Điện Biên Phủ; ba tuyến vận tải lên Điện Biên đều phải qua Cò Nòi rồi vượt đèo Pha Đin; thường trực tại ngã ba khoảng 1.000 đội viên TNXP; bình quân mỗi ngày Pháp ném gần 70 tấn bom; khoảng 100 TNXP Đội 34 và Đội 40 hy sinh tại đây; khu quy hoạch hơn 20.000 m2; khởi công 22/10/2000; đài tưởng niệm cao 12 m bằng đá xanh nguyên khối từ Thanh Hóa; khánh thành 7/5/2002; ngày 29/4/2004 được xếp hạng Di tích lịch sử quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/quy-hoach-ton-tao-di-tich-lich-su-nga-ba-co-noi-post452299.html",
+        "quote": "Nhân Dân, 'Quy hoạch, tôn tạo di tích lịch sử Ngã ba Cò Nòi' (đọc 14/10/2026): di tích ở vị trí giao nhau QL6 và QL37; trong chiến dịch Đông – Xuân 1953–1954 là cửa ngõ duy nhất vào Tây Bắc; 100 chiến sĩ TNXP hy sinh; Đại tướng Võ Nguyên Giáp viết 'Ngã ba Cò Nòi là một cửa ải tất cả những người ra trận đều phải vượt qua'; khởi công 21/4/2000, công nhận di tích quốc gia 29/4/2004; diện tích 20.000 m2 với cụm tượng đài ba thanh niên xung phong bằng đá xanh; quy hoạch chi tiết 1/500 trên 10,51 ha; giai đoạn 2021–2025 xây 8 hạng mục, 2026–2030 mở đường tránh QL6 và QL37; năm 2020 xây hạng mục Khu tưởng niệm tâm linh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/chinh-tri/nga-ba-co-noi-tu-yet-hau-tuyen-lua-den-dia-chi-do-truyen-thong-cach-mang-post1289425.vov",
+        "quote": "VOV, 'Ngã ba Cò Nòi - từ yết hầu tuyến lửa đến địa chỉ đỏ truyền thống cách mạng' (07/5/2026, đọc 14/10/2026): ngã ba Cò Nòi ở xã Cò Nòi, huyện Mai Sơn cũ, nay là xã Mai Sơn (Sơn La); mỗi ngày hứng chịu hàng trăm tấn bom; năm 2000 tỉnh xây khu di tích tưởng niệm liệt sĩ TNXP, năm 2004 xếp hạng cấp quốc gia; tháng 7/2021 khánh thành Khu tưởng niệm tâm linh giai đoạn I; khu di tích lưu giữ nhiều kỷ vật của TNXP; từ đầu năm 2026 đến nay đón hơn 1.000 lượt khách; đơn vị quản lý là Trung tâm Dịch vụ tổng hợp Mai Sơn; có hướng dẫn viên thuyết minh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/di-san/son-la-quy-hoach-ton-tao-di-tich-lich-su-nga-ba-co-noi-1023554.vov",
+        "quote": "VOV, 'Sơn La quy hoạch, tôn tạo di tích lịch sử Ngã ba Cò Nòi' (18/3/2020, đọc 14/10/2026): di tích khởi công tháng 4/2000, tháng 4/2004 được công nhận di tích lịch sử cấp quốc gia; di tích nằm cạnh QL6; quy hoạch chi tiết 1/500 trên 10,51 ha; xây dựng chia hai giai đoạn 2021–2025 (8 hạng mục) và 2026–2030 (đường tránh QL6 và QL37).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00786"
+  }
+}

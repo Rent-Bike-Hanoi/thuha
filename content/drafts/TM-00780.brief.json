@@ -1,0 +1,151 @@
+{
+  "writer": "writer-E1",
+  "queued": "2026-10-14T06:39:54.316856+00:00",
+  "topic": {
+    "topic_id": "TM-00780",
+    "url": "/du-lich/ban-sung-da-bac/",
+    "title": "Bản Sưng Đà Bắc: bản Dao Tiền 73 nóc nhà dưới núi Biều, du lịch cộng đồng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản sưng đà bắc",
+    "secondary_keywords": [
+      "bản sưng hòa bình",
+      "xóm sưng cao sơn đà bắc",
+      "du lịch cộng đồng bản sưng",
+      "homestay bản sưng",
+      "người dao tiền đà bắc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi xe máy 2 ngày từ Hà Nội lên Đà Bắc (Hòa Bình cũ) ở homestay bản làng ít thương mại: bản Sưng ở đâu, có gì trải nghiệm (chè Shan tuyết, in sáp ong, giấy dó, học chữ Dao), ở homestay thế nào, đường có khó không.",
+    "information_gain": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/ và /du-lich/den-chua-thac-bo/ mới nói về TP Hòa Bình và lòng hồ; /du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ là bản Lác. Chưa bài nào về bản Sưng: bản Dao Tiền duy nhất của tỉnh (cũ) làm du lịch cộng đồng; 73 nóc nhà trệt gỗ mái lá cọ ở độ cao hơn 500 m dưới núi Biều, gần 400 nhân khẩu/gần 80 hộ; mô hình bắt đầu 2017 với hỗ trợ của AOP; rừng chè Shan tuyết cổ thụ, lớp chữ Nôm Dao mồng Một và Rằm, thịt chua ủ 18 tháng, tổ hợp tác thổ cẩm 1/2023, hơn 50 hộ làm dịch vụ – để người đi xe máy chọn điểm ở cộng đồng thay vì resort.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/van-hoa-dao-tien-thang-hoa-cung-du-lich-cong-dong-ban-sung-post1063925.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Văn hóa Dao Tiền thăng hoa cùng du lịch cộng đồng bản Sưng' (đọc 14/10/2026): bản Sưng (xã Cao Sơn, tỉnh Phú Thọ sau sáp nhập) nằm trong lòng núi Biều ở độ cao hơn 500 m, khí hậu mát quanh năm; 73 nóc nhà trệt bằng gỗ, mái lợp lá cọ, có cây chò, cây sấu cổ thụ; rừng chè Shan tuyết cổ thụ trên núi Biều, sao chè thủ công; lớp học chữ Nôm Dao do thầy Mo đứng lớp định kỳ mồng Một và Rằm hằng tháng; nghề dệt thổ cẩm, làm giấy dó, thuốc nam, in sáp ong; món thịt chua ủ tới 18 tháng; tháng 1/2023 thành lập Tổ hợp tác thổ cẩm Dao Tiền bản Sưng; hơn 50 hộ tham gia homestay, dệt, văn nghệ, hướng dẫn; trải nghiệm tắm lá thuốc, học chữ Dao, đốt lửa trại; các dự án phi chính phủ hỗ trợ phủ sóng internet, cải thiện đường.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/hanh-trinh-thay-da-doi-thit-cua-ban-lang-vung-cao-lam-du-lich-cong-dong-1626432.html",
+        "quote": "Lao Động, 'Hành trình thay da, đổi thịt của bản làng vùng cao làm du lịch cộng đồng' (đọc 14/10/2026): xóm Sưng hay bản Sưng (xã Đà Bắc, Phú Thọ) nằm dưới chân núi Biều, nơi sinh sống lâu đời của gần 80 hộ Dao Tiền; mô hình du lịch cộng đồng hoạt động từ năm 2017 với trợ giúp của tổ chức Action on Poverty (AOP, phi chính phủ Australia); phát triển dựa trên nhà trệt vách đất, mái lá cọ, gian bếp giữa nhà; khôi phục nghề làm giấy dó, in sáp ong, thổ cẩm; duy trì lớp dạy chữ Dao cho trẻ em; trưởng bản Lý Văn Nghĩa cho biết bản có gần 400 nhân khẩu, 100% là Dao Tiền.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-ngam-nhin-ve-dep-binh-di-o-ban-sung-cua-nguoi-dao-tien-post765103.html",
+        "quote": "Nhân Dân, '[Ảnh] Ngắm nhìn vẻ đẹp bình dị ở bản Sưng của người Dao Tiền' (01/8/2023, ảnh Trọng Đạt/TTXVN, đọc 14/10/2026): bản Sưng tại xã Cao Sơn (Đà Bắc, Hòa Bình) là điểm đến được khách trong và ngoài nước yêu thích nhờ vẻ mộc mạc, hoang sơ và phong tục còn nguyên vẹn của người Dao Tiền; nhà trệt vách đất; phụ nữ Dao Tiền đội khăn thổ cẩm in họa tiết bằng sáp ong; có homestay (ví dụ Homestay Xuân Lan) và đồ lưu niệm thổ cẩm bán tại homestay.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bản sưng đà bắc"
+      }
+    ],
+    "notes": "Hai nguồn ghi địa danh khác nhau do sáp nhập: VietnamPlus 'xã Cao Sơn, tỉnh Phú Thọ', Lao Động 'xã Đà Bắc, Phú Thọ', Nhân Dân 2023 'xã Cao Sơn, Đà Bắc, Hòa Bình' – viết 'bản Sưng, xã Cao Sơn (huyện Đà Bắc cũ, Hòa Bình cũ – nay thuộc Phú Thọ)'. Số hộ: '73 nóc nhà' (VietnamPlus) và 'gần 80 hộ' (Lao Động) – nêu cả hai. Không có nguồn về giá homestay, số km từ Hà Nội/TP Hòa Bình, tình trạng mặt đường – không viết số, chỉ khuyên liên hệ homestay trước và tham khảo bài Hà Nội – Hòa Bình. Không nêu tên homestay như gợi ý thương mại ngoài việc dẫn nguồn ảnh.",
+    "outline": [
+      "Câu trả lời ngắn: bản Sưng ở đâu, phù hợp với ai",
+      "Bản Dao Tiền 73 nóc nhà dưới núi Biều: không gian và khí hậu",
+      "Du lịch cộng đồng từ 2017: ai hỗ trợ, bao nhiêu hộ tham gia",
+      "Trải nghiệm: chè Shan tuyết, in sáp ong, giấy dó, lớp chữ Nôm Dao",
+      "Ăn gì: cỗ lá, thịt chua 18 tháng",
+      "Đi xe máy lên Đà Bắc: lưu ý và ghép lòng hồ Hòa Bình",
+      "FAQ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/den-chua-thac-bo/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00780.json",
+  "draft_template": {
+    "id": "TM-00780",
+    "url": "/du-lich/ban-sung-da-bac/",
+    "title": "Bản Sưng Đà Bắc: bản Dao Tiền 73 nóc nhà dưới núi Biều, du lịch cộng đồng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản sưng đà bắc, bản sưng hòa bình, xóm sưng cao sơn đà bắc, du lịch cộng đồng bản sưng, homestay bản sưng, người dao tiền đà bắc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: bản Sưng ở đâu, phù hợp với ai",
+        "<p></p>"
+      ],
+      [
+        "Bản Dao Tiền 73 nóc nhà dưới núi Biều: không gian và khí hậu",
+        "<p></p>"
+      ],
+      [
+        "Du lịch cộng đồng từ 2017: ai hỗ trợ, bao nhiêu hộ tham gia",
+        "<p></p>"
+      ],
+      [
+        "Trải nghiệm: chè Shan tuyết, in sáp ong, giấy dó, lớp chữ Nôm Dao",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì: cỗ lá, thịt chua 18 tháng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy lên Đà Bắc: lưu ý và ghép lòng hồ Hòa Bình",
+        "<p></p>"
+      ],
+      [
+        "FAQ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/van-hoa-dao-tien-thang-hoa-cung-du-lich-cong-dong-ban-sung-post1063925.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Văn hóa Dao Tiền thăng hoa cùng du lịch cộng đồng bản Sưng' (đọc 14/10/2026): bản Sưng (xã Cao Sơn, tỉnh Phú Thọ sau sáp nhập) nằm trong lòng núi Biều ở độ cao hơn 500 m, khí hậu mát quanh năm; 73 nóc nhà trệt bằng gỗ, mái lợp lá cọ, có cây chò, cây sấu cổ thụ; rừng chè Shan tuyết cổ thụ trên núi Biều, sao chè thủ công; lớp học chữ Nôm Dao do thầy Mo đứng lớp định kỳ mồng Một và Rằm hằng tháng; nghề dệt thổ cẩm, làm giấy dó, thuốc nam, in sáp ong; món thịt chua ủ tới 18 tháng; tháng 1/2023 thành lập Tổ hợp tác thổ cẩm Dao Tiền bản Sưng; hơn 50 hộ tham gia homestay, dệt, văn nghệ, hướng dẫn; trải nghiệm tắm lá thuốc, học chữ Dao, đốt lửa trại; các dự án phi chính phủ hỗ trợ phủ sóng internet, cải thiện đường.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/hanh-trinh-thay-da-doi-thit-cua-ban-lang-vung-cao-lam-du-lich-cong-dong-1626432.html",
+        "quote": "Lao Động, 'Hành trình thay da, đổi thịt của bản làng vùng cao làm du lịch cộng đồng' (đọc 14/10/2026): xóm Sưng hay bản Sưng (xã Đà Bắc, Phú Thọ) nằm dưới chân núi Biều, nơi sinh sống lâu đời của gần 80 hộ Dao Tiền; mô hình du lịch cộng đồng hoạt động từ năm 2017 với trợ giúp của tổ chức Action on Poverty (AOP, phi chính phủ Australia); phát triển dựa trên nhà trệt vách đất, mái lá cọ, gian bếp giữa nhà; khôi phục nghề làm giấy dó, in sáp ong, thổ cẩm; duy trì lớp dạy chữ Dao cho trẻ em; trưởng bản Lý Văn Nghĩa cho biết bản có gần 400 nhân khẩu, 100% là Dao Tiền.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-ngam-nhin-ve-dep-binh-di-o-ban-sung-cua-nguoi-dao-tien-post765103.html",
+        "quote": "Nhân Dân, '[Ảnh] Ngắm nhìn vẻ đẹp bình dị ở bản Sưng của người Dao Tiền' (01/8/2023, ảnh Trọng Đạt/TTXVN, đọc 14/10/2026): bản Sưng tại xã Cao Sơn (Đà Bắc, Hòa Bình) là điểm đến được khách trong và ngoài nước yêu thích nhờ vẻ mộc mạc, hoang sơ và phong tục còn nguyên vẹn của người Dao Tiền; nhà trệt vách đất; phụ nữ Dao Tiền đội khăn thổ cẩm in họa tiết bằng sáp ong; có homestay (ví dụ Homestay Xuân Lan) và đồ lưu niệm thổ cẩm bán tại homestay.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00780"
+  }
+}
