@@ -20,7 +20,7 @@
     ],
     [
       "Giá bản bánh căm và bánh mâm",
-      "<table><thead><tr><th>Phiên bản (trang SYM, đọc 14/10/2026)</th><th>Giá đề xuất, gồm VAT</th></tr></thead><tbody><tr><td><a href=\"https://www.sym.com.vn/san-pham/galaxy-50-12.html\" target=\"_blank\" rel=\"noopener\">Galaxy 50</a> (bánh căm)</td><td>18.000.000 VND</td></tr><tr><td><a href=\"https://www.sym.com.vn/san-pham/galaxy-50-banh-mam--29.html\" target=\"_blank\" rel=\"noopener\">Galaxy 50 (bánh mâm)</a></td><td>18.600.000 VND</td></tr></tbody></table><p>Bản bánh mâm đắt hơn bản bánh căm 600.000 VND. Trang bánh mâm mà bài đã đọc chỉ có giá, không có bảng thông số riêng, nên bài không liệt kê khác biệt kỹ thuật nào ngoài loại bánh. Thông số ở các mục dưới lấy từ trang Galaxy 50 bánh căm.</p><p>Giá đề xuất chưa phải giá lăn bánh; lệ phí đăng ký, biển số bạn hỏi đại lý và cơ quan đăng ký.</p>"
+      "<table><thead><tr><th>Phiên bản (trang SYM, đọc 14/10/2026)</th><th>Giá đề xuất, gồm VAT</th></tr></thead><tbody><tr><td><a href=\"https://www.sym.com.vn/san-pham/galaxy-50-12.html\" target=\"_blank\" rel=\"noopener\">Galaxy 50</a> (bánh căm)</td><td>18.000.000 VND</td></tr><tr><td><a href=\"https://www.sym.com.vn/san-pham/galaxy-50-banh-mam--29.html\" target=\"_blank\" rel=\"noopener\">Galaxy 50 (bánh mâm)</a></td><td>18.600.000 VND</td></tr></tbody></table><p>Bản bánh mâm có giá cao hơn bản bánh căm. Trang bánh mâm mà bài đã đọc chỉ có giá, không có bảng thông số riêng, nên bài không liệt kê khác biệt kỹ thuật nào ngoài loại bánh. Thông số ở các mục dưới lấy từ trang Galaxy 50 bánh căm.</p><p>Giá đề xuất chưa phải giá lăn bánh; lệ phí đăng ký, biển số bạn hỏi đại lý và cơ quan đăng ký.</p>"
     ],
     [
       "Động cơ 49,5 cc, 1,9 kW, hộp số 4 số, hao 1,29 L/100 km",
@@ -36,7 +36,7 @@
     ],
     [
       "Galaxy 50 hay xe ga 50cc như Elite 50",
-      "<p>Galaxy 50 là xe số: phải sang số, nhưng thân xe gọn kiểu xe số, bánh 17 inch theo cỡ lốp ghi trên trang. Xe ga 50cc như <a href=\"/xe-may/sym-elite-50/\">SYM Elite 50</a> không phải sang số, dễ hơn cho người mới, có bài riêng với số liệu của mẫu đó.</p><p>Gợi ý chọn:</p><ul><li>Đã quen xe số, muốn xe đơn giản: Galaxy 50 đáng xem.</li><li>Người mới, đi phố đông, không muốn sang số: cân nhắc xe ga 50cc.</li></ul>"
+      "<p>Galaxy 50 là xe số: phải sang số, nhưng thân xe gọn kiểu xe số. Xe ga 50cc như <a href=\"/xe-may/sym-elite-50/\">SYM Elite 50</a> không phải sang số, dễ hơn cho người mới, có bài riêng với số liệu của mẫu đó.</p><p>Gợi ý chọn:</p><ul><li>Đã quen xe số, muốn xe đơn giản: Galaxy 50 đáng xem.</li><li>Người mới, đi phố đông, không muốn sang số: cân nhắc xe ga 50cc.</li></ul>"
     ],
     [
       "Cần xe 50cc đi tạm ở Hà Nội: hỏi cửa hàng xe đang có",
@@ -89,5 +89,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-00618"
+  "topic_id": "TM-00618",
+  "publishedAt": "2026-10-14T03:53:42.357784+00:00",
+  "publishedBy": "Claude Code (routine)"
 }
