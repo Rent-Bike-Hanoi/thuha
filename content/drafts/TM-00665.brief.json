@@ -1,0 +1,144 @@
+{
+  "writer": "writer-E",
+  "queued": "2026-10-14T04:54:56.984377+00:00",
+  "topic": {
+    "topic_id": "TM-00665",
+    "url": "/du-lich/den-lang-suong-phu-tho/",
+    "title": "Đền Lăng Sương Phú Thọ: nơi thờ Tản Viên, hội rằm tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền lăng sương",
+    "secondary_keywords": [
+      "lễ hội đền lăng sương",
+      "đền lăng sương thanh thủy",
+      "đền thờ tản viên sơn thánh phú thọ",
+      "đền lăng sương ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ đầu năm hoặc tìm hiểu tín ngưỡng Tản Viên muốn biết đền Lăng Sương ở đâu, lễ hội ngày nào và ghép với đền Hùng, Ba Vì ra sao.",
+    "information_gain": "Site chưa có bài về đền Lăng Sương; /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ nói đền Hùng, /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ và /du-lich/khu-du-lich-ao-vua-ba-vi/ nói Ba Vì bên kia sông. Bài mới bổ sung: đền ở xã Trung Nghĩa (Thanh Thủy cũ) được coi là nơi sinh Tản Viên, xếp hạng quốc gia QĐ 25/2005/QĐ-BVHTT ngày 12/7/2005, lễ hội là di sản phi vật thể quốc gia năm 2018, hội chính rằm tháng Giêng với lễ rước nước sông Đà và giỗ Thánh Mẫu 25/10 âm lịch, các hạng mục giếng Thiên Thanh, lăng Thánh Mẫu, miếu Hai Cô.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/den-lang-suong",
+        "quote": "Trang thông tin chính thức du lịch Phú Thọ (đọc 14/10/2026): đền ở xã Trung Nghĩa, Thanh Thủy; thuộc hệ thống thờ Tản Viên Sơn Thánh ven sông Đà; xếp hạng di tích quốc gia theo QĐ 25/2005/QĐ-BVHTT ngày 12/7/2005; trang ghi 'Mở cửa 24h'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://thanhthuy.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/den-lang-suong-noi-luu-giu-nhung-gia-tri-van-hoa/title/65816/ctitle/123",
+        "quote": "Cổng TTĐT huyện Thanh Thủy (đọc 14/10/2026): xếp hạng cấp quốc gia năm 2005; lễ hội chính ngày 15 tháng Giêng (ngày sinh Thánh Tản Viên) và 25 tháng 10 âm lịch (ngày Thánh Mẫu về trời); trò chơi ném còn, đập niêu, nấu cơm thi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://btgcp.gov.vn/pages/detail/9174/Den-Lang-Suong-tinh-Phu-Tho-tho-Duc-Thanh-Tan-Vien-Son-Tinh-noi-linh-thieng-coi-nguon-cua-dat-Viet.html",
+        "quote": "Ban Tôn giáo Chính phủ (đọc 14/10/2026): khu đền rộng 3.000 m2 gồm miếu Hai Cô, giếng Thiên Thanh, nhà bia, nhà võng, tả – hữu mạc, lăng Thánh Mẫu; lễ hội được công nhận di sản văn hóa phi vật thể quốc gia năm 2018 (QĐ 3325/QĐ-BVHTTDL ngày 04/9/2018); lễ cáo tế ngày 14, rước nước sông Đà và tế chính ngày 15, yên vị chiều 16 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền lăng sương"
+      }
+    ],
+    "notes": "Video/Facebook Phú Thọ TV nói hội 'mùng 10, 11, 12' (không rõ tháng, có thể là năm khác): không dùng. Số QĐ 2018 trên trang Ban Tôn giáo bị lỗi đánh máy ('3325?QQĐ'): ghi 'Quyết định 3325/QĐ-BVHTTDL'. Không có nguồn khoảng cách từ Hà Nội: không nêu số. Tên xã sau sáp nhập 2025 chưa kiểm tra.",
+    "outline": [
+      "Đền Lăng Sương ở đâu, liên hệ với núi Tản",
+      "Các hạng mục: giếng Thiên Thanh, lăng Thánh Mẫu",
+      "Lễ hội rằm tháng Giêng: rước nước sông Đà",
+      "Giỗ Thánh Mẫu 25/10 âm lịch",
+      "Đi xe máy, ghép với đền Hùng hoặc Ba Vì",
+      "Lưu ý ngày hội"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/khu-du-lich-ao-vua-ba-vi/",
+      "/du-lich/dam-ao-chau-phu-tho/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00665.json",
+  "draft_template": {
+    "id": "TM-00665",
+    "url": "/du-lich/den-lang-suong-phu-tho/",
+    "title": "Đền Lăng Sương Phú Thọ: nơi thờ Tản Viên, hội rằm tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền lăng sương, lễ hội đền lăng sương, đền lăng sương thanh thủy, đền thờ tản viên sơn thánh phú thọ, đền lăng sương ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Lăng Sương ở đâu, liên hệ với núi Tản",
+        "<p></p>"
+      ],
+      [
+        "Các hạng mục: giếng Thiên Thanh, lăng Thánh Mẫu",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội rằm tháng Giêng: rước nước sông Đà",
+        "<p></p>"
+      ],
+      [
+        "Giỗ Thánh Mẫu 25/10 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, ghép với đền Hùng hoặc Ba Vì",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý ngày hội",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/den-lang-suong",
+        "quote": "Trang thông tin chính thức du lịch Phú Thọ (đọc 14/10/2026): đền ở xã Trung Nghĩa, Thanh Thủy; thuộc hệ thống thờ Tản Viên Sơn Thánh ven sông Đà; xếp hạng di tích quốc gia theo QĐ 25/2005/QĐ-BVHTT ngày 12/7/2005; trang ghi 'Mở cửa 24h'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://thanhthuy.phutho.gov.vn/Chuyen-muc-tin/Chi-tiet-tin/t/den-lang-suong-noi-luu-giu-nhung-gia-tri-van-hoa/title/65816/ctitle/123",
+        "quote": "Cổng TTĐT huyện Thanh Thủy (đọc 14/10/2026): xếp hạng cấp quốc gia năm 2005; lễ hội chính ngày 15 tháng Giêng (ngày sinh Thánh Tản Viên) và 25 tháng 10 âm lịch (ngày Thánh Mẫu về trời); trò chơi ném còn, đập niêu, nấu cơm thi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://btgcp.gov.vn/pages/detail/9174/Den-Lang-Suong-tinh-Phu-Tho-tho-Duc-Thanh-Tan-Vien-Son-Tinh-noi-linh-thieng-coi-nguon-cua-dat-Viet.html",
+        "quote": "Ban Tôn giáo Chính phủ (đọc 14/10/2026): khu đền rộng 3.000 m2 gồm miếu Hai Cô, giếng Thiên Thanh, nhà bia, nhà võng, tả – hữu mạc, lăng Thánh Mẫu; lễ hội được công nhận di sản văn hóa phi vật thể quốc gia năm 2018 (QĐ 3325/QĐ-BVHTTDL ngày 04/9/2018); lễ cáo tế ngày 14, rước nước sông Đà và tế chính ngày 15, yên vị chiều 16 tháng Giêng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00665"
+  }
+}

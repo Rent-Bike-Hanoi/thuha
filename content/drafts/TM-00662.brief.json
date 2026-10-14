@@ -1,0 +1,158 @@
+{
+  "writer": "writer-D",
+  "queued": "2026-10-14T04:54:56.381412+00:00",
+  "topic": {
+    "topic_id": "TM-00662",
+    "url": "/du-lich/nui-nua-am-tien-thanh-hoa/",
+    "title": "Núi Nưa – Am Tiên Thanh Hóa: 199 bậc đá, hội 'mở cổng trời' tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "am tiên thanh hóa",
+    "secondary_keywords": [
+      "núi nưa",
+      "đền nưa am tiên",
+      "mở cổng trời am tiên",
+      "am tiên triệu sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ đầu năm hoặc đi Thanh Hóa muốn ghé Am Tiên cần biết Am Tiên ở đâu (khác động Am Tiên Ninh Bình), leo bao nhiêu bậc, lễ mở cổng trời ngày nào.",
+    "information_gain": "Site chưa có bài về Núi Nưa – Am Tiên Thanh Hóa (chỉ có động Am Tiên ở Ninh Bình — khác địa điểm). /du-lich/ham-rong-thanh-hoa/, /du-lich/thanh-nha-ho-thanh-hoa/ và /du-lich/khu-di-tich-lam-kinh/ là điểm khác. Bài mới bổ sung: quần thể ~100 ha ở Triệu Sơn, Am Tiên cao 585 m, cách TP Thanh Hóa ~20 km, 199 bậc đá, gắn khởi nghĩa Bà Triệu năm 248, Quyết định 1215 ngày 27/3/2009 xếp hạng quốc gia, lễ mở cổng trời từ mùng 9 tháng Giêng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://visitthanhhoa.com/vi/kinh-nghiem-di-am-tien-thanh-hoa-2025-tu-a-den-z",
+        "quote": "Visit Thanh Hóa (đọc 14/10/2026): Am Tiên trên đỉnh núi Nưa thuộc quần thể di tích quốc gia Đền Nưa – Am Tiên, thị trấn Nưa (trước là xã Tân Ninh), Triệu Sơn; cách TP Thanh Hóa khoảng 20 km về tây nam; quần thể gần 100 ha; dãy núi dài gần 20 km; phải vượt 199 bậc đá; gắn khởi nghĩa Bà Triệu năm 248; ngày 27/3/2009 Bộ VHTTDL công nhận di tích cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/dong-dao-du-khach-den-voi-den-nua-am-tien-truoc-ngay-mo-cong-troi/81548.html",
+        "quote": "TTXVN – Chính sách & Cuộc sống (đọc 14/10/2026): mùng 9 tháng Giêng hằng năm các xã Tân Ninh, Trung Chính, Mậu Lâm tổ chức khai hội Đền Nưa – Am Tiên và lễ 'mở cổng trời' trên đỉnh núi Nưa; Quyết định 1215/QĐ-BVHTTDL ngày 27/3/2009 công nhận di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Am_Ti%C3%AAn",
+        "quote": "Wikipedia tiếng Việt (nguồn phụ, đọc 14/10/2026): Am Tiên cao 585 m so với mực nước biển; quần thể 100 ha; lễ hội mở cổng trời khoảng mùng 9 đến 20 tháng Giêng, thay đổi theo năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://sunworld.vn/vi/sam-son/vui-choi/am-tien-co-gi-dac-biet-truyen-thuyet-trai-nghiem-hanh-huong-7946",
+        "quote": "Sun World Sầm Sơn (đọc 14/10/2026): Am Tiên trên đỉnh núi Nưa cao 585 m; mục '199 bậc đá' qua cổng trời; đền Am Tiên gắn Bà Triệu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "am tiên thanh hóa"
+      }
+    ],
+    "notes": "Tên đơn vị hành chính đã đổi (thị trấn Nưa / xã Triệu Sơn sau 2025) — nguồn lệch, ghi 'xã Triệu Sơn (huyện Triệu Sơn cũ)'. Không có nguồn khoảng cách Hà Nội, vé, bãi xe: không nêu con số. 'Huyệt đạo linh thiêng' là truyền thuyết, viết rõ là lời kể. Phải phân biệt với động Am Tiên Ninh Bình (bài đã có).",
+    "outline": [
+      "Am Tiên Thanh Hóa khác động Am Tiên Ninh Bình",
+      "Núi Nưa và khởi nghĩa Bà Triệu",
+      "Leo 199 bậc đá lên Am Tiên",
+      "Lễ mở cổng trời tháng Giêng",
+      "Đường từ TP Thanh Hóa, ghép lịch trình",
+      "Lưu ý mùa lễ đông người"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00662.json",
+  "draft_template": {
+    "id": "TM-00662",
+    "url": "/du-lich/nui-nua-am-tien-thanh-hoa/",
+    "title": "Núi Nưa – Am Tiên Thanh Hóa: 199 bậc đá, hội 'mở cổng trời' tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "am tiên thanh hóa, núi nưa, đền nưa am tiên, mở cổng trời am tiên, am tiên triệu sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Am Tiên Thanh Hóa khác động Am Tiên Ninh Bình",
+        "<p></p>"
+      ],
+      [
+        "Núi Nưa và khởi nghĩa Bà Triệu",
+        "<p></p>"
+      ],
+      [
+        "Leo 199 bậc đá lên Am Tiên",
+        "<p></p>"
+      ],
+      [
+        "Lễ mở cổng trời tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Đường từ TP Thanh Hóa, ghép lịch trình",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý mùa lễ đông người",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://visitthanhhoa.com/vi/kinh-nghiem-di-am-tien-thanh-hoa-2025-tu-a-den-z",
+        "quote": "Visit Thanh Hóa (đọc 14/10/2026): Am Tiên trên đỉnh núi Nưa thuộc quần thể di tích quốc gia Đền Nưa – Am Tiên, thị trấn Nưa (trước là xã Tân Ninh), Triệu Sơn; cách TP Thanh Hóa khoảng 20 km về tây nam; quần thể gần 100 ha; dãy núi dài gần 20 km; phải vượt 199 bậc đá; gắn khởi nghĩa Bà Triệu năm 248; ngày 27/3/2009 Bộ VHTTDL công nhận di tích cấp quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/dong-dao-du-khach-den-voi-den-nua-am-tien-truoc-ngay-mo-cong-troi/81548.html",
+        "quote": "TTXVN – Chính sách & Cuộc sống (đọc 14/10/2026): mùng 9 tháng Giêng hằng năm các xã Tân Ninh, Trung Chính, Mậu Lâm tổ chức khai hội Đền Nưa – Am Tiên và lễ 'mở cổng trời' trên đỉnh núi Nưa; Quyết định 1215/QĐ-BVHTTDL ngày 27/3/2009 công nhận di tích.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Am_Ti%C3%AAn",
+        "quote": "Wikipedia tiếng Việt (nguồn phụ, đọc 14/10/2026): Am Tiên cao 585 m so với mực nước biển; quần thể 100 ha; lễ hội mở cổng trời khoảng mùng 9 đến 20 tháng Giêng, thay đổi theo năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://sunworld.vn/vi/sam-son/vui-choi/am-tien-co-gi-dac-biet-truyen-thuyet-trai-nghiem-hanh-huong-7946",
+        "quote": "Sun World Sầm Sơn (đọc 14/10/2026): Am Tiên trên đỉnh núi Nưa cao 585 m; mục '199 bậc đá' qua cổng trời; đền Am Tiên gắn Bà Triệu.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00662"
+  }
+}

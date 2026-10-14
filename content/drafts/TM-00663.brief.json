@@ -1,0 +1,145 @@
+{
+  "writer": "writer-E",
+  "queued": "2026-10-14T04:54:56.573598+00:00",
+  "topic": {
+    "topic_id": "TM-00663",
+    "url": "/du-lich/chua-dich-long-ninh-binh/",
+    "title": "Chùa Địch Lộng Ninh Bình: 'Nam thiên đệ tam động', leo 105 bậc đá",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa địch lộng",
+    "secondary_keywords": [
+      "động địch lộng",
+      "nam thiên đệ tam động",
+      "chùa địch lộng gia viễn",
+      "lễ hội chùa địch lộng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Ninh Bình muốn tránh đông, xem chùa trong hang gần QL1 cần biết Địch Lộng ở đâu, leo bao nhiêu bậc, có gì xem và hội ngày nào.",
+    "information_gain": "Site chưa có bài về Địch Lộng; /du-lich/tam-coc-bich-dong/ (Nam thiên đệ nhị động), /du-lich/dam-van-long/ và /du-lich/co-do-hoa-lu/ là điểm khác. Bài mới bổ sung: vị trí xã Gia Trấn (Gia Viễn cũ) cách QL1A khoảng 1 km và trung tâm tỉnh 16 km, danh xưng 'Nam thiên đệ tam động' vua Minh Mạng ban (1821), đình đá 16 cột nguyên khối, 105 bậc đá lên cửa động, chuông gần 1 tấn thời Nguyễn trong vòm 8 m, hang Sáng – hang Tối, di tích quốc gia 1990, hội 6–7/3 âm lịch.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://giatran.ninhbinh.gov.vn/danh-lam-thang-canh/dong-va-chua-dich-long-nam-thien-de-tam-dong-27.html",
+        "quote": "UBND xã Gia Trấn, Ninh Bình (16/7/2025, đọc 14/10/2026): cụm di tích thuộc xã Gia Trấn, cách QL1A khoảng 1 km, cách trung tâm tỉnh 16 km; từ chùa Hạ qua phủ Đức Ông leo 105 bậc đá tới cửa động 'Nham Sơn động, Cổ Am tự'; vòm hang cao 8 m treo chuông gần một tấn đúc thời Nguyễn; xếp hạng di tích quốc gia năm 1990; hội 6, 7 tháng 3 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamarchi.vn/chua-dich-long-gia-vien-ninh-binh-nam-thien-de-tam-dong-732.html",
+        "quote": "Vietnamarchi (đọc 14/10/2026): vua Minh Mạng ban 5 chữ 'Nam Thiên Đệ Tam Động' trong chuyến tuần du năm 1821; đình đá 5 gian thờ Nguyễn Minh Không; 'leo hơn 100 bậc đá' tới cửa động; chuông gần một tấn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C4%90%E1%BB%8Bch_L%E1%BB%99ng",
+        "quote": "Wikipedia tiếng Việt (nguồn phụ, đọc 14/10/2026): động cách QL1 chưa tới 1 km, đi từ cầu Khuất theo bờ nam sông Đáy; đình đá 16 cột đá nguyên khối, đền Lý Quốc Sư, hồ bán nguyệt; hai khu Hang Sáng, Hang Tối; xếp hạng quốc gia 1990; hội 6, 7 tháng 3 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa địch lộng"
+      }
+    ],
+    "notes": "Số bậc: 105 (xã Gia Trấn, ưu tiên) vs 'hơn 100'. Vietnamarchi snippet ghi chùa xây 1740 và vòm 20 m — mâu thuẫn với 8 m của trang xã: không nêu 1740/20 m. Không có nguồn vé/giờ: không nêu.",
+    "outline": [
+      "Địch Lộng ở đâu, cách QL1 bao xa",
+      "Vì sao gọi 'Nam thiên đệ tam động'",
+      "Đình đá, chùa Hạ, 105 bậc lên động",
+      "Hang Sáng, hang Tối và chuông thời Nguyễn",
+      "Hội tháng Ba âm lịch",
+      "Ghép với Vân Long, Hoa Lư"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/tam-coc-bich-dong/",
+      "/du-lich/dam-van-long/",
+      "/du-lich/co-do-hoa-lu/",
+      "/du-lich/chua-co-le-ninh-binh/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00663.json",
+  "draft_template": {
+    "id": "TM-00663",
+    "url": "/du-lich/chua-dich-long-ninh-binh/",
+    "title": "Chùa Địch Lộng Ninh Bình: 'Nam thiên đệ tam động', leo 105 bậc đá",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa địch lộng, động địch lộng, nam thiên đệ tam động, chùa địch lộng gia viễn, lễ hội chùa địch lộng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Địch Lộng ở đâu, cách QL1 bao xa",
+        "<p></p>"
+      ],
+      [
+        "Vì sao gọi 'Nam thiên đệ tam động'",
+        "<p></p>"
+      ],
+      [
+        "Đình đá, chùa Hạ, 105 bậc lên động",
+        "<p></p>"
+      ],
+      [
+        "Hang Sáng, hang Tối và chuông thời Nguyễn",
+        "<p></p>"
+      ],
+      [
+        "Hội tháng Ba âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Vân Long, Hoa Lư",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://giatran.ninhbinh.gov.vn/danh-lam-thang-canh/dong-va-chua-dich-long-nam-thien-de-tam-dong-27.html",
+        "quote": "UBND xã Gia Trấn, Ninh Bình (16/7/2025, đọc 14/10/2026): cụm di tích thuộc xã Gia Trấn, cách QL1A khoảng 1 km, cách trung tâm tỉnh 16 km; từ chùa Hạ qua phủ Đức Ông leo 105 bậc đá tới cửa động 'Nham Sơn động, Cổ Am tự'; vòm hang cao 8 m treo chuông gần một tấn đúc thời Nguyễn; xếp hạng di tích quốc gia năm 1990; hội 6, 7 tháng 3 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamarchi.vn/chua-dich-long-gia-vien-ninh-binh-nam-thien-de-tam-dong-732.html",
+        "quote": "Vietnamarchi (đọc 14/10/2026): vua Minh Mạng ban 5 chữ 'Nam Thiên Đệ Tam Động' trong chuyến tuần du năm 1821; đình đá 5 gian thờ Nguyễn Minh Không; 'leo hơn 100 bậc đá' tới cửa động; chuông gần một tấn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_%C4%90%E1%BB%8Bch_L%E1%BB%99ng",
+        "quote": "Wikipedia tiếng Việt (nguồn phụ, đọc 14/10/2026): động cách QL1 chưa tới 1 km, đi từ cầu Khuất theo bờ nam sông Đáy; đình đá 16 cột đá nguyên khối, đền Lý Quốc Sư, hồ bán nguyệt; hai khu Hang Sáng, Hang Tối; xếp hạng quốc gia 1990; hội 6, 7 tháng 3 âm lịch.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00663"
+  }
+}

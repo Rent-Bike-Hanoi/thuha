@@ -1,0 +1,158 @@
+{
+  "writer": "writer-D",
+  "queued": "2026-10-14T04:54:55.993669+00:00",
+  "topic": {
+    "topic_id": "TM-00659",
+    "url": "/du-lich/chua-thanh-mai-rung-phong/",
+    "title": "Chùa Thanh Mai Chí Linh: rừng phong 15 ha, bia 1362, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa thanh mai",
+    "secondary_keywords": [
+      "rừng phong thanh mai",
+      "chùa thanh mai chí linh",
+      "rừng phong chí linh",
+      "lễ hội chùa thanh mai"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người Hà Nội muốn ngắm rừng phong đổi màu cuối năm hoặc hành hương di sản Yên Tử cần biết chùa ở đâu sau sáp nhập, leo có khó không, mùa lá và lễ hội khi nào.",
+    "information_gain": "Site chưa có bài về chùa Thanh Mai. /du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/ chỉ nói Côn Sơn – Kiếp Bạc, /du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ và /du-lich/chua-vinh-nghiem-bac-ninh/ là các di tích khác cùng quần thể. Bài mới bổ sung: chùa là 1 trong 12 di tích thành phần của di sản thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc (UNESCO 7/2025), gắn Tổ thứ hai Pháp Loa, bia Thanh Mai Viên Thông tháp bi 1362 (~5.000 chữ, bảo vật quốc gia 2016), rừng cổ khoảng 15 ha cây phong hương đổi màu tháng 11, lễ hội 1–3/3 âm lịch, khai quật Thanh Mai 2 năm 2021.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/diem-hen-giua-tam-linh-va-thien-nhien-post956723.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): chùa trên sườn núi Phật Tích, nay thuộc phường Nguyễn Trãi, TP Hải Phòng; 1 trong 12 di tích thành phần quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh tháng 7/2025; gắn Pháp Loa, Tổ thứ hai Trúc Lâm; bia 'Thanh Mai Viên Thông tháp bi' dựng năm 1362, khoảng 5.000 chữ, bảo vật quốc gia năm 2016; tam quan dựng lại 2009; lễ hội mồng 1–3/3 âm lịch; xếp hạng di tích quốc gia năm 1992; Thanh Mai 2 khai quật năm 2021.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/kham-pha-khu-rung-co-quanh-chua-thanh-mai-528513.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): rừng cổ quanh chùa Thanh Mai (phường Nguyễn Trãi) rộng khoảng 15 ha, mật độ cây phong hương lớn, nhiều cây hàng trăm năm, xen lim, sến, lát; cuối thu lá chuyển vàng, đỏ, du khách leo núi mỗi dịp tháng 11; du khách Hà Nội nói đường lên núi 'không quá khó'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/nhung-bi-an-o-chua-thanh-mai-57.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): chùa thuộc xã Hoàng Hoa Thám (Chí Linh, cũ), tôn tạo mở rộng năm Khai Hựu (1329); khai quật Thanh Mai 2 rộng 400 m2, lộ nền móng trên 1.200 m2 với 3 lớp kiến trúc Trần, Lê trung hưng, Nguyễn; gần 1.000 di vật; hội chùa mùng 1–3/3 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vinwonders.com/vi/wonderpedia/news/chua-thanh-mai-hai-phong",
+        "quote": "VinWonders Wonderpedia (đọc 14/10/2026): chùa trên sườn núi Thanh Mai (núi Tam Ban), phường Nguyễn Trãi, Hải Phòng, trước là xã Hoàng Hoa Thám, TP Chí Linh, Hải Dương; bề dày gần 700 năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa thanh mai"
+      }
+    ],
+    "notes": "Nhân Dân ghi 'thế kỷ XIII–XIV', Báo Hải Phòng ghi tôn tạo năm 1329: viết 'thời Trần'. Không có nguồn về vé, giờ mở cửa, bãi gửi xe, số km từ Hà Nội và độ dài đường leo: không nêu con số. Không quảng bá tour.",
+    "outline": [
+      "Chùa Thanh Mai ở đâu sau sáp nhập",
+      "Pháp Loa, bia 1362 và vị trí trong di sản UNESCO",
+      "Rừng phong 15 ha: mùa lá tháng 11",
+      "Khảo cổ Thanh Mai 2 và đường lên núi",
+      "Lễ hội 1–3/3 âm lịch",
+      "Đi xe máy từ Hà Nội, ghép với Côn Sơn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-vinh-nghiem-bac-ninh/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00659.json",
+  "draft_template": {
+    "id": "TM-00659",
+    "url": "/du-lich/chua-thanh-mai-rung-phong/",
+    "title": "Chùa Thanh Mai Chí Linh: rừng phong 15 ha, bia 1362, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa thanh mai, rừng phong thanh mai, chùa thanh mai chí linh, rừng phong chí linh, lễ hội chùa thanh mai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Thanh Mai ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Pháp Loa, bia 1362 và vị trí trong di sản UNESCO",
+        "<p></p>"
+      ],
+      [
+        "Rừng phong 15 ha: mùa lá tháng 11",
+        "<p></p>"
+      ],
+      [
+        "Khảo cổ Thanh Mai 2 và đường lên núi",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 1–3/3 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội, ghép với Côn Sơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/diem-hen-giua-tam-linh-va-thien-nhien-post956723.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): chùa trên sườn núi Phật Tích, nay thuộc phường Nguyễn Trãi, TP Hải Phòng; 1 trong 12 di tích thành phần quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh tháng 7/2025; gắn Pháp Loa, Tổ thứ hai Trúc Lâm; bia 'Thanh Mai Viên Thông tháp bi' dựng năm 1362, khoảng 5.000 chữ, bảo vật quốc gia năm 2016; tam quan dựng lại 2009; lễ hội mồng 1–3/3 âm lịch; xếp hạng di tích quốc gia năm 1992; Thanh Mai 2 khai quật năm 2021.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/kham-pha-khu-rung-co-quanh-chua-thanh-mai-528513.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): rừng cổ quanh chùa Thanh Mai (phường Nguyễn Trãi) rộng khoảng 15 ha, mật độ cây phong hương lớn, nhiều cây hàng trăm năm, xen lim, sến, lát; cuối thu lá chuyển vàng, đỏ, du khách leo núi mỗi dịp tháng 11; du khách Hà Nội nói đường lên núi 'không quá khó'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/nhung-bi-an-o-chua-thanh-mai-57.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): chùa thuộc xã Hoàng Hoa Thám (Chí Linh, cũ), tôn tạo mở rộng năm Khai Hựu (1329); khai quật Thanh Mai 2 rộng 400 m2, lộ nền móng trên 1.200 m2 với 3 lớp kiến trúc Trần, Lê trung hưng, Nguyễn; gần 1.000 di vật; hội chùa mùng 1–3/3 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vinwonders.com/vi/wonderpedia/news/chua-thanh-mai-hai-phong",
+        "quote": "VinWonders Wonderpedia (đọc 14/10/2026): chùa trên sườn núi Thanh Mai (núi Tam Ban), phường Nguyễn Trãi, Hải Phòng, trước là xã Hoàng Hoa Thám, TP Chí Linh, Hải Dương; bề dày gần 700 năm.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00659"
+  }
+}

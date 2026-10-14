@@ -1,0 +1,157 @@
+{
+  "writer": "writer-D",
+  "queued": "2026-10-14T04:54:55.784724+00:00",
+  "topic": {
+    "topic_id": "TM-00658",
+    "url": "/du-lich/ho-xa-huong-tam-dao/",
+    "title": "Hồ Xạ Hương Tam Đảo: hồ 83 ha dưới chân núi, đi xe máy từ Hà Nội",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ xạ hương",
+    "secondary_keywords": [
+      "hồ xạ hương tam đảo",
+      "hồ xạ hương ở đâu",
+      "đập xạ hương",
+      "cắm trại hồ xạ hương"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội muốn một điểm cắm trại, ngắm hồ trong ngày gần Tam Đảo cần biết hồ ở đâu, đi đường nào bằng xe máy và hồ là công trình thủy lợi nên cần lưu ý gì.",
+    "information_gain": "Site chưa có bài về hồ Xạ Hương. /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ chỉ nói đường lên thị trấn Tam Đảo, /du-lich/tay-thien-va-thien-vien-truc-lam-di-xe-may/ và /du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/ là điểm khác. Bài mới bổ sung: vị trí xã Minh Quang (cũ) trong thung lũng núi Con Trâu, diện tích khoảng 83 ha, sức chứa hơn 12 triệu m3, hồ xây xong năm 1984 và nâng cấp tràn năm 2016 (thông tin của ĐH Thủy lợi), nhiệm vụ tưới tiêu, chỉ dẫn rẽ từ QL2/QL2B, và nêu rõ số liệu khoảng cách, diện tích tưới đang lệch giữa các nguồn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.traveloka.com/vi-vn/explore/destination/ho-xa-huong/58426",
+        "quote": "Traveloka (bài Golocal, đọc 14/10/2026): hồ nhân tạo giữa thung lũng núi Con Trâu, xã Minh Quang (Tam Đảo, Vĩnh Phúc), diện tích tầm 83 ha, chứa hơn 12 triệu m3 nước; Tam Đảo cách Hà Nội khoảng 80 km, khoảng 2 giờ xe máy; đi QL2 tới cuối TP Vĩnh Yên rẽ phải QL2B, tới chân đèo hỏi đường, thêm khoảng 2 km tới hồ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://luhanhvietnam.com.vn/du-lich/du-lich-ho-xa-huong-vinh-phuc.html",
+        "quote": "Lữ hành Việt Nam (đọc 14/10/2026): hồ ở xã Minh Quang, huyện Tam Đảo, cách trung tâm Hà Nội hơn 60 km; tổng diện tích khoảng 83 ha, nạo vét từ năm 1984, sức chứa hơn 12 triệu m3; cấp nước tưới cho hơn 1.800 ha ruộng của ba huyện Tam Đảo, Bình Xuyên, Tam Dương.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "http://ce.tlu.edu.vn/sinh-vien/ho-xa-huong-sau-nang-cap--cong-trinh-tri-tue-cua-4746",
+        "quote": "Khoa Công trình, Trường ĐH Thủy lợi (đọc 14/10/2026): hồ Xạ Hương xây xong năm 1984 tại xã Minh Quang; nhiệm vụ tưới cho 1980 ha, cấp nước, giảm lũ, tạo cảnh quan du lịch; đầu mối gồm đập, tràn xả lũ, cống lấy nước; năm 2016 nâng cấp tràn từ một cửa 10 m thành hai cửa rộng 14 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dulichvietnam.com.vn/chang-can-di-dau-xa-ghe-ngay-ho-xa-huong-o-tam-dao-de-giai-nhiet-mua-he-.html",
+        "quote": "Du lịch Việt Nam (20/04/2020, đọc 14/10/2026): hồ nép bên thung lũng Con Trâu, xã Minh Quang, cách trung tâm Hà Nội khoảng 60 km, dễ đi phượt xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hồ xạ hương"
+      }
+    ],
+    "notes": "Khoảng cách lệch: 60 km (Lữ hành VN, dulichvietnam) vs 'Tam Đảo cách Hà Nội 80 km' (Traveloka, tính tới thị trấn). Diện tích tưới lệch: hơn 1.800 ha vs 1980 ha (ĐH Thủy lợi, nên ưu tiên). Không có nguồn về vé/phí, quy định cắm trại, bơi lội trên hồ: không khẳng định; khuyên không bơi ở hồ thủy lợi chỉ như lời khuyên an toàn chung. Địa danh hành chính sau sáp nhập 2025 (Vĩnh Phúc nay thuộc Phú Thọ) chưa kiểm tra tên xã mới: ghi 'xã Minh Quang (cũ)'.",
+    "outline": [
+      "Hồ Xạ Hương ở đâu, khác gì thị trấn Tam Đảo",
+      "Đường xe máy từ Hà Nội: QL2, QL2B, lối rẽ vào hồ",
+      "Hồ thủy lợi 1984: số liệu đập, tràn và diện tích",
+      "Cắm trại, chụp ảnh: nên làm gì, tránh gì",
+      "Ghép lịch với Tam Đảo, Tây Thiên trong ngày",
+      "Số liệu đang lệch giữa các nguồn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/du-lich/tay-thien-va-thien-vien-truc-lam-di-xe-may/",
+      "/du-lich/ho-dai-lai-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00658.json",
+  "draft_template": {
+    "id": "TM-00658",
+    "url": "/du-lich/ho-xa-huong-tam-dao/",
+    "title": "Hồ Xạ Hương Tam Đảo: hồ 83 ha dưới chân núi, đi xe máy từ Hà Nội",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ xạ hương, hồ xạ hương tam đảo, hồ xạ hương ở đâu, đập xạ hương, cắm trại hồ xạ hương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Xạ Hương ở đâu, khác gì thị trấn Tam Đảo",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy từ Hà Nội: QL2, QL2B, lối rẽ vào hồ",
+        "<p></p>"
+      ],
+      [
+        "Hồ thủy lợi 1984: số liệu đập, tràn và diện tích",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại, chụp ảnh: nên làm gì, tránh gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Tam Đảo, Tây Thiên trong ngày",
+        "<p></p>"
+      ],
+      [
+        "Số liệu đang lệch giữa các nguồn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.traveloka.com/vi-vn/explore/destination/ho-xa-huong/58426",
+        "quote": "Traveloka (bài Golocal, đọc 14/10/2026): hồ nhân tạo giữa thung lũng núi Con Trâu, xã Minh Quang (Tam Đảo, Vĩnh Phúc), diện tích tầm 83 ha, chứa hơn 12 triệu m3 nước; Tam Đảo cách Hà Nội khoảng 80 km, khoảng 2 giờ xe máy; đi QL2 tới cuối TP Vĩnh Yên rẽ phải QL2B, tới chân đèo hỏi đường, thêm khoảng 2 km tới hồ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://luhanhvietnam.com.vn/du-lich/du-lich-ho-xa-huong-vinh-phuc.html",
+        "quote": "Lữ hành Việt Nam (đọc 14/10/2026): hồ ở xã Minh Quang, huyện Tam Đảo, cách trung tâm Hà Nội hơn 60 km; tổng diện tích khoảng 83 ha, nạo vét từ năm 1984, sức chứa hơn 12 triệu m3; cấp nước tưới cho hơn 1.800 ha ruộng của ba huyện Tam Đảo, Bình Xuyên, Tam Dương.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "http://ce.tlu.edu.vn/sinh-vien/ho-xa-huong-sau-nang-cap--cong-trinh-tri-tue-cua-4746",
+        "quote": "Khoa Công trình, Trường ĐH Thủy lợi (đọc 14/10/2026): hồ Xạ Hương xây xong năm 1984 tại xã Minh Quang; nhiệm vụ tưới cho 1980 ha, cấp nước, giảm lũ, tạo cảnh quan du lịch; đầu mối gồm đập, tràn xả lũ, cống lấy nước; năm 2016 nâng cấp tràn từ một cửa 10 m thành hai cửa rộng 14 m.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dulichvietnam.com.vn/chang-can-di-dau-xa-ghe-ngay-ho-xa-huong-o-tam-dao-de-giai-nhiet-mua-he-.html",
+        "quote": "Du lịch Việt Nam (20/04/2020, đọc 14/10/2026): hồ nép bên thung lũng Con Trâu, xã Minh Quang, cách trung tâm Hà Nội khoảng 60 km, dễ đi phượt xe máy.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00658"
+  }
+}

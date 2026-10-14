@@ -1,0 +1,145 @@
+{
+  "writer": "writer-E",
+  "queued": "2026-10-14T04:54:56.788277+00:00",
+  "topic": {
+    "topic_id": "TM-00664",
+    "url": "/du-lich/thap-tuong-long-do-son/",
+    "title": "Tháp Tường Long Đồ Sơn: tháp thời Lý phỏng dựng 9 tầng trên núi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "tháp tường long",
+    "secondary_keywords": [
+      "chùa tháp tường long",
+      "tháp tường long đồ sơn",
+      "tháp đồ sơn",
+      "chùa tháp đồ sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi biển Đồ Sơn muốn thêm một điểm văn hóa cần biết tháp Tường Long ở đâu, có từ bao giờ, tháp hiện tại là cổ hay mới và nên lên lúc nào.",
+    "information_gain": "/du-lich/do-son-di-xe-may-tu-ha-noi/ nói biển và đường đi, không đi sâu vào tháp; /du-lich/den-nghe-hai-phong/, /du-lich/chua-du-hang-hai-phong/ là điểm khác. Bài mới bổ sung: tháp thời Lý Thánh Tông (gạch ghi niên hiệu Long Thụy Thái Bình năm thứ 4), 9 tầng cao khoảng 45 m theo Đại Nam nhất thống chí, bị phá năm 1804 lấy gạch xây thành Hải Dương, phỏng dựng từ 2007 trên khoảng 2.000 m2 hoàn thiện sau 10 năm, đỉnh Long Sơn (núi đầu tiên trong 9 ngọn Đồ Sơn), hố khảo cổ và hiện vật.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://haiphongnews.gov.vn/vn/du-lich/chua-thap-tuong-long-danh-thang-va-diem-den-tam-linh-hap-dan-tai-hai-phong-ct437.html",
+        "quote": "Cổng TTĐT Hải Phòng – haiphongnews (đọc 14/10/2026): tháp còn gọi chùa Tháp, tháp Đồ Sơn, xây thời Lý Thánh Tông; theo Đại Nam nhất thống chí tháp 9 tầng, trên đất rộng 1000 m2, cao 100 thước (tương đương 45 m), trên núi cao hơn 100 m so với mặt biển; năm 1804 nhà Nguyễn phá tháp lấy gạch xây thành Hải Dương; gạch in 'Long Thụy Thái Bình tứ niên tạo'; năm 2007 phỏng dựng trên nền cũ khoảng 2.000 m2, tháp 9 tầng, tượng A-di-đà; 20 pho tượng đồng hơn 20 tấn; chuông 1 tấn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-thap-tuong-long-di-tich-lich-su-nghin-nam-tren-dat-hai-phong-post767627.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): quần thể chùa tháp trên đỉnh Long Sơn (phường Ngọc Xuyên), ngọn núi đầu tiên trong 9 ngọn dọc bán đảo Đồ Sơn; phỏng dựng năm 2007, sau 10 năm hoàn thiện, là công trình kỷ niệm nghìn năm Thăng Long; trên bãi đất khoảng 2.000 m2, phường Vạn Sơn, quận Đồ Sơn (cũ).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hpta.vn/rMzgxdg.html",
+        "quote": "Hiệp hội Du lịch Hải Phòng (đọc 14/10/2026): tháp tuổi đời lên đến 10 thế kỷ, từng là đại danh lam kiêm hành cung thời Lý; điểm đến tâm linh đầu năm; đoạn trích Tavily nêu năm 1058, núi cao 128 m và khánh thành 2017.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "tháp tường long"
+      }
+    ],
+    "notes": "Mâu thuẫn: năm dựng tháp cổ 1057 (niên hiệu Long Thụy Thái Bình 4, theo Facebook) vs 1058 (Đại Việt sử lược, theo hpta); độ cao núi 'hơn 100 m' vs 128 m; phường Vạn Sơn vs Ngọc Xuyên — ghi rõ, không đưa vào tiêu đề. Không có nguồn vé, giờ mở: không nêu. Phường mới sau 2025 chưa kiểm tra.",
+    "outline": [
+      "Tháp Tường Long ở đâu trên bán đảo Đồ Sơn",
+      "Tháp thời Lý và số phận năm 1804",
+      "Phỏng dựng 2007: tháp mới và hố khảo cổ",
+      "Tham quan: tượng, chuông, tầm nhìn biển",
+      "Ghép với biển Đồ Sơn trong ngày",
+      "Số liệu lịch sử đang lệch"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/bao-tang-hai-phong/",
+      "/du-lich/chua-du-hang-hai-phong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00664.json",
+  "draft_template": {
+    "id": "TM-00664",
+    "url": "/du-lich/thap-tuong-long-do-son/",
+    "title": "Tháp Tường Long Đồ Sơn: tháp thời Lý phỏng dựng 9 tầng trên núi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "tháp tường long, chùa tháp tường long, tháp tường long đồ sơn, tháp đồ sơn, chùa tháp đồ sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tháp Tường Long ở đâu trên bán đảo Đồ Sơn",
+        "<p></p>"
+      ],
+      [
+        "Tháp thời Lý và số phận năm 1804",
+        "<p></p>"
+      ],
+      [
+        "Phỏng dựng 2007: tháp mới và hố khảo cổ",
+        "<p></p>"
+      ],
+      [
+        "Tham quan: tượng, chuông, tầm nhìn biển",
+        "<p></p>"
+      ],
+      [
+        "Ghép với biển Đồ Sơn trong ngày",
+        "<p></p>"
+      ],
+      [
+        "Số liệu lịch sử đang lệch",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://haiphongnews.gov.vn/vn/du-lich/chua-thap-tuong-long-danh-thang-va-diem-den-tam-linh-hap-dan-tai-hai-phong-ct437.html",
+        "quote": "Cổng TTĐT Hải Phòng – haiphongnews (đọc 14/10/2026): tháp còn gọi chùa Tháp, tháp Đồ Sơn, xây thời Lý Thánh Tông; theo Đại Nam nhất thống chí tháp 9 tầng, trên đất rộng 1000 m2, cao 100 thước (tương đương 45 m), trên núi cao hơn 100 m so với mặt biển; năm 1804 nhà Nguyễn phá tháp lấy gạch xây thành Hải Dương; gạch in 'Long Thụy Thái Bình tứ niên tạo'; năm 2007 phỏng dựng trên nền cũ khoảng 2.000 m2, tháp 9 tầng, tượng A-di-đà; 20 pho tượng đồng hơn 20 tấn; chuông 1 tấn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-thap-tuong-long-di-tich-lich-su-nghin-nam-tren-dat-hai-phong-post767627.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): quần thể chùa tháp trên đỉnh Long Sơn (phường Ngọc Xuyên), ngọn núi đầu tiên trong 9 ngọn dọc bán đảo Đồ Sơn; phỏng dựng năm 2007, sau 10 năm hoàn thiện, là công trình kỷ niệm nghìn năm Thăng Long; trên bãi đất khoảng 2.000 m2, phường Vạn Sơn, quận Đồ Sơn (cũ).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hpta.vn/rMzgxdg.html",
+        "quote": "Hiệp hội Du lịch Hải Phòng (đọc 14/10/2026): tháp tuổi đời lên đến 10 thế kỷ, từng là đại danh lam kiêm hành cung thời Lý; điểm đến tâm linh đầu năm; đoạn trích Tavily nêu năm 1058, núi cao 128 m và khánh thành 2017.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00664"
+  }
+}
