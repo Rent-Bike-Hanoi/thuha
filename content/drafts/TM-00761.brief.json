@@ -1,0 +1,145 @@
+{
+  "writer": "writer-Z4",
+  "queued": "2026-10-14T06:00:52.239216+00:00",
+  "topic": {
+    "topic_id": "TM-00761",
+    "url": "/du-lich/chua-am-vai-luc-ngan/",
+    "title": "Chùa Am Vãi Lục Ngạn: chùa Trúc Lâm trên núi Am Ni, tháp Liên Hoa thời Trần",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa am vãi",
+    "secondary_keywords": [
+      "chùa am vãi lục ngạn",
+      "am ni tự",
+      "chùa am vãi bắc giang",
+      "liên hoa bảo tháp",
+      "chùa am vãi nam dương"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lục Ngạn (hồ Cấm Sơn, Khuôn Thần) muốn ghé chùa Am Vãi trên núi: chùa thuộc đâu sau sáp nhập, có gì để xem, lịch sử và hội chùa thế nào.",
+    "information_gain": "/du-lich/ho-khuon-than/, /du-lich/ho-cam-son/ và /du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ nói về hồ và khu Tây Yên Tử ở Sơn Động, không có chùa Am Vãi. Bài mới: chùa (Am Ni tự) trên đỉnh núi Am Ni, độ cao khoảng 700 m, thuộc 3 xã Nam Dương, Tân Mộc, Tân Lập cũ; tháp đá 'Liên Hoa bảo tháp' thời Trần khắc chữ Trúc Lâm, giếng không cạn, 2 bồn đá; hội truyền thống mở lại mùng 3 tháng Ba năm 1998; di tích quốc gia theo QĐ 819/QĐ-BVHTTDL ngày 9/3/2017; Nhân Dân xếp chùa trong không gian Phật giáo Trúc Lâm Tây Yên Tử.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vjol.info.vn/tapchiviendantochoc/article/download/103144/86950",
+        "quote": "Tạp chí Dân tộc học số 1–2023, TS. Tạ Thị Tâm, 'Chùa Am Vãi và các giá trị trong phát triển du lịch tỉnh Bắc Giang' (bản PDF, đọc 14/10/2026): chùa ở huyện Lục Ngạn, độ cao khoảng 700 m, trên đỉnh núi Am Ni (địa phận 3 xã Nam Dương, Tân Mộc, Tân Lập); có giếng nước trong không bao giờ cạn và 2 bồn đá; tháp đá 'Liên Hoa bảo tháp' có bài vị khắc hai chữ Trúc Lâm; mùng 3 tháng Ba năm 1998 chùa mở hội truyền thống sau nhiều năm gián đoạn; 2010–2012 xây lại 3 gian Phật điện, 5 gian tiền tế; ngày 9/3/2017 Bộ trưởng Bộ VHTTDL ký QĐ 819/QĐ-BVHTTDL công nhận di tích lịch sử cấp quốc gia; chùa cách làng 6 km đường bộ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bac-ninh-phat-huy-gia-tri-khong-gian-phat-giao-truc-lam-di-san-van-hoa-the-gioi-post893859.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): quần thể Tây Yên Tử của tỉnh Bắc Ninh gồm chùa Am Vãi, Suối Mỡ, hồ Khuôn Thần, rừng Khe Rỗ, Thiền viện Trúc Lâm Phượng Hoàng; chùa Am Vãi (Lục Ngạn) mang dấu ấn Phật giáo thời Trần với tháp đá 'Liên Hoa bảo tháp' và giếng nước không bao giờ cạn, gắn truyền thuyết công chúa nhà Trần tu hành; lễ hội chùa thu hút đông tín đồ, du khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/chua-am-vai-bac-giang-20953",
+        "quote": "MIA.vn, cẩm nang du lịch (đọc 14/10/2026): chùa Am Vãi tên chữ Am Ni tự, trên núi Am Ni, thuộc xã Nam Dương, tỉnh Bắc Ninh (trước là xã Nam Dương, huyện Lục Ngạn, Bắc Giang cũ); năm 2017 được xếp hạng di tích cấp quốc gia; phía sau chùa còn hai tháp đá cổ thời Trần, một tháp khắc bài vị thiền sư Như Liên; huyền tích Hang Tiền, Hang Gạo, Bàn Cờ Tiên, Dấu Chân Tiên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa am vãi"
+      }
+    ],
+    "notes": "Nguồn thứ ba (MIA.vn) là trang du lịch, không phải báo; chỉ dùng cho địa danh sau sáp nhập. Bài Dân tộc học có 'chùa cách làng 6 km' trong ngữ cảnh lịch sử trông coi, không phải khoảng cách đường xe hiện nay. Chưa có nguồn về đường xe máy lên chùa, độ dốc, giờ mở cửa, ngày hội chính hiện nay (chỉ biết hội mở lại mùng 3 tháng Ba năm 1998) — writer không suy ra lịch hội năm 2027. 'Độ cao khoảng 700 m' là số của tạp chí, không phải nguồn bản đồ chính thức.",
+    "outline": [
+      "Chùa Am Vãi ở đâu sau sáp nhập",
+      "Am Ni tự trên núi cao khoảng 700 m",
+      "Liên Hoa bảo tháp và dấu Trúc Lâm thời Trần",
+      "Giếng không cạn và các huyền tích",
+      "Hội chùa và xếp hạng di tích năm 2017",
+      "Ghép với Khuôn Thần, Cấm Sơn khi đi Lục Ngạn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-khuon-than/",
+      "/du-lich/ho-cam-son/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-vinh-nghiem-bac-ninh/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00761.json",
+  "draft_template": {
+    "id": "TM-00761",
+    "url": "/du-lich/chua-am-vai-luc-ngan/",
+    "title": "Chùa Am Vãi Lục Ngạn: chùa Trúc Lâm trên núi Am Ni, tháp Liên Hoa thời Trần",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa am vãi, chùa am vãi lục ngạn, am ni tự, chùa am vãi bắc giang, liên hoa bảo tháp, chùa am vãi nam dương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Am Vãi ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Am Ni tự trên núi cao khoảng 700 m",
+        "<p></p>"
+      ],
+      [
+        "Liên Hoa bảo tháp và dấu Trúc Lâm thời Trần",
+        "<p></p>"
+      ],
+      [
+        "Giếng không cạn và các huyền tích",
+        "<p></p>"
+      ],
+      [
+        "Hội chùa và xếp hạng di tích năm 2017",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Khuôn Thần, Cấm Sơn khi đi Lục Ngạn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vjol.info.vn/tapchiviendantochoc/article/download/103144/86950",
+        "quote": "Tạp chí Dân tộc học số 1–2023, TS. Tạ Thị Tâm, 'Chùa Am Vãi và các giá trị trong phát triển du lịch tỉnh Bắc Giang' (bản PDF, đọc 14/10/2026): chùa ở huyện Lục Ngạn, độ cao khoảng 700 m, trên đỉnh núi Am Ni (địa phận 3 xã Nam Dương, Tân Mộc, Tân Lập); có giếng nước trong không bao giờ cạn và 2 bồn đá; tháp đá 'Liên Hoa bảo tháp' có bài vị khắc hai chữ Trúc Lâm; mùng 3 tháng Ba năm 1998 chùa mở hội truyền thống sau nhiều năm gián đoạn; 2010–2012 xây lại 3 gian Phật điện, 5 gian tiền tế; ngày 9/3/2017 Bộ trưởng Bộ VHTTDL ký QĐ 819/QĐ-BVHTTDL công nhận di tích lịch sử cấp quốc gia; chùa cách làng 6 km đường bộ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bac-ninh-phat-huy-gia-tri-khong-gian-phat-giao-truc-lam-di-san-van-hoa-the-gioi-post893859.html",
+        "quote": "Báo Nhân Dân (đọc 14/10/2026): quần thể Tây Yên Tử của tỉnh Bắc Ninh gồm chùa Am Vãi, Suối Mỡ, hồ Khuôn Thần, rừng Khe Rỗ, Thiền viện Trúc Lâm Phượng Hoàng; chùa Am Vãi (Lục Ngạn) mang dấu ấn Phật giáo thời Trần với tháp đá 'Liên Hoa bảo tháp' và giếng nước không bao giờ cạn, gắn truyền thuyết công chúa nhà Trần tu hành; lễ hội chùa thu hút đông tín đồ, du khách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/chua-am-vai-bac-giang-20953",
+        "quote": "MIA.vn, cẩm nang du lịch (đọc 14/10/2026): chùa Am Vãi tên chữ Am Ni tự, trên núi Am Ni, thuộc xã Nam Dương, tỉnh Bắc Ninh (trước là xã Nam Dương, huyện Lục Ngạn, Bắc Giang cũ); năm 2017 được xếp hạng di tích cấp quốc gia; phía sau chùa còn hai tháp đá cổ thời Trần, một tháp khắc bài vị thiền sư Như Liên; huyền tích Hang Tiền, Hang Gạo, Bàn Cờ Tiên, Dấu Chân Tiên.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00761"
+  }
+}
