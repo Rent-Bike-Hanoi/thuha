@@ -1,0 +1,144 @@
+{
+  "writer": "wV",
+  "queued": "2026-10-14T16:52:32.732687+00:00",
+  "topic": {
+    "topic_id": "TM-00962",
+    "url": "/du-lich/can-cu-khoi-nghia-ba-dinh-nga-son/",
+    "title": "Căn cứ khởi nghĩa Ba Đình Nga Sơn: nơi đặt tên cho quảng trường",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "căn cứ khởi nghĩa ba đình",
+    "secondary_keywords": [
+      "chiến khu ba đình nga sơn",
+      "khởi nghĩa ba đình",
+      "di tích ba đình thanh hóa",
+      "đinh công tráng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Thanh Hóa hoặc học sinh muốn xem tận nơi căn cứ khởi nghĩa Ba Đình ở Nga Sơn: còn gì, nằm đâu và vì sao quảng trường Ba Đình ở Hà Nội mang tên này.",
+    "information_gain": "Site có /du-lich/thanh-nha-ho-thanh-hoa/, /du-lich/ham-rong-thanh-hoa/ và /du-lich/khu-di-tich-lam-kinh/ nhưng chưa trang nào nói về Ba Đình (Nga Sơn). Bài mới cho: ba làng Mậu Thịnh, Thượng Thọ, Mỹ Khê với ba ngôi đình nhìn thấy nhau; thành đất cao 3 m, rộng 400 m, dài 1.200 m; 32 ngày đêm chống trả cuối 1886; quyết định xếp hạng 3959 ngày 02/12/1992; tình trạng phế tích (bia trong Trường THCS Ba Đình) và dự án tôn tạo gia hạn đến 6/2026; liên hệ tên quảng trường Ba Đình.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/ban-doc/613118/Nguy-co-di-tich-thanh-phe-tich-tpp.html",
+        "quote": "Báo Tiền Phong, 'Nguy cơ di tích thành phế tích' (04/02/2013): di tích căn cứ khởi nghĩa Ba Đình ở xã Ba Đình, cách trung tâm huyện Nga Sơn khoảng 3 km về phía tây bắc, xếp hạng cấp quốc gia năm 1993; căn cứ gọi là Ba Đình vì mỗi làng (làng Mậu, làng Thượng, làng Mỹ Khê) có một cái đình nhìn thấy nhau; phía trong là thành đất cao 3 m, chân rộng 8–10 m, thành rộng 400 m, dài 1.200 m; cao điểm năm 1886 lực lượng gần hai vạn người; nay thành lũy còn ít dấu vết, nơi nằm trong khuôn viên Trường THCS Ba Đình, có tấm bia đá ghi tên di tích; một bia cổ để tạm ở sân UBND xã.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/thanh-hoa-gia-han-du-an-bao-ton-di-tich-khu-can-cu-khoi-nghia-ba-dinh-a298484.html",
+        "quote": "Thương hiệu và Công luận, 'Thanh Hóa gia hạn dự án bảo tồn di tích Khu căn cứ khởi nghĩa Ba Đình' (03/01/2026): UBND tỉnh gia hạn dự án bảo tồn, tôn tạo (hạng mục đền thờ các thủ lĩnh và nghĩa quân) đến chậm nhất tháng 6/2026 do thiên tai năm 2025; khởi nghĩa Ba Đình 1886–1887 là đỉnh cao phong trào Cần Vương ở Nga Sơn; địa danh được chọn đặt tên Quảng trường Ba Đình ở Hà Nội; di tích xếp hạng cấp quốc gia theo Quyết định số 3959-QĐ/BVHTT ngày 02/12/1992.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/english-through-the-news/467174/farmer-uprising-remembered.html",
+        "quote": "Việt Nam News, 'Farmer uprising remembered': khởi nghĩa Ba Đình 1886–87 do Đinh Công Tráng, Phạm Bành và Hoàng Bật Đạt chỉ huy; cuối năm 1886 Pháp đưa hàng nghìn quân tấn công, nghĩa quân chống trả 32 ngày đêm; giữa năm 1945 Thị trưởng Hà Nội Trần Văn Lai đổi tên quảng trường Puginier thành quảng trường Ba Đình.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "căn cứ khởi nghĩa ba đình"
+      }
+    ],
+    "notes": "Mâu thuẫn năm xếp hạng: Tiền Phong ghi 1993, Thương hiệu và Công luận ghi QĐ 3959 ngày 02/12/1992 – nêu quyết định 1992 và ghi chú. Tên ba làng: Tiền Phong viết 'làng Mậu, làng Thượng, làng Mỹ Khê' – không tự thêm tên đầy đủ khác. Chưa xác minh dự án đã hoàn thành sau 6/2026. Không có giờ mở cửa. Không nêu giá. Đơn vị hành chính sau sáp nhập (xã Ba Đình) theo bài 2026.",
+    "outline": [
+      "Ba Đình ở Nga Sơn: vì sao gọi là 'ba đình'",
+      "Thành lũy tre và đất: quy mô năm 1886",
+      "32 ngày đêm và các thủ lĩnh Cần Vương",
+      "Hôm nay còn gì: bia trong trường THCS, dự án đền thờ",
+      "Liên hệ với Quảng trường Ba Đình ở Hà Nội",
+      "Ghép lộ trình xe máy với các điểm khác ở Thanh Hóa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00962.json",
+  "draft_template": {
+    "id": "TM-00962",
+    "url": "/du-lich/can-cu-khoi-nghia-ba-dinh-nga-son/",
+    "title": "Căn cứ khởi nghĩa Ba Đình Nga Sơn: nơi đặt tên cho quảng trường",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "căn cứ khởi nghĩa ba đình, chiến khu ba đình nga sơn, khởi nghĩa ba đình, di tích ba đình thanh hóa, đinh công tráng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ba Đình ở Nga Sơn: vì sao gọi là 'ba đình'",
+        "<p></p>"
+      ],
+      [
+        "Thành lũy tre và đất: quy mô năm 1886",
+        "<p></p>"
+      ],
+      [
+        "32 ngày đêm và các thủ lĩnh Cần Vương",
+        "<p></p>"
+      ],
+      [
+        "Hôm nay còn gì: bia trong trường THCS, dự án đền thờ",
+        "<p></p>"
+      ],
+      [
+        "Liên hệ với Quảng trường Ba Đình ở Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Ghép lộ trình xe máy với các điểm khác ở Thanh Hóa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/ban-doc/613118/Nguy-co-di-tich-thanh-phe-tich-tpp.html",
+        "quote": "Báo Tiền Phong, 'Nguy cơ di tích thành phế tích' (04/02/2013): di tích căn cứ khởi nghĩa Ba Đình ở xã Ba Đình, cách trung tâm huyện Nga Sơn khoảng 3 km về phía tây bắc, xếp hạng cấp quốc gia năm 1993; căn cứ gọi là Ba Đình vì mỗi làng (làng Mậu, làng Thượng, làng Mỹ Khê) có một cái đình nhìn thấy nhau; phía trong là thành đất cao 3 m, chân rộng 8–10 m, thành rộng 400 m, dài 1.200 m; cao điểm năm 1886 lực lượng gần hai vạn người; nay thành lũy còn ít dấu vết, nơi nằm trong khuôn viên Trường THCS Ba Đình, có tấm bia đá ghi tên di tích; một bia cổ để tạm ở sân UBND xã.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/thanh-hoa-gia-han-du-an-bao-ton-di-tich-khu-can-cu-khoi-nghia-ba-dinh-a298484.html",
+        "quote": "Thương hiệu và Công luận, 'Thanh Hóa gia hạn dự án bảo tồn di tích Khu căn cứ khởi nghĩa Ba Đình' (03/01/2026): UBND tỉnh gia hạn dự án bảo tồn, tôn tạo (hạng mục đền thờ các thủ lĩnh và nghĩa quân) đến chậm nhất tháng 6/2026 do thiên tai năm 2025; khởi nghĩa Ba Đình 1886–1887 là đỉnh cao phong trào Cần Vương ở Nga Sơn; địa danh được chọn đặt tên Quảng trường Ba Đình ở Hà Nội; di tích xếp hạng cấp quốc gia theo Quyết định số 3959-QĐ/BVHTT ngày 02/12/1992.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/english-through-the-news/467174/farmer-uprising-remembered.html",
+        "quote": "Việt Nam News, 'Farmer uprising remembered': khởi nghĩa Ba Đình 1886–87 do Đinh Công Tráng, Phạm Bành và Hoàng Bật Đạt chỉ huy; cuối năm 1886 Pháp đưa hàng nghìn quân tấn công, nghĩa quân chống trả 32 ngày đêm; giữa năm 1945 Thị trưởng Hà Nội Trần Văn Lai đổi tên quảng trường Puginier thành quảng trường Ba Đình.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00962"
+  }
+}

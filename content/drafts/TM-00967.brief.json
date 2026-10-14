@@ -1,0 +1,144 @@
+{
+  "writer": "wV",
+  "queued": "2026-10-14T16:52:36.654654+00:00",
+  "topic": {
+    "topic_id": "TM-00967",
+    "url": "/du-lich/den-long-dong-mac-dinh-chi/",
+    "title": "Đền Long Động: nơi thờ Lưỡng quốc Trạng nguyên Mạc Đĩnh Chi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền long động",
+    "secondary_keywords": [
+      "đền thờ mạc đĩnh chi",
+      "lễ hội đền long động",
+      "mạc đĩnh chi quê ở đâu",
+      "tam hiền lũng động"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hải Dương cũ (nay Hải Phòng) hoặc phụ huynh, học sinh muốn thăm đền thờ Mạc Đĩnh Chi: ở đâu, thờ những ai, lễ hội khi nào.",
+    "information_gain": "Site có /du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/, /du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/ và /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ nhưng chưa trang nào về đền Long Động. Bài mới cho: ba vị khoa bảng được thờ (Mạc Hiển Tích đỗ 1086, Mạc Kiến Quan, Mạc Đĩnh Chi đỗ Trạng nguyên 1304), phối thờ liệt sĩ Mạc Thị Bưởi, xếp hạng quốc gia 1995, điểm du lịch cấp tỉnh 2019, lễ khai hội tháng 2 âm lịch, các dấu tích Trạng nguyên cổ đường – khu lăng quan Trạng – điện Sùng Đức.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/khai-hoi-den-long-dong-va-tuong-niem-ngay-mat-danh-nhan-mac-dinh-chi-27836.html",
+        "quote": "Mekong ASEAN, 'Khai hội đền Long Động và tưởng niệm ngày mất danh nhân Mạc Đĩnh Chi' (18/03/2024): sáng 18/3 (9/2 âm lịch) huyện Nam Sách tổ chức khai hội đền Long Động, xã Nam Tân; đền thờ 3 danh nhân khoa bảng: Mạc Hiển Tích (đỗ đầu năm 1086), Mạc Kiến Quan, Mạc Đĩnh Chi; phối thờ liệt sĩ Mạc Thị Bưởi (hy sinh 23/4/1951); Mạc Đĩnh Chi quê làng Lũng Động, đỗ trạng nguyên năm Giáp Thìn 1304; Nam Sách còn dấu tích đền Long Động, Trạng nguyên cổ đường, khu lăng quan Trạng và điện Sùng Đức; năm 1995 Nhà nước cấp bằng di tích lịch sử cấp quốc gia, năm 2019 UBND tỉnh Hải Dương công nhận điểm du lịch cấp tỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/tuong-nho-680-nam-ngay-mat-cua-luong-quoc-trang-nguyen-mac-dinh-chi-215196.html",
+        "quote": "Báo Văn hóa (28/03/2026): Lễ kỷ niệm 680 năm ngày mất Trạng nguyên Mạc Đĩnh Chi (1346–2026) tại Văn Miếu – Quốc Tử Giám; ông quê làng Lũng Động, huyện Chí Linh (nay thuộc thôn Long Động, xã Hợp Tiến, TP. Hải Phòng); đỗ Trạng nguyên khoa Thái học sinh niên hiệu Hưng Long đời Trần Anh Tông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/print/354259.html",
+        "quote": "Báo Hải Phòng (bản in), 'Five sites in Nam Sach recognized as tourist destinations' (06/09/2019): UBND tỉnh Hải Dương công nhận 5 điểm du lịch ở Nam Sách, trong đó có đền Long Động ở xã Nam Tân.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền long động"
+      }
+    ],
+    "notes": "Mâu thuẫn: Mekong ASEAN ghi Mạc Đĩnh Chi sinh 1272 và đỗ năm 1304 'khi mới 24 tuổi' (không khớp); Báo Văn hóa ghi sinh năm Giáp Thìn (1304). KHÔNG nêu năm sinh. Địa danh sau sáp nhập: xã Nam Tân cũ → nay thôn Long Động, xã Hợp Tiến, TP Hải Phòng (theo Báo Văn hóa 2026). Vị trí lăng Quán Tràng chưa xác minh – không đưa. Ngày lễ theo âm lịch (9/2 âl năm 2024) – nói 'đầu tháng 2 âm lịch' kèm khuyến nghị kiểm tra. Không nêu giá.",
+    "outline": [
+      "Đền Long Động ở đâu sau sáp nhập",
+      "Ba vị khoa bảng 'Tam hiền Lũng Động'",
+      "Mạc Đĩnh Chi và danh xưng Lưỡng quốc Trạng nguyên",
+      "Lễ khai hội tháng 2 âm lịch và lễ rước",
+      "Các dấu tích quanh làng: cổ đường, lăng quan Trạng, điện Sùng Đức",
+      "Ghép tuyến Côn Sơn – Kiếp Bạc bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+      "/du-lich/bao-tang-hai-phong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00967.json",
+  "draft_template": {
+    "id": "TM-00967",
+    "url": "/du-lich/den-long-dong-mac-dinh-chi/",
+    "title": "Đền Long Động: nơi thờ Lưỡng quốc Trạng nguyên Mạc Đĩnh Chi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền long động, đền thờ mạc đĩnh chi, lễ hội đền long động, mạc đĩnh chi quê ở đâu, tam hiền lũng động",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Long Động ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Ba vị khoa bảng 'Tam hiền Lũng Động'",
+        "<p></p>"
+      ],
+      [
+        "Mạc Đĩnh Chi và danh xưng Lưỡng quốc Trạng nguyên",
+        "<p></p>"
+      ],
+      [
+        "Lễ khai hội tháng 2 âm lịch và lễ rước",
+        "<p></p>"
+      ],
+      [
+        "Các dấu tích quanh làng: cổ đường, lăng quan Trạng, điện Sùng Đức",
+        "<p></p>"
+      ],
+      [
+        "Ghép tuyến Côn Sơn – Kiếp Bạc bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/khai-hoi-den-long-dong-va-tuong-niem-ngay-mat-danh-nhan-mac-dinh-chi-27836.html",
+        "quote": "Mekong ASEAN, 'Khai hội đền Long Động và tưởng niệm ngày mất danh nhân Mạc Đĩnh Chi' (18/03/2024): sáng 18/3 (9/2 âm lịch) huyện Nam Sách tổ chức khai hội đền Long Động, xã Nam Tân; đền thờ 3 danh nhân khoa bảng: Mạc Hiển Tích (đỗ đầu năm 1086), Mạc Kiến Quan, Mạc Đĩnh Chi; phối thờ liệt sĩ Mạc Thị Bưởi (hy sinh 23/4/1951); Mạc Đĩnh Chi quê làng Lũng Động, đỗ trạng nguyên năm Giáp Thìn 1304; Nam Sách còn dấu tích đền Long Động, Trạng nguyên cổ đường, khu lăng quan Trạng và điện Sùng Đức; năm 1995 Nhà nước cấp bằng di tích lịch sử cấp quốc gia, năm 2019 UBND tỉnh Hải Dương công nhận điểm du lịch cấp tỉnh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/tuong-nho-680-nam-ngay-mat-cua-luong-quoc-trang-nguyen-mac-dinh-chi-215196.html",
+        "quote": "Báo Văn hóa (28/03/2026): Lễ kỷ niệm 680 năm ngày mất Trạng nguyên Mạc Đĩnh Chi (1346–2026) tại Văn Miếu – Quốc Tử Giám; ông quê làng Lũng Động, huyện Chí Linh (nay thuộc thôn Long Động, xã Hợp Tiến, TP. Hải Phòng); đỗ Trạng nguyên khoa Thái học sinh niên hiệu Hưng Long đời Trần Anh Tông.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/print/354259.html",
+        "quote": "Báo Hải Phòng (bản in), 'Five sites in Nam Sach recognized as tourist destinations' (06/09/2019): UBND tỉnh Hải Dương công nhận 5 điểm du lịch ở Nam Sách, trong đó có đền Long Động ở xã Nam Tân.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00967"
+  }
+}

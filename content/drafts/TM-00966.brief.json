@@ -1,0 +1,144 @@
+{
+  "writer": "wV",
+  "queued": "2026-10-14T16:52:35.875605+00:00",
+  "topic": {
+    "topic_id": "TM-00966",
+    "url": "/du-lich/thap-chuong-son-y-yen/",
+    "title": "Tháp Chương Sơn Ý Yên: dấu tích bảo tháp thời Lý 1108–1117",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "tháp chương sơn",
+    "secondary_keywords": [
+      "bảo tháp vạn phong thành thiện",
+      "núi chương sơn ý yên",
+      "chùa ngô xá",
+      "phế tích thời lý nam định"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mê khảo cổ, đi Nam Định muốn biết tháp Chương Sơn thời Lý còn gì để xem và đi thế nào.",
+    "information_gain": "Site có /du-lich/chua-pho-minh/, /du-lich/den-tran-nam-dinh-di-xe-may/ và /du-lich/co-do-hoa-lu/ nhưng chưa trang nào về tháp Chương Sơn. Bài mới cho: tên gốc Bảo tháp Vạn Phong Thành Thiện, mốc 1108 khởi công – 1117 khánh thành theo Việt sử lược và Toàn thư, ba lần 'rồng vàng hiện', bị quân Minh phá ở thế kỷ XV, đợt khai quật 1966–1967 và thành bậc lan can đá dài 205 cm (bảo vật quốc gia), chùa Ngô Xá dưới chân núi; khảo sát núi Phương Nhi đối diện có tháp đất nung thời Lý.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/khai-quat-phe-tich-tren-ngon-nui-thieng-tung-co-rong-xuat-hien-bao-vat-nghin-nam-tuoi-tu-thoi-nha-ly-lo-dien-118258.html",
+        "quote": "Người Quan Sát, 'Khai quật phế tích trên ngọn núi thiêng từng có rồng xuất hiện...': Bảo tháp Vạn Phong Thành Thiện hay bảo tháp Chương Sơn xây dưới thời Lý Nhân Tông trên đỉnh núi Chương Sơn (xã Yên Lợi, huyện Ý Yên, Nam Định); khởi dựng năm 1108, hoàn thành năm 1117 (dẫn Việt sử lược và Đại Việt sử ký toàn thư); Việt sử lược ghi rồng vàng xuất hiện 3 lần vào các năm 1107, 1114, 1117; quân Minh phá hủy tháp và chùa ở thế kỷ XV; khai quật năm 1966–1967 tìm thấy hàng trăm di vật, nổi bật là thành bậc lan can đá dài 205 cm, cao 46 cm, dày 17 cm – được công nhận Bảo vật quốc gia; chùa Ngô Xá (Phi Lai tự) dưới chân núi lưu giữ nhiều bảo vật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/sunday/features/393272/statue-recalls-the-glories-of-the-ly-dynasty.html",
+        "quote": "Việt Nam News, 'Statue recalls the glories of the Lý Dynasty': năm đăng bài là dịp kỷ niệm 900 năm tháp Chương Sơn trên đỉnh núi cùng tên ở Nam Định; tượng người cổ được phát hiện những năm 1960 khi khảo sát di tích Chương Sơn, người dân đã mang xuống bảo quản ở chùa Ngô Xá dưới chân núi.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/en/Articles/3181/8499/the-vestige-of-ly-dynasty-in-phuong-nhi-mountain-y-yen-district-nam-djinh-province.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'The vestige of Lý dynasty in Phương Nhi mountain, Ý Yên district, Nam Định province': núi Ngô Xá đối diện là nơi có phế tích chùa Chương Sơn nổi tiếng; núi Phương Nhi gần đó có ba đỉnh với vật liệu kiến trúc mang phong cách thời Lý và nhiều tháp đất nung 3, 5, 7 tầng; mặt núi bị đào trộm nhiều.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "tháp chương sơn"
+      }
+    ],
+    "notes": "Người Quan Sát ghi 'Năm 1025, thành bậc lan can... được công nhận Bảo vật quốc gia' – rõ là lỗi gõ năm; KHÔNG nêu năm công nhận. Không có nguồn về xếp hạng di tích của tháp/phế tích hiện nay – không khẳng định cấp xếp hạng. Ý Yên nay thuộc tỉnh Ninh Bình (sau sáp nhập 2025) – kiểm tra lại cách gọi. Hiện trên đỉnh núi chỉ là phế tích; không hứa hẹn 'tháp còn nguyên'. Không nêu giá.",
+    "outline": [
+      "Tháp Chương Sơn ở đâu và tên gọi Vạn Phong Thành Thiện",
+      "Từ 1108 đến 1117: sử sách chép gì",
+      "Bị phá ở thế kỷ XV và đợt khai quật 1966–1967",
+      "Thành bậc lan can đá và chùa Ngô Xá dưới chân núi",
+      "Núi Phương Nhi: cụm phế tích thời Lý bên cạnh",
+      "Đi xe máy và ghép tuyến Nam Định – Hoa Lư"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-pho-minh/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/co-do-hoa-lu/",
+      "/du-lich/bao-tang-lich-su-quoc-gia/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00966.json",
+  "draft_template": {
+    "id": "TM-00966",
+    "url": "/du-lich/thap-chuong-son-y-yen/",
+    "title": "Tháp Chương Sơn Ý Yên: dấu tích bảo tháp thời Lý 1108–1117",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "tháp chương sơn, bảo tháp vạn phong thành thiện, núi chương sơn ý yên, chùa ngô xá, phế tích thời lý nam định",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tháp Chương Sơn ở đâu và tên gọi Vạn Phong Thành Thiện",
+        "<p></p>"
+      ],
+      [
+        "Từ 1108 đến 1117: sử sách chép gì",
+        "<p></p>"
+      ],
+      [
+        "Bị phá ở thế kỷ XV và đợt khai quật 1966–1967",
+        "<p></p>"
+      ],
+      [
+        "Thành bậc lan can đá và chùa Ngô Xá dưới chân núi",
+        "<p></p>"
+      ],
+      [
+        "Núi Phương Nhi: cụm phế tích thời Lý bên cạnh",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và ghép tuyến Nam Định – Hoa Lư",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/khai-quat-phe-tich-tren-ngon-nui-thieng-tung-co-rong-xuat-hien-bao-vat-nghin-nam-tuoi-tu-thoi-nha-ly-lo-dien-118258.html",
+        "quote": "Người Quan Sát, 'Khai quật phế tích trên ngọn núi thiêng từng có rồng xuất hiện...': Bảo tháp Vạn Phong Thành Thiện hay bảo tháp Chương Sơn xây dưới thời Lý Nhân Tông trên đỉnh núi Chương Sơn (xã Yên Lợi, huyện Ý Yên, Nam Định); khởi dựng năm 1108, hoàn thành năm 1117 (dẫn Việt sử lược và Đại Việt sử ký toàn thư); Việt sử lược ghi rồng vàng xuất hiện 3 lần vào các năm 1107, 1114, 1117; quân Minh phá hủy tháp và chùa ở thế kỷ XV; khai quật năm 1966–1967 tìm thấy hàng trăm di vật, nổi bật là thành bậc lan can đá dài 205 cm, cao 46 cm, dày 17 cm – được công nhận Bảo vật quốc gia; chùa Ngô Xá (Phi Lai tự) dưới chân núi lưu giữ nhiều bảo vật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/sunday/features/393272/statue-recalls-the-glories-of-the-ly-dynasty.html",
+        "quote": "Việt Nam News, 'Statue recalls the glories of the Lý Dynasty': năm đăng bài là dịp kỷ niệm 900 năm tháp Chương Sơn trên đỉnh núi cùng tên ở Nam Định; tượng người cổ được phát hiện những năm 1960 khi khảo sát di tích Chương Sơn, người dân đã mang xuống bảo quản ở chùa Ngô Xá dưới chân núi.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/en/Articles/3181/8499/the-vestige-of-ly-dynasty-in-phuong-nhi-mountain-y-yen-district-nam-djinh-province.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'The vestige of Lý dynasty in Phương Nhi mountain, Ý Yên district, Nam Định province': núi Ngô Xá đối diện là nơi có phế tích chùa Chương Sơn nổi tiếng; núi Phương Nhi gần đó có ba đỉnh với vật liệu kiến trúc mang phong cách thời Lý và nhiều tháp đất nung 3, 5, 7 tầng; mặt núi bị đào trộm nhiều.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00966"
+  }
+}
