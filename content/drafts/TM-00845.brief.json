@@ -1,0 +1,143 @@
+{
+  "writer": "writer-J2",
+  "queued": "2026-10-14T15:17:08.759014+00:00",
+  "topic": {
+    "topic_id": "TM-00845",
+    "url": "/du-lich/lang-nam-dam-quan-ba/",
+    "title": "Làng Nậm Đăm Quản Bạ: làng Dao dưới Cổng trời, homestay từ 2012",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng nậm đăm",
+    "secondary_keywords": [
+      "nặm đăm quản bạ",
+      "homestay nậm đăm",
+      "làng văn hóa du lịch nậm đăm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hà Giang muốn nghỉ đêm đầu ở làng Dao Nậm Đăm gần Cổng trời Quản Bạ: làng thế nào, có gì trải nghiệm.",
+    "information_gain": "Chưa có bài: /du-lich/cong-troi-quan-ba-nui-doi/ chỉ là điểm dừng trên QL4C, /du-lich/hang-lung-khuy-quan-ba/ là hang. Bài mới cho Nậm Đăm: 60 hộ, 288 nhân khẩu người Dao, làm du lịch cộng đồng từ 2012 (dự án Caritas Thụy Sĩ và PanNature 2012–2014), nhà trình tường, lễ Cấp sắc biểu diễn cho khách, chuẩn homestay ASEAN 2017, HTX lá thuốc, mùa tam giác mạch.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/dieu-ky-dieu-o-ban-du-lich-cua-nguoi-dao-duoi-chan-cong-troi-quan-ba.html",
+        "quote": "VnBusiness (17/6/2023, đọc 14/10/2026): thôn Nặm Đăm, xã Quản Bạ, huyện Quản Bạ, nằm dưới chân Cổng Trời Quản Bạ; toàn thôn 60 hộ, 288 nhân khẩu đều là người Dao; từ năm 2012 được tỉnh, huyện, xã hỗ trợ xây dựng làng văn hóa du lịch cộng đồng; năm 2023 là năm thứ 11 kể từ khi ông Lý Quốc Thắng đón khách đầu tiên; HTX du lịch cộng đồng Quản Bạ thành lập 2018 có 30 thành viên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/den-nam-dam-trai-nghiem-cuoc-song-cua-dong-bao-dao-cham-d203540.html",
+        "quote": "Báo Đầu tư (22/11/2023, đọc 14/10/2026): khách ở nhà trình tường (tường đất nện) cùng gia đình; lễ Cấp sắc là đặc sắc nhất, thôn có đội văn nghệ hơn chục người biểu diễn trích đoạn; năm 2012–2014 Caritas (Thụy Sĩ) và PanNature chọn Nậm Đăm làm dự án phát triển cộng đồng, xây tuyến trekking; làng có khoảng 60 hộ, gần 40 hộ được quy hoạch làm du lịch; năm 2017 Dao Homestay Nặm Đăm đạt tiêu chuẩn ASEAN.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nhung-lua-chon-o-nam-dam-post629525.html",
+        "quote": "Nhân Dân (26/12/2020, đọc 14/10/2026): làng văn hóa Nậm Đăm, huyện Quản Bạ, Hà Giang có HTX Cộng đồng thôn Nậm Đăm ở cuối làng, cơ sở giới thiệu sản phẩm bản địa và HTX lá thuốc; khách đông vào mùa tam giác mạch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng nậm đăm"
+      }
+    ],
+    "notes": "Tên viết 'Nậm Đăm'/'Nặm Đăm' tùy báo — dùng cả hai trong bài. Số hộ làm du lịch lệch (gần 40 hộ quy hoạch, 26 hộ ở trang khác chưa đọc kỹ). Khoảng cách từ TP Hà Giang 45–47 km chỉ thấy ở snippet, chưa đọc đầy đủ — không đưa số. Từ 7/2025 thuộc tỉnh Tuyên Quang. Bungalow/bể bơi trong bài Nhân Dân là dịch vụ tư nhân, không quảng bá.",
+    "outline": [
+      "Nậm Đăm nằm ở đâu so với Cổng trời Quản Bạ",
+      "Làng Dao làm du lịch từ 2012",
+      "Nhà trình tường và homestay",
+      "Lễ Cấp sắc, lá thuốc tắm",
+      "Mùa nào đẹp",
+      "Đi xe máy vào làng: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cong-troi-quan-ba-nui-doi/",
+      "/du-lich/hang-lung-khuy-quan-ba/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/du-lich/deo-ma-pi-leng-va-dong-van/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00845.json",
+  "draft_template": {
+    "id": "TM-00845",
+    "url": "/du-lich/lang-nam-dam-quan-ba/",
+    "title": "Làng Nậm Đăm Quản Bạ: làng Dao dưới Cổng trời, homestay từ 2012",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng nậm đăm, nặm đăm quản bạ, homestay nậm đăm, làng văn hóa du lịch nậm đăm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nậm Đăm nằm ở đâu so với Cổng trời Quản Bạ",
+        "<p></p>"
+      ],
+      [
+        "Làng Dao làm du lịch từ 2012",
+        "<p></p>"
+      ],
+      [
+        "Nhà trình tường và homestay",
+        "<p></p>"
+      ],
+      [
+        "Lễ Cấp sắc, lá thuốc tắm",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đẹp",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy vào làng: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/dieu-ky-dieu-o-ban-du-lich-cua-nguoi-dao-duoi-chan-cong-troi-quan-ba.html",
+        "quote": "VnBusiness (17/6/2023, đọc 14/10/2026): thôn Nặm Đăm, xã Quản Bạ, huyện Quản Bạ, nằm dưới chân Cổng Trời Quản Bạ; toàn thôn 60 hộ, 288 nhân khẩu đều là người Dao; từ năm 2012 được tỉnh, huyện, xã hỗ trợ xây dựng làng văn hóa du lịch cộng đồng; năm 2023 là năm thứ 11 kể từ khi ông Lý Quốc Thắng đón khách đầu tiên; HTX du lịch cộng đồng Quản Bạ thành lập 2018 có 30 thành viên.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/den-nam-dam-trai-nghiem-cuoc-song-cua-dong-bao-dao-cham-d203540.html",
+        "quote": "Báo Đầu tư (22/11/2023, đọc 14/10/2026): khách ở nhà trình tường (tường đất nện) cùng gia đình; lễ Cấp sắc là đặc sắc nhất, thôn có đội văn nghệ hơn chục người biểu diễn trích đoạn; năm 2012–2014 Caritas (Thụy Sĩ) và PanNature chọn Nậm Đăm làm dự án phát triển cộng đồng, xây tuyến trekking; làng có khoảng 60 hộ, gần 40 hộ được quy hoạch làm du lịch; năm 2017 Dao Homestay Nặm Đăm đạt tiêu chuẩn ASEAN.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nhung-lua-chon-o-nam-dam-post629525.html",
+        "quote": "Nhân Dân (26/12/2020, đọc 14/10/2026): làng văn hóa Nậm Đăm, huyện Quản Bạ, Hà Giang có HTX Cộng đồng thôn Nậm Đăm ở cuối làng, cơ sở giới thiệu sản phẩm bản địa và HTX lá thuốc; khách đông vào mùa tam giác mạch.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00845"
+  }
+}

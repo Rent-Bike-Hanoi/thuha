@@ -1,0 +1,144 @@
+{
+  "writer": "writer-J1",
+  "queued": "2026-10-14T15:17:08.310665+00:00",
+  "topic": {
+    "topic_id": "TM-00842",
+    "url": "/du-lich/bia-le-loi-nam-nhun/",
+    "title": "Bia Lê Lợi Nậm Nhùn: văn bia khắc năm 1431, bảo vật quốc gia, đền thờ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bia lê lợi",
+    "secondary_keywords": [
+      "đền thờ vua lê thái tổ lai châu",
+      "bia cổ hoài lai",
+      "lễ hội đền thờ vua lê thái tổ",
+      "nậm nhùn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lai Châu muốn ghé bia Lê Lợi: bia ở đâu sau khi di dời, xem gì ở đền, lễ hội tháng mấy.",
+    "information_gain": "Chưa có bài nào về bia Lê Lợi hay đền thờ vua Lê Thái Tổ ở Nậm Nhùn; /du-lich/cao-nguyen-sin-ho/ và /du-lich/ban-vang-pheo-lai-chau/ chỉ phủ các điểm khác của Lai Châu. Bài mới cho: văn bia khắc tháng Chạp năm Tân Hợi 1431 trên vách Pú Huổi Chỏ bên sông Đà; xếp hạng di tích 1981; bảo vật quốc gia theo QĐ 2496/QĐ-TTg ngày 22/12/2016; khối đá trên 15 tấn cắt năm 2009, dời 500 m về khuôn viên đền năm 2012 do thủy điện Sơn La; quần thể khoảng 2,4 ha; lễ hội đầu xuân (2025: 7–9/2), cách TP Lai Châu hơn 120 km.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaichau.vn/du-lich/phat-huy-gia-tri-lich-su-den-tho-vua-le-thai-to-dong-luc-phat-trien-du-lich-nam-nhun",
+        "quote": "Báo Lai Châu (07/02/2025, đọc 14/10/2026): Đền thờ Vua Lê Thái Tổ ở xã Lê Lợi, huyện Nậm Nhùn, cách thành phố Lai Châu hơn 120 km; Lễ hội năm 2025 quy mô cấp tỉnh diễn ra 7–9/2. Tháng Chạp năm Tân Hợi (1431) vua cho khắc văn bia vào vách đá Pú Huổi Chỏ bên bờ sông Đà (Bia cổ Hoài Lai). Bia được xếp hạng di tích quốc gia theo Quyết định 10/VH-QĐ ngày 02/9/1981. Năm 2005 thủy điện Sơn La khởi công; văn bia được khoan cắt, di dời đến khuôn viên đền cách vị trí cũ 500 m năm 2012; quần thể 'Địa điểm lưu niệm Đền thờ Vua Lê Thái Tổ' thuộc 2 xã Lê Lợi, Pú Đao, khoảng 2,4 ha.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaichau.vn/van-hoa/den-tho-vua-le-loi-diem-den-hap-dan-dau-xuan-moi",
+        "quote": "Báo Lai Châu (24/02/2024, đọc 14/10/2026): Bảo vật quốc gia Bia vua Lê Thái Tổ – Bia cổ Hoài Lai được công nhận đợt 5 năm 2016 tại Quyết định 2496/QĐ-TTg ngày 22/12/2016. Năm 2009 văn bia được khoan cắt thành khối đá trên 15 tấn; năm 2012 chuyển đến vị trí hiện nay cách vị trí cũ 500 m. Đầu xuân huyện tổ chức lễ hội đền; gần đó có đỉnh Pú Đao cao hơn 1.600 m và tuyến thuyền trên lòng hồ thủy điện Sơn La, Lai Châu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/diem-den/den-tho-vua-le-loi-diem-den-hap-dan-du-khach-ngay-dau-nam-3190.html",
+        "quote": "Báo Văn hóa (18/02/2022, đọc 14/10/2026): Đền thờ Vua Lê Lợi ở xã Lê Lợi, huyện Nậm Nhùn là di tích nổi bật nhất của Lai Châu; du khách xem bia Lê Lợi – bảo vật quốc gia, thủ nhang Vũ Phong Oanh giới thiệu; ngày đầu năm có múa xòe của đồng bào Thái.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bia lê lợi"
+      }
+    ],
+    "notes": "Huyện Nậm Nhùn đã bị bỏ cấp huyện từ 7/2025; xã Lê Lợi/Pú Đao có thể đã sáp nhập — người viết ghi 'huyện Nậm Nhùn (cũ)' và không khẳng định tên xã mới. Một số trang ghi bia là 'di tích quốc gia đặc biệt' — nguồn đã đọc chỉ xác nhận di tích quốc gia (1981) và bảo vật quốc gia (2016). Lịch lễ hội 2027 chưa công bố. Đường từ TP Lai Châu chưa có nguồn chi tiết; giữ 'hơn 120 km'.",
+    "outline": [
+      "Bia Lê Lợi là gì, khắc năm nào",
+      "Vì sao bia rời vách Pú Huổi Chỏ",
+      "Đền thờ và quần thể lưu niệm hôm nay",
+      "Lễ hội đầu xuân",
+      "Ghép với Pú Đao, lòng hồ thủy điện",
+      "Đi xe máy từ TP Lai Châu: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cao-nguyen-sin-ho/",
+      "/du-lich/ban-vang-pheo-lai-chau/",
+      "/du-lich/muong-lay-dien-bien/",
+      "/du-lich/dong-pu-sam-cap-lai-chau/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00842.json",
+  "draft_template": {
+    "id": "TM-00842",
+    "url": "/du-lich/bia-le-loi-nam-nhun/",
+    "title": "Bia Lê Lợi Nậm Nhùn: văn bia khắc năm 1431, bảo vật quốc gia, đền thờ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bia lê lợi, đền thờ vua lê thái tổ lai châu, bia cổ hoài lai, lễ hội đền thờ vua lê thái tổ, nậm nhùn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bia Lê Lợi là gì, khắc năm nào",
+        "<p></p>"
+      ],
+      [
+        "Vì sao bia rời vách Pú Huổi Chỏ",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ và quần thể lưu niệm hôm nay",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội đầu xuân",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Pú Đao, lòng hồ thủy điện",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ TP Lai Châu: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaichau.vn/du-lich/phat-huy-gia-tri-lich-su-den-tho-vua-le-thai-to-dong-luc-phat-trien-du-lich-nam-nhun",
+        "quote": "Báo Lai Châu (07/02/2025, đọc 14/10/2026): Đền thờ Vua Lê Thái Tổ ở xã Lê Lợi, huyện Nậm Nhùn, cách thành phố Lai Châu hơn 120 km; Lễ hội năm 2025 quy mô cấp tỉnh diễn ra 7–9/2. Tháng Chạp năm Tân Hợi (1431) vua cho khắc văn bia vào vách đá Pú Huổi Chỏ bên bờ sông Đà (Bia cổ Hoài Lai). Bia được xếp hạng di tích quốc gia theo Quyết định 10/VH-QĐ ngày 02/9/1981. Năm 2005 thủy điện Sơn La khởi công; văn bia được khoan cắt, di dời đến khuôn viên đền cách vị trí cũ 500 m năm 2012; quần thể 'Địa điểm lưu niệm Đền thờ Vua Lê Thái Tổ' thuộc 2 xã Lê Lợi, Pú Đao, khoảng 2,4 ha.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaichau.vn/van-hoa/den-tho-vua-le-loi-diem-den-hap-dan-dau-xuan-moi",
+        "quote": "Báo Lai Châu (24/02/2024, đọc 14/10/2026): Bảo vật quốc gia Bia vua Lê Thái Tổ – Bia cổ Hoài Lai được công nhận đợt 5 năm 2016 tại Quyết định 2496/QĐ-TTg ngày 22/12/2016. Năm 2009 văn bia được khoan cắt thành khối đá trên 15 tấn; năm 2012 chuyển đến vị trí hiện nay cách vị trí cũ 500 m. Đầu xuân huyện tổ chức lễ hội đền; gần đó có đỉnh Pú Đao cao hơn 1.600 m và tuyến thuyền trên lòng hồ thủy điện Sơn La, Lai Châu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/diem-den/den-tho-vua-le-loi-diem-den-hap-dan-du-khach-ngay-dau-nam-3190.html",
+        "quote": "Báo Văn hóa (18/02/2022, đọc 14/10/2026): Đền thờ Vua Lê Lợi ở xã Lê Lợi, huyện Nậm Nhùn là di tích nổi bật nhất của Lai Châu; du khách xem bia Lê Lợi – bảo vật quốc gia, thủ nhang Vũ Phong Oanh giới thiệu; ngày đầu năm có múa xòe của đồng bào Thái.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00842"
+  }
+}

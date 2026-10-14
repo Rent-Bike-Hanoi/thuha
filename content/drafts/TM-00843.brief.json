@@ -1,0 +1,143 @@
+{
+  "writer": "writer-J1",
+  "queued": "2026-10-14T15:17:08.527431+00:00",
+  "topic": {
+    "topic_id": "TM-00843",
+    "url": "/du-lich/ban-si-thau-chai-tam-duong/",
+    "title": "Bản Sì Thâu Chải Tam Đường: bản Dao cách thị trấn 6 km, homestay, lễ hội",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản sì thâu chải",
+    "secondary_keywords": [
+      "sì thâu chải lai châu",
+      "homestay sì thâu chải",
+      "bản du lịch cộng đồng tam đường"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lai Châu – Sa Pa bằng xe máy muốn ngủ một đêm ở bản Dao Sì Thâu Chải: đường lên ra sao, có gì xem, ở homestay thế nào.",
+    "information_gain": "Chưa có bài: /du-lich/deo-o-quy-ho/ và /du-lich/ban-vang-pheo-lai-chau/ không nhắc Sì Thâu Chải. Bài mới cho: vị trí xã Hồ Thầu cách thị trấn Tam Đường khoảng 6 km, độ cao 1.400–1.500 m, hơn 60 hộ Dao; đường nhựa nâng cấp từ 2015, làm du lịch cộng đồng từ 2017; năm 2024 có 15 hộ homestay; lễ Cấp sắc, Nhảy lửa; hoạt động dù lượn; cảnh nhìn xuống thị trấn Tam Đường.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ban-si-thau-chai-dep-mong-mo-cua-nguoi-dao-post388262.html",
+        "quote": "Báo Lào Cai (09/8/2024, đọc 14/10/2026): bản ở độ cao gần 1.500 m, cách thị trấn Tam Đường khoảng 6 km, hơn 60 hộ người Dao; lễ Cấp sắc, Nhảy lửa; năm 2015 huyện nâng cấp, rải nhựa đường lên bản; năm 2017 được hỗ trợ vật liệu làm đường trong bản; năm 2023 có 10 hộ làm homestay được hỗ trợ mỗi hộ 150 triệu; hiện có 15 hộ làm homestay, 3 hộ chuẩn bị tham gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaichau.vn/van-hoa/an-tuong-ban-du-lich-cong-dong-si-thau-chai",
+        "quote": "Báo Lai Châu (06/12/2023, đọc 14/10/2026): bản Sì Thâu Chải xã Hồ Thầu, huyện Tam Đường ở độ cao chừng 1.400 m, gần 60 hộ người Dao; từ năm 2015 huyện mở rộng, nâng cấp đường mòn từ thị trấn về bản; có homestay hoạt động từ 2019.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/si-thau-chai-den-de-yeu-nhieu-hon-52777.html",
+        "quote": "Báo Văn hóa (31/5/2021, đọc 14/10/2026): cách thị trấn Tam Đường khoảng 6 km, độ cao hơn 1.400 m; bắt đầu làm du lịch cộng đồng từ năm 2017; có hoạt động dù lượn, đua ô tô địa hình; đường lên có những khúc cua gắt; cuối tuần nếu không đặt trước có thể không còn dịch vụ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bản sì thâu chải"
+      }
+    ],
+    "notes": "Độ cao lệch: 1.400 m (Báo Lai Châu, Báo Văn hóa) và gần 1.500 m (Báo Lào Cai) — ghi 'khoảng 1.400–1.500 m'. Số hộ homestay thay đổi theo năm (gần 10 năm 2021, 15 năm 2024). Huyện Tam Đường không còn từ 7/2025; xã Hồ Thầu có thể đã sáp nhập — ghi 'Tam Đường (cũ)'. Không nêu giá phòng.",
+    "outline": [
+      "Sì Thâu Chải ở đâu, cao bao nhiêu",
+      "Đường lên bản từ Tam Đường: dốc và cua",
+      "Bản Dao làm du lịch cộng đồng thế nào",
+      "Lễ Cấp sắc, Nhảy lửa và nhà gỗ",
+      "Ở homestay: đặt trước, cuối tuần",
+      "Ghép lịch với đèo Ô Quy Hồ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/deo-o-quy-ho/",
+      "/du-lich/ban-vang-pheo-lai-chau/",
+      "/du-lich/cau-kinh-rong-may/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00843.json",
+  "draft_template": {
+    "id": "TM-00843",
+    "url": "/du-lich/ban-si-thau-chai-tam-duong/",
+    "title": "Bản Sì Thâu Chải Tam Đường: bản Dao cách thị trấn 6 km, homestay, lễ hội",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản sì thâu chải, sì thâu chải lai châu, homestay sì thâu chải, bản du lịch cộng đồng tam đường",
+    "excerpt": "",
+    "sections": [
+      [
+        "Sì Thâu Chải ở đâu, cao bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Đường lên bản từ Tam Đường: dốc và cua",
+        "<p></p>"
+      ],
+      [
+        "Bản Dao làm du lịch cộng đồng thế nào",
+        "<p></p>"
+      ],
+      [
+        "Lễ Cấp sắc, Nhảy lửa và nhà gỗ",
+        "<p></p>"
+      ],
+      [
+        "Ở homestay: đặt trước, cuối tuần",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với đèo Ô Quy Hồ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ban-si-thau-chai-dep-mong-mo-cua-nguoi-dao-post388262.html",
+        "quote": "Báo Lào Cai (09/8/2024, đọc 14/10/2026): bản ở độ cao gần 1.500 m, cách thị trấn Tam Đường khoảng 6 km, hơn 60 hộ người Dao; lễ Cấp sắc, Nhảy lửa; năm 2015 huyện nâng cấp, rải nhựa đường lên bản; năm 2017 được hỗ trợ vật liệu làm đường trong bản; năm 2023 có 10 hộ làm homestay được hỗ trợ mỗi hộ 150 triệu; hiện có 15 hộ làm homestay, 3 hộ chuẩn bị tham gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaichau.vn/van-hoa/an-tuong-ban-du-lich-cong-dong-si-thau-chai",
+        "quote": "Báo Lai Châu (06/12/2023, đọc 14/10/2026): bản Sì Thâu Chải xã Hồ Thầu, huyện Tam Đường ở độ cao chừng 1.400 m, gần 60 hộ người Dao; từ năm 2015 huyện mở rộng, nâng cấp đường mòn từ thị trấn về bản; có homestay hoạt động từ 2019.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/si-thau-chai-den-de-yeu-nhieu-hon-52777.html",
+        "quote": "Báo Văn hóa (31/5/2021, đọc 14/10/2026): cách thị trấn Tam Đường khoảng 6 km, độ cao hơn 1.400 m; bắt đầu làm du lịch cộng đồng từ năm 2017; có hoạt động dù lượn, đua ô tô địa hình; đường lên có những khúc cua gắt; cuối tuần nếu không đặt trước có thể không còn dịch vụ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00843"
+  }
+}

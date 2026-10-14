@@ -1,0 +1,156 @@
+{
+  "writer": "writer-J3",
+  "queued": "2026-10-14T15:17:09.861598+00:00",
+  "topic": {
+    "topic_id": "TM-00851",
+    "url": "/du-lich/ruong-bac-thang-khe-tau-phong-du-thuong/",
+    "title": "Ruộng bậc thang Khe Táu Phong Dụ Thượng: gần 50 ha, mùa vàng, đường vào",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ruộng bậc thang khe táu",
+    "secondary_keywords": [
+      "khe táu văn yên",
+      "phong dụ thượng",
+      "khe táu lào cai"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người muốn xem ruộng bậc thang ít đông hơn Mù Cang Chải tìm Khe Táu: ở đâu, mùa nào, đường vào ra sao.",
+    "information_gain": "Chưa có bài: /du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ và /du-lich/muong-lo-nghia-lo/ là vùng khác; /du-lich/den-dong-cuong/ là đền ở Văn Yên cũ. Bài mới cho Khe Táu: thôn Mông ở xã Phong Dụ Thượng, cách trung tâm xã khoảng 7 km đường bê tông, ruộng gần 50 ha ở độ cao 1.000–1.100 m, khai phá từ 1997 bởi người Mông từ Nậm Có, đề án điểm du lịch sinh thái – cộng đồng 2023, mùa vàng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://doanhnghiephoinhap.vn/khe-tau-mua-vang-mo-loi-du-lich-sinh-thai-giua-dai-ngan-phong-du-thuong-lao-cai-137070.html",
+        "quote": "Doanh nghiệp Hội nhập (23/5/2026, đọc 14/10/2026): Khe Táu ở phía Tây xã Phong Dụ Thượng, tỉnh Lào Cai; gần 50 ha ruộng bậc thang; độ cao khoảng 1.000–1.100 m; thôn gần 100 hộ, 100% đồng bào Mông; lúa chín từ đầu hè.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tu-ruong-bac-thang-den-giac-mo-du-lich-xanh-post883606.html",
+        "quote": "Báo Lào Cai (04/10/2025, đọc 14/10/2026): từ trung tâm xã Phong Dụ Thượng vượt gần chục km đường bê tông qua khúc cua gấp, dốc cao vào Khe Táu; hơn chục hộ từ xã Nậm Có (Mù Cang Chải cũ) đến khai hoang từ 1997; diện tích tự nhiên 528 ha; 96 hộ, 453 nhân khẩu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/phong-du-thuong-buc-hoa-thien-nhien-tuoi-dep-post403101.html",
+        "quote": "Báo Lào Cai (10/6/2025, đọc 14/10/2026): Khe Táu cách trung tâm xã khoảng 7 km; ruộng xanh mùa xuân, vàng mùa hạ, nâu đỏ mùa thu; khách đi bộ đường đất trong bản.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ruong-bac-thang-moi-noi-o-yen-bai-thu-hut-gioi-tre-754062.html",
+        "quote": "VietNamNet (08/7/2021, đọc 14/10/2026): ruộng bậc thang của xã tập trung ở thôn Khe Táu với gần 30 ha do 79 hộ làm nên; người Mông từ Nậm Có di cư về khoảng đầu năm 1997.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "ruộng bậc thang khe táu"
+      }
+    ],
+    "notes": "Diện tích ruộng: gần 30 ha (2021) và gần 50 ha (2026) — ghi cả hai, tiêu đề dùng số mới. Số hộ lệch theo năm (79, 96, gần 100). Mùa lúa chín: nguồn 2026 nói 'từ đầu hè' — người viết cần kiểm tra thời điểm cụ thể, không tự suy. Đường vào dốc, cua gấp — cảnh báo xe số/xe tay ga. Từ 7/2025 thuộc Lào Cai (Văn Yên, Yên Bái cũ).",
+    "outline": [
+      "Khe Táu ở đâu",
+      "Ruộng do người Mông khai phá từ 1997",
+      "Mùa đẹp: nước đổ, lúa chín",
+      "Đường bê tông 7–10 km: cua gấp, dốc",
+      "Trải nghiệm trong bản",
+      "Ghép lịch với Văn Yên, Nghĩa Lộ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/den-dong-cuong/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00851.json",
+  "draft_template": {
+    "id": "TM-00851",
+    "url": "/du-lich/ruong-bac-thang-khe-tau-phong-du-thuong/",
+    "title": "Ruộng bậc thang Khe Táu Phong Dụ Thượng: gần 50 ha, mùa vàng, đường vào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ruộng bậc thang khe táu, khe táu văn yên, phong dụ thượng, khe táu lào cai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khe Táu ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Ruộng do người Mông khai phá từ 1997",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp: nước đổ, lúa chín",
+        "<p></p>"
+      ],
+      [
+        "Đường bê tông 7–10 km: cua gấp, dốc",
+        "<p></p>"
+      ],
+      [
+        "Trải nghiệm trong bản",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Văn Yên, Nghĩa Lộ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://doanhnghiephoinhap.vn/khe-tau-mua-vang-mo-loi-du-lich-sinh-thai-giua-dai-ngan-phong-du-thuong-lao-cai-137070.html",
+        "quote": "Doanh nghiệp Hội nhập (23/5/2026, đọc 14/10/2026): Khe Táu ở phía Tây xã Phong Dụ Thượng, tỉnh Lào Cai; gần 50 ha ruộng bậc thang; độ cao khoảng 1.000–1.100 m; thôn gần 100 hộ, 100% đồng bào Mông; lúa chín từ đầu hè.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tu-ruong-bac-thang-den-giac-mo-du-lich-xanh-post883606.html",
+        "quote": "Báo Lào Cai (04/10/2025, đọc 14/10/2026): từ trung tâm xã Phong Dụ Thượng vượt gần chục km đường bê tông qua khúc cua gấp, dốc cao vào Khe Táu; hơn chục hộ từ xã Nậm Có (Mù Cang Chải cũ) đến khai hoang từ 1997; diện tích tự nhiên 528 ha; 96 hộ, 453 nhân khẩu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/phong-du-thuong-buc-hoa-thien-nhien-tuoi-dep-post403101.html",
+        "quote": "Báo Lào Cai (10/6/2025, đọc 14/10/2026): Khe Táu cách trung tâm xã khoảng 7 km; ruộng xanh mùa xuân, vàng mùa hạ, nâu đỏ mùa thu; khách đi bộ đường đất trong bản.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/ruong-bac-thang-moi-noi-o-yen-bai-thu-hut-gioi-tre-754062.html",
+        "quote": "VietNamNet (08/7/2021, đọc 14/10/2026): ruộng bậc thang của xã tập trung ở thôn Khe Táu với gần 30 ha do 79 hộ làm nên; người Mông từ Nậm Có di cư về khoảng đầu năm 1997.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00851"
+  }
+}
