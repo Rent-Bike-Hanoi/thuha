@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w32b",
+  "queued": "2026-10-14T04:11:39.196313+00:00",
+  "topic": {
+    "topic_id": "TM-00627",
+    "url": "/du-lich/den-mau-dong-dang/",
+    "title": "Đền Mẫu Đồng Đăng và pháo đài Đồng Đăng: hội mùng 10 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền mẫu đồng đăng",
+    "secondary_keywords": [
+      "lễ hội đồng đăng",
+      "pháo đài đồng đăng",
+      "phố đi bộ đồng đăng",
+      "đền mẫu đồng đăng lạng sơn",
+      "đồng đăng có gì chơi"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lạng Sơn bằng xe máy, nhất là dịp đầu năm, muốn biết đền Mẫu Đồng Đăng ở đâu, lễ hội ngày nào, và quanh thị trấn biên giới còn gì đáng xem (pháo đài, phố đi bộ).",
+    "information_gain": "/du-lich/ha-noi-di-lang-son-bang-xe-may/ và /du-lich/dong-tam-thanh-lang-son/, /du-lich/pho-di-bo-ky-lua-lang-son/, /du-lich/ai-chi-lang-lang-son/ không nói về Đồng Đăng (từ khóa chỉ xuất hiện trong bài bến xe/tàu). Bài mới thêm: lễ hội Đồng Đăng mùng 10 tháng Giêng gắn với đền Mẫu (thờ Phật và Mẫu Thượng Ngàn, kiểu 'Tiền Thánh – Hậu Phật'), không khí khai hội 2026 với khách Trung Quốc; Pháo đài Đồng Đăng (Pháp xây 1940, 3 tầng, rộng 60 m, dài 100 m) được xếp di tích lịch sử quốc gia theo QĐ 4313 ngày 31/12/2024; phố đi bộ Đồng Đăng khai trương 2/2025; địa danh nay là xã Đồng Đăng, tỉnh Lạng Sơn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thegioitiepthi.danviet.vn/khai-hoi-giua-mua-den-mau-dong-dang-van-hut-hang-tram-khach-trung-quoc-d1405819.html",
+        "quote": "Thế giới Tiếp thị – Dân Việt (26/02/2026, đọc 14/10/2026): sáng mùng 10 tháng Giêng tại xã Đồng Đăng, tỉnh Lạng Sơn khai hội dù mưa; đền thờ Phật và Mẫu Thượng Ngàn, xây theo kiểu 'Tiền Thánh – Hậu Phật', tượng Phật ở cung cấm vị trí cao nhất; Công ty Du lịch và Thương mại Lạng Sơn đón 10 đoàn khách Trung Quốc hơn 200 người riêng ngày mùng 10.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/phao-dai-dong-dang-duoc-xep-hang-di-tich-lich-su-quoc-gia-post858956.html",
+        "quote": "Báo Nhân Dân (06/02/2025, đọc 14/10/2026): Pháo đài Đồng Đăng xếp hạng di tích lịch sử quốc gia theo Quyết định 4313 ngày 31/12/2024 của Bộ VHTTDL; Pháp xây từ năm 1940, 3 tầng, rộng 60 m, dài 100 m; tầng trên quan sát, tầng hai phòng và lỗ châu mai, tầng ba kho; bị phá hủy mặt trên năm 1979, chỉ còn 2 cửa đông, tây có lối xuống hầm; án ngữ tuyến đường bộ, đường sắt ra cửa khẩu Hữu Nghị; cùng dịp khai trương phố đi bộ Đồng Đăng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/khai-mac-le-hoi-dong-dang-khai-truong-pho-di-bo-dong-dang-nam-2025-va-le-don-nhan-bang-xep-hang-di-tich-quoc-gia-di-tich-lich-su-phao-dai-dong-dang-5037186.html",
+        "quote": "Báo và PT-TH Lạng Sơn (07/02/2025, đọc 14/10/2026): tối 6/2/2025 (mùng 9 tháng Giêng Ất Tỵ) khai mạc Lễ hội Đồng Đăng, khai trương Phố đi bộ Đồng Đăng; lễ hội tổ chức ngày mùng 10 tháng Giêng hằng năm gắn với di tích đền Mẫu Đồng Đăng; trao Bằng xếp hạng di tích quốc gia Pháo đài Đồng Đăng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền mẫu đồng đăng"
+      }
+    ],
+    "notes": "Chưa có nguồn chính thức về năm xây đền (Lao Động nói thế kỷ XIX nhưng trang không tải được – không dùng), giờ mở cửa, cấp xếp hạng của đền Mẫu, lịch phố đi bộ 2026. Không nêu chuyện xuất nhập cảnh/cửa khẩu (ngoài phạm vi). Đường QL1A/QL4A lên Đồng Đăng: liên kết bài Hà Nội đi Lạng Sơn, không lặp.",
+    "outline": [
+      "Đồng Đăng ở đâu, cách TP Lạng Sơn bao xa",
+      "Đền Mẫu Đồng Đăng: thờ ai, kiến trúc",
+      "Lễ hội Đồng Đăng mùng 10 tháng Giêng",
+      "Pháo đài Đồng Đăng: di tích quốc gia 2024",
+      "Phố đi bộ Đồng Đăng và ăn uống",
+      "Lưu ý khi đi dịp lễ hội"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/dong-tam-thanh-lang-son/",
+      "/du-lich/pho-di-bo-ky-lua-lang-son/",
+      "/du-lich/ai-chi-lang-lang-son/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00627.json",
+  "draft_template": {
+    "id": "TM-00627",
+    "url": "/du-lich/den-mau-dong-dang/",
+    "title": "Đền Mẫu Đồng Đăng và pháo đài Đồng Đăng: hội mùng 10 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền mẫu đồng đăng, lễ hội đồng đăng, pháo đài đồng đăng, phố đi bộ đồng đăng, đền mẫu đồng đăng lạng sơn, đồng đăng có gì chơi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồng Đăng ở đâu, cách TP Lạng Sơn bao xa",
+        "<p></p>"
+      ],
+      [
+        "Đền Mẫu Đồng Đăng: thờ ai, kiến trúc",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Đồng Đăng mùng 10 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Pháo đài Đồng Đăng: di tích quốc gia 2024",
+        "<p></p>"
+      ],
+      [
+        "Phố đi bộ Đồng Đăng và ăn uống",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi dịp lễ hội",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thegioitiepthi.danviet.vn/khai-hoi-giua-mua-den-mau-dong-dang-van-hut-hang-tram-khach-trung-quoc-d1405819.html",
+        "quote": "Thế giới Tiếp thị – Dân Việt (26/02/2026, đọc 14/10/2026): sáng mùng 10 tháng Giêng tại xã Đồng Đăng, tỉnh Lạng Sơn khai hội dù mưa; đền thờ Phật và Mẫu Thượng Ngàn, xây theo kiểu 'Tiền Thánh – Hậu Phật', tượng Phật ở cung cấm vị trí cao nhất; Công ty Du lịch và Thương mại Lạng Sơn đón 10 đoàn khách Trung Quốc hơn 200 người riêng ngày mùng 10.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/phao-dai-dong-dang-duoc-xep-hang-di-tich-lich-su-quoc-gia-post858956.html",
+        "quote": "Báo Nhân Dân (06/02/2025, đọc 14/10/2026): Pháo đài Đồng Đăng xếp hạng di tích lịch sử quốc gia theo Quyết định 4313 ngày 31/12/2024 của Bộ VHTTDL; Pháp xây từ năm 1940, 3 tầng, rộng 60 m, dài 100 m; tầng trên quan sát, tầng hai phòng và lỗ châu mai, tầng ba kho; bị phá hủy mặt trên năm 1979, chỉ còn 2 cửa đông, tây có lối xuống hầm; án ngữ tuyến đường bộ, đường sắt ra cửa khẩu Hữu Nghị; cùng dịp khai trương phố đi bộ Đồng Đăng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/khai-mac-le-hoi-dong-dang-khai-truong-pho-di-bo-dong-dang-nam-2025-va-le-don-nhan-bang-xep-hang-di-tich-quoc-gia-di-tich-lich-su-phao-dai-dong-dang-5037186.html",
+        "quote": "Báo và PT-TH Lạng Sơn (07/02/2025, đọc 14/10/2026): tối 6/2/2025 (mùng 9 tháng Giêng Ất Tỵ) khai mạc Lễ hội Đồng Đăng, khai trương Phố đi bộ Đồng Đăng; lễ hội tổ chức ngày mùng 10 tháng Giêng hằng năm gắn với di tích đền Mẫu Đồng Đăng; trao Bằng xếp hạng di tích quốc gia Pháo đài Đồng Đăng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00627"
+  }
+}

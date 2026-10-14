@@ -1,0 +1,155 @@
+{
+  "writer": "writer-w32a",
+  "queued": "2026-10-14T04:11:39.003166+00:00",
+  "topic": {
+    "topic_id": "TM-00624",
+    "url": "/du-lich/thac-tat-nang/",
+    "title": "Thác Tạt Nàng Vân Hồ: thác 3 dòng, suối khoáng nóng bản Phụ Mẫu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác tạt nàng",
+    "secondary_keywords": [
+      "thác tạt nàng vân hồ",
+      "thác tạt nàng mộc châu",
+      "khoáng nóng tạt nàng",
+      "bản phụ mẫu chiềng yên",
+      "đường đi thác tạt nàng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Mộc Châu – Vân Hồ bằng xe máy muốn biết thác Tạt Nàng nằm đâu, rẽ từ QL6 thế nào, mùa nào thác đẹp và có tắm khoáng nóng được không.",
+    "information_gain": "/du-lich/thac-dai-yem-moc-chau/ chỉ nói thác Dải Yếm ở Mường Sang; /du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/ và /du-lich/rung-thong-ban-ang/ không nhắc Tạt Nàng. Bài mới thêm: vị trí bản Phụ Mẫu 1 (xã Chiềng Yên cũ, nay ghi xã Vân Hồ theo Báo Sơn La 3/2026), thác cao hơn 100 m, dài 150 m, chia 3 tầng, nguồn từ suối Tà Xam – Tà Piu; danh thắng cấp tỉnh 2016; mùa đẹp tháng 7–8; HTX Du lịch và Nông nghiệp Tạt Nàng (2022) vận hành khu tắm khoáng nóng; lượt khách 40.000 (2023) lên trên 70.000 (2025); đường rẽ từ ngã ba Đồng Bảng theo QL6 cũ khoảng 20 km (nguồn 2018).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/tam-khoang-nong-tat-nang-diem-den-hap-dan-du-khach-8VxFZpcDR.html",
+        "quote": "Báo Sơn La, 'Tắm khoáng nóng Tạt Nàng – điểm đến hấp dẫn du khách' (22/03/2026, đọc 14/10/2026): suối khoáng nóng Tạt Nàng ở bản Phụ Mẫu, xã Vân Hồ; HTX Du lịch và Nông nghiệp Tạt Nàng thành lập 2022 với 14 thành viên là phụ nữ Thái; thác Tạt Nàng là danh lam thắng cảnh cấp tỉnh; theo HTX năm 2023 đón khoảng 40.000 lượt khách, năm 2025 trên 70.000 lượt; cao điểm vài trăm lượt/ngày; có văn nghệ, hái chè, nhà sàn Thái.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/van-ho/trai-nghiem-thac-tat-nang-17109.html",
+        "quote": "Báo Sơn La, 'Trải nghiệm Thác Tạt Nàng' (22/08/2018 – trước sáp nhập, đọc 14/10/2026): bản Phụ Mẫu I, xã Chiềng Yên, huyện Vân Hồ; từ Hà Nội tới ngã ba Đồng Bảng (Mai Châu) rẽ phải theo QL6 cũ khoảng 20 km là tới thác; năm 2016 được xếp hạng danh lam thắng cảnh cấp tỉnh, giao UBND xã quản lý; thời điểm đẹp nhất tháng 7 và tháng 8, khi thác chảy thành 3 dòng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichvanho.com/Thang-canh/thac-tat-nang-dep-mong-mo-o-ban-phu-mau-chieng-yen-120.html",
+        "quote": "Trang Du lịch Vân Hồ (15/08/2022, đọc 14/10/2026): thác cách trung tâm huyện Vân Hồ khoảng 30 km; 'Tạt Nàng' tiếng Thái nghĩa là 'thác Nàng Tiên'; nguồn từ suối Tà Xam và Tà Piu, đổ từ độ cao hơn 100 m, chia 2 nhánh, 3 tầng; dài 150 m; đường từ trung tâm huyện tới thác nhỏ và khó đi; thác rất ít khi cạn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác tạt nàng"
+      }
+    ],
+    "notes": "Chưa có giá vé/giá tắm khoáng từ nguồn báo – không viết giá. Đường QL6 cũ: chỉ có nguồn 2018, cần ghi năm và khuyên kiểm tra tình trạng; không có tin sạt lở 2026 đã đọc. Tên xã: 'xã Vân Hồ' (Báo Sơn La 2026), ghi kèm 'Chiềng Yên cũ'. 'dulichvanho.com' là trang du lịch của huyện (chưa xác minh đơn vị chủ quản) – có thể đổi type sang press nếu biên tập muốn.",
+    "outline": [
+      "Thác Tạt Nàng ở đâu: bản Phụ Mẫu, xã Vân Hồ",
+      "Thác 3 dòng và tích 'thác Nàng Tiên'",
+      "Mùa đẹp: tháng 7–8 nhiều nước",
+      "Suối khoáng nóng và HTX của phụ nữ Thái",
+      "Đường rẽ từ QL6 cũ và lưu ý đường nhỏ",
+      "Ghép với Mộc Châu, Mai Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thac-dai-yem-moc-chau/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/rung-thong-ban-ang/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/ban-hua-tat-van-ho/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.422
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ban-hua-tat-van-ho/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00624.json",
+  "draft_template": {
+    "id": "TM-00624",
+    "url": "/du-lich/thac-tat-nang/",
+    "title": "Thác Tạt Nàng Vân Hồ: thác 3 dòng, suối khoáng nóng bản Phụ Mẫu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác tạt nàng, thác tạt nàng vân hồ, thác tạt nàng mộc châu, khoáng nóng tạt nàng, bản phụ mẫu chiềng yên, đường đi thác tạt nàng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Tạt Nàng ở đâu: bản Phụ Mẫu, xã Vân Hồ",
+        "<p></p>"
+      ],
+      [
+        "Thác 3 dòng và tích 'thác Nàng Tiên'",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp: tháng 7–8 nhiều nước",
+        "<p></p>"
+      ],
+      [
+        "Suối khoáng nóng và HTX của phụ nữ Thái",
+        "<p></p>"
+      ],
+      [
+        "Đường rẽ từ QL6 cũ và lưu ý đường nhỏ",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Mộc Châu, Mai Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/tam-khoang-nong-tat-nang-diem-den-hap-dan-du-khach-8VxFZpcDR.html",
+        "quote": "Báo Sơn La, 'Tắm khoáng nóng Tạt Nàng – điểm đến hấp dẫn du khách' (22/03/2026, đọc 14/10/2026): suối khoáng nóng Tạt Nàng ở bản Phụ Mẫu, xã Vân Hồ; HTX Du lịch và Nông nghiệp Tạt Nàng thành lập 2022 với 14 thành viên là phụ nữ Thái; thác Tạt Nàng là danh lam thắng cảnh cấp tỉnh; theo HTX năm 2023 đón khoảng 40.000 lượt khách, năm 2025 trên 70.000 lượt; cao điểm vài trăm lượt/ngày; có văn nghệ, hái chè, nhà sàn Thái.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/van-ho/trai-nghiem-thac-tat-nang-17109.html",
+        "quote": "Báo Sơn La, 'Trải nghiệm Thác Tạt Nàng' (22/08/2018 – trước sáp nhập, đọc 14/10/2026): bản Phụ Mẫu I, xã Chiềng Yên, huyện Vân Hồ; từ Hà Nội tới ngã ba Đồng Bảng (Mai Châu) rẽ phải theo QL6 cũ khoảng 20 km là tới thác; năm 2016 được xếp hạng danh lam thắng cảnh cấp tỉnh, giao UBND xã quản lý; thời điểm đẹp nhất tháng 7 và tháng 8, khi thác chảy thành 3 dòng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichvanho.com/Thang-canh/thac-tat-nang-dep-mong-mo-o-ban-phu-mau-chieng-yen-120.html",
+        "quote": "Trang Du lịch Vân Hồ (15/08/2022, đọc 14/10/2026): thác cách trung tâm huyện Vân Hồ khoảng 30 km; 'Tạt Nàng' tiếng Thái nghĩa là 'thác Nàng Tiên'; nguồn từ suối Tà Xam và Tà Piu, đổ từ độ cao hơn 100 m, chia 2 nhánh, 3 tầng; dài 150 m; đường từ trung tâm huyện tới thác nhỏ và khó đi; thác rất ít khi cạn.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00624"
+  }
+}

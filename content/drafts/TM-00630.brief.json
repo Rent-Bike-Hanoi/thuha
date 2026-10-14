@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w32a",
+  "queued": "2026-10-14T04:11:39.004124+00:00",
+  "topic": {
+    "topic_id": "TM-00630",
+    "url": "/du-lich/bao-tang-van-hoa-muong-hoa-binh/",
+    "title": "Hai bảo tàng văn hóa Mường ở Hòa Bình cũ: nhà Lang, cồng chiêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng văn hóa mường hòa bình",
+    "secondary_keywords": [
+      "bảo tàng không gian văn hóa mường",
+      "bảo tàng di sản văn hóa mường",
+      "bảo tàng hiếu mường",
+      "nhà lang nhà ậu mường",
+      "202 tây tiến hòa bình"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hòa Bình cũ (nay Phú Thọ) muốn tìm hiểu văn hóa Mường trong vài giờ cần biết có những bảo tàng nào, ở đâu, khác nhau ra sao và có mất vé không.",
+    "information_gain": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/ chỉ nói đường QL6 và thủy điện; /du-lich/bao-tang-dan-toc-hoc-viet-nam/ ở Hà Nội; /du-lich/den-chua-thac-bo/ và /du-lich/khoang-nong-kim-boi/ là điểm khác. Bài mới so sánh hai bảo tàng tư nhân: Không gian Văn hóa Mường (Vũ Đức Hiếu, số 202 Tây Tiến, thung lũng khoảng 5 ha, dựng từ 2007, tái hiện 4 tầng lớp nhà Lang – Ậu – Noóc – Noóc trọi trước 1953–1954, xưởng gốm Mường từ 9/2014) và Di sản Văn hóa Mường (Bùi Thanh Bình, phường Thống Nhất, Phú Thọ, mở 2014, 6 nhà sàn cổ, hơn 6.000 hiện vật, hơn 100 cồng chiêng, vào cửa miễn phí tùy tâm, 5.000–7.000 khách/năm).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/lao-dong-cuoi-tuan/bao-tang-di-san-van-hoa-muong-noi-tieng-chieng-ngan-mai-1554144.ldo",
+        "quote": "Báo Lao Động (10/08/2025, đọc 14/10/2026): Bảo tàng Di sản Văn hóa Mường của ông Bùi Thanh Bình, phường Thống Nhất (nay thuộc tỉnh Phú Thọ), mở cửa năm 2014, là bảo tàng tư nhân thứ 24 cả nước; 6 nhà sàn cổ, 4 ngôi tái hiện nhà Lang, nhà Ậu, nhà Noóc, nhà Noóc Trọi; hơn 6.000 hiện vật gốc; hơn 100 cồng chiêng cổ, chiếc lớn đường kính 70 cm; đón 5.000–7.000 lượt khách/năm; khách vào cửa miễn phí, tùy tâm đóng góp; có lớp cồng chiêng, giã gạo, dệt vải, cơm lam.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/mot-ngay-trai-nghiem-khong-gian-van-hoa-muong-24891.vov2",
+        "quote": "VOV2 (05/03/2021 – trước sáp nhập, đọc 14/10/2026): Bảo tàng Không gian văn hóa Mường là bảo tàng tư nhân đầu tiên về văn hóa Mường, chủ nhân Vũ Đức Hiếu (Hiếu Mường); cách TP Hòa Bình 10 phút xe, trên sườn đồi trong thung lũng đá vôi, diện tích hơn 5 ha; cọn nước ở cổng; tái hiện đời sống Mường trước cải cách ruộng đất 1953–1954 với nhà Lang, Ậu, Noóc, Noóc trọi; khu tái hiện và khu trưng bày, phòng tái hiện đám ma nhà Lang; hiện vật cho khách tiếp cận trực tiếp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/khong-gian-gom-muong-tai-ha-noi-post824951.html",
+        "quote": "Báo Nhân Dân (15/08/2024, đọc 14/10/2026): họa sĩ Vũ Đức Hiếu tạo dựng không gian văn hóa Mường tại Hòa Bình từ năm 2007, quy mô bảo tàng tư nhân đầu tiên; địa chỉ số 202 đường Tây Tiến, thành phố Hòa Bình; tháng 9/2014 ra đời Mường Studio và xưởng Gốm Mường.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov3.vov.vn/podcast/hanh-trinh-sang-tao/hoa-sy-hieu-muong-ke-cau-chuyen-van-hoa-muong-qua-dat-va-lua-959.vov",
+        "quote": "VOV3 (06/10/2026, đọc 14/10/2026): Bảo tàng Không gian Văn hóa Mường vẫn là địa chỉ đáng chú ý trong hành trình gìn giữ, lan tỏa văn hóa Mường của họa sĩ Vũ Đức Hiếu; nhắc dòng gốm Mường của ông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bảo tàng văn hóa mường hòa bình"
+      }
+    ],
+    "notes": "Chưa có nguồn báo/chính thức về giờ mở cửa và giá vé của Bảo tàng Không gian Văn hóa Mường (chỉ thấy trên Traveloka – không dùng). Tên phường mới của địa chỉ 202 Tây Tiến chưa xác minh – ghi 'TP Hòa Bình (cũ)'. Địa chỉ cụ thể của Bảo tàng Di sản Văn hóa Mường ngoài 'phường Thống Nhất' chưa có. Đây là hai cơ sở tư nhân – khuyên gọi trước khi đi, không in số điện thoại.",
+    "outline": [
+      "Vì sao nên ghé bảo tàng Mường khi qua Hòa Bình",
+      "Bảo tàng Không gian Văn hóa Mường (Tây Tiến)",
+      "Bảo tàng Di sản Văn hóa Mường (phường Thống Nhất)",
+      "Bốn tầng lớp nhà Lang, Ậu, Noóc, Noóc trọi",
+      "Trải nghiệm: cồng chiêng, gốm Mường, ẩm thực",
+      "Lưu ý: bảo tàng tư nhân, hỏi giờ trước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/den-chua-thac-bo/",
+      "/du-lich/khoang-nong-kim-boi/",
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00630.json",
+  "draft_template": {
+    "id": "TM-00630",
+    "url": "/du-lich/bao-tang-van-hoa-muong-hoa-binh/",
+    "title": "Hai bảo tàng văn hóa Mường ở Hòa Bình cũ: nhà Lang, cồng chiêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng văn hóa mường hòa bình, bảo tàng không gian văn hóa mường, bảo tàng di sản văn hóa mường, bảo tàng hiếu mường, nhà lang nhà ậu mường, 202 tây tiến hòa bình",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vì sao nên ghé bảo tàng Mường khi qua Hòa Bình",
+        "<p></p>"
+      ],
+      [
+        "Bảo tàng Không gian Văn hóa Mường (Tây Tiến)",
+        "<p></p>"
+      ],
+      [
+        "Bảo tàng Di sản Văn hóa Mường (phường Thống Nhất)",
+        "<p></p>"
+      ],
+      [
+        "Bốn tầng lớp nhà Lang, Ậu, Noóc, Noóc trọi",
+        "<p></p>"
+      ],
+      [
+        "Trải nghiệm: cồng chiêng, gốm Mường, ẩm thực",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: bảo tàng tư nhân, hỏi giờ trước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/lao-dong-cuoi-tuan/bao-tang-di-san-van-hoa-muong-noi-tieng-chieng-ngan-mai-1554144.ldo",
+        "quote": "Báo Lao Động (10/08/2025, đọc 14/10/2026): Bảo tàng Di sản Văn hóa Mường của ông Bùi Thanh Bình, phường Thống Nhất (nay thuộc tỉnh Phú Thọ), mở cửa năm 2014, là bảo tàng tư nhân thứ 24 cả nước; 6 nhà sàn cổ, 4 ngôi tái hiện nhà Lang, nhà Ậu, nhà Noóc, nhà Noóc Trọi; hơn 6.000 hiện vật gốc; hơn 100 cồng chiêng cổ, chiếc lớn đường kính 70 cm; đón 5.000–7.000 lượt khách/năm; khách vào cửa miễn phí, tùy tâm đóng góp; có lớp cồng chiêng, giã gạo, dệt vải, cơm lam.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/mot-ngay-trai-nghiem-khong-gian-van-hoa-muong-24891.vov2",
+        "quote": "VOV2 (05/03/2021 – trước sáp nhập, đọc 14/10/2026): Bảo tàng Không gian văn hóa Mường là bảo tàng tư nhân đầu tiên về văn hóa Mường, chủ nhân Vũ Đức Hiếu (Hiếu Mường); cách TP Hòa Bình 10 phút xe, trên sườn đồi trong thung lũng đá vôi, diện tích hơn 5 ha; cọn nước ở cổng; tái hiện đời sống Mường trước cải cách ruộng đất 1953–1954 với nhà Lang, Ậu, Noóc, Noóc trọi; khu tái hiện và khu trưng bày, phòng tái hiện đám ma nhà Lang; hiện vật cho khách tiếp cận trực tiếp.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/khong-gian-gom-muong-tai-ha-noi-post824951.html",
+        "quote": "Báo Nhân Dân (15/08/2024, đọc 14/10/2026): họa sĩ Vũ Đức Hiếu tạo dựng không gian văn hóa Mường tại Hòa Bình từ năm 2007, quy mô bảo tàng tư nhân đầu tiên; địa chỉ số 202 đường Tây Tiến, thành phố Hòa Bình; tháng 9/2014 ra đời Mường Studio và xưởng Gốm Mường.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov3.vov.vn/podcast/hanh-trinh-sang-tao/hoa-sy-hieu-muong-ke-cau-chuyen-van-hoa-muong-qua-dat-va-lua-959.vov",
+        "quote": "VOV3 (06/10/2026, đọc 14/10/2026): Bảo tàng Không gian Văn hóa Mường vẫn là địa chỉ đáng chú ý trong hành trình gìn giữ, lan tỏa văn hóa Mường của họa sĩ Vũ Đức Hiếu; nhắc dòng gốm Mường của ông.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00630"
+  }
+}

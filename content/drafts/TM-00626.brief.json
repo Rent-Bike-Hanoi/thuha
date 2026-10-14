@@ -1,0 +1,144 @@
+{
+  "writer": "writer-w32a",
+  "queued": "2026-10-14T04:11:39.003598+00:00",
+  "topic": {
+    "topic_id": "TM-00626",
+    "url": "/du-lich/ngu-dong-ban-on/",
+    "title": "Ngũ động bản Ôn Mộc Châu: 5 hang, đi bộ 1 km, nên mang đèn pin",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ngũ động bản ôn",
+    "secondary_keywords": [
+      "ngũ động bản ôn mộc châu",
+      "hang động bản ôn",
+      "đường vào ngũ động bản ôn",
+      "ngũ động bản ôn ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Mộc Châu bằng xe máy muốn vào Ngũ động bản Ôn cần biết động nằm đâu sau sáp nhập, gửi xe ở đâu, đi bộ bao xa, hang nào vào được và cần chuẩn bị gì.",
+    "information_gain": "Bài /du-lich/doi-che-trai-tim-moc-chau/ chỉ nhắc đồi chè nằm 'trên đường vào Ngũ động bản Ôn'; /du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/, /du-lich/rung-thong-ban-ang/, /du-lich/thac-dai-yem-moc-chau/ không nói về động. Bài mới thêm: tên xã mới (xã Tân Hợp theo Tuổi Trẻ 10/2026), cách trung tâm khoảng 20 km; từ ngã ba Mộc Châu rẽ sang Nông Trường khoảng 7 km tới biển chỉ dẫn (nguồn 2014); gửi xe chân đồi đi bộ khoảng 1 km đường rừng hẹp, dốc, trơn; quần thể 4 động trên một đồi và 1 động đồi bên cạnh, ví ngũ hành; chỉ động 3 và 4 đón khách, ba động còn lại lối vào nguy hiểm; phát hiện sau lũ 2006; cơ sở vật chất sơ sài, cần đèn pin.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ngu-dong-ban-on-100260807164442845.htm",
+        "quote": "Tuổi Trẻ, trang 'Ngũ động Bản Ôn' (datePublished 01/10/2026, đọc 14/10/2026): hệ thống 5 hang động nối tiếp trong lòng núi, nằm tại xã Tân Hợp, tỉnh Sơn La, cách trung tâm Mộc Châu khoảng 20 km; đường vào đi qua đường đất giữa đồi núi, khá gồ ghề; trong hang một số đoạn hẹp, cần chú ý địa hình; gần vùng chè và bản làng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/an-tuong-ngu-dong-ban-on-post455781.html",
+        "quote": "Báo Nhân Dân, 'Ấn tượng Ngũ động Bản Ôn' (19/04/2020 – trước sáp nhập, đọc 14/10/2026): phát hiện năm 2006 sau trận lũ lịch sử; nằm trong lòng một quả đồi; gửi xe dưới chân đồi và đi bộ khoảng 1 km, lối hẹp chỉ đủ một xe máy, càng lên càng dốc; động 3 bên phải và động 4 bên trái được khai thác, ba động còn lại lối vào nguy hiểm nên chưa khai thác; năm động ứng với Kim, Mộc, Thủy, Hỏa, Thổ; cơ sở vật chất thô sơ (thang gỗ), động ẩm ướt, chỉ có một biển báo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/hoang-so-ngu-dong-ban-on-o-moc-chau-185217689.htm",
+        "quote": "Thanh Niên (19/02/2014 – nguồn cũ, đọc 14/10/2026): từ ngã ba Mộc Châu rẽ phải sang thị trấn Nông Trường, đi thẳng khoảng 7 km thấy biển chỉ dẫn; nhiều điểm gửi xe tự phát ven rừng; động cách điểm gửi xe khoảng 1 km đường rừng nhỏ, trơn, qua khe đá; bốn động chính trên một đồi, một động độc lập đồi bên cạnh; động 3 sâu rộng nhất, có điện máy phát chỉ dùng dịp lễ, Tết; cần đèn pin.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "ngũ động bản ôn"
+      }
+    ],
+    "notes": "Hướng đường (7 km từ ngã ba) là nguồn 2014 – phải ghi năm, khuyên hỏi người dân. Mâu thuẫn khoảng cách: 'khoảng 20 km' (Tuổi Trẻ 2026) vs 15 km (Lao Động – không đọc được trang, không dùng). Chưa có giá vé chính thức (các trang tour ghi 30.000 đ – không dùng). Tên xã mới 'Tân Hợp' chỉ có một nguồn; ghi kèm 'thị trấn Nông trường Mộc Châu (cũ)'. Mùa mưa đường đất trơn: khuyên không đi khi mưa mà không nêu số liệu.",
+    "outline": [
+      "Ngũ động bản Ôn ở đâu sau sáp nhập",
+      "Đường vào: rẽ từ Nông Trường, gửi xe chân đồi",
+      "Đi bộ 1 km: độ khó và trang phục",
+      "Năm động, vì sao chỉ vào động 3 và 4",
+      "Chuẩn bị: đèn pin, giày, tránh ngày mưa",
+      "Ghép với đồi chè và các điểm Mộc Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/doi-che-trai-tim-moc-chau/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/rung-thong-ban-ang/",
+      "/du-lich/thac-dai-yem-moc-chau/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00626.json",
+  "draft_template": {
+    "id": "TM-00626",
+    "url": "/du-lich/ngu-dong-ban-on/",
+    "title": "Ngũ động bản Ôn Mộc Châu: 5 hang, đi bộ 1 km, nên mang đèn pin",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ngũ động bản ôn, ngũ động bản ôn mộc châu, hang động bản ôn, đường vào ngũ động bản ôn, ngũ động bản ôn ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ngũ động bản Ôn ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Đường vào: rẽ từ Nông Trường, gửi xe chân đồi",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ 1 km: độ khó và trang phục",
+        "<p></p>"
+      ],
+      [
+        "Năm động, vì sao chỉ vào động 3 và 4",
+        "<p></p>"
+      ],
+      [
+        "Chuẩn bị: đèn pin, giày, tránh ngày mưa",
+        "<p></p>"
+      ],
+      [
+        "Ghép với đồi chè và các điểm Mộc Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ngu-dong-ban-on-100260807164442845.htm",
+        "quote": "Tuổi Trẻ, trang 'Ngũ động Bản Ôn' (datePublished 01/10/2026, đọc 14/10/2026): hệ thống 5 hang động nối tiếp trong lòng núi, nằm tại xã Tân Hợp, tỉnh Sơn La, cách trung tâm Mộc Châu khoảng 20 km; đường vào đi qua đường đất giữa đồi núi, khá gồ ghề; trong hang một số đoạn hẹp, cần chú ý địa hình; gần vùng chè và bản làng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/an-tuong-ngu-dong-ban-on-post455781.html",
+        "quote": "Báo Nhân Dân, 'Ấn tượng Ngũ động Bản Ôn' (19/04/2020 – trước sáp nhập, đọc 14/10/2026): phát hiện năm 2006 sau trận lũ lịch sử; nằm trong lòng một quả đồi; gửi xe dưới chân đồi và đi bộ khoảng 1 km, lối hẹp chỉ đủ một xe máy, càng lên càng dốc; động 3 bên phải và động 4 bên trái được khai thác, ba động còn lại lối vào nguy hiểm nên chưa khai thác; năm động ứng với Kim, Mộc, Thủy, Hỏa, Thổ; cơ sở vật chất thô sơ (thang gỗ), động ẩm ướt, chỉ có một biển báo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/hoang-so-ngu-dong-ban-on-o-moc-chau-185217689.htm",
+        "quote": "Thanh Niên (19/02/2014 – nguồn cũ, đọc 14/10/2026): từ ngã ba Mộc Châu rẽ phải sang thị trấn Nông Trường, đi thẳng khoảng 7 km thấy biển chỉ dẫn; nhiều điểm gửi xe tự phát ven rừng; động cách điểm gửi xe khoảng 1 km đường rừng nhỏ, trơn, qua khe đá; bốn động chính trên một đồi, một động độc lập đồi bên cạnh; động 3 sâu rộng nhất, có điện máy phát chỉ dùng dịp lễ, Tết; cần đèn pin.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00626"
+  }
+}

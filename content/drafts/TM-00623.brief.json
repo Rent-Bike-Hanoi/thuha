@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w32a",
+  "queued": "2026-10-14T04:11:39.002694+00:00",
+  "topic": {
+    "topic_id": "TM-00623",
+    "url": "/du-lich/thac-mu-ngoc-son/",
+    "title": "Thác Mu (Lạc Sơn cũ, Phú Thọ): thác 6 tầng, mùa nước, homestay Mường",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác mu",
+    "secondary_keywords": [
+      "thác mu hòa bình",
+      "thác mu lạc sơn",
+      "thác mu ngọc sơn phú thọ",
+      "homestay thác mu",
+      "thác mu mùa nào đẹp"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người Hà Nội muốn đi tắm thác, trốn nóng cuối tuần ở Hòa Bình cũ cần biết thác Mu nay thuộc xã nào, mùa nào nhiều nước, có lưu trú không và đi bao lâu.",
+    "information_gain": "Site chưa có bài nào nhắc thác Mu. /du-lich/ha-noi-di-hoa-binh-bang-xe-may/ chỉ nói hướng QL6 lên TP Hòa Bình – thủy điện; /du-lich/khoang-nong-kim-boi/ là điểm khác ở Kim Bôi; /du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ không qua Lạc Sơn. Bài mới thêm: địa danh sau sáp nhập (xóm Mu Khướng, xã Ngọc Sơn, Phú Thọ theo Báo Phú Thọ; Lao Động ghi 'xã Lạc Sơn' – cần đối chiếu), thác 6 tầng từ độ cao hơn 1.000 m, mùa đẹp tháng 4–9, 12 homestay ở hai xóm Mu Khướng và Sát, hang Mu và bãi Bùi lân cận, xếp hạng danh thắng cấp tỉnh năm 2017, và mức giá lán/homestay năm 2024 (cảnh báo là giá cũ).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/thac-mu-diem-hen-du-lich-cuoi-tuan-252261.htm",
+        "quote": "Báo Phú Thọ, 'Thác Mu – Điểm hẹn du lịch cuối tuần' (không thấy ngày trên bản tải, đọc 14/10/2026): từ tháng 4 đến tháng 9 là thời gian lý tưởng; thác 6 tầng, thuộc xóm Mu Khướng, xã Ngọc Sơn, thượng nguồn suối Mu, đổ từ điểm cao khoảng hơn 1000 m so với mực nước biển; từ Hà Nội khoảng 3 giờ, đường đã mở rộng và bê tông hóa; hang Mu, bãi Bùi ở xóm Khộp; hiện có 12 cơ sở homestay tại 2 xóm Mu Khướng, Sát, mỗi homestay bình quân 30 khách, tối đa 70.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/du-lich-thac-mu-hoa-binh-du-khach-den-choi-khong-muon-ve-2301711.html",
+        "quote": "VietNamNet (06/08/2024 – trước sáp nhập, đọc 14/10/2026): thác Mu cách Hà Nội hơn 100 km, xóm Mu Khướng, xã Tự Do, huyện Lạc Sơn; theo Cổng TTĐT tỉnh Hòa Bình được công nhận danh lam thắng cảnh cấp tỉnh năm 2017; HTX Du lịch thác Mu quản lý; xe tiếp cận tận nơi rồi đi bộ vài trăm mét đường bê tông, bậc thang; homestay 100.000–150.000 đồng/người/đêm, thuê lán 100.000–200.000 đồng/lán (giá 2024).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/5-tuyet-tac-thac-nuoc-niu-chan-du-khach-o-phu-tho-1576603.html",
+        "quote": "Báo Lao Động, '5 tuyệt tác thác nước níu chân du khách ở Phú Thọ' (25/04/2026, đọc 14/10/2026): thác Mu (ghi 'xã Lạc Sơn, tỉnh Phú Thọ') tuôn từ điểm cao 'khoảng hơn 100m' so với mặt nước biển, nhiều tầng, mỗi tầng có lối đi riêng; hồ nước dưới chân thác; hang Mu có thạch nhũ dưới chân thác, chỉ khám phá được mùa khô khi nước thấp; chòi tre gỗ dọc suối; giá vé tham quan 10.000 đồng/người lớn, 5.000 đồng/trẻ em.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác mu"
+      }
+    ],
+    "notes": "Mâu thuẫn tên xã: Báo Phú Thọ ghi 'xã Ngọc Sơn', Lao Động (4/2026) ghi 'xã Lạc Sơn' – người viết ghi cả hai hoặc kiểm tra cổng xã; ghi '(Lạc Sơn cũ)'. Mâu thuẫn độ cao: 'hơn 1000 m' (Báo Phú Thọ) vs 'hơn 100 m' (Lao Động) – không nêu số. Vé 10.000/5.000 đồng theo Lao Động 25/4/2026 – ghi rõ nguồn và ngày. Giá homestay/lán là 2024 – ghi năm hoặc bỏ. Không có thông tin cứu hộ, cảnh báo lũ quét chính thức. Chưa xác minh tuyến đường cụ thể (QL6 hay QL21).",
+    "outline": [
+      "Thác Mu ở đâu sau sáp nhập tỉnh",
+      "Thác 6 tầng, hồ chân thác và mùa nước",
+      "Hang Mu, bãi Bùi và bản Mường quanh thác",
+      "Ở lại đêm: homestay xóm Mu Khướng, Sát",
+      "Đi xe máy từ Hà Nội mất bao lâu",
+      "An toàn khi tắm suối thác"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/khoang-nong-kim-boi/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00623.json",
+  "draft_template": {
+    "id": "TM-00623",
+    "url": "/du-lich/thac-mu-ngoc-son/",
+    "title": "Thác Mu (Lạc Sơn cũ, Phú Thọ): thác 6 tầng, mùa nước, homestay Mường",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác mu, thác mu hòa bình, thác mu lạc sơn, thác mu ngọc sơn phú thọ, homestay thác mu, thác mu mùa nào đẹp",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Mu ở đâu sau sáp nhập tỉnh",
+        "<p></p>"
+      ],
+      [
+        "Thác 6 tầng, hồ chân thác và mùa nước",
+        "<p></p>"
+      ],
+      [
+        "Hang Mu, bãi Bùi và bản Mường quanh thác",
+        "<p></p>"
+      ],
+      [
+        "Ở lại đêm: homestay xóm Mu Khướng, Sát",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội mất bao lâu",
+        "<p></p>"
+      ],
+      [
+        "An toàn khi tắm suối thác",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/thac-mu-diem-hen-du-lich-cuoi-tuan-252261.htm",
+        "quote": "Báo Phú Thọ, 'Thác Mu – Điểm hẹn du lịch cuối tuần' (không thấy ngày trên bản tải, đọc 14/10/2026): từ tháng 4 đến tháng 9 là thời gian lý tưởng; thác 6 tầng, thuộc xóm Mu Khướng, xã Ngọc Sơn, thượng nguồn suối Mu, đổ từ điểm cao khoảng hơn 1000 m so với mực nước biển; từ Hà Nội khoảng 3 giờ, đường đã mở rộng và bê tông hóa; hang Mu, bãi Bùi ở xóm Khộp; hiện có 12 cơ sở homestay tại 2 xóm Mu Khướng, Sát, mỗi homestay bình quân 30 khách, tối đa 70.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/du-lich-thac-mu-hoa-binh-du-khach-den-choi-khong-muon-ve-2301711.html",
+        "quote": "VietNamNet (06/08/2024 – trước sáp nhập, đọc 14/10/2026): thác Mu cách Hà Nội hơn 100 km, xóm Mu Khướng, xã Tự Do, huyện Lạc Sơn; theo Cổng TTĐT tỉnh Hòa Bình được công nhận danh lam thắng cảnh cấp tỉnh năm 2017; HTX Du lịch thác Mu quản lý; xe tiếp cận tận nơi rồi đi bộ vài trăm mét đường bê tông, bậc thang; homestay 100.000–150.000 đồng/người/đêm, thuê lán 100.000–200.000 đồng/lán (giá 2024).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/5-tuyet-tac-thac-nuoc-niu-chan-du-khach-o-phu-tho-1576603.html",
+        "quote": "Báo Lao Động, '5 tuyệt tác thác nước níu chân du khách ở Phú Thọ' (25/04/2026, đọc 14/10/2026): thác Mu (ghi 'xã Lạc Sơn, tỉnh Phú Thọ') tuôn từ điểm cao 'khoảng hơn 100m' so với mặt nước biển, nhiều tầng, mỗi tầng có lối đi riêng; hồ nước dưới chân thác; hang Mu có thạch nhũ dưới chân thác, chỉ khám phá được mùa khô khi nước thấp; chòi tre gỗ dọc suối; giá vé tham quan 10.000 đồng/người lớn, 5.000 đồng/trẻ em.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00623"
+  }
+}

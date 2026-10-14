@@ -1,0 +1,155 @@
+{
+  "writer": "writer-w32a",
+  "queued": "2026-10-14T04:11:39.004466+00:00",
+  "topic": {
+    "topic_id": "TM-00631",
+    "url": "/du-lich/ban-hua-tat-van-ho/",
+    "title": "Bản Hua Tạt Vân Hồ: bản Mông ven QL6, vẽ sáp ong, làm giấy dó",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản hua tạt",
+    "secondary_keywords": [
+      "hua tạt vân hồ",
+      "homestay hua tạt",
+      "vẽ sáp ong hua tạt",
+      "bản mông vân hồ",
+      "làm giấy người mông hua tạt"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi QL6 lên Mộc Châu muốn dừng một bản Mông có trải nghiệm thủ công (vẽ sáp ong, làm giấy) hoặc ngủ homestay cần biết bản ở đâu, có gì và chi phí trải nghiệm.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/ và /du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ chỉ chạy qua Vân Hồ; /du-lich/rung-thong-ban-ang/, /du-lich/doi-che-trai-tim-moc-chau/ là điểm khác. Bài mới thêm: bản Mông Hua Tạt ven QL6 cách trung tâm Vân Hồ (cũ) khoảng 5 km về phía Hà Nội, nay thuộc xã Vân Hồ mới (gộp Vân Hồ, Lóng Luông, Chiềng Yên, Mường Men, 36 bản); trải nghiệm vẽ sáp ong trên vải chàm (sản phẩm 25×25 cm trong khoảng 1 giờ, tour 4–6 người 400.000 đồng theo Báo Sơn La 7/2025), nghề làm giấy Mông có ít nhất 300 năm (khoảng 500.000 đồng/lượt khi thêm công đoạn), giã bánh dày, khèn; Tết Mông mùa hoa mận. Khác /du-lich/thac-tat-nang/ (cùng lô): thác Tạt Nàng là thác nước; bài này về bản người Mông Hua Tạt, homestay và văn hóa bản.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/phat-trien-du-lich-cong-dong-gan-voi-nghe-truyen-thong-BlNxbdsHg.html",
+        "quote": "Báo Sơn La, 'Phát triển du lịch cộng đồng gắn với nghề truyền thống' (06/07/2025, đọc 14/10/2026): bản Hua Tạt, xã Vân Hồ, giữa thung lũng có rừng thông; khách trải nghiệm vẽ sáp ong trên vải nhuộm chàm tại A Chu homestay, khoảng một giờ hoàn thiện sản phẩm 25x25 cm; giá tour 4–6 người là 400.000 đồng gồm nguyên liệu; nghề làm giấy của người Mông có ít nhất 300 năm, chi phí khoảng 500.000 đồng/lượt nếu thêm chuẩn bị nguyên liệu, luộc tre; làm tranh hoa giấy, đèn giấy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/van-ho-diem-den-du-lich-hap-dan-Xa2y88rHg.html",
+        "quote": "Báo Sơn La, 'Vân Hồ điểm đến du lịch hấp dẫn' (09/09/2025, đọc 14/10/2026): xã Vân Hồ thành lập trên cơ sở sáp nhập 4 xã Vân Hồ, Lóng Luông, Chiềng Yên, Mường Men; 36 bản, gần 25.000 dân; nằm trong vùng lõi Khu du lịch quốc gia Mộc Châu; A Chu Homestay của anh Tráng A Chu tiên phong du lịch cộng đồng ở bản Hua Tạt, có vẽ sáp ong, làm giấy dó, giã bánh dày, thổi sáo, múa khèn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichvanho.com/tag/hua-t%E1%BA%A1t",
+        "quote": "Trang Du lịch Vân Hồ, thẻ 'Hua tạt' (không ghi ngày, đọc 14/10/2026): Tết ở bản Hua Tạt khi hoa mận, hoa đào nở; huyện Vân Hồ chọn bản Hua Tạt, xã Vân Hồ tổ chức ngày Tết Độc lập 2-9 (từ khi tách khỏi huyện Mộc Châu). Đoạn mô tả kết quả tìm kiếm nói bản cách trung tâm huyện chừng 5 km về phía Hà Nội ven QL6 – CHƯA thấy trong bản đã tải, người viết cần kiểm tra lại.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bản hua tạt"
+      }
+    ],
+    "notes": "Giá trải nghiệm 400.000/500.000 đồng là của 7/2025 – ghi nguồn và ngày. Khoảng cách '5 km từ trung tâm huyện' và '134 km từ Hà Nội, 170 hộ, 98% Mông' (trang Sở VHTTDL Sơn La) KHÔNG tải được – không dùng. Không in tên/sđt homestay như quảng cáo; chỉ nhắc A Chu homestay như nguồn báo nêu. Xe máy đi QL6, không vào cao tốc Hòa Bình – Mộc Châu nếu đã có đoạn khai thác.",
+    "outline": [
+      "Bản Hua Tạt ở đâu trên QL6",
+      "Xã Vân Hồ mới sau sáp nhập",
+      "Vẽ sáp ong trên vải chàm: quy trình, chi phí 2025",
+      "Làm giấy Mông và các trải nghiệm khác",
+      "Ngủ homestay, mùa hoa mận và Tết Mông",
+      "Ghép với thác Tạt Nàng, Mộc Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/du-lich/rung-thong-ban-ang/",
+      "/du-lich/doi-che-trai-tim-moc-chau/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/thac-tat-nang/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.422
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/thac-tat-nang/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00631.json",
+  "draft_template": {
+    "id": "TM-00631",
+    "url": "/du-lich/ban-hua-tat-van-ho/",
+    "title": "Bản Hua Tạt Vân Hồ: bản Mông ven QL6, vẽ sáp ong, làm giấy dó",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản hua tạt, hua tạt vân hồ, homestay hua tạt, vẽ sáp ong hua tạt, bản mông vân hồ, làm giấy người mông hua tạt",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bản Hua Tạt ở đâu trên QL6",
+        "<p></p>"
+      ],
+      [
+        "Xã Vân Hồ mới sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Vẽ sáp ong trên vải chàm: quy trình, chi phí 2025",
+        "<p></p>"
+      ],
+      [
+        "Làm giấy Mông và các trải nghiệm khác",
+        "<p></p>"
+      ],
+      [
+        "Ngủ homestay, mùa hoa mận và Tết Mông",
+        "<p></p>"
+      ],
+      [
+        "Ghép với thác Tạt Nàng, Mộc Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/phat-trien-du-lich-cong-dong-gan-voi-nghe-truyen-thong-BlNxbdsHg.html",
+        "quote": "Báo Sơn La, 'Phát triển du lịch cộng đồng gắn với nghề truyền thống' (06/07/2025, đọc 14/10/2026): bản Hua Tạt, xã Vân Hồ, giữa thung lũng có rừng thông; khách trải nghiệm vẽ sáp ong trên vải nhuộm chàm tại A Chu homestay, khoảng một giờ hoàn thiện sản phẩm 25x25 cm; giá tour 4–6 người là 400.000 đồng gồm nguyên liệu; nghề làm giấy của người Mông có ít nhất 300 năm, chi phí khoảng 500.000 đồng/lượt nếu thêm chuẩn bị nguyên liệu, luộc tre; làm tranh hoa giấy, đèn giấy.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baosonla.vn/du-lich/van-ho-diem-den-du-lich-hap-dan-Xa2y88rHg.html",
+        "quote": "Báo Sơn La, 'Vân Hồ điểm đến du lịch hấp dẫn' (09/09/2025, đọc 14/10/2026): xã Vân Hồ thành lập trên cơ sở sáp nhập 4 xã Vân Hồ, Lóng Luông, Chiềng Yên, Mường Men; 36 bản, gần 25.000 dân; nằm trong vùng lõi Khu du lịch quốc gia Mộc Châu; A Chu Homestay của anh Tráng A Chu tiên phong du lịch cộng đồng ở bản Hua Tạt, có vẽ sáp ong, làm giấy dó, giã bánh dày, thổi sáo, múa khèn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichvanho.com/tag/hua-t%E1%BA%A1t",
+        "quote": "Trang Du lịch Vân Hồ, thẻ 'Hua tạt' (không ghi ngày, đọc 14/10/2026): Tết ở bản Hua Tạt khi hoa mận, hoa đào nở; huyện Vân Hồ chọn bản Hua Tạt, xã Vân Hồ tổ chức ngày Tết Độc lập 2-9 (từ khi tách khỏi huyện Mộc Châu). Đoạn mô tả kết quả tìm kiếm nói bản cách trung tâm huyện chừng 5 km về phía Hà Nội ven QL6 – CHƯA thấy trong bản đã tải, người viết cần kiểm tra lại.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00631"
+  }
+}

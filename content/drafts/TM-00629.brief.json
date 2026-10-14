@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w32b",
+  "queued": "2026-10-14T04:11:39.196806+00:00",
+  "topic": {
+    "topic_id": "TM-00629",
+    "url": "/du-lich/thac-van-mo/",
+    "title": "Thác Vạn Mơ Phú Thọ: thác 9 tầng, rừng 40 ha, tắm suối mùa hè",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác vạn mơ",
+    "secondary_keywords": [
+      "thác mơ phú thọ",
+      "thác vạn mơ thanh sơn",
+      "thác mơ cự thắng",
+      "thác vạn mơ giá vé",
+      "thác chín tầng phú thọ"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người Hà Nội và Việt Trì muốn đi tắm thác trong ngày ở Phú Thọ cần biết thác Vạn Mơ ở đâu, có mấy tầng, đường vào thế nào, vé bao nhiêu và ăn gì.",
+    "information_gain": "Site chưa có bài nào nhắc thác Vạn Mơ. /du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/ nói Xuân Sơn (thác khác trong vườn), /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ và /du-lich/dam-ao-chau-phu-tho/ là điểm khác. Bài mới thêm: vị trí xóm Chòi, xã Cự Thắng (Thanh Sơn cũ; Lao Động 4/2026 ghi xã Võ Miếu), cách Hà Nội khoảng 120 km, từ trung tâm xã vào khoảng 3 km; thác 9 tầng (tên cũ thác chín tầng, thác Chòi); rừng nguyên sinh 40 ha; mùa đông khách tháng 6–8; vé 30.000 đồng/người theo Lao Động 4/2026; đồ ăn Mường (gà đồi, cá suối, măng rừng) và nhà sàn nghỉ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/thac-van-mo",
+        "quote": "Trang thông tin chính thức du lịch Phú Thọ, 'Thác Vạn Mơ' (không ghi ngày, đọc 14/10/2026): thác Mơ ở xã Cự Thắng, huyện Thanh Sơn, cách Hà Nội khoảng 120 km, giao thông khá thuận tiện; từ trung tâm xã đi vào khoảng 3 km đường trải sỏi; thác có 9 tầng; có nhà sàn nghỉ, món gà cựa, gà đồi, xôi nếp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/5-tuyet-tac-thac-nuoc-niu-chan-du-khach-o-phu-tho-1576603.html",
+        "quote": "Báo Lao Động, '5 tuyệt tác thác nước níu chân du khách ở Phú Thọ' (25/04/2026, đọc 14/10/2026): thác Vạn Mơ (xã Võ Miếu, tỉnh Phú Thọ) cách Hà Nội hơn 100 km, hệ thống 9 tầng thác; giá vé tham quan 30.000 đồng/người.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/ve-dep-hoang-so-thac-mo-186140.htm",
+        "quote": "Báo Phú Thọ, 'Vẻ đẹp hoang sơ thác Mơ' (14/08/2022 – trước sáp nhập, đọc 14/10/2026): thác ở xóm Chòi, xã Cự Thắng, huyện Thanh Sơn; tên cũ thác chín tầng, thác Chòi; đường vào đã cứng hóa; rừng nguyên sinh rộng 40 ha; khách đông nhất tháng 6, 7, 8; có nhà sàn, món gà đồi hấp lá chanh, cá suối, nộm măng rừng; điểm do hộ gia đình bà Trương Thị Mơ quản lý.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác vạn mơ"
+      }
+    ],
+    "notes": "Mâu thuẫn tên xã sau sáp nhập: Lao Động ghi 'xã Võ Miếu', các nguồn cũ ghi 'xã Cự Thắng, huyện Thanh Sơn' – ghi 'Cự Thắng (cũ)' và nêu Lao Động. Mâu thuẫn đường vào: 'trải sỏi' (trang du lịch tỉnh, không ngày) vs 'đã cứng hóa' (Báo Phú Thọ 2022). Vé 30.000 đ: chỉ Lao Động 4/2026 – ghi nguồn và ngày. Không có thông tin cứu hộ, cảnh báo lũ.",
+    "outline": [
+      "Thác Vạn Mơ ở đâu sau sáp nhập",
+      "9 tầng thác và rừng nguyên sinh 40 ha",
+      "Vé vào và dịch vụ tại chỗ",
+      "Ăn gì: món Mường bên suối",
+      "Mùa nào đi, lưu ý khi tắm thác",
+      "Ghép với Xuân Sơn hoặc đền Hùng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/dam-ao-chau-phu-tho/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00629.json",
+  "draft_template": {
+    "id": "TM-00629",
+    "url": "/du-lich/thac-van-mo/",
+    "title": "Thác Vạn Mơ Phú Thọ: thác 9 tầng, rừng 40 ha, tắm suối mùa hè",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác vạn mơ, thác mơ phú thọ, thác vạn mơ thanh sơn, thác mơ cự thắng, thác vạn mơ giá vé, thác chín tầng phú thọ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Vạn Mơ ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "9 tầng thác và rừng nguyên sinh 40 ha",
+        "<p></p>"
+      ],
+      [
+        "Vé vào và dịch vụ tại chỗ",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì: món Mường bên suối",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đi, lưu ý khi tắm thác",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Xuân Sơn hoặc đền Hùng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/thac-van-mo",
+        "quote": "Trang thông tin chính thức du lịch Phú Thọ, 'Thác Vạn Mơ' (không ghi ngày, đọc 14/10/2026): thác Mơ ở xã Cự Thắng, huyện Thanh Sơn, cách Hà Nội khoảng 120 km, giao thông khá thuận tiện; từ trung tâm xã đi vào khoảng 3 km đường trải sỏi; thác có 9 tầng; có nhà sàn nghỉ, món gà cựa, gà đồi, xôi nếp.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/5-tuyet-tac-thac-nuoc-niu-chan-du-khach-o-phu-tho-1576603.html",
+        "quote": "Báo Lao Động, '5 tuyệt tác thác nước níu chân du khách ở Phú Thọ' (25/04/2026, đọc 14/10/2026): thác Vạn Mơ (xã Võ Miếu, tỉnh Phú Thọ) cách Hà Nội hơn 100 km, hệ thống 9 tầng thác; giá vé tham quan 30.000 đồng/người.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/ve-dep-hoang-so-thac-mo-186140.htm",
+        "quote": "Báo Phú Thọ, 'Vẻ đẹp hoang sơ thác Mơ' (14/08/2022 – trước sáp nhập, đọc 14/10/2026): thác ở xóm Chòi, xã Cự Thắng, huyện Thanh Sơn; tên cũ thác chín tầng, thác Chòi; đường vào đã cứng hóa; rừng nguyên sinh rộng 40 ha; khách đông nhất tháng 6, 7, 8; có nhà sàn, món gà đồi hấp lá chanh, cá suối, nộm măng rừng; điểm do hộ gia đình bà Trương Thị Mơ quản lý.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00629"
+  }
+}
