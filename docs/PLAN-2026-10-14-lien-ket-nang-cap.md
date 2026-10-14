@@ -37,3 +37,20 @@ Trạng thái 14/10: OpenSEO còn 11 credit, không đủ cho một lần gọi 
 ## Kiểm tra mỗi PR
 
 `content_factory.py run --dry-run`, 4 bộ test, `topic_matrix.py validate`, `build.py` (rebuild không diff), `validate_factory_site.py`.
+
+## D. GEO: tối ưu cho tìm kiếm bằng AI (Google AI Overviews/AI Mode, ChatGPT, Gemini, Perplexity)
+
+Nguyên tắc (Google Search Central, "AI features and your website", đọc 15/10/2026): không có yêu cầu hay schema riêng để xuất hiện trong AI Overviews/AI Mode; nền tảng SEO vẫn quyết định (cho phép crawl, liên kết nội bộ, nội dung dạng text, structured data khớp nội dung hiển thị, Business Profile cập nhật). Lưu lượng AI Overviews/AI Mode tính chung trong báo cáo Hiệu suất (Web) của Search Console.
+
+Hiện trạng (kiểm 15/10): robots.txt cho phép mọi bot; bài có BlogPosting, FAQPage, BreadcrumbList, Person, Organization; trang tiền có LocalBusiness (geo, hasMap, priceRange, giờ mở cửa); bài V2 mở đầu bằng "Câu trả lời ngắn", số liệu có link nguồn: đây là dạng nội dung AI dễ trích dẫn.
+
+| # | Việc | Trạng thái |
+|---|---|---|
+| D1 | Không chặn bot tìm kiếm AI (OAI-SearchBot, PerplexityBot, Googlebot, Bingbot). Bot huấn luyện (GPTBot, Google-Extended) là quyết định riêng; mặc định để mở | Đã đúng (robots.txt Allow /) |
+| D2 | Nối thực thể: LocalBusiness/Organization thêm `sameAs` = link Google Maps của hồ sơ, `alternateName` = tên trên GBP, để AI nối blog với cửa hàng trên Maps | Làm 15/10 |
+| D3 | Bing Webmaster Tools + IndexNow (ChatGPT search, Copilot được cho là dựa nhiều vào chỉ mục Bing; chưa có xác nhận chính thức) và Cốc Cốc | Cần chủ site xác minh site |
+| D4 | Trang tiền mở đầu bằng đoạn trả lời 40–60 từ (giá, địa chỉ, giờ, giấy tờ); FAQ khớp câu hỏi người dùng hỏi AI: "thuê xe máy Long Biên ở đâu", "giá thuê xe máy Hà Nội 2026", "người nước ngoài thuê xe máy Hà Nội cần gì", "thuê xe 50cc không cần bằng" | Rà 6 trang tiền |
+| D5 | Uy tín ngoài site: review GBP đều đặn, nhắc tên "Thuê xe máy Nguyễn Hà" nhất quán trên Facebook, nhóm, blog du lịch đối tác; không mua review, không spam diễn đàn | Liên tục (mục 9) |
+| D6 | Đo: bộ 20 câu hỏi kiểm tra mỗi tháng trên Google AI Mode, ChatGPT, Gemini, Perplexity (có nhắc cửa hàng không, đúng giá/địa chỉ không, dẫn trang nào); GA4 theo dõi nguồn giới thiệu chatgpt.com, perplexity.ai, gemini.google.com, copilot | Bắt đầu tuần này |
+
+Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domain không thấy liên hệ với trích dẫn AI), nhồi từ khoá, nội dung viết riêng cho bot.
