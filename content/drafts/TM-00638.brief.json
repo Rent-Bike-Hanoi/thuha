@@ -1,0 +1,145 @@
+{
+  "writer": "writer-B",
+  "queued": "2026-10-14T04:33:27.859258+00:00",
+  "topic": {
+    "topic_id": "TM-00638",
+    "url": "/du-lich/rung-tran-hung-dao-cao-bang/",
+    "title": "Rừng Trần Hưng Đạo Cao Bằng: nơi lập đội Giải phóng quân, đi thế nào",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "rừng trần hưng đạo cao bằng",
+    "secondary_keywords": [
+      "khu di tích rừng trần hưng đạo",
+      "rừng trần hưng đạo nguyên bình",
+      "đồn phai khắt nà ngần",
+      "đền thờ đại tướng võ nguyên giáp cao bằng",
+      "đỉnh slam cao"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi Cao Bằng theo hướng Nguyên Bình (hoặc ghép Phja Oắc) muốn biết khu di tích rừng Trần Hưng Đạo có gì, gồm những điểm nào, leo bao nhiêu bậc và có mất phí không.",
+    "information_gain": "/du-lich/khu-di-tich-pac-bo/ và /du-lich/ha-noi-di-cao-bang-bang-xe-may/ chỉ nhắc rừng Trần Hưng Đạo một câu về việc dừng thu phí từ 4/7/2026; /du-lich/phja-oac-phja-den-cao-bang/ ở cùng huyện Nguyên Bình (cũ) nhưng không nói di tích. Bài mới thêm: vị trí xã Tam Kim (Nguyên Bình cũ), lễ thành lập Đội VNTTGPQ 17h ngày 22/12/1944 với 34 chiến sĩ; 5 điểm di tích (rừng THĐ, đồn Phai Khắt 25/12/1944, đồn Nà Ngần 26/12/1944, hang Thẳm Khẩu, Vạ Phá); di tích quốc gia đặc biệt trao 15/12/2014; 110 bậc đá/400 m từ phù điêu vào nhà bia, 508 bậc lên đỉnh Slam Cao (số liệu 2015); nhà trưng bày xây 2014, đền thờ Đại tướng Võ Nguyên Giáp; hơn 20 km đường Phai Khắt – Nà Ngần nối QL3.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/tro-lai-noi-khai-sinh-ra-doi-viet-nam-tuyen-truyen-giai-phong-quan-post773040.html",
+        "quote": "Sài Gòn Giải Phóng (19/12/2024): Đội VNTTGPQ thành lập 17 giờ ngày 22/12/1944 dưới tán rừng Trần Hưng Đạo (nay xã Tam Kim, huyện Nguyên Bình); khu di tích gồm 5 điểm: rừng Trần Hưng Đạo, đồn Phai Khắt (thắng trận 25/12/1944), đồn Nà Ngần (26/12/1944), hang Thẳm Khẩu (tập trung quân chiều 24/12/1944), di tích Vạ Phá (lớp huấn luyện tháng 2/1944); có đền thờ Đại tướng Võ Nguyên Giáp, khu nhà trưng bày xây từ 2014, bia đánh dấu nơi đọc tuyên bố thành lập.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ky-su-nguoc-nguon-p3-nguoi-20-nam-giu-rung-tran-hung-dao-post190681.html",
+        "quote": "Báo Pháp luật Việt Nam (14/2/2015): rừng còn gọi rừng Slam Cao thuộc dãy Khau Giáng, xã Tam Kim; đêm 15/12/2014 trao quyết định công nhận Di tích quốc gia đặc biệt rừng Trần Hưng Đạo; từ phù điêu vào nhà bia 110 bậc đá dài 400 m; từ nhà bia lên đỉnh Slam Cao 508 bậc; hơn 20 km đường từ Phai Khắt lên Nà Ngần (xã Hoa Thám) do Bộ Quốc phòng đầu tư nối với quốc lộ 3.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/cao-bang-mien-phi-tham-quan-cac-khu-di-tich-quoc-gia-dac-biet-tu-ngay-47-post1312182.vov",
+        "quote": "VOV (3/7/2026): Ban Quản lý các di tích quốc gia đặc biệt tỉnh Cao Bằng thông báo dừng thu phí tham quan tại khu di tích quốc gia đặc biệt Pác Bó và rừng Trần Hưng Đạo từ 4/7/2026; khách trong nước và quốc tế không phải nộp phí; bài không nêu mức phí cũ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "rừng trần hưng đạo cao bằng"
+      }
+    ],
+    "notes": "Số bậc (110, 508) và độ dài 400 m là số liệu 2015 — ghi 'theo Báo Pháp luật 2015'. Báo Pháp luật 2015 ghi trận Phai Khắt '25/4/1944' — lỗi; dùng 25/12/1944 theo SGGP. Không có nguồn về khoảng cách từ trung tâm Cao Bằng (một kết quả tìm kiếm nói khoảng 50 km nhưng chưa fetch được trang gốc) — không dùng. Không có giờ mở cửa. Tên xã sau sáp nhập 2025 chưa có nguồn → 'xã Tam Kim, Nguyên Bình (cũ)'.",
+    "outline": [
+      "Rừng Trần Hưng Đạo ở đâu, liên quan gì đến ngày 22/12/1944",
+      "5 điểm di tích trong khu",
+      "Từ phù điêu vào nhà bia và leo đỉnh Slam Cao",
+      "Đền thờ Đại tướng và nhà trưng bày",
+      "Miễn phí tham quan từ 4/7/2026",
+      "Ghép với Phja Oắc – Phja Đén và lưu ý đường núi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-pac-bo/",
+      "/du-lich/phja-oac-phja-den-cao-bang/",
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/ho-thang-hen-nui-mat-than/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00638.json",
+  "draft_template": {
+    "id": "TM-00638",
+    "url": "/du-lich/rung-tran-hung-dao-cao-bang/",
+    "title": "Rừng Trần Hưng Đạo Cao Bằng: nơi lập đội Giải phóng quân, đi thế nào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "rừng trần hưng đạo cao bằng, khu di tích rừng trần hưng đạo, rừng trần hưng đạo nguyên bình, đồn phai khắt nà ngần, đền thờ đại tướng võ nguyên giáp cao bằng, đỉnh slam cao",
+    "excerpt": "",
+    "sections": [
+      [
+        "Rừng Trần Hưng Đạo ở đâu, liên quan gì đến ngày 22/12/1944",
+        "<p></p>"
+      ],
+      [
+        "5 điểm di tích trong khu",
+        "<p></p>"
+      ],
+      [
+        "Từ phù điêu vào nhà bia và leo đỉnh Slam Cao",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ Đại tướng và nhà trưng bày",
+        "<p></p>"
+      ],
+      [
+        "Miễn phí tham quan từ 4/7/2026",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Phja Oắc – Phja Đén và lưu ý đường núi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/tro-lai-noi-khai-sinh-ra-doi-viet-nam-tuyen-truyen-giai-phong-quan-post773040.html",
+        "quote": "Sài Gòn Giải Phóng (19/12/2024): Đội VNTTGPQ thành lập 17 giờ ngày 22/12/1944 dưới tán rừng Trần Hưng Đạo (nay xã Tam Kim, huyện Nguyên Bình); khu di tích gồm 5 điểm: rừng Trần Hưng Đạo, đồn Phai Khắt (thắng trận 25/12/1944), đồn Nà Ngần (26/12/1944), hang Thẳm Khẩu (tập trung quân chiều 24/12/1944), di tích Vạ Phá (lớp huấn luyện tháng 2/1944); có đền thờ Đại tướng Võ Nguyên Giáp, khu nhà trưng bày xây từ 2014, bia đánh dấu nơi đọc tuyên bố thành lập.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ky-su-nguoc-nguon-p3-nguoi-20-nam-giu-rung-tran-hung-dao-post190681.html",
+        "quote": "Báo Pháp luật Việt Nam (14/2/2015): rừng còn gọi rừng Slam Cao thuộc dãy Khau Giáng, xã Tam Kim; đêm 15/12/2014 trao quyết định công nhận Di tích quốc gia đặc biệt rừng Trần Hưng Đạo; từ phù điêu vào nhà bia 110 bậc đá dài 400 m; từ nhà bia lên đỉnh Slam Cao 508 bậc; hơn 20 km đường từ Phai Khắt lên Nà Ngần (xã Hoa Thám) do Bộ Quốc phòng đầu tư nối với quốc lộ 3.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/cao-bang-mien-phi-tham-quan-cac-khu-di-tich-quoc-gia-dac-biet-tu-ngay-47-post1312182.vov",
+        "quote": "VOV (3/7/2026): Ban Quản lý các di tích quốc gia đặc biệt tỉnh Cao Bằng thông báo dừng thu phí tham quan tại khu di tích quốc gia đặc biệt Pác Bó và rừng Trần Hưng Đạo từ 4/7/2026; khách trong nước và quốc tế không phải nộp phí; bài không nêu mức phí cũ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00638"
+  }
+}

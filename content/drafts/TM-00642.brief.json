@@ -1,0 +1,145 @@
+{
+  "writer": "writer-C",
+  "queued": "2026-10-14T04:33:28.595736+00:00",
+  "topic": {
+    "topic_id": "TM-00642",
+    "url": "/du-lich/den-tuan-quan-yen-bai/",
+    "title": "Đền Tuần Quán Yên Bái: đền Mẫu bên sông Hồng, lễ giỗ Mẫu 3/3 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền tuần quán yên bái",
+    "secondary_keywords": [
+      "đền tuần quán",
+      "lễ hội đền tuần quán",
+      "đền tuần quán phường yên bái",
+      "đền thờ mẫu liễu hạnh yên bái",
+      "khởi nghĩa yên bái 1930"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lào Cai/Mù Cang Chải qua Yên Bái (cũ) hoặc người theo đạo Mẫu muốn biết đền Tuần Quán ở đâu, thờ ai, lễ hội ngày nào và có gì gắn với Khởi nghĩa Yên Bái.",
+    "information_gain": "Không bài nào trên site nói đền Tuần Quán; /du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/ và /du-lich/muong-lo-nghia-lo/ ở cùng vùng Yên Bái (cũ) nhưng không nhắc. Khác đền Đông Cuông (đền Mẫu Thượng Ngàn ở Văn Yên): Tuần Quán là đền Mẫu Liễu Hạnh ở phường Yên Bái, tả ngạn sông Hồng. Bài mới thêm: tên cũ 'Miếu Quán Tuần'/đền Vệ Quốc, có từ thời Trần theo Đại Nam nhất thống chí; phối thờ Trần Quốc Tuấn; chiều 9/2/1930 chí sĩ VNQDĐ bàn kế hoạch Khởi nghĩa Yên Bái tại đền; trùng tu 1998, khuôn viên 1.660 m²; di tích cấp tỉnh 2005; lễ giỗ Mẫu 3/3 âm lịch (2026: 19/4) và giỗ Cha 20/8 âm lịch; năm 2025 ngập lụt làm phần tế lễ thu hẹp.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/linh-thieng-le-hoi-den-tuan-quan-post898300.html",
+        "quote": "Báo Lào Cai (19/4/2026): ngày 19/4/2026 (3/3 âm lịch) phường Yên Bái tổ chức lễ hội đền Tuần Quán; đền ở tả ngạn sông Hồng, trước thế kỷ XIX gọi 'Miếu Quán Tuần'; thờ Mẫu Liễu Hạnh (sắc phong vua Lê Hiển Tông) và Trần Quốc Tuấn; di tích cấp tỉnh năm 2005; phần hội thi bày mâm lễ, kéo co, cờ tướng, bóng chuyền, chợ quê, trưng bày OCOP.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/den-tuan-quan-noi-gui-gam-niem-tin-va-long-thanh-kinh-post884969.html",
+        "quote": "Báo Lào Cai (21/10/2025): theo Đại Nam nhất thống chí và Hưng Hóa phong thổ lục, đền có từ thời Trần, ban đầu thờ Diệp phu nhân, gọi đền Vệ Quốc; chiều 9/2/1930 chí sĩ VNQDĐ chi bộ Xuân Lũng cải trang người hành hương bàn kế hoạch Khởi nghĩa Yên Bái tại đền, khởi nghĩa nổ ra 10 giờ đêm 10/2/1930; năm 1998 trùng tu trên nền cũ, khuôn viên 1.660 m²; giỗ Mẫu tháng 3 và giỗ Cha 20/8 âm lịch; năm 2025 do ngập lụt phần tế lễ chỉ làm trong phạm vi bản đền.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/phat-trien-du-lich-tam-linh-gan-voi-tin-nguong-tho-mau-post886984.html",
+        "quote": "Báo Lào Cai (18/11/2025): cứ 3/3 âm lịch hằng năm đền Tuần Quán (phường Yên Bái) tổ chức lễ hội giỗ Mẫu, thu hút hàng ngàn người; Mẫu Liễu Hạnh là vị thần cao nhất thờ ở đền; di tích cấp tỉnh từ 2005.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền tuần quán yên bái"
+      }
+    ],
+    "notes": "Cả 3 nguồn đều là Báo Lào Cai (báo Đảng tỉnh) — chưa có báo trung ương; writer nên bổ sung nếu tìm được. Không có giờ mở cửa, vé, bãi xe, khoảng cách tới ga/cao tốc. 'Đầu thế kỷ XV' cho Mẫu Liễu Hạnh giáng trần là theo truyền thuyết trong bài — ghi 'tương truyền'. Phường Yên Bái nay thuộc tỉnh Lào Cai theo nguồn.",
+    "outline": [
+      "Đền Tuần Quán ở đâu",
+      "Từ đền Vệ Quốc đến đền thờ Mẫu Liễu Hạnh",
+      "Đền và Khởi nghĩa Yên Bái 1930",
+      "Lễ giỗ Mẫu 3/3 và giỗ Cha 20/8 âm lịch",
+      "Ghép với hồ Thác Bà trên đường đi Tây Bắc",
+      "Lưu ý mùa mưa lũ ven sông Hồng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/den-bao-ha-lao-cai/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00642.json",
+  "draft_template": {
+    "id": "TM-00642",
+    "url": "/du-lich/den-tuan-quan-yen-bai/",
+    "title": "Đền Tuần Quán Yên Bái: đền Mẫu bên sông Hồng, lễ giỗ Mẫu 3/3 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền tuần quán yên bái, đền tuần quán, lễ hội đền tuần quán, đền tuần quán phường yên bái, đền thờ mẫu liễu hạnh yên bái, khởi nghĩa yên bái 1930",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Tuần Quán ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Từ đền Vệ Quốc đến đền thờ Mẫu Liễu Hạnh",
+        "<p></p>"
+      ],
+      [
+        "Đền và Khởi nghĩa Yên Bái 1930",
+        "<p></p>"
+      ],
+      [
+        "Lễ giỗ Mẫu 3/3 và giỗ Cha 20/8 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghép với hồ Thác Bà trên đường đi Tây Bắc",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý mùa mưa lũ ven sông Hồng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/linh-thieng-le-hoi-den-tuan-quan-post898300.html",
+        "quote": "Báo Lào Cai (19/4/2026): ngày 19/4/2026 (3/3 âm lịch) phường Yên Bái tổ chức lễ hội đền Tuần Quán; đền ở tả ngạn sông Hồng, trước thế kỷ XIX gọi 'Miếu Quán Tuần'; thờ Mẫu Liễu Hạnh (sắc phong vua Lê Hiển Tông) và Trần Quốc Tuấn; di tích cấp tỉnh năm 2005; phần hội thi bày mâm lễ, kéo co, cờ tướng, bóng chuyền, chợ quê, trưng bày OCOP.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/den-tuan-quan-noi-gui-gam-niem-tin-va-long-thanh-kinh-post884969.html",
+        "quote": "Báo Lào Cai (21/10/2025): theo Đại Nam nhất thống chí và Hưng Hóa phong thổ lục, đền có từ thời Trần, ban đầu thờ Diệp phu nhân, gọi đền Vệ Quốc; chiều 9/2/1930 chí sĩ VNQDĐ chi bộ Xuân Lũng cải trang người hành hương bàn kế hoạch Khởi nghĩa Yên Bái tại đền, khởi nghĩa nổ ra 10 giờ đêm 10/2/1930; năm 1998 trùng tu trên nền cũ, khuôn viên 1.660 m²; giỗ Mẫu tháng 3 và giỗ Cha 20/8 âm lịch; năm 2025 do ngập lụt phần tế lễ chỉ làm trong phạm vi bản đền.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/phat-trien-du-lich-tam-linh-gan-voi-tin-nguong-tho-mau-post886984.html",
+        "quote": "Báo Lào Cai (18/11/2025): cứ 3/3 âm lịch hằng năm đền Tuần Quán (phường Yên Bái) tổ chức lễ hội giỗ Mẫu, thu hút hàng ngàn người; Mẫu Liễu Hạnh là vị thần cao nhất thờ ở đền; di tích cấp tỉnh từ 2005.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00642"
+  }
+}

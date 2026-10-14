@@ -1,0 +1,171 @@
+{
+  "writer": "writer-A",
+  "queued": "2026-10-14T04:33:27.673437+00:00",
+  "topic": {
+    "topic_id": "TM-00637",
+    "url": "/du-lich/ban-vang-pheo-lai-chau/",
+    "title": "Bản Vàng Pheo Lai Châu: bản Thái trắng ở Mường So, đền Nàng Han",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản vàng pheo lai châu",
+    "secondary_keywords": [
+      "bản vàng pheo",
+      "thung lũng mỹ nhân vàng pheo",
+      "lễ hội nàng han",
+      "mường so phong thổ",
+      "du lịch cộng đồng vàng pheo"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi Lai Châu – Phong Thổ muốn một bản người Thái trắng để dừng chân, xem dệt vải, nhà sàn và lễ hội; cần biết bản ở đâu, mùa nào đẹp, lễ hội ngày nào.",
+    "information_gain": "Site có bản Mông /du-lich/ban-sin-suoi-ho/ và /du-lich/cao-nguyen-sin-ho/, /du-lich/dong-pu-sam-cap-lai-chau/ ở Lai Châu nhưng chưa bài nào về bản Thái trắng hay Mường So. Bài mới thêm: vị trí khoảng 30 km từ trung tâm Lai Châu, xã Mường So (Phong Thổ cũ), dưới núi Phu Nhọ Khọ giữa suối Nậm So – Nậm Lùm; quy mô 120+ hộ, 530+ nhân khẩu, bản văn hóa – du lịch cấp tỉnh từ 2007; dệt vải, chạm bạc; lịch lễ hội: Nàng Han rằm tháng Hai (di sản phi vật thể quốc gia theo QĐ 326/QĐ-BVHTTDL ngày 19/2/2025, đền ở thôn Tây An), Then Kin Pang mùng 10 tháng Ba, Kin Lẩu Khẩu Mẩu/Cơm mới rằm tháng Chín.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/doc-dao-thung-lung-my-nhan-vang-pheo-o-lai-chau-290189.html",
+        "quote": "Báo Thế giới & Việt Nam (15/10/2024): bản Vàng Pheo cách TP Lai Châu khoảng 30 km, bên núi Phu Nhọ Khọ, xã Mường So, huyện Phong Thổ, nơi giao thoa suối Nậm So và Nậm Lùm; một trong những bản cổ nhất của người Thái trắng; trên 120 hộ, hơn 530 nhân khẩu; bản văn hóa – du lịch cấp tỉnh từ 2007, mỗi năm đón hàng nghìn lượt khách; lễ hội Nàng Han rằm tháng 2, Then Kin Pang mùng 10 tháng 3, Kin Lẩu Khẩu Mẩu rằm tháng 9 âm lịch; trò tó má lẹ, ném còn, đẩy gậy, tù lu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/tim-ve-le-hoi-nang-han-post869409.html",
+        "quote": "Nhân Dân (1/4/2025): đền Nàng Han ở thôn Tây An, xã Mường So, huyện Phong Thổ; lễ hội rằm tháng Hai; đền là di tích cấp tỉnh năm 2007; ngày 19/2/2025 Bộ VHTTDL ra Quyết định 326/QĐ-BVHTTDL đưa lễ hội Nàng Han vào danh mục di sản phi vật thể quốc gia; Mường So có 1.715 hộ, người Thái hơn 70%, nhiều di tích quốc gia nhất tỉnh (đền Nàng Han, hang Thẩm Tạo, hang Kháng chiến Nà Củng, đồn Mường So, di chỉ hang Nậm Tun).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/kham-pha-mien-dat-bi-an-lai-chau-2995046.html",
+        "quote": "VnExpress (30/5/2014): bản Vàng Pheo cách thị xã Lai Châu khoảng 30 km về phía tây, tựa núi Phu Nhọ Khọ, trước là suối Nậm Lùm; giữ nghề thêu, dệt vải, mây tre đan, chạm bạc (vòng cổ, xà tích, trâm cài).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/phong-tho-diem-hoi-tu-van-hoa-am-thuc-canh-sac-cua-tay-bac-695778.html",
+        "quote": "VietNamNet (8/12/2020): rằm tháng 9 âm lịch hằng năm xã Mường So tổ chức lễ hội Cơm mới (cốm mới) của người Thái trắng; lễ hội Nàng Han tôn vinh nữ anh hùng của đồng bào Thái trắng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-diem-den-dep-nhat-lai-chau-3384024.html",
+        "quote": "VnExpress (27/4/2016): liệt kê các bản du lịch cộng đồng Nà Luồng, Hon, Vàng Pheo cùng thác Tác Tình, suối nước nóng Vàng Pó, Pu Sam Cáp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bản vàng pheo lai châu"
+      }
+    ],
+    "notes": "Chưa có nguồn về homestay, giá, đường vào bản và tình trạng QL4D/QL12 2026 — writer không nêu giá. Đơn vị hành chính sau 7/2025 chưa có nguồn: ghi 'xã Mường So, huyện Phong Thổ (cũ)'. Lịch lễ hội theo âm lịch, không quy đổi năm 2027. 'Thung lũng mỹ nhân' là cách gọi báo chí, tránh đưa vào tiêu đề. Phân biệt với 'đền Nàng Han' (Linh Sơn Thủy Từ) ở Quỳnh Nhai, Sơn La nêu trong /du-lich/cau-pa-uon-quynh-nhai/.",
+    "outline": [
+      "Bản Vàng Pheo ở đâu, cách trung tâm Lai Châu bao xa",
+      "Người Thái trắng ở Mường So: nhà sàn, dệt vải, chạm bạc",
+      "Đền Nàng Han và lễ hội rằm tháng Hai",
+      "Lịch lễ hội trong năm: Then Kin Pang, Cơm mới",
+      "Mùa đẹp và cách đi xe máy từ trung tâm Lai Châu",
+      "Ứng xử khi vào bản, chụp ảnh người dân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ban-sin-suoi-ho/",
+      "/du-lich/cao-nguyen-sin-ho/",
+      "/du-lich/dong-pu-sam-cap-lai-chau/",
+      "/du-lich/deo-o-quy-ho/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00637.json",
+  "draft_template": {
+    "id": "TM-00637",
+    "url": "/du-lich/ban-vang-pheo-lai-chau/",
+    "title": "Bản Vàng Pheo Lai Châu: bản Thái trắng ở Mường So, đền Nàng Han",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản vàng pheo lai châu, bản vàng pheo, thung lũng mỹ nhân vàng pheo, lễ hội nàng han, mường so phong thổ, du lịch cộng đồng vàng pheo",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bản Vàng Pheo ở đâu, cách trung tâm Lai Châu bao xa",
+        "<p></p>"
+      ],
+      [
+        "Người Thái trắng ở Mường So: nhà sàn, dệt vải, chạm bạc",
+        "<p></p>"
+      ],
+      [
+        "Đền Nàng Han và lễ hội rằm tháng Hai",
+        "<p></p>"
+      ],
+      [
+        "Lịch lễ hội trong năm: Then Kin Pang, Cơm mới",
+        "<p></p>"
+      ],
+      [
+        "Mùa đẹp và cách đi xe máy từ trung tâm Lai Châu",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi vào bản, chụp ảnh người dân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/doc-dao-thung-lung-my-nhan-vang-pheo-o-lai-chau-290189.html",
+        "quote": "Báo Thế giới & Việt Nam (15/10/2024): bản Vàng Pheo cách TP Lai Châu khoảng 30 km, bên núi Phu Nhọ Khọ, xã Mường So, huyện Phong Thổ, nơi giao thoa suối Nậm So và Nậm Lùm; một trong những bản cổ nhất của người Thái trắng; trên 120 hộ, hơn 530 nhân khẩu; bản văn hóa – du lịch cấp tỉnh từ 2007, mỗi năm đón hàng nghìn lượt khách; lễ hội Nàng Han rằm tháng 2, Then Kin Pang mùng 10 tháng 3, Kin Lẩu Khẩu Mẩu rằm tháng 9 âm lịch; trò tó má lẹ, ném còn, đẩy gậy, tù lu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/tim-ve-le-hoi-nang-han-post869409.html",
+        "quote": "Nhân Dân (1/4/2025): đền Nàng Han ở thôn Tây An, xã Mường So, huyện Phong Thổ; lễ hội rằm tháng Hai; đền là di tích cấp tỉnh năm 2007; ngày 19/2/2025 Bộ VHTTDL ra Quyết định 326/QĐ-BVHTTDL đưa lễ hội Nàng Han vào danh mục di sản phi vật thể quốc gia; Mường So có 1.715 hộ, người Thái hơn 70%, nhiều di tích quốc gia nhất tỉnh (đền Nàng Han, hang Thẩm Tạo, hang Kháng chiến Nà Củng, đồn Mường So, di chỉ hang Nậm Tun).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/kham-pha-mien-dat-bi-an-lai-chau-2995046.html",
+        "quote": "VnExpress (30/5/2014): bản Vàng Pheo cách thị xã Lai Châu khoảng 30 km về phía tây, tựa núi Phu Nhọ Khọ, trước là suối Nậm Lùm; giữ nghề thêu, dệt vải, mây tre đan, chạm bạc (vòng cổ, xà tích, trâm cài).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/phong-tho-diem-hoi-tu-van-hoa-am-thuc-canh-sac-cua-tay-bac-695778.html",
+        "quote": "VietNamNet (8/12/2020): rằm tháng 9 âm lịch hằng năm xã Mường So tổ chức lễ hội Cơm mới (cốm mới) của người Thái trắng; lễ hội Nàng Han tôn vinh nữ anh hùng của đồng bào Thái trắng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-diem-den-dep-nhat-lai-chau-3384024.html",
+        "quote": "VnExpress (27/4/2016): liệt kê các bản du lịch cộng đồng Nà Luồng, Hon, Vàng Pheo cùng thác Tác Tình, suối nước nóng Vàng Pó, Pu Sam Cáp.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00637"
+  }
+}
