@@ -61,6 +61,8 @@ Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domai
 - A2 xong: Bài liên quan theo chủ đề + ô thứ 4 cho bài ít được trỏ tới.
 - A3 xong: /thue-xe-may/ha-noi/theo-thang/ từ 14 lên 47 link vào (gợi ý dịch vụ theo ngữ cảnh "thuê … tháng").
 - A4: thêm link ngữ cảnh cho phanh CBS, Klara S, xe điện leo dốc, TMAX. Còn 2 trang có 2 link vào (Royal Enfield Himalayan 450, nhường đường vòng xuyến): chưa bài nào cùng chuyên mục nhắc tự nhiên, không ép link.
-- B: UB-015, 018–024 xong. UB-017 chờ chủ cửa hàng xác nhận xe côn tay / phân khối lớn.
-- C: chưa lấy được volume (OpenSEO 11 credit, Semrush hết API unit). Chạy ngay khi có credit.
+- B: UB-015, 017–024 xong. UB-017: gỡ khẳng định ngoài business-facts (xe côn tay, phân khối lớn, bảo dưỡng định kỳ, thời điểm thanh toán); thêm lại khi chủ cửa hàng xác nhận.
+- C: 15/10 lấy được volume thật qua Ubersuggest (3 báo cáo/ngày), ghi 12 dòng vào `data/keyword-metrics.jsonl`:
+  thuê xe máy hà nội 8.100 (SD 12), cho thuê xe máy 8.100, thuê xe máy gần đây 4.400, cho thuê xe máy gần đây 1.900, cho thuê xe máy hà nội 1.600, thuê xe điện 1.900, thuê xe điện vinfast 1.000, cho thuê xe điện tự lái 880, thuê xe điện tự lái 720, cho thuê xe điện 480, thuê xe điện hà nội 390, thuê xe điện gần đây 260.
+  Thứ tự ưu tiên theo nhu cầu: (1) /thue-xe-may/ha-noi/ (8.100 + 1.600, độ khó thấp); (2) nhóm "gần đây" (6.300) đi qua Google Business Profile, không phải trang mới; (3) /thue-xe-dien/ha-noi/ (390, cụm xe điện 1.900). OpenSEO còn 11 credit: phần ~150 từ khoá còn lại chạy khi nạp credit.
 - D: D1, D2, D4, D6 xong; D3 (Bing Webmaster Tools) chờ chủ site; D5 liên tục.
