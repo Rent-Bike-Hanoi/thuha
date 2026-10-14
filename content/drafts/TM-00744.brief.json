@@ -1,0 +1,144 @@
+{
+  "writer": "writer-Z1",
+  "queued": "2026-10-14T05:58:15.047946+00:00",
+  "topic": {
+    "topic_id": "TM-00744",
+    "url": "/du-lich/lang-go-dong-ky-bac-ninh/",
+    "title": "Làng gỗ Đồng Kỵ Bắc Ninh: làng nghề mộc và hội rước pháo mùng 4 Tết",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng gỗ đồng kỵ",
+    "secondary_keywords": [
+      "làng đồ gỗ mỹ nghệ đồng kỵ",
+      "hội rước pháo đồng kỵ",
+      "đồng kỵ từ sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội muốn đi xe máy sang Từ Sơn xem làng đồ gỗ mỹ nghệ, hoặc trẩy hội rước pháo mùng 4 Tết, cần biết làng ở đâu sau sáp nhập, xem gì và hội diễn ra thế nào.",
+    "information_gain": "Chưa có bài hay dòng ma trận nào về Đồng Kỵ. /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ chỉ nói chùa Dâu, đền Đô, Đông Hồ; /du-lich/lang-son-dong-hoai-duc/ là làng tượng gỗ ở Hà Nội. Bài mới nêu địa giới mới (phường Đồng Nguyên), quy mô làng nghề gỗ, cách chạm thủ công sau đục máy, cụm đình chùa Đồng Kỵ thế kỷ XVII gắn hoạt động cách mạng, và hội rước pháo mùng 4 Tết (di sản quốc gia 1/2016, thay đốt pháo bằng rước pháo từ 1994, ông pháo 5,75 m).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lang-dong-ky-o-bac-ninh-tu-dia-chi-do-den-mo-hinh-du-lich-dac-sac-post1133023.vnp",
+        "quote": "VietnamPlus/TTXVN (28/8/2026): làng Đồng Kỵ thuộc phường Đồng Nguyên, tỉnh Bắc Ninh (phường Đồng Kỵ sau sáp nhập là phường Đồng Nguyên); cụm di tích đình, chùa Đồng Kỵ có giá trị văn hóa quốc gia; chùa Đồng Kỵ xây thế kỷ XVII, từng là cơ sở hoạt động của Tổng Bí thư Trường Chinh; lễ hội rước pháo là Di sản Văn hóa Phi vật thể Quốc gia; gỗ Đồng Kỵ được đục máy rồi đục thủ công bằng tay; mục tiêu đến 2030 thành điểm du lịch vận hành thực chất; lễ hội Tết Bính Ngọ tổ chức 20/2/2026 (mùng 4 Tết).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/chiem-nguong-cu-phao-lon-nhat-cua-lang-dong-ky-d57425.html",
+        "quote": "Báo Đầu tư (11/1/2017): hội pháo Đồng Kỵ được ghi vào danh sách Di sản văn hóa phi vật thể quốc gia tháng 1/2016, tổ chức mùng 4 Tết hằng năm tưởng nhớ Thánh Thiên Cương; 'ông pháo' dài khoảng 5 m sơn son thiếp vàng được vài trăm trai tráng rước; rước 4 ông đám tuổi 51 ở 4 giáp; từ năm 1994 không đốt pháo mà thay bằng nghi thức rước pháo; cụ pháo hiến Bảo tàng Lịch sử Quốc gia đường kính 1,2 m, dài 5,75 m, cao 3,47 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/lang-dai-gia-do-go-279983.html",
+        "quote": "Sài Gòn Giải Phóng (1/2/2006): làng đồ gỗ mỹ nghệ Đồng Kỵ (khi đó xã Đồng Quang, Từ Sơn) hơn 1,3 vạn dân; năm 1999 nghề nông còn 80% số hộ, nay gần 10%; cụm công nghiệp làng nghề 12,6 ha hoạt động từ 2003; làng có hơn 100 doanh nghiệp và 2.000 hộ làm đồ gỗ mỹ nghệ, diện tích gần 100 ha.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng gỗ đồng kỵ"
+      }
+    ],
+    "notes": "Số liệu quy mô (100 doanh nghiệp, 2.000 hộ) là của năm 2006, phải ghi năm; không có số liệu mới hơn đã fetch. Kết quả tìm kiếm có nêu 'cách Hà Nội 25 km' và nhãn hiệu tập thể 'Gỗ Đồng Kỵ' nhưng chưa fetch trang gốc nên không dùng. Không nêu giá đồ gỗ. Làng Phù Khê bên cạnh bị bỏ (trùng nghề, nguồn chủ yếu về chợ gỗ). Địa giới: dùng phường Đồng Nguyên, tỉnh Bắc Ninh.",
+    "outline": [
+      "Đồng Kỵ ở đâu sau sáp nhập",
+      "Nghề gỗ Đồng Kỵ: từ làng nông đến làng đồ gỗ",
+      "Đình, chùa Đồng Kỵ và dấu tích cách mạng",
+      "Hội rước pháo mùng 4 Tết: nghi lễ và lưu ý",
+      "Đi xe máy từ Long Biên và cách tham quan xưởng",
+      "Lưu ý khi đi xem làng nghề đang sản xuất"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/lang-son-dong-hoai-duc/",
+      "/du-lich/lang-tho-ha/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00744.json",
+  "draft_template": {
+    "id": "TM-00744",
+    "url": "/du-lich/lang-go-dong-ky-bac-ninh/",
+    "title": "Làng gỗ Đồng Kỵ Bắc Ninh: làng nghề mộc và hội rước pháo mùng 4 Tết",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gỗ đồng kỵ, làng đồ gỗ mỹ nghệ đồng kỵ, hội rước pháo đồng kỵ, đồng kỵ từ sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồng Kỵ ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Nghề gỗ Đồng Kỵ: từ làng nông đến làng đồ gỗ",
+        "<p></p>"
+      ],
+      [
+        "Đình, chùa Đồng Kỵ và dấu tích cách mạng",
+        "<p></p>"
+      ],
+      [
+        "Hội rước pháo mùng 4 Tết: nghi lễ và lưu ý",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và cách tham quan xưởng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xem làng nghề đang sản xuất",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lang-dong-ky-o-bac-ninh-tu-dia-chi-do-den-mo-hinh-du-lich-dac-sac-post1133023.vnp",
+        "quote": "VietnamPlus/TTXVN (28/8/2026): làng Đồng Kỵ thuộc phường Đồng Nguyên, tỉnh Bắc Ninh (phường Đồng Kỵ sau sáp nhập là phường Đồng Nguyên); cụm di tích đình, chùa Đồng Kỵ có giá trị văn hóa quốc gia; chùa Đồng Kỵ xây thế kỷ XVII, từng là cơ sở hoạt động của Tổng Bí thư Trường Chinh; lễ hội rước pháo là Di sản Văn hóa Phi vật thể Quốc gia; gỗ Đồng Kỵ được đục máy rồi đục thủ công bằng tay; mục tiêu đến 2030 thành điểm du lịch vận hành thực chất; lễ hội Tết Bính Ngọ tổ chức 20/2/2026 (mùng 4 Tết).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/chiem-nguong-cu-phao-lon-nhat-cua-lang-dong-ky-d57425.html",
+        "quote": "Báo Đầu tư (11/1/2017): hội pháo Đồng Kỵ được ghi vào danh sách Di sản văn hóa phi vật thể quốc gia tháng 1/2016, tổ chức mùng 4 Tết hằng năm tưởng nhớ Thánh Thiên Cương; 'ông pháo' dài khoảng 5 m sơn son thiếp vàng được vài trăm trai tráng rước; rước 4 ông đám tuổi 51 ở 4 giáp; từ năm 1994 không đốt pháo mà thay bằng nghi thức rước pháo; cụ pháo hiến Bảo tàng Lịch sử Quốc gia đường kính 1,2 m, dài 5,75 m, cao 3,47 m.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/lang-dai-gia-do-go-279983.html",
+        "quote": "Sài Gòn Giải Phóng (1/2/2006): làng đồ gỗ mỹ nghệ Đồng Kỵ (khi đó xã Đồng Quang, Từ Sơn) hơn 1,3 vạn dân; năm 1999 nghề nông còn 80% số hộ, nay gần 10%; cụm công nghiệp làng nghề 12,6 ha hoạt động từ 2003; làng có hơn 100 doanh nghiệp và 2.000 hộ làm đồ gỗ mỹ nghệ, diện tích gần 100 ha.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00744"
+  }
+}

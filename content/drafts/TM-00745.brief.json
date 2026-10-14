@@ -1,0 +1,170 @@
+{
+  "writer": "writer-Z1",
+  "queued": "2026-10-14T05:58:15.320700+00:00",
+  "topic": {
+    "topic_id": "TM-00745",
+    "url": "/du-lich/lang-gom-huong-canh/",
+    "title": "Làng gốm Hương Canh: gốm sành không men hơn 300 năm, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng gốm hương canh",
+    "secondary_keywords": [
+      "gốm sành hương canh",
+      "hương canh bình nguyên phú thọ",
+      "lò gốm hương canh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích gốm muốn xem lò gốm sành thủ công gần Hà Nội cần biết Hương Canh nay thuộc đâu, còn bao nhiêu lò, gốm có gì khác Bát Tràng và nên đến xem gì.",
+    "information_gain": "Chưa có bài nào về Hương Canh. Gần nhất là /du-lich/lang-gom-bat-trang/, /du-lich/lang-gom-phu-lang/ và /du-lich/lang-gom-kim-lan/ (men, gốm da lươn). Bài mới nói riêng gốm sành không tráng men từ đất sét xanh, lò nung khoảng 42 tiếng, lịch sử suy thoái (HTX lập 1958, giải thể 1987, 2013 còn 4 hộ) và hiện trạng hồi sinh, địa giới mới xã Bình Nguyên, tỉnh Phú Thọ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/huong-canh-hoi-tho-cua-dat",
+        "quote": "Vietnam.vn (25/11/2025): thị trấn Hương Canh (huyện Bình Xuyên, tỉnh Vĩnh Phúc cũ) nay là xã Bình Nguyên, tỉnh Phú Thọ; gốm không phủ men, màu tự nhiên của đất sau lửa; bàn xoay vận hành bằng sức chân; sản phẩm chum, vại, hũ, nồi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/duyen-tham-gom-sanh-huong-canh-post448129.html",
+        "quote": "Nhân Dân (27/1/2020): một mẻ gốm nung lò thủ công mất khoảng 42 tiếng; Hương Canh chỉ còn bảy hộ theo nghề, lò nung chưa đến 10; làng gốm hơn 300 năm tuổi; câu ca 'Sứ Móng Cái, vại Hương Canh'; những năm 60 thế kỷ trước phát triển cực thịnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/mong-manh-nghe-gom-huong-canh-post166320.html",
+        "quote": "Pháp luật Việt Nam (17/2/2013): toàn thị trấn chỉ còn thôn Lò Cang làm gốm; 204 hộ, 825 nhân khẩu, còn 4 hộ theo nghề; sản phẩm chủ yếu tiểu sành, chum vại, bình đựng rượu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/gom-huong-canh-gian-nan-tim-huong-di-ben-vung.html",
+        "quote": "VnBusiness (6/4/2016): HTX gốm Hương Canh thành lập năm 1958, có lúc gần 300 hộ; từ năm 2002 nhiều nghệ nhân khôi phục làng nghề; đầu tư hệ thống lò gas đạt chuẩn tốn 500–700 triệu đồng (2016).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/hang-viet/ai-ve-lang-gom-huong-canh-27948.html",
+        "quote": "Báo Văn hóa (20/8/2019): làng gốm có từ hơn 300 năm trước, quan Nội phủ Trịnh Xuân Biên thời Lê–Trịnh tìm người về dạy nghề; đất sét xanh mịn, dẻo nên không cần tráng men; tường rào nhà ghép bằng ngói, sành, tiểu hỏng là dấu hiệu nhà có lò; cực thịnh thập niên 60–70.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng gốm hương canh"
+      }
+    ],
+    "notes": "Số hộ còn làm nghề mâu thuẫn theo năm: 4 hộ (2013), bảy hộ (2020); không có số liệu 2025–2026 – ghi rõ năm. Pháp luật VN (28/2/2020, baophapluat post333489) nêu HTX giải thể năm 1987. Không có nguồn đã fetch về khoảng cách từ Hà Nội, giờ mở xưởng hay giá gốm. Không viết là 'Vĩnh Phúc' mà là 'Phú Thọ (Vĩnh Phúc cũ)'.",
+    "outline": [
+      "Hương Canh nay ở đâu",
+      "Gốm sành không men: đất sét xanh và lò nung 42 tiếng",
+      "Thăng trầm của làng gốm",
+      "Còn bao nhiêu lò và xem gì khi đến",
+      "Đi xe máy từ Hà Nội, kết hợp Tam Đảo",
+      "Mua gốm sành: nhận biết hàng Hương Canh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/lang-gom-phu-lang/",
+      "/du-lich/lang-gom-kim-lan/",
+      "/du-lich/ho-xa-huong-tam-dao/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00745.json",
+  "draft_template": {
+    "id": "TM-00745",
+    "url": "/du-lich/lang-gom-huong-canh/",
+    "title": "Làng gốm Hương Canh: gốm sành không men hơn 300 năm, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gốm hương canh, gốm sành hương canh, hương canh bình nguyên phú thọ, lò gốm hương canh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hương Canh nay ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Gốm sành không men: đất sét xanh và lò nung 42 tiếng",
+        "<p></p>"
+      ],
+      [
+        "Thăng trầm của làng gốm",
+        "<p></p>"
+      ],
+      [
+        "Còn bao nhiêu lò và xem gì khi đến",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội, kết hợp Tam Đảo",
+        "<p></p>"
+      ],
+      [
+        "Mua gốm sành: nhận biết hàng Hương Canh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/huong-canh-hoi-tho-cua-dat",
+        "quote": "Vietnam.vn (25/11/2025): thị trấn Hương Canh (huyện Bình Xuyên, tỉnh Vĩnh Phúc cũ) nay là xã Bình Nguyên, tỉnh Phú Thọ; gốm không phủ men, màu tự nhiên của đất sau lửa; bàn xoay vận hành bằng sức chân; sản phẩm chum, vại, hũ, nồi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/duyen-tham-gom-sanh-huong-canh-post448129.html",
+        "quote": "Nhân Dân (27/1/2020): một mẻ gốm nung lò thủ công mất khoảng 42 tiếng; Hương Canh chỉ còn bảy hộ theo nghề, lò nung chưa đến 10; làng gốm hơn 300 năm tuổi; câu ca 'Sứ Móng Cái, vại Hương Canh'; những năm 60 thế kỷ trước phát triển cực thịnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/mong-manh-nghe-gom-huong-canh-post166320.html",
+        "quote": "Pháp luật Việt Nam (17/2/2013): toàn thị trấn chỉ còn thôn Lò Cang làm gốm; 204 hộ, 825 nhân khẩu, còn 4 hộ theo nghề; sản phẩm chủ yếu tiểu sành, chum vại, bình đựng rượu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/gom-huong-canh-gian-nan-tim-huong-di-ben-vung.html",
+        "quote": "VnBusiness (6/4/2016): HTX gốm Hương Canh thành lập năm 1958, có lúc gần 300 hộ; từ năm 2002 nhiều nghệ nhân khôi phục làng nghề; đầu tư hệ thống lò gas đạt chuẩn tốn 500–700 triệu đồng (2016).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/hang-viet/ai-ve-lang-gom-huong-canh-27948.html",
+        "quote": "Báo Văn hóa (20/8/2019): làng gốm có từ hơn 300 năm trước, quan Nội phủ Trịnh Xuân Biên thời Lê–Trịnh tìm người về dạy nghề; đất sét xanh mịn, dẻo nên không cần tráng men; tường rào nhà ghép bằng ngói, sành, tiểu hỏng là dấu hiệu nhà có lò; cực thịnh thập niên 60–70.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00745"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "writer": "writer-Z3",
+  "queued": "2026-10-14T05:58:16.640968+00:00",
+  "topic": {
+    "topic_id": "TM-00752",
+    "url": "/du-lich/lang-go-my-nghe-thiet-ung-dong-anh/",
+    "title": "Làng gỗ mỹ nghệ Thiết Úng Đông Anh: xem chạm khắc, điểm du lịch 2025",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng gỗ mỹ nghệ thiết úng",
+    "secondary_keywords": [
+      "làng mộc thiết úng",
+      "chạm khắc gỗ vân hà",
+      "thiết úng đông anh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn xem nghệ nhân chạm tượng, đồ thờ bằng gỗ ở ngoại thành Hà Nội cần biết Thiết Úng ở đâu, được công nhận điểm du lịch khi nào và lưu ý bụi gỗ.",
+    "information_gain": "Chưa có bài về Thiết Úng. /du-lich/lang-son-dong-hoai-duc/ là làng tượng sơn thếp phía tây; Thiết Úng ở phía bắc (Đông Anh) chuyên chạm khắc gỗ mỹ nghệ. Bài mới nêu Quyết định 1567 ngày 18/3/2025 công nhận điểm du lịch, gần 400 năm nghề, 80% dân xã làm mộc, 9 nghệ nhân (2015), nghệ nhân Phạm Văn Vững trình diễn ở Hội chợ Mùa Xuân 2026, vấn đề bụi gỗ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/ha-noi-cong-nhan-lang-nghe-go-my-nghe-thiet-ung-la-diem-du-lich-a256594.html",
+        "quote": "Thương hiệu và Công luận (18/3/2025): ngày 18/3, UBND TP Hà Nội ban hành Quyết định số 1567 công nhận Điểm du lịch làng nghề gỗ mỹ nghệ Thiết Úng, xã Vân Hà, huyện Đông Anh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/lang-moc-thiet-ung-van-ha-ha-noi-bui-go-bao-phu-lang-nghe.html",
+        "quote": "VnBusiness (8/12/2015): làng nghề Thiết Úng, xã Vân Hà, phía bắc Đông Anh, nghề mộc gần 400 năm; xã 5 thôn, gần 2.600 hộ, 80% làm mộc, hơn 1.000 hộ mở xưởng; thôn Thiết Úng trên 90% dân làm mộc, 9 nghệ nhân; bụi gỗ, sơn phun gây ô nhiễm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/hoi-cho-mua-xuan-2026-lan-toa-gia-tri-lang-nghe-trong-dong-chay-hoi-nhap-192942.html",
+        "quote": "Thời báo Tài chính Việt Nam (15/2/2026): nghệ nhân Phạm Văn Vững từ làng nghề chạm khắc gỗ mỹ nghệ Thiết Úng, xã Thụy Lâm (Hà Nội) trình diễn nghề, mang dòng tượng 'ngựa béo' tới Hội chợ Mùa Xuân 2026.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng gỗ mỹ nghệ thiết úng"
+      }
+    ],
+    "notes": "Địa giới: nguồn 2026 ghi xã Thụy Lâm (Hà Nội); nguồn cũ ghi xã Vân Hà, huyện Đông Anh – viết cả hai. Số liệu hộ/nghệ nhân là năm 2015. Kết quả tìm kiếm nêu '14 nghệ nhân, 31 sản phẩm OCOP' nhưng chưa fetch – không dùng. Không nêu giá đồ gỗ. Phân biệt Vân Hà (Đông Anh) với phường Vân Hà, Bắc Ninh (bài chùa Bổ Đà).",
+    "outline": [
+      "Thiết Úng ở đâu (Vân Hà cũ, Thụy Lâm mới)",
+      "Gần 400 năm nghề mộc",
+      "Điểm du lịch làng nghề từ 3/2025",
+      "Xem chạm khắc: tượng, đồ thờ, phù điêu",
+      "Bụi gỗ và lưu ý khi vào xưởng",
+      "Đi xe máy, kết hợp Đào Thục và Cổ Loa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-son-dong-hoai-duc/",
+      "/du-lich/thanh-co-loa/",
+      "/du-lich/lang-ca-tru-lo-khe/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00752.json",
+  "draft_template": {
+    "id": "TM-00752",
+    "url": "/du-lich/lang-go-my-nghe-thiet-ung-dong-anh/",
+    "title": "Làng gỗ mỹ nghệ Thiết Úng Đông Anh: xem chạm khắc, điểm du lịch 2025",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gỗ mỹ nghệ thiết úng, làng mộc thiết úng, chạm khắc gỗ vân hà, thiết úng đông anh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thiết Úng ở đâu (Vân Hà cũ, Thụy Lâm mới)",
+        "<p></p>"
+      ],
+      [
+        "Gần 400 năm nghề mộc",
+        "<p></p>"
+      ],
+      [
+        "Điểm du lịch làng nghề từ 3/2025",
+        "<p></p>"
+      ],
+      [
+        "Xem chạm khắc: tượng, đồ thờ, phù điêu",
+        "<p></p>"
+      ],
+      [
+        "Bụi gỗ và lưu ý khi vào xưởng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, kết hợp Đào Thục và Cổ Loa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/ha-noi-cong-nhan-lang-nghe-go-my-nghe-thiet-ung-la-diem-du-lich-a256594.html",
+        "quote": "Thương hiệu và Công luận (18/3/2025): ngày 18/3, UBND TP Hà Nội ban hành Quyết định số 1567 công nhận Điểm du lịch làng nghề gỗ mỹ nghệ Thiết Úng, xã Vân Hà, huyện Đông Anh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/lang-moc-thiet-ung-van-ha-ha-noi-bui-go-bao-phu-lang-nghe.html",
+        "quote": "VnBusiness (8/12/2015): làng nghề Thiết Úng, xã Vân Hà, phía bắc Đông Anh, nghề mộc gần 400 năm; xã 5 thôn, gần 2.600 hộ, 80% làm mộc, hơn 1.000 hộ mở xưởng; thôn Thiết Úng trên 90% dân làm mộc, 9 nghệ nhân; bụi gỗ, sơn phun gây ô nhiễm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/hoi-cho-mua-xuan-2026-lan-toa-gia-tri-lang-nghe-trong-dong-chay-hoi-nhap-192942.html",
+        "quote": "Thời báo Tài chính Việt Nam (15/2/2026): nghệ nhân Phạm Văn Vững từ làng nghề chạm khắc gỗ mỹ nghệ Thiết Úng, xã Thụy Lâm (Hà Nội) trình diễn nghề, mang dòng tượng 'ngựa béo' tới Hội chợ Mùa Xuân 2026.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00752"
+  }
+}

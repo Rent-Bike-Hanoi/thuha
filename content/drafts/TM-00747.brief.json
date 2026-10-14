@@ -1,0 +1,143 @@
+{
+  "writer": "writer-Z2",
+  "queued": "2026-10-14T05:58:15.776933+00:00",
+  "topic": {
+    "topic_id": "TM-00747",
+    "url": "/du-lich/lang-tac-tuong-bao-ha-hai-phong/",
+    "title": "Làng tạc tượng Bảo Hà Hải Phòng: nghề tượng gỗ, rối và miếu tổ nghề",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng tạc tượng bảo hà",
+    "secondary_keywords": [
+      "làng điêu khắc bảo hà",
+      "bảo hà vĩnh bảo",
+      "tượng gỗ bảo hà"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy về Hải Phòng muốn thăm một làng nghề tượng gỗ ngoài nội thành cần biết Bảo Hà có gì, tổ nghề là ai, xem làm tượng, rối ở đâu.",
+    "information_gain": "Chưa có bài về Bảo Hà. /du-lich/lang-son-dong-hoai-duc/ là làng tượng Sơn Đồng ở Hà Nội; /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ chỉ nói đường đi. Bài mới nêu tổ nghề Nguyễn Công Huệ, miếu Cả (di tích quốc gia 30/12/1991), công nhận làng nghề điêu khắc gỗ, sơn mài năm 2007, gỗ mít, tượng truyền thần, phường rối, quy mô 973 hộ và việc tham gia du khảo đồng quê từ 2005.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/doc-dao-lang-nghe-tac-tuong-hon-600-nam-tuoi-10279987.html",
+        "quote": "Đại Đoàn Kết (16/5/2024): làng Bảo Hà (xã Đồng Minh, huyện Vĩnh Bảo, TP Hải Phòng) lịch sử trên 600 năm; nghề tạc tượng hình thành khoảng cuối thế kỷ XIV; năm 2007 UBND TP công nhận 'Làng nghề điêu khắc gỗ, sơn mài Bảo Hà'; 973 hộ, 3.560 nhân khẩu, 81 hộ chuyên (128 lao động) và 110 hộ không chuyên (116 lao động); thợ ưa gỗ mít; từ năm 2005 là điểm 'Chương trình du khảo đồng quê'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/lang-chuyen-thoi-honcho-tuong-cac-dinh-chua-mien-bac-post95657.html",
+        "quote": "Pháp luật Việt Nam (12/4/2011): theo thần phả, tổ nghề tạc tượng là cụ Nguyễn Công Huệ (khoảng thế kỷ XV), có bức hoành 'Bách thế sư'; miếu Cả trong cụm di tích được công nhận Di tích Lịch sử – Văn hóa cấp Quốc gia ngày 30/12/1991, còn tượng chân dung tổ nghề tương truyền do cụ tạc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/lang-dieu-khac-bao-ha-hai-phong-day-manh-phat-trien-du-lich-lang-nghe.html",
+        "quote": "VnBusiness (1/3/2016): sản phẩm đồ thờ, tượng truyền thần, nhang án, tranh sơn mài; xuất khẩu Trung Quốc, Đức, Nga; khoảng 973 hộ, gần 190 hộ làm điêu khắc, gần 30 xưởng; phường múa rối Bảo Hà, khách có thể xem rối nước; quy hoạch khu sản xuất tập trung 3,8 ha.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng tạc tượng bảo hà"
+      }
+    ],
+    "notes": "Mâu thuẫn tuổi nghề và tổ nghề: 'trên 600 năm, cuối thế kỷ XIV' (ĐĐK 2024), 'gần 700 năm' (VnBusiness 2016), tổ nghề 'khoảng thế kỷ XV' (PLVN 2011) – ghi các mốc kèm nguồn. Xem rối nước là thông tin 2016, không xác nhận lịch diễn 2026. Địa giới sau sáp nhập xã chưa xác nhận bằng nguồn fetch. Chuyện 'tượng đứng lên ngồi xuống' ở miếu Ba Xã chỉ thấy trong kết quả tìm kiếm – không dùng. Khoảng cách chưa có nguồn.",
+    "outline": [
+      "Bảo Hà ở đâu",
+      "Tổ nghề Nguyễn Công Huệ và miếu Cả",
+      "Từ khúc gỗ mít đến pho tượng",
+      "Rối và nghề phụ của làng",
+      "Đi xe máy từ Hà Nội về Vĩnh Bảo",
+      "Tham quan xưởng: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/lang-son-dong-hoai-duc/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/bao-tang-hai-phong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00747.json",
+  "draft_template": {
+    "id": "TM-00747",
+    "url": "/du-lich/lang-tac-tuong-bao-ha-hai-phong/",
+    "title": "Làng tạc tượng Bảo Hà Hải Phòng: nghề tượng gỗ, rối và miếu tổ nghề",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng tạc tượng bảo hà, làng điêu khắc bảo hà, bảo hà vĩnh bảo, tượng gỗ bảo hà",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo Hà ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Tổ nghề Nguyễn Công Huệ và miếu Cả",
+        "<p></p>"
+      ],
+      [
+        "Từ khúc gỗ mít đến pho tượng",
+        "<p></p>"
+      ],
+      [
+        "Rối và nghề phụ của làng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội về Vĩnh Bảo",
+        "<p></p>"
+      ],
+      [
+        "Tham quan xưởng: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/doc-dao-lang-nghe-tac-tuong-hon-600-nam-tuoi-10279987.html",
+        "quote": "Đại Đoàn Kết (16/5/2024): làng Bảo Hà (xã Đồng Minh, huyện Vĩnh Bảo, TP Hải Phòng) lịch sử trên 600 năm; nghề tạc tượng hình thành khoảng cuối thế kỷ XIV; năm 2007 UBND TP công nhận 'Làng nghề điêu khắc gỗ, sơn mài Bảo Hà'; 973 hộ, 3.560 nhân khẩu, 81 hộ chuyên (128 lao động) và 110 hộ không chuyên (116 lao động); thợ ưa gỗ mít; từ năm 2005 là điểm 'Chương trình du khảo đồng quê'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/lang-chuyen-thoi-honcho-tuong-cac-dinh-chua-mien-bac-post95657.html",
+        "quote": "Pháp luật Việt Nam (12/4/2011): theo thần phả, tổ nghề tạc tượng là cụ Nguyễn Công Huệ (khoảng thế kỷ XV), có bức hoành 'Bách thế sư'; miếu Cả trong cụm di tích được công nhận Di tích Lịch sử – Văn hóa cấp Quốc gia ngày 30/12/1991, còn tượng chân dung tổ nghề tương truyền do cụ tạc.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnbusiness.vn/lang-dieu-khac-bao-ha-hai-phong-day-manh-phat-trien-du-lich-lang-nghe.html",
+        "quote": "VnBusiness (1/3/2016): sản phẩm đồ thờ, tượng truyền thần, nhang án, tranh sơn mài; xuất khẩu Trung Quốc, Đức, Nga; khoảng 973 hộ, gần 190 hộ làm điêu khắc, gần 30 xưởng; phường múa rối Bảo Hà, khách có thể xem rối nước; quy hoạch khu sản xuất tập trung 3,8 ha.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00747"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "writer": "writer-Z3",
+  "queued": "2026-10-14T05:58:16.849626+00:00",
+  "topic": {
+    "topic_id": "TM-00753",
+    "url": "/du-lich/lang-son-mai-cat-dang-y-yen/",
+    "title": "Làng sơn mài Cát Đằng Ý Yên: sơn mài trên gỗ và nứa, xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng sơn mài cát đằng",
+    "secondary_keywords": [
+      "sơn mài cát đằng",
+      "làng sơn quang cát đằng",
+      "cát đằng ý yên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy về vùng Nam Định cũ muốn xem một làng sơn mài ngoài Hạ Thái cần biết Cát Đằng ở đâu, làm sản phẩm gì và khác Hạ Thái thế nào.",
+    "information_gain": "Chưa có bài về Cát Đằng. /du-lich/lang-son-mai-ha-thai/ là làng sơn mài Thường Tín (Hà Nội); /du-lich/den-tran-nam-dinh-di-xe-may/ chỉ nói đền Trần. Bài mới nêu Cát Đằng là làng sơn quang thuộc 'đất trăm nghề' Ý Yên (cùng La Xuyên, Tống Xá, Ninh Xá), chuyển từ ngai, kiệu, đồ thờ sang bình, lọ, tranh, sơn mài trên nứa, thị trường xuất khẩu, và phân biệt sơn mài (Cát Đằng, Hạ Thái) với sơn thếp (Sơn Đồng).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/thi-truong-nuoc-ngoai/doc-dao-son-mai.html",
+        "quote": "Bộ Công Thương (15/12/2020): làng sơn mài Cát Đằng, huyện Ý Yên (Nam Định) truyền thống làm sơn mài trên gỗ (ngai, ỷ, kiệu, đồ tế lễ, thờ cúng); nay chủ yếu đồ gia dụng, trang trí nội thất: bình, lọ, tranh, phù điêu; xuất khẩu Mỹ, EU, Nhật Bản, Nga, ASEAN; nghệ nhân sáng tạo sơn mài trên nứa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/nghe-son-truyen-thong-ket-noi-hien-dai-10342963.html",
+        "quote": "Đại biểu Nhân dân (31/7/2024): các làng còn làm sơn mài gồm Cát Đằng (xã Yên Tiến, Ý Yên, Nam Định), Hạ Thái, Bối Khê, Sơn Đồng; Sơn Đồng làm sơn thếp đồ thờ, còn Hạ Thái, Cát Đằng làm sơn mài đồ trang trí, vật dụng gia đình.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/y-yen-phat-trien-lang-nghe-gan-voi-bao-ton-di-san-van-hoa-post69296.html",
+        "quote": "Pháp luật Việt Nam (25/2/2011): huyện Ý Yên được coi là 'đất trăm nghề', có làng nghề sơn quang Cát Đằng, chạm khắc gỗ La Xuyên, đúc đồng Tống Xá, khảm trai Ninh Xá.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng sơn mài cát đằng"
+      }
+    ],
+    "notes": "Nguồn mỏng về trải nghiệm du khách: không có giờ mở xưởng, khoảng cách, giá. Tuổi nghề 'hơn 600 năm' và tổ nghề Ngô Dũng, Đinh Ba chỉ thấy trong kết quả tìm kiếm – chưa fetch, không dùng. Địa giới mới (Nam Định nhập Ninh Bình) chưa xác nhận bằng nguồn fetch – viết 'Ý Yên, Nam Định cũ'. Cân nhắc gộp La Xuyên/Tống Xá thành bài riêng sau này, không hoán vị.",
+    "outline": [
+      "Cát Đằng ở đâu",
+      "Từ đồ thờ sơn son đến bình lọ sơn mài",
+      "Sơn mài trên nứa",
+      "Cát Đằng, Hạ Thái và Sơn Đồng khác nhau thế nào",
+      "Ý Yên đất trăm nghề: làng lân cận",
+      "Đi xe máy và hỏi xưởng trước khi đến"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-son-mai-ha-thai/",
+      "/du-lich/lang-son-dong-hoai-duc/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00753.json",
+  "draft_template": {
+    "id": "TM-00753",
+    "url": "/du-lich/lang-son-mai-cat-dang-y-yen/",
+    "title": "Làng sơn mài Cát Đằng Ý Yên: sơn mài trên gỗ và nứa, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng sơn mài cát đằng, sơn mài cát đằng, làng sơn quang cát đằng, cát đằng ý yên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cát Đằng ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Từ đồ thờ sơn son đến bình lọ sơn mài",
+        "<p></p>"
+      ],
+      [
+        "Sơn mài trên nứa",
+        "<p></p>"
+      ],
+      [
+        "Cát Đằng, Hạ Thái và Sơn Đồng khác nhau thế nào",
+        "<p></p>"
+      ],
+      [
+        "Ý Yên đất trăm nghề: làng lân cận",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và hỏi xưởng trước khi đến",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/thi-truong-nuoc-ngoai/doc-dao-son-mai.html",
+        "quote": "Bộ Công Thương (15/12/2020): làng sơn mài Cát Đằng, huyện Ý Yên (Nam Định) truyền thống làm sơn mài trên gỗ (ngai, ỷ, kiệu, đồ tế lễ, thờ cúng); nay chủ yếu đồ gia dụng, trang trí nội thất: bình, lọ, tranh, phù điêu; xuất khẩu Mỹ, EU, Nhật Bản, Nga, ASEAN; nghệ nhân sáng tạo sơn mài trên nứa.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/nghe-son-truyen-thong-ket-noi-hien-dai-10342963.html",
+        "quote": "Đại biểu Nhân dân (31/7/2024): các làng còn làm sơn mài gồm Cát Đằng (xã Yên Tiến, Ý Yên, Nam Định), Hạ Thái, Bối Khê, Sơn Đồng; Sơn Đồng làm sơn thếp đồ thờ, còn Hạ Thái, Cát Đằng làm sơn mài đồ trang trí, vật dụng gia đình.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/y-yen-phat-trien-lang-nghe-gan-voi-bao-ton-di-san-van-hoa-post69296.html",
+        "quote": "Pháp luật Việt Nam (25/2/2011): huyện Ý Yên được coi là 'đất trăm nghề', có làng nghề sơn quang Cát Đằng, chạm khắc gỗ La Xuyên, đúc đồng Tống Xá, khảm trai Ninh Xá.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00753"
+  }
+}
