@@ -1,0 +1,170 @@
+{
+  "writer": "writer-R1",
+  "queued": "2026-10-14T15:57:18.431861+00:00",
+  "topic": {
+    "topic_id": "TM-00909",
+    "url": "/du-lich/ho-dong-do-soc-son/",
+    "title": "Hồ Đồng Đò Sóc Sơn: cắm trại trong rừng phòng hộ, điều cần biết",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ Đồng Đò Sóc Sơn",
+    "secondary_keywords": [
+      "cắm trại hồ Đồng Đò",
+      "hồ Đồng Đò đi xe máy",
+      "hồ Đồng Đò ở đâu",
+      "rừng phòng hộ Sóc Sơn"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người Hà Nội muốn cắm trại qua đêm gần thành phố bằng xe máy, cần biết hồ Đồng Đò ở đâu, cắm trại chỗ nào hợp lệ và các vấn đề công trình vi phạm quanh hồ.",
+    "information_gain": "Chưa có bài hay row riêng về hồ Đồng Đò. /du-lich/nui-ham-lon/ và /du-lich/den-soc-soc-son/ chỉ nói núi Hàm Lợn, đền Sóc. Bài mới thêm: lịch sử hồ thủy lợi (thu hồi đất 2001, bàn giao quản lý 7/2007, mặt hồ gần 50,7 ha), hồ nằm trong rừng phòng hộ Sóc Sơn và các đợt cưỡng chế công trình vi phạm 2022–9/2026 — để người đọc chọn điểm cắm trại hợp pháp, không ở công trình trái phép.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-soc-son-4445500.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sóc Sơn' (2/4/2022, đọc 14/10/2026): hồ Đồng Đò ở thôn Minh Tân, xã Minh Trí, huyện Sóc Sơn; trước là suối nhỏ, năm 2000 đập Đồng Đò xây xong thành hồ chứa nước; hồ giữa thung lũng, hai bên núi có rừng phòng hộ; có thể mang lều tự nấu, có dịch vụ thuê lều, thuyền phao, kayak, SUP.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/muon-do-dac-ngan-buc-tu-ho-dong-do-o-rung-soc-son-nhung-khong-co-tien-185230823102517881.htm",
+        "quote": "Thanh Niên, 'Muốn đo đạc, ngăn bức tử hồ Đồng Đò...' (23/8/2023, đọc 14/10/2026): năm 2001 UBND TP Hà Nội thu hồi đất, giải phóng mặt bằng xây hồ Đồng Đò (xã Minh Trí); hồ bàn giao Công ty khai thác công trình thủy lợi Sóc Sơn quản lý từ 7/2007 làm hồ chứa thủy lợi; mặt hồ gần 50,7 ha, cao trình đỉnh đập 41,47 m; năm 2022 cưỡng chế 26 trường hợp vi phạm; hồ chưa cắm mốc chỉ giới.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuong-che-cong-trinh-vi-pham-o-rung-soc-son-5116466.html",
+        "quote": "VnExpress, 'Cưỡng chế công trình vi phạm ở rừng Sóc Sơn' (4/9/2026, đọc 14/10/2026): UBND xã Kim Anh cưỡng chế 4 công trình vi phạm tại khu vực hồ Đồng Đò thuộc rừng phòng hộ Sóc Sơn; từ 1/7/2025 xã đã cưỡng chế 11 công trình, vận động tự khắc phục 15 công trình và 37 lán, hạng mục tạm (sàn gỗ, khung sắt, mái tôn, lều bạt); rừng phòng hộ Sóc Sơn rộng 4.557 ha trên 10 xã.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/ly-do-phai-tam-dung-cuong-che-vi-pham-o-ho-dong-do-post1584542.tpo",
+        "quote": "Tiền Phong, 'Lý do phải tạm dừng cưỡng chế vi phạm ở hồ Đồng Đò' (6/11/2023, đọc 14/10/2026): Sở NN&PTNT Hà Nội cho biết năm 2001 thu hồi đất xây hồ, bàn giao quản lý từ 7/2007 với mục đích hồ thủy lợi; công ty thủy lợi đã xác định hàng trăm công trình vi phạm lòng hồ; tòa án thụ lý 2 vụ kiện liên quan cưỡng chế.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ho-sam-tang-dong-do-nui-tram-moi-goi-du-khach-ve-voi-thien-nhien-dip-le-2-9-20240823192851664.htm",
+        "quote": "Tuổi Trẻ (24/8/2024, đọc 14/10/2026): hồ Đồng Đò cách núi Hàm Lợn không xa, bao quanh là núi; dịch vụ cắm trại khá phát triển, có thể tự dựng lều hoặc thuê lều; chèo SUP, kayak, đạp xe, đi bộ quanh hồ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hồ Đồng Đò Sóc Sơn"
+      }
+    ],
+    "notes": "Xung đột năm: VnExpress 2022 nói đập xây xong năm 2000; Thanh Niên/Tiền Phong nói thu hồi đất năm 2001 — không khẳng định năm hoàn thành, ghi 'đầu những năm 2000, bàn giao 7/2007'. Diện tích: 50,7 ha (Thanh Niên) — chỉ 1 nguồn. Địa giới: xã Minh Trí (cũ) nay thuộc xã Kim Anh (VnExpress 9/2026). Không nêu giá cắm trại (có trong VnExpress 2022 nhưng cũ, là giá dịch vụ). Hồ ở Hà Nội — editor cân nhắc subtopic dia-diem-ha-noi thay vì diem-den-mien-bac. Không cổ vũ lưu trú ở công trình chưa rõ pháp lý; không có nguồn chính thức về quy định cấm cắm trại, cấm tắm — không bịa.",
+    "outline": [
+      "Hồ Đồng Đò ở đâu sau khi đổi địa giới xã",
+      "Từ suối nhỏ thành hồ thủy lợi: mốc 2001 và 2007",
+      "Hồ trong rừng phòng hộ: vì sao có các đợt cưỡng chế",
+      "Cắm trại: chọn điểm dịch vụ rõ ràng, mang gì",
+      "Chèo SUP, kayak: lưu ý an toàn nước",
+      "Ghép với núi Hàm Lợn, đền Sóc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nui-ham-lon/",
+      "/du-lich/den-soc-soc-son/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00909.json",
+  "draft_template": {
+    "id": "TM-00909",
+    "url": "/du-lich/ho-dong-do-soc-son/",
+    "title": "Hồ Đồng Đò Sóc Sơn: cắm trại trong rừng phòng hộ, điều cần biết",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ Đồng Đò Sóc Sơn, cắm trại hồ Đồng Đò, hồ Đồng Đò đi xe máy, hồ Đồng Đò ở đâu, rừng phòng hộ Sóc Sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Đồng Đò ở đâu sau khi đổi địa giới xã",
+        "<p></p>"
+      ],
+      [
+        "Từ suối nhỏ thành hồ thủy lợi: mốc 2001 và 2007",
+        "<p></p>"
+      ],
+      [
+        "Hồ trong rừng phòng hộ: vì sao có các đợt cưỡng chế",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại: chọn điểm dịch vụ rõ ràng, mang gì",
+        "<p></p>"
+      ],
+      [
+        "Chèo SUP, kayak: lưu ý an toàn nước",
+        "<p></p>"
+      ],
+      [
+        "Ghép với núi Hàm Lợn, đền Sóc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-soc-son-4445500.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sóc Sơn' (2/4/2022, đọc 14/10/2026): hồ Đồng Đò ở thôn Minh Tân, xã Minh Trí, huyện Sóc Sơn; trước là suối nhỏ, năm 2000 đập Đồng Đò xây xong thành hồ chứa nước; hồ giữa thung lũng, hai bên núi có rừng phòng hộ; có thể mang lều tự nấu, có dịch vụ thuê lều, thuyền phao, kayak, SUP.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/muon-do-dac-ngan-buc-tu-ho-dong-do-o-rung-soc-son-nhung-khong-co-tien-185230823102517881.htm",
+        "quote": "Thanh Niên, 'Muốn đo đạc, ngăn bức tử hồ Đồng Đò...' (23/8/2023, đọc 14/10/2026): năm 2001 UBND TP Hà Nội thu hồi đất, giải phóng mặt bằng xây hồ Đồng Đò (xã Minh Trí); hồ bàn giao Công ty khai thác công trình thủy lợi Sóc Sơn quản lý từ 7/2007 làm hồ chứa thủy lợi; mặt hồ gần 50,7 ha, cao trình đỉnh đập 41,47 m; năm 2022 cưỡng chế 26 trường hợp vi phạm; hồ chưa cắm mốc chỉ giới.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuong-che-cong-trinh-vi-pham-o-rung-soc-son-5116466.html",
+        "quote": "VnExpress, 'Cưỡng chế công trình vi phạm ở rừng Sóc Sơn' (4/9/2026, đọc 14/10/2026): UBND xã Kim Anh cưỡng chế 4 công trình vi phạm tại khu vực hồ Đồng Đò thuộc rừng phòng hộ Sóc Sơn; từ 1/7/2025 xã đã cưỡng chế 11 công trình, vận động tự khắc phục 15 công trình và 37 lán, hạng mục tạm (sàn gỗ, khung sắt, mái tôn, lều bạt); rừng phòng hộ Sóc Sơn rộng 4.557 ha trên 10 xã.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/ly-do-phai-tam-dung-cuong-che-vi-pham-o-ho-dong-do-post1584542.tpo",
+        "quote": "Tiền Phong, 'Lý do phải tạm dừng cưỡng chế vi phạm ở hồ Đồng Đò' (6/11/2023, đọc 14/10/2026): Sở NN&PTNT Hà Nội cho biết năm 2001 thu hồi đất xây hồ, bàn giao quản lý từ 7/2007 với mục đích hồ thủy lợi; công ty thủy lợi đã xác định hàng trăm công trình vi phạm lòng hồ; tòa án thụ lý 2 vụ kiện liên quan cưỡng chế.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ho-sam-tang-dong-do-nui-tram-moi-goi-du-khach-ve-voi-thien-nhien-dip-le-2-9-20240823192851664.htm",
+        "quote": "Tuổi Trẻ (24/8/2024, đọc 14/10/2026): hồ Đồng Đò cách núi Hàm Lợn không xa, bao quanh là núi; dịch vụ cắm trại khá phát triển, có thể tự dựng lều hoặc thuê lều; chèo SUP, kayak, đạp xe, đi bộ quanh hồ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00909"
+  }
+}

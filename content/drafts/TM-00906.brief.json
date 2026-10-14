@@ -1,0 +1,175 @@
+{
+  "writer": "writer-R1",
+  "queued": "2026-10-14T15:57:16.009394+00:00",
+  "topic": {
+    "topic_id": "TM-00906",
+    "url": "/du-lich/suoi-cua-tu-thai-nguyen/",
+    "title": "Suối Cửa Tử Đại Từ: 7 cửa thác, đoạn tự đi được và lũ tháng 5/2024",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "suối Cửa Tử Thái Nguyên",
+    "secondary_keywords": [
+      "trekking suối Cửa Tử",
+      "Cửa Tử Hoàng Nông Đại Từ",
+      "suối Cửa Tử đi xe máy",
+      "thác Thiên Đường Cửa Tử"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội muốn đi trekking, tắm suối ở Cửa Tử trong ngày bằng xe máy cần biết đoạn nào tự đi được, đoạn nào bắt buộc có người dẫn, và hiện trạng sau trận lũ tháng 5/2024.",
+    "information_gain": "Chưa có bài hay row nào về suối Cửa Tử. /du-lich/ha-noi-di-thai-nguyen-xe-may/ chỉ nói QL3, Tân Cương, Núi Cốc; /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ nói sườn tây Tam Đảo. Bài mới thêm: vị trí sườn đông Tam Đảo (xã Hoàng Nông), cấu trúc 7 cửa, cửa 1 tự đi (khoảng 2 km đường bộ + 700 m lội suối), từ cửa 2 trở đi bắt buộc người dẫn, và cảnh báo trận lũ đêm 12/5/2024 đã lấp máng trượt, thác Thiên Đường — điều mọi bài review cũ hơn không nói.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/bon-suoi-thac-hoang-so-gan-ha-noi-4479397.html",
+        "quote": "VnExpress, 'Bốn suối thác hoang sơ gần Hà Nội' (24/6/2022, đọc 14/10/2026): suối Cửa Tử ở xã Hoàng Nông, huyện Đại Từ, cách trung tâm TP Thái Nguyên khoảng 45 km và khoảng 120 km từ Hà Nội; nằm ở sườn đông dãy Tam Đảo, chảy qua Hoàng Nông rồi đổ ra sông Công; gồm 7 con thác, một số có hồ nước; cung đường phù hợp cả người lần đầu trekking; nên đặt tour có người dẫn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/hanh-trinh-leo-deo-vuot-suoi-trekking-suoi-cua-tu-2202962.html",
+        "quote": "VietNamNet, 'Hành trình leo đèo, vượt suối trekking suối Cửa Tử' (22/8/2023, đọc 14/10/2026): cách Hà Nội khoảng 125 km, đi xe máy khoảng 2 tiếng 30 phút; gửi xe nhà dân rồi đi bộ; khởi đầu đường bằng khoảng 2 km, có đoạn ngâm nước lạnh khoảng 15–20 độ C, sâu đến 1,5 m; muốn tới cửa 2 và 3 bắt buộc có leader, porter vì đường khó, nhiều ngã rẽ; tổng quãng đường đi và về khoảng 10 km; chặng cửa 1–4 thường mất khoảng một ngày; cần giày lội suối, áo phao, găng tay.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/dong-suoi-gan-ha-noi-thac-cua-tu-hut-du-khach-toi-tranh-nong-2156715.html",
+        "quote": "VietNamNet, 'Dòng suối gần Hà Nội có tên đáng sợ, hút khách tới trốn nóng' (22/6/2023, đọc 14/10/2026): suối gồm bảy thác (bảy cửa), độ khó tăng dần; đến cửa 1 khoảng 2 km đường bộ và 700 m lội suối, du khách có thể tự đi; đi sâu hơn bắt buộc có người hướng dẫn vì dễ lạc; thác Thiên Đường cao khoảng 15 m, dưới chân có hồ sâu; tùy số cửa, trekking từ một đến ba ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/con-suoi-7-thac-dep-la-o-thai-nguyen-bien-dang-sau-mua-lu-gay-tiec-nuoi-2280990.html",
+        "quote": "VietNamNet, 'Con suối 7 thác đẹp lạ ở Thái Nguyên biến dạng sau mưa lũ' (15/5/2024, đọc 14/10/2026): trận lũ đêm 12/5 tại xã Hoàng Nông khiến nhiều thác, điểm check-in ở suối Cửa Tử biến mất, đất đá lấp dòng chảy; theo người làm tour, máng trượt, thác Thiên Đường, thác nhảy (thác Phục Sinh) bị xóa sổ, riêng cửa 1 vẫn nguyên vẹn; suối nổi tiếng từ năm 2019, có 7 thác nhưng 4 thác đầu đẹp nhất.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/4-suoi-thac-gan-ha-noi-dep-me-ly-diem-den-tranh-nong-song-ao-trieu-view-2164850.html",
+        "quote": "VietNamNet, '4 suối thác gần Hà Nội đẹp mê ly' (15/7/2023, đọc 14/10/2026): suối Cửa Tử ở xã Hoàng Nông, huyện Đại Từ, cách TP Thái Nguyên khoảng 45 km, khoảng 120 km từ Hà Nội; gồm 7 con thác; phải trekking qua phiến đá phủ rêu, bơi qua các hồ nước.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "suối Cửa Tử Thái Nguyên"
+      }
+    ],
+    "notes": "Xung đột khoảng cách Hà Nội: 120 km (VnExpress 2022, VietNamNet 7/2023) và 125 km (VietNamNet 8/2023) — không đưa km vào tiêu đề, ghi 'khoảng 120–125 km'. Hiện trạng sau lũ 5/2024 chỉ có 1 nguồn; KHÔNG tìm được nguồn 2025–2026 về việc khôi phục (bài VOV 'Từng bước khôi phục hoạt động du lịch tại suối Cửa Tử' bị chặn, không đọc được — không dùng). Viết rõ: mô tả thác Thiên Đường/máng trượt là trước lũ. Bỏ chi phí tour (có trong nguồn nhưng là giá dịch vụ bên thứ ba, không dùng). Địa giới sau sáp nhập 2025 (xã/huyện) chưa xác minh — ghi 'xã Hoàng Nông, huyện Đại Từ cũ'. Nhấn an toàn: không đi khi mưa lớn, nước lạnh 15–20 độ C, sâu 1,5 m.",
+    "outline": [
+      "Suối Cửa Tử ở đâu, vì sao gọi là 'bảy cửa'",
+      "Đi xe máy từ Hà Nội và chỗ gửi xe",
+      "Cửa 1: đoạn tự đi được, mất bao lâu",
+      "Cửa 2 trở đi: vì sao bắt buộc người dẫn",
+      "Trận lũ đêm 12/5/2024 đã thay đổi những gì",
+      "Trang bị và an toàn khi lội suối, nước lạnh",
+      "Kết hợp với Tam Đảo, Tân Cương trong chuyến đi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00906.json",
+  "draft_template": {
+    "id": "TM-00906",
+    "url": "/du-lich/suoi-cua-tu-thai-nguyen/",
+    "title": "Suối Cửa Tử Đại Từ: 7 cửa thác, đoạn tự đi được và lũ tháng 5/2024",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "suối Cửa Tử Thái Nguyên, trekking suối Cửa Tử, Cửa Tử Hoàng Nông Đại Từ, suối Cửa Tử đi xe máy, thác Thiên Đường Cửa Tử",
+    "excerpt": "",
+    "sections": [
+      [
+        "Suối Cửa Tử ở đâu, vì sao gọi là 'bảy cửa'",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội và chỗ gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Cửa 1: đoạn tự đi được, mất bao lâu",
+        "<p></p>"
+      ],
+      [
+        "Cửa 2 trở đi: vì sao bắt buộc người dẫn",
+        "<p></p>"
+      ],
+      [
+        "Trận lũ đêm 12/5/2024 đã thay đổi những gì",
+        "<p></p>"
+      ],
+      [
+        "Trang bị và an toàn khi lội suối, nước lạnh",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với Tam Đảo, Tân Cương trong chuyến đi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/bon-suoi-thac-hoang-so-gan-ha-noi-4479397.html",
+        "quote": "VnExpress, 'Bốn suối thác hoang sơ gần Hà Nội' (24/6/2022, đọc 14/10/2026): suối Cửa Tử ở xã Hoàng Nông, huyện Đại Từ, cách trung tâm TP Thái Nguyên khoảng 45 km và khoảng 120 km từ Hà Nội; nằm ở sườn đông dãy Tam Đảo, chảy qua Hoàng Nông rồi đổ ra sông Công; gồm 7 con thác, một số có hồ nước; cung đường phù hợp cả người lần đầu trekking; nên đặt tour có người dẫn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/hanh-trinh-leo-deo-vuot-suoi-trekking-suoi-cua-tu-2202962.html",
+        "quote": "VietNamNet, 'Hành trình leo đèo, vượt suối trekking suối Cửa Tử' (22/8/2023, đọc 14/10/2026): cách Hà Nội khoảng 125 km, đi xe máy khoảng 2 tiếng 30 phút; gửi xe nhà dân rồi đi bộ; khởi đầu đường bằng khoảng 2 km, có đoạn ngâm nước lạnh khoảng 15–20 độ C, sâu đến 1,5 m; muốn tới cửa 2 và 3 bắt buộc có leader, porter vì đường khó, nhiều ngã rẽ; tổng quãng đường đi và về khoảng 10 km; chặng cửa 1–4 thường mất khoảng một ngày; cần giày lội suối, áo phao, găng tay.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/dong-suoi-gan-ha-noi-thac-cua-tu-hut-du-khach-toi-tranh-nong-2156715.html",
+        "quote": "VietNamNet, 'Dòng suối gần Hà Nội có tên đáng sợ, hút khách tới trốn nóng' (22/6/2023, đọc 14/10/2026): suối gồm bảy thác (bảy cửa), độ khó tăng dần; đến cửa 1 khoảng 2 km đường bộ và 700 m lội suối, du khách có thể tự đi; đi sâu hơn bắt buộc có người hướng dẫn vì dễ lạc; thác Thiên Đường cao khoảng 15 m, dưới chân có hồ sâu; tùy số cửa, trekking từ một đến ba ngày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/con-suoi-7-thac-dep-la-o-thai-nguyen-bien-dang-sau-mua-lu-gay-tiec-nuoi-2280990.html",
+        "quote": "VietNamNet, 'Con suối 7 thác đẹp lạ ở Thái Nguyên biến dạng sau mưa lũ' (15/5/2024, đọc 14/10/2026): trận lũ đêm 12/5 tại xã Hoàng Nông khiến nhiều thác, điểm check-in ở suối Cửa Tử biến mất, đất đá lấp dòng chảy; theo người làm tour, máng trượt, thác Thiên Đường, thác nhảy (thác Phục Sinh) bị xóa sổ, riêng cửa 1 vẫn nguyên vẹn; suối nổi tiếng từ năm 2019, có 7 thác nhưng 4 thác đầu đẹp nhất.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/4-suoi-thac-gan-ha-noi-dep-me-ly-diem-den-tranh-nong-song-ao-trieu-view-2164850.html",
+        "quote": "VietNamNet, '4 suối thác gần Hà Nội đẹp mê ly' (15/7/2023, đọc 14/10/2026): suối Cửa Tử ở xã Hoàng Nông, huyện Đại Từ, cách TP Thái Nguyên khoảng 45 km, khoảng 120 km từ Hà Nội; gồm 7 con thác; phải trekking qua phiến đá phủ rêu, bơi qua các hồ nước.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00906"
+  }
+}

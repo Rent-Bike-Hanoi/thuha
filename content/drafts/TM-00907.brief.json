@@ -1,0 +1,149 @@
+{
+  "writer": "writer-R1",
+  "queued": "2026-10-14T15:57:16.799269+00:00",
+  "topic": {
+    "topic_id": "TM-00907",
+    "url": "/du-lich/ho-sam-tang-mai-chau/",
+    "title": "Hồ Sam Tạng Mai Châu: hồ trên núi qua đèo Thung Khe, cắm trại và lưu ý",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ Sam Tạng Mai Châu",
+    "secondary_keywords": [
+      "hồ Sam Tạng",
+      "hồ Sam Tạng Noong Luông",
+      "cắm trại hồ Sam Tạng",
+      "hồ Sam Tạng đi xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Mai Châu bằng xe máy muốn ghé một hồ trên núi ít người, cần biết vị trí, cách xuống hồ, có dịch vụ không, có tắm được không.",
+    "information_gain": "Chưa có bài hay row nào về hồ Sam Tạng. /du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ và /du-lich/thung-lung-ba-khan-mai-chau/ không nhắc hồ. Bài mới thêm: vị trí xã Thành Sơn (cũ Noong Luông), đỗ xe ven đường đi bộ 5–7 phút xuống hồ, diện tích 2,7 ha, lịch sử đập trước 1973, hồ sâu không nên tắm, dịch vụ còn ít, kết hợp bản Lác, thác Thung.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ho-sam-tang-dia-diem-thu-gian-gan-ha-noi-4732359.html",
+        "quote": "VnExpress, 'Hồ Sam Tạng - địa điểm thư giãn gần Hà Nội' (21/4/2024, đọc 14/10/2026): cách Hà Nội hơn hai tiếng di chuyển; thuộc xã Thành Sơn (tên cũ Noong Luông), huyện Mai Châu, độ cao 1.280 m, là hồ trên núi cao nhất tỉnh Hòa Bình; qua Thung Khe; đỗ xe ven đường, đi bộ khoảng 5–7 phút xuống hồ; rộng khoảng 2,7 ha; trước năm 1973 chỉ là khe suối lớn, huyện huy động dân công xây đập, hồ cấp nước cho 400 ha đất nông nghiệp; hồ khá sâu, không nên xuống tắm; dịch vụ ăn ở, vui chơi khá ít; thác Thung cách khoảng 18 km, bản Lác gần 30 km.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ho-sam-tang-vien-ngoc-tho-tren-dinh-nui-pu-bin-post401252.html",
+        "quote": "Báo Lào Cai, 'Hồ Sam Tạng - Viên ngọc thô trên đỉnh núi Pù Bin' (4/5/2025, đọc 14/10/2026): cách trung tâm Hà Nội khoảng 140 km, thuộc xã Thành Sơn (trước là Noong Luông), huyện Mai Châu; được mệnh danh hồ nước ngọt lớn nhất tỉnh Hòa Bình, độ cao hơn 1200 m; Phó Chủ tịch UBND xã Thành Sơn cho biết đã có một số nhà nghỉ, homestay cộng đồng nhưng hạ tầng còn hạn chế; chủ homestay mong hỗ trợ điện, nước, mạng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ho-sam-tang-dong-do-nui-tram-moi-goi-du-khach-ve-voi-thien-nhien-dip-le-2-9-20240823192851664.htm",
+        "quote": "Tuổi Trẻ, 'Hồ Sam Tạng, Đồng Đò, núi Trầm mời gọi du khách...' (24/8/2024, đọc 14/10/2026): hồ Sam Tạng ở xã Noong Luông, Mai Châu, nước xanh quanh năm, quanh là đồi cỏ hình bát úp; bãi cỏ ven hồ là nơi cắm trại; có thể kết hợp thăm bản Lác dịp lúa chín đầu tháng 9.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hồ Sam Tạng Mai Châu"
+      }
+    ],
+    "notes": "Xung đột: độ cao 1.280 m (VnExpress) vs 'hơn 1200 m' (Báo Lào Cai) — dùng 'khoảng 1.200–1.280 m' trong thân bài, không đưa vào tiêu đề. VnExpress gọi 'hồ trên núi cao nhất tỉnh', Báo Lào Cai gọi 'hồ nước ngọt lớn nhất tỉnh' với 2,7 ha — mâu thuẫn quy mô, chỉ nói 'cao nhất' kèm nguồn. Khoảng cách: 'hơn hai tiếng' vs 140 km. Hòa Bình đã sáp nhập vào Phú Thọ (2025), địa giới xã mới chưa xác minh. Không dùng giá homestay. Tên 'Pù Bin' chỉ có ở 1 nguồn.",
+    "outline": [
+      "Hồ Sam Tạng ở đâu, khác gì hồ Hòa Bình",
+      "Đường xe máy qua Thung Khe và chỗ đỗ xe",
+      "Hồ hình thành thế nào: đập trước năm 1973",
+      "Cắm trại, picnic: nên đến giờ nào",
+      "Vì sao không nên xuống tắm",
+      "Dịch vụ còn ít: chuẩn bị gì",
+      "Ghép lịch với bản Lác, thác Thung"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/du-lich/thung-lung-ba-khan-mai-chau/",
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00907.json",
+  "draft_template": {
+    "id": "TM-00907",
+    "url": "/du-lich/ho-sam-tang-mai-chau/",
+    "title": "Hồ Sam Tạng Mai Châu: hồ trên núi qua đèo Thung Khe, cắm trại và lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ Sam Tạng Mai Châu, hồ Sam Tạng, hồ Sam Tạng Noong Luông, cắm trại hồ Sam Tạng, hồ Sam Tạng đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Sam Tạng ở đâu, khác gì hồ Hòa Bình",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy qua Thung Khe và chỗ đỗ xe",
+        "<p></p>"
+      ],
+      [
+        "Hồ hình thành thế nào: đập trước năm 1973",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại, picnic: nên đến giờ nào",
+        "<p></p>"
+      ],
+      [
+        "Vì sao không nên xuống tắm",
+        "<p></p>"
+      ],
+      [
+        "Dịch vụ còn ít: chuẩn bị gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với bản Lác, thác Thung",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ho-sam-tang-dia-diem-thu-gian-gan-ha-noi-4732359.html",
+        "quote": "VnExpress, 'Hồ Sam Tạng - địa điểm thư giãn gần Hà Nội' (21/4/2024, đọc 14/10/2026): cách Hà Nội hơn hai tiếng di chuyển; thuộc xã Thành Sơn (tên cũ Noong Luông), huyện Mai Châu, độ cao 1.280 m, là hồ trên núi cao nhất tỉnh Hòa Bình; qua Thung Khe; đỗ xe ven đường, đi bộ khoảng 5–7 phút xuống hồ; rộng khoảng 2,7 ha; trước năm 1973 chỉ là khe suối lớn, huyện huy động dân công xây đập, hồ cấp nước cho 400 ha đất nông nghiệp; hồ khá sâu, không nên xuống tắm; dịch vụ ăn ở, vui chơi khá ít; thác Thung cách khoảng 18 km, bản Lác gần 30 km.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ho-sam-tang-vien-ngoc-tho-tren-dinh-nui-pu-bin-post401252.html",
+        "quote": "Báo Lào Cai, 'Hồ Sam Tạng - Viên ngọc thô trên đỉnh núi Pù Bin' (4/5/2025, đọc 14/10/2026): cách trung tâm Hà Nội khoảng 140 km, thuộc xã Thành Sơn (trước là Noong Luông), huyện Mai Châu; được mệnh danh hồ nước ngọt lớn nhất tỉnh Hòa Bình, độ cao hơn 1200 m; Phó Chủ tịch UBND xã Thành Sơn cho biết đã có một số nhà nghỉ, homestay cộng đồng nhưng hạ tầng còn hạn chế; chủ homestay mong hỗ trợ điện, nước, mạng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ho-sam-tang-dong-do-nui-tram-moi-goi-du-khach-ve-voi-thien-nhien-dip-le-2-9-20240823192851664.htm",
+        "quote": "Tuổi Trẻ, 'Hồ Sam Tạng, Đồng Đò, núi Trầm mời gọi du khách...' (24/8/2024, đọc 14/10/2026): hồ Sam Tạng ở xã Noong Luông, Mai Châu, nước xanh quanh năm, quanh là đồi cỏ hình bát úp; bãi cỏ ven hồ là nơi cắm trại; có thể kết hợp thăm bản Lác dịp lúa chín đầu tháng 9.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00907"
+  }
+}

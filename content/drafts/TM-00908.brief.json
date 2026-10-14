@@ -1,0 +1,157 @@
+{
+  "writer": "writer-R1",
+  "queued": "2026-10-14T15:57:17.593838+00:00",
+  "topic": {
+    "topic_id": "TM-00908",
+    "url": "/du-lich/rung-thong-yen-minh-ha-giang/",
+    "title": "Rừng thông Yên Minh: đồi thông Na Khê, Lao Và Chải trên QL4C",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "rừng thông Yên Minh",
+    "secondary_keywords": [
+      "đồi thông Yên Minh",
+      "rừng thông Yên Minh Hà Giang",
+      "cắm trại rừng thông Yên Minh",
+      "đường cũ Quản Bạ đi Yên Minh"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người chạy vòng Hà Giang bằng xe máy muốn biết rừng thông Yên Minh nằm đoạn nào, đi đường nào để qua rừng thông và có cắm trại được không.",
+    "information_gain": "Chưa có bài hay row riêng về rừng thông Yên Minh. /du-lich/cong-troi-quan-ba-nui-doi/ dừng ở Quản Bạ; /du-lich/deo-ma-pi-leng-va-dong-van/ bắt đầu sau Yên Minh; /du-lich/du-gia-ha-giang/ là nhánh khác. Bài mới thêm: rừng thông thuộc xã Na Khê và Lao Và Chải dọc QL4C, dài trên 10 km, 98 ha; giải thích hai biển 'Yên Minh 41 km' (đường cũ qua rừng thông) và '22,6 km' (đường mới qua cây cô đơn), gợi ý đi một đường về một đường.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/rung-thong-yen-minh-diem-cam-trai-tai-cao-nguyen-da-4538521.html",
+        "quote": "VnExpress, 'Rừng thông Yên Minh - điểm cắm trại tại cao nguyên đá' (21/11/2022, đọc 14/10/2026): cách TP Hà Giang khoảng 100 km về phía đông, men theo quốc lộ 4C qua 2 xã Na Khê và Lao Và Chải; thông trồng từ xã Na Khê đến thị trấn Yên Minh, tổng diện tích 98 ha; nhiều khách cắm trại, dã ngoại; nên mang giày thấp, xem thời tiết, mang bếp ga du lịch nếu nấu và giữ cảnh quan sạch; xã Na Khê đang phát triển du lịch sinh thái rừng thông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/tranh-cai-bien-chi-duong-gay-boi-roi-cho-du-khach-khi-den-ha-giang-20230719202846872.htm",
+        "quote": "Dân trí, 'Tranh cãi biển chỉ đường gây bối rối cho du khách khi đến Hà Giang' (20/7/2023, đọc 14/10/2026): biển 'Yên Minh 41km' là tuyến có trước, dẫn đến rừng thông, chạy qua 3 xã Bạch Đích, Na Khê, Lao Và Chải; 'Yên Minh 22,6km' là tuyến mở sau, khoảng 2 km qua cây cô đơn (cây nghiến) xã Cán Tỷ; du khách có thể đi đường mới, về đường cũ xuyên rừng thông; hai cung đều nhập QL4C.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/201711/yen-minh-diem-dung-chan-hap-dan-tren-hanh-trinh-kham-pha-ve-dep-hoa-tam-giac-mach-714497/",
+        "quote": "Báo Hà Giang (nay trên baotuyenquang.com.vn), 'Yên Minh - điểm dừng chân hấp dẫn...' (11/2017, đọc 14/10/2026): đồi thông Yên Minh thuộc xã Na Khê và Lao Và Chải, chạy dọc QL4C dài trên 10 km, được ví như đồi thông Đà Lạt; ở thị trấn Yên Minh có làng văn hóa du lịch cộng đồng thôn Bục Bản với nhà sàn Tày, Giấy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/10-khung-canh-khong-the-bo-lo-khi-den-cao-nguyen-da-3309890.html",
+        "quote": "VnExpress, '10 khung cảnh không thể bỏ lỡ khi đến cao nguyên đá' (đọc 14/10/2026): rừng thông Yên Minh cách TP Hà Giang chừng 100 km, thông thẳng tắp từ ven đường tới phủ kín đồi; sau Yên Minh qua Phố Cáo tới thung lũng Lũng Cẩm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "rừng thông Yên Minh"
+      }
+    ],
+    "notes": "Số liệu 98 ha chỉ 1 nguồn (VnExpress); 'trên 10 km' chỉ Báo Hà Giang 2017 — không đưa số vào tiêu đề. Mâu thuẫn nhẹ: VnExpress nói 2 xã, Dân trí nói đường cũ qua 3 xã (thêm Bạch Đích). Bạch Đích là xã biên giới — không hướng dẫn rẽ vào khu vực biên giới; chỉ nói đoạn QL4C. Hà Giang nay thuộc Tuyên Quang (2025): ghi địa danh cũ kèm chú thích. Biển 41 km/22,6 km là theo bài 2023, có thể đã thay đổi. Không có thông tin quy định cấm lửa/cắm trại chính thức.",
+    "outline": [
+      "Rừng thông Yên Minh nằm đoạn nào trên QL4C",
+      "Hai biển chỉ đường 41 km và 22,6 km: chọn đường nào",
+      "Dừng chụp ảnh, giờ đẹp trong ngày",
+      "Cắm trại, nấu ăn: giữ sạch và an toàn lửa",
+      "Nối tiếp: Bục Bản, Phố Cáo, Lũng Cẩm",
+      "Lưu ý địa danh sau sáp nhập tỉnh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/du-lich/cong-troi-quan-ba-nui-doi/",
+      "/du-lich/deo-ma-pi-leng-va-dong-van/",
+      "/du-lich/du-gia-ha-giang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00908.json",
+  "draft_template": {
+    "id": "TM-00908",
+    "url": "/du-lich/rung-thong-yen-minh-ha-giang/",
+    "title": "Rừng thông Yên Minh: đồi thông Na Khê, Lao Và Chải trên QL4C",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "rừng thông Yên Minh, đồi thông Yên Minh, rừng thông Yên Minh Hà Giang, cắm trại rừng thông Yên Minh, đường cũ Quản Bạ đi Yên Minh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Rừng thông Yên Minh nằm đoạn nào trên QL4C",
+        "<p></p>"
+      ],
+      [
+        "Hai biển chỉ đường 41 km và 22,6 km: chọn đường nào",
+        "<p></p>"
+      ],
+      [
+        "Dừng chụp ảnh, giờ đẹp trong ngày",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại, nấu ăn: giữ sạch và an toàn lửa",
+        "<p></p>"
+      ],
+      [
+        "Nối tiếp: Bục Bản, Phố Cáo, Lũng Cẩm",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý địa danh sau sáp nhập tỉnh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/rung-thong-yen-minh-diem-cam-trai-tai-cao-nguyen-da-4538521.html",
+        "quote": "VnExpress, 'Rừng thông Yên Minh - điểm cắm trại tại cao nguyên đá' (21/11/2022, đọc 14/10/2026): cách TP Hà Giang khoảng 100 km về phía đông, men theo quốc lộ 4C qua 2 xã Na Khê và Lao Và Chải; thông trồng từ xã Na Khê đến thị trấn Yên Minh, tổng diện tích 98 ha; nhiều khách cắm trại, dã ngoại; nên mang giày thấp, xem thời tiết, mang bếp ga du lịch nếu nấu và giữ cảnh quan sạch; xã Na Khê đang phát triển du lịch sinh thái rừng thông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/tranh-cai-bien-chi-duong-gay-boi-roi-cho-du-khach-khi-den-ha-giang-20230719202846872.htm",
+        "quote": "Dân trí, 'Tranh cãi biển chỉ đường gây bối rối cho du khách khi đến Hà Giang' (20/7/2023, đọc 14/10/2026): biển 'Yên Minh 41km' là tuyến có trước, dẫn đến rừng thông, chạy qua 3 xã Bạch Đích, Na Khê, Lao Và Chải; 'Yên Minh 22,6km' là tuyến mở sau, khoảng 2 km qua cây cô đơn (cây nghiến) xã Cán Tỷ; du khách có thể đi đường mới, về đường cũ xuyên rừng thông; hai cung đều nhập QL4C.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/201711/yen-minh-diem-dung-chan-hap-dan-tren-hanh-trinh-kham-pha-ve-dep-hoa-tam-giac-mach-714497/",
+        "quote": "Báo Hà Giang (nay trên baotuyenquang.com.vn), 'Yên Minh - điểm dừng chân hấp dẫn...' (11/2017, đọc 14/10/2026): đồi thông Yên Minh thuộc xã Na Khê và Lao Và Chải, chạy dọc QL4C dài trên 10 km, được ví như đồi thông Đà Lạt; ở thị trấn Yên Minh có làng văn hóa du lịch cộng đồng thôn Bục Bản với nhà sàn Tày, Giấy.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/10-khung-canh-khong-the-bo-lo-khi-den-cao-nguyen-da-3309890.html",
+        "quote": "VnExpress, '10 khung cảnh không thể bỏ lỡ khi đến cao nguyên đá' (đọc 14/10/2026): rừng thông Yên Minh cách TP Hà Giang chừng 100 km, thông thẳng tắp từ ven đường tới phủ kín đồi; sau Yên Minh qua Phố Cáo tới thung lũng Lũng Cẩm.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00908"
+  }
+}
