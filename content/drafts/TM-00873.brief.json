@@ -1,0 +1,158 @@
+{
+  "writer": "writer-M1",
+  "queued": "2026-10-14T15:32:10.093953+00:00",
+  "topic": {
+    "topic_id": "TM-00873",
+    "url": "/du-lich/thac-thung-bai-pang-van-son/",
+    "title": "Thác Thung và bãi Pặng Vân Sơn: thác gần 30 m, cách Hà Nội 120 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác thung",
+    "secondary_keywords": [
+      "bãi pặng",
+      "thác thung vân sơn",
+      "bãi pặng tân lạc",
+      "vân sơn phú thọ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội tìm chỗ trốn nóng cuối tuần bằng xe máy cần biết thác Thung và bãi Pặng nằm đâu sau sáp nhập (Tân Lạc cũ), độ cao, có tắm được không và nên đi tháng nào.",
+    "information_gain": "Site chưa có bài về Vân Sơn – Tân Lạc. Gần nhất là /du-lich/ha-noi-di-hoa-binh-bang-xe-may/, /du-lich/khoang-nong-kim-boi/ và /du-lich/thac-dai-yem-moc-chau/ (thác khác vùng). Bài mới nêu: thác ở xóm Bắc Thung, xã Vân Sơn (gồm Ngổ Luông, Quyết Chiến, Vân Sơn cũ của Tân Lạc), cao gần 30 m, độ cao trên 1.000 m; bãi Pặng là bãi cỏ dọc suối Thung, cách thác khoảng 300 m, đêm se lạnh cả mùa hè; mùa đẹp tháng 5–11; xe máy vào tận nơi, 2,5–3 giờ từ Hà Nội; chợ phiên Lũng Vân sáng Chủ nhật và thứ Ba.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/4-thac-nuoc-tu-nhien-gan-ha-noi-cho-chuyen-du-lich-he-gia-re-vui-tha-ga-2529343.html",
+        "quote": "VietNamNet, 17/7/2026 (đọc 14/10/2026): thác Thung ở xóm Bắc Thung, xã Vân Sơn, tỉnh Phú Thọ (huyện Tân Lạc, tỉnh Hòa Bình cũ), cách Hà Nội khoảng 120 km; thác cao gần 30 m, đổ nhiều tầng xuống triền đá dài; nằm ở độ cao trên 1.000 m so với mực nước biển nên khí hậu mát; có thể men đường mòn lên đỉnh thác, tắm ở hồ tự nhiên dưới chân thác; điểm tự nhiên không mất phí vào, chỉ trả tiền nếu thuê lán/chòi hoặc ăn uống.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/dia-diem-ngay-mat-dem-lanh-o-phu-tho-khach-vui-choi-2-ngay-het-hon-1-trieu-dong-2522491.html",
+        "quote": "VietNamNet, 5/6/2026 (đọc 14/10/2026): bãi Pặng thuộc xã Vân Sơn, Phú Thọ (xã Quyết Chiến, huyện Tân Lạc, Hòa Bình cũ), cách Hà Nội khoảng 120 km; là bãi cỏ rộng bằng phẳng dọc hai bên suối Thung chảy từ thác Thung; khách kể đêm se lạnh, ngủ không cần quạt; thác Thung cách bãi khoảng 300 m; suối có độ nông vừa phải để tắm; lãnh đạo xã cho biết bãi Pặng nằm dưới chân thác Thung.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/diem-den-xanh-mat-hoang-so-gan-ha-noi-thu-hut-khach-du-lich-402709.html",
+        "quote": "Báo Thế giới & Việt Nam, 6/6/2026 (đọc 14/10/2026; nội dung trùng phần lớn bài VietNamNet 5/6/2026): bãi Pặng cách Hà Nội khoảng 120 km; ô tô, xe máy, xe khách đều tới tận nơi; từ Hà Nội mất khoảng 2,5–3 giờ; thác Thung cách bãi khoảng 300 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietbao.vn/thung-lung-truong-tho-cach-ha-noi-hon-100km-dem-ngu-khong-can-khoa-cua-597161.html",
+        "quote": "Việt Báo, 29/6/2026 (đọc 14/10/2026): xã Vân Sơn (gộp 3 xã Ngổ Luông, Quyết Chiến, Vân Sơn của huyện Tân Lạc cũ) cách Hà Nội khoảng 120 km, ở độ cao khoảng 1.200 m; 1.946 hộ, 9.158 nhân khẩu, 99% người Mường; thời điểm lý tưởng là mùa hè – thu, khoảng tháng 5 đến tháng 11; có bãi Pặng – thác Thung, làng du lịch cộng đồng xóm Chiến; chợ phiên Lũng Vân mở sáng Chủ nhật và thứ Ba hằng tuần.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác thung"
+      }
+    ],
+    "notes": "Báo Thế giới & Việt Nam gần như đăng lại bài VietNamNet — coi là một nguồn độc lập yếu. Độ cao: 'trên 1.000 m' (thác, VietNamNet) vs 'khoảng 1.200 m' (xã, Việt Báo) — hai đối tượng khác nhau, không mâu thuẫn trực tiếp. Không đưa giá lán/homestay (VietNamNet có 200.000–400.000 đồng/người) vào tiêu đề; nếu dùng trong bài phải ghi nguồn và ngày. An toàn tắm thác mùa mưa lũ chưa có nguồn — khuyên thận trọng chung. Chợ Lũng Vân: Lũng Vân là xã cũ, nay thuộc Vân Sơn theo ngữ cảnh bài — không khẳng định ranh giới.",
+    "outline": [
+      "Thác Thung và bãi Pặng ở đâu sau sáp nhập",
+      "Thác gần 30 m ở độ cao trên 1.000 m",
+      "Bãi Pặng: cắm trại, tắm suối, đêm se lạnh",
+      "Xã Vân Sơn – 'thung lũng trường thọ' của người Mường",
+      "Đi xe máy 2,5–3 giờ: đường, đổ xăng, mùa mưa",
+      "Tháng 5–11 và chợ phiên Lũng Vân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/khoang-nong-kim-boi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00873.json",
+  "draft_template": {
+    "id": "TM-00873",
+    "url": "/du-lich/thac-thung-bai-pang-van-son/",
+    "title": "Thác Thung và bãi Pặng Vân Sơn: thác gần 30 m, cách Hà Nội 120 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác thung, bãi pặng, thác thung vân sơn, bãi pặng tân lạc, vân sơn phú thọ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Thung và bãi Pặng ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Thác gần 30 m ở độ cao trên 1.000 m",
+        "<p></p>"
+      ],
+      [
+        "Bãi Pặng: cắm trại, tắm suối, đêm se lạnh",
+        "<p></p>"
+      ],
+      [
+        "Xã Vân Sơn – 'thung lũng trường thọ' của người Mường",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy 2,5–3 giờ: đường, đổ xăng, mùa mưa",
+        "<p></p>"
+      ],
+      [
+        "Tháng 5–11 và chợ phiên Lũng Vân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/4-thac-nuoc-tu-nhien-gan-ha-noi-cho-chuyen-du-lich-he-gia-re-vui-tha-ga-2529343.html",
+        "quote": "VietNamNet, 17/7/2026 (đọc 14/10/2026): thác Thung ở xóm Bắc Thung, xã Vân Sơn, tỉnh Phú Thọ (huyện Tân Lạc, tỉnh Hòa Bình cũ), cách Hà Nội khoảng 120 km; thác cao gần 30 m, đổ nhiều tầng xuống triền đá dài; nằm ở độ cao trên 1.000 m so với mực nước biển nên khí hậu mát; có thể men đường mòn lên đỉnh thác, tắm ở hồ tự nhiên dưới chân thác; điểm tự nhiên không mất phí vào, chỉ trả tiền nếu thuê lán/chòi hoặc ăn uống.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/dia-diem-ngay-mat-dem-lanh-o-phu-tho-khach-vui-choi-2-ngay-het-hon-1-trieu-dong-2522491.html",
+        "quote": "VietNamNet, 5/6/2026 (đọc 14/10/2026): bãi Pặng thuộc xã Vân Sơn, Phú Thọ (xã Quyết Chiến, huyện Tân Lạc, Hòa Bình cũ), cách Hà Nội khoảng 120 km; là bãi cỏ rộng bằng phẳng dọc hai bên suối Thung chảy từ thác Thung; khách kể đêm se lạnh, ngủ không cần quạt; thác Thung cách bãi khoảng 300 m; suối có độ nông vừa phải để tắm; lãnh đạo xã cho biết bãi Pặng nằm dưới chân thác Thung.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/diem-den-xanh-mat-hoang-so-gan-ha-noi-thu-hut-khach-du-lich-402709.html",
+        "quote": "Báo Thế giới & Việt Nam, 6/6/2026 (đọc 14/10/2026; nội dung trùng phần lớn bài VietNamNet 5/6/2026): bãi Pặng cách Hà Nội khoảng 120 km; ô tô, xe máy, xe khách đều tới tận nơi; từ Hà Nội mất khoảng 2,5–3 giờ; thác Thung cách bãi khoảng 300 m.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietbao.vn/thung-lung-truong-tho-cach-ha-noi-hon-100km-dem-ngu-khong-can-khoa-cua-597161.html",
+        "quote": "Việt Báo, 29/6/2026 (đọc 14/10/2026): xã Vân Sơn (gộp 3 xã Ngổ Luông, Quyết Chiến, Vân Sơn của huyện Tân Lạc cũ) cách Hà Nội khoảng 120 km, ở độ cao khoảng 1.200 m; 1.946 hộ, 9.158 nhân khẩu, 99% người Mường; thời điểm lý tưởng là mùa hè – thu, khoảng tháng 5 đến tháng 11; có bãi Pặng – thác Thung, làng du lịch cộng đồng xóm Chiến; chợ phiên Lũng Vân mở sáng Chủ nhật và thứ Ba hằng tuần.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00873"
+  }
+}
