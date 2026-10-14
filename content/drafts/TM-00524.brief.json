@@ -1,0 +1,151 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-14T01:05:37.652228+00:00",
+  "topic": {
+    "topic_id": "TM-00524",
+    "url": "/kinh-nghiem/di-xe-may-gap-giong-set/",
+    "title": "Đi xe máy gặp giông sét: trú ở đâu, có nên chạy tiếp",
+    "hub": "kinh-nghiem",
+    "subtopic": "an-toan",
+    "primary_keyword": "đi xe máy gặp giông sét",
+    "secondary_keywords": [
+      "đi xe máy có bị sét đánh không",
+      "trú mưa dưới cây khi có sét",
+      "quy tắc 30 giây chớp sấm",
+      "phòng tránh sét khi ở ngoài đường",
+      "giông lốc khi đang đi xe máy"
+    ],
+    "intent": "commercial",
+    "user_problem": "Người đang chạy xe máy (trong phố, trên đê, trên cầu, đường đèo ngoại thành) thì trời nổi giông, có sấm chớp; họ cần biết nên dừng hay chạy tiếp, trú ở đâu là an toàn, có đứng cạnh xe máy hay dưới gốc cây được không và khi nào đi tiếp.",
+    "information_gain": "Chưa bài nào trên site nói về sét: /kinh-nghiem/ao-mua-di-xe-may/ chỉ chọn áo mưa; /kinh-nghiem/lai-xe-o-ha-noi/ chuẩn bị chung; /kinh-nghiem/di-xe-may-duong-deo/ nói phanh, vào cua; ý tưởng 'đi xe máy trời mưa' đã bị loại vì trùng hai bài trên. Bài này trả lời câu hỏi khác hẳn: an toàn trước sét khi đang ở ngoài đường với xe máy. Dữ liệu mới từ cơ quan chính thức: quy tắc 'Nhìn – Nghe 30 giây', sét đánh xa vùng mưa 15–20 km, dông kéo đến trong khoảng 15 phút (HCDC); nơi trú an toàn là nhà, trung tâm mua sắm, xe mui kín, không trú dưới cây đơn lẻ, vách đá, tránh xa xe máy, xe đạp, hàng rào kim loại, tách nhóm tối thiểu 5 m, tư thế ngồi cúi, dấu hiệu sắp bị sét đánh (ù tai, râm ran, tóc dựng) (Đài KTTV Hà Tĩnh); chờ 30 phút sau tiếng sấm cuối mới đi tiếp; người bị sét đánh không mang điện, gọi 115.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://hcdc.vn/5-nguyen-tac-phong-tranh-set-danh-1bY9Fi.html",
+        "quote": "HCDC – Trung tâm Kiểm soát bệnh tật TP.HCM, '5 nguyên tắc phòng tránh sét đánh' (cập nhật 03/10/2025): Việt Nam là một trong những nước có mật độ giông sét cao nhất thế giới, khoảng 80% ca tử vong do không tuân thủ nguyên tắc an toàn cơ bản. Cơn dông có thể kéo đến trong khoảng 15 phút. Quy tắc 'Nhìn – Nghe 30 giây': nếu khoảng cách giữa chớp và sấm dưới 30 giây, nguy cơ bị sét đánh rất cao; ngay khi nghe tiếng sấm đầu tiên phải tìm nơi an toàn; sét có thể đánh cách nơi có mưa 15–20 km. Ngoài trời: nơi trú an toàn là tòa nhà kín, ô tô, tàu hỏa; không trú dưới cây; tránh xa vật kim loại (xe đạp, xe máy, hàng rào sắt) và chỗ cao hơn xung quanh; ngồi cúi, tay ôm cổ hoặc che tai, nhón chân, không nằm, không đặt tay xuống đất. Chờ ít nhất 30 phút sau tiếng sét cuối cùng mới hoạt động lại.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://pctt.hatinh.gov.vn/nhung-ky-nang-phongtranh-set-1652518347.html",
+        "quote": "Đài Khí tượng Thủy văn tỉnh Hà Tĩnh, 'Những kỹ năng phòng, tránh sét' (trang PCTT Hà Tĩnh, 14/05/2022): dấu hiệu dông sét – mây cuồn cuộn, trời tối, gió mát và mạnh lên, sấm xa. Ngoài trời: vào nhà, văn phòng, trung tâm mua sắm hoặc xe mui kín; rời đồi, đỉnh cao; không trú dưới cây đứng đơn lẻ, vách đá nhô ra; tránh ao hồ; tránh vật dẫn điện như hàng rào thép gai, đường dây điện, xe máy, xe đạp; đi theo nhóm thì tách nhau tối thiểu 5 mét; bỏ vật kim loại trên người. Dấu hiệu nguy hiểm tức thời: ù tai, râm ran, tóc và lông dựng lên, hoa mắt – ngồi xuống, cúi, tay bịt đầu và tai.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://pctt.hatinh.gov.vn/nhung-ky-nang-phongtranh-set-1652518347.html",
+        "quote": "Cùng trang, khi có người bị sét đánh: đánh giá nhanh, nếu nạn nhân ở chỗ nguy cơ cao (dưới cây đơn lẻ, bãi trống, gần cột điện) thì đưa tới chỗ an toàn hơn; gọi 115; dùng điện thoại di động trong dông sét là an toàn; chạm vào nạn nhân là an toàn vì người bị sét đánh không mang điện tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đi xe máy gặp giông sét"
+      }
+    ],
+    "notes": "Ý 'đi xe máy trời mưa' (TM-00069) đã REJECTED vì hoán vị /kinh-nghiem/lai-xe-o-ha-noi/ và trùng /kinh-nghiem/ao-mua-di-xe-may/ – bài này KHÔNG được viết thành kỹ năng đi mưa (phanh đường trơn, áo mưa); chỉ xoay quanh sét/giông và chỗ trú. Biên tập viên cần xác nhận đây là câu hỏi khác trước khi duyệt. Nguồn khác nhau ở chi tiết tư thế (HCDC: nhón chân; Hà Tĩnh: ngồi trên vật cách điện, đi giày dép) – writer ghi cả hai, không chế thêm. Không có nguồn chính thức nói riêng về 'gió giật làm đổ xe máy' hay khoảng cách an toàn với cây khi lốc – không viết số liệu về gió. Không có nguồn chính thức cho chuyện trú dưới gầm cầu/hầm chui khi có sét – không khuyến nghị. Số 115 là cấp cứu quốc gia; nếu biên tập áp dụng chặt quy tắc số điện thoại thì viết 'gọi cấp cứu'.",
+    "outline": [
+      "Câu trả lời ngắn: nghe tiếng sấm đầu tiên là tìm chỗ trú, không chạy cố",
+      "Dấu hiệu dông sắp tới và quy tắc 30 giây chớp – sấm",
+      "Chỗ trú an toàn và chỗ không được trú (gốc cây, vách đá, cạnh xe máy)",
+      "Nếu kẹt giữa đường trống, đê, đèo: tư thế và khoảng cách",
+      "Đi theo nhóm, phượt xa: tách nhau, kế hoạch dừng",
+      "Khi nào đi tiếp và kiểm tra xe sau mưa giông",
+      "Có người bị sét đánh: làm gì"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/ao-mua-di-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/so-cuu-tai-nan-giao-thong/",
+      "/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00524.json",
+  "draft_template": {
+    "id": "TM-00524",
+    "url": "/kinh-nghiem/di-xe-may-gap-giong-set/",
+    "title": "Đi xe máy gặp giông sét: trú ở đâu, có nên chạy tiếp",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đi xe máy gặp giông sét, đi xe máy có bị sét đánh không, trú mưa dưới cây khi có sét, quy tắc 30 giây chớp sấm, phòng tránh sét khi ở ngoài đường, giông lốc khi đang đi xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: nghe tiếng sấm đầu tiên là tìm chỗ trú, không chạy cố",
+        "<p></p>"
+      ],
+      [
+        "Dấu hiệu dông sắp tới và quy tắc 30 giây chớp – sấm",
+        "<p></p>"
+      ],
+      [
+        "Chỗ trú an toàn và chỗ không được trú (gốc cây, vách đá, cạnh xe máy)",
+        "<p></p>"
+      ],
+      [
+        "Nếu kẹt giữa đường trống, đê, đèo: tư thế và khoảng cách",
+        "<p></p>"
+      ],
+      [
+        "Đi theo nhóm, phượt xa: tách nhau, kế hoạch dừng",
+        "<p></p>"
+      ],
+      [
+        "Khi nào đi tiếp và kiểm tra xe sau mưa giông",
+        "<p></p>"
+      ],
+      [
+        "Có người bị sét đánh: làm gì",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://hcdc.vn/5-nguyen-tac-phong-tranh-set-danh-1bY9Fi.html",
+        "quote": "HCDC – Trung tâm Kiểm soát bệnh tật TP.HCM, '5 nguyên tắc phòng tránh sét đánh' (cập nhật 03/10/2025): Việt Nam là một trong những nước có mật độ giông sét cao nhất thế giới, khoảng 80% ca tử vong do không tuân thủ nguyên tắc an toàn cơ bản. Cơn dông có thể kéo đến trong khoảng 15 phút. Quy tắc 'Nhìn – Nghe 30 giây': nếu khoảng cách giữa chớp và sấm dưới 30 giây, nguy cơ bị sét đánh rất cao; ngay khi nghe tiếng sấm đầu tiên phải tìm nơi an toàn; sét có thể đánh cách nơi có mưa 15–20 km. Ngoài trời: nơi trú an toàn là tòa nhà kín, ô tô, tàu hỏa; không trú dưới cây; tránh xa vật kim loại (xe đạp, xe máy, hàng rào sắt) và chỗ cao hơn xung quanh; ngồi cúi, tay ôm cổ hoặc che tai, nhón chân, không nằm, không đặt tay xuống đất. Chờ ít nhất 30 phút sau tiếng sét cuối cùng mới hoạt động lại.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://pctt.hatinh.gov.vn/nhung-ky-nang-phongtranh-set-1652518347.html",
+        "quote": "Đài Khí tượng Thủy văn tỉnh Hà Tĩnh, 'Những kỹ năng phòng, tránh sét' (trang PCTT Hà Tĩnh, 14/05/2022): dấu hiệu dông sét – mây cuồn cuộn, trời tối, gió mát và mạnh lên, sấm xa. Ngoài trời: vào nhà, văn phòng, trung tâm mua sắm hoặc xe mui kín; rời đồi, đỉnh cao; không trú dưới cây đứng đơn lẻ, vách đá nhô ra; tránh ao hồ; tránh vật dẫn điện như hàng rào thép gai, đường dây điện, xe máy, xe đạp; đi theo nhóm thì tách nhau tối thiểu 5 mét; bỏ vật kim loại trên người. Dấu hiệu nguy hiểm tức thời: ù tai, râm ran, tóc và lông dựng lên, hoa mắt – ngồi xuống, cúi, tay bịt đầu và tai.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://pctt.hatinh.gov.vn/nhung-ky-nang-phongtranh-set-1652518347.html",
+        "quote": "Cùng trang, khi có người bị sét đánh: đánh giá nhanh, nếu nạn nhân ở chỗ nguy cơ cao (dưới cây đơn lẻ, bãi trống, gần cột điện) thì đưa tới chỗ an toàn hơn; gọi 115; dùng điện thoại di động trong dông sét là an toàn; chạm vào nạn nhân là an toàn vì người bị sét đánh không mang điện tích.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00524"
+  }
+}

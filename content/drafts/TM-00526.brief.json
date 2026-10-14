@@ -1,0 +1,177 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-14T01:05:37.804033+00:00",
+  "topic": {
+    "topic_id": "TM-00526",
+    "url": "/kinh-nghiem/de-do-trong-cop-xe-may/",
+    "title": "Để đồ trong cốp xe máy: thứ không nên để và cách xếp",
+    "hub": "kinh-nghiem",
+    "subtopic": "trang-bi",
+    "primary_keyword": "để đồ trong cốp xe máy",
+    "secondary_keywords": [
+      "cốp xe máy có nóng không",
+      "để điện thoại trong cốp xe",
+      "không để chìa khóa trong cốp",
+      "móc treo đồ xe máy",
+      "cổng sạc usb xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe ga, xe điện (nhiều người là khách thuê xe) muốn biết nên và không nên cất gì trong cốp dưới yên, hộc trước, móc treo: điện thoại, giấy tờ, đồ ăn, can xăng, bộ sạc xe điện, mũ bảo hiểm; và cách tránh hỏng đồ, mất đồ, nguy cơ cháy.",
+    "information_gain": "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/ đã nêu giới hạn tải (cốp 10 kg, móc treo và hộc trước 1,5 kg, tay dắt sau 3 kg) nhưng không nói nên cất gì; /kinh-nghiem/khoa-chong-trom-xe-may/ nói chống trộm xe; /bao-duong/smart-key-xe-may-honda-het-pin/ nói chìa khẩn cấp. Bài mới trả lời câu hỏi 'cốp để được gì': sách Honda LEAD 125 cấm để đồ dễ cháy hoặc dễ hỏng do nhiệt, đồ có giá trị, đồ dễ vỡ trong cốp, không cất chìa khóa khẩn cấp trong bất kỳ hộp đựng đồ nào, không treo hàng cồng kềnh ở móc, không lái xe khi mũ còn treo ở móc dưới yên, rửa xe không xịt nước vào dưới yên; sách VinFast Evo Lite cấm để vật nóng, ướt, sắc nhọn trong cốp, không để bộ sạc trong cốp khi đang sạc vì có thể quá nhiệt gây cháy nổ, cổng USB chỉ 18 W/30 W; Bộ Công an khuyến cáo không để chất dễ cháy dưới yên xe.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng LEAD 125 (đọc 14/10/2026), mục Hộp đựng đồ (tr. 70–73): trọng tải tối đa hộp đựng đồ 10 kg; 'Không để bên trong hộp đựng đồ các đồ vật dễ cháy hoặc dễ hỏng do nhiệt'; 'Không để đồ có giá trị hoặc đồ dễ vỡ bên trong khu vực này'; cẩn thận không để quên chìa khóa trong hộp đựng đồ dưới yên; tay dắt sau tối đa 3 kg; móc giữ mũ dưới yên chỉ dùng khi dựng xe – treo mũ ở móc khi lái có thể gây tai nạn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Cùng tài liệu: móc treo đồ và hộc đựng đồ phía trước tối đa 1,5 kg; không treo hàng hóa cồng kềnh vào móc vì có thể tuột ra hoặc cản trở chân khi lái; ổ cắm USB nằm trong hộc trước, không dùng khi ẩm ướt; 'Không cất giữ chìa khóa khẩn cấp trong bất kỳ hộp đựng đồ nào'; có thể để giấy đăng ký xe, bảo hiểm trong túi tài liệu bằng nhựa trong hộp đựng đồ; khi rửa xe không phun nước trực tiếp vào dưới yên vì nước có thể làm hỏng tài liệu, đồ bên trong.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+        "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 14/10/2026), mục 3.10–3.12 (tr. 19–22): không nên để đồ giá trị hoặc dễ vỡ trong hộc đựng đồ; tài liệu trong khoang dưới yên phải bọc túi ni-lông; không đặt vật nóng, vật ướt, vật sắc nhọn vào khoang chứa đồ; không đặt vật nặng, ướt, kim loại, sắc nhọn, nóng, dễ cháy nổ vào khay pin trống; gói bộ sạc bằng vật liệu chống sốc; 'Không để bộ sạc trong khoang chứa đồ khi đang sạc xe vì bộ sạc có thể bị quá nhiệt và gây ra cháy nổ'; không che, đặt đồ lên pin. Cổng USB-A 18 W, USB Type C 30 W, không dùng khi ẩm ướt, cố định thiết bị vì có thể tuột khi rung.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://bocongan.gov.vn/bai-viet/bo-cong-an-khuyen-cao-nguoi-dan-cac-bien-phap-phong-ngua-xu-ly-khi-xay-ra-chay-xe-o-to-xe-may-d22-t35178",
+        "quote": "Bộ Công an (18/05/2023), khuyến cáo phòng cháy ô tô, xe máy: 'Không để các chất dễ cháy, dễ bắt cháy trong xe, dưới yên xe, trong khoang động cơ'; không lắp thêm thiết bị tiêu thụ điện gây quá tải.",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.helmet: mũ bảo hiểm cơ bản miễn phí",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "để đồ trong cốp xe máy"
+      }
+    ],
+    "notes": "Không có nguồn đo nhiệt độ thực tế trong cốp xe – không viết 'cốp nóng X độ'; chỉ dẫn lời sách hãng (đồ dễ hỏng do nhiệt). Các con số tải theo LEAD 125 và Vision có thể khác mẫu khác; tránh lặp bảng tải của /xe-may/xe-may-cho-duoc-bao-nhieu-kg/, chỉ nhắc và dẫn link. Không khẳng định mũ bảo hiểm nào vừa cốp. Không nói xe thuê của cửa hàng có cốp bao nhiêu lít (business-facts không có).",
+    "outline": [
+      "Câu trả lời ngắn: cốp để mũ, áo mưa, giấy tờ bọc kín; không để đồ dễ cháy, đồ quý, đồ dễ vỡ",
+      "Những thứ không nên để trong cốp và vì sao (theo sách Honda, VinFast)",
+      "Chìa khóa, chìa khẩn cấp và Smart Key: đừng để trong cốp",
+      "Hộc trước, móc treo, tay dắt sau: dùng thế nào cho an toàn",
+      "Xe điện: bộ sạc, khay pin trống và cổng USB",
+      "Đi mưa, rửa xe: giữ cốp khô",
+      "Xe thuê: kiểm tra cốp khi nhận và trả xe"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/",
+      "/kinh-nghiem/khoa-chong-trom-xe-may/",
+      "/bao-duong/smart-key-xe-may-honda-het-pin/",
+      "/bao-duong/rua-xe-may-tai-nha-dung-cach/",
+      "/kinh-nghiem/phong-cuop-giat-khi-di-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00526.json",
+  "draft_template": {
+    "id": "TM-00526",
+    "url": "/kinh-nghiem/de-do-trong-cop-xe-may/",
+    "title": "Để đồ trong cốp xe máy: thứ không nên để và cách xếp",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "để đồ trong cốp xe máy, cốp xe máy có nóng không, để điện thoại trong cốp xe, không để chìa khóa trong cốp, móc treo đồ xe máy, cổng sạc usb xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: cốp để mũ, áo mưa, giấy tờ bọc kín; không để đồ dễ cháy, đồ quý, đồ dễ vỡ",
+        "<p></p>"
+      ],
+      [
+        "Những thứ không nên để trong cốp và vì sao (theo sách Honda, VinFast)",
+        "<p></p>"
+      ],
+      [
+        "Chìa khóa, chìa khẩn cấp và Smart Key: đừng để trong cốp",
+        "<p></p>"
+      ],
+      [
+        "Hộc trước, móc treo, tay dắt sau: dùng thế nào cho an toàn",
+        "<p></p>"
+      ],
+      [
+        "Xe điện: bộ sạc, khay pin trống và cổng USB",
+        "<p></p>"
+      ],
+      [
+        "Đi mưa, rửa xe: giữ cốp khô",
+        "<p></p>"
+      ],
+      [
+        "Xe thuê: kiểm tra cốp khi nhận và trả xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng LEAD 125 (đọc 14/10/2026), mục Hộp đựng đồ (tr. 70–73): trọng tải tối đa hộp đựng đồ 10 kg; 'Không để bên trong hộp đựng đồ các đồ vật dễ cháy hoặc dễ hỏng do nhiệt'; 'Không để đồ có giá trị hoặc đồ dễ vỡ bên trong khu vực này'; cẩn thận không để quên chìa khóa trong hộp đựng đồ dưới yên; tay dắt sau tối đa 3 kg; móc giữ mũ dưới yên chỉ dùng khi dựng xe – treo mũ ở móc khi lái có thể gây tai nạn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Cùng tài liệu: móc treo đồ và hộc đựng đồ phía trước tối đa 1,5 kg; không treo hàng hóa cồng kềnh vào móc vì có thể tuột ra hoặc cản trở chân khi lái; ổ cắm USB nằm trong hộc trước, không dùng khi ẩm ướt; 'Không cất giữ chìa khóa khẩn cấp trong bất kỳ hộp đựng đồ nào'; có thể để giấy đăng ký xe, bảo hiểm trong túi tài liệu bằng nhựa trong hộp đựng đồ; khi rửa xe không phun nước trực tiếp vào dưới yên vì nước có thể làm hỏng tài liệu, đồ bên trong.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://static-cms-prod.vinfastauto.com/espcne9bol003-01-evo_max_lite_owner_manual.pdf",
+        "quote": "VinFast, Hướng dẫn sử dụng Evo Lite (đọc 14/10/2026), mục 3.10–3.12 (tr. 19–22): không nên để đồ giá trị hoặc dễ vỡ trong hộc đựng đồ; tài liệu trong khoang dưới yên phải bọc túi ni-lông; không đặt vật nóng, vật ướt, vật sắc nhọn vào khoang chứa đồ; không đặt vật nặng, ướt, kim loại, sắc nhọn, nóng, dễ cháy nổ vào khay pin trống; gói bộ sạc bằng vật liệu chống sốc; 'Không để bộ sạc trong khoang chứa đồ khi đang sạc xe vì bộ sạc có thể bị quá nhiệt và gây ra cháy nổ'; không che, đặt đồ lên pin. Cổng USB-A 18 W, USB Type C 30 W, không dùng khi ẩm ướt, cố định thiết bị vì có thể tuột khi rung.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://bocongan.gov.vn/bai-viet/bo-cong-an-khuyen-cao-nguoi-dan-cac-bien-phap-phong-ngua-xu-ly-khi-xay-ra-chay-xe-o-to-xe-may-d22-t35178",
+        "quote": "Bộ Công an (18/05/2023), khuyến cáo phòng cháy ô tô, xe máy: 'Không để các chất dễ cháy, dễ bắt cháy trong xe, dưới yên xe, trong khoang động cơ'; không lắp thêm thiết bị tiêu thụ điện gây quá tải.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.helmet: mũ bảo hiểm cơ bản miễn phí",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00526"
+  }
+}

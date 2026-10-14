@@ -1,0 +1,177 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-14T01:05:37.651109+00:00",
+  "topic": {
+    "topic_id": "TM-00521",
+    "url": "/kinh-nghiem/vung-phat-thai-thap-ha-noi-xe-may/",
+    "title": "Vùng phát thải thấp Hà Nội: xe máy xăng, xe điện đi thế nào",
+    "hub": "kinh-nghiem",
+    "subtopic": "di-chuyen-ha-noi",
+    "primary_keyword": "vùng phát thải thấp hà nội xe máy",
+    "secondary_keywords": [
+      "vùng phát thải thấp vành đai 1",
+      "xe máy xăng có được vào phố cổ",
+      "xe máy điện vùng phát thải thấp",
+      "khu vực 1 khu vực 2 hoàn kiếm",
+      "lộ trình cấm xe máy xăng hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy (kể cả xe thuê, xe điện) ở Hà Nội muốn biết từ 7/2026 vùng phát thải thấp hạn chế xe nào, ở khu vực nào, giờ nào và lộ trình 2027–2028 sẽ ảnh hưởng ra sao đến việc đi lại hằng ngày.",
+    "information_gain": "Hơn 20 bài hiện có chỉ nhắc vùng phát thải thấp như một ghi chú gửi xe: /du-lich/ha-noi/pho-co/, /du-lich/cho-dem-pho-co-ha-noi/, /thue-xe-may/hoan-kiem/ chỉ nêu khu vực 1 cấm xe 19h–24h cuối tuần; /luat-giao-thong/xe-may-co-phai-kiem-dinh-khi-thai-khong/ nói mốc khí thải Mức 2 từ 2028 cho cả thành phố. Chưa bài nào trả lời trọn câu hỏi của người lái: ranh giới khu vực 2 (Hàng Đậu – Phùng Hưng – Tràng Thi – Trần Quang Khải...), khu vực 3 năm 2027, vành đai 1 (9 phường) từ 2028; xe ôm công nghệ chạy xăng bị cấm từ giai đoạn 2; xe máy xăng không đạt khí thải Mức 3 bị cấm từ giai đoạn 3; xe máy điện vẫn bị cấm trong khu vực 1 tối cuối tuần vì lệnh cấm áp dụng cho mọi xe mô tô, xe gắn máy. Bài mới gom các mốc đó thành bảng 'xe của tôi có bị ảnh hưởng không', theo Đề án Sở NN&MT công bố.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/cong-bo-de-an-vung-phat-thai-thap-trong-vanh-dai-1-thanh-pho-ha-noi-119260703145217105.htm",
+        "quote": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn, 05/07/2026), 'Công bố Đề án Vùng phát thải thấp trong vành đai 1, thành phố Hà Nội': từ 01/7/2026 Hà Nội không cấm đồng loạt xe xăng trên toàn Vành đai 1 mà hạn chế tại Khu vực 1, 2 phường Hoàn Kiếm theo loại xe và khung giờ. Vành đai 1 gồm 9 phường: Hoàn Kiếm, Cửa Nam, Ba Đình, Giảng Võ, Ngọc Hà, Tây Hồ, Ô Chợ Dừa, Hai Bà Trưng, Văn Miếu - Quốc Tử Giám; ranh giới theo bản đồ kèm Quyết định 3273/QĐ-UBND. Lộ trình: GĐ1 01/7–31/12/2026 Khu vực 1, 2 (thí điểm); GĐ2 01/01–31/12/2027 Khu vực 1, 2, 3 (Hoàn Kiếm, Cửa Nam); GĐ3 01/01/2028–31/12/2029 toàn Vành đai 1; từ 01/01/2030 duy trì. Giờ cao điểm trong Đề án: 06:00–09:00 và 16:00–19:30.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/cong-bo-de-an-vung-phat-thai-thap-trong-vanh-dai-1-thanh-pho-ha-noi-119260703145217105.htm",
+        "quote": "Cùng trang: GĐ1 tại Khu vực 1 'cấm toàn bộ phương tiện giao thông đường bộ, gồm xe mô tô, xe gắn máy và các loại xe ô tô, từ 19 giờ 00 đến 24 giờ 00 các ngày thứ Sáu, thứ Bảy và Chủ nhật hằng tuần'. GĐ2: không cho phép xe mô tô, xe gắn máy dùng nhiên liệu hóa thạch hoạt động kinh doanh trên nền tảng ứng dụng kết nối vận tải lưu thông trong khu vực; với xe máy còn lại, khuyến khích hạn chế xe mô tô sản xuất/nhập khẩu trước 2008 và xe gắn máy trước 2016, khuyến khích chuyển sang xe xanh, xe đạt khí thải mức 3 trở lên. GĐ3: không cho phép xe mô tô, xe gắn máy không đạt quy chuẩn khí thải mức 3 theo QCVN 99:2025/BNNMT lưu thông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-5085660.html",
+        "quote": "VnExpress (Võ Hải, 15/6/2026), 'Hà Nội thí điểm vùng phát thải thấp tại vùng lõi Hoàn Kiếm': HĐND TP thông qua Đề án ngày 15/6. Khu vực 1 bao bởi 11 phố: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ. Khu vực 2 bao bởi Hàng Đậu, Phùng Hưng, Tràng Thi, Hàng Khay, Tràng Tiền, Trần Quang Khải, Trần Nhật Duật. Xe ưu tiên và xe có giấy phép lưu thông được hoạt động 24/24. GĐ1 áp dụng theo hướng tuyên truyền, vận động. Khu vực 3 (2027) bao bởi 14 phố gồm Nguyễn Du, Hàn Thuyên, Trần Hưng Đạo, Trần Khánh Dư, Trần Quang Khải, Trần Nhật Duật, Hàng Đậu, Cửa Đông, Lý Nam Đế, Tôn Thất Thiệp, Điện Biên Phủ, Hàng Bông, Cửa Nam, Lê Duẩn. GĐ3 bổ sung cấm xe máy xăng (không phải xe ôm công nghệ) không đạt khí thải mức 3.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-5085660.html",
+        "quote": "VnExpress (15/6/2026): Vành đai 1 bao bởi các phố Hoàng Cầu, Đê La Thành, Ô Chợ Dừa, Xã Đàn, Đại Cồ Việt, Trần Khát Chân, Nguyễn Khoái, Trần Khánh Dư, Trần Quang Khải, Trần Nhật Duật, Yên Phụ, Nghi Tàm, Âu Cơ, An Dương Vương, Lạc Long Quân, Bưởi và Cầu Giấy; khu vực này có khoảng 600.000 xe mô tô, xe gắn máy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "vùng phát thải thấp hà nội xe máy"
+      }
+    ],
+    "notes": "Nguồn lệch nhau: VnExpress ghi Khu vực 1 có 11 phố, SGGP (được bài cũ trích) ghi 12 phố kèm Ngô Quyền – writer dẫn bản đồ Quyết định 3273/QĐ-UBND hoặc ghi rõ hai nguồn, không tự chốt. Trang chinhphu.vn liệt kê lẫn một số biện pháp GĐ3 ngay dưới GĐ2 (cấm xe máy không đạt mức 3) – VnExpress xếp biện pháp này vào GĐ3; writer viết theo VnExpress và ghi chú cần đối chiếu Nghị quyết HĐND. Chưa tìm được văn bản nêu mức phạt riêng cho vi phạm vùng phát thải thấp và chưa có nguồn về cách nhận biết xe đạt khí thải mức 3 (tem, giấy chứng nhận) – không viết các ý này. Không đưa số điện thoại tổng đài. Xe của cửa hàng: chỉ nói cửa hàng có xe điện Tailg theo fleet, không hứa xe được vào khu vực 1 tối cuối tuần (cũng bị cấm).",
+    "outline": [
+      "Câu trả lời ngắn: năm 2026 xe máy xăng bị hạn chế ở đâu",
+      "Khu vực 1, 2, 3 và Vành đai 1: ranh giới theo từng giai đoạn",
+      "Bảng tra: xe máy xăng, xe ôm công nghệ, xe máy điện, xe cũ trước 2008/2016",
+      "Giờ cấm tối cuối tuần ở khu vực 1 và chỗ gửi xe bên ngoài",
+      "Mốc 2027 và 2028: chuẩn bị gì nếu bạn ở hoặc làm việc trong Vành đai 1",
+      "Đi xe thuê vào trung tâm: nên chọn xe xăng hay xe điện",
+      "Văn bản gốc cần đối chiếu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/luat-giao-thong/xe-may-co-phai-kiem-dinh-khi-thai-khong/",
+      "/thue-xe-dien/ha-noi/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/xe-dien/xe-may-dien-hay-xe-xang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00521.json",
+  "draft_template": {
+    "id": "TM-00521",
+    "url": "/kinh-nghiem/vung-phat-thai-thap-ha-noi-xe-may/",
+    "title": "Vùng phát thải thấp Hà Nội: xe máy xăng, xe điện đi thế nào",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vùng phát thải thấp hà nội xe máy, vùng phát thải thấp vành đai 1, xe máy xăng có được vào phố cổ, xe máy điện vùng phát thải thấp, khu vực 1 khu vực 2 hoàn kiếm, lộ trình cấm xe máy xăng hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: năm 2026 xe máy xăng bị hạn chế ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Khu vực 1, 2, 3 và Vành đai 1: ranh giới theo từng giai đoạn",
+        "<p></p>"
+      ],
+      [
+        "Bảng tra: xe máy xăng, xe ôm công nghệ, xe máy điện, xe cũ trước 2008/2016",
+        "<p></p>"
+      ],
+      [
+        "Giờ cấm tối cuối tuần ở khu vực 1 và chỗ gửi xe bên ngoài",
+        "<p></p>"
+      ],
+      [
+        "Mốc 2027 và 2028: chuẩn bị gì nếu bạn ở hoặc làm việc trong Vành đai 1",
+        "<p></p>"
+      ],
+      [
+        "Đi xe thuê vào trung tâm: nên chọn xe xăng hay xe điện",
+        "<p></p>"
+      ],
+      [
+        "Văn bản gốc cần đối chiếu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/cong-bo-de-an-vung-phat-thai-thap-trong-vanh-dai-1-thanh-pho-ha-noi-119260703145217105.htm",
+        "quote": "Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn, 05/07/2026), 'Công bố Đề án Vùng phát thải thấp trong vành đai 1, thành phố Hà Nội': từ 01/7/2026 Hà Nội không cấm đồng loạt xe xăng trên toàn Vành đai 1 mà hạn chế tại Khu vực 1, 2 phường Hoàn Kiếm theo loại xe và khung giờ. Vành đai 1 gồm 9 phường: Hoàn Kiếm, Cửa Nam, Ba Đình, Giảng Võ, Ngọc Hà, Tây Hồ, Ô Chợ Dừa, Hai Bà Trưng, Văn Miếu - Quốc Tử Giám; ranh giới theo bản đồ kèm Quyết định 3273/QĐ-UBND. Lộ trình: GĐ1 01/7–31/12/2026 Khu vực 1, 2 (thí điểm); GĐ2 01/01–31/12/2027 Khu vực 1, 2, 3 (Hoàn Kiếm, Cửa Nam); GĐ3 01/01/2028–31/12/2029 toàn Vành đai 1; từ 01/01/2030 duy trì. Giờ cao điểm trong Đề án: 06:00–09:00 và 16:00–19:30.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/cong-bo-de-an-vung-phat-thai-thap-trong-vanh-dai-1-thanh-pho-ha-noi-119260703145217105.htm",
+        "quote": "Cùng trang: GĐ1 tại Khu vực 1 'cấm toàn bộ phương tiện giao thông đường bộ, gồm xe mô tô, xe gắn máy và các loại xe ô tô, từ 19 giờ 00 đến 24 giờ 00 các ngày thứ Sáu, thứ Bảy và Chủ nhật hằng tuần'. GĐ2: không cho phép xe mô tô, xe gắn máy dùng nhiên liệu hóa thạch hoạt động kinh doanh trên nền tảng ứng dụng kết nối vận tải lưu thông trong khu vực; với xe máy còn lại, khuyến khích hạn chế xe mô tô sản xuất/nhập khẩu trước 2008 và xe gắn máy trước 2016, khuyến khích chuyển sang xe xanh, xe đạt khí thải mức 3 trở lên. GĐ3: không cho phép xe mô tô, xe gắn máy không đạt quy chuẩn khí thải mức 3 theo QCVN 99:2025/BNNMT lưu thông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-5085660.html",
+        "quote": "VnExpress (Võ Hải, 15/6/2026), 'Hà Nội thí điểm vùng phát thải thấp tại vùng lõi Hoàn Kiếm': HĐND TP thông qua Đề án ngày 15/6. Khu vực 1 bao bởi 11 phố: Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ. Khu vực 2 bao bởi Hàng Đậu, Phùng Hưng, Tràng Thi, Hàng Khay, Tràng Tiền, Trần Quang Khải, Trần Nhật Duật. Xe ưu tiên và xe có giấy phép lưu thông được hoạt động 24/24. GĐ1 áp dụng theo hướng tuyên truyền, vận động. Khu vực 3 (2027) bao bởi 14 phố gồm Nguyễn Du, Hàn Thuyên, Trần Hưng Đạo, Trần Khánh Dư, Trần Quang Khải, Trần Nhật Duật, Hàng Đậu, Cửa Đông, Lý Nam Đế, Tôn Thất Thiệp, Điện Biên Phủ, Hàng Bông, Cửa Nam, Lê Duẩn. GĐ3 bổ sung cấm xe máy xăng (không phải xe ôm công nghệ) không đạt khí thải mức 3.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-5085660.html",
+        "quote": "VnExpress (15/6/2026): Vành đai 1 bao bởi các phố Hoàng Cầu, Đê La Thành, Ô Chợ Dừa, Xã Đàn, Đại Cồ Việt, Trần Khát Chân, Nguyễn Khoái, Trần Khánh Dư, Trần Quang Khải, Trần Nhật Duật, Yên Phụ, Nghi Tàm, Âu Cơ, An Dương Vương, Lạc Long Quân, Bưởi và Cầu Giấy; khu vực này có khoảng 600.000 xe mô tô, xe gắn máy.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026)",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00521"
+  }
+}
