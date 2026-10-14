@@ -1,0 +1,149 @@
+{
+  "writer": "writer-N",
+  "queued": "2026-10-14T05:26:51.459725+00:00",
+  "topic": {
+    "topic_id": "TM-00696",
+    "url": "/du-lich/den-noi-binh-da-thanh-oai/",
+    "title": "Đình (đền) Nội Bình Đà: nơi thờ Lạc Long Quân, 16 sắc phong, lễ hội",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền nội bình đà",
+    "secondary_keywords": [
+      "đình nội bình đà",
+      "lễ hội bình đà",
+      "đền thờ lạc long quân hà nội",
+      "bình đà thanh oai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn dâng hương Quốc Tổ Lạc Long Quân hoặc dự lễ hội Bình Đà cần biết đền ở đâu, thờ ai, có bảo vật gì và lễ hội rơi vào khoảng ngày nào.",
+    "information_gain": "Site chưa có bài về Bình Đà. /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ nói Đền Hùng (thờ Hùng Vương), /du-lich/den-hai-ba-trung-dong-nhan/ là đền thờ khác. Bài mới bổ sung: đình (đền) Nội Bình Đà thờ Lạc Long Quân, truyền thuyết 50 người con theo cha xuống đất Bảo Đà (Kẻ Nõi), 16 vị vua về dâng lễ và 16 sắc phong, phù điêu Lạc Long Quân là Bảo vật quốc gia năm 2015, xếp hạng năm 1985/1991, lễ hội Bình Đà là di sản phi vật thể quốc gia 1/4/2014, các nghi lễ rước sắc, tế và dâng hương và cảnh báo ngày hội thay đổi theo năm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bao-ton-phat-huy-gia-tri-di-tich-quoc-gia-dinh-den-noi-binh-da-tho-quoc-to-lac-long-quan-post760065.html",
+        "quote": "Báo Nhân Dân, 29/06/2023 (đọc 14/10/2026): Đình (Đền) Nội Bình Đà, xã Bình Minh, huyện Thanh Oai thờ Quốc Tổ Lạc Long Quân; được công nhận Di tích cấp quốc gia lần thứ nhất năm 1985 và Di tích lịch sử-văn hóa quốc gia năm 1991. Tương truyền 50 người con theo cha Lạc Long Quân đến đất Bảo Đà (Cổ Nõi, Kẻ Nõi, nay là Bình Đà); suốt sáu thế kỷ, 16 vị vua về Bình Đà dâng lễ; 16 sắc phong suy tôn Lạc Long Quân là 'Khai quốc thần' lưu ở Đình (Đền) Nội và Bảo tàng Lịch sử quốc gia. Bức phù điêu tạc hình Lạc Long Quân là Bảo vật quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/truoc-ngay-gio-to-hung-vuong-ve-binh-da-le-gio-quoc-to-lac-long-quan-20260331070534655.htm",
+        "quote": "Tuổi Trẻ Online, 31/03/2026 (đọc 14/10/2026): PGS.TS Đinh Quang Hải cho biết trong 600 năm có 16 vị vua về dâng lễ và ban 16 hiến sắc; sắc lưu ở Đình Nội và Bảo tàng Lịch sử Quốc gia. Lễ hội Bình Đà hằng năm diễn ra từ ngày 24-2 đến 6-3 âm lịch tại đền Nội, có lễ rước sắc, lễ tế và dâng hương Quốc Tổ. Đền nay thuộc xã Bình Minh, Hà Nội.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/le-hoi-binh-da-2026-thuc-day-phat-trien-du-lich-van-hoa-tam-linh-10411714.html",
+        "quote": "Báo Đại biểu Nhân dân, 30/03/2026 (đọc 14/10/2026): Lễ hội Bình Đà 2026 diễn ra từ ngày 20 - 22/4 (tức 4 - 6/3 âm lịch); xã Bình Minh có đền Nội Bình Đà, khu lăng mộ Quốc Tổ Lạc Long Quân và không gian lễ hội. Bức phù điêu (giá tượng) tại đình Nội chạm hình Lạc Long Quân cùng lạc tướng, lạc hầu được công nhận Bảo vật quốc gia năm 2015. Bài nhắc mốc 1/4/2014 lễ hội được đưa vào danh mục di sản văn hóa phi vật thể quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền nội bình đà"
+      }
+    ],
+    "notes": "Ngày hội không thống nhất: Tuổi Trẻ ghi 24-2 đến 6-3 âm lịch; Đại biểu Nhân dân ghi chính hội 2026 là 20–22/4 dương (4–6/3 âm); search snippet báo khác ghi 26/2–6/3 âm (chưa fetch) – trong bài nói 'cuối tháng Hai đến mùng 6 tháng Ba âm lịch, xem thông báo từng năm', không đưa vào tiêu đề. Mốc 1/4/2014 ghi nhận di sản phi vật thể chỉ được nêu trong bài Đại biểu Nhân dân dưới dạng ngữ cảnh – writer có thể trích kèm nguồn. Tên gọi 'đình' và 'đền' dùng song song. Chi tiết 'thả Bánh Thánh, quan họ trên hồ Thủy đình' chỉ thấy trong search snippet, chưa đọc đủ trang – không dùng nếu không fetch thêm. Tên huyện/xã trong nguồn là địa giới trước sắp xếp đơn vị hành chính 2025; writer cần ghi tên xã/phường hiện hành theo nguồn chính thức hoặc ghi rõ 'xã cũ'. Không có số km chính thức từ Long Biên; không tự tính quãng đường.",
+    "outline": [
+      "Đền Nội Bình Đà ở đâu, thờ ai",
+      "Truyền thuyết Lạc Long Quân và đất Kẻ Nõi",
+      "16 vị vua, 16 sắc phong",
+      "Bảo vật quốc gia: phù điêu Lạc Long Quân",
+      "Lễ hội Bình Đà: thời gian, nghi lễ",
+      "Đi lễ dịp hội bằng xe máy: gửi xe, đông người",
+      "Kết hợp với giỗ Tổ Hùng Vương"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/den-hai-ba-trung-dong-nhan/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00696.json",
+  "draft_template": {
+    "id": "TM-00696",
+    "url": "/du-lich/den-noi-binh-da-thanh-oai/",
+    "title": "Đình (đền) Nội Bình Đà: nơi thờ Lạc Long Quân, 16 sắc phong, lễ hội",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền nội bình đà, đình nội bình đà, lễ hội bình đà, đền thờ lạc long quân hà nội, bình đà thanh oai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Nội Bình Đà ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Truyền thuyết Lạc Long Quân và đất Kẻ Nõi",
+        "<p></p>"
+      ],
+      [
+        "16 vị vua, 16 sắc phong",
+        "<p></p>"
+      ],
+      [
+        "Bảo vật quốc gia: phù điêu Lạc Long Quân",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Bình Đà: thời gian, nghi lễ",
+        "<p></p>"
+      ],
+      [
+        "Đi lễ dịp hội bằng xe máy: gửi xe, đông người",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với giỗ Tổ Hùng Vương",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bao-ton-phat-huy-gia-tri-di-tich-quoc-gia-dinh-den-noi-binh-da-tho-quoc-to-lac-long-quan-post760065.html",
+        "quote": "Báo Nhân Dân, 29/06/2023 (đọc 14/10/2026): Đình (Đền) Nội Bình Đà, xã Bình Minh, huyện Thanh Oai thờ Quốc Tổ Lạc Long Quân; được công nhận Di tích cấp quốc gia lần thứ nhất năm 1985 và Di tích lịch sử-văn hóa quốc gia năm 1991. Tương truyền 50 người con theo cha Lạc Long Quân đến đất Bảo Đà (Cổ Nõi, Kẻ Nõi, nay là Bình Đà); suốt sáu thế kỷ, 16 vị vua về Bình Đà dâng lễ; 16 sắc phong suy tôn Lạc Long Quân là 'Khai quốc thần' lưu ở Đình (Đền) Nội và Bảo tàng Lịch sử quốc gia. Bức phù điêu tạc hình Lạc Long Quân là Bảo vật quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/truoc-ngay-gio-to-hung-vuong-ve-binh-da-le-gio-quoc-to-lac-long-quan-20260331070534655.htm",
+        "quote": "Tuổi Trẻ Online, 31/03/2026 (đọc 14/10/2026): PGS.TS Đinh Quang Hải cho biết trong 600 năm có 16 vị vua về dâng lễ và ban 16 hiến sắc; sắc lưu ở Đình Nội và Bảo tàng Lịch sử Quốc gia. Lễ hội Bình Đà hằng năm diễn ra từ ngày 24-2 đến 6-3 âm lịch tại đền Nội, có lễ rước sắc, lễ tế và dâng hương Quốc Tổ. Đền nay thuộc xã Bình Minh, Hà Nội.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/le-hoi-binh-da-2026-thuc-day-phat-trien-du-lich-van-hoa-tam-linh-10411714.html",
+        "quote": "Báo Đại biểu Nhân dân, 30/03/2026 (đọc 14/10/2026): Lễ hội Bình Đà 2026 diễn ra từ ngày 20 - 22/4 (tức 4 - 6/3 âm lịch); xã Bình Minh có đền Nội Bình Đà, khu lăng mộ Quốc Tổ Lạc Long Quân và không gian lễ hội. Bức phù điêu (giá tượng) tại đình Nội chạm hình Lạc Long Quân cùng lạc tướng, lạc hầu được công nhận Bảo vật quốc gia năm 2015. Bài nhắc mốc 1/4/2014 lễ hội được đưa vào danh mục di sản văn hóa phi vật thể quốc gia.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00696"
+  }
+}

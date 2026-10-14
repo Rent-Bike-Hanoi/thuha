@@ -1,0 +1,156 @@
+{
+  "writer": "writer-P",
+  "queued": "2026-10-14T05:26:52.901505+00:00",
+  "topic": {
+    "topic_id": "TM-00705",
+    "url": "/du-lich/chua-thai-lac-hung-yen/",
+    "title": "Chùa Thái Lạc Hưng Yên: chạm gỗ thời Trần, tiên nữ dâng hoa",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa thái lạc",
+    "secondary_keywords": [
+      "chùa pháp vân văn lâm",
+      "chùa thái lạc như quỳnh",
+      "chạm khắc thời trần"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mê kiến trúc cổ ở Hà Nội tìm một ngôi chùa gỗ thời Trần gần thành phố, muốn biết xem gì ở thượng điện và chùa nằm ở đâu.",
+    "information_gain": "Chưa có bài về chùa Thái Lạc. /du-lich/chua-dau-thuong-tin/ và /du-lich/chua-but-thap-bac-ninh/ nói chùa khác; bài mới nêu việc chùa là một trong ba kiến trúc gỗ thời Trần cổ nhất (cùng chùa Dâu, Bối Khê), di tích quốc gia đặc biệt theo QĐ 1820/QĐ-TTg ngày 24/12/2018, các mảng chạm tiên nữ đầu người mình chim dâng hoa, nhạc công cưỡi phượng, và cách nhìn đúng chỗ trên thượng điện.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/chua-thai-lac-tinh-hung-yen-3251",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Chùa Thái Lạc, tỉnh Hưng Yên': chùa còn gọi Pháp Vân tự, chùa Bà Cả, xã Lạc Hồng, huyện Văn Lâm; thờ Phật và thần Pháp Vân (Tứ Pháp gốc vùng Dâu); là một trong ba công trình kiến trúc gỗ cổ nhất Việt Nam khởi dựng thời Trần cùng chùa Dâu và chùa Bối Khê; tiền đường 09 gian; thượng điện 1 gian 2 chái, dài 10 m, rộng 8,5 m; lưu giữ 20 bức phù điêu gỗ phong cách thời Trần; hai bộ vì nóc gian giữa kiểu 'giá chiêng' chạm hai tiên nữ đầu người mình chim dâng hoa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/di-tich-quoc-gia-dac-biet-chua-thai-lac-23278.html",
+        "quote": "Báo Hưng Yên điện tử: ngày 24/12/2018 Thủ tướng ban hành Quyết định 1820/QĐ-TTg xếp hạng di tích quốc gia đặc biệt cho chùa Thái Lạc, thôn Quang Trung, xã Lạc Hồng, huyện Văn Lâm; năm 1964 được Bộ Văn hóa - Thông tin xếp hạng di tích kiến trúc nghệ thuật; kiến trúc 'nội công ngoại quốc' gồm 5 gian tiền đường, 3 gian thượng điện, 2 dãy hành lang mỗi bên 9 gian, nhà tổ 7 gian; khi còn nguyên vẹn có khoảng 20 bức chạm nổi, nay còn 16 bức.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/chua-thai-lac-noi-luu-giu-tinh-hoa-nghe-thuat-cham-khac-go-thoi-tran-post1141051.vnp",
+        "quote": "Vietnam+ (13/10/2026): chùa Thái Lạc, xã Như Quỳnh, tỉnh Hưng Yên; trở thành Di tích quốc gia đặc biệt năm 2018; khởi dựng thời Trần, trùng tu thời Mạc, Lê, Nguyễn; hồ sơ di tích ghi 20 bức phù điêu, một số tư liệu ghi còn 16 bức; có đề tài nhạc công ngồi trên lưng chim phượng tấu đàn tỳ bà, đàn nguyệt, nhị, tiêu, sáo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/van-lam-don-bang-xep-hang-di-tich-quoc-gia-dac-biet-chua-thai-lac-12251.html",
+        "quote": "Báo Hưng Yên điện tử: lễ đón Bằng xếp hạng di tích quốc gia đặc biệt; cùng dịp khai mạc lễ hội cầu mưa xã Lạc Hồng năm 2021 từ 17.4 đến 19.4 (mùng 6 đến mùng 8 tháng 3 âm lịch).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa thái lạc"
+      }
+    ],
+    "notes": "Mâu thuẫn số phù điêu: 20 (Cục DSVH, hồ sơ) vs còn 16 (Báo Hưng Yên) — nêu cả hai, không đưa số vào tiêu đề. Số gian tiền đường: 9 (Cục DSVH) vs 5 (Báo Hưng Yên) — nêu mâu thuẫn. Địa danh: xã Lạc Hồng, huyện Văn Lâm (cũ) → xã Như Quỳnh (Vietnam+ 2026). Lịch hội cầu mưa mùng 6–8/3 âm lịch là theo năm 2021. Không có nguồn về giờ mở cửa, quãng đường.",
+    "outline": [
+      "Chùa Thái Lạc ở đâu, tên gọi Pháp Vân, chùa Bà Cả",
+      "Vì sao là di tích quốc gia đặc biệt",
+      "Đi qua tam quan, tiền đường đến thượng điện",
+      "Các mảng chạm thời Trần: tiên nữ dâng hoa, nhạc công cưỡi phượng",
+      "Hội cầu mưa tháng Ba và lưu ý khi tham quan",
+      "Kết hợp chùa Nôm cùng chuyến"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-dau-thuong-tin/",
+      "/du-lich/chua-but-thap-bac-ninh/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/chua-nom-lang-nom-hung-yen/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00705.json",
+  "draft_template": {
+    "id": "TM-00705",
+    "url": "/du-lich/chua-thai-lac-hung-yen/",
+    "title": "Chùa Thái Lạc Hưng Yên: chạm gỗ thời Trần, tiên nữ dâng hoa",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa thái lạc, chùa pháp vân văn lâm, chùa thái lạc như quỳnh, chạm khắc thời trần",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Thái Lạc ở đâu, tên gọi Pháp Vân, chùa Bà Cả",
+        "<p></p>"
+      ],
+      [
+        "Vì sao là di tích quốc gia đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Đi qua tam quan, tiền đường đến thượng điện",
+        "<p></p>"
+      ],
+      [
+        "Các mảng chạm thời Trần: tiên nữ dâng hoa, nhạc công cưỡi phượng",
+        "<p></p>"
+      ],
+      [
+        "Hội cầu mưa tháng Ba và lưu ý khi tham quan",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp chùa Nôm cùng chuyến",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/chua-thai-lac-tinh-hung-yen-3251",
+        "quote": "Cục Di sản văn hóa (dsvh.gov.vn), trang 'Chùa Thái Lạc, tỉnh Hưng Yên': chùa còn gọi Pháp Vân tự, chùa Bà Cả, xã Lạc Hồng, huyện Văn Lâm; thờ Phật và thần Pháp Vân (Tứ Pháp gốc vùng Dâu); là một trong ba công trình kiến trúc gỗ cổ nhất Việt Nam khởi dựng thời Trần cùng chùa Dâu và chùa Bối Khê; tiền đường 09 gian; thượng điện 1 gian 2 chái, dài 10 m, rộng 8,5 m; lưu giữ 20 bức phù điêu gỗ phong cách thời Trần; hai bộ vì nóc gian giữa kiểu 'giá chiêng' chạm hai tiên nữ đầu người mình chim dâng hoa.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/di-tich-quoc-gia-dac-biet-chua-thai-lac-23278.html",
+        "quote": "Báo Hưng Yên điện tử: ngày 24/12/2018 Thủ tướng ban hành Quyết định 1820/QĐ-TTg xếp hạng di tích quốc gia đặc biệt cho chùa Thái Lạc, thôn Quang Trung, xã Lạc Hồng, huyện Văn Lâm; năm 1964 được Bộ Văn hóa - Thông tin xếp hạng di tích kiến trúc nghệ thuật; kiến trúc 'nội công ngoại quốc' gồm 5 gian tiền đường, 3 gian thượng điện, 2 dãy hành lang mỗi bên 9 gian, nhà tổ 7 gian; khi còn nguyên vẹn có khoảng 20 bức chạm nổi, nay còn 16 bức.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/chua-thai-lac-noi-luu-giu-tinh-hoa-nghe-thuat-cham-khac-go-thoi-tran-post1141051.vnp",
+        "quote": "Vietnam+ (13/10/2026): chùa Thái Lạc, xã Như Quỳnh, tỉnh Hưng Yên; trở thành Di tích quốc gia đặc biệt năm 2018; khởi dựng thời Trần, trùng tu thời Mạc, Lê, Nguyễn; hồ sơ di tích ghi 20 bức phù điêu, một số tư liệu ghi còn 16 bức; có đề tài nhạc công ngồi trên lưng chim phượng tấu đàn tỳ bà, đàn nguyệt, nhị, tiêu, sáo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/van-lam-don-bang-xep-hang-di-tich-quoc-gia-dac-biet-chua-thai-lac-12251.html",
+        "quote": "Báo Hưng Yên điện tử: lễ đón Bằng xếp hạng di tích quốc gia đặc biệt; cùng dịp khai mạc lễ hội cầu mưa xã Lạc Hồng năm 2021 từ 17.4 đến 19.4 (mùng 6 đến mùng 8 tháng 3 âm lịch).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00705"
+  }
+}

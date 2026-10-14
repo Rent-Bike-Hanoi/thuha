@@ -1,0 +1,156 @@
+{
+  "writer": "writer-Q",
+  "queued": "2026-10-14T05:26:53.715896+00:00",
+  "topic": {
+    "topic_id": "TM-00711",
+    "url": "/du-lich/thanh-xuong-giang/",
+    "title": "Thành Xương Giang: di tích quốc gia đặc biệt, hội mùng 5–7 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thành xương giang",
+    "secondary_keywords": [
+      "chiến thắng xương giang",
+      "lễ hội xương giang",
+      "đền xương giang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người quan tâm lịch sử khởi nghĩa Lam Sơn muốn đến nơi thành Xương Giang xưa, cần biết còn gì để xem và lễ hội đầu xuân.",
+    "information_gain": "Chưa có bài nào về Xương Giang. Bài gần nhất /du-lich/ai-chi-lang-lang-son/ nói ải Chi Lăng (đầu kia chiến dịch Chi Lăng – Xương Giang). Bài mới nêu thành quân Minh xây 1407 rộng khoảng 27 ha, trận 1427, xếp hạng di tích quốc gia đặc biệt 31/12/2019, lễ hội mùng 5–7 tháng Giêng (di sản phi vật thể quốc gia, QĐ 3443/QĐ-BVHTTDL).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/hao-khi-xuong-giang-vang-vong-qua-sau-the-ky-205635.html",
+        "quote": "Báo Văn Hóa (20/2/2026): thành Xương Giang do quân Minh xây năm 1407, nay thuộc phường Bắc Giang (tỉnh Bắc Ninh); hình chữ nhật rộng khoảng 27 ha; dấu tích vật chất còn lại không nhiều; năm 1427 nghĩa quân Lam Sơn phá quân Minh do Liễu Thăng cầm đầu; lễ hội hằng năm mùng 5–7 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-776511.html",
+        "quote": "Báo Nhân Dân (8/10/2023): ngày 31/12/2019 Thủ tướng ký quyết định công nhận Địa điểm chiến thắng Xương Giang, thành phố Bắc Giang là di tích quốc gia đặc biệt; thành cổ do quân Minh xây thế kỷ XV (1407).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cong-bo-le-hoi-xuong-giang-la-di-san-van-hoa-phi-vat-the-quoc-gia-post796207.html",
+        "quote": "Báo Nhân Dân (14/2/2024): Quyết định 3443/QĐ-BVHTTDL ngày 10/11/2023 đưa Lễ hội truyền thống Xương Giang vào danh mục di sản phi vật thể quốc gia; từ năm 1998 lễ hội tổ chức quy mô cấp thành phố tại khu vực trận chiến xưa; chiến thắng 1427 chấm dứt 20 năm đô hộ nhà Minh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/bac-ninh-khai-mac-le-hoi-599-nam-chien-thang-xuong-giang-a305934.html",
+        "quote": "Thương hiệu và Công luận (22/2/2026): khai mạc Lễ hội 599 năm ngày 21/2/2026 (mùng 5 Tết) do phường Bắc Giang (Bắc Ninh) tổ chức; sau hơn 6 tháng bao vây với hơn 30 trận lớn nhỏ, nghĩa quân hạ thành; ngày 22–23/2 có trình diễn chèo, quan họ, ca trù, trò chơi dân gian, chợ quê.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thành xương giang"
+      }
+    ],
+    "notes": "Một số trang du lịch ghi năm xếp hạng đặc biệt là 2009 — sai so với Nhân Dân (31/12/2019); dùng 2019. Con số '10 vạn quân Minh' (Nhân Dân 2024) là cách nói của bài diễn văn, nếu dùng phải ghi nguồn. Chưa có nguồn về giờ mở, vé, chỗ gửi xe.",
+    "outline": [
+      "Thành Xương Giang ở đâu (phường Bắc Giang, Bắc Ninh)",
+      "Thành quân Minh 1407 và trận 1427",
+      "Hôm nay còn gì để xem: đền Xương Giang, khu di tích",
+      "Lễ hội mùng 5–7 tháng Giêng",
+      "Đi trên quốc lộ 1 từ Hà Nội: lưu ý",
+      "Nối chuyến sang ải Chi Lăng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ai-chi-lang-lang-son/",
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/chua-vinh-nghiem-bac-ninh/",
+      "/du-lich/ha-noi/ben-xe-gia-lam/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00711.json",
+  "draft_template": {
+    "id": "TM-00711",
+    "url": "/du-lich/thanh-xuong-giang/",
+    "title": "Thành Xương Giang: di tích quốc gia đặc biệt, hội mùng 5–7 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thành xương giang, chiến thắng xương giang, lễ hội xương giang, đền xương giang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thành Xương Giang ở đâu (phường Bắc Giang, Bắc Ninh)",
+        "<p></p>"
+      ],
+      [
+        "Thành quân Minh 1407 và trận 1427",
+        "<p></p>"
+      ],
+      [
+        "Hôm nay còn gì để xem: đền Xương Giang, khu di tích",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội mùng 5–7 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Đi trên quốc lộ 1 từ Hà Nội: lưu ý",
+        "<p></p>"
+      ],
+      [
+        "Nối chuyến sang ải Chi Lăng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/hao-khi-xuong-giang-vang-vong-qua-sau-the-ky-205635.html",
+        "quote": "Báo Văn Hóa (20/2/2026): thành Xương Giang do quân Minh xây năm 1407, nay thuộc phường Bắc Giang (tỉnh Bắc Ninh); hình chữ nhật rộng khoảng 27 ha; dấu tích vật chất còn lại không nhiều; năm 1427 nghĩa quân Lam Sơn phá quân Minh do Liễu Thăng cầm đầu; lễ hội hằng năm mùng 5–7 tháng Giêng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-776511.html",
+        "quote": "Báo Nhân Dân (8/10/2023): ngày 31/12/2019 Thủ tướng ký quyết định công nhận Địa điểm chiến thắng Xương Giang, thành phố Bắc Giang là di tích quốc gia đặc biệt; thành cổ do quân Minh xây thế kỷ XV (1407).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cong-bo-le-hoi-xuong-giang-la-di-san-van-hoa-phi-vat-the-quoc-gia-post796207.html",
+        "quote": "Báo Nhân Dân (14/2/2024): Quyết định 3443/QĐ-BVHTTDL ngày 10/11/2023 đưa Lễ hội truyền thống Xương Giang vào danh mục di sản phi vật thể quốc gia; từ năm 1998 lễ hội tổ chức quy mô cấp thành phố tại khu vực trận chiến xưa; chiến thắng 1427 chấm dứt 20 năm đô hộ nhà Minh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/bac-ninh-khai-mac-le-hoi-599-nam-chien-thang-xuong-giang-a305934.html",
+        "quote": "Thương hiệu và Công luận (22/2/2026): khai mạc Lễ hội 599 năm ngày 21/2/2026 (mùng 5 Tết) do phường Bắc Giang (Bắc Ninh) tổ chức; sau hơn 6 tháng bao vây với hơn 30 trận lớn nhỏ, nghĩa quân hạ thành; ngày 22–23/2 có trình diễn chèo, quan họ, ca trù, trò chơi dân gian, chợ quê.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00711"
+  }
+}

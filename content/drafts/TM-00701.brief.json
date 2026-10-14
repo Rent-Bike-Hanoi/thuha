@@ -1,0 +1,144 @@
+{
+  "writer": "writer-O",
+  "queued": "2026-10-14T05:26:52.290011+00:00",
+  "topic": {
+    "topic_id": "TM-00701",
+    "url": "/du-lich/lang-banh-chung-tranh-khuc/",
+    "title": "Làng bánh chưng Tranh Khúc Thanh Trì: làng nghề truyền thống từ 2011",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng bánh chưng tranh khúc",
+    "secondary_keywords": [
+      "bánh chưng tranh khúc",
+      "làng tranh khúc duyên hà",
+      "mua bánh chưng tranh khúc",
+      "đặt bánh chưng tết hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội muốn đặt hoặc tận mắt xem gói, luộc bánh chưng Tết ở làng nghề gần thành phố cần biết Tranh Khúc ở đâu, bánh làm thế nào, mùa nào đông nhất.",
+    "information_gain": "Site chưa có bài về Tranh Khúc. /du-lich/cau-thanh-tri-xe-may/ chỉ nói cây cầu, /du-lich/lang-gom-bat-trang/ là làng nghề khác phía Nam sông Hồng. Bài mới bổ sung: vị trí thôn Tranh Khúc xã Duyên Hà (cũ), làng nghề truyền thống công nhận năm 2011, có mã vạch riêng, nguyên liệu (nếp cái hoa vàng Hải Hậu, lá dong từ Hà Giang, Thanh Hóa, Nghệ An, đỗ xanh, thịt ba chỉ), thời gian luộc 9–10 tiếng, công suất Tết tăng 3–4 lần và có cơ sở 3.000–3.500 bánh/ngày, và lời khuyên đi xem/đặt bánh dịp cận Tết.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/lang-nghe-chuan-bi-hang-tet-post852170.html",
+        "quote": "Báo Nhân Dân, 24/12/2024 (đọc 14/10/2026): Từ năm 2011, làng nghề bánh chưng Tranh Khúc, xã Duyên Hà, huyện Thanh Trì được UBND TP Hà Nội công nhận Làng nghề truyền thống; bánh có hệ thống mã vạch riêng. Dịp Tết công suất tăng gấp ba, bốn lần ngày thường, nhiều cơ sở xuất khẩu; không ít cơ sở sản xuất 3.000 đến 3.500 bánh chưng mỗi ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/lang-banh-chung-lon-nhat-hn-vang-lang-mua-tet-157767.html",
+        "quote": "VietNamNet, 'Làng bánh chưng lớn nhất HN vắng lặng mùa Tết' (ngày đăng không rõ, đọc 14/10/2026): Trưởng thôn Tranh Khúc nói thôn có hơn 100 hộ trong tổng số 250 hộ theo nghề; gạo phải là nếp cái hoa vàng Hải Hậu (Nam Định), Hải Dương; lá dong nếp từ Hà Giang, Thanh Hóa, Nghệ An; người làng gói bánh nhanh, vuông vức; bánh luộc 9- 10 tiếng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/lang-nghe-goi-banh-chung-tat-bat-ngay-can-tet-10358085.html",
+        "quote": "Báo Đại biểu Nhân dân, 25/01/2025 (đọc 14/10/2026): Những ngày cận Tết, làng Tranh Khúc (xã Duyên Hà, huyện Thanh Trì) tất bật gói bánh; nhân bánh dùng đỗ xanh xay, đồ chín cùng thịt ba chỉ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng bánh chưng tranh khúc"
+      }
+    ],
+    "notes": "Số hộ không thống nhất: VietNamNet (bài cũ) hơn 100/250 hộ; snippet VOV nói 400 hộ (trang VOV không tải được – không dùng). Câu 'mỗi gia đình 6000 nghìn chiếc' trong VietNamNet là lỗi đánh máy – không dùng. Giá bánh (snippet VOV 3.000/10.000đ) chưa xác minh – không đưa giá. Nhân Dân 24/12/2024 cũng nhắc HTX Hữu Hòa 'gần 50 cơ sở' – đó là làng khác (Hữu Hòa), không gán cho Tranh Khúc. Không giới thiệu cơ sở cụ thể. Tên huyện/xã trong nguồn là địa giới trước sắp xếp đơn vị hành chính 2025; writer cần ghi tên xã/phường hiện hành theo nguồn chính thức hoặc ghi rõ 'xã cũ'. Không có số km chính thức từ Long Biên; không tự tính quãng đường.",
+    "outline": [
+      "Làng Tranh Khúc ở đâu",
+      "Làng nghề truyền thống từ 2011",
+      "Nguyên liệu và cách gói, luộc",
+      "Mùa cao điểm Tết: công suất",
+      "Đến xem và đặt bánh: lưu ý",
+      "Đi xe máy từ Long Biên qua cầu Thanh Trì"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cau-thanh-tri-xe-may/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00701.json",
+  "draft_template": {
+    "id": "TM-00701",
+    "url": "/du-lich/lang-banh-chung-tranh-khuc/",
+    "title": "Làng bánh chưng Tranh Khúc Thanh Trì: làng nghề truyền thống từ 2011",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng bánh chưng tranh khúc, bánh chưng tranh khúc, làng tranh khúc duyên hà, mua bánh chưng tranh khúc, đặt bánh chưng tết hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Tranh Khúc ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Làng nghề truyền thống từ 2011",
+        "<p></p>"
+      ],
+      [
+        "Nguyên liệu và cách gói, luộc",
+        "<p></p>"
+      ],
+      [
+        "Mùa cao điểm Tết: công suất",
+        "<p></p>"
+      ],
+      [
+        "Đến xem và đặt bánh: lưu ý",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên qua cầu Thanh Trì",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/lang-nghe-chuan-bi-hang-tet-post852170.html",
+        "quote": "Báo Nhân Dân, 24/12/2024 (đọc 14/10/2026): Từ năm 2011, làng nghề bánh chưng Tranh Khúc, xã Duyên Hà, huyện Thanh Trì được UBND TP Hà Nội công nhận Làng nghề truyền thống; bánh có hệ thống mã vạch riêng. Dịp Tết công suất tăng gấp ba, bốn lần ngày thường, nhiều cơ sở xuất khẩu; không ít cơ sở sản xuất 3.000 đến 3.500 bánh chưng mỗi ngày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/lang-banh-chung-lon-nhat-hn-vang-lang-mua-tet-157767.html",
+        "quote": "VietNamNet, 'Làng bánh chưng lớn nhất HN vắng lặng mùa Tết' (ngày đăng không rõ, đọc 14/10/2026): Trưởng thôn Tranh Khúc nói thôn có hơn 100 hộ trong tổng số 250 hộ theo nghề; gạo phải là nếp cái hoa vàng Hải Hậu (Nam Định), Hải Dương; lá dong nếp từ Hà Giang, Thanh Hóa, Nghệ An; người làng gói bánh nhanh, vuông vức; bánh luộc 9- 10 tiếng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/lang-nghe-goi-banh-chung-tat-bat-ngay-can-tet-10358085.html",
+        "quote": "Báo Đại biểu Nhân dân, 25/01/2025 (đọc 14/10/2026): Những ngày cận Tết, làng Tranh Khúc (xã Duyên Hà, huyện Thanh Trì) tất bật gói bánh; nhân bánh dùng đỗ xanh xay, đồ chín cùng thịt ba chỉ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00701"
+  }
+}

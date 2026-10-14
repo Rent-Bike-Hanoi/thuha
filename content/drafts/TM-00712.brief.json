@@ -1,0 +1,144 @@
+{
+  "writer": "writer-Q",
+  "queued": "2026-10-14T05:26:53.933541+00:00",
+  "topic": {
+    "topic_id": "TM-00712",
+    "url": "/du-lich/dinh-hang-kenh-hai-phong/",
+    "title": "Đình Hàng Kênh Hải Phòng: đình hơn 300 năm thờ Ngô Quyền, tour đêm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đình hàng kênh",
+    "secondary_keywords": [
+      "tour đêm dấu thiêng hàng kênh",
+      "đình hàng kênh lê chân",
+      "đình thờ ngô quyền hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đến nội thành Hải Phòng muốn thăm một đình cổ và hỏi về tour đêm 'Dấu thiêng Hàng Kênh': lịch, giá vé và nội dung.",
+    "information_gain": "/du-lich/chua-du-hang-hai-phong/ chỉ nhắc tên xã Dư Hàng Kênh cũ; /du-lich/den-nghe-hai-phong/ và /du-lich/nha-hat-lon-hai-phong/ là điểm khác. Bài mới nói riêng về đình Hàng Kênh: thờ Ngô Quyền, xếp hạng quốc gia 1962, văn bia khoa bảng 1460–1693, chạm khắc, và tour đêm 3D mapping (thứ Tư, thứ Bảy, Chủ nhật, 18h30–21h, giá vé công bố 2025).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hai-phong-ra-mat-tour-du-lich-dem-co-trinh-dien-3d-mapping-post1047009.vnp",
+        "quote": "Vietnam+ (29/6/2025): tối 28/6 ra mắt tour đêm 'Dấu thiêng Hàng Kênh' tại đình Hàng Kênh, quận Lê Chân; đình xây hơn 300 năm trước, thờ 'Quốc tổ trung hưng' Ngô Quyền; còn văn bia ghi danh khoa bảng 1460–1693; được xếp hạng cấp quốc gia năm 1962; tour diễn ra thứ Tư, thứ Bảy, Chủ nhật hằng tuần; show 3D mapping 'Sóng Bạch Đằng hào khí Ngô Quyền' 5 phân đoạn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/hai-phong-ra-mat-tour-dem-dau-thieng-hang-kenh-d316086.html",
+        "quote": "Báo Đầu tư (6/2025): tour đêm đầu tiên của Hải Phòng; có rối nước trên hồ bán nguyệt, dâng hương, chèo, ca trù, hát cửa đình; diễn ra thứ 4, thứ 7, chủ nhật từ 18h30–21h00 tại số 47 Nguyễn Công Trứ, quận Lê Chân; giá vé 300.000 đồng/người lớn, 150.000 đồng/trẻ em cao 1–1,3 m, miễn phí trẻ dưới 1 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/dau-thieng-hang-kenh-tour-dem-dau-tien-tai-hai-phong-ket-hop-nghe-thuat-truyen-thong-va-cong-nghe-so-a268588.html",
+        "quote": "Thương hiệu và Công luận (29/6/2025): Bảo tàng và Thư viện Hải Phòng phối hợp L’Héritage khai trương tour; đình là Di tích kiến trúc nghệ thuật cấp quốc gia, xây hơn 300 năm; tour có viết thư pháp, in tranh Đông Hồ, ẩm thực; chính thức khai thác từ 28/6/2025; giá vé như trên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình hàng kênh"
+      }
+    ],
+    "notes": "Giá và lịch tour là thông tin công bố tháng 6/2025, có thể đã đổi — không đưa giá vào tiêu đề, ghi rõ ngày nguồn và khuyên kiểm tra trước. Địa chỉ ghi quận Lê Chân (cũ); tên phường mới chưa xác minh. Chưa có nguồn về giờ mở cửa ban ngày, vé ban ngày. Snippet nói 'di tích đặc biệt quan trọng' — không phải 'quốc gia đặc biệt', không viết sai.",
+    "outline": [
+      "Đình Hàng Kênh ở đâu",
+      "Đình thờ Ngô Quyền và văn bia khoa bảng",
+      "Xem gì: kiến trúc, chạm khắc",
+      "Tour đêm 'Dấu thiêng Hàng Kênh': lịch, giá vé (công bố 2025)",
+      "Ghép với chùa Hàng, đền Nghè, Bạch Đằng Giang",
+      "Lưu ý gửi xe, đi buổi tối"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-du-hang-hai-phong/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/nha-hat-lon-hai-phong/",
+      "/du-lich/bao-tang-hai-phong/",
+      "/du-lich/khu-di-tich-bach-dang-giang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00712.json",
+  "draft_template": {
+    "id": "TM-00712",
+    "url": "/du-lich/dinh-hang-kenh-hai-phong/",
+    "title": "Đình Hàng Kênh Hải Phòng: đình hơn 300 năm thờ Ngô Quyền, tour đêm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình hàng kênh, tour đêm dấu thiêng hàng kênh, đình hàng kênh lê chân, đình thờ ngô quyền hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Hàng Kênh ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Đình thờ Ngô Quyền và văn bia khoa bảng",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: kiến trúc, chạm khắc",
+        "<p></p>"
+      ],
+      [
+        "Tour đêm 'Dấu thiêng Hàng Kênh': lịch, giá vé (công bố 2025)",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chùa Hàng, đền Nghè, Bạch Đằng Giang",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý gửi xe, đi buổi tối",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hai-phong-ra-mat-tour-du-lich-dem-co-trinh-dien-3d-mapping-post1047009.vnp",
+        "quote": "Vietnam+ (29/6/2025): tối 28/6 ra mắt tour đêm 'Dấu thiêng Hàng Kênh' tại đình Hàng Kênh, quận Lê Chân; đình xây hơn 300 năm trước, thờ 'Quốc tổ trung hưng' Ngô Quyền; còn văn bia ghi danh khoa bảng 1460–1693; được xếp hạng cấp quốc gia năm 1962; tour diễn ra thứ Tư, thứ Bảy, Chủ nhật hằng tuần; show 3D mapping 'Sóng Bạch Đằng hào khí Ngô Quyền' 5 phân đoạn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/hai-phong-ra-mat-tour-dem-dau-thieng-hang-kenh-d316086.html",
+        "quote": "Báo Đầu tư (6/2025): tour đêm đầu tiên của Hải Phòng; có rối nước trên hồ bán nguyệt, dâng hương, chèo, ca trù, hát cửa đình; diễn ra thứ 4, thứ 7, chủ nhật từ 18h30–21h00 tại số 47 Nguyễn Công Trứ, quận Lê Chân; giá vé 300.000 đồng/người lớn, 150.000 đồng/trẻ em cao 1–1,3 m, miễn phí trẻ dưới 1 m.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/dau-thieng-hang-kenh-tour-dem-dau-tien-tai-hai-phong-ket-hop-nghe-thuat-truyen-thong-va-cong-nghe-so-a268588.html",
+        "quote": "Thương hiệu và Công luận (29/6/2025): Bảo tàng và Thư viện Hải Phòng phối hợp L’Héritage khai trương tour; đình là Di tích kiến trúc nghệ thuật cấp quốc gia, xây hơn 300 năm; tour có viết thư pháp, in tranh Đông Hồ, ẩm thực; chính thức khai thác từ 28/6/2025; giá vé như trên.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00712"
+  }
+}

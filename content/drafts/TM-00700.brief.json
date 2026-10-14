@@ -1,0 +1,157 @@
+{
+  "writer": "writer-O",
+  "queued": "2026-10-14T05:26:52.096312+00:00",
+  "topic": {
+    "topic_id": "TM-00700",
+    "url": "/du-lich/chua-khai-nguyen-son-tay/",
+    "title": "Chùa Khai Nguyên Sơn Tây: đại tượng Phật A Di Đà, Cổ Liêu tự, đi thế nào",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa khai nguyên",
+    "secondary_keywords": [
+      "chùa khai nguyên sơn tây",
+      "tượng phật a di đà sơn tây",
+      "cổ liêu tự",
+      "chùa tản viên sơn quốc tự"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn chiêm bái đại tượng Phật A Di Đà ở Sơn Tây cần biết chùa ở đâu, tượng cao bao nhiêu theo các nguồn, bên trong tượng có gì và kết hợp với Đường Lâm, thành Sơn Tây thế nào.",
+    "information_gain": "Site có /du-lich/thanh-co-son-tay-di-xe-may/ và /du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ nhưng toàn văn chưa nhắc chùa Khai Nguyên. Bài mới bổ sung: tên Cổ Liêu tự, chùa Tản Viên/Tản Viên Sơn Quốc Tự, vị trí thôn Tây Ninh/Khoang Sau xã Sơn Đông (cũ), lịch sử phế tích – trùng tu từ 2003 dưới đại đức Thích Đạo Thịnh, đại tượng A Di Đà khởi công 2015, các tầng thờ (Tổ sư, 33 hóa thân Quan Âm, Đại Nhật Như Lai, Dược Sư) và trái tim ngọc bích hơn một tấn ở tầng 12, kèm bảng các số liệu chiều cao/niên đại mà nguồn không thống nhất.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/chiem-bai-dai-tuong-phat-a-di-da-cao-72m-tai-chua-khai-nguyen-ha-noi-post1124350.vnp",
+        "quote": "Vietnam+ (TTXVN), phóng sự ảnh (đọc 14/10/2026): Chùa Khai Nguyên (Cổ Liêu Tự) ở thôn Tây Ninh, xã Sơn Đông, thị xã Sơn Tây; theo bia ký xây từ nửa đầu thế kỷ 16, từng xuống cấp gần thành phế tích. Năm 2003 đại đức Thích Đạo Thịnh về tu bổ, xây lại. Năm 2015 bắt đầu dựng đại tượng Phật A Di Đà, cao 72m. Tầng 1 thờ chư vị Tổ sư, tầng 2 thờ 33 hóa thân Quan Thế Âm, tầng 3 thờ Đại Nhật Như Lai và Ngũ Phương Phật, tầng 4 thờ Phật Dược Sư; tầng 12 thờ trái tim Phật A Di Đà tạc bằng ngọc bích Nephrite Canada nguyên khối nặng hơn một tấn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/chua-khai-nguyen-dia-diem-tam-linh-nuc-tieng-vung-son-tay-11945",
+        "quote": "MIA.vn (blog du lịch, đọc 14/10/2026): Chùa Khai Nguyên còn gọi chùa Tản Viên, tên hiệu Tản Viên Sơn Quốc Tự; ghi niên đại từ thời Lý nửa đầu thế kỷ XI; chùa tọa lạc tại thôn Khoang Sau, xã Sơn Đông, thị xã Sơn Tây; có tượng A Di Đà được giới thiệu là lớn nhất Đông Nam Á.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.greensm.com/vn-vi/news/chua-khai-nguyen-ha-noi",
+        "quote": "Green SM (blog doanh nghiệp, 05/12/2024, đọc 14/10/2026): Chùa còn gọi Cổ Liêu Tự và chùa Leo, cách trung tâm Hà Nội khoảng 45km; trụ trì là đại đức Thích Đạo Thịnh; ghi chùa xây thế kỷ 16 thời Lê sơ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://ngoisao.vn/ky-quac-trash/chuyen-la-viet-nam-trash/can-canh-pho-tuong-phat-khong-lo-lon-nhat-dong-nam-a-dang-hoan-thien-gan-ngay-trung-tam-ha-noi-d259004.html",
+        "quote": "Ngôi Sao, 05/03/2019 (đọc 14/10/2026): Pho tượng A Di Đà cao 70m tại chùa Khai Nguyên (Sơn Tây), còn gọi chùa Tản Viên; chùa ghi niên đại thời Lý nửa đầu thế kỷ XI, được tôn tạo từ năm 2008; khởi công tượng năm 2015, kết cấu khung dầm bê tông; nhắc có xe buýt tuyến 74.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa khai nguyên"
+      }
+    ],
+    "notes": "Nhiều số liệu mâu thuẫn, KHÔNG đưa vào tiêu đề: chiều cao tượng 72 m (Vietnam+) vs 70 m (Ngôi Sao, Mytour); niên đại thế kỷ 16 (Vietnam+ theo bia ký, Green SM) vs thời Lý thế kỷ XI (MIA, Ngôi Sao); năm trùng tu 2003 (Vietnam+) vs 2008 (Ngôi Sao); khoảng cách 45 km (Green SM) vs 20 km (Ngôi Sao, rõ là sai); thôn Tây Ninh (Vietnam+) vs Khoang Sau (MIA); tên dân gian 'chùa Leo' vs 'chùa Cheo'. 'Lớn nhất Đông Nam Á' là cách báo/blog gọi, không có xác nhận kỷ lục – viết 'được giới thiệu là'. Chưa rõ tượng đã hoàn thiện/mở cửa các tầng cho khách chưa, giờ mở cửa, quy định trang phục – không tự thêm. Không có xếp hạng di tích được xác minh. Tuyến buýt 74 là thông tin 2019, không dùng. Ngày đăng Vietnam+ không đọc được chắc chắn. Tên huyện/xã trong nguồn là địa giới trước sắp xếp đơn vị hành chính 2025; writer cần ghi tên xã/phường hiện hành theo nguồn chính thức hoặc ghi rõ 'xã cũ'. Không có số km chính thức từ Long Biên; không tự tính quãng đường.",
+    "outline": [
+      "Chùa Khai Nguyên ở đâu, các tên gọi",
+      "Từ phế tích đến trùng tu",
+      "Đại tượng Phật A Di Đà: các tầng thờ",
+      "Những con số nguồn còn lệch nhau",
+      "Đi lễ: trang phục, ứng xử",
+      "Đi xe máy, ghép lịch Đường Lâm – thành Sơn Tây"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-co-son-tay-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/khu-du-lich-ao-vua-ba-vi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00700.json",
+  "draft_template": {
+    "id": "TM-00700",
+    "url": "/du-lich/chua-khai-nguyen-son-tay/",
+    "title": "Chùa Khai Nguyên Sơn Tây: đại tượng Phật A Di Đà, Cổ Liêu tự, đi thế nào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa khai nguyên, chùa khai nguyên sơn tây, tượng phật a di đà sơn tây, cổ liêu tự, chùa tản viên sơn quốc tự",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Khai Nguyên ở đâu, các tên gọi",
+        "<p></p>"
+      ],
+      [
+        "Từ phế tích đến trùng tu",
+        "<p></p>"
+      ],
+      [
+        "Đại tượng Phật A Di Đà: các tầng thờ",
+        "<p></p>"
+      ],
+      [
+        "Những con số nguồn còn lệch nhau",
+        "<p></p>"
+      ],
+      [
+        "Đi lễ: trang phục, ứng xử",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, ghép lịch Đường Lâm – thành Sơn Tây",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/chiem-bai-dai-tuong-phat-a-di-da-cao-72m-tai-chua-khai-nguyen-ha-noi-post1124350.vnp",
+        "quote": "Vietnam+ (TTXVN), phóng sự ảnh (đọc 14/10/2026): Chùa Khai Nguyên (Cổ Liêu Tự) ở thôn Tây Ninh, xã Sơn Đông, thị xã Sơn Tây; theo bia ký xây từ nửa đầu thế kỷ 16, từng xuống cấp gần thành phế tích. Năm 2003 đại đức Thích Đạo Thịnh về tu bổ, xây lại. Năm 2015 bắt đầu dựng đại tượng Phật A Di Đà, cao 72m. Tầng 1 thờ chư vị Tổ sư, tầng 2 thờ 33 hóa thân Quan Thế Âm, tầng 3 thờ Đại Nhật Như Lai và Ngũ Phương Phật, tầng 4 thờ Phật Dược Sư; tầng 12 thờ trái tim Phật A Di Đà tạc bằng ngọc bích Nephrite Canada nguyên khối nặng hơn một tấn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/chua-khai-nguyen-dia-diem-tam-linh-nuc-tieng-vung-son-tay-11945",
+        "quote": "MIA.vn (blog du lịch, đọc 14/10/2026): Chùa Khai Nguyên còn gọi chùa Tản Viên, tên hiệu Tản Viên Sơn Quốc Tự; ghi niên đại từ thời Lý nửa đầu thế kỷ XI; chùa tọa lạc tại thôn Khoang Sau, xã Sơn Đông, thị xã Sơn Tây; có tượng A Di Đà được giới thiệu là lớn nhất Đông Nam Á.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.greensm.com/vn-vi/news/chua-khai-nguyen-ha-noi",
+        "quote": "Green SM (blog doanh nghiệp, 05/12/2024, đọc 14/10/2026): Chùa còn gọi Cổ Liêu Tự và chùa Leo, cách trung tâm Hà Nội khoảng 45km; trụ trì là đại đức Thích Đạo Thịnh; ghi chùa xây thế kỷ 16 thời Lê sơ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://ngoisao.vn/ky-quac-trash/chuyen-la-viet-nam-trash/can-canh-pho-tuong-phat-khong-lo-lon-nhat-dong-nam-a-dang-hoan-thien-gan-ngay-trung-tam-ha-noi-d259004.html",
+        "quote": "Ngôi Sao, 05/03/2019 (đọc 14/10/2026): Pho tượng A Di Đà cao 70m tại chùa Khai Nguyên (Sơn Tây), còn gọi chùa Tản Viên; chùa ghi niên đại thời Lý nửa đầu thế kỷ XI, được tôn tạo từ năm 2008; khởi công tượng năm 2015, kết cấu khung dầm bê tông; nhắc có xe buýt tuyến 74.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00700"
+  }
+}

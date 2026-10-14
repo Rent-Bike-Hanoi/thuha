@@ -1,0 +1,143 @@
+{
+  "writer": "writer-Q",
+  "queued": "2026-10-14T05:26:53.490041+00:00",
+  "topic": {
+    "topic_id": "TM-00710",
+    "url": "/du-lich/khu-di-tich-hoang-hoa-tham-phon-xuong/",
+    "title": "Khu di tích Hoàng Hoa Thám Phồn Xương: lễ hội Yên Thế 16/3",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích hoàng hoa thám",
+    "secondary_keywords": [
+      "lễ hội yên thế",
+      "đền thờ hoàng hoa thám",
+      "phồn xương yên thế"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn tìm hiểu khởi nghĩa Yên Thế hoặc dự lễ hội 16/3 cần biết khu di tích ở đâu, có những gì và hội diễn ra ra sao.",
+    "information_gain": "Chưa có bài nào về Yên Thế. Các bài Bắc Giang cũ hiện có (/du-lich/chua-vinh-nghiem-bac-ninh/, /du-lich/chua-bo-da-bac-ninh/) là chùa. Bài mới nêu khởi nghĩa 1884–1913, lễ hội ngày 16/3 dương lịch (di sản phi vật thể quốc gia 2012), đền thờ Hoàng Hoa Thám và nghĩa quân khánh thành 2024, tượng đài và phần hội có chọi dê, bắn nỏ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/chinh-tri/le-hoi-ky-niem-140-nam-khoi-nghia-yen-the-47707.html",
+        "quote": "Báo Văn Hóa (16/3/2024): sáng 16/3 tại Khu di tích lịch sử Hoàng Hoa Thám, thị trấn Phồn Xương (huyện Yên Thế) tổ chức Lễ hội kỷ niệm 140 năm khởi nghĩa Yên Thế (1884–2024); khởi nghĩa kéo dài 1884–1913; Hoàng Hoa Thám buộc Pháp hai lần ký hòa hoãn (1894, 1901), bị sát hại ngày 10/2/1913; ngày 27/12/2012 Bộ trưởng Bộ VHTTDL đưa Lễ hội Yên Thế vào danh mục di sản văn hóa phi vật thể quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/thoi-su/bac-giang-khanh-thanh-den-tho-hoang-hoa-tham-va-nghia-quan-38425.html",
+        "quote": "Báo Văn Hóa (16/3/2024): khánh thành Đền thờ Hoàng Hoa Thám và nghĩa quân trong chuỗi kỷ niệm 140 năm, thuộc dự án bảo tồn di tích lịch sử quốc gia đặc biệt Những địa điểm khởi nghĩa Yên Thế.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song-van-hoa/nhieu-hoat-dong-dac-sac-tai-le-hoi-yen-the-2023-41207.html",
+        "quote": "Báo Văn Hóa (15/3/2023): Lễ hội Yên Thế 2023 diễn ra 15–17/3, kỷ niệm 139 năm (16/3/1884); phần lễ tế, dâng hương tại tượng đài Hoàng Hoa Thám; phần hội có võ thuật, đẩy gậy, kéo co, bắn nỏ, cờ tướng, chọi dê; đặc sản măng đắng, gà đồi Yên Thế, chè Bản Ven.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "khu di tích hoàng hoa thám"
+      }
+    ],
+    "notes": "Địa giới: Phồn Xương nay thuộc xã Yên Thế, tỉnh Bắc Ninh (theo snippet tìm kiếm về lễ hội 2026; chưa đọc được nguồn đầy đủ) — người viết nên ghi 'thị trấn Phồn Xương (cũ)'. Mốc lễ hội đầu tiên 16/3/1984 chỉ thấy trong snippet, không dùng. Chưa có nguồn về quãng đường, vé, giờ mở cửa, đồn Phồn Xương.",
+    "outline": [
+      "Khu di tích Hoàng Hoa Thám ở đâu",
+      "Khởi nghĩa Yên Thế 1884–1913 tóm tắt",
+      "Đền thờ Hoàng Hoa Thám và nghĩa quân, tượng đài",
+      "Lễ hội 16/3: phần lễ, phần hội",
+      "Đặc sản Yên Thế nên thử",
+      "Đi xe máy từ Hà Nội: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-vinh-nghiem-bac-ninh/",
+      "/du-lich/chua-bo-da-bac-ninh/",
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/ha-noi/ben-xe-gia-lam/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00710.json",
+  "draft_template": {
+    "id": "TM-00710",
+    "url": "/du-lich/khu-di-tich-hoang-hoa-tham-phon-xuong/",
+    "title": "Khu di tích Hoàng Hoa Thám Phồn Xương: lễ hội Yên Thế 16/3",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích hoàng hoa thám, lễ hội yên thế, đền thờ hoàng hoa thám, phồn xương yên thế",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khu di tích Hoàng Hoa Thám ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Khởi nghĩa Yên Thế 1884–1913 tóm tắt",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ Hoàng Hoa Thám và nghĩa quân, tượng đài",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 16/3: phần lễ, phần hội",
+        "<p></p>"
+      ],
+      [
+        "Đặc sản Yên Thế nên thử",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/chinh-tri/le-hoi-ky-niem-140-nam-khoi-nghia-yen-the-47707.html",
+        "quote": "Báo Văn Hóa (16/3/2024): sáng 16/3 tại Khu di tích lịch sử Hoàng Hoa Thám, thị trấn Phồn Xương (huyện Yên Thế) tổ chức Lễ hội kỷ niệm 140 năm khởi nghĩa Yên Thế (1884–2024); khởi nghĩa kéo dài 1884–1913; Hoàng Hoa Thám buộc Pháp hai lần ký hòa hoãn (1894, 1901), bị sát hại ngày 10/2/1913; ngày 27/12/2012 Bộ trưởng Bộ VHTTDL đưa Lễ hội Yên Thế vào danh mục di sản văn hóa phi vật thể quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/thoi-su/bac-giang-khanh-thanh-den-tho-hoang-hoa-tham-va-nghia-quan-38425.html",
+        "quote": "Báo Văn Hóa (16/3/2024): khánh thành Đền thờ Hoàng Hoa Thám và nghĩa quân trong chuỗi kỷ niệm 140 năm, thuộc dự án bảo tồn di tích lịch sử quốc gia đặc biệt Những địa điểm khởi nghĩa Yên Thế.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song-van-hoa/nhieu-hoat-dong-dac-sac-tai-le-hoi-yen-the-2023-41207.html",
+        "quote": "Báo Văn Hóa (15/3/2023): Lễ hội Yên Thế 2023 diễn ra 15–17/3, kỷ niệm 139 năm (16/3/1884); phần lễ tế, dâng hương tại tượng đài Hoàng Hoa Thám; phần hội có võ thuật, đẩy gậy, kéo co, bắn nỏ, cờ tướng, chọi dê; đặc sản măng đắng, gà đồi Yên Thế, chè Bản Ven.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00710"
+  }
+}
