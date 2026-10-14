@@ -32,5 +32,6 @@ Mỗi tháng (tuần đầu), hỏi nguyên văn từng câu trên Google (AI Mo
 
 | Tháng | Nền tảng | Câu được nhắc | Sai thông tin | Trang được dẫn | Ghi chú |
 |---|---|---|---|---|---|
+| 10/2026 (mốc) | GA4 qua HarborRank | – | – | /, /lien-he, /thue-xe-may-theo-thang-ha-noi, 1 bài kiểm tra phanh | 16/9–13/10/2026: 13/285 phiên từ AI (4,6%), toàn bộ từ chatgpt.com, 0 key event. Lưu ý: property GA4 nối với HarborRank tên "blog.rentbikehanoi.com" và đường dẫn là cấu trúc cũ, chưa phải thuha.rentbikehanoi.com: cần nối đúng property G-DBJ2BMHTL4 của thuha để đo tháng sau. Hỏi trực tiếp 20 câu trên các nền tảng AI chưa làm (cần trình duyệt có tài khoản). |
 
 GA4: Báo cáo Thu hút → Nguồn giới thiệu, lọc chatgpt.com, perplexity.ai, gemini.google.com, copilot.microsoft.com.
