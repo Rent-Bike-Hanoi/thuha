@@ -1,0 +1,145 @@
+{
+  "writer": "writer-I2",
+  "queued": "2026-10-14T15:15:26.147562+00:00",
+  "topic": {
+    "topic_id": "TM-00834",
+    "url": "/du-lich/nha-tho-trung-lao-nam-dinh/",
+    "title": "Nhà thờ Trung Lao Nam Định: cháy năm 2017, cung hiến lại 2024",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ trung lao",
+    "secondary_keywords": [
+      "đền thánh trung lao",
+      "giáo xứ trung lao trực ninh",
+      "nhà thờ gỗ lim nam định",
+      "nhà thờ trung lao xây lại"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy về vùng Bùi Chu muốn biết nhà thờ Trung Lao từng cháy giờ ra sao, kiến trúc cũ thế nào và nhà thờ mới có gì.",
+    "information_gain": "Gần nhất là /du-lich/nha-tho-bui-chu/, /du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/ và /du-lich/chua-co-le-ninh-binh/ (cùng Trực Ninh cũ) — không bài nào nói Trung Lao. Bài mới nêu: khởi công 1888, xong 1898, dài 50 m, rộng 16 m, cao 12 m, tháp chuông 20 m, cột lim 70–80 cm; vụ cháy đêm 5/8/2017 (11 gian, gần 40 cột lim); tái thiết theo tư liệu cũ, cung hiến ngày 1/1/2024, giáo xứ hơn 11.000 nhân danh.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/hoa-hoan-thieu-rui-nha-tho-129-tuoi-o-nam-dinh-10078651.html",
+        "quote": "Đại Đoàn Kết (2017): nhà thờ xứ Trung Lao, xã Trung Đông, huyện Trực Ninh, Nam Định cháy khoảng hơn 23h ngày 5/8, lửa lan toàn bộ 11 gian; 5 xe chữa cháy, hơn 100 cán bộ chiến sĩ, hơn 2 giờ dập lửa; gần 40 cột lim cháy; khởi công 1888, hoàn thành 1898, phong cách Gothique kết hợp truyền thống Việt, dài 50 m, rộng 16 m, cao 12 m, tháp chuông cao 20 m; nội thất lõi gỗ lim, cột đường kính 70–80 cm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/society/381564/trung-lao-church-destroyed-in-blaze.html",
+        "quote": "Viet Nam News (2017): khoảng 100 lính cứu hỏa mất hơn ba giờ khống chế đám cháy, không cứu được công trình 129 năm tuổi; nguyên nhân chập điện và gió mạnh; xây năm 1888, kết hợp Gothic Tây Ban Nha và chạm khắc Việt; dài 50 m, rộng 16 m, lợp ngói vảy rồng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://gpbuichu.org/index.php/news/TIN-GIAO-PHAN-75/cung-hien-den-thanh-giao-xu-trung-lao-sau-gan-7-nam-tai-thiet-tu-vu-hoa-hoan-15609.html",
+        "quote": "Giáo phận Bùi Chu (đầu 2024): khánh thành nhà thờ mới và cung hiến Đền Thánh sáng 1/1/2024 do Giám mục Vũ Đình Hiệu chủ sự; nhà thờ cũ khoảng 130 tuổi cháy đêm 5/8/2017; tái thiết dựa trên kiến trúc cũ Gothic Tây Ban Nha – truyền thống Việt, quy mô lớn hơn cho giáo xứ hơn 11.000 nhân danh; hoa văn làm gần đúng nguyên bản nhờ tư liệu khảo sát của đoàn Nhật Bản.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà thờ trung lao"
+      }
+    ],
+    "notes": "Mâu thuẫn: thời gian dập lửa 'hơn 2h' (Đại Đoàn Kết) vs 'hơn ba giờ' (VNS); tuổi 129 vs khoảng 130; thời gian xây 10 năm (1888–1898) vs 'eight years' (VNS). Kích thước nhà thờ MỚI chưa có nguồn đã đọc (trang nhà thầu có số 63 x 21 m nhưng là quảng cáo, không dùng). Địa danh mới sau sáp nhập (Ninh Bình) chưa xác minh. Gpbuichu.org là trang giáo phận, xếp 'official' theo nghĩa nguồn chủ quản; có thể đổi thành press nếu QA yêu cầu.",
+    "outline": [
+      "Trung Lao ở đâu (Trực Ninh cũ)",
+      "Nhà thờ gỗ lim 1888–1898",
+      "Đêm 5/8/2017",
+      "Tái thiết theo nguyên bản",
+      "Cung hiến 1/1/2024: nhà thờ mới có gì",
+      "Ghép lịch Bùi Chu – Cổ Lễ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-bui-chu/",
+      "/du-lich/chua-co-le-ninh-binh/",
+      "/du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/nha-tho-da-phat-diem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00834.json",
+  "draft_template": {
+    "id": "TM-00834",
+    "url": "/du-lich/nha-tho-trung-lao-nam-dinh/",
+    "title": "Nhà thờ Trung Lao Nam Định: cháy năm 2017, cung hiến lại 2024",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ trung lao, đền thánh trung lao, giáo xứ trung lao trực ninh, nhà thờ gỗ lim nam định, nhà thờ trung lao xây lại",
+    "excerpt": "",
+    "sections": [
+      [
+        "Trung Lao ở đâu (Trực Ninh cũ)",
+        "<p></p>"
+      ],
+      [
+        "Nhà thờ gỗ lim 1888–1898",
+        "<p></p>"
+      ],
+      [
+        "Đêm 5/8/2017",
+        "<p></p>"
+      ],
+      [
+        "Tái thiết theo nguyên bản",
+        "<p></p>"
+      ],
+      [
+        "Cung hiến 1/1/2024: nhà thờ mới có gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch Bùi Chu – Cổ Lễ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/hoa-hoan-thieu-rui-nha-tho-129-tuoi-o-nam-dinh-10078651.html",
+        "quote": "Đại Đoàn Kết (2017): nhà thờ xứ Trung Lao, xã Trung Đông, huyện Trực Ninh, Nam Định cháy khoảng hơn 23h ngày 5/8, lửa lan toàn bộ 11 gian; 5 xe chữa cháy, hơn 100 cán bộ chiến sĩ, hơn 2 giờ dập lửa; gần 40 cột lim cháy; khởi công 1888, hoàn thành 1898, phong cách Gothique kết hợp truyền thống Việt, dài 50 m, rộng 16 m, cao 12 m, tháp chuông cao 20 m; nội thất lõi gỗ lim, cột đường kính 70–80 cm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/society/381564/trung-lao-church-destroyed-in-blaze.html",
+        "quote": "Viet Nam News (2017): khoảng 100 lính cứu hỏa mất hơn ba giờ khống chế đám cháy, không cứu được công trình 129 năm tuổi; nguyên nhân chập điện và gió mạnh; xây năm 1888, kết hợp Gothic Tây Ban Nha và chạm khắc Việt; dài 50 m, rộng 16 m, lợp ngói vảy rồng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://gpbuichu.org/index.php/news/TIN-GIAO-PHAN-75/cung-hien-den-thanh-giao-xu-trung-lao-sau-gan-7-nam-tai-thiet-tu-vu-hoa-hoan-15609.html",
+        "quote": "Giáo phận Bùi Chu (đầu 2024): khánh thành nhà thờ mới và cung hiến Đền Thánh sáng 1/1/2024 do Giám mục Vũ Đình Hiệu chủ sự; nhà thờ cũ khoảng 130 tuổi cháy đêm 5/8/2017; tái thiết dựa trên kiến trúc cũ Gothic Tây Ban Nha – truyền thống Việt, quy mô lớn hơn cho giáo xứ hơn 11.000 nhân danh; hoa văn làm gần đúng nguyên bản nhờ tư liệu khảo sát của đoàn Nhật Bản.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00834"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-I3",
+  "queued": "2026-10-14T15:15:27.149466+00:00",
+  "topic": {
+    "topic_id": "TM-00839",
+    "url": "/du-lich/den-het-thai-thuy/",
+    "title": "Đền Hét Thái Thụy: đền thờ Phạm Ngũ Lão và trò vật cầu mùng 8 Tết",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền hét",
+    "secondary_keywords": [
+      "lễ hội đền hét",
+      "vật cầu đền hét",
+      "đền thờ phạm ngũ lão thái bình",
+      "đền hét thái thượng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi lễ hội đầu năm ven biển Thái Bình cần biết đền Hét ở đâu, thờ ai, lễ hội ngày nào và trò vật cầu chơi thế nào.",
+    "information_gain": "Chưa có bài về đền Hét; có bài đền Phù Ủng (quê Phạm Ngũ Lão) trong ma trận nhưng không nói nơi đóng quân ven biển. Gần nhất /du-lich/den-tran-thai-binh/, /du-lich/chua-keo-thai-binh/. Bài mới nêu: đền dựng nơi Phạm Ngũ Lão (1255–1320) đóng đồn giữ cửa Đại Toàn (Diêm Điền); 7 sắc phong Lê – Nguyễn; di tích quốc gia năm 1993; lễ hội 7–9 tháng Giêng, chính hội mùng 8; vật cầu đội Nông – Ngư, 9 người/đội, cầu củ chuối, 2 hiệp; di tích kháng chiến (trận càn Mercure 1952).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/ve-den-het-xem-le-hoi-vat-cau-185230130095607621.htm",
+        "quote": "Thanh Niên (2023): đền Hét, xã Thái Thượng, huyện Thái Thụy thờ Phạm Ngũ Lão (1255 - 1320); ông chọn cửa biển Đại Toàn (nay cửa Diêm Điền) đóng đồn, dựng trại luyện binh; đền lưu giữ 7 sắc phong thời Lê – Nguyễn, 1 thần tích chữ Hán, cặp song mã, bia đá cổ; lễ hội mùng 8 tết âm lịch; vật cầu: đội Nông quần đỏ, đội Ngư quần xanh, mỗi đội 9 người (1 tướng 8 quân), quả cầu củ chuối nặng 15 kg, hai bồ cách 8 m, 2 hiệp 20 phút; năm 1993 Bộ VH-TT cấp bằng công nhận đền Hét là di tích lịch sử cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/hang-ngan-nguoi-chen-nhau-xem-vat-cau-o-le-hoi-den-het-20250205220216829.htm",
+        "quote": "Tuổi Trẻ (5/2/2025, mùng 8 tháng Giêng): hàng ngàn người dự lễ hội đền Hét; ngoài tế lễ có văn nghệ, vật, kéo co, đua thuyền; vật cầu và vật đô do Phạm Ngũ Lão sáng tạo để rèn binh sĩ; các thôn cử 18 người chia 2 đội; hai hiệp khoảng 20 phút.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/le-hoi-den-het-hao-khi-va-net-dep-van-hoa-truyen-thong-73515.html",
+        "quote": "Dân tộc và Phát triển (2026): đền Hét nay thuộc xã Thái Ninh, tỉnh Hưng Yên (trước là xã Thái Thượng, huyện Thái Thụy, Thái Bình); lễ hội 3 ngày mồng 7–9 tháng Giêng; kháng chiến chống Pháp đền là nơi liên lạc, họp bàn; 27–30/3/1952 trận càn Mercure, hàng trăm chiến sĩ Trung đoàn 48, Đại đoàn 320 hy sinh; quả cầu củ chuối nặng tới 13 kg.; đền được công nhận di tích lịch sử văn hóa cấp quốc gia tháng 12/1993.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền hét"
+      }
+    ],
+    "notes": "Mâu thuẫn: quả cầu 15 kg (Thanh Niên) vs 13 kg (Dân tộc và Phát triển) — nêu cả hai. Xếp hạng quốc gia 1993 có ở cả hai nguồn. Không trùng với hàng đền Phù Ủng (khác địa điểm: quê ông ở Ân Thi, đền Hét là nơi đóng quân ven biển). Không có giờ mở cửa.",
+    "outline": [
+      "Đền Hét ở đâu: Thái Thượng cũ, Thái Ninh mới",
+      "Phạm Ngũ Lão và cửa biển Đại Toàn",
+      "Trong đền còn gì",
+      "Lễ hội mồng 7–9 tháng Giêng",
+      "Luật chơi vật cầu",
+      "Dấu tích kháng chiến 1952"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-thai-binh/",
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/den-tien-la/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00839.json",
+  "draft_template": {
+    "id": "TM-00839",
+    "url": "/du-lich/den-het-thai-thuy/",
+    "title": "Đền Hét Thái Thụy: đền thờ Phạm Ngũ Lão và trò vật cầu mùng 8 Tết",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền hét, lễ hội đền hét, vật cầu đền hét, đền thờ phạm ngũ lão thái bình, đền hét thái thượng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Hét ở đâu: Thái Thượng cũ, Thái Ninh mới",
+        "<p></p>"
+      ],
+      [
+        "Phạm Ngũ Lão và cửa biển Đại Toàn",
+        "<p></p>"
+      ],
+      [
+        "Trong đền còn gì",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội mồng 7–9 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Luật chơi vật cầu",
+        "<p></p>"
+      ],
+      [
+        "Dấu tích kháng chiến 1952",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/ve-den-het-xem-le-hoi-vat-cau-185230130095607621.htm",
+        "quote": "Thanh Niên (2023): đền Hét, xã Thái Thượng, huyện Thái Thụy thờ Phạm Ngũ Lão (1255 - 1320); ông chọn cửa biển Đại Toàn (nay cửa Diêm Điền) đóng đồn, dựng trại luyện binh; đền lưu giữ 7 sắc phong thời Lê – Nguyễn, 1 thần tích chữ Hán, cặp song mã, bia đá cổ; lễ hội mùng 8 tết âm lịch; vật cầu: đội Nông quần đỏ, đội Ngư quần xanh, mỗi đội 9 người (1 tướng 8 quân), quả cầu củ chuối nặng 15 kg, hai bồ cách 8 m, 2 hiệp 20 phút; năm 1993 Bộ VH-TT cấp bằng công nhận đền Hét là di tích lịch sử cấp quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/hang-ngan-nguoi-chen-nhau-xem-vat-cau-o-le-hoi-den-het-20250205220216829.htm",
+        "quote": "Tuổi Trẻ (5/2/2025, mùng 8 tháng Giêng): hàng ngàn người dự lễ hội đền Hét; ngoài tế lễ có văn nghệ, vật, kéo co, đua thuyền; vật cầu và vật đô do Phạm Ngũ Lão sáng tạo để rèn binh sĩ; các thôn cử 18 người chia 2 đội; hai hiệp khoảng 20 phút.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/le-hoi-den-het-hao-khi-va-net-dep-van-hoa-truyen-thong-73515.html",
+        "quote": "Dân tộc và Phát triển (2026): đền Hét nay thuộc xã Thái Ninh, tỉnh Hưng Yên (trước là xã Thái Thượng, huyện Thái Thụy, Thái Bình); lễ hội 3 ngày mồng 7–9 tháng Giêng; kháng chiến chống Pháp đền là nơi liên lạc, họp bàn; 27–30/3/1952 trận càn Mercure, hàng trăm chiến sĩ Trung đoàn 48, Đại đoàn 320 hy sinh; quả cầu củ chuối nặng tới 13 kg.; đền được công nhận di tích lịch sử văn hóa cấp quốc gia tháng 12/1993.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00839"
+  }
+}

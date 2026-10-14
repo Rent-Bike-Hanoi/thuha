@@ -1,0 +1,145 @@
+{
+  "writer": "writer-I1",
+  "queued": "2026-10-14T15:15:25.415858+00:00",
+  "topic": {
+    "topic_id": "TM-00831",
+    "url": "/du-lich/ban-giang-mo-hoa-binh/",
+    "title": "Bản Giang Mỗ Hòa Bình: bản Mường nhà sàn cách trung tâm 10 km",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản giang mỗ",
+    "secondary_keywords": [
+      "bản mường giang mỗ",
+      "xóm mỗ thung nai",
+      "nhà sàn mường hình con rùa",
+      "du lịch cộng đồng hòa bình",
+      "giang mỗ cao phong"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy từ Hà Nội lên Hòa Bình muốn ghé một bản Mường gần trung tâm để xem nhà sàn cổ, ăn món Mường và biết bản nằm ở đâu sau sáp nhập.",
+    "information_gain": "Gần nhất là /du-lich/ha-noi-di-hoa-binh-bang-xe-may/, /du-lich/den-chua-thac-bo/ và /du-lich/bao-tang-van-hoa-muong-hoa-binh/ — chưa bài nào nói bản Giang Mỗ. Bài mới nêu: bản cách trung tâm khoảng 10 km trên đường đi Thung Nai; nhà sàn kiểu 'nhà rùa' 3 tầng và vai trò bếp; số hộ (140 hộ theo bài 2022, 195 hộ hơn 700 khẩu theo TTXVN) và khoảng 46 hộ làm du lịch; món ăn; địa danh cũ (xã Bình Thanh, Cao Phong) và mới (xã Thung Nai, Phú Thọ).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ban-giang-mo-noi-van-hoa-muong-co-hoa-quyen-cung-du-lich-ben-vung-post1073507.vnp",
+        "quote": "VietnamPlus/TTXVN: bản Giang Mỗ (xóm Mỗ, xã Thung Nai) cách trung tâm phường Hòa Bình, tỉnh Phú Thọ khoảng 10 km; 195 hộ, hơn 700 nhân khẩu, gần 98% người Mường; nhà sàn cổ kiểu hình con rùa; món xôi nếp nương, cá suối nướng, gà nấu măng chua, cơm lam, rượu cần; có thể kết hợp Bảo tàng Không gian Văn hóa Mường, hồ Hòa Bình, động Thác Bờ, đồi cam Cao Phong.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thegioitiepthi.danviet.vn/ban-muong-giang-mo-20221201103200937-d17284.html",
+        "quote": "Thế giới tiếp thị – Dân Việt (1/12/2022): cách trung tâm TP Hòa Bình khoảng 10 km, bản Giang Mỗ (nay là xóm Mỗ), xã Bình Thanh, huyện Cao Phong; 140 hộ, khoảng 46 hộ tham gia làm du lịch; đón khách từ những năm 1979–1980 khi xây Thủy điện Hòa Bình; nhà sàn 'nhà rùa' có 3 tầng; nằm trên tuyến TP Hòa Bình đi Thung Nai.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/cao-phong-hoa-binh-phat-trien-kinh-te-gan-voi-du-lich-10257237.html",
+        "quote": "Đại Đoàn Kết (2023): huyện Cao Phong triển khai các dự án ngân sách tổng trên 400 tỷ đồng, trong đó có dự án quy hoạch bản du lịch cộng đồng Giang Mỗ, xã Bình Thanh; quý I khoảng 125.000 lượt khách đến huyện.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bản giang mỗ"
+      }
+    ],
+    "notes": "Mâu thuẫn số hộ: 140 hộ (Dân Việt 2022) vs 195 hộ, hơn 700 khẩu (VietnamPlus) — nêu cả hai kèm nguồn. Không có giá homestay/vé; không nêu tên cơ sở lưu trú. Tiến độ dự án quy hoạch chưa rõ.",
+    "outline": [
+      "Giang Mỗ ở đâu: tên cũ và tên mới",
+      "Nhà sàn 'nhà rùa' 3 tầng",
+      "Bếp lửa và nếp sống Mường",
+      "Ăn gì ở bản",
+      "Ghép lịch với hồ Hòa Bình, Thác Bờ",
+      "Lưu ý khi vào nhà dân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/den-chua-thac-bo/",
+      "/du-lich/bao-tang-van-hoa-muong-hoa-binh/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00831.json",
+  "draft_template": {
+    "id": "TM-00831",
+    "url": "/du-lich/ban-giang-mo-hoa-binh/",
+    "title": "Bản Giang Mỗ Hòa Bình: bản Mường nhà sàn cách trung tâm 10 km",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản giang mỗ, bản mường giang mỗ, xóm mỗ thung nai, nhà sàn mường hình con rùa, du lịch cộng đồng hòa bình, giang mỗ cao phong",
+    "excerpt": "",
+    "sections": [
+      [
+        "Giang Mỗ ở đâu: tên cũ và tên mới",
+        "<p></p>"
+      ],
+      [
+        "Nhà sàn 'nhà rùa' 3 tầng",
+        "<p></p>"
+      ],
+      [
+        "Bếp lửa và nếp sống Mường",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì ở bản",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với hồ Hòa Bình, Thác Bờ",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi vào nhà dân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ban-giang-mo-noi-van-hoa-muong-co-hoa-quyen-cung-du-lich-ben-vung-post1073507.vnp",
+        "quote": "VietnamPlus/TTXVN: bản Giang Mỗ (xóm Mỗ, xã Thung Nai) cách trung tâm phường Hòa Bình, tỉnh Phú Thọ khoảng 10 km; 195 hộ, hơn 700 nhân khẩu, gần 98% người Mường; nhà sàn cổ kiểu hình con rùa; món xôi nếp nương, cá suối nướng, gà nấu măng chua, cơm lam, rượu cần; có thể kết hợp Bảo tàng Không gian Văn hóa Mường, hồ Hòa Bình, động Thác Bờ, đồi cam Cao Phong.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thegioitiepthi.danviet.vn/ban-muong-giang-mo-20221201103200937-d17284.html",
+        "quote": "Thế giới tiếp thị – Dân Việt (1/12/2022): cách trung tâm TP Hòa Bình khoảng 10 km, bản Giang Mỗ (nay là xóm Mỗ), xã Bình Thanh, huyện Cao Phong; 140 hộ, khoảng 46 hộ tham gia làm du lịch; đón khách từ những năm 1979–1980 khi xây Thủy điện Hòa Bình; nhà sàn 'nhà rùa' có 3 tầng; nằm trên tuyến TP Hòa Bình đi Thung Nai.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/cao-phong-hoa-binh-phat-trien-kinh-te-gan-voi-du-lich-10257237.html",
+        "quote": "Đại Đoàn Kết (2023): huyện Cao Phong triển khai các dự án ngân sách tổng trên 400 tỷ đồng, trong đó có dự án quy hoạch bản du lịch cộng đồng Giang Mỗ, xã Bình Thanh; quý I khoảng 125.000 lượt khách đến huyện.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00831"
+  }
+}
