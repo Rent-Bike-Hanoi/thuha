@@ -1,0 +1,186 @@
+{
+  "writer": "writer-w30",
+  "queued": "2026-10-14T03:26:40.313219+00:00",
+  "topic": {
+    "topic_id": "TM-00608",
+    "url": "/bao-duong/bo-bao-duong-dinh-ky-co-mat-bao-hanh/",
+    "title": "Bỏ lỡ bảo dưỡng định kỳ có mất bảo hành xe máy không?",
+    "hub": "bao-duong",
+    "subtopic": "lich-bao-duong",
+    "primary_keyword": "bảo dưỡng định kỳ mất bảo hành xe máy",
+    "secondary_keywords": [
+      "không bảo dưỡng có được bảo hành không",
+      "bảo hành xe máy honda bao lâu",
+      "bảo hành xe máy yamaha 3 năm 30.000 km",
+      "sửa xe ngoài có mất bảo hành không",
+      "phụ tùng hao mòn không được bảo hành",
+      "phiếu bảo dưỡng miễn phí yamaha"
+    ],
+    "intent": "informational",
+    "user_problem": "Chủ xe Honda, Yamaha đời mới ở Hà Nội lỡ mốc bảo dưỡng, hoặc muốn thay dầu, sửa vặt ở tiệm ngoài cho gần, lo xe bị từ chối bảo hành; họ cần biết hãng thực sự ghi điều kiện gì và hạng mục nào vốn không được bảo hành.",
+    "information_gain": "Thông tin bảo hành hiện chỉ rải rác trong trang mẫu xe (/xe-may/honda-sh-160i-va-sh-125i-2026/, /xe-may/honda-vario-160/, /xe-may/yamaha-sirius-fi/ ghi thời hạn) và /bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/ chỉ có một câu 'thiếu mốc bảo dưỡng có thể ảnh hưởng tới bảo hành'; /xe-dien/bao-duong-xe-may-dien-dinh-ky/ chỉ nói VinFast. Bài mới trả lời thẳng câu hỏi bằng điều khoản gốc: Honda (từ 15/8/2025, xe từ 350cc trở xuống) yêu cầu kiểm tra trước khi vận hành, kiểm tra định kỳ đúng lịch, thay chất lỏng đúng sổ, nếu không 'có thể từ chối' hư hỏng do thiếu bảo dưỡng; hư hỏng do sửa ở nơi không ủy nhiệm, dầu không đúng thông số, ngập nước/thủy kích bị loại trừ; danh mục 17 phụ tùng hao mòn. Yamaha cách khác hẳn: bảo hành 3 năm/30.000 km chỉ đạt đủ khi dùng đúng hạn các phiếu bảo dưỡng miễn phí (lần 1–3 năm đầu thêm 1 năm, lần 4–6 năm hai thêm 1 năm), có chương trình 5 năm/50.000 km khi đủ 9 lần trong 3 năm.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành xe từ 350cc trở xuống (áp dụng từ ngày 15/8/2025, đọc 14/10/2026): thời hạn tính từ ngày kích hoạt bảo hành; kích hoạt trong 7 ngày kể từ ngày mua: xe (trừ bình điện) 36 tháng hoặc 30.000 km, bình điện 12V 12 tháng hoặc 10.000 km, bình điện hệ thống Hybrid 36 tháng hoặc 30.000 km (tùy điều kiện nào đến trước); kích hoạt ngày 8–30: 35 tháng (bình 12V 11 tháng); ngày 31–60: 34 tháng (bình 12V 10 tháng); từ ngày 61: 33 tháng (bình 12V 9 tháng). Bảo hành có hiệu lực từ khi kích hoạt thành công trên ứng dụng My Honda+.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành xe từ 350cc trở xuống, mục 'Quyền lợi và nghĩa vụ của khách hàng' (đọc 14/10/2026): 'Trong trường hợp không chú ý các điểm này, chúng tôi từ chối sửa chữa bảo hành cho quý khách: Sử dụng xe theo đúng phương pháp đã hướng dẫn trong sách hướng dẫn sử dụng. Tiến hành “kiểm tra trước khi vận hành” theo đúng hướng dẫn. Tiến hành kiểm tra định kỳ đúng lịch theo sách hướng dẫn sử dụng. Thay thế các bộ phận định kỳ, các chất lỏng, dầu mỡ theo đúng sách hướng dẫn sử dụng đã quy định.' Mục lưu ý: 'Nếu quý khách không thực hiện đúng & đủ, quý khách sẽ không được đảm bảo quyền lợi theo Chính sách bảo hành này đồng thời chúng tôi có thể từ chối sửa chữa bảo hành những hư hỏng do việc thiếu bảo dưỡng gây ra.'",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành xe từ 350cc trở xuống, mục 'Một số trường hợp không bao gồm trong bảo hành' (đọc 14/10/2026): không bảo hành hư hỏng do sửa chữa/điều chỉnh không phải do Cửa hàng Honda ủy nhiệm tiến hành; dùng xe không theo sách hướng dẫn (tải trọng tối đa, số người chở...); thay đổi trái phép so với thiết kế; dùng phụ tùng hoặc nhiên liệu, dầu nhờn (dầu động cơ, dầu phanh, dung dịch làm mát...) khác thông số trong sách; rỉ sét, bạc màu sơn, hao mòn tự nhiên; hư hỏng do lũ lụt, sử dụng xe trong điều kiện ngập nước, thủy kích, tai nạn; hư hỏng do bảo quản lâu ngày như cao su lão hóa, dầu mỡ biến chất; chuột cắn, muối, hóa chất. Những bộ phận được thay tại cửa hàng không phải Cửa hàng Honda ủy nhiệm không thuộc phạm vi bảo hành.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành, Bảng 1 'Các phụ tùng hao mòn theo thời gian sử dụng' (đọc 14/10/2026): bugi, lưới lọc dầu máy, lọc gió, lưới lọc xăng, đĩa ly hợp, má phanh, guốc phanh, xích tải, nhông tải (đĩa xích), dây đai và bi văng ly hợp, săm lốp, bóng đèn, cầu chì, chổi than và cổ góp mô-tơ đề, gioăng đệm, chi tiết cao su, các loại tương tự. Bảng 2 phụ phẩm, dầu mỡ: dầu động cơ, dầu phanh, dầu truyền động cuối, dung dịch làm mát, các loại dầu mỡ khác.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/dich-vu/bao-hanh-san-pham/",
+        "quote": "Yamaha Motor Việt Nam, trang Bảo hành sản phẩm (đọc 14/10/2026): xe từ 400cc trở xuống có bảo trì định kỳ miễn phí (có điều kiện) 09 lần trong 03 năm và bảo hành (có điều kiện) 03 năm hoặc 30.000 km; 'Bảo trì định kỳ đủ và đúng: Các phiếu bảo trì miễn phí phải được sử dụng đầy đủ và đúng thời gian quy định trên mỗi phiếu.' Điều kiện: làm đủ, đúng hạn lần 1, 2, 3 trong năm đầu tại Đại lý Yamaha Town thì được gia hạn thêm 01 năm hoặc 10.000 km (tổng 2 năm hoặc 20.000 km); tiếp tục đủ lần 4, 5, 6 trong năm thứ hai thì thêm 1 năm hoặc 10.000 km nữa (tổng 3 năm hoặc 30.000 km). Yamaha có quyền từ chối bảo hành hư hỏng xuất phát từ việc sửa chữa/điều chỉnh tại nơi không phải Đại lý Yamaha Town hoặc Revzone. Ắc quy 01 năm hoặc 10.000 km; hư hỏng do sạc, xả quá mức không được bảo hành.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/dich-vu/bao-hanh-san-pham/",
+        "quote": "Yamaha Motor Việt Nam, trang Bảo hành sản phẩm, mục 2.4 Chính sách bảo hành 5 năm hoặc 50.000 km (đọc 14/10/2026): áp dụng cho các dòng xe Yamaha thông báo trên website tại từng thời điểm; điều kiện gồm đăng ký xe trên ứng dụng My Yamaha Motor và bảo dưỡng miễn phí đủ, đúng thời gian 9 lần trong 3 năm tại đại lý ủy nhiệm. Mục 2.3: bộ xi lanh và piston DiASil bảo hành 5 năm hoặc 50.000 km nhưng không được bảo hành nếu do lọc gió bẩn, đi vào chỗ nước ngập sâu, lâu không thay nhớt, thiếu nhớt.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bảo dưỡng định kỳ mất bảo hành xe máy"
+      }
+    ],
+    "notes": "Điều khoản là của Honda Việt Nam (xe ≤350cc, áp dụng từ 15/8/2025) và Yamaha Motor Việt Nam đọc ngày 14/10/2026; hãng khác (SYM, Piaggio, VinFast, Yadea) có điều kiện riêng – chỉ nêu là khác và dẫn tới trang mẫu xe. Không suy diễn rằng thay dầu ở tiệm ngoài tự động 'mất' bảo hành: Honda ghi 'có thể từ chối' hư hỏng do thiếu bảo dưỡng và loại trừ hư hỏng do sửa chữa/điều chỉnh ngoài hệ thống ủy nhiệm; nói đúng hai ý đó. Không có giá dịch vụ. Với xe thuê: bảo dưỡng là việc của chủ xe (có thể dẫn /bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/); không đưa thông tin bảo hành của cửa hàng vì business-facts không có.",
+    "outline": [
+      "Câu trả lời ngắn: không tự động mất, nhưng hãng có quyền từ chối phần hư hỏng do thiếu bảo dưỡng",
+      "Honda: thời hạn theo ngày kích hoạt và 4 nghĩa vụ của chủ xe",
+      "Yamaha: bảo hành 'tích lũy' theo phiếu bảo dưỡng miễn phí",
+      "Sửa, thay dầu ở tiệm ngoài: điều khoản nói gì",
+      "Những thứ không bao giờ được bảo hành: phụ tùng hao mòn, ngập nước, thủy kích",
+      "Giữ bằng chứng bảo dưỡng: sổ, ứng dụng, hóa đơn"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/bao-duong/xe-may/thay-nhot/",
+      "/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/",
+      "/xe-dien/bao-duong-xe-may-dien-dinh-ky/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00608.json",
+  "draft_template": {
+    "id": "TM-00608",
+    "url": "/bao-duong/bo-bao-duong-dinh-ky-co-mat-bao-hanh/",
+    "title": "Bỏ lỡ bảo dưỡng định kỳ có mất bảo hành xe máy không?",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo dưỡng định kỳ mất bảo hành xe máy, không bảo dưỡng có được bảo hành không, bảo hành xe máy honda bao lâu, bảo hành xe máy yamaha 3 năm 30.000 km, sửa xe ngoài có mất bảo hành không, phụ tùng hao mòn không được bảo hành, phiếu bảo dưỡng miễn phí yamaha",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: không tự động mất, nhưng hãng có quyền từ chối phần hư hỏng do thiếu bảo dưỡng",
+        "<p></p>"
+      ],
+      [
+        "Honda: thời hạn theo ngày kích hoạt và 4 nghĩa vụ của chủ xe",
+        "<p></p>"
+      ],
+      [
+        "Yamaha: bảo hành 'tích lũy' theo phiếu bảo dưỡng miễn phí",
+        "<p></p>"
+      ],
+      [
+        "Sửa, thay dầu ở tiệm ngoài: điều khoản nói gì",
+        "<p></p>"
+      ],
+      [
+        "Những thứ không bao giờ được bảo hành: phụ tùng hao mòn, ngập nước, thủy kích",
+        "<p></p>"
+      ],
+      [
+        "Giữ bằng chứng bảo dưỡng: sổ, ứng dụng, hóa đơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành xe từ 350cc trở xuống (áp dụng từ ngày 15/8/2025, đọc 14/10/2026): thời hạn tính từ ngày kích hoạt bảo hành; kích hoạt trong 7 ngày kể từ ngày mua: xe (trừ bình điện) 36 tháng hoặc 30.000 km, bình điện 12V 12 tháng hoặc 10.000 km, bình điện hệ thống Hybrid 36 tháng hoặc 30.000 km (tùy điều kiện nào đến trước); kích hoạt ngày 8–30: 35 tháng (bình 12V 11 tháng); ngày 31–60: 34 tháng (bình 12V 10 tháng); từ ngày 61: 33 tháng (bình 12V 9 tháng). Bảo hành có hiệu lực từ khi kích hoạt thành công trên ứng dụng My Honda+.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành xe từ 350cc trở xuống, mục 'Quyền lợi và nghĩa vụ của khách hàng' (đọc 14/10/2026): 'Trong trường hợp không chú ý các điểm này, chúng tôi từ chối sửa chữa bảo hành cho quý khách: Sử dụng xe theo đúng phương pháp đã hướng dẫn trong sách hướng dẫn sử dụng. Tiến hành “kiểm tra trước khi vận hành” theo đúng hướng dẫn. Tiến hành kiểm tra định kỳ đúng lịch theo sách hướng dẫn sử dụng. Thay thế các bộ phận định kỳ, các chất lỏng, dầu mỡ theo đúng sách hướng dẫn sử dụng đã quy định.' Mục lưu ý: 'Nếu quý khách không thực hiện đúng & đủ, quý khách sẽ không được đảm bảo quyền lợi theo Chính sách bảo hành này đồng thời chúng tôi có thể từ chối sửa chữa bảo hành những hư hỏng do việc thiếu bảo dưỡng gây ra.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành xe từ 350cc trở xuống, mục 'Một số trường hợp không bao gồm trong bảo hành' (đọc 14/10/2026): không bảo hành hư hỏng do sửa chữa/điều chỉnh không phải do Cửa hàng Honda ủy nhiệm tiến hành; dùng xe không theo sách hướng dẫn (tải trọng tối đa, số người chở...); thay đổi trái phép so với thiết kế; dùng phụ tùng hoặc nhiên liệu, dầu nhờn (dầu động cơ, dầu phanh, dung dịch làm mát...) khác thông số trong sách; rỉ sét, bạc màu sơn, hao mòn tự nhiên; hư hỏng do lũ lụt, sử dụng xe trong điều kiện ngập nước, thủy kích, tai nạn; hư hỏng do bảo quản lâu ngày như cao su lão hóa, dầu mỡ biến chất; chuột cắn, muối, hóa chất. Những bộ phận được thay tại cửa hàng không phải Cửa hàng Honda ủy nhiệm không thuộc phạm vi bảo hành.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/chinh-sach-bao-hanh-xe",
+        "quote": "Honda Việt Nam, Chính sách bảo hành, Bảng 1 'Các phụ tùng hao mòn theo thời gian sử dụng' (đọc 14/10/2026): bugi, lưới lọc dầu máy, lọc gió, lưới lọc xăng, đĩa ly hợp, má phanh, guốc phanh, xích tải, nhông tải (đĩa xích), dây đai và bi văng ly hợp, săm lốp, bóng đèn, cầu chì, chổi than và cổ góp mô-tơ đề, gioăng đệm, chi tiết cao su, các loại tương tự. Bảng 2 phụ phẩm, dầu mỡ: dầu động cơ, dầu phanh, dầu truyền động cuối, dung dịch làm mát, các loại dầu mỡ khác.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/dich-vu/bao-hanh-san-pham/",
+        "quote": "Yamaha Motor Việt Nam, trang Bảo hành sản phẩm (đọc 14/10/2026): xe từ 400cc trở xuống có bảo trì định kỳ miễn phí (có điều kiện) 09 lần trong 03 năm và bảo hành (có điều kiện) 03 năm hoặc 30.000 km; 'Bảo trì định kỳ đủ và đúng: Các phiếu bảo trì miễn phí phải được sử dụng đầy đủ và đúng thời gian quy định trên mỗi phiếu.' Điều kiện: làm đủ, đúng hạn lần 1, 2, 3 trong năm đầu tại Đại lý Yamaha Town thì được gia hạn thêm 01 năm hoặc 10.000 km (tổng 2 năm hoặc 20.000 km); tiếp tục đủ lần 4, 5, 6 trong năm thứ hai thì thêm 1 năm hoặc 10.000 km nữa (tổng 3 năm hoặc 30.000 km). Yamaha có quyền từ chối bảo hành hư hỏng xuất phát từ việc sửa chữa/điều chỉnh tại nơi không phải Đại lý Yamaha Town hoặc Revzone. Ắc quy 01 năm hoặc 10.000 km; hư hỏng do sạc, xả quá mức không được bảo hành.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/dich-vu/bao-hanh-san-pham/",
+        "quote": "Yamaha Motor Việt Nam, trang Bảo hành sản phẩm, mục 2.4 Chính sách bảo hành 5 năm hoặc 50.000 km (đọc 14/10/2026): áp dụng cho các dòng xe Yamaha thông báo trên website tại từng thời điểm; điều kiện gồm đăng ký xe trên ứng dụng My Yamaha Motor và bảo dưỡng miễn phí đủ, đúng thời gian 9 lần trong 3 năm tại đại lý ủy nhiệm. Mục 2.3: bộ xi lanh và piston DiASil bảo hành 5 năm hoặc 50.000 km nhưng không được bảo hành nếu do lọc gió bẩn, đi vào chỗ nước ngập sâu, lâu không thay nhớt, thiếu nhớt.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00608"
+  }
+}

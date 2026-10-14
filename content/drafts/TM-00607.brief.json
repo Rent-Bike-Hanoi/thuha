@@ -1,0 +1,173 @@
+{
+  "writer": "writer-w30",
+  "queued": "2026-10-14T03:26:40.312700+00:00",
+  "topic": {
+    "topic_id": "TM-00607",
+    "url": "/bao-duong/chay-ra-xe-may-moi/",
+    "title": "Chạy rà xe máy mới: 500 km đầu đi thế nào, có nên nổ máy tại chỗ",
+    "hub": "bao-duong",
+    "subtopic": "lich-bao-duong",
+    "primary_keyword": "chạy rà xe máy mới",
+    "secondary_keywords": [
+      "chạy rô đa xe máy",
+      "chạy roda xe mới",
+      "xe mới mua có cần chạy rà không",
+      "nổ máy tại chỗ để rô đa",
+      "chạy rà xe ga bao nhiêu km",
+      "500 km đầu xe mới"
+    ],
+    "intent": "commercial",
+    "user_problem": "Người vừa mua xe máy mới ở Hà Nội (hoặc vừa nhận xe mới tinh) muốn biết trong mấy trăm km đầu phải đi thế nào: có giới hạn tốc độ không, chở nặng được không, có nên nổ máy tại chỗ cho 'rô đa' như nhiều người vẫn làm.",
+    "information_gain": "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/ chỉ nói mốc thay dầu 1.000 km và lý do mạt kim loại; /bao-duong/xe-may-bi-rung-tay-lai/ có một câu FAQ về 500 km chạy rà; các trang mẫu /xe-may/honda-vario-160/, /xe-may/honda-winner-r/ chỉ nhắc 'có mục chạy rà'. Chưa bài nào trả lời trọn câu hỏi cách chạy rà: bài mới gom hướng dẫn 500 km của sách Air Blade (tránh khởi động hết ga, tăng tốc nhanh, phanh gấp), 4 lưu ý trong hỏi đáp Honda (không chạy hết ga, không chở quá 60% tải trọng, không giữ một tốc độ suốt quãng dài, tránh tăng tốc đột ngột) và câu trả lời của Honda rằng nổ máy tại chỗ để rô đa là không nên; đặt cạnh bài của Yamaha (1.000 km, nổ máy khoảng 1 phút, không quá 5 phút) để chỉ ra hai hãng nói khác nhau và người dùng phải theo sổ của chính xe mình.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=ch%E1%BA%A1y+r%C3%A0",
+        "quote": "Honda Việt Nam, Câu hỏi thường gặp 'Có nên nổ máy tại chỗ để chạy rô đa (chạy rà) xe hay không?' (cập nhật 21/09/2021, đọc 14/10/2026): khi nổ máy tại chỗ (đặc biệt xe làm mát bằng không khí) khả năng cung cấp gió làm mát động cơ rất kém, kể cả dùng nước xối hay quạt thổi; nổ máy tại chỗ thì chỉ động cơ hoạt động còn phần truyền lực không hoạt động mà phần này cũng cần chạy rà, nên nổ máy tại chỗ để rô đa là không nên. Honda lưu ý giai đoạn chạy rà trong 500 km đầu tiên: không nên chạy hết ga; không nên chở vượt quá 60% tải trọng của xe; không nên chạy thường xuyên trên một đoạn đường dài ở một chế độ tốc độ; tránh tăng tốc đột ngột. Sau giai đoạn chạy rà, thay dầu máy càng sớm càng có lợi cho xe.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 14/10/2026), mục 'Thời gian chạy rà' (phần An toàn xe máy): 'Trong 500 km (300 dặm) đầu tiên, hãy tuân theo những hướng dẫn sau để đảm bảo độ ổn định và hiệu suất của xe trong tương lai. Tránh khởi động hết ga và tăng tốc nhanh. Tránh phanh gấp. Lái xe cẩn thận.' Cùng trang có LƯU Ý: 'Nổ máy tại chỗ trong thời gian dài có thể làm hỏng động cơ do điều kiện làm mát và bôi trơn không đảm bảo.'",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục 'Thời gian chạy rà': 'Trong 500 km (300 dặm) đầu tiên ... Tránh khởi động hết ga và tăng tốc nhanh. Tránh phanh gấp và về số nhanh. Lái xe cẩn thận.' Mục Khởi động động cơ, LƯU Ý: 'Để xe nổ cầm chừng quá lâu hoặc vặn ga liên tục có thể làm hỏng động cơ và hệ thống xả.'",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/cach-chay-roda-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, bài 'Bí quyết để xe máy mới luôn bền bỉ: Chạy roda đúng cách' (đăng 21/11/2023, đọc 14/10/2026): Yamaha nói về chạy roda trong 1000 km đầu, mô tả là chạy ở vận tốc 40 km/h, giữ đều ga, không chạy quá nhanh và tăng ga đột ngột; khuyên nổ máy khoảng 1 phút trước khi chạy để nhớt được bơm lên; với xe tay ga gợi ý 150 km đầu khoảng 20 km/h, 150–2.000 km khoảng 40 km/h, 2.000–3.000 km tối đa khoảng 50–60 km/h; xe số chạy số 1 ở 0–10 km/h, số 2 ở 10–25 km/h, số 3 ở 25–40 km/h, số 4 từ 40 km/h; thay nhớt lần đầu khi đi được 500–1.000 km; không nổ máy tại chỗ lâu hơn 5 phút vì có thể làm động cơ quá nhiệt.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/im0nZUX5oUFckKyXnVNi.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Winner R (đọc 14/10/2026): sách có mục 'Thời gian chạy rà' trong phần An toàn xe máy; bảng Lịch bảo dưỡng ghi 'Hệ thống côn' được kiểm tra ở mốc 1.000 km rồi mỗi 6.000 km, tức lần kiểm tra đầu trùng với cuối giai đoạn xe mới.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chạy rà xe máy mới"
+      }
+    ],
+    "notes": "Honda (500 km, không nổ máy tại chỗ để rô đa) và Yamaha (1.000 km, nổ máy khoảng 1 phút, không quá 5 phút; mốc tốc độ cụ thể) nói khác nhau: viết rõ đây là hướng dẫn của từng hãng, xe khác theo sổ của xe đó; không gộp thành 'chuẩn chung'. Bài Yamaha là bài tin tức trên trang hãng, không phải sách hướng dẫn; các mốc tốc độ của Yamaha nên ghi là 'Yamaha gợi ý'. Yamaha còn ghi thay nhớt mỗi 2.000 km sau đó, khác Honda (6.000 km) – không đưa con số này vào làm khuyến nghị chung, dẫn sang /bao-duong/xe-may/thay-nhot/. Chưa đọc được sổ hướng dẫn Yamaha cho một mẫu cụ thể. Cửa hàng không có thông tin về xe mới cho thuê; không nói xe thuê là xe mới.",
+    "outline": [
+      "Câu trả lời ngắn: 500 km đầu theo Honda, 1.000 km theo bài của Yamaha",
+      "Honda dặn gì trong giai đoạn chạy rà: hết ga, 60% tải trọng, tốc độ đều, tăng tốc",
+      "Có nên nổ máy tại chỗ để rô đa? Honda và Yamaha nói khác nhau thế nào",
+      "Mốc tốc độ Yamaha gợi ý cho xe ga và xe số",
+      "Hết chạy rà thì làm gì: thay dầu lần đầu, kiểm tra 1.000 km",
+      "Xe mới đi Hà Nội giờ cao điểm: áp dụng thế nào cho thực tế"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
+      "/bao-duong/xe-may/thay-nhot/",
+      "/xe-may/xe-may-cho-duoc-bao-nhieu-kg/",
+      "/bao-duong/xe-may-bi-nong-may-quat-ket-nuoc-chay-lien-tuc/",
+      "/bao-duong/xe-may-kho-no-buoi-sang/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00607.json",
+  "draft_template": {
+    "id": "TM-00607",
+    "url": "/bao-duong/chay-ra-xe-may-moi/",
+    "title": "Chạy rà xe máy mới: 500 km đầu đi thế nào, có nên nổ máy tại chỗ",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chạy rà xe máy mới, chạy rô đa xe máy, chạy roda xe mới, xe mới mua có cần chạy rà không, nổ máy tại chỗ để rô đa, chạy rà xe ga bao nhiêu km, 500 km đầu xe mới",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: 500 km đầu theo Honda, 1.000 km theo bài của Yamaha",
+        "<p></p>"
+      ],
+      [
+        "Honda dặn gì trong giai đoạn chạy rà: hết ga, 60% tải trọng, tốc độ đều, tăng tốc",
+        "<p></p>"
+      ],
+      [
+        "Có nên nổ máy tại chỗ để rô đa? Honda và Yamaha nói khác nhau thế nào",
+        "<p></p>"
+      ],
+      [
+        "Mốc tốc độ Yamaha gợi ý cho xe ga và xe số",
+        "<p></p>"
+      ],
+      [
+        "Hết chạy rà thì làm gì: thay dầu lần đầu, kiểm tra 1.000 km",
+        "<p></p>"
+      ],
+      [
+        "Xe mới đi Hà Nội giờ cao điểm: áp dụng thế nào cho thực tế",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap?category=&category_tab=&search=ch%E1%BA%A1y+r%C3%A0",
+        "quote": "Honda Việt Nam, Câu hỏi thường gặp 'Có nên nổ máy tại chỗ để chạy rô đa (chạy rà) xe hay không?' (cập nhật 21/09/2021, đọc 14/10/2026): khi nổ máy tại chỗ (đặc biệt xe làm mát bằng không khí) khả năng cung cấp gió làm mát động cơ rất kém, kể cả dùng nước xối hay quạt thổi; nổ máy tại chỗ thì chỉ động cơ hoạt động còn phần truyền lực không hoạt động mà phần này cũng cần chạy rà, nên nổ máy tại chỗ để rô đa là không nên. Honda lưu ý giai đoạn chạy rà trong 500 km đầu tiên: không nên chạy hết ga; không nên chở vượt quá 60% tải trọng của xe; không nên chạy thường xuyên trên một đoạn đường dài ở một chế độ tốc độ; tránh tăng tốc đột ngột. Sau giai đoạn chạy rà, thay dầu máy càng sớm càng có lợi cho xe.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 14/10/2026), mục 'Thời gian chạy rà' (phần An toàn xe máy): 'Trong 500 km (300 dặm) đầu tiên, hãy tuân theo những hướng dẫn sau để đảm bảo độ ổn định và hiệu suất của xe trong tương lai. Tránh khởi động hết ga và tăng tốc nhanh. Tránh phanh gấp. Lái xe cẩn thận.' Cùng trang có LƯU Ý: 'Nổ máy tại chỗ trong thời gian dài có thể làm hỏng động cơ do điều kiện làm mát và bôi trơn không đảm bảo.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục 'Thời gian chạy rà': 'Trong 500 km (300 dặm) đầu tiên ... Tránh khởi động hết ga và tăng tốc nhanh. Tránh phanh gấp và về số nhanh. Lái xe cẩn thận.' Mục Khởi động động cơ, LƯU Ý: 'Để xe nổ cầm chừng quá lâu hoặc vặn ga liên tục có thể làm hỏng động cơ và hệ thống xả.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/cach-chay-roda-xe-may/",
+        "quote": "Yamaha Motor Việt Nam, bài 'Bí quyết để xe máy mới luôn bền bỉ: Chạy roda đúng cách' (đăng 21/11/2023, đọc 14/10/2026): Yamaha nói về chạy roda trong 1000 km đầu, mô tả là chạy ở vận tốc 40 km/h, giữ đều ga, không chạy quá nhanh và tăng ga đột ngột; khuyên nổ máy khoảng 1 phút trước khi chạy để nhớt được bơm lên; với xe tay ga gợi ý 150 km đầu khoảng 20 km/h, 150–2.000 km khoảng 40 km/h, 2.000–3.000 km tối đa khoảng 50–60 km/h; xe số chạy số 1 ở 0–10 km/h, số 2 ở 10–25 km/h, số 3 ở 25–40 km/h, số 4 từ 40 km/h; thay nhớt lần đầu khi đi được 500–1.000 km; không nổ máy tại chỗ lâu hơn 5 phút vì có thể làm động cơ quá nhiệt.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/im0nZUX5oUFckKyXnVNi.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Winner R (đọc 14/10/2026): sách có mục 'Thời gian chạy rà' trong phần An toàn xe máy; bảng Lịch bảo dưỡng ghi 'Hệ thống côn' được kiểm tra ở mốc 1.000 km rồi mỗi 6.000 km, tức lần kiểm tra đầu trùng với cuối giai đoạn xe mới.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00607"
+  }
+}

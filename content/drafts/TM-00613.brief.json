@@ -1,0 +1,186 @@
+{
+  "writer": "writer-w30",
+  "queued": "2026-10-14T03:26:40.314680+00:00",
+  "topic": {
+    "topic_id": "TM-00613",
+    "url": "/bao-duong/den-phanh-xe-may-khong-sang/",
+    "title": "Đèn phanh xe máy không sáng hoặc sáng mãi: kiểm tra công tắc, bóng",
+    "hub": "bao-duong",
+    "subtopic": "su-co-thuong-gap",
+    "primary_keyword": "đèn phanh xe máy không sáng",
+    "secondary_keywords": [
+      "đèn phanh xe máy sáng liên tục",
+      "công tắc đèn phanh xe máy",
+      "chỉnh công tắc đèn phanh sau",
+      "thay bóng đèn phanh xe máy",
+      "đèn hậu LED không sáng",
+      "đèn phanh xe số không sáng khi đạp phanh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe được người đi sau nhắc 'đèn phanh không sáng', hoặc thấy đèn phanh cứ sáng dù không bóp phanh; họ cần biết lỗi ở bóng, cầu chì hay công tắc, cái nào tự xem được và cái nào phải đưa ra cửa hàng.",
+    "information_gain": "/bao-duong/den-xe-may-bi-mo-nhap-nhay/ nói chung về đèn mờ, nhấp nháy (bình điện, tiếp xúc, bóng halogen, cụm LED); /bao-duong/dau-phanh-xe-may-bao-lau-thay/ chỉ liệt kê 'công tắc đèn phanh' trong lịch. Chưa bài nào nói riêng về đèn phanh. Bài mới tách hai triệu chứng (không sáng / sáng mãi), giải thích đèn phanh bật bằng công tắc ở tay phanh và (xe số, xe côn tay) ở bàn đạp phanh sau, hướng dẫn chỉnh công tắc đèn phanh sau theo sổ Wave Alpha và Winner R (vặn ốc theo chiều A nếu sáng quá trễ, chiều B nếu quá sớm), mốc kiểm tra công tắc mỗi 6.000 km của Winner R, bóng 12 V-18/5 W của Wave Alpha so với cụm LED của Air Blade, Winner R (LED không sáng thì mang tới cửa hàng ủy nhiệm), và việc kiểm tra đèn trước mỗi lần lái.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục Điều chỉnh công tắc đèn phanh (tr. 64): 'Kiểm tra hoạt động của công tắc đèn phanh. Giữ công tắc đèn phanh và vặn ốc điều chỉnh theo chiều A nếu công tắc hoạt động quá trễ, hoặc vặn ốc theo chiều B nếu công tắc hoạt động quá sớm.' Thông số kỹ thuật: đèn phanh/đèn hậu 12 V-18/5 W.",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục Cháy bóng đèn (tr. 72–74): vặn khóa điện sang OFF hoặc LOCK; để bóng đèn nguội trước khi thay; không dùng bóng đèn khác với loại được chỉ định; đảm bảo bóng thay thế hoạt động tốt trước khi lái xe. Đèn phanh/đèn hậu: tháo chụp đèn phanh/đèn hậu và chụp đèn báo rẽ bằng cách tháo vít và lẫy, ấn nhẹ bóng vào và xoay ngược chiều kim đồng hồ để tháo, lắp bóng mới theo thứ tự ngược lại.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/im0nZUX5oUFckKyXnVNi.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Winner R (đọc 14/10/2026), mục Điều chỉnh công tắc đèn phanh (tr. 86): kiểm tra hoạt động của công tắc đèn phanh; để điều chỉnh, tháo ốp bên phải, giữ công tắc và vặn ốc điều chỉnh theo chiều A nếu công tắc hoạt động quá trễ, chiều B nếu quá sớm. Bảng Lịch bảo dưỡng (tr. 62): 'Công tắc đèn phanh' kiểm tra (K) ở các mốc 6, 12, 18, 24, 30, 36 nghìn km và hằng năm; 'Đèn/còi' kiểm tra trước khi lái. Thông số: đèn phanh/đèn hậu LED.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 14/10/2026), mục Cháy bóng đèn (tr. 127): 'Đèn pha, đèn định vị, đèn phanh, đèn hậu, đèn soi biển số, đèn ngăn đựng đồ sử dụng nhiều đèn LED. Nếu thấy một bóng LED nào không sáng, hãy liên hệ với Cửa hàng Honda ủy nhiệm để kiểm tra.' Mục Kiểm tra xe trước khi lái (tr. 81): 'Đèn và còi - Kiểm tra đèn, đèn báo và còi xem có hoạt động đúng chức năng không.'",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), mục Cầu chì (tr. 84): 'Nếu một chi tiết điện nào đó trên xe không hoạt động, hãy kiểm tra và thay thế cầu chì bị đứt'; thay bằng cầu chì cùng thông số (cầu chì chính 20 A; cầu chì khác 15 A, 10 A, 5 A).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đèn phanh xe máy không sáng"
+      }
+    ],
+    "notes": "Sổ Air Blade, Vision không có mục chỉnh công tắc đèn phanh ở tay phanh – không viết hướng dẫn chỉnh cho xe ga; chỉ xe có phanh sau đạp chân (Wave Alpha, Winner R) mới có ốc chỉnh theo sổ. Chưa đọc văn bản xử phạt về đèn phanh hôm nay: KHÔNG nêu mức phạt; nếu cần, người viết phải lấy Nghị định 168/2024 từ vbpl.vn/thuvienphapluat và dẫn đúng điều, khoản. Nguyên nhân 'đèn sáng mãi do công tắc kẹt hoặc chỉnh quá sớm' suy ra từ hướng dẫn chỉnh 'quá sớm/quá trễ' của sổ – viết thận trọng. Khi information_gain nhắc bài cầu chì: nếu row cầu chì (cau-chi-xe-may-bi-dut) được duyệt thì liên kết sang đó.",
+    "outline": [
+      "Câu trả lời ngắn: đèn phanh không sáng hay sáng mãi thường do đâu",
+      "Đèn phanh bật thế nào: công tắc ở tay phanh và bàn đạp phanh sau",
+      "Kiểm tra 2 phút: nhờ người đứng sau, thử từng phanh",
+      "Xe số, xe côn tay: chỉnh công tắc đèn phanh sau theo sổ Wave Alpha, Winner R",
+      "Bóng 12 V-18/5 W hay cụm LED: cái nào tự thay được",
+      "Cầu chì và khi nào phải ra cửa hàng"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/den-xe-may-bi-mo-nhap-nhay/",
+      "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
+      "/bao-duong/ma-phanh-xe-may-bao-lau-thay/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00613.json",
+  "draft_template": {
+    "id": "TM-00613",
+    "url": "/bao-duong/den-phanh-xe-may-khong-sang/",
+    "title": "Đèn phanh xe máy không sáng hoặc sáng mãi: kiểm tra công tắc, bóng",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đèn phanh xe máy không sáng, đèn phanh xe máy sáng liên tục, công tắc đèn phanh xe máy, chỉnh công tắc đèn phanh sau, thay bóng đèn phanh xe máy, đèn hậu LED không sáng, đèn phanh xe số không sáng khi đạp phanh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đèn phanh không sáng hay sáng mãi thường do đâu",
+        "<p></p>"
+      ],
+      [
+        "Đèn phanh bật thế nào: công tắc ở tay phanh và bàn đạp phanh sau",
+        "<p></p>"
+      ],
+      [
+        "Kiểm tra 2 phút: nhờ người đứng sau, thử từng phanh",
+        "<p></p>"
+      ],
+      [
+        "Xe số, xe côn tay: chỉnh công tắc đèn phanh sau theo sổ Wave Alpha, Winner R",
+        "<p></p>"
+      ],
+      [
+        "Bóng 12 V-18/5 W hay cụm LED: cái nào tự thay được",
+        "<p></p>"
+      ],
+      [
+        "Cầu chì và khi nào phải ra cửa hàng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục Điều chỉnh công tắc đèn phanh (tr. 64): 'Kiểm tra hoạt động của công tắc đèn phanh. Giữ công tắc đèn phanh và vặn ốc điều chỉnh theo chiều A nếu công tắc hoạt động quá trễ, hoặc vặn ốc theo chiều B nếu công tắc hoạt động quá sớm.' Thông số kỹ thuật: đèn phanh/đèn hậu 12 V-18/5 W.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục Cháy bóng đèn (tr. 72–74): vặn khóa điện sang OFF hoặc LOCK; để bóng đèn nguội trước khi thay; không dùng bóng đèn khác với loại được chỉ định; đảm bảo bóng thay thế hoạt động tốt trước khi lái xe. Đèn phanh/đèn hậu: tháo chụp đèn phanh/đèn hậu và chụp đèn báo rẽ bằng cách tháo vít và lẫy, ấn nhẹ bóng vào và xoay ngược chiều kim đồng hồ để tháo, lắp bóng mới theo thứ tự ngược lại.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/im0nZUX5oUFckKyXnVNi.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Winner R (đọc 14/10/2026), mục Điều chỉnh công tắc đèn phanh (tr. 86): kiểm tra hoạt động của công tắc đèn phanh; để điều chỉnh, tháo ốp bên phải, giữ công tắc và vặn ốc điều chỉnh theo chiều A nếu công tắc hoạt động quá trễ, chiều B nếu quá sớm. Bảng Lịch bảo dưỡng (tr. 62): 'Công tắc đèn phanh' kiểm tra (K) ở các mốc 6, 12, 18, 24, 30, 36 nghìn km và hằng năm; 'Đèn/còi' kiểm tra trước khi lái. Thông số: đèn phanh/đèn hậu LED.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 14/10/2026), mục Cháy bóng đèn (tr. 127): 'Đèn pha, đèn định vị, đèn phanh, đèn hậu, đèn soi biển số, đèn ngăn đựng đồ sử dụng nhiều đèn LED. Nếu thấy một bóng LED nào không sáng, hãy liên hệ với Cửa hàng Honda ủy nhiệm để kiểm tra.' Mục Kiểm tra xe trước khi lái (tr. 81): 'Đèn và còi - Kiểm tra đèn, đèn báo và còi xem có hoạt động đúng chức năng không.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), mục Cầu chì (tr. 84): 'Nếu một chi tiết điện nào đó trên xe không hoạt động, hãy kiểm tra và thay thế cầu chì bị đứt'; thay bằng cầu chì cùng thông số (cầu chì chính 20 A; cầu chì khác 15 A, 10 A, 5 A).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00613"
+  }
+}
