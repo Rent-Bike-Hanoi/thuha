@@ -34,7 +34,12 @@ Trạng thái 14/10: OpenSEO còn 11 credit, không đủ cho một lần gọi 
 - Khi có: lấy volume cho ~150 từ khoá ưu tiên (trang tiền + cụm thuê xe + bài có hiển thị trong GSC), ghi vào `data/keyword-metrics.jsonl` (ngày + nguồn), xếp thứ tự nâng cấp theo nhu cầu.
 - Trong lúc chờ: dùng 3 báo cáo Ubersuggest/ngày cho từ khoá trang tiền.
 
-## Kiểm tra mỗi PR
+## Quy trình định kỳ (áp dụng liên tục, không phải hạng mục cần hoàn thành)
+
+- Mỗi PR chạy bộ kiểm tra dưới đây (đã chạy cho #36, #38).
+- Đo GEO tuần đầu mỗi tháng theo `docs/GEO-bo-cau-hoi-kiem-tra.md` (mốc 10/2026 đã ghi).
+
+### Kiểm tra mỗi PR
 
 `content_factory.py run --dry-run`, 4 bộ test, `topic_matrix.py validate`, `build.py` (rebuild không diff), `validate_factory_site.py`.
 
@@ -55,7 +60,7 @@ Hiện trạng (kiểm 15/10): robots.txt cho phép mọi bot; bài có BlogPost
 
 Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domain không thấy liên hệ với trích dẫn AI), nhồi từ khoá, nội dung viết riêng cho bot.
 
-## Trạng thái 15/10/2026
+## Trạng thái 15/10/2026: HOÀN THÀNH (A, B, C, D)
 
 - A1 xong: 0 link gãy; kiểm tra link gãy trong thân bài đã đưa vào `scripts/validate_factory_site.py` (A5).
 - A2 xong: Bài liên quan theo chủ đề + ô thứ 4 cho bài ít được trỏ tới.
