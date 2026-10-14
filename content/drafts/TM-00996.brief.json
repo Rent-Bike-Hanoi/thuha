@@ -1,0 +1,144 @@
+{
+  "writer": "wY",
+  "queued": "2026-10-14T17:06:05.392622+00:00",
+  "topic": {
+    "topic_id": "TM-00996",
+    "url": "/du-lich/truong-trung-vuong-dong-khanh-hang-bai/",
+    "title": "Trường Trưng Vương (Đồng Khánh) Hàng Bài: trường nữ 1917, di tích 2004",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "trường trưng vương đồng khánh",
+    "secondary_keywords": [
+      "trường nữ sinh đồng khánh hà nội",
+      "trường thcs trưng vương hàng bài",
+      "trường nữ học an nam",
+      "kiến trúc pháp trường trưng vương"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi dạo khu phố Pháp quanh Hồ Gươm muốn biết ngôi trường vàng trên phố Hàng Bài là trường gì, có lịch sử ra sao và nên ngắm thế nào.",
+    "information_gain": "Site có /du-lich/pho-phan-dinh-phung/, /du-lich/bac-bo-phu-12-ngo-quyen/ và /du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/ về khu phố Pháp nhưng chưa có trang về trường Đồng Khánh – Trưng Vương. Bài mới cho: mốc 1917 (Trường Nữ học An Nam, trường nữ duy nhất Bắc Kỳ), lý do gọi Đồng Khánh (tên phố cũ), cổng ra Hàng Bài gần như nguyên bản, hai dãy A và D, phù điêu 'song long chầu bảo kiếm', trụ sở Bộ Quốc phòng đầu kháng chiến với 24 chiến sĩ Tiểu đoàn 77 hy sinh, di tích lịch sử cách mạng 2004; và phân biệt với trường Đồng Khánh ở Huế.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/ngoi-truong-cap-2-hon-100-nam-tuoi-tung-la-tru-so-bo-quoc-phong-noi-dao-tao-cac-than-dong-toan-hoc-ngo-bao-chau-dam-thanh-son-295985.html",
+        "quote": "Người Quan Sát, 'Ngôi trường cấp 2 hơn 100 năm tuổi từng là trụ sở Bộ Quốc phòng...' (trang hiển thị 7/6/2026): trường THCS Trưng Vương thành lập năm 1917 tên Trường Nữ học An Nam, trường nữ sinh duy nhất Bắc Kỳ; nằm trên phố Đồng Khánh (nay là Hàng Bài) nên gọi Trường Nữ học Đồng Khánh. Cổng ra Hàng Bài gần như không đổi; khung gỗ, mái ngói đua rộng; hàng xà cừ cổ thụ, hai dãy nhà A và D gần như nguyên vẹn, màu vàng kem cửa chớp xanh; phù điêu 'song long chầu bảo kiếm' trên mái tầng hai phòng hội đồng. Đầu kháng chiến chống Pháp trường là trụ sở Bộ Quốc phòng, 24 chiến sĩ Tiểu đoàn 77, Trung đoàn Thăng Long hy sinh; năm 2004 được công nhận di tích lịch sử cách mạng, có khu tưởng niệm liệt sĩ mùa đông 1946.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/tung-bung-khai-giang-o-ngoi-truong-hon-100-nam-tuoi-giua-long-ha-noi-262497.html",
+        "quote": "Báo Văn hóa, 'Tưng bừng khai giảng ở ngôi trường hơn 100 năm tuổi giữa lòng Hà Nội' (5/9/2026): trường THCS Trưng Vương (tiền thân là Trường Đồng Khánh) tọa lạc trên phố Hàng Bài, hơn 100 năm lịch sử, là một trong những trường lâu đời nhất Hà Nội, vẫn giữ nét cổ kính mang dấu ấn kiến trúc Pháp; lãnh đạo phường Cửa Nam dự lễ khai giảng năm học 2026–2027.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lifestyle.znews.vn/5-ngoi-truong-hang-tram-tuoi-cua-ha-noi-post466772.html",
+        "quote": "Zing (Znews), '5 ngôi trường hàng trăm tuổi của Hà Nội' (10/10/2014): trường THCS Trưng Vương (26 Hàng Bài, Hoàn Kiếm) thành lập năm 1917, khi ấy là trường nữ sinh Đồng Khánh – trường duy nhất miền Bắc dành riêng cho học sinh nữ; sau 1945 dạy chung nam nữ rồi đổi tên Trưng Vương; đào tạo nhiều tài năng Toán như Hoàng Xuân Sính.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "trường trưng vương đồng khánh"
+      }
+    ],
+    "notes": "Trường đang dạy học, không mở cho khách: viết là ngắm cổng từ phố Hàng Bài. Có trường Đồng Khánh ở Huế cũng lập 1917 (Báo Pháp Luật) – không lẫn. Năm 1917 có trong cả 2 nguồn; 2004 có trong Người Quan Sát. Không có tên kiến trúc sư – không nêu. Không có thông tin gửi xe.",
+    "outline": [
+      "Trường nữ Đồng Khánh 1917 trên phố Hàng Bài",
+      "Kiến trúc Pháp còn giữ: cổng, dãy A–D, phù điêu",
+      "Trụ sở Bộ Quốc phòng mùa đông 1946",
+      "Di tích lịch sử cách mạng 2004 và khu tưởng niệm",
+      "Đừng nhầm với trường Đồng Khánh ở Huế",
+      "Ngắm trường khi dạo khu phố Pháp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-phan-dinh-phung/",
+      "/du-lich/bac-bo-phu-12-ngo-quyen/",
+      "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00996.json",
+  "draft_template": {
+    "id": "TM-00996",
+    "url": "/du-lich/truong-trung-vuong-dong-khanh-hang-bai/",
+    "title": "Trường Trưng Vương (Đồng Khánh) Hàng Bài: trường nữ 1917, di tích 2004",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "trường trưng vương đồng khánh, trường nữ sinh đồng khánh hà nội, trường thcs trưng vương hàng bài, trường nữ học an nam, kiến trúc pháp trường trưng vương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Trường nữ Đồng Khánh 1917 trên phố Hàng Bài",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc Pháp còn giữ: cổng, dãy A–D, phù điêu",
+        "<p></p>"
+      ],
+      [
+        "Trụ sở Bộ Quốc phòng mùa đông 1946",
+        "<p></p>"
+      ],
+      [
+        "Di tích lịch sử cách mạng 2004 và khu tưởng niệm",
+        "<p></p>"
+      ],
+      [
+        "Đừng nhầm với trường Đồng Khánh ở Huế",
+        "<p></p>"
+      ],
+      [
+        "Ngắm trường khi dạo khu phố Pháp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/ngoi-truong-cap-2-hon-100-nam-tuoi-tung-la-tru-so-bo-quoc-phong-noi-dao-tao-cac-than-dong-toan-hoc-ngo-bao-chau-dam-thanh-son-295985.html",
+        "quote": "Người Quan Sát, 'Ngôi trường cấp 2 hơn 100 năm tuổi từng là trụ sở Bộ Quốc phòng...' (trang hiển thị 7/6/2026): trường THCS Trưng Vương thành lập năm 1917 tên Trường Nữ học An Nam, trường nữ sinh duy nhất Bắc Kỳ; nằm trên phố Đồng Khánh (nay là Hàng Bài) nên gọi Trường Nữ học Đồng Khánh. Cổng ra Hàng Bài gần như không đổi; khung gỗ, mái ngói đua rộng; hàng xà cừ cổ thụ, hai dãy nhà A và D gần như nguyên vẹn, màu vàng kem cửa chớp xanh; phù điêu 'song long chầu bảo kiếm' trên mái tầng hai phòng hội đồng. Đầu kháng chiến chống Pháp trường là trụ sở Bộ Quốc phòng, 24 chiến sĩ Tiểu đoàn 77, Trung đoàn Thăng Long hy sinh; năm 2004 được công nhận di tích lịch sử cách mạng, có khu tưởng niệm liệt sĩ mùa đông 1946.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/tung-bung-khai-giang-o-ngoi-truong-hon-100-nam-tuoi-giua-long-ha-noi-262497.html",
+        "quote": "Báo Văn hóa, 'Tưng bừng khai giảng ở ngôi trường hơn 100 năm tuổi giữa lòng Hà Nội' (5/9/2026): trường THCS Trưng Vương (tiền thân là Trường Đồng Khánh) tọa lạc trên phố Hàng Bài, hơn 100 năm lịch sử, là một trong những trường lâu đời nhất Hà Nội, vẫn giữ nét cổ kính mang dấu ấn kiến trúc Pháp; lãnh đạo phường Cửa Nam dự lễ khai giảng năm học 2026–2027.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lifestyle.znews.vn/5-ngoi-truong-hang-tram-tuoi-cua-ha-noi-post466772.html",
+        "quote": "Zing (Znews), '5 ngôi trường hàng trăm tuổi của Hà Nội' (10/10/2014): trường THCS Trưng Vương (26 Hàng Bài, Hoàn Kiếm) thành lập năm 1917, khi ấy là trường nữ sinh Đồng Khánh – trường duy nhất miền Bắc dành riêng cho học sinh nữ; sau 1945 dạy chung nam nữ rồi đổi tên Trưng Vương; đào tạo nhiều tài năng Toán như Hoàng Xuân Sính.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00996"
+  }
+}

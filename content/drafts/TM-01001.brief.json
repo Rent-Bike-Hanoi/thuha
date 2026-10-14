@@ -1,0 +1,144 @@
+{
+  "writer": "wY",
+  "queued": "2026-10-14T17:06:08.469137+00:00",
+  "topic": {
+    "topic_id": "TM-01001",
+    "url": "/du-lich/nha-tho-phung-khoang/",
+    "title": "Nhà thờ Phùng Khoang: nhà thờ làng từ 1910, Giáng sinh thêm 1.000 chỗ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "nhà thờ phùng khoang",
+    "secondary_keywords": [
+      "giáo xứ phùng khoang",
+      "nhà thờ phùng khoang giáng sinh",
+      "làng phùng khoang",
+      "nhà thờ nam từ liêm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội tìm nơi đi Noel ít chen chúc hơn Nhà thờ Lớn, hoặc tò mò về nhà thờ cổ giữa khu đô thị Phùng Khoang – Thanh Xuân.",
+    "information_gain": "Site có /du-lich/nha-tho-lon-ha-noi/, /du-lich/nha-tho-cua-bac/ và /du-lich/nha-tho-ham-long/ nhưng chưa có nhà thờ nào ở phía tây nam. Bài mới cho: nhà thờ dựng khoảng năm 1910, phong cách tân cổ điển Pháp, khoảng 1.000 giáo dân, mùa Giáng sinh kê thêm khoảng 1.000 chỗ và làm hang đá bằng tay giáo dân, trùng tu gần nhất 2016; cùng lịch sử làng Phùng Khoang (tên gốc Phùng Quang thuộc vùng Kẻ Mọc, câu 'Tiền làng Mọc, thóc làng Khoang', cuối thế kỷ XIX một phần dân theo Công giáo).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ngam-cac-nha-tho-ha-noi-truoc-them-giang-sinh-4830574.html",
+        "quote": "VnExpress, 'Ngắm các nhà thờ Hà Nội trước thềm Giáng sinh' (22/12/2024): nhà thờ giáo xứ Phùng Khoang (Nam Từ Liêm) được xây từ những năm 1910, là nơi sinh hoạt của khoảng 1.000 giáo dân; dịp Noel hai bên hông nhà thờ kê thêm khoảng 1.000 chỗ ngồi; hang đá, cây thông do giáo dân tự làm; bài cũng ghi 'được xây dựng từ những năm 1900', trải qua nhiều lần trùng tu, gần nhất năm 2016.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cac-nha-tho-dep-o-ha-noi-2994676.html",
+        "quote": "VnExpress, 'Các nhà thờ đẹp ở Hà Nội' (23/5/2014): nhà thờ Phùng Khoang nằm ở con đường cùng tên, được xây dựng vào năm 1910 (theo tìm kiếm: phong cách tân cổ điển Pháp). Cùng bài: Nhà thờ Lớn xây 1884–1888, Cửa Bắc 1931–1932, Hàm Long hoàn thành 1934.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/lang-phung-khoang-109987.html",
+        "quote": "Hànộimới, 'Làng Phùng Khoang' (10/10/2006): làng tên gốc Phùng Quang (làng Quang), xưa thuộc vùng Kẻ Mọc; năm 1723 chuyển sang huyện Từ Liêm; năm 1928 có 1.223 nhân khẩu, địa bạ Gia Long ghi 290 mẫu ruộng; câu 'Tiền làng Mọc, thóc làng Khoang'; dân có nghề đúc khóa đồng; cuối thế kỷ XIX một bộ phận dân theo Công giáo nên hình thành Nhà thờ lớn chung cho xứ đạo Phùng Khoang; làng có chùa Thanh Xuân, vốn là Thanh Xuân quán.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà thờ phùng khoang"
+      }
+    ],
+    "notes": "Câu 'phong cách tân cổ điển Pháp' chỉ thấy ở tóm tắt tìm kiếm của bài VnExpress 2014, trong bản tải về chỉ đọc được dòng năm 1910 – nếu dùng phải kiểm lại. VnExpress 2024 tự ghi cả 'những năm 1910' và 'những năm 1900' – viết 'đầu thế kỷ XX, thường ghi năm 1910'. Không có lịch lễ chính thức – không nêu giờ lễ. Không có thông tin gửi xe; nhắc mùa Noel đông, đi sớm.",
+    "outline": [
+      "Nhà thờ Phùng Khoang ở đâu",
+      "Làng Phùng Khoang trong vùng Kẻ Mọc",
+      "Nhà thờ đầu thế kỷ XX và lần trùng tu 2016",
+      "Mùa Giáng sinh: hang đá giáo dân tự làm",
+      "So với Nhà thờ Lớn, Cửa Bắc, Hàm Long",
+      "Lưu ý khi đến dịp lễ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/du-lich/nha-tho-cua-bac/",
+      "/du-lich/nha-tho-ham-long/",
+      "/du-lich/dinh-vong-ha-dinh/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01001.json",
+  "draft_template": {
+    "id": "TM-01001",
+    "url": "/du-lich/nha-tho-phung-khoang/",
+    "title": "Nhà thờ Phùng Khoang: nhà thờ làng từ 1910, Giáng sinh thêm 1.000 chỗ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ phùng khoang, giáo xứ phùng khoang, nhà thờ phùng khoang giáng sinh, làng phùng khoang, nhà thờ nam từ liêm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ Phùng Khoang ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Làng Phùng Khoang trong vùng Kẻ Mọc",
+        "<p></p>"
+      ],
+      [
+        "Nhà thờ đầu thế kỷ XX và lần trùng tu 2016",
+        "<p></p>"
+      ],
+      [
+        "Mùa Giáng sinh: hang đá giáo dân tự làm",
+        "<p></p>"
+      ],
+      [
+        "So với Nhà thờ Lớn, Cửa Bắc, Hàm Long",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đến dịp lễ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ngam-cac-nha-tho-ha-noi-truoc-them-giang-sinh-4830574.html",
+        "quote": "VnExpress, 'Ngắm các nhà thờ Hà Nội trước thềm Giáng sinh' (22/12/2024): nhà thờ giáo xứ Phùng Khoang (Nam Từ Liêm) được xây từ những năm 1910, là nơi sinh hoạt của khoảng 1.000 giáo dân; dịp Noel hai bên hông nhà thờ kê thêm khoảng 1.000 chỗ ngồi; hang đá, cây thông do giáo dân tự làm; bài cũng ghi 'được xây dựng từ những năm 1900', trải qua nhiều lần trùng tu, gần nhất năm 2016.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cac-nha-tho-dep-o-ha-noi-2994676.html",
+        "quote": "VnExpress, 'Các nhà thờ đẹp ở Hà Nội' (23/5/2014): nhà thờ Phùng Khoang nằm ở con đường cùng tên, được xây dựng vào năm 1910 (theo tìm kiếm: phong cách tân cổ điển Pháp). Cùng bài: Nhà thờ Lớn xây 1884–1888, Cửa Bắc 1931–1932, Hàm Long hoàn thành 1934.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/lang-phung-khoang-109987.html",
+        "quote": "Hànộimới, 'Làng Phùng Khoang' (10/10/2006): làng tên gốc Phùng Quang (làng Quang), xưa thuộc vùng Kẻ Mọc; năm 1723 chuyển sang huyện Từ Liêm; năm 1928 có 1.223 nhân khẩu, địa bạ Gia Long ghi 290 mẫu ruộng; câu 'Tiền làng Mọc, thóc làng Khoang'; dân có nghề đúc khóa đồng; cuối thế kỷ XIX một bộ phận dân theo Công giáo nên hình thành Nhà thờ lớn chung cho xứ đạo Phùng Khoang; làng có chùa Thanh Xuân, vốn là Thanh Xuân quán.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01001"
+  }
+}

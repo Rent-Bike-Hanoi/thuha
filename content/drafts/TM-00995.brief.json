@@ -1,0 +1,170 @@
+{
+  "writer": "wY",
+  "queued": "2026-10-14T17:06:04.609897+00:00",
+  "topic": {
+    "topic_id": "TM-00995",
+    "url": "/du-lich/truong-buoi-chu-van-an-thuy-khue/",
+    "title": "Trường Bưởi – Chu Văn An: nhà bát giác 1898 bên Hồ Tây, di tích 2004",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "trường bưởi chu văn an",
+    "secondary_keywords": [
+      "trường chu văn an thụy khuê",
+      "nhà bát giác trường chu văn an",
+      "collège du protectorat hà nội",
+      "trường bưởi hà nội lịch sử"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi vòng Hồ Tây, cựu học sinh và khách thích kiến trúc Pháp muốn biết trường Bưởi ở đâu, còn những tòa nhà thời Pháp nào, vì sao là di tích và có vào xem được không.",
+    "information_gain": "Site có /du-lich/ha-noi/vong-ho-tay-xe-may/, /du-lich/dai-hoc-dong-duong-19-le-thanh-tong/ và /du-lich/pho-phan-dinh-phung/ nhưng chưa trang nào nói về trường Bưởi – Chu Văn An. Bài mới cho: mốc 1908 (Collège du Protectorat), lý do gọi là trường Bưởi (vùng Kẻ Bưởi), nhà bát giác xây 1898 vốn là biệt thự Schneider, các tòa A–E thời Pháp, quy mô hơn 42.000 m2 với 13 tòa nhà, đón bằng di tích lịch sử – văn hóa quốc gia năm 2004; kèm lưu ý đây là trường đang dạy học, chỉ ngắm từ phố Thụy Khuê.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ve-dep-ngoi-truong-110-tuoi-o-ha-noi-3833836.html",
+        "quote": "VnExpress, 'Vẻ đẹp ngôi trường 110 tuổi ở Hà Nội' (4/11/2018): trường THPT Chu Văn An (phường Thụy Khuê, Tây Hồ) nằm ven hồ Tây, tiền thân là Collège du Protectorat (trường Trung học Bảo hộ) do chính quyền Pháp xây năm 1908; tổng diện tích hơn 42.000 m2 với 13 tòa nhà, hội trường Thăng Long 200 chỗ. Tòa nhà cổ nhất là nhà bát giác (thư viện – phòng tự học), xây từ năm 1898, ban đầu là biệt thự Schneider, sau là nơi ở của hiệu trưởng người Pháp; năm 1999 tu sửa làm thư viện. Các tòa A, B, C, D, E xây từ thời Pháp, tường vàng, cửa sổ xanh; năm 1995 trường thành một trong ba trường trung học trọng điểm quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/truong-buoi-duoc-cong-nhan-la-di-tich-lich-su---van-hoa-quoc-gia-54800.htm",
+        "quote": "Tuổi Trẻ, 'Trường Bưởi được công nhận là di tích lịch sử - văn hóa quốc gia' (8/11/2004): sáng 7-11 trường THPT Chu Văn An – trường Bưởi kỷ niệm 96 năm thành lập và đón bằng của Bộ Văn hóa – Thông tin công nhận di tích lịch sử – văn hóa quốc gia; trường lập năm 1908, gắn với Ngô Gia Tự, Nguyễn Văn Cừ, Hà Huy Tập, Phạm Văn Đồng, Võ Nguyên Giáp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/giao-duc/truong-buoi-chu-van-an-tron-110-tuoi-3833798.html",
+        "quote": "VnExpress, 'Trường Bưởi - Chu Văn An tròn 110 tuổi' (3/11/2018): trường thường được gọi là trường Bưởi do nằm trên vùng kẻ Bưởi; Pháp lập trường để đào tạo nhân viên cho bộ máy cai trị nhưng trường thành cái nôi phong trào yêu nước; sau Cách mạng tháng Tám 1945 đổi tên thành trường Trung học Chu Văn An; đến năm 1985 mang tên THPT Chu Văn An; Chủ tịch Hồ Chí Minh 5 lần về thăm trường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lifestyle.znews.vn/5-ngoi-truong-hang-tram-tuoi-cua-ha-noi-post466772.html",
+        "quote": "Zing (Znews), '5 ngôi trường hàng trăm tuổi của Hà Nội' (10/10/2014): trường Chu Văn An do người Pháp thành lập năm 1908, hiện vẫn ở số 10 phố Thụy Khuê, cạnh hồ Tây và giữ lối kiến trúc từ thời Pháp; cựu học sinh có Phạm Văn Đồng, Tôn Thất Tùng, Xuân Diệu, Tô Ngọc Vân.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://c3chuvanan.edu.vn/gioi-thieu/lich-su-truong-buoi-chu-van-an",
+        "quote": "Trường THPT Chu Văn An, trang 'Lịch sử trường Bưởi – Chu Văn An' (đọc 13/10/2026): trường do chính quyền Pháp thành lập năm 1908; thầy trò trường Bưởi từng bãi khóa, biểu tình đòi ân xá Phan Bội Châu, để tang Phan Chu Trinh; các thầy giáo nổi tiếng Dương Quảng Hàm, Hoàng Xuân Hãn, Nguyễn Mạnh Tường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "trường bưởi chu văn an"
+      }
+    ],
+    "notes": "Trường đang hoạt động: không có giờ mở cửa cho khách tham quan – viết rõ chỉ ngắm từ bên ngoài, không tự ý vào khuôn viên. Đề án cải tạo trường (VnExpress có bài 'Hà Nội dự chi 251 tỷ cải tạo') chưa đọc, không nêu. Tên phường sau sắp xếp 2025 chưa kiểm; dùng địa chỉ '10 Thụy Khuê'. Không nêu giá.",
+    "outline": [
+      "Trường Bưởi ở đâu và vì sao có tên ấy",
+      "Từ Collège du Protectorat 1908 đến trường Chu Văn An",
+      "Nhà bát giác 1898 và các tòa nhà thời Pháp",
+      "Di tích quốc gia 2004 và những học trò nổi tiếng",
+      "Ngắm trường từ phố Thụy Khuê: lưu ý khi ghé",
+      "Kết hợp vòng Hồ Tây bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/dai-hoc-dong-duong-19-le-thanh-tong/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/pho-phan-dinh-phung/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00995.json",
+  "draft_template": {
+    "id": "TM-00995",
+    "url": "/du-lich/truong-buoi-chu-van-an-thuy-khue/",
+    "title": "Trường Bưởi – Chu Văn An: nhà bát giác 1898 bên Hồ Tây, di tích 2004",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "trường bưởi chu văn an, trường chu văn an thụy khuê, nhà bát giác trường chu văn an, collège du protectorat hà nội, trường bưởi hà nội lịch sử",
+    "excerpt": "",
+    "sections": [
+      [
+        "Trường Bưởi ở đâu và vì sao có tên ấy",
+        "<p></p>"
+      ],
+      [
+        "Từ Collège du Protectorat 1908 đến trường Chu Văn An",
+        "<p></p>"
+      ],
+      [
+        "Nhà bát giác 1898 và các tòa nhà thời Pháp",
+        "<p></p>"
+      ],
+      [
+        "Di tích quốc gia 2004 và những học trò nổi tiếng",
+        "<p></p>"
+      ],
+      [
+        "Ngắm trường từ phố Thụy Khuê: lưu ý khi ghé",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp vòng Hồ Tây bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ve-dep-ngoi-truong-110-tuoi-o-ha-noi-3833836.html",
+        "quote": "VnExpress, 'Vẻ đẹp ngôi trường 110 tuổi ở Hà Nội' (4/11/2018): trường THPT Chu Văn An (phường Thụy Khuê, Tây Hồ) nằm ven hồ Tây, tiền thân là Collège du Protectorat (trường Trung học Bảo hộ) do chính quyền Pháp xây năm 1908; tổng diện tích hơn 42.000 m2 với 13 tòa nhà, hội trường Thăng Long 200 chỗ. Tòa nhà cổ nhất là nhà bát giác (thư viện – phòng tự học), xây từ năm 1898, ban đầu là biệt thự Schneider, sau là nơi ở của hiệu trưởng người Pháp; năm 1999 tu sửa làm thư viện. Các tòa A, B, C, D, E xây từ thời Pháp, tường vàng, cửa sổ xanh; năm 1995 trường thành một trong ba trường trung học trọng điểm quốc gia.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/truong-buoi-duoc-cong-nhan-la-di-tich-lich-su---van-hoa-quoc-gia-54800.htm",
+        "quote": "Tuổi Trẻ, 'Trường Bưởi được công nhận là di tích lịch sử - văn hóa quốc gia' (8/11/2004): sáng 7-11 trường THPT Chu Văn An – trường Bưởi kỷ niệm 96 năm thành lập và đón bằng của Bộ Văn hóa – Thông tin công nhận di tích lịch sử – văn hóa quốc gia; trường lập năm 1908, gắn với Ngô Gia Tự, Nguyễn Văn Cừ, Hà Huy Tập, Phạm Văn Đồng, Võ Nguyên Giáp.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/giao-duc/truong-buoi-chu-van-an-tron-110-tuoi-3833798.html",
+        "quote": "VnExpress, 'Trường Bưởi - Chu Văn An tròn 110 tuổi' (3/11/2018): trường thường được gọi là trường Bưởi do nằm trên vùng kẻ Bưởi; Pháp lập trường để đào tạo nhân viên cho bộ máy cai trị nhưng trường thành cái nôi phong trào yêu nước; sau Cách mạng tháng Tám 1945 đổi tên thành trường Trung học Chu Văn An; đến năm 1985 mang tên THPT Chu Văn An; Chủ tịch Hồ Chí Minh 5 lần về thăm trường.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://lifestyle.znews.vn/5-ngoi-truong-hang-tram-tuoi-cua-ha-noi-post466772.html",
+        "quote": "Zing (Znews), '5 ngôi trường hàng trăm tuổi của Hà Nội' (10/10/2014): trường Chu Văn An do người Pháp thành lập năm 1908, hiện vẫn ở số 10 phố Thụy Khuê, cạnh hồ Tây và giữ lối kiến trúc từ thời Pháp; cựu học sinh có Phạm Văn Đồng, Tôn Thất Tùng, Xuân Diệu, Tô Ngọc Vân.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://c3chuvanan.edu.vn/gioi-thieu/lich-su-truong-buoi-chu-van-an",
+        "quote": "Trường THPT Chu Văn An, trang 'Lịch sử trường Bưởi – Chu Văn An' (đọc 13/10/2026): trường do chính quyền Pháp thành lập năm 1908; thầy trò trường Bưởi từng bãi khóa, biểu tình đòi ân xá Phan Bội Châu, để tang Phan Chu Trinh; các thầy giáo nổi tiếng Dương Quảng Hàm, Hoàng Xuân Hãn, Nguyễn Mạnh Tường.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00995"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "wY",
+  "queued": "2026-10-14T17:06:14.134982+00:00",
+  "topic": {
+    "topic_id": "TM-01008",
+    "url": "/du-lich/san-van-dong-hang-day-lich-su/",
+    "title": "Sân vận động Hàng Đẫy: khánh thành 24/8/1958, khán đài 25.000 chỗ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "sân vận động hàng đẫy",
+    "secondary_keywords": [
+      "sân hàng đẫy lịch sử",
+      "sân septo hà nội",
+      "sân hàng đẫy ở đâu",
+      "sân hàng đẫy sức chứa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người hâm mộ bóng đá và khách đến xem V-League muốn biết sân Hàng Đẫy ở đâu, có lịch sử thế nào, sức chứa bao nhiêu và vì sao luôn được nhắc chuyện cải tạo.",
+    "information_gain": "Site chưa có trang nào về sân vận động ở nội đô; gần nhất là /du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/ và /du-lich/bao-tang-my-thuat-viet-nam/ cùng khu Cát Linh – Văn Miếu. Bài mới cho: tiền thân SEPTO thập niên 1930 với vài trăm chỗ, xây lại 1957–1958, khánh thành 24/8/1958 trên 21.844 m2, khán đài lòng chảo 20 bậc khoảng 25.000 chỗ, 14 cửa nhỏ và 3 cửa lớn, từng là sân quốc gia trước Mỹ Đình, chuyện ba CLB dùng chung bị AFC cảnh báo (2024), dự án tổ hợp hơn 6.000 tỷ năm 2018 không triển khai, tầng hai khán đài B không dùng được.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/san-van-dong-hang-day-sau-60-nam-xay-dung-3823189.html",
+        "quote": "VnExpress, 'Sân vận động Hàng Đẫy sau 60 năm xây dựng' (13/10/2018): sân trên phố Trịnh Hoài Đức, Cát Linh (Đống Đa) khánh thành ngày 24/8/1958 sau một năm xây dựng, diện tích 21.844 m2; tường bao có 14 cửa nhỏ và 3 cửa lớn; 10 đường chạy điền kinh, sân bóng chuyền, bóng rổ, hai hố nhảy xa; khán đài lòng chảo 20 bậc chứa xấp xỉ 25.000 người; nhiều lần cải tạo, hai hàng ghế VIP khán đài A thường phủ bạt.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/hang-day-mot-thuo-627657.html",
+        "quote": "Nhịp sống Hà Nội (Hànộimới), 'Hàng Đẫy một thuở' (10/2/2021): sân được xây vào những năm 30 thế kỷ trước tên SEPTO, ban đầu vài trăm chỗ; năm 1957–1958 xây lại quy mô khoảng 2,5 vạn chỗ, chính thức mang tên Hàng Đẫy, sau từng đổi tên thành SVĐ Hà Nội; ký ức các trận Thể Công, giải SKDA 1984, Tiger Cup 1998; khu cửa 9, 10, 11 khán đài B.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ba-doi-v-league-tranh-nhau-san-hang-day-4721037.html",
+        "quote": "VnExpress, 'Ba đội V-League tranh nhau sân Hàng Đẫy' (11/3/2024): từ tháng 10/2023 AFC quy định một sân chỉ cho tối đa hai CLB dùng ở giải VĐQG, Hàng Đẫy vi phạm vì là sân nhà của Hà Nội FC, CAHN và Thể Công; sân từng là sân vận động quốc gia trước khi có Mỹ Đình, sức chứa khoảng 25.000 chỗ nhưng xuống cấp khiến tầng hai khán đài B không dùng được; năm 2018 Hà Nội và T&T dự kiến hơn 6.000 tỷ đồng xây tổ hợp thể thao nhưng không triển khai. (Bài ghi sân khánh thành năm 1934 – khác với VnExpress 2018.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "sân vận động hàng đẫy"
+      }
+    ],
+    "notes": "Năm khánh thành lệch: 1934 (VnExpress 2024, tức sân SEPTO cũ) và 24/8/1958 (VnExpress 2018, sau xây lại) – giải thích là hai giai đoạn. Không có giá vé, lịch thi đấu – không nêu; giá thuê sân trong bài VnExpress 2024 là chi phí CLB, không đưa vào. Tình trạng sân 2026 (CLB nào còn đá sân nhà) chưa xác minh – không khẳng định. Chưa có nguồn chỗ gửi xe ngày có trận.",
+    "outline": [
+      "Sân Hàng Đẫy nằm ở đâu",
+      "Từ sân SEPTO đến lần xây lại 1957–1958",
+      "Khán đài 25.000 chỗ và những con số của sân",
+      "Ký ức bóng đá Thủ đô ở Hàng Đẫy",
+      "Chuyện ba CLB dùng chung và dự án tổ hợp không thành",
+      "Đi xem bóng: đến sớm, gửi xe, lưu ý ngày có trận"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+      "/du-lich/bao-tang-my-thuat-viet-nam/",
+      "/du-lich/ga-ha-noi/",
+      "/du-lich/ben-xe-my-dinh/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01008.json",
+  "draft_template": {
+    "id": "TM-01008",
+    "url": "/du-lich/san-van-dong-hang-day-lich-su/",
+    "title": "Sân vận động Hàng Đẫy: khánh thành 24/8/1958, khán đài 25.000 chỗ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "sân vận động hàng đẫy, sân hàng đẫy lịch sử, sân septo hà nội, sân hàng đẫy ở đâu, sân hàng đẫy sức chứa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Sân Hàng Đẫy nằm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Từ sân SEPTO đến lần xây lại 1957–1958",
+        "<p></p>"
+      ],
+      [
+        "Khán đài 25.000 chỗ và những con số của sân",
+        "<p></p>"
+      ],
+      [
+        "Ký ức bóng đá Thủ đô ở Hàng Đẫy",
+        "<p></p>"
+      ],
+      [
+        "Chuyện ba CLB dùng chung và dự án tổ hợp không thành",
+        "<p></p>"
+      ],
+      [
+        "Đi xem bóng: đến sớm, gửi xe, lưu ý ngày có trận",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/san-van-dong-hang-day-sau-60-nam-xay-dung-3823189.html",
+        "quote": "VnExpress, 'Sân vận động Hàng Đẫy sau 60 năm xây dựng' (13/10/2018): sân trên phố Trịnh Hoài Đức, Cát Linh (Đống Đa) khánh thành ngày 24/8/1958 sau một năm xây dựng, diện tích 21.844 m2; tường bao có 14 cửa nhỏ và 3 cửa lớn; 10 đường chạy điền kinh, sân bóng chuyền, bóng rổ, hai hố nhảy xa; khán đài lòng chảo 20 bậc chứa xấp xỉ 25.000 người; nhiều lần cải tạo, hai hàng ghế VIP khán đài A thường phủ bạt.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/hang-day-mot-thuo-627657.html",
+        "quote": "Nhịp sống Hà Nội (Hànộimới), 'Hàng Đẫy một thuở' (10/2/2021): sân được xây vào những năm 30 thế kỷ trước tên SEPTO, ban đầu vài trăm chỗ; năm 1957–1958 xây lại quy mô khoảng 2,5 vạn chỗ, chính thức mang tên Hàng Đẫy, sau từng đổi tên thành SVĐ Hà Nội; ký ức các trận Thể Công, giải SKDA 1984, Tiger Cup 1998; khu cửa 9, 10, 11 khán đài B.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ba-doi-v-league-tranh-nhau-san-hang-day-4721037.html",
+        "quote": "VnExpress, 'Ba đội V-League tranh nhau sân Hàng Đẫy' (11/3/2024): từ tháng 10/2023 AFC quy định một sân chỉ cho tối đa hai CLB dùng ở giải VĐQG, Hàng Đẫy vi phạm vì là sân nhà của Hà Nội FC, CAHN và Thể Công; sân từng là sân vận động quốc gia trước khi có Mỹ Đình, sức chứa khoảng 25.000 chỗ nhưng xuống cấp khiến tầng hai khán đài B không dùng được; năm 2018 Hà Nội và T&T dự kiến hơn 6.000 tỷ đồng xây tổ hợp thể thao nhưng không triển khai. (Bài ghi sân khánh thành năm 1934 – khác với VnExpress 2018.)",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01008"
+  }
+}

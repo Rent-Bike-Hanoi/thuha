@@ -1,0 +1,157 @@
+{
+  "writer": "wY",
+  "queued": "2026-10-14T17:06:06.963156+00:00",
+  "topic": {
+    "topic_id": "TM-00998",
+    "url": "/du-lich/benh-vien-xanh-pon-saint-paul-lich-su/",
+    "title": "Bệnh viện Xanh Pôn: Saint Paul thời Pháp, tượng thánh Paul, 105 năm",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bệnh viện xanh pôn lịch sử",
+    "secondary_keywords": [
+      "bệnh viện saint paul hà nội",
+      "xanh pôn thời pháp",
+      "bệnh viện xanh pôn chu văn an",
+      "bệnh viện 100 năm hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội và khách thích lịch sử muốn biết cái tên Xanh Pôn từ đâu ra, bệnh viện có từ thời Pháp thế nào và các mốc năm vì sao khác nhau.",
+    "information_gain": "Site chưa có trang nào về bệnh viện thời Pháp; gần nhất là /du-lich/dai-hoc-dong-duong-19-le-thanh-tong/ và /du-lich/lang-bac-gio-mo-cua/ (cùng khu Ba Đình). Bài mới cho: nguồn gốc tên Saint Paul de Chartres, mốc 1896 (VnExpress) so với 1920 (báo dịp 105 năm), năm 1911 bắt đầu nhận người bản xứ, năm 1930 thành Bệnh viện Ngoại khoa 90 giường, quyết định 35/QĐ/TC ngày 26/8/1970 hợp nhất 4 đơn vị, tượng thánh Paul trong khuôn viên; giải thích vì sao 'kỷ niệm 105 năm' năm 2025 không mâu thuẫn với mốc 1896.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thay-doi-qua-nam-thang-cua-nhung-benh-vien-hon-100-tuoi-ha-noi-3538972.html",
+        "quote": "VnExpress, 'Thay đổi qua năm tháng của những bệnh viện hơn 100 tuổi Hà Nội' (10/2/2017): Bệnh viện Đa khoa Xanh Pôn trên phố Chu Văn An có tên cũ Saint Paul de Chartres, được Pháp xây năm 1896, đặt tượng thánh Paul trong khuôn viên; từ năm 1911 bắt đầu chữa trị dân bản xứ thay vì chỉ phục vụ quan quân Pháp; mùa xuân 1955 chính quyền cách mạng tiếp nhận; ngày 26/6/1970 Bệnh viện Đa khoa Xanh Pôn thành lập trên cơ sở hợp nhất 4 đơn vị.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/105-nam-tu-benh-vien-co-1-khoa-den-ca-mo-chi-2-quoc-gia-lam-duoc-2434064.html",
+        "quote": "VietNamNet, '105 năm từ bệnh viện có 1 khoa thành nơi thực hiện ca mổ chỉ 2 quốc gia làm được' (22/8/2025): hành trình bắt đầu từ năm 1920 với cơ sở 50 giường; năm 1930 nâng thành Bệnh viện Ngoại khoa Xanh Pôn, Khoa Ngoại 90 giường, chủ yếu thầy thuốc Pháp; ngày 26/8/1970 Ủy ban Hành chính Hà Nội ra quyết định số 35/QĐ/TC thành lập Bệnh viện Đa khoa Xanh Pôn trên cơ sở hợp nhất Bệnh viện Ngoại khoa Xanh Pôn, Bệnh viện Nhi khoa Hà Nội, Bệnh viện khu phố Ba Đình và Phòng khám Phụ khoa, 520 giường; nay là bệnh viện hạng I quy mô 870 giường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/benh-vien-da-khoa-xanh-pon-105-nam-xay-dung-phat-trien-va-cong-hien-vi-suc-khoe-nhan-dan-10396546.html",
+        "quote": "Báo Đại biểu Nhân dân, 'Bệnh viện Đa khoa Xanh Pôn: 105 năm xây dựng, phát triển...' (21/11/2025): bệnh viện kỷ niệm 105 năm thành lập (từ năm 1920), 55 năm ngày sáp nhập và đón Huân chương Lao động hạng Nhất; năm 2015 được phong Anh hùng Lao động.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchitoaan.vn/benh-vien-da-khoa-xanh-pon-truyen-thong-tram-nam-%E2%80%93-tien-phong-cong-nghe14501.html",
+        "quote": "Tạp chí Tòa án, 'Bệnh viện Đa khoa Xanh Pôn: Truyền thống trăm năm – Tiên phong công nghệ' (12/11/2025): buổi đầu chỉ có 50 giường bệnh, nay trên 800 giường; kỷ niệm 105 năm hình thành – 55 năm sáp nhập.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bệnh viện xanh pôn lịch sử"
+      }
+    ],
+    "notes": "Mốc thành lập lệch: 1896 (VnExpress 2017) và 1920 (báo dịp 105 năm); ngày hợp nhất 26/6/1970 (VnExpress) và 26/8/1970 (VietNamNet) – ghi cả hai. Số giường lệch 800+ và 870 – dùng 'trên 800'. Bài Znews 'Bệnh viện Xanh Pôn hơn 100 tuổi' (mô tả 3 tòa chữ U) tải không được nội dung – không dùng chi tiết kiến trúc đó. Bệnh viện đang hoạt động: không hướng dẫn vào tham quan, không nêu gửi xe.",
+    "outline": [
+      "Xanh Pôn là Saint Paul: nguồn gốc cái tên",
+      "Từ bệnh viện của người Pháp đến nhà thương cho người bản xứ",
+      "1930: Bệnh viện Ngoại khoa 90 giường",
+      "Hợp nhất năm 1970 và các mốc năm lệch nhau",
+      "Tượng thánh Paul và dấu vết thời Pháp",
+      "Xanh Pôn trong bản đồ di sản Ba Đình"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-bac-gio-mo-cua/",
+      "/du-lich/dai-hoc-dong-duong-19-le-thanh-tong/",
+      "/du-lich/bao-tang-lich-su-quan-su-viet-nam/",
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00998.json",
+  "draft_template": {
+    "id": "TM-00998",
+    "url": "/du-lich/benh-vien-xanh-pon-saint-paul-lich-su/",
+    "title": "Bệnh viện Xanh Pôn: Saint Paul thời Pháp, tượng thánh Paul, 105 năm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bệnh viện xanh pôn lịch sử, bệnh viện saint paul hà nội, xanh pôn thời pháp, bệnh viện xanh pôn chu văn an, bệnh viện 100 năm hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Xanh Pôn là Saint Paul: nguồn gốc cái tên",
+        "<p></p>"
+      ],
+      [
+        "Từ bệnh viện của người Pháp đến nhà thương cho người bản xứ",
+        "<p></p>"
+      ],
+      [
+        "1930: Bệnh viện Ngoại khoa 90 giường",
+        "<p></p>"
+      ],
+      [
+        "Hợp nhất năm 1970 và các mốc năm lệch nhau",
+        "<p></p>"
+      ],
+      [
+        "Tượng thánh Paul và dấu vết thời Pháp",
+        "<p></p>"
+      ],
+      [
+        "Xanh Pôn trong bản đồ di sản Ba Đình",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thay-doi-qua-nam-thang-cua-nhung-benh-vien-hon-100-tuoi-ha-noi-3538972.html",
+        "quote": "VnExpress, 'Thay đổi qua năm tháng của những bệnh viện hơn 100 tuổi Hà Nội' (10/2/2017): Bệnh viện Đa khoa Xanh Pôn trên phố Chu Văn An có tên cũ Saint Paul de Chartres, được Pháp xây năm 1896, đặt tượng thánh Paul trong khuôn viên; từ năm 1911 bắt đầu chữa trị dân bản xứ thay vì chỉ phục vụ quan quân Pháp; mùa xuân 1955 chính quyền cách mạng tiếp nhận; ngày 26/6/1970 Bệnh viện Đa khoa Xanh Pôn thành lập trên cơ sở hợp nhất 4 đơn vị.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/105-nam-tu-benh-vien-co-1-khoa-den-ca-mo-chi-2-quoc-gia-lam-duoc-2434064.html",
+        "quote": "VietNamNet, '105 năm từ bệnh viện có 1 khoa thành nơi thực hiện ca mổ chỉ 2 quốc gia làm được' (22/8/2025): hành trình bắt đầu từ năm 1920 với cơ sở 50 giường; năm 1930 nâng thành Bệnh viện Ngoại khoa Xanh Pôn, Khoa Ngoại 90 giường, chủ yếu thầy thuốc Pháp; ngày 26/8/1970 Ủy ban Hành chính Hà Nội ra quyết định số 35/QĐ/TC thành lập Bệnh viện Đa khoa Xanh Pôn trên cơ sở hợp nhất Bệnh viện Ngoại khoa Xanh Pôn, Bệnh viện Nhi khoa Hà Nội, Bệnh viện khu phố Ba Đình và Phòng khám Phụ khoa, 520 giường; nay là bệnh viện hạng I quy mô 870 giường.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/benh-vien-da-khoa-xanh-pon-105-nam-xay-dung-phat-trien-va-cong-hien-vi-suc-khoe-nhan-dan-10396546.html",
+        "quote": "Báo Đại biểu Nhân dân, 'Bệnh viện Đa khoa Xanh Pôn: 105 năm xây dựng, phát triển...' (21/11/2025): bệnh viện kỷ niệm 105 năm thành lập (từ năm 1920), 55 năm ngày sáp nhập và đón Huân chương Lao động hạng Nhất; năm 2015 được phong Anh hùng Lao động.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchitoaan.vn/benh-vien-da-khoa-xanh-pon-truyen-thong-tram-nam-%E2%80%93-tien-phong-cong-nghe14501.html",
+        "quote": "Tạp chí Tòa án, 'Bệnh viện Đa khoa Xanh Pôn: Truyền thống trăm năm – Tiên phong công nghệ' (12/11/2025): buổi đầu chỉ có 50 giường bệnh, nay trên 800 giường; kỷ niệm 105 năm hình thành – 55 năm sáp nhập.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00998"
+  }
+}

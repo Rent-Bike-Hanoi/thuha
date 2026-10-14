@@ -1,0 +1,157 @@
+{
+  "writer": "wY",
+  "queued": "2026-10-14T17:06:06.163000+00:00",
+  "topic": {
+    "topic_id": "TM-00997",
+    "url": "/du-lich/benh-vien-viet-duc-phu-doan-lich-su/",
+    "title": "Bệnh viện Việt Đức (Phủ Doãn): từ Nhà thương bảo hộ 1906 đến nay",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bệnh viện phủ doãn",
+    "secondary_keywords": [
+      "bệnh viện việt đức lịch sử",
+      "nhà thương bảo hộ hà nội",
+      "bệnh viện yersin hà nội",
+      "bệnh viện việt đức xưa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội và khách tò mò vì sao bệnh viện Việt Đức còn được gọi là Phủ Doãn, ra đời thời Pháp ra sao và tòa nhà xưa còn lại gì.",
+    "information_gain": "Site có /du-lich/dai-hoc-dong-duong-19-le-thanh-tong/ và /du-lich/bac-bo-phu-12-ngo-quyen/ về công trình thời Pháp nhưng chưa có trang về Việt Đức – Phủ Doãn. Bài mới cho: chuỗi tên Nhà thương bản xứ (1904) – Nhà thương bảo hộ (1906–1943) – Bệnh viện Yersin (1943–1954) – Phủ Doãn (1954–1958) – Hữu nghị Việt Nam – CHDC Đức, mốc 1902 gắn với Trường Y khoa Đông Dương, khu đất khoảng 30.000 m2 ban đầu, chỉ còn tòa hành chính tương đối nguyên vẹn, gắn tên Tôn Thất Tùng; nêu rõ các nguồn lệch năm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/benh-vien-viet-duc-tron-95-tuoi-2251293.html",
+        "quote": "VnExpress, 'Bệnh viện Việt Đức tròn 95 tuổi' (30/11/2001): tiền thân là Nhà thương bảo hộ do Pháp thành lập năm 1906; bệnh viện từng mang tên Yersin, Phủ Doãn và Việt Nam – Cộng hòa Dân chủ Đức; gắn với Tôn Thất Tùng, Hồ Đắc Di; phương pháp cắt gan khô của GS Tôn Thất Tùng ra đời tại đây.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thay-doi-qua-nam-thang-cua-nhung-benh-vien-hon-100-tuoi-ha-noi-3538972.html",
+        "quote": "VnExpress, 'Thay đổi qua năm tháng của những bệnh viện hơn 100 tuổi Hà Nội' (10/2/2017): tiền thân Việt Đức là Nhà thương Bản Xứ xây năm 1904 làm cơ sở thực hành cho sinh viên Trường Y Đông Dương, trên khu đất khoảng 30.000 m2 với 3 dãy nhà một tầng; đổi tên Nhà thương Bảo hộ (1906–1943), Bệnh viện Yersin (1943–1954), Bệnh viện Phủ Doãn (1954–1958), Hữu nghị Việt Nam – CHDC Đức (1958–1991) rồi Hữu nghị Việt Đức; so với hơn 100 năm trước diện mạo gần như thay đổi hoàn toàn, chỉ còn tòa nhà hành chính tương đối nguyên vẹn.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/chu-tich-quoc-hoi-chuc-mung-ngay-thay-thuoc-viet-nam-tai-bv-huu-nghi-viet-duc-818697.html",
+        "quote": "VietNamNet, 'Chủ tịch Quốc hội chúc mừng Ngày Thầy thuốc Việt Nam tại BV Hữu nghị Việt Đức' (25/2/2022): GS.TS Trần Bình Giang cho biết tiền thân là Bệnh viện Phủ Doãn, thành lập cùng và là bệnh viện thực hành của Trường Y khoa Đông Dương từ năm 1902; hiện là bệnh viện chuyên khoa hạng đặc biệt quy mô 1.500 giường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://eng.benhvienvietduc.org/hospital-introdution.html",
+        "quote": "Bệnh viện Hữu nghị Việt Đức, trang 'Hospital introduction' (tiếng Anh, đọc 13/10/2026): bệnh viện thành lập năm 1906 với tên tiếng Pháp Hôpital indigène du Protectorat; đổi tên Bệnh viện Yersin (1943), Phủ Doãn (1954), Hữu nghị Việt Nam – Dân chủ Đức (1958–1990), sau rút gọn là Việt Đức.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bệnh viện phủ doãn"
+      }
+    ],
+    "notes": "Năm khởi đầu lệch giữa nguồn: 1902 (gắn Trường Y khoa), 1904 (Nhà thương bản xứ), 1906 (Nhà thương bảo hộ) – viết cả ba, không chọn một. Đây là bệnh viện đang hoạt động: bài là lịch sử/kiến trúc, không hướng dẫn tham quan, không viết giờ khám, không nêu thông tin gửi xe (chưa có nguồn). Địa chỉ hiện tại 40 Tràng Thi chỉ thấy trong kết quả tìm kiếm, chưa đọc trên trang đã tải – không nêu hoặc kiểm lại. Không nêu giá.",
+    "outline": [
+      "Vì sao Việt Đức còn được gọi là Phủ Doãn",
+      "Nhà thương bản xứ, Nhà thương bảo hộ và Trường Y Đông Dương",
+      "Những lần đổi tên 1943–1991",
+      "Tôn Thất Tùng và phương pháp cắt gan khô",
+      "Tòa nhà xưa còn lại gì",
+      "Các mốc năm lệch nhau: đọc thế nào cho đúng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dai-hoc-dong-duong-19-le-thanh-tong/",
+      "/du-lich/bac-bo-phu-12-ngo-quyen/",
+      "/du-lich/nha-tho-lon-ha-noi/",
+      "/thue-xe-may/hoan-kiem/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00997.json",
+  "draft_template": {
+    "id": "TM-00997",
+    "url": "/du-lich/benh-vien-viet-duc-phu-doan-lich-su/",
+    "title": "Bệnh viện Việt Đức (Phủ Doãn): từ Nhà thương bảo hộ 1906 đến nay",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bệnh viện phủ doãn, bệnh viện việt đức lịch sử, nhà thương bảo hộ hà nội, bệnh viện yersin hà nội, bệnh viện việt đức xưa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vì sao Việt Đức còn được gọi là Phủ Doãn",
+        "<p></p>"
+      ],
+      [
+        "Nhà thương bản xứ, Nhà thương bảo hộ và Trường Y Đông Dương",
+        "<p></p>"
+      ],
+      [
+        "Những lần đổi tên 1943–1991",
+        "<p></p>"
+      ],
+      [
+        "Tôn Thất Tùng và phương pháp cắt gan khô",
+        "<p></p>"
+      ],
+      [
+        "Tòa nhà xưa còn lại gì",
+        "<p></p>"
+      ],
+      [
+        "Các mốc năm lệch nhau: đọc thế nào cho đúng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/benh-vien-viet-duc-tron-95-tuoi-2251293.html",
+        "quote": "VnExpress, 'Bệnh viện Việt Đức tròn 95 tuổi' (30/11/2001): tiền thân là Nhà thương bảo hộ do Pháp thành lập năm 1906; bệnh viện từng mang tên Yersin, Phủ Doãn và Việt Nam – Cộng hòa Dân chủ Đức; gắn với Tôn Thất Tùng, Hồ Đắc Di; phương pháp cắt gan khô của GS Tôn Thất Tùng ra đời tại đây.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thay-doi-qua-nam-thang-cua-nhung-benh-vien-hon-100-tuoi-ha-noi-3538972.html",
+        "quote": "VnExpress, 'Thay đổi qua năm tháng của những bệnh viện hơn 100 tuổi Hà Nội' (10/2/2017): tiền thân Việt Đức là Nhà thương Bản Xứ xây năm 1904 làm cơ sở thực hành cho sinh viên Trường Y Đông Dương, trên khu đất khoảng 30.000 m2 với 3 dãy nhà một tầng; đổi tên Nhà thương Bảo hộ (1906–1943), Bệnh viện Yersin (1943–1954), Bệnh viện Phủ Doãn (1954–1958), Hữu nghị Việt Nam – CHDC Đức (1958–1991) rồi Hữu nghị Việt Đức; so với hơn 100 năm trước diện mạo gần như thay đổi hoàn toàn, chỉ còn tòa nhà hành chính tương đối nguyên vẹn.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/chu-tich-quoc-hoi-chuc-mung-ngay-thay-thuoc-viet-nam-tai-bv-huu-nghi-viet-duc-818697.html",
+        "quote": "VietNamNet, 'Chủ tịch Quốc hội chúc mừng Ngày Thầy thuốc Việt Nam tại BV Hữu nghị Việt Đức' (25/2/2022): GS.TS Trần Bình Giang cho biết tiền thân là Bệnh viện Phủ Doãn, thành lập cùng và là bệnh viện thực hành của Trường Y khoa Đông Dương từ năm 1902; hiện là bệnh viện chuyên khoa hạng đặc biệt quy mô 1.500 giường.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://eng.benhvienvietduc.org/hospital-introdution.html",
+        "quote": "Bệnh viện Hữu nghị Việt Đức, trang 'Hospital introduction' (tiếng Anh, đọc 13/10/2026): bệnh viện thành lập năm 1906 với tên tiếng Pháp Hôpital indigène du Protectorat; đổi tên Bệnh viện Yersin (1943), Phủ Doãn (1954), Hữu nghị Việt Nam – Dân chủ Đức (1958–1990), sau rút gọn là Việt Đức.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00997"
+  }
+}
