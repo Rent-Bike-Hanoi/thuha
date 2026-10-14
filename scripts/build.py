@@ -202,7 +202,7 @@ GA4_TAG=(f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA4_I
 def shell(title,desc,url,body,extra=None,noindex=False):
  brand=T.SITE_CFG.get('site',{})
  logo={'@type':'ImageObject','@id':S['url']+'/#logo','url':S['url']+brand['logo'],'contentUrl':S['url']+brand['logo'],'width':512,'height':512,'caption':'Logo '+S['name']}
- publisher={'@type':'Organization','@id':S['url']+'/#organization','name':S['name'],'url':S['url']+'/','logo':logo,**({'sameAs':[FACTS['facebook_url']]} if FACTS.get('facebook_url') else {})}
+ publisher={'@type':'Organization','@id':S['url']+'/#organization','name':S['name'],'url':S['url']+'/','logo':logo,**({'sameAs':[u for u in [FACTS.get('facebook_url'),FACTS.get('maps_url')] if u]} if FACTS.get('facebook_url') or FACTS.get('maps_url') else {})}
  image={'path':brand['og_image'],'alt':brand['og_image_alt'],'width':brand['og_image_width'],'height':brand['og_image_height']}
  if url=='/': image={'path':'/assets/hanoi.webp','alt':'Người đi xe máy qua góc phố Bà Triệu ở Hà Nội','width':1400,'height':788}
  page_source=next((p for p in P if p['url']==url),{})
@@ -229,7 +229,7 @@ def write(url,text):
 FEATURE=[P[0],P[2],P[3]]
 LATEST=[p for p in reversed(P) if p["kind"] in ["article","pillar"] and p["url"]!="/lien-he/" and not factory_noindex(p)][:3]
 body=f'''<section class="hero"><div><p class="eyebrow">THUÊ XE MÁY NGUYỄN HÀ</p><h1>Mỗi chuyến đi.<br>Một <em>góc Hà Nội.</em></h1><p>Cẩm nang thuê xe, những góc phố và kinh nghiệm cho hành trình của bạn.</p><div class="hero-actions"><a class="pill gold" href="/thue-xe-may/ha-noi/">Cẩm nang thuê xe</a><a class="text-link" href="/du-lich/ha-noi/">Khám phá Hà Nội</a></div></div><div><div class="hero-visual"><img src="/assets/hanoi.webp" alt="Người đi xe máy qua góc phố Bà Triệu ở Hà Nội" width="1400" height="788" decoding="async" fetchpriority="high"><div class="image-label"><div><small>ĐIỂM BẮT ĐẦU</small><strong>Hà Nội, qua từng con phố.</strong></div><span class="number">01</span></div></div><p class="credit">Ảnh: <a href="https://unsplash.com/@elliot_ra8" target="_blank" rel="noopener noreferrer">Elliot Andrews / Unsplash</a></p></div></section><nav class="topic-strip" aria-label="Chủ đề nhanh"><a class="chip active" href="/thue-xe/">Thuê xe Hà Nội</a><a class="chip" href="/thue-xe-50cc/ha-noi/">Xe 50cc</a><a class="chip" href="/thue-xe-dien/ha-noi/">Xe điện</a><a class="chip" href="/thue-xe-may/ha-noi/theo-thang/">Thuê theo tháng</a><a class="chip" href="/du-lich/ha-noi/">Du lịch Hà Nội</a><a class="chip" href="/bang-gia/">Bảng giá</a></nav><section class="section"><div class="section-head"><div><p class="eyebrow">BẮT ĐẦU TỪ ĐÂY</p><h2>Chọn xe. Chọn hành trình.</h2></div><a class="text-link" href="/thue-xe/">Xem cẩm nang</a></div><div class="grid">{''.join(card(p) for p in FEATURE)}</div></section><section class="section"><div class="feature-band"><div><h2>Một chiếc xe.<br>Nhiều cách khám phá.</h2><p>Giá thuê theo ngày, tuần và tháng. Xem chi phí và điều kiện trước khi lên đường.</p></div><a class="pill gold" href="/bang-gia/">Xem bảng giá</a></div></section><section class="section"><div class="section-head"><div><p class="eyebrow">ĐỌC THEO CHỦ ĐỀ</p><h2>Từ xe đến những điểm đến.</h2></div></div><div class="hub-grid">{''.join('<a class="hub-tile" href="'+h['url']+'"><span class="hub-no">'+str(i+1).zfill(2)+'</span><h3>'+E(h['label'])+'</h3><p>'+E(h['description'])+'</p></a>' for i,h in enumerate(NAV))}</div></section><section class="section"><div class="section-head"><div><p class="eyebrow">BÀI VIẾT MỚI</p><h2>Mới trên cẩm nang.</h2></div></div><div class="grid">{''.join(card(p) for p in LATEST)}</div></section>'''
-local={'@context':'https://schema.org','@type':'LocalBusiness','name':S['name'],'url':S['url'],'telephone':S['internationalPhone'],'email':S['email'],'address':{'@type':'PostalAddress','streetAddress':'Ngõ 5 Nguyễn Văn Cừ, Bồ Đề','addressLocality':'Long Biên, Hà Nội','addressCountry':'VN'},'openingHoursSpecification':[{'@type':'OpeningHoursSpecification','dayOfWeek':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],'opens':'08:00','closes':'17:00'}],'image':[S['url']+'/assets/nguyen-ha-journal-social.png']+[S['url']+x['lg']['src'] for x in [x for x in PHOTOS.values() if not x.get('illustration')][:4]],**({'sameAs':[FACTS['facebook_url']]} if FACTS.get('facebook_url') else {}),**({'geo':{'@type':'GeoCoordinates','latitude':FACTS['geo']['latitude'],'longitude':FACTS['geo']['longitude']}} if FACTS.get('geo') else {}),'priceRange':'150.000–200.000đ/ngày','areaServed':{'@type':'City','name':'Hà Nội'},'hasMap':FACTS.get('maps_url') or 'https://www.google.com/maps/search/?api=1&query='+__import__('urllib.parse').parse.quote(S['address'])}
+local={'@context':'https://schema.org','@type':'LocalBusiness','name':S['name'],**({'alternateName':FACTS['google_business_name']} if FACTS.get('google_business_name') else {}),'url':S['url'],'telephone':S['internationalPhone'],'email':S['email'],'address':{'@type':'PostalAddress','streetAddress':'Ngõ 5 Nguyễn Văn Cừ, Bồ Đề','addressLocality':'Long Biên, Hà Nội','addressCountry':'VN'},'openingHoursSpecification':[{'@type':'OpeningHoursSpecification','dayOfWeek':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],'opens':'08:00','closes':'17:00'}],'image':[S['url']+'/assets/nguyen-ha-journal-social.png']+[S['url']+x['lg']['src'] for x in [x for x in PHOTOS.values() if not x.get('illustration')][:4]],**({'sameAs':[u for u in [FACTS.get('facebook_url'),FACTS.get('maps_url')] if u]} if FACTS.get('facebook_url') or FACTS.get('maps_url') else {}),**({'geo':{'@type':'GeoCoordinates','latitude':FACTS['geo']['latitude'],'longitude':FACTS['geo']['longitude']}} if FACTS.get('geo') else {}),'priceRange':'150.000–200.000đ/ngày','areaServed':{'@type':'City','name':'Hà Nội'},'hasMap':FACTS.get('maps_url') or 'https://www.google.com/maps/search/?api=1&query='+__import__('urllib.parse').parse.quote(S['address'])}
 write('/',shell('Cẩm nang thuê xe và khám phá Hà Nội', 'Thuê xe máy Nguyễn Hà: bảng giá, kinh nghiệm thuê xe và cẩm nang khám phá Hà Nội. Đọc theo chủ đề xe máy, xe điện và du lịch.','/',body,[local]))
 lookup={p['url']:p for p in P}
 # Previous / next article: only published, indexable articles in the same hub,
@@ -258,16 +258,41 @@ SERVICE_LINKS=[
  ('/thue-xe-may/hoan-kiem/','Thuê xe máy Hoàn Kiếm và Phố Cổ',('hoàn kiếm','hoan-kiem','phố cổ hà nội','/ha-noi/pho-co/')),
  ('/thue-xe-dien/ha-noi/','Thuê xe máy điện Hà Nội',('xe điện','xe-dien','vinfast')),
  ('/thue-xe-50cc/ha-noi/','Thuê xe máy 50cc Hà Nội',('50cc',)),
- ('/thue-xe-may/ha-noi/theo-thang/','Thuê xe máy theo tháng Hà Nội',('theo tháng','theo-thang','dài hạn','dai-han')),
+ ('/thue-xe-may/ha-noi/theo-thang/','Thuê xe máy theo tháng Hà Nội',('theo tháng','theo-thang','dài hạn','dai-han','sinh viên','sinh-vien','đi làm','di-lam','thuê hay mua','thue-hay-mua','mua xe máy cũ','mua-xe-may-cu','ở lâu','người nước ngoài','nuoc-ngoai','expat')),
  ('/thue-xe-may/ha-noi/theo-ngay/','Thuê xe máy Hà Nội theo ngày và tuần',('theo ngày','theo-ngay','theo tuần','theo-tuan','trong ngày','cuối tuần','day-trip','ngày 1 đêm','ngày 2 đêm','ngày 3 đêm')),
 ]
 # Bảng rộng phải cuộn ngang trên điện thoại: bọc mọi <table> chưa nằm trong .table-scroll (nguồn bài viết tay lẫn V2).
 def wrap_tables(h): return re.sub(r'(<div class="table-scroll">\s*)?(<table\b.*?</table>)',lambda m:m.group(0) if m.group(1) else f'<div class="table-scroll">{m.group(2)}</div>',h,flags=re.S)
 def service_nav(p,sections_html):
  text=' '.join([p['url'],p['title'],p.get('intent',''),p.get('keywords','')]).lower()
+ # Bài nói đến thuê theo tháng trong thân bài (không chỉ ở tiêu đề/từ khoá) cũng được gợi ý trang thuê theo tháng.
+ if p['hub'] in ('thue-xe','xe-dien','xe-may','kinh-nghiem') and re.search(r'thuê[^.<]{0,40}(?:tháng|dài ngày|lâu dài)',re.sub(r'<[^>]+>',' ',sections_html),re.I):text+=' theo tháng'
  picks=[(u,a) for u,a,keys in SERVICE_LINKS if u!=p['url'] and f'href="{u}"' not in sections_html and any(k in text for k in keys)][:2]
  if not picks:return ''
  return '<nav class="post-nav" aria-label="Dịch vụ thuê xe liên quan">'+''.join(f'<a class="post-nav-link" href="{u}"><small>Dịch vụ liên quan</small><span>{E(a)}</span></a>' for u,a in picks)+'</nav>'
+# Bài liên quan theo chủ đề: cùng hub, đang index, chấm điểm theo từ chung trong tiêu đề, từ khoá và slug (ổn định, không ngẫu nhiên).
+_STOP=set('và của cho các một những với trong khi đi ở là có không được tại từ theo bằng xe máy hà nội thuê bài gì nào sao bao nhiêu nên hay thế'.split())
+def _toks(q):
+ t=' '.join([q['title'],q.get('keywords','') if isinstance(q.get('keywords',''),str) else ' '.join(q.get('keywords',[])),q['url'].replace('-',' ').replace('/',' ')]).lower()
+ return {w for w in re.findall(r'\w+',t) if len(w)>1 and w not in _STOP and not w.isdigit()}
+_RELPOOL={}
+for q in P:
+ if q['kind'] not in ['hub','page'] and not factory_noindex(q):_RELPOOL.setdefault(q['hub'],[]).append((q,_toks(q)))
+def related_for(p):
+ mine=_toks(p);pool=_RELPOOL.get(p['hub'],[])
+ scored=sorted(((-len(mine&t),q['parent']!=p['url'],q['url'],q) for q,t in pool if q['url']!=p['url']),key=lambda x:x[:3])
+ return [x[3] for x in scored[:25]]
+# Lượt 2: giữ 3 bài sát chủ đề nhất, thêm bài thứ 4 là bài ít được trỏ tới nhất trong 10 ứng viên đầu, để bài mới không bị bỏ rơi.
+_REL={q['url']:related_for(q) for q in P if q['kind'] not in ['hub','page'] and not factory_noindex(q)}
+_RELIN={}
+for _u,_c in _REL.items():
+ for _q in _c[:3]:_RELIN[_q['url']]=_RELIN.get(_q['url'],0)+1
+def related_final(p):
+ c=_REL.get(p['url']) or related_for(p)
+ top=c[:3];rest=[q for q in c[3:] if q not in top]
+ if rest:
+  pick=min(rest,key=lambda q:(min(_RELIN.get(q['url'],0),3),rest.index(q)));_RELIN[pick['url']]=_RELIN.get(pick['url'],0)+1;top=top+[pick]
+ return top
 for p in P:
  par=lookup.get(p['parent']);hub=next(h for h in NAV if h['slug']==p['hub'])
  crumbs='<a href="/">Trang chủ</a><span>/</span><a href="'+hub['url']+'">'+E(hub['label'])+'</a>'
@@ -277,7 +302,7 @@ for p in P:
  if p.get('faq'):
   n=len(p['sections'])+1
   sections+=f'<section id="muc-{n}" class="article-faq"><h2>{E(p.get("faqTitle","Câu hỏi thường gặp khi thuê xe máy Hà Nội"))}</h2>'+''.join(f'<details class="faq-item"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q,a in p['faq'])+'</section>'
- related=[q for q in sorted(P,key=lambda q: q["parent"]!=p["url"]) if q['url']!=p['url'] and q['kind'] not in ['hub','page'] and (q['hub']==p['hub'] or (p['hub'] in ['du-lich','kinh-nghiem','xe-may','xe-dien','bao-duong','luat-giao-thong'] and q['url']=='/thue-xe-may/ha-noi/'))][:3]
+ related=related_final(p)
  if p['kind']=='page':
   if p['url']=='/faq/':
    sections=''.join(f'<details class="faq-item" id="muc-{i+1}"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for i,(q,a) in enumerate(FAQ))

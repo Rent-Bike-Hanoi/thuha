@@ -39,7 +39,7 @@
     ],
     [
       "Cửa hàng có giữ căn cước hoặc hộ chiếu không?",
-      "Khi cọc tiền, cửa hàng chỉ chụp giấy tờ để làm hợp đồng và không giữ bản gốc; khách nước ngoài có thể trao đổi về cọc hộ chiếu."
+      "Khi cọc tiền, cửa hàng chỉ chụp giấy tờ để làm hợp đồng và không giữ bản gốc; khách nước ngoài có thể đặt cọc bằng hộ chiếu (không cần tiền) hoặc đặt cọc tiền như bình thường."
     ],
     [
       "Có thể đặt xe trước qua website không?",
@@ -104,7 +104,7 @@
     {
       "type": "owner",
       "source": "content/posts.json:/thue-xe-may/ha-noi/",
-      "quote": "Khi cọc tiền, cửa hàng kiểm tra và chụp một giấy tờ nhận dạng để làm hợp đồng; không giữ bản gốc. Khách nước ngoài có thể trao đổi trực tiếp về lựa chọn cọc hộ chiếu hoặc cọc tiền.",
+      "quote": "Khi cọc tiền, cửa hàng kiểm tra và chụp một giấy tờ nhận dạng để làm hợp đồng; không giữ bản gốc. Khách nước ngoài có thể đặt cọc bằng hộ chiếu (không cần tiền) hoặc đặt cọc tiền như bình thường; các thủ tục khác giống khách trong nước (xem <a href=\"/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/\">thuê xe máy cho khách nước ngoài</a>).",
       "checked": "2026-10-12"
     }
   ],
