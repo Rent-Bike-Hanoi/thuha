@@ -1,0 +1,145 @@
+{
+  "writer": "wZ",
+  "queued": "2026-10-14T17:14:56.586515+00:00",
+  "topic": {
+    "topic_id": "TM-01019",
+    "url": "/du-lich/doi-dua-dong-giao-tam-diep/",
+    "title": "Đồi dứa Đồng Giao Tam Điệp: mùa dứa, đường vào và cách xem đồi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đồi dứa Đồng Giao",
+    "secondary_keywords": [
+      "đồi dứa Tam Điệp",
+      "nông trại dứa Đồng Giao",
+      "mùa dứa Tam Điệp",
+      "dứa Đồng Giao chỉ dẫn địa lý"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi xe máy Ninh Bình muốn ghé đồi dứa Tam Điệp chụp ảnh hoặc mua dứa cần biết mùa nào đẹp và đồi nằm ở đâu.",
+    "information_gain": "Các bài Ninh Bình hiện có (/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/, /du-lich/hang-mua/, /du-lich/trang-an-ve-thuyen-tuyen/) không nói tới đồi dứa. Bài mới nêu quy mô nông trại gần 5.500 ha (dứa chiếm 60% diện tích cây ăn quả), 1.500 hộ trồng, mùa dứa từ tháng 4 chín rộ tháng 6–7, chỉ dẫn địa lý 2019 với hai giống Cayene và Queen, và lưu ý đồi không có địa chỉ cụ thể.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/canh-dong-dua-lon-nhat-mien-bac-dep-me-ly-chi-cach-ha-noi-100km-2106631.html",
+        "quote": "VietNamNet (5/2/2023, đọc 14/10/2026): đồi dứa Tam Điệp (nông trại Đồng Giao, TP Tam Điệp, Ninh Bình) cách trung tâm Hà Nội khoảng 100 km; nông trại rộng gần 5.500 ha, dứa chiếm 60% diện tích cây ăn quả; 1.500 hộ trồng; sản lượng 30.000–35.000 tấn/năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/canh-dong-dua-lon-nhat-mien-bac-dep-me-ly-chi-cach-ha-noi-100km-2106631.html",
+        "quote": "VietNamNet (5/2/2023, đọc 14/10/2026): mùa dứa bắt đầu tháng 4, chín rộ khoảng tháng 6, 7; tháng 1–2 đồi xanh; khu vực không có địa điểm cụ thể, nên đi theo Google Maps; đường nhỏ nhưng dễ đi, cách trung tâm TP Ninh Bình chừng 20 km.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/xuc-tien-thuong-mai/dua-dong-giao-ninh-binh-hut-nguoi-tieu-dung-thap-phuong.html",
+        "quote": "Bộ Công Thương (đọc 14/10/2026): ngày 27/5/2019 Cục Sở hữu trí tuệ ban hành Quyết định 2588/QĐ-SHTT cấp chỉ dẫn địa lý số 00074 cho dứa Đồng Giao; UBND TP Tam Điệp quản lý; hai giống Cayene (quả 1,53–1,78 kg) và Queen (0,54–0,61 kg); vùng đồi bát úp cao dưới 100 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đồi dứa Đồng Giao"
+      }
+    ],
+    "notes": "Bài nongnghiepmoitruong.vn 'Mùa hoa dứa Đồng Giao' không tải được. Đồi trên đất canh tác của hộ dân — không giẫm luống, xin phép trước khi chụp. Không đưa giá vé (mia.vn, không phải nguồn báo). Ninh Bình mở rộng sau sáp nhập 2025.",
+    "outline": [
+      "Đồi dứa Đồng Giao ở đâu",
+      "Mùa nào đẹp: đồi xanh đầu năm, dứa chín hè",
+      "Quy mô nông trại và hai giống dứa",
+      "Đường vào: không có địa chỉ cố định",
+      "Ứng xử trên đất canh tác",
+      "Ghép với Tràng An, Hang Múa, Cúc Phương"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/hang-mua/",
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01019.json",
+  "draft_template": {
+    "id": "TM-01019",
+    "url": "/du-lich/doi-dua-dong-giao-tam-diep/",
+    "title": "Đồi dứa Đồng Giao Tam Điệp: mùa dứa, đường vào và cách xem đồi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đồi dứa Đồng Giao, đồi dứa Tam Điệp, nông trại dứa Đồng Giao, mùa dứa Tam Điệp, dứa Đồng Giao chỉ dẫn địa lý",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồi dứa Đồng Giao ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đẹp: đồi xanh đầu năm, dứa chín hè",
+        "<p></p>"
+      ],
+      [
+        "Quy mô nông trại và hai giống dứa",
+        "<p></p>"
+      ],
+      [
+        "Đường vào: không có địa chỉ cố định",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử trên đất canh tác",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Tràng An, Hang Múa, Cúc Phương",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/canh-dong-dua-lon-nhat-mien-bac-dep-me-ly-chi-cach-ha-noi-100km-2106631.html",
+        "quote": "VietNamNet (5/2/2023, đọc 14/10/2026): đồi dứa Tam Điệp (nông trại Đồng Giao, TP Tam Điệp, Ninh Bình) cách trung tâm Hà Nội khoảng 100 km; nông trại rộng gần 5.500 ha, dứa chiếm 60% diện tích cây ăn quả; 1.500 hộ trồng; sản lượng 30.000–35.000 tấn/năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/canh-dong-dua-lon-nhat-mien-bac-dep-me-ly-chi-cach-ha-noi-100km-2106631.html",
+        "quote": "VietNamNet (5/2/2023, đọc 14/10/2026): mùa dứa bắt đầu tháng 4, chín rộ khoảng tháng 6, 7; tháng 1–2 đồi xanh; khu vực không có địa điểm cụ thể, nên đi theo Google Maps; đường nhỏ nhưng dễ đi, cách trung tâm TP Ninh Bình chừng 20 km.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/xuc-tien-thuong-mai/dua-dong-giao-ninh-binh-hut-nguoi-tieu-dung-thap-phuong.html",
+        "quote": "Bộ Công Thương (đọc 14/10/2026): ngày 27/5/2019 Cục Sở hữu trí tuệ ban hành Quyết định 2588/QĐ-SHTT cấp chỉ dẫn địa lý số 00074 cho dứa Đồng Giao; UBND TP Tam Điệp quản lý; hai giống Cayene (quả 1,53–1,78 kg) và Queen (0,54–0,61 kg); vùng đồi bát úp cao dưới 100 m.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01019"
+  }
+}

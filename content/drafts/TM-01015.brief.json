@@ -1,0 +1,145 @@
+{
+  "writer": "wZ",
+  "queued": "2026-10-14T17:14:53.404241+00:00",
+  "topic": {
+    "topic_id": "TM-01015",
+    "url": "/du-lich/vai-thieu-thanh-ha-hai-duong-mua-vai/",
+    "title": "Vải thiều Thanh Hà: mùa vải chín, cây vải tổ và đường đi từ QL5",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "vải thiều Thanh Hà",
+    "secondary_keywords": [
+      "mùa vải Thanh Hà",
+      "cây vải tổ Thanh Hà",
+      "miệt vườn Thanh Hà",
+      "lễ mở vườn vải Thanh Hà"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người Hà Nội muốn đi xe máy về Thanh Hà ngắm và mua vải tận vườn cần biết mùa vải, đường rẽ từ QL5 và chỗ nào nên ghé.",
+    "information_gain": "Chưa có bài/row về vùng vải Thanh Hà; /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ chỉ chạy QL5. Bài mới nêu cách rẽ từ QL5 qua cầu Lai Vu vào miệt vườn Thanh Xá (khoảng 10 km), cây vải tổ hơn 200 năm, lễ mở vườn cuối tháng 5 (2025), quy mô 8.800 ha vải toàn tỉnh, và chỉ dẫn địa lý — thông tin thực dụng cho chuyến trong ngày.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/trai-nghiem-moi-tren-dat-vai-thanh-ha-59923.html",
+        "quote": "Báo Văn Hóa, 'Trải nghiệm mới trên đất vải Thanh Hà' (28/6/2018, đọc 14/10/2026): tháng 6 vải thiều chín rộ ở Thanh Hà; từ Hà Nội theo QL5A, đến cầu Lai Vu hoặc qua cầu vượt nút giao Ngã Ba Hàng, rẽ phải khoảng 10 km là đến miệt vườn Thanh Xá, nơi trồng nhiều vải nhất; có thể thăm cây vải tổ hơn 200 năm tuổi, chùa Bạch Hào, chùa Động Ngọ, dòng Hương Giang.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/hai-duong-mo-vuon-vai-thieu-thanh-ha-buoc-vao-mua-xuat-khau-nam-2025-42090.html",
+        "quote": "Mekong ASEAN (30/5/2025, đọc 14/10/2026): sáng 30/5/2025 tổ chức lễ mở vườn vải thiều Thanh Hà tại thôn Thanh Lanh, xã Thanh Quang; Hải Dương có 8.800 ha vải, dự kiến khoảng 60.000 tấn, riêng vải thiều Thanh Hà ước 40.000 tấn; vải Thanh Hà có chỉ dẫn địa lý, tem truy xuất.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/vai-thieu-rot-gia-4906640.html",
+        "quote": "VnExpress (27/6/2025, đọc 14/10/2026): Thanh Hà (Hải Dương) là vùng trồng vải nổi tiếng miền Bắc; vải đầu mùa thu hoạch sớm, vào chính vụ sản lượng tăng mạnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "vải thiều Thanh Hà"
+      }
+    ],
+    "notes": "Có giá vải trong nguồn, không dùng. Số liệu 3.280 ha của huyện chỉ có trong kết quả tìm kiếm (nongnghiepmoitruong.vn không tải được) — bỏ, không đưa vào bài. Tuổi cây vải tổ lấy từ bài 2018 ('hơn 200 năm'). Hải Dương đã sáp nhập vào Hải Phòng (2025) — ghi chú hành chính. Không có khoảng cách Hà Nội–Thanh Hà.",
+    "outline": [
+      "Thanh Hà ở đâu, rẽ từ QL5 thế nào",
+      "Mùa vải: từ lễ mở vườn đến chính vụ",
+      "Cây vải tổ và các chùa ven sông Hương",
+      "Chỉ dẫn địa lý và cách nhận vải Thanh Hà",
+      "Đi xe máy giữa nắng tháng 6",
+      "Mua vải tận vườn: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01015.json",
+  "draft_template": {
+    "id": "TM-01015",
+    "url": "/du-lich/vai-thieu-thanh-ha-hai-duong-mua-vai/",
+    "title": "Vải thiều Thanh Hà: mùa vải chín, cây vải tổ và đường đi từ QL5",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vải thiều Thanh Hà, mùa vải Thanh Hà, cây vải tổ Thanh Hà, miệt vườn Thanh Hà, lễ mở vườn vải Thanh Hà",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thanh Hà ở đâu, rẽ từ QL5 thế nào",
+        "<p></p>"
+      ],
+      [
+        "Mùa vải: từ lễ mở vườn đến chính vụ",
+        "<p></p>"
+      ],
+      [
+        "Cây vải tổ và các chùa ven sông Hương",
+        "<p></p>"
+      ],
+      [
+        "Chỉ dẫn địa lý và cách nhận vải Thanh Hà",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy giữa nắng tháng 6",
+        "<p></p>"
+      ],
+      [
+        "Mua vải tận vườn: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/trai-nghiem-moi-tren-dat-vai-thanh-ha-59923.html",
+        "quote": "Báo Văn Hóa, 'Trải nghiệm mới trên đất vải Thanh Hà' (28/6/2018, đọc 14/10/2026): tháng 6 vải thiều chín rộ ở Thanh Hà; từ Hà Nội theo QL5A, đến cầu Lai Vu hoặc qua cầu vượt nút giao Ngã Ba Hàng, rẽ phải khoảng 10 km là đến miệt vườn Thanh Xá, nơi trồng nhiều vải nhất; có thể thăm cây vải tổ hơn 200 năm tuổi, chùa Bạch Hào, chùa Động Ngọ, dòng Hương Giang.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/hai-duong-mo-vuon-vai-thieu-thanh-ha-buoc-vao-mua-xuat-khau-nam-2025-42090.html",
+        "quote": "Mekong ASEAN (30/5/2025, đọc 14/10/2026): sáng 30/5/2025 tổ chức lễ mở vườn vải thiều Thanh Hà tại thôn Thanh Lanh, xã Thanh Quang; Hải Dương có 8.800 ha vải, dự kiến khoảng 60.000 tấn, riêng vải thiều Thanh Hà ước 40.000 tấn; vải Thanh Hà có chỉ dẫn địa lý, tem truy xuất.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/vai-thieu-rot-gia-4906640.html",
+        "quote": "VnExpress (27/6/2025, đọc 14/10/2026): Thanh Hà (Hải Dương) là vùng trồng vải nổi tiếng miền Bắc; vải đầu mùa thu hoạch sớm, vào chính vụ sản lượng tăng mạnh.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01015"
+  }
+}

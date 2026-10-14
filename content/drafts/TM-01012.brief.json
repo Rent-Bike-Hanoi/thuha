@@ -1,0 +1,158 @@
+{
+  "writer": "wZ",
+  "queued": "2026-10-14T17:14:50.984905+00:00",
+  "topic": {
+    "topic_id": "TM-01012",
+    "url": "/du-lich/vai-som-phuc-hoa-tan-yen-bac-giang/",
+    "title": "Vải sớm Phúc Hòa Tân Yên: mùa hoa vải, mùa quả và đường đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "vải sớm Phúc Hòa",
+    "secondary_keywords": [
+      "vải thiều sớm Tân Yên",
+      "mùa vải Phúc Hòa",
+      "vải chín sớm Bắc Giang",
+      "mật ong hoa vải Phúc Hòa"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người Hà Nội muốn xem vùng vải chín sớm hoặc mua vải tận vườn ở Bắc Giang cần biết Phúc Hòa khác Lục Ngạn thế nào và thu hoạch vào thời điểm nào.",
+    "information_gain": "Chưa có bài/row riêng về Phúc Hòa (các row Lục Ngạn nói vải chính vụ). Bài mới phân biệt vải sớm Tân Yên với vải chính vụ: xã Phúc Hòa có trên 700 ha vải, nhãn hiệu tập thể 2012, khung thu hoạch tập trung đầu tháng 6 (theo năm 2022), mùa hoa vải tháng 3 với mật ong; đủ cho người đi xe máy chọn đúng thời điểm.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/xuc-tien-thuong-mai/cho-phep-su-dung-dia-danh-phuc-hoa-de-dang-ky-nhan-hieu-tap-the-vai-som-phuc-hoa-.html",
+        "quote": "Bộ Công Thương (đọc 14/10/2026): UBND tỉnh Bắc Giang có Quyết định 810/QĐ-UBND cho phép dùng địa danh 'Phúc Hòa' đăng ký nhãn hiệu tập thể 'Vải sớm Phúc Hòa'; xã Phúc Hòa có trên 700 ha vải, trên 400 ha VietGAP, 10 ha GlobalGAP; năm 2012 huyện Tân Yên được cấp nhãn hiệu tập thể cho vùng vải sớm Phúc Hòa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/ket-noi-tieu-thu-cho-vai-thieu-som-tan-yen-88795.htm",
+        "quote": "Tạp chí Công Thương (21/5/2022, đọc 14/10/2026): năm 2022 huyện Tân Yên có 1.340 ha vải, trong đó vải sớm 1.170 ha; dự kiến bắt đầu thu hoạch trà vải sớm từ 25/5, tập trung từ 1/6 đến 10/6; mã số vùng trồng tại Phúc Hòa 600 ha.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/mua-mat-ong-vai-o-bac-giang-duoc-mua-duoc-gia-post868790.html",
+        "quote": "Nhân Dân (30/3/2025, đọc 14/10/2026): xã Phúc Hòa — 'thủ phủ vải thiều chín sớm' của Tân Yên — có trên 700 ha vải; thời điểm cuối tháng 3 vườn vải bung nở, hàng trăm đàn ong đến hút mật; HTX nuôi ong Phồn Nhị có hơn 400 đàn ong.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/bac-giang-tieu-thu-khoang-70-san-luong-vai-thieu-som-post813869.html",
+        "quote": "Nhân Dân (12/6/2024, đọc 14/10/2026): Phúc Hòa khoảng 700 ha, sản lượng vải sớm ước hơn 10 nghìn tấn (2024).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "vải sớm Phúc Hòa"
+      }
+    ],
+    "notes": "Khung ngày thu hoạch lấy từ năm 2022, thay đổi theo năm — ghi 'thường cuối tháng 5 – đầu tháng 6'. Có giá vải và mật ong trong nguồn, không dùng. Không có khoảng cách Hà Nội–Tân Yên. Bắc Giang đã sáp nhập với Bắc Ninh (2025) — ghi chú hành chính.",
+    "outline": [
+      "Phúc Hòa – vùng vải chín sớm khác Lục Ngạn ở điểm nào",
+      "Mùa hoa vải tháng 3 và mật ong",
+      "Mùa quả: khi nào bắt đầu, khi nào rộ",
+      "Nhãn hiệu tập thể, VietGAP và mã vùng trồng",
+      "Đi xe máy trong nắng đầu hè: chuẩn bị gì",
+      "Mua vải tận vườn: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01012.json",
+  "draft_template": {
+    "id": "TM-01012",
+    "url": "/du-lich/vai-som-phuc-hoa-tan-yen-bac-giang/",
+    "title": "Vải sớm Phúc Hòa Tân Yên: mùa hoa vải, mùa quả và đường đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vải sớm Phúc Hòa, vải thiều sớm Tân Yên, mùa vải Phúc Hòa, vải chín sớm Bắc Giang, mật ong hoa vải Phúc Hòa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phúc Hòa – vùng vải chín sớm khác Lục Ngạn ở điểm nào",
+        "<p></p>"
+      ],
+      [
+        "Mùa hoa vải tháng 3 và mật ong",
+        "<p></p>"
+      ],
+      [
+        "Mùa quả: khi nào bắt đầu, khi nào rộ",
+        "<p></p>"
+      ],
+      [
+        "Nhãn hiệu tập thể, VietGAP và mã vùng trồng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy trong nắng đầu hè: chuẩn bị gì",
+        "<p></p>"
+      ],
+      [
+        "Mua vải tận vườn: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/xuc-tien-thuong-mai/cho-phep-su-dung-dia-danh-phuc-hoa-de-dang-ky-nhan-hieu-tap-the-vai-som-phuc-hoa-.html",
+        "quote": "Bộ Công Thương (đọc 14/10/2026): UBND tỉnh Bắc Giang có Quyết định 810/QĐ-UBND cho phép dùng địa danh 'Phúc Hòa' đăng ký nhãn hiệu tập thể 'Vải sớm Phúc Hòa'; xã Phúc Hòa có trên 700 ha vải, trên 400 ha VietGAP, 10 ha GlobalGAP; năm 2012 huyện Tân Yên được cấp nhãn hiệu tập thể cho vùng vải sớm Phúc Hòa.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/ket-noi-tieu-thu-cho-vai-thieu-som-tan-yen-88795.htm",
+        "quote": "Tạp chí Công Thương (21/5/2022, đọc 14/10/2026): năm 2022 huyện Tân Yên có 1.340 ha vải, trong đó vải sớm 1.170 ha; dự kiến bắt đầu thu hoạch trà vải sớm từ 25/5, tập trung từ 1/6 đến 10/6; mã số vùng trồng tại Phúc Hòa 600 ha.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/mua-mat-ong-vai-o-bac-giang-duoc-mua-duoc-gia-post868790.html",
+        "quote": "Nhân Dân (30/3/2025, đọc 14/10/2026): xã Phúc Hòa — 'thủ phủ vải thiều chín sớm' của Tân Yên — có trên 700 ha vải; thời điểm cuối tháng 3 vườn vải bung nở, hàng trăm đàn ong đến hút mật; HTX nuôi ong Phồn Nhị có hơn 400 đàn ong.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/bac-giang-tieu-thu-khoang-70-san-luong-vai-thieu-som-post813869.html",
+        "quote": "Nhân Dân (12/6/2024, đọc 14/10/2026): Phúc Hòa khoảng 700 ha, sản lượng vải sớm ước hơn 10 nghìn tấn (2024).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01012"
+  }
+}

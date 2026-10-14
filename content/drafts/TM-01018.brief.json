@@ -1,0 +1,145 @@
+{
+  "writer": "wZ",
+  "queued": "2026-10-14T17:14:55.825062+00:00",
+  "topic": {
+    "topic_id": "TM-01018",
+    "url": "/du-lich/rung-khau-ca-vooc-mui-hech/",
+    "title": "Rừng Khau Ca: nơi bảo vệ voọc mũi hếch, có vào xem được không",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "rừng Khau Ca voọc mũi hếch",
+    "secondary_keywords": [
+      "khu bảo tồn Khau Ca",
+      "voọc mũi hếch Hà Giang",
+      "Tùng Bá Vị Xuyên",
+      "vườn quốc gia Du Già"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy Hà Giang tò mò về voọc mũi hếch muốn biết rừng Khau Ca ở đâu, quần thể còn bao nhiêu và khách du lịch có được vào không.",
+    "information_gain": "Chưa có bài/row nào về Khau Ca hay voọc mũi hếch; /du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/ chỉ đi QL2 qua Vị Xuyên. Bài mới giải thích Khau Ca (xã Tùng Bá, Vị Xuyên và Minh Sơn, Bắc Mê), quần thể tăng từ khoảng 60 cá thể năm 2002, kết quả điều tra 2025 đếm tối thiểu 104 cá thể, việc sáp nhập vào VQG Du Già – Cao nguyên đá Đồng Văn năm 2015, và nói rõ đây là vùng lõi bảo vệ, không phải điểm tham quan tự do.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/no-luc-bao-ton-dan-vooc-mui-hech-quy-hiem-tai-ha-giang-post670275.html",
+        "quote": "Nhân Dân (20/10/2021, đọc 14/10/2026): năm 2002 phát hiện quần thể voọc mũi hếch khoảng 60 con tại Khu bảo tồn loài và sinh cảnh Khau Ca (xã Tùng Bá, huyện Vị Xuyên và xã Minh Sơn, huyện Bắc Mê); nay khoảng 160 cá thể; FFI lập 6 tổ tuần rừng; từ năm 2015 Thủ tướng thành lập Vườn quốc gia Du Già – Cao nguyên đá Đồng Văn trên cơ sở sáp nhập Du Già với Khau Ca.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hien-trang-quan-the-vooc-mui-hech-tai-rung-khau-ca-post937853.html",
+        "quote": "Nhân Dân (19/1/2026, đọc 14/10/2026): cuối năm 2025 FFI phối hợp Chi cục Kiểm lâm Tuyên Quang điều tra; vùng lõi Khau Ca chia 20 ô lưới 1,5x1,5 km; 15 nhóm điều tra trong 10 ngày; phát hiện 2 đàn với số cá thể tối thiểu đếm được là 104.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/de-xuat-dua-vooc-mui-hech-thanh-bieu-tuong-cua-tuyen-quang-post1871814.tpo",
+        "quote": "Tiền Phong (28/8/2026, đọc 14/10/2026): sau hợp nhất với Hà Giang, Tuyên Quang là địa phương duy nhất cả nước còn ghi nhận voọc mũi hếch; ở Khau Ca số cá thể tăng từ khoảng 50–60 con (2002); theo Danh lục đỏ Việt Nam, quần thể suy giảm hơn 80% trong 40 năm, loài cực kỳ nguy cấp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "rừng Khau Ca voọc mũi hếch"
+      }
+    ],
+    "notes": "Không có nguồn nào cho phép/hướng dẫn khách vào xem voọc — bài phải nói rõ không tự vào vùng lõi, không thuê người dẫn trái phép, không dùng flycam/làm ồn. Số cá thể khác nhau (160 năm 2021 vs tối thiểu 104 năm 2025) — giải thích là phương pháp đếm khác nhau. Tùng Bá không phải xã biên giới nhưng Vị Xuyên có xã biên giới; không đi về phía biên giới. Hà Giang nay thuộc Tuyên Quang.",
+    "outline": [
+      "Khau Ca ở đâu trên đường Hà Giang",
+      "Voọc mũi hếch: vì sao quý",
+      "Quần thể từ 2002 đến điều tra 2025",
+      "Khau Ca trong Vườn quốc gia Du Già – Cao nguyên đá Đồng Văn",
+      "Khách có vào xem được không",
+      "Ứng xử của người đi phượt qua vùng rừng bảo tồn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/du-lich/deo-ma-pi-leng-va-dong-van/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01018.json",
+  "draft_template": {
+    "id": "TM-01018",
+    "url": "/du-lich/rung-khau-ca-vooc-mui-hech/",
+    "title": "Rừng Khau Ca: nơi bảo vệ voọc mũi hếch, có vào xem được không",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "rừng Khau Ca voọc mũi hếch, khu bảo tồn Khau Ca, voọc mũi hếch Hà Giang, Tùng Bá Vị Xuyên, vườn quốc gia Du Già",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khau Ca ở đâu trên đường Hà Giang",
+        "<p></p>"
+      ],
+      [
+        "Voọc mũi hếch: vì sao quý",
+        "<p></p>"
+      ],
+      [
+        "Quần thể từ 2002 đến điều tra 2025",
+        "<p></p>"
+      ],
+      [
+        "Khau Ca trong Vườn quốc gia Du Già – Cao nguyên đá Đồng Văn",
+        "<p></p>"
+      ],
+      [
+        "Khách có vào xem được không",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử của người đi phượt qua vùng rừng bảo tồn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/no-luc-bao-ton-dan-vooc-mui-hech-quy-hiem-tai-ha-giang-post670275.html",
+        "quote": "Nhân Dân (20/10/2021, đọc 14/10/2026): năm 2002 phát hiện quần thể voọc mũi hếch khoảng 60 con tại Khu bảo tồn loài và sinh cảnh Khau Ca (xã Tùng Bá, huyện Vị Xuyên và xã Minh Sơn, huyện Bắc Mê); nay khoảng 160 cá thể; FFI lập 6 tổ tuần rừng; từ năm 2015 Thủ tướng thành lập Vườn quốc gia Du Già – Cao nguyên đá Đồng Văn trên cơ sở sáp nhập Du Già với Khau Ca.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hien-trang-quan-the-vooc-mui-hech-tai-rung-khau-ca-post937853.html",
+        "quote": "Nhân Dân (19/1/2026, đọc 14/10/2026): cuối năm 2025 FFI phối hợp Chi cục Kiểm lâm Tuyên Quang điều tra; vùng lõi Khau Ca chia 20 ô lưới 1,5x1,5 km; 15 nhóm điều tra trong 10 ngày; phát hiện 2 đàn với số cá thể tối thiểu đếm được là 104.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/de-xuat-dua-vooc-mui-hech-thanh-bieu-tuong-cua-tuyen-quang-post1871814.tpo",
+        "quote": "Tiền Phong (28/8/2026, đọc 14/10/2026): sau hợp nhất với Hà Giang, Tuyên Quang là địa phương duy nhất cả nước còn ghi nhận voọc mũi hếch; ở Khau Ca số cá thể tăng từ khoảng 50–60 con (2002); theo Danh lục đỏ Việt Nam, quần thể suy giảm hơn 80% trong 40 năm, loài cực kỳ nguy cấp.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01018"
+  }
+}

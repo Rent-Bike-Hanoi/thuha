@@ -1,0 +1,158 @@
+{
+  "writer": "wZ",
+  "queued": "2026-10-14T17:14:52.576632+00:00",
+  "topic": {
+    "topic_id": "TM-01014",
+    "url": "/du-lich/vung-na-chi-lang-lang-son/",
+    "title": "Vùng na Chi Lăng: na trên núi đá vôi, mùa thu hoạch tháng 8",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "vùng na Chi Lăng",
+    "secondary_keywords": [
+      "na Chi Lăng mùa nào",
+      "na dai Chi Lăng",
+      "na núi đá Lạng Sơn",
+      "Quán Thanh núi Mặt Quỷ"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi xe máy Hà Nội – Lạng Sơn qua QL1 muốn biết mùa na Chi Lăng, xã nào trồng và có thể dừng xem vườn na trên núi đá ở đâu.",
+    "information_gain": "/du-lich/ai-chi-lang-lang-son/ và /du-lich/ha-noi-di-lang-son-bang-xe-may/ nói ải Chi Lăng, không nói vùng na. Bài mới thêm: mùa thu hoạch tháng 8, các xã trồng tập trung (Chi Lăng, Mai Sao, Thượng Cường, Vạn Linh, Y Tịch…), lịch sử cây na đưa từ Hoài Đức lên đầu những năm 1980, cảnh trồng trên núi đá vôi với ròng rọc vận chuyển, và quy mô khoảng 2.300–2.500 ha.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/hanh-trinh-dua-thuong-hieu-na-chi-lang-vuon-minh-ra-bien-lon-a199776.html",
+        "quote": "Thương hiệu & Công luận (21/8/2023, đọc 14/10/2026): đầu những năm 1980, na dai được vài hộ ở xã Chi Lăng mang từ Hoài Đức (Hà Nội) về trồng giữa vách núi đá; tháng 8 hằng năm vựa na Chi Lăng vào vụ thu hoạch; trồng tập trung ở các xã Chi Lăng, Mai Sao, Thượng Cường, Vạn Linh, Y Tịch, Hòa Bình, thị trấn Chi Lăng, Đồng Mỏ; năm 2023 diện tích ước trên 2.300 ha; nhãn hiệu tập thể từ năm 2011.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/lang-son-na-chi-lang-duoc-gia-post485220.html",
+        "quote": "Báo Pháp Luật Việt Nam (20/8/2023, đọc 14/10/2026): mùa na Chi Lăng bắt đầu chính vụ; theo UBND huyện, đến tháng 8/2023 diện tích khoảng 2.500 ha, sản lượng ước 20.000 tấn (gồm na rải vụ); Lạng Sơn có vùng na tập trung ở Chi Lăng và Hữu Lũng khoảng 4.000 ha.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/na-lang-son-xuong-nui-3789887.html",
+        "quote": "VnExpress, 'Na Lạng Sơn xuống núi' (9/8/2018, đọc 14/10/2026): tỉnh có 16 xã trồng na, chủ yếu trên núi đá nên chăm sóc, thu hoạch vất vả; người hái đi 4 km, hái từ 5h đến 8h; dây tời ròng rọc dài khoảng 1.000 m, mỗi dây chở tối đa 70 kg; Chi Lăng được coi là thủ phủ na Lạng Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/mua-na-tren-nui-mat-quy-post489083.html",
+        "quote": "Sài Gòn Giải Phóng, 'Mùa na trên núi Mặt Quỷ' (19/8/2018, đọc 14/10/2026): thôn Quán Thanh, xã Chi Lăng nổi tiếng với di tích núi Mặt Quỷ và na; hầu hết gia đình đều trồng na; cây cho thu từ năm thứ 3; trồng hai loại na dai và na bở.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "vùng na Chi Lăng"
+      }
+    ],
+    "notes": "Diện tích khác nhau giữa các nguồn (2.300 vs 2.500 ha) — dùng 'khoảng'. Có giá và kết quả đấu giá trong nguồn, không dùng. Không có khoảng cách Hà Nội–Chi Lăng từ nguồn đã đọc. Vườn trên núi đá: không tự trèo, đi theo chủ vườn.",
+    "outline": [
+      "Vùng na Chi Lăng nằm ở đâu dọc QL1",
+      "Mùa na: tháng 8 và những tháng chăm cây",
+      "Na trên núi đá vôi: ròng rọc, gánh bộ",
+      "Na dai, na bở và nhãn hiệu tập thể",
+      "Dừng xe dọc đường an toàn",
+      "Ghép với ải Chi Lăng, phố Kỳ Lừa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ai-chi-lang-lang-son/",
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/pho-di-bo-ky-lua-lang-son/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01014.json",
+  "draft_template": {
+    "id": "TM-01014",
+    "url": "/du-lich/vung-na-chi-lang-lang-son/",
+    "title": "Vùng na Chi Lăng: na trên núi đá vôi, mùa thu hoạch tháng 8",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vùng na Chi Lăng, na Chi Lăng mùa nào, na dai Chi Lăng, na núi đá Lạng Sơn, Quán Thanh núi Mặt Quỷ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vùng na Chi Lăng nằm ở đâu dọc QL1",
+        "<p></p>"
+      ],
+      [
+        "Mùa na: tháng 8 và những tháng chăm cây",
+        "<p></p>"
+      ],
+      [
+        "Na trên núi đá vôi: ròng rọc, gánh bộ",
+        "<p></p>"
+      ],
+      [
+        "Na dai, na bở và nhãn hiệu tập thể",
+        "<p></p>"
+      ],
+      [
+        "Dừng xe dọc đường an toàn",
+        "<p></p>"
+      ],
+      [
+        "Ghép với ải Chi Lăng, phố Kỳ Lừa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/hanh-trinh-dua-thuong-hieu-na-chi-lang-vuon-minh-ra-bien-lon-a199776.html",
+        "quote": "Thương hiệu & Công luận (21/8/2023, đọc 14/10/2026): đầu những năm 1980, na dai được vài hộ ở xã Chi Lăng mang từ Hoài Đức (Hà Nội) về trồng giữa vách núi đá; tháng 8 hằng năm vựa na Chi Lăng vào vụ thu hoạch; trồng tập trung ở các xã Chi Lăng, Mai Sao, Thượng Cường, Vạn Linh, Y Tịch, Hòa Bình, thị trấn Chi Lăng, Đồng Mỏ; năm 2023 diện tích ước trên 2.300 ha; nhãn hiệu tập thể từ năm 2011.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/lang-son-na-chi-lang-duoc-gia-post485220.html",
+        "quote": "Báo Pháp Luật Việt Nam (20/8/2023, đọc 14/10/2026): mùa na Chi Lăng bắt đầu chính vụ; theo UBND huyện, đến tháng 8/2023 diện tích khoảng 2.500 ha, sản lượng ước 20.000 tấn (gồm na rải vụ); Lạng Sơn có vùng na tập trung ở Chi Lăng và Hữu Lũng khoảng 4.000 ha.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/na-lang-son-xuong-nui-3789887.html",
+        "quote": "VnExpress, 'Na Lạng Sơn xuống núi' (9/8/2018, đọc 14/10/2026): tỉnh có 16 xã trồng na, chủ yếu trên núi đá nên chăm sóc, thu hoạch vất vả; người hái đi 4 km, hái từ 5h đến 8h; dây tời ròng rọc dài khoảng 1.000 m, mỗi dây chở tối đa 70 kg; Chi Lăng được coi là thủ phủ na Lạng Sơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/mua-na-tren-nui-mat-quy-post489083.html",
+        "quote": "Sài Gòn Giải Phóng, 'Mùa na trên núi Mặt Quỷ' (19/8/2018, đọc 14/10/2026): thôn Quán Thanh, xã Chi Lăng nổi tiếng với di tích núi Mặt Quỷ và na; hầu hết gia đình đều trồng na; cây cho thu từ năm thứ 3; trồng hai loại na dai và na bở.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01014"
+  }
+}
