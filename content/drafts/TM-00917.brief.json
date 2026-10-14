@@ -1,0 +1,145 @@
+{
+  "writer": "writer-S3",
+  "queued": "2026-10-14T16:08:23.845633+00:00",
+  "topic": {
+    "topic_id": "TM-00917",
+    "url": "/du-lich/bac-bo-phu-12-ngo-quyen/",
+    "title": "Bắc Bộ phủ phố Ngô Quyền: phủ Thống sứ 1918, nơi Bác ở và làm việc 1945",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bắc bộ phủ",
+    "secondary_keywords": [
+      "bắc bộ phủ hà nội",
+      "phủ thống sứ bắc kỳ",
+      "nhà khách chính phủ ngô quyền",
+      "bắc bộ phủ có tham quan được không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi dạo quanh Hồ Gươm, học sinh và khách yêu kiến trúc Pháp muốn biết tòa nhà Bắc Bộ phủ trên phố Ngô Quyền là gì, xây năm nào, gắn với sự kiện 1945 ra sao và có vào xem được không.",
+    "information_gain": "Site có /du-lich/nha-tu-hoa-lo/, /du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/ và /du-lich/nha-san-bac-ho-phu-chu-tich/ nhưng không trang nào nói về Bắc Bộ phủ. Bài mới cho: hai khối nhà (văn phòng và dinh Thống sứ 1918) với mốc năm khu văn phòng mâu thuẫn giữa các nguồn, KTS Adolphe Bussy, ba mặt phố Ngô Quyền – Đinh Lễ – Lê Thạch, chuỗi tên gọi Phủ Thống sứ → Phủ Khâm sai → Bắc Bộ phủ (19–20/8/1945), và thực tế tham quan: chỉ từng mở tự do trong Lễ hội Thiết kế sáng tạo 2024 (tầng trệt và sân vườn).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/ngam-25-di-san-ha-noi-tai-nha-tu-hoa-lo-10339985.html",
+        "quote": "Báo Đại biểu Nhân dân, bài về trưng bày 25 di sản Hà Nội tại Nhà tù Hỏa Lò (2024, đọc 14/10/2026): Bắc Bộ Phủ trước đây là Phủ Thống sứ Bắc Kỳ do Pháp xây, gồm tòa nhà văn phòng (xây năm 1898) và tòa Phủ Thống sứ (xây năm 1918); sau đảo chính 9/3/1945 Nhật đổi tên thành Phủ Khâm sai Bắc Kỳ; ngày 19/8/1945 nhân dân và tự vệ chiếm Phủ Khâm sai; ngày 20/8/1945 đổi tên thành Bắc Bộ Phủ, là nơi ở và làm việc của Chủ tịch Hồ Chí Minh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/cong-trinh-ngoai-giao-tram-tuoi-hao-hoa-bac-nhat-dong-duong-407515.html",
+        "quote": "VietNamNet, bài ảnh về các công trình Pháp ở Hà Nội (đọc 14/10/2026): Phủ Thống sứ Bắc kỳ 3 mặt tiếp giáp phố Ngô Quyền, Đinh Lễ, Lê Thạch, phía sau giáp Bưu điện Hà Nội; do kiến trúc sư Aldophe Bussy thiết kế theo phong cách cổ điển Pháp; khu Văn phòng xây năm 1892, nay là Bộ LĐTB&XH; khu Dinh thự thống sứ xây năm 1918, nay dùng làm Nhà khách Chính phủ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/lan-dau-tien-bac-bo-phu-mo-cua-tu-do-don-khach-tham-quan-post844824.html",
+        "quote": "Báo Nhân Dân, 'Lần đầu tiên Bắc Bộ Phủ mở cửa tự do đón khách tham quan' (Trung Hiếu, 14/11/2024, đọc 14/10/2026 qua WebFetch): Bắc Bộ Phủ (Nhà khách Chính phủ) lần đầu mở cửa đón khách trong Lễ hội Thiết kế sáng tạo Hà Nội 2024; khách chỉ được vào tầng trệt và sân vườn; có phòng tiếp khách, phòng tiệc ngoại giao, chi tiết kiến trúc Pháp như cửa lớn, đèn trang trí; tham quan tự do hoặc có thuyết minh trả phí (bài không nêu giờ mở hay ngày đóng).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bắc bộ phủ"
+      }
+    ],
+    "notes": "Mâu thuẫn: năm xây khu văn phòng 1898 (Đại biểu Nhân dân) và 1892 (VietNamNet); dinh Thống sứ 1918 thống nhất. Số nhà (thường gọi 12 Ngô Quyền) không có trong nguồn đã đọc – không ghi số nhà. Tham quan: chỉ xác nhận mở trong Lễ hội Thiết kế sáng tạo 11/2024; việc mở cửa thường xuyên CHƯA XÁC MINH – viết là chỉ ngắm từ bên ngoài, không hứa vào được. Không đưa giá vé tour thuyết minh. Tên chùa Báo Ân dưới nền chỉ thấy ở snippet, chưa đọc trang đầy đủ – bỏ.",
+    "outline": [
+      "Bắc Bộ phủ ở đâu: ba mặt phố Ngô Quyền, Đinh Lễ, Lê Thạch",
+      "Hai khối nhà và các mốc năm (1892/1898, 1918)",
+      "Từ Phủ Thống sứ đến Bắc Bộ phủ: tháng 8/1945",
+      "Kiến trúc cổ điển Pháp của Adolphe Bussy: nhìn gì từ ngoài",
+      "Có vào tham quan được không",
+      "Ghép lộ trình đi bộ quanh Hồ Gươm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tu-hoa-lo/",
+      "/du-lich/thap-rua-ho-guom/",
+      "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+      "/du-lich/nha-san-bac-ho-phu-chu-tich/",
+      "/du-lich/ha-noi/pho-co/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00917.json",
+  "draft_template": {
+    "id": "TM-00917",
+    "url": "/du-lich/bac-bo-phu-12-ngo-quyen/",
+    "title": "Bắc Bộ phủ phố Ngô Quyền: phủ Thống sứ 1918, nơi Bác ở và làm việc 1945",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bắc bộ phủ, bắc bộ phủ hà nội, phủ thống sứ bắc kỳ, nhà khách chính phủ ngô quyền, bắc bộ phủ có tham quan được không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bắc Bộ phủ ở đâu: ba mặt phố Ngô Quyền, Đinh Lễ, Lê Thạch",
+        "<p></p>"
+      ],
+      [
+        "Hai khối nhà và các mốc năm (1892/1898, 1918)",
+        "<p></p>"
+      ],
+      [
+        "Từ Phủ Thống sứ đến Bắc Bộ phủ: tháng 8/1945",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc cổ điển Pháp của Adolphe Bussy: nhìn gì từ ngoài",
+        "<p></p>"
+      ],
+      [
+        "Có vào tham quan được không",
+        "<p></p>"
+      ],
+      [
+        "Ghép lộ trình đi bộ quanh Hồ Gươm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/ngam-25-di-san-ha-noi-tai-nha-tu-hoa-lo-10339985.html",
+        "quote": "Báo Đại biểu Nhân dân, bài về trưng bày 25 di sản Hà Nội tại Nhà tù Hỏa Lò (2024, đọc 14/10/2026): Bắc Bộ Phủ trước đây là Phủ Thống sứ Bắc Kỳ do Pháp xây, gồm tòa nhà văn phòng (xây năm 1898) và tòa Phủ Thống sứ (xây năm 1918); sau đảo chính 9/3/1945 Nhật đổi tên thành Phủ Khâm sai Bắc Kỳ; ngày 19/8/1945 nhân dân và tự vệ chiếm Phủ Khâm sai; ngày 20/8/1945 đổi tên thành Bắc Bộ Phủ, là nơi ở và làm việc của Chủ tịch Hồ Chí Minh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/cong-trinh-ngoai-giao-tram-tuoi-hao-hoa-bac-nhat-dong-duong-407515.html",
+        "quote": "VietNamNet, bài ảnh về các công trình Pháp ở Hà Nội (đọc 14/10/2026): Phủ Thống sứ Bắc kỳ 3 mặt tiếp giáp phố Ngô Quyền, Đinh Lễ, Lê Thạch, phía sau giáp Bưu điện Hà Nội; do kiến trúc sư Aldophe Bussy thiết kế theo phong cách cổ điển Pháp; khu Văn phòng xây năm 1892, nay là Bộ LĐTB&XH; khu Dinh thự thống sứ xây năm 1918, nay dùng làm Nhà khách Chính phủ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/lan-dau-tien-bac-bo-phu-mo-cua-tu-do-don-khach-tham-quan-post844824.html",
+        "quote": "Báo Nhân Dân, 'Lần đầu tiên Bắc Bộ Phủ mở cửa tự do đón khách tham quan' (Trung Hiếu, 14/11/2024, đọc 14/10/2026 qua WebFetch): Bắc Bộ Phủ (Nhà khách Chính phủ) lần đầu mở cửa đón khách trong Lễ hội Thiết kế sáng tạo Hà Nội 2024; khách chỉ được vào tầng trệt và sân vườn; có phòng tiếp khách, phòng tiệc ngoại giao, chi tiết kiến trúc Pháp như cửa lớn, đèn trang trí; tham quan tự do hoặc có thuyết minh trả phí (bài không nêu giờ mở hay ngày đóng).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00917"
+  }
+}

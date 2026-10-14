@@ -1,0 +1,144 @@
+{
+  "writer": "writer-S4",
+  "queued": "2026-10-14T16:08:24.879955+00:00",
+  "topic": {
+    "topic_id": "TM-00921",
+    "url": "/du-lich/cau-coc-leu-lao-cai/",
+    "title": "Cầu Cốc Lếu Lào Cai: cầu Pháp 1905–1907, bị phá rồi dựng lại nhiều lần",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cầu cốc lếu",
+    "secondary_keywords": [
+      "cầu cốc lếu lào cai",
+      "lịch sử cầu cốc lếu",
+      "cầu giời ơi lào cai",
+      "cầu qua sông hồng lào cai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy lên Lào Cai – Sa Pa đi qua hoặc dừng ở cầu Cốc Lếu muốn biết lịch sử cây cầu biên giới này và vì sao có tên 'cầu Giời ơi'.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/ và /du-lich/y-ty-lao-cai/ chỉ đi qua TP Lào Cai mà không có nội dung về cầu Cốc Lếu. Bài mới cho: khởi công 1905, hoàn thành 1907 (cùng năm lập tỉnh), câu thơ 'Bên kia Cốc Lếu bên này Lào Cai', Pháp phá cầu trước khi rút ngày 01/11/1950, dựng lại cuối thập niên 1950 với giúp đỡ Liên Xô, hư hại 1979, cầu dài 250 m năm 1994, xây lại 4 làn xe năm 2012; gợi ý ngắm sông Hồng – Nậm Thi.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ky-uc-cau-coc-leu-1-post753151.html",
+        "quote": "Báo Lào Cai, 'Ký ức cầu Cốc Lếu' (2024, đọc 14/10/2026): cầu được người Pháp khởi công năm 1905, hoàn thành năm 1907 – cùng năm thành lập tỉnh Lào Cai; bắc qua sông Hồng giữa hai khu phố Tân Tèo và Cốc Lếu; cuối 1946 đầu 1947 nhạc sĩ Văn Cao mở phòng trà 'Quán biên thùy' gần đầu cầu; năm 1947 Pháp tái chiếm, quân Pháp phá sập cầu trước khi rút khỏi Lào Cai ngày 01/11/1950.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tu-chung-nhan-lich-su-den-bieu-tuong-phat-trien-post358407.html",
+        "quote": "Báo Lào Cai, 'Những cây cầu bắc qua sông Hồng trên địa bàn Lào Cai' (13/07/2022, đọc 14/10/2026): cầu được gọi là cầu 'Giời ơi' với câu thơ 'Ai đưa tôi đến chốn này, bên kia Cốc Lếu, bên này Lào Cai'; cuối những năm 50 thế kỷ XX được Liên Xô giúp xây lại; bị phá hủy lần nữa trong chiến tranh bảo vệ biên giới; năm 1994 hoàn thành cầu Cốc Lếu dài 250 m; năm 2012 lần thứ 3 xây lại với quy mô 4 làn xe.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ky-su-song-hong---ky-cuoi-nhung-cay-cau-lich-su-280652.htm",
+        "quote": "Tuổi Trẻ, 'Ký sự sông Hồng - Kỳ cuối: Những cây cầu lịch sử' (28/09/2008, đọc 14/10/2026): nước sông Hồng hòa cùng dòng Nậm Thi chia đôi màu dưới chân cầu; nhà ga đường sắt ở đầu cầu bên núi; người Pháp làm cầu vào năm 1907, mộ phu cả dưới xuôi lên, nhiều dân công thiệt mạng; cầu bị Pháp đánh sập, cuối những năm 1950 dựng lại nhờ Liên Xô; theo lời cụ Nguyễn Quang Hồng chiến tranh biên giới 1979 phá hủy cầu; năm 1994 cầu Cốc Lếu lần thứ ba do Tổng công ty Xây dựng cầu Thăng Long xây.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "cầu cốc lếu"
+      }
+    ],
+    "notes": "Đếm số lần xây lại không thống nhất (1994 là 'lần thứ ba' theo Tuổi Trẻ; Báo Lào Cai 2022 nói 2012 là 'lần thứ 3 xây lại'; một snippet khác nói cầu thứ 4 năm 2009 – chưa đọc đầy đủ, không dùng). Cầu hiện tại là cầu đường bộ công cộng, đi qua được, nhưng không còn là kết cấu thời Pháp – nói rõ. Quy định dừng đỗ trên cầu chưa xác minh.",
+    "outline": [
+      "Cầu Cốc Lếu ở đâu trên sông Hồng",
+      "Cây cầu Pháp 1905–1907 và câu thơ 'Giời ơi'",
+      "1950, 1979: những lần bị phá",
+      "Các lần dựng lại đến cầu 4 làn hôm nay",
+      "Ngắm hợp lưu sông Hồng – Nậm Thi",
+      "Ghép vào chặng Hà Nội – Lào Cai – Sa Pa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/y-ty-lao-cai/",
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/du-lich/ha-noi/cau-long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00921.json",
+  "draft_template": {
+    "id": "TM-00921",
+    "url": "/du-lich/cau-coc-leu-lao-cai/",
+    "title": "Cầu Cốc Lếu Lào Cai: cầu Pháp 1905–1907, bị phá rồi dựng lại nhiều lần",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cầu cốc lếu, cầu cốc lếu lào cai, lịch sử cầu cốc lếu, cầu giời ơi lào cai, cầu qua sông hồng lào cai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cầu Cốc Lếu ở đâu trên sông Hồng",
+        "<p></p>"
+      ],
+      [
+        "Cây cầu Pháp 1905–1907 và câu thơ 'Giời ơi'",
+        "<p></p>"
+      ],
+      [
+        "1950, 1979: những lần bị phá",
+        "<p></p>"
+      ],
+      [
+        "Các lần dựng lại đến cầu 4 làn hôm nay",
+        "<p></p>"
+      ],
+      [
+        "Ngắm hợp lưu sông Hồng – Nậm Thi",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào chặng Hà Nội – Lào Cai – Sa Pa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ky-uc-cau-coc-leu-1-post753151.html",
+        "quote": "Báo Lào Cai, 'Ký ức cầu Cốc Lếu' (2024, đọc 14/10/2026): cầu được người Pháp khởi công năm 1905, hoàn thành năm 1907 – cùng năm thành lập tỉnh Lào Cai; bắc qua sông Hồng giữa hai khu phố Tân Tèo và Cốc Lếu; cuối 1946 đầu 1947 nhạc sĩ Văn Cao mở phòng trà 'Quán biên thùy' gần đầu cầu; năm 1947 Pháp tái chiếm, quân Pháp phá sập cầu trước khi rút khỏi Lào Cai ngày 01/11/1950.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tu-chung-nhan-lich-su-den-bieu-tuong-phat-trien-post358407.html",
+        "quote": "Báo Lào Cai, 'Những cây cầu bắc qua sông Hồng trên địa bàn Lào Cai' (13/07/2022, đọc 14/10/2026): cầu được gọi là cầu 'Giời ơi' với câu thơ 'Ai đưa tôi đến chốn này, bên kia Cốc Lếu, bên này Lào Cai'; cuối những năm 50 thế kỷ XX được Liên Xô giúp xây lại; bị phá hủy lần nữa trong chiến tranh bảo vệ biên giới; năm 1994 hoàn thành cầu Cốc Lếu dài 250 m; năm 2012 lần thứ 3 xây lại với quy mô 4 làn xe.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/ky-su-song-hong---ky-cuoi-nhung-cay-cau-lich-su-280652.htm",
+        "quote": "Tuổi Trẻ, 'Ký sự sông Hồng - Kỳ cuối: Những cây cầu lịch sử' (28/09/2008, đọc 14/10/2026): nước sông Hồng hòa cùng dòng Nậm Thi chia đôi màu dưới chân cầu; nhà ga đường sắt ở đầu cầu bên núi; người Pháp làm cầu vào năm 1907, mộ phu cả dưới xuôi lên, nhiều dân công thiệt mạng; cầu bị Pháp đánh sập, cuối những năm 1950 dựng lại nhờ Liên Xô; theo lời cụ Nguyễn Quang Hồng chiến tranh biên giới 1979 phá hủy cầu; năm 1994 cầu Cốc Lếu lần thứ ba do Tổng công ty Xây dựng cầu Thăng Long xây.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00921"
+  }
+}

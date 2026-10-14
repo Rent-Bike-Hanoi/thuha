@@ -1,0 +1,156 @@
+{
+  "writer": "writer-S2",
+  "queued": "2026-10-14T16:08:22.971142+00:00",
+  "topic": {
+    "topic_id": "TM-00914",
+    "url": "/du-lich/deo-tang-quai-dien-bien/",
+    "title": "Đèo Tằng Quái Điện Biên: đèo 11 km trên QL279, săn mây lúc bình minh",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đèo tằng quái",
+    "secondary_keywords": [
+      "săn mây tằng quái",
+      "đèo tằng quái mường ảng",
+      "thung lũng phiêng ban"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy tới Điện Biên muốn biết đèo Tằng Quái ở đâu, mấy giờ lên để săn mây, mùa nào đẹp và đường đi ra sao.",
+    "information_gain": "/du-lich/ha-noi-di-dien-bien-bang-xe-may/ đi QL6 qua Pha Đin, không nhắc QL279 hay Tằng Quái; /du-lich/doi-a1-dien-bien/ chỉ trong thành phố. Bài mới nói riêng đèo Tằng Quái: dài 11 km trên QL279, đỉnh cách Mường Ảng 7 km, giờ săn mây (đến trước 6 giờ), mùa tháng 10 – cuối tháng 1, điểm dừng chân trên đỉnh, thung lũng hoa mận Phiêng Ban – Tà Cáng dưới chân đèo, và chênh lệch số liệu giữa các nguồn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/kham-pha-cac-cung-deo-dien-bien-129764.htm",
+        "quote": "Tạp chí Công Thương, 'Khám phá các cung đèo Điện Biên' (14/11/2024, đọc 14/10/2026): 'Đèo Tằng Quái dài 11 km, nằm trên Quốc lộ 279, đỉnh đèo cách trung tâm thị trấn Mường Ảng 7 km về hướng tây'; cung đường uốn lượn giữa biển mây dâng tràn thung lũng Ẳng Nưa; nơi săn mây sáng sớm.",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dantoc.vietnamtourism.gov.vn/en/?p=6931",
+        "quote": "Trang quảng bá du lịch vùng dân tộc thiểu số của Cục Du lịch Quốc gia, 'Cloud Hunting at Tang Quai Pass in Dien Bien' (14/11/2024, đọc 14/10/2026): đèo nằm giáp hai xã Ẳng Nưa và Ngối Cáy, huyện Mường Ảng, trên QL279, cách trung tâm huyện khoảng 5 km và khoảng 45 phút lái xe từ TP Điện Biên Phủ; chủ điểm dừng chân Hải An nói mùa săn mây đẹp nhất từ tháng 10 đến cuối tháng 1, nên có mặt trước 6 giờ sáng; ngày sương dày có thể không thấy bình minh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/trai-nghiem-thung-lung-hoa-man-phieng-ban-duoi-chan-deo-tang-quai-post694851.vnp",
+        "quote": "VietnamPlus (12/02/2021, đọc 14/10/2026): dưới chân đèo Tằng Quái có hai bản Tà Cáng và Phiêng Ban, xã Nà Tấu, TP Điện Biên Phủ – thủ phủ trồng mận của tỉnh; xuôi khỏi 11km đèo Tằng Quái trên QL279 là thung lũng hoa mận trắng dịp giáp Tết; trên đèo có dã quỳ, hoa lau.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/dien-bien-mua-san-may",
+        "quote": "Vietnam.vn, 'Điện Biên mùa săn mây' (08/12/2025, đọc 14/10/2026): gần 6 giờ sáng đầu đông, người đi xe máy lên đèo Tằng Quái (xã Mường Ảng) để xem mặt trời chạm biển mây; có quán cà phê là điểm dừng chân quen thuộc; Tằng Quái là một trong những điểm săn mây lý tưởng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đèo tằng quái"
+      }
+    ],
+    "notes": "Mâu thuẫn: Tạp chí Công Thương và VietnamPlus ghi đèo dài 11 km, đỉnh cách Mường Ảng 7 km; trang Cục Du lịch ghi cách trung tâm huyện khoảng 5 km – nêu cả hai. Từ 7/2025 huyện Mường Ảng bỏ cấp huyện, Vietnam.vn ghi 'xã Mường Ảng'. Không có nguồn về độ cao hay tình trạng mặt đường QL279 năm 2026; không viết. Vietnam.vn là trang tổng hợp, nên ưu tiên trích Công Thương/Cục Du lịch.",
+    "outline": [
+      "Đèo Tằng Quái ở đâu trên QL279",
+      "Dài bao nhiêu, cách Mường Ảng và TP Điện Biên Phủ bao xa",
+      "Săn mây: mùa nào, mấy giờ có mặt",
+      "Điểm dừng chân trên đỉnh và cách đỗ xe",
+      "Thung lũng mận Phiêng Ban – Tà Cáng dưới chân đèo",
+      "Lưu ý chạy xe máy trong sương sáng sớm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/du-lich/doi-a1-dien-bien/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/di-xe-may-khi-co-suong-mu-troi-nom-o-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00914.json",
+  "draft_template": {
+    "id": "TM-00914",
+    "url": "/du-lich/deo-tang-quai-dien-bien/",
+    "title": "Đèo Tằng Quái Điện Biên: đèo 11 km trên QL279, săn mây lúc bình minh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đèo tằng quái, săn mây tằng quái, đèo tằng quái mường ảng, thung lũng phiêng ban",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đèo Tằng Quái ở đâu trên QL279",
+        "<p></p>"
+      ],
+      [
+        "Dài bao nhiêu, cách Mường Ảng và TP Điện Biên Phủ bao xa",
+        "<p></p>"
+      ],
+      [
+        "Săn mây: mùa nào, mấy giờ có mặt",
+        "<p></p>"
+      ],
+      [
+        "Điểm dừng chân trên đỉnh và cách đỗ xe",
+        "<p></p>"
+      ],
+      [
+        "Thung lũng mận Phiêng Ban – Tà Cáng dưới chân đèo",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý chạy xe máy trong sương sáng sớm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/kham-pha-cac-cung-deo-dien-bien-129764.htm",
+        "quote": "Tạp chí Công Thương, 'Khám phá các cung đèo Điện Biên' (14/11/2024, đọc 14/10/2026): 'Đèo Tằng Quái dài 11 km, nằm trên Quốc lộ 279, đỉnh đèo cách trung tâm thị trấn Mường Ảng 7 km về hướng tây'; cung đường uốn lượn giữa biển mây dâng tràn thung lũng Ẳng Nưa; nơi săn mây sáng sớm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dantoc.vietnamtourism.gov.vn/en/?p=6931",
+        "quote": "Trang quảng bá du lịch vùng dân tộc thiểu số của Cục Du lịch Quốc gia, 'Cloud Hunting at Tang Quai Pass in Dien Bien' (14/11/2024, đọc 14/10/2026): đèo nằm giáp hai xã Ẳng Nưa và Ngối Cáy, huyện Mường Ảng, trên QL279, cách trung tâm huyện khoảng 5 km và khoảng 45 phút lái xe từ TP Điện Biên Phủ; chủ điểm dừng chân Hải An nói mùa săn mây đẹp nhất từ tháng 10 đến cuối tháng 1, nên có mặt trước 6 giờ sáng; ngày sương dày có thể không thấy bình minh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/trai-nghiem-thung-lung-hoa-man-phieng-ban-duoi-chan-deo-tang-quai-post694851.vnp",
+        "quote": "VietnamPlus (12/02/2021, đọc 14/10/2026): dưới chân đèo Tằng Quái có hai bản Tà Cáng và Phiêng Ban, xã Nà Tấu, TP Điện Biên Phủ – thủ phủ trồng mận của tỉnh; xuôi khỏi 11km đèo Tằng Quái trên QL279 là thung lũng hoa mận trắng dịp giáp Tết; trên đèo có dã quỳ, hoa lau.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/dien-bien-mua-san-may",
+        "quote": "Vietnam.vn, 'Điện Biên mùa săn mây' (08/12/2025, đọc 14/10/2026): gần 6 giờ sáng đầu đông, người đi xe máy lên đèo Tằng Quái (xã Mường Ảng) để xem mặt trời chạm biển mây; có quán cà phê là điểm dừng chân quen thuộc; Tằng Quái là một trong những điểm săn mây lý tưởng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00914"
+  }
+}

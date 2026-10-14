@@ -1,0 +1,144 @@
+{
+  "writer": "writer-S4",
+  "queued": "2026-10-14T16:08:25.384993+00:00",
+  "topic": {
+    "topic_id": "TM-00923",
+    "url": "/du-lich/buu-dien-ha-noi-bo-ho/",
+    "title": "Bưu điện Hà Nội Bờ Hồ: Sở Bưu điện Pháp 1893–1899 ở 75 Đinh Tiên Hoàng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bưu điện hà nội bờ hồ",
+    "secondary_keywords": [
+      "bưu điện bờ hồ",
+      "sở bưu điện hà nội thời pháp",
+      "75 đinh tiên hoàng",
+      "lịch sử bưu điện hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách dạo Hồ Gươm muốn biết lịch sử tòa bưu điện bên hồ: phần nào thời Pháp, ai thiết kế, gắn với sự kiện gì.",
+    "information_gain": "Site chỉ nhắc 'tòa nhà Bưu điện Hà Nội' như một khung ảnh trong bài Hồ Gươm và phố sách. Bài mới cho: tòa đầu tiên mặt Đinh Tiên Hoàng – Lê Thạch xây 1893–1899 (hoặc 1894–1899) theo tân cổ điển, KTS Adolphe Bussy theo VietNamNet; tòa góc Đinh Lễ xây năm 1942; Chủ tịch Hồ Chí Minh đến thăm ngày 17/1/1946; liên hệ với Bắc Bộ phủ ở phía sau; cách quan sát các khối nhà từ quảng trường.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/sau-cong-trinh-kien-truc-phap-tram-tuoi-tai-ha-noi-xua-va-nay-post984580.tpo",
+        "quote": "Tiền Phong (18/10/2017, đọc 14/10/2026): Sở Bưu điện Hà Nội gồm tòa nhà hướng ra phố Đinh Tiên Hoàng và Lê Thạch (xây dựng 1893-1899) và tòa nhà ở góc Đinh Tiên Hoàng – Đinh Lễ (xây năm 1942); công trình được xây từ khi Hà Nội quy hoạch lấy khu vực Hồ Gươm làm trung tâm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/cong-trinh-ngoai-giao-tram-tuoi-hao-hoa-bac-nhat-dong-duong-407515.html",
+        "quote": "VietNamNet (đọc 14/10/2026): Sở Bưu điện Hà Nội ở phố Đinh Tiên Hoàng; tòa nhà đầu tiên xây 1894-1899 theo kiến trúc tân cổ điển do KTS Adolphe Bussy thiết kế; mặt chính ra Đinh Tiên Hoàng, mặt bên ra Lê Thạch dùng cho giao dịch; năm 1942 xây thêm tòa kế bên phố Đinh Lễ; hiện hai tòa do Bưu điện TP quản lý.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://giaoduc.net.vn/van-hoa/ngay-17-1-ky-niem-70-nam-bac-ho-den-tham-buu-dien-trung-uong-bo-ho-post164942.gd",
+        "quote": "Giáo dục Việt Nam (2016, đọc 14/10/2026): 70 năm Chủ tịch Hồ Chí Minh đến thăm Bưu điện Trung ương Bờ Hồ (17/1/1946 - 17/1/2016); trụ sở tại 75 Đinh Tiên Hoàng, nay là Bưu điện Hà Nội; có khu trưng bày về Bác với ngành bưu điện (dịp kỷ niệm 2016).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bưu điện hà nội bờ hồ"
+      }
+    ],
+    "notes": "Mâu thuẫn: 1893–1899 (Tiền Phong) vs 1894–1899 (VietNamNet). Snippet khác nói KTS Henri Vildieu và tòa 75 Đinh Tiên Hoàng xây năm 1978 (Nhà Đầu tư – trang trả về rỗng, chưa đọc được) – rất có thể tòa nhìn ra hồ hiện nay là tòa sau 1954; người viết KHÔNG được khẳng định tòa nào còn nguyên từ thời Pháp, ghi rõ chưa xác minh. Giờ giao dịch bưu cục, khu trưng bày hiện nay CHƯA XÁC MINH. Năm lắp đồng hồ trên nóc không có nguồn.",
+    "outline": [
+      "Bưu điện Bờ Hồ ở đâu",
+      "Tòa nhà thời Pháp: các mốc 1893/1894–1899 và 1942",
+      "Ai thiết kế: điều các nguồn nói khác nhau",
+      "Ngày 17/1/1946 Bác Hồ đến thăm",
+      "Đứng đâu để nhìn các khối nhà",
+      "Nối với Bắc Bộ phủ và phố Pháp quanh hồ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thap-rua-ho-guom/",
+      "/du-lich/den-ngoc-son-va-cau-the-huc/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/du-lich/nha-tu-hoa-lo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00923.json",
+  "draft_template": {
+    "id": "TM-00923",
+    "url": "/du-lich/buu-dien-ha-noi-bo-ho/",
+    "title": "Bưu điện Hà Nội Bờ Hồ: Sở Bưu điện Pháp 1893–1899 ở 75 Đinh Tiên Hoàng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bưu điện hà nội bờ hồ, bưu điện bờ hồ, sở bưu điện hà nội thời pháp, 75 đinh tiên hoàng, lịch sử bưu điện hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bưu điện Bờ Hồ ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Tòa nhà thời Pháp: các mốc 1893/1894–1899 và 1942",
+        "<p></p>"
+      ],
+      [
+        "Ai thiết kế: điều các nguồn nói khác nhau",
+        "<p></p>"
+      ],
+      [
+        "Ngày 17/1/1946 Bác Hồ đến thăm",
+        "<p></p>"
+      ],
+      [
+        "Đứng đâu để nhìn các khối nhà",
+        "<p></p>"
+      ],
+      [
+        "Nối với Bắc Bộ phủ và phố Pháp quanh hồ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/sau-cong-trinh-kien-truc-phap-tram-tuoi-tai-ha-noi-xua-va-nay-post984580.tpo",
+        "quote": "Tiền Phong (18/10/2017, đọc 14/10/2026): Sở Bưu điện Hà Nội gồm tòa nhà hướng ra phố Đinh Tiên Hoàng và Lê Thạch (xây dựng 1893-1899) và tòa nhà ở góc Đinh Tiên Hoàng – Đinh Lễ (xây năm 1942); công trình được xây từ khi Hà Nội quy hoạch lấy khu vực Hồ Gươm làm trung tâm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/cong-trinh-ngoai-giao-tram-tuoi-hao-hoa-bac-nhat-dong-duong-407515.html",
+        "quote": "VietNamNet (đọc 14/10/2026): Sở Bưu điện Hà Nội ở phố Đinh Tiên Hoàng; tòa nhà đầu tiên xây 1894-1899 theo kiến trúc tân cổ điển do KTS Adolphe Bussy thiết kế; mặt chính ra Đinh Tiên Hoàng, mặt bên ra Lê Thạch dùng cho giao dịch; năm 1942 xây thêm tòa kế bên phố Đinh Lễ; hiện hai tòa do Bưu điện TP quản lý.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://giaoduc.net.vn/van-hoa/ngay-17-1-ky-niem-70-nam-bac-ho-den-tham-buu-dien-trung-uong-bo-ho-post164942.gd",
+        "quote": "Giáo dục Việt Nam (2016, đọc 14/10/2026): 70 năm Chủ tịch Hồ Chí Minh đến thăm Bưu điện Trung ương Bờ Hồ (17/1/1946 - 17/1/2016); trụ sở tại 75 Đinh Tiên Hoàng, nay là Bưu điện Hà Nội; có khu trưng bày về Bác với ngành bưu điện (dịp kỷ niệm 2016).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00923"
+  }
+}

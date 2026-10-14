@@ -1,0 +1,143 @@
+{
+  "writer": "writer-S2",
+  "queued": "2026-10-14T16:08:23.482155+00:00",
+  "topic": {
+    "topic_id": "TM-00916",
+    "url": "/du-lich/doc-cun-hoa-binh-tren-quoc-lo-6/",
+    "title": "Dốc Cun Hòa Bình trên quốc lộ 6: dự án mở rộng, sạt lở và lưu ý xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "dốc cun hòa bình",
+    "secondary_keywords": [
+      "dốc cun quốc lộ 6",
+      "sạt lở dốc cun",
+      "đường hòa bình đi mai châu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy từ Hà Nội lên Mai Châu, Mộc Châu theo QL6 muốn biết dốc Cun ở đâu, đã sửa xong chưa và có hay sạt lở khi mưa không.",
+    "information_gain": "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/ và /du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ không nhắc dốc Cun dù QL6 đi qua đoạn này. Bài mới nói riêng dốc Cun: lý trình Km78+420/500 – Km85+100, lý do bị gọi là 'dốc tử thần', dự án xử lý gần 130 tỷ đồng khởi công 8/2023, đợt cấm đường nổ mìn 11/2023 – 1/2024, các lần sạt lở 9/2023 và 8/2024, và cách đi khi trời mưa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/quoc-lo-6-doan-qua-hoa-binh-cam-duong-de-no-min-pha-da-20301.html",
+        "quote": "Mekong ASEAN (14/11/2023, đọc 14/10/2026): dốc Cun trên QL6 qua Hòa Bình là con dốc dài, một bên núi cao, một bên vực sâu, nhiều khúc cua nguy hiểm, là 'điểm đen' vì lưu lượng xe lớn, nhiều điểm mù; dự án 'Xử lý nguy cơ mất an toàn giao thông đoạn dốc Cun' tổng mức gần 130 tỷ đồng, khởi công 2/8/2023; từ 14/11/2023 đến hết 31/1/2024 nổ mìn phá đá từ Km78+420 đến Km85+100, cấm đường theo khung giờ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/hoa-binh-danh-gia-lai-nhung-nguy-co-sat-lo-tai-doc-cun-de-khac-phuc-dam-bao-giao-thong-10262631.html",
+        "quote": "Báo Đại Đoàn Kết (28/9/2023, đọc 14/10/2026): sáng 28/9 đất đá sạt xuống dốc Cun tại Km79+100, phường Thống Nhất, TP Hòa Bình, gây ùn tắc; Quyết định 173/QĐ-SGTVT ngày 31/3/2023 duyệt thiết kế công trình đoạn Dốc Cun (Km78+420 - Km85+100); dự án khởi công 8/2023, hợp đồng 7 tháng, dự kiến xong Quý I/2024; dự toán xây dựng hơn 97 tỷ đồng; hạng mục nền, mặt đường, cải tạo tầm nhìn, tường chắn ta luy âm, hệ thống an toàn giao thông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hoa-binh-khan-truong-khac-phuc-sat-lo-tai-doc-cun-post826680.html",
+        "quote": "Báo Nhân Dân (25/8/2024, đọc 14/10/2026): theo Sở GTVT Hòa Bình, các điểm sạt lở trên công trình đoạn Dốc Cun (Km78+500 - Km85+100) QL6 đã cơ bản xử lý, xe lưu thông trở lại; dốc Cun thuộc TP Hòa Bình và huyện Cao Phong bị sạt lở nghiêm trọng, ùn tắc khoảng 4km nhiều giờ; tại Km79+335 sạt taluy âm khoảng 40m sát mép đường; dự án mới thi công mở rộng, một số đoạn chưa hoàn thành; cảnh báo các ngày tới còn mưa, xe đi chậm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "dốc cun hòa bình"
+      }
+    ],
+    "notes": "Mâu thuẫn lý trình điểm đầu: Km78+420 (Đại Đoàn Kết, Mekong ASEAN) và Km78+500 (Nhân Dân). Hai mức tiền: 'gần 130 tỷ' tổng mức đầu tư vs 'hơn 97 tỷ' dự toán xây dựng – không phải mâu thuẫn, ghi rõ loại. Chưa tìm được nguồn xác nhận dự án đã hoàn thành (dự kiến Quý I/2024 nhưng 8/2024 vẫn 'một số đoạn chưa hoàn thành') → không khẳng định hiện trạng 2026. Gọi là 'dốc' chứ không phải 'đèo' theo các nguồn. 'Ngắm gì' rất ít nguồn; bài nên thiên về an toàn và vị trí. Tỉnh Hòa Bình đã sáp nhập vào Phú Thọ từ 1/7/2025 – ghi 'Hòa Bình (cũ)'.",
+    "outline": [
+      "Dốc Cun ở đâu trên quốc lộ 6",
+      "Vì sao bị gọi là 'dốc tử thần'",
+      "Dự án mở rộng 2023–2024: lý trình, hạng mục",
+      "Các đợt sạt lở 2023 và 2024",
+      "Lưu ý xe máy: mưa, xe tải, cua khuất",
+      "Đi tiếp lên Mai Châu, Mộc Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00916.json",
+  "draft_template": {
+    "id": "TM-00916",
+    "url": "/du-lich/doc-cun-hoa-binh-tren-quoc-lo-6/",
+    "title": "Dốc Cun Hòa Bình trên quốc lộ 6: dự án mở rộng, sạt lở và lưu ý xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "dốc cun hòa bình, dốc cun quốc lộ 6, sạt lở dốc cun, đường hòa bình đi mai châu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Dốc Cun ở đâu trên quốc lộ 6",
+        "<p></p>"
+      ],
+      [
+        "Vì sao bị gọi là 'dốc tử thần'",
+        "<p></p>"
+      ],
+      [
+        "Dự án mở rộng 2023–2024: lý trình, hạng mục",
+        "<p></p>"
+      ],
+      [
+        "Các đợt sạt lở 2023 và 2024",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý xe máy: mưa, xe tải, cua khuất",
+        "<p></p>"
+      ],
+      [
+        "Đi tiếp lên Mai Châu, Mộc Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/quoc-lo-6-doan-qua-hoa-binh-cam-duong-de-no-min-pha-da-20301.html",
+        "quote": "Mekong ASEAN (14/11/2023, đọc 14/10/2026): dốc Cun trên QL6 qua Hòa Bình là con dốc dài, một bên núi cao, một bên vực sâu, nhiều khúc cua nguy hiểm, là 'điểm đen' vì lưu lượng xe lớn, nhiều điểm mù; dự án 'Xử lý nguy cơ mất an toàn giao thông đoạn dốc Cun' tổng mức gần 130 tỷ đồng, khởi công 2/8/2023; từ 14/11/2023 đến hết 31/1/2024 nổ mìn phá đá từ Km78+420 đến Km85+100, cấm đường theo khung giờ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/hoa-binh-danh-gia-lai-nhung-nguy-co-sat-lo-tai-doc-cun-de-khac-phuc-dam-bao-giao-thong-10262631.html",
+        "quote": "Báo Đại Đoàn Kết (28/9/2023, đọc 14/10/2026): sáng 28/9 đất đá sạt xuống dốc Cun tại Km79+100, phường Thống Nhất, TP Hòa Bình, gây ùn tắc; Quyết định 173/QĐ-SGTVT ngày 31/3/2023 duyệt thiết kế công trình đoạn Dốc Cun (Km78+420 - Km85+100); dự án khởi công 8/2023, hợp đồng 7 tháng, dự kiến xong Quý I/2024; dự toán xây dựng hơn 97 tỷ đồng; hạng mục nền, mặt đường, cải tạo tầm nhìn, tường chắn ta luy âm, hệ thống an toàn giao thông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hoa-binh-khan-truong-khac-phuc-sat-lo-tai-doc-cun-post826680.html",
+        "quote": "Báo Nhân Dân (25/8/2024, đọc 14/10/2026): theo Sở GTVT Hòa Bình, các điểm sạt lở trên công trình đoạn Dốc Cun (Km78+500 - Km85+100) QL6 đã cơ bản xử lý, xe lưu thông trở lại; dốc Cun thuộc TP Hòa Bình và huyện Cao Phong bị sạt lở nghiêm trọng, ùn tắc khoảng 4km nhiều giờ; tại Km79+335 sạt taluy âm khoảng 40m sát mép đường; dự án mới thi công mở rộng, một số đoạn chưa hoàn thành; cảnh báo các ngày tới còn mưa, xe đi chậm.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00916"
+  }
+}

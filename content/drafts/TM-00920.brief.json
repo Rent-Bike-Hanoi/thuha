@@ -1,0 +1,170 @@
+{
+  "writer": "writer-S3",
+  "queued": "2026-10-14T16:08:24.632202+00:00",
+  "topic": {
+    "topic_id": "TM-00920",
+    "url": "/du-lich/dai-hoc-dong-duong-19-le-thanh-tong/",
+    "title": "Tòa nhà Đại học Đông Dương 19 Lê Thánh Tông: Hébrard thiết kế 1926",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đại học đông dương 19 lê thánh tông",
+    "secondary_keywords": [
+      "tòa nhà đại học tổng hợp",
+      "viện đại học đông dương",
+      "kiến trúc đông dương hébrard",
+      "19 lê thánh tông có vào xem được không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người yêu kiến trúc Pháp – Đông Dương ở Hà Nội muốn biết tòa nhà mái vòm ở 19 Lê Thánh Tông là gì, ai thiết kế, có vào tham quan được không.",
+    "information_gain": "Site chỉ nhắc 'Đông Dương' trong bài bảo tàng và /nha-tho-cua-bac (Hébrard) chứ không có bài về tòa Viện Đại học Đông Dương. Bài mới cho: Hébrard thiết kế năm 1926, mốc hoàn thành 1927, phong cách Đông Dương pha kinh viện châu Âu, sảnh mái vòm hai lớp, cửa hoa sắt, tranh tường Tardieu 1927–1928, vào danh mục bảo tồn trước 1954 (11/2013), và thực tế: đây là cơ sở Đại học Quốc gia đang dùng, từng mở cho khách trong Lễ hội Thiết kế sáng tạo 2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/toa-nha-dai-hoc-tong-hop-tro-thanh-khong-gian-sang-tao-nghe-thuat-10350448.html",
+        "quote": "Báo Đại biểu Nhân dân (2024, đọc 14/10/2026): tòa nhà 'Đại học Tổng hợp' tại 19 Lê Thánh Tông, tiền thân là Viện Đại học Đông Dương, nay là cơ sở của Đại học Quốc gia Hà Nội; Viện do kiến trúc sư Pháp Ernest Hébrard thiết kế năm 1926; hoa văn kiến trúc Đông Dương kết hợp kinh viện châu Âu; tháng 11/2013 HĐND TP đưa vào danh mục công trình xây trước 1954 cần bảo tồn; triển lãm 'Cảm thức Đông Dương' 22 tác phẩm diễn ra 9–17/11 (2024).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/toa-nha-dai-hoc-tong-hop-thu-hut-dong-dao-khach-tham-quan-post844704.html",
+        "quote": "Báo Nhân Dân (13/11/2024, đọc 14/10/2026): tòa nhà, tiền thân Viện đại học Đông Dương, lần đầu mở cửa đón khách tham quan với các triển lãm trong Lễ hội Thiết kế sáng tạo Hà Nội 2024, đến hết 17/11; men cầu thang nhỏ lên tầng 5 để ngắm mái vòm sảnh chính.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/thanh-duong-tri-thuc-100-tuoi-cua-thu-do-se-tro-thanh-diem-tham-quan-sap-dat-nghe-thuat-doc-dao-172557.html",
+        "quote": "Người Quan sát (30/10/2024, đọc 14/10/2026): Trường ĐH Tổng hợp Hà Nội thành lập năm 1956, trước đó là trụ sở Viện Đại học Đông Dương, xây từ năm 1926 bởi KTS Ernest Hébrard; nổi bật sảnh chính lát đá, mái vòm cao, cửa chính hoa sắt; mái vòm hai lớp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/sau-cong-trinh-kien-truc-phap-tram-tuoi-tai-ha-noi-xua-va-nay-post984580.tpo",
+        "quote": "Tiền Phong, 'Sáu công trình kiến trúc Pháp trăm tuổi tại Hà Nội xưa và nay' (18/10/2017, đọc 14/10/2026): Đại học Đông Dương trên phố Lê Thánh Tông được hoàn thành năm 1927; hiện do Đại học Quốc gia Hà Nội, Đại học Dược Hà Nội quản lý và sử dụng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/cong-trinh-ngoai-giao-tram-tuoi-hao-hoa-bac-nhat-dong-duong-407515.html",
+        "quote": "VietNamNet (đọc 14/10/2026): năm 1902 Pháp dự định xây trường Y khoa, kế hoạch duyệt 1907, sau chuyển về Lê Thánh Tông; các hạng mục xây đến năm 1945; bức tranh tường do họa sĩ Victor Tardieu thực hiện năm 1927-1928.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đại học đông dương 19 lê thánh tông"
+      }
+    ],
+    "notes": "Ngày tháng: thiết kế/xây từ 1926, hoàn thành 1927 (Tiền Phong) nhưng VietNamNet nói hạng mục kéo dài đến 1945 – ghi rõ. Tham quan: chỉ xác nhận mở cho công chúng trong lễ hội 9–17/11/2024; ngày thường là cơ sở đào tạo – vào bên trong CHƯA XÁC MINH, viết 'ngắm từ phố, chờ sự kiện mở cửa'. Không nêu tình trạng tranh Tardieu hiện nay (chưa có nguồn).",
+    "outline": [
+      "Tòa nhà 19 Lê Thánh Tông là gì",
+      "Hébrard và phong cách Đông Dương",
+      "Sảnh mái vòm, cửa hoa sắt và tranh Tardieu",
+      "Từ Viện Đại học Đông Dương đến Đại học Tổng hợp",
+      "Có vào xem được không",
+      "Kết hợp dạo phố Pháp quanh Tràng Tiền"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-lich-su-quoc-gia/",
+      "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+      "/du-lich/nha-tu-hoa-lo/",
+      "/du-lich/ha-noi/pho-co/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00920.json",
+  "draft_template": {
+    "id": "TM-00920",
+    "url": "/du-lich/dai-hoc-dong-duong-19-le-thanh-tong/",
+    "title": "Tòa nhà Đại học Đông Dương 19 Lê Thánh Tông: Hébrard thiết kế 1926",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đại học đông dương 19 lê thánh tông, tòa nhà đại học tổng hợp, viện đại học đông dương, kiến trúc đông dương hébrard, 19 lê thánh tông có vào xem được không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tòa nhà 19 Lê Thánh Tông là gì",
+        "<p></p>"
+      ],
+      [
+        "Hébrard và phong cách Đông Dương",
+        "<p></p>"
+      ],
+      [
+        "Sảnh mái vòm, cửa hoa sắt và tranh Tardieu",
+        "<p></p>"
+      ],
+      [
+        "Từ Viện Đại học Đông Dương đến Đại học Tổng hợp",
+        "<p></p>"
+      ],
+      [
+        "Có vào xem được không",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp dạo phố Pháp quanh Tràng Tiền",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/toa-nha-dai-hoc-tong-hop-tro-thanh-khong-gian-sang-tao-nghe-thuat-10350448.html",
+        "quote": "Báo Đại biểu Nhân dân (2024, đọc 14/10/2026): tòa nhà 'Đại học Tổng hợp' tại 19 Lê Thánh Tông, tiền thân là Viện Đại học Đông Dương, nay là cơ sở của Đại học Quốc gia Hà Nội; Viện do kiến trúc sư Pháp Ernest Hébrard thiết kế năm 1926; hoa văn kiến trúc Đông Dương kết hợp kinh viện châu Âu; tháng 11/2013 HĐND TP đưa vào danh mục công trình xây trước 1954 cần bảo tồn; triển lãm 'Cảm thức Đông Dương' 22 tác phẩm diễn ra 9–17/11 (2024).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/toa-nha-dai-hoc-tong-hop-thu-hut-dong-dao-khach-tham-quan-post844704.html",
+        "quote": "Báo Nhân Dân (13/11/2024, đọc 14/10/2026): tòa nhà, tiền thân Viện đại học Đông Dương, lần đầu mở cửa đón khách tham quan với các triển lãm trong Lễ hội Thiết kế sáng tạo Hà Nội 2024, đến hết 17/11; men cầu thang nhỏ lên tầng 5 để ngắm mái vòm sảnh chính.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/thanh-duong-tri-thuc-100-tuoi-cua-thu-do-se-tro-thanh-diem-tham-quan-sap-dat-nghe-thuat-doc-dao-172557.html",
+        "quote": "Người Quan sát (30/10/2024, đọc 14/10/2026): Trường ĐH Tổng hợp Hà Nội thành lập năm 1956, trước đó là trụ sở Viện Đại học Đông Dương, xây từ năm 1926 bởi KTS Ernest Hébrard; nổi bật sảnh chính lát đá, mái vòm cao, cửa chính hoa sắt; mái vòm hai lớp.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/sau-cong-trinh-kien-truc-phap-tram-tuoi-tai-ha-noi-xua-va-nay-post984580.tpo",
+        "quote": "Tiền Phong, 'Sáu công trình kiến trúc Pháp trăm tuổi tại Hà Nội xưa và nay' (18/10/2017, đọc 14/10/2026): Đại học Đông Dương trên phố Lê Thánh Tông được hoàn thành năm 1927; hiện do Đại học Quốc gia Hà Nội, Đại học Dược Hà Nội quản lý và sử dụng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/cong-trinh-ngoai-giao-tram-tuoi-hao-hoa-bac-nhat-dong-duong-407515.html",
+        "quote": "VietNamNet (đọc 14/10/2026): năm 1902 Pháp dự định xây trường Y khoa, kế hoạch duyệt 1907, sau chuyển về Lê Thánh Tông; các hạng mục xây đến năm 1945; bức tranh tường do họa sĩ Victor Tardieu thực hiện năm 1927-1928.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00920"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "writer": "writer-S1",
+  "queued": "2026-10-14T16:08:22.468666+00:00",
+  "topic": {
+    "topic_id": "TM-00912",
+    "url": "/du-lich/deo-giang-bac-kan-tren-ql3/",
+    "title": "Đèo Giàng Bắc Kạn trên QL3: di tích trận phục kích 1947, dừng xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đèo giàng bắc kạn",
+    "secondary_keywords": [
+      "di tích đèo giàng",
+      "trận đèo giàng 1947",
+      "đèo giàng quốc lộ 3"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy lên Ba Bể hoặc Cao Bằng theo QL3 muốn biết đèo Giàng ở đâu, có di tích gì để dừng và lưu ý gì khi qua đèo.",
+    "information_gain": "Không bài nào trên site nhắc đèo Giàng: /du-lich/ha-noi-di-cao-bang-bang-xe-may/ chỉ liệt kê Ngân Sơn – Cao Bắc, /du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ không mô tả đoạn đèo. Bài mới nói riêng đèo Giàng: vị trí giữa Nà Phặc và Phủ Thông, trận phục kích 12/12/1947 tại km 187-188, di tích quốc gia xếp hạng 2001 với phù điêu và bia, câu thơ Tố Hữu, và cảnh báo xe container trên đèo.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/van-hoa/202511/huyen-thoai-deo-giang-b1722a3/",
+        "quote": "Báo Thái Nguyên, 'Huyền thoại đèo Giàng' (15/11/2025, đọc 14/10/2026): trận phục kích sáng 12/12/1947 tại km 187-188 trên Quốc lộ 3, xã Lãng Ngâm, huyện Ngân Sơn (cũ); đoàn xe Pháp 22 chiếc, ta tiêu diệt 60 tên, phá hủy 17 xe. Năm 2001 Bộ Văn hóa - Thông tin xếp hạng Di tích lịch sử đèo Giàng cấp Quốc gia; di tích có phù điêu lớn tái hiện trận đánh và bia lưu niệm. Đường nay đã nắn lại, mở rộng hơn; xe container qua lại; đầu đông sương giăng ở đỉnh đèo; đèo nửa thuộc xã Nà Phặc, nửa thuộc xã Phủ Thông. Câu thơ Tố Hữu 'Ta về ta nhớ Phủ Thông, đèo Giàng' (1954).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.baothainguyen.vn/phong-su-ghi-chep/202112/dem-nam-ay-deo-giang-36723D8/",
+        "quote": "Báo Thái Nguyên, 'Đêm năm ấy...' (28/12/2021, đọc 14/10/2026): chú thích ảnh bia di tích: 'Đèo Giàng là nơi diễn ra trận phục kích và chiến đấu ác liệt của Trung đoàn Thủ Đô tiêu diệt đoàn xe cơ giới của Pháp, ngày 12/12/1947.'",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/nhung-diem-den-chet-nguoi-ky-2-cung-deo-tu-than-185396318.htm",
+        "quote": "Thanh Niên (18/6/2013, đọc 14/10/2026): nhiều con đèo đã thành 'cửa tử' với lái xe, trong đó có đèo Gió, đèo Giàng (Bắc Kạn); QL3 lên cửa khẩu Cao Bằng tấp nập xe container.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-bac-kan-4659738.html",
+        "quote": "VnExpress, Cẩm nang du lịch Bắc Kạn (05/10/2023, đọc 14/10/2026): Bắc Kạn cách Hà Nội 165 km; theo QL3 cũ khoảng 3 tiếng, đi được ô tô và xe máy; đường có nhiều đoạn đèo dốc ngoằn ngoèo, cần giữ an toàn khi lái xe.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đèo giàng bắc kạn"
+      }
+    ],
+    "notes": "Không có nguồn nêu chiều dài/độ cao đèo Giàng; không viết. Lý trình km 187-188 là vị trí trận đánh (theo Báo Thái Nguyên), không chắc là vị trí bia hiện nay. Không có tin tình trạng mặt đường 2026. Địa danh hành chính sau sáp nhập: Bắc Kạn thuộc tỉnh Thái Nguyên từ 1/7/2025. Không có giờ mở cửa/vé cho di tích (di tích ven đường), không bịa.",
+    "outline": [
+      "Đèo Giàng nằm ở đâu trên QL3",
+      "Trận phục kích 12/12/1947",
+      "Di tích quốc gia: phù điêu và bia bên đường",
+      "Đèo Giàng trong thơ Tố Hữu",
+      "Qua đèo hôm nay: sương, xe container, cách dừng an toàn",
+      "Ghép lịch trình với Ba Bể và đèo Gió"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00912.json",
+  "draft_template": {
+    "id": "TM-00912",
+    "url": "/du-lich/deo-giang-bac-kan-tren-ql3/",
+    "title": "Đèo Giàng Bắc Kạn trên QL3: di tích trận phục kích 1947, dừng xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đèo giàng bắc kạn, di tích đèo giàng, trận đèo giàng 1947, đèo giàng quốc lộ 3",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đèo Giàng nằm ở đâu trên QL3",
+        "<p></p>"
+      ],
+      [
+        "Trận phục kích 12/12/1947",
+        "<p></p>"
+      ],
+      [
+        "Di tích quốc gia: phù điêu và bia bên đường",
+        "<p></p>"
+      ],
+      [
+        "Đèo Giàng trong thơ Tố Hữu",
+        "<p></p>"
+      ],
+      [
+        "Qua đèo hôm nay: sương, xe container, cách dừng an toàn",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình với Ba Bể và đèo Gió",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/van-hoa/202511/huyen-thoai-deo-giang-b1722a3/",
+        "quote": "Báo Thái Nguyên, 'Huyền thoại đèo Giàng' (15/11/2025, đọc 14/10/2026): trận phục kích sáng 12/12/1947 tại km 187-188 trên Quốc lộ 3, xã Lãng Ngâm, huyện Ngân Sơn (cũ); đoàn xe Pháp 22 chiếc, ta tiêu diệt 60 tên, phá hủy 17 xe. Năm 2001 Bộ Văn hóa - Thông tin xếp hạng Di tích lịch sử đèo Giàng cấp Quốc gia; di tích có phù điêu lớn tái hiện trận đánh và bia lưu niệm. Đường nay đã nắn lại, mở rộng hơn; xe container qua lại; đầu đông sương giăng ở đỉnh đèo; đèo nửa thuộc xã Nà Phặc, nửa thuộc xã Phủ Thông. Câu thơ Tố Hữu 'Ta về ta nhớ Phủ Thông, đèo Giàng' (1954).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.baothainguyen.vn/phong-su-ghi-chep/202112/dem-nam-ay-deo-giang-36723D8/",
+        "quote": "Báo Thái Nguyên, 'Đêm năm ấy...' (28/12/2021, đọc 14/10/2026): chú thích ảnh bia di tích: 'Đèo Giàng là nơi diễn ra trận phục kích và chiến đấu ác liệt của Trung đoàn Thủ Đô tiêu diệt đoàn xe cơ giới của Pháp, ngày 12/12/1947.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/nhung-diem-den-chet-nguoi-ky-2-cung-deo-tu-than-185396318.htm",
+        "quote": "Thanh Niên (18/6/2013, đọc 14/10/2026): nhiều con đèo đã thành 'cửa tử' với lái xe, trong đó có đèo Gió, đèo Giàng (Bắc Kạn); QL3 lên cửa khẩu Cao Bằng tấp nập xe container.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-bac-kan-4659738.html",
+        "quote": "VnExpress, Cẩm nang du lịch Bắc Kạn (05/10/2023, đọc 14/10/2026): Bắc Kạn cách Hà Nội 165 km; theo QL3 cũ khoảng 3 tiếng, đi được ô tô và xe máy; đường có nhiều đoạn đèo dốc ngoằn ngoèo, cần giữ an toàn khi lái xe.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00912"
+  }
+}
