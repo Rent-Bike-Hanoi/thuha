@@ -1,0 +1,170 @@
+{
+  "writer": "writer-Q2",
+  "queued": "2026-10-14T15:56:27.468566+00:00",
+  "topic": {
+    "topic_id": "TM-00900",
+    "url": "/du-lich/thon-thuong-minh-lam-binh/",
+    "title": "Thôn Thượng Minh Lâm Bình: bản Pà Thẻn của lễ nhảy lửa và váy đỏ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thôn thượng minh lâm bình",
+    "secondary_keywords": [
+      "người pà thẻn hồng quang",
+      "lễ nhảy lửa pà thẻn",
+      "homestay pà thẻn lâm bình",
+      "thổ cẩm pà thẻn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi Lâm Bình xem lễ nhảy lửa của người Pà Thẻn cần biết bản ở đâu, lễ diễn ra mùa nào và có gì để trải nghiệm ngoài lễ.",
+    "information_gain": "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/ nói đường đi và lòng hồ, không có phần về người Pà Thẻn; hàng đợi có bản Sì Thâu Chải (nhảy lửa của người Dao ở Lai Châu), khác dân tộc và nghi lễ. Bài mới về thôn Thượng Minh (xã Hồng Quang cũ): một trong số ít cộng đồng Pà Thẻn, lễ nhảy lửa là di sản phi vật thể quốc gia, mùa lễ tháng 10 âm lịch tới tháng Giêng, trang phục đỏ mất 3 tháng để làm, nhà văn hóa Pà Thẻn 3.200 m² khánh thành 23/12/2023, homestay được hỗ trợ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/trai-nghiem-du-lich-nong-thon-cung-dong-bao-pa-then-d202225.html",
+        "quote": "Báo Đầu tư (khoảng 11/2023, đọc 14/10/2026): người Pà Thẻn ở thôn Thượng Minh, xã Hồng Quang (Lâm Bình, Tuyên Quang) có 94 hộ, khoảng 500 nhân khẩu; lễ nhảy lửa thường tổ chức lúc giao thời năm cũ năm mới hoặc khi thu hoạch lúa mùa (tháng 10, 11 âm lịch); lễ cúng kéo dài khoảng một giờ, khoảng 10 thanh niên nhảy chân trần vào than hồng. Năm 2013 lễ được công nhận Di sản văn hóa phi vật thể cấp Quốc gia. Màu đỏ là màu chủ đạo trang phục nữ; một bộ váy áo mất 3 tháng dệt, nhuộm, khâu tay. Xã mở lớp dệt thổ cẩm, đan lát, thực hành nhảy lửa; khách thuê homestay để xem nhảy lửa, dệt, làm nông, bắt cá.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-nhay-lua-phong-tuc-doc-dao-cua-nguoi-dan-toc-pa-then-tuyen-quang-post419740.html",
+        "quote": "Báo Pháp luật Việt Nam (01/11/2021, đọc 14/10/2026): thôn Thượng Minh có 177 hộ, trên 500 nhân khẩu người Pà Thẻn. Lễ nhảy lửa diễn ra lúc nông nhàn, từ tháng 10 âm lịch tới tháng Giêng năm sau; người nhảy chỉ là nam giới, nhảy trên than hồng 3–4 phút. Năm 2013 được công nhận Di sản văn hóa phi vật thể cấp Quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/khanh-thanh-nha-van-hoa-cong-dong-dan-toc-pa-then-post788991.html",
+        "quote": "Báo Nhân Dân (23/12/2023, đọc 14/10/2026): chiều 23/12 khánh thành Nhà văn hóa cộng đồng dân tộc Pà Thẻn tại thôn Thượng Minh; khởi công tháng 7/2023, tổng diện tích 3.200 m², kinh phí hơn 3,5 tỷ đồng, thiết kế mang nét đặc trưng Pà Thẻn, là nơi sưu tầm, lưu giữ hiện vật và tổ chức lễ hội.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/doi-thay-o-ban-nguoi-pa-then-10273903.html",
+        "quote": "Báo Đại Đoàn Kết (25/02/2024, đọc 14/10/2026): toàn xã Hồng Quang có 143 hộ Pà Thẻn với gần 700 nhân khẩu, khoảng 1/10 cộng đồng Pà Thẻn cả nước; lễ nhảy lửa thường tổ chức gần Tết Nguyên đán và đầu xuân, ban đêm, khoảng 1 tiếng; đã mở lớp 'Thực hành nghi lễ nhảy lửa dân tộc Pà Thẻn'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/phat-trien-du-lich-cong-dong-gan-voi-bao-ton-ban-sac-van-hoa-123840.html",
+        "quote": "Báo Văn hóa (12/3/2025, đọc 14/10/2026): thôn Thượng Minh (xã Hồng Quang) là một trong các điểm du lịch cộng đồng Lâm Bình được hỗ trợ (cùng Bản Bon, Nặm Đíp, thôn Biến, Nà Tông); chị Húng Thị Luyến, người Pà Thẻn, chủ homestay ở Thượng Minh được hỗ trợ 80 triệu đồng; bà Húng Thị Tráng 74 tuổi được hỗ trợ giữ nghề dệt; toàn tỉnh có 146 homestay, chủ yếu ở Na Hang, Lâm Bình.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thôn thượng minh lâm bình"
+      }
+    ],
+    "notes": "Mâu thuẫn số hộ: 94 hộ ~500 khẩu (Báo Đầu tư) vs 177 hộ trên 500 khẩu (PLVN 2021); xã có 143 hộ ~700 khẩu (Đại Đoàn Kết). Thời điểm lễ: tháng 10 âm lịch–tháng Giêng (PLVN), tháng 10–11 âm lịch (Báo Đầu tư), gần Tết và đầu xuân (ĐĐK) — viết là 'mùa lễ từ tháng 10 âm lịch tới đầu xuân, ngày cụ thể do thầy cúng/thôn quyết, cần hỏi trước'. Năm công nhận di sản: 2013 trong 2 nguồn đã fetch; một số nguồn khác (chưa fetch) ghi 2012 — dùng 2013. Địa giới sau sáp nhập 2025 chưa kiểm chứng. Không phải khu vực biên giới.",
+    "outline": [
+      "Người Pà Thẻn và thôn Thượng Minh",
+      "Lễ nhảy lửa: diễn ra khi nào, ai nhảy",
+      "Trang phục đỏ và nghề dệt",
+      "Nhà văn hóa Pà Thẻn 3.200 m²",
+      "Ở homestay và ứng xử khi xem nghi lễ",
+      "Đường tới Lâm Bình và về đêm sau lễ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00900.json",
+  "draft_template": {
+    "id": "TM-00900",
+    "url": "/du-lich/thon-thuong-minh-lam-binh/",
+    "title": "Thôn Thượng Minh Lâm Bình: bản Pà Thẻn của lễ nhảy lửa và váy đỏ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thôn thượng minh lâm bình, người pà thẻn hồng quang, lễ nhảy lửa pà thẻn, homestay pà thẻn lâm bình, thổ cẩm pà thẻn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Người Pà Thẻn và thôn Thượng Minh",
+        "<p></p>"
+      ],
+      [
+        "Lễ nhảy lửa: diễn ra khi nào, ai nhảy",
+        "<p></p>"
+      ],
+      [
+        "Trang phục đỏ và nghề dệt",
+        "<p></p>"
+      ],
+      [
+        "Nhà văn hóa Pà Thẻn 3.200 m²",
+        "<p></p>"
+      ],
+      [
+        "Ở homestay và ứng xử khi xem nghi lễ",
+        "<p></p>"
+      ],
+      [
+        "Đường tới Lâm Bình và về đêm sau lễ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/trai-nghiem-du-lich-nong-thon-cung-dong-bao-pa-then-d202225.html",
+        "quote": "Báo Đầu tư (khoảng 11/2023, đọc 14/10/2026): người Pà Thẻn ở thôn Thượng Minh, xã Hồng Quang (Lâm Bình, Tuyên Quang) có 94 hộ, khoảng 500 nhân khẩu; lễ nhảy lửa thường tổ chức lúc giao thời năm cũ năm mới hoặc khi thu hoạch lúa mùa (tháng 10, 11 âm lịch); lễ cúng kéo dài khoảng một giờ, khoảng 10 thanh niên nhảy chân trần vào than hồng. Năm 2013 lễ được công nhận Di sản văn hóa phi vật thể cấp Quốc gia. Màu đỏ là màu chủ đạo trang phục nữ; một bộ váy áo mất 3 tháng dệt, nhuộm, khâu tay. Xã mở lớp dệt thổ cẩm, đan lát, thực hành nhảy lửa; khách thuê homestay để xem nhảy lửa, dệt, làm nông, bắt cá.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-nhay-lua-phong-tuc-doc-dao-cua-nguoi-dan-toc-pa-then-tuyen-quang-post419740.html",
+        "quote": "Báo Pháp luật Việt Nam (01/11/2021, đọc 14/10/2026): thôn Thượng Minh có 177 hộ, trên 500 nhân khẩu người Pà Thẻn. Lễ nhảy lửa diễn ra lúc nông nhàn, từ tháng 10 âm lịch tới tháng Giêng năm sau; người nhảy chỉ là nam giới, nhảy trên than hồng 3–4 phút. Năm 2013 được công nhận Di sản văn hóa phi vật thể cấp Quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/khanh-thanh-nha-van-hoa-cong-dong-dan-toc-pa-then-post788991.html",
+        "quote": "Báo Nhân Dân (23/12/2023, đọc 14/10/2026): chiều 23/12 khánh thành Nhà văn hóa cộng đồng dân tộc Pà Thẻn tại thôn Thượng Minh; khởi công tháng 7/2023, tổng diện tích 3.200 m², kinh phí hơn 3,5 tỷ đồng, thiết kế mang nét đặc trưng Pà Thẻn, là nơi sưu tầm, lưu giữ hiện vật và tổ chức lễ hội.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/doi-thay-o-ban-nguoi-pa-then-10273903.html",
+        "quote": "Báo Đại Đoàn Kết (25/02/2024, đọc 14/10/2026): toàn xã Hồng Quang có 143 hộ Pà Thẻn với gần 700 nhân khẩu, khoảng 1/10 cộng đồng Pà Thẻn cả nước; lễ nhảy lửa thường tổ chức gần Tết Nguyên đán và đầu xuân, ban đêm, khoảng 1 tiếng; đã mở lớp 'Thực hành nghi lễ nhảy lửa dân tộc Pà Thẻn'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/phat-trien-du-lich-cong-dong-gan-voi-bao-ton-ban-sac-van-hoa-123840.html",
+        "quote": "Báo Văn hóa (12/3/2025, đọc 14/10/2026): thôn Thượng Minh (xã Hồng Quang) là một trong các điểm du lịch cộng đồng Lâm Bình được hỗ trợ (cùng Bản Bon, Nặm Đíp, thôn Biến, Nà Tông); chị Húng Thị Luyến, người Pà Thẻn, chủ homestay ở Thượng Minh được hỗ trợ 80 triệu đồng; bà Húng Thị Tráng 74 tuổi được hỗ trợ giữ nghề dệt; toàn tỉnh có 146 homestay, chủ yếu ở Na Hang, Lâm Bình.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00900"
+  }
+}

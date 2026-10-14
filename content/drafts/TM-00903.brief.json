@@ -1,0 +1,157 @@
+{
+  "writer": "writer-Q3",
+  "queued": "2026-10-14T15:56:28.289847+00:00",
+  "topic": {
+    "topic_id": "TM-00903",
+    "url": "/du-lich/lang-van-hoa-na-tong-lam-binh/",
+    "title": "Làng văn hóa Nà Tông Lâm Bình: nhà sàn Tày 5 gian 2 chái bên hồ Na Hang",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nà tông lâm bình",
+    "secondary_keywords": [
+      "làng văn hóa nà tông",
+      "thượng lâm lâm bình homestay",
+      "nhà sàn tày tuyên quang",
+      "du lịch cộng đồng thượng lâm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi hồ Na Hang – Lâm Bình muốn ngủ lại một bản Tày nhà sàn, cần biết Nà Tông có gì và nằm ở đâu trong hành trình.",
+    "information_gain": "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/ nói đường đi và thuyền lòng hồ, không đi sâu vào bản nào. Bài mới về làng văn hóa Tày Nà Tông (xã Thượng Lâm): đề án du lịch cộng đồng 2017, nhà sàn 5 gian 2 chái khoảng 90 m², hoạt động dệt thổ cẩm, giã bánh dày, hát Then, hát Cọi, cùng lịch 2 ngày 1 đêm của xã kết nối Cọc Vài Phạ, thác Khuổi Nhi (dài khoảng 3 km), hang Khuổi Pín, và số liệu xã 31 homestay, 10 thuyền (2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/tuyen-quang-danh-thuc-vien-ngoc-xanh-thuong-lam-giua-dai-ngan-260268.html",
+        "quote": "Báo Văn hóa (28/8/2026, đọc 14/10/2026): Thượng Lâm có nhà sàn, đàn tính, Then, hát Cọi của người Tày; khách có thể ngủ nhà sàn, dệt thổ cẩm, giã bánh dày. Hành trình 2 ngày 1 đêm 'Khám phá Thượng Lâm' gồm thuyền trên hồ, Cọc Vài Phạ, hang Khuổi Pín, thác Nặm Me, thác Khuổi Nhi (dài khoảng 3 km, nhiều tầng), ngày sau trải nghiệm tại làng văn hóa Nà Tông. Các điểm du lịch cộng đồng Nà Tông, Nà Đông, Nà Vàng tiếp tục được đầu tư; toàn xã có 31 cơ sở homestay và 10 thuyền du lịch đủ điều kiện.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/hap-dan-du-lich-cong-dong-homestay-o-vung-cao-lam-binh-13382.html",
+        "quote": "Thời báo Tài chính Việt Nam (23/9/2019, đọc 14/10/2026): Homestay A Phủ ở thôn Nà Tông hoạt động từ 30/4/2019, khách ở nhà sàn Tày truyền thống 5 gian, 2 chái, rộng 90 m². Huyện Lâm Bình hơn 78.150 ha, hơn 30.000 dân, 10 dân tộc, người Tày đông nhất; năm 2017 triển khai đề án 'Xây dựng và vận hành mô hình Du lịch cộng đồng' bảo tồn Làng văn hóa dân tộc Tày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/du-lich-cong-dong-homestay-diem-den-hap-dan-o-vung-cao-tuyen-quang-4399.html",
+        "quote": "Báo Văn hóa (21/9/2019, đọc 14/10/2026): đề án năm 2017 nhằm bảo tồn và phát triển Làng văn hóa dân tộc Tày các thôn Nà Đông và Nà Tông (xã Thượng Lâm), Nà Muông (xã Khuôn Hà) và Nặm Đíp (xã Lăng Can).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/phat-trien-du-lich-cong-dong-gan-voi-bao-ton-ban-sac-van-hoa-123840.html",
+        "quote": "Báo Văn hóa (12/3/2025, đọc 14/10/2026): thôn Nà Tông, xã Thượng Lâm nằm trong các điểm du lịch cộng đồng Lâm Bình được hỗ trợ phát triển; toàn tỉnh Tuyên Quang có 146 homestay, chủ yếu ở Na Hang, Lâm Bình.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nà tông lâm bình"
+      }
+    ],
+    "notes": "Giá 70.000 đồng/người/đêm (2019) có trong nguồn nhưng KHÔNG đưa vào bài (quy tắc không giá). Không nói 'nhảy lửa của người Dao' ở Thượng Lâm sâu (nguồn chỉ nhắc 1 câu). Khoảng cách Hà Nội – Nà Tông chưa có nguồn fetch; dùng link bài Na Hang – Lâm Bình. Địa giới huyện sau sáp nhập 2025 chưa kiểm chứng (Báo Văn hóa 2026 vẫn gọi 'xã Thượng Lâm'). Thực đơn/tên homestay có thể đã đổi. Tránh trùng góc với hàng thôn Thượng Minh (Pà Thẻn).",
+    "outline": [
+      "Nà Tông nằm ở đâu trong vùng Thượng Lâm",
+      "Đề án làng văn hóa Tày năm 2017",
+      "Nhà sàn 5 gian 2 chái: ở trong một nếp nhà Tày",
+      "Then, hát Cọi, dệt và giã bánh dày",
+      "Ghép Nà Tông với Cọc Vài Phạ, Khuổi Nhi, Khuổi Pín",
+      "Đi xe máy và gửi xe khi đi thuyền"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00903.json",
+  "draft_template": {
+    "id": "TM-00903",
+    "url": "/du-lich/lang-van-hoa-na-tong-lam-binh/",
+    "title": "Làng văn hóa Nà Tông Lâm Bình: nhà sàn Tày 5 gian 2 chái bên hồ Na Hang",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nà tông lâm bình, làng văn hóa nà tông, thượng lâm lâm bình homestay, nhà sàn tày tuyên quang, du lịch cộng đồng thượng lâm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nà Tông nằm ở đâu trong vùng Thượng Lâm",
+        "<p></p>"
+      ],
+      [
+        "Đề án làng văn hóa Tày năm 2017",
+        "<p></p>"
+      ],
+      [
+        "Nhà sàn 5 gian 2 chái: ở trong một nếp nhà Tày",
+        "<p></p>"
+      ],
+      [
+        "Then, hát Cọi, dệt và giã bánh dày",
+        "<p></p>"
+      ],
+      [
+        "Ghép Nà Tông với Cọc Vài Phạ, Khuổi Nhi, Khuổi Pín",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và gửi xe khi đi thuyền",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/tuyen-quang-danh-thuc-vien-ngoc-xanh-thuong-lam-giua-dai-ngan-260268.html",
+        "quote": "Báo Văn hóa (28/8/2026, đọc 14/10/2026): Thượng Lâm có nhà sàn, đàn tính, Then, hát Cọi của người Tày; khách có thể ngủ nhà sàn, dệt thổ cẩm, giã bánh dày. Hành trình 2 ngày 1 đêm 'Khám phá Thượng Lâm' gồm thuyền trên hồ, Cọc Vài Phạ, hang Khuổi Pín, thác Nặm Me, thác Khuổi Nhi (dài khoảng 3 km, nhiều tầng), ngày sau trải nghiệm tại làng văn hóa Nà Tông. Các điểm du lịch cộng đồng Nà Tông, Nà Đông, Nà Vàng tiếp tục được đầu tư; toàn xã có 31 cơ sở homestay và 10 thuyền du lịch đủ điều kiện.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thoibaotaichinhvietnam.vn/hap-dan-du-lich-cong-dong-homestay-o-vung-cao-lam-binh-13382.html",
+        "quote": "Thời báo Tài chính Việt Nam (23/9/2019, đọc 14/10/2026): Homestay A Phủ ở thôn Nà Tông hoạt động từ 30/4/2019, khách ở nhà sàn Tày truyền thống 5 gian, 2 chái, rộng 90 m². Huyện Lâm Bình hơn 78.150 ha, hơn 30.000 dân, 10 dân tộc, người Tày đông nhất; năm 2017 triển khai đề án 'Xây dựng và vận hành mô hình Du lịch cộng đồng' bảo tồn Làng văn hóa dân tộc Tày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/du-lich-cong-dong-homestay-diem-den-hap-dan-o-vung-cao-tuyen-quang-4399.html",
+        "quote": "Báo Văn hóa (21/9/2019, đọc 14/10/2026): đề án năm 2017 nhằm bảo tồn và phát triển Làng văn hóa dân tộc Tày các thôn Nà Đông và Nà Tông (xã Thượng Lâm), Nà Muông (xã Khuôn Hà) và Nặm Đíp (xã Lăng Can).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/phat-trien-du-lich-cong-dong-gan-voi-bao-ton-ban-sac-van-hoa-123840.html",
+        "quote": "Báo Văn hóa (12/3/2025, đọc 14/10/2026): thôn Nà Tông, xã Thượng Lâm nằm trong các điểm du lịch cộng đồng Lâm Bình được hỗ trợ phát triển; toàn tỉnh Tuyên Quang có 146 homestay, chủ yếu ở Na Hang, Lâm Bình.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00903"
+  }
+}
