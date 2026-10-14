@@ -1,0 +1,153 @@
+{
+  "writer": "writer-B",
+  "queued": "2026-10-14T04:53:25.459346+00:00",
+  "topic": {
+    "topic_id": "TM-00652",
+    "url": "/du-lich/lang-chuon-chuon-tre-thach-xa/",
+    "title": "Làng chuồn chuồn tre Thạch Xá: dưới chân chùa Tây Phương, xem làm",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chuồn chuồn tre thạch xá",
+    "secondary_keywords": [
+      "làng chuồn chuồn tre",
+      "chuồn chuồn tre",
+      "thạch xá thạch thất",
+      "làng nghề gần chùa tây phương",
+      "quà lưu niệm làm tay hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi chùa Tây Phương, phụ huynh và khách nước ngoài muốn biết làng chuồn chuồn tre ở đâu, còn bao nhiêu nhà làm, có xem làm và mua được không.",
+    "information_gain": "/du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/ chỉ nói chùa, không nói nghề chuồn chuồn tre ở xóm chân chùa; /du-lich/lang-non-chuong/, /du-lich/lang-lua-van-phuc/ là làng nghề khác. Bài mới bổ sung: vị trí xóm chùa Tây Phương (Thạch Xá), cơ chế giữ thăng bằng một điểm, công đoạn vót – vẽ, năng suất 200–300 sản phẩm/ngày/nghệ nhân, thực tế chỉ còn vài hộ làm (3–4 nhà theo Tuổi Trẻ), sản phẩm mở rộng thành chim, bướm, rùa, và xuất khẩu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lang-chuon-chuon-tre-giua-long-ha-noi-2867549.html",
+        "quote": "VnExpress (theo Ngôi sao, 20/8/2013, đọc 14/10/2026): xóm chùa Tây Phương (xã Thạch Xá, Thạch Thất) là nơi sản xuất chính chuồn chuồn tre; điểm nổi bật là giữ thăng bằng trên một điểm tựa nhỏ như đầu ngón tay; sản phẩm xuất khẩu nhiều nước.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lang-lam-chuon-chuon-tre-thach-xa-noi-luu-giu-ky-uc-tuoi-tho-post980113.vnp",
+        "quote": "VietnamPlus (đọc 14/10/2026): làng nghề chuồn chuồn tre ở xã Thạch Xá nằm ngay dưới chân chùa Tây Phương, cách trung tâm khoảng 30 km.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/di-san/doc-dao-lang-nghe-lam-chuon-chuon-tre-ben-chua-tay-phuong-post1231492.vov",
+        "quote": "VOV, 'Độc đáo làng nghề làm chuồn chuồn tre bên chùa Tây Phương' (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): làng kế bên chùa Tây Phương (nay xã Tây Phương); anh Tái cho biết mỗi nghệ nhân hoàn thiện 200–300 sản phẩm/ngày tùy kích thước, mẫu mã; vẽ trang trí là công đoạn khó.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/phunuonline/li-xi-chuon-chuon-tre-lang-thach-xa-1101509148.htm",
+        "quote": "Tuổi Trẻ – Phụ nữ online, 'Lì xì... chuồn chuồn tre làng Thạch Xá' (đọc 14/10/2026): làng cách trung tâm khoảng 30 km; nghề mai một, chỉ còn khoảng 3–4 nhà làm; ban đầu chỉ làm chuồn chuồn, sau thêm chim, bướm, rùa; nguyên liệu tre bương phơi khô.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chuồn chuồn tre thạch xá"
+      }
+    ],
+    "notes": "Số hộ còn làm (3–4 nhà) từ bài báo cũ, không rõ năm – ghi 'theo Tuổi Trẻ'. Bài VnExpress là 2013. Không nêu giá sản phẩm. Tên xã mới 'Tây Phương' chỉ từ VOV. Hà Nội sắp xếp đơn vị hành chính từ 1/7/2025 (bỏ cấp huyện, nhập xã); nguồn cũ ghi tên huyện/xã cũ, writer ghi kèm tên xã/phường mới chỉ khi có nguồn. Không có khoảng cách tính từ cửa hàng: writer không tự đưa số km từ Bồ Đề, không giờ mở cửa/giá vé (chưa có nguồn).",
+    "outline": [
+      "Làng chuồn chuồn tre ở đâu",
+      "Vì sao chuồn chuồn tre đứng thăng bằng",
+      "Các công đoạn làm",
+      "Nghề còn bao nhiêu nhà, mua ở đâu",
+      "Ghép với chùa Tây Phương, chùa Thầy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-thay-di-xe-may-tu-ha-noi/",
+      "/du-lich/lang-non-chuong/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00652.json",
+  "draft_template": {
+    "id": "TM-00652",
+    "url": "/du-lich/lang-chuon-chuon-tre-thach-xa/",
+    "title": "Làng chuồn chuồn tre Thạch Xá: dưới chân chùa Tây Phương, xem làm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chuồn chuồn tre thạch xá, làng chuồn chuồn tre, chuồn chuồn tre, thạch xá thạch thất, làng nghề gần chùa tây phương, quà lưu niệm làm tay hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng chuồn chuồn tre ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Vì sao chuồn chuồn tre đứng thăng bằng",
+        "<p></p>"
+      ],
+      [
+        "Các công đoạn làm",
+        "<p></p>"
+      ],
+      [
+        "Nghề còn bao nhiêu nhà, mua ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chùa Tây Phương, chùa Thầy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lang-chuon-chuon-tre-giua-long-ha-noi-2867549.html",
+        "quote": "VnExpress (theo Ngôi sao, 20/8/2013, đọc 14/10/2026): xóm chùa Tây Phương (xã Thạch Xá, Thạch Thất) là nơi sản xuất chính chuồn chuồn tre; điểm nổi bật là giữ thăng bằng trên một điểm tựa nhỏ như đầu ngón tay; sản phẩm xuất khẩu nhiều nước.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/lang-lam-chuon-chuon-tre-thach-xa-noi-luu-giu-ky-uc-tuoi-tho-post980113.vnp",
+        "quote": "VietnamPlus (đọc 14/10/2026): làng nghề chuồn chuồn tre ở xã Thạch Xá nằm ngay dưới chân chùa Tây Phương, cách trung tâm khoảng 30 km.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/di-san/doc-dao-lang-nghe-lam-chuon-chuon-tre-ben-chua-tay-phuong-post1231492.vov",
+        "quote": "VOV, 'Độc đáo làng nghề làm chuồn chuồn tre bên chùa Tây Phương' (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): làng kế bên chùa Tây Phương (nay xã Tây Phương); anh Tái cho biết mỗi nghệ nhân hoàn thiện 200–300 sản phẩm/ngày tùy kích thước, mẫu mã; vẽ trang trí là công đoạn khó.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/phunuonline/li-xi-chuon-chuon-tre-lang-thach-xa-1101509148.htm",
+        "quote": "Tuổi Trẻ – Phụ nữ online, 'Lì xì... chuồn chuồn tre làng Thạch Xá' (đọc 14/10/2026): làng cách trung tâm khoảng 30 km; nghề mai một, chỉ còn khoảng 3–4 nhà làm; ban đầu chỉ làm chuồn chuồn, sau thêm chim, bướm, rùa; nguyên liệu tre bương phơi khô.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00652"
+  }
+}

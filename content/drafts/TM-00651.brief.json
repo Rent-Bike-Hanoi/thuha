@@ -1,0 +1,158 @@
+{
+  "writer": "writer-B",
+  "queued": "2026-10-14T04:53:25.247708+00:00",
+  "topic": {
+    "topic_id": "TM-00651",
+    "url": "/du-lich/lang-uoc-le-thanh-oai/",
+    "title": "Làng Ước Lễ Thanh Oai: cổng làng cổ, nghề giò chả 500 năm, chùa Sổ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng ước lễ",
+    "secondary_keywords": [
+      "ước lễ",
+      "giò chả ước lễ",
+      "làng giò chả ước lễ",
+      "cổng làng ước lễ",
+      "chùa sổ thanh oai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích làng cổ và ẩm thực muốn biết làng Ước Lễ ở đâu, có gì để xem ngoài giò chả, có trải nghiệm giã giò không.",
+    "information_gain": "Site chưa có bài về Ước Lễ. /du-lich/chua-boi-khe/ (nếu đã xuất bản) và /du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ là làng cổ, chùa khác; /du-lich/lang-non-chuong/ là làng nghề Thanh Oai khác. Bài mới bổ sung: cổng tiền làng cổ, đình Ước Lễ, chùa Sổ thời Mạc xếp hạng quốc gia, truyền thuyết nghề giò chả từ thời Mạc (1527–1592), trải nghiệm giã giò, lễ rước 5 năm một lần với hơn 200 kg giò chả, lễ Kỳ phước 12/8 âm lịch, và tên xã mới Dân Hòa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/tu-van/dua-lang-nghe-uoc-le-tro-thanh-diem-den-du-lich-doc-dao-post1190510.vov",
+        "quote": "VOV, 'Đưa làng nghề Ước Lễ trở thành điểm đến du lịch độc đáo' (08/04/2025, đọc 14/10/2026): thôn Ước Lễ, xã Tân Ước, huyện Thanh Oai, cách trung tâm khoảng 30 km về phía tây nam; có đình làng cổ, chùa Sổ hàng trăm năm từ thời Mạc – di tích kiến trúc nghệ thuật cấp quốc gia, nhà cổ, cổng làng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/lang-nghe-uoc-le-hap-dan-khach-tay-lan-ta-trai-nghiem-van-hoa-truyen-thong-1489025.html",
+        "quote": "Báo Lao Động (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): nghề giò chả được cho là có từ thời Mạc (1527–1592), tương truyền một cung tần người làng về xây cổng và dạy làm giò chả; khách có thể giã giò, chế biến giò chả; lễ hội năm đó từ 7 đến hết 9/4, 5 năm mới rước một lần, hơn 200 kg giò chả cúng lễ; nghề có lịch sử tới 500 năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-co-kinh-lang-uoc-le-post867812.html",
+        "quote": "Báo Nhân Dân, '[Ảnh] Cổ kính làng Ước Lễ' (đọc 14/10/2026): cổng tiền làng rêu phong, mái ngói cong, là ngôi làng hơn 500 năm tuổi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/di-san/gin-giu-net-dep-truyen-thong-tai-lang-nghe-lam-gio-cha-uoc-le-post1334697.vov",
+        "quote": "VOV (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): ngày 12 tháng 8 năm Bính Ngọ, làng nghề giò chả Ước Lễ tại xã Dân Hòa tổ chức lễ Kỳ phước và ngày hội làng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng ước lễ"
+      }
+    ],
+    "notes": "Năm của lễ hội 7–9/4 (Lao Động) không rõ – không ghi như lịch cố định. Năm xếp hạng chùa Sổ chưa có nguồn. Không nêu giá giò chả. Link /du-lich/chua-boi-khe/ chưa kiểm tra URL – writer thay bằng URL có thật nếu khác. Hà Nội sắp xếp đơn vị hành chính từ 1/7/2025 (bỏ cấp huyện, nhập xã); nguồn cũ ghi tên huyện/xã cũ, writer ghi kèm tên xã/phường mới chỉ khi có nguồn. Không có khoảng cách tính từ cửa hàng: writer không tự đưa số km từ Bồ Đề, không giờ mở cửa/giá vé (chưa có nguồn).",
+    "outline": [
+      "Làng Ước Lễ ở đâu, tên xã mới",
+      "Cổng làng và đình, chùa Sổ",
+      "Nghề giò chả: truyền thuyết thời Mạc",
+      "Trải nghiệm giã giò, ăn gì",
+      "Lễ hội và lễ Kỳ phước",
+      "Ghép với làng nón Chuông"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/lang-non-chuong/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00651.json",
+  "draft_template": {
+    "id": "TM-00651",
+    "url": "/du-lich/lang-uoc-le-thanh-oai/",
+    "title": "Làng Ước Lễ Thanh Oai: cổng làng cổ, nghề giò chả 500 năm, chùa Sổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng ước lễ, ước lễ, giò chả ước lễ, làng giò chả ước lễ, cổng làng ước lễ, chùa sổ thanh oai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Ước Lễ ở đâu, tên xã mới",
+        "<p></p>"
+      ],
+      [
+        "Cổng làng và đình, chùa Sổ",
+        "<p></p>"
+      ],
+      [
+        "Nghề giò chả: truyền thuyết thời Mạc",
+        "<p></p>"
+      ],
+      [
+        "Trải nghiệm giã giò, ăn gì",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội và lễ Kỳ phước",
+        "<p></p>"
+      ],
+      [
+        "Ghép với làng nón Chuông",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/tu-van/dua-lang-nghe-uoc-le-tro-thanh-diem-den-du-lich-doc-dao-post1190510.vov",
+        "quote": "VOV, 'Đưa làng nghề Ước Lễ trở thành điểm đến du lịch độc đáo' (08/04/2025, đọc 14/10/2026): thôn Ước Lễ, xã Tân Ước, huyện Thanh Oai, cách trung tâm khoảng 30 km về phía tây nam; có đình làng cổ, chùa Sổ hàng trăm năm từ thời Mạc – di tích kiến trúc nghệ thuật cấp quốc gia, nhà cổ, cổng làng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/lang-nghe-uoc-le-hap-dan-khach-tay-lan-ta-trai-nghiem-van-hoa-truyen-thong-1489025.html",
+        "quote": "Báo Lao Động (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): nghề giò chả được cho là có từ thời Mạc (1527–1592), tương truyền một cung tần người làng về xây cổng và dạy làm giò chả; khách có thể giã giò, chế biến giò chả; lễ hội năm đó từ 7 đến hết 9/4, 5 năm mới rước một lần, hơn 200 kg giò chả cúng lễ; nghề có lịch sử tới 500 năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-co-kinh-lang-uoc-le-post867812.html",
+        "quote": "Báo Nhân Dân, '[Ảnh] Cổ kính làng Ước Lễ' (đọc 14/10/2026): cổng tiền làng rêu phong, mái ngói cong, là ngôi làng hơn 500 năm tuổi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/di-san/gin-giu-net-dep-truyen-thong-tai-lang-nghe-lam-gio-cha-uoc-le-post1334697.vov",
+        "quote": "VOV (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): ngày 12 tháng 8 năm Bính Ngọ, làng nghề giò chả Ước Lễ tại xã Dân Hòa tổ chức lễ Kỳ phước và ngày hội làng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00651"
+  }
+}

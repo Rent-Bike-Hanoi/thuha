@@ -1,0 +1,158 @@
+{
+  "writer": "writer-B",
+  "queued": "2026-10-14T04:53:25.042902+00:00",
+  "topic": {
+    "topic_id": "TM-00650",
+    "url": "/du-lich/lang-tien-go-nhi-khe/",
+    "title": "Làng tiện gỗ Nhị Khê Thường Tín: 85% hộ làm nghề, quê Nguyễn Trãi",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng tiện nhị khê",
+    "secondary_keywords": [
+      "nhị khê",
+      "làng tiện gỗ nhị khê",
+      "làng dũi thường tín",
+      "nhị khê nguyễn trãi",
+      "đồ tiện gỗ hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích làng nghề, đồ gỗ thủ công và di tích khoa bảng muốn biết Nhị Khê làm gì, xem ở đâu, mua đồ tiện được không.",
+    "information_gain": "Site chưa có bài về Nhị Khê. /du-lich/lang-son-mai-ha-thai/ và /du-lich/chua-dau-thuong-tin/ cùng vùng nhưng khác chủ đề; /du-lich/lang-gom-bat-trang/ là gốm. Bài mới bổ sung: tên Nôm làng Dũi, tổ nghề Đoàn Tài và chiếc điếu 18 lỗ, giỗ tổ 25/10 âm lịch, gần 600 hộ với 85% làm nghề, khoảng 200 mẫu sản phẩm, nguyên liệu gỗ và sừng, quyết định nhãn hiệu tập thể 'Nhị Khê', và lớp di tích quê Nguyễn Phi Khanh – Nguyễn Trãi, Lương Văn Can.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/lang-nghe-tien-go-nhi-khe-hoi-ha-nhung-ngay-dau-nam-741097.html",
+        "quote": "Báo Hànộimới, 'Làng nghề tiện gỗ Nhị Khê hối hả những ngày đầu năm' (Hữu Hải, 25/03/2026, đọc 14/10/2026): làng Nhị Khê, xã Thường Tín cách trung tâm khoảng 20 km về phía nam; khoảng 200 sản phẩm khác nhau; thôn có gần 600 hộ, 85% theo nghề (Phó Chủ tịch Hội làng nghề Nguyễn Hữu Khuê); còn đình làng cổ và nhà thờ họ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchivietnamhuongsac.vn/nhi-khe-va-hanh-trinh-giu-lua-nghe-tien-go-tram-nam-tuoi-2698.html",
+        "quote": "Tạp chí Việt Nam Hương sắc (đọc 14/10/2026): khách có thể xem quy trình làm đồ tiện, mua ở cửa hàng trong làng; làng có đình, miếu Trúc, nhà thờ Tổ nghề tiện; tổ nghề Đoàn Tài thời Lê – Trịnh làm chiếc điếu 18 lỗ, rời làng ngày 25/10 âm lịch nên lấy làm giỗ Tổ; nguyên liệu gỗ mít, de, lim, gụ, trắc, pơ mu và sừng; làng hơn 300 năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/suc-song-moi-o-lang-nghe-tien-go-nhi-khe-co-lich-su-hang-tram-nam-tuoi-post970231.vnp",
+        "quote": "VietnamPlus (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): Nhị Khê tên Nôm làng Dũi; quê Nguyễn Phi Khanh, Nguyễn Trãi, Lương Văn Can, Lương Ngọc Quyến; Đoàn Tài dạy ở Khánh Vân (Khánh Hà) không thành rồi lội sông sang Nhị Khê truyền nghề.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vanban.hanoi.gov.vn/chi-tiet-van-ban/ve-viec-cho-phep-hoi-lang-nghe-tien-thu-cong-my-nghe-nhi-khe-xa-nhi-khe-su-dung-dia-danh-nhi-khe-219711",
+        "quote": "UBND TP Hà Nội, Quyết định 1762/QĐ-UBND (trích yếu qua công cụ tìm kiếm, đọc 14/10/2026): cho phép Hội làng nghề Tiện thủ công mỹ nghệ Nhị Khê sử dụng địa danh 'Nhị Khê' để đăng ký nhãn hiệu tập thể (năm ban hành chưa đọc được).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng tiện nhị khê"
+      }
+    ],
+    "notes": "Năm của QĐ 1762/QĐ-UBND chưa xác minh – writer chỉ nêu số hiệu nếu cần. 'Hơn 300 năm' chỉ từ báo, ghi 'theo báo'. Đền thờ Nguyễn Trãi ở Nhị Khê: chưa fetch nguồn riêng về xếp hạng/giờ mở – chỉ nói làng là quê ông. Hà Nội sắp xếp đơn vị hành chính từ 1/7/2025 (bỏ cấp huyện, nhập xã); nguồn cũ ghi tên huyện/xã cũ, writer ghi kèm tên xã/phường mới chỉ khi có nguồn. Không có khoảng cách tính từ cửa hàng: writer không tự đưa số km từ Bồ Đề, không giờ mở cửa/giá vé (chưa có nguồn).",
+    "outline": [
+      "Nhị Khê ở đâu",
+      "Tổ nghề Đoàn Tài và chiếc điếu 18 lỗ",
+      "Làng nghề hôm nay: hộ làm nghề, sản phẩm, nguyên liệu",
+      "Xem xưởng và mua đồ tiện",
+      "Làng khoa bảng: quê Nguyễn Trãi, Lương Văn Can",
+      "Ghép với Quất Động, Hạ Thái"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-son-mai-ha-thai/",
+      "/du-lich/chua-dau-thuong-tin/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00650.json",
+  "draft_template": {
+    "id": "TM-00650",
+    "url": "/du-lich/lang-tien-go-nhi-khe/",
+    "title": "Làng tiện gỗ Nhị Khê Thường Tín: 85% hộ làm nghề, quê Nguyễn Trãi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng tiện nhị khê, nhị khê, làng tiện gỗ nhị khê, làng dũi thường tín, nhị khê nguyễn trãi, đồ tiện gỗ hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhị Khê ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Tổ nghề Đoàn Tài và chiếc điếu 18 lỗ",
+        "<p></p>"
+      ],
+      [
+        "Làng nghề hôm nay: hộ làm nghề, sản phẩm, nguyên liệu",
+        "<p></p>"
+      ],
+      [
+        "Xem xưởng và mua đồ tiện",
+        "<p></p>"
+      ],
+      [
+        "Làng khoa bảng: quê Nguyễn Trãi, Lương Văn Can",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Quất Động, Hạ Thái",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/lang-nghe-tien-go-nhi-khe-hoi-ha-nhung-ngay-dau-nam-741097.html",
+        "quote": "Báo Hànộimới, 'Làng nghề tiện gỗ Nhị Khê hối hả những ngày đầu năm' (Hữu Hải, 25/03/2026, đọc 14/10/2026): làng Nhị Khê, xã Thường Tín cách trung tâm khoảng 20 km về phía nam; khoảng 200 sản phẩm khác nhau; thôn có gần 600 hộ, 85% theo nghề (Phó Chủ tịch Hội làng nghề Nguyễn Hữu Khuê); còn đình làng cổ và nhà thờ họ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchivietnamhuongsac.vn/nhi-khe-va-hanh-trinh-giu-lua-nghe-tien-go-tram-nam-tuoi-2698.html",
+        "quote": "Tạp chí Việt Nam Hương sắc (đọc 14/10/2026): khách có thể xem quy trình làm đồ tiện, mua ở cửa hàng trong làng; làng có đình, miếu Trúc, nhà thờ Tổ nghề tiện; tổ nghề Đoàn Tài thời Lê – Trịnh làm chiếc điếu 18 lỗ, rời làng ngày 25/10 âm lịch nên lấy làm giỗ Tổ; nguyên liệu gỗ mít, de, lim, gụ, trắc, pơ mu và sừng; làng hơn 300 năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/suc-song-moi-o-lang-nghe-tien-go-nhi-khe-co-lich-su-hang-tram-nam-tuoi-post970231.vnp",
+        "quote": "VietnamPlus (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): Nhị Khê tên Nôm làng Dũi; quê Nguyễn Phi Khanh, Nguyễn Trãi, Lương Văn Can, Lương Ngọc Quyến; Đoàn Tài dạy ở Khánh Vân (Khánh Hà) không thành rồi lội sông sang Nhị Khê truyền nghề.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vanban.hanoi.gov.vn/chi-tiet-van-ban/ve-viec-cho-phep-hoi-lang-nghe-tien-thu-cong-my-nghe-nhi-khe-xa-nhi-khe-su-dung-dia-danh-nhi-khe-219711",
+        "quote": "UBND TP Hà Nội, Quyết định 1762/QĐ-UBND (trích yếu qua công cụ tìm kiếm, đọc 14/10/2026): cho phép Hội làng nghề Tiện thủ công mỹ nghệ Nhị Khê sử dụng địa danh 'Nhị Khê' để đăng ký nhãn hiệu tập thể (năm ban hành chưa đọc được).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00650"
+  }
+}

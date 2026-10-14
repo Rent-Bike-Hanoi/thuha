@@ -1,0 +1,171 @@
+{
+  "writer": "writer-A",
+  "queued": "2026-10-14T04:53:24.611130+00:00",
+  "topic": {
+    "topic_id": "TM-00648",
+    "url": "/du-lich/lang-to-he-xuan-la/",
+    "title": "Làng tò he Xuân La Phú Xuyên: nặn tò he từ bột gạo, xem và học ở đâu",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng tò he xuân la",
+    "secondary_keywords": [
+      "làng tò he",
+      "tò he xuân la",
+      "làng nặn tò he phú xuyên",
+      "học nặn tò he",
+      "tò he phượng dực"
+    ],
+    "intent": "informational",
+    "user_problem": "Phụ huynh có con nhỏ, người thích làng nghề muốn biết làng tò he ở đâu, tò he làm từ gì, có thể xem nghệ nhân nặn và cho trẻ học thử không.",
+    "information_gain": "Site chưa có bài về làng tò he. /du-lich/lang-kham-trai-chuyen-my/ cùng vùng Phú Xuyên nhưng là khảm trai, /du-lich/lang-non-chuong/ là làng nón, /du-lich/lang-son-mai-ha-thai/ là sơn mài. Bài mới bổ sung: nguồn gốc tò he từ con giống đất nung gắn kèn đến bột gạo, tên gọi 'tò te' từ chiếc kèn mạch nha, các ước tính tuổi nghề khác nhau (300, 300–400, 400–500 năm), nghệ nhân Lê Văn Trùy, Lê Xuân Tùng, và việc xã gắn làng nghề với du lịch.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/nghe-thuat-va-sang-tao-trong-nan-to-he-85019.htm",
+        "quote": "Tuổi Trẻ (theo Nhân Dân), 'Nghệ thuật và sáng tạo trong nặn tò he' (đọc 14/10/2026): làng Xuân La, huyện Phú Xuyên có truyền thống nặn tò he, theo lời một cụ già có lịch sử hơn 300 năm; xưa là đồng chiêm trũng một vụ, người làng nặn con cò, chim, gà bằng đất nung cắm kèn bán cho trẻ, sau chuyển sang bột gạo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/giaoduc/ky-luc-gia-dua-nghe-thuat-to-he-viet-ra-the-gioi-108656705.htm",
+        "quote": "Tuổi Trẻ, 'Kỷ lục gia đưa nghệ thuật tò he Việt ra thế giới' (đọc 14/10/2026): Lê Xuân Tùng sinh ở Xuân La, xã Phượng Dực; theo anh tò he có khoảng 300–400 năm; tò he xưa gắn chiếc kèn quét mạch nha, thổi kêu 'tò te'; anh dùng bột tò he vẽ tranh chân dung, thư pháp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/phunuonline/giu-nghe-to-he-giu-nep-nha-1101482921.htm",
+        "quote": "Tuổi Trẻ – Phụ nữ online, 'Giữ nghề tò he, giữ nếp nhà' (đọc 14/10/2026): nghệ nhân Lê Văn Trùy nói khó xác định nghề có từ khi nào, ước 300–400 năm; ông có 45 năm làm tò he.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://phuongduc.hanoi.gov.vn/tin-tuc-su-kien/lang-to-he-xuan-la-lang-nghe-doc-nhat-vo-nhi-o-ha-noi-2687260116162929073.htm",
+        "quote": "Cổng TTĐT xã Phượng Dực (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): nghề nặn tò he làng Xuân La xuất hiện khoảng 400–500 năm trước, truyền theo hình thức cha truyền con nối.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://phuongduc.hanoi.gov.vn/lang-nghe-xa-phuong-duc/phat-huy-gia-tri-lang-nghe-to-he-gan-voi-du-lich-va-cong-nghiep-van-hoa-2687260116161944319.htm",
+        "quote": "Cổng TTĐT xã Phượng Dực, 'Phát huy giá trị làng nghề Tò he gắn với du lịch và công nghiệp văn hóa' (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): làng nghề nặn tò he Xuân La, xã Phượng Dực là làng nghề truyền thống lịch sử hàng trăm năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng tò he xuân la"
+      }
+    ],
+    "notes": "Tuổi nghề mâu thuẫn (300 / 300–400 / 400–500 năm) – không đưa số vào tiêu đề. Số hộ làm nghề ('khoảng 400 hộ' trên dingdangvietnam, trang bán hàng) không dùng. Lớp học/giá trải nghiệm chưa có nguồn chính thức – không nêu giá. Cổng xã Phượng Dực fetch trực tiếp bị timeout, chỉ có trích đoạn. Hà Nội sắp xếp đơn vị hành chính từ 1/7/2025 (bỏ cấp huyện, nhập xã); nguồn cũ ghi tên huyện/xã cũ, writer ghi kèm tên xã/phường mới chỉ khi có nguồn. Không có khoảng cách tính từ cửa hàng: writer không tự đưa số km từ Bồ Đề, không giờ mở cửa/giá vé (chưa có nguồn).",
+    "outline": [
+      "Làng tò he Xuân La ở đâu",
+      "Tò he là gì: từ đất nung có kèn đến bột gạo",
+      "Nghề có từ bao giờ: các con số khác nhau",
+      "Nghệ nhân và cách nặn",
+      "Đưa trẻ đến xem, học thử: cần hỏi trước",
+      "Ghép với Chuyên Mỹ, Hạ Thái, Chuông"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-kham-trai-chuyen-my/",
+      "/du-lich/lang-non-chuong/",
+      "/du-lich/lang-son-mai-ha-thai/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00648.json",
+  "draft_template": {
+    "id": "TM-00648",
+    "url": "/du-lich/lang-to-he-xuan-la/",
+    "title": "Làng tò he Xuân La Phú Xuyên: nặn tò he từ bột gạo, xem và học ở đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng tò he xuân la, làng tò he, tò he xuân la, làng nặn tò he phú xuyên, học nặn tò he, tò he phượng dực",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng tò he Xuân La ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Tò he là gì: từ đất nung có kèn đến bột gạo",
+        "<p></p>"
+      ],
+      [
+        "Nghề có từ bao giờ: các con số khác nhau",
+        "<p></p>"
+      ],
+      [
+        "Nghệ nhân và cách nặn",
+        "<p></p>"
+      ],
+      [
+        "Đưa trẻ đến xem, học thử: cần hỏi trước",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Chuyên Mỹ, Hạ Thái, Chuông",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/nghe-thuat-va-sang-tao-trong-nan-to-he-85019.htm",
+        "quote": "Tuổi Trẻ (theo Nhân Dân), 'Nghệ thuật và sáng tạo trong nặn tò he' (đọc 14/10/2026): làng Xuân La, huyện Phú Xuyên có truyền thống nặn tò he, theo lời một cụ già có lịch sử hơn 300 năm; xưa là đồng chiêm trũng một vụ, người làng nặn con cò, chim, gà bằng đất nung cắm kèn bán cho trẻ, sau chuyển sang bột gạo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/giaoduc/ky-luc-gia-dua-nghe-thuat-to-he-viet-ra-the-gioi-108656705.htm",
+        "quote": "Tuổi Trẻ, 'Kỷ lục gia đưa nghệ thuật tò he Việt ra thế giới' (đọc 14/10/2026): Lê Xuân Tùng sinh ở Xuân La, xã Phượng Dực; theo anh tò he có khoảng 300–400 năm; tò he xưa gắn chiếc kèn quét mạch nha, thổi kêu 'tò te'; anh dùng bột tò he vẽ tranh chân dung, thư pháp.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/phunuonline/giu-nghe-to-he-giu-nep-nha-1101482921.htm",
+        "quote": "Tuổi Trẻ – Phụ nữ online, 'Giữ nghề tò he, giữ nếp nhà' (đọc 14/10/2026): nghệ nhân Lê Văn Trùy nói khó xác định nghề có từ khi nào, ước 300–400 năm; ông có 45 năm làm tò he.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://phuongduc.hanoi.gov.vn/tin-tuc-su-kien/lang-to-he-xuan-la-lang-nghe-doc-nhat-vo-nhi-o-ha-noi-2687260116162929073.htm",
+        "quote": "Cổng TTĐT xã Phượng Dực (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): nghề nặn tò he làng Xuân La xuất hiện khoảng 400–500 năm trước, truyền theo hình thức cha truyền con nối.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://phuongduc.hanoi.gov.vn/lang-nghe-xa-phuong-duc/phat-huy-gia-tri-lang-nghe-to-he-gan-voi-du-lich-va-cong-nghiep-van-hoa-2687260116161944319.htm",
+        "quote": "Cổng TTĐT xã Phượng Dực, 'Phát huy giá trị làng nghề Tò he gắn với du lịch và công nghiệp văn hóa' (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): làng nghề nặn tò he Xuân La, xã Phượng Dực là làng nghề truyền thống lịch sử hàng trăm năm.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00648"
+  }
+}

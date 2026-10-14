@@ -1,0 +1,158 @@
+{
+  "writer": "writer-B",
+  "queued": "2026-10-14T04:53:25.657426+00:00",
+  "topic": {
+    "topic_id": "TM-00654",
+    "url": "/du-lich/dinh-dai-phung-dan-phuong/",
+    "title": "Đình Đại Phùng Đan Phượng: gần 1.000 họa tiết chạm, di tích đặc biệt",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình đại phùng",
+    "secondary_keywords": [
+      "đình đại phùng đan phượng",
+      "đình cổ đan phượng",
+      "di tích quốc gia đặc biệt đình",
+      "chạm khắc đình làng",
+      "lễ hội đình đại phùng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích chạm khắc gỗ dân gian, người ở phía tây Hà Nội muốn biết đình Đại Phùng ở đâu, xem chạm khắc nào, hội ngày nào.",
+    "information_gain": "Site chưa có bài về đình Đại Phùng. /du-lich/dinh-tay-dang/ là đình thời Mạc ở Ba Vì, /du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ nói đình Mông Phụ. Bài mới bổ sung: đình nửa cuối thế kỷ XVII thờ Tích Lịch Hỏa Quang và tướng Vũ Hùng thời Trần, khuôn viên 2.542 m², ba hạng mục tiền tế – đại bái – hậu cung và giếng đá ong, gần 1.000 họa tiết (vinh quy bái tổ, tiên tắm đầm sen, đấu vật), gỗ xoan nguyên thủy và đợt tu bổ 2010, hội 18 tháng Giêng, lễ đón bằng di tích đặc biệt 15/2/2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/kien-truc-co-mot-khong-hai-o-dinh-dai-phung-vua-duoc-xep-hang-di-tich-quoc-gia-dac-biet-post1716348.tpo",
+        "quote": "Báo Tiền Phong (2/2025, đọc 14/10/2026): đình Đại Phùng được công nhận di tích quốc gia đặc biệt, lễ đón bằng ngày 15/2; xây nửa cuối thế kỷ 17; cấu kiện gỗ xoan nguyên thủy; gần 1.000 họa tiết chạm (vinh quy bái tổ, tiên tắm đầm sen, đấu vật); di vật thế kỷ 17–19; xếp hạng di tích quốc gia năm 1991; hội 18 tháng Giêng; ngày 9/12/1966 Thủ tướng Phạm Văn Đồng dự hội nghị thủy lợi tại đình; tu bổ 2010, một số cột xoan thay bằng lim.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/doi-song/tuyet-tac-kien-truc-cua-ngoi-dinh-co-vua-duoc-xep-hang-di-tich-quoc-gia-dac-biet-20250222091924857.htm",
+        "quote": "VTV.vn (22/2/2025, đọc 14/10/2026): đình ở thôn Đại Phùng, xã Đan Phượng; thờ Đức Thánh Tích Lịch Hỏa Quang và tướng quân Vũ Hùng thời Trần thế kỷ XIV; khuôn viên 2.542 m²; tiền tế, đại bái, hậu cung; đầu hồi phải có giếng cổ nước đá ong.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-chiem-nguong-kiet-tac-nghe-thuat-tai-ngoi-dinh-hon-400-nam-tuoi-ven-do-post859539.html",
+        "quote": "Báo Nhân Dân, '[Ảnh] Chiêm ngưỡng kiệt tác nghệ thuật tại ngôi đình hơn 400 năm tuổi ven đô' (đọc 14/10/2026): xây nửa cuối thế kỷ XVII; khuôn viên 2.542 m², hướng tây; ba hạng mục và giếng cổ đá ong.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%ACnh_%C4%90%E1%BA%A1i_Ph%C3%B9ng",
+        "quote": "Wikipedia tiếng Việt (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): ghi công nhận di tích quốc gia đặc biệt năm 2020 – mâu thuẫn với báo 2025; chỉ dùng để ghi chú.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình đại phùng"
+      }
+    ],
+    "notes": "Mâu thuẫn năm xếp hạng đặc biệt: Wikipedia 2020 vs báo chí đưa lễ đón bằng 15/2/2025 – writer chỉ nêu lễ đón 2025 theo Tiền Phong/VTV, không nêu năm quyết định, cần tìm số quyết định Thủ tướng. 'Hơn 400 năm' (Nhân Dân) vs 'nửa cuối thế kỷ XVII' – không đưa số tuổi vào tiêu đề. Wikipedia không dùng làm nguồn chính. Hà Nội sắp xếp đơn vị hành chính từ 1/7/2025 (bỏ cấp huyện, nhập xã); nguồn cũ ghi tên huyện/xã cũ, writer ghi kèm tên xã/phường mới chỉ khi có nguồn. Không có khoảng cách tính từ cửa hàng: writer không tự đưa số km từ Bồ Đề, không giờ mở cửa/giá vé (chưa có nguồn).",
+    "outline": [
+      "Đình Đại Phùng ở đâu",
+      "Thờ ai, dựng khi nào",
+      "Bố cục: tiền tế, đại bái, hậu cung, giếng đá ong",
+      "Đọc các mảng chạm: vinh quy, tiên tắm, đấu vật",
+      "Xếp hạng và đợt tu bổ 2010",
+      "Hội 18 tháng Giêng và cách đi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dinh-tay-dang/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00654.json",
+  "draft_template": {
+    "id": "TM-00654",
+    "url": "/du-lich/dinh-dai-phung-dan-phuong/",
+    "title": "Đình Đại Phùng Đan Phượng: gần 1.000 họa tiết chạm, di tích đặc biệt",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình đại phùng, đình đại phùng đan phượng, đình cổ đan phượng, di tích quốc gia đặc biệt đình, chạm khắc đình làng, lễ hội đình đại phùng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Đại Phùng ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Thờ ai, dựng khi nào",
+        "<p></p>"
+      ],
+      [
+        "Bố cục: tiền tế, đại bái, hậu cung, giếng đá ong",
+        "<p></p>"
+      ],
+      [
+        "Đọc các mảng chạm: vinh quy, tiên tắm, đấu vật",
+        "<p></p>"
+      ],
+      [
+        "Xếp hạng và đợt tu bổ 2010",
+        "<p></p>"
+      ],
+      [
+        "Hội 18 tháng Giêng và cách đi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/kien-truc-co-mot-khong-hai-o-dinh-dai-phung-vua-duoc-xep-hang-di-tich-quoc-gia-dac-biet-post1716348.tpo",
+        "quote": "Báo Tiền Phong (2/2025, đọc 14/10/2026): đình Đại Phùng được công nhận di tích quốc gia đặc biệt, lễ đón bằng ngày 15/2; xây nửa cuối thế kỷ 17; cấu kiện gỗ xoan nguyên thủy; gần 1.000 họa tiết chạm (vinh quy bái tổ, tiên tắm đầm sen, đấu vật); di vật thế kỷ 17–19; xếp hạng di tích quốc gia năm 1991; hội 18 tháng Giêng; ngày 9/12/1966 Thủ tướng Phạm Văn Đồng dự hội nghị thủy lợi tại đình; tu bổ 2010, một số cột xoan thay bằng lim.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/doi-song/tuyet-tac-kien-truc-cua-ngoi-dinh-co-vua-duoc-xep-hang-di-tich-quoc-gia-dac-biet-20250222091924857.htm",
+        "quote": "VTV.vn (22/2/2025, đọc 14/10/2026): đình ở thôn Đại Phùng, xã Đan Phượng; thờ Đức Thánh Tích Lịch Hỏa Quang và tướng quân Vũ Hùng thời Trần thế kỷ XIV; khuôn viên 2.542 m²; tiền tế, đại bái, hậu cung; đầu hồi phải có giếng cổ nước đá ong.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-chiem-nguong-kiet-tac-nghe-thuat-tai-ngoi-dinh-hon-400-nam-tuoi-ven-do-post859539.html",
+        "quote": "Báo Nhân Dân, '[Ảnh] Chiêm ngưỡng kiệt tác nghệ thuật tại ngôi đình hơn 400 năm tuổi ven đô' (đọc 14/10/2026): xây nửa cuối thế kỷ XVII; khuôn viên 2.542 m², hướng tây; ba hạng mục và giếng cổ đá ong.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/%C4%90%C3%ACnh_%C4%90%E1%BA%A1i_Ph%C3%B9ng",
+        "quote": "Wikipedia tiếng Việt (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): ghi công nhận di tích quốc gia đặc biệt năm 2020 – mâu thuẫn với báo 2025; chỉ dùng để ghi chú.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00654"
+  }
+}

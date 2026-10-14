@@ -1,0 +1,158 @@
+{
+  "writer": "writer-A",
+  "queued": "2026-10-14T04:53:24.820783+00:00",
+  "topic": {
+    "topic_id": "TM-00649",
+    "url": "/du-lich/lang-theu-quat-dong/",
+    "title": "Làng thêu Quất Động Thường Tín: quê tổ nghề Lê Công Hành, xem thêu tay",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng thêu quất động",
+    "secondary_keywords": [
+      "quất động",
+      "làng thêu tay quất động",
+      "tổ nghề thêu lê công hành",
+      "tranh thêu quất động",
+      "học thêu tay hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích thủ công, khách nước ngoài và người đi quốc lộ 1 phía nam muốn biết làng thêu Quất Động có gì xem, còn làm nghề không, có lớp thêu cho khách.",
+    "information_gain": "Site chưa có bài về Quất Động. /du-lich/lang-son-mai-ha-thai/, /du-lich/chua-dau-thuong-tin/ cùng vùng Thường Tín nhưng khác chủ đề; /du-lich/lang-lua-van-phuc/ là lụa. Bài mới bổ sung: tổ nghề Lê Công Hành (1606, đi sứ 1646), mộ tổ xây 1994, giỗ tổ 12/6 âm lịch ở đình Tú Thị (phố Yên Thái), số hộ giảm từ gần 90% xuống gần 200 hộ, bức tranh mai một vs phục hồi, và lớp thêu sáng thứ Bảy ở xưởng Tú Thị trong làng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.tapchikientruc.com.vn/chuyen-muc/cai-noi-cua-nghe-theu-truyen-thong-lang-quat-dong.html",
+        "quote": "Tạp chí Kiến trúc, 'Cái nôi của nghề thêu truyền thống – làng Quất Động' (đọc 14/10/2026): làng bên trái quốc lộ 1 hướng từ Hà Nội, cách trung tâm khoảng 20 km, khoảng 50 ha; tổ nghề Lê Công Hành (tên khai sinh Trần Quốc Khái) sinh năm Bính Ngọ 1606, năm 1646 đi sứ nhà Minh học nghề thêu về dạy dân; mất năm 1661; năm 1994 họ Bùi Trần xây mộ tổ ở xóm 1, đội 5.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/le-cong-hanh-ong-to-nghe-theu-79703.html",
+        "quote": "Người Hà Nội, 'Lê Công Hành – ông tổ nghề thêu' (đọc 14/10/2026): sinh Bính Ngọ (1606), mất Nhâm Dần (1662); dạy dân Quất Động thêu nổi và làm lọng; nghề ở Quất Động khoảng ba bốn trăm năm; ngày 12/6 âm lịch giỗ tổ nghề thêu tại đình Tú Thị (đình Chợ Thêu) phố Yên Thái.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/giu-net-dep-tranh-theu-truyen-thong-lang-quat-dong-post323865.html",
+        "quote": "Báo Nhân Dân (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): Phó Chủ tịch UBND xã Quất Động cho biết khoảng 30 năm trước gần 90% hộ theo nghề thêu, nay chỉ còn gần 200 hộ, do khu công nghiệp thu hút lao động.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ha-noi-ve-lang-trai-nghiem-van-hoa-viet-post939011.html",
+        "quote": "Báo Nhân Dân, 'Hà Nội: Về làng, trải nghiệm văn hóa Việt' (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): mỗi sáng thứ Bảy, Xưởng thêu tay Tú Thị trong làng Quất Động mở lớp thêu tay, cách trung tâm khoảng 25 km; bà Phạm Thị Hương hơn 40 năm gắn bó nghề hướng dẫn học viên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng thêu quất động"
+      }
+    ],
+    "notes": "Mâu thuẫn năm mất tổ nghề: 1661 (Kiến trúc) vs 1662 (Người Hà Nội); khoảng cách 20 vs 25 km; tài liệu DSVH ghi tổ nghề là 'Bùi Công Hành'. Số liệu 'gần 200 hộ' không rõ năm – ghi kèm nguồn. Lớp thêu: không nêu học phí, khuyên liên hệ xưởng trước (không ghi số điện thoại xưởng). Hà Nội sắp xếp đơn vị hành chính từ 1/7/2025 (bỏ cấp huyện, nhập xã); nguồn cũ ghi tên huyện/xã cũ, writer ghi kèm tên xã/phường mới chỉ khi có nguồn. Không có khoảng cách tính từ cửa hàng: writer không tự đưa số km từ Bồ Đề, không giờ mở cửa/giá vé (chưa có nguồn).",
+    "outline": [
+      "Làng thêu Quất Động ở đâu",
+      "Tổ nghề Lê Công Hành: năm sinh, đi sứ, năm mất ghi khác nhau",
+      "Nghề thêu xưa: nghi môn, câu đối, lọng",
+      "Làng nghề hôm nay: mai một và phục hồi",
+      "Học thêu ở xưởng trong làng",
+      "Ghép với Hạ Thái, chùa Đậu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-son-mai-ha-thai/",
+      "/du-lich/chua-dau-thuong-tin/",
+      "/du-lich/lang-lua-van-phuc/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00649.json",
+  "draft_template": {
+    "id": "TM-00649",
+    "url": "/du-lich/lang-theu-quat-dong/",
+    "title": "Làng thêu Quất Động Thường Tín: quê tổ nghề Lê Công Hành, xem thêu tay",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng thêu quất động, quất động, làng thêu tay quất động, tổ nghề thêu lê công hành, tranh thêu quất động, học thêu tay hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng thêu Quất Động ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Tổ nghề Lê Công Hành: năm sinh, đi sứ, năm mất ghi khác nhau",
+        "<p></p>"
+      ],
+      [
+        "Nghề thêu xưa: nghi môn, câu đối, lọng",
+        "<p></p>"
+      ],
+      [
+        "Làng nghề hôm nay: mai một và phục hồi",
+        "<p></p>"
+      ],
+      [
+        "Học thêu ở xưởng trong làng",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Hạ Thái, chùa Đậu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.tapchikientruc.com.vn/chuyen-muc/cai-noi-cua-nghe-theu-truyen-thong-lang-quat-dong.html",
+        "quote": "Tạp chí Kiến trúc, 'Cái nôi của nghề thêu truyền thống – làng Quất Động' (đọc 14/10/2026): làng bên trái quốc lộ 1 hướng từ Hà Nội, cách trung tâm khoảng 20 km, khoảng 50 ha; tổ nghề Lê Công Hành (tên khai sinh Trần Quốc Khái) sinh năm Bính Ngọ 1606, năm 1646 đi sứ nhà Minh học nghề thêu về dạy dân; mất năm 1661; năm 1994 họ Bùi Trần xây mộ tổ ở xóm 1, đội 5.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/le-cong-hanh-ong-to-nghe-theu-79703.html",
+        "quote": "Người Hà Nội, 'Lê Công Hành – ông tổ nghề thêu' (đọc 14/10/2026): sinh Bính Ngọ (1606), mất Nhâm Dần (1662); dạy dân Quất Động thêu nổi và làm lọng; nghề ở Quất Động khoảng ba bốn trăm năm; ngày 12/6 âm lịch giỗ tổ nghề thêu tại đình Tú Thị (đình Chợ Thêu) phố Yên Thái.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/giu-net-dep-tranh-theu-truyen-thong-lang-quat-dong-post323865.html",
+        "quote": "Báo Nhân Dân (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): Phó Chủ tịch UBND xã Quất Động cho biết khoảng 30 năm trước gần 90% hộ theo nghề thêu, nay chỉ còn gần 200 hộ, do khu công nghiệp thu hút lao động.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ha-noi-ve-lang-trai-nghiem-van-hoa-viet-post939011.html",
+        "quote": "Báo Nhân Dân, 'Hà Nội: Về làng, trải nghiệm văn hóa Việt' (trích đoạn qua công cụ tìm kiếm, đọc 14/10/2026): mỗi sáng thứ Bảy, Xưởng thêu tay Tú Thị trong làng Quất Động mở lớp thêu tay, cách trung tâm khoảng 25 km; bà Phạm Thị Hương hơn 40 năm gắn bó nghề hướng dẫn học viên.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00649"
+  }
+}
