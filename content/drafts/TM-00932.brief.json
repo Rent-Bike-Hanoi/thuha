@@ -1,0 +1,157 @@
+{
+  "writer": "writer-T2",
+  "queued": "2026-10-14T16:10:23.316683+00:00",
+  "topic": {
+    "topic_id": "TM-00932",
+    "url": "/du-lich/cho-tinh-sa-pa-toi-thu-bay/",
+    "title": "Chợ tình Sa Pa tối thứ Bảy: còn thật không, họp ở đâu, xem thế nào",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ tình sa pa",
+    "secondary_keywords": [
+      "chợ tình sa pa tối thứ 7",
+      "chợ tình sa pa có còn không",
+      "chợ tình sa pa ở đâu",
+      "tái hiện chợ tình sa pa"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách lên Sa Pa cuối tuần nghe nói về chợ tình tối thứ Bảy, muốn biết nó còn diễn ra thật hay chỉ là hoạt cảnh, ở đâu và nên xem thế nào cho đúng mực.",
+    "information_gain": "/du-lich/nha-tho-da-sa-pa/ nói quảng trường và nhà thờ nhưng không nói chợ tình; /du-lich/cho-tinh-khau-vai/ là chợ tình mỗi năm một lần ở Hà Giang. Bài mới đặt cạnh nhau các nguồn mâu thuẫn: VnExpress 2004 nói chợ tình gốc đã mất, chỉ còn hoạt cảnh; từ cuối năm 2020 Lào Cai thử nghiệm tái hiện; báo 2021, 2024 mô tả hoạt động tối thứ Bảy ở quảng trường trước nhà thờ đá với khèn, hát giao duyên. Giải thích gốc tục lệ: người đi chợ phiên Chủ nhật đến từ chiều thứ Bảy, ngủ lại chợ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/khong-con-cho-tinh-sa-pa-1995037.html",
+        "quote": "VnExpress, 'Không còn chợ tình Sa Pa' (23/12/2004, đọc 14/10/2026): chợ tình theo tài liệu du lịch họp tối thứ bảy tại quảng trường nhà thờ thị trấn, nơi trai gái Dao, Mông tìm bạn tình; nhưng 3 năm trở lại đây khu này thành con phố bán đồ nướng, chủ yếu người Kinh và khách du lịch; chợ tình chỉ xuất hiện trong lễ hội lớn dưới dạng hoạt cảnh; hướng dẫn viên liên hệ cặp người dân tộc đến múa hát khi khách yêu cầu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/diem-den/kham-pha-cho-tinh-sa-pa-diem-den-dac-biet-cua-tay-bac-78254.html",
+        "quote": "Báo Văn hóa (19/11/2021, đọc 14/10/2026): chương trình tái hiện 'Chợ tình Sa Pa' 19h30–20h45 ngày 19 và 20.11.2021; Giám đốc Sở VHTTDL Lào Cai: khác chợ tình Khâu Vai, Mộc Châu mỗi năm một lần, chợ tình Sa Pa diễn ra tối thứ Bảy hằng tuần; từ cuối năm 2020 Trung tâm Thông tin và Xúc tiến Du lịch tỉnh thử nghiệm tái hiện; theo truyền thống, để kịp chợ phiên sáng Chủ nhật đồng bào đi từ chiều thứ 7, ngủ tại chợ, tối thứ 7 thành ngày hội; chợ tình không ai bán, không ai mua.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/net-dep-van-hoa-cua-cho-tinh-sa-pa-post380364.html",
+        "quote": "Báo Lào Cai, 'Nét đẹp văn hóa của chợ tình Sa Pa' (24/02/2024, đọc 14/10/2026): theo tục lệ chợ tình diễn ra mỗi năm một lần; hiện được quản lý, tổ chức để thu hút khách, diễn ra mỗi tối thứ bảy tại Quảng trường Sa Pa trước nhà thờ đá; có kéo co, thổi khèn, hát giao duyên; khoảng 8 giờ tối đến mờ sáng hôm sau là hát giao duyên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/van-hoa-cho-tinh-doc-dao-cua-nguoi-dao-nguoi-mong-o-sa-pa-775463.html",
+        "quote": "VietNamNet (24/11/2021, đọc 14/10/2026): xưa kia chợ tình diễn ra một năm một lần, hơn chục năm nay họp mỗi tuần một phiên; tối thứ bảy nam nữ Dao, Mông đến khoảng vườn hoa trước nhà thờ đá; dùng khèn lá, hát giao duyên; gọi là chợ nhưng không có mua bán.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chợ tình sa pa"
+      }
+    ],
+    "notes": "Đây là bài 'thực hư' — phải nêu rõ xung đột: 2004 'không còn', 2021–2024 'tối thứ Bảy hằng tuần' dưới dạng tổ chức/tái hiện. Không khẳng định tuần nào cũng có biểu diễn; khuyên hỏi trung tâm thông tin du lịch. Giờ: 2021 là lịch riêng của chương trình festival; 2024 'khoảng 8 giờ tối' là lời du khách — không đưa giờ vào tiêu đề. Địa danh: Sa Pa nay là phường thuộc tỉnh Lào Cai. Không viết theo hướng 'săn' người dân tộc để chụp ảnh; nhắc xin phép trước khi chụp.",
+    "outline": [
+      "Chợ tình Sa Pa là gì, vì sao gọi là 'chợ'",
+      "Gốc tục lệ: đêm thứ Bảy trước phiên chợ Chủ nhật",
+      "Năm 2004: 'không còn chợ tình'",
+      "Từ 2020: tái hiện và tổ chức tối thứ Bảy",
+      "Xem ở đâu, khoảng mấy giờ, ứng xử thế nào",
+      "So với chợ tình Khâu Vai"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-da-sa-pa/",
+      "/du-lich/cho-tinh-khau-vai/",
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00932.json",
+  "draft_template": {
+    "id": "TM-00932",
+    "url": "/du-lich/cho-tinh-sa-pa-toi-thu-bay/",
+    "title": "Chợ tình Sa Pa tối thứ Bảy: còn thật không, họp ở đâu, xem thế nào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ tình sa pa, chợ tình sa pa tối thứ 7, chợ tình sa pa có còn không, chợ tình sa pa ở đâu, tái hiện chợ tình sa pa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ tình Sa Pa là gì, vì sao gọi là 'chợ'",
+        "<p></p>"
+      ],
+      [
+        "Gốc tục lệ: đêm thứ Bảy trước phiên chợ Chủ nhật",
+        "<p></p>"
+      ],
+      [
+        "Năm 2004: 'không còn chợ tình'",
+        "<p></p>"
+      ],
+      [
+        "Từ 2020: tái hiện và tổ chức tối thứ Bảy",
+        "<p></p>"
+      ],
+      [
+        "Xem ở đâu, khoảng mấy giờ, ứng xử thế nào",
+        "<p></p>"
+      ],
+      [
+        "So với chợ tình Khâu Vai",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/khong-con-cho-tinh-sa-pa-1995037.html",
+        "quote": "VnExpress, 'Không còn chợ tình Sa Pa' (23/12/2004, đọc 14/10/2026): chợ tình theo tài liệu du lịch họp tối thứ bảy tại quảng trường nhà thờ thị trấn, nơi trai gái Dao, Mông tìm bạn tình; nhưng 3 năm trở lại đây khu này thành con phố bán đồ nướng, chủ yếu người Kinh và khách du lịch; chợ tình chỉ xuất hiện trong lễ hội lớn dưới dạng hoạt cảnh; hướng dẫn viên liên hệ cặp người dân tộc đến múa hát khi khách yêu cầu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/diem-den/kham-pha-cho-tinh-sa-pa-diem-den-dac-biet-cua-tay-bac-78254.html",
+        "quote": "Báo Văn hóa (19/11/2021, đọc 14/10/2026): chương trình tái hiện 'Chợ tình Sa Pa' 19h30–20h45 ngày 19 và 20.11.2021; Giám đốc Sở VHTTDL Lào Cai: khác chợ tình Khâu Vai, Mộc Châu mỗi năm một lần, chợ tình Sa Pa diễn ra tối thứ Bảy hằng tuần; từ cuối năm 2020 Trung tâm Thông tin và Xúc tiến Du lịch tỉnh thử nghiệm tái hiện; theo truyền thống, để kịp chợ phiên sáng Chủ nhật đồng bào đi từ chiều thứ 7, ngủ tại chợ, tối thứ 7 thành ngày hội; chợ tình không ai bán, không ai mua.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/net-dep-van-hoa-cua-cho-tinh-sa-pa-post380364.html",
+        "quote": "Báo Lào Cai, 'Nét đẹp văn hóa của chợ tình Sa Pa' (24/02/2024, đọc 14/10/2026): theo tục lệ chợ tình diễn ra mỗi năm một lần; hiện được quản lý, tổ chức để thu hút khách, diễn ra mỗi tối thứ bảy tại Quảng trường Sa Pa trước nhà thờ đá; có kéo co, thổi khèn, hát giao duyên; khoảng 8 giờ tối đến mờ sáng hôm sau là hát giao duyên.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/van-hoa-cho-tinh-doc-dao-cua-nguoi-dao-nguoi-mong-o-sa-pa-775463.html",
+        "quote": "VietNamNet (24/11/2021, đọc 14/10/2026): xưa kia chợ tình diễn ra một năm một lần, hơn chục năm nay họp mỗi tuần một phiên; tối thứ bảy nam nữ Dao, Mông đến khoảng vườn hoa trước nhà thờ đá; dùng khèn lá, hát giao duyên; gọi là chợ nhưng không có mua bán.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00932"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "writer": "writer-T1",
+  "queued": "2026-10-14T16:10:22.178747+00:00",
+  "topic": {
+    "topic_id": "TM-00927",
+    "url": "/du-lich/cho-da-quy-luc-yen/",
+    "title": "Chợ đá quý Lục Yên: chợ họp buổi sáng, ruby, sapphire, spinel và cách xem",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ đá quý lục yên",
+    "secondary_keywords": [
+      "chợ đá lục yên",
+      "lục yên đá quý",
+      "chợ đá quý yên bái",
+      "đi chợ đá quý lục yên mấy giờ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hồ Thác Bà hoặc Lục Yên muốn ghé chợ đá quý, cần biết chợ họp lúc nào, bán loại đá gì và nên xem ra sao để không bị lừa.",
+    "information_gain": "/du-lich/den-dai-cai-luc-yen/ và /du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/ chỉ nhắc Lục Yên như địa danh; /du-lich/bao-tang-dia-chat-ha-noi/ trưng bày đá quý nhưng không nói chợ. Bài mới mô tả chợ đá quý: họp buổi sáng các ngày trong tuần và tan khoảng 11 giờ hoặc về trưa, quầy là bàn gỗ, khay đá thô và đá mài, ruby, sapphire, spinel, khách soi bằng kính và đèn chuyên dụng, chợ có gần 40 năm, chuyện viên 'Sao Hoàng Đế' 15,75 carat và cảnh báo rằng giá chênh rất lớn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ve-thu-phu-da-quy-luc-yen-post951437.html",
+        "quote": "Nhân Dân, 'Về thủ phủ đá quý Lục Yên' (27/03/2026, đọc 14/10/2026): xã Lục Yên (tỉnh Lào Cai) là 'thủ phủ' đá quý; những năm 1980–1990 các nhà địa chất xác nhận trữ lượng lớn; từng tìm ra viên ruby 'Sao Hoàng Đế' nặng 15,75 carat; chợ đá quý ở trung tâm xã rộng khoảng vài trăm mét vuông, không có nhà lồng hay ki-ốt, mỗi quầy là một bàn gỗ nhỏ; chợ ra đời cách đây gần 40 năm; không chèo kéo; phổ biến ruby đỏ, sapphire xanh, spinel; người sành dùng đèn chuyên dụng xác định đá; chủ quầy livestream buổi tối; trời về trưa chợ thưa dần, chỉ họp trong một buổi sáng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/sac-ngoc-ben-bi-voi-thoi-gian-post890082.html",
+        "quote": "Báo Lào Cai, 'Sắc ngọc bền bỉ với thời gian' (29/12/2025, đọc 14/10/2026): chợ đá quý là 'linh hồn' của vùng đất ngọc; chợ họp đều đặn vào các buổi sáng trong tuần và kết thúc vào khoảng 11 giờ; đá bày trên bàn, trong khay; một tiểu thương gắn bó gần 20 năm cho biết trước kia người bán ngồi dưới đất, nay chợ khang trang hơn và đang được đầu tư xây dựng mới.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/kham-pha-cho-da-quy-luc-yen-post898774.html",
+        "quote": "Báo Lào Cai, 'Khám phá chợ đá quý Lục Yên' (29/04/2026, đọc 14/10/2026): chợ nằm giữa phố nhỏ Lục Yên, là 'sàn giao dịch' đá quý; bàn gỗ đơn sơ, hàng trăm khay đá thô đỏ, hồng, tím; đá được phân loại theo màu và kích thước; có quầy bán đá đã mài sơ bộ; khách kiểm tra bằng kính và đèn chuyên dùng; sau khi chọn đá có thể đặt chế tác thành nhẫn, vòng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chợ đá quý lục yên"
+      }
+    ],
+    "notes": "Địa giới: Lục Yên nay là xã thuộc tỉnh Lào Cai (sau sáp nhập Yên Bái); nguồn tìm kiếm cũ ghi thị trấn Yên Thế, Yên Bái — dùng tên mới, ghi tên cũ. Giờ tan chợ: Báo Lào Cai 'khoảng 11 giờ', Nhân Dân 'về trưa' — ghi cả hai, không đặt giờ trong tiêu đề. Giờ mở chợ (6h30) chỉ thấy ở trang tổng hợp, chưa có nguồn báo đầy đủ — bỏ. Khoảng cách Hà Nội – Lục Yên chưa kiểm chứng. KHÔNG nêu giá đá (nguồn có nhắc 'vài trăm nghìn' tới 'cả tỷ' và 5 triệu USD — brief cấm giá). Không tư vấn đầu tư/thẩm định đá; khuyên khách dùng giấy kiểm định của cơ sở có chức năng (không nêu tên cơ sở chưa kiểm chứng).",
+    "outline": [
+      "Vì sao Lục Yên là 'thủ phủ' đá quý",
+      "Chợ họp lúc nào và nằm ở đâu",
+      "Trên bàn đá có gì: ruby, sapphire, spinel, đá thô và đá mài",
+      "Cách người mua xem đá và vì sao nên thận trọng",
+      "Từ chợ đá tới xưởng chế tác",
+      "Ghép chợ đá với đền Đại Cại, hồ Thác Bà"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-dai-cai-luc-yen/",
+      "/du-lich/ho-thac-ba-di-xe-may-tu-ha-noi/",
+      "/du-lich/bao-tang-dia-chat-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00927.json",
+  "draft_template": {
+    "id": "TM-00927",
+    "url": "/du-lich/cho-da-quy-luc-yen/",
+    "title": "Chợ đá quý Lục Yên: chợ họp buổi sáng, ruby, sapphire, spinel và cách xem",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ đá quý lục yên, chợ đá lục yên, lục yên đá quý, chợ đá quý yên bái, đi chợ đá quý lục yên mấy giờ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vì sao Lục Yên là 'thủ phủ' đá quý",
+        "<p></p>"
+      ],
+      [
+        "Chợ họp lúc nào và nằm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Trên bàn đá có gì: ruby, sapphire, spinel, đá thô và đá mài",
+        "<p></p>"
+      ],
+      [
+        "Cách người mua xem đá và vì sao nên thận trọng",
+        "<p></p>"
+      ],
+      [
+        "Từ chợ đá tới xưởng chế tác",
+        "<p></p>"
+      ],
+      [
+        "Ghép chợ đá với đền Đại Cại, hồ Thác Bà",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ve-thu-phu-da-quy-luc-yen-post951437.html",
+        "quote": "Nhân Dân, 'Về thủ phủ đá quý Lục Yên' (27/03/2026, đọc 14/10/2026): xã Lục Yên (tỉnh Lào Cai) là 'thủ phủ' đá quý; những năm 1980–1990 các nhà địa chất xác nhận trữ lượng lớn; từng tìm ra viên ruby 'Sao Hoàng Đế' nặng 15,75 carat; chợ đá quý ở trung tâm xã rộng khoảng vài trăm mét vuông, không có nhà lồng hay ki-ốt, mỗi quầy là một bàn gỗ nhỏ; chợ ra đời cách đây gần 40 năm; không chèo kéo; phổ biến ruby đỏ, sapphire xanh, spinel; người sành dùng đèn chuyên dụng xác định đá; chủ quầy livestream buổi tối; trời về trưa chợ thưa dần, chỉ họp trong một buổi sáng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/sac-ngoc-ben-bi-voi-thoi-gian-post890082.html",
+        "quote": "Báo Lào Cai, 'Sắc ngọc bền bỉ với thời gian' (29/12/2025, đọc 14/10/2026): chợ đá quý là 'linh hồn' của vùng đất ngọc; chợ họp đều đặn vào các buổi sáng trong tuần và kết thúc vào khoảng 11 giờ; đá bày trên bàn, trong khay; một tiểu thương gắn bó gần 20 năm cho biết trước kia người bán ngồi dưới đất, nay chợ khang trang hơn và đang được đầu tư xây dựng mới.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/kham-pha-cho-da-quy-luc-yen-post898774.html",
+        "quote": "Báo Lào Cai, 'Khám phá chợ đá quý Lục Yên' (29/04/2026, đọc 14/10/2026): chợ nằm giữa phố nhỏ Lục Yên, là 'sàn giao dịch' đá quý; bàn gỗ đơn sơ, hàng trăm khay đá thô đỏ, hồng, tím; đá được phân loại theo màu và kích thước; có quầy bán đá đã mài sơ bộ; khách kiểm tra bằng kính và đèn chuyên dùng; sau khi chọn đá có thể đặt chế tác thành nhẫn, vòng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00927"
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "writer": "writer-T2",
+  "queued": "2026-10-14T16:10:23.019381+00:00",
+  "topic": {
+    "topic_id": "TM-00931",
+    "url": "/du-lich/cho-phien-san-thang-lai-chau/",
+    "title": "Chợ phiên San Thàng Lai Châu: thứ Năm, Chủ nhật, phở Nhắng và chợ đêm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ phiên san thàng",
+    "secondary_keywords": [
+      "chợ san thàng lai châu",
+      "chợ san thàng họp ngày nào",
+      "phở nhắng người giáy",
+      "chợ đêm san thàng"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi xe máy vòng Sa Pa – Lai Châu muốn ghé một chợ phiên sát thành phố Lai Châu, cần biết San Thàng họp ngày nào, mấy giờ, ăn gì.",
+    "information_gain": "/du-lich/cao-nguyen-sin-ho/, /du-lich/ban-vang-pheo-lai-chau/ và /du-lich/dong-pu-sam-cap-lai-chau/ không nói chợ San Thàng. Bài mới: chợ cách TP Lai Châu khoảng 5km trên quốc lộ 4D, họp thứ Năm và Chủ nhật, bắt đầu khoảng 5h sáng, người Mông, Giáy, Dao, Thái, Lự từ Tam Đường, Phong Thổ; món phở Nhắng của người Giáy, bánh bỏng, chè con sâu, bánh đúc Mông; chợ đêm tối thứ Bảy; hàng hóa đã đổi từ dao quắm, cuốc sang cả đồ điện tử.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/quyen-ru-cho-phien-san-thang-o-lai-chau-1026312.vov",
+        "quote": "VOV, 'Quyến rũ chợ phiên San Thàng ở Lai Châu' (28/03/2020, đọc 14/10/2026 qua WebFetch): chợ cách trung tâm TP Lai Châu khoảng 5 km, họp thứ Năm và Chủ nhật hằng tuần từ sáng sớm; người Dao, Thái, Giáy, Mông, Lự vùng Tam Đường, Phong Thổ; bán măng, mộc nhĩ, nấm hương, rau; có người đi 30–40 km tới chợ; nổi tiếng phở Nhắng của người Giáy làm từ thịt lợn đen, bánh phở cắt bằng kéo tại chỗ; có bánh đúc, bánh bò của người Mông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hap-dan-cho-phien-san-thang-post359007.html",
+        "quote": "Nhân Dân, 'Hấp dẫn chợ phiên San Thàng' (18/05/2019, đọc 14/10/2026): chợ nằm ngay đầu vào thành phố Lai Châu, hình thành từ lâu đời, là nơi giao thương của người Mông, Thái, Giáy, Lự ở Tam Đường, Phong Thổ, TP Lai Châu; họp hai phiên chính thứ năm và chủ nhật; cán bộ, công nhân TP Lai Châu đi chợ cuối tuần ăn phở chua, mua ớt, mắc khén, thảo quả; du khách mua bánh bỏng, ăn chè con sâu người Giáy, bánh đúc, bánh bò người Mông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/cho-san-thang-buc-tranh-van-hoa-ruc-ro-cua-lai-chau-post366128.html",
+        "quote": "Báo Lào Cai, 'Chợ San Thàng - bức tranh văn hóa rực rỡ của Lai Châu' (04/04/2023, đọc 14/10/2026): chợ thuộc xã San Thàng, TP Lai Châu, mở sáng sớm thứ Năm và Chủ nhật; cách Sa Pa khoảng 2 tiếng đi xe máy; chợ bắt đầu từ khoảng 5h sáng; trước kia bán dao quắm, cuốc, thuổng, lâm thổ sản, thổ cẩm, nay có cả hàng điện tử, thời trang; chợ đêm San Thàng tối thứ Bảy tại khu chợ có sân khấu văn nghệ, hàng ăn thắng cố, phở, bánh bò, bánh rán; nên có mặt lúc 18h.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/cung-em-xuong-cho-san-thang-post243573.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Cùng em xuống chợ San Thàng…' (06/04/2017, đọc 14/10/2026): chợ cách TP Lai Châu khoảng 5km, trên quốc lộ 4D, họp thứ năm và chủ nhật; là chợ quê của người Mông, Giáy, Dao, Thái; không ai biết chợ có từ bao giờ; hàng bán là sản vật núi rừng, khăn, vải, hương, ghế mây tre đan.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chợ phiên san thàng"
+      }
+    ],
+    "notes": "Thông tin chợ đêm tối thứ Bảy và lời khuyên 'đến lúc 18h' đến từ blogger được Báo Lào Cai 2023 trích — ghi rõ là trải nghiệm năm 2023, cần kiểm tra lại. Giá phòng 500.000đ trong nguồn — KHÔNG đưa vào (cấm giá). Địa giới sau sáp nhập (xã/phường mới của San Thàng) chưa kiểm chứng. San Thàng không phải khu vực biên giới; không dẫn khách sang các chợ Phong Thổ sát biên.",
+    "outline": [
+      "Chợ San Thàng ở đâu, đi từ Sa Pa thế nào",
+      "Hai phiên thứ Năm và Chủ nhật, chợ mở từ mấy giờ",
+      "Những dân tộc về chợ",
+      "Phở Nhắng, chè con sâu và bánh của người Mông",
+      "Chợ đêm tối thứ Bảy",
+      "Lịch trình ghép với Sìn Hồ, Vàng Pheo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cao-nguyen-sin-ho/",
+      "/du-lich/ban-vang-pheo-lai-chau/",
+      "/du-lich/dong-pu-sam-cap-lai-chau/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00931.json",
+  "draft_template": {
+    "id": "TM-00931",
+    "url": "/du-lich/cho-phien-san-thang-lai-chau/",
+    "title": "Chợ phiên San Thàng Lai Châu: thứ Năm, Chủ nhật, phở Nhắng và chợ đêm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ phiên san thàng, chợ san thàng lai châu, chợ san thàng họp ngày nào, phở nhắng người giáy, chợ đêm san thàng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ San Thàng ở đâu, đi từ Sa Pa thế nào",
+        "<p></p>"
+      ],
+      [
+        "Hai phiên thứ Năm và Chủ nhật, chợ mở từ mấy giờ",
+        "<p></p>"
+      ],
+      [
+        "Những dân tộc về chợ",
+        "<p></p>"
+      ],
+      [
+        "Phở Nhắng, chè con sâu và bánh của người Mông",
+        "<p></p>"
+      ],
+      [
+        "Chợ đêm tối thứ Bảy",
+        "<p></p>"
+      ],
+      [
+        "Lịch trình ghép với Sìn Hồ, Vàng Pheo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/quyen-ru-cho-phien-san-thang-o-lai-chau-1026312.vov",
+        "quote": "VOV, 'Quyến rũ chợ phiên San Thàng ở Lai Châu' (28/03/2020, đọc 14/10/2026 qua WebFetch): chợ cách trung tâm TP Lai Châu khoảng 5 km, họp thứ Năm và Chủ nhật hằng tuần từ sáng sớm; người Dao, Thái, Giáy, Mông, Lự vùng Tam Đường, Phong Thổ; bán măng, mộc nhĩ, nấm hương, rau; có người đi 30–40 km tới chợ; nổi tiếng phở Nhắng của người Giáy làm từ thịt lợn đen, bánh phở cắt bằng kéo tại chỗ; có bánh đúc, bánh bò của người Mông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hap-dan-cho-phien-san-thang-post359007.html",
+        "quote": "Nhân Dân, 'Hấp dẫn chợ phiên San Thàng' (18/05/2019, đọc 14/10/2026): chợ nằm ngay đầu vào thành phố Lai Châu, hình thành từ lâu đời, là nơi giao thương của người Mông, Thái, Giáy, Lự ở Tam Đường, Phong Thổ, TP Lai Châu; họp hai phiên chính thứ năm và chủ nhật; cán bộ, công nhân TP Lai Châu đi chợ cuối tuần ăn phở chua, mua ớt, mắc khén, thảo quả; du khách mua bánh bỏng, ăn chè con sâu người Giáy, bánh đúc, bánh bò người Mông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/cho-san-thang-buc-tranh-van-hoa-ruc-ro-cua-lai-chau-post366128.html",
+        "quote": "Báo Lào Cai, 'Chợ San Thàng - bức tranh văn hóa rực rỡ của Lai Châu' (04/04/2023, đọc 14/10/2026): chợ thuộc xã San Thàng, TP Lai Châu, mở sáng sớm thứ Năm và Chủ nhật; cách Sa Pa khoảng 2 tiếng đi xe máy; chợ bắt đầu từ khoảng 5h sáng; trước kia bán dao quắm, cuốc, thuổng, lâm thổ sản, thổ cẩm, nay có cả hàng điện tử, thời trang; chợ đêm San Thàng tối thứ Bảy tại khu chợ có sân khấu văn nghệ, hàng ăn thắng cố, phở, bánh bò, bánh rán; nên có mặt lúc 18h.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/cung-em-xuong-cho-san-thang-post243573.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Cùng em xuống chợ San Thàng…' (06/04/2017, đọc 14/10/2026): chợ cách TP Lai Châu khoảng 5km, trên quốc lộ 4D, họp thứ năm và chủ nhật; là chợ quê của người Mông, Giáy, Dao, Thái; không ai biết chợ có từ bao giờ; hàng bán là sản vật núi rừng, khăn, vải, hương, ghế mây tre đan.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00931"
+  }
+}
