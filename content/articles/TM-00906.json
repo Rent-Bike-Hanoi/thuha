@@ -24,7 +24,7 @@
     ],
     [
       "Cửa 1: đoạn tự đi được",
-      "<p>Theo <a href=\"https://vietnamnet.vn/dong-suoi-gan-ha-noi-thac-cua-tu-hut-du-khach-toi-tranh-nong-2156715.html\" target=\"_blank\" rel=\"noopener\">VietNamNet (22/6/2023)</a>, để đến cửa 1 bạn đi khoảng 2 km đường bộ và 700 m lội suối, và đoạn này du khách có thể tự đi. <a href=\"https://vietnamnet.vn/hanh-trinh-leo-deo-vuot-suoi-trekking-suoi-cua-tu-2202962.html\" target=\"_blank\" rel=\"noopener\">Bài VietNamNet ngày 22/8/2023</a> cũng mô tả phần khởi đầu là đường bằng khoảng 2 km, sau đó có đoạn ngâm nước lạnh khoảng 15–20 độ C, có chỗ sâu đến 1,5 m.</p>\n<p>Nói \"tự đi được\" không có nghĩa là dễ với mọi người. Đáy suối có phiến đá phủ rêu trơn, và nước có chỗ ngập quá ngực người lớn. Trẻ em, người không biết bơi hoặc người có bệnh tim mạch nên cân nhắc kỹ, và nên mặc áo phao kể cả ở đoạn này.</p>\n<p>Các bài báo không ghi thời gian cụ thể chỉ để đi tới cửa 1, vì vậy chúng tôi không đưa con số ở đây. Hãy hỏi người địa phương khi gửi xe, và tự đặt giờ quay đầu: nếu tới giờ đó chưa tới nơi, hãy quay lại.</p>\n<p>Sau trận lũ tháng 5/2024, theo lời một người làm tour trên <a href=\"https://vietnamnet.vn/con-suoi-7-thac-dep-la-o-thai-nguyen-bien-dang-sau-mua-lu-gay-tiec-nuoi-2280990.html\" target=\"_blank\" rel=\"noopener\">VietNamNet (15/5/2024)</a>, cửa 1 vẫn nguyên vẹn. Đây là thông tin từ một nguồn, tại thời điểm năm 2024; lối đi và độ sâu nước có thể đã thay đổi.</p>"
+      "<p>Theo <a href=\"https://vietnamnet.vn/dong-suoi-gan-ha-noi-thac-cua-tu-hut-du-khach-toi-tranh-nong-2156715.html\" target=\"_blank\" rel=\"noopener\">VietNamNet (22/6/2023)</a>, để đến cửa 1 bạn đi khoảng 2 km đường bộ và 700 m lội suối, và đoạn này du khách có thể tự đi. <a href=\"https://vietnamnet.vn/hanh-trinh-leo-deo-vuot-suoi-trekking-suoi-cua-tu-2202962.html\" target=\"_blank\" rel=\"noopener\">Bài VietNamNet ngày 22/8/2023</a> cũng mô tả phần khởi đầu là đường bằng khoảng 2 km, sau đó có đoạn ngâm nước lạnh khoảng 15–20 độ C, có chỗ sâu đến 1,5 m.</p>\n<p>Nói \"tự đi được\" không có nghĩa là dễ với mọi người. Đáy suối có phiến đá phủ rêu trơn, và theo nguồn trên, nước có chỗ sâu đến 1,5 m. Trẻ em, người không biết bơi hoặc người có bệnh tim mạch nên cân nhắc kỹ, và nên mặc áo phao kể cả ở đoạn này.</p>\n<p>Các bài báo không ghi thời gian cụ thể chỉ để đi tới cửa 1, vì vậy chúng tôi không đưa con số ở đây. Hãy hỏi người địa phương khi gửi xe, và tự đặt giờ quay đầu: nếu tới giờ đó chưa tới nơi, hãy quay lại.</p>\n<p>Sau trận lũ tháng 5/2024, theo lời một người làm tour trên <a href=\"https://vietnamnet.vn/con-suoi-7-thac-dep-la-o-thai-nguyen-bien-dang-sau-mua-lu-gay-tiec-nuoi-2280990.html\" target=\"_blank\" rel=\"noopener\">VietNamNet (15/5/2024)</a>, cửa 1 vẫn nguyên vẹn. Đây là thông tin từ một nguồn, tại thời điểm năm 2024; lối đi và độ sâu nước có thể đã thay đổi.</p>"
     ],
     [
       "Cửa 2 trở đi: vì sao bắt buộc người dẫn",
@@ -87,5 +87,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-00906"
+  "topic_id": "TM-00906",
+  "publishedAt": "2026-10-14T16:04:08.296389+00:00",
+  "publishedBy": "Claude Code (routine)"
 }

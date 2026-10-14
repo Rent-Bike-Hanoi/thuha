@@ -7,7 +7,7 @@
   "kind": "article",
   "art": "Rượu ngô",
   "tone": "black",
-  "keywords": "bản phố bắc hà, rượu ngô bản phố, rượu ngô bắc hà, men hồng mi, làng rượu bản phố",
+  "keywords": "rượu ngô bản phố bắc hà, bản phố bắc hà, rượu ngô bản phố, rượu ngô bắc hà, men hồng mi, làng rượu bản phố",
   "excerpt": "Bản Phố ở Bắc Hà là bản người Mông nấu rượu ngô. Các báo mô tả men khác nhau: hạt hồng mi hoặc cây kê. Đã uống rượu thì không lái xe máy.",
   "sections": [
     [
@@ -81,5 +81,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-00899"
+  "topic_id": "TM-00899",
+  "publishedAt": "2026-10-14T16:04:08.129708+00:00",
+  "publishedBy": "Claude Code (routine)"
 }
