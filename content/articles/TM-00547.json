@@ -1,0 +1,89 @@
+{
+  "id": "TM-00547",
+  "topic_id": "TM-00547",
+  "url": "/xe-dien/xe-may-dien-leo-doc/",
+  "title": "Xe máy điện leo dốc, lên cầu có yếu không: đọc thông số hãng",
+  "hub": "xe-dien",
+  "parent": "/xe-dien/",
+  "kind": "article",
+  "factoryVersion": 2,
+  "art": "Leo dốc",
+  "tone": "black",
+  "keywords": "xe máy điện leo dốc, khả năng leo dốc xe máy điện, xe điện lên cầu bị chậm, leo dốc 20% là gì, xe máy điện chở 2 người lên dốc, xe điện lên dốc hầm gửi xe",
+  "excerpt": "VinFast công bố xe leo dốc 20%: mẫu nhỏ còn 4–5 km/h, mẫu mạnh hơn 10 km/h. Leo dốc và chở nặng làm tụt quãng đường, nên lộ trình nhiều dốc cần xe công suất lớn hơn.",
+  "sections": [
+    [
+      "Câu trả lời ngắn: lên được, nhưng xe yếu chỉ còn vài km/h",
+      "<p>Xe máy điện leo được dốc, nhưng tốc độ khi leo khác xa nhau giữa các mẫu. Thông số chính hãng của VinFast cho thấy ở <strong>dốc 20%</strong>:</p><ul><li>Các mẫu nhỏ như Evo Lite Neo, Flazz, Evo Grand Lite chỉ giữ được khoảng <strong>4–5 km/h</strong>.</li><li>Các mẫu mạnh hơn như Vero X, Evo Grand giữ được <strong>10 km/h</strong>.</li></ul><p>Vì vậy câu hỏi đúng không phải \"có lên được không\" mà là \"lên chậm đến mức nào khi chở thêm người\". Leo dốc và chở nặng còn làm xe tốn điện hơn: chính VinFast khuyên hạn chế đi địa hình dốc núi nếu muốn đi được xa.</p><p>Lưu ý: xe Tailg mà Thuê xe máy Nguyễn Hà đang có không có thông số leo dốc trong các nguồn bài này dùng, nên bài không nêu con số cho xe đó.</p>"
+    ],
+    [
+      "Đọc dòng 'khả năng leo dốc 20%' trong thông số VinFast",
+      "<p>Dòng thông số leo dốc của VinFast có ba phần:</p><ol><li><strong>Độ dốc thử: 20%.</strong> Đây là độ dốc ghi theo phần trăm. Nguồn hãng không quy đổi ra độ, nên bài này cũng không quy đổi.</li><li><strong>Tải trọng khi thử</strong>: số người và cân nặng mỗi người.</li><li><strong>Tốc độ</strong> xe giữ được khi leo dốc đó, ví dụ 4–5 km/h hay 10 km/h.</li></ol><p>Phần thứ hai là chỗ VinFast tự ghi không thống nhất, và bài giữ cả hai cách ghi:</p><ul><li>Trang <a href=\"https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien\" target=\"_blank\" rel=\"noopener\">Câu hỏi thường gặp về xe máy điện</a> (đọc 14/10/2026) ghi điều kiện <strong>\"20% 2 người 65Kg\"</strong> cho Evo Lite Neo, Flazz và Vero X.</li><li><a href=\"https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwc7800e97/Document/Vinfast_EvoGrand_TSKT_FA_2025-07.pdf\" target=\"_blank\" rel=\"noopener\">Bảng thông số kỹ thuật Evo Grand</a> (PDF tháng 7/2025, đọc 14/10/2026) ghi <strong>\"20% 1 người 65 kg\"</strong>.</li></ul><p>Hai cách ghi này khác nhau về số người, và nguồn không giải thích vì sao. Khi so xe, bạn chỉ nên so những con số có cùng điều kiện thử, và hỏi lại hãng hoặc đại lý nếu điều kiện thử quan trọng với bạn.</p>"
+    ],
+    [
+      "Bảng so các mẫu 4–5 km/h và 10 km/h, công suất danh định và tối đa",
+      "<div class=\"table-scroll\"><table><thead><tr><th>Mẫu (VinFast)</th><th>Leo dốc 20%</th><th>Điều kiện ghi</th><th>Công suất</th><th>Nguồn</th></tr></thead><tbody><tr><td>Evo Lite Neo</td><td>4–5 km/h</td><td>2 người 65 kg</td><td>Không có trong nguồn</td><td>FAQ</td></tr><tr><td>Flazz</td><td>4–5 km/h</td><td>2 người 65 kg</td><td>Không có trong nguồn</td><td>FAQ</td></tr><tr><td>Vero X</td><td>10 km/h</td><td>2 người 65 kg</td><td>Không có trong nguồn</td><td>FAQ</td></tr><tr><td>Evo Grand Lite</td><td>4–5 km/h</td><td>1 người 65 kg</td><td>Danh định 1500 W, tối đa 1900 W</td><td>PDF 07/2025</td></tr><tr><td>Evo Grand</td><td>10 km/h</td><td>1 người 65 kg</td><td>Danh định 1500 W, tối đa 2250 W</td><td>PDF 07/2025</td></tr></tbody></table></div><p>Cặp Evo Grand Lite và Evo Grand đáng chú ý: cùng công suất danh định 1500 W, nhưng bản có công suất tối đa cao hơn (2250 W so với 1900 W) leo dốc 20% ở 10 km/h thay vì 4–5 km/h. Theo cùng bảng, tốc độ tối đa (1 người 65 kg) là 48 km/h và 70 km/h, tải trọng 130 kg, xe kèm pin nặng khoảng 82 kg và 92 kg.</p><p><a href=\"https://www.yadea.com.vn/cong-suat-dong-co-tren-xe-may-dien-la-gi-cach-tinh-cu-the/\" target=\"_blank\" rel=\"noopener\">Bài tư vấn của Yadea Việt Nam</a> (đăng 18/01/2025) nói cùng hướng: <em>\"Xe có công suất động cơ cao hơn sẽ leo dốc tốt hơn, đặc biệt khi chở thêm người hoặc hàng hóa.\"</em> Yadea gợi ý 500 W đến 1.000 W là đủ nếu chỉ đi trong thành phố, còn <em>\"nếu cần di chuyển xa hoặc leo dốc nhiều, nên chọn xe có công suất từ 2.000W trở lên\"</em>. Đây là lời khuyên chung của một hãng, không phải tiêu chuẩn.</p><p>Thông số có thể đã thay đổi theo đời xe; một số mẫu VinFast có thể không còn niêm yết. Thông số đầy đủ của Evo Grand xem bài <a href=\"/xe-dien/vinfast-evo-grand/\">VinFast Evo Grand</a>.</p>"
+    ],
+    [
+      "Chở hai người, chở đồ và leo dốc làm tụt quãng đường thế nào",
+      "<p>Bài <a href=\"https://vinfastauto.com/vn_vi/giai-dap-xe-may-dien-di-duoc-bao-nhieu-km-cho-mot-lan-sac\" target=\"_blank\" rel=\"noopener\">giải đáp quãng đường mỗi lần sạc</a> của VinFast (đọc 14/10/2026) liệt kê các yếu tố làm thay đổi quãng đường: trọng lượng người lái hoặc vật chở, tốc độ, <em>\"địa hình đường xá dốc hay phẳng\"</em> và loại pin. VinFast viết:</p><ul><li>Chở đồ nặng hoặc thêm người, tăng tải lên gấp đôi thì quãng đường giảm.</li><li>Đi nhanh, <em>\"đi vào nơi hẻm dốc cao, địa hình khó khăn hay ùn tắc\"</em> khiến xe tiêu hao nhiều năng lượng hơn.</li><li>Hãng khuyên hạn chế đi trên địa hình dốc núi, nơi đông đúc ùn tắc.</li></ul><p>VinFast không đưa con số phần trăm quãng đường bị giảm, nên bài không ước lượng. Điều rút ra: nếu hôm nay bạn chở hai người, qua nhiều cầu và dốc, đừng dựa vào quãng đường công bố. Quãng đường từng mẫu theo nhà sản xuất có ở bài <a href=\"/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/\">xe máy điện đi được bao nhiêu km một lần sạc</a>; nếu xe hết pin giữa đường, xem <a href=\"/xe-dien/xe-may-dien-het-pin-giua-duong/\">xe máy điện hết pin giữa đường</a>.</p>"
+    ],
+    [
+      "Đi dốc cầu, dốc hầm gửi xe với xe điện yếu",
+      "<p>Bài không nêu độ dốc của cầu hay hầm gửi xe nào ở Hà Nội, vì không có số liệu chính thức. Một số cách làm theo đúng tinh thần các thông số trên:</p><ul><li><strong>Chuẩn bị tinh thần xe chậm</strong>: với xe chỉ giữ 4–5 km/h ở dốc 20%, lên dốc dài xe sẽ đi rất chậm. Đi sát lề phải, không tạt ngang, để xe phía sau dễ vượt.</li><li><strong>Bớt tải khi có thể</strong>: dốc hầm gửi xe ngắn, người ngồi sau có thể xuống đi bộ; VinFast ghi rõ tải nặng làm xe tốn năng lượng hơn.</li><li><strong>Ga đều tay</strong>, không giật ga liên tục giữa dốc.</li><li><strong>Xuống dốc</strong>: giữ phanh đều, không thả trôi. Kỹ năng phanh, ga cho người mới có trong bài <a href=\"/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/\">cách đi xe ga cho người mới</a>.</li><li><strong>Pin yếu thì tránh lộ trình nhiều dốc</strong>, vì đây là lúc xe tiêu hao năng lượng nhiều.</li></ul>"
+    ],
+    [
+      "Thuê xe điện khi lộ trình nhiều dốc: hỏi gì trước",
+      "<p>Thuê xe máy Nguyễn Hà (Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên) có xe máy điện Tailg màu đen nhám. Bài không có thông số leo dốc của xe này; nếu lộ trình của bạn nhiều cầu, dốc hoặc hay chở hai người, hãy nói trước với cửa hàng để được tư vấn, thay vì đoán. Giới thiệu chung về các mẫu Tailg ở bài <a href=\"/xe-dien/xe-may-dien-tailg/\">xe máy điện Tailg</a>.</p><p>Giá thuê xe điện tại cửa hàng: 600–800 nghìn đồng một tuần, 1,5–1,8 triệu đồng một tháng; giá theo ngày tùy mẫu. Xem thêm ở <a href=\"/bang-gia/\">bảng giá</a> hoặc gọi 0334 699 969 (08:00–17:00 hằng ngày). Nếu cần xe xăng cho tuyến nhiều dốc, hỏi cửa hàng xe đang có tại <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>.</p>"
+    ]
+  ],
+  "faqTitle": "Hỏi nhanh về xe máy điện leo dốc",
+  "faq": [
+    [
+      "Xe máy điện chở 2 người có lên dốc được không?",
+      "Theo trang FAQ của VinFast, Evo Lite Neo và Flazz leo dốc 20% với 2 người 65 kg ở 4–5 km/h, Vero X ở 10 km/h. Lên được nhưng chậm, và tốn điện hơn."
+    ],
+    [
+      "Vì sao hai tài liệu VinFast ghi điều kiện thử khác nhau?",
+      "Trang FAQ ghi 2 người 65 kg, bảng thông số Evo Grand ghi 1 người 65 kg. Nguồn không giải thích; chỉ so các xe có cùng điều kiện thử."
+    ],
+    [
+      "Nên chọn xe công suất bao nhiêu nếu hay leo dốc?",
+      "Bài tư vấn của Yadea khuyên từ 2.000 W trở lên nếu đi xa hoặc leo dốc nhiều; 500–1.000 W đủ cho đi lại trong thành phố. Đây là lời khuyên của hãng, không phải quy chuẩn."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien",
+      "quote": "VinFast, trang Câu hỏi thường gặp về xe máy điện (đọc 14/10/2026): Khả năng leo dốc của Xe máy điện EVO LITE NEO: 'Khả năng leo dốc, 20% 2 người 65Kg- 4~5km/h'; FLAZZ: 'Khả năng leo dốc, 20% 2 người 65Kg: 4~5 km/h'; VERO X: 'Khả năng leo dốc, 20% 2 người 65Kg: 10km/h'.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwc7800e97/Document/Vinfast_EvoGrand_TSKT_FA_2025-07.pdf",
+      "quote": "VinFast, bảng Thông số kỹ thuật Evo Grand Lite / Evo Grand (PDF 2025-07, đọc 14/10/2026): công suất danh định 1500 W cả hai; công suất tối đa 1900 W (Lite) và 2250 W (Evo Grand); 'Khả năng leo dốc, 20% 1 người 65 kg': 4-5 km/h (Lite), 10 km/h (Evo Grand); tốc độ tối đa (1 người 65 kg) 48 km/h và 70 km/h; tải trọng 130 kg; trọng lượng xe và pin khoảng 82 kg và 92 kg; động cơ chống nước IP67.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://vinfastauto.com/vn_vi/giai-dap-xe-may-dien-di-duoc-bao-nhieu-km-cho-mot-lan-sac",
+      "quote": "VinFast, 'Giải đáp: Xe máy điện sạc đầy đi được bao nhiêu km?' (đọc 14/10/2026): quãng đường phụ thuộc trọng lượng người lái hoặc tải trọng vật chở, tốc độ, 'địa hình đường xá dốc hay phẳng' và loại pin; nếu chở đồ nặng hoặc thêm người, tăng tải lên gấp đôi thì quãng đường giảm; đi nhanh, 'đi vào nơi hẻm dốc cao, địa hình khó khăn hay ùn tắc' khiến xe tiêu hao nhiều năng lượng hơn; khuyên hạn chế đi trên địa hình dốc núi, nơi đông đúc ùn tắc.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.yadea.com.vn/cong-suat-dong-co-tren-xe-may-dien-la-gi-cach-tinh-cu-the/",
+      "quote": "Yadea Việt Nam, 'Công suất động cơ trên xe máy điện là gì? Cách tính cụ thể' (đăng 18/01/2025, đọc 14/10/2026): 'Xe có công suất động cơ cao hơn sẽ leo dốc tốt hơn, đặc biệt khi chở thêm người hoặc hàng hóa.' 'Nếu bạn chỉ đi lại trong thành phố, công suất 500W đến 1.000W là đủ. Nếu cần di chuyển xa hoặc leo dốc nhiều, nên chọn xe có công suất từ 2.000W trở lên.'",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "fleet.xe điện: có xe máy điện Tailg màu đen nhám (chủ cửa hàng xác nhận hãng, 10/2026); prices.xe điện: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng; phone: 0334 699 969; hours: 08:00–17:00 hằng ngày",
+      "checked": "2026-10-14"
+    }
+  ],
+  "publishedAt": "2026-10-14T01:51:04.269811+00:00",
+  "publishedBy": "Claude Code (routine)"
+}

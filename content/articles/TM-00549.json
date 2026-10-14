@@ -1,0 +1,87 @@
+{
+  "id": "TM-00549",
+  "topic_id": "TM-00549",
+  "url": "/bao-duong/doc-thong-so-lop-xe-may/",
+  "title": "Cách đọc thông số lốp xe máy: 80/90-14 M/C 40P nghĩa là gì",
+  "hub": "bao-duong",
+  "parent": "/bao-duong/",
+  "kind": "article",
+  "factoryVersion": 2,
+  "art": "Thông số lốp",
+  "tone": "gold",
+  "keywords": "cách đọc thông số lốp xe máy, thông số lốp xe máy, 80/90-14 nghĩa là gì, chỉ số tải trọng tốc độ lốp xe máy, lốp M/C là gì, thay lốp xe máy đúng cỡ",
+  "excerpt": "80/90-14 M/C 40P: lốp rộng 80 mm, chiều cao bằng 90% bề rộng, vành 14 inch, lốp xe máy (M/C), 40 là chỉ số tải và P là ký hiệu tốc độ, tra theo bảng của hãng lốp.",
+  "sections": [
+    [
+      "Câu trả lời ngắn",
+      "<p>Dãy ký hiệu trên hông lốp như <strong>80/90-14 M/C 40P</strong> đọc theo thứ tự:</p><ul><li><strong>80</strong>: bề rộng lốp, tính bằng mm.</li><li><strong>90</strong>: chiều cao lốp tính theo phần trăm bề rộng (90%).</li><li><strong>14</strong>: đường kính vành phù hợp, tính bằng inch.</li><li><strong>M/C</strong>: lốp dành cho xe máy (Motorcycle).</li><li><strong>40</strong>: chỉ số tải, phải tra bảng của hãng lốp để ra số kg.</li><li><strong>P</strong>: ký hiệu tốc độ tối đa cho phép, cũng tra theo bảng.</li></ul><p>Cách đọc này theo bài <a href=\"https://www.bridgestone.com.vn/vi/thong-tin-huu-ich/chia-se-ve-lop/cach-doc-thong-so-lop-xe-may-de-nhat\" target=\"_blank\" rel=\"noopener\">Cách đọc thông số lốp xe máy</a> của Bridgestone Việt Nam (cập nhật 23/09/2025, đọc 14/10/2026). Cỡ 80/90-14M/C 40P là cỡ lốp trước của Honda Air Blade 125 theo sách hướng dẫn sử dụng của Honda.</p><p>Khi thay lốp, quy tắc của Honda là dùng lốp khuyên dùng, hoặc lốp có <strong>cùng kích cỡ, cấu trúc, dải tốc độ và phạm vi tải trọng</strong> với lốp cũ.</p>"
+    ],
+    [
+      "Đọc từng phần: bề rộng, tỷ lệ chiều cao, vành, M/C",
+      "<p>Bridgestone giải thích bằng ví dụ <strong>100/70 – 17 M/C 49P</strong>:</p><div class=\"table-scroll\"><table><thead><tr><th>Phần</th><th>Ý nghĩa theo Bridgestone</th><th>Trong ví dụ</th></tr></thead><tbody><tr><td>100</td><td>Bề rộng vỏ</td><td>100 mm</td></tr><tr><td>70</td><td>Chiều cao vỏ tính theo % bề rộng</td><td>70%</td></tr><tr><td>17</td><td>Đường kính vành phù hợp</td><td>17 inch</td></tr><tr><td>M/C</td><td>Vỏ dành cho xe máy (Motorcycle)</td><td>–</td></tr><tr><td>49</td><td>Khả năng chịu tải, tính theo bảng</td><td>185 kg</td></tr><tr><td>P</td><td>Tốc độ tối đa cho phép</td><td>150 km/h</td></tr></tbody></table></div><p>Bridgestone còn đưa một kiểu ghi khác: <strong>4.60 – L – 18 4PR</strong>. Ở đây 4,60 là độ rộng tính bằng inch, L là tốc độ tối đa 120 km/h, 18 là vành 18 inch, và 4PR tương đương 4 lớp bố.</p><p>Con số đường kính vành là phần không được nhầm. Bridgestone ghi: lốp lắp lên vành nhỏ hơn cỡ lốp gây \"bó vỏ\", có thể bung lốp; vành lớn hơn làm lốp bị kéo dãn, có thể rách vỏ.</p>"
+    ],
+    [
+      "Chỉ số tải và ký hiệu tốc độ: đọc theo bảng của hãng lốp",
+      "<p>Hai ký tự cuối (ví dụ 40P, 49P) không phải số kg hay km/h trực tiếp. Chúng là mã, và phải tra bảng của hãng lốp. Trong bài của Bridgestone, chỉ có ba giá trị được quy đổi:</p><ul><li>Chỉ số tải <strong>49</strong> tương ứng <strong>185 kg</strong>.</li><li>Ký hiệu tốc độ <strong>P</strong> tương ứng <strong>150 km/h</strong>.</li><li>Ký hiệu tốc độ <strong>L</strong> tương ứng <strong>120 km/h</strong>.</li></ul><p>Bài này không quy đổi các chỉ số 40, 43, 48 hay 52 sang kg, vì nguồn đã đọc không có bảng cho các số đó. Khi cần biết, hãy hỏi tiệm lốp hoặc xem bảng của chính hãng lốp bạn định mua.</p><p>Điều quan trọng hơn con số là nguyên tắc: khi thay, chỉ số tải và ký hiệu tốc độ của lốp mới phải tương ứng với lốp cũ, đúng như yêu cầu \"cùng dải tốc độ và phạm vi tải trọng\" trong sách Honda. Muốn biết xe chở được bao nhiêu kg theo nhà sản xuất, xem bài <a href=\"/xe-may/xe-may-cho-duoc-bao-nhieu-kg/\">xe máy chở được bao nhiêu kg</a>.</p>"
+    ],
+    [
+      "Ví dụ thật: cỡ lốp Air Blade 125 và 160 trong sách Honda",
+      "<p>Bảng thông số kỹ thuật trong sách hướng dẫn sử dụng <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">Air Blade</a> của Honda Việt Nam (đọc 14/10/2026) ghi:</p><div class=\"table-scroll\"><table><thead><tr><th>Phiên bản</th><th>Lốp trước</th><th>Lốp sau</th></tr></thead><tbody><tr><td>ACA160CAF (Air Blade 160)</td><td>90/80-14M/C 43P</td><td>100/80-14M/C 48P</td></tr><tr><td>ACA125CBF / ACA125CAF (Air Blade 125)</td><td>80/90-14M/C 40P</td><td>90/90-14M/C 52P</td></tr></tbody></table></div><p>Đọc theo cách ở trên: lốp trước Air Blade 160 rộng 90 mm, chiều cao bằng 80% bề rộng, vành 14 inch. Lốp sau Air Blade 125 rộng 90 mm, chiều cao 90%, vành 14 inch. Cả bốn lốp đều cho vành 14 inch, nhưng khác bề rộng, tỷ lệ chiều cao và chỉ số tải, nên lốp trước và lốp sau không đổi cho nhau được, và lốp 125 không mặc định lắp cho 160.</p><p>Sách ghi kiểu lốp là <strong>lốp bố chéo không săm</strong>, và lốp khuyên dùng gồm CHENG SHIN TIRE và VEE RUBBER theo từng loại xe; ví dụ lốp trước ACA160CAF là CHENG SHIN C-6135NF hoặc VEE RUBBER V431F. Xe khác có cỡ lốp khác; luôn đối chiếu sách đúng mẫu xe hoặc dãy chữ trên lốp đang lắp.</p>"
+    ],
+    [
+      "Thay lốp đúng: cùng cỡ, cấu trúc, tải, tốc độ; không lắp săm vào lốp không săm",
+      "<p>Mục Lốp xe (tr. 89) trong sách Air Blade nêu rõ:</p><ul><li><em>\"Luôn sử dụng lốp xe đúng kích cỡ, đúng chủng loại theo như khuyến cáo trong hướng dẫn sử dụng này.\"</em> Honda khuyên đến cửa hàng Honda ủy nhiệm để thay lốp.</li><li>Mỗi lần thay: <em>\"Sử dụng lốp khuyên dùng hoặc loại lốp có cùng kích cỡ, cấu trúc, dải tốc độ và phạm vi tải trọng tương ứng với loại cũ để thay thế.\"</em></li><li><em>\"Không lắp thêm săm vào trong lốp xe. Tích tụ nhiệt quá mức có thể làm nổ lốp.\"</em></li><li><em>\"Loại xe này chỉ sử dụng lốp không săm.\"</em> Vành được thiết kế riêng cho lốp không săm; khi tăng tốc hoặc phanh gấp, lốp có săm sẽ trượt ra khỏi vành và nhanh chóng xì hơi.</li></ul><p>Đây là hướng dẫn cho Air Blade; mẫu xe khác có thể khác, nên xem sách đúng xe. Khi thủng lốp không săm, cách vá dùi, bơm keo và khi nào phải thay hẳn có ở bài <a href=\"/xe-may/va-lop-khong-sam-xe-may/\">vá lốp không săm xe máy</a>. Khi nào lốp mòn đến mức cần thay, xem <a href=\"/bao-duong/lop-xe-may-bao-lau-thay/\">lốp xe máy bao lâu thay</a>; áp suất lốp sau khi lắp, xem <a href=\"/bao-duong/xe-may/ap-suat-lop/\">áp suất lốp xe máy</a>.</p>"
+    ],
+    [
+      "Xe thuê thủng, xịt lốp: báo cửa hàng trước khi thay",
+      "<p>Nếu đang thuê xe mà lốp có vấn đề, hãy gọi cửa hàng trước khi để tiệm dọc đường thay lốp. Ở Thuê xe máy Nguyễn Hà, theo chính sách cửa hàng, thủng săm, xịt lốp do khách tự chịu; lỗi của xe thì cửa hàng chịu phần lớn chi phí; mọi việc xử lý theo hợp đồng. Báo trước giúp hai bên thống nhất loại lốp và cỡ lốp, tránh lắp sai cỡ.</p><p>Nếu lốp nổ khi đang chạy, ưu tiên giữ lái và dừng xe an toàn trước, xem bài <a href=\"/kinh-nghiem/xe-may-no-lop-khi-dang-chay/\">xe máy nổ lốp khi đang chạy</a>. Liên hệ cửa hàng: 0334 699 969 (08:00–17:00 hằng ngày).</p>"
+    ]
+  ],
+  "faqTitle": "Hỏi nhanh về thông số lốp xe máy",
+  "faq": [
+    [
+      "Lốp M/C là gì?",
+      "Theo Bridgestone Việt Nam, M/C nghĩa là vỏ dành cho xe máy (Motorcycle)."
+    ],
+    [
+      "Chữ P trên lốp xe máy nghĩa là gì?",
+      "P là ký hiệu tốc độ tối đa cho phép; theo ví dụ của Bridgestone, P tương ứng 150 km/h. Các ký hiệu khác cần tra bảng của hãng lốp."
+    ],
+    [
+      "Lốp không săm có lắp thêm săm vào được không?",
+      "Sách Honda Air Blade ghi không lắp thêm săm vào lốp, vì tích tụ nhiệt quá mức có thể làm nổ lốp. Mẫu khác hãy xem sách đúng xe."
+    ],
+    [
+      "Thay lốp to hơn cỡ cũ có được không?",
+      "Honda khuyên dùng lốp có cùng kích cỡ, cấu trúc, dải tốc độ và phạm vi tải trọng với loại cũ. Bridgestone cũng cảnh báo lốp không đúng vành có thể bung hoặc rách vỏ."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://www.bridgestone.com.vn/vi/thong-tin-huu-ich/chia-se-ve-lop/cach-doc-thong-so-lop-xe-may-de-nhat",
+      "quote": "Bridgestone Việt Nam, 'Cách đọc thông số lốp xe máy đơn giản và chuẩn xác nhất' (cập nhật 23/09/2025 theo siêu dữ liệu trang, đọc 14/10/2026): ví dụ 100/70 – 17 M/C 49P: '100/70' là bề rộng vỏ (100 mm) và chiều cao vỏ tính theo % bề rộng (70%); '17' là đường kính vành phù hợp (17 inch); M/C là vỏ dành cho xe máy (Motorcycle); '49' là khả năng chịu tải tính theo bảng (185 kg); 'P' là tốc độ tối đa cho phép (150 km/h). Ví dụ kiểu ghi khác 4.60 – L – 18 4PR: 4,60 inch độ rộng, L tốc độ tối đa 120 km/h, vành 18 inch, 4PR tương đương 4 lớp bố. Lốp không đúng loại vành: vành nhỏ hơn lốp gây 'bó vỏ', có thể bung lốp; vành lớn hơn làm lốp bị kéo dãn, có thể rách vỏ.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), Thông số kỹ thuật: lốp trước ACA160CAF 90/80-14M/C 43P, ACA125CBF/ACA125CAF 80/90-14M/C 40P; lốp sau ACA160CAF 100/80-14M/C 48P, ACA125CBF/ACA125CAF 90/90-14M/C 52P; kiểu lốp: lốp bố chéo không săm; lốp khuyên dùng gồm CHENG SHIN TIRE và VEE RUBBER theo từng loại xe (ví dụ trước ACA160CAF: CHENG SHIN C-6135NF, VEE RUBBER V431F).",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), mục Lốp xe (tr. 89): 'Luôn sử dụng lốp xe đúng kích cỡ, đúng chủng loại theo như khuyến cáo trong hướng dẫn sử dụng này.' Hãy đến Cửa hàng Honda ủy nhiệm để thay lốp. Mỗi khi thay: 'Sử dụng lốp khuyên dùng hoặc loại lốp có cùng kích cỡ, cấu trúc, dải tốc độ và phạm vi tải trọng tương ứng với loại cũ để thay thế.' 'Không lắp thêm săm vào trong lốp xe. Tích tụ nhiệt quá mức có thể làm nổ lốp.' 'Loại xe này chỉ sử dụng lốp không săm. Vành xe được thiết kế dành riêng cho loại lốp không săm, trong quá trình tăng tốc hoặc phanh gấp thì kiểu lốp có săm sẽ bị trượt ra khỏi vành và nhanh chóng xì hơi.'",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu; phone: 0334 699 969; hours: 08:00–17:00 hằng ngày",
+      "checked": "2026-10-14"
+    }
+  ],
+  "publishedAt": "2026-10-14T01:51:04.579031+00:00",
+  "publishedBy": "Claude Code (routine)"
+}

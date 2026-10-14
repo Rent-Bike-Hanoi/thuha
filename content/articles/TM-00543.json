@@ -1,0 +1,103 @@
+{
+  "id": "TM-00543",
+  "topic_id": "TM-00543",
+  "url": "/xe-may/den-bao-tren-dong-ho-xe-may/",
+  "title": "Các đèn báo trên đồng hồ xe máy: đèn nào sáng phải dừng xe",
+  "hub": "xe-may",
+  "parent": "/xe-may/",
+  "kind": "article",
+  "factoryVersion": 2,
+  "art": "Đèn đồng hồ",
+  "tone": "gold",
+  "keywords": "đèn báo trên đồng hồ xe máy, ý nghĩa đèn báo xe máy honda, đèn báo quá nhiệt xe máy, đèn báo sạc bình điện sáng, đèn báo N xe số, đèn báo xe ga sáng khi đang chạy",
+  "excerpt": "Đèn sáng rồi tắt ngay khi bật khóa là xe tự kiểm tra. Khi đang chạy: đèn quá nhiệt sáng thì tấp vào lề tắt máy; đèn MIL, sạc bình điện sáng thì giảm tốc và đưa xe đi kiểm tra sớm.",
+  "sections": [
+    [
+      "Câu trả lời ngắn",
+      "<p>Trên một chiếc xe lạ, bạn chỉ cần chia các đèn trên đồng hồ thành ba nhóm. Bảng dưới tóm tắt theo sách hướng dẫn sử dụng của Honda Việt Nam cho <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener\">Air Blade</a>, <a href=\"https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf\" target=\"_blank\" rel=\"noopener\">Vision</a> và <a href=\"https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf\" target=\"_blank\" rel=\"noopener\">Wave Alpha</a> (đọc 14/10/2026). Xe Yamaha, SYM hay xe máy điện có bộ đèn khác, nên hãy đối chiếu sách của đúng mẫu xe bạn đang đi.</p><div class=\"table-scroll\"><table><thead><tr><th>Nhóm</th><th>Đèn</th><th>Việc cần làm</th></tr></thead><tbody><tr><td>Phải dừng xe</td><td>Đèn báo quá nhiệt dung dịch làm mát (xe làm mát bằng dung dịch như Air Blade)</td><td>Tấp vào lề, tắt máy bằng khóa điện, chờ máy nguội rồi kiểm tra</td></tr><tr><td>Kiểm tra sớm</td><td>Đèn báo lỗi PGM-FI (MIL), đèn trạng thái sạc bình điện, đèn ABS sáng khi đang chạy</td><td>Giảm tốc độ, đi cẩn thận và đưa xe đi kiểm tra càng sớm càng tốt</td></tr><tr><td>Chỉ là trạng thái</td><td>Chiếu xa, xi nhan, số N, vị trí số, Idling Stop, khóa thông minh</td><td>Không phải lỗi; chỉ cho biết xe đang ở chế độ nào</td></tr></tbody></table></div><p>Riêng việc vài đèn sáng một lúc rồi tắt ngay khi vừa vặn khóa sang On là bình thường. Sách Honda ghi chung một nguyên tắc: nếu đèn báo nào không hiển thị đúng chức năng, mang xe đến cửa hàng Honda ủy nhiệm để kiểm tra.</p>"
+    ],
+    [
+      "Bật khóa thấy nhiều đèn sáng rồi tắt: vì sao bình thường",
+      "<p>Nhiều người thuê xe lần đầu giật mình khi vặn khóa thấy cả cụm đèn bật lên. Đó là bước tự kiểm tra. Theo sách Air Blade, đèn báo lỗi PGM-FI (MIL) <strong>sáng trong giây lát khi vặn khóa sang On</strong>; sách Vision ghi cùng nội dung cho đèn MIL. Trên các bản Air Blade có ABS (ACA160CAF/ACA125CAF), đèn ABS sáng khi vặn khóa sang On và <strong>tắt khi xe đạt khoảng 10 km/h</strong>, nên đèn ABS còn sáng lúc xe đứng yên chưa phải là lỗi.</p><p>Đèn khóa thông minh trên Air Blade cũng có nhịp riêng: sáng khi xe hoàn tất xác nhận với FOB (chìa khóa thông minh) và tắt khi vặn khóa sang On.</p><p>Điều đáng lo là hai trường hợp ngược lại:</p><ul><li>Một đèn lẽ ra phải sáng thoáng qua lúc bật khóa nhưng không sáng chút nào.</li><li>Một đèn lẽ ra phải tắt (MIL sau giây lát, ABS sau khi xe chạy được khoảng 10 km/h) nhưng vẫn sáng.</li></ul><p>Cả hai đều thuộc trường hợp sách gọi là đèn \"không hiển thị đúng chức năng\". Với xe thuê, hãy chụp lại đồng hồ và báo ngay cho bên cho thuê trước khi đi xa.</p>"
+    ],
+    [
+      "Đèn phải dừng xe ngay: quá nhiệt dung dịch làm mát",
+      "<p>Đây là đèn duy nhất trong bộ đèn Air Blade mà sách hướng dẫn bảo bạn đưa xe vào lề. Mục Tìm kiếm hư hỏng (tr. 111–112) mô tả động cơ quá nhiệt khi đèn báo quá nhiệt dung dịch làm mát sáng, hoặc khi xe tăng tốc chậm. Quy trình Honda đưa ra gồm 5 bước:</p><ol><li>Dừng động cơ bằng khóa điện.</li><li>Để động cơ nguội với khóa ở vị trí Off.</li><li>Kiểm tra ống két tản nhiệt có rò rỉ không. Nếu có rò rỉ: không khởi động lại, mang xe đến cửa hàng Honda ủy nhiệm.</li><li>Kiểm tra mức dung dịch làm mát, đổ thêm nếu cần.</li><li>Nếu mọi thứ bình thường, có thể đi tiếp nhưng quan sát kỹ đèn.</li></ol><p>Sách viết rõ: <em>\"Tiếp tục lái xe khi động cơ bị quá nhiệt có thể gây hư hỏng nghiêm trọng cho động cơ.\"</em> Sách cũng lưu ý để xe nổ cầm chừng lâu có thể làm đèn này sáng, ví dụ khi đứng chờ lâu mà không tắt máy.</p><p>Xe số nhỏ như Wave Alpha không có đèn này trong danh sách bảng đồng hồ của sách. Nếu máy nóng bất thường, quạt két nước chạy liên tục hay lý do khiến máy nóng, xem bài <a href=\"/bao-duong/xe-may-bi-nong-may-quat-ket-nuoc-chay-lien-tuc/\">xe máy bị nóng máy, quạt két nước chạy liên tục</a>.</p>"
+    ],
+    [
+      "Đèn cần kiểm tra sớm: MIL, sạc bình điện, ABS sáng khi chạy",
+      "<p>Ba đèn này không bắt bạn dừng ngay như đèn quá nhiệt, nhưng cũng không nên đi tiếp nhiều ngày rồi mới xem.</p><ul><li><strong>Đèn báo lỗi PGM-FI (MIL) sáng khi đang lái</strong>: sách Air Blade ghi có thể hệ thống phun xăng PGM-FI trục trặc nghiêm trọng; hãy giảm tốc độ và mang xe đi kiểm tra càng sớm càng tốt. Cách đếm số lần nháy để đọc mã lỗi nằm ở bài <a href=\"/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/\">đèn báo lỗi FI nháy trên xe máy Honda</a>.</li><li><strong>Đèn trạng thái sạc bình điện sáng khi đang lái</strong>: theo sách Air Blade, có thể điện áp bình điện yếu hoặc hiệu suất bình giảm; mang xe đi kiểm tra. Với xe thuê, báo bên cho thuê ngay khi thấy đèn này sáng.</li><li><strong>Đèn ABS</strong>: bình thường tắt khi xe đạt khoảng 10 km/h. Nếu đèn sáng lại hoặc không tắt khi xe đã chạy, đọc bài <a href=\"/xe-may/phanh-abs-xe-may-den-bao-abs/\">phanh ABS xe máy và đèn báo ABS</a> để biết phanh còn hoạt động thế nào và cần làm gì.</li></ul><p>Air Blade còn có một đèn báo cảnh báo thuộc hệ thống báo động chống trộm; đèn này gắn với chức năng chống trộm, không phải lỗi động cơ.</p>"
+    ],
+    [
+      "Đèn trạng thái: chiếu xa, rẽ, số N, vị trí số, Idling Stop, Smart Key",
+      "<p>Phần lớn đèn trên đồng hồ chỉ cho biết xe đang ở trạng thái nào. Chúng không báo lỗi, nhưng đọc sai thì dễ lái sai:</p><ul><li><strong>Đèn báo chế độ chiếu xa</strong> (có trên cả Air Blade, Vision, Wave Alpha): đèn pha đang ở pha. Đi trong phố hoặc gặp xe ngược chiều, hãy chuyển về cốt.</li><li><strong>Đèn báo rẽ trái/phải</strong>: nháy theo xi nhan. Nếu đèn vẫn nháy sau khi đã qua chỗ rẽ, bạn quên tắt xi nhan.</li><li><strong>Đèn báo số N</strong> (Wave Alpha): sáng khi hộp số ở số N. Trên xe số, hãy nhìn đèn này trước khi đề máy.</li><li><strong>Đèn báo vị trí số</strong> (Wave Alpha): hiển thị các số từ 1 đến 4. Đồng hồ tốc độ của Wave Alpha còn có dải tới hạn tốc độ số, cho biết dải tốc độ thích hợp với mỗi số.</li><li><strong>Đèn báo Idling Stop</strong> (Air Blade, Vision): liên quan chức năng tự ngắt máy khi dừng. Đèn này sáng không có nghĩa xe hỏng.</li><li><strong>Đèn khóa thông minh</strong> (Air Blade, Vision trừ loại V, VI V): sáng khi xác nhận xong với FOB, tắt khi vặn khóa sang On.</li></ul><p>Người chưa quen xe số có thể đọc thêm <a href=\"/kinh-nghiem/cach-di-xe-so/\">cách đi xe số</a> để hiểu khi nào nhìn đèn N và đèn vị trí số.</p>"
+    ],
+    [
+      "Đồng hồ xăng và đèn thay dầu: còn bao nhiêu khi chạm vạch E",
+      "<p>Lượng xăng còn lại khi đồng hồ chạm mức thấp khác nhau theo từng mẫu. Ba sách Honda ghi:</p><div class=\"table-scroll\"><table><thead><tr><th>Mẫu xe</th><th>Mốc trên đồng hồ</th><th>Xăng còn lại theo sách</th></tr></thead><tbody><tr><td>Air Blade</td><td>Chỉ còn vạch thứ nhất (vạch E)</td><td>Khoảng 1,2 L; vạch nhấp nháy khi xăng giảm thêm</td></tr><tr><td>Vision</td><td>Vạch E nhấp nháy</td><td>Xấp xỉ 0,9 L</td></tr><tr><td>Wave Alpha</td><td>Kim ở vạch đỏ</td><td>Xấp xỉ 1,02 L</td></tr></tbody></table></div><p>Sách Vision khuyên đổ xăng khi đồng hồ chạm vạch E, vì <em>\"chạy xe trong tình trạng hết xăng có thể làm động cơ hoạt động bất thường/bỏ máy, gây hư hỏng cho bộ chuyển đổi chất xúc tác\"</em>. Nếu kim hoặc vạch không lên dù vừa đổ xăng, xem bài <a href=\"/bao-duong/dong-ho-xang-xe-may-khong-len/\">đồng hồ xăng xe máy không lên</a>.</p><p>Đèn báo OIL CHANGE trên Air Blade là đèn nhắc lịch: bật khi quãng đường đạt khoảng thời gian thay dầu và không tắt cho đến khi được đặt lại. Đèn này sáng không có nghĩa máy hết dầu ngay lúc đó. Cách đặt lại sau khi thay nhớt ở bài <a href=\"/xe-may/cai-lai-den-bao-thay-dau-honda/\">cài lại đèn báo thay dầu Honda</a>.</p>"
+    ],
+    [
+      "Khi thuê xe: kiểm tra đồng hồ trước lúc nhận",
+      "<p>Thói quen đơn giản nhất là nhìn đồng hồ ngay lúc nhận xe: vặn khóa sang On, xem đèn nào sáng thoáng qua rồi tắt, đèn nào còn sáng, kim hoặc vạch xăng đang ở đâu. Nếu có đèn lạ, hỏi ngay bên cho thuê thay vì đoán.</p><p>Ở Thuê xe máy Nguyễn Hà (Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên), xe cho thuê gồm xe 50cc như SYM Elite 50, một xe ga 50cc màu trắng, Cub 50 và xe máy điện Tailg; đồng hồ của các xe này không giống bảng Honda ở trên. Khách trả xe với khoảng 0,5–1 lít xăng, nên khi nhận xe bạn cũng nên ghi lại mức xăng. Mẫu xe đang có và giá xem tại <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>; gặp đèn lạ trên đường, gọi 0334 699 969 (08:00–17:00 hằng ngày).</p>"
+    ]
+  ],
+  "faqTitle": "Hỏi nhanh về đèn báo trên đồng hồ xe máy",
+  "faq": [
+    [
+      "Đèn nào trên đồng hồ xe máy sáng là phải dừng xe ngay?",
+      "Trên Air Blade là đèn báo quá nhiệt dung dịch làm mát. Sách Honda bảo đưa xe vào lề, tắt máy bằng khóa điện, chờ máy nguội rồi kiểm tra ống két và mức dung dịch làm mát."
+    ],
+    [
+      "Đèn MIL sáng một chút khi bật khóa rồi tắt có sao không?",
+      "Không. Sách Air Blade và Vision đều ghi đèn MIL sáng trong giây lát khi vặn khóa sang On. Chỉ đáng lo khi đèn sáng lúc đang lái hoặc không tắt."
+    ],
+    [
+      "Đèn ABS sáng lúc xe đứng yên có phải hỏng ABS không?",
+      "Không hẳn. Trên bản Air Blade có ABS, đèn sáng khi vặn khóa sang On và tắt khi xe đạt khoảng 10 km/h. Đèn không tắt sau đó mới cần kiểm tra."
+    ],
+    [
+      "Xe Yamaha hay xe máy điện có các đèn giống Honda không?",
+      "Không chắc. Bài này chỉ dựa trên sách Air Blade, Vision và Wave Alpha; hãng khác và xe điện có bộ đèn riêng, nên hãy đối chiếu sách của đúng mẫu xe."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (đọc 14/10/2026), mục Các đèn báo (tr. 27–29): 'Nếu có một đèn báo nào không hiển thị đúng chức năng, hãy mang xe đến Cửa hàng Honda ủy nhiệm để kiểm tra.' Danh sách: đèn báo chế độ chiếu xa; đèn báo quá nhiệt dung dịch làm mát; đèn báo cảnh báo (hệ thống báo động chống trộm); đèn báo lỗi PGM-FI (MIL) sáng trong giây lát khi vặn khóa sang On; đèn báo trạng thái sạc bình điện; đèn báo Idling Stop; đèn báo Hệ thống khóa THÔNG MINH (sáng khi hoàn tất xác nhận với FOB, tắt khi vặn khóa sang On); đèn báo rẽ trái/phải; đèn báo ABS (bản ACA160CAF/ACA125CAF) sáng khi vặn khóa sang On và tắt khi xe đạt khoảng 10 km/h.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), Tìm kiếm hư hỏng tr. 111–112: động cơ quá nhiệt khi đèn báo quá nhiệt dung dịch làm mát sáng hoặc tăng tốc chậm; đưa xe vào lề và: 1. dừng động cơ bằng khóa điện; 2. để động cơ nguội với khóa ở Off; 3. kiểm tra ống két tản nhiệt có rò rỉ không (có rò rỉ: không khởi động, mang xe đến cửa hàng Honda ủy nhiệm); 4. kiểm tra mức dung dịch làm mát, đổ thêm nếu cần; 5. nếu bình thường có thể đi tiếp nhưng quan sát kỹ đèn. 'Tiếp tục lái xe khi động cơ bị quá nhiệt có thể gây hư hỏng nghiêm trọng cho động cơ.' Để xe nổ cầm chừng lâu có thể làm đèn quá nhiệt sáng. Đèn MIL sáng khi đang lái: có thể PGM-FI trục trặc nghiêm trọng, giảm tốc độ và mang xe đi kiểm tra càng sớm càng tốt. Đèn trạng thái sạc bình điện sáng khi đang lái: có thể điện áp bình điện yếu hoặc hiệu suất bình giảm, mang xe đi kiểm tra.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), mục Đồng hồ báo xăng: lượng xăng còn lại khi chỉ còn vạch thứ nhất (vạch E) khoảng 1,2 L; vạch này nhấp nháy khi lượng xăng giảm thêm. Mục Đèn báo OIL CHANGE: đèn bật khi quãng đường đạt khoảng thời gian thay dầu và không tắt cho đến khi đặt lại.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng VISION (đọc 14/10/2026), mục Đồng hồ báo xăng và Các đèn báo (tr. 22–25): lượng xăng còn lại khi vạch E nhấp nháy xấp xỉ 0,9 L; 'Bạn nên đổ xăng khi đồng hồ chạm vạch E. Chạy xe trong tình trạng hết xăng có thể làm động cơ hoạt động bất thường/bỏ máy, gây hư hỏng cho bộ chuyển đổi chất xúc tác.' Đèn báo trên Vision: chiếu xa, rẽ, lỗi PGM-FI (MIL) sáng trong giây lát khi vặn khóa sang On, Idling Stop, hệ thống khóa THÔNG MINH (trừ loại V, VI V).",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+      "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục Bảng đồng hồ (tr. 20–21): đồng hồ tốc độ có dải tới hạn tốc độ số, hiển thị dải tốc độ thích hợp cho mỗi số; kim đồng hồ xăng ở vạch đỏ nghĩa là lượng xăng còn lại xấp xỉ 1,02 L; đèn báo chế độ chiếu xa, đèn báo số N (sáng khi hộp số ở số N), đèn báo rẽ, đèn báo vị trí số hiển thị các số từ 1 đến 4. Nếu có đèn báo nào không sáng đúng chức năng, mang xe đến cửa hàng Honda ủy nhiệm.",
+      "checked": "2026-10-14"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "address: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội; phone: 0334 699 969; hours: 08:00–17:00 hằng ngày; fleet; policies.fuel: trả xe với khoảng 0,5–1 lít xăng",
+      "checked": "2026-10-14"
+    }
+  ],
+  "publishedAt": "2026-10-14T01:51:03.682674+00:00",
+  "publishedBy": "Claude Code (routine)"
+}
