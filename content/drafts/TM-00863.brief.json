@@ -1,0 +1,170 @@
+{
+  "writer": "writer-L1",
+  "queued": "2026-10-14T15:30:56.232966+00:00",
+  "topic": {
+    "topic_id": "TM-00863",
+    "url": "/du-lich/le-hoi-ruoc-lon-la-phu/",
+    "title": "Lễ hội rước lợn La Phù Hoài Đức: 17 'ông lợn' tối 13 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "lễ hội rước lợn la phù",
+    "secondary_keywords": [
+      "hội làng la phù",
+      "rước ông lợn la phù",
+      "đình la phù",
+      "tĩnh quốc tam lang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội và khách muốn xem hội rước 'ông lợn' La Phù cần biết hội ngày nào, diễn ra ở đâu (đình La Phù, đền Quán Chảy), nghi lễ chính và vì sao lễ hội được công nhận di sản.",
+    "information_gain": "Site chưa có bài nào về La Phù. Bài gần nhất là /du-lich/dinh-vong-ha-dinh/ (một lễ hội khác cùng đợt di sản 2025), /du-lich/hoi-dieu-ba-duong-noi-dan-phuong/ và /du-lich/lang-gom-bat-trang/. Bài mới nêu riêng: Thành hoàng Tĩnh Quốc Tam Lang thời Hùng Duệ Vương, lịch hội (rước kiệu mùng 7 tháng Giêng từ đình La Phù xuống đền Quán Chảy, rước 'ông lợn' tối 13 tháng Giêng), 17 xóm/17 lễ lợn, 6 lễ đẹp nhất vào cung chính, tục chọn người nuôi 'lợn ông' và việc lễ hội vào danh mục di sản phi vật thể quốc gia năm 2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/doc-dao-le-hoi-la-phu-10358915.html",
+        "quote": "Báo Đại biểu Nhân dân, 9/2/2025 (đọc 14/10/2026): Lễ hội La Phù (huyện Hoài Đức) diễn ra nhiều ngày, gồm rước kiệu Thánh Tĩnh Quốc Tam Lang ngày mùng 7 tháng Giêng và lễ rước 'ông lợn' tối 13 tháng Giêng hằng năm, tưởng nhớ Tĩnh Quốc Tam Lang thời Hùng Duệ Vương thứ 6; sáng mùng 7 kiệu đi từ đình La Phù xuống đền Quán Chảy (xã Đông La), nơi tương truyền là lăng mộ của Ngài, người dân trải chiếu hoa, bày hương án dọc đường; khoảng 24 giờ đoàn rước về lại đình.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/le-hoi-ruoc-lon-lang-la-phu-di-san-van-hoa-phi-vat-the-quoc-gia-doc-dao-giua-long-thu-do.htm",
+        "quote": "VnEconomy, 2/3/2026 (đọc 14/10/2026): lễ hội Rước lợn làng La Phù được Bộ VHTTDL công nhận Di sản văn hóa phi vật thể quốc gia năm 2025; đình làng La Phù nay thuộc xã An Khánh; tối 13 tháng Giêng Bính Ngọ, 17 đoàn rước đại diện 17 xóm xuất phát từ 18h về đình, mỗi đoàn có đội trống thanh nữ, kiệu bàn lộc, mâm xôi và kiệu 'ông lợn'; đúng 21h 17 'ông lợn' được đưa vào đình để chấm giải, 6 'ông lợn' đẹp nhất vào cung chính dâng tế, 11 lễ còn lại đặt ở gian ngoài.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/nam-hoi-xem-lang-la-phu-nuoi-ong-lon-le-20190127001737118.htm",
+        "quote": "Tuổi Trẻ Online, 4/2/2019 (đọc 14/10/2026): 'lợn ông' La Phù được nuôi suốt cả năm để tế Thành hoàng ngày 13 tháng Giêng âm lịch, mỗi con khoảng 2 tạ; người nuôi được các thôn cậy nhờ theo tiêu chuẩn gia đình hòa thuận, không tang; La Phù xưa có sáu giáp, nay dân số hơn 1 vạn chia thành 17 thôn; các thôn bốc thăm để 6 lễ lợn vào hậu cung; sau lễ có thi 'lợn ông'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/gin-giu-net-dep-hoi-lang-post397621.html",
+        "quote": "Báo Lào Cai, 18/2/2025 (đọc 14/10/2026): lễ hội rước 'Ông lợn' ở làng La Phù (xã La Phù, huyện Hoài Đức) vào ngày 13 tháng Giêng hằng năm, người dân rước 'Ông lợn' ra đình dâng tế Thành hoàng, tưởng nhớ Tĩnh Quốc Tam Lang thời Hùng Duệ Vương thứ 6.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/ha-noi-co-them-9-di-san-van-hoa-phi-vat-the-quoc-gia-239294.html",
+        "quote": "Người Quan Sát, 23/8/2025 (đọc 14/10/2026): Hà Nội có thêm 9 di sản phi vật thể quốc gia, trong đó có Hội làng La Phù (huyện Hoài Đức, nay là xã An Khánh), nổi bật với lễ rước 'ông lợn' ngày 13 tháng Giêng tưởng nhớ Thành hoàng Tĩnh Quốc Tam Lang.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "lễ hội rước lợn la phù"
+      }
+    ],
+    "notes": "Lễ hội có giết mổ lợn lễ (lợn được mổ trước khi rước): viết trung tính, không dùng ảnh/miêu tả gây sốc. Nguồn 2019 nói 6 giáp/17 thôn và bốc thăm 6 lễ vào hậu cung; nguồn 2026 nói chấm giải chọn 6 lễ đẹp nhất — cách chọn có thể đã đổi, ghi cả hai. Giờ 18h/21h là của kỳ hội 2026, không phải lịch cố định. Địa danh hành chính: La Phù cũ, nay xã An Khánh (theo VnEconomy và Người Quan Sát). Chưa có nguồn chính thức về quãng đường từ Long Biên; không nêu số km. Không có thông tin vé/gửi xe.",
+    "outline": [
+      "La Phù ở đâu, thờ ai: Tĩnh Quốc Tam Lang",
+      "Lịch hội: mùng 7 rước kiệu, tối 13 tháng Giêng rước 'ông lợn'",
+      "Đêm rước: 17 xóm, chấm giải, 6 lễ vào cung chính",
+      "Tục nuôi 'lợn ông' và người được cậy nuôi",
+      "Di sản phi vật thể quốc gia 2025",
+      "Đi xem hội bằng xe máy: lưu ý đông người, gửi xe, ứng xử"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/",
+      "/du-lich/dinh-vong-ha-dinh/",
+      "/du-lich/hoi-dieu-ba-duong-noi-dan-phuong/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00863.json",
+  "draft_template": {
+    "id": "TM-00863",
+    "url": "/du-lich/le-hoi-ruoc-lon-la-phu/",
+    "title": "Lễ hội rước lợn La Phù Hoài Đức: 17 'ông lợn' tối 13 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "lễ hội rước lợn la phù, hội làng la phù, rước ông lợn la phù, đình la phù, tĩnh quốc tam lang",
+    "excerpt": "",
+    "sections": [
+      [
+        "La Phù ở đâu, thờ ai: Tĩnh Quốc Tam Lang",
+        "<p></p>"
+      ],
+      [
+        "Lịch hội: mùng 7 rước kiệu, tối 13 tháng Giêng rước 'ông lợn'",
+        "<p></p>"
+      ],
+      [
+        "Đêm rước: 17 xóm, chấm giải, 6 lễ vào cung chính",
+        "<p></p>"
+      ],
+      [
+        "Tục nuôi 'lợn ông' và người được cậy nuôi",
+        "<p></p>"
+      ],
+      [
+        "Di sản phi vật thể quốc gia 2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xem hội bằng xe máy: lưu ý đông người, gửi xe, ứng xử",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/doc-dao-le-hoi-la-phu-10358915.html",
+        "quote": "Báo Đại biểu Nhân dân, 9/2/2025 (đọc 14/10/2026): Lễ hội La Phù (huyện Hoài Đức) diễn ra nhiều ngày, gồm rước kiệu Thánh Tĩnh Quốc Tam Lang ngày mùng 7 tháng Giêng và lễ rước 'ông lợn' tối 13 tháng Giêng hằng năm, tưởng nhớ Tĩnh Quốc Tam Lang thời Hùng Duệ Vương thứ 6; sáng mùng 7 kiệu đi từ đình La Phù xuống đền Quán Chảy (xã Đông La), nơi tương truyền là lăng mộ của Ngài, người dân trải chiếu hoa, bày hương án dọc đường; khoảng 24 giờ đoàn rước về lại đình.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/le-hoi-ruoc-lon-lang-la-phu-di-san-van-hoa-phi-vat-the-quoc-gia-doc-dao-giua-long-thu-do.htm",
+        "quote": "VnEconomy, 2/3/2026 (đọc 14/10/2026): lễ hội Rước lợn làng La Phù được Bộ VHTTDL công nhận Di sản văn hóa phi vật thể quốc gia năm 2025; đình làng La Phù nay thuộc xã An Khánh; tối 13 tháng Giêng Bính Ngọ, 17 đoàn rước đại diện 17 xóm xuất phát từ 18h về đình, mỗi đoàn có đội trống thanh nữ, kiệu bàn lộc, mâm xôi và kiệu 'ông lợn'; đúng 21h 17 'ông lợn' được đưa vào đình để chấm giải, 6 'ông lợn' đẹp nhất vào cung chính dâng tế, 11 lễ còn lại đặt ở gian ngoài.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/nam-hoi-xem-lang-la-phu-nuoi-ong-lon-le-20190127001737118.htm",
+        "quote": "Tuổi Trẻ Online, 4/2/2019 (đọc 14/10/2026): 'lợn ông' La Phù được nuôi suốt cả năm để tế Thành hoàng ngày 13 tháng Giêng âm lịch, mỗi con khoảng 2 tạ; người nuôi được các thôn cậy nhờ theo tiêu chuẩn gia đình hòa thuận, không tang; La Phù xưa có sáu giáp, nay dân số hơn 1 vạn chia thành 17 thôn; các thôn bốc thăm để 6 lễ lợn vào hậu cung; sau lễ có thi 'lợn ông'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/gin-giu-net-dep-hoi-lang-post397621.html",
+        "quote": "Báo Lào Cai, 18/2/2025 (đọc 14/10/2026): lễ hội rước 'Ông lợn' ở làng La Phù (xã La Phù, huyện Hoài Đức) vào ngày 13 tháng Giêng hằng năm, người dân rước 'Ông lợn' ra đình dâng tế Thành hoàng, tưởng nhớ Tĩnh Quốc Tam Lang thời Hùng Duệ Vương thứ 6.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/ha-noi-co-them-9-di-san-van-hoa-phi-vat-the-quoc-gia-239294.html",
+        "quote": "Người Quan Sát, 23/8/2025 (đọc 14/10/2026): Hà Nội có thêm 9 di sản phi vật thể quốc gia, trong đó có Hội làng La Phù (huyện Hoài Đức, nay là xã An Khánh), nổi bật với lễ rước 'ông lợn' ngày 13 tháng Giêng tưởng nhớ Thành hoàng Tĩnh Quốc Tam Lang.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00863"
+  }
+}

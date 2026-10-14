@@ -1,0 +1,170 @@
+{
+  "writer": "writer-L1",
+  "queued": "2026-10-14T15:30:56.729530+00:00",
+  "topic": {
+    "topic_id": "TM-00866",
+    "url": "/du-lich/lang-may-ao-dai-trach-xa-ung-hoa/",
+    "title": "Làng may áo dài Trạch Xá Ứng Hòa: đàn ông cầm kim, giỗ tổ 12 tháng Chạp",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng may áo dài trạch xá",
+    "secondary_keywords": [
+      "làng trạch xá ứng hòa",
+      "nghề may trạch xá",
+      "áo ngũ thân trạch xá",
+      "bà tổ nghề may nguyễn thị sen"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn tìm làng may áo dài truyền thống gần Hà Nội, hoặc may áo ngũ thân, cần biết Trạch Xá ở đâu, có gì đặc biệt, xem nghề vào lúc nào.",
+    "information_gain": "Site chưa có bài về Trạch Xá. Gần nhất là /du-lich/lang-dan-dao-xa-ung-hoa/ (cùng Ứng Hòa, nghề làm đàn), /du-lich/lang-theu-quat-dong/ (thêu, Thường Tín) và /du-lich/lang-non-chuong/. Bài mới nói riêng về nghề may áo dài: tục chỉ truyền cho nam (gần 90% người làm may là đàn ông theo Znews 2017), kỹ thuật khâu tay dọc với đê xỏ ngón giữa, áo ngũ thân của nghệ nhân Đỗ Minh Tám, tích bà Tổ Nguyễn Thị Sen và lễ tế tổ 12 tháng Chạp, mùa cao điểm tháng 8–9 âm lịch, và việc nghề may Trạch Xá vào danh mục di sản quốc gia năm 2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://znews.vn/trach-xa-noi-dang-nam-nhi-sinh-ra-de-may-ao-dai-post743632.html",
+        "quote": "Znews, 13/5/2017 (đọc 14/10/2026): làng Trạch Xá (Ứng Hòa) cách trung tâm Hà Nội khoảng 60 km, nổi tiếng nghề may áo dài; quy tắc xưa chỉ truyền nghề cho con trai; gần 90% số người làm may trong làng là đàn ông; một thợ cứng may 4–5 chiếc áo dài một ngày; cao điểm vào tháng 8, tháng 9 âm lịch do cưới hỏi, lễ tết; khó nhất là khâu tay dọc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/tri-an-ba-to-nghe-may-tu-phi-hoang-hau-nguyen-thi-sen-post384254.html",
+        "quote": "Báo Pháp luật Việt Nam, 6/3/2021 (đọc 14/10/2026): hằng năm vào giỗ bà Tổ nghề may Nguyễn Thị Sen ngày 12 tháng Chạp âm lịch, dân làng Trạch Xá tổ chức lễ tế Tổ, thi may áo khéo, thi dệt lụa; theo thần tích bà sinh ở làng Trạch Xá, xã Hòa Lâm, được phong Tứ phi Hoàng hậu của Đinh Tiên Hoàng, quản việc may trang phục hoàng triều, sau về quê truyền nghề.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ngoi-lang-gin-giu-tinh-hoa-co-phuc-viet-post384235.html",
+        "quote": "Báo Pháp luật Việt Nam, 6/3/2021 (đọc 14/10/2026): nghệ nhân Đỗ Minh Tám ở Trạch Xá còn giữ nghề may cổ phục áo ngũ thân (thân rộng, không chiết eo, năm thân ráp dọc); người Trạch Xá cầm kim tay dọc khi khâu; xưa Trạch Xá gọi vui là 'làng nghề lưu vong' vì thợ đi may nơi khác hàng tháng, cả năm; một chiếc áo thủ công mất từ vài ngày đến chục ngày; lễ tri ân bà Tổ ngày 12/12 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/mach-nghe-van-chay-post676480.html",
+        "quote": "Báo Sài Gòn Giải Phóng, 24/1/2023 (đọc 14/10/2026): áo dài Trạch Xá trước làm hoàn toàn thủ công, nay một số đường may trong làm bằng máy nhưng tay áo, vạt áo phải khâu tay bằng chỉ rút từ chính tấm vải; kỹ thuật khâu tay dọc với đê xỏ ở ngón giữa; người học nghề tập khâu 3 tháng; cụ Nguyễn Văn Nhiên 90 tuổi kể bố vợ từng may áo cho vua Bảo Đại và Nam Phương Hoàng hậu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/them-26-di-san-duoc-dua-vao-danh-muc-di-san-van-hoa-phi-vat-the-quoc-gia-7136.html",
+        "quote": "Báo Văn Hóa, 26/2/2024 (đọc 14/10/2026): 'Nghề may Trạch Xá, xã Hòa Xá, huyện Ứng Hòa, Thành phố Hà Nội' (loại hình Nghề thủ công truyền thống) nằm trong 26 di sản mới vào Danh mục di sản phi vật thể quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng may áo dài trạch xá"
+      }
+    ],
+    "notes": "Mâu thuẫn địa danh: Báo Văn Hóa 2024 ghi xã Hòa Xá; Báo Quốc tế 2017 và PLVN 2021 ghi xã Hòa Lâm — ghi 'xã Hòa Lâm cũ/Hòa Xá' và tránh khẳng định xã hiện tại. Số liệu (90%, 4–5 áo/ngày, 60 km) là của bài 2017, có thể đã khác. Giá công may (150.000–200.000 đ/chiếc, 2017) KHÔNG đưa vào tiêu đề; nếu dùng phải ghi năm. Số quyết định 369/2024 chỉ thấy trong kết quả tìm kiếm, chưa đọc trang gốc — không nêu số quyết định.",
+    "outline": [
+      "Trạch Xá ở đâu, vì sao gọi là làng may áo dài",
+      "Bà Tổ Nguyễn Thị Sen và lễ tế tổ 12 tháng Chạp",
+      "Đàn ông cầm kim: tục truyền nghề và 'làng nghề lưu vong'",
+      "Kỹ thuật khâu tay dọc và áo ngũ thân",
+      "Khi nào làng bận nhất, đến xem nghề cần lưu ý gì",
+      "Di sản quốc gia 2024"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-dan-dao-xa-ung-hoa/",
+      "/du-lich/lang-theu-quat-dong/",
+      "/du-lich/lang-non-chuong/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00866.json",
+  "draft_template": {
+    "id": "TM-00866",
+    "url": "/du-lich/lang-may-ao-dai-trach-xa-ung-hoa/",
+    "title": "Làng may áo dài Trạch Xá Ứng Hòa: đàn ông cầm kim, giỗ tổ 12 tháng Chạp",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng may áo dài trạch xá, làng trạch xá ứng hòa, nghề may trạch xá, áo ngũ thân trạch xá, bà tổ nghề may nguyễn thị sen",
+    "excerpt": "",
+    "sections": [
+      [
+        "Trạch Xá ở đâu, vì sao gọi là làng may áo dài",
+        "<p></p>"
+      ],
+      [
+        "Bà Tổ Nguyễn Thị Sen và lễ tế tổ 12 tháng Chạp",
+        "<p></p>"
+      ],
+      [
+        "Đàn ông cầm kim: tục truyền nghề và 'làng nghề lưu vong'",
+        "<p></p>"
+      ],
+      [
+        "Kỹ thuật khâu tay dọc và áo ngũ thân",
+        "<p></p>"
+      ],
+      [
+        "Khi nào làng bận nhất, đến xem nghề cần lưu ý gì",
+        "<p></p>"
+      ],
+      [
+        "Di sản quốc gia 2024",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://znews.vn/trach-xa-noi-dang-nam-nhi-sinh-ra-de-may-ao-dai-post743632.html",
+        "quote": "Znews, 13/5/2017 (đọc 14/10/2026): làng Trạch Xá (Ứng Hòa) cách trung tâm Hà Nội khoảng 60 km, nổi tiếng nghề may áo dài; quy tắc xưa chỉ truyền nghề cho con trai; gần 90% số người làm may trong làng là đàn ông; một thợ cứng may 4–5 chiếc áo dài một ngày; cao điểm vào tháng 8, tháng 9 âm lịch do cưới hỏi, lễ tết; khó nhất là khâu tay dọc.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/tri-an-ba-to-nghe-may-tu-phi-hoang-hau-nguyen-thi-sen-post384254.html",
+        "quote": "Báo Pháp luật Việt Nam, 6/3/2021 (đọc 14/10/2026): hằng năm vào giỗ bà Tổ nghề may Nguyễn Thị Sen ngày 12 tháng Chạp âm lịch, dân làng Trạch Xá tổ chức lễ tế Tổ, thi may áo khéo, thi dệt lụa; theo thần tích bà sinh ở làng Trạch Xá, xã Hòa Lâm, được phong Tứ phi Hoàng hậu của Đinh Tiên Hoàng, quản việc may trang phục hoàng triều, sau về quê truyền nghề.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/ngoi-lang-gin-giu-tinh-hoa-co-phuc-viet-post384235.html",
+        "quote": "Báo Pháp luật Việt Nam, 6/3/2021 (đọc 14/10/2026): nghệ nhân Đỗ Minh Tám ở Trạch Xá còn giữ nghề may cổ phục áo ngũ thân (thân rộng, không chiết eo, năm thân ráp dọc); người Trạch Xá cầm kim tay dọc khi khâu; xưa Trạch Xá gọi vui là 'làng nghề lưu vong' vì thợ đi may nơi khác hàng tháng, cả năm; một chiếc áo thủ công mất từ vài ngày đến chục ngày; lễ tri ân bà Tổ ngày 12/12 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/mach-nghe-van-chay-post676480.html",
+        "quote": "Báo Sài Gòn Giải Phóng, 24/1/2023 (đọc 14/10/2026): áo dài Trạch Xá trước làm hoàn toàn thủ công, nay một số đường may trong làm bằng máy nhưng tay áo, vạt áo phải khâu tay bằng chỉ rút từ chính tấm vải; kỹ thuật khâu tay dọc với đê xỏ ở ngón giữa; người học nghề tập khâu 3 tháng; cụ Nguyễn Văn Nhiên 90 tuổi kể bố vợ từng may áo cho vua Bảo Đại và Nam Phương Hoàng hậu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/them-26-di-san-duoc-dua-vao-danh-muc-di-san-van-hoa-phi-vat-the-quoc-gia-7136.html",
+        "quote": "Báo Văn Hóa, 26/2/2024 (đọc 14/10/2026): 'Nghề may Trạch Xá, xã Hòa Xá, huyện Ứng Hòa, Thành phố Hà Nội' (loại hình Nghề thủ công truyền thống) nằm trong 26 di sản mới vào Danh mục di sản phi vật thể quốc gia.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00866"
+  }
+}

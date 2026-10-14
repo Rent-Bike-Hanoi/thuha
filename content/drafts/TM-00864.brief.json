@@ -1,0 +1,175 @@
+{
+  "writer": "writer-L1",
+  "queued": "2026-10-14T15:30:56.498895+00:00",
+  "topic": {
+    "topic_id": "TM-00864",
+    "url": "/du-lich/hoi-hat-cheo-tau-tan-hoi-dan-phuong/",
+    "title": "Hội hát chèo tàu Tân Hội Đan Phượng: thuyền rồng trên cạn, 20 làn điệu",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hát chèo tàu tân hội",
+    "secondary_keywords": [
+      "chèo tàu tổng gối",
+      "hội chèo tàu đan phượng",
+      "văn dĩ thành",
+      "lễ hội tân hội đan phượng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người quan tâm di sản dân gian Hà Nội muốn biết chèo tàu Tổng Gối là gì, hội diễn ra khi nào, ở đâu và có xem được không.",
+    "information_gain": "Site chưa có bài về chèo tàu Tổng Gối. Gần nhất là /du-lich/hoi-dieu-ba-duong-noi-dan-phuong/ (cũng ở Đan Phượng nhưng là hội diều), /du-lich/lang-ca-tru-lo-khe/ (một loại hình diễn xướng khác) và /du-lich/ha-noi/. Bài mới giải thích hình thức hát giữa hai 'tàu' (thuyền rồng gỗ chèo trên cạn) và 'tượng' (voi gỗ), cơ cấu 13 người mỗi tàu, 20 làn điệu chia hát trình/hát thuyền/hát bỏ bộ, lịch sử hội (lần đầu 1683, gián đoạn từ 1922, khôi phục 1998), chu kỳ tổ chức theo từng nguồn, CLB chèo tàu lập 28/5/1998 và quyết định 1351/QĐ-BVHTTDL năm 2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-879815.html",
+        "quote": "Báo Nhân Dân, 15/5/2025 (đọc 14/10/2026): 'Hội hát Chèo tàu Tổng Gối xã Tân Hội, huyện Đan Phượng' vào Danh mục di sản phi vật thể quốc gia; hội tổ chức lần đầu năm 1683, theo tục lệ 25–30 năm một lần; hội cuối cùng năm 1922, gián đoạn do chiến tranh, khôi phục năm 1998; hiện cứ 5 năm tổ chức một lần, từ 13–15 tháng Giêng; hát đối đáp giữa hai tàu là thuyền rồng gỗ chèo tượng trưng trên cạn; mỗi tàu 13 người gồm bà chúa tàu (khoảng 50 tuổi), 2 cái tàu và 10 con tàu (gái 13–16 tuổi), phía sau có đôi voi với hai quản tượng thổi tù và; bài hát ca ngợi Thành hoàng Tổng Gối Văn Dĩ Thành; gồm 20 làn điệu, chia hát trình, hát thuyền, hát bỏ bộ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://luatvietnam.vn/van-hoa/quyet-dinh-1351-q-bvhttdl-2025-cong-bo-danh-muc-di-san-van-hoa-phi-vat-the-quoc-gia-hoi-hat-cheo-tau-tong-goi-400267-d1.html",
+        "quote": "Quyết định 1351/QĐ-BVHTTDL ngày 14/5/2025 của Bộ VHTTDL, bản đăng trên luatvietnam.vn (đọc 14/10/2026): công bố 'Hội hát Chèo tàu Tổng Gối', xã Tân Hội, huyện Đan Phượng, TP Hà Nội vào Danh mục di sản văn hóa phi vật thể quốc gia (loại hình Lễ hội truyền thống); Điều 3 hiệu lực từ ngày ký.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ve-dat-tan-hoi-dam-minh-trong-lan-dieu-cheo-tau-post20457.vnp",
+        "quote": "VietnamPlus, 4/10/2009 (đọc 14/10/2026): chèo Tàu tên gốc là hát 'Tàu tượng', duy nhất có ở xã Tân Hội; xưa cứ 25 năm tổ chức một lần, kéo dài 7 ngày 7 đêm từ rằm đến 21 tháng Giêng, các làng Thượng Hội, Thúy Hội, Vĩnh Kỳ, Phan Long thay nhau hát; ngày hội bắt đầu bằng lễ ở miếu Voi phục rồi rước kiệu ra đình; phần hát nghi lễ có tới 30 bài; quy mô xưa huy động khoảng 200 người hát; sau 76 năm gián đoạn, năm 1998 hội được tái hiện.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/san-khau-mua/luu-giu-va-phat-huy-di-san-cheo-tau-o-ðan-phuong-79853.html",
+        "quote": "Báo Văn Hóa, 30/5/2018 (đọc 14/10/2026): CLB Chèo tàu Tân Hội thành lập ngày 28/5/1998, kỷ niệm 20 năm; Chèo tàu Tổng Gối (nay xã Tân Hội) trải qua 300 năm vẫn được lưu giữ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/ha-noi-co-them-9-di-san-van-hoa-phi-vat-the-quoc-gia-239294.html",
+        "quote": "Người Quan Sát, 23/8/2025 (đọc 14/10/2026): Hội hát Chèo Tàu Tổng Gối (xã Tân Hội, huyện Đan Phượng, nay là xã Ô Diên) nằm trong 9 di sản Hà Nội mới ghi danh; gồm ba phần hát trình, hát thuyền, hát bỏ bộ, tôn vinh tướng Văn Dĩ Thành.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hát chèo tàu tân hội"
+      }
+    ],
+    "notes": "Mâu thuẫn chu kỳ: Nhân Dân 2025 nói hiện 5 năm/lần, 13–15 tháng Giêng; VietnamPlus 2009 nói xưa 25 năm/lần, 7 ngày 7 đêm từ rằm đến 21 tháng Giêng và 'hằng năm tổ chức quy mô nhỏ'. Viết rõ là chưa xác định kỳ hội lớn tiếp theo; không hứa có biểu diễn khi khách đến. Nhân Dân nói 20 làn điệu, VietnamPlus nói riêng hát nghi lễ có 30 bài — hai cách đếm khác nhau, ghi cả hai. Năm mất Văn Dĩ Thành (1416) chỉ có trong VietnamPlus, nên tránh hoặc ghi 'theo VietnamPlus'. Địa danh: Tân Hội cũ nay thuộc xã Ô Diên.",
+    "outline": [
+      "Chèo tàu Tổng Gối là gì: 'tàu' và 'tượng' trên cạn",
+      "Thành hoàng Văn Dĩ Thành và bốn làng Tổng Gối",
+      "Vai diễn: bà chúa tàu, cái tàu, con tàu, quản tượng",
+      "20 làn điệu: hát trình, hát thuyền, hát bỏ bộ",
+      "Lịch sử 1683–1922–1998 và chu kỳ hội theo từng nguồn",
+      "Di sản quốc gia 2025 và CLB chèo tàu",
+      "Lưu ý khi đến Tân Hội (nay Ô Diên)"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/",
+      "/du-lich/hoi-dieu-ba-duong-noi-dan-phuong/",
+      "/du-lich/lang-ca-tru-lo-khe/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00864.json",
+  "draft_template": {
+    "id": "TM-00864",
+    "url": "/du-lich/hoi-hat-cheo-tau-tan-hoi-dan-phuong/",
+    "title": "Hội hát chèo tàu Tân Hội Đan Phượng: thuyền rồng trên cạn, 20 làn điệu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hát chèo tàu tân hội, chèo tàu tổng gối, hội chèo tàu đan phượng, văn dĩ thành, lễ hội tân hội đan phượng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chèo tàu Tổng Gối là gì: 'tàu' và 'tượng' trên cạn",
+        "<p></p>"
+      ],
+      [
+        "Thành hoàng Văn Dĩ Thành và bốn làng Tổng Gối",
+        "<p></p>"
+      ],
+      [
+        "Vai diễn: bà chúa tàu, cái tàu, con tàu, quản tượng",
+        "<p></p>"
+      ],
+      [
+        "20 làn điệu: hát trình, hát thuyền, hát bỏ bộ",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử 1683–1922–1998 và chu kỳ hội theo từng nguồn",
+        "<p></p>"
+      ],
+      [
+        "Di sản quốc gia 2025 và CLB chèo tàu",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đến Tân Hội (nay Ô Diên)",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-879815.html",
+        "quote": "Báo Nhân Dân, 15/5/2025 (đọc 14/10/2026): 'Hội hát Chèo tàu Tổng Gối xã Tân Hội, huyện Đan Phượng' vào Danh mục di sản phi vật thể quốc gia; hội tổ chức lần đầu năm 1683, theo tục lệ 25–30 năm một lần; hội cuối cùng năm 1922, gián đoạn do chiến tranh, khôi phục năm 1998; hiện cứ 5 năm tổ chức một lần, từ 13–15 tháng Giêng; hát đối đáp giữa hai tàu là thuyền rồng gỗ chèo tượng trưng trên cạn; mỗi tàu 13 người gồm bà chúa tàu (khoảng 50 tuổi), 2 cái tàu và 10 con tàu (gái 13–16 tuổi), phía sau có đôi voi với hai quản tượng thổi tù và; bài hát ca ngợi Thành hoàng Tổng Gối Văn Dĩ Thành; gồm 20 làn điệu, chia hát trình, hát thuyền, hát bỏ bộ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://luatvietnam.vn/van-hoa/quyet-dinh-1351-q-bvhttdl-2025-cong-bo-danh-muc-di-san-van-hoa-phi-vat-the-quoc-gia-hoi-hat-cheo-tau-tong-goi-400267-d1.html",
+        "quote": "Quyết định 1351/QĐ-BVHTTDL ngày 14/5/2025 của Bộ VHTTDL, bản đăng trên luatvietnam.vn (đọc 14/10/2026): công bố 'Hội hát Chèo tàu Tổng Gối', xã Tân Hội, huyện Đan Phượng, TP Hà Nội vào Danh mục di sản văn hóa phi vật thể quốc gia (loại hình Lễ hội truyền thống); Điều 3 hiệu lực từ ngày ký.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/ve-dat-tan-hoi-dam-minh-trong-lan-dieu-cheo-tau-post20457.vnp",
+        "quote": "VietnamPlus, 4/10/2009 (đọc 14/10/2026): chèo Tàu tên gốc là hát 'Tàu tượng', duy nhất có ở xã Tân Hội; xưa cứ 25 năm tổ chức một lần, kéo dài 7 ngày 7 đêm từ rằm đến 21 tháng Giêng, các làng Thượng Hội, Thúy Hội, Vĩnh Kỳ, Phan Long thay nhau hát; ngày hội bắt đầu bằng lễ ở miếu Voi phục rồi rước kiệu ra đình; phần hát nghi lễ có tới 30 bài; quy mô xưa huy động khoảng 200 người hát; sau 76 năm gián đoạn, năm 1998 hội được tái hiện.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/san-khau-mua/luu-giu-va-phat-huy-di-san-cheo-tau-o-ðan-phuong-79853.html",
+        "quote": "Báo Văn Hóa, 30/5/2018 (đọc 14/10/2026): CLB Chèo tàu Tân Hội thành lập ngày 28/5/1998, kỷ niệm 20 năm; Chèo tàu Tổng Gối (nay xã Tân Hội) trải qua 300 năm vẫn được lưu giữ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/ha-noi-co-them-9-di-san-van-hoa-phi-vat-the-quoc-gia-239294.html",
+        "quote": "Người Quan Sát, 23/8/2025 (đọc 14/10/2026): Hội hát Chèo Tàu Tổng Gối (xã Tân Hội, huyện Đan Phượng, nay là xã Ô Diên) nằm trong 9 di sản Hà Nội mới ghi danh; gồm ba phần hát trình, hát thuyền, hát bỏ bộ, tôn vinh tướng Văn Dĩ Thành.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00864"
+  }
+}
