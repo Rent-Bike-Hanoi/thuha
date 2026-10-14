@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w26a",
+  "queued": "2026-10-14T02:10:48.401937+00:00",
+  "topic": {
+    "topic_id": "TM-00553",
+    "url": "/du-lich/dinh-chu-quyen/",
+    "title": "Đình Chu Quyến Ba Vì: đình gỗ lớn xứ Đoài, hội 13–15 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình chu quyến",
+    "secondary_keywords": [
+      "đình chu quyến ba vì",
+      "đình chàng chu minh",
+      "đình lớn nhất xứ đoài",
+      "nhã lang vương",
+      "đình cổ ba vì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mê đình làng cổ và khách đi Ba Vì theo quốc lộ 32 muốn biết đình Chu Quyến ở đâu, thờ ai, kiến trúc có gì đáng xem, hội làng ngày nào và rẽ vào từ Phố Nả thế nào.",
+    "information_gain": "Site chưa có bài về đình Chu Quyến. /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ chỉ nêu quốc lộ 32 qua Sơn Tây như một cung đường, không có điểm dừng này; bài đình Tây Đằng (đang đề xuất cùng đợt) là di tích khác. Bài mới bổ sung: đình thờ Nhã Lang Vương (con Lý Phật Tử), dựng thế kỷ XVII, một tòa đại đình duy nhất diện tích 395 m² trên khuôn viên 1.210 m², 6 hàng cột lim (cột cái đường kính 60–81 cm), sàn gỗ 3 cấp, 15 đạo sắc phong Lê Trung Hưng – Tây Sơn – Nguyễn, dự án trùng tu 2007–2010 đoạt giải UIA 2010, hội 13–15 tháng Giêng, và chỉ đường từ Phố Nả rẽ khoảng 0,5 km.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2840/25",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, mục Điểm đến 'Đình Chu Quyến' (không ghi ngày; đọc 14/10/2026): đình dựng từ thế kỷ 17 trên tổng diện tích 1.210 m², thờ Thành hoàng Nhã Lang Vương, con trai Lý Phật Tử (571–602); tiêu biểu kiến trúc gỗ dân gian thời Hậu Lê, chỉ có duy nhất một tòa đại đình ba gian hai chái, diện tích 395 m², hậu cung bố trí ngay tại chính điện; 6 hàng cột gỗ lim, cột cái đường kính 60–81 cm, cột quân và cột hiên 50 cm; chạm khắc cảnh làm ruộng, chọi gà, gảy đàn, múa hát, cưỡi ngựa; 15 đạo sắc phong Hậu Lê, Tây Sơn, Nguyễn; lễ hội hằng năm các ngày 13, 14, 15 tháng Giêng âm lịch với đánh cờ, vật, múa hát; từ 2007 đến 2010 Bộ VHTTDL trùng tu, đoạt giải UIA về bảo tồn di sản kiến trúc năm 2010 khu vực châu Á – Thái Bình Dương; đường đi: từ Hà Nội theo quốc lộ 32 khoảng 60 km đến Phố Nả (xã Chu Minh, huyện Ba Vì), rẽ phải khoảng 0,5 km.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/vietnamese/tin-tuc/ve-dep-dinh-chu-quyen-36864.html",
+        "quote": "Báo ảnh Việt Nam (TTXVN), 'Vẻ đẹp đình Chu Quyến' (13/9/2012; đọc 14/10/2026): đình ở xã Chu Minh, huyện Ba Vì, xây từ thế kỷ XVII, được mệnh danh là ngôi đình lớn nhất xứ Đoài, thuộc làng Chu Quyến ven đê sông Hồng; thờ Nhã Lang, con cả Lý Phật Tử, và bà thứ phi Lã Thị Ngọc Thanh; nhìn hướng Tây Bắc, phía trước có hồ nước rộng; sàn gỗ chia 3 lớp để phân ngôi thứ; cột cái gỗ lim, có cột đường kính tới 80 cm; 15 đạo sắc phong; trùng tu theo 'Dự án thực nghiệm tu bổ tôn tạo đình Chu Quyến', được UIA trao giải bảo tồn di sản kiến trúc năm 2010 khu vực châu Á và châu Đại Dương.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/en/chu-quyen-communal-house-E93511.html",
+        "quote": "VietNamNet (bản tiếng Anh, 5/2/2014; đọc 14/10/2026): đình Chu Quyến bên bờ sông Hồng, xã Chu Minh, huyện Ba Vì, hơn 400 năm tuổi, dựng thế kỷ 17 thờ Nhã Lang; đại đình ba gian hai chái; được xếp hạng di tích lịch sử văn hóa quốc gia năm 1962.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/huyen-ba-vi-khai-mac-le-hoi-tan-vien-son-thanh-va-khai-truong-du-lich-nam-2025-a153649.html",
+        "quote": "Luật sư Việt Nam (12/2/2025; đọc 14/10/2026): lãnh đạo UBND huyện Ba Vì giới thiệu 'di tích đình Chu Quyến là công trình kiến trúc có quy mô đồ sộ nhất miền Bắc' trong danh sách di tích tiêu biểu của huyện.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình chu quyến"
+      }
+    ],
+    "notes": "KHÔNG ghi đình Chu Quyến là di tích quốc gia đặc biệt: một số trang Facebook nói vậy nhưng QĐ 2383/QĐ-TTg (2013) chỉ có đình Tây Đằng ở Ba Vì; nguồn VietNamNet ghi xếp hạng quốc gia năm 1962. Mâu thuẫn: Báo ảnh VN ghi 'hai gian, ba chái', Cục Du lịch và VietNamNet ghi 'ba gian hai chái' – dùng 'ba gian hai chái' và nói rõ có nguồn ghi khác. 'Lớn nhất xứ Đoài/đồ sộ nhất miền Bắc' là cách gọi của báo và địa phương, viết ở dạng trích. Địa chỉ: 'làng Chu Quyến, xã Chu Minh, huyện Ba Vì (cũ)' – chưa có nguồn nêu xã mới. Mọi nguồn trừ LSVN đều trước 2025; giờ mở cửa, vé, gửi xe: không có nguồn, khuyên liên hệ địa phương. Ngày hội 13–15 tháng Giêng lấy từ trang Cục Du lịch không ghi ngày – nêu là lịch truyền thống, không quy đổi dương lịch.",
+    "outline": [
+      "Đình Chu Quyến ở đâu, thờ Nhã Lang Vương là ai",
+      "Một tòa đại đình duy nhất: kích thước, hàng cột lim, sàn gỗ ba cấp",
+      "Chạm khắc cảnh sinh hoạt và 15 đạo sắc phong",
+      "Trùng tu 2007–2010 và giải thưởng UIA",
+      "Hội làng 13–15 tháng Giêng",
+      "Đi xe máy theo quốc lộ 32, rẽ ở Phố Nả, ghép Sơn Tây – Đường Lâm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/thanh-co-son-tay-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00553.json",
+  "draft_template": {
+    "id": "TM-00553",
+    "url": "/du-lich/dinh-chu-quyen/",
+    "title": "Đình Chu Quyến Ba Vì: đình gỗ lớn xứ Đoài, hội 13–15 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình chu quyến, đình chu quyến ba vì, đình chàng chu minh, đình lớn nhất xứ đoài, nhã lang vương, đình cổ ba vì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Chu Quyến ở đâu, thờ Nhã Lang Vương là ai",
+        "<p></p>"
+      ],
+      [
+        "Một tòa đại đình duy nhất: kích thước, hàng cột lim, sàn gỗ ba cấp",
+        "<p></p>"
+      ],
+      [
+        "Chạm khắc cảnh sinh hoạt và 15 đạo sắc phong",
+        "<p></p>"
+      ],
+      [
+        "Trùng tu 2007–2010 và giải thưởng UIA",
+        "<p></p>"
+      ],
+      [
+        "Hội làng 13–15 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo quốc lộ 32, rẽ ở Phố Nả, ghép Sơn Tây – Đường Lâm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2840/25",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, mục Điểm đến 'Đình Chu Quyến' (không ghi ngày; đọc 14/10/2026): đình dựng từ thế kỷ 17 trên tổng diện tích 1.210 m², thờ Thành hoàng Nhã Lang Vương, con trai Lý Phật Tử (571–602); tiêu biểu kiến trúc gỗ dân gian thời Hậu Lê, chỉ có duy nhất một tòa đại đình ba gian hai chái, diện tích 395 m², hậu cung bố trí ngay tại chính điện; 6 hàng cột gỗ lim, cột cái đường kính 60–81 cm, cột quân và cột hiên 50 cm; chạm khắc cảnh làm ruộng, chọi gà, gảy đàn, múa hát, cưỡi ngựa; 15 đạo sắc phong Hậu Lê, Tây Sơn, Nguyễn; lễ hội hằng năm các ngày 13, 14, 15 tháng Giêng âm lịch với đánh cờ, vật, múa hát; từ 2007 đến 2010 Bộ VHTTDL trùng tu, đoạt giải UIA về bảo tồn di sản kiến trúc năm 2010 khu vực châu Á – Thái Bình Dương; đường đi: từ Hà Nội theo quốc lộ 32 khoảng 60 km đến Phố Nả (xã Chu Minh, huyện Ba Vì), rẽ phải khoảng 0,5 km.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/vietnamese/tin-tuc/ve-dep-dinh-chu-quyen-36864.html",
+        "quote": "Báo ảnh Việt Nam (TTXVN), 'Vẻ đẹp đình Chu Quyến' (13/9/2012; đọc 14/10/2026): đình ở xã Chu Minh, huyện Ba Vì, xây từ thế kỷ XVII, được mệnh danh là ngôi đình lớn nhất xứ Đoài, thuộc làng Chu Quyến ven đê sông Hồng; thờ Nhã Lang, con cả Lý Phật Tử, và bà thứ phi Lã Thị Ngọc Thanh; nhìn hướng Tây Bắc, phía trước có hồ nước rộng; sàn gỗ chia 3 lớp để phân ngôi thứ; cột cái gỗ lim, có cột đường kính tới 80 cm; 15 đạo sắc phong; trùng tu theo 'Dự án thực nghiệm tu bổ tôn tạo đình Chu Quyến', được UIA trao giải bảo tồn di sản kiến trúc năm 2010 khu vực châu Á và châu Đại Dương.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/en/chu-quyen-communal-house-E93511.html",
+        "quote": "VietNamNet (bản tiếng Anh, 5/2/2014; đọc 14/10/2026): đình Chu Quyến bên bờ sông Hồng, xã Chu Minh, huyện Ba Vì, hơn 400 năm tuổi, dựng thế kỷ 17 thờ Nhã Lang; đại đình ba gian hai chái; được xếp hạng di tích lịch sử văn hóa quốc gia năm 1962.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/huyen-ba-vi-khai-mac-le-hoi-tan-vien-son-thanh-va-khai-truong-du-lich-nam-2025-a153649.html",
+        "quote": "Luật sư Việt Nam (12/2/2025; đọc 14/10/2026): lãnh đạo UBND huyện Ba Vì giới thiệu 'di tích đình Chu Quyến là công trình kiến trúc có quy mô đồ sộ nhất miền Bắc' trong danh sách di tích tiêu biểu của huyện.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00553"
+  }
+}

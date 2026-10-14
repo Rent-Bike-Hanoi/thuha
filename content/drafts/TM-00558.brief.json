@@ -1,0 +1,146 @@
+{
+  "writer": "writer-w26b",
+  "queued": "2026-10-14T02:10:48.590430+00:00",
+  "topic": {
+    "topic_id": "TM-00558",
+    "url": "/du-lich/lang-sung-thuy-ung/",
+    "title": "Làng sừng Thụy Ứng Thường Tín: làng làm lược sừng, xem chế tác",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng sừng thụy ứng",
+    "secondary_keywords": [
+      "làng lược sừng thụy ứng",
+      "lược sừng thụy ứng",
+      "làng nghề sừng thường tín",
+      "đồ mỹ nghệ sừng hà nội",
+      "thụy ứng hòa bình thường tín"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích làng nghề, phụ huynh muốn cho con xem nghề thủ công và người tìm lược sừng thật muốn biết làng Thụy Ứng ở đâu, làm sản phẩm gì, quy trình chế tác ra sao và đến xem thế nào cho phải phép.",
+    "information_gain": "Site chưa có bài về làng sừng Thụy Ứng. /du-lich/chua-dau-thuong-tin/ và /du-lich/lang-son-mai-ha-thai/ là hai điểm cùng vùng Thường Tín cũ nhưng không nhắc Thụy Ứng; /du-lich/lang-may-tre-dan-phu-vinh/ là làng nghề khác. Bài mới bổ sung: làng hơn 400 năm nghề, được giới thiệu là làng duy nhất miền Bắc chuyên lược sừng; đường từ quốc lộ 1A qua ga Thường Tín rẽ tỉnh lộ 427 khoảng 3 km; nguyên liệu sừng, móng trâu bò; quy trình cắt dày 4–5 mm, luộc dầu khoảng 200°C, ép phẳng, cưa, mài, chạm; sản phẩm lược, trang sức, đèn ngủ, Khuê Văn Các; việc Hà Nội công nhận điểm du lịch làng nghề; và cách hẹn hộ làm nghề trước khi đến.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/sunday/1666537/thuy-ung-horn-comb-craft-a-unique-heritage-in-ha-noi.html",
+        "quote": "Việt Nam News (TTXVN), 'Thụy Ứng horn comb craft: a unique heritage in Hà Nội' (10/11/2024; đọc 14/10/2026): làng Thụy Ứng, xã Hòa Bình, huyện Thường Tín, hơn 400 năm lịch sử, được giới thiệu là làng duy nhất miền Bắc chuyên làm lược từ sừng trâu bò; đường đi: theo quốc lộ 1A về phía nam tới ga Thường Tín, rẽ tỉnh lộ 427 về phía tây khoảng 3 km; nguyên liệu sừng, móng trâu từ vùng núi phía Bắc, khi thiếu nhập từ Lào, Thái Lan, Campuchia, châu Phi; quy trình: cắt sừng dày khoảng 4–5 mm, trước kia ủ tro nóng, nay luộc trong dầu khoảng 200°C trong 4–5 phút rồi rửa nước lạnh, ép phẳng bằng máy ép thủy lực; Hà Nội đã công nhận Thụy Ứng là điểm du lịch, địa phương quy hoạch thêm hai khu 61,2 ha cho hộ làm nghề, cửa hàng, trưng bày; sản phẩm thêm vòng tay, trang sức, dụng cụ mát-xa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/an-sinh-AFA9C5670/ha-noi-giu-lua-nghe-sung-lam-giau-ben-vung-tu-tinh-hoa-thuy-ung-fd59dc5ae.html",
+        "quote": "Báo Thanh tra (Thanh tra Chính phủ), 'Hà Nội: Giữ lửa nghề sừng...' (24/10/2025; đọc 14/10/2026): nghệ nhân, cựu chiến binh Nguyễn Văn Sử (sinh 1960) làng nghề Thụy Ứng, hơn nửa thế kỷ gắn bó nghề, lập cơ sở mỹ nghệ Mười Sử, tạo việc làm cho nhiều lao động trong làng; hàng trăm mẫu sản phẩm từ sừng: lược, trang sức, khung tranh, đèn ngủ, biểu tượng Khuê Văn Các; bộ sản phẩm Khuê Văn Các từng đoạt giải nhất cuộc thi thiết kế thủ công mỹ nghệ Hà Nội; tại Hội chợ Mùa Thu ông trình diễn các công đoạn cưa, ép phẳng, mài, chạm khắc; ông mong người trẻ đến tận làng nghề để học, để làm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/an-sinh-AFA9C5670/giu-hon-sung-viet-hanh-trinh-lam-giau-va-lan-toa-sinh-ke-ben-vung-cua-nghe-nhan-nguyen-van-su-fd59de286.html",
+        "quote": "Báo Thanh tra, 'Giữ hồn sừng Việt...' (26/10/2025; đọc 14/10/2026): nguyên liệu là sừng trâu, bò; xưởng của ông Sử mỗi năm chế tác hàng nghìn sản phẩm; ông Sử thường tổ chức các buổi trải nghiệm miễn phí cho học sinh, thế hệ trẻ tìm hiểu nghề (theo bài báo, không phải lịch cố định); phôi sừng qua các công đoạn cưa, giũa, mài để thành sản phẩm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng sừng thụy ứng"
+      }
+    ],
+    "notes": "Không ghi giá lược hay giá trải nghiệm: Việt Nam News 2024 có nêu giá lược trơn 20.000–40.000đ nhưng là nguồn trước 2025 và quy tắc không đưa giá xưởng – bỏ. Không hứa 'được tham quan xưởng' hay 'trải nghiệm miễn phí': chỉ nói theo Báo Thanh tra (10/2025) một nghệ nhân có tổ chức buổi trải nghiệm miễn phí cho học sinh, du khách nên liên hệ trước với hộ làm nghề/UBND xã. Tên xã: 'xã Hòa Bình, huyện Thường Tín (cũ)' – chưa có nguồn nêu xã mới sau 1/7/2025. 'Làng duy nhất miền Bắc' là lời nghệ nhân/báo, viết dạng trích. Năm Hà Nội công nhận điểm du lịch: nguồn không ghi ngày quyết định – không ghi năm. Chỉ đường (QL1A – ga Thường Tín – TL427 ~3 km) theo nguồn 2024, cần kiểm lại trên bản đồ.",
+    "outline": [
+      "Làng Thụy Ứng ở đâu, hơn 400 năm nghề sừng",
+      "Từ sừng trâu bò thành lược: các công đoạn chế tác",
+      "Sản phẩm ngày nay: lược, trang sức, đèn ngủ, đồ mỹ nghệ",
+      "Điểm du lịch làng nghề và câu chuyện nghệ nhân giữ nghề",
+      "Đi xe máy theo quốc lộ 1A, tỉnh lộ 427",
+      "Đến xem nghề thế nào cho lịch sự: hẹn trước, mua hàng, chụp ảnh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-dau-thuong-tin/",
+      "/du-lich/lang-son-mai-ha-thai/",
+      "/du-lich/lang-may-tre-dan-phu-vinh/",
+      "/du-lich/lang-non-chuong/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00558.json",
+  "draft_template": {
+    "id": "TM-00558",
+    "url": "/du-lich/lang-sung-thuy-ung/",
+    "title": "Làng sừng Thụy Ứng Thường Tín: làng làm lược sừng, xem chế tác",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng sừng thụy ứng, làng lược sừng thụy ứng, lược sừng thụy ứng, làng nghề sừng thường tín, đồ mỹ nghệ sừng hà nội, thụy ứng hòa bình thường tín",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Thụy Ứng ở đâu, hơn 400 năm nghề sừng",
+        "<p></p>"
+      ],
+      [
+        "Từ sừng trâu bò thành lược: các công đoạn chế tác",
+        "<p></p>"
+      ],
+      [
+        "Sản phẩm ngày nay: lược, trang sức, đèn ngủ, đồ mỹ nghệ",
+        "<p></p>"
+      ],
+      [
+        "Điểm du lịch làng nghề và câu chuyện nghệ nhân giữ nghề",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo quốc lộ 1A, tỉnh lộ 427",
+        "<p></p>"
+      ],
+      [
+        "Đến xem nghề thế nào cho lịch sự: hẹn trước, mua hàng, chụp ảnh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/sunday/1666537/thuy-ung-horn-comb-craft-a-unique-heritage-in-ha-noi.html",
+        "quote": "Việt Nam News (TTXVN), 'Thụy Ứng horn comb craft: a unique heritage in Hà Nội' (10/11/2024; đọc 14/10/2026): làng Thụy Ứng, xã Hòa Bình, huyện Thường Tín, hơn 400 năm lịch sử, được giới thiệu là làng duy nhất miền Bắc chuyên làm lược từ sừng trâu bò; đường đi: theo quốc lộ 1A về phía nam tới ga Thường Tín, rẽ tỉnh lộ 427 về phía tây khoảng 3 km; nguyên liệu sừng, móng trâu từ vùng núi phía Bắc, khi thiếu nhập từ Lào, Thái Lan, Campuchia, châu Phi; quy trình: cắt sừng dày khoảng 4–5 mm, trước kia ủ tro nóng, nay luộc trong dầu khoảng 200°C trong 4–5 phút rồi rửa nước lạnh, ép phẳng bằng máy ép thủy lực; Hà Nội đã công nhận Thụy Ứng là điểm du lịch, địa phương quy hoạch thêm hai khu 61,2 ha cho hộ làm nghề, cửa hàng, trưng bày; sản phẩm thêm vòng tay, trang sức, dụng cụ mát-xa.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/an-sinh-AFA9C5670/ha-noi-giu-lua-nghe-sung-lam-giau-ben-vung-tu-tinh-hoa-thuy-ung-fd59dc5ae.html",
+        "quote": "Báo Thanh tra (Thanh tra Chính phủ), 'Hà Nội: Giữ lửa nghề sừng...' (24/10/2025; đọc 14/10/2026): nghệ nhân, cựu chiến binh Nguyễn Văn Sử (sinh 1960) làng nghề Thụy Ứng, hơn nửa thế kỷ gắn bó nghề, lập cơ sở mỹ nghệ Mười Sử, tạo việc làm cho nhiều lao động trong làng; hàng trăm mẫu sản phẩm từ sừng: lược, trang sức, khung tranh, đèn ngủ, biểu tượng Khuê Văn Các; bộ sản phẩm Khuê Văn Các từng đoạt giải nhất cuộc thi thiết kế thủ công mỹ nghệ Hà Nội; tại Hội chợ Mùa Thu ông trình diễn các công đoạn cưa, ép phẳng, mài, chạm khắc; ông mong người trẻ đến tận làng nghề để học, để làm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/an-sinh-AFA9C5670/giu-hon-sung-viet-hanh-trinh-lam-giau-va-lan-toa-sinh-ke-ben-vung-cua-nghe-nhan-nguyen-van-su-fd59de286.html",
+        "quote": "Báo Thanh tra, 'Giữ hồn sừng Việt...' (26/10/2025; đọc 14/10/2026): nguyên liệu là sừng trâu, bò; xưởng của ông Sử mỗi năm chế tác hàng nghìn sản phẩm; ông Sử thường tổ chức các buổi trải nghiệm miễn phí cho học sinh, thế hệ trẻ tìm hiểu nghề (theo bài báo, không phải lịch cố định); phôi sừng qua các công đoạn cưa, giũa, mài để thành sản phẩm.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00558"
+  }
+}

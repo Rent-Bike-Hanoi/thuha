@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w26b",
+  "queued": "2026-10-14T02:10:48.590957+00:00",
+  "topic": {
+    "topic_id": "TM-00559",
+    "url": "/du-lich/lang-gom-kim-lan/",
+    "title": "Làng gốm Kim Lan Gia Lâm: làng gốm cổ cạnh Bát Tràng, xem gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng gốm kim lan",
+    "secondary_keywords": [
+      "gốm kim lan",
+      "bảo tàng gốm kim lan",
+      "kim lan gia lâm",
+      "làng gốm cổ ven sông hồng",
+      "di chỉ kim lan"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã đi Bát Tràng hoặc thích gốm muốn tìm một làng gốm ít đông hơn ngay bên cạnh: Kim Lan ở đâu so với Bát Tràng, có gì khác, khu trưng bày gốm cổ ở đâu, xem lò gốm thế nào và đi xe máy từ Long Biên ra sao.",
+    "information_gain": "/du-lich/lang-gom-bat-trang/ chỉ nói Bát Tràng (đường đê từ Long Biên, chợ gốm, vé bảo tàng) và không nhắc Kim Lan; /du-lich/ecopark-di-xe-may-tu-long-bien/ đi cùng hướng đê nhưng là điểm khác. Bài mới bổ sung: Kim Lan chỉ cách Bát Tràng kênh Bắc Hưng Hải; di chỉ khảo cổ bến Đình/bãi Hàm Rồng khai quật 2001–2003 (Bảo tàng Lịch sử Quốc gia) với lớp văn hóa thế kỷ IX–X và đậm đặc gốm thời Trần; khu trưng bày gốm sứ và lịch sử xã cạnh UBND xã; khoảng 400 hộ có lò; nghề gốm Kim Lan vào danh mục di sản văn hóa phi vật thể quốc gia và công bố Điểm du lịch Kim Lan (lễ công bố đầu 2025); men tro trấu, men 'hoàng kim', các tác phẩm kỷ lục.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-gom-kim-lan-di-san-nghe-thuat-tinh-hoa-vuot-thoi-gian-post865730.html",
+        "quote": "Nhân Dân, ảnh 'Gốm Kim Lan – di sản nghệ thuật tinh hoa vượt thời gian' (18/3/2025; đọc 14/10/2026): làng gốm Kim Lan, xã Kim Đức (Gia Lâm), được tôn vinh là Di sản văn hóa phi vật thể quốc gia; bài nói làng nghề cổ 'từ thế kỷ 7'; men tro trấu từ thế kỷ IX, rực rỡ thời Lý – Trần; thợ sáng tạo men 'hoàng kim'; nghệ nhân Đào Việt Bình (Chủ tịch Hội Gốm sứ Kim Lan) với tác phẩm 'Hùng ca Điện Biên' (đường kính 1,65 m, cao 1,1 m); chóe 'Long phụng sum vầy' cao 3,2 m; nghệ nhân đang thử phục chế men ngọc thời Lý – Trần.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/lang-gom-co-kim-lan-hoi-sinh-ky-tich-10340830.html",
+        "quote": "Đại biểu Nhân dân, 'Làng gốm cổ Kim Lan hồi sinh kỳ tích' (3/7/2024; đọc 14/10/2026): Kim Lan thuộc huyện Gia Lâm, phía Bắc giáp làng cổ Bát Tràng, chỉ cách Bát Tràng dòng kênh Bắc Hưng Hải; khai quật di chỉ bãi Hàm Rồng các năm 2001 và 2003; bài nói từ thế kỷ VIII gốm Kim Lan được xếp vào sản vật quý, đến thế kỷ XVIII nghề dần mai một; hiện xã có gần 400 hộ có lò gốm hoạt động; du khách có thể thăm lò gốm, gian hàng và Khu trưng bày gốm sứ và lịch sử xã Kim Lan, nằm liền kề khuôn viên UBND xã, do nhóm cao niên 'Tìm về nguồn cội' và TS Nhật Bản Nishimura Masanari sưu tầm, xây dựng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/en/Articles/3181/8416/excavation-of-the-site-kim-lan-gia-lam-hanoi.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'Excavation of the site Kim Lan (Gia Lâm, Hà Nội)' (bản tiếng Anh, không ghi ngày; đọc 14/10/2026): Kim Lan là xã bên tả ngạn sông Hồng, gồm 16 thôn; di tích được giới khảo cổ biết từ cuối năm 2000; đầu năm 2003 Bảo tàng Lịch sử Việt Nam và Sở Văn hóa Thông tin khai quật khẩn cấp; tập trung ở khu bến Đình, thôn Chùa; gốm có niên đại từ thời Đường (thế kỷ VII–X) đến thời Lê (XVII–XVIII), đậm đặc nhất gốm thời Trần; 4 hố, tổng gần 200 m²; lớp văn hóa thế kỷ IX–X và lớp thời Trần (XIII–XIV) với bao nung, con kê, phế phẩm gốm; Kim Lan và Bát Tràng có thể từng là một vùng nghề.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/ve-kim-lan-nghe-hung-ca-cua-dat-266747.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Về Kim Lan nghe hùng ca của đất' (7/4/2024; đọc 14/10/2026): Kim Lan chỉ cách Bát Tràng một con sông, giới trong nghề gọi là 'cái nôi của gốm'; nghệ nhân Đào Việt Bình được Hà Nội phong danh hiệu nghệ nhân năm 2013; thống gốm 'Hùng ca Điện Biên' cao 1,2 m, đường kính 1,6 m, mất 10 tháng hoàn thành (số đo khác Nhân Dân 2025).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/du-lich-ha-noi-tap-trung-vao-san-pham-trai-nghiemgan-voi-gia-tri-di-san.htm",
+        "quote": "VnEconomy (21/3/2025; đọc 14/10/2026): chương trình 'Du lịch Hà Nội chào 2025 – Get on Hanoi 2025' (đầu tháng 3/2025) mở màn hơn 60 hoạt động, trong đó có 'Lễ công bố Nghề gốm Kim Lan – Di sản văn hóa phi vật thể quốc gia, Công bố Điểm du lịch Kim Lan, huyện Gia Lâm'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng gốm kim lan"
+      }
+    ],
+    "notes": "Niên đại khởi nghề mâu thuẫn (Nhân Dân 2025 'thế kỷ 7', Đại biểu Nhân dân 'thế kỷ VIII', khảo cổ: lớp cư trú – sản xuất từ thế kỷ IX–X, gốm thời Đường trong di chỉ) – không đưa năm vào tiêu đề, viết theo kết quả khảo cổ. Kích thước tác phẩm 'Hùng ca Điện Biên' khác nhau giữa hai báo – không đưa. Tên xã: Nhân Dân 3/2025 ghi 'xã Kim Đức (Gia Lâm)' (sau sáp nhập cấp xã đầu 2025, trước 1/7/2025); tên xã sau 1/7/2025 chưa có nguồn – viết 'làng Kim Lan (trước thuộc huyện Gia Lâm)'. Điểm du lịch Kim Lan: VnEconomy 3/2025 ghi có lễ công bố Điểm du lịch Kim Lan đầu 2025; mốc 'từ 8/2024' chỉ thấy trong snippet tìm kiếm (special.nhandan.vn), chưa mở được – không ghi tháng/năm quyết định, chỉ viết 'được công bố là điểm du lịch, lễ công bố đầu năm 2025'. Giờ mở khu trưng bày, vé, giá trải nghiệm vuốt gốm: không có nguồn; khuyên liên hệ lò/hộ trước, không hứa được trải nghiệm. Khu trưng bày gọi là 'Khu trưng bày gốm sứ và lịch sử xã Kim Lan' (theo nguồn 2024).",
+    "outline": [
+      "Kim Lan ở đâu, cách Bát Tràng một con kênh",
+      "Di chỉ gốm cổ: khai quật 2001–2003 tìm thấy gì",
+      "Nghề gốm hôm nay: men tro trấu, men hoàng kim, tác phẩm cỡ lớn",
+      "Khu trưng bày gốm sứ và lịch sử xã, lò gốm, đình chùa",
+      "Di sản văn hóa phi vật thể quốc gia 2025",
+      "Đi xe máy từ Long Biên theo đê, ghép với Bát Tràng; lưu ý khi vào lò"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/ecopark-di-xe-may-tu-long-bien/",
+      "/du-lich/lang-kieu-ky-dat-vang/",
+      "/du-lich/ha-noi/ben-xe-gia-lam/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00559.json",
+  "draft_template": {
+    "id": "TM-00559",
+    "url": "/du-lich/lang-gom-kim-lan/",
+    "title": "Làng gốm Kim Lan Gia Lâm: làng gốm cổ cạnh Bát Tràng, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gốm kim lan, gốm kim lan, bảo tàng gốm kim lan, kim lan gia lâm, làng gốm cổ ven sông hồng, di chỉ kim lan",
+    "excerpt": "",
+    "sections": [
+      [
+        "Kim Lan ở đâu, cách Bát Tràng một con kênh",
+        "<p></p>"
+      ],
+      [
+        "Di chỉ gốm cổ: khai quật 2001–2003 tìm thấy gì",
+        "<p></p>"
+      ],
+      [
+        "Nghề gốm hôm nay: men tro trấu, men hoàng kim, tác phẩm cỡ lớn",
+        "<p></p>"
+      ],
+      [
+        "Khu trưng bày gốm sứ và lịch sử xã, lò gốm, đình chùa",
+        "<p></p>"
+      ],
+      [
+        "Di sản văn hóa phi vật thể quốc gia 2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên theo đê, ghép với Bát Tràng; lưu ý khi vào lò",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/anh-gom-kim-lan-di-san-nghe-thuat-tinh-hoa-vuot-thoi-gian-post865730.html",
+        "quote": "Nhân Dân, ảnh 'Gốm Kim Lan – di sản nghệ thuật tinh hoa vượt thời gian' (18/3/2025; đọc 14/10/2026): làng gốm Kim Lan, xã Kim Đức (Gia Lâm), được tôn vinh là Di sản văn hóa phi vật thể quốc gia; bài nói làng nghề cổ 'từ thế kỷ 7'; men tro trấu từ thế kỷ IX, rực rỡ thời Lý – Trần; thợ sáng tạo men 'hoàng kim'; nghệ nhân Đào Việt Bình (Chủ tịch Hội Gốm sứ Kim Lan) với tác phẩm 'Hùng ca Điện Biên' (đường kính 1,65 m, cao 1,1 m); chóe 'Long phụng sum vầy' cao 3,2 m; nghệ nhân đang thử phục chế men ngọc thời Lý – Trần.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/lang-gom-co-kim-lan-hoi-sinh-ky-tich-10340830.html",
+        "quote": "Đại biểu Nhân dân, 'Làng gốm cổ Kim Lan hồi sinh kỳ tích' (3/7/2024; đọc 14/10/2026): Kim Lan thuộc huyện Gia Lâm, phía Bắc giáp làng cổ Bát Tràng, chỉ cách Bát Tràng dòng kênh Bắc Hưng Hải; khai quật di chỉ bãi Hàm Rồng các năm 2001 và 2003; bài nói từ thế kỷ VIII gốm Kim Lan được xếp vào sản vật quý, đến thế kỷ XVIII nghề dần mai một; hiện xã có gần 400 hộ có lò gốm hoạt động; du khách có thể thăm lò gốm, gian hàng và Khu trưng bày gốm sứ và lịch sử xã Kim Lan, nằm liền kề khuôn viên UBND xã, do nhóm cao niên 'Tìm về nguồn cội' và TS Nhật Bản Nishimura Masanari sưu tầm, xây dựng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/en/Articles/3181/8416/excavation-of-the-site-kim-lan-gia-lam-hanoi.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'Excavation of the site Kim Lan (Gia Lâm, Hà Nội)' (bản tiếng Anh, không ghi ngày; đọc 14/10/2026): Kim Lan là xã bên tả ngạn sông Hồng, gồm 16 thôn; di tích được giới khảo cổ biết từ cuối năm 2000; đầu năm 2003 Bảo tàng Lịch sử Việt Nam và Sở Văn hóa Thông tin khai quật khẩn cấp; tập trung ở khu bến Đình, thôn Chùa; gốm có niên đại từ thời Đường (thế kỷ VII–X) đến thời Lê (XVII–XVIII), đậm đặc nhất gốm thời Trần; 4 hố, tổng gần 200 m²; lớp văn hóa thế kỷ IX–X và lớp thời Trần (XIII–XIV) với bao nung, con kê, phế phẩm gốm; Kim Lan và Bát Tràng có thể từng là một vùng nghề.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/ve-kim-lan-nghe-hung-ca-cua-dat-266747.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Về Kim Lan nghe hùng ca của đất' (7/4/2024; đọc 14/10/2026): Kim Lan chỉ cách Bát Tràng một con sông, giới trong nghề gọi là 'cái nôi của gốm'; nghệ nhân Đào Việt Bình được Hà Nội phong danh hiệu nghệ nhân năm 2013; thống gốm 'Hùng ca Điện Biên' cao 1,2 m, đường kính 1,6 m, mất 10 tháng hoàn thành (số đo khác Nhân Dân 2025).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/du-lich-ha-noi-tap-trung-vao-san-pham-trai-nghiemgan-voi-gia-tri-di-san.htm",
+        "quote": "VnEconomy (21/3/2025; đọc 14/10/2026): chương trình 'Du lịch Hà Nội chào 2025 – Get on Hanoi 2025' (đầu tháng 3/2025) mở màn hơn 60 hoạt động, trong đó có 'Lễ công bố Nghề gốm Kim Lan – Di sản văn hóa phi vật thể quốc gia, Công bố Điểm du lịch Kim Lan, huyện Gia Lâm'.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00559"
+  }
+}

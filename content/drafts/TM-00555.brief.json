@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w26a",
+  "queued": "2026-10-14T02:10:48.402723+00:00",
+  "topic": {
+    "topic_id": "TM-00555",
+    "url": "/du-lich/den-thuong-ba-vi/",
+    "title": "Đền Thượng Ba Vì: đền thờ Tản Viên trên núi, đền Trung, đền Hạ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền thượng ba vì",
+    "secondary_keywords": [
+      "đền thờ tản viên sơn thánh ba vì",
+      "đền mẫu cửu trùng thiên",
+      "đền hạ minh quang",
+      "đền trung ba vì",
+      "lễ hội tản viên sơn thánh"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi lễ và khách lên Vườn quốc gia Ba Vì muốn biết đền Thượng thờ ai, nằm ở đâu trên núi, phải leo bao nhiêu bậc lên đỉnh Tản Viên, đền Trung – đền Hạ khác gì và lễ hội Tản Viên Sơn Thánh diễn ra khi nào.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ chỉ nói đường lên Vườn quốc gia, ba đỉnh núi và thông báo giờ mở cửa; không nhắc đền Thượng, đền Trung, đền Hạ. /du-lich/khu-du-lich-ao-vua-ba-vi/ và /du-lich/ho-suoi-hai/ là điểm khác. Bài mới bổ sung: đền Thượng (Chính cung thần điện) thờ Tản Viên Sơn Thánh, dựng lại 1993, trùng tu từ 2010, cụm đền Thượng – Trung – Hạ xếp hạng quốc gia 2008; bố trí thờ trong hậu cung; leo thêm hơn trăm bậc lên ban Mẫu Cửu Trùng Thiên ở độ cao 1.227 m; lễ hội Tản Viên Sơn Thánh chính lễ 14 tháng Giêng tại đền Hạ (xã Minh Quang cũ), lễ rước nước sông Đà đêm 13; tục thờ được công nhận di sản phi vật thể quốc gia 2018.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vuonquocgiabavi.com.vn/gioi-thieu-den-thuong/",
+        "quote": "Vườn quốc gia Ba Vì, trang 'Giới thiệu Đền Thượng – Đền Mẫu Cửu Trùng Thiên' (không ghi ngày; đọc 14/10/2026): đền Thượng còn gọi Chính cung thần điện, thờ Đức Thánh Tản Viên Sơn; tương truyền dựng từ thời An Dương Vương dưới mái núi thắt cổ bồng; dẫn Dư địa chí: năm 1142 đời Lý Nhân Tông xây đền thờ thần núi Tản Viên; đền cũ không còn, chỉ còn 3 pho tượng và bát hương cổ; năm 1993 trùng tu thành đền nhỏ tựa vách núi; năm 2008 đền Thượng cùng đền Trung và đền Hạ được công nhận di tích lịch sử văn hóa cấp Quốc gia; năm 2010 Hà Nội khởi công trùng tu; đền chia 2 gian (Đại Bái và hậu cung); hậu cung có tượng Đức Thánh Tản, bên tả thờ thân mẫu Đinh Thị Đen, dưỡng mẫu Ma Thị Cao Sơn và Công chúa Ngọc Hoa, bên hữu thờ Thái Bạch Kim Tinh; cây bách cổ mọc từ kẽ đá cách đền hơn 100 m; qua sân đền leo thêm hơn trăm bậc đá tới ban thờ Mẫu Cửu Trùng Thiên ở độ cao 1.227 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/le-hoi-tan-vien-son-thanh-va-khai-mac-mua-du-lich-ba-vi-post360681.html",
+        "quote": "Đại biểu Nhân dân (21/2/2024; đọc 14/10/2026): Lễ hội Tản Viên Sơn Thánh 2024 diễn ra từ ngày 14 tháng Giêng Giáp Thìn (23/2) tại di tích quốc gia đền Hạ, xã Minh Quang, huyện Ba Vì; huyện có trên 100 di tích thờ Tản Viên Sơn Thánh; lễ hội tập trung tại cụm di tích đền Thượng – đền Trung – đền Hạ thuộc hai xã Minh Quang và Ba Vì; phần lễ từ đêm 13 tháng Giêng với lễ rước nước từ sông Đà về làm lễ mộc dục tại đền Hạ; rước kiệu từ đền Hạ sang đền Lăng Sương và về, từ 5h30–8h30 ngày 14 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/huyen-ba-vi-khai-mac-le-hoi-tan-vien-son-thanh-va-khai-truong-du-lich-nam-2025-a153649.html",
+        "quote": "Luật sư Việt Nam (12/2/2025; đọc 14/10/2026): ngày 11/02/2025 tại di tích quốc gia đền Hạ, Ba Vì tổ chức lễ hội Tản Viên Sơn Thánh xuân Ất Tỵ và khai trương Năm du lịch 2025; huyện có 397 di tích, 120 di tích thờ Đức Thánh Tản; lễ hội duy trì 15 năm; tục thờ Đức Thánh được Bộ VHTTDL công nhận di sản văn hóa phi vật thể năm 2018; thống nhất tổ chức chính lễ đúng ngày 14 tháng Giêng hằng năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/di-le-den-tan-vien-son-thanh-10250058.html",
+        "quote": "Đại Đoàn Kết, 'Đi lễ Đền Tản Viên Sơn Thánh' (28/4/2023; đọc 14/10/2026): đền Thượng trên đỉnh núi Tản Viên, thuộc khu du lịch Vườn quốc gia Ba Vì; năm 1993 xây dựng lại tựa lưng vào vách núi; 'Từ Đền Thượng leo thêm hơn nghìn bậc đá nữa là đến khu vực Đền thờ Bác Hồ ở độ cao gần 1.300 mét, đỉnh cao nhất của dãy núi Ba Vì'; Tản Viên đứng đầu 'Tứ bất tử'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonquocgiabavi.com.vn/thong-bao-ve-viec-dieu-chinh-thoi-gian-mo-cua-ban-ve-don-khach-vao-tham-quan-vuon-quoc-gia-ba-vi-2/",
+        "quote": "Vườn quốc gia Ba Vì, 'Thông báo về việc điều chỉnh thời gian mở cửa bán vé, đón khách vào tham quan Vườn quốc gia Ba Vì' (đăng 6/10/2026; đọc 14/10/2026): trang có tiêu đề thông báo và địa chỉ 'Xã Suối Hai, Thành phố Hà Nội'; nội dung giờ mở cửa không đọc được dạng chữ (có thể là ảnh).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền thượng ba vì"
+      }
+    ],
+    "notes": "Không ghi giờ mở cửa/giá vé Vườn quốc gia: thông báo 6/10/2026 không đọc được nội dung; dẫn link và khuyên xem trực tiếp. Số bậc đá mâu thuẫn và dễ sai: trang VQG nói 'hơn trăm bậc' từ sân đền lên ban Mẫu (1.227 m); Đại Đoàn Kết nói 'hơn nghìn bậc' từ đền Thượng lên đền thờ Bác Hồ (gần 1.300 m); các blog du lịch ghi khoảng 500 bậc – không đưa con số tổng vào tiêu đề, chỉ trích từng nguồn. Đền Trung, đền Hạ: chỉ có nguồn nói thuộc xã Minh Quang và xã Ba Vì (cũ) và đền Hạ là nơi khai hội; trang vietnamtourism.gov.vn/post/16884 (có mô tả đền Trung ở cốt khoảng 600 m) không tải được nên KHÔNG dùng con số 600 m. Tên xã mới sau 1/7/2025 chỉ có 'xã Suối Hai' cho địa chỉ VQG (theo trang VQG); đền Hạ ghi 'xã Minh Quang (cũ)'. Ngày dương lịch lễ hội 2027 chưa có nguồn. Nhà thờ đổ Ba Vì và các điểm khác trong Vườn quốc gia nên là mục nâng cấp cho /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/, không tách URL.",
+    "outline": [
+      "Đền Thượng Ba Vì thờ ai, nằm ở đâu trong Vườn quốc gia",
+      "Lịch sử: từ đền cổ đến lần dựng lại 1993 và trùng tu 2010",
+      "Trong đền thờ những ai",
+      "Lên ban Mẫu Cửu Trùng Thiên và đền thờ Bác: số bậc theo từng nguồn",
+      "Đền Trung, đền Hạ và lễ hội Tản Viên Sơn Thánh 14 tháng Giêng",
+      "Đi xe máy lên núi, giờ mở cửa Vườn quốc gia (xem thông báo mới nhất)"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/khu-du-lich-ao-vua-ba-vi/",
+      "/du-lich/ho-suoi-hai/",
+      "/xe-may/chon-xe-so-hay-xe-ga/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00555.json",
+  "draft_template": {
+    "id": "TM-00555",
+    "url": "/du-lich/den-thuong-ba-vi/",
+    "title": "Đền Thượng Ba Vì: đền thờ Tản Viên trên núi, đền Trung, đền Hạ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền thượng ba vì, đền thờ tản viên sơn thánh ba vì, đền mẫu cửu trùng thiên, đền hạ minh quang, đền trung ba vì, lễ hội tản viên sơn thánh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Thượng Ba Vì thờ ai, nằm ở đâu trong Vườn quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: từ đền cổ đến lần dựng lại 1993 và trùng tu 2010",
+        "<p></p>"
+      ],
+      [
+        "Trong đền thờ những ai",
+        "<p></p>"
+      ],
+      [
+        "Lên ban Mẫu Cửu Trùng Thiên và đền thờ Bác: số bậc theo từng nguồn",
+        "<p></p>"
+      ],
+      [
+        "Đền Trung, đền Hạ và lễ hội Tản Viên Sơn Thánh 14 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy lên núi, giờ mở cửa Vườn quốc gia (xem thông báo mới nhất)",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vuonquocgiabavi.com.vn/gioi-thieu-den-thuong/",
+        "quote": "Vườn quốc gia Ba Vì, trang 'Giới thiệu Đền Thượng – Đền Mẫu Cửu Trùng Thiên' (không ghi ngày; đọc 14/10/2026): đền Thượng còn gọi Chính cung thần điện, thờ Đức Thánh Tản Viên Sơn; tương truyền dựng từ thời An Dương Vương dưới mái núi thắt cổ bồng; dẫn Dư địa chí: năm 1142 đời Lý Nhân Tông xây đền thờ thần núi Tản Viên; đền cũ không còn, chỉ còn 3 pho tượng và bát hương cổ; năm 1993 trùng tu thành đền nhỏ tựa vách núi; năm 2008 đền Thượng cùng đền Trung và đền Hạ được công nhận di tích lịch sử văn hóa cấp Quốc gia; năm 2010 Hà Nội khởi công trùng tu; đền chia 2 gian (Đại Bái và hậu cung); hậu cung có tượng Đức Thánh Tản, bên tả thờ thân mẫu Đinh Thị Đen, dưỡng mẫu Ma Thị Cao Sơn và Công chúa Ngọc Hoa, bên hữu thờ Thái Bạch Kim Tinh; cây bách cổ mọc từ kẽ đá cách đền hơn 100 m; qua sân đền leo thêm hơn trăm bậc đá tới ban thờ Mẫu Cửu Trùng Thiên ở độ cao 1.227 m.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/le-hoi-tan-vien-son-thanh-va-khai-mac-mua-du-lich-ba-vi-post360681.html",
+        "quote": "Đại biểu Nhân dân (21/2/2024; đọc 14/10/2026): Lễ hội Tản Viên Sơn Thánh 2024 diễn ra từ ngày 14 tháng Giêng Giáp Thìn (23/2) tại di tích quốc gia đền Hạ, xã Minh Quang, huyện Ba Vì; huyện có trên 100 di tích thờ Tản Viên Sơn Thánh; lễ hội tập trung tại cụm di tích đền Thượng – đền Trung – đền Hạ thuộc hai xã Minh Quang và Ba Vì; phần lễ từ đêm 13 tháng Giêng với lễ rước nước từ sông Đà về làm lễ mộc dục tại đền Hạ; rước kiệu từ đền Hạ sang đền Lăng Sương và về, từ 5h30–8h30 ngày 14 tháng Giêng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/huyen-ba-vi-khai-mac-le-hoi-tan-vien-son-thanh-va-khai-truong-du-lich-nam-2025-a153649.html",
+        "quote": "Luật sư Việt Nam (12/2/2025; đọc 14/10/2026): ngày 11/02/2025 tại di tích quốc gia đền Hạ, Ba Vì tổ chức lễ hội Tản Viên Sơn Thánh xuân Ất Tỵ và khai trương Năm du lịch 2025; huyện có 397 di tích, 120 di tích thờ Đức Thánh Tản; lễ hội duy trì 15 năm; tục thờ Đức Thánh được Bộ VHTTDL công nhận di sản văn hóa phi vật thể năm 2018; thống nhất tổ chức chính lễ đúng ngày 14 tháng Giêng hằng năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/di-le-den-tan-vien-son-thanh-10250058.html",
+        "quote": "Đại Đoàn Kết, 'Đi lễ Đền Tản Viên Sơn Thánh' (28/4/2023; đọc 14/10/2026): đền Thượng trên đỉnh núi Tản Viên, thuộc khu du lịch Vườn quốc gia Ba Vì; năm 1993 xây dựng lại tựa lưng vào vách núi; 'Từ Đền Thượng leo thêm hơn nghìn bậc đá nữa là đến khu vực Đền thờ Bác Hồ ở độ cao gần 1.300 mét, đỉnh cao nhất của dãy núi Ba Vì'; Tản Viên đứng đầu 'Tứ bất tử'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonquocgiabavi.com.vn/thong-bao-ve-viec-dieu-chinh-thoi-gian-mo-cua-ban-ve-don-khach-vao-tham-quan-vuon-quoc-gia-ba-vi-2/",
+        "quote": "Vườn quốc gia Ba Vì, 'Thông báo về việc điều chỉnh thời gian mở cửa bán vé, đón khách vào tham quan Vườn quốc gia Ba Vì' (đăng 6/10/2026; đọc 14/10/2026): trang có tiêu đề thông báo và địa chỉ 'Xã Suối Hai, Thành phố Hà Nội'; nội dung giờ mở cửa không đọc được dạng chữ (có thể là ảnh).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00555"
+  }
+}

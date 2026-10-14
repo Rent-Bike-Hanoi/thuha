@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w26b",
+  "queued": "2026-10-14T02:10:48.591570+00:00",
+  "topic": {
+    "topic_id": "TM-00561",
+    "url": "/du-lich/lang-quat-chang-son/",
+    "title": "Làng quạt Chàng Sơn Thạch Thất: quạt giấy gần 200 năm, xem làm quạt",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng quạt chàng sơn",
+    "secondary_keywords": [
+      "quạt chàng sơn",
+      "làng nghề chàng sơn",
+      "quạt giấy chàng sơn",
+      "làng nghề thạch thất",
+      "chàng sơn trăm nghề"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi chùa Tây Phương, chùa Thầy hoặc tìm quà thủ công muốn biết làng quạt Chàng Sơn ở đâu, làm những loại quạt nào, nghề có lịch sử ra sao, có thể xem làm quạt không và đến làng nghề thế nào cho phải phép.",
+    "information_gain": "Site chưa có bài về Chàng Sơn. /du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/ và /du-lich/chua-thay-di-xe-may-tu-ha-noi/ là hai chùa cùng vùng nhưng không nhắc làng quạt; /du-lich/lang-lua-van-phuc/, /du-lich/lang-non-chuong/ là làng nghề khác. Bài mới bổ sung: xã Chàng Sơn cạnh quốc lộ 80 (đi Sơn Tây), hơn nửa lao động làm tiểu thủ công nghiệp (60% năm 2020 theo báo cáo UBND xã); quạt giấy gần 200 năm, từng sang Paris triển lãm thế kỷ 19; chuyển từ quạt mát sang quạt trang trí, quạt the, lụa, giấy dó, đạo cụ biểu diễn; chuyện nghệ nhân Dương Văn Mơ và quạt kỷ lục 9 × 4,5 m; nghệ nhân Nguyễn Thị Tuấn đón khách và học sinh xem làm quạt.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nang-tam-lang-nghe-truyen-thong-post694227.html",
+        "quote": "Nhân Dân, 'Nâng tầm làng nghề truyền thống' (23/4/2022; đọc 14/10/2026): làng nghề thuộc xã Chàng Sơn, huyện Thạch Thất, nổi danh nghề quạt giấy; theo các bậc cao niên nghề có gần 200 năm; từ thế kỷ 19 quạt Chàng Sơn từng được người Pháp đem sang Paris triển lãm; thời bao cấp xã chuyên sản xuất quạt giấy cho Nhà nước; nghệ nhân Dương Văn Mơ (sinh 1935) phục chế quạt cổ, làm quạt the, quạt lượt cho đoàn nghệ thuật, sáng tạo quạt tranh; chiếc quạt kỷ lục lớn nhất Việt Nam dài 9 m, cao 4,5 m; cụ Mơ mất năm 2018, con trai Dương Văn Đoàn nối nghề, làm quạt trang trí cỡ lớn, tranh quạt in trên lụa hoặc mây tre.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/nguoi-dem-lan-gio-moi-den-quat-chang-son-post802122.html",
+        "quote": "Nhân Dân, 'Người đem làn gió mới đến quạt Chàng Sơn' (29/3/2024; đọc 14/10/2026): quạt Chàng Sơn nay chủ yếu dùng trang trí, làm quà lưu niệm; nhiều khách trong nước và quốc tế về Chàng Sơn trải nghiệm, mua sắm; nghệ nhân Nguyễn Thị Tuấn chuẩn bị đồ nghề để khách trải nghiệm làm quạt giấy, nhiều trường học chọn xưởng của bà cho học sinh tìm hiểu nghề; hàng trăm mẫu quạt (cảnh làng quê, di sản, thư pháp chữ Việt, Hán – Nôm, tranh dân gian); chất liệu vải, lụa, giấy dó; làng quạt Chàng Sơn đã được nhiều công ty lữ hành đưa vào khai thác du lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/giai-phap-phat-trien-lang-nghe-dien-hinh-tai-xa-chang-son--huyen-thach-that-105309.htm",
+        "quote": "Tạp chí Công Thương (Bộ Công Thương), 'Giải pháp phát triển làng nghề điển hình tại xã Chàng Sơn, huyện Thạch Thất' (24/5/2023; đọc 14/10/2026): Chàng Sơn nằm cạnh quốc lộ 80 đi Sơn Tây, diện tích tự nhiên 250 ha, 1.600 hộ, 7.630 người; lao động tiểu thủ công nghiệp năm 1996 là 2.480 người (51%), năm 2020 là 2.976 người (60% lao động toàn xã), theo báo cáo UBND xã Chàng Sơn 2020.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/quat-nghe-thuat-con-do-mot-nghe-nhan-7043.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Quạt nghệ thuật – còn đó một nghệ nhân' (1/4/2009; đọc 14/10/2026): xưởng anh Dương Văn Đoàn ở xóm Giáo, xã Chàng Sơn tạo việc làm cho hơn 100 lao động từ quạt tre; quạt gỗ kỷ lục rộng 9 m, cao 4,5 m của nghệ nhân Dương Văn Mơ trưng bày ở lễ hội phố hoa Tết Kỷ Sửu (2009). (Nguồn cũ, chỉ dùng cho bối cảnh.)",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng quạt chàng sơn"
+      }
+    ],
+    "notes": "Tất cả nguồn đều trước 2025 – không có thông tin mới về số hộ còn làm quạt, giờ đón khách, giá trải nghiệm: không viết giá, không hứa được làm quạt; khuyên khách liên hệ trước với hộ/xưởng (không nêu số điện thoại). Thời điểm quạt kỷ lục mâu thuẫn (Tết Kỷ Sửu 2009 theo báo TG&VN; Nhân Dân 2022 gắn với Đại lễ 1.000 năm 2010) – chỉ nêu kích thước, không nêu năm. Chàng Sơn còn có nghề mộc, khảm, may... (nguồn không chi tiết) – không mở rộng. Tên xã: 'xã Chàng Sơn, huyện Thạch Thất (cũ)'; chưa có nguồn nêu xã mới sau 1/7/2025. Chuồn chuồn tre Thạch Xá (gần chùa Tây Phương) không đủ nguồn mới để tách bài – nên là mục nâng cấp cho bài chùa Tây Phương.",
+    "outline": [
+      "Làng quạt Chàng Sơn ở đâu, cạnh quốc lộ 80",
+      "Gần 200 năm quạt giấy: từ quạt mát đến quạt trang trí",
+      "Các loại quạt: giấy, the, lụa, giấy dó, quạt tranh, đạo cụ biểu diễn",
+      "Những nghệ nhân giữ nghề và chiếc quạt kỷ lục",
+      "Xem làm quạt: hẹn trước, mua quà, chụp ảnh lịch sự",
+      "Ghép Chàng Sơn với chùa Tây Phương, chùa Thầy bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-tay-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-thay-di-xe-may-tu-ha-noi/",
+      "/du-lich/lang-lua-van-phuc/",
+      "/du-lich/lang-non-chuong/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00561.json",
+  "draft_template": {
+    "id": "TM-00561",
+    "url": "/du-lich/lang-quat-chang-son/",
+    "title": "Làng quạt Chàng Sơn Thạch Thất: quạt giấy gần 200 năm, xem làm quạt",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng quạt chàng sơn, quạt chàng sơn, làng nghề chàng sơn, quạt giấy chàng sơn, làng nghề thạch thất, chàng sơn trăm nghề",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng quạt Chàng Sơn ở đâu, cạnh quốc lộ 80",
+        "<p></p>"
+      ],
+      [
+        "Gần 200 năm quạt giấy: từ quạt mát đến quạt trang trí",
+        "<p></p>"
+      ],
+      [
+        "Các loại quạt: giấy, the, lụa, giấy dó, quạt tranh, đạo cụ biểu diễn",
+        "<p></p>"
+      ],
+      [
+        "Những nghệ nhân giữ nghề và chiếc quạt kỷ lục",
+        "<p></p>"
+      ],
+      [
+        "Xem làm quạt: hẹn trước, mua quà, chụp ảnh lịch sự",
+        "<p></p>"
+      ],
+      [
+        "Ghép Chàng Sơn với chùa Tây Phương, chùa Thầy bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nang-tam-lang-nghe-truyen-thong-post694227.html",
+        "quote": "Nhân Dân, 'Nâng tầm làng nghề truyền thống' (23/4/2022; đọc 14/10/2026): làng nghề thuộc xã Chàng Sơn, huyện Thạch Thất, nổi danh nghề quạt giấy; theo các bậc cao niên nghề có gần 200 năm; từ thế kỷ 19 quạt Chàng Sơn từng được người Pháp đem sang Paris triển lãm; thời bao cấp xã chuyên sản xuất quạt giấy cho Nhà nước; nghệ nhân Dương Văn Mơ (sinh 1935) phục chế quạt cổ, làm quạt the, quạt lượt cho đoàn nghệ thuật, sáng tạo quạt tranh; chiếc quạt kỷ lục lớn nhất Việt Nam dài 9 m, cao 4,5 m; cụ Mơ mất năm 2018, con trai Dương Văn Đoàn nối nghề, làm quạt trang trí cỡ lớn, tranh quạt in trên lụa hoặc mây tre.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/nguoi-dem-lan-gio-moi-den-quat-chang-son-post802122.html",
+        "quote": "Nhân Dân, 'Người đem làn gió mới đến quạt Chàng Sơn' (29/3/2024; đọc 14/10/2026): quạt Chàng Sơn nay chủ yếu dùng trang trí, làm quà lưu niệm; nhiều khách trong nước và quốc tế về Chàng Sơn trải nghiệm, mua sắm; nghệ nhân Nguyễn Thị Tuấn chuẩn bị đồ nghề để khách trải nghiệm làm quạt giấy, nhiều trường học chọn xưởng của bà cho học sinh tìm hiểu nghề; hàng trăm mẫu quạt (cảnh làng quê, di sản, thư pháp chữ Việt, Hán – Nôm, tranh dân gian); chất liệu vải, lụa, giấy dó; làng quạt Chàng Sơn đã được nhiều công ty lữ hành đưa vào khai thác du lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/giai-phap-phat-trien-lang-nghe-dien-hinh-tai-xa-chang-son--huyen-thach-that-105309.htm",
+        "quote": "Tạp chí Công Thương (Bộ Công Thương), 'Giải pháp phát triển làng nghề điển hình tại xã Chàng Sơn, huyện Thạch Thất' (24/5/2023; đọc 14/10/2026): Chàng Sơn nằm cạnh quốc lộ 80 đi Sơn Tây, diện tích tự nhiên 250 ha, 1.600 hộ, 7.630 người; lao động tiểu thủ công nghiệp năm 1996 là 2.480 người (51%), năm 2020 là 2.976 người (60% lao động toàn xã), theo báo cáo UBND xã Chàng Sơn 2020.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/quat-nghe-thuat-con-do-mot-nghe-nhan-7043.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Quạt nghệ thuật – còn đó một nghệ nhân' (1/4/2009; đọc 14/10/2026): xưởng anh Dương Văn Đoàn ở xóm Giáo, xã Chàng Sơn tạo việc làm cho hơn 100 lao động từ quạt tre; quạt gỗ kỷ lục rộng 9 m, cao 4,5 m của nghệ nhân Dương Văn Mơ trưng bày ở lễ hội phố hoa Tết Kỷ Sửu (2009). (Nguồn cũ, chỉ dùng cho bối cảnh.)",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00561"
+  }
+}

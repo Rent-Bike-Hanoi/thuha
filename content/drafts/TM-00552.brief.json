@@ -1,0 +1,177 @@
+{
+  "writer": "writer-w26a",
+  "queued": "2026-10-14T02:10:48.401390+00:00",
+  "topic": {
+    "topic_id": "TM-00552",
+    "url": "/du-lich/dinh-tay-dang/",
+    "title": "Đình Tây Đằng Ba Vì: đình cổ thời Mạc, 'đệ nhất đình Đoài' xem gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình tây đằng",
+    "secondary_keywords": [
+      "đình tây đằng ba vì",
+      "đệ nhất đình đoài",
+      "đình cổ nhất việt nam",
+      "đình tây đằng có gì",
+      "di tích quốc gia đặc biệt ba vì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích kiến trúc cổ, học sinh sinh viên và người đi Ba Vì muốn biết đình Tây Đằng ở đâu, vì sao được gọi 'đệ nhất đình Đoài', cần xem chi tiết chạm khắc nào và có ghép được với chuyến Ba Vì, Sơn Tây trong ngày không.",
+    "information_gain": "Site chưa có bài về đình Tây Đằng. /du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ chỉ nói đường đi và Vườn quốc gia, /du-lich/thanh-co-son-tay-di-xe-may/ và /du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ không nhắc đình này. Bài mới bổ sung: quyết định xếp hạng di tích quốc gia đặc biệt 2383/QĐ-TTg ngày 9/12/2013 (đợt 4), niên đại thời Mạc thế kỷ XVI (dòng 'Quý Mùi niên tạo' ~1523 theo GS Trần Quốc Vượng), bố cục cổng – hồ bán nguyệt – nghi môn – tả hữu mạc – đại đình, 48 cột, hệ cánh gà đỡ xà hiếm thấy, hơn 1.300 chi tiết chạm, tượng Bà Banh/nữ thần kiểu Chăm, và chuyện trùng tu 2005 thay cột gỗ mít bằng gỗ lim.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-dinh-tay-dang-huyen-ba-vi-thanh-pho-ha-noi-2979",
+        "quote": "Cục Di sản văn hóa, bài 'Di tích kiến trúc nghệ thuật đình Tây Đằng (huyện Ba Vì, thành phố Hà Nội)' của Nguyễn Khắc Đoài, theo hồ sơ xếp hạng (không ghi ngày; đọc 14/10/2026): đình thuộc thôn Đông, thị trấn Tây Đằng, huyện Ba Vì; xếp hạng di tích quốc gia đặc biệt theo Quyết định 2383/QĐ-TTg ngày 09/12 (trang gõ nhầm '2103'); thờ ba vị Thành hoàng Tản Viên, Cao Sơn, Quí Minh; niên đại khởi dựng thời Mạc thế kỷ XVI, kết quả C14 ủng hộ; trùng tu gần nhất 2002–2004; kiến trúc gồm cổng, hồ bán nguyệt, nghi môn tứ trụ, tả – hữu mạc (dựng năm Canh Thân 1860), đại đình chữ Nhất 3 gian 2 chái, giếng đình; nền cao hơn sân 60 cm; 6 hàng cột, tổng 48 cột; chu vi cột cái 750 cm, cột quân 500 cm, cột hiên 280 cm (số liệu như trang ghi); phần lớn cấu kiện gỗ mít; còn hệ cánh gà đỡ xà có niên đại sớm và hiếm thấy; hậu cung sàn gỗ cao 1,9 m, 3 ngai thờ Thành hoàng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hethongphapluat.com/quyet-dinh-2383-qd-ttg-nam-2013-xep-hang-di-tich-quoc-gia-dac-biet-do-thu-tuong-chinh-phu-ban-hanh.html",
+        "quote": "Quyết định 2383/QĐ-TTg của Thủ tướng Chính phủ, Hà Nội ngày 09/12/2013, xếp hạng di tích quốc gia đặc biệt (bản đăng lại trên hethongphapluat.com, đọc 14/10/2026): mục 11 'Di tích kiến trúc nghệ thuật Đình Tây Đằng (huyện Ba Vì, thành phố Hà Nội)'; cùng đợt có Đền Hai Bà Trưng (Mê Linh), Đền Hát Môn (Phúc Thọ), Đền Phù Đổng (Gia Lâm), Hồ Hoàn Kiếm và Đền Ngọc Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/tay-dang-de-nhat-dinh-doai-627697.html",
+        "quote": "Hà Nội Mới – Nhịp sống Hà Nội, 'Tây Đằng \"đệ nhất đình Đoài\"' (9/8/2019; đọc 14/10/2026): đình ở thị trấn Tây Đằng, xếp hạng đợt 4 theo QĐ 2383/QĐ-TTg ngày 09-12-2013; theo GS Trần Quốc Vượng, Tây Đằng cùng đình Thanh Lũng, Thụy Phiêu (đều ở Ba Vì) là ba ngôi đình cổ nhất Việt Nam, dựng đầu thế kỷ XVI; bốn chữ 'Quý Mùi niên tạo' trên đầu cột cho nhận định dựng năm 1523; đại đình rộng 360 m²; 48 cột (cột cái chu vi 75 cm, cột quân 50 cm, cột hiên 28 cm), chân tảng đá ong; trong cung cấm 3 ngai thờ Thành hoàng (bài ghi: Tản Viên, Thánh Gióng và Thần Nông); 'hơn 1.300 chi tiết chạm khắc gỗ khác nhau, không có sự trùng lặp'; nhắc sai lầm của đợt trùng tu năm 2005 (thay cột gỗ mít và thông đỏ bằng gỗ lim, chân tảng đá ong bằng đá xanh).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-tay-dang-mot-di-san-van-hoa-kien-truc-doc-dao-86241.html",
+        "quote": "Người Hà Nội, 'Đình Tây Đằng - một di sản văn hóa kiến trúc độc đáo' (15/8/2024; đọc 14/10/2026): đình dựng thời Mạc (1527–1592), ngót 500 năm tuổi, thờ Đức Thánh Tản Viên; hướng Nam ghé Tây; sau trùng tu thềm nâng thành bậc tam cấp cao 75 cm; không có ván thưng xung quanh; 'Đình Tây Đằng có tới 1.300 họa tiết'; họa tiết cấy lúa, quăng chài, đàn tính, voi chầu; hình tượng nữ thần kiểu Apsara và tượng Bà Banh mang phong cách Chămpa; sàn thờ quanh năm đóng cửa trừ ngày lễ hội; năm 2005 Bộ VH-TT chủ trì trùng tu, thay cột bằng gỗ lim.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/huyen-ba-vi-khai-mac-le-hoi-tan-vien-son-thanh-va-khai-truong-du-lich-nam-2025-a153649.html",
+        "quote": "Luật sư Việt Nam (12/2/2025; đọc 14/10/2026): theo UBND huyện Ba Vì, huyện có 397 di tích, 120 di tích thờ Đức Thánh Tản, 149 di tích đã xếp hạng, tiêu biểu đình Tây Đằng (di tích quốc gia đặc biệt), đình Thụy Phiêu, đình Chu Quyến.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình tây đằng"
+      }
+    ],
+    "notes": "Địa chỉ dùng 'thôn Đông, thị trấn Tây Đằng, huyện Ba Vì (cũ)'; chưa có nguồn chính thức nêu tên xã mới sau 1/7/2025 (Wikipedia ghi xã Quảng Oai nhưng không dùng làm nguồn) – không ghi tên xã mới. Mâu thuẫn nguồn: Cục Di sản ghi 3 Thành hoàng Tản Viên – Cao Sơn – Quí Minh, Hà Nội Mới ghi Tản Viên – Thánh Gióng – Thần Nông: viết 'thờ Tản Viên Sơn Thánh và hai vị khác, nguồn ghi khác nhau'. Chu vi cột: Cục Di sản ghi 750/500/280 cm, Hà Nội Mới 75/50/28 cm – không đưa số chu vi cột. Năm 1523 là nhận định của GS Trần Quốc Vượng, không phải niên đại chắc chắn. 'Hơn 1.300' vs 'tới 1.300' chi tiết – viết 'khoảng 1.300'. Không có nguồn về giờ mở cửa, vé, ngày lễ hội, chỗ gửi xe, khoảng cách từ Hà Nội: không viết; khuyên khách liên hệ ban quản lý đình/UBND xã sở tại. Nguồn Hà Nội Mới 2019 trước 2025 (chỉ dùng cho kiến trúc).",
+    "outline": [
+      "Đình Tây Đằng ở đâu, vì sao gọi 'đệ nhất đình Đoài'",
+      "Niên đại thời Mạc và quyết định xếp hạng 2013",
+      "Bố cục: hồ bán nguyệt, nghi môn, tả hữu mạc, đại đình 48 cột",
+      "Xem gì: cánh gà đỡ xà, khoảng 1.300 chi tiết chạm, tượng Bà Banh",
+      "Chuyện trùng tu 2005 và những gì đã thay đổi",
+      "Ghép lịch với Đường Lâm, Sơn Tây, Ba Vì bằng xe máy",
+      "Lưu ý khi viếng: trang phục, sàn thờ chỉ mở ngày hội"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/thanh-co-son-tay-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00552.json",
+  "draft_template": {
+    "id": "TM-00552",
+    "url": "/du-lich/dinh-tay-dang/",
+    "title": "Đình Tây Đằng Ba Vì: đình cổ thời Mạc, 'đệ nhất đình Đoài' xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình tây đằng, đình tây đằng ba vì, đệ nhất đình đoài, đình cổ nhất việt nam, đình tây đằng có gì, di tích quốc gia đặc biệt ba vì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Tây Đằng ở đâu, vì sao gọi 'đệ nhất đình Đoài'",
+        "<p></p>"
+      ],
+      [
+        "Niên đại thời Mạc và quyết định xếp hạng 2013",
+        "<p></p>"
+      ],
+      [
+        "Bố cục: hồ bán nguyệt, nghi môn, tả hữu mạc, đại đình 48 cột",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: cánh gà đỡ xà, khoảng 1.300 chi tiết chạm, tượng Bà Banh",
+        "<p></p>"
+      ],
+      [
+        "Chuyện trùng tu 2005 và những gì đã thay đổi",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Đường Lâm, Sơn Tây, Ba Vì bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi viếng: trang phục, sàn thờ chỉ mở ngày hội",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/di-tich-kien-truc-nghe-thuat-dinh-tay-dang-huyen-ba-vi-thanh-pho-ha-noi-2979",
+        "quote": "Cục Di sản văn hóa, bài 'Di tích kiến trúc nghệ thuật đình Tây Đằng (huyện Ba Vì, thành phố Hà Nội)' của Nguyễn Khắc Đoài, theo hồ sơ xếp hạng (không ghi ngày; đọc 14/10/2026): đình thuộc thôn Đông, thị trấn Tây Đằng, huyện Ba Vì; xếp hạng di tích quốc gia đặc biệt theo Quyết định 2383/QĐ-TTg ngày 09/12 (trang gõ nhầm '2103'); thờ ba vị Thành hoàng Tản Viên, Cao Sơn, Quí Minh; niên đại khởi dựng thời Mạc thế kỷ XVI, kết quả C14 ủng hộ; trùng tu gần nhất 2002–2004; kiến trúc gồm cổng, hồ bán nguyệt, nghi môn tứ trụ, tả – hữu mạc (dựng năm Canh Thân 1860), đại đình chữ Nhất 3 gian 2 chái, giếng đình; nền cao hơn sân 60 cm; 6 hàng cột, tổng 48 cột; chu vi cột cái 750 cm, cột quân 500 cm, cột hiên 280 cm (số liệu như trang ghi); phần lớn cấu kiện gỗ mít; còn hệ cánh gà đỡ xà có niên đại sớm và hiếm thấy; hậu cung sàn gỗ cao 1,9 m, 3 ngai thờ Thành hoàng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hethongphapluat.com/quyet-dinh-2383-qd-ttg-nam-2013-xep-hang-di-tich-quoc-gia-dac-biet-do-thu-tuong-chinh-phu-ban-hanh.html",
+        "quote": "Quyết định 2383/QĐ-TTg của Thủ tướng Chính phủ, Hà Nội ngày 09/12/2013, xếp hạng di tích quốc gia đặc biệt (bản đăng lại trên hethongphapluat.com, đọc 14/10/2026): mục 11 'Di tích kiến trúc nghệ thuật Đình Tây Đằng (huyện Ba Vì, thành phố Hà Nội)'; cùng đợt có Đền Hai Bà Trưng (Mê Linh), Đền Hát Môn (Phúc Thọ), Đền Phù Đổng (Gia Lâm), Hồ Hoàn Kiếm và Đền Ngọc Sơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/tay-dang-de-nhat-dinh-doai-627697.html",
+        "quote": "Hà Nội Mới – Nhịp sống Hà Nội, 'Tây Đằng \"đệ nhất đình Đoài\"' (9/8/2019; đọc 14/10/2026): đình ở thị trấn Tây Đằng, xếp hạng đợt 4 theo QĐ 2383/QĐ-TTg ngày 09-12-2013; theo GS Trần Quốc Vượng, Tây Đằng cùng đình Thanh Lũng, Thụy Phiêu (đều ở Ba Vì) là ba ngôi đình cổ nhất Việt Nam, dựng đầu thế kỷ XVI; bốn chữ 'Quý Mùi niên tạo' trên đầu cột cho nhận định dựng năm 1523; đại đình rộng 360 m²; 48 cột (cột cái chu vi 75 cm, cột quân 50 cm, cột hiên 28 cm), chân tảng đá ong; trong cung cấm 3 ngai thờ Thành hoàng (bài ghi: Tản Viên, Thánh Gióng và Thần Nông); 'hơn 1.300 chi tiết chạm khắc gỗ khác nhau, không có sự trùng lặp'; nhắc sai lầm của đợt trùng tu năm 2005 (thay cột gỗ mít và thông đỏ bằng gỗ lim, chân tảng đá ong bằng đá xanh).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-tay-dang-mot-di-san-van-hoa-kien-truc-doc-dao-86241.html",
+        "quote": "Người Hà Nội, 'Đình Tây Đằng - một di sản văn hóa kiến trúc độc đáo' (15/8/2024; đọc 14/10/2026): đình dựng thời Mạc (1527–1592), ngót 500 năm tuổi, thờ Đức Thánh Tản Viên; hướng Nam ghé Tây; sau trùng tu thềm nâng thành bậc tam cấp cao 75 cm; không có ván thưng xung quanh; 'Đình Tây Đằng có tới 1.300 họa tiết'; họa tiết cấy lúa, quăng chài, đàn tính, voi chầu; hình tượng nữ thần kiểu Apsara và tượng Bà Banh mang phong cách Chămpa; sàn thờ quanh năm đóng cửa trừ ngày lễ hội; năm 2005 Bộ VH-TT chủ trì trùng tu, thay cột bằng gỗ lim.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/huyen-ba-vi-khai-mac-le-hoi-tan-vien-son-thanh-va-khai-truong-du-lich-nam-2025-a153649.html",
+        "quote": "Luật sư Việt Nam (12/2/2025; đọc 14/10/2026): theo UBND huyện Ba Vì, huyện có 397 di tích, 120 di tích thờ Đức Thánh Tản, 149 di tích đã xếp hạng, tiêu biểu đình Tây Đằng (di tích quốc gia đặc biệt), đình Thụy Phiêu, đình Chu Quyến.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00552"
+  }
+}
