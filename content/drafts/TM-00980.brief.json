@@ -1,0 +1,145 @@
+{
+  "writer": "wW",
+  "queued": "2026-10-14T16:54:20.028874+00:00",
+  "topic": {
+    "topic_id": "TM-00980",
+    "url": "/du-lich/thac-room-bach-thong-canh-bao/",
+    "title": "Thác Roọm trên sông Cầu: vì sao nhiều vụ đuối nước, nên ngắm từ đâu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác Roọm",
+    "secondary_keywords": [
+      "thác Roọm Bắc Kạn",
+      "thác Roọm Quang Thuận",
+      "tắm thác Roọm",
+      "thác Roọm Bạch Thông"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Bắc Kạn – Ba Bể thấy thác Roọm trên đường cần biết đây là nơi nhiều lần xảy ra đuối nước, nên ngắm thế nào và không nên làm gì.",
+    "information_gain": "Chưa có bài hay row về thác Roọm. /du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ và bài thác Đầu Đẳng (TM-00689) không nhắc. Bài mới là bài an toàn: thác trên sông Cầu, thôn Nà Lẹng, xã Quang Thuận (Bạch Thông cũ), gần TP Bắc Kạn cũ; tổng hợp các vụ đuối nước được báo chí đưa tin (21/9/2017 một sinh viên; 6/6/2021 hai người tử vong), lời cảnh báo của lực lượng cứu nạn: nước sâu, chảy xiết, ghềnh đá, địa hình phức tạp — điều các bài review du lịch thường bỏ qua.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/bac-kan-mot-sinh-vien-chet-duoi-khi-tam-thac-post1249149.html",
+        "quote": "Báo Tin tức (TTXVN), 'Bắc Kạn: Một sinh viên chết đuối khi tắm thác' (21/9/2017, đọc 14/10/2026): ba sinh viên vào tắm tại khu vực thác Roọm, xã Quang Thuận, huyện Bạch Thông khoảng 17 giờ 30 ngày 21/9; một người đuối nước do nước sâu, chảy xiết; Phòng Cảnh sát PCCC và CNCH Bắc Kạn cho biết khu vực thác Roọm nguy hiểm, nước chảy xiết, địa hình phức tạp, từng có nhiều vụ đuối nước, đã cảnh báo nhưng vẫn có người vào tắm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hai-nguoi-duoi-nuoc-khi-tam-thac-post649535.html",
+        "quote": "Nhân Dân, 'Hai người đuối nước khi tắm thác' (6/2021, đọc 14/10/2026): chiều 6/6 tại khu vực thác Roọm trên sông Cầu, thôn Nà Lẹng, xã Quang Thuận, huyện Bạch Thông xảy ra vụ đuối nước làm hai người chết; nhóm bốn người ở TP Bắc Kạn vào chơi khoảng gần 16 giờ; khu vực cách TP Bắc Kạn không xa, đã xảy ra rất nhiều vụ đuối nước do địa hình dốc, ghềnh đá, nước xiết.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/nam-sinh-tu-vong-khi-goi-dau-o-song-cau-20170922142537029.htm",
+        "quote": "Dân trí, 'Nam sinh tử vong khi gội đầu ở sông Cầu' (22/9/2017, đọc 14/10/2026): nạn nhân ở lại gội đầu tại khu vực thác Roọm (xã Quang Thuận, huyện Bạch Thông) thì trượt chân xuống sông Cầu; đến 9 giờ sáng hôm sau lực lượng cứu hộ mới tìm thấy thi thể.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác Roọm"
+      }
+    ],
+    "notes": "Không có nguồn báo chí chính thống về khoảng cách chính xác (mytour/smarttravel ghi cách thị xã Bắc Kạn 8 km theo tỉnh lộ Bắc Kạn – Chợ Đồn — không phải báo, không dùng; chỉ viết 'cách TP Bắc Kạn không xa' theo Nhân Dân). Không nêu tên/danh tính nạn nhân. Bắc Kạn cũ nay thuộc tỉnh Thái Nguyên. Có thể đổi subtopic sang kinh-nghiem/an-toan nếu editor muốn; giữ du-lich vì người tìm là khách du lịch.",
+    "outline": [
+      "Thác Roọm ở đâu trên sông Cầu",
+      "Những vụ đuối nước được báo chí ghi nhận",
+      "Vì sao nguy hiểm: nước sâu, xiết, ghềnh đá",
+      "Ngắm thác an toàn: đứng ở đâu, không làm gì",
+      "Nếu có người rơi xuống nước: gọi cứu hộ, không nhảy theo",
+      "Ghép lịch trình Bắc Kạn – Ba Bể"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/kinh-nghiem/so-cuu-tai-nan-giao-thong/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00980.json",
+  "draft_template": {
+    "id": "TM-00980",
+    "url": "/du-lich/thac-room-bach-thong-canh-bao/",
+    "title": "Thác Roọm trên sông Cầu: vì sao nhiều vụ đuối nước, nên ngắm từ đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác Roọm, thác Roọm Bắc Kạn, thác Roọm Quang Thuận, tắm thác Roọm, thác Roọm Bạch Thông",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Roọm ở đâu trên sông Cầu",
+        "<p></p>"
+      ],
+      [
+        "Những vụ đuối nước được báo chí ghi nhận",
+        "<p></p>"
+      ],
+      [
+        "Vì sao nguy hiểm: nước sâu, xiết, ghềnh đá",
+        "<p></p>"
+      ],
+      [
+        "Ngắm thác an toàn: đứng ở đâu, không làm gì",
+        "<p></p>"
+      ],
+      [
+        "Nếu có người rơi xuống nước: gọi cứu hộ, không nhảy theo",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình Bắc Kạn – Ba Bể",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/bac-kan-mot-sinh-vien-chet-duoi-khi-tam-thac-post1249149.html",
+        "quote": "Báo Tin tức (TTXVN), 'Bắc Kạn: Một sinh viên chết đuối khi tắm thác' (21/9/2017, đọc 14/10/2026): ba sinh viên vào tắm tại khu vực thác Roọm, xã Quang Thuận, huyện Bạch Thông khoảng 17 giờ 30 ngày 21/9; một người đuối nước do nước sâu, chảy xiết; Phòng Cảnh sát PCCC và CNCH Bắc Kạn cho biết khu vực thác Roọm nguy hiểm, nước chảy xiết, địa hình phức tạp, từng có nhiều vụ đuối nước, đã cảnh báo nhưng vẫn có người vào tắm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hai-nguoi-duoi-nuoc-khi-tam-thac-post649535.html",
+        "quote": "Nhân Dân, 'Hai người đuối nước khi tắm thác' (6/2021, đọc 14/10/2026): chiều 6/6 tại khu vực thác Roọm trên sông Cầu, thôn Nà Lẹng, xã Quang Thuận, huyện Bạch Thông xảy ra vụ đuối nước làm hai người chết; nhóm bốn người ở TP Bắc Kạn vào chơi khoảng gần 16 giờ; khu vực cách TP Bắc Kạn không xa, đã xảy ra rất nhiều vụ đuối nước do địa hình dốc, ghềnh đá, nước xiết.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/nam-sinh-tu-vong-khi-goi-dau-o-song-cau-20170922142537029.htm",
+        "quote": "Dân trí, 'Nam sinh tử vong khi gội đầu ở sông Cầu' (22/9/2017, đọc 14/10/2026): nạn nhân ở lại gội đầu tại khu vực thác Roọm (xã Quang Thuận, huyện Bạch Thông) thì trượt chân xuống sông Cầu; đến 9 giờ sáng hôm sau lực lượng cứu hộ mới tìm thấy thi thể.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00980"
+  }
+}

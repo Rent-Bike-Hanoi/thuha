@@ -1,0 +1,145 @@
+{
+  "writer": "wW",
+  "queued": "2026-10-14T16:54:14.564291+00:00",
+  "topic": {
+    "topic_id": "TM-00973",
+    "url": "/du-lich/hang-dong-nui-dau-rong-cao-phong/",
+    "title": "Hang động Núi Đầu Rồng Cao Phong: 10 hang, Hoa Sơn Thạch động dài 500 m",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang động Núi Đầu Rồng",
+    "secondary_keywords": [
+      "Núi Đầu Rồng Cao Phong",
+      "Hoa Sơn Thạch động",
+      "động Không Đáy Cao Phong",
+      "hang động gần QL6"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy QL6 lên Mai Châu – Mộc Châu muốn ghé một quần thể hang động gần đường, cần biết hang nào đáng vào, cách đường bao xa và có gì khác hang khác.",
+    "information_gain": "Chưa có bài hay row về Núi Đầu Rồng (Cao Phong). /du-lich/ha-noi-di-hoa-binh-bang-xe-may/ và /du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/ chỉ đi qua Cao Phong. Bài mới thêm: quần thể di tích quốc gia từ 2012, cách QL6 khoảng 500 m, 10 hang liên kết, Hoa Sơn Thạch động dài 500 m chia 5 cung, động Không Đáy có giếng sâu miệng khoảng 10 x 7 m, hang Nước có suối chảy ra, đền Thượng Bồng Lai và đền Đông Sơn dưới chân núi.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/kham-pha-quan-the-hang-dong-nui-dau-rong-247954.htm",
+        "quote": "Báo Phú Thọ, 'Khám phá quần thể hang động Núi Đầu Rồng' (16/2/2026, đọc 14/10/2026): quần thể ở xã Cao Phong, phát hiện từ thập niên 80, xếp hạng di tích quốc gia năm 2012; dãy núi dài hơn 1 km; trong lòng núi có 10 hang lớn nhỏ liên kết: Hoa Sơn Thạch động, động Không Đáy, Nhãn Long Sơn động, hang Nước, động Thanh Thủy...; Hoa Sơn Thạch động dài 500 m chia 5 cung; động Không Đáy có giếng sâu tự nhiên; hang Nước có suối chảy ra; dưới chân núi có đền Thượng Bồng Lai và đền Đông Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/khu-du-lich-nui-dau-rong",
+        "quote": "Cổng du lịch Phú Thọ, 'Khu du lịch Núi Đầu Rồng' (đọc 14/10/2026): cách quốc lộ 6 gần 500 m về phía Đông; dãy núi dài hơn 1 km, cao xấp xỉ 200 m so với chân núi; Hoa Sơn Thạch động là động cao nhất, ở độ cao gần 200 m, là hang khô; động Không Đáy dài khoảng 200 m kể cả ngách, ở độ cao khoảng 120 m, giữa động có giếng miệng rộng khoảng 10 m x 7 m; hai 'mắt rồng' là hai hồ nước từ lòng núi chảy ra cấp nước tưới cam, mía.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/doc-dao-quan-the-hang-dong-o-cao-phong-hoa-binh-post686331.html",
+        "quote": "Nhân Dân, 'Độc đáo quần thể hang động ở Cao Phong, Hòa Bình' (19/2/2022, đọc 14/10/2026): quần thể thuộc thị trấn Cao Phong, cách QL6 khoảng 1 km; gồm Hoa Sơn Thạch Động, Động Không Đáy, Phong Sơn Động, Nhãn Long Sơn Động; mỗi động có nhiều hang nhỏ với hàng vạn nhũ đá.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang động Núi Đầu Rồng"
+      }
+    ],
+    "notes": "Nguồn lệch khoảng cách tới QL6 (500 m theo cổng du lịch tỉnh, 1 km theo Nhân Dân 2022) — viết 'khoảng 500 m–1 km'. Báo Phú Thọ ghi 10 hang; một video YouTube ghi 6 hang chính (không dùng). Không có nguồn về vé, giờ mở cửa, hướng dẫn viên — không viết. Leo lên Hoa Sơn Thạch động ở độ cao gần 200 m: khuyên giày bám, đèn pin.",
+    "outline": [
+      "Núi Đầu Rồng ở đâu: xã Cao Phong, sát QL6",
+      "10 hang và nên vào hang nào trước",
+      "Hoa Sơn Thạch động: 500 m, 5 cung",
+      "Động Không Đáy và giếng sâu",
+      "Hai đền dưới chân núi và mùa lễ hội",
+      "Chuẩn bị khi leo vào hang khô trên cao"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-hoa-binh-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-mai-chau-bang-xe-may/",
+      "/du-lich/khoang-nong-kim-boi/",
+      "/du-lich/den-chua-thac-bo/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00973.json",
+  "draft_template": {
+    "id": "TM-00973",
+    "url": "/du-lich/hang-dong-nui-dau-rong-cao-phong/",
+    "title": "Hang động Núi Đầu Rồng Cao Phong: 10 hang, Hoa Sơn Thạch động dài 500 m",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang động Núi Đầu Rồng, Núi Đầu Rồng Cao Phong, Hoa Sơn Thạch động, động Không Đáy Cao Phong, hang động gần QL6",
+    "excerpt": "",
+    "sections": [
+      [
+        "Núi Đầu Rồng ở đâu: xã Cao Phong, sát QL6",
+        "<p></p>"
+      ],
+      [
+        "10 hang và nên vào hang nào trước",
+        "<p></p>"
+      ],
+      [
+        "Hoa Sơn Thạch động: 500 m, 5 cung",
+        "<p></p>"
+      ],
+      [
+        "Động Không Đáy và giếng sâu",
+        "<p></p>"
+      ],
+      [
+        "Hai đền dưới chân núi và mùa lễ hội",
+        "<p></p>"
+      ],
+      [
+        "Chuẩn bị khi leo vào hang khô trên cao",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophutho.vn/kham-pha-quan-the-hang-dong-nui-dau-rong-247954.htm",
+        "quote": "Báo Phú Thọ, 'Khám phá quần thể hang động Núi Đầu Rồng' (16/2/2026, đọc 14/10/2026): quần thể ở xã Cao Phong, phát hiện từ thập niên 80, xếp hạng di tích quốc gia năm 2012; dãy núi dài hơn 1 km; trong lòng núi có 10 hang lớn nhỏ liên kết: Hoa Sơn Thạch động, động Không Đáy, Nhãn Long Sơn động, hang Nước, động Thanh Thủy...; Hoa Sơn Thạch động dài 500 m chia 5 cung; động Không Đáy có giếng sâu tự nhiên; hang Nước có suối chảy ra; dưới chân núi có đền Thượng Bồng Lai và đền Đông Sơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/khu-du-lich-nui-dau-rong",
+        "quote": "Cổng du lịch Phú Thọ, 'Khu du lịch Núi Đầu Rồng' (đọc 14/10/2026): cách quốc lộ 6 gần 500 m về phía Đông; dãy núi dài hơn 1 km, cao xấp xỉ 200 m so với chân núi; Hoa Sơn Thạch động là động cao nhất, ở độ cao gần 200 m, là hang khô; động Không Đáy dài khoảng 200 m kể cả ngách, ở độ cao khoảng 120 m, giữa động có giếng miệng rộng khoảng 10 m x 7 m; hai 'mắt rồng' là hai hồ nước từ lòng núi chảy ra cấp nước tưới cam, mía.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/doc-dao-quan-the-hang-dong-o-cao-phong-hoa-binh-post686331.html",
+        "quote": "Nhân Dân, 'Độc đáo quần thể hang động ở Cao Phong, Hòa Bình' (19/2/2022, đọc 14/10/2026): quần thể thuộc thị trấn Cao Phong, cách QL6 khoảng 1 km; gồm Hoa Sơn Thạch Động, Động Không Đáy, Phong Sơn Động, Nhãn Long Sơn Động; mỗi động có nhiều hang nhỏ với hàng vạn nhũ đá.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00973"
+  }
+}

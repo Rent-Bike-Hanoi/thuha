@@ -1,0 +1,158 @@
+{
+  "writer": "wW",
+  "queued": "2026-10-14T16:54:10.337988+00:00",
+  "topic": {
+    "topic_id": "TM-00968",
+    "url": "/du-lich/hang-tham-khuyen-tham-hai-binh-gia/",
+    "title": "Hang Thẩm Khuyên – Thẩm Hai Bình Gia: di chỉ người đứng thẳng 500.000 năm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang Thẩm Khuyên Thẩm Hai",
+    "secondary_keywords": [
+      "Thẩm Khuyên Thẩm Hai Lạng Sơn",
+      "hang Kéo Lèng Bình Gia",
+      "tuyến số 2 công viên địa chất Lạng Sơn",
+      "di tích khảo cổ Bình Gia"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Lạng Sơn – Bắc Sơn muốn ghé một hang động có giá trị khảo cổ cần biết hang nằm ở đâu, đường lên đã làm chưa và trong hang có gì để xem.",
+    "information_gain": "Chưa có bài hay row nào về Thẩm Khuyên – Thẩm Hai. /du-lich/bac-son-di-xe-may-tu-ha-noi/ và /du-lich/ha-noi-di-lang-son-bang-xe-may/ chỉ nói thung lũng Bắc Sơn, phố Kỳ Lừa; /du-lich/dong-tam-thanh-lang-son/ là hang trong thành phố. Bài mới thêm: vị trí xã Tân Văn trên núi Phia Gà, cách trung tâm tỉnh khoảng 65 km; hóa thạch răng Homo erectus khoảng 500.000 năm, xếp hạng quốc gia 1993; đường bậc thang và bãi đỗ xe hoàn thành 2024; hang Kéo Lèng cách khoảng 3 km; thuộc tuyến du lịch số 2 Công viên địa chất Lạng Sơn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/hang-tham-khuyen-tham-hai-di-tich-khao-co-doc-dao-noi-xu-lang-5059997.html",
+        "quote": "Báo Lạng Sơn, 'Hang Thẩm Khuyên - Thẩm Hai: Di tích khảo cổ độc đáo nơi Xứ Lạng' (29/9/2025, đọc 14/10/2026): hang thuộc xã Tân Văn, diện tích khoảng 22.380 m2, trên dãy núi đá vôi Phia Gà (hệ Điềm He – Bình Gia), cách trung tâm tỉnh Lạng Sơn 65 km về phía Đông Nam; là điểm tham quan trong tuyến du lịch số 2 Công viên địa chất Lạng Sơn; năm 1993 được xếp hạng Di tích lịch sử cấp quốc gia; lưu giữ di chỉ niên đại khoảng 500.000 năm, gồm răng người đứng thẳng (Homo erectus), đười ươi lùn, voi răng kiếm, tê giác; cửa hang có bàn thờ nhỏ của người dân.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/binh-gia-phat-huy-gia-tri-di-tich-khao-co-hoc-hang-tham-khuyen-tham-hai-5015436.html",
+        "quote": "Báo Lạng Sơn, 'Bình Gia: Phát huy giá trị di tích khảo cổ học hang Thẩm Khuyên - Thẩm Hai' (19/7/2024, đọc 14/10/2026): trước đây lối đi rậm rạp, không có đường lên; nay có bãi đỗ xe rộng, đường bậc thang lên tận cửa hang; ngày 26/3/2024 UBND tỉnh có Quyết định 566 phê duyệt công trình sửa đường vào và hạng mục phụ trợ, hoàn thành cuối tháng 5/2024; 6 tháng đầu 2024 di tích đón trên 3.000 lượt khách, tăng 60% so với cùng kỳ 2023; có thuyết minh viên giới thiệu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://langsongeopark.com.vn/su-kien-tin-tuc/gia-tri-khao-co-vung-cong-vien-dia-chat-lang-son-n244.html",
+        "quote": "Công viên địa chất Lạng Sơn, 'Giá trị khảo cổ vùng Công viên địa chất Lạng Sơn' (25/6/2024, đọc 14/10/2026): Thẩm Khuyên – Thẩm Hai được khai quật năm 1964–1965 (nhóm Việt Nam và CHDC Đức); tìm thấy 9 chiếc răng rời Homo erectus cùng Gigantopithecus, Stegodon; niên đại ESR từ 401.000±51.000 đến 534.000±87.000 năm, trung bình khoảng 500.000 năm; hang Kéo Lèng cách khoảng 3 km, khai quật 1966, có hóa thạch Homo sapiens.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lang-son-nhieu-tiem-nang-phat-trien-du-lich-khao-co-4666536.html",
+        "quote": "VnExpress, 'Lạng Sơn nhiều tiềm năng phát triển du lịch khảo cổ' (21/10/2023, đọc 14/10/2026): tuyến 2 Công viên địa chất có hang Thẩm Khuyên (xã Tân Văn, huyện Bình Gia) và hang Thẩm Khách (thị trấn Bình Gia); huyện Bình Gia có 3 di tích khảo cổ cấp quốc gia (Thẩm Hai, Thẩm Khuyên, Kéo Lèng); Lạng Sơn có 37 di tích khảo cổ học.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang Thẩm Khuyên Thẩm Hai"
+      }
+    ],
+    "notes": "Nguồn lệch: Báo Lạng Sơn 2025 ghi cách trung tâm tỉnh 65 km, bài Báo Lạng Sơn 2020 (đã đọc) ghi 68 km và niên đại 250.000 năm; dùng 'khoảng 65–68 km' và ghi rõ niên đại theo ESR (khoảng 500.000 năm) của Công viên địa chất. Không có nguồn về giờ mở cửa/vé; không viết. Không có số km từ Hà Nội trong nguồn; viết ghép với tuyến Bắc Sơn, không tự tính quãng đường. Đây là di tích khảo cổ: nhắc không chạm thạch nhũ, không lấy đất đá.",
+    "outline": [
+      "Thẩm Khuyên – Thẩm Hai ở đâu trong vùng Bình Gia – Bắc Sơn",
+      "Vì sao hang quan trọng: răng Homo erectus và niên đại khoảng 500.000 năm",
+      "Đường lên hang sau đợt sửa 2024: bãi xe, bậc thang",
+      "Ghép lịch trình với Bắc Sơn và hang Kéo Lèng",
+      "Đi xe máy: chuẩn bị cho cung đường đèo Lạng Sơn",
+      "Ứng xử ở di tích khảo cổ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/dong-tam-thanh-lang-son/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00968.json",
+  "draft_template": {
+    "id": "TM-00968",
+    "url": "/du-lich/hang-tham-khuyen-tham-hai-binh-gia/",
+    "title": "Hang Thẩm Khuyên – Thẩm Hai Bình Gia: di chỉ người đứng thẳng 500.000 năm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang Thẩm Khuyên Thẩm Hai, Thẩm Khuyên Thẩm Hai Lạng Sơn, hang Kéo Lèng Bình Gia, tuyến số 2 công viên địa chất Lạng Sơn, di tích khảo cổ Bình Gia",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thẩm Khuyên – Thẩm Hai ở đâu trong vùng Bình Gia – Bắc Sơn",
+        "<p></p>"
+      ],
+      [
+        "Vì sao hang quan trọng: răng Homo erectus và niên đại khoảng 500.000 năm",
+        "<p></p>"
+      ],
+      [
+        "Đường lên hang sau đợt sửa 2024: bãi xe, bậc thang",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình với Bắc Sơn và hang Kéo Lèng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: chuẩn bị cho cung đường đèo Lạng Sơn",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử ở di tích khảo cổ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/hang-tham-khuyen-tham-hai-di-tich-khao-co-doc-dao-noi-xu-lang-5059997.html",
+        "quote": "Báo Lạng Sơn, 'Hang Thẩm Khuyên - Thẩm Hai: Di tích khảo cổ độc đáo nơi Xứ Lạng' (29/9/2025, đọc 14/10/2026): hang thuộc xã Tân Văn, diện tích khoảng 22.380 m2, trên dãy núi đá vôi Phia Gà (hệ Điềm He – Bình Gia), cách trung tâm tỉnh Lạng Sơn 65 km về phía Đông Nam; là điểm tham quan trong tuyến du lịch số 2 Công viên địa chất Lạng Sơn; năm 1993 được xếp hạng Di tích lịch sử cấp quốc gia; lưu giữ di chỉ niên đại khoảng 500.000 năm, gồm răng người đứng thẳng (Homo erectus), đười ươi lùn, voi răng kiếm, tê giác; cửa hang có bàn thờ nhỏ của người dân.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/binh-gia-phat-huy-gia-tri-di-tich-khao-co-hoc-hang-tham-khuyen-tham-hai-5015436.html",
+        "quote": "Báo Lạng Sơn, 'Bình Gia: Phát huy giá trị di tích khảo cổ học hang Thẩm Khuyên - Thẩm Hai' (19/7/2024, đọc 14/10/2026): trước đây lối đi rậm rạp, không có đường lên; nay có bãi đỗ xe rộng, đường bậc thang lên tận cửa hang; ngày 26/3/2024 UBND tỉnh có Quyết định 566 phê duyệt công trình sửa đường vào và hạng mục phụ trợ, hoàn thành cuối tháng 5/2024; 6 tháng đầu 2024 di tích đón trên 3.000 lượt khách, tăng 60% so với cùng kỳ 2023; có thuyết minh viên giới thiệu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://langsongeopark.com.vn/su-kien-tin-tuc/gia-tri-khao-co-vung-cong-vien-dia-chat-lang-son-n244.html",
+        "quote": "Công viên địa chất Lạng Sơn, 'Giá trị khảo cổ vùng Công viên địa chất Lạng Sơn' (25/6/2024, đọc 14/10/2026): Thẩm Khuyên – Thẩm Hai được khai quật năm 1964–1965 (nhóm Việt Nam và CHDC Đức); tìm thấy 9 chiếc răng rời Homo erectus cùng Gigantopithecus, Stegodon; niên đại ESR từ 401.000±51.000 đến 534.000±87.000 năm, trung bình khoảng 500.000 năm; hang Kéo Lèng cách khoảng 3 km, khai quật 1966, có hóa thạch Homo sapiens.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/lang-son-nhieu-tiem-nang-phat-trien-du-lich-khao-co-4666536.html",
+        "quote": "VnExpress, 'Lạng Sơn nhiều tiềm năng phát triển du lịch khảo cổ' (21/10/2023, đọc 14/10/2026): tuyến 2 Công viên địa chất có hang Thẩm Khuyên (xã Tân Văn, huyện Bình Gia) và hang Thẩm Khách (thị trấn Bình Gia); huyện Bình Gia có 3 di tích khảo cổ cấp quốc gia (Thẩm Hai, Thẩm Khuyên, Kéo Lèng); Lạng Sơn có 37 di tích khảo cổ học.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00968"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "writer": "wW",
+  "queued": "2026-10-14T16:54:16.128954+00:00",
+  "topic": {
+    "topic_id": "TM-00975",
+    "url": "/du-lich/hang-bo-ngoang-chiem-hoa/",
+    "title": "Hang Bó Ngoặng Chiêm Hóa: mỏ nước cửa hang ấm tới 40 độ mùa đông",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang Bó Ngoặng",
+    "secondary_keywords": [
+      "hang Bó Ngoặng Tuyên Quang",
+      "Bó Ngoặng Phúc Sơn",
+      "hang động Chiêm Hóa",
+      "suối Bó Ngoặng"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi xe máy Tuyên Quang – Chiêm Hóa – Lâm Bình muốn ghé một hang có mỏ nước ngay cửa cần biết hang ở đâu và hiện tượng nước ấm mùa đông.",
+    "information_gain": "Chưa có bài hay row về hang Bó Ngoặng. /du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/ nói hồ Na Hang, Pác Ban, Phia Vài; /du-lich/thanh-nha-mac-tuyen-quang/ ở thành phố. Bài mới thêm: hang ở xã Phúc Sơn (Chiêm Hóa cũ), cách thị trấn Chiêm Hóa 25 km rẽ trái đường vào Xuân Quang, mỏ nước cửa hang mát mùa hè và ấm tới khoảng 40 độ C mùa đông, cùng các hang Thẳm Hốc, Thẳm Vài cách nhau chưa tới 1 km.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/cuoi-tuan/kham-pha-ve-dep-cac-hang-dong-ky-bi-o-tuyen-quang-2262.html",
+        "quote": "Báo Tuyên Quang, 'Khám phá vẻ đẹp các hang động kỳ bí ở Tuyên Quang' (6/9/2024, đọc 14/10/2026): cách thị trấn Chiêm Hóa 25 km rẽ trái theo đường vào Xuân Quang là hang Bó Ngoặng, xã Phúc Sơn; hang ở chân núi đá vôi, trước hang là suối Bó Ngoặng trong vắt; cửa hang có vùng nước rộng, mùa hè mát lạnh, mùa đông ấm, nhiệt độ có thể lên tới 40 độ C; nhũ đá trắng và xanh rêu hai bên vách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://m.chiemhoa.gov.vn/tin-tuc-su-kien/hang-bo-ngoang-diem-du-lich-sinh-thai-hap-dan-1715.html",
+        "quote": "Cổng TTĐT huyện Chiêm Hóa, 'Hang Bó Ngoặng - Điểm du lịch sinh thái hấp dẫn' (1/6/2015, đọc 14/10/2026): cách thị trấn Chiêm Hóa 25 km rẽ trái đường vào Xuân Quang; quanh Phúc Sơn còn hang Thẳm Hốc, Thẳm Vài, rừng nguyên sinh trên núi đá Tầng, Biến, đã xếp hạng danh thắng cấp tỉnh; các hang cách nhau chưa đến 1 km, đường đi lại tương đối thuận lợi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/du-lich/202508/kham-pha-trai-nghiem-he-thong-hang-dong-ky-bi-o-tuyen-quang-bd80d65/",
+        "quote": "Báo Tuyên Quang, 'Khám phá, trải nghiệm hệ thống hang động kỳ bí ở Tuyên Quang' (13/8/2025, đọc 14/10/2026): hang Bó Ngoặng nằm trên địa bàn xã Minh Quang (sau sắp xếp); trước hang là suối Bó Ngoặng, nhũ đá rủ xuống hình thù sinh động, lớp nhũ trắng xen mảng xanh rêu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang Bó Ngoặng"
+      }
+    ],
+    "notes": "Tên xã sau sáp nhập: bài 2025 ghi xã Minh Quang; bài 2015/2024 ghi xã Phúc Sơn (Chiêm Hóa) — viết 'xã Phúc Sơn cũ, nay thuộc xã Minh Quang' theo nguồn 2025, chiemhoa.gov.vn 2020 có tin điều chỉnh Minh Quang, Phúc Sơn về Lâm Bình (chưa đọc toàn văn) nên không khẳng định huyện cũ. Con số 40 độ C chỉ từ một nguồn báo — viết 'theo Báo Tuyên Quang'. Không có số km từ Hà Nội trong nguồn.",
+    "outline": [
+      "Hang Bó Ngoặng ở đâu: từ Chiêm Hóa 25 km",
+      "Mỏ nước cửa hang: mát mùa hè, ấm mùa đông",
+      "Bên trong hang: nhũ trắng, nhũ xanh rêu",
+      "Các hang lân cận: Thẳm Hốc, Thẳm Vài",
+      "Ghép với Na Hang – Lâm Bình",
+      "Lưu ý khi tắm và khi vào hang"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/na-hang-lam-binh-di-xe-may-tu-ha-noi/",
+      "/du-lich/thanh-nha-mac-tuyen-quang/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00975.json",
+  "draft_template": {
+    "id": "TM-00975",
+    "url": "/du-lich/hang-bo-ngoang-chiem-hoa/",
+    "title": "Hang Bó Ngoặng Chiêm Hóa: mỏ nước cửa hang ấm tới 40 độ mùa đông",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang Bó Ngoặng, hang Bó Ngoặng Tuyên Quang, Bó Ngoặng Phúc Sơn, hang động Chiêm Hóa, suối Bó Ngoặng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hang Bó Ngoặng ở đâu: từ Chiêm Hóa 25 km",
+        "<p></p>"
+      ],
+      [
+        "Mỏ nước cửa hang: mát mùa hè, ấm mùa đông",
+        "<p></p>"
+      ],
+      [
+        "Bên trong hang: nhũ trắng, nhũ xanh rêu",
+        "<p></p>"
+      ],
+      [
+        "Các hang lân cận: Thẳm Hốc, Thẳm Vài",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Na Hang – Lâm Bình",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi tắm và khi vào hang",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/cuoi-tuan/kham-pha-ve-dep-cac-hang-dong-ky-bi-o-tuyen-quang-2262.html",
+        "quote": "Báo Tuyên Quang, 'Khám phá vẻ đẹp các hang động kỳ bí ở Tuyên Quang' (6/9/2024, đọc 14/10/2026): cách thị trấn Chiêm Hóa 25 km rẽ trái theo đường vào Xuân Quang là hang Bó Ngoặng, xã Phúc Sơn; hang ở chân núi đá vôi, trước hang là suối Bó Ngoặng trong vắt; cửa hang có vùng nước rộng, mùa hè mát lạnh, mùa đông ấm, nhiệt độ có thể lên tới 40 độ C; nhũ đá trắng và xanh rêu hai bên vách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://m.chiemhoa.gov.vn/tin-tuc-su-kien/hang-bo-ngoang-diem-du-lich-sinh-thai-hap-dan-1715.html",
+        "quote": "Cổng TTĐT huyện Chiêm Hóa, 'Hang Bó Ngoặng - Điểm du lịch sinh thái hấp dẫn' (1/6/2015, đọc 14/10/2026): cách thị trấn Chiêm Hóa 25 km rẽ trái đường vào Xuân Quang; quanh Phúc Sơn còn hang Thẳm Hốc, Thẳm Vài, rừng nguyên sinh trên núi đá Tầng, Biến, đã xếp hạng danh thắng cấp tỉnh; các hang cách nhau chưa đến 1 km, đường đi lại tương đối thuận lợi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/du-lich/202508/kham-pha-trai-nghiem-he-thong-hang-dong-ky-bi-o-tuyen-quang-bd80d65/",
+        "quote": "Báo Tuyên Quang, 'Khám phá, trải nghiệm hệ thống hang động kỳ bí ở Tuyên Quang' (13/8/2025, đọc 14/10/2026): hang Bó Ngoặng nằm trên địa bàn xã Minh Quang (sau sắp xếp); trước hang là suối Bó Ngoặng, nhũ đá rủ xuống hình thù sinh động, lớp nhũ trắng xen mảng xanh rêu.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00975"
+  }
+}
