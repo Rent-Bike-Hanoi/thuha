@@ -1,0 +1,156 @@
+{
+  "writer": "writer-G2",
+  "queued": "2026-10-14T14:51:02.030282+00:00",
+  "topic": {
+    "topic_id": "TM-00806",
+    "url": "/du-lich/den-tho-le-van-huu-thieu-hoa/",
+    "title": "Đền thờ Lê Văn Hưu Thiệu Hóa: quê nhà sử học, lễ hội 22–24 tháng Ba",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền thờ lê văn hưu",
+    "secondary_keywords": [
+      "đền thờ lê văn hưu thiệu trung",
+      "lễ hội đền thờ lê văn hưu",
+      "chùa ông hưu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người quan tâm lịch sử khi đi qua Thanh Hóa muốn biết đền thờ Lê Văn Hưu ở đâu, có gì sau tu bổ và khi nào có lễ hội.",
+    "information_gain": "Chưa có bài nào về Thiệu Hóa hay Lê Văn Hưu; /du-lich/khu-di-tich-lam-kinh/ và /du-lich/thanh-nha-ho-thanh-hoa/ nói các triều khác. Bài mới cho tiểu sử ngắn (1230–1322, Đại Việt sử ký 30 quyển), xếp hạng 1990, dự án tu bổ hơn 29 tỷ khánh thành 21/4/2022, kịch bản lễ hội 22–24/3 âm lịch, và vụ giếng Ngọc gây tranh cãi.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/thanh-hoa-ky-niem-700-nam-ngay-mat-va-khanh-thanh-den-tho-nha-su-hoc-le-van-huu-post634078.html",
+        "quote": "Báo SGGP, 21/04/2022: kỷ niệm 700 năm ngày mất (1322-2022) và khánh thành đền thờ tại xã Thiệu Trung, huyện Thiệu Hóa; đền xếp hạng di tích quốc gia năm 1990; năm 2018 duyệt dự án, 2019 triển khai, tổng vốn hơn 29 tỷ đồng; Lê Văn Hưu sinh 1230, mất 23-3-1322, thọ 93 tuổi; năm 1272 soạn Đại Việt sử ký 30 quyển.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/to-chuc-le-hoi-ton-vinh-nha-su-hoc-le-van-huu-124975.html",
+        "quote": "Báo Văn Hóa, 22/03/2025: UBND tỉnh thống nhất tổ chức Lễ hội đền thờ Lê Văn Hưu từ 22.3 đến hết 24.3 âm lịch hằng năm, chính lễ 23.3 (ngày húy kỵ); 22.3 mở cửa đền, mộc dục, rước kiệu; 23.3 dâng hương, khai mạc, chiều tế nam; 24.3 tế tạ; phần hội trưng bày mộc bản, khoa cử Nho học, sản phẩm OCOP.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/khanh-thanh-cong-trinh-tu-bo-khu-di-tich-quoc-gia-den-tho-le-van-huu-181095.html",
+        "quote": "Báo Thế giới & Việt Nam, 22/04/2022: dự án tu bổ gồm 9 hạng mục, 3 giai đoạn (2018-2022), tổng mức trên 29 tỷ đồng; năm 18 tuổi Lê Văn Hưu đỗ Bảng nhãn khoa thi đầu tiên nhà Trần; phần mộ, bia ký vẫn còn ở Thiệu Trung.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodauthau.vn/gieng-co-o-thanh-hoa-bi-pha-tam-dung-hang-muc-du-an-cho-xu-ly-post121379.html",
+        "quote": "Báo Đấu thầu, 03/2022: hạng mục giếng Ngọc trong di tích tạm dừng thi công để xác minh sau phản ánh phá yếu tố gốc; giếng nằm ở thôn 3, xã Thiệu Trung; thiết kế mới thu đường kính lòng giếng còn 6 m; dân gian gọi đền là chùa Ông Hưu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền thờ lê văn hưu"
+      }
+    ],
+    "notes": "Dự án ghi '9 hạng mục' (Thế giới & VN) và '12 hạng mục' (Báo Đấu thầu) — không nêu số hạng mục. Kết quả xử lý giếng Ngọc sau 2022 chưa có nguồn. Không có vé, giờ mở, khoảng cách.",
+    "outline": [
+      "Câu trả lời ngắn: đền ở đâu, thờ ai",
+      "Lê Văn Hưu và Đại Việt sử ký",
+      "Đền sau đợt tu bổ 2022",
+      "Lễ hội 22–24 tháng Ba âm lịch",
+      "Chuyện giếng Ngọc",
+      "Ghép vào chuyến Thanh Hóa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00806.json",
+  "draft_template": {
+    "id": "TM-00806",
+    "url": "/du-lich/den-tho-le-van-huu-thieu-hoa/",
+    "title": "Đền thờ Lê Văn Hưu Thiệu Hóa: quê nhà sử học, lễ hội 22–24 tháng Ba",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền thờ lê văn hưu, đền thờ lê văn hưu thiệu trung, lễ hội đền thờ lê văn hưu, chùa ông hưu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Lê Văn Hưu và Đại Việt sử ký",
+        "<p></p>"
+      ],
+      [
+        "Đền sau đợt tu bổ 2022",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 22–24 tháng Ba âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Chuyện giếng Ngọc",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào chuyến Thanh Hóa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/thanh-hoa-ky-niem-700-nam-ngay-mat-va-khanh-thanh-den-tho-nha-su-hoc-le-van-huu-post634078.html",
+        "quote": "Báo SGGP, 21/04/2022: kỷ niệm 700 năm ngày mất (1322-2022) và khánh thành đền thờ tại xã Thiệu Trung, huyện Thiệu Hóa; đền xếp hạng di tích quốc gia năm 1990; năm 2018 duyệt dự án, 2019 triển khai, tổng vốn hơn 29 tỷ đồng; Lê Văn Hưu sinh 1230, mất 23-3-1322, thọ 93 tuổi; năm 1272 soạn Đại Việt sử ký 30 quyển.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/to-chuc-le-hoi-ton-vinh-nha-su-hoc-le-van-huu-124975.html",
+        "quote": "Báo Văn Hóa, 22/03/2025: UBND tỉnh thống nhất tổ chức Lễ hội đền thờ Lê Văn Hưu từ 22.3 đến hết 24.3 âm lịch hằng năm, chính lễ 23.3 (ngày húy kỵ); 22.3 mở cửa đền, mộc dục, rước kiệu; 23.3 dâng hương, khai mạc, chiều tế nam; 24.3 tế tạ; phần hội trưng bày mộc bản, khoa cử Nho học, sản phẩm OCOP.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/khanh-thanh-cong-trinh-tu-bo-khu-di-tich-quoc-gia-den-tho-le-van-huu-181095.html",
+        "quote": "Báo Thế giới & Việt Nam, 22/04/2022: dự án tu bổ gồm 9 hạng mục, 3 giai đoạn (2018-2022), tổng mức trên 29 tỷ đồng; năm 18 tuổi Lê Văn Hưu đỗ Bảng nhãn khoa thi đầu tiên nhà Trần; phần mộ, bia ký vẫn còn ở Thiệu Trung.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodauthau.vn/gieng-co-o-thanh-hoa-bi-pha-tam-dung-hang-muc-du-an-cho-xu-ly-post121379.html",
+        "quote": "Báo Đấu thầu, 03/2022: hạng mục giếng Ngọc trong di tích tạm dừng thi công để xác minh sau phản ánh phá yếu tố gốc; giếng nằm ở thôn 3, xã Thiệu Trung; thiết kế mới thu đường kính lòng giếng còn 6 m; dân gian gọi đền là chùa Ông Hưu.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00806"
+  }
+}

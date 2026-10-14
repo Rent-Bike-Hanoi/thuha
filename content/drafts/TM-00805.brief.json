@@ -1,0 +1,156 @@
+{
+  "writer": "writer-G1",
+  "queued": "2026-10-14T14:51:01.748308+00:00",
+  "topic": {
+    "topic_id": "TM-00805",
+    "url": "/du-lich/phu-na-nhu-thanh/",
+    "title": "Phủ Na Như Thanh: Na Sơn động phủ dưới núi Nưa, xin 'nước thánh' đầu năm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "phủ na thanh hóa",
+    "secondary_keywords": [
+      "phủ na như thanh",
+      "na sơn động phủ",
+      "nước thánh phủ na"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn đi lễ đầu năm ở Phủ Na (Xuân Du) cần biết phủ thờ ai, đông thế nào dịp Tết, tục xin nước thánh và cảnh báo chen lấn.",
+    "information_gain": "/du-lich/nui-nua-am-tien-thanh-hoa/ nói am Tiên phía Triệu Sơn của núi Nưa; không bài nào về Phủ Na ở sườn Như Thanh. Bài mới nói hệ thống thờ (Liễu Hạnh, Tản Viên, Chúa Thượng Ngàn), dấu tích Bà Triệu, năm xếp hạng 1993, quy hoạch 70 ha, cảnh chen lấn hứng nước và nạn ăn xin, bói toán để người đi chuẩn bị.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/dong-nguoi-hanh-huong-ve-phu-na-duoi-mua-xuan-206136.html",
+        "quote": "Báo Văn Hóa, 22/02/2026: dòng người đội mưa về Phủ Na (xã Xuân Du) dâng hương, xin 'nước thánh'; Phủ Na (Na Sơn động phủ) hội tụ thờ Liễu Hạnh, Tản Viên, mẹ Âu Cơ, Chúa Thượng Ngàn; tương truyền năm 248 Bà Triệu dừng chân chiêu mộ nghĩa sĩ; di tích xây năm 1909 theo kiến trúc thời Nguyễn, dưới chân núi Nưa; năm 1993 xếp hạng di tích lịch sử và thắng cảnh quốc gia; năm 2010 duyệt quy hoạch chi tiết 70 ha.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chen-chan-hung-nuoc-thanh-dau-nam-2427059.html",
+        "quote": "VnExpress (bài cũ, không rõ năm trên trang): sáng 20/2 hàng nghìn du khách đến Phủ Na huyện Như Thanh dù rét và mưa; ghi khu di tích 'xây đầu thế kỉ 19', thờ Mẫu Liễu Hạnh; người chen lấn vượt rào hứng nước sát đền thờ Tản Viên; dịch vụ bán can, bói thẻ, người ăn xin chèo kéo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/du-xuan-an-toan-o-xu-thanh-206759.html",
+        "quote": "Báo Văn Hóa, 25/02/2026: mùa lễ hội đầu năm hơn 1.500 di tích Thanh Hóa đón khách; Phủ Na nằm trong nhóm điểm tâm linh như đền Cô Bơ, đền Độc Cước, đền Sòng, Lam Kinh, Thành nhà Hồ ghi nhận có nơi hàng nghìn lượt khách mỗi ngày từ mùng 2 Tết.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/du-lich-E19590D86/hang-nghin-du-khach-di-cau-may-dau-nam-moi-giap-thin-3D66A4C9.html",
+        "quote": "Báo Thanh tra, đầu năm 2024: hàng nghìn lượt du khách tới lễ hội Phủ Na, xã Xuân Du, huyện Như Thanh; núi Nưa cao 585 m, dài gần 20 km.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "phủ na thanh hóa"
+      }
+    ],
+    "notes": "Xung đột năm xây: 1909 (Báo Văn Hóa 2026) vs 'đầu thế kỉ 19' (VnExpress) — dùng 1909 theo nguồn mới, nêu khác biệt. Ngày lễ hội chính thức không có nguồn báo chí (chỉ trang du lịch ghi tháng 2 và tháng 8 âm lịch) — không viết ngày. Không có nguồn vé/gửi xe.",
+    "outline": [
+      "Câu trả lời ngắn: Phủ Na ở đâu, thờ ai",
+      "Các lớp tín ngưỡng và dấu tích Bà Triệu",
+      "Tục xin nước thánh",
+      "Mùa đông nhất và cảnh chen lấn",
+      "Liên hệ với Am Tiên trên núi Nưa",
+      "Lưu ý khi đi lễ đầu năm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nui-nua-am-tien-thanh-hoa/",
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00805.json",
+  "draft_template": {
+    "id": "TM-00805",
+    "url": "/du-lich/phu-na-nhu-thanh/",
+    "title": "Phủ Na Như Thanh: Na Sơn động phủ dưới núi Nưa, xin 'nước thánh' đầu năm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phủ na thanh hóa, phủ na như thanh, na sơn động phủ, nước thánh phủ na",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Phủ Na ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Các lớp tín ngưỡng và dấu tích Bà Triệu",
+        "<p></p>"
+      ],
+      [
+        "Tục xin nước thánh",
+        "<p></p>"
+      ],
+      [
+        "Mùa đông nhất và cảnh chen lấn",
+        "<p></p>"
+      ],
+      [
+        "Liên hệ với Am Tiên trên núi Nưa",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi lễ đầu năm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/dong-nguoi-hanh-huong-ve-phu-na-duoi-mua-xuan-206136.html",
+        "quote": "Báo Văn Hóa, 22/02/2026: dòng người đội mưa về Phủ Na (xã Xuân Du) dâng hương, xin 'nước thánh'; Phủ Na (Na Sơn động phủ) hội tụ thờ Liễu Hạnh, Tản Viên, mẹ Âu Cơ, Chúa Thượng Ngàn; tương truyền năm 248 Bà Triệu dừng chân chiêu mộ nghĩa sĩ; di tích xây năm 1909 theo kiến trúc thời Nguyễn, dưới chân núi Nưa; năm 1993 xếp hạng di tích lịch sử và thắng cảnh quốc gia; năm 2010 duyệt quy hoạch chi tiết 70 ha.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chen-chan-hung-nuoc-thanh-dau-nam-2427059.html",
+        "quote": "VnExpress (bài cũ, không rõ năm trên trang): sáng 20/2 hàng nghìn du khách đến Phủ Na huyện Như Thanh dù rét và mưa; ghi khu di tích 'xây đầu thế kỉ 19', thờ Mẫu Liễu Hạnh; người chen lấn vượt rào hứng nước sát đền thờ Tản Viên; dịch vụ bán can, bói thẻ, người ăn xin chèo kéo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/du-xuan-an-toan-o-xu-thanh-206759.html",
+        "quote": "Báo Văn Hóa, 25/02/2026: mùa lễ hội đầu năm hơn 1.500 di tích Thanh Hóa đón khách; Phủ Na nằm trong nhóm điểm tâm linh như đền Cô Bơ, đền Độc Cước, đền Sòng, Lam Kinh, Thành nhà Hồ ghi nhận có nơi hàng nghìn lượt khách mỗi ngày từ mùng 2 Tết.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/du-lich-E19590D86/hang-nghin-du-khach-di-cau-may-dau-nam-moi-giap-thin-3D66A4C9.html",
+        "quote": "Báo Thanh tra, đầu năm 2024: hàng nghìn lượt du khách tới lễ hội Phủ Na, xã Xuân Du, huyện Như Thanh; núi Nưa cao 585 m, dài gần 20 km.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00805"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "writer": "writer-G1",
+  "queued": "2026-10-14T14:51:01.069995+00:00",
+  "topic": {
+    "topic_id": "TM-00802",
+    "url": "/du-lich/thac-ma-hao-lang-chanh/",
+    "title": "Thác Ma Hao Lang Chánh: thác từ đỉnh Pù Rinh, bản Năng Cát người Thái",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác ma hao lang chánh",
+    "secondary_keywords": [
+      "thác ma hao",
+      "bản năng cát",
+      "du lịch lang chánh thanh hóa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy miền Tây Thanh Hóa (sau Pù Luông, Bến En) muốn biết thác Ma Hao ở đâu, có gì, bản Năng Cát còn nhà sàn không và dự án du lịch ở đây đã đến đâu.",
+    "information_gain": "Chưa có bài nào về Lang Chánh; /du-lich/pu-luong-di-xe-may-tu-ha-noi/ và /du-lich/suoi-ca-than-cam-luong/ chỉ phủ Bá Thước, Cẩm Thủy. Bài mới đưa thác Ma Hao (danh thắng cấp tỉnh 2007), bản Năng Cát 126 hộ với 122 nhà sàn, lễ hội Chí Linh Sơn, 12 hộ làm du lịch cộng đồng, và tình trạng dự án khu du lịch sinh thái 17,4 ha để người đọc không kỳ vọng sai.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-bo-tuyen-du-lich-cong-dong-ban-nang-cat-thac-ma-hao-post417469.vnp",
+        "quote": "VietnamPlus, 24/11/2016: UBND tỉnh Thanh Hóa công bố tuyến du lịch cộng đồng bản Năng Cát – thác Ma Hao, xã Trí Nang, huyện Lang Chánh; thác bắt nguồn từ đỉnh Pù Rinh cao hơn 1.000 m, là di tích danh lam thắng cảnh cấp tỉnh; nhiệt độ trung bình khoảng 15-18 độ C; bản có chùa Mèo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song-van-hoa/bao-ton-va-phat-huy-gia-tri-van-hoa-truyen-thong-o-ban-vung-cao-xu-thanh-32866.html",
+        "quote": "Báo Văn Hóa, 09/05/2022: bản Năng Cát dưới chân núi Pù Rinh có 126 hộ thì 122 nhà sàn; năm 2015 UBND tỉnh duyệt đề án du lịch cộng đồng xã Trí Nang; cách bản chừng 2 km là thác Ma Hao, bắt nguồn từ đỉnh Pù Rinh (bài ghi 'hơn 1.200 km', rõ là lỗi đánh máy); năm 2007 thác được công nhận danh lam thắng cảnh cấp tỉnh; xã Trí Nang có 12 hộ làm dịch vụ du lịch cộng đồng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamfinance.vn/thanh-hoa-phe-duyet-dtm-cho-du-an-du-lich-sinh-thai-ban-nang-cat--thac-ma-hao-d79408.html",
+        "quote": "VietnamFinance, 04/2022: Quyết định 1281/QĐ-UBND ngày 14/4/2022 duyệt ĐTM dự án Khu du lịch sinh thái bản Năng Cát – thác Ma Hao; tổng vốn khoảng 113,4 tỷ đồng; quy mô khoảng 17,4 ha (bản Năng Cát 14,3 ha, khu thác 3,1 ha); dự kiến khởi công 6/2022, hoạt động từ 7/2024.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/bao-ton-cac-gia-tri-van-hoa-truyen-thong-gan-voi-phat-trien-du-lich-94916.html",
+        "quote": "Báo Văn Hóa, 05/2024: Lang Chánh hơn 90% là dân tộc Thái, Mường; tổ chức Lễ hội Chí Linh Sơn tại khu du lịch sinh thái thác Ma Hao, bản Năng Cát; quý I/2024 huyện đón 36.000 lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác ma hao lang chánh"
+      }
+    ],
+    "notes": "Xung đột độ cao Pù Rinh: 'hơn 1.000 m' (VietnamPlus) và '1.200 km' (Báo Văn Hóa, lỗi) — chỉ viết 'hơn 1.000 m'. Không xác nhận dự án 17,4 ha đã hoàn thành hay chưa; ghi là kế hoạch. Không có nguồn về vé, đường vào, khoảng cách Hà Nội; không ghi ngày lễ hội Chí Linh Sơn (nguồn không nêu). Địa giới sau 7/2025 chưa kiểm.",
+    "outline": [
+      "Câu trả lời ngắn: thác Ma Hao là gì, ở đâu",
+      "Thác và đỉnh Pù Rinh",
+      "Bản Năng Cát: nhà sàn Thái và du lịch cộng đồng",
+      "Lễ hội Chí Linh Sơn",
+      "Dự án khu du lịch: kế hoạch và thực tế",
+      "Ghép lịch trình miền Tây Thanh Hóa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pu-luong-di-xe-may-tu-ha-noi/",
+      "/du-lich/suoi-ca-than-cam-luong/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00802.json",
+  "draft_template": {
+    "id": "TM-00802",
+    "url": "/du-lich/thac-ma-hao-lang-chanh/",
+    "title": "Thác Ma Hao Lang Chánh: thác từ đỉnh Pù Rinh, bản Năng Cát người Thái",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác ma hao lang chánh, thác ma hao, bản năng cát, du lịch lang chánh thanh hóa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: thác Ma Hao là gì, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Thác và đỉnh Pù Rinh",
+        "<p></p>"
+      ],
+      [
+        "Bản Năng Cát: nhà sàn Thái và du lịch cộng đồng",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Chí Linh Sơn",
+        "<p></p>"
+      ],
+      [
+        "Dự án khu du lịch: kế hoạch và thực tế",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình miền Tây Thanh Hóa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-bo-tuyen-du-lich-cong-dong-ban-nang-cat-thac-ma-hao-post417469.vnp",
+        "quote": "VietnamPlus, 24/11/2016: UBND tỉnh Thanh Hóa công bố tuyến du lịch cộng đồng bản Năng Cát – thác Ma Hao, xã Trí Nang, huyện Lang Chánh; thác bắt nguồn từ đỉnh Pù Rinh cao hơn 1.000 m, là di tích danh lam thắng cảnh cấp tỉnh; nhiệt độ trung bình khoảng 15-18 độ C; bản có chùa Mèo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song-van-hoa/bao-ton-va-phat-huy-gia-tri-van-hoa-truyen-thong-o-ban-vung-cao-xu-thanh-32866.html",
+        "quote": "Báo Văn Hóa, 09/05/2022: bản Năng Cát dưới chân núi Pù Rinh có 126 hộ thì 122 nhà sàn; năm 2015 UBND tỉnh duyệt đề án du lịch cộng đồng xã Trí Nang; cách bản chừng 2 km là thác Ma Hao, bắt nguồn từ đỉnh Pù Rinh (bài ghi 'hơn 1.200 km', rõ là lỗi đánh máy); năm 2007 thác được công nhận danh lam thắng cảnh cấp tỉnh; xã Trí Nang có 12 hộ làm dịch vụ du lịch cộng đồng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamfinance.vn/thanh-hoa-phe-duyet-dtm-cho-du-an-du-lich-sinh-thai-ban-nang-cat--thac-ma-hao-d79408.html",
+        "quote": "VietnamFinance, 04/2022: Quyết định 1281/QĐ-UBND ngày 14/4/2022 duyệt ĐTM dự án Khu du lịch sinh thái bản Năng Cát – thác Ma Hao; tổng vốn khoảng 113,4 tỷ đồng; quy mô khoảng 17,4 ha (bản Năng Cát 14,3 ha, khu thác 3,1 ha); dự kiến khởi công 6/2022, hoạt động từ 7/2024.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/bao-ton-cac-gia-tri-van-hoa-truyen-thong-gan-voi-phat-trien-du-lich-94916.html",
+        "quote": "Báo Văn Hóa, 05/2024: Lang Chánh hơn 90% là dân tộc Thái, Mường; tổ chức Lễ hội Chí Linh Sơn tại khu du lịch sinh thái thác Ma Hao, bản Năng Cát; quý I/2024 huyện đón 36.000 lượt khách.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00802"
+  }
+}

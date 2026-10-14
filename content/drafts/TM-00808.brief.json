@@ -1,0 +1,169 @@
+{
+  "writer": "writer-G2",
+  "queued": "2026-10-14T14:51:02.513070+00:00",
+  "topic": {
+    "topic_id": "TM-00808",
+    "url": "/du-lich/thac-khe-kem-pu-mat/",
+    "title": "Thác Khe Kèm Pù Mát: thác ba tầng ở Con Cuông, tắm suối mùa hè",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác khe kèm",
+    "secondary_keywords": [
+      "thác kèm con cuông",
+      "vườn quốc gia pù mát",
+      "thác khe kèm nghệ an"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi xe máy miền Tây Nghệ An theo QL7 muốn biết thác Khe Kèm cách Con Cuông bao xa, có tắm được không, đông lúc nào.",
+    "information_gain": "Chưa có bài nào về Pù Mát hay Con Cuông; /du-lich/vuon-quoc-gia-ben-en/ nói Thanh Hóa. Bài mới nói thác trong vùng lõi Pù Mát, đổ ba bậc từ độ cao 500 m, các hồ tắm dưới chân, lượng khách hơn 43 nghìn năm 2023, các điểm kết hợp (khe Nước Mọc, Phà Lài, bia Ma Nhai, bản Khe Rạn) và các con số khoảng cách không thống nhất.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/thac-khe-kem-mot-diem-du-lich-hap-dan1650214119-a117720.html",
+        "quote": "Luật sư Việt Nam, 17/04/2022: thác cách TP Vinh khoảng 120 km, cách thị trấn Con Cuông trên 20 km về phía Nam; nằm trong vùng lõi VQG Pù Mát; người Thái gọi Bổ Bố (dải lụa trắng); thác từ độ cao 500 m đổ xuống ba bậc; dưới chân thác nhiều hồ không sâu; leo tiếp là thung lũng Khu Bu; nên ghé bia Ma Nhai.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/thac-khe-kem-diem-den-du-lich-nghe-an-10016144.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh), 2014: thác cách thị trấn Con Cuông khoảng 25 km; từ độ cao 500 m, dốc khoảng 80°, đổ qua ba tầng; mùa hè nhiệt độ khu thác khoảng 20°C; từ ngã ba cầu Khe Diêm trên QL7 đi về Môn Sơn khoảng 3 km gặp khe Nước Mọc; trên đường có đập Phà Lài, sông Giăng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://special.nhandan.vn/thac-Kem-dai-lua-trang-giua-dai-ngan-Pu-Mat/index.html",
+        "quote": "Báo Nhân Dân (special): thác cách thị trấn Con Cuông hơn 20 km; trước Covid-19 khách đạt hơn 37 nghìn lượt; năm 2023 khách đến Pù Mát tham quan, tắm thác Kèm tăng lên hơn 43 nghìn; VQG Pù Mát gần 95 nghìn ha trên 3 huyện Anh Sơn, Con Cuông, Tương Dương.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/nghe-an-co-gi-de-phat-trien-du-lich-xanh-246120.html",
+        "quote": "Diễn đàn Doanh nghiệp, 06/2023: thác cách thị trấn Con Cuông chừng 25 km; khu Phà Lài ở làng Xiềng, xã Môn Sơn có xuồng máy, kayak, zipline; giám đốc VQG Pù Mát nói năm 2023 khách đến thác ước hàng chục nghìn lượt.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/healing-cung-mien-tay-xu-nghe-10333750.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh), 21/04/2026: thác Khe Kèm cao hơn 500 m trong VQG Pù Mát; gần đó thác Bồn (xã Giai Xuân) cao khoảng 150 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác khe kèm"
+      }
+    ],
+    "notes": "Xung đột khoảng cách: Con Cuông 'trên 20 km' vs 'khoảng 25 km'; Vinh '120 km' (LSVN) vs '100 km' (Diễn đàn DN). Không có nguồn báo chí về vé (chỉ trang du lịch ghi 30.000đ) — không ghi giá. Vùng lõi VQG: nhắc tuân thủ quy định Ban quản lý.",
+    "outline": [
+      "Câu trả lời ngắn: thác ở đâu, có gì",
+      "Đường vào từ QL7 và Con Cuông",
+      "Thác ba tầng và các hồ tắm",
+      "Mùa nào đông, lượng khách",
+      "Điểm ghép: khe Nước Mọc, Phà Lài, bia Ma Nhai",
+      "An toàn khi tắm thác trong vườn quốc gia"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/vuon-quoc-gia-ben-en/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00808.json",
+  "draft_template": {
+    "id": "TM-00808",
+    "url": "/du-lich/thac-khe-kem-pu-mat/",
+    "title": "Thác Khe Kèm Pù Mát: thác ba tầng ở Con Cuông, tắm suối mùa hè",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác khe kèm, thác kèm con cuông, vườn quốc gia pù mát, thác khe kèm nghệ an",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: thác ở đâu, có gì",
+        "<p></p>"
+      ],
+      [
+        "Đường vào từ QL7 và Con Cuông",
+        "<p></p>"
+      ],
+      [
+        "Thác ba tầng và các hồ tắm",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đông, lượng khách",
+        "<p></p>"
+      ],
+      [
+        "Điểm ghép: khe Nước Mọc, Phà Lài, bia Ma Nhai",
+        "<p></p>"
+      ],
+      [
+        "An toàn khi tắm thác trong vườn quốc gia",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/thac-khe-kem-mot-diem-du-lich-hap-dan1650214119-a117720.html",
+        "quote": "Luật sư Việt Nam, 17/04/2022: thác cách TP Vinh khoảng 120 km, cách thị trấn Con Cuông trên 20 km về phía Nam; nằm trong vùng lõi VQG Pù Mát; người Thái gọi Bổ Bố (dải lụa trắng); thác từ độ cao 500 m đổ xuống ba bậc; dưới chân thác nhiều hồ không sâu; leo tiếp là thung lũng Khu Bu; nên ghé bia Ma Nhai.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/thac-khe-kem-diem-den-du-lich-nghe-an-10016144.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh), 2014: thác cách thị trấn Con Cuông khoảng 25 km; từ độ cao 500 m, dốc khoảng 80°, đổ qua ba tầng; mùa hè nhiệt độ khu thác khoảng 20°C; từ ngã ba cầu Khe Diêm trên QL7 đi về Môn Sơn khoảng 3 km gặp khe Nước Mọc; trên đường có đập Phà Lài, sông Giăng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://special.nhandan.vn/thac-Kem-dai-lua-trang-giua-dai-ngan-Pu-Mat/index.html",
+        "quote": "Báo Nhân Dân (special): thác cách thị trấn Con Cuông hơn 20 km; trước Covid-19 khách đạt hơn 37 nghìn lượt; năm 2023 khách đến Pù Mát tham quan, tắm thác Kèm tăng lên hơn 43 nghìn; VQG Pù Mát gần 95 nghìn ha trên 3 huyện Anh Sơn, Con Cuông, Tương Dương.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/nghe-an-co-gi-de-phat-trien-du-lich-xanh-246120.html",
+        "quote": "Diễn đàn Doanh nghiệp, 06/2023: thác cách thị trấn Con Cuông chừng 25 km; khu Phà Lài ở làng Xiềng, xã Môn Sơn có xuồng máy, kayak, zipline; giám đốc VQG Pù Mát nói năm 2023 khách đến thác ước hàng chục nghìn lượt.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/healing-cung-mien-tay-xu-nghe-10333750.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh), 21/04/2026: thác Khe Kèm cao hơn 500 m trong VQG Pù Mát; gần đó thác Bồn (xã Giai Xuân) cao khoảng 150 m.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00808"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "writer": "writer-G2",
+  "queued": "2026-10-14T14:51:02.756105+00:00",
+  "topic": {
+    "topic_id": "TM-00809",
+    "url": "/du-lich/khu-di-tich-truong-bon-do-luong/",
+    "title": "Khu di tích Truông Bồn Đô Lương: mộ 13 liệt sĩ TNXP trên QL15A",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích truông bồn",
+    "secondary_keywords": [
+      "truông bồn đô lương",
+      "truông bồn nghệ an",
+      "13 liệt sĩ truông bồn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy theo QL15A/đường Hồ Chí Minh qua Đô Lương muốn ghé Truông Bồn cần biết di tích gồm gì, sự kiện 31/10/1968 và thời điểm đông khách.",
+    "information_gain": "/du-lich/den-qua-son-do-luong/ nói đền Quả Sơn cùng huyện nhưng không nhắc Truông Bồn; không bài nào về địa chỉ đỏ thời chống Mỹ ở Nghệ An. Bài mới cho số liệu lịch sử (18.936 quả bom 1964–1968, 13 liệt sĩ 31/10/1968), các hạng mục trên 21,7 ha, đền thờ khánh thành 7/2013 và lễ kỷ niệm cuối tháng 10.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-truong-bon-post480761.html",
+        "quote": "Báo Pháp luật VN, 07/2023: khu di tích xã Mỹ Sơn, huyện Đô Lương; Truông Bồn dài gần 5 km trên đường 15A; 13 chiến sĩ Đại đội TNXP 317 hy sinh; công nhận di tích quốc gia 12/1/1996; 23/9/2008 phong Anh hùng LLVT cho tập thể 14 chiến sĩ; khu di tích trên 217.327 m² hoàn thành 7/2015; 1964-1968 Mỹ ném 18.936 quả bom.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/chinh-tri/truong-bon-dia-chi-do-giao-duc-gia-tri-lich-su-van-hoa-truong-ton-73159.html",
+        "quote": "Báo Văn Hóa, 14/07/2020: có 1.240 cán bộ, chiến sĩ chiến đấu và hy sinh tại đây; ngày 31.10.1968, 13 chiến sĩ 'Tiểu đội thép' hy sinh; khu di tích 21,7 ha gồm khu mộ 13 liệt sĩ TNXP, đài tưởng niệm, nhà truyền thống, tháp chuông, sa bàn điện tử 'Tọa độ lửa'; cuối năm 2014 chính thức hoạt động.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/khanh-thanh-den-tho-cac-anh-hung-liet-sy-truong-bon-d16547.html",
+        "quote": "Báo Đầu tư, 14/07 (2013): khánh thành Đền thờ các anh hùng liệt sỹ Truông Bồn; kinh phí gần 30 tỷ đồng, Vietinbank ủng hộ 22,9 tỷ; khởi công 27/10/2012, xong chưa đầy 8 tháng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://plo.vn/54-nam-chien-thang-truong-bon-ban-hung-ca-huyen-thoai-post705514.html",
+        "quote": "Báo Pháp luật TP.HCM, 10/2022: tối 29-10 tổ chức kỷ niệm 54 năm Chiến thắng Truông Bồn (31-10-1968 – 31-10-2022) tại khu di tích xã Mỹ Sơn; 0 giờ ngày 1-11-1968 là ngừng bắn ở miền Bắc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "khu di tích truông bồn"
+      }
+    ],
+    "notes": "Xung đột: 'hoàn thành 7/2015' (PLVN) vs 'cuối 2014 hoạt động' (Văn Hóa) — viết 'đưa vào hoạt động cuối 2014, hoàn thiện 2015'. Vé: chỉ trang du lịch nói miễn phí — không khẳng định. Không có giờ mở cửa.",
+    "outline": [
+      "Câu trả lời ngắn: Truông Bồn ở đâu, xem gì",
+      "Ngày 31/10/1968 và Tiểu đội thép",
+      "Các hạng mục trong khu di tích",
+      "Ngày kỷ niệm và mùa đông khách",
+      "Ghép với Kim Liên, đền Quả Sơn",
+      "Ứng xử tại khu mộ liệt sĩ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-qua-son-do-luong/",
+      "/du-lich/khu-di-tich-kim-lien-nghe-an/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00809.json",
+  "draft_template": {
+    "id": "TM-00809",
+    "url": "/du-lich/khu-di-tich-truong-bon-do-luong/",
+    "title": "Khu di tích Truông Bồn Đô Lương: mộ 13 liệt sĩ TNXP trên QL15A",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích truông bồn, truông bồn đô lương, truông bồn nghệ an, 13 liệt sĩ truông bồn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Truông Bồn ở đâu, xem gì",
+        "<p></p>"
+      ],
+      [
+        "Ngày 31/10/1968 và Tiểu đội thép",
+        "<p></p>"
+      ],
+      [
+        "Các hạng mục trong khu di tích",
+        "<p></p>"
+      ],
+      [
+        "Ngày kỷ niệm và mùa đông khách",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Kim Liên, đền Quả Sơn",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử tại khu mộ liệt sĩ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-truong-bon-post480761.html",
+        "quote": "Báo Pháp luật VN, 07/2023: khu di tích xã Mỹ Sơn, huyện Đô Lương; Truông Bồn dài gần 5 km trên đường 15A; 13 chiến sĩ Đại đội TNXP 317 hy sinh; công nhận di tích quốc gia 12/1/1996; 23/9/2008 phong Anh hùng LLVT cho tập thể 14 chiến sĩ; khu di tích trên 217.327 m² hoàn thành 7/2015; 1964-1968 Mỹ ném 18.936 quả bom.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/chinh-tri/truong-bon-dia-chi-do-giao-duc-gia-tri-lich-su-van-hoa-truong-ton-73159.html",
+        "quote": "Báo Văn Hóa, 14/07/2020: có 1.240 cán bộ, chiến sĩ chiến đấu và hy sinh tại đây; ngày 31.10.1968, 13 chiến sĩ 'Tiểu đội thép' hy sinh; khu di tích 21,7 ha gồm khu mộ 13 liệt sĩ TNXP, đài tưởng niệm, nhà truyền thống, tháp chuông, sa bàn điện tử 'Tọa độ lửa'; cuối năm 2014 chính thức hoạt động.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/khanh-thanh-den-tho-cac-anh-hung-liet-sy-truong-bon-d16547.html",
+        "quote": "Báo Đầu tư, 14/07 (2013): khánh thành Đền thờ các anh hùng liệt sỹ Truông Bồn; kinh phí gần 30 tỷ đồng, Vietinbank ủng hộ 22,9 tỷ; khởi công 27/10/2012, xong chưa đầy 8 tháng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://plo.vn/54-nam-chien-thang-truong-bon-ban-hung-ca-huyen-thoai-post705514.html",
+        "quote": "Báo Pháp luật TP.HCM, 10/2022: tối 29-10 tổ chức kỷ niệm 54 năm Chiến thắng Truông Bồn (31-10-1968 – 31-10-2022) tại khu di tích xã Mỹ Sơn; 0 giờ ngày 1-11-1968 là ngừng bắn ở miền Bắc.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00809"
+  }
+}

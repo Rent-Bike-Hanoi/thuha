@@ -1,0 +1,156 @@
+{
+  "writer": "writer-G1",
+  "queued": "2026-10-14T14:51:01.532817+00:00",
+  "topic": {
+    "topic_id": "TM-00804",
+    "url": "/du-lich/chien-khu-ngoc-trao-thach-thanh/",
+    "title": "Chiến khu Ngọc Trạo Thạch Thành: Hang Treo, nơi lập đội du kích 1941",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chiến khu ngọc trạo",
+    "secondary_keywords": [
+      "di tích chiến khu ngọc trạo",
+      "hang treo ngọc trạo",
+      "du lịch thạch thành"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Thạch Thành (thác Mây, hang Con Moong) muốn biết chiến khu Ngọc Trạo có gì xem, ý nghĩa Hang Treo và ngày kỷ niệm.",
+    "information_gain": "Các bài /du-lich/thanh-nha-ho-thanh-hoa/ và bài thác Mây, hang Con Moong không nói Ngọc Trạo. Bài mới cung cấp lịch sử ngắn (11 cán bộ đến 10/7/1941, đội 21 chiến sĩ lập tại Hang Treo 19/9/1941), quyết định xếp hạng 912/QĐ-BT năm 1994, nhà truyền thống và tượng đài hiện có, xã Ngọc Trạo mới sau sáp nhập 2025.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/huyen-thach-thanh-thanh-hoa-khai-thac-tiem-nang-di-tich-de-phat-trien-165725.html",
+        "quote": "Báo Thế giới & Việt Nam: Thạch Thành có 14 di tích đã xếp hạng; Di tích Chiến khu Du kích Ngọc Trạo được công nhận di tích lịch sử cách mạng cấp quốc gia tại Quyết định 912/QĐ-BT ngày 27-9-1994; nơi thành lập Đội du kích Ngọc Trạo ngày 19-9-1941, tiền thân lực lượng vũ trang tỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/dang-huong-dang-hoa-bao-cong-ky-niem-84-nam-ngay-thanh-lap-chien-khu-ngoc-trao-a281135.html",
+        "quote": "Thương hiệu & Công luận, 09/2025: ngày 19/9 xã Ngọc Trạo dâng hương kỷ niệm 84 năm (19/9/1941–19/9/2025) tại Khu di tích quốc gia Chiến khu Ngọc Trạo; đội du kích lập đêm 19/9/1941 tại Hang Treo, chiến khu tồn tại từ tháng 7 đến tháng 10/1941; từ 1/7/2025 xã Ngọc Trạo mới gồm Thành Long, Thành An, Thành Tâm và Ngọc Trạo, diện tích 79,62 km2.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/noi-thap-len-ngon-lua",
+        "quote": "Vietnam.vn dẫn Báo Thanh Hóa (2025): ngày 10/7/1941 Tỉnh ủy cử 11 cán bộ, chiến sĩ xây dựng chiến khu; ngày 19/9/1941 tại hang Treo thành lập đội du kích thoát ly gồm 21 chiến sĩ, lần đầu xuất hiện cờ đỏ sao vàng; khu di tích có nhà truyền thống và tượng đài chiến khu du kích Ngọc Trạo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/nghe-thuat/85-nam-chien-khu-ngoc-trao-qua-150-hinh-anh-tu-lieu-266844.html",
+        "quote": "Báo Văn Hóa, 09/2026: từ 16–20.9.2026 triển lãm 'Chiến khu Ngọc Trạo - khúc tráng ca bất diệt' hơn 150 hình ảnh nhân 85 năm (19.9.1941–19.9.2026); đội du kích đầu tiên của Thanh Hóa thành lập tại Hang Treo với 21 chiến sĩ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chiến khu ngọc trạo"
+      }
+    ],
+    "notes": "Không có nguồn về giờ mở cửa nhà truyền thống, đường lên Hang Treo, vé. Không ghi khoảng cách. Tránh nói triển lãm 2026 còn mở (đã kết thúc 20/9/2026).",
+    "outline": [
+      "Câu trả lời ngắn: Ngọc Trạo ở đâu, xem gì",
+      "Hang Treo và đội du kích 1941",
+      "Nhà truyền thống, tượng đài",
+      "Ngày kỷ niệm 19/9",
+      "Ghép với các điểm Thạch Thành",
+      "Lưu ý khi đi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/pu-luong-di-xe-may-tu-ha-noi/",
+      "/du-lich/hang-con-moong-thach-thanh/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00804.json",
+  "draft_template": {
+    "id": "TM-00804",
+    "url": "/du-lich/chien-khu-ngoc-trao-thach-thanh/",
+    "title": "Chiến khu Ngọc Trạo Thạch Thành: Hang Treo, nơi lập đội du kích 1941",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chiến khu ngọc trạo, di tích chiến khu ngọc trạo, hang treo ngọc trạo, du lịch thạch thành",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Ngọc Trạo ở đâu, xem gì",
+        "<p></p>"
+      ],
+      [
+        "Hang Treo và đội du kích 1941",
+        "<p></p>"
+      ],
+      [
+        "Nhà truyền thống, tượng đài",
+        "<p></p>"
+      ],
+      [
+        "Ngày kỷ niệm 19/9",
+        "<p></p>"
+      ],
+      [
+        "Ghép với các điểm Thạch Thành",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/huyen-thach-thanh-thanh-hoa-khai-thac-tiem-nang-di-tich-de-phat-trien-165725.html",
+        "quote": "Báo Thế giới & Việt Nam: Thạch Thành có 14 di tích đã xếp hạng; Di tích Chiến khu Du kích Ngọc Trạo được công nhận di tích lịch sử cách mạng cấp quốc gia tại Quyết định 912/QĐ-BT ngày 27-9-1994; nơi thành lập Đội du kích Ngọc Trạo ngày 19-9-1941, tiền thân lực lượng vũ trang tỉnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/dang-huong-dang-hoa-bao-cong-ky-niem-84-nam-ngay-thanh-lap-chien-khu-ngoc-trao-a281135.html",
+        "quote": "Thương hiệu & Công luận, 09/2025: ngày 19/9 xã Ngọc Trạo dâng hương kỷ niệm 84 năm (19/9/1941–19/9/2025) tại Khu di tích quốc gia Chiến khu Ngọc Trạo; đội du kích lập đêm 19/9/1941 tại Hang Treo, chiến khu tồn tại từ tháng 7 đến tháng 10/1941; từ 1/7/2025 xã Ngọc Trạo mới gồm Thành Long, Thành An, Thành Tâm và Ngọc Trạo, diện tích 79,62 km2.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/noi-thap-len-ngon-lua",
+        "quote": "Vietnam.vn dẫn Báo Thanh Hóa (2025): ngày 10/7/1941 Tỉnh ủy cử 11 cán bộ, chiến sĩ xây dựng chiến khu; ngày 19/9/1941 tại hang Treo thành lập đội du kích thoát ly gồm 21 chiến sĩ, lần đầu xuất hiện cờ đỏ sao vàng; khu di tích có nhà truyền thống và tượng đài chiến khu du kích Ngọc Trạo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/nghe-thuat/85-nam-chien-khu-ngoc-trao-qua-150-hinh-anh-tu-lieu-266844.html",
+        "quote": "Báo Văn Hóa, 09/2026: từ 16–20.9.2026 triển lãm 'Chiến khu Ngọc Trạo - khúc tráng ca bất diệt' hơn 150 hình ảnh nhân 85 năm (19.9.1941–19.9.2026); đội du kích đầu tiên của Thanh Hóa thành lập tại Hang Treo với 21 chiến sĩ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00804"
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "writer": "writer-G3",
+  "queued": "2026-10-14T14:51:03.715279+00:00",
+  "topic": {
+    "topic_id": "TM-00813",
+    "url": "/du-lich/chua-huong-tich-ha-tinh/",
+    "title": "Chùa Hương Tích Hà Tĩnh: chùa trên núi Hồng Lĩnh, thuyền, cáp treo",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa hương tích hà tĩnh",
+    "secondary_keywords": [
+      "lễ hội chùa hương tích hà tĩnh",
+      "cáp treo chùa hương tích",
+      "hoan châu đệ nhất danh lam"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hà Tĩnh dịp đầu năm muốn biết chùa Hương Tích ở Can Lộc lên bằng gì (xe điện, thuyền, cáp treo), khai hội ngày nào và chính hội 18/2 âm lịch.",
+    "information_gain": "/du-lich/di-chua-huong-bang-xe-may/ nói chùa Hương Mỹ Đức (Hà Nội), dễ nhầm. Bài mới tách rõ Hương Tích Hà Tĩnh ở xã Thiên Lộc, độ cao khoảng 650 m, các chặng xe điện – thuyền – cáp treo, ngày khai hội mùng 6 tháng Giêng và ngày chính 18/2 âm lịch, và cảnh báo số liệu khách mâu thuẫn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/dac-sac-le-hoi-chua-huong-tich",
+        "quote": "Cổng TTĐT tỉnh Hà Tĩnh (đọc 14/10/2026): chùa trên dãy Hồng Lĩnh, độ cao khoảng 650 m, 'Hoan Châu đệ nhất danh lam'; gắn thời Trần và truyền thuyết công chúa Diệu Thiện; năm 2026 khai hội ngày 22/2 (mùng 6 tháng Giêng Bính Ngọ), mở đầu Năm Du lịch Hà Tĩnh 2026; không gian lễ hội gồm bến thuyền, cáp treo, miếu Cô, miếu Cậu, chùa chính; năm 2023 khoảng 150.000 lượt khách (dẫn Báo Nhân Dân).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/chua-huong-tich--mien-an-yen-giua-dai-ngan-hong-linh",
+        "quote": "Cổng TTĐT tỉnh Hà Tĩnh: du khách có thể kết hợp xe điện, thuyền, cáp treo hoặc đi bộ lên chùa; ngoài mùa lễ hội chùa yên tĩnh, hợp vãn cảnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/chua-huong-tich-san-sang-mua-le-hoi-post280571.html",
+        "quote": "Báo Hà Tĩnh, đầu 2025: mục tiêu hơn 14 vạn lượt khách năm 2025; Công ty CP Đầu tư phát triển và du lịch Hồng Lĩnh chuẩn bị hơn 30 xe điện, bảo dưỡng cáp treo; bến thuyền có 8 thuyền, áo phao; lễ Khánh đản Quán Thế Âm ngày 18/2 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/khai-hoi-chua-huong-tich-63454.html",
+        "quote": "Báo Văn Hóa, 02/2024: khai hội 15.2.2024 (mồng 6 tháng Giêng); chùa xây từ thời Trần, cao 650 m, trên một trong 99 đỉnh núi Hồng, xã Thiên Lộc, huyện Can Lộc; có Am Thánh Mẫu, Đền Thiên Vương, Thượng Điện, Cung Tam Bảo 54 pho tượng gỗ; lễ hội từ đầu tháng Giêng đến hết tháng 3 âm lịch, ngày chính 18.2; ghi năm 2023 'hơn 150 vạn lượt khách'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa hương tích hà tĩnh"
+      }
+    ],
+    "notes": "Xung đột lượng khách 2023: 150.000 (hatinh.gov.vn) vs 'hơn 150 vạn' (Báo Văn Hóa) — không đưa số. Không có giá vé, giá cáp treo/thuyền từ nguồn chính thức — không ghi giá. Khoảng cách 'cách QL1 7 km' chỉ có trong tóm tắt tìm kiếm, chưa đọc trang — bỏ.",
+    "outline": [
+      "Câu trả lời ngắn: Hương Tích Hà Tĩnh khác chùa Hương Hà Nội",
+      "Chùa trên núi Hồng Lĩnh và truyền thuyết Diệu Thiện",
+      "Lên chùa: xe điện, thuyền, cáp treo, đi bộ",
+      "Lịch lễ hội: mùng 6 tháng Giêng và ngày 18/2",
+      "Đi ngoài mùa lễ hội",
+      "Lưu ý gửi xe máy và an toàn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-chua-huong-bang-xe-may/",
+      "/du-lich/khu-di-tich-kim-lien-nghe-an/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00813.json",
+  "draft_template": {
+    "id": "TM-00813",
+    "url": "/du-lich/chua-huong-tich-ha-tinh/",
+    "title": "Chùa Hương Tích Hà Tĩnh: chùa trên núi Hồng Lĩnh, thuyền, cáp treo",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa hương tích hà tĩnh, lễ hội chùa hương tích hà tĩnh, cáp treo chùa hương tích, hoan châu đệ nhất danh lam",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Hương Tích Hà Tĩnh khác chùa Hương Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Chùa trên núi Hồng Lĩnh và truyền thuyết Diệu Thiện",
+        "<p></p>"
+      ],
+      [
+        "Lên chùa: xe điện, thuyền, cáp treo, đi bộ",
+        "<p></p>"
+      ],
+      [
+        "Lịch lễ hội: mùng 6 tháng Giêng và ngày 18/2",
+        "<p></p>"
+      ],
+      [
+        "Đi ngoài mùa lễ hội",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý gửi xe máy và an toàn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/dac-sac-le-hoi-chua-huong-tich",
+        "quote": "Cổng TTĐT tỉnh Hà Tĩnh (đọc 14/10/2026): chùa trên dãy Hồng Lĩnh, độ cao khoảng 650 m, 'Hoan Châu đệ nhất danh lam'; gắn thời Trần và truyền thuyết công chúa Diệu Thiện; năm 2026 khai hội ngày 22/2 (mùng 6 tháng Giêng Bính Ngọ), mở đầu Năm Du lịch Hà Tĩnh 2026; không gian lễ hội gồm bến thuyền, cáp treo, miếu Cô, miếu Cậu, chùa chính; năm 2023 khoảng 150.000 lượt khách (dẫn Báo Nhân Dân).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/chua-huong-tich--mien-an-yen-giua-dai-ngan-hong-linh",
+        "quote": "Cổng TTĐT tỉnh Hà Tĩnh: du khách có thể kết hợp xe điện, thuyền, cáp treo hoặc đi bộ lên chùa; ngoài mùa lễ hội chùa yên tĩnh, hợp vãn cảnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/chua-huong-tich-san-sang-mua-le-hoi-post280571.html",
+        "quote": "Báo Hà Tĩnh, đầu 2025: mục tiêu hơn 14 vạn lượt khách năm 2025; Công ty CP Đầu tư phát triển và du lịch Hồng Lĩnh chuẩn bị hơn 30 xe điện, bảo dưỡng cáp treo; bến thuyền có 8 thuyền, áo phao; lễ Khánh đản Quán Thế Âm ngày 18/2 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/khai-hoi-chua-huong-tich-63454.html",
+        "quote": "Báo Văn Hóa, 02/2024: khai hội 15.2.2024 (mồng 6 tháng Giêng); chùa xây từ thời Trần, cao 650 m, trên một trong 99 đỉnh núi Hồng, xã Thiên Lộc, huyện Can Lộc; có Am Thánh Mẫu, Đền Thiên Vương, Thượng Điện, Cung Tam Bảo 54 pho tượng gỗ; lễ hội từ đầu tháng Giêng đến hết tháng 3 âm lịch, ngày chính 18.2; ghi năm 2023 'hơn 150 vạn lượt khách'.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00813"
+  }
+}
