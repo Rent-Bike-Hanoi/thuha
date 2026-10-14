@@ -1,0 +1,163 @@
+{
+  "writer": "writer-w31",
+  "queued": "2026-10-14T03:47:41.616402+00:00",
+  "topic": {
+    "topic_id": "TM-00619",
+    "url": "/xe-may/kymco-k-pipe-50/",
+    "title": "Kymco K-Pipe 50: xe số 50cc dáng naked thể thao, không cần bằng",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "kymco k-pipe 50",
+    "secondary_keywords": [
+      "kymco kpipe 50",
+      "k-pipe 50cc giá",
+      "kpipe 50 hao xăng",
+      "xe 50cc cho học sinh dáng thể thao"
+    ],
+    "intent": "informational",
+    "user_problem": "Học sinh 16–17 tuổi thích dáng naked thể thao và phụ huynh ở Hà Nội tìm hiểu Kymco K-Pipe 50: giá, hộp số, hao xăng, chiều cao yên và luật cho phép đi.",
+    "information_gain": "Site có /xe-may/kymco-like-50-va-like-50fi/, /xe-may/kymco-hermosa-50fi/ (xe ga) và /xe-may/xe-50cc-cho-hoc-sinh/ nhưng chưa có bài về K-Pipe 50 – mẫu 50cc dáng naked hiếm hoi. Bài thêm số liệu KYMCO Việt Nam đọc 14/10/2026: 22.730.000 VND, 4 màu; 104 kg, 1.950 x 750 x 1.030 mm, yên 815 mm (cao hơn xe ga 50cc), bình 4,5 L, sáng gầm 160 mm; 49,5 cm3, 1,8 kW/7.500 v/ph, 2,8 Nm/5.500 v/ph, hộp số cơ khí 4 cấp, lốp không săm 80/80-17 – 90/80-17, hao 1,37–1,45 L/100 km theo NETC; chỉ ra mâu thuẫn \"hộp số tự động\" trong đoạn giới thiệu; áp Điều 34, 59 Luật 36/2024 → xe gắn máy, đủ 16 tuổi. Bài là thông tin mẫu xe, không phải dịch vụ: cửa hàng Thuê xe máy Nguyễn Hà không cho thuê mẫu này (business-facts chỉ có 3 xe 50cc – SYM Elite 50, một xe ga 50cc trắng, một Cub 50 – và xe máy điện Tailg đen nhám); người cần thuê xe được dẫn sang /thue-xe-may/ha-noi/ và /bang-gia/ với lời nhắc \"hỏi cửa hàng xe đang có\".",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://kymco.com.vn/san-pham/kpipe-50.html",
+        "quote": "KYMCO Việt Nam, trang sản phẩm KPIPE 50 (đọc 14/10/2026): giới thiệu \"Thừa hưởng thiết kế mạnh mẽ của tiền nhiệm K-PIPE 125cc, K-PIPE 50cc vận hành an toàn với hộp số tự động, sẵn sàng chinh phục đối tượng khách hàng không cần bằng lái\"; 04 màu Đen vàng, Xanh đen, Đỏ đen, Đen đỏ; giá bán lẻ đề xuất 22.730.000 vnd. Thông số: 104 kg; 1950 x 750 x 1030 mm; bình xăng 4.5 lít; sáng gầm 160 mm; trục 1280 mm; 640 mm (dòng không ghi nhãn trong bản đọc); yên 815 +/-10 mm; xăng, 4 kỳ, 1 xi lanh, làm mát không khí; 49.5 cm3; 39 x 41,4mm; 1.8/7500 kW/vòng/phút; 2.8/5500 Nm/vòng/phút; khởi động điện/đạp chân; truyền động \"Cơ khí/ 4 cấp\"; ắc quy 12V7Ah; lốp không săm 80/80-17 trước, 90/80-17 sau; tiêu thụ nhiên liệu (thử nghiệm NETC theo QCVN 04): Kpipe 50 MMC 1,45 lít/100 km, Kpipe 50 KB10AC 1,37 lít/100 km; đồng hồ LCD.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://kymco.com.vn/san-pham",
+        "quote": "Kwang Yang Việt Nam (KYMCO), trang Sản phẩm trên kymco.com.vn (đọc 14/10/2026): danh sách \"Giá bán lẻ đề xuất từ\" gồm 85.000.000, 72.000.000, 29.360.000, 29.300.000, 25.960.000, 25.550.000, 22.730.000, 17.440.000 và 115.000.000 vnd (giá 72.000.000 khớp Sky Town 150, 22.730.000 khớp K-Pipe 50, 17.440.000 khớp Visar S 50 trên trang từng mẫu).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn; đọc 14/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe \"có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3\". Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\".",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.50cc: 3 xe: SYM Elite 50 màu xanh đen, xe ga 50cc màu trắng, xe Cub 50 (Cub mới mua lại, chưa có ảnh thật) (theo chủ cửa hàng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "kymco k-pipe 50"
+      }
+    ],
+    "notes": "Mâu thuẫn trên trang KYMCO: đoạn giới thiệu ghi \"hộp số tự động\" nhưng bảng thông số ghi \"Cơ khí/ 4 cấp\" – không khẳng định là xe côn tay hay số tự động ly hợp; viết \"bảng thông số ghi hộp số cơ khí 4 cấp, đoạn giới thiệu ghi tự động – hỏi đại lý khi lái thử\". Một dòng 640 mm không rõ nhãn – không dùng. Hai mức hao xăng tương ứng hai mã kiểu loại (MMC, KB10AC) – nêu cả hai. Trang không ghi vận tốc thiết kế – kết luận xe gắn máy dựa trên 49,5 cm3. Không viết rằng cửa hàng cho thuê/bán/sửa mẫu này; CTA chỉ là /thue-xe-may/ha-noi/ và /bang-gia/ kèm \"hỏi cửa hàng xe đang có\".",
+    "outline": [
+      "Kymco K-Pipe 50: dáng naked của bản 125cc thu nhỏ",
+      "Giá đề xuất và 4 màu",
+      "Động cơ 49,5 cm3, 1,8 kW và chuyện hộp số trên trang hãng",
+      "Yên 815 mm, 104 kg, lốp 17 inch: ai ngồi vừa",
+      "Hao xăng 1,37–1,45 L/100 km theo NETC",
+      "Luật 36/2024: đủ 16 tuổi, không cần bằng",
+      "Cần xe 50cc đi tạm ở Hà Nội: hỏi cửa hàng xe đang có"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/xe-50cc-cho-hoc-sinh/",
+      "/luat-giao-thong/xe-50cc-co-can-bang-lai/",
+      "/xe-may/kymco-like-50-va-like-50fi/",
+      "/thue-xe-may/ha-noi/",
+      "/bang-gia/"
+    ],
+    "content_type": "review",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00619.json",
+  "draft_template": {
+    "id": "TM-00619",
+    "url": "/xe-may/kymco-k-pipe-50/",
+    "title": "Kymco K-Pipe 50: xe số 50cc dáng naked thể thao, không cần bằng",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "kymco k-pipe 50, kymco kpipe 50, k-pipe 50cc giá, kpipe 50 hao xăng, xe 50cc cho học sinh dáng thể thao",
+    "excerpt": "",
+    "sections": [
+      [
+        "Kymco K-Pipe 50: dáng naked của bản 125cc thu nhỏ",
+        "<p></p>"
+      ],
+      [
+        "Giá đề xuất và 4 màu",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 49,5 cm3, 1,8 kW và chuyện hộp số trên trang hãng",
+        "<p></p>"
+      ],
+      [
+        "Yên 815 mm, 104 kg, lốp 17 inch: ai ngồi vừa",
+        "<p></p>"
+      ],
+      [
+        "Hao xăng 1,37–1,45 L/100 km theo NETC",
+        "<p></p>"
+      ],
+      [
+        "Luật 36/2024: đủ 16 tuổi, không cần bằng",
+        "<p></p>"
+      ],
+      [
+        "Cần xe 50cc đi tạm ở Hà Nội: hỏi cửa hàng xe đang có",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://kymco.com.vn/san-pham/kpipe-50.html",
+        "quote": "KYMCO Việt Nam, trang sản phẩm KPIPE 50 (đọc 14/10/2026): giới thiệu \"Thừa hưởng thiết kế mạnh mẽ của tiền nhiệm K-PIPE 125cc, K-PIPE 50cc vận hành an toàn với hộp số tự động, sẵn sàng chinh phục đối tượng khách hàng không cần bằng lái\"; 04 màu Đen vàng, Xanh đen, Đỏ đen, Đen đỏ; giá bán lẻ đề xuất 22.730.000 vnd. Thông số: 104 kg; 1950 x 750 x 1030 mm; bình xăng 4.5 lít; sáng gầm 160 mm; trục 1280 mm; 640 mm (dòng không ghi nhãn trong bản đọc); yên 815 +/-10 mm; xăng, 4 kỳ, 1 xi lanh, làm mát không khí; 49.5 cm3; 39 x 41,4mm; 1.8/7500 kW/vòng/phút; 2.8/5500 Nm/vòng/phút; khởi động điện/đạp chân; truyền động \"Cơ khí/ 4 cấp\"; ắc quy 12V7Ah; lốp không săm 80/80-17 trước, 90/80-17 sau; tiêu thụ nhiên liệu (thử nghiệm NETC theo QCVN 04): Kpipe 50 MMC 1,45 lít/100 km, Kpipe 50 KB10AC 1,37 lít/100 km; đồng hồ LCD.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://kymco.com.vn/san-pham",
+        "quote": "Kwang Yang Việt Nam (KYMCO), trang Sản phẩm trên kymco.com.vn (đọc 14/10/2026): danh sách \"Giá bán lẻ đề xuất từ\" gồm 85.000.000, 72.000.000, 29.360.000, 29.300.000, 25.960.000, 25.550.000, 22.730.000, 17.440.000 và 115.000.000 vnd (giá 72.000.000 khớp Sky Town 150, 22.730.000 khớp K-Pipe 50, 17.440.000 khớp Visar S 50 trên trang từng mẫu).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn; đọc 14/10/2026): Điều 34 khoản 1 điểm g: xe gắn máy là xe \"có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3\". Điều 59 khoản 1 điểm a: \"Người đủ 16 tuổi trở lên được điều khiển xe gắn máy\".",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.50cc: 3 xe: SYM Elite 50 màu xanh đen, xe ga 50cc màu trắng, xe Cub 50 (Cub mới mua lại, chưa có ảnh thật) (theo chủ cửa hàng, 10/2026)",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00619"
+  }
+}
