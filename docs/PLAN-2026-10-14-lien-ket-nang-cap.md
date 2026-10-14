@@ -48,7 +48,7 @@ Hiện trạng (kiểm 15/10): robots.txt cho phép mọi bot; bài có BlogPost
 |---|---|---|
 | D1 | Không chặn bot tìm kiếm AI (OAI-SearchBot, PerplexityBot, Googlebot, Bingbot). Bot huấn luyện (GPTBot, Google-Extended) là quyết định riêng; mặc định để mở | Đã đúng (robots.txt Allow /) |
 | D2 | Nối thực thể: LocalBusiness/Organization thêm `sameAs` = link Google Maps của hồ sơ, `alternateName` = tên trên GBP, để AI nối blog với cửa hàng trên Maps | Làm 15/10 |
-| D3 | Bing Webmaster Tools + IndexNow (ChatGPT search, Copilot được cho là dựa nhiều vào chỉ mục Bing; chưa có xác nhận chính thức) và Cốc Cốc | Cần chủ site xác minh site |
+| D3 | Bing Webmaster Tools + IndexNow (ChatGPT search, Copilot được cho là dựa nhiều vào chỉ mục Bing; chưa có xác nhận chính thức) và Cốc Cốc | Kỹ thuật xong 15/10: file khoá IndexNow ở gốc site + `scripts/indexnow.py` (chạy `--send` sau khi deploy). Còn: chủ site đăng nhập Bing Webmaster Tools, nhập site từ Google Search Console (xác minh tự động) |
 | D4 | Trang tiền mở đầu bằng đoạn trả lời 40–60 từ (giá, địa chỉ, giờ, giấy tờ); FAQ khớp câu hỏi người dùng hỏi AI: "thuê xe máy Long Biên ở đâu", "giá thuê xe máy Hà Nội 2026", "người nước ngoài thuê xe máy Hà Nội cần gì", "thuê xe 50cc không cần bằng" | Xong 15/10: 6 trang tiền đã có đoạn trả lời thẳng + FAQ; thêm câu "Cửa hàng ở đâu, mở cửa mấy giờ?" |
 | D5 | Uy tín ngoài site: review GBP đều đặn, nhắc tên "Thuê xe máy Nguyễn Hà" nhất quán trên Facebook, nhóm, blog du lịch đối tác; không mua review, không spam diễn đàn | Liên tục (mục 9) |
 | D6 | Đo: bộ 20 câu hỏi kiểm tra mỗi tháng trên Google AI Mode, ChatGPT, Gemini, Perplexity (có nhắc cửa hàng không, đúng giá/địa chỉ không, dẫn trang nào); GA4 theo dõi nguồn giới thiệu chatgpt.com, perplexity.ai, gemini.google.com, copilot | Bộ câu hỏi: docs/GEO-bo-cau-hoi-kiem-tra.md |
@@ -71,4 +71,4 @@ Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domai
   5. Luật có nhu cầu: xe không chính chủ có bị phạt không 1.600, kiểm định khí thải xe máy 1.300, đèn đỏ có được rẽ phải không 590.
   Từ khoá du lịch: 666 từ khoá chính của bài du lịch đã tra 15/10 (HarborRank), 441 có volume. Cao nhất: bến xe mỹ đình 673.000, bến xe nước ngầm 450.000, bến xe giáp bát 301.000, văn miếu quốc tử giám 165.000, bến xe yên nghĩa 165.000, bảo tàng lịch sử quân sự 110.000, công viên thống nhất 110.000. Nhiều từ là ý định điều hướng (bến xe, ga, chợ, công viên): nâng cấp các bài này theo hướng thông tin thực dụng (giờ, đường đi xe máy, gửi xe) và link về trang thuê xe.
 - A4 xong 15/10: thêm link "xem thêm" cùng chủ đề tới vòng xuyến (từ đèn đỏ rẽ phải, nhường người đi bộ) và Himalayan 450 (từ Hunter 350, Speed 400).
-- D: D1, D2, D4, D6 xong; D3 (Bing Webmaster Tools) chờ chủ site; D5 liên tục.
+- D: D1, D2, D4, D6 xong; D3 phần kỹ thuật xong (IndexNow), đăng nhập Bing Webmaster Tools chờ chủ site; D5 liên tục.
