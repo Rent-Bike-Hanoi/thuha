@@ -1,0 +1,159 @@
+{
+  "writer": "w947",
+  "queued": "2026-10-14T16:35:48.577778+00:00",
+  "topic": {
+    "topic_id": "TM-00948",
+    "url": "/du-lich/rung-ngap-man-dong-rui/",
+    "title": "Rừng ngập mặn Đồng Rui Tiên Yên: đi lúc triều rút, thuyền ra Mũi Lòng Vàng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "rừng ngập mặn đồng rui",
+    "secondary_keywords": [
+      "đồng rui tiên yên",
+      "mũi lòng vàng",
+      "rừng ngập mặn quảng ninh",
+      "du lịch tiên yên",
+      "đồng rui mũi lòng vàng"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người Hà Nội đi Quảng Ninh muốn thấy rừng ngập mặn nguyên sinh thay vì bãi tắm đông, cần biết Đồng Rui nằm đâu so với quốc lộ 18, đi giờ nào theo con nước, khám phá bằng thúng/thuyền hay đi bộ và ra Mũi Lòng Vàng thế nào.",
+    "information_gain": "Trang chưa có bài nào về rừng ngập mặn ở Quảng Ninh; /du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/ dừng ở Hạ Long, /du-lich/bien-tra-co-mong-cai/ đi tiếp quốc lộ 18 tới Móng Cái mà không ghé Đồng Rui; /du-lich/vuon-quoc-gia-xuan-thuy/ là rừng ngập mặn ở Nam Định. Bài mới cho biết Đồng Rui cách Hạ Long khoảng 60 km theo quốc lộ 18, cách trung tâm Tiên Yên hơn 20 km, sát cửa sông Ba Chẽ; phải đợi triều xuống để ngồi thúng, mủng hoặc lội bộ dưới tán sú vẹt đước cao 4–5 m; đi thuyền gỗ ra Mũi Lòng Vàng cách bờ khoảng 4 km; lịch sử phá rừng nuôi tôm 1992–1997 và phục hồi hơn 1.000 ha; các con số diện tích lệch nhau giữa các nguồn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/kham-pha-dong-rui-mui-long-vang-quang-ninh-1028503.htm",
+        "quote": "Tuổi Trẻ, 'Khám phá Đồng Rui - Mũi Lòng Vàng (Quảng Ninh)' (28/12/2015): từ TP Hạ Long theo quốc lộ 18 khoảng 60 km về phía đông bắc tới rừng ngập mặn Đồng Rui giáp cửa sông Ba Chẽ; rừng tổng diện tích 2.800 ha, rừng tự nhiên 2.400 ha (sú, vẹt, đước, mắm, trang); muốn khám phá phải đợi thủy triều xuống thấp rồi ngồi thúng, mủng hoặc đi bộ; cây cổ thụ hơn trăm năm, cao 4–5 m; sau đó lên tàu gỗ ra Mũi Lòng Vàng, đảo cát cách bờ khoảng 4 km, rộng khoảng 20 ha.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/dong-rui-diem-den-hap-dan-khach-du-lich-2432057.html",
+        "quote": "Báo Quảng Ninh, 'Đồng Rui - Điểm đến hấp dẫn khách du lịch' (08/03/2019): Đồng Rui có trên 2.800 ha rừng ngập mặn, rừng tự nhiên 2.400 ha; du khách thuê thuyền xuyên tán rừng ngập nước rồi đi thuyền gỗ ra mũi Lòng Vàng; một công ty lữ hành Hà Nội đã đưa đoàn trên 50 khách về trải nghiệm; UBND tỉnh đã phê duyệt Đề án thành lập khu bảo tồn ngập nước Đồng Rui.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/phat-huy-gia-tri-rung-ngap-man-dong-rui-3303013.html",
+        "quote": "Báo Quảng Ninh, 'Phát huy giá trị rừng ngập mặn Đồng Rui' (11/06/2024): đi ô tô hơn 20 km từ trung tâm thị trấn Tiên Yên đến xã Đồng Rui; khi nước lên phải đi nhờ mủng của dân mới ra được các khóm rừng; xã có tổng diện tích tự nhiên 5.045,08 ha, trong đó rừng ngập mặn phòng hộ 2.162,53 ha; từ năm 1997 đến nay đã trồng phục hồi hơn 1.000 ha; người dân bắt ngao, ốc, ngán, vạng dưới tán rừng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/rung-vang-dong-rui-3223859.html",
+        "quote": "Báo Quảng Ninh, '\"Rừng vàng\" Đồng Rui' (30/01/2023): Đồng Rui có gần 3.000 ha rừng ngập mặn, nhiều cây hàng trăm năm tuổi được bảo tồn nghiêm ngặt; từ đầu quốc lộ 18 vào xã đã thấy rừng; giai đoạn 1992–1997 phong trào nuôi tôm phá hàng ngàn ha rừng; sau đó hơn 1.300 ha rừng ngập mặn được trồng tại xã; mỗi thôn có tổ quản lý rừng 5–6 người phối hợp kiểm lâm; thủy triều rút chỉ trong vài tiếng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "rừng ngập mặn đồng rui"
+      }
+    ],
+    "notes": "Diện tích mâu thuẫn: 2.800 ha (Tuổi Trẻ 2015, Báo QN 2019), gần 3.000 ha (Báo QN 2023), 2.162,53 ha rừng phòng hộ (Báo QN 2024); diện tích trồng phục hồi 'hơn 1.000 ha' (2024) vs 'hơn 1.300 ha' (2023). Không đưa số diện tích vào tiêu đề; trong bài ghi rõ nguồn/năm. Không tìm được giá thuê thuyền/thúng, bến xuất phát cụ thể hay giờ thủy triều chính thức — khuyên xem lịch thủy triều và hỏi UBND xã/người dân. Tên hành chính sau sáp nhập 2025 (xã Đồng Rui, huyện Tiên Yên) chưa kiểm. Bùn lầy, triều lên nhanh: cần cảnh báo an toàn.",
+    "outline": [
+      "Đồng Rui ở đâu trên quốc lộ 18",
+      "Vì sao phải canh con nước",
+      "Vào rừng bằng thúng, mủng hay lội bộ",
+      "Thuyền gỗ ra Mũi Lòng Vàng",
+      "Chuyện phá rừng nuôi tôm và hồi sinh",
+      "An toàn bùn lầy, triều lên và đồ cần mang"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/bien-tra-co-mong-cai/",
+      "/du-lich/vuon-quoc-gia-xuan-thuy/",
+      "/du-lich/chua-cai-bau-van-don/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00948.json",
+  "draft_template": {
+    "id": "TM-00948",
+    "url": "/du-lich/rung-ngap-man-dong-rui/",
+    "title": "Rừng ngập mặn Đồng Rui Tiên Yên: đi lúc triều rút, thuyền ra Mũi Lòng Vàng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "rừng ngập mặn đồng rui, đồng rui tiên yên, mũi lòng vàng, rừng ngập mặn quảng ninh, du lịch tiên yên, đồng rui mũi lòng vàng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồng Rui ở đâu trên quốc lộ 18",
+        "<p></p>"
+      ],
+      [
+        "Vì sao phải canh con nước",
+        "<p></p>"
+      ],
+      [
+        "Vào rừng bằng thúng, mủng hay lội bộ",
+        "<p></p>"
+      ],
+      [
+        "Thuyền gỗ ra Mũi Lòng Vàng",
+        "<p></p>"
+      ],
+      [
+        "Chuyện phá rừng nuôi tôm và hồi sinh",
+        "<p></p>"
+      ],
+      [
+        "An toàn bùn lầy, triều lên và đồ cần mang",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/kham-pha-dong-rui-mui-long-vang-quang-ninh-1028503.htm",
+        "quote": "Tuổi Trẻ, 'Khám phá Đồng Rui - Mũi Lòng Vàng (Quảng Ninh)' (28/12/2015): từ TP Hạ Long theo quốc lộ 18 khoảng 60 km về phía đông bắc tới rừng ngập mặn Đồng Rui giáp cửa sông Ba Chẽ; rừng tổng diện tích 2.800 ha, rừng tự nhiên 2.400 ha (sú, vẹt, đước, mắm, trang); muốn khám phá phải đợi thủy triều xuống thấp rồi ngồi thúng, mủng hoặc đi bộ; cây cổ thụ hơn trăm năm, cao 4–5 m; sau đó lên tàu gỗ ra Mũi Lòng Vàng, đảo cát cách bờ khoảng 4 km, rộng khoảng 20 ha.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/dong-rui-diem-den-hap-dan-khach-du-lich-2432057.html",
+        "quote": "Báo Quảng Ninh, 'Đồng Rui - Điểm đến hấp dẫn khách du lịch' (08/03/2019): Đồng Rui có trên 2.800 ha rừng ngập mặn, rừng tự nhiên 2.400 ha; du khách thuê thuyền xuyên tán rừng ngập nước rồi đi thuyền gỗ ra mũi Lòng Vàng; một công ty lữ hành Hà Nội đã đưa đoàn trên 50 khách về trải nghiệm; UBND tỉnh đã phê duyệt Đề án thành lập khu bảo tồn ngập nước Đồng Rui.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/phat-huy-gia-tri-rung-ngap-man-dong-rui-3303013.html",
+        "quote": "Báo Quảng Ninh, 'Phát huy giá trị rừng ngập mặn Đồng Rui' (11/06/2024): đi ô tô hơn 20 km từ trung tâm thị trấn Tiên Yên đến xã Đồng Rui; khi nước lên phải đi nhờ mủng của dân mới ra được các khóm rừng; xã có tổng diện tích tự nhiên 5.045,08 ha, trong đó rừng ngập mặn phòng hộ 2.162,53 ha; từ năm 1997 đến nay đã trồng phục hồi hơn 1.000 ha; người dân bắt ngao, ốc, ngán, vạng dưới tán rừng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/rung-vang-dong-rui-3223859.html",
+        "quote": "Báo Quảng Ninh, '\"Rừng vàng\" Đồng Rui' (30/01/2023): Đồng Rui có gần 3.000 ha rừng ngập mặn, nhiều cây hàng trăm năm tuổi được bảo tồn nghiêm ngặt; từ đầu quốc lộ 18 vào xã đã thấy rừng; giai đoạn 1992–1997 phong trào nuôi tôm phá hàng ngàn ha rừng; sau đó hơn 1.300 ha rừng ngập mặn được trồng tại xã; mỗi thôn có tổ quản lý rừng 5–6 người phối hợp kiểm lâm; thủy triều rút chỉ trong vài tiếng.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00948"
+  }
+}

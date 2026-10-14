@@ -1,0 +1,149 @@
+{
+  "writer": "w953",
+  "queued": "2026-10-14T16:35:49.694303+00:00",
+  "topic": {
+    "topic_id": "TM-00953",
+    "url": "/du-lich/chua-dai-bi-nam-truc/",
+    "title": "Chùa Đại Bi Nam Trực: chùa 60 gian thờ Từ Đạo Hạnh, rối chầu Thánh",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa đại bi nam định",
+    "secondary_keywords": [
+      "chùa đại bi nam trực",
+      "chùa bi nam giang",
+      "lễ hội chùa đại bi",
+      "múa rối cạn chầu thánh chùa đại bi"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Nam Định (nay thuộc Ninh Bình) muốn biết chùa Đại Bi có gì đặc biệt, thờ ai, lễ hội tháng Giêng diễn ra khi nào và gắn với chợ Viềng ra sao.",
+    "information_gain": "Site có /du-lich/den-tran-nam-dinh-di-xe-may/, /du-lich/phu-day-di-xe-may-tu-ha-noi/ và /du-lich/chua-co-le-ninh-binh/ nhưng không trang nào nói chùa Đại Bi (Nam Giang). Bài mới cho: chùa chung của 3 thôn Giáp Ba, Giáp Tư, Vân Chàng; thờ thiền sư Từ Đạo Hạnh; kiến trúc 60 gian chủ yếu gỗ lim, tam quan lệch về phía Đông; đôi giếng 'mắt rồng'; 10 tấm bia (cổ nhất 1697), chuông 1847; xếp hạng quốc gia 1964; lễ hội là di sản phi vật thể quốc gia (QĐ 254/QĐ-BVHTTDL 22/1/2020) với múa rối cạn chầu Thánh; liên hệ phiên chợ Viềng đêm mùng 7 rạng mùng 8 tháng Giêng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/trao-bang-chung-nhan-le-hoi-chua-dai-bi-la-di-san-van-hoa-phi-vat-the-quoc-gia-post738382.html",
+        "quote": "Báo Nhân Dân (11/02/2023, đọc 14/10/2026): chùa Đại Bi là chùa chung của 3 thôn Giáp Ba, Giáp Tư và Vân Chàng (thị trấn Nam Giang, huyện Nam Trực), xây từ thời vua Lý Nhân Tông, thờ thiền sư Từ Đạo Hạnh; năm 1964 được xếp hạng di tích lịch sử văn hóa cấp quốc gia; lễ hội từ ngày 20 đến 23 tháng Giêng âm lịch, ngày 21 là chính hội; tiêu biểu là múa rối cạn chầu Thánh (trò ổi lỗi); chùa đón khách trong phiên chợ Viềng đêm mùng 7 rạng mùng 8 tháng Giêng; lễ hội vào danh mục di sản phi vật thể quốc gia theo QĐ 254/QĐ-BVHTTDL ngày 22/1/2020.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/van-canh-chua-dai-bi-danh-lam-co-tu-noi-tieng-xu-son-nam-xua-post903551.vnp",
+        "quote": "Vietnam+ (TTXVN) (30/10/2023, đọc 14/10/2026): chùa ở thôn Giáp Ba, xã Nam Giang, Nam Trực; tương truyền dựng thời Lý (thế kỷ 11); công trình hiện nay dựng, mở rộng từ thế kỷ 17 (Hậu Lê), trùng tu thời Nguyễn (thế kỷ 19); kiến trúc 'nội công ngoại quốc' 60 gian, phần lớn gỗ lim; tam quan xây chếch về phía Đông, đối diện cung thờ Từ Đạo Hạnh; hai giếng nhỏ hai bên gọi là 'mắt rồng'; có tượng Quan Âm nghìn mắt nghìn tay.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://phapluatplus.baophapluat.vn/ngoi-chua-co-so-huu-doi-gieng-mat-rong-189444.html",
+        "quote": "Pháp Luật Plus – Báo Pháp luật Việt Nam (10/06/2020, đọc 14/10/2026): chùa giữa thôn Giáp Ba, thị trấn Nam Giang; thờ Phật, thiền sư Từ Đạo Hạnh, Giác Hải, Bồ Đề Đạt Ma và Mẫu; 60 gian chủ yếu gỗ lim; còn 10 tấm bia đá, cổ nhất năm Vĩnh Trị thứ 4 (1697), một chuông đồng nặng trên hai tấn đúc năm Minh Mệnh 28 (1847); gác chuông chồng diêm 8 mái; xếp hạng di tích cấp quốc gia năm 1964; lễ hội từ ngày 21 đến 24 tháng Giêng âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa đại bi nam định"
+      }
+    ],
+    "notes": "Mâu thuẫn ngày hội: Nhân Dân ghi 20–23 tháng Giêng (chính hội 21), Pháp Luật Plus ghi 21–24 — viết 'khoảng 20–24 tháng Giêng, chính hội 21 theo Báo Nhân Dân' hoặc chỉ dùng mốc của Nhân Dân. Pháp Luật Plus còn ghi 'quốc gia đặc biệt từ năm 1964' — mâu thuẫn với Nhân Dân (cấp quốc gia 1964); KHÔNG ghi 'đặc biệt'. Chuông 1847 (Minh Mệnh 28) chỉ một nguồn; Minh Mệnh băng năm 1841 nên niên hiệu này đáng ngờ — nếu dùng thì ghi 'theo Pháp Luật Plus'. Từ 7/2025 Nam Định nhập vào Ninh Bình; chưa kiểm chứng tên xã mới. Không có giờ mở cửa/giá.",
+    "outline": [
+      "Chùa Đại Bi ở đâu và vì sao gọi là 'chùa Bi'",
+      "Thiền sư Từ Đạo Hạnh và gốc tích thời Lý",
+      "Kiến trúc 60 gian, tam quan lệch và đôi giếng mắt rồng",
+      "Bia, chuông và hiện vật",
+      "Lễ hội tháng Giêng và múa rối cạn chầu Thánh",
+      "Chợ Viềng và kết hợp đền Trần, Phủ Dầy",
+      "Lưu ý khi đi lễ dịp đông"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/phu-day-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-co-le-ninh-binh/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00953.json",
+  "draft_template": {
+    "id": "TM-00953",
+    "url": "/du-lich/chua-dai-bi-nam-truc/",
+    "title": "Chùa Đại Bi Nam Trực: chùa 60 gian thờ Từ Đạo Hạnh, rối chầu Thánh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa đại bi nam định, chùa đại bi nam trực, chùa bi nam giang, lễ hội chùa đại bi, múa rối cạn chầu thánh chùa đại bi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Đại Bi ở đâu và vì sao gọi là 'chùa Bi'",
+        "<p></p>"
+      ],
+      [
+        "Thiền sư Từ Đạo Hạnh và gốc tích thời Lý",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc 60 gian, tam quan lệch và đôi giếng mắt rồng",
+        "<p></p>"
+      ],
+      [
+        "Bia, chuông và hiện vật",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Giêng và múa rối cạn chầu Thánh",
+        "<p></p>"
+      ],
+      [
+        "Chợ Viềng và kết hợp đền Trần, Phủ Dầy",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi lễ dịp đông",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/trao-bang-chung-nhan-le-hoi-chua-dai-bi-la-di-san-van-hoa-phi-vat-the-quoc-gia-post738382.html",
+        "quote": "Báo Nhân Dân (11/02/2023, đọc 14/10/2026): chùa Đại Bi là chùa chung của 3 thôn Giáp Ba, Giáp Tư và Vân Chàng (thị trấn Nam Giang, huyện Nam Trực), xây từ thời vua Lý Nhân Tông, thờ thiền sư Từ Đạo Hạnh; năm 1964 được xếp hạng di tích lịch sử văn hóa cấp quốc gia; lễ hội từ ngày 20 đến 23 tháng Giêng âm lịch, ngày 21 là chính hội; tiêu biểu là múa rối cạn chầu Thánh (trò ổi lỗi); chùa đón khách trong phiên chợ Viềng đêm mùng 7 rạng mùng 8 tháng Giêng; lễ hội vào danh mục di sản phi vật thể quốc gia theo QĐ 254/QĐ-BVHTTDL ngày 22/1/2020.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/van-canh-chua-dai-bi-danh-lam-co-tu-noi-tieng-xu-son-nam-xua-post903551.vnp",
+        "quote": "Vietnam+ (TTXVN) (30/10/2023, đọc 14/10/2026): chùa ở thôn Giáp Ba, xã Nam Giang, Nam Trực; tương truyền dựng thời Lý (thế kỷ 11); công trình hiện nay dựng, mở rộng từ thế kỷ 17 (Hậu Lê), trùng tu thời Nguyễn (thế kỷ 19); kiến trúc 'nội công ngoại quốc' 60 gian, phần lớn gỗ lim; tam quan xây chếch về phía Đông, đối diện cung thờ Từ Đạo Hạnh; hai giếng nhỏ hai bên gọi là 'mắt rồng'; có tượng Quan Âm nghìn mắt nghìn tay.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://phapluatplus.baophapluat.vn/ngoi-chua-co-so-huu-doi-gieng-mat-rong-189444.html",
+        "quote": "Pháp Luật Plus – Báo Pháp luật Việt Nam (10/06/2020, đọc 14/10/2026): chùa giữa thôn Giáp Ba, thị trấn Nam Giang; thờ Phật, thiền sư Từ Đạo Hạnh, Giác Hải, Bồ Đề Đạt Ma và Mẫu; 60 gian chủ yếu gỗ lim; còn 10 tấm bia đá, cổ nhất năm Vĩnh Trị thứ 4 (1697), một chuông đồng nặng trên hai tấn đúc năm Minh Mệnh 28 (1847); gác chuông chồng diêm 8 mái; xếp hạng di tích cấp quốc gia năm 1964; lễ hội từ ngày 21 đến 24 tháng Giêng âm lịch.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00953"
+  }
+}

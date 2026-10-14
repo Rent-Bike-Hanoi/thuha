@@ -1,0 +1,158 @@
+{
+  "writer": "w942",
+  "queued": "2026-10-14T16:35:47.035763+00:00",
+  "topic": {
+    "topic_id": "TM-00942",
+    "url": "/du-lich/pho-hang-quat/",
+    "title": "Phố Hàng Quạt: từ khuôn bánh, khắc dấu đến phố đồ thờ phố cổ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "phố hàng quạt",
+    "secondary_keywords": [
+      "phố hàng quạt đồ thờ",
+      "khắc dấu gỗ hàng quạt",
+      "khuôn bánh gỗ hàng quạt",
+      "rue des eventails",
+      "phố đồ thờ hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người cần mua đồ thờ hoặc khách tò mò muốn biết phố Hàng Quạt bán gì, có còn làm quạt không, và còn những nghề thủ công nhỏ nào đáng xem.",
+    "information_gain": "Site chưa có bài về phố Hàng Quạt. /du-lich/pho-hang-ma-trung-thu/ nói Hàng Mã theo mùa Trung thu, /du-lich/cho-dong-xuan/ nói chợ, /du-lich/ha-noi/pho-co/ chỉ tổng quan. Bài mới thêm: phố dài 200 m từ Lương Văn Can tới Hàng Nón, tên Pháp Rue des Eventails, đổi tên năm 1945; giai đoạn 1936–1940 nổi bởi khuôn bánh khảo và khắc con dấu; chuyển sang đồ thờ, đồ sơn son thếp vàng từ đầu thập niên 1990; hai nghề còn sót lại: tiệm khắc dấu gỗ hơn 1 m của ông Phạm Văn Toàn và tiệm khuôn bánh số 59; lưu ý không có nguồn xác nhận phố từng làm quạt.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/english/hang-thiec-street/17900.html",
+        "quote": "Thông tấn xã Việt Nam (vietnam.vnanet.vn, trang 'Hang Thiec Street', mục liên quan về Hàng Quạt; đăng 2009, đọc 14/10/2026): Hang Quat (Fan-Making) Street dài 200 m, từ phố Lương Văn Can tới phố Hàng Nón, trên đất thôn Tố Tịch và Thuận Mỹ cũ, tổng Tiền Túc, huyện Thọ Xương; thời Pháp gọi Rue des Eventails, đổi thành phố Hàng Quạt năm 1945.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-thanh-choi-tuong-2025208.html",
+        "quote": "VnExpress, 'Hà thành chơi tượng' (10/01/2005, đọc 14/10/2026): Hàng Quạt được biết đến như 'phố đồ thờ' sầm uất nhất Hà Nội, bán vàng mã, cờ phướn, nến hương, chuông khánh, áo quần hầu đồng và tượng; từ những năm 1936-1940 Hàng Quạt nổi lên bởi nghề làm khuôn bánh khảo và làm con dấu; sau chuyển sang bát hương, đĩa nến, ban thờ; những năm 1992-1993 rộ thêm đồ sơn son thếp vàng; được biết đến là 'chợ tượng' đầu tiên, mặt hàng chính là tượng gỗ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/net-dep-tu-con-dau-go-post784112.html",
+        "quote": "Báo Nhân Dân, 'Nét đẹp từ con dấu gỗ' (23/11/2023, đọc 14/10/2026): trên phố Hàng Quạt có một cửa hàng khắc dấu gỗ nhỏ, chiều rộng chỉ hơn 1 m, luôn có khách xúm xít, nhất là khách nước ngoài; người thợ là ông Phạm Văn Toàn, khá nổi tiếng trên báo nước ngoài; phố nằm ở trung tâm phố cổ, nhiều cửa hàng bán đồ thờ cúng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/nhung-nguoi-ha-noi-cu-post316989.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Những người Hà Nội cũ' (08/09/2019, đọc 14/10/2026): ông Phạm Văn Quang gắn bó với nghề làm khuôn bánh ở phố Hàng Quạt hơn nửa đời người, cửa hàng nhỏ ở căn nhà số 59 treo đầy khuôn gỗ trước hiên; nhà do bố ông dựng lại sau chiến tranh, còn ô thoát hiểm, gác xép, mái hiên nhỏ; ông nhớ thời người ta về Hàng Quạt, Hàng Thiếc, Đồng Xuân, Hàng Mã mua đồ làm bánh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "phố hàng quạt"
+      }
+    ],
+    "notes": "Đoạn VNA về Hàng Quạt nằm trên trang 'Hang Thiec Street' (mục liên quan) – writer ghi nguồn đúng URL. Tên tiếng Anh 'Fan-Making' là cách dịch của VNA; không có nguồn nào tôi tải được xác nhận phố từng có nghề làm quạt → viết 'tên phố gợi nghề quạt, nhưng các nguồn tìm được chỉ ghi nghề khuôn bánh, khắc dấu'. Bài VnExpress từ 2005 và PLVN 2019 có thể đã cũ: tiệm số 59 và tiệm khắc dấu chưa xác nhận còn mở năm 2026. Không đưa giá đồ thờ/tượng (các bài có giá cũ).",
+    "outline": [
+      "Phố Hàng Quạt ở đâu: 200 m từ Lương Văn Can tới Hàng Nón",
+      "Tên phố và Rue des Eventails",
+      "1936–1940: khuôn bánh khảo và con dấu",
+      "Thành 'phố đồ thờ': từ bát hương đến sơn son thếp vàng",
+      "Hai nghề nhỏ còn sót lại: khắc dấu gỗ, khuôn bánh",
+      "Đi Hàng Quạt mua đồ thờ: lưu ý thực tế, không gian phố hẹp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-hang-ma-trung-thu/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/chua-cau-dong-hang-duong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00942.json",
+  "draft_template": {
+    "id": "TM-00942",
+    "url": "/du-lich/pho-hang-quat/",
+    "title": "Phố Hàng Quạt: từ khuôn bánh, khắc dấu đến phố đồ thờ phố cổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phố hàng quạt, phố hàng quạt đồ thờ, khắc dấu gỗ hàng quạt, khuôn bánh gỗ hàng quạt, rue des eventails, phố đồ thờ hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phố Hàng Quạt ở đâu: 200 m từ Lương Văn Can tới Hàng Nón",
+        "<p></p>"
+      ],
+      [
+        "Tên phố và Rue des Eventails",
+        "<p></p>"
+      ],
+      [
+        "1936–1940: khuôn bánh khảo và con dấu",
+        "<p></p>"
+      ],
+      [
+        "Thành 'phố đồ thờ': từ bát hương đến sơn son thếp vàng",
+        "<p></p>"
+      ],
+      [
+        "Hai nghề nhỏ còn sót lại: khắc dấu gỗ, khuôn bánh",
+        "<p></p>"
+      ],
+      [
+        "Đi Hàng Quạt mua đồ thờ: lưu ý thực tế, không gian phố hẹp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/english/hang-thiec-street/17900.html",
+        "quote": "Thông tấn xã Việt Nam (vietnam.vnanet.vn, trang 'Hang Thiec Street', mục liên quan về Hàng Quạt; đăng 2009, đọc 14/10/2026): Hang Quat (Fan-Making) Street dài 200 m, từ phố Lương Văn Can tới phố Hàng Nón, trên đất thôn Tố Tịch và Thuận Mỹ cũ, tổng Tiền Túc, huyện Thọ Xương; thời Pháp gọi Rue des Eventails, đổi thành phố Hàng Quạt năm 1945.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-thanh-choi-tuong-2025208.html",
+        "quote": "VnExpress, 'Hà thành chơi tượng' (10/01/2005, đọc 14/10/2026): Hàng Quạt được biết đến như 'phố đồ thờ' sầm uất nhất Hà Nội, bán vàng mã, cờ phướn, nến hương, chuông khánh, áo quần hầu đồng và tượng; từ những năm 1936-1940 Hàng Quạt nổi lên bởi nghề làm khuôn bánh khảo và làm con dấu; sau chuyển sang bát hương, đĩa nến, ban thờ; những năm 1992-1993 rộ thêm đồ sơn son thếp vàng; được biết đến là 'chợ tượng' đầu tiên, mặt hàng chính là tượng gỗ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/net-dep-tu-con-dau-go-post784112.html",
+        "quote": "Báo Nhân Dân, 'Nét đẹp từ con dấu gỗ' (23/11/2023, đọc 14/10/2026): trên phố Hàng Quạt có một cửa hàng khắc dấu gỗ nhỏ, chiều rộng chỉ hơn 1 m, luôn có khách xúm xít, nhất là khách nước ngoài; người thợ là ông Phạm Văn Toàn, khá nổi tiếng trên báo nước ngoài; phố nằm ở trung tâm phố cổ, nhiều cửa hàng bán đồ thờ cúng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/nhung-nguoi-ha-noi-cu-post316989.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Những người Hà Nội cũ' (08/09/2019, đọc 14/10/2026): ông Phạm Văn Quang gắn bó với nghề làm khuôn bánh ở phố Hàng Quạt hơn nửa đời người, cửa hàng nhỏ ở căn nhà số 59 treo đầy khuôn gỗ trước hiên; nhà do bố ông dựng lại sau chiến tranh, còn ô thoát hiểm, gác xép, mái hiên nhỏ; ông nhớ thời người ta về Hàng Quạt, Hàng Thiếc, Đồng Xuân, Hàng Mã mua đồ làm bánh.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00942"
+  }
+}

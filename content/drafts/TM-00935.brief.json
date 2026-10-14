@@ -1,0 +1,159 @@
+{
+  "writer": "w935",
+  "queued": "2026-10-14T16:35:45.730437+00:00",
+  "topic": {
+    "topic_id": "TM-00935",
+    "url": "/du-lich/dinh-dong-lac-38-hang-dao/",
+    "title": "Đình Đồng Lạc 38 Hàng Đào: đình chợ yếm lụa, bia 1856, xem gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình đồng lạc 38 hàng đào",
+    "secondary_keywords": [
+      "nhà cổ 38 hàng đào",
+      "đình đồng lạc",
+      "phố hàng đào xưa",
+      "rue de la soie",
+      "đình chợ yếm lụa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người dạo phố đi bộ Hàng Đào thấy ngôi nhà ống số 38 có đình trên gác, muốn biết đây là di tích gì, thờ ai, vào xem được những gì.",
+    "information_gain": "Site chưa có bài về đình Đồng Lạc. /du-lich/cho-dem-pho-co-ha-noi/ chỉ dùng Hàng Đào làm trục chợ đêm, /du-lich/ha-noi/pho-co/ chỉ nêu tên phố, /du-lich/dinh-kim-ngan-hang-bac/ là đình phố nghề khác. Bài mới thêm: lịch sử phố lụa Hàng Đào (phường Đại Lợi nhuộm tơ lụa thế kỷ 15–16, tên Rue de la Soie), đình Đồng Lạc là đình chợ bán yếm lụa thời Lê, bị phá trong chiến tranh, dựng lại 2 tầng năm 1941, đình chuyển lên gác; bia Tự Đức 1856; trùng tu năm 2000 với hỗ trợ của Toulouse; xếp hạng quốc gia 2004; không gian trưng bày thủ công tầng 1 và các điểm nguồn còn vênh.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/bi-mat-giau-kin-trong-nha-co-noi-tieng-nhat-pho-hang-dao-569137.html",
+        "quote": "VietNamNet, 'Bí mật giấu kín trong nhà cổ nổi tiếng nhất phố Hàng Đào' (19/09/2019, đọc 14/10/2026): nhà 38 Hàng Đào nguyên là đình Đồng Lạc (đình chợ bán yếm lụa), xây từ thời Lê (thế kỷ 17); bị phá do chiến tranh, năm 1941 xây lại hai tầng, tầng một để buôn bán và ở, đình chuyển lên tầng hai; năm 1956 tầng một làm cửa hàng bách hóa; năm 2000 cải tạo phục vụ du lịch; nhà ống mặt tiền hẹp, nhiều gian ngăn bởi sân trời; tầng một trưng bày sơn mài Hạ Thái, lãnh Mỹ A, giấy dó, đồ thêu; tầng hai gian ngoài trưng bày vải lụa, gian trong là đình với bài vị Tổ nghề và các Thành hoàng Bạch Mã, Linh Lang, Cao Sơn; bia đá năm Tự Đức Bính Thìn (1856) ghi 'Đình chợ có bán yếm lụa do chủ hiệu Nguyễn Công Trung và vợ là Nguyễn Thị Từ Thiết xây dựng từ thời Lê'; năm 2004 xếp hạng Di tích lịch sử - văn hóa cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/travel/travellersnotes/349257/old-quarter-tourist-spot-promoted.html",
+        "quote": "Việt Nam News, 'Old Quarter tourist spot promoted' (đọc 14/10/2026; ngày đăng không hiển thị rõ trên bản tải): đình Đồng Lạc ở 38 Hàng Đào được Sở Du lịch Hà Nội công nhận là điểm du lịch mới trong phố cổ; năm 2000 di tích được trùng tu với hỗ trợ tài chính và kỹ thuật của thành phố Toulouse (Pháp); trong tòa nhà hai tầng có không gian văn hóa Hanoia trưng bày sơn mài, giấy dó, lãnh Mỹ A, đồ thêu; nhân viên được đào tạo làm hướng dẫn viên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/pho-lua-ha-noi-xua-va-nay-584256.html",
+        "quote": "VietNamNet, 'Phố Hàng Đào xưa và nay' (02/11/2019, đọc 14/10/2026): thời Pháp phố Hàng Đào tên 'Rue de la Soie' (phố lụa); theo nhiều nhà nghiên cứu chữ 'đào/điều' (màu đỏ) xuất phát từ nghề nhuộm; từ thế kỷ 15, 16 người từ nhiều nơi, đặc biệt Hải Dương, lập phường Đại Lợi chuyên nhuộm tơ lụa; còn tấm bia từ năm 1706 ghi tên tổ sư nghề nhuộm tại số nhà 90A; khi nghề nhuộm chuyển sang phố Cầu Gỗ, Hàng Đào chuyển sang bán hàng tấm (the, lụa, lượt, đũi...); nay chủ yếu bán quần áo.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cham-nghe-pho-co-ha-thanh-post955831.html",
+        "quote": "Báo Nhân Dân, '“Chạm” nghề phố cổ Hà thành' (15/04/2026, đọc 14/10/2026): trong chuỗi 'Chạm nghề phố cổ 2026', các di tích đình Đồng Lạc, đình Tú Thị, đình Yên Thái… trưng bày nghề thủ công và sản phẩm nghề truyền thống; các hoạt động diễn ra từ 17–24/4.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình đồng lạc 38 hàng đào"
+      }
+    ],
+    "notes": "Nguồn vênh: VietNamNet nói đình thờ 'Tổ nghề' (không nói rõ nghề gì) cùng Thành hoàng; Việt Nam News viết thờ tổ nghề buôn 'brassiere' (dịch sai 'yếm lụa') – writer chỉ viết 'đình chợ bán yếm lụa' và 'bài vị Tổ nghề' theo VietNamNet, không khẳng định tổ nghề nhuộm. Bia 1706 ở số 90A là di tích khác trên cùng phố, không phải đình Đồng Lạc. Không có nguồn giờ mở cửa/vé hiện hành – không viết giờ, giá. Năm công nhận điểm du lịch không có trong bản tải Việt Nam News (bài không ghi năm) – không nêu năm. Hàng Đào nằm trong không gian đi bộ cuối tuần: dẫn link chợ đêm, không tự viết giờ cấm xe.",
+    "outline": [
+      "Đình Đồng Lạc ở đâu: số 38 Hàng Đào và cách nhận ra",
+      "Phố lụa Hàng Đào: từ phường nhuộm Đại Lợi đến Rue de la Soie",
+      "Từ đình chợ yếm lụa thời Lê đến nhà hai tầng năm 1941",
+      "Bia Tự Đức 1856 và gian đình trên tầng hai",
+      "Trùng tu năm 2000 và không gian trưng bày thủ công",
+      "Kết hợp với các điểm phố cổ khác, gửi xe và lưu ý giờ đi bộ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/cho-dem-pho-co-ha-noi/",
+      "/du-lich/dinh-kim-ngan-hang-bac/",
+      "/du-lich/nha-co-87-ma-may/",
+      "/du-lich/lang-son-mai-ha-thai/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00935.json",
+  "draft_template": {
+    "id": "TM-00935",
+    "url": "/du-lich/dinh-dong-lac-38-hang-dao/",
+    "title": "Đình Đồng Lạc 38 Hàng Đào: đình chợ yếm lụa, bia 1856, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình đồng lạc 38 hàng đào, nhà cổ 38 hàng đào, đình đồng lạc, phố hàng đào xưa, rue de la soie, đình chợ yếm lụa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Đồng Lạc ở đâu: số 38 Hàng Đào và cách nhận ra",
+        "<p></p>"
+      ],
+      [
+        "Phố lụa Hàng Đào: từ phường nhuộm Đại Lợi đến Rue de la Soie",
+        "<p></p>"
+      ],
+      [
+        "Từ đình chợ yếm lụa thời Lê đến nhà hai tầng năm 1941",
+        "<p></p>"
+      ],
+      [
+        "Bia Tự Đức 1856 và gian đình trên tầng hai",
+        "<p></p>"
+      ],
+      [
+        "Trùng tu năm 2000 và không gian trưng bày thủ công",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với các điểm phố cổ khác, gửi xe và lưu ý giờ đi bộ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/bi-mat-giau-kin-trong-nha-co-noi-tieng-nhat-pho-hang-dao-569137.html",
+        "quote": "VietNamNet, 'Bí mật giấu kín trong nhà cổ nổi tiếng nhất phố Hàng Đào' (19/09/2019, đọc 14/10/2026): nhà 38 Hàng Đào nguyên là đình Đồng Lạc (đình chợ bán yếm lụa), xây từ thời Lê (thế kỷ 17); bị phá do chiến tranh, năm 1941 xây lại hai tầng, tầng một để buôn bán và ở, đình chuyển lên tầng hai; năm 1956 tầng một làm cửa hàng bách hóa; năm 2000 cải tạo phục vụ du lịch; nhà ống mặt tiền hẹp, nhiều gian ngăn bởi sân trời; tầng một trưng bày sơn mài Hạ Thái, lãnh Mỹ A, giấy dó, đồ thêu; tầng hai gian ngoài trưng bày vải lụa, gian trong là đình với bài vị Tổ nghề và các Thành hoàng Bạch Mã, Linh Lang, Cao Sơn; bia đá năm Tự Đức Bính Thìn (1856) ghi 'Đình chợ có bán yếm lụa do chủ hiệu Nguyễn Công Trung và vợ là Nguyễn Thị Từ Thiết xây dựng từ thời Lê'; năm 2004 xếp hạng Di tích lịch sử - văn hóa cấp quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/travel/travellersnotes/349257/old-quarter-tourist-spot-promoted.html",
+        "quote": "Việt Nam News, 'Old Quarter tourist spot promoted' (đọc 14/10/2026; ngày đăng không hiển thị rõ trên bản tải): đình Đồng Lạc ở 38 Hàng Đào được Sở Du lịch Hà Nội công nhận là điểm du lịch mới trong phố cổ; năm 2000 di tích được trùng tu với hỗ trợ tài chính và kỹ thuật của thành phố Toulouse (Pháp); trong tòa nhà hai tầng có không gian văn hóa Hanoia trưng bày sơn mài, giấy dó, lãnh Mỹ A, đồ thêu; nhân viên được đào tạo làm hướng dẫn viên.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/pho-lua-ha-noi-xua-va-nay-584256.html",
+        "quote": "VietNamNet, 'Phố Hàng Đào xưa và nay' (02/11/2019, đọc 14/10/2026): thời Pháp phố Hàng Đào tên 'Rue de la Soie' (phố lụa); theo nhiều nhà nghiên cứu chữ 'đào/điều' (màu đỏ) xuất phát từ nghề nhuộm; từ thế kỷ 15, 16 người từ nhiều nơi, đặc biệt Hải Dương, lập phường Đại Lợi chuyên nhuộm tơ lụa; còn tấm bia từ năm 1706 ghi tên tổ sư nghề nhuộm tại số nhà 90A; khi nghề nhuộm chuyển sang phố Cầu Gỗ, Hàng Đào chuyển sang bán hàng tấm (the, lụa, lượt, đũi...); nay chủ yếu bán quần áo.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cham-nghe-pho-co-ha-thanh-post955831.html",
+        "quote": "Báo Nhân Dân, '“Chạm” nghề phố cổ Hà thành' (15/04/2026, đọc 14/10/2026): trong chuỗi 'Chạm nghề phố cổ 2026', các di tích đình Đồng Lạc, đình Tú Thị, đình Yên Thái… trưng bày nghề thủ công và sản phẩm nghề truyền thống; các hoạt động diễn ra từ 17–24/4.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00935"
+  }
+}

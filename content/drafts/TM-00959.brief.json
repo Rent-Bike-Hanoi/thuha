@@ -1,0 +1,144 @@
+{
+  "writer": "w953",
+  "queued": "2026-10-14T16:35:50.987000+00:00",
+  "topic": {
+    "topic_id": "TM-00959",
+    "url": "/du-lich/den-ly-thuong-kiet-bia-linh-xung-ha-trung/",
+    "title": "Bia chùa Linh Xứng Hà Trung: bảo vật quốc gia thời Lý dựng năm 1126",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bia chùa linh xứng",
+    "secondary_keywords": [
+      "chùa linh xứng hà trung",
+      "đền thờ lý thường kiệt hà trung",
+      "ngưỡng sơn linh xứng tự bi",
+      "làng ngọ xá"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người quan tâm di tích thời Lý ở Thanh Hóa muốn biết bia chùa Linh Xứng là gì, ở đâu, liên quan Lý Thường Kiệt thế nào và có xem được tại chỗ không.",
+    "information_gain": "Site có /du-lich/thanh-nha-ho-thanh-hoa/, /du-lich/khu-di-tich-lam-kinh/ và /du-lich/ham-rong-thanh-hoa/ nhưng không trang nào nói về chùa/bia Linh Xứng hay đền thờ Lý Thường Kiệt ở Ngọ Xá. Bài mới cho: chùa do Lý Thường Kiệt và thiền sư Mãn Giác dựng 1085–1089 dưới núi Ngưỡng Sơn; bia dựng năm 1126, người soạn, viết, khắc; mô tả chùa trong văn bia (tháp Chiêu Ân 9 tầng); bia được công nhận bảo vật quốc gia ngày 31/12/2024; đền thờ Lý Thường Kiệt lập năm 1138 gần chùa — nơi bia được chuyển về.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tapchinghiencuuphathoc.vn/thanh-hoa-chua-linh-xung-va-tam-bia-da-bao-vat-quoc-gia.html",
+        "quote": "Tạp chí Nghiên cứu Phật học (đọc 14/10/2026): chùa Linh Xứng dưới chân núi Ngưỡng Sơn, xã Ngọ Xá, huyện Vĩnh Lộc (nay xã Hà Ngọc, huyện Hà Trung); do thiền sư Mãn Giác và Thái úy Lý Thường Kiệt dựng 1085–1089; bia dựng năm Thiên Phù Duệ Vũ 7 (1126), văn do Thích Pháp Bảo soạn, Lý Doãn Từ viết chữ, Tăng Huệ Thống Thường Trung khắc; bia cao 1,34 m, rộng 0,70 m; văn bia tả tháp Chiêu Ân cao chín tầng; ngày 31/12/2024 Chính phủ công nhận Bia chùa Linh Xứng xã Hà Ngọc, huyện Hà Trung là bảo vật quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/den-linh-xung-10169189.html",
+        "quote": "Báo Đại biểu Nhân dân, 'Đền Linh Xứng' (08/02/2015, đọc 14/10/2026): ở làng Ngọ Xá, xã Hà Ngọc có đền thờ Lý Thường Kiệt, lưu giữ bia chùa Linh Xứng; bia cao 110 cm, rộng 70 cm, dựng ngày mồng hai tháng ba năm Bính Ngọ 1126; chùa xưa trên mõm núi Ngưỡng Sơn, nửa đầu thế kỷ XX hư hoại nên dân chuyển bia về đền; đền lập năm 1138, 33 năm sau khi ông mất (1105); ông trị nhậm Thanh–Nghệ 19 năm (1082–1101).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/1002/28167/bia-linh-xung.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, trang hiện vật 'Bia Linh Xứng' (đọc 14/10/2026): bia đá dựng năm Thiên Phù Duệ Vũ 7 (1126), chùa Linh Xứng, huyện Hà Trung, Thanh Hóa; bia quý hiếm thời Lý còn nguyên vẹn; cao 134 cm, rộng 70 cm; trán bia khắc 'Ngưỡng Sơn Linh Xứng tự bi ký'; dựng trên rùa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bia chùa linh xứng"
+      }
+    ],
+    "notes": "Mâu thuẫn kích thước: Bảo tàng LSQG và Tạp chí NC Phật học ghi cao 134 cm; Đại biểu Nhân dân ghi 110 cm — không ghi chiều cao trong tiêu đề, nếu dùng thì ghi '1,34 m theo Bảo tàng Lịch sử Quốc gia'. CẢNH BÁO vị trí hiện vật: Đại biểu Nhân dân (2015) nói bia đặt tại đền thờ Lý Thường Kiệt ở Ngọ Xá; trang Bảo tàng LSQG giới thiệu bia như hiện vật (có thể là bản dập/phiên bản) — writer phải viết thận trọng, không khẳng định du khách xem được bia gốc tại chỗ. Ngôi chùa gốc không còn; bài nên lấy điểm đến là đền thờ Lý Thường Kiệt (Ngọ Xá, xã Hà Ngọc cũ). Tên xã sau sáp nhập 2025 chưa kiểm chứng. Không có ngày lễ hội trong nguồn đã đọc.",
+    "outline": [
+      "Chùa Linh Xứng và núi Ngưỡng Sơn",
+      "Lý Thường Kiệt, thiền sư Mãn Giác và việc dựng chùa 1085–1089",
+      "Tấm bia 1126: ai soạn, ai khắc, văn bia tả gì",
+      "Bảo vật quốc gia 2024",
+      "Đền thờ Lý Thường Kiệt ở Ngọ Xá",
+      "Lưu ý: bia gốc và những gì xem được tại chỗ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00959.json",
+  "draft_template": {
+    "id": "TM-00959",
+    "url": "/du-lich/den-ly-thuong-kiet-bia-linh-xung-ha-trung/",
+    "title": "Bia chùa Linh Xứng Hà Trung: bảo vật quốc gia thời Lý dựng năm 1126",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bia chùa linh xứng, chùa linh xứng hà trung, đền thờ lý thường kiệt hà trung, ngưỡng sơn linh xứng tự bi, làng ngọ xá",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Linh Xứng và núi Ngưỡng Sơn",
+        "<p></p>"
+      ],
+      [
+        "Lý Thường Kiệt, thiền sư Mãn Giác và việc dựng chùa 1085–1089",
+        "<p></p>"
+      ],
+      [
+        "Tấm bia 1126: ai soạn, ai khắc, văn bia tả gì",
+        "<p></p>"
+      ],
+      [
+        "Bảo vật quốc gia 2024",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ Lý Thường Kiệt ở Ngọ Xá",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: bia gốc và những gì xem được tại chỗ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tapchinghiencuuphathoc.vn/thanh-hoa-chua-linh-xung-va-tam-bia-da-bao-vat-quoc-gia.html",
+        "quote": "Tạp chí Nghiên cứu Phật học (đọc 14/10/2026): chùa Linh Xứng dưới chân núi Ngưỡng Sơn, xã Ngọ Xá, huyện Vĩnh Lộc (nay xã Hà Ngọc, huyện Hà Trung); do thiền sư Mãn Giác và Thái úy Lý Thường Kiệt dựng 1085–1089; bia dựng năm Thiên Phù Duệ Vũ 7 (1126), văn do Thích Pháp Bảo soạn, Lý Doãn Từ viết chữ, Tăng Huệ Thống Thường Trung khắc; bia cao 1,34 m, rộng 0,70 m; văn bia tả tháp Chiêu Ân cao chín tầng; ngày 31/12/2024 Chính phủ công nhận Bia chùa Linh Xứng xã Hà Ngọc, huyện Hà Trung là bảo vật quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/den-linh-xung-10169189.html",
+        "quote": "Báo Đại biểu Nhân dân, 'Đền Linh Xứng' (08/02/2015, đọc 14/10/2026): ở làng Ngọ Xá, xã Hà Ngọc có đền thờ Lý Thường Kiệt, lưu giữ bia chùa Linh Xứng; bia cao 110 cm, rộng 70 cm, dựng ngày mồng hai tháng ba năm Bính Ngọ 1126; chùa xưa trên mõm núi Ngưỡng Sơn, nửa đầu thế kỷ XX hư hoại nên dân chuyển bia về đền; đền lập năm 1138, 33 năm sau khi ông mất (1105); ông trị nhậm Thanh–Nghệ 19 năm (1082–1101).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/1002/28167/bia-linh-xung.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, trang hiện vật 'Bia Linh Xứng' (đọc 14/10/2026): bia đá dựng năm Thiên Phù Duệ Vũ 7 (1126), chùa Linh Xứng, huyện Hà Trung, Thanh Hóa; bia quý hiếm thời Lý còn nguyên vẹn; cao 134 cm, rộng 70 cm; trán bia khắc 'Ngưỡng Sơn Linh Xứng tự bi ký'; dựng trên rùa.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00959"
+  }
+}

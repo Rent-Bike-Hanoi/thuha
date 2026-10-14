@@ -1,0 +1,171 @@
+{
+  "writer": "w935",
+  "queued": "2026-10-14T16:35:46.248722+00:00",
+  "topic": {
+    "topic_id": "TM-00939",
+    "url": "/du-lich/dinh-pha-truc-lam-40-hang-hanh/",
+    "title": "Đình Phả Trúc Lâm 40 Hàng Hành: nơi thờ tổ nghề da giày ở phố cổ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình phả trúc lâm hàng hành",
+    "secondary_keywords": [
+      "đình phả trúc lâm",
+      "tổ nghề da giày",
+      "phố hàng hành",
+      "nguyễn thời trung",
+      "hàng giầy phố cổ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người làm nghề da giày hoặc khách tò mò về các đình phố nghề muốn biết đình nhỏ ở 40 Hàng Hành thờ ai, lịch sử nghề giày ở Thăng Long, khi nào có lễ.",
+    "information_gain": "Site chưa có bài nào về đình Phả Trúc Lâm (các bài 'Trúc Lâm' trên site đều là thiền viện, khác hẳn). /du-lich/dinh-kim-ngan-hang-bac/ và /du-lich/hoi-quan-quang-dong-22-hang-buom/ là di tích phố nghề khác. Bài mới thêm: nghĩa chữ 'Phả' (gốc), làng gốc Trúc Lâm (Gia Lộc, Hải Dương), bốn vị tổ (TS Nguyễn Thời Trung đỗ năm 1565 và ba vị cùng làng), thợ lập phường ở Hàng Hành, Hàng Giầy từ thế kỷ XVII, đình dựng cuối thế kỷ XIX ban đầu bằng tre nứa, xếp hạng quốc gia 1995, trùng tu hơn 11 tỷ đồng khánh thành 8/10/2012, lễ dâng hương 28–29/4 và triển lãm 'Câu chuyện da giày' 2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/hoai-niem-mot-goc-thang-long-on-lai-lich-su-nghe-thu-cong-da-giay-1326.html",
+        "quote": "Mekong ASEAN, 'Hoài niệm một góc Thăng Long: Ôn lại lịch sử nghề thủ công da giày' (29/04/2023, đọc 14/10/2026): ngày 28–29/4 UBND phường Hàng Trống cùng Hội da – giày Hà Nội tổ chức lễ dâng hương tôn vinh nghề da giày tại đình Phả Trúc Lâm; theo Phó Chủ tịch phường, thế kỷ XVII thợ da giày quần tụ lập phường ở Hàng Hành, Hàng Giầy, cuối thế kỷ XIX xây đình để thờ tổ; làng gốc tên Nôm làng Trắm (Chắm), còn gọi Phong Lâm, Văn Lâm, Trúc Lâm; các vị tổ là TS Nguyễn Thời Trung (đỗ khoa Ất Sửu, năm 1565, thời Mạc, làm Thừa chánh sứ, cầm đầu sứ bộ sang Trung Quốc) cùng Phạm Thuần Chánh, Phạm Đức Chính, Nguyễn Sĩ Bân; đình ở 40 Hàng Hành; ngày 16/1/1995 được công nhận di tích lịch sử văn hóa quốc gia; kiến trúc khiêm tốn, tu bổ nhiều lần.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/dinh-pha-truc-lam-653993.html",
+        "quote": "Hà Nội Mới – Nhịp sống Hà Nội, 'Đình Phả Trúc Lâm' (24/12/2023, đọc 14/10/2026): đình ở 40 Hàng Hành do thợ làng gốc Trúc Lâm (xã Hoàng Diệu, huyện Gia Lộc, Hải Dương) lập; chữ 'phả' nghĩa là 'gốc'; các ông học nghề thuộc da, đóng giày khi qua Hàng Châu; theo văn bia, đình xây cuối thế kỷ XIX, ban đầu nhỏ, dựng bằng tre nứa, thế kỷ XX được tu bổ như ngày nay; tam quan sát hè phố, cửa gỗ, đề chữ Hán và quốc ngữ 'Phả Trúc Lâm'; xếp hạng Di tích lịch sử, kiến trúc nghệ thuật cấp quốc gia năm 1995.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "http://hanoimoi.com.vn/ban-in/1000_nam_thang_long/561646/khanh-thanh-cong-trinh-trung-tu-ton-tao-dinh-pha-truc-lam",
+        "quote": "Hà Nội Mới (09/10/2012, đọc 14/10/2026): ngày 8/10 Ban Quản lý phố cổ khánh thành công trình trùng tu, tôn tạo đình phả Trúc Lâm tại 40 Hàng Hành, phường Hàng Trống; kinh phí hơn 11 tỷ đồng từ ngân sách, tu bổ hậu cung, mái đình, đồ thờ, mặt tiền; trước khi trùng tu ngôi đình xuống cấp nghiêm trọng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://thanhuyhanoi.vn/tin-tuc/kinh-te-van-hoa-xa-hoi/chuyen-dinh-trong-pho--nghe-lam-giay-o-pho-co-50003180.html",
+        "quote": "Cổng thông tin Thành ủy Hà Nội, '\"Chuyện Đình trong phố\" - Nghề làm giầy ở phố cổ' (09/04/2024, đọc 14/10/2026): quận Hoàn Kiếm khai mạc triển lãm ngày 9/4 tại đình Phả Trúc Lâm (40 Hàng Hành), tái hiện chuyện TS Nguyễn Thời Trung thời Mạc đi sứ, học nghề thuộc da đóng giầy ở Hàng Châu, truyền cho làng Trúc Lâm; tác phẩm màu nước trên giấy dó kết hợp đèn led.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ke-chuyen-di-san-pho-co-bang-ngon-ngu-nghe-thuat-hien-dai-post806573.html",
+        "quote": "Báo Nhân Dân (25/04/2024, đọc 14/10/2026): đình Phả Trúc Lâm ở số 40 Hàng Hành, di tích khiêm tốn, dễ bị bỏ qua vì phố nhiều khách sạn, hàng quán; thờ tổ nghề da giày gồm bốn vị Nguyễn Thời Trung, Phạm Thuần Chánh, Phạm Đức Chính, Nguyễn Sĩ Bân; triển lãm 'Chuyện đình trong phố: Câu chuyện da giày'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình phả trúc lâm hàng hành"
+      }
+    ],
+    "notes": "Vênh: Mekong ASEAN chú thích ảnh 'ba vị Tổ nghề' nhưng liệt kê bốn người; Hà Nội Mới 2023 viết 'vua Lê Thánh Tông đã phong' – mâu thuẫn niên đại (Lê Thánh Tông thế kỷ XV, Nguyễn Thời Trung đỗ 1565) → writer không dùng chi tiết phong tước này. Một kết quả tìm kiếm ghi xếp hạng 16/1/1999 nhưng tôi không tải được trang đó; hai nguồn tải được đều ghi 1995. Ngày 28–29/4 là năm 2023, không chắc lặp hằng năm. Không có nguồn giờ mở cửa.",
+    "outline": [
+      "Đình Phả Trúc Lâm ở 40 Hàng Hành: nhận diện ngôi đình sát hè phố",
+      "Chữ 'Phả' và làng gốc Trúc Lâm ở Hải Dương",
+      "Bốn vị tổ nghề và câu chuyện học nghề thuộc da",
+      "Phường thợ Hàng Hành – Hàng Giầy và đình cuối thế kỷ XIX",
+      "Trùng tu 2012, xếp hạng 1995 và các lễ, triển lãm gần đây",
+      "Ghé đình khi dạo quanh hồ Gươm: lưu ý thực tế"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dinh-kim-ngan-hang-bac/",
+      "/du-lich/hoi-quan-quang-dong-22-hang-buom/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/den-ngoc-son-va-cau-the-huc/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00939.json",
+  "draft_template": {
+    "id": "TM-00939",
+    "url": "/du-lich/dinh-pha-truc-lam-40-hang-hanh/",
+    "title": "Đình Phả Trúc Lâm 40 Hàng Hành: nơi thờ tổ nghề da giày ở phố cổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình phả trúc lâm hàng hành, đình phả trúc lâm, tổ nghề da giày, phố hàng hành, nguyễn thời trung, hàng giầy phố cổ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Phả Trúc Lâm ở 40 Hàng Hành: nhận diện ngôi đình sát hè phố",
+        "<p></p>"
+      ],
+      [
+        "Chữ 'Phả' và làng gốc Trúc Lâm ở Hải Dương",
+        "<p></p>"
+      ],
+      [
+        "Bốn vị tổ nghề và câu chuyện học nghề thuộc da",
+        "<p></p>"
+      ],
+      [
+        "Phường thợ Hàng Hành – Hàng Giầy và đình cuối thế kỷ XIX",
+        "<p></p>"
+      ],
+      [
+        "Trùng tu 2012, xếp hạng 1995 và các lễ, triển lãm gần đây",
+        "<p></p>"
+      ],
+      [
+        "Ghé đình khi dạo quanh hồ Gươm: lưu ý thực tế",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://mekongasean.vn/hoai-niem-mot-goc-thang-long-on-lai-lich-su-nghe-thu-cong-da-giay-1326.html",
+        "quote": "Mekong ASEAN, 'Hoài niệm một góc Thăng Long: Ôn lại lịch sử nghề thủ công da giày' (29/04/2023, đọc 14/10/2026): ngày 28–29/4 UBND phường Hàng Trống cùng Hội da – giày Hà Nội tổ chức lễ dâng hương tôn vinh nghề da giày tại đình Phả Trúc Lâm; theo Phó Chủ tịch phường, thế kỷ XVII thợ da giày quần tụ lập phường ở Hàng Hành, Hàng Giầy, cuối thế kỷ XIX xây đình để thờ tổ; làng gốc tên Nôm làng Trắm (Chắm), còn gọi Phong Lâm, Văn Lâm, Trúc Lâm; các vị tổ là TS Nguyễn Thời Trung (đỗ khoa Ất Sửu, năm 1565, thời Mạc, làm Thừa chánh sứ, cầm đầu sứ bộ sang Trung Quốc) cùng Phạm Thuần Chánh, Phạm Đức Chính, Nguyễn Sĩ Bân; đình ở 40 Hàng Hành; ngày 16/1/1995 được công nhận di tích lịch sử văn hóa quốc gia; kiến trúc khiêm tốn, tu bổ nhiều lần.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/dinh-pha-truc-lam-653993.html",
+        "quote": "Hà Nội Mới – Nhịp sống Hà Nội, 'Đình Phả Trúc Lâm' (24/12/2023, đọc 14/10/2026): đình ở 40 Hàng Hành do thợ làng gốc Trúc Lâm (xã Hoàng Diệu, huyện Gia Lộc, Hải Dương) lập; chữ 'phả' nghĩa là 'gốc'; các ông học nghề thuộc da, đóng giày khi qua Hàng Châu; theo văn bia, đình xây cuối thế kỷ XIX, ban đầu nhỏ, dựng bằng tre nứa, thế kỷ XX được tu bổ như ngày nay; tam quan sát hè phố, cửa gỗ, đề chữ Hán và quốc ngữ 'Phả Trúc Lâm'; xếp hạng Di tích lịch sử, kiến trúc nghệ thuật cấp quốc gia năm 1995.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "http://hanoimoi.com.vn/ban-in/1000_nam_thang_long/561646/khanh-thanh-cong-trinh-trung-tu-ton-tao-dinh-pha-truc-lam",
+        "quote": "Hà Nội Mới (09/10/2012, đọc 14/10/2026): ngày 8/10 Ban Quản lý phố cổ khánh thành công trình trùng tu, tôn tạo đình phả Trúc Lâm tại 40 Hàng Hành, phường Hàng Trống; kinh phí hơn 11 tỷ đồng từ ngân sách, tu bổ hậu cung, mái đình, đồ thờ, mặt tiền; trước khi trùng tu ngôi đình xuống cấp nghiêm trọng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://thanhuyhanoi.vn/tin-tuc/kinh-te-van-hoa-xa-hoi/chuyen-dinh-trong-pho--nghe-lam-giay-o-pho-co-50003180.html",
+        "quote": "Cổng thông tin Thành ủy Hà Nội, '\"Chuyện Đình trong phố\" - Nghề làm giầy ở phố cổ' (09/04/2024, đọc 14/10/2026): quận Hoàn Kiếm khai mạc triển lãm ngày 9/4 tại đình Phả Trúc Lâm (40 Hàng Hành), tái hiện chuyện TS Nguyễn Thời Trung thời Mạc đi sứ, học nghề thuộc da đóng giầy ở Hàng Châu, truyền cho làng Trúc Lâm; tác phẩm màu nước trên giấy dó kết hợp đèn led.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ke-chuyen-di-san-pho-co-bang-ngon-ngu-nghe-thuat-hien-dai-post806573.html",
+        "quote": "Báo Nhân Dân (25/04/2024, đọc 14/10/2026): đình Phả Trúc Lâm ở số 40 Hàng Hành, di tích khiêm tốn, dễ bị bỏ qua vì phố nhiều khách sạn, hàng quán; thờ tổ nghề da giày gồm bốn vị Nguyễn Thời Trung, Phạm Thuần Chánh, Phạm Đức Chính, Nguyễn Sĩ Bân; triển lãm 'Chuyện đình trong phố: Câu chuyện da giày'.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00939"
+  }
+}

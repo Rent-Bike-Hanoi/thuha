@@ -1,0 +1,172 @@
+{
+  "writer": "w947",
+  "queued": "2026-10-14T16:35:48.893139+00:00",
+  "topic": {
+    "topic_id": "TM-00949",
+    "url": "/du-lich/bien-vo-cuc-thuy-xuan/",
+    "title": "Biển vô cực Thụy Xuân: xem lịch triều Hòn Dáu, mực nước dưới 1,2 m",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "biển vô cực thụy xuân",
+    "secondary_keywords": [
+      "biển vô cực thái bình",
+      "biển vô cực hưng yên",
+      "bãi biển thụy xuân",
+      "rừng ngập mặn thái thụy",
+      "lịch thủy triều biển vô cực"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội thấy ảnh 'biển vô cực' trên mạng, muốn đi săn bình minh nhưng không biết chọn ngày theo thủy triều thế nào, phải tới đê lúc mấy giờ, đi bộ qua rừng ngập mặn ra sao và nguy hiểm khi nước lên.",
+    "information_gain": "Trang chưa có bài nào về bãi Thụy Xuân hay rừng ngập mặn Thái Thụy; /du-lich/chua-keo-thai-binh/ và /du-lich/den-tran-thai-binh/ là điểm tâm linh, /du-lich/nha-tho-bac-trach-tien-hai/ ở Tiền Hải. Bài mới tập trung vào điều kiện đi được: theo cán bộ Sở VHTTDL Thái Bình (cũ), ngày đi được là ngày mực nước thấp theo lịch triều Hòn Dáu từ 1,2 m trở xuống; có mặt ở đê khoảng 4h, cảnh đẹp 4h30–6h; lội bùn 2–3 km qua rừng ngập mặn hoặc đi xe tự chế (xe chưa được cấp phép từng bị yêu cầu dừng); vì sao Thái Thụy có 2.675 ha rừng ngập mặn và khu bảo tồn 6.560 ha; khoảng cách khoảng 120 km từ Hà Nội.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/canh-bao-nguy-hiem-khi-den-bien-vo-cuc-o-thai-binh-269773.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Cảnh báo nguy hiểm khi đến biển vô cực ở Thái Bình' (ngày đăng không hiển thị rõ trên bản tải): Trưởng phòng Nghiệp vụ du lịch Sở VHTTDL Thái Bình cho biết 'biển vô cực' là bãi biển Thụy Hải cạnh cửa sông Diêm Hộ; là điểm du lịch tự phát; ngày đi được là ngày mực nước thấp (lịch thủy triều Hòn Dáu) từ 1,2 m trở xuống; khoảng 4h có mặt tại đê biển rồi đi qua rừng ngập mặn; nước dâng ngang bụng thì không biết đường vào và có thể gặp nguy hiểm; cảnh đẹp nhất 4h30–6h; đi bộ lội bùn khoảng 2–3 km hoặc thuê xe tự chế 40.000 đồng/lượt/người; công an xã Thụy Xuân vận động chủ xe bánh xích tự chế cam kết dừng hoạt động khi chưa được cấp phép.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/trai-nghiem-doc-dao-o-bien-vo-cuc-post987525.html",
+        "quote": "Nhân Dân, 'Trải nghiệm độc đáo ở biển vô cực' (11/09/2026): cách trung tâm Hà Nội khoảng 120 km, 2–3 giờ đường bộ; cuối hè, chớm thu là thời điểm thuận lợi; thực chất là bãi bồi rộng, khi triều rút mặt nước nông chỉ ngập đến mắt cá chân; từ trước bình minh người đã có mặt trên bãi cát và rừng ngập mặn ven biển Thụy Xuân.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/khung-canh-sieu-thuc-tren-bai-bien-noi-tieng-hung-yen-post1849238.tpo",
+        "quote": "Tiền Phong, 'Khung cảnh siêu thực trên bãi biển nổi tiếng Hưng Yên' (06/06/2026): bãi biển Thụy Xuân (xã Thụy Xuân, huyện Thái Thụy, tỉnh Thái Bình cũ, nay thuộc tỉnh Hưng Yên); khi thủy triều rút sâu, lớp nước mỏng tạo mặt gương; ngư dân kéo lưới, cào ngao theo con nước; khi triều lên mặt gương biến mất.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/rung-ngap-man-tuoi-dep-o-bien-thai-thuy-thai-binh-20241121191837244.htm",
+        "quote": "Dân trí (23/11/2024): rừng ngập mặn huyện Thái Thụy có 2.675 ha ở 5 xã ven biển Thụy Trường, Thụy Hải, Thụy Xuân, Thái Đô, Thái Thượng, Thụy Trường nhiều nhất (909 ha); cây trang, bần, mắm, sú; rừng trải từ đê ra biển 4–5 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/khu-bao-ton-thien-nhien-rung-ngap-man-la-phoi-xanh-cua-tinh-thai-binh-185231218144617566.htm",
+        "quote": "Thanh Niên (18/12/2023): Khu bảo tồn thiên nhiên đất ngập nước Thái Thụy thành lập theo Quyết định 2514/QĐ-UBND ngày 6/9/2019, diện tích 6.560 ha (phân khu bảo vệ nghiêm ngặt 1.500 ha), nằm ngoài đê biển số 8 trên các xã Thụy Trường, Thụy Xuân, Thụy Hải và thị trấn Diêm Điền; ghi nhận trên 1.000 loài động vật; mục tiêu bảo tồn chim di cư trú đông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "biển vô cực thụy xuân"
+      }
+    ],
+    "notes": "Mâu thuẫn vị trí: Báo TG&VN dẫn Sở VHTTDL gọi là 'bãi biển Thụy Hải', Tiền Phong/Nhân Dân gọi 'bãi Thụy Xuân' — viết là bãi bồi Thụy Xuân – Thụy Hải ven cửa Diêm Hộ. Giá xe tự chế 40.000 đồng là số cũ (bài TG&VN không rõ ngày, có lẽ 2024) và xe có thể bị dừng vì chưa cấp phép: không hứa có xe. Tên xã sau sáp nhập (một số nguồn web ghi xã Đông Thụy Anh, Hưng Yên) chưa kiểm từ nguồn chính thức. Không có lịch triều chính thức đã tải; hướng dẫn người đọc tra lịch thủy triều trạm Hòn Dáu nhưng không chép số liệu ngày cụ thể. Nhấn mạnh an toàn: điểm tự phát, không có cứu hộ.",
+    "outline": [
+      "'Biển vô cực' thực chất là gì",
+      "Chọn ngày: mực nước thấp theo lịch triều Hòn Dáu",
+      "Lịch trình rạng sáng từ Hà Nội và giờ có mặt ở đê",
+      "Qua rừng ngập mặn: lội bộ hay xe tự chế",
+      "Rừng ngập mặn Thái Thụy và khu bảo tồn",
+      "Những điều không được làm khi nước lên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/den-tran-thai-binh/",
+      "/du-lich/nha-tho-bac-trach-tien-hai/",
+      "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+      "/kinh-nghiem/di-xe-may-khi-co-suong-mu-troi-nom-o-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00949.json",
+  "draft_template": {
+    "id": "TM-00949",
+    "url": "/du-lich/bien-vo-cuc-thuy-xuan/",
+    "title": "Biển vô cực Thụy Xuân: xem lịch triều Hòn Dáu, mực nước dưới 1,2 m",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "biển vô cực thụy xuân, biển vô cực thái bình, biển vô cực hưng yên, bãi biển thụy xuân, rừng ngập mặn thái thụy, lịch thủy triều biển vô cực",
+    "excerpt": "",
+    "sections": [
+      [
+        "'Biển vô cực' thực chất là gì",
+        "<p></p>"
+      ],
+      [
+        "Chọn ngày: mực nước thấp theo lịch triều Hòn Dáu",
+        "<p></p>"
+      ],
+      [
+        "Lịch trình rạng sáng từ Hà Nội và giờ có mặt ở đê",
+        "<p></p>"
+      ],
+      [
+        "Qua rừng ngập mặn: lội bộ hay xe tự chế",
+        "<p></p>"
+      ],
+      [
+        "Rừng ngập mặn Thái Thụy và khu bảo tồn",
+        "<p></p>"
+      ],
+      [
+        "Những điều không được làm khi nước lên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/canh-bao-nguy-hiem-khi-den-bien-vo-cuc-o-thai-binh-269773.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Cảnh báo nguy hiểm khi đến biển vô cực ở Thái Bình' (ngày đăng không hiển thị rõ trên bản tải): Trưởng phòng Nghiệp vụ du lịch Sở VHTTDL Thái Bình cho biết 'biển vô cực' là bãi biển Thụy Hải cạnh cửa sông Diêm Hộ; là điểm du lịch tự phát; ngày đi được là ngày mực nước thấp (lịch thủy triều Hòn Dáu) từ 1,2 m trở xuống; khoảng 4h có mặt tại đê biển rồi đi qua rừng ngập mặn; nước dâng ngang bụng thì không biết đường vào và có thể gặp nguy hiểm; cảnh đẹp nhất 4h30–6h; đi bộ lội bùn khoảng 2–3 km hoặc thuê xe tự chế 40.000 đồng/lượt/người; công an xã Thụy Xuân vận động chủ xe bánh xích tự chế cam kết dừng hoạt động khi chưa được cấp phép.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/trai-nghiem-doc-dao-o-bien-vo-cuc-post987525.html",
+        "quote": "Nhân Dân, 'Trải nghiệm độc đáo ở biển vô cực' (11/09/2026): cách trung tâm Hà Nội khoảng 120 km, 2–3 giờ đường bộ; cuối hè, chớm thu là thời điểm thuận lợi; thực chất là bãi bồi rộng, khi triều rút mặt nước nông chỉ ngập đến mắt cá chân; từ trước bình minh người đã có mặt trên bãi cát và rừng ngập mặn ven biển Thụy Xuân.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/khung-canh-sieu-thuc-tren-bai-bien-noi-tieng-hung-yen-post1849238.tpo",
+        "quote": "Tiền Phong, 'Khung cảnh siêu thực trên bãi biển nổi tiếng Hưng Yên' (06/06/2026): bãi biển Thụy Xuân (xã Thụy Xuân, huyện Thái Thụy, tỉnh Thái Bình cũ, nay thuộc tỉnh Hưng Yên); khi thủy triều rút sâu, lớp nước mỏng tạo mặt gương; ngư dân kéo lưới, cào ngao theo con nước; khi triều lên mặt gương biến mất.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/rung-ngap-man-tuoi-dep-o-bien-thai-thuy-thai-binh-20241121191837244.htm",
+        "quote": "Dân trí (23/11/2024): rừng ngập mặn huyện Thái Thụy có 2.675 ha ở 5 xã ven biển Thụy Trường, Thụy Hải, Thụy Xuân, Thái Đô, Thái Thượng, Thụy Trường nhiều nhất (909 ha); cây trang, bần, mắm, sú; rừng trải từ đê ra biển 4–5 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/khu-bao-ton-thien-nhien-rung-ngap-man-la-phoi-xanh-cua-tinh-thai-binh-185231218144617566.htm",
+        "quote": "Thanh Niên (18/12/2023): Khu bảo tồn thiên nhiên đất ngập nước Thái Thụy thành lập theo Quyết định 2514/QĐ-UBND ngày 6/9/2019, diện tích 6.560 ha (phân khu bảo vệ nghiêm ngặt 1.500 ha), nằm ngoài đê biển số 8 trên các xã Thụy Trường, Thụy Xuân, Thụy Hải và thị trấn Diêm Điền; ghi nhận trên 1.000 loài động vật; mục tiêu bảo tồn chim di cư trú đông.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00949"
+  }
+}

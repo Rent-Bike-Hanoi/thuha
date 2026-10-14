@@ -1,0 +1,158 @@
+{
+  "writer": "w942",
+  "queued": "2026-10-14T16:35:47.539674+00:00",
+  "topic": {
+    "topic_id": "TM-00944",
+    "url": "/du-lich/pho-hang-thiec/",
+    "title": "Phố Hàng Thiếc: phố gò hàn còn giữ nghề, tàu thủy sắt tây Trung thu",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "phố hàng thiếc",
+    "secondary_keywords": [
+      "phố hàng thiếc hà nội",
+      "nghề gò thiếc phố cổ",
+      "tàu thủy đồ chơi hàng thiếc",
+      "phố nghề còn giữ nghề",
+      "đan hội thợ thiếc"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Khách muốn xem một phố nghề phố cổ còn làm thật, hoặc tìm mua đồ gò kim loại, đồ chơi tàu thủy Trung thu, muốn biết Hàng Thiếc ở đâu và còn làm gì.",
+    "information_gain": "Site chưa có bài về phố Hàng Thiếc. /du-lich/pho-hang-ma-trung-thu/ nói đồ chơi Trung thu ở Hàng Mã (không nói tàu thủy sắt tây Hàng Thiếc), /du-lich/ha-noi/pho-co/ chỉ tổng quan. Bài mới thêm: phố dài 136 m từ ngã tư Bát Đàn – Thuốc Bắc đến Hàng Nón, đất thôn Yên Nội cũ; thợ gốc Đan Hội, Phú Thứ, Khương Thượng; vật liệu từ thiếc sang sắt tây (thùng dầu hỏa Pháp), tôn kẽm rồi inox; thời hoàng kim 1930–1940; tàu thủy đồ chơi mùa Trung thu; cửa hàng số 35 có thợ gần 40 năm; nhiều hộ chỉ nhận đơn rồi thuê thợ quê làm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hang-thiec-con-pho-hang-tram-nam-van-khong-thay-doi-o-ha-noi-3833488.html",
+        "quote": "VnExpress Du lịch, 'Hàng Thiếc - con phố hàng trăm năm vẫn không thay đổi ở Hà Nội' (10/11/2018, đọc 14/10/2026): phố dài 136 m, từ ngã tư Bát Đàn - Thuốc Bắc tới ngã ba Hàng Thiếc - Hàng Nón, thuộc phường Hàng Gai; phố xưa trên đất thôn Yên Nội, tổng Tiền Túc, huyện Thọ Xương; xưa nổi tiếng nghề đúc thiếc làm lư hương, ấm pha trà, khay; giữa thế kỷ 20 chuyển sang đồ sắt tây, dùng thùng dầu hỏa người Pháp mang sang để gò chậu giặt…; sau làm hàng tôn, kẽm, gần đây nhiều cửa hàng bán đồ inox; những năm 1930-1940 là thời hoàng kim, có cả cửa hàng làm gương, kính.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoi.qdnd.vn/kinh-te-xa-hoi/pho-hang-thiec-net-van-hoa-rieng-o-pho-co-ha-noi-473190",
+        "quote": "Quân đội Nhân dân Online, 'Phố Hàng Thiếc, nét văn hóa riêng ở Phố cổ Hà Nội' (02/10/2016, đọc 14/10/2026): thợ đúc thiếc làm đèn dầu lạc, lư hương, ấm, khay, chóp nón...; đa số là người làng Đan Hội, Thường Tín, Phú Thứ, Khương Thượng, Canh, Diễn; nghề thiếc chuyển sang sắt tây; ông Nguyễn Văn Chức sinh năm 1936, gia đình bốn đời theo nghề; tàu thủy đồ chơi là mặt hàng đặc trưng, vẫn được tìm mua dịp Trung thu, làm từ tôn mỏng; nhiều người mở hàng chủ yếu buôn bán, nhận đơn rồi thuê thợ ở làng quê gia công.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/pho-hang-thiec-noi-luu-giu-nghe-cu-trong-long-pho-xua-post972794.vnp",
+        "quote": "VietnamPlus/TTXVN, 'Phố Hàng Thiếc - nơi lưu giữ nghề cũ trong lòng phố xưa' (27/08/2024, đọc 14/10/2026): phố Hàng Thiếc (phường Hàng Gai) là phố nghề đặc trưng của Hà Nội xưa vẫn tồn tại; người thợ ở cửa hàng Đức Hà - 35 Hàng Thiếc đã gần 40 năm gắn bó nghề; máy móc hiện đại hỗ trợ thợ; hàng bày bán chủ yếu từ inox và tôn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnanet.vn/en/anh/vna-photos-1027/hanoi-old-quaters-hang-thiec-street-stays-true-to-its-name-7570541.html",
+        "quote": "Vietnam News Agency – VNA Photos (09/03/2024, đọc 14/10/2026): Hang Thiec is a craft street of tinsmiths, one of the few that have held onto their traditional craft; sounds of hammers from early morning until late at night; a tin toy boat running on diesel is a famous product during the Mid-Autumn Festival.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "phố hàng thiếc"
+      }
+    ],
+    "notes": "Vênh chiều dài: VnExpress 136 m; một số trang tiếng Anh (chưa tải) ghi ~140 m – dùng 136 m. Năm 1945 đặt tên phố chỉ có trong kết quả tìm kiếm (trang baomoi không tải được nội dung) – không viết. 'Quy mô lớn nhất trong các phố nghề' chưa có nguồn tải được – không viết. Không ghi giá. Tàu thủy 'chạy bằng dầu diesel' là cách VNA tả (thực ra thường là dầu hỏa/ đèn) – writer chỉ viết 'tàu thủy đồ chơi bằng tôn' theo QĐND. Phố hẹp, thợ làm trên vỉa hè: lưu ý an toàn khi đứng xem.",
+    "outline": [
+      "Phố Hàng Thiếc ở đâu: 136 m từ Bát Đàn – Thuốc Bắc tới Hàng Nón",
+      "Thợ thiếc từ Đan Hội, Phú Thứ, Khương Thượng",
+      "Từ thiếc sang sắt tây, tôn kẽm rồi inox",
+      "Tàu thủy đồ chơi và mùa Trung thu",
+      "Phố bây giờ: thợ gò, cửa hàng, hàng đặt làm ở quê",
+      "Ghé xem và mua: lưu ý an toàn, gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-hang-ma-trung-thu/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/o-quan-chuong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00944.json",
+  "draft_template": {
+    "id": "TM-00944",
+    "url": "/du-lich/pho-hang-thiec/",
+    "title": "Phố Hàng Thiếc: phố gò hàn còn giữ nghề, tàu thủy sắt tây Trung thu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phố hàng thiếc, phố hàng thiếc hà nội, nghề gò thiếc phố cổ, tàu thủy đồ chơi hàng thiếc, phố nghề còn giữ nghề, đan hội thợ thiếc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phố Hàng Thiếc ở đâu: 136 m từ Bát Đàn – Thuốc Bắc tới Hàng Nón",
+        "<p></p>"
+      ],
+      [
+        "Thợ thiếc từ Đan Hội, Phú Thứ, Khương Thượng",
+        "<p></p>"
+      ],
+      [
+        "Từ thiếc sang sắt tây, tôn kẽm rồi inox",
+        "<p></p>"
+      ],
+      [
+        "Tàu thủy đồ chơi và mùa Trung thu",
+        "<p></p>"
+      ],
+      [
+        "Phố bây giờ: thợ gò, cửa hàng, hàng đặt làm ở quê",
+        "<p></p>"
+      ],
+      [
+        "Ghé xem và mua: lưu ý an toàn, gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hang-thiec-con-pho-hang-tram-nam-van-khong-thay-doi-o-ha-noi-3833488.html",
+        "quote": "VnExpress Du lịch, 'Hàng Thiếc - con phố hàng trăm năm vẫn không thay đổi ở Hà Nội' (10/11/2018, đọc 14/10/2026): phố dài 136 m, từ ngã tư Bát Đàn - Thuốc Bắc tới ngã ba Hàng Thiếc - Hàng Nón, thuộc phường Hàng Gai; phố xưa trên đất thôn Yên Nội, tổng Tiền Túc, huyện Thọ Xương; xưa nổi tiếng nghề đúc thiếc làm lư hương, ấm pha trà, khay; giữa thế kỷ 20 chuyển sang đồ sắt tây, dùng thùng dầu hỏa người Pháp mang sang để gò chậu giặt…; sau làm hàng tôn, kẽm, gần đây nhiều cửa hàng bán đồ inox; những năm 1930-1940 là thời hoàng kim, có cả cửa hàng làm gương, kính.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoi.qdnd.vn/kinh-te-xa-hoi/pho-hang-thiec-net-van-hoa-rieng-o-pho-co-ha-noi-473190",
+        "quote": "Quân đội Nhân dân Online, 'Phố Hàng Thiếc, nét văn hóa riêng ở Phố cổ Hà Nội' (02/10/2016, đọc 14/10/2026): thợ đúc thiếc làm đèn dầu lạc, lư hương, ấm, khay, chóp nón...; đa số là người làng Đan Hội, Thường Tín, Phú Thứ, Khương Thượng, Canh, Diễn; nghề thiếc chuyển sang sắt tây; ông Nguyễn Văn Chức sinh năm 1936, gia đình bốn đời theo nghề; tàu thủy đồ chơi là mặt hàng đặc trưng, vẫn được tìm mua dịp Trung thu, làm từ tôn mỏng; nhiều người mở hàng chủ yếu buôn bán, nhận đơn rồi thuê thợ ở làng quê gia công.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/pho-hang-thiec-noi-luu-giu-nghe-cu-trong-long-pho-xua-post972794.vnp",
+        "quote": "VietnamPlus/TTXVN, 'Phố Hàng Thiếc - nơi lưu giữ nghề cũ trong lòng phố xưa' (27/08/2024, đọc 14/10/2026): phố Hàng Thiếc (phường Hàng Gai) là phố nghề đặc trưng của Hà Nội xưa vẫn tồn tại; người thợ ở cửa hàng Đức Hà - 35 Hàng Thiếc đã gần 40 năm gắn bó nghề; máy móc hiện đại hỗ trợ thợ; hàng bày bán chủ yếu từ inox và tôn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnanet.vn/en/anh/vna-photos-1027/hanoi-old-quaters-hang-thiec-street-stays-true-to-its-name-7570541.html",
+        "quote": "Vietnam News Agency – VNA Photos (09/03/2024, đọc 14/10/2026): Hang Thiec is a craft street of tinsmiths, one of the few that have held onto their traditional craft; sounds of hammers from early morning until late at night; a tin toy boat running on diesel is a famous product during the Mid-Autumn Festival.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00944"
+  }
+}

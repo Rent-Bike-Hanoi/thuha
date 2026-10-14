@@ -1,0 +1,181 @@
+{
+  "writer": "w935",
+  "queued": "2026-10-14T16:35:45.971042+00:00",
+  "topic": {
+    "topic_id": "TM-00936",
+    "url": "/du-lich/dinh-ha-vi-11-hang-hom/",
+    "title": "Đình Hà Vĩ 11 Hàng Hòm: đình thờ tổ nghề sơn Trần Lư giữa phố cổ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình hà vĩ hàng hòm",
+    "secondary_keywords": [
+      "đình hà vĩ",
+      "tổ nghề sơn trần lư",
+      "phố hàng hòm",
+      "sơn ta phố cổ",
+      "chuyện đình trong phố"
+    ],
+    "intent": "informational",
+    "user_problem": "Người yêu sơn mài hoặc khách dạo phố cổ muốn biết đình nhỏ trên phố Hàng Hòm thờ ai, gắn với nghề sơn thế nào và có trưng bày gì để ghé xem.",
+    "information_gain": "Site chưa có bài về đình Hà Vĩ. /du-lich/lang-son-mai-ha-thai/ nói làng sơn mài ngoại thành, /du-lich/dinh-kim-ngan-hang-bac/ là đình nghề kim hoàn, /du-lich/ha-noi/pho-co/ chỉ tổng quan. Bài mới thêm: vị trí 11 Hàng Hòm (phường Hàng Gai cũ), tổ nghề sơn Trần Lư (1470–1540) người Bình Vọng, đình do người làng Hà Vĩ (Thường Tín) làm nghề sơn dựng khoảng giữa thế kỷ 19, xếp hạng di tích cấp thành phố, từng bị lấn chiếm rồi được tôn tạo; các đợt trưng bày 'Chuyện đình trong phố' (2023), 'Sắc son' (16/5–16/9/2025), 'Dòng chảy sơn mài Việt' (2026) và hành trình 'Theo dấu sơn ta' nối 50 Đào Duy Từ – Hà Vĩ – Kim Ngân.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/chuyen-dinh-trong-pho-khong-gian-xua-va-nay-post784837.html",
+        "quote": "Báo Nhân Dân, '“Chuyện Đình trong phố” - không gian xưa và nay' (28/11/2023, đọc 14/10/2026): đình Hà Vĩ ở số 11 phố Hàng Hòm, phường Hàng Gai, quận Hoàn Kiếm, thờ ông tổ nghề sơn Trần Lư (1470-1540), người làng Bình Vọng, xã Văn Bình, huyện Thường Tín; đình xây khoảng giữa thế kỷ 19 do người làng Hà Vĩ, phủ Thường Tín, tỉnh Hà Đông có nghề cổ truyền làm sơn di cư ra lập nghiệp ở phố Hàng Hòm; được UBND TP Hà Nội xếp hạng Di tích lịch sử cấp thành phố; triển lãm tại đình kể chuyện nghề sơn ta, trưng bày sơn mài mỹ nghệ, tranh sơn mài kết hợp đèn chiếu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/trung-bay-trien-lam-khong-gian-di-san-van-hoa-tai-dinh-ha-vi-135266.html",
+        "quote": "Báo Văn Hóa (17/05/2025, đọc 14/10/2026): ngày 16/5 UBND phường Hàng Gai khai mạc triển lãm 'Sắc son' tại đình Hà Vĩ, thuộc dự án 'Chuyện đình trong phố'; đình gắn với lịch sử nghề sơn trên phố Hàng Hòm, thờ tổ nghề sơn Trần Lư; người làng Hà Vĩ, Thường Tín lên Thăng Long làm nghề đồ gỗ phủ sơn ta; triển lãm diễn ra từ 16/5 đến 16/9/2025, có sản phẩm của nghệ nhân sơn mài Hạ Thái.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/hanh-trinh-trai-nghiem-theo-dau-son-ta-khi-di-san-cham-vao-nhip-song-duong-dai-10415570.html",
+        "quote": "Báo Đại biểu Nhân dân (03/05/2026, đọc 14/10/2026): hành trình 'Theo dấu sơn ta' trong 'Chạm nghề phố cổ 2026' bắt đầu ở 50 Đào Duy Từ, rồi tới 11 Hàng Hòm - đình Hà Vĩ, 'ngôi đình thờ tổ nghề sơn', nơi có khu trưng bày 'Dòng chảy sơn mài Việt - Từ di sản đến đương đại' với bản đồ làng nghề sơn, bộ công cụ (bay trộn sơn, giấy nhám…); điểm cuối là đình Kim Ngân (42-44 Hàng Bạc) với workshop.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ke-chuyen-di-san-pho-co-bang-ngon-ngu-nghe-thuat-hien-dai-post806573.html",
+        "quote": "Báo Nhân Dân, 'Kể chuyện di sản phố cổ bằng ngôn ngữ nghệ thuật hiện đại' (25/04/2024, đọc 14/10/2026): đình Hà Vỹ cách đình Tú Thị một quãng ngắn, trên phố Hàng Hòm; từng bị lấn chiếm gần hết không gian, chỉ mới được tôn tạo, tu bổ gần đây nên chưa được nhiều người biết.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cham-nghe-pho-co-ha-thanh-post955831.html",
+        "quote": "Báo Nhân Dân (15/04/2026, đọc 14/10/2026): tại đình Hà Vĩ (ghi 'số 17 phố Hàng Hòm, phường Hoàn Kiếm') diễn ra trưng bày 'Dòng chảy sơn mài Việt-Từ di sản đến đương đại' giới thiệu lịch sử nghề, bản đồ làng nghề, kỹ thuật và sản phẩm đương đại.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình hà vĩ hàng hòm"
+      }
+    ],
+    "notes": "Vênh địa chỉ: Nhân Dân 2023, Đại biểu Nhân dân 2026 ghi số 11 Hàng Hòm; Nhân Dân 15/4/2026 ghi số 17 – writer dùng 11 và ghi chú. Chính tả 'Hà Vĩ/Hà Vỹ' khác nhau giữa các bài. Không có nguồn giờ mở cửa, vé; triển lãm là theo đợt, đã kết thúc – không viết như đang diễn ra. Phường Hàng Gai là tên cũ trước sắp xếp 2025 (nguồn 2026 ghi phường Hoàn Kiếm).",
+    "outline": [
+      "Đình Hà Vĩ nằm ở đâu trên phố Hàng Hòm",
+      "Tổ nghề sơn Trần Lư và người làng Hà Vĩ lên Thăng Long",
+      "Từ đình bị lấn chiếm đến di tích được tôn tạo",
+      "Các đợt trưng bày sơn ta tại đình (2023–2026)",
+      "Hành trình 50 Đào Duy Từ – Hà Vĩ – Kim Ngân",
+      "Lưu ý khi ghé: địa chỉ, giờ, gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-son-mai-ha-thai/",
+      "/du-lich/dinh-kim-ngan-hang-bac/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/nha-co-87-ma-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/du-lich/dinh-tu-thi-pho-yen-thai/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/dinh-tu-thi-pho-yen-thai/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00936.json",
+  "draft_template": {
+    "id": "TM-00936",
+    "url": "/du-lich/dinh-ha-vi-11-hang-hom/",
+    "title": "Đình Hà Vĩ 11 Hàng Hòm: đình thờ tổ nghề sơn Trần Lư giữa phố cổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình hà vĩ hàng hòm, đình hà vĩ, tổ nghề sơn trần lư, phố hàng hòm, sơn ta phố cổ, chuyện đình trong phố",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Hà Vĩ nằm ở đâu trên phố Hàng Hòm",
+        "<p></p>"
+      ],
+      [
+        "Tổ nghề sơn Trần Lư và người làng Hà Vĩ lên Thăng Long",
+        "<p></p>"
+      ],
+      [
+        "Từ đình bị lấn chiếm đến di tích được tôn tạo",
+        "<p></p>"
+      ],
+      [
+        "Các đợt trưng bày sơn ta tại đình (2023–2026)",
+        "<p></p>"
+      ],
+      [
+        "Hành trình 50 Đào Duy Từ – Hà Vĩ – Kim Ngân",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi ghé: địa chỉ, giờ, gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/chuyen-dinh-trong-pho-khong-gian-xua-va-nay-post784837.html",
+        "quote": "Báo Nhân Dân, '“Chuyện Đình trong phố” - không gian xưa và nay' (28/11/2023, đọc 14/10/2026): đình Hà Vĩ ở số 11 phố Hàng Hòm, phường Hàng Gai, quận Hoàn Kiếm, thờ ông tổ nghề sơn Trần Lư (1470-1540), người làng Bình Vọng, xã Văn Bình, huyện Thường Tín; đình xây khoảng giữa thế kỷ 19 do người làng Hà Vĩ, phủ Thường Tín, tỉnh Hà Đông có nghề cổ truyền làm sơn di cư ra lập nghiệp ở phố Hàng Hòm; được UBND TP Hà Nội xếp hạng Di tích lịch sử cấp thành phố; triển lãm tại đình kể chuyện nghề sơn ta, trưng bày sơn mài mỹ nghệ, tranh sơn mài kết hợp đèn chiếu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/trung-bay-trien-lam-khong-gian-di-san-van-hoa-tai-dinh-ha-vi-135266.html",
+        "quote": "Báo Văn Hóa (17/05/2025, đọc 14/10/2026): ngày 16/5 UBND phường Hàng Gai khai mạc triển lãm 'Sắc son' tại đình Hà Vĩ, thuộc dự án 'Chuyện đình trong phố'; đình gắn với lịch sử nghề sơn trên phố Hàng Hòm, thờ tổ nghề sơn Trần Lư; người làng Hà Vĩ, Thường Tín lên Thăng Long làm nghề đồ gỗ phủ sơn ta; triển lãm diễn ra từ 16/5 đến 16/9/2025, có sản phẩm của nghệ nhân sơn mài Hạ Thái.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/hanh-trinh-trai-nghiem-theo-dau-son-ta-khi-di-san-cham-vao-nhip-song-duong-dai-10415570.html",
+        "quote": "Báo Đại biểu Nhân dân (03/05/2026, đọc 14/10/2026): hành trình 'Theo dấu sơn ta' trong 'Chạm nghề phố cổ 2026' bắt đầu ở 50 Đào Duy Từ, rồi tới 11 Hàng Hòm - đình Hà Vĩ, 'ngôi đình thờ tổ nghề sơn', nơi có khu trưng bày 'Dòng chảy sơn mài Việt - Từ di sản đến đương đại' với bản đồ làng nghề sơn, bộ công cụ (bay trộn sơn, giấy nhám…); điểm cuối là đình Kim Ngân (42-44 Hàng Bạc) với workshop.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ke-chuyen-di-san-pho-co-bang-ngon-ngu-nghe-thuat-hien-dai-post806573.html",
+        "quote": "Báo Nhân Dân, 'Kể chuyện di sản phố cổ bằng ngôn ngữ nghệ thuật hiện đại' (25/04/2024, đọc 14/10/2026): đình Hà Vỹ cách đình Tú Thị một quãng ngắn, trên phố Hàng Hòm; từng bị lấn chiếm gần hết không gian, chỉ mới được tôn tạo, tu bổ gần đây nên chưa được nhiều người biết.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cham-nghe-pho-co-ha-thanh-post955831.html",
+        "quote": "Báo Nhân Dân (15/04/2026, đọc 14/10/2026): tại đình Hà Vĩ (ghi 'số 17 phố Hàng Hòm, phường Hoàn Kiếm') diễn ra trưng bày 'Dòng chảy sơn mài Việt-Từ di sản đến đương đại' giới thiệu lịch sử nghề, bản đồ làng nghề, kỹ thuật và sản phẩm đương đại.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00936"
+  }
+}

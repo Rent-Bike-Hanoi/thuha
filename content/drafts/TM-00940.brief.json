@@ -1,0 +1,172 @@
+{
+  "writer": "w935",
+  "queued": "2026-10-14T16:35:46.521222+00:00",
+  "topic": {
+    "topic_id": "TM-00940",
+    "url": "/du-lich/dinh-nam-huong-75-hang-trong/",
+    "title": "Đình Nam Hương 75 Hàng Trống: đình cổ sau tượng vua Lê, 19 sắc phong",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình nam hương hàng trống",
+    "secondary_keywords": [
+      "đình nam hương",
+      "75 hàng trống",
+      "khu tưởng niệm vua lê thái tổ",
+      "tranh hàng trống",
+      "đình phố cổ hồ gươm"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi quanh hồ Gươm thấy ngôi đình phía sau tượng vua Lê, muốn biết đình Nam Hương thờ ai, liên quan gì tới vua Lê và tranh Hàng Trống.",
+    "information_gain": "Site chưa có bài về đình Nam Hương. /du-lich/thap-rua-ho-guom/, /du-lich/den-ngoc-son-va-cau-the-huc/ nói các điểm khác quanh hồ; /du-lich/chua-ba-da-pho-nha-tho/ là chùa phía sau. Bài mới thêm: vị trí 75 Hàng Trống liền khu tưởng niệm vua Lê Thái Tổ, đình thời Lê thờ Long Đỗ, Cao Sơn, Linh Lang, Ả Duy, Kha Duy; 19 đạo sắc phong Lê – Tây Sơn – Nguyễn; đình từng phải dời chỗ, quận đưa vua Lê vào phối thờ, lễ kỷ niệm vua Lê đăng quang từ 2006; tu bổ 2019–2020; đình là điểm trưng bày tranh dân gian Hàng Trống.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-nam-huong-quan-hoan-kiem-71414.html",
+        "quote": "Người Hà Nội, 'Đình Nam Hương (quận Hoàn Kiếm)' (25/04/2023, đọc 14/10/2026): đình dựng từ thời Lê thờ thần Long Đỗ (Bạch Mã), Cao Sơn đại vương, Linh Lang đại vương, công chúa Ả Duy, thần Kha Duy; còn 19 đạo sắc phong các triều Lê, Tây Sơn, Nguyễn; đình được chuyển từ khu đất thuộc khách sạn Phú Gia ngày nay tới vị trí hiện tại nên cảnh quan bị thu hẹp; đầu thế kỷ XXI quận Hoàn Kiếm đưa vua Lê Thái Tổ vào phối thờ, gắn với tượng đài thành khu tưởng niệm liên hoàn; từ năm 2006 quận tổ chức lễ kỷ niệm vua Lê đăng quang (15 tháng tư âm lịch) tại khu tượng đài (16 Lê Thái Tổ) và đình; đình ở số 75 Hàng Trống, quy hướng nam, trước là tượng vua Lê, sau là chùa Bà Đá, Nhà thờ Lớn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/dinh-nam-huong-dau-an-van-hoa-lich-su-ben-ho-hoan-kiem-1760675.html",
+        "quote": "Hà Nội Mới, 'Đình Nam Hương - dấu ấn văn hóa, lịch sử bên hồ Hoàn Kiếm' (12/10/2026, đọc 14/10/2026): đình tại 75 Hàng Trống (phường Hoàn Kiếm), lịch sử từ cuối thời Lê, gắn với thờ các thần bảo hộ kinh thành Thăng Long; liền kề khu tưởng niệm vua Lê Thái Tổ; năm 2019 thành phố triển khai tu bổ, tôn tạo, khôi phục không gian di tích và kết nối với khu tưởng niệm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/tao-suc-song-moi-cho-cac-ngoi-dinh-trong-pho-10359540.html",
+        "quote": "Báo Đại biểu Nhân dân (16/02/2025, đọc 14/10/2026): dự án 'Chuyện đình trong phố' triển khai tại 7 ngôi đình phố cổ; đình Nam Hương (75 Hàng Trống, thờ thần Long Đỗ, Linh Lang, Cao Sơn) là nơi đầu tiên, trở thành địa chỉ giới thiệu tranh dân gian Hàng Trống và tác phẩm lấy cảm hứng từ dòng tranh này.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/trai-nghiem-tranh-hang-trong-qua-lang-kinh-cua-nguoi-tre-10170826.html",
+        "quote": "Đại Đoàn Kết (06/11/2020, đọc 14/10/2026): triển lãm 'Từ truyền thống đến truyền thống' tại đình Nam Hương (75 Hàng Trống) kéo dài đến 20/12, giới thiệu tranh dân gian Hàng Trống qua góc nhìn người trẻ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/bao-ton-tranh-hang-trong-ket-noi-nghe-thuat-truyen-thong-va-duong-dai-89357.html",
+        "quote": "Người Quan sát (đọc 14/10/2026): năm 2020, sau khi đình Nam Hương trên phố Hàng Trống được trùng tu, tôn tạo, tại đây diễn ra trưng bày dự án 'Từ truyền thống tới truyền thống' của sinh viên khoa Hội họa, Trường Đại học Mỹ thuật Việt Nam.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình nam hương hàng trống"
+      }
+    ],
+    "notes": "Vênh danh sách thần: Người Hà Nội có Ả Duy, Kha Duy; Đại biểu Nhân dân chỉ nêu Long Đỗ, Linh Lang, Cao Sơn. Năm tu bổ: Hà Nội Mới nói 2019 triển khai, Người Quan sát nói trùng tu xong 2020 – viết 'tu bổ 2019–2020'. Năm xếp hạng (một kết quả tìm kiếm nói 16/01/1995) không thấy trong trang đã tải – không viết. Không có nguồn giờ mở cửa. Nam Hương ở rìa phố đi bộ hồ Gươm: dẫn link bài phố đi bộ, không tự viết giờ cấm xe.",
+    "outline": [
+      "Đình Nam Hương nằm ở đâu: 75 Hàng Trống, sau tượng vua Lê",
+      "Các vị thần được thờ và 19 đạo sắc phong",
+      "Đình dời chỗ và việc phối thờ vua Lê Thái Tổ",
+      "Lễ kỷ niệm vua Lê đăng quang tháng tư âm lịch",
+      "Tu bổ 2019–2020 và trưng bày tranh Hàng Trống",
+      "Đi bộ nối Nam Hương – chùa Bà Đá – Nhà thờ Lớn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thap-rua-ho-guom/",
+      "/du-lich/den-ngoc-son-va-cau-the-huc/",
+      "/du-lich/chua-ba-da-pho-nha-tho/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/du-lich/nha-tho-lon-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00940.json",
+  "draft_template": {
+    "id": "TM-00940",
+    "url": "/du-lich/dinh-nam-huong-75-hang-trong/",
+    "title": "Đình Nam Hương 75 Hàng Trống: đình cổ sau tượng vua Lê, 19 sắc phong",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình nam hương hàng trống, đình nam hương, 75 hàng trống, khu tưởng niệm vua lê thái tổ, tranh hàng trống, đình phố cổ hồ gươm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Nam Hương nằm ở đâu: 75 Hàng Trống, sau tượng vua Lê",
+        "<p></p>"
+      ],
+      [
+        "Các vị thần được thờ và 19 đạo sắc phong",
+        "<p></p>"
+      ],
+      [
+        "Đình dời chỗ và việc phối thờ vua Lê Thái Tổ",
+        "<p></p>"
+      ],
+      [
+        "Lễ kỷ niệm vua Lê đăng quang tháng tư âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Tu bổ 2019–2020 và trưng bày tranh Hàng Trống",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ nối Nam Hương – chùa Bà Đá – Nhà thờ Lớn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-nam-huong-quan-hoan-kiem-71414.html",
+        "quote": "Người Hà Nội, 'Đình Nam Hương (quận Hoàn Kiếm)' (25/04/2023, đọc 14/10/2026): đình dựng từ thời Lê thờ thần Long Đỗ (Bạch Mã), Cao Sơn đại vương, Linh Lang đại vương, công chúa Ả Duy, thần Kha Duy; còn 19 đạo sắc phong các triều Lê, Tây Sơn, Nguyễn; đình được chuyển từ khu đất thuộc khách sạn Phú Gia ngày nay tới vị trí hiện tại nên cảnh quan bị thu hẹp; đầu thế kỷ XXI quận Hoàn Kiếm đưa vua Lê Thái Tổ vào phối thờ, gắn với tượng đài thành khu tưởng niệm liên hoàn; từ năm 2006 quận tổ chức lễ kỷ niệm vua Lê đăng quang (15 tháng tư âm lịch) tại khu tượng đài (16 Lê Thái Tổ) và đình; đình ở số 75 Hàng Trống, quy hướng nam, trước là tượng vua Lê, sau là chùa Bà Đá, Nhà thờ Lớn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/dinh-nam-huong-dau-an-van-hoa-lich-su-ben-ho-hoan-kiem-1760675.html",
+        "quote": "Hà Nội Mới, 'Đình Nam Hương - dấu ấn văn hóa, lịch sử bên hồ Hoàn Kiếm' (12/10/2026, đọc 14/10/2026): đình tại 75 Hàng Trống (phường Hoàn Kiếm), lịch sử từ cuối thời Lê, gắn với thờ các thần bảo hộ kinh thành Thăng Long; liền kề khu tưởng niệm vua Lê Thái Tổ; năm 2019 thành phố triển khai tu bổ, tôn tạo, khôi phục không gian di tích và kết nối với khu tưởng niệm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/tao-suc-song-moi-cho-cac-ngoi-dinh-trong-pho-10359540.html",
+        "quote": "Báo Đại biểu Nhân dân (16/02/2025, đọc 14/10/2026): dự án 'Chuyện đình trong phố' triển khai tại 7 ngôi đình phố cổ; đình Nam Hương (75 Hàng Trống, thờ thần Long Đỗ, Linh Lang, Cao Sơn) là nơi đầu tiên, trở thành địa chỉ giới thiệu tranh dân gian Hàng Trống và tác phẩm lấy cảm hứng từ dòng tranh này.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/trai-nghiem-tranh-hang-trong-qua-lang-kinh-cua-nguoi-tre-10170826.html",
+        "quote": "Đại Đoàn Kết (06/11/2020, đọc 14/10/2026): triển lãm 'Từ truyền thống đến truyền thống' tại đình Nam Hương (75 Hàng Trống) kéo dài đến 20/12, giới thiệu tranh dân gian Hàng Trống qua góc nhìn người trẻ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoiquansat.vn/bao-ton-tranh-hang-trong-ket-noi-nghe-thuat-truyen-thong-va-duong-dai-89357.html",
+        "quote": "Người Quan sát (đọc 14/10/2026): năm 2020, sau khi đình Nam Hương trên phố Hàng Trống được trùng tu, tôn tạo, tại đây diễn ra trưng bày dự án 'Từ truyền thống tới truyền thống' của sinh viên khoa Hội họa, Trường Đại học Mỹ thuật Việt Nam.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00940"
+  }
+}
