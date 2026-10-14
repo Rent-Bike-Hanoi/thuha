@@ -1,0 +1,145 @@
+{
+  "writer": "writer-F",
+  "queued": "2026-10-14T05:09:19.806823+00:00",
+  "topic": {
+    "topic_id": "TM-00667",
+    "url": "/du-lich/den-lu-hoang-mai/",
+    "title": "Đền Lừ (Lư Giang) Hoàng Mai: thờ Trần Khát Chân, bia thời Lê, hội tháng Tám",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền lừ hoàng mai",
+    "secondary_keywords": [
+      "đền lư giang",
+      "đền lừ",
+      "sông lừ",
+      "trần khát chân",
+      "hội đền lừ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người dân phía nam Hà Nội và người đi lễ Đức Thánh Trần muốn biết đền Lừ ở đâu, thờ ai, khi nào có hội và có gì đáng xem.",
+    "information_gain": "Site chưa có bài nào về đền Lừ/Lư Giang. Gần nhất là /du-lich/cong-vien-yen-so/ (cùng Hoàng Mai, chỉ là công viên) và /du-lich/den-hai-ba-trung-dong-nhan/ (đền khác ở nội thành). Bài mới bổ sung: vị trí bên sông Lừ – Kim Ngưu, các vị được thờ (Trần Khát Chân, Phạm Tổ Thu, Phạm Ngưu Tất, Thủy Tinh công chúa, Mẫu Liễu, Đức Thánh Trần), di vật (4 bia đá, 8 khám thờ, 2 chuông đồng), lịch hội tháng Ba – tháng Tám và năm xếp hạng 1994.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "http://quocphongthudo.vn/van-hoa-xa-hoi/den-lu-giang-khong-gian-van-hoa-thang-long-ngan-nam-tuoi.html",
+        "quote": "Báo Quốc phòng Thủ đô (đọc 14/10/2026): đền Lư Giang (đền Lừ) bên sông Lừ, làng Thanh Mai, phường Hoàng Văn Thụ, Hoàng Mai; dựng từ thời Lê Sơ; thờ Trần Khát Chân, hai tướng Phạm Tổ Thu, Phạm Ngưu Tất và Thủy Tinh công chúa; còn 3 sắc phong thời Nguyễn, 2 chuông đồng, 8 khám thờ, 7 hoành phi, 4 bia đá, nổi bật bia Phúc Thái 4 (1646) trên lưng rùa; năm 1994 được công nhận di tích; hội mở hai lần tháng Ba và tháng Tám, hội chính ngày giỗ Trần Hưng Đạo 20/8 âm lịch; có hầu đồng, hát chầu văn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-lu-giang-quan-hoang-mai-70328.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): đền Lư Giang còn gọi đền Lừ, phường Hoàng Văn Thụ; Trần Khát Chân được ban thái ấp vùng Kẻ Mơ; đền sau thờ thêm Mẫu Liễu Hạnh và Đức Thánh Trần; 4 tòa chính, hồ sen bán nguyệt trước sân; bia thời Lê dựng năm 1645 cao 1,7 m tên 'Dịch Lư kiều bi ký'; hội đền Lừ từ 19 đến 29 tháng Tám âm lịch, ngày 19 là chính hội; UBND TP Hà Nội công nhận di tích năm 1994.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3091/5000/djen-lu-giang.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): Lư Giang (sông Lừ) là đoạn tiếp nối sông Kim Ngưu; đền thờ Thủy tinh Công chúa, Đức thánh Trần; năm 1390 Trần Khát Chân đánh tan quân Chiêm ở Hải Triều, được ban thái ấp Cổ Mai – Kẻ Mơ (Hoàng Mai, Tương Mai, Mai Động); hội hai lần tháng ba và tháng tám, hội tháng tám là chính, ngày 20 tháng tám âm lịch; câu 'tháng tám giỗ cha, tháng ba giỗ mẹ'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền lừ hoàng mai"
+      }
+    ],
+    "notes": "Mâu thuẫn: năm bia (1646 Phúc Thái 4 theo QPTĐ vs 1645 theo Người Hà Nội); số tòa (3 vs 4); cơ quan công nhận năm 1994 (Bộ VHTT theo QPTĐ vs UBND TP theo Người Hà Nội); ngày chính hội (20/8 theo QPTĐ, BTLS vs 19/8 trong khung 19–29/8 theo Người Hà Nội). Ghi cả hai, không đưa vào tiêu đề. Không có nguồn về giờ mở cửa, gửi xe; không viết số km.",
+    "outline": [
+      "Đền Lừ ở đâu: sông Lừ, làng Thanh Mai, vùng Kẻ Mơ",
+      "Trần Khát Chân và thái ấp Cổ Mai",
+      "Đền thờ ai: thủy thần, Đức Thánh Trần, Mẫu Liễu",
+      "Kiến trúc và di vật: hồ sen, bia đá thời Lê, khám thờ",
+      "Hội đền tháng Ba, tháng Tám: ngày chính, hầu đồng",
+      "Lưu ý khi đi lễ bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cong-vien-yen-so/",
+      "/du-lich/den-hai-ba-trung-dong-nhan/",
+      "/du-lich/phu-tay-ho/",
+      "/du-lich/den-kim-lien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00667.json",
+  "draft_template": {
+    "id": "TM-00667",
+    "url": "/du-lich/den-lu-hoang-mai/",
+    "title": "Đền Lừ (Lư Giang) Hoàng Mai: thờ Trần Khát Chân, bia thời Lê, hội tháng Tám",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền lừ hoàng mai, đền lư giang, đền lừ, sông lừ, trần khát chân, hội đền lừ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Lừ ở đâu: sông Lừ, làng Thanh Mai, vùng Kẻ Mơ",
+        "<p></p>"
+      ],
+      [
+        "Trần Khát Chân và thái ấp Cổ Mai",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ ai: thủy thần, Đức Thánh Trần, Mẫu Liễu",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc và di vật: hồ sen, bia đá thời Lê, khám thờ",
+        "<p></p>"
+      ],
+      [
+        "Hội đền tháng Ba, tháng Tám: ngày chính, hầu đồng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi lễ bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "http://quocphongthudo.vn/van-hoa-xa-hoi/den-lu-giang-khong-gian-van-hoa-thang-long-ngan-nam-tuoi.html",
+        "quote": "Báo Quốc phòng Thủ đô (đọc 14/10/2026): đền Lư Giang (đền Lừ) bên sông Lừ, làng Thanh Mai, phường Hoàng Văn Thụ, Hoàng Mai; dựng từ thời Lê Sơ; thờ Trần Khát Chân, hai tướng Phạm Tổ Thu, Phạm Ngưu Tất và Thủy Tinh công chúa; còn 3 sắc phong thời Nguyễn, 2 chuông đồng, 8 khám thờ, 7 hoành phi, 4 bia đá, nổi bật bia Phúc Thái 4 (1646) trên lưng rùa; năm 1994 được công nhận di tích; hội mở hai lần tháng Ba và tháng Tám, hội chính ngày giỗ Trần Hưng Đạo 20/8 âm lịch; có hầu đồng, hát chầu văn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-lu-giang-quan-hoang-mai-70328.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): đền Lư Giang còn gọi đền Lừ, phường Hoàng Văn Thụ; Trần Khát Chân được ban thái ấp vùng Kẻ Mơ; đền sau thờ thêm Mẫu Liễu Hạnh và Đức Thánh Trần; 4 tòa chính, hồ sen bán nguyệt trước sân; bia thời Lê dựng năm 1645 cao 1,7 m tên 'Dịch Lư kiều bi ký'; hội đền Lừ từ 19 đến 29 tháng Tám âm lịch, ngày 19 là chính hội; UBND TP Hà Nội công nhận di tích năm 1994.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3091/5000/djen-lu-giang.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): Lư Giang (sông Lừ) là đoạn tiếp nối sông Kim Ngưu; đền thờ Thủy tinh Công chúa, Đức thánh Trần; năm 1390 Trần Khát Chân đánh tan quân Chiêm ở Hải Triều, được ban thái ấp Cổ Mai – Kẻ Mơ (Hoàng Mai, Tương Mai, Mai Động); hội hai lần tháng ba và tháng tám, hội tháng tám là chính, ngày 20 tháng tám âm lịch; câu 'tháng tám giỗ cha, tháng ba giỗ mẹ'.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00667"
+  }
+}

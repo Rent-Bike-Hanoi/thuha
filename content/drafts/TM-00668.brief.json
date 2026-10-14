@@ -1,0 +1,146 @@
+{
+  "writer": "writer-F",
+  "queued": "2026-10-14T05:09:20.048326+00:00",
+  "topic": {
+    "topic_id": "TM-00668",
+    "url": "/du-lich/chua-hoe-nhai/",
+    "title": "Chùa Hòe Nhai 19 Hàng Than: tượng vua cõng Phật, 68 pho tượng, bia 1703",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa hòe nhai",
+    "secondary_keywords": [
+      "chùa hồng phúc hòe nhai",
+      "chùa hòe nhai hàng than",
+      "tượng vua cõng phật",
+      "đông bộ đầu",
+      "tổ đình tào động"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách tham quan phố cổ – Ba Đình muốn biết chùa Hòe Nhai ở đâu, vì sao nổi tiếng (tượng vua cõng Phật, Đông Bộ Đầu) và xem gì.",
+    "information_gain": "Site chưa có bài về chùa Hòe Nhai. /du-lich/chua-tran-quoc/ và /du-lich/chua-quan-su/ là chùa khác; /du-lich/cho-dong-xuan/ chỉ ở gần. Bài mới bổ sung: địa chỉ 19 Hàng Than, tên Hồng Phúc tự, vai trò tổ đình Tào Động, văn bia 1703 giúp xác định bến Đông Bộ Đầu (chiến thắng 1258), tượng vua quỳ cõng Phật, 68 pho tượng, khánh đồng 1734, tháp Ấn Quang 1963, xếp hạng 1989.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/68455/chua-hoe-nhai-va-djia-danh-djong-bo-djau-noi-ghi-dau-mot-chien-cong-lay-lung-cua-quan-dan-nha-tran.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): chùa Hòe Nhai ở 19 Hàng Than, từ thời Lý tên Hồng Phúc tự; trùng tu lớn năm 1703, văn bia ghi địa danh Đông Bộ Đầu; năm 1965 GS Trần Quốc Vượng và Vũ Tuấn Sán dựa vào bia này xác định Đông Bộ Đầu; trận Đông Bộ Đầu năm 1258; chùa là chốn tổ phái Tào Động; còn 68 pho tượng cổ, 28 tấm bia, khánh đồng cao 1 m rộng 1,5 m đúc năm 1734; tượng Phật trên lưng vua; xếp hạng di tích quốc gia ngày 21/01/1989; năm 2010 tôn tạo nhà Tiền tế.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%C3%B2e_Nhai",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): số 19 Hàng Than, phường Ba Đình; sửa lớn các năm 1699, 1703, 1812, 1894, 1920, 1946, 2010; kiểu chữ công trên khoảng 3.000 m2; 68 pho tượng bày 6 lớp; tượng kép vua quỳ để Phật trên lưng gắn truyền thuyết vua Lê Hy Tông và sư Tông Diễn; tháp Ấn Quang xây năm 1963 thờ HT Thích Quảng Đức.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://visitbadinh.com.vn/vi/place/details/chua-hong-phuc-hoe-nhai-9",
+        "quote": "Cổng thông tin du lịch phường Ba Đình (đọc 14/10/2026): tên Nôm Hòe Nhai vì ngõ xưa trồng nhiều cây hòe; khởi dựng thời Lý trên đường ra bến Đông Bộ Đầu; cuối thế kỷ XVII mời Hòa thượng Thủy Nguyệt trụ trì; tam quan kiểu hoa biểu bốn trụ; hai tháp 3 tầng trong sân; đông khách dịp đầu xuân, Phật Đản, rằm tháng 7; Bộ VHTT xếp hạng năm 1989.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa hòe nhai"
+      }
+    ],
+    "notes": "Mâu thuẫn: người soạn bia 1703 (Hà Tông Mục ở BTLS vs Hồ Tông Mục ở Wikipedia); niên hiệu ghi 'Chính Hòa 4' (BTLS) vs 'Chính Hòa 24' (Wikipedia) cho cùng năm 1703; khánh 1734 gán Lê Thần Tông (BTLS) vs Lê Thuần Tông (Wikipedia). Số Quốc sư/Tăng thống khác nhau giữa nguồn. Không có nguồn về giờ mở cửa, vé, gửi xe.",
+    "outline": [
+      "Chùa Hòe Nhai ở đâu và vì sao có tên Hòe Nhai",
+      "Văn bia 1703 và bến Đông Bộ Đầu năm 1258",
+      "Tổ đình phái Tào Động",
+      "Tượng vua cõng Phật và các di vật",
+      "Kiến trúc: tam quan, tháp Ấn Quang",
+      "Dịp đông khách và lưu ý khi ghé"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/chua-quan-su/",
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/ha-noi/cau-long-bien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00668.json",
+  "draft_template": {
+    "id": "TM-00668",
+    "url": "/du-lich/chua-hoe-nhai/",
+    "title": "Chùa Hòe Nhai 19 Hàng Than: tượng vua cõng Phật, 68 pho tượng, bia 1703",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa hòe nhai, chùa hồng phúc hòe nhai, chùa hòe nhai hàng than, tượng vua cõng phật, đông bộ đầu, tổ đình tào động",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Hòe Nhai ở đâu và vì sao có tên Hòe Nhai",
+        "<p></p>"
+      ],
+      [
+        "Văn bia 1703 và bến Đông Bộ Đầu năm 1258",
+        "<p></p>"
+      ],
+      [
+        "Tổ đình phái Tào Động",
+        "<p></p>"
+      ],
+      [
+        "Tượng vua cõng Phật và các di vật",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc: tam quan, tháp Ấn Quang",
+        "<p></p>"
+      ],
+      [
+        "Dịp đông khách và lưu ý khi ghé",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/68455/chua-hoe-nhai-va-djia-danh-djong-bo-djau-noi-ghi-dau-mot-chien-cong-lay-lung-cua-quan-dan-nha-tran.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): chùa Hòe Nhai ở 19 Hàng Than, từ thời Lý tên Hồng Phúc tự; trùng tu lớn năm 1703, văn bia ghi địa danh Đông Bộ Đầu; năm 1965 GS Trần Quốc Vượng và Vũ Tuấn Sán dựa vào bia này xác định Đông Bộ Đầu; trận Đông Bộ Đầu năm 1258; chùa là chốn tổ phái Tào Động; còn 68 pho tượng cổ, 28 tấm bia, khánh đồng cao 1 m rộng 1,5 m đúc năm 1734; tượng Phật trên lưng vua; xếp hạng di tích quốc gia ngày 21/01/1989; năm 2010 tôn tạo nhà Tiền tế.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_H%C3%B2e_Nhai",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): số 19 Hàng Than, phường Ba Đình; sửa lớn các năm 1699, 1703, 1812, 1894, 1920, 1946, 2010; kiểu chữ công trên khoảng 3.000 m2; 68 pho tượng bày 6 lớp; tượng kép vua quỳ để Phật trên lưng gắn truyền thuyết vua Lê Hy Tông và sư Tông Diễn; tháp Ấn Quang xây năm 1963 thờ HT Thích Quảng Đức.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://visitbadinh.com.vn/vi/place/details/chua-hong-phuc-hoe-nhai-9",
+        "quote": "Cổng thông tin du lịch phường Ba Đình (đọc 14/10/2026): tên Nôm Hòe Nhai vì ngõ xưa trồng nhiều cây hòe; khởi dựng thời Lý trên đường ra bến Đông Bộ Đầu; cuối thế kỷ XVII mời Hòa thượng Thủy Nguyệt trụ trì; tam quan kiểu hoa biểu bốn trụ; hai tháp 3 tầng trong sân; đông khách dịp đầu xuân, Phật Đản, rằm tháng 7; Bộ VHTT xếp hạng năm 1989.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00668"
+  }
+}

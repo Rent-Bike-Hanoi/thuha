@@ -1,0 +1,146 @@
+{
+  "writer": "writer-G",
+  "queued": "2026-10-14T05:09:20.448478+00:00",
+  "topic": {
+    "topic_id": "TM-00670",
+    "url": "/du-lich/den-ba-kieu/",
+    "title": "Đền Bà Kiệu bên hồ Gươm: đền thờ Mẫu thời Lê, vì sao bị chia đôi",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền bà kiệu",
+    "secondary_keywords": [
+      "đền bà kiệu hồ gươm",
+      "thiên tiên điện",
+      "huyền chân từ",
+      "vườn hoa đền bà kiệu",
+      "59 đinh tiên hoàng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ Mẫu và du khách quanh hồ Gươm muốn biết đền Bà Kiệu thờ ai, vì sao cổng ở một bên đường còn đền ở bên kia, và có thu vé không.",
+    "information_gain": "Site chưa có bài về đền Bà Kiệu. /du-lich/thap-rua-ho-guom/ và /du-lich/dinh-kim-ngan-hang-bac/ chỉ là điểm lân cận, /du-lich/phu-tay-ho/ là phủ Mẫu khác. Bài mới bổ sung: tên Huyền Chân từ – Thiên Tiên điện, các vị thờ (Mẫu Liễu, Quỳnh Hoa, Quế Hoa), lịch sử 1619–1628, việc Pháp mở đường cắt đền (1891, 1905), xếp hạng 1951 và 1994, bố cục tam quan bên hồ – đền chính góc Lò Sũ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/den-ba-kieu-ngoi-den-thieng-ben-ho-hoan-kiem.htm",
+        "quote": "Trung tâm Lưu trữ quốc gia I (đọc 14/10/2026): đền Bà Kiệu trên phố Đinh Tiên Hoàng, trước gọi Huyền Chân Từ, hoành phi 'Thiên Tiên Điện'; bia 'Trùng tu Huyền Chân Từ bi ký' năm Tự Đức 19 (1866) ghi đền dựng từ thời Lê; trùng tu 1853, 1864; năm 1890 Pháp trưng dụng đất quanh đền làm vườn hoa; thông cáo Đốc lý ngày 20/7/1905 trưng dụng đất mở đường; có trong danh sách 31 di tích Hà Nội lập ngày 07/8/1951; xếp hạng Di tích lịch sử văn hóa quốc gia năm 1994; HĐND TP phê duyệt dự án giải phóng mặt bằng quanh đền.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/den-ba-kieu-ha-noi-17336",
+        "quote": "MIA.vn (đọc 14/10/2026): số 59 Đinh Tiên Hoàng; dựng niên hiệu Vĩnh Tộ (1619–1628), thêm tam quan cuối Cảnh Hưng, chuông đồng năm Cảnh Thịnh 8; cải tạo lớn năm 1864; năm 1891 Pháp dỡ sân trước và tiền tế làm đường xe điện; đền chia hai phần: đền chính góc phố Lò Sũ và tam quan ven hồ; nhà đại bái 8 cột lim, phương đình 2 tầng 4 mái, hậu cung thờ Tam tòa Thánh Mẫu, Liễu Hạnh, Quỳnh Hoa, Quế Hoa; lễ hội tháng 3 âm lịch; không thu vé.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_B%C3%A0_Ki%E1%BB%87u",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): tên chữ Thiên Tiên điện, ven phía đông hồ Gươm, xế cửa đền Ngọc Sơn; theo Thăng Long cổ tích khảo xây thời Vĩnh Tộ (1619–28); năm 1891 một phần đất giao làm Boulevard Francis Garnier (nay đường Đinh Tiên Hoàng) cắt khu đền làm đôi; di tích kiến trúc nghệ thuật công nhận 1994.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền bà kiệu"
+      }
+    ],
+    "notes": "Mâu thuẫn: năm Pháp lấy đất (1890 vườn hoa, 1891 đường, 1900–1905 theo Lưu trữ; 1891 theo MIA, Wikipedia); số bức nêu khác nhau về tên thị nữ (Quế Hoa/Quế Nương). Giờ mở cửa và 'không thu vé' chỉ từ MIA (không chính thức) — writer ghi là 'theo cẩm nang du lịch', không khẳng định. Vinpearl không tải được, đã bỏ. Không đưa số xe buýt.",
+    "outline": [
+      "Đền Bà Kiệu ở đâu: tam quan ven hồ, đền chính góc Lò Sũ",
+      "Thờ ai: Mẫu Liễu Hạnh và hai thị nữ",
+      "Lịch sử từ thời Vĩnh Tộ đến Tự Đức",
+      "Quy hoạch thời Pháp cắt đôi khu đền",
+      "Kiến trúc đại bái, phương đình, hậu cung",
+      "Lễ hội tháng Ba và lưu ý khi đi lễ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thap-rua-ho-guom/",
+      "/du-lich/dinh-kim-ngan-hang-bac/",
+      "/du-lich/phu-tay-ho/",
+      "/du-lich/pho-sach-19-12-va-pho-di-bo-ho-guom-cuoi-tuan/",
+      "/du-lich/ha-noi/pho-co/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00670.json",
+  "draft_template": {
+    "id": "TM-00670",
+    "url": "/du-lich/den-ba-kieu/",
+    "title": "Đền Bà Kiệu bên hồ Gươm: đền thờ Mẫu thời Lê, vì sao bị chia đôi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền bà kiệu, đền bà kiệu hồ gươm, thiên tiên điện, huyền chân từ, vườn hoa đền bà kiệu, 59 đinh tiên hoàng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Bà Kiệu ở đâu: tam quan ven hồ, đền chính góc Lò Sũ",
+        "<p></p>"
+      ],
+      [
+        "Thờ ai: Mẫu Liễu Hạnh và hai thị nữ",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử từ thời Vĩnh Tộ đến Tự Đức",
+        "<p></p>"
+      ],
+      [
+        "Quy hoạch thời Pháp cắt đôi khu đền",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc đại bái, phương đình, hậu cung",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Ba và lưu ý khi đi lễ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://archives.org.vn/gioi-thieu-tai-lieu-nghiep-vu/den-ba-kieu-ngoi-den-thieng-ben-ho-hoan-kiem.htm",
+        "quote": "Trung tâm Lưu trữ quốc gia I (đọc 14/10/2026): đền Bà Kiệu trên phố Đinh Tiên Hoàng, trước gọi Huyền Chân Từ, hoành phi 'Thiên Tiên Điện'; bia 'Trùng tu Huyền Chân Từ bi ký' năm Tự Đức 19 (1866) ghi đền dựng từ thời Lê; trùng tu 1853, 1864; năm 1890 Pháp trưng dụng đất quanh đền làm vườn hoa; thông cáo Đốc lý ngày 20/7/1905 trưng dụng đất mở đường; có trong danh sách 31 di tích Hà Nội lập ngày 07/8/1951; xếp hạng Di tích lịch sử văn hóa quốc gia năm 1994; HĐND TP phê duyệt dự án giải phóng mặt bằng quanh đền.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/den-ba-kieu-ha-noi-17336",
+        "quote": "MIA.vn (đọc 14/10/2026): số 59 Đinh Tiên Hoàng; dựng niên hiệu Vĩnh Tộ (1619–1628), thêm tam quan cuối Cảnh Hưng, chuông đồng năm Cảnh Thịnh 8; cải tạo lớn năm 1864; năm 1891 Pháp dỡ sân trước và tiền tế làm đường xe điện; đền chia hai phần: đền chính góc phố Lò Sũ và tam quan ven hồ; nhà đại bái 8 cột lim, phương đình 2 tầng 4 mái, hậu cung thờ Tam tòa Thánh Mẫu, Liễu Hạnh, Quỳnh Hoa, Quế Hoa; lễ hội tháng 3 âm lịch; không thu vé.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/%C4%90%E1%BB%81n_B%C3%A0_Ki%E1%BB%87u",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): tên chữ Thiên Tiên điện, ven phía đông hồ Gươm, xế cửa đền Ngọc Sơn; theo Thăng Long cổ tích khảo xây thời Vĩnh Tộ (1619–28); năm 1891 một phần đất giao làm Boulevard Francis Garnier (nay đường Đinh Tiên Hoàng) cắt khu đền làm đôi; di tích kiến trúc nghệ thuật công nhận 1994.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00670"
+  }
+}

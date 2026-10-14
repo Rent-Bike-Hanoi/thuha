@@ -1,0 +1,144 @@
+{
+  "writer": "writer-I",
+  "queued": "2026-10-14T05:09:22.135304+00:00",
+  "topic": {
+    "topic_id": "TM-00680",
+    "url": "/du-lich/chua-thanh-am-long-bien/",
+    "title": "Chùa Thanh Am Long Biên: làng Trạng Trình lập, chuông Cảnh Thịnh 1793",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa thanh am",
+    "secondary_keywords": [
+      "động linh tự",
+      "đông linh tự",
+      "chùa thanh am thượng thanh",
+      "đình chùa thanh am"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Long Biên, Gia Lâm và khách đi Cổ Loa muốn biết chùa Thanh Am ở đâu, liên quan Nguyễn Bỉnh Khiêm thế nào, lễ hội khi nào.",
+    "information_gain": "Site đã có /du-lich/chua-bo-de-long-bien/ và /du-lich/den-ghenh-long-bien/ nhưng chưa có chùa Thanh Am. Bài mới bổ sung: làng Thanh Am (Hoa Am) do Nguyễn Bỉnh Khiêm đưa dân tới lập, chuông Cảnh Thịnh 1793 khắc tên tướng Tây Sơn, 11 pho tượng thế kỷ XIX, cụm đình – chùa xếp hạng 1990, dự án tu bổ 37,9 tỷ đồng trên 2.780 m2, hội 9–10 tháng Ba với tục rước nước.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-thanh-am-quan-long-bien-76751.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa ở thôn Thanh Am, phường Thượng Thanh, Long Biên, tên chữ Đông Linh tự; làng Thanh Am do Nguyễn Bỉnh Khiêm khi làm quan triều Mạc đưa con cháu, dân làng tới định cư, ban đầu tên Hoa Am; 11 pho tượng cũ, 10 pho niên đại thế kỷ XIX; chuông ghi danh 'Thập dũng trung quân đạo Thiên Hùng vệ' – đơn vị quân Tây Sơn; cụm đình – chùa xếp hạng năm 1990.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/di-tich-lich-su-chua-thanh-am-duoc-khoac-tam-ao-moi-post1581350.tpo",
+        "quote": "Tiền Phong (đọc 14/10/2026): chùa Thanh Am (Đông Linh tự) mang phong cách kiến trúc cuối thời Nguyễn, vừa được tu bổ nhân dịp 20 năm thành lập quận Long Biên; tổng mức đầu tư 37,9 tỷ đồng; quy hoạch lại khuôn viên 2.780 m2; tu bổ tam bảo, tam quan, nhà tổ, nhà mẫu, lầu cô, lầu cậu, nhà khách; xếp hạng năm 1990.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://chonthieng.com/dia-diem/chua-thanh-am-dong-linh-tu-long-bien-ha-noi-2",
+        "quote": "Chốn Thiêng (đọc 14/10/2026): số 76, tổ 24 phố Thanh Am, phường Thượng Thanh; nằm ở QL1A, bờ nam sông Đuống; chuông 'Tạo trú hồng chung' năm Cảnh Thịnh nguyên niên (1793) cao 0,82 m, đường kính miệng 0,57 m; năm 1787 chùa bị phá do chiến tranh; tôn tạo 2002, hoàn thành 2003; lễ hội mồng 9, 10 tháng 3 âm lịch với tục rước nước; xếp hạng 9/1/1990.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa thanh am"
+      }
+    ],
+    "notes": "Mâu thuẫn tên chữ: Đông Linh tự (Người Hà Nội, Tiền Phong) vs Động Linh tự (Chốn Thiêng). Tiền Phong ghi Bộ VHTTDL xếp hạng 'di tích lịch sử' năm 1990 — thời điểm đó là Bộ VHTT (ghi theo Người Hà Nội). Lịch lễ hội chỉ một nguồn (Chốn Thiêng). Không viết khoảng cách '10 km' như dữ kiện chắc chắn. Primary keyword không trùng tên đường/phường khác.",
+    "outline": [
+      "Chùa Thanh Am ở đâu bên sông Đuống",
+      "Làng Hoa Am – Thanh Am và Nguyễn Bỉnh Khiêm",
+      "Chuông Cảnh Thịnh 1793 và dấu vết quân Tây Sơn",
+      "Tượng và kiến trúc sau tu bổ",
+      "Lễ hội tháng Ba, tục rước nước",
+      "Ghép tuyến Long Biên – Cổ Loa bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-bo-de-long-bien/",
+      "/du-lich/den-ghenh-long-bien/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/du-lich/lang-gom-bat-trang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00680.json",
+  "draft_template": {
+    "id": "TM-00680",
+    "url": "/du-lich/chua-thanh-am-long-bien/",
+    "title": "Chùa Thanh Am Long Biên: làng Trạng Trình lập, chuông Cảnh Thịnh 1793",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa thanh am, động linh tự, đông linh tự, chùa thanh am thượng thanh, đình chùa thanh am",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Thanh Am ở đâu bên sông Đuống",
+        "<p></p>"
+      ],
+      [
+        "Làng Hoa Am – Thanh Am và Nguyễn Bỉnh Khiêm",
+        "<p></p>"
+      ],
+      [
+        "Chuông Cảnh Thịnh 1793 và dấu vết quân Tây Sơn",
+        "<p></p>"
+      ],
+      [
+        "Tượng và kiến trúc sau tu bổ",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Ba, tục rước nước",
+        "<p></p>"
+      ],
+      [
+        "Ghép tuyến Long Biên – Cổ Loa bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-thanh-am-quan-long-bien-76751.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa ở thôn Thanh Am, phường Thượng Thanh, Long Biên, tên chữ Đông Linh tự; làng Thanh Am do Nguyễn Bỉnh Khiêm khi làm quan triều Mạc đưa con cháu, dân làng tới định cư, ban đầu tên Hoa Am; 11 pho tượng cũ, 10 pho niên đại thế kỷ XIX; chuông ghi danh 'Thập dũng trung quân đạo Thiên Hùng vệ' – đơn vị quân Tây Sơn; cụm đình – chùa xếp hạng năm 1990.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/di-tich-lich-su-chua-thanh-am-duoc-khoac-tam-ao-moi-post1581350.tpo",
+        "quote": "Tiền Phong (đọc 14/10/2026): chùa Thanh Am (Đông Linh tự) mang phong cách kiến trúc cuối thời Nguyễn, vừa được tu bổ nhân dịp 20 năm thành lập quận Long Biên; tổng mức đầu tư 37,9 tỷ đồng; quy hoạch lại khuôn viên 2.780 m2; tu bổ tam bảo, tam quan, nhà tổ, nhà mẫu, lầu cô, lầu cậu, nhà khách; xếp hạng năm 1990.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://chonthieng.com/dia-diem/chua-thanh-am-dong-linh-tu-long-bien-ha-noi-2",
+        "quote": "Chốn Thiêng (đọc 14/10/2026): số 76, tổ 24 phố Thanh Am, phường Thượng Thanh; nằm ở QL1A, bờ nam sông Đuống; chuông 'Tạo trú hồng chung' năm Cảnh Thịnh nguyên niên (1793) cao 0,82 m, đường kính miệng 0,57 m; năm 1787 chùa bị phá do chiến tranh; tôn tạo 2002, hoàn thành 2003; lễ hội mồng 9, 10 tháng 3 âm lịch với tục rước nước; xếp hạng 9/1/1990.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00680"
+  }
+}

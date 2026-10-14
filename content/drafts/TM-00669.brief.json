@@ -1,0 +1,144 @@
+{
+  "writer": "writer-F",
+  "queued": "2026-10-14T05:09:20.258724+00:00",
+  "topic": {
+    "topic_id": "TM-00669",
+    "url": "/du-lich/go-dong-da/",
+    "title": "Gò Đống Đa – Công viên văn hóa Đống Đa: tượng Quang Trung 14,65 m, xem gì",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "gò đống đa",
+    "secondary_keywords": [
+      "công viên văn hóa đống đa",
+      "tượng đài quang trung",
+      "đền thờ quang trung đống đa",
+      "276 đặng tiến đông"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Học sinh, gia đình và khách tham quan muốn biết Gò Đống Đa ở đâu, có gì (tượng đài, đền thờ, gò) và ý nghĩa lịch sử trận Đống Đa 1789.",
+    "information_gain": "Site chưa có bài riêng về Gò Đống Đa. /du-lich/chua-boc/ chỉ nói chùa Bộc và hội Đống Đa tại chùa; /du-lich/o-quan-chuong/ là di tích khác. Bài mới bổ sung: địa chỉ 276 Đặng Tiến Đông, diện tích khu di tích, các hạng mục (gò, nghi môn, tượng đài, đền thờ), thông số tượng 14,65 m – 200 tấn, phù điêu 47 m, bản đồ 1873 còn 6 gò, xếp hạng 1962 và quốc gia đặc biệt theo QĐ 1820/QĐ-TTg.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/go-dong-da-3285",
+        "quote": "Cục Di sản văn hóa (đọc 14/10/2026): Gò Đống Đa (Công viên Văn hóa Đống Đa) thuộc phường Quang Trung, xưa thuộc đất làng Khương Thượng; là chiến trường đại phá quân Thanh xuân Kỷ Dậu 1789; bản đồ năm Tự Đức 26 (1873) còn 6 gò ở xứ Đống Đa; năm 2010 tu bổ, xây mới trên tổng diện tích hơn 22.120,8 m2; gồm cổng, gò, nghi môn, tượng đài Quang Trung, đền thờ; xếp hạng Di tích quốc gia đặc biệt theo Quyết định 1820/QĐ-TTg ngày 24/12/2018.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://godongda.vn/di-tich/tuong-dai-quang-trung",
+        "quote": "godongda.vn – trang Công viên Văn hóa Đống Đa (đọc 14/10/2026): tượng đài Quang Trung dựng bên gò Đống Đa dịp kỷ niệm 200 năm chiến thắng Ngọc Hồi – Đống Đa; lối chính ra phố Đặng Tiến Đông (tên đô đốc đánh đồn Khương Thượng); tượng cao 14,65 m, bê tông cốt thép nặng 200 tấn, ốp đá hoa cương, phun vảy đồng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/cong-vien-van-hoa-dong-da-su-hoa-quyen-giua-lich-su-va-hien-dai-817980",
+        "quote": "Báo Quân đội nhân dân (đọc 14/10/2026): Công viên văn hóa Đống Đa ở số 276 phố Đặng Tiến Đông, phường Quang Trung, rộng 21.745 m2, xây năm 1989; Gò Đống Đa xếp hạng Di tích quốc gia năm 1962, nâng thành Di tích quốc gia đặc biệt năm 2019; tu bổ từ năm 2014 gồm tượng đài, đền thờ, nhà trưng bày; sau tượng có hai bức phù điêu dài 47 m; cuối năm 2024 ra mắt trang godongda.vn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "gò đống đa"
+      }
+    ],
+    "notes": "Mâu thuẫn: diện tích 22.120,8 m2 (Cục DSVH) vs 21.745 m2 (QĐND); năm đặc biệt: QĐ ký 24/12/2018 (Cục DSVH) vs 'năm 2019' (QĐND, có thể là năm đón bằng) — ghi đúng số QĐ. Không có nguồn về giờ mở cửa, vé, gửi xe. Phân biệt rõ với bài chùa Bộc.",
+    "outline": [
+      "Gò Đống Đa ở đâu, khác gì chùa Bộc",
+      "Trận Đống Đa xuân Kỷ Dậu 1789",
+      "Các hạng mục: gò, nghi môn, tượng đài, đền thờ, phù điêu",
+      "Từ 'xứ Đống Đa' nhiều gò đến công viên 1989",
+      "Xếp hạng di tích và godongda.vn",
+      "Gợi ý ghép tuyến với chùa Bộc, chùa Láng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-boc/",
+      "/du-lich/o-quan-chuong/",
+      "/du-lich/chua-lang/",
+      "/du-lich/den-kim-lien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00669.json",
+  "draft_template": {
+    "id": "TM-00669",
+    "url": "/du-lich/go-dong-da/",
+    "title": "Gò Đống Đa – Công viên văn hóa Đống Đa: tượng Quang Trung 14,65 m, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "gò đống đa, công viên văn hóa đống đa, tượng đài quang trung, đền thờ quang trung đống đa, 276 đặng tiến đông",
+    "excerpt": "",
+    "sections": [
+      [
+        "Gò Đống Đa ở đâu, khác gì chùa Bộc",
+        "<p></p>"
+      ],
+      [
+        "Trận Đống Đa xuân Kỷ Dậu 1789",
+        "<p></p>"
+      ],
+      [
+        "Các hạng mục: gò, nghi môn, tượng đài, đền thờ, phù điêu",
+        "<p></p>"
+      ],
+      [
+        "Từ 'xứ Đống Đa' nhiều gò đến công viên 1989",
+        "<p></p>"
+      ],
+      [
+        "Xếp hạng di tích và godongda.vn",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý ghép tuyến với chùa Bộc, chùa Láng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/go-dong-da-3285",
+        "quote": "Cục Di sản văn hóa (đọc 14/10/2026): Gò Đống Đa (Công viên Văn hóa Đống Đa) thuộc phường Quang Trung, xưa thuộc đất làng Khương Thượng; là chiến trường đại phá quân Thanh xuân Kỷ Dậu 1789; bản đồ năm Tự Đức 26 (1873) còn 6 gò ở xứ Đống Đa; năm 2010 tu bổ, xây mới trên tổng diện tích hơn 22.120,8 m2; gồm cổng, gò, nghi môn, tượng đài Quang Trung, đền thờ; xếp hạng Di tích quốc gia đặc biệt theo Quyết định 1820/QĐ-TTg ngày 24/12/2018.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://godongda.vn/di-tich/tuong-dai-quang-trung",
+        "quote": "godongda.vn – trang Công viên Văn hóa Đống Đa (đọc 14/10/2026): tượng đài Quang Trung dựng bên gò Đống Đa dịp kỷ niệm 200 năm chiến thắng Ngọc Hồi – Đống Đa; lối chính ra phố Đặng Tiến Đông (tên đô đốc đánh đồn Khương Thượng); tượng cao 14,65 m, bê tông cốt thép nặng 200 tấn, ốp đá hoa cương, phun vảy đồng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/cong-vien-van-hoa-dong-da-su-hoa-quyen-giua-lich-su-va-hien-dai-817980",
+        "quote": "Báo Quân đội nhân dân (đọc 14/10/2026): Công viên văn hóa Đống Đa ở số 276 phố Đặng Tiến Đông, phường Quang Trung, rộng 21.745 m2, xây năm 1989; Gò Đống Đa xếp hạng Di tích quốc gia năm 1962, nâng thành Di tích quốc gia đặc biệt năm 2019; tu bổ từ năm 2014 gồm tượng đài, đền thờ, nhà trưng bày; sau tượng có hai bức phù điêu dài 47 m; cuối năm 2024 ra mắt trang godongda.vn.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00669"
+  }
+}

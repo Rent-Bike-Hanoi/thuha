@@ -1,0 +1,144 @@
+{
+  "writer": "writer-I",
+  "queued": "2026-10-14T05:09:21.934104+00:00",
+  "topic": {
+    "topic_id": "TM-00679",
+    "url": "/du-lich/chua-tu-ky/",
+    "title": "Chùa Tứ Kỳ (Linh Tiên tự) Hoàng Mai: bia thời Chính Hòa, chuông 1841",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa tứ kỳ",
+    "secondary_keywords": [
+      "linh tiên tự",
+      "chùa tứ kỳ hoàng liệt",
+      "chùa tứ kỳ ngọc hồi",
+      "chùa linh tiên hoàng mai"
+    ],
+    "intent": "informational",
+    "user_problem": "Cư dân Linh Đàm – Hoàng Liệt và người đi đường Ngọc Hồi muốn biết chùa Tứ Kỳ có lịch sử ra sao, xem gì.",
+    "information_gain": "Site chưa có bài về chùa Tứ Kỳ hay di tích ở Hoàng Liệt. /du-lich/cong-vien-yen-so/ là công viên cùng quận; /du-lich/chua-lang/ là chùa khác. Bài mới bổ sung: tên Linh Tiên tự, vị trí thôn Tứ Kỳ bên QL1A/đường Ngọc Hồi, bia Chính Hòa, chuông Thiệu Trị 1841, bố cục tam quan – nhà bia – tiền đường – nhà Mẫu, tượng Diệu Tâm, 22 pho tượng, xếp hạng 1995, xây lại cuối những năm 2000.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-tu-ky-quan-hoang-mai-76903.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa Tứ Kỳ thuộc thôn Tứ Kỳ, phường Hoàng Liệt; tên chữ Linh Tiên tự; cách trung tâm khoảng 8 km; bia hậu Chính Hòa 8 (1687) cho thấy chùa có từ trước và được tu sửa lớn năm 1687; cuối những năm 2000 xây lại quy mô bề thế; gần QL1A; tam quan hai tầng, hai nhà bia; tượng đoán định là Chánh vương Phủ thị nội cung tần họ Nguyễn tên Diệu Tâm; 22 pho tượng thế kỷ XIX; Bộ VHTT xếp hạng năm 1995.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_T%E1%BB%A9_K%E1%BB%B3",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): Linh Tiên tự, thôn Tứ Kỳ, phường Hoàng Liệt; công nhận di tích năm 1995; bia tháng 2 năm Chính Hòa 8 (1687); nhà Tổ tu sửa năm 1993, nhà Mẫu 5 gian; chuông lớn khắc 'Linh Tiên tự' đúc năm Thiệu Trị 1 (1841).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchinghiencuuphathoc.vn/chua-tu-ky-o-thu-do-ha-noi.html",
+        "quote": "Tạp chí Nghiên cứu Phật học (đọc 14/10/2026): chùa ở số 8 Ngọc Hồi, phường Hoàng Liệt; công nhận di tích năm 1995; tồn tại ít nhất hơn 300 năm; tấm bia niên hiệu Chính Hòa (1689), chuông Thiệu Trị (1841); tam quan hai tầng nhìn ra QL1A; tiền đường cao hơn sân 1 m, quay hướng Đông Bắc; nhà Mẫu ghi năm Bảo Đại thứ 10 (1935).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa tứ kỳ"
+      }
+    ],
+    "notes": "Mâu thuẫn: năm bia Chính Hòa 1687 (Người Hà Nội, Wikipedia) vs 1689 (Tạp chí NCPH) — ghi 'bia thời Chính Hòa' trong tiêu đề. Địa chỉ 'số 8 Ngọc Hồi' chỉ có một nguồn. Không có nguồn lễ hội hằng năm, giờ mở cửa. Không viết khoảng cách từ cửa hàng.",
+    "outline": [
+      "Chùa Tứ Kỳ ở đâu: thôn Tứ Kỳ, đường Ngọc Hồi",
+      "Niên đại qua bia Chính Hòa và chuông Thiệu Trị",
+      "Bố cục: tam quan, nhà bia, tiền đường, thượng điện",
+      "Nhà Mẫu và tượng Diệu Tâm",
+      "Đợt xây lại cuối những năm 2000",
+      "Lưu ý khi ghé từ QL1A"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cong-vien-yen-so/",
+      "/du-lich/chua-lang/",
+      "/du-lich/chua-lien-phai/",
+      "/du-lich/den-hai-ba-trung-dong-nhan/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00679.json",
+  "draft_template": {
+    "id": "TM-00679",
+    "url": "/du-lich/chua-tu-ky/",
+    "title": "Chùa Tứ Kỳ (Linh Tiên tự) Hoàng Mai: bia thời Chính Hòa, chuông 1841",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa tứ kỳ, linh tiên tự, chùa tứ kỳ hoàng liệt, chùa tứ kỳ ngọc hồi, chùa linh tiên hoàng mai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Tứ Kỳ ở đâu: thôn Tứ Kỳ, đường Ngọc Hồi",
+        "<p></p>"
+      ],
+      [
+        "Niên đại qua bia Chính Hòa và chuông Thiệu Trị",
+        "<p></p>"
+      ],
+      [
+        "Bố cục: tam quan, nhà bia, tiền đường, thượng điện",
+        "<p></p>"
+      ],
+      [
+        "Nhà Mẫu và tượng Diệu Tâm",
+        "<p></p>"
+      ],
+      [
+        "Đợt xây lại cuối những năm 2000",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi ghé từ QL1A",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-tu-ky-quan-hoang-mai-76903.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa Tứ Kỳ thuộc thôn Tứ Kỳ, phường Hoàng Liệt; tên chữ Linh Tiên tự; cách trung tâm khoảng 8 km; bia hậu Chính Hòa 8 (1687) cho thấy chùa có từ trước và được tu sửa lớn năm 1687; cuối những năm 2000 xây lại quy mô bề thế; gần QL1A; tam quan hai tầng, hai nhà bia; tượng đoán định là Chánh vương Phủ thị nội cung tần họ Nguyễn tên Diệu Tâm; 22 pho tượng thế kỷ XIX; Bộ VHTT xếp hạng năm 1995.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_T%E1%BB%A9_K%E1%BB%B3",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): Linh Tiên tự, thôn Tứ Kỳ, phường Hoàng Liệt; công nhận di tích năm 1995; bia tháng 2 năm Chính Hòa 8 (1687); nhà Tổ tu sửa năm 1993, nhà Mẫu 5 gian; chuông lớn khắc 'Linh Tiên tự' đúc năm Thiệu Trị 1 (1841).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchinghiencuuphathoc.vn/chua-tu-ky-o-thu-do-ha-noi.html",
+        "quote": "Tạp chí Nghiên cứu Phật học (đọc 14/10/2026): chùa ở số 8 Ngọc Hồi, phường Hoàng Liệt; công nhận di tích năm 1995; tồn tại ít nhất hơn 300 năm; tấm bia niên hiệu Chính Hòa (1689), chuông Thiệu Trị (1841); tam quan hai tầng nhìn ra QL1A; tiền đường cao hơn sân 1 m, quay hướng Đông Bắc; nhà Mẫu ghi năm Bảo Đại thứ 10 (1935).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00679"
+  }
+}

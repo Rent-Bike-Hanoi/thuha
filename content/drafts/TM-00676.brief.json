@@ -1,0 +1,158 @@
+{
+  "writer": "writer-H",
+  "queued": "2026-10-14T05:09:21.497371+00:00",
+  "topic": {
+    "topic_id": "TM-00676",
+    "url": "/du-lich/quan-the-di-tich-la-khe/",
+    "title": "Bia Bà La Khê Hà Đông: đình, chùa Diên Khánh và Hoàng phi Trần Thị Hiền",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "bia bà la khê",
+    "secondary_keywords": [
+      "đình la khê",
+      "chùa diên khánh",
+      "chùa bia bà hà đông",
+      "đền đức thánh bà la khê",
+      "lễ hội la khê"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Đông và người đi lễ đầu năm 'cầu tài lộc ở Bia Bà' muốn biết quần thể La Khê gồm gì, thờ ai và lễ hội khi nào.",
+    "information_gain": "Site chưa có bài về La Khê (chỉ một nhắc qua tên ga trong /du-lich/gui-xe-may-ga-metro-ha-noi/). /du-lich/lang-lua-van-phuc/ là làng lụa khác ở Hà Đông. Bài mới bổ sung: ba thành phần (đình La Khê, chùa Diên Khánh, đền/Bia Bà), sự tích Hoàng phi Trần Thị Hiền (1511–1538) vợ Mạc Đăng Doanh, Bia Thánh sư nghề the lụa, khuôn viên 8.000 m2, 28 sắc phong, các đợt trùng tu 1997–2009, hội 14–16 tháng Giêng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-la-khe-quan-ha-dong-70193.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): đình La Khê thờ Hắc Diện đại tướng quân và Tiên Tiên Bảo Hoa công chúa; niên đại đầu thế kỷ XVII, tu bổ lớn thế kỷ XVIII; kiến trúc 'tiền kẻ hậu bẩy', tường gạch Bát Tràng; hai long ngai cao hơn 1 m ở trung cung; sập thờ chân quỳ dạ cá ở hậu cung; Bộ VHTT xếp hạng năm 1988.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchixaydung.vn/vang-canh-di-tich-lich-su-van-hoa-la-khe-ngay-dau-nam-moi-20201224000015552.html",
+        "quote": "Tạp chí Xây dựng (đọc 14/10/2026): quần thể gồm đình La Khê, chùa Diên Khánh (dựng thời Lý, trùng tu lớn 1845) và đền thờ Đức Thánh Bà; năm 1997 trùng tu tòa đại bái 7 gian, năm 2002 trung cung và hậu cung; khuôn viên khoảng 8.000 m2, nguyệt hồ lan can đá; Bia Bà ghi sự tích Trần Thị Hiền sinh năm 1511, năm 1530 vào Đệ nhị cung; bia đổ năm 1913 rồi dựng lại; đình, chùa Diên Khánh và chùa Phúc Khê xếp hạng quốc gia theo QĐ 100VH/QĐ ngày 21/1/1989; trùng tu lớn 2008, 2009.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/C%E1%BB%A5m_di_t%C3%ADch_%C4%90%C3%ACnh_%E2%80%93_Ch%C3%B9a_%E2%80%93_Bia_B%C3%A0_La_Kh%C3%AA",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): làng La Khê nay thuộc phường Hà Đông (sau sáp nhập 7/2025); đình còn 28 sắc phong; Bia Bà thờ Trần Thị Hiền (1511 – 16/11/1538), Bia Thánh sư thờ 10 người đời Minh dạy nghề lụa; chùa Diên Khánh còn chuông thời Cảnh Thịnh 2; đình xếp hạng năm 1998.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/la-khe-dam-bao-an-ninh-trat-tu-san-sang-cho-le-hoi-tai-di-tich-bia-ba-1503403.html",
+        "quote": "Kinh tế & Đô thị, đăng trên hanoimoi.vn (2018, đọc 14/10/2026): câu 'Cầu duyên thì đến chùa Hà, cầu tài, cầu lộc thì đi Bia Bà'; điện Bia Bà có chính điện thờ Thánh Bà, hai bên thờ Đệ nhất, Đệ nhị công chúa; lễ hội La Khê 2018 diễn ra 14, 15, 16 tháng Giêng, phường trông xe miễn phí ba ngày đó; chùa Diên Khánh xếp hạng năm 1989.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bia bà la khê"
+      }
+    ],
+    "notes": "Mâu thuẫn lớn về năm xếp hạng: 1988 (Người Hà Nội), 21/1/1989 (Tạp chí Xây dựng, KTĐT), 1998 (Wikipedia) — ghi theo QĐ 100VH/QĐ 21/1/1989 và nêu khác biệt. Tên thần: Hắc Diện/Hoắc Diện, Thiên Tiên/Tiên Tiên Bảo Hoa. Tên cha bà: Trần Chân/Trần Trân. Lịch trông xe miễn phí là năm 2018, không dùng như quy định hiện hành. hadong.hanoi.gov.vn không tải được, đã bỏ. Primary keyword chọn 'bia bà la khê' vì là tên dân gian phổ biến; chưa có số liệu tìm kiếm.",
+    "outline": [
+      "Quần thể La Khê gồm những gì",
+      "Đình La Khê và hai vị thành hoàng",
+      "Chùa Diên Khánh",
+      "Bia Bà: Hoàng phi Trần Thị Hiền thời Mạc",
+      "Bia Thánh sư và nghề the lụa La Khê",
+      "Lễ hội tháng Giêng và lưu ý gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-lua-van-phuc/",
+      "/du-lich/gui-xe-may-ga-metro-ha-noi/",
+      "/du-lich/chua-ha-cau-giay/",
+      "/du-lich/lang-gom-bat-trang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00676.json",
+  "draft_template": {
+    "id": "TM-00676",
+    "url": "/du-lich/quan-the-di-tich-la-khe/",
+    "title": "Bia Bà La Khê Hà Đông: đình, chùa Diên Khánh và Hoàng phi Trần Thị Hiền",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bia bà la khê, đình la khê, chùa diên khánh, chùa bia bà hà đông, đền đức thánh bà la khê, lễ hội la khê",
+    "excerpt": "",
+    "sections": [
+      [
+        "Quần thể La Khê gồm những gì",
+        "<p></p>"
+      ],
+      [
+        "Đình La Khê và hai vị thành hoàng",
+        "<p></p>"
+      ],
+      [
+        "Chùa Diên Khánh",
+        "<p></p>"
+      ],
+      [
+        "Bia Bà: Hoàng phi Trần Thị Hiền thời Mạc",
+        "<p></p>"
+      ],
+      [
+        "Bia Thánh sư và nghề the lụa La Khê",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Giêng và lưu ý gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-la-khe-quan-ha-dong-70193.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): đình La Khê thờ Hắc Diện đại tướng quân và Tiên Tiên Bảo Hoa công chúa; niên đại đầu thế kỷ XVII, tu bổ lớn thế kỷ XVIII; kiến trúc 'tiền kẻ hậu bẩy', tường gạch Bát Tràng; hai long ngai cao hơn 1 m ở trung cung; sập thờ chân quỳ dạ cá ở hậu cung; Bộ VHTT xếp hạng năm 1988.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchixaydung.vn/vang-canh-di-tich-lich-su-van-hoa-la-khe-ngay-dau-nam-moi-20201224000015552.html",
+        "quote": "Tạp chí Xây dựng (đọc 14/10/2026): quần thể gồm đình La Khê, chùa Diên Khánh (dựng thời Lý, trùng tu lớn 1845) và đền thờ Đức Thánh Bà; năm 1997 trùng tu tòa đại bái 7 gian, năm 2002 trung cung và hậu cung; khuôn viên khoảng 8.000 m2, nguyệt hồ lan can đá; Bia Bà ghi sự tích Trần Thị Hiền sinh năm 1511, năm 1530 vào Đệ nhị cung; bia đổ năm 1913 rồi dựng lại; đình, chùa Diên Khánh và chùa Phúc Khê xếp hạng quốc gia theo QĐ 100VH/QĐ ngày 21/1/1989; trùng tu lớn 2008, 2009.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/C%E1%BB%A5m_di_t%C3%ADch_%C4%90%C3%ACnh_%E2%80%93_Ch%C3%B9a_%E2%80%93_Bia_B%C3%A0_La_Kh%C3%AA",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): làng La Khê nay thuộc phường Hà Đông (sau sáp nhập 7/2025); đình còn 28 sắc phong; Bia Bà thờ Trần Thị Hiền (1511 – 16/11/1538), Bia Thánh sư thờ 10 người đời Minh dạy nghề lụa; chùa Diên Khánh còn chuông thời Cảnh Thịnh 2; đình xếp hạng năm 1998.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/la-khe-dam-bao-an-ninh-trat-tu-san-sang-cho-le-hoi-tai-di-tich-bia-ba-1503403.html",
+        "quote": "Kinh tế & Đô thị, đăng trên hanoimoi.vn (2018, đọc 14/10/2026): câu 'Cầu duyên thì đến chùa Hà, cầu tài, cầu lộc thì đi Bia Bà'; điện Bia Bà có chính điện thờ Thánh Bà, hai bên thờ Đệ nhất, Đệ nhị công chúa; lễ hội La Khê 2018 diễn ra 14, 15, 16 tháng Giêng, phường trông xe miễn phí ba ngày đó; chùa Diên Khánh xếp hạng năm 1989.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00676"
+  }
+}

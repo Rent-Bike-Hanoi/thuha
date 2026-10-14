@@ -1,0 +1,158 @@
+{
+  "writer": "writer-G",
+  "queued": "2026-10-14T05:09:20.865013+00:00",
+  "topic": {
+    "topic_id": "TM-00673",
+    "url": "/du-lich/chua-phuc-khanh/",
+    "title": "Chùa Phúc Khánh ngã tư Sở: lịch sử, cổ vật, lễ cầu an và gửi xe",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa phúc khánh",
+    "secondary_keywords": [
+      "chùa sở",
+      "tổ đình phúc khánh",
+      "chùa phúc khánh tây sơn",
+      "lễ cầu an chùa phúc khánh",
+      "gửi xe chùa phúc khánh"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi lễ cầu an đầu năm ở chùa Phúc Khánh cần biết lịch sử chùa, chuyện 'dâng sao giải hạn' và gửi xe ở đâu cho đúng quy định.",
+    "information_gain": "Site chưa có bài về chùa Phúc Khánh. /du-lich/chua-lang/ và /du-lich/chua-boc/ là chùa khác ở Đống Đa. Bài mới bổ sung: địa chỉ 382 Tây Sơn, tên chùa Sở, xếp hạng 1988, cổ vật (21 bia, chuông 1796, tượng thời Tây Sơn), quan điểm nhà chùa chỉ làm lễ cầu an (không 'giá' 150.000đ), và các điểm trông xe miễn phí do công an phường bố trí dịp đầu năm 2026 cách chùa khoảng 300 m.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Ph%C3%BAc_Kh%C3%A1nh",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): chùa Phúc Khánh còn gọi chùa Sở, số 382 phố Tây Sơn, phường Đống Đa; Bộ VHTT công nhận di tích quốc gia năm 1988; dựng thời Hậu Lê, từng là cơ sở đào tạo tăng tài; trùng tu 1853, 1921, 1932, 1935, 1940, 1993, 1996, 1998; 20 pho tượng, 21 bia (cổ nhất 1698), 3 đại hồng chung (cổ nhất 1796), 14 bộ cửa võng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/doc-dao-ngoi-to-dinh-luu-giu-nhieu-co-vat-va-di-san-tam-linh-o-ha-noi-2430208.html",
+        "quote": "VietNamNet (đọc 14/10/2026): năm 1988 Tổ đình Phúc Khánh được công nhận di tích quốc gia; khoảng 21 bia, bia cổ nhất dựng năm 1693; bia sân nhà Tổ dựng năm 1940 ghi năm 1897 dân làng thỉnh tổ chùa Liên Phái cử Hòa thượng về trụ trì; tượng Cửu Long, Quan Âm, A Di Đà Tam tôn…, nhiều tượng có thể từ thời Tây Sơn; đại hồng chung đúc năm 1796.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/chua-phuc-khanh-khong-ra-gia-cung-dang-sao-giai-han-chi-lam-le-cau-an-20240223210126097.htm",
+        "quote": "Tuổi Trẻ (đọc 14/10/2026): tối 23/2/2024 chùa có khóa lễ cầu an; phó trụ trì khẳng định chùa chỉ làm lễ cầu an, không dâng sao giải hạn, không quy định 'giá' 150.000 đồng/người, phật tử tùy tâm; nghi thức tụng kinh Dược sư hoặc Phổ môn, lễ chay hương hoa oản quả; đầu năm đó trên 10.000 người đăng ký cầu an.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/ban-doc/dong-khach-le-chua-phat-sinh-bat-cap-khi-gui-xe-tai-chua-phuc-khanh-20260223142653787.htm",
+        "quote": "Dân trí (23/2/2026, đọc 14/10/2026): Công an phường Đống Đa tổ chức điểm trông giữ xe miễn phí cách chùa khoảng 300 m: số 420 Tây Sơn, vườn hoa Ngã Tư Sở, Mipec 299 Tây Sơn, đầu ngã tư Tây Sơn – Thái Thịnh; lực lượng phân luồng 7h–21h; vẫn có điểm trông xe trái phép thu 20.000 đồng/lượt xe máy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa phúc khánh"
+      }
+    ],
+    "notes": "Mâu thuẫn: bia cổ nhất 1698 (Wikipedia) vs 1693 (VietNamNet). Điểm giữ xe miễn phí là bố trí dịp đầu năm 2026, không chắc áp dụng quanh năm — writer phải ghi rõ thời điểm. Trang dongda.hanoi.gov.vn không tải được (connection reset), đã bỏ. Tránh viết như khuyến khích dâng sao.",
+    "outline": [
+      "Chùa Phúc Khánh (chùa Sở) ở đâu",
+      "Lịch sử: từ thời Hậu Lê đến trùng tu 1940",
+      "Cổ vật: bia đá, chuông 1796, tượng",
+      "Lễ cầu an đầu năm: nhà chùa nói gì",
+      "Gửi xe máy dịp đông: điểm miễn phí, tránh trông xe trái phép",
+      "Lưu ý giờ cao điểm ở ngã tư Sở"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-lang/",
+      "/du-lich/chua-boc/",
+      "/du-lich/chua-lien-phai/",
+      "/du-lich/gui-xe-may-ga-metro-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00673.json",
+  "draft_template": {
+    "id": "TM-00673",
+    "url": "/du-lich/chua-phuc-khanh/",
+    "title": "Chùa Phúc Khánh ngã tư Sở: lịch sử, cổ vật, lễ cầu an và gửi xe",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa phúc khánh, chùa sở, tổ đình phúc khánh, chùa phúc khánh tây sơn, lễ cầu an chùa phúc khánh, gửi xe chùa phúc khánh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Phúc Khánh (chùa Sở) ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: từ thời Hậu Lê đến trùng tu 1940",
+        "<p></p>"
+      ],
+      [
+        "Cổ vật: bia đá, chuông 1796, tượng",
+        "<p></p>"
+      ],
+      [
+        "Lễ cầu an đầu năm: nhà chùa nói gì",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe máy dịp đông: điểm miễn phí, tránh trông xe trái phép",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý giờ cao điểm ở ngã tư Sở",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vi.wikipedia.org/wiki/Ch%C3%B9a_Ph%C3%BAc_Kh%C3%A1nh",
+        "quote": "Wikipedia tiếng Việt (đọc 14/10/2026): chùa Phúc Khánh còn gọi chùa Sở, số 382 phố Tây Sơn, phường Đống Đa; Bộ VHTT công nhận di tích quốc gia năm 1988; dựng thời Hậu Lê, từng là cơ sở đào tạo tăng tài; trùng tu 1853, 1921, 1932, 1935, 1940, 1993, 1996, 1998; 20 pho tượng, 21 bia (cổ nhất 1698), 3 đại hồng chung (cổ nhất 1796), 14 bộ cửa võng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/doc-dao-ngoi-to-dinh-luu-giu-nhieu-co-vat-va-di-san-tam-linh-o-ha-noi-2430208.html",
+        "quote": "VietNamNet (đọc 14/10/2026): năm 1988 Tổ đình Phúc Khánh được công nhận di tích quốc gia; khoảng 21 bia, bia cổ nhất dựng năm 1693; bia sân nhà Tổ dựng năm 1940 ghi năm 1897 dân làng thỉnh tổ chùa Liên Phái cử Hòa thượng về trụ trì; tượng Cửu Long, Quan Âm, A Di Đà Tam tôn…, nhiều tượng có thể từ thời Tây Sơn; đại hồng chung đúc năm 1796.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/chua-phuc-khanh-khong-ra-gia-cung-dang-sao-giai-han-chi-lam-le-cau-an-20240223210126097.htm",
+        "quote": "Tuổi Trẻ (đọc 14/10/2026): tối 23/2/2024 chùa có khóa lễ cầu an; phó trụ trì khẳng định chùa chỉ làm lễ cầu an, không dâng sao giải hạn, không quy định 'giá' 150.000 đồng/người, phật tử tùy tâm; nghi thức tụng kinh Dược sư hoặc Phổ môn, lễ chay hương hoa oản quả; đầu năm đó trên 10.000 người đăng ký cầu an.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/ban-doc/dong-khach-le-chua-phat-sinh-bat-cap-khi-gui-xe-tai-chua-phuc-khanh-20260223142653787.htm",
+        "quote": "Dân trí (23/2/2026, đọc 14/10/2026): Công an phường Đống Đa tổ chức điểm trông giữ xe miễn phí cách chùa khoảng 300 m: số 420 Tây Sơn, vườn hoa Ngã Tư Sở, Mipec 299 Tây Sơn, đầu ngã tư Tây Sơn – Thái Thịnh; lực lượng phân luồng 7h–21h; vẫn có điểm trông xe trái phép thu 20.000 đồng/lượt xe máy.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00673"
+  }
+}

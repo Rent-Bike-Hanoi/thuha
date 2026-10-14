@@ -1,0 +1,144 @@
+{
+  "writer": "writer-H",
+  "queued": "2026-10-14T05:09:21.078135+00:00",
+  "topic": {
+    "topic_id": "TM-00674",
+    "url": "/du-lich/dinh-yen-phu/",
+    "title": "Đình Yên Phụ bên Hồ Tây: thờ Uy Linh Lang, 78 sắc phong, hội 10 tháng Hai",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình yên phụ",
+    "secondary_keywords": [
+      "lễ hội đình yên phụ",
+      "đình yên phụ tây hồ",
+      "uy linh lang",
+      "hội thi chim vành khuyên yên phụ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người dạo Hồ Tây và người yêu lễ hội làng muốn biết đình Yên Phụ thờ ai, kiến trúc có gì lạ và lễ hội diễn ra khi nào.",
+    "information_gain": "Site chưa có bài về đình Yên Phụ (tên 'Yên Phụ' chỉ xuất hiện như tên đường trong các bài khác). /du-lich/ha-noi/vong-ho-tay-xe-may/ chỉ liệt kê điểm dừng, /du-lich/chua-tran-quoc/ là điểm rước nước. Bài mới bổ sung: ba vị thành hoàng Uy Linh Lang, kiến trúc nhà dọc quay hướng Bắc, chuông 1842, 78 sắc phong (cổ nhất 1619), xếp hạng 27/02/1986, hội 10/2 âm lịch với rước tới chùa Trấn Quốc 3 năm/lần và thi chim vành khuyên.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/17872/le-hoi-djinh-yen-phu-mot-net-djep-van-hoa-truyen-thong-cua-thu-djo-ha-noi.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): đình trên doi đất nhô ra Hồ Tây, thờ Uy Linh Lang, Vương Duy, Vương Ba đại vương; cấu trúc nhà dọc quay hướng Bắc, cổng tứ trụ, đại đình chữ đinh; chuông đồng thời Thiệu Trị (1842) khi đổi tên Yên Phụ; 78 đạo sắc phong, cổ nhất năm Vĩnh Tộ (1619); xếp hạng quốc gia 27/02/1986; hội ngày 10/2 âm lịch; trùng tu lớn năm 2006.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-yen-phu-quan-tay-ho-74816.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): thời Lê là phường Yên Hoa, thời Thiệu Trị (1840–1846) kiêng húy đổi thành Yên Phụ; ba vị thành hoàng là ba anh em; theo thần phả Uy Linh Lang là con hoàng hậu Minh Đức đời Trần Thánh Tông, đánh quân Nguyên ở Bàn Than; đình bằng gỗ lim, chạm khắc phong cách thế kỷ XVII; hậu cung 3 gian.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/net-dep-truyen-thong-le-hoi-dinh-yen-phu-661188.html",
+        "quote": "Hànộimới – Nhịp sống Hà Nội (đọc 14/10/2026): lễ hội 10/2 âm lịch hằng năm; múa rồng, rước kiệu dọc phố Yên Phụ, đường Thanh Niên tới chùa Trấn Quốc thỉnh nước tắm tượng, theo lệ 3 năm một lần; trò chơi cờ người, chọi gà, chọi chim, bơi thuyền; hội thi 'Tiếng hót chim vành khuyên'; năm 2024 UBND phường khai hội ngày 19/3.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình yên phụ"
+      }
+    ],
+    "notes": "Mâu thuẫn: Uy Linh Lang là con vua Trần Thánh Tông (thần phả đình Yên Phụ) vs con thứ bảy Trần Nhân Tông (nguồn chùa Tảo Sách); năm mất Bính Tý vs Canh Tý (1300) giữa các nguồn. Trang tayho360.vn chỉ trả 112 byte, đã bỏ. Năm rước lớn kế tiếp (chu kỳ 3 năm) không có nguồn — không ghi năm cụ thể.",
+    "outline": [
+      "Đình Yên Phụ ở đâu trên bờ Hồ Tây",
+      "Uy Linh Lang và ba vị thành hoàng",
+      "Kiến trúc nhà dọc hướng Bắc, chuông 1842",
+      "Sắc phong và xếp hạng di tích",
+      "Lễ hội 10 tháng Hai: rước nước chùa Trấn Quốc, thi chim",
+      "Ghép vào vòng Hồ Tây bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/den-quan-thanh/",
+      "/du-lich/phu-tay-ho/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00674.json",
+  "draft_template": {
+    "id": "TM-00674",
+    "url": "/du-lich/dinh-yen-phu/",
+    "title": "Đình Yên Phụ bên Hồ Tây: thờ Uy Linh Lang, 78 sắc phong, hội 10 tháng Hai",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình yên phụ, lễ hội đình yên phụ, đình yên phụ tây hồ, uy linh lang, hội thi chim vành khuyên yên phụ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Yên Phụ ở đâu trên bờ Hồ Tây",
+        "<p></p>"
+      ],
+      [
+        "Uy Linh Lang và ba vị thành hoàng",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc nhà dọc hướng Bắc, chuông 1842",
+        "<p></p>"
+      ],
+      [
+        "Sắc phong và xếp hạng di tích",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 10 tháng Hai: rước nước chùa Trấn Quốc, thi chim",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào vòng Hồ Tây bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/17872/le-hoi-djinh-yen-phu-mot-net-djep-van-hoa-truyen-thong-cua-thu-djo-ha-noi.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): đình trên doi đất nhô ra Hồ Tây, thờ Uy Linh Lang, Vương Duy, Vương Ba đại vương; cấu trúc nhà dọc quay hướng Bắc, cổng tứ trụ, đại đình chữ đinh; chuông đồng thời Thiệu Trị (1842) khi đổi tên Yên Phụ; 78 đạo sắc phong, cổ nhất năm Vĩnh Tộ (1619); xếp hạng quốc gia 27/02/1986; hội ngày 10/2 âm lịch; trùng tu lớn năm 2006.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/dinh-yen-phu-quan-tay-ho-74816.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): thời Lê là phường Yên Hoa, thời Thiệu Trị (1840–1846) kiêng húy đổi thành Yên Phụ; ba vị thành hoàng là ba anh em; theo thần phả Uy Linh Lang là con hoàng hậu Minh Đức đời Trần Thánh Tông, đánh quân Nguyên ở Bàn Than; đình bằng gỗ lim, chạm khắc phong cách thế kỷ XVII; hậu cung 3 gian.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/net-dep-truyen-thong-le-hoi-dinh-yen-phu-661188.html",
+        "quote": "Hànộimới – Nhịp sống Hà Nội (đọc 14/10/2026): lễ hội 10/2 âm lịch hằng năm; múa rồng, rước kiệu dọc phố Yên Phụ, đường Thanh Niên tới chùa Trấn Quốc thỉnh nước tắm tượng, theo lệ 3 năm một lần; trò chơi cờ người, chọi gà, chọi chim, bơi thuyền; hội thi 'Tiếng hót chim vành khuyên'; năm 2024 UBND phường khai hội ngày 19/3.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00674"
+  }
+}

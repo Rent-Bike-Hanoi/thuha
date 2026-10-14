@@ -1,0 +1,157 @@
+{
+  "writer": "writer-I",
+  "queued": "2026-10-14T05:09:22.318492+00:00",
+  "topic": {
+    "topic_id": "TM-00681",
+    "url": "/du-lich/chua-thanh-chua-cau-giay/",
+    "title": "Chùa Thánh Chúa Cầu Giấy: chùa 'hai vua tôn thờ', hội 25 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa thánh chúa",
+    "secondary_keywords": [
+      "chùa thánh chúa cầu giấy",
+      "chùa thánh chúa dịch vọng hậu",
+      "chùa thánh chúa ỷ lan",
+      "chùa trong đại học sư phạm"
+    ],
+    "intent": "informational",
+    "user_problem": "Sinh viên khu Xuân Thủy và người đi lễ muốn biết chùa Thánh Chúa ở đâu, vì sao gắn với Ỷ Lan, vua Lý Nhân Tông, Lê Thánh Tông và hội chùa ngày nào.",
+    "information_gain": "Site đã có /du-lich/chua-ha-cau-giay/ nhưng chưa có chùa Thánh Chúa. Bài mới bổ sung: vị trí giữa khuôn viên ĐHQG và ĐH Sư phạm Hà Nội, sự tích cầu tự năm 1063 sinh vua Lý Nhân Tông và tuổi thơ vua Lê Thánh Tông, chùa chung hai làng Dịch Vọng – Mai Dịch, 77 pho tượng, xếp hạng 1989, hội 25 tháng Giêng (năm 2026 là 13/3 dương lịch).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-thanh-chua-quan-cau-giay-76777.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa thuộc phường Dịch Vọng Hậu (trước là Quan Hoa); khởi dựng thời Lý; Đại Việt sử ký toàn thư ghi năm Quý Mão (1063) vua Lý Thánh Tông 40 tuổi chưa có con trai sai chi hậu nội nhân cầu tự; có điện thờ Nguyên phi Ỷ Lan, nhà Tổ của dân làng Dịch Vọng Hậu và của làng Mai Dịch – chùa chung hai xã; tiền đường 7 gian; bộ tượng 77 pho; Bộ VHTT xếp hạng năm 1989.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/chua-thanh-chua-va-nhung-dau-tich-van-hoa-lau-doi-post8435.html",
+        "quote": "Giác Ngộ (đọc 14/10/2026): chùa nằm trong khuôn viên ĐHQG Hà Nội và ĐH Sư phạm Hà Nội; ca dao 'Ngàn năm nay có mấy chùa/Có chùa Thánh Chúa hai vua tôn thờ'; xây thời Lý, trước năm 1064, tại làng Vòng (cốm Vòng); nơi đề ra kế hoạch phục giết quan Pháp ngày 19/5/1883; xếp hạng ngày 21/1/1989; hội ngày 25 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/chuyen-ve-ngoi-chua-hai-vua-ton-tho-an-minh-giua-khuon-vien-dai-hoc-o-ha-noi-2455903.html",
+        "quote": "VietNamNet (đọc 14/10/2026): chùa được coi là nơi cầu tự sinh vua Lý Nhân Tông, hơn 400 năm sau là nơi nương náu, nuôi dưỡng vua Lê Thánh Tông; mẹ vua là bà Ngô Thị Ngọc Dao (1421–1496); chùa mở cửa hằng ngày (theo TS Tạ Thị Tâm).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/phuong-cau-giay-tp-ha-noi-to-chuc-le-hoi-truyen-thong-tai-di-tich-lich-su-van-hoa-chua-thanh-chua-1030109",
+        "quote": "Báo Quân đội nhân dân (đọc 14/10/2026): sáng 13/3/2026 (25 tháng Giêng Bính Ngọ) phường Cầu Giấy tổ chức lễ hội truyền thống chùa Thánh Chúa; hằng năm hội ngày 25 tháng Giêng âm lịch tưởng niệm Nguyên phi Ỷ Lan; trò chơi cờ bỏi, bắt chạch trong chum, bịt mắt đập niêu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa thánh chúa"
+      }
+    ],
+    "notes": "Mâu thuẫn năm cầu tự: 1063 (Người Hà Nội, VietNamNet) vs 1064 (Giác Ngộ trích Toàn thư). Phường: Dịch Vọng Hậu (cũ) vs phường Cầu Giấy (sau sáp nhập 2025, QĐND). 'Mở cửa hằng ngày' là lời một nhà nghiên cứu, không phải thông báo chính thức; không có giờ cụ thể. Vào chùa có thể phải qua cổng trường — chưa có nguồn, không khẳng định. phatgiao.org.vn tải được nhưng không dùng.",
+    "outline": [
+      "Chùa Thánh Chúa ở đâu giữa khu đại học",
+      "Sự tích cầu tự năm 1063 và Nguyên phi Ỷ Lan",
+      "Vua Lê Thánh Tông và câu ca 'hai vua tôn thờ'",
+      "Chùa chung của Dịch Vọng và Mai Dịch: kiến trúc, 77 pho tượng",
+      "Lễ hội 25 tháng Giêng",
+      "Lưu ý khi đến (giờ, ra vào khu trường)"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-ha-cau-giay/",
+      "/du-lich/cong-vien-cau-giay/",
+      "/du-lich/cong-vien-nghia-do/",
+      "/du-lich/bao-tang-dan-toc-hoc-viet-nam/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00681.json",
+  "draft_template": {
+    "id": "TM-00681",
+    "url": "/du-lich/chua-thanh-chua-cau-giay/",
+    "title": "Chùa Thánh Chúa Cầu Giấy: chùa 'hai vua tôn thờ', hội 25 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa thánh chúa, chùa thánh chúa cầu giấy, chùa thánh chúa dịch vọng hậu, chùa thánh chúa ỷ lan, chùa trong đại học sư phạm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Thánh Chúa ở đâu giữa khu đại học",
+        "<p></p>"
+      ],
+      [
+        "Sự tích cầu tự năm 1063 và Nguyên phi Ỷ Lan",
+        "<p></p>"
+      ],
+      [
+        "Vua Lê Thánh Tông và câu ca 'hai vua tôn thờ'",
+        "<p></p>"
+      ],
+      [
+        "Chùa chung của Dịch Vọng và Mai Dịch: kiến trúc, 77 pho tượng",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 25 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đến (giờ, ra vào khu trường)",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-thanh-chua-quan-cau-giay-76777.html",
+        "quote": "Người Hà Nội (đọc 14/10/2026): chùa thuộc phường Dịch Vọng Hậu (trước là Quan Hoa); khởi dựng thời Lý; Đại Việt sử ký toàn thư ghi năm Quý Mão (1063) vua Lý Thánh Tông 40 tuổi chưa có con trai sai chi hậu nội nhân cầu tự; có điện thờ Nguyên phi Ỷ Lan, nhà Tổ của dân làng Dịch Vọng Hậu và của làng Mai Dịch – chùa chung hai xã; tiền đường 7 gian; bộ tượng 77 pho; Bộ VHTT xếp hạng năm 1989.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/chua-thanh-chua-va-nhung-dau-tich-van-hoa-lau-doi-post8435.html",
+        "quote": "Giác Ngộ (đọc 14/10/2026): chùa nằm trong khuôn viên ĐHQG Hà Nội và ĐH Sư phạm Hà Nội; ca dao 'Ngàn năm nay có mấy chùa/Có chùa Thánh Chúa hai vua tôn thờ'; xây thời Lý, trước năm 1064, tại làng Vòng (cốm Vòng); nơi đề ra kế hoạch phục giết quan Pháp ngày 19/5/1883; xếp hạng ngày 21/1/1989; hội ngày 25 tháng Giêng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/chuyen-ve-ngoi-chua-hai-vua-ton-tho-an-minh-giua-khuon-vien-dai-hoc-o-ha-noi-2455903.html",
+        "quote": "VietNamNet (đọc 14/10/2026): chùa được coi là nơi cầu tự sinh vua Lý Nhân Tông, hơn 400 năm sau là nơi nương náu, nuôi dưỡng vua Lê Thánh Tông; mẹ vua là bà Ngô Thị Ngọc Dao (1421–1496); chùa mở cửa hằng ngày (theo TS Tạ Thị Tâm).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/phuong-cau-giay-tp-ha-noi-to-chuc-le-hoi-truyen-thong-tai-di-tich-lich-su-van-hoa-chua-thanh-chua-1030109",
+        "quote": "Báo Quân đội nhân dân (đọc 14/10/2026): sáng 13/3/2026 (25 tháng Giêng Bính Ngọ) phường Cầu Giấy tổ chức lễ hội truyền thống chùa Thánh Chúa; hằng năm hội ngày 25 tháng Giêng âm lịch tưởng niệm Nguyên phi Ỷ Lan; trò chơi cờ bỏi, bắt chạch trong chum, bịt mắt đập niêu.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00681"
+  }
+}
