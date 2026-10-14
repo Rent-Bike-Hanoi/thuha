@@ -1,0 +1,158 @@
+{
+  "writer": "writer-K1",
+  "queued": "2026-10-14T15:18:08.701774+00:00",
+  "topic": {
+    "topic_id": "TM-00853",
+    "url": "/du-lich/dinh-le-mat-long-bien/",
+    "title": "Đình Lệ Mật Long Biên: hội 23 tháng Ba, 13 trại Thăng Long về dâng lễ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình lệ mật",
+    "secondary_keywords": [
+      "lễ hội lệ mật",
+      "làng rắn lệ mật",
+      "thập tam trại",
+      "hội làng lệ mật tháng ba"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Long Biên hoặc khách muốn dự hội làng Lệ Mật cần biết đình thờ ai, hội ngày nào, nghi lễ chính (rước nước, đả ngư, múa Giảo Long) và vì sao dân 13 trại phía tây Hồ Tây về đây dâng lễ.",
+    "information_gain": "Site chưa có bài nào về Lệ Mật. Gần nhất là /du-lich/ha-noi/ (tổng quan Hà Nội), /du-lich/den-voi-phuc/ (Thủ Lệ, một trong 13 trại) và /du-lich/ha-noi/cau-long-bien/. Bài mới nêu riêng: Thành hoàng họ Hoàng và tích đánh thủy quái thời Lý Thái Tông, ngày chính hội 23/3 âm lịch (hội 20–24/3), các nghi lễ rước nước giếng Ngọc, rước cá chép, đả ngư, múa Giảo Long, đoàn rước của Thập Tam Trại (năm 2013 trên 1.800 người), và đình thời Nguyễn bên bờ nam sông Đuống — điểm gần cửa hàng ở Bồ Đề.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/lang-ran-le-mat-va-le-hoi-mua-xuan-a153274.html",
+        "quote": "Tạp chí Luật sư Việt Nam (LSVN), 2/2/2025 (đọc 14/10/2026): tương truyền đời Lý Thái Tông (1028–1054) chàng trai họ Hoàng ở Lệ Mật đánh thủy quái trên sông Thiên Đức (sông Đuống), đưa thi hài công chúa lên bờ, từ chối ban thưởng, xin đưa dân nghèo sang khai khẩn đất phía tây kinh thành, thành 13 làng trại (Thập Tam Trại, nay thuộc Tây Hồ và Ba Đình); Lệ Mật nằm giữa QL1A và QL5, phường Việt Hưng, quận Long Biên, cách trung tâm khoảng 7 km; đình thờ Đức thánh Hoàng ở rìa phía nam làng, bên bờ nam sông Đuống, kiến trúc thời Nguyễn, còn khá nguyên vẹn, có ao đình, sân rộng; chính hội 23 tháng Ba âm lịch, có đánh cá ở ao đình, múc nước giếng đình, diễn tích chàng trai họ Hoàng chém thủy quái.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-le-mat-van-hoa-nho-nguon-post146534.html",
+        "quote": "Báo Pháp luật Việt Nam, 27/4/2011 (đọc 14/10/2026): làng Lệ Mật (phường Việt Hưng, Long Biên) cách giữa cầu Long Biên chừng 2,5 km về hướng đông; Vua Lý phong Thành hoàng, lấy ngày 23 tháng 3 âm lịch làm ngày hội; phần lễ bắt đầu từ sáng 20-3 âm lịch, có rước Văn và rước Nước từ Giếng Ngọc lên đình; đoàn rước 16 làng trại (3 làng tách từ Thập Tam Trại); phần hội có múa 'Đả Giảo long cứu Công chúa', đả ngư dưới giếng Ngọc, chọi gà, chọi chim; làng nghề rắn nuôi rắn thuần hóa chứ không bắt từ tự nhiên; hội kéo dài 3 ngày đêm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/mua-ran-o-hoi-lang-le-mat-3214737.html",
+        "quote": "VnExpress Du lịch (bài ảnh, không ghi rõ ngày; đọc 14/10/2026): làng Lệ Mật (khi đó ghi 'xã Việt Hưng, huyện Gia Lâm') mở hội từ 20 đến 24/3 âm lịch; phần lễ gồm rước nước từ giếng làng, rước cá chép vào đình Thánh, rước cỗ của 13 trại về dâng thần; nổi bật là múa Giảo Long và lễ Đả ngư; con rắn (thủy quái) làm bằng nan tre lợp vải; đoàn trại Ngọc Hà gánh hoa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/van-hoa-the-thao-BE2162E3A/thanh-kinh-le-tri-an-nguon-coi-cua-thap-tam-trai-thang-long-4CA037FE.html",
+        "quote": "Báo Thanh tra, 2/5/2013 (đọc 14/10/2026): ngày 2/5/2013 (23/3 âm lịch) chính hội làng Lệ Mật, cũng là lễ tri ân nguồn cội của 13 trại phía tây kinh thành; năm đó tròn 970 năm vua Lý Thái Tông cho dân Lệ Mật lập trại, lễ dâng Thánh có trên 1.800 người tham dự; các trại có phường bát âm, múa sinh tiền, múa đánh bồng; trại Ngọc Hà mang gánh hoa tươi dâng Thánh; các trại lập Ban chấp hành thập tam trại, mỗi năm phân công một làng dẫn đầu đoàn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đình lệ mật"
+      }
+    ],
+    "notes": "Mâu thuẫn: tên vị thần ghi 'chàng trai họ Hoàng', 'Hoàng Quý Công' và có chỗ 'Nguyễn Quý Công' (Thanh tra); danh sách 13 trại khác nhau giữa các bài (Vạn Phúc/Vạn Bảo, Hữu Tiên/Hữu Tiệp) — viết 'theo bài X' và không liệt kê cứng. 'Làng rắn' và nhà hàng thịt rắn: không quảng bá ăn động vật hoang dã; chỉ nêu là nghề truyền thống, nhấn mạnh rắn nuôi (theo PLVN 2011), không nêu giá. Chưa xác minh: xếp hạng di tích của đình (không trang nào nêu), đơn vị hành chính sau sắp xếp 7/2025 (bài cũ ghi phường Việt Hưng, quận Long Biên) — viết 'khu Việt Hưng cũ'. Lịch hội năm 2027 theo dương lịch: chưa có nguồn, không quy đổi.",
+    "outline": [
+      "Đình Lệ Mật ở đâu, thờ ai",
+      "Tích chàng trai họ Hoàng và Thập Tam Trại",
+      "Lịch hội: 20–24 tháng Ba, chính hội 23 tháng Ba",
+      "Nghi lễ đáng xem: rước nước, đả ngư, múa Giảo Long, đoàn rước các trại",
+      "Làng rắn: nghề truyền thống và lưu ý khi đến",
+      "Đi xe máy từ Bồ Đề, gửi xe ngày hội"
+    ],
+    "suggested_internal_links": [
+      "/thue-xe-may/long-bien/",
+      "/du-lich/den-voi-phuc/",
+      "/du-lich/ha-noi/cau-long-bien/",
+      "/du-lich/chua-bo-de-long-bien/",
+      "/du-lich/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00853.json",
+  "draft_template": {
+    "id": "TM-00853",
+    "url": "/du-lich/dinh-le-mat-long-bien/",
+    "title": "Đình Lệ Mật Long Biên: hội 23 tháng Ba, 13 trại Thăng Long về dâng lễ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình lệ mật, lễ hội lệ mật, làng rắn lệ mật, thập tam trại, hội làng lệ mật tháng ba",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Lệ Mật ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Tích chàng trai họ Hoàng và Thập Tam Trại",
+        "<p></p>"
+      ],
+      [
+        "Lịch hội: 20–24 tháng Ba, chính hội 23 tháng Ba",
+        "<p></p>"
+      ],
+      [
+        "Nghi lễ đáng xem: rước nước, đả ngư, múa Giảo Long, đoàn rước các trại",
+        "<p></p>"
+      ],
+      [
+        "Làng rắn: nghề truyền thống và lưu ý khi đến",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Bồ Đề, gửi xe ngày hội",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/lang-ran-le-mat-va-le-hoi-mua-xuan-a153274.html",
+        "quote": "Tạp chí Luật sư Việt Nam (LSVN), 2/2/2025 (đọc 14/10/2026): tương truyền đời Lý Thái Tông (1028–1054) chàng trai họ Hoàng ở Lệ Mật đánh thủy quái trên sông Thiên Đức (sông Đuống), đưa thi hài công chúa lên bờ, từ chối ban thưởng, xin đưa dân nghèo sang khai khẩn đất phía tây kinh thành, thành 13 làng trại (Thập Tam Trại, nay thuộc Tây Hồ và Ba Đình); Lệ Mật nằm giữa QL1A và QL5, phường Việt Hưng, quận Long Biên, cách trung tâm khoảng 7 km; đình thờ Đức thánh Hoàng ở rìa phía nam làng, bên bờ nam sông Đuống, kiến trúc thời Nguyễn, còn khá nguyên vẹn, có ao đình, sân rộng; chính hội 23 tháng Ba âm lịch, có đánh cá ở ao đình, múc nước giếng đình, diễn tích chàng trai họ Hoàng chém thủy quái.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-le-mat-van-hoa-nho-nguon-post146534.html",
+        "quote": "Báo Pháp luật Việt Nam, 27/4/2011 (đọc 14/10/2026): làng Lệ Mật (phường Việt Hưng, Long Biên) cách giữa cầu Long Biên chừng 2,5 km về hướng đông; Vua Lý phong Thành hoàng, lấy ngày 23 tháng 3 âm lịch làm ngày hội; phần lễ bắt đầu từ sáng 20-3 âm lịch, có rước Văn và rước Nước từ Giếng Ngọc lên đình; đoàn rước 16 làng trại (3 làng tách từ Thập Tam Trại); phần hội có múa 'Đả Giảo long cứu Công chúa', đả ngư dưới giếng Ngọc, chọi gà, chọi chim; làng nghề rắn nuôi rắn thuần hóa chứ không bắt từ tự nhiên; hội kéo dài 3 ngày đêm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/mua-ran-o-hoi-lang-le-mat-3214737.html",
+        "quote": "VnExpress Du lịch (bài ảnh, không ghi rõ ngày; đọc 14/10/2026): làng Lệ Mật (khi đó ghi 'xã Việt Hưng, huyện Gia Lâm') mở hội từ 20 đến 24/3 âm lịch; phần lễ gồm rước nước từ giếng làng, rước cá chép vào đình Thánh, rước cỗ của 13 trại về dâng thần; nổi bật là múa Giảo Long và lễ Đả ngư; con rắn (thủy quái) làm bằng nan tre lợp vải; đoàn trại Ngọc Hà gánh hoa.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/van-hoa-the-thao-BE2162E3A/thanh-kinh-le-tri-an-nguon-coi-cua-thap-tam-trai-thang-long-4CA037FE.html",
+        "quote": "Báo Thanh tra, 2/5/2013 (đọc 14/10/2026): ngày 2/5/2013 (23/3 âm lịch) chính hội làng Lệ Mật, cũng là lễ tri ân nguồn cội của 13 trại phía tây kinh thành; năm đó tròn 970 năm vua Lý Thái Tông cho dân Lệ Mật lập trại, lễ dâng Thánh có trên 1.800 người tham dự; các trại có phường bát âm, múa sinh tiền, múa đánh bồng; trại Ngọc Hà mang gánh hoa tươi dâng Thánh; các trại lập Ban chấp hành thập tam trại, mỗi năm phân công một làng dẫn đầu đoàn.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00853"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-K2",
+  "queued": "2026-10-14T15:18:09.765311+00:00",
+  "topic": {
+    "topic_id": "TM-00857",
+    "url": "/du-lich/tranh-kim-hoang-hoai-duc/",
+    "title": "Tranh Kim Hoàng Hoài Đức: dòng 'tranh đỏ' thất truyền được phục dựng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "tranh kim hoàng",
+    "secondary_keywords": [
+      "làng tranh kim hoàng",
+      "tranh đỏ kim hoàng",
+      "tranh dân gian kim hoàng vân canh",
+      "tranh tết kim hoàng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người yêu tranh dân gian muốn biết tranh Kim Hoàng là gì, khác Đông Hồ và Hàng Trống ra sao, vì sao thất truyền và nay xem, mua ở đâu.",
+    "information_gain": "Site chưa có bài nào về tranh dân gian Kim Hoàng. Gần nhất là /du-lich/bao-tang-my-thuat-viet-nam/ (nơi giữ ván in) và /du-lich/lang-lua-van-phuc/ (làng nghề phía tây). Bài mới giải thích: tranh in trên giấy nhuộm đỏ, có thơ đề và bùa trấn tà, hình thành nửa sau thế kỷ 18 ở làng Kim Hoàng (Vân Canh), thất truyền (năm 1915 hay sau 1945 — hai nguồn khác nhau), dự án phục hồi từ 2016, ba người giữ nghề, 20 mẫu mới từ chạm khắc đình, sách của nhà sưu tầm Nguyễn Thị Thu Hòa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/hoi-sinh-dong-tranh-do-that-truyen-suot-7-thap-ky-tren-dat-kinh-ky-post387619.html",
+        "quote": "Báo Pháp luật Việt Nam, 2/4/2021 (đọc 14/10/2026): 'Dự án phục hồi tranh Kim Hoàng' do nhà sưu tầm Nguyễn Thị Thu Hòa khởi xướng, triển khai từ năm 2016; Giám đốc Bảo tàng Gốm sứ Hà Nội cho biết dòng tranh sau năm 1945 hoàn toàn thất truyền, chứng tích ở xã Vân Canh gần như biến mất; tranh có thơ đề và bùa trấn tà ma (Hàng Trống, Đông Hồ không có); họa sĩ Nguyễn Đức Hòa, Trần Nguyên Đán thiết kế thêm 20 mẫu dựa trên chạm khắc đình làng; hiện ba người theo dòng tranh: ông Nguyễn Sĩ Tiến, anh Đào Đình Trung, họa sĩ Xuân Như; tranh bán ở phố ông đồ Văn Miếu dịp xuân.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/no-luc-giup-tranh-dan-gian-viet-nam-song-mai-1162621.htm",
+        "quote": "Báo Tuổi Trẻ, 29/8/2016 (đọc 14/10/2026): dòng tranh Kim Hoàng của làng Kim Hoàng, Vân Canh, Hoài Đức đã thất truyền từ năm 1915 khi làng ngập trắng, nhiều ván in bị cuốn trôi; nay chỉ còn một số ván in tại Bảo tàng Mỹ thuật Việt Nam; triển lãm hơn 200 bức tranh và hiện vật của 12 dòng tranh dân gian.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1298517/collector-launches-new-book-on-folk-painting.html",
+        "quote": "Việt Nam News (VNS), bài phỏng vấn (đọc 14/10/2026): nhà sưu tầm Nguyễn Thị Thu Hòa ra bản mới sách 'Tranh dân gian Kim Hoàng', bản đầu năm 2019; tranh hình thành nửa sau thế kỷ 18 ở làng Kim Hoàng, xã Vân Canh, huyện Hoài Đức; in trên giấy nhuộm đỏ trước; tham khảo sách tranh dân gian của Maurice Durand xuất bản năm 1960.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "tranh kim hoàng"
+      }
+    ],
+    "notes": "Mâu thuẫn mốc thất truyền: 1915 (Tuổi Trẻ 2016) vs 'sau năm 1945' (PLVN 2021) — nêu cả hai. Mốc bắt đầu phục hồi: 2016 (PLVN); tóm tắt tìm kiếm có nói 2015 nhưng không đọc được trên trang — dùng 2016. Chưa xác minh có xưởng/điểm tham quan cố định ở làng Kim Hoàng hiện nay — không hướng dẫn 'đến làng xem in tranh' như điều chắc chắn; nói nơi có thể xem là Bảo tàng Mỹ thuật (ván in) và phố ông đồ dịp Tết theo bài 2021. Hành chính sau 7/2025 chưa xác minh.",
+    "outline": [
+      "Tranh Kim Hoàng là gì, từ đâu",
+      "Khác tranh Đông Hồ và Hàng Trống ở điểm nào",
+      "Vì sao thất truyền: hai mốc trong tư liệu",
+      "Dự án phục dựng từ 2016 và những người giữ nghề",
+      "Xem và mua tranh Kim Hoàng ở đâu",
+      "Làng Kim Hoàng (Vân Canh) đi thế nào"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-my-thuat-viet-nam/",
+      "/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/",
+      "/du-lich/lang-lua-van-phuc/",
+      "/du-lich/bao-tang-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00857.json",
+  "draft_template": {
+    "id": "TM-00857",
+    "url": "/du-lich/tranh-kim-hoang-hoai-duc/",
+    "title": "Tranh Kim Hoàng Hoài Đức: dòng 'tranh đỏ' thất truyền được phục dựng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "tranh kim hoàng, làng tranh kim hoàng, tranh đỏ kim hoàng, tranh dân gian kim hoàng vân canh, tranh tết kim hoàng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tranh Kim Hoàng là gì, từ đâu",
+        "<p></p>"
+      ],
+      [
+        "Khác tranh Đông Hồ và Hàng Trống ở điểm nào",
+        "<p></p>"
+      ],
+      [
+        "Vì sao thất truyền: hai mốc trong tư liệu",
+        "<p></p>"
+      ],
+      [
+        "Dự án phục dựng từ 2016 và những người giữ nghề",
+        "<p></p>"
+      ],
+      [
+        "Xem và mua tranh Kim Hoàng ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Làng Kim Hoàng (Vân Canh) đi thế nào",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/hoi-sinh-dong-tranh-do-that-truyen-suot-7-thap-ky-tren-dat-kinh-ky-post387619.html",
+        "quote": "Báo Pháp luật Việt Nam, 2/4/2021 (đọc 14/10/2026): 'Dự án phục hồi tranh Kim Hoàng' do nhà sưu tầm Nguyễn Thị Thu Hòa khởi xướng, triển khai từ năm 2016; Giám đốc Bảo tàng Gốm sứ Hà Nội cho biết dòng tranh sau năm 1945 hoàn toàn thất truyền, chứng tích ở xã Vân Canh gần như biến mất; tranh có thơ đề và bùa trấn tà ma (Hàng Trống, Đông Hồ không có); họa sĩ Nguyễn Đức Hòa, Trần Nguyên Đán thiết kế thêm 20 mẫu dựa trên chạm khắc đình làng; hiện ba người theo dòng tranh: ông Nguyễn Sĩ Tiến, anh Đào Đình Trung, họa sĩ Xuân Như; tranh bán ở phố ông đồ Văn Miếu dịp xuân.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/no-luc-giup-tranh-dan-gian-viet-nam-song-mai-1162621.htm",
+        "quote": "Báo Tuổi Trẻ, 29/8/2016 (đọc 14/10/2026): dòng tranh Kim Hoàng của làng Kim Hoàng, Vân Canh, Hoài Đức đã thất truyền từ năm 1915 khi làng ngập trắng, nhiều ván in bị cuốn trôi; nay chỉ còn một số ván in tại Bảo tàng Mỹ thuật Việt Nam; triển lãm hơn 200 bức tranh và hiện vật của 12 dòng tranh dân gian.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1298517/collector-launches-new-book-on-folk-painting.html",
+        "quote": "Việt Nam News (VNS), bài phỏng vấn (đọc 14/10/2026): nhà sưu tầm Nguyễn Thị Thu Hòa ra bản mới sách 'Tranh dân gian Kim Hoàng', bản đầu năm 2019; tranh hình thành nửa sau thế kỷ 18 ở làng Kim Hoàng, xã Vân Canh, huyện Hoài Đức; in trên giấy nhuộm đỏ trước; tham khảo sách tranh dân gian của Maurice Durand xuất bản năm 1960.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00857"
+  }
+}
