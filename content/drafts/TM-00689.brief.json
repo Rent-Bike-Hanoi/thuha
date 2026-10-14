@@ -1,0 +1,157 @@
+{
+  "writer": "writer-L",
+  "queued": "2026-10-14T05:12:36.225841+00:00",
+  "topic": {
+    "topic_id": "TM-00689",
+    "url": "/du-lich/thac-dau-dang-ba-be/",
+    "title": "Thác Đầu Đẳng Ba Bể: thác 3 tầng, đi thuyền ngược sông Năng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác đầu đẳng ba bể",
+    "secondary_keywords": [
+      "thác đầu đẳng",
+      "thác đầu đẳng bắc kạn",
+      "sông năng ba bể",
+      "đi thuyền thác đầu đẳng"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đến hồ Ba Bể muốn thêm thác Đầu Đẳng vào chuyến đi thuyền: thác ở đâu, cách hồ bao xa, đi thế nào, có gì đáng xem.",
+    "information_gain": "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ nói đường QL3, vé thắng cảnh và đi thuyền trên hồ nhưng không nói riêng thác Đầu Đẳng. Bài mới: thác trên sông Năng giáp Bắc Kạn – Tuyên Quang, tại bản Hua Tạng, cách hồ khoảng 4 km, dài hơn 1.000 m 3 tầng (mỗi tầng 3–4 m), cá chiên, tuyến thuyền ngược sông Năng qua thác Mơ, thác Đén, và nằm trong vùng tỉnh khảo sát quy hoạch du lịch 2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ho-ba-be-4650105.html",
+        "quote": "VnExpress, Cẩm nang du lịch hồ Ba Bể (14/9/2023): thác Đầu Đẳng trên sông Năng, giữa Bắc Kạn và Tuyên Quang; sông Năng chảy qua núi Lũng Nham tạo động Puông, đến bản Húa Tạng bị hàng trăm tảng đá chặn lại thành thác; thác dài hơn 1.000 m, 3 tầng, mỗi tầng cách nhau 3–4 m; có loài cá chiên quý hiếm; thuê xuồng, kayak, SUP hoặc thuyền độc mộc, xuất phát từ bến hồ Ba Bể hoặc sông Năng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nguoc-dong-na-hang-ve-ba-be-2863946.html",
+        "quote": "VnExpress, 14/8/2013: ngược sông Năng qua thác Mơ, thác Đén và thác Đầu Đẳng, rồi thuyền xuôi về hồ Ba Bể.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://voh.com.vn/kham-pha/kham-pha-thac-dau-dang-cung-thien-nhien-hung-vi-vung-dong-bac-332003.html",
+        "quote": "VOH, 5/9/2019: thác Đầu Đẳng thuộc Vườn quốc gia Ba Bể, cách hồ Ba Bể khoảng 4 km; nằm giữa 2 dãy đá vôi trên sông Năng nối Bắc Kạn và Tuyên Quang; từ Hà Nội có thể đi xe máy theo QL3 rồi đến hồ và đi thuyền đến thác.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/khao-sat-vung-ho-ba-be-mo-huong-khai-thac-tiem-nang-du-lich-226511.html",
+        "quote": "Báo Văn hóa (5/2026): đoàn khảo sát thực địa các điểm trong quy hoạch phát triển du lịch gồm động Hua Mạ, bản Pác Ngòi, bản Cốc Tộc, Khau Qua, Nậm Dài, dọc sông Năng và thác Đầu Đẳng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác đầu đẳng ba bể"
+      }
+    ],
+    "notes": "Lưu ý hành chính: nguồn dùng tên huyện/thành phố cũ của Thái Nguyên/Bắc Kạn trước sắp xếp 2025; không tự suy tên xã/phường mới nếu không có nguồn. Mâu thuẫn kích thước: VnExpress 'dài hơn 1.000 m, 3 tầng'; các blog nêu 2 km hoặc cao 53 m — chỉ dùng số VnExpress, ghi rõ nguồn. Thời gian thuyền (45 phút?) chỉ thấy ở blog — không nêu. Không có giá thuyền chính thức 2026. Ba Bể thuộc tỉnh Thái Nguyên mới (sau sáp nhập Bắc Kạn) — chỉ thấy qua snippet, chưa đọc nguồn chính thức; viết 'Bắc Kạn cũ'.",
+    "outline": [
+      "Thác Đầu Đẳng nằm đâu so với hồ Ba Bể",
+      "Thác hình thành thế nào: động Puông, bản Hua Tạng",
+      "Đi thuyền ngược sông Năng: chọn bến, chọn loại thuyền",
+      "Thác có gì: 3 tầng, cá chiên, mùa nước",
+      "Ghép lịch với động Puông, Pác Ngòi",
+      "Lưu ý an toàn khi đi thuyền và đứng gần thác"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/atk-dinh-hoa/",
+      "/du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00689.json",
+  "draft_template": {
+    "id": "TM-00689",
+    "url": "/du-lich/thac-dau-dang-ba-be/",
+    "title": "Thác Đầu Đẳng Ba Bể: thác 3 tầng, đi thuyền ngược sông Năng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác đầu đẳng ba bể, thác đầu đẳng, thác đầu đẳng bắc kạn, sông năng ba bể, đi thuyền thác đầu đẳng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Đầu Đẳng nằm đâu so với hồ Ba Bể",
+        "<p></p>"
+      ],
+      [
+        "Thác hình thành thế nào: động Puông, bản Hua Tạng",
+        "<p></p>"
+      ],
+      [
+        "Đi thuyền ngược sông Năng: chọn bến, chọn loại thuyền",
+        "<p></p>"
+      ],
+      [
+        "Thác có gì: 3 tầng, cá chiên, mùa nước",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với động Puông, Pác Ngòi",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý an toàn khi đi thuyền và đứng gần thác",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ho-ba-be-4650105.html",
+        "quote": "VnExpress, Cẩm nang du lịch hồ Ba Bể (14/9/2023): thác Đầu Đẳng trên sông Năng, giữa Bắc Kạn và Tuyên Quang; sông Năng chảy qua núi Lũng Nham tạo động Puông, đến bản Húa Tạng bị hàng trăm tảng đá chặn lại thành thác; thác dài hơn 1.000 m, 3 tầng, mỗi tầng cách nhau 3–4 m; có loài cá chiên quý hiếm; thuê xuồng, kayak, SUP hoặc thuyền độc mộc, xuất phát từ bến hồ Ba Bể hoặc sông Năng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nguoc-dong-na-hang-ve-ba-be-2863946.html",
+        "quote": "VnExpress, 14/8/2013: ngược sông Năng qua thác Mơ, thác Đén và thác Đầu Đẳng, rồi thuyền xuôi về hồ Ba Bể.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://voh.com.vn/kham-pha/kham-pha-thac-dau-dang-cung-thien-nhien-hung-vi-vung-dong-bac-332003.html",
+        "quote": "VOH, 5/9/2019: thác Đầu Đẳng thuộc Vườn quốc gia Ba Bể, cách hồ Ba Bể khoảng 4 km; nằm giữa 2 dãy đá vôi trên sông Năng nối Bắc Kạn và Tuyên Quang; từ Hà Nội có thể đi xe máy theo QL3 rồi đến hồ và đi thuyền đến thác.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/khao-sat-vung-ho-ba-be-mo-huong-khai-thac-tiem-nang-du-lich-226511.html",
+        "quote": "Báo Văn hóa (5/2026): đoàn khảo sát thực địa các điểm trong quy hoạch phát triển du lịch gồm động Hua Mạ, bản Pác Ngòi, bản Cốc Tộc, Khau Qua, Nậm Dài, dọc sông Năng và thác Đầu Đẳng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00689"
+  }
+}

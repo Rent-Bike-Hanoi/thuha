@@ -1,0 +1,144 @@
+{
+  "writer": "writer-J",
+  "queued": "2026-10-14T05:12:34.975196+00:00",
+  "topic": {
+    "topic_id": "TM-00683",
+    "url": "/du-lich/chua-cai-bau-van-don/",
+    "title": "Chùa Cái Bầu Vân Đồn: Thiền viện Trúc Lâm Giác Tâm hướng biển, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa cái bầu vân đồn",
+    "secondary_keywords": [
+      "chùa cái bầu",
+      "thiền viện trúc lâm giác tâm",
+      "chùa cái bầu quảng ninh",
+      "chùa vân đồn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ra Vân Đồn đi tàu Quan Lạn/Cô Tô muốn ghé chùa Cái Bầu: chùa cách Cái Rồng bao xa, có ăn chay, gửi xe được không.",
+    "information_gain": "Bài /du-lich/dao-quan-lan/ và /du-lich/den-cua-ong-cam-pha/ chỉ nói cảng Ao Tiên và đền Cửa Ông; chưa có bài nào về chùa Cái Bầu. Bài mới nêu tên chính thức Thiền viện Trúc Lâm Giác Tâm, năm khánh thành 2009, vị trí gần Bãi Dài và cách trung tâm Cái Rồng khoảng 10 km, có xe buýt, cơm chay và gửi xe miễn phí theo báo, vốn xây dựng xã hội hóa — kèm cách ghép với chặng ra cảng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-diem-du-lich-tam-linh-noi-tieng-quang-ninh-2947894.html",
+        "quote": "VnExpress, 5 điểm du lịch tâm linh Quảng Ninh (2014, đọc 14/10/2026): Thiền viện Trúc Lâm Giác Tâm (chùa Cái Bầu) ở Vân Đồn khánh thành năm 2009, tựa núi hướng biển, gần khu du lịch Bãi Dài; khách được ăn cơm chay và gửi xe miễn phí; cách trung tâm thị trấn Cái Rồng khoảng 10 km, có thể đi xe buýt.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=667",
+        "quote": "Cổng du lịch Quảng Ninh, 'Khám phá địa chỉ du lịch tâm linh nổi tiếng ở Quảng Ninh' (theo Báo Quảng Ninh, đọc 14/10/2026): chùa Cái Bầu khánh thành năm 2009, lưng tựa núi mặt hướng biển; cách Cái Rồng khoảng 10 km, đi được bằng xe buýt; khách nhỡ bữa có thể vào bếp ăn cơm chay miễn phí; Quảng Ninh có trên 600 di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/lan-toa-cac-gia-tri-phat-giao-trong-doi-song-post2335542.html",
+        "quote": "Báo Quảng Ninh, 'Lan toả các giá trị Phật giáo trong đời sống' (đọc 14/10/2026): chùa Cái Bầu - Thiền viện Trúc Lâm Giác Tâm (Vân Đồn) được xây dựng khang trang từ nguồn kinh phí xã hội hóa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa cái bầu vân đồn"
+      }
+    ],
+    "notes": "Lưu ý hành chính: theo thông tin bên giao việc, Quảng Ninh là thành phố trực thuộc trung ương từ 1/9/2026 (NQ 36/2026/QH16) — chưa tự kiểm chứng văn bản này; khi viết không gọi 'tỉnh Quảng Ninh' ở thì hiện tại, tên huyện/thị xã/xã trong nguồn là địa danh cũ trước sắp xếp. Các nguồn về cơm chay/gửi xe miễn phí là 2014–2015, có thể đã đổi: viết dạng 'theo báo năm 2014' và khuyên hỏi tại chùa. Không có giờ mở cửa. Không có nguồn về cáp treo (snippet có chữ 'cáp treo' nhưng trang không xác nhận) — không viết.",
+    "outline": [
+      "Chùa Cái Bầu là chùa nào, khánh thành khi nào",
+      "Vị trí: gần Bãi Dài, cách Cái Rồng khoảng 10 km",
+      "Đi xe máy hoặc xe buýt từ trung tâm Vân Đồn",
+      "Ăn chay, gửi xe: thông tin báo đăng và việc cần hỏi lại",
+      "Ghép với chuyến ra cảng Ao Tiên đi Quan Lạn, Cô Tô",
+      "Ứng xử khi lễ chùa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dao-quan-lan/",
+      "/du-lich/den-cua-ong-cam-pha/",
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/bien-tra-co-mong-cai/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00683.json",
+  "draft_template": {
+    "id": "TM-00683",
+    "url": "/du-lich/chua-cai-bau-van-don/",
+    "title": "Chùa Cái Bầu Vân Đồn: Thiền viện Trúc Lâm Giác Tâm hướng biển, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa cái bầu vân đồn, chùa cái bầu, thiền viện trúc lâm giác tâm, chùa cái bầu quảng ninh, chùa vân đồn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Cái Bầu là chùa nào, khánh thành khi nào",
+        "<p></p>"
+      ],
+      [
+        "Vị trí: gần Bãi Dài, cách Cái Rồng khoảng 10 km",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy hoặc xe buýt từ trung tâm Vân Đồn",
+        "<p></p>"
+      ],
+      [
+        "Ăn chay, gửi xe: thông tin báo đăng và việc cần hỏi lại",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chuyến ra cảng Ao Tiên đi Quan Lạn, Cô Tô",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi lễ chùa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/5-diem-du-lich-tam-linh-noi-tieng-quang-ninh-2947894.html",
+        "quote": "VnExpress, 5 điểm du lịch tâm linh Quảng Ninh (2014, đọc 14/10/2026): Thiền viện Trúc Lâm Giác Tâm (chùa Cái Bầu) ở Vân Đồn khánh thành năm 2009, tựa núi hướng biển, gần khu du lịch Bãi Dài; khách được ăn cơm chay và gửi xe miễn phí; cách trung tâm thị trấn Cái Rồng khoảng 10 km, có thể đi xe buýt.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=667",
+        "quote": "Cổng du lịch Quảng Ninh, 'Khám phá địa chỉ du lịch tâm linh nổi tiếng ở Quảng Ninh' (theo Báo Quảng Ninh, đọc 14/10/2026): chùa Cái Bầu khánh thành năm 2009, lưng tựa núi mặt hướng biển; cách Cái Rồng khoảng 10 km, đi được bằng xe buýt; khách nhỡ bữa có thể vào bếp ăn cơm chay miễn phí; Quảng Ninh có trên 600 di tích.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/lan-toa-cac-gia-tri-phat-giao-trong-doi-song-post2335542.html",
+        "quote": "Báo Quảng Ninh, 'Lan toả các giá trị Phật giáo trong đời sống' (đọc 14/10/2026): chùa Cái Bầu - Thiền viện Trúc Lâm Giác Tâm (Vân Đồn) được xây dựng khang trang từ nguồn kinh phí xã hội hóa.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00683"
+  }
+}

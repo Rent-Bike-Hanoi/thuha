@@ -1,0 +1,144 @@
+{
+  "writer": "writer-J",
+  "queued": "2026-10-14T05:12:34.778499+00:00",
+  "topic": {
+    "topic_id": "TM-00682",
+    "url": "/du-lich/chua-long-tien-ha-long/",
+    "title": "Chùa Long Tiên Hạ Long: chùa 1941 dưới chân núi Bài Thơ, xem gì, đi lễ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa long tiên hạ long",
+    "secondary_keywords": [
+      "chùa long tiên",
+      "chùa long tiên quảng ninh",
+      "chùa trình hạ long",
+      "chùa dưới chân núi bài thơ"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi Hạ Long bằng xe máy muốn ghé lễ chùa Long Tiên ở Hồng Gai: chùa ở đâu, có gì để xem, mùa nào đông.",
+    "information_gain": "Bài /du-lich/nui-bai-tho-ha-long/ nói về việc núi Bài Thơ đóng lối leo và chỗ ngắm vịnh nhưng không mô tả chùa Long Tiên; /du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/ chỉ là tuyến đường. Bài mới cho riêng chùa: năm xây 1941, hạng di tích quốc gia (QĐ 1140/QĐ/BT 31/8/1992 chung với cụm núi Bài Thơ), bố cục chữ Nhị, tam quan 3 cửa, ban thờ Trần Hưng Đạo và Vân Phương Thánh Mẫu, tục 'chùa Trình' trước khi đi Yên Tử – Cửa Ông, mật độ khách dịp Tết.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/Trang/ChiTietBVGioiThieu.aspx?bvid=417",
+        "quote": "Cổng TTĐT Quảng Ninh, bài giới thiệu cụm di tích núi Bài Thơ (đọc 14/10/2026): chùa Long Tiên ở chân núi Bài Thơ, phường Hồng Gai; công nhận di tích cấp quốc gia theo QĐ 1140/QĐ/BT ngày 31/8/1992; xây năm 1941 thời Nguyễn, hệ phái Bắc Tông; kiểu chữ Nhị, ba gian tiền đường và ba gian hậu cung, hai tầng tám mái; tam quan 3 cửa (cửa lớn cho phật tử, hai cửa nhỏ cho khách vãng lai); cung tả thờ Trần Hưng Đạo, cung hữu thờ Vân Phương Thánh Mẫu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-quang-ninh-4479287.html",
+        "quote": "VnExpress, Cẩm nang du lịch Quảng Ninh (đọc 14/10/2026): chùa Long Tiên xây năm 1941, gần chợ Hạ Long, thờ Phật, các tướng lĩnh nhà Trần và Tam phủ Thánh Mẫu; mùa trẩy hội người ta gọi là 'chùa Trình' vì dâng hương ở đây trước khi đi Yên Tử, Cửa Ông; chùa Long Tiên, đền Đức ông Trần Quốc Nghiễn và đền Cái Lân nằm khá gần nhau.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/hang-nghin-nguoi-do-ve-ngoi-chua-ben-bo-vinh-ha-long-de-cau-an-1851544420.htm",
+        "quote": "Thanh Niên, 24/1/2023: mùng 2 Tết Quý Mão (23/1/2023) chùa đón hàng nghìn người; ước khoảng 5.000 người trong 2 ngày đầu năm; ban quản lý phát loa nhắc ăn mặc lịch sự, không rải tiền lẻ lên ban thờ; kiến trúc thời Nguyễn kiểu chồng giường giá chiêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa long tiên hạ long"
+      }
+    ],
+    "notes": "Lưu ý hành chính: theo thông tin bên giao việc, Quảng Ninh là thành phố trực thuộc trung ương từ 1/9/2026 (NQ 36/2026/QH16) — chưa tự kiểm chứng văn bản này; khi viết không gọi 'tỉnh Quảng Ninh' ở thì hiện tại, tên huyện/thị xã/xã trong nguồn là địa danh cũ trước sắp xếp. Không có nguồn về giờ mở cửa, phí gửi xe hay vé (không nêu). Con số 5.000 người chỉ là ước tính Tết 2023, không khái quát. Tên 'chùa Trình' là cách gọi dân gian theo VnExpress.",
+    "outline": [
+      "Chùa Long Tiên ở đâu trong khu Hồng Gai",
+      "Lịch sử 1941 và hạng di tích quốc gia",
+      "Đi qua tam quan, chính điện và hai cung thờ",
+      "Vì sao gọi là 'chùa Trình' mùa trẩy hội",
+      "Đi lễ dịp Tết: đông cỡ nào, ứng xử nơi thờ tự",
+      "Ghép lịch: núi Bài Thơ, đền Đức ông, đền Cái Lân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nui-bai-tho-ha-long/",
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/du-lich/bao-tang-quang-ninh/",
+      "/du-lich/den-cua-ong-cam-pha/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00682.json",
+  "draft_template": {
+    "id": "TM-00682",
+    "url": "/du-lich/chua-long-tien-ha-long/",
+    "title": "Chùa Long Tiên Hạ Long: chùa 1941 dưới chân núi Bài Thơ, xem gì, đi lễ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa long tiên hạ long, chùa long tiên, chùa long tiên quảng ninh, chùa trình hạ long, chùa dưới chân núi bài thơ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Long Tiên ở đâu trong khu Hồng Gai",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử 1941 và hạng di tích quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Đi qua tam quan, chính điện và hai cung thờ",
+        "<p></p>"
+      ],
+      [
+        "Vì sao gọi là 'chùa Trình' mùa trẩy hội",
+        "<p></p>"
+      ],
+      [
+        "Đi lễ dịp Tết: đông cỡ nào, ứng xử nơi thờ tự",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch: núi Bài Thơ, đền Đức ông, đền Cái Lân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/Trang/ChiTietBVGioiThieu.aspx?bvid=417",
+        "quote": "Cổng TTĐT Quảng Ninh, bài giới thiệu cụm di tích núi Bài Thơ (đọc 14/10/2026): chùa Long Tiên ở chân núi Bài Thơ, phường Hồng Gai; công nhận di tích cấp quốc gia theo QĐ 1140/QĐ/BT ngày 31/8/1992; xây năm 1941 thời Nguyễn, hệ phái Bắc Tông; kiểu chữ Nhị, ba gian tiền đường và ba gian hậu cung, hai tầng tám mái; tam quan 3 cửa (cửa lớn cho phật tử, hai cửa nhỏ cho khách vãng lai); cung tả thờ Trần Hưng Đạo, cung hữu thờ Vân Phương Thánh Mẫu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-quang-ninh-4479287.html",
+        "quote": "VnExpress, Cẩm nang du lịch Quảng Ninh (đọc 14/10/2026): chùa Long Tiên xây năm 1941, gần chợ Hạ Long, thờ Phật, các tướng lĩnh nhà Trần và Tam phủ Thánh Mẫu; mùa trẩy hội người ta gọi là 'chùa Trình' vì dâng hương ở đây trước khi đi Yên Tử, Cửa Ông; chùa Long Tiên, đền Đức ông Trần Quốc Nghiễn và đền Cái Lân nằm khá gần nhau.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/hang-nghin-nguoi-do-ve-ngoi-chua-ben-bo-vinh-ha-long-de-cau-an-1851544420.htm",
+        "quote": "Thanh Niên, 24/1/2023: mùng 2 Tết Quý Mão (23/1/2023) chùa đón hàng nghìn người; ước khoảng 5.000 người trong 2 ngày đầu năm; ban quản lý phát loa nhắc ăn mặc lịch sự, không rải tiền lẻ lên ban thờ; kiến trúc thời Nguyễn kiểu chồng giường giá chiêng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00682"
+  }
+}

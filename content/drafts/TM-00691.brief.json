@@ -1,0 +1,144 @@
+{
+  "writer": "writer-L",
+  "queued": "2026-10-14T05:12:36.634443+00:00",
+  "topic": {
+    "topic_id": "TM-00691",
+    "url": "/du-lich/nui-van-nui-vo-dai-tu/",
+    "title": "Núi Văn Núi Võ Đại Từ: đền thờ Lưu Nhân Chú dưới chân núi Tam Đảo",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "núi văn núi võ đại từ",
+    "secondary_keywords": [
+      "núi văn núi võ",
+      "đền thờ lưu nhân chú",
+      "lễ hội núi văn núi võ",
+      "núi văn núi võ thái nguyên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Đại Từ (hồ Núi Cốc, Tân Cương) muốn ghé khu di tích Núi Văn – Núi Võ: thờ ai, hội ngày nào, có gì xem.",
+    "information_gain": "/du-lich/ha-noi-di-thai-nguyen-xe-may/ chỉ nói đồi chè và hồ Núi Cốc; chưa có bài về Núi Văn – Núi Võ. Bài mới nêu nhân vật thờ (Lưu Nhân Chú, khởi nghĩa Lam Sơn thế kỷ XV), vị trí 2 xã Ký Phú – Văn Yên (tên cũ) dưới chân Tam Đảo cạnh tỉnh lộ 261, quy hoạch 112,3 ha công bố 2021 và những gì được bảo tồn nguyên trạng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/di-san/cong-bo-quy-hoach-bao-quan-tu-bo-phuc-hoi-va-phat-huy-gia-tri-di-tich-nui-van-nui-vo-thai-nguyen-75247.html",
+        "quote": "Báo Văn hóa, 10/3/2021: chiều 9/3 tại UBND xã Văn Yên công bố quy hoạch di tích Núi Văn – Núi Võ; quy mô 112,3 ha tại 2 xã Ký Phú và Văn Yên (Đại Từ), phía Đông giáp Tỉnh lộ 261; đền thờ Lưu Nhân Chú, nhà tả vu, hữu vu ở núi Võ bảo tồn nguyên trạng; đề xuất xây mới đền ở núi Văn, đường dạo và điểm ngắm cảnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/ket-noi-76521182C/thai-nguyen-7-dia-diem-du-lich-duoc-yeu-thich-tai-dai-tu-131C0FF24.html",
+        "quote": "Báo Thanh tra, 16/10/2024: Núi Võ dưới chân núi Tam Đảo, trong quần thể Núi Văn – Núi Võ thờ danh tướng Lưu Nhân Chú của khởi nghĩa Lam Sơn; núi có hệ thống hang động dài hàng trăm mét.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/ket-noi-76521182C/cac-diem-du-lich-van-hoa-tam-linh-tieu-bieu-tai-thai-nguyen-D2E745EDE.html",
+        "quote": "Báo Thanh tra, 17/10/2024: Khu di tích Núi Văn – Núi Võ dưới chân núi Tam Đảo, thờ Lưu Nhân Chú – danh tướng khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo chống giặc Minh thế kỷ XV.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "núi văn núi võ đại từ"
+      }
+    ],
+    "notes": "Lưu ý hành chính: nguồn dùng tên huyện/thành phố cũ của Thái Nguyên/Bắc Kạn trước sắp xếp 2025; không tự suy tên xã/phường mới nếu không có nguồn. Ngày lễ hội 'mùng 4 Tết' chỉ thấy trong snippet tìm kiếm, CHƯA đọc được trên trang nguồn đầy đủ → không đưa vào thân bài trừ khi editor bổ sung nguồn; tiêu đề đã bỏ ngày hội vì chưa xác minh. Hạng di tích (quốc gia?) chưa xác minh. Tiến độ xây mới sau 2021 chưa rõ.",
+    "outline": [
+      "Núi Văn – Núi Võ ở đâu trên đất Đại Từ",
+      "Lưu Nhân Chú là ai",
+      "Núi Võ: đền thờ, tả vu, hữu vu, am trong vách núi",
+      "Quy hoạch 112,3 ha và những gì có thể thay đổi",
+      "Đi xe máy theo tỉnh lộ 261, ghép hồ Núi Cốc",
+      "Lễ hội đầu xuân: kiểm tra lịch trước khi đi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/hang-phuong-hoang-suoi-mo-ga/",
+      "/du-lich/atk-dinh-hoa/",
+      "/du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00691.json",
+  "draft_template": {
+    "id": "TM-00691",
+    "url": "/du-lich/nui-van-nui-vo-dai-tu/",
+    "title": "Núi Văn Núi Võ Đại Từ: đền thờ Lưu Nhân Chú dưới chân núi Tam Đảo",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "núi văn núi võ đại từ, núi văn núi võ, đền thờ lưu nhân chú, lễ hội núi văn núi võ, núi văn núi võ thái nguyên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Núi Văn – Núi Võ ở đâu trên đất Đại Từ",
+        "<p></p>"
+      ],
+      [
+        "Lưu Nhân Chú là ai",
+        "<p></p>"
+      ],
+      [
+        "Núi Võ: đền thờ, tả vu, hữu vu, am trong vách núi",
+        "<p></p>"
+      ],
+      [
+        "Quy hoạch 112,3 ha và những gì có thể thay đổi",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo tỉnh lộ 261, ghép hồ Núi Cốc",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội đầu xuân: kiểm tra lịch trước khi đi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/di-san/cong-bo-quy-hoach-bao-quan-tu-bo-phuc-hoi-va-phat-huy-gia-tri-di-tich-nui-van-nui-vo-thai-nguyen-75247.html",
+        "quote": "Báo Văn hóa, 10/3/2021: chiều 9/3 tại UBND xã Văn Yên công bố quy hoạch di tích Núi Văn – Núi Võ; quy mô 112,3 ha tại 2 xã Ký Phú và Văn Yên (Đại Từ), phía Đông giáp Tỉnh lộ 261; đền thờ Lưu Nhân Chú, nhà tả vu, hữu vu ở núi Võ bảo tồn nguyên trạng; đề xuất xây mới đền ở núi Văn, đường dạo và điểm ngắm cảnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/ket-noi-76521182C/thai-nguyen-7-dia-diem-du-lich-duoc-yeu-thich-tai-dai-tu-131C0FF24.html",
+        "quote": "Báo Thanh tra, 16/10/2024: Núi Võ dưới chân núi Tam Đảo, trong quần thể Núi Văn – Núi Võ thờ danh tướng Lưu Nhân Chú của khởi nghĩa Lam Sơn; núi có hệ thống hang động dài hàng trăm mét.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/ket-noi-76521182C/cac-diem-du-lich-van-hoa-tam-linh-tieu-bieu-tai-thai-nguyen-D2E745EDE.html",
+        "quote": "Báo Thanh tra, 17/10/2024: Khu di tích Núi Văn – Núi Võ dưới chân núi Tam Đảo, thờ Lưu Nhân Chú – danh tướng khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo chống giặc Minh thế kỷ XV.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00691"
+  }
+}

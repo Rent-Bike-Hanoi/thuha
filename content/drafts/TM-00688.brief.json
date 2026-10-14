@@ -1,0 +1,144 @@
+{
+  "writer": "writer-K",
+  "queued": "2026-10-14T05:12:36.025139+00:00",
+  "topic": {
+    "topic_id": "TM-00688",
+    "url": "/du-lich/phao-dai-than-cong-cat-ba/",
+    "title": "Pháo đài Thần Công Cát Bà: cao điểm 177, pháo thập niên 1940, vé tham quan",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "pháo đài thần công cát bà",
+    "secondary_keywords": [
+      "pháo đài thần công",
+      "cao điểm 177 cát bà",
+      "cứ điểm 177",
+      "vé pháo đài thần công"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách ở thị trấn Cát Bà muốn lên pháo đài Thần Công ngắm toàn cảnh: lịch sử thế nào, vé bao nhiêu, đi xe máy hay xe điện.",
+    "information_gain": "/du-lich/vinh-lan-ha/ và /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ không mô tả pháo đài; bài Cát Cò trong matrix chỉ nhắc tên. Bài mới: cao điểm 177 m, pháo xây thập niên 1940 (3 khẩu đối hải theo PLVN), sự kiện 1946 bắn tàu Pháp, 6 máy bay bị bắn rơi thời chống Mỹ, vé 80.000 đồng + xe điện 50.000 đồng (VnExpress 2022), tầm nhìn tới Đồ Sơn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-dao-ngoc-cat-ba-va-di-tich-phao-dai-than-cong-post355160.html",
+        "quote": "Báo Pháp luật VN (đọc 14/10/2026): những năm 1940 pháo đài được xây với 3 khẩu pháo đối hải đặt 3 hướng, bộ phận pháo kéo lên bằng đường ray và sức người; sau Hiệp định sơ bộ 6/3/1946, trận địa pháo cao điểm 177 bắn cháy tàu chiến Pháp; thời chống Mỹ, trận địa phòng không cao điểm 177 bắn rơi 6 máy bay; ngày đẹp trời tầm nhìn trên 40 km, thấy núi Đồ Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cat-ba-4136515.html",
+        "quote": "VnExpress, Cẩm nang du lịch Cát Bà (7/5/2022): khu di tích pháo đài Thần Công còn gọi Cao điểm 177; hai khẩu pháo lớn và hệ thống hầm hào xây từ những năm 1940, còn khá nguyên vẹn; vé 80.000 đồng một người, đi xe điện trả thêm 50.000 đồng; phí ống nhòm 5.000 đồng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "general",
+        "source": "https://vinwonders.com/vi/bai-viet-du-lich/phao-dai-than-cong-cat-ba/",
+        "quote": "VinWonders (blog doanh nghiệp, 17/7/2025): pháo đài Thần Công hay 'Cứ điểm 177' trên đỉnh đồi cao 177 m; xây năm 1942 bởi quân Pháp; từ đài quan sát nhìn vịnh Lan Hạ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "pháo đài thần công cát bà"
+      }
+    ],
+    "notes": "Lưu ý hành chính: nguồn dùng tên quận/huyện cũ (trước sắp xếp 2025); writer ghi 'tên cũ' khi nhắc, không tự suy tên đơn vị mới nếu không có nguồn. Mâu thuẫn: PLVN nói 3 khẩu pháo, VnExpress nói hai khẩu pháo lớn còn lại; năm xây 'những năm 1940' (báo) vs 1942 (VinWonders) → tiêu đề/thân bài dùng 'thập niên 1940'. Giá vé 2022, có blog ghi 40.000 đồng — ghi 'theo VnExpress 2022' và khuyên hỏi lại. Không có giờ mở cửa từ nguồn đã đọc. Bài Cát Cò (PUBLISHED trong matrix) có nhắc tên Thần Công: kiểm tra không trùng ý định khi validate.",
+    "outline": [
+      "Pháo đài Thần Công – cao điểm 177 ở đâu",
+      "Lịch sử: từ pháo đối hải thập niên 1940 đến trận địa phòng không",
+      "Còn lại gì để xem: pháo, hầm hào, đài quan sát",
+      "Vé, xe điện và phí ống nhòm theo nguồn gần nhất",
+      "Đi xe máy lên dốc: lưu ý",
+      "Giờ đẹp để ngắm vịnh Lan Hạ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/",
+      "/du-lich/vinh-lan-ha/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00688.json",
+  "draft_template": {
+    "id": "TM-00688",
+    "url": "/du-lich/phao-dai-than-cong-cat-ba/",
+    "title": "Pháo đài Thần Công Cát Bà: cao điểm 177, pháo thập niên 1940, vé tham quan",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "pháo đài thần công cát bà, pháo đài thần công, cao điểm 177 cát bà, cứ điểm 177, vé pháo đài thần công",
+    "excerpt": "",
+    "sections": [
+      [
+        "Pháo đài Thần Công – cao điểm 177 ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: từ pháo đối hải thập niên 1940 đến trận địa phòng không",
+        "<p></p>"
+      ],
+      [
+        "Còn lại gì để xem: pháo, hầm hào, đài quan sát",
+        "<p></p>"
+      ],
+      [
+        "Vé, xe điện và phí ống nhòm theo nguồn gần nhất",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy lên dốc: lưu ý",
+        "<p></p>"
+      ],
+      [
+        "Giờ đẹp để ngắm vịnh Lan Hạ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/huyen-thoai-dao-ngoc-cat-ba-va-di-tich-phao-dai-than-cong-post355160.html",
+        "quote": "Báo Pháp luật VN (đọc 14/10/2026): những năm 1940 pháo đài được xây với 3 khẩu pháo đối hải đặt 3 hướng, bộ phận pháo kéo lên bằng đường ray và sức người; sau Hiệp định sơ bộ 6/3/1946, trận địa pháo cao điểm 177 bắn cháy tàu chiến Pháp; thời chống Mỹ, trận địa phòng không cao điểm 177 bắn rơi 6 máy bay; ngày đẹp trời tầm nhìn trên 40 km, thấy núi Đồ Sơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cat-ba-4136515.html",
+        "quote": "VnExpress, Cẩm nang du lịch Cát Bà (7/5/2022): khu di tích pháo đài Thần Công còn gọi Cao điểm 177; hai khẩu pháo lớn và hệ thống hầm hào xây từ những năm 1940, còn khá nguyên vẹn; vé 80.000 đồng một người, đi xe điện trả thêm 50.000 đồng; phí ống nhòm 5.000 đồng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "general",
+        "source": "https://vinwonders.com/vi/bai-viet-du-lich/phao-dai-than-cong-cat-ba/",
+        "quote": "VinWonders (blog doanh nghiệp, 17/7/2025): pháo đài Thần Công hay 'Cứ điểm 177' trên đỉnh đồi cao 177 m; xây năm 1942 bởi quân Pháp; từ đài quan sát nhìn vịnh Lan Hạ.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00688"
+  }
+}

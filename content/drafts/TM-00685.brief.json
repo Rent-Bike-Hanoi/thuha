@@ -1,0 +1,144 @@
+{
+  "writer": "writer-J",
+  "queued": "2026-10-14T05:12:35.388253+00:00",
+  "topic": {
+    "topic_id": "TM-00685",
+    "url": "/du-lich/den-trang-trinh-vinh-bao/",
+    "title": "Đền Trạng Trình Vĩnh Bảo: khu di tích Nguyễn Bỉnh Khiêm, lễ hội 28/11 âm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền trạng trình vĩnh bảo",
+    "secondary_keywords": [
+      "đền trạng trình",
+      "đền thờ nguyễn bỉnh khiêm",
+      "lễ hội đền trạng trình",
+      "khu di tích trạng trình hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Phụ huynh, học sinh và khách đi Hải Phòng muốn viếng đền Trạng Trình ở Vĩnh Bảo: đền ở đâu, lễ hội lúc nào, có gì xem.",
+    "information_gain": "Các bài Hải Phòng hiện có (/du-lich/den-nghe-hai-phong/, /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/) không nói về Vĩnh Bảo. Bài mới: vị trí thôn Trung Am, xã Lý Học (tên cũ), hạng Di tích quốc gia đặc biệt (2015), lễ hội là Di sản văn hóa phi vật thể quốc gia (2019), ngày giỗ 28/11 âm lịch và cấu trúc phần lễ – phần hội qua các năm 2019, 2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song-van-hoa/le-hoi-ky-niem-438-nam-ngay-mat-danh-nhan-van-hoa-nguyen-binh-khiem-75284.html",
+        "quote": "Báo Văn hóa (1/2024): lễ hội đền Trạng Trình kỷ niệm 438 năm ngày mất diễn ra 3 ngày 8–10/1/2024 tại Khu di tích quốc gia đặc biệt ở thôn Trung Am, xã Lý Học, huyện Vĩnh Bảo; năm 2015 khu di tích được công nhận Di tích quốc gia đặc biệt; phần lễ gồm mộc dục, rước văn, cáo yết, dâng hương; phần hội có vật truyền thống, hát văn, hát xẩm, chèo, kéo co.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/hai-phong-le-hoi-den-tho-trang-trinh-nguyen-binh-khiem-la-di-san-van-hoa-phi-vat-the-quoc-gia-14863.html",
+        "quote": "Báo Văn hóa (12/2019): tối 23/12/2019 huyện Vĩnh Bảo tổ chức lễ hội kỷ niệm 434 năm ngày mất (28/11 năm Ất Dậu 1585) và đón quyết định công nhận Di sản văn hóa phi vật thể quốc gia; lễ rước hơn 600 người; lễ hội 3 ngày 22–24/12 (27–29/11 âm lịch).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-den-trang-trinh-hoat-dong-quang-ba-le-hoi-chua-co-suc-loi-cuon-post124162.html",
+        "quote": "Báo Pháp luật VN (1/2011): kỷ niệm 425 năm ngày mất, lần đầu lễ hội tổ chức ở cả quê nội (Vĩnh Bảo) và quê ngoại (Tiên Lãng), từ 1–3/1/2011; chính lễ 2/1/2011; hoạt động phần hội chưa hấp dẫn như mong đợi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền trạng trình vĩnh bảo"
+      }
+    ],
+    "notes": "Lưu ý hành chính: nguồn dùng tên quận/huyện cũ (trước sắp xếp 2025); writer ghi 'tên cũ' khi nhắc, không tự suy tên đơn vị mới nếu không có nguồn. Ngày dương lịch của hội đổi theo năm; viết theo âm lịch (quanh 28/11 âm) kèm ví dụ. Chưa tìm được lịch 2026 — không nêu. Không có nguồn về vé/giờ mở cửa. Tên Am Bạch Vân chỉ thấy ở snippet, chưa đọc trang — không dùng.",
+    "outline": [
+      "Đền Trạng Trình ở đâu (Trung Am, Lý Học – tên cũ)",
+      "Nguyễn Bỉnh Khiêm và hạng di tích quốc gia đặc biệt",
+      "Lễ hội quanh 28/11 âm lịch: phần lễ, phần hội",
+      "Lễ hội là di sản phi vật thể quốc gia từ 2019",
+      "Đi xe máy từ trung tâm Hải Phòng: lưu ý",
+      "Ứng xử khi dâng hương, xin chữ đầu năm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/khu-di-tich-bach-dang-giang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00685.json",
+  "draft_template": {
+    "id": "TM-00685",
+    "url": "/du-lich/den-trang-trinh-vinh-bao/",
+    "title": "Đền Trạng Trình Vĩnh Bảo: khu di tích Nguyễn Bỉnh Khiêm, lễ hội 28/11 âm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền trạng trình vĩnh bảo, đền trạng trình, đền thờ nguyễn bỉnh khiêm, lễ hội đền trạng trình, khu di tích trạng trình hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Trạng Trình ở đâu (Trung Am, Lý Học – tên cũ)",
+        "<p></p>"
+      ],
+      [
+        "Nguyễn Bỉnh Khiêm và hạng di tích quốc gia đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội quanh 28/11 âm lịch: phần lễ, phần hội",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội là di sản phi vật thể quốc gia từ 2019",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ trung tâm Hải Phòng: lưu ý",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi dâng hương, xin chữ đầu năm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song-van-hoa/le-hoi-ky-niem-438-nam-ngay-mat-danh-nhan-van-hoa-nguyen-binh-khiem-75284.html",
+        "quote": "Báo Văn hóa (1/2024): lễ hội đền Trạng Trình kỷ niệm 438 năm ngày mất diễn ra 3 ngày 8–10/1/2024 tại Khu di tích quốc gia đặc biệt ở thôn Trung Am, xã Lý Học, huyện Vĩnh Bảo; năm 2015 khu di tích được công nhận Di tích quốc gia đặc biệt; phần lễ gồm mộc dục, rước văn, cáo yết, dâng hương; phần hội có vật truyền thống, hát văn, hát xẩm, chèo, kéo co.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/hai-phong-le-hoi-den-tho-trang-trinh-nguyen-binh-khiem-la-di-san-van-hoa-phi-vat-the-quoc-gia-14863.html",
+        "quote": "Báo Văn hóa (12/2019): tối 23/12/2019 huyện Vĩnh Bảo tổ chức lễ hội kỷ niệm 434 năm ngày mất (28/11 năm Ất Dậu 1585) và đón quyết định công nhận Di sản văn hóa phi vật thể quốc gia; lễ rước hơn 600 người; lễ hội 3 ngày 22–24/12 (27–29/11 âm lịch).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/le-hoi-den-trang-trinh-hoat-dong-quang-ba-le-hoi-chua-co-suc-loi-cuon-post124162.html",
+        "quote": "Báo Pháp luật VN (1/2011): kỷ niệm 425 năm ngày mất, lần đầu lễ hội tổ chức ở cả quê nội (Vĩnh Bảo) và quê ngoại (Tiên Lãng), từ 1–3/1/2011; chính lễ 2/1/2011; hoạt động phần hội chưa hấp dẫn như mong đợi.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00685"
+  }
+}
