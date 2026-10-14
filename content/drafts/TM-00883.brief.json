@@ -1,0 +1,157 @@
+{
+  "writer": "writer-O1",
+  "queued": "2026-10-14T15:44:27.898108+00:00",
+  "topic": {
+    "topic_id": "TM-00883",
+    "url": "/du-lich/nha-luu-niem-tu-xuong-nam-dinh/",
+    "title": "Nhà lưu niệm Tú Xương Nam Định: số 280 Minh Khai và mộ bên hồ Vị Xuyên",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà lưu niệm tú xương",
+    "secondary_keywords": [
+      "nhà tú xương nam định",
+      "mộ tú xương",
+      "hồ vị xuyên nam định",
+      "trần tế xương quê ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người yêu thơ hoặc phụ huynh đưa con về Nam Định chơi muốn ghé nơi ở và mộ nhà thơ Tú Xương: nhà ở số mấy phố nào, mộ ở đâu, có gì để xem.",
+    "information_gain": "Site có /du-lich/den-tran-nam-dinh-di-xe-may/ (đền Trần) và /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ nhưng chưa trang nào nhắc nhà lưu niệm hay mộ Tú Xương. Bài mới cho: địa chỉ nhà lưu niệm số 280 phố Minh Khai (xưa là Hàng Nâu), câu chuyện nhà 247 bị gán nợ rồi chuyển sang 280, mộ đá trong công viên Vị Xuyên cách tượng đài Trần Hưng Đạo vài bước, mộ xây lại năm 1989 với bài thơ Nguyễn Khuyến sau lưng, tiểu sử (1870–1907, 8 lần thi) để đọc trước khi đi.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tu-hao-mien-dat-hieu-hoc-vi-hoang-post920595.html",
+        "quote": "Báo Nhân Dân, 'Tự hào miền đất hiếu học Vị Hoàng' (4/11/2025, đọc 14/10/2026): ngôi nhà số 280 phố Minh Khai, xưa là phố Hàng Nâu, nơi Tú Xương và gia đình từng sinh sống, nay là nhà lưu niệm Tú Xương, điểm tham quan của du khách và người dân; hướng dẫn viên thuộc Ban Quản lý Di tích Đền Trần – Chùa Tháp, phường Nam Định giới thiệu về ông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/con-may-trang-bay-10203019.html",
+        "quote": "Báo Đại Đoàn Kết, 'Còn mây trắng bay' (11/9/2021, đọc 14/10/2026): Tú Xương sinh 5/9/1870 ở làng Vị Xuyên, huyện Mỹ Lộc (sau thành phố Hàng Nâu); nhà ông ở số 247, từng bị cháy rồi bị gán nợ, gia đình chuyển sang số 280 cùng phố, sau này Nam Định xếp hạng là di tích lưu niệm Tú Xương; các phố Hàng Bát, Hàng Mâm, Hàng Song, Hàng Nâu nối nhau, được đổi tên thành phố Minh Khai.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/nam-dinh-ky-niem-150-nam-ngay-sinh-nha-tho-tran-te-xuong-10164548.html",
+        "quote": "Báo Đại Đoàn Kết (29/8/2020, đọc 14/10/2026): Trần Tế Xương tên khai sinh Trần Duy Uyên, sinh 5/9/1870 ở làng Vỵ Xuyên, sau là phố Hàng Nâu, nay phố Minh Khai; mất ngày 28/1/1907 khi 37 tuổi; 8 lần đi thi (1886–1906) chỉ đỗ Tú tài; mộ đặt trong Công viên Vỵ Xuyên bên hồ nước; thành phố có nhà lưu niệm, đường, trường học và một phường mang tên ông; ông là một trong 20 tác giả có tượng đồng tại Bảo tàng Văn học Việt Nam.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/ve-tham-ho-vi-xuyen-co-mot-ngoi-mo-thi-si-it-nguoi-biet-a322731.html",
+        "quote": "Thương hiệu & Công luận, 'Về thăm hồ Vị Xuyên, có một ngôi mộ thi sĩ ít người biết' (15/6/2026, đọc 14/10/2026): mộ Trần Tế Xương nằm bên hồ Vị Xuyên, chỉ cách tượng đài Trần Hưng Đạo vài bước chân, dưới hàng cây cổ thụ của công viên; năm 1989 mộ được xây lại trên nền cũ, nay xây bằng đá, bia khắc tên, năm sinh – năm mất; sau lưng mộ là bài thơ Nguyễn Khuyến viết về ông; người dân và khách nhỏ từ Hà Nội góp ý nên có bảng giới thiệu rõ hơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà lưu niệm tú xương"
+      }
+    ],
+    "notes": "Không có nguồn về giờ mở cửa, vé, người trông nhà lưu niệm — không đưa; khuyên hỏi Ban Quản lý Di tích Đền Trần – Chùa Tháp. Tên làng ghi 'Vị Xuyên'/'Vỵ Xuyên' tùy nguồn — giữ cả hai. Địa giới: Nhân Dân ghi phường Nam Định, tỉnh Ninh Bình (sau sáp nhập); Đại Đoàn Kết 2020 ghi phường Vỵ Hoàng, TP Nam Định (cũ). Hồ Vị Xuyên/tượng Trần Hưng Đạo có thể đã được nhắc trong bài khác (2 kết quả 'vị xuyên' trong articles/matrix) — chỉ dùng làm mốc. Không có nguồn khoảng cách nhà 280 Minh Khai – hồ Vị Xuyên.",
+    "outline": [
+      "Tú Xương là ai: 1870–1907, 8 lần lều chõng",
+      "Nhà lưu niệm số 280 Minh Khai (Hàng Nâu xưa)",
+      "Chuyện nhà 247 và 280 cùng phố",
+      "Mộ đá bên hồ Vị Xuyên, gần tượng Trần Hưng Đạo",
+      "Ghép lịch với đền Trần trong một ngày",
+      "Lưu ý: chưa có thông tin giờ mở cửa, hỏi trước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/bao-tang-van-hoc-viet-nam/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00883.json",
+  "draft_template": {
+    "id": "TM-00883",
+    "url": "/du-lich/nha-luu-niem-tu-xuong-nam-dinh/",
+    "title": "Nhà lưu niệm Tú Xương Nam Định: số 280 Minh Khai và mộ bên hồ Vị Xuyên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà lưu niệm tú xương, nhà tú xương nam định, mộ tú xương, hồ vị xuyên nam định, trần tế xương quê ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tú Xương là ai: 1870–1907, 8 lần lều chõng",
+        "<p></p>"
+      ],
+      [
+        "Nhà lưu niệm số 280 Minh Khai (Hàng Nâu xưa)",
+        "<p></p>"
+      ],
+      [
+        "Chuyện nhà 247 và 280 cùng phố",
+        "<p></p>"
+      ],
+      [
+        "Mộ đá bên hồ Vị Xuyên, gần tượng Trần Hưng Đạo",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với đền Trần trong một ngày",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: chưa có thông tin giờ mở cửa, hỏi trước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tu-hao-mien-dat-hieu-hoc-vi-hoang-post920595.html",
+        "quote": "Báo Nhân Dân, 'Tự hào miền đất hiếu học Vị Hoàng' (4/11/2025, đọc 14/10/2026): ngôi nhà số 280 phố Minh Khai, xưa là phố Hàng Nâu, nơi Tú Xương và gia đình từng sinh sống, nay là nhà lưu niệm Tú Xương, điểm tham quan của du khách và người dân; hướng dẫn viên thuộc Ban Quản lý Di tích Đền Trần – Chùa Tháp, phường Nam Định giới thiệu về ông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/con-may-trang-bay-10203019.html",
+        "quote": "Báo Đại Đoàn Kết, 'Còn mây trắng bay' (11/9/2021, đọc 14/10/2026): Tú Xương sinh 5/9/1870 ở làng Vị Xuyên, huyện Mỹ Lộc (sau thành phố Hàng Nâu); nhà ông ở số 247, từng bị cháy rồi bị gán nợ, gia đình chuyển sang số 280 cùng phố, sau này Nam Định xếp hạng là di tích lưu niệm Tú Xương; các phố Hàng Bát, Hàng Mâm, Hàng Song, Hàng Nâu nối nhau, được đổi tên thành phố Minh Khai.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/nam-dinh-ky-niem-150-nam-ngay-sinh-nha-tho-tran-te-xuong-10164548.html",
+        "quote": "Báo Đại Đoàn Kết (29/8/2020, đọc 14/10/2026): Trần Tế Xương tên khai sinh Trần Duy Uyên, sinh 5/9/1870 ở làng Vỵ Xuyên, sau là phố Hàng Nâu, nay phố Minh Khai; mất ngày 28/1/1907 khi 37 tuổi; 8 lần đi thi (1886–1906) chỉ đỗ Tú tài; mộ đặt trong Công viên Vỵ Xuyên bên hồ nước; thành phố có nhà lưu niệm, đường, trường học và một phường mang tên ông; ông là một trong 20 tác giả có tượng đồng tại Bảo tàng Văn học Việt Nam.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thuonghieucongluan.com.vn/ve-tham-ho-vi-xuyen-co-mot-ngoi-mo-thi-si-it-nguoi-biet-a322731.html",
+        "quote": "Thương hiệu & Công luận, 'Về thăm hồ Vị Xuyên, có một ngôi mộ thi sĩ ít người biết' (15/6/2026, đọc 14/10/2026): mộ Trần Tế Xương nằm bên hồ Vị Xuyên, chỉ cách tượng đài Trần Hưng Đạo vài bước chân, dưới hàng cây cổ thụ của công viên; năm 1989 mộ được xây lại trên nền cũ, nay xây bằng đá, bia khắc tên, năm sinh – năm mất; sau lưng mộ là bài thơ Nguyễn Khuyến viết về ông; người dân và khách nhỏ từ Hà Nội góp ý nên có bảng giới thiệu rõ hơn.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00883"
+  }
+}

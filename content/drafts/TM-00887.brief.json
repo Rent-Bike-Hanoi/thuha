@@ -1,0 +1,158 @@
+{
+  "writer": "writer-O1",
+  "queued": "2026-10-14T15:44:28.678839+00:00",
+  "topic": {
+    "topic_id": "TM-00887",
+    "url": "/du-lich/bao-tang-hung-vuong-viet-tri/",
+    "title": "Bảo tàng Hùng Vương Việt Trì: nhà trưng bày 3 tầng, xem gì trước đền Hùng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng hùng vương",
+    "secondary_keywords": [
+      "bảo tàng hùng vương việt trì",
+      "bảo tàng hùng vương phú thọ",
+      "bảo tàng hùng vương mấy giờ mở cửa",
+      "văn hóa hùng vương trưng bày"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Gia đình đi xe máy về đền Hùng muốn ghé bảo tàng ở Việt Trì để con hiểu thời Hùng Vương: bảo tàng nằm đâu, rộng bao nhiêu, có thuyết minh tự động không.",
+    "information_gain": "Site có /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ (đền Hùng, đường đi) nhưng không nhắc Bảo tàng Hùng Vương. Bài mới cho: vị trí đường Trần Phú bên hồ công viên Văn Lang, tổng diện tích 15.732 m², nhà trưng bày 3 tầng 9.000 m² sàn, 30 tổ hợp trưng bày đã mã hóa thuyết minh tự động (hát Xoan, tín ngưỡng thờ Hùng Vương), các đợt chuyên đề dịp Giỗ Tổ (hơn 300 hiện vật năm 2025) và phim tài liệu 3D 'Thời đại Hùng Vương'.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/goi-y-diem-den-khong-the-bo-qua-khi-toi-phu-tho-dip-gio-to-hung-vuong-2387776.html",
+        "quote": "VietNamNet (4/4/2025, đọc 14/10/2026): Bảo tàng Hùng Vương nằm trên đường Trần Phú, bên bờ hồ công viên Văn Lang, được ví như 'cuốn sử bằng hiện vật' về vùng đất Tổ; tổng diện tích 15.732 m², nhà trưng bày 3 tầng, diện tích sàn 9.000 m²; bài ghi bảo tàng mở cửa 8–11h và 14–16h30.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/phu-tho-trung-bay-hon-300-hien-vat-tieu-bieu-ve-van-hoa-hung-vuong-trong-dong-chay-van-minh-song-hong-a155680.html",
+        "quote": "Tạp chí Luật sư Việt Nam (31/3/2025, đọc 14/10/2026): tại Bảo tàng Hùng Vương (TP Việt Trì), Sở VHTTDL Phú Thọ và Vĩnh Phúc khai mạc trưng bày chuyên đề 'Văn hóa Hùng Vương trong dòng chảy văn minh sông Hồng' 24/3–20/4/2025 với hơn 300 hiện vật; chiếu thử phim tài liệu 'Thời đại Hùng Vương' công nghệ full HD, kỹ xảo 3D phục vụ khách tại bảo tàng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-748970.html",
+        "quote": "Báo Nhân Dân (21/4/2023, đọc 14/10/2026): ngày 21/4 Sở VHTTDL Phú Thọ ra mắt ứng dụng thuyết minh tự động tại Bảo tàng Hùng Vương; Giám đốc bảo tàng cho biết đã mã hóa 30 tổ hợp trưng bày tiêu biểu, ưu tiên tổ hợp gắn với Hát Xoan và Tín ngưỡng thờ cúng Hùng Vương; website hungvuong.63stravel.com.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-den-hung-4595429.html",
+        "quote": "VnExpress, cẩm nang du lịch đền Hùng (17/4/2024, cập nhật lịch 2025; đọc 14/10/2026): lịch Giỗ Tổ có trưng bày hiện vật, tư liệu về di sản Tín ngưỡng thờ cúng Hùng Vương tại Bảo tàng Hùng Vương (29/3–7/4), triển lãm 'Phú Thọ – đất Tổ cội nguồn' tại bảo tàng (4–7/4) và Hội sách 2025 tại sân bảo tàng (30/3–3/4).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bảo tàng hùng vương"
+      }
+    ],
+    "notes": "Giờ mở cửa '8–11h, 14–16h30' chỉ từ VietNamNet, không phải trang chính thức — không đưa vào tiêu đề; nếu nêu trong bài phải ghi nguồn báo và khuyên gọi trước. Không có nguồn về vé. Trưng bày chuyên đề 2025 đã kết thúc. Đơn vị hành chính: Việt Trì nay thuộc tỉnh Phú Thọ mới (sáp nhập Vĩnh Phúc, Hòa Bình) — không có nguồn tên phường mới, viết 'khu vực Việt Trì'. Số '3 tầng' có trong nguồn VietNamNet.",
+    "outline": [
+      "Bảo tàng Hùng Vương ở đâu: đường Trần Phú, hồ Văn Lang",
+      "Quy mô: 15.732 m², nhà trưng bày 3 tầng",
+      "Thuyết minh tự động 30 tổ hợp: Hát Xoan, thờ Hùng Vương",
+      "Chuyên đề dịp Giỗ Tổ và phim 3D 'Thời đại Hùng Vương'",
+      "Ghép bảo tàng với đền Hùng trong ngày",
+      "Giờ mở cửa: chỉ có nguồn báo, nên gọi trước"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+      "/du-lich/dam-ao-chau-phu-tho/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00887.json",
+  "draft_template": {
+    "id": "TM-00887",
+    "url": "/du-lich/bao-tang-hung-vuong-viet-tri/",
+    "title": "Bảo tàng Hùng Vương Việt Trì: nhà trưng bày 3 tầng, xem gì trước đền Hùng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng hùng vương, bảo tàng hùng vương việt trì, bảo tàng hùng vương phú thọ, bảo tàng hùng vương mấy giờ mở cửa, văn hóa hùng vương trưng bày",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Hùng Vương ở đâu: đường Trần Phú, hồ Văn Lang",
+        "<p></p>"
+      ],
+      [
+        "Quy mô: 15.732 m², nhà trưng bày 3 tầng",
+        "<p></p>"
+      ],
+      [
+        "Thuyết minh tự động 30 tổ hợp: Hát Xoan, thờ Hùng Vương",
+        "<p></p>"
+      ],
+      [
+        "Chuyên đề dịp Giỗ Tổ và phim 3D 'Thời đại Hùng Vương'",
+        "<p></p>"
+      ],
+      [
+        "Ghép bảo tàng với đền Hùng trong ngày",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa: chỉ có nguồn báo, nên gọi trước",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/goi-y-diem-den-khong-the-bo-qua-khi-toi-phu-tho-dip-gio-to-hung-vuong-2387776.html",
+        "quote": "VietNamNet (4/4/2025, đọc 14/10/2026): Bảo tàng Hùng Vương nằm trên đường Trần Phú, bên bờ hồ công viên Văn Lang, được ví như 'cuốn sử bằng hiện vật' về vùng đất Tổ; tổng diện tích 15.732 m², nhà trưng bày 3 tầng, diện tích sàn 9.000 m²; bài ghi bảo tàng mở cửa 8–11h và 14–16h30.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://lsvn.vn/phu-tho-trung-bay-hon-300-hien-vat-tieu-bieu-ve-van-hoa-hung-vuong-trong-dong-chay-van-minh-song-hong-a155680.html",
+        "quote": "Tạp chí Luật sư Việt Nam (31/3/2025, đọc 14/10/2026): tại Bảo tàng Hùng Vương (TP Việt Trì), Sở VHTTDL Phú Thọ và Vĩnh Phúc khai mạc trưng bày chuyên đề 'Văn hóa Hùng Vương trong dòng chảy văn minh sông Hồng' 24/3–20/4/2025 với hơn 300 hiện vật; chiếu thử phim tài liệu 'Thời đại Hùng Vương' công nghệ full HD, kỹ xảo 3D phục vụ khách tại bảo tàng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-748970.html",
+        "quote": "Báo Nhân Dân (21/4/2023, đọc 14/10/2026): ngày 21/4 Sở VHTTDL Phú Thọ ra mắt ứng dụng thuyết minh tự động tại Bảo tàng Hùng Vương; Giám đốc bảo tàng cho biết đã mã hóa 30 tổ hợp trưng bày tiêu biểu, ưu tiên tổ hợp gắn với Hát Xoan và Tín ngưỡng thờ cúng Hùng Vương; website hungvuong.63stravel.com.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-den-hung-4595429.html",
+        "quote": "VnExpress, cẩm nang du lịch đền Hùng (17/4/2024, cập nhật lịch 2025; đọc 14/10/2026): lịch Giỗ Tổ có trưng bày hiện vật, tư liệu về di sản Tín ngưỡng thờ cúng Hùng Vương tại Bảo tàng Hùng Vương (29/3–7/4), triển lãm 'Phú Thọ – đất Tổ cội nguồn' tại bảo tàng (4–7/4) và Hội sách 2025 tại sân bảo tàng (30/3–3/4).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00887"
+  }
+}

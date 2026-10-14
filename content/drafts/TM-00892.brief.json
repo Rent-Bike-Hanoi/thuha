@@ -1,0 +1,144 @@
+{
+  "writer": "writer-O2",
+  "queued": "2026-10-14T15:44:29.401073+00:00",
+  "topic": {
+    "topic_id": "TM-00892",
+    "url": "/du-lich/nha-luu-niem-ngo-gia-tu-tam-son/",
+    "title": "Nhà lưu niệm Ngô Gia Tự ở Tam Sơn, Từ Sơn: tượng đài, hiện vật, đi viếng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà lưu niệm ngô gia tự",
+    "secondary_keywords": [
+      "khu lưu niệm ngô gia tự",
+      "quê ngô gia tự",
+      "tượng đài ngô gia tự tam sơn",
+      "di tích từ sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở phía đông Hà Nội muốn viếng quê nhà cách mạng Ngô Gia Tự ở Từ Sơn: nhà lưu niệm ở đâu, có gì xem, dịp nào có lễ.",
+    "information_gain": "Site chưa có bài về Ngô Gia Tự (từ khóa chỉ trùng tên đường ở Long Biên); /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ không nhắc Tam Sơn. Bài mới cho: vị trí khu phố Tam Sơn, phường Tam Sơn (Từ Sơn cũ); tượng đài và nhà lưu niệm có trưng bày hiện vật; tiểu sử (sinh 3/12/1908, vào Hội VN Cách mạng Thanh niên 1926, sáng lập Đông Dương Cộng sản Đảng); lễ dâng hương 3/12; ghép với khu lưu niệm Nguyễn Văn Cừ ở Phù Khê cùng Từ Sơn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bac-ninh-dang-huong-nhan-ky-niem-116-nam-ngay-sinh-dong-chi-ngo-gia-tu-post848316.html",
+        "quote": "Báo Nhân Dân (3/12/2024, đọc 14/10/2026): nhân 116 năm ngày sinh (3/12/1908 – 3/12/2024), đoàn tỉnh Bắc Ninh dâng hương tại Tượng đài và Nhà lưu niệm đồng chí Ngô Gia Tự (phường Tam Sơn); sau lễ đoàn tham quan hiện vật trưng bày tại Nhà lưu niệm ở khu phố Tam Sơn, phường Tam Sơn, TP Từ Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/dang-huong-tuong-niem-111-nam-ngay-sinh-dong-chi-ngo-gia-tu-post610506.vnp",
+        "quote": "VietnamPlus (30/11/2019, đọc 14/10/2026): dâng hương tại Công viên Ngô Gia Tự (xã Tam Sơn, thị xã Từ Sơn); Ngô Gia Tự sinh ra, lớn lên ở Tam Sơn, vào Hội Việt Nam Cách mạng Thanh niên năm 1926, là một trong những người sáng lập Đông Dương Cộng sản Đảng; đoàn thăm Nhà lưu niệm ở thôn Tam Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/tu-son-bac-ninh-phat-trien-du-lich-gan-voi-bao-ton-di-san-van-hoa-235022.html",
+        "quote": "Diễn đàn Doanh nghiệp (26/11/2022, đọc 14/10/2026): hệ thống nhà tưởng niệm ở Từ Sơn gồm Nhà tưởng niệm Tổng Bí thư Nguyễn Văn Cừ (Phù Khê), Khu lưu niệm đồng chí Ngô Gia Tự ở xã Tam Sơn, nhà cụ Đám Thi (Đình Bảng); Từ Sơn có gần 200 di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà lưu niệm ngô gia tự"
+      }
+    ],
+    "notes": "Không có nguồn hạng di tích của nhà lưu niệm Ngô Gia Tự — không nêu. 'Công viên Ngô Gia Tự' (2019) và 'Tượng đài' (2024) có thể cùng khuôn viên — chưa xác nhận. Không có nguồn giờ mở cửa/vé. Phân biệt với đường Ngô Gia Tự ở Long Biên. Hai row Nguyễn Văn Cừ và Ngô Gia Tự là 2 địa điểm khác nhau (Phù Khê vs Tam Sơn), không phải hoán vị.",
+    "outline": [
+      "Nhà lưu niệm ở đâu: khu phố Tam Sơn, Từ Sơn",
+      "Ngô Gia Tự: sinh 3/12/1908, người sáng lập Đông Dương Cộng sản Đảng",
+      "Tượng đài và hiện vật trong nhà lưu niệm",
+      "Lễ dâng hương đầu tháng 12",
+      "Ghép với khu lưu niệm Nguyễn Văn Cừ ở Phù Khê",
+      "Đi xe máy từ Long Biên, lưu ý trùng tên đường"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/chua-but-thap-bac-ninh/",
+      "/du-lich/hoi-lim-bac-ninh/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00892.json",
+  "draft_template": {
+    "id": "TM-00892",
+    "url": "/du-lich/nha-luu-niem-ngo-gia-tu-tam-son/",
+    "title": "Nhà lưu niệm Ngô Gia Tự ở Tam Sơn, Từ Sơn: tượng đài, hiện vật, đi viếng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà lưu niệm ngô gia tự, khu lưu niệm ngô gia tự, quê ngô gia tự, tượng đài ngô gia tự tam sơn, di tích từ sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà lưu niệm ở đâu: khu phố Tam Sơn, Từ Sơn",
+        "<p></p>"
+      ],
+      [
+        "Ngô Gia Tự: sinh 3/12/1908, người sáng lập Đông Dương Cộng sản Đảng",
+        "<p></p>"
+      ],
+      [
+        "Tượng đài và hiện vật trong nhà lưu niệm",
+        "<p></p>"
+      ],
+      [
+        "Lễ dâng hương đầu tháng 12",
+        "<p></p>"
+      ],
+      [
+        "Ghép với khu lưu niệm Nguyễn Văn Cừ ở Phù Khê",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên, lưu ý trùng tên đường",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bac-ninh-dang-huong-nhan-ky-niem-116-nam-ngay-sinh-dong-chi-ngo-gia-tu-post848316.html",
+        "quote": "Báo Nhân Dân (3/12/2024, đọc 14/10/2026): nhân 116 năm ngày sinh (3/12/1908 – 3/12/2024), đoàn tỉnh Bắc Ninh dâng hương tại Tượng đài và Nhà lưu niệm đồng chí Ngô Gia Tự (phường Tam Sơn); sau lễ đoàn tham quan hiện vật trưng bày tại Nhà lưu niệm ở khu phố Tam Sơn, phường Tam Sơn, TP Từ Sơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/dang-huong-tuong-niem-111-nam-ngay-sinh-dong-chi-ngo-gia-tu-post610506.vnp",
+        "quote": "VietnamPlus (30/11/2019, đọc 14/10/2026): dâng hương tại Công viên Ngô Gia Tự (xã Tam Sơn, thị xã Từ Sơn); Ngô Gia Tự sinh ra, lớn lên ở Tam Sơn, vào Hội Việt Nam Cách mạng Thanh niên năm 1926, là một trong những người sáng lập Đông Dương Cộng sản Đảng; đoàn thăm Nhà lưu niệm ở thôn Tam Sơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/tu-son-bac-ninh-phat-trien-du-lich-gan-voi-bao-ton-di-san-van-hoa-235022.html",
+        "quote": "Diễn đàn Doanh nghiệp (26/11/2022, đọc 14/10/2026): hệ thống nhà tưởng niệm ở Từ Sơn gồm Nhà tưởng niệm Tổng Bí thư Nguyễn Văn Cừ (Phù Khê), Khu lưu niệm đồng chí Ngô Gia Tự ở xã Tam Sơn, nhà cụ Đám Thi (Đình Bảng); Từ Sơn có gần 200 di tích.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00892"
+  }
+}

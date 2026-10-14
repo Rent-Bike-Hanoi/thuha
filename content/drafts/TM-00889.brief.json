@@ -1,0 +1,145 @@
+{
+  "writer": "writer-O2",
+  "queued": "2026-10-14T15:44:28.911267+00:00",
+  "topic": {
+    "topic_id": "TM-00889",
+    "url": "/du-lich/atk-cho-don-bac-kan/",
+    "title": "ATK Chợ Đồn Bắc Kạn: di tích quốc gia đặc biệt, Khuổi Đăm, Nà Pậu, xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "atk chợ đồn",
+    "secondary_keywords": [
+      "an toàn khu chợ đồn",
+      "di tích atk chợ đồn",
+      "khuổi đăm nghĩa tá",
+      "hội xuân atk chợ đồn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi phượt Ba Bể bằng xe máy muốn ghé vùng ATK Chợ Đồn: có những điểm di tích nào, nằm ở xã nào, đi tuyến ra sao.",
+    "information_gain": "Site có /du-lich/atk-dinh-hoa/ (ATK phía Thái Nguyên) và /du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ nhưng không bài nào về ATK Chợ Đồn. Bài mới cho: phạm vi 3 xã Lương Bằng, Nghĩa Tá, Bình Trung (16.872 ha nghiên cứu quy hoạch, QĐ 2175/QĐ-TTg 23/12/2021), 3 tuyến tham quan do huyện công bố (Nà Pậu – Khuổi Linh – Pù Cọ – Bản Ca; nhà máy in tiền, xưởng quân giới; nối hồ Ba Bể), di tích Khuổi Đăm nơi Báo Sự Thật đóng năm 1947 rẽ từ QL3C, hội xuân ATK tháng Giêng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/thoi-su/phe-duyet-nhiem-vu-lap-quy-hoach-bao-quan-tu-bo-phuc-hoi-di-tich-quoc-gia-dac-biet-an-toan-khu-atk-cho-don-tinh-bac-kan-61801.html",
+        "quote": "Báo Văn hóa (23/12/2021, đọc 14/10/2026): Quyết định 2175/QĐ-TTg ngày 23/12 phê duyệt Nhiệm vụ lập Quy hoạch bảo quản, tu bổ, phục hồi di tích quốc gia đặc biệt An toàn khu (ATK) Chợ Đồn; phạm vi khoảng 16.872 ha, toàn bộ 3 xã Lương Bằng (5.750 ha), Nghĩa Tá (3.994 ha), Bình Trung (7.128 ha); phù hợp Quy hoạch vùng chiến khu ATK liên tỉnh Thái Nguyên – Tuyên Quang – Bắc Kạn (QĐ 419/QĐ-TTg 17/3/2016).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/hoi-xuan-atk-cho-don-diem-den-hap-dan-dip-dau-nam-moi-cua-du-khach-10149760.html",
+        "quote": "Diễn đàn Doanh nghiệp (4/2/2025, đọc 14/10/2026): Hội xuân ATK Chợ Đồn 2025 diễn ra 11–13/2/2025 (14–16 tháng Giêng Ất Tỵ) tại sân Trung tâm VHTT&TT huyện, năm thứ ba tổ chức; có lễ dâng hương di tích Nà Pậu; tuyến 1: thị trấn Bằng Lũng – Nà Pậu (Lương Bằng) – Khuổi Linh, Pù Cọ (Nghĩa Tá) – Bản Ca (Bình Trung); tuyến 2: Bằng Lũng – Nhà máy in tiền, Nha Nghiên cứu kỹ thuật, Xưởng Quân giới, hệ thống cáp tời quặng, đền Phja Khao... – thác Đăng Vài; tuyến 3: Bằng Lũng – Nam Cường – Đồng Lạc – hồ Ba Bể.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/noi-ay-khuoi-dam-post886764.html",
+        "quote": "Báo Nhân Dân, 'Nơi ấy Khuổi Đăm' (13/6/2025, đọc 14/10/2026): Khuổi Đăm, thôn Nà Khằn, xã Nghĩa Tá, nơi Báo Sự Thật (tiền thân Báo Nhân Dân) đặt trụ sở năm 1947; từ QL3C rẽ vào đầu cầu Khuổi Đẩy, đi đường đất hơn 1 km qua rừng Mỡ tới bia di tích; báo dựng lán xưởng, lán công nhân, lán cán bộ; máy in cần 18–20 người khiêng; di tích cấp tỉnh từ 2011; người dân trông coi tự nguyện từ 2016.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "atk chợ đồn"
+      }
+    ],
+    "notes": "Địa danh huyện/thị trấn Bằng Lũng là trước sáp nhập 7/2025 (Bắc Kạn nay thuộc Thái Nguyên); các xã có thể đã đổi tên — writer ghi '(tên cũ)'. QĐ 1496/QĐ-TTg 2023 (quy hoạch 135 ha) chỉ thấy trong snippet, không tải — không dùng. Năm xếp hạng quốc gia đặc biệt: chưa có nguồn đã tải — không nêu năm. Đường đất hơn 1 km vào Khuổi Đăm: cảnh báo mùa mưa (chung, không nguồn). Không có nguồn về khoảng cách Hà Nội – Chợ Đồn; lịch Hội xuân 2026 chưa có nguồn.",
+    "outline": [
+      "ATK Chợ Đồn là gì, nằm ở đâu (3 xã Lương Bằng, Nghĩa Tá, Bình Trung)",
+      "Ba tuyến tham quan di tích",
+      "Khuổi Đăm: nơi Báo Sự Thật đóng năm 1947",
+      "Nhà máy in tiền, xưởng quân giới và dấu tích mỏ",
+      "Hội xuân ATK tháng Giêng",
+      "Đi xe máy: ghép với hồ Ba Bể, lưu ý đường đất"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/atk-dinh-hoa/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00889.json",
+  "draft_template": {
+    "id": "TM-00889",
+    "url": "/du-lich/atk-cho-don-bac-kan/",
+    "title": "ATK Chợ Đồn Bắc Kạn: di tích quốc gia đặc biệt, Khuổi Đăm, Nà Pậu, xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "atk chợ đồn, an toàn khu chợ đồn, di tích atk chợ đồn, khuổi đăm nghĩa tá, hội xuân atk chợ đồn",
+    "excerpt": "",
+    "sections": [
+      [
+        "ATK Chợ Đồn là gì, nằm ở đâu (3 xã Lương Bằng, Nghĩa Tá, Bình Trung)",
+        "<p></p>"
+      ],
+      [
+        "Ba tuyến tham quan di tích",
+        "<p></p>"
+      ],
+      [
+        "Khuổi Đăm: nơi Báo Sự Thật đóng năm 1947",
+        "<p></p>"
+      ],
+      [
+        "Nhà máy in tiền, xưởng quân giới và dấu tích mỏ",
+        "<p></p>"
+      ],
+      [
+        "Hội xuân ATK tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: ghép với hồ Ba Bể, lưu ý đường đất",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/thoi-su/phe-duyet-nhiem-vu-lap-quy-hoach-bao-quan-tu-bo-phuc-hoi-di-tich-quoc-gia-dac-biet-an-toan-khu-atk-cho-don-tinh-bac-kan-61801.html",
+        "quote": "Báo Văn hóa (23/12/2021, đọc 14/10/2026): Quyết định 2175/QĐ-TTg ngày 23/12 phê duyệt Nhiệm vụ lập Quy hoạch bảo quản, tu bổ, phục hồi di tích quốc gia đặc biệt An toàn khu (ATK) Chợ Đồn; phạm vi khoảng 16.872 ha, toàn bộ 3 xã Lương Bằng (5.750 ha), Nghĩa Tá (3.994 ha), Bình Trung (7.128 ha); phù hợp Quy hoạch vùng chiến khu ATK liên tỉnh Thái Nguyên – Tuyên Quang – Bắc Kạn (QĐ 419/QĐ-TTg 17/3/2016).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/hoi-xuan-atk-cho-don-diem-den-hap-dan-dip-dau-nam-moi-cua-du-khach-10149760.html",
+        "quote": "Diễn đàn Doanh nghiệp (4/2/2025, đọc 14/10/2026): Hội xuân ATK Chợ Đồn 2025 diễn ra 11–13/2/2025 (14–16 tháng Giêng Ất Tỵ) tại sân Trung tâm VHTT&TT huyện, năm thứ ba tổ chức; có lễ dâng hương di tích Nà Pậu; tuyến 1: thị trấn Bằng Lũng – Nà Pậu (Lương Bằng) – Khuổi Linh, Pù Cọ (Nghĩa Tá) – Bản Ca (Bình Trung); tuyến 2: Bằng Lũng – Nhà máy in tiền, Nha Nghiên cứu kỹ thuật, Xưởng Quân giới, hệ thống cáp tời quặng, đền Phja Khao... – thác Đăng Vài; tuyến 3: Bằng Lũng – Nam Cường – Đồng Lạc – hồ Ba Bể.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/noi-ay-khuoi-dam-post886764.html",
+        "quote": "Báo Nhân Dân, 'Nơi ấy Khuổi Đăm' (13/6/2025, đọc 14/10/2026): Khuổi Đăm, thôn Nà Khằn, xã Nghĩa Tá, nơi Báo Sự Thật (tiền thân Báo Nhân Dân) đặt trụ sở năm 1947; từ QL3C rẽ vào đầu cầu Khuổi Đẩy, đi đường đất hơn 1 km qua rừng Mỡ tới bia di tích; báo dựng lán xưởng, lán công nhân, lán cán bộ; máy in cần 18–20 người khiêng; di tích cấp tỉnh từ 2011; người dân trông coi tự nguyện từ 2016.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00889"
+  }
+}
