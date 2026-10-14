@@ -1,0 +1,144 @@
+{
+  "writer": "writer-H3",
+  "queued": "2026-10-14T14:54:35.226290+00:00",
+  "topic": {
+    "topic_id": "TM-00828",
+    "url": "/du-lich/khu-di-tich-dai-doi-915-gia-sang/",
+    "title": "Khu di tích Đại đội 915 Gia Sàng: 60 liệt sĩ TNXP ga Lưu Xá 1972",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích đại đội 915",
+    "secondary_keywords": [
+      "đại đội 915 thái nguyên",
+      "60 liệt sĩ thanh niên xung phong",
+      "ga lưu xá",
+      "di tích 915 gia sàng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người qua TP Thái Nguyên cũ bằng xe máy muốn dâng hương ở khu tưởng niệm 60 TNXP Đại đội 915: ở đâu, có nhà trưng bày gì, dịp nào đông.",
+    "information_gain": "Chưa có bài nào về khu di tích 915; /du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/ và /du-lich/chua-hang-thai-nguyen/ là điểm khác trong thành phố cũ. Bài mới: khu di tích quốc gia ở phường Gia Sàng tưởng niệm 60 TNXP Đại đội 915, Đội 91 Bắc Thái hy sinh đêm 24/12/1972 tại ga Lưu Xá; không gian trưng bày gần 350 hiện vật, tư liệu; quý I/2026 đón 208 đoàn, trên 50.100 lượt; do Trung tâm Dịch vụ tổng hợp phường quản lý, mở cửa cả dịp Tết; dịp 2/9 và 26/3 đông đoàn.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thainguyen.gov.vn/di-va-den-thai-nguyen/tren-50-000-luot-khach-den-tham-quan-khu-di-tich-915-258413",
+        "quote": "Cổng TTĐT tỉnh Thái Nguyên, 2026 (đọc 14/10/2026): quý I/2026 Khu di tích lịch sử quốc gia 60 liệt sĩ TNXP Đại đội 915, Đội 91 Bắc Thái (phường Gia Sàng) đón 208 đoàn với trên 50.100 lượt khách; tưởng niệm 60 TNXP hy sinh đêm 24/12/1972 tại ga Lưu Xá; do Trung tâm Dịch vụ tổng hợp phường Gia Sàng quản lý; bố trí trực, mở cửa xuyên suốt dịp Tết Nguyên đán 2026.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://thainguyen.gov.vn/di-tich-danh-lam-thang-canh/khu-di-tich-lich-su-quoc-gia-60-liet-si-thanh-nien-xung-phong-dai-doi-915-doi-91-bac-thai-291214",
+        "quote": "Cổng TTĐT tỉnh Thái Nguyên, mục Di tích (đọc 14/10/2026): khu di tích tọa lạc tại phường Gia Sàng; du khách dâng hương và tham quan không gian trưng bày với gần 350 hiện vật, tài liệu, tư liệu về 60 TNXP hy sinh đêm Noel năm 1972.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/khu-di-tich-dai-doi-915-dia-chi-do-giao-duc-truyen-thong",
+        "quote": "Báo Thái Nguyên, 01/09/2026 (đọc 14/10/2026): mỗi dịp nghỉ lễ 2/9 nhiều đoàn về dâng hương; có Nhà tưởng niệm 60 liệt sĩ TNXP; các liệt sĩ hy sinh sau trận bom Mỹ ném xuống ga Lưu Xá đêm Noel 24/12/1972 khi đang vận chuyển hàng chi viện chiến trường; có hướng dẫn viên tại khu di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "khu di tích đại đội 915"
+      }
+    ],
+    "notes": "Không có nguồn giờ mở cửa, vé (có thể miễn phí nhưng chưa có nguồn) — không viết. Không có nguồn khoảng cách/đường đi cụ thể — chỉ nói phường Gia Sàng, gần ga Lưu Xá, link bài Hà Nội đi Thái Nguyên. Phường Gia Sàng thuộc TP Thái Nguyên cũ.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Khu di tích 915 ở đâu",
+      "Đêm 24/12/1972 ở ga Lưu Xá",
+      "Nhà tưởng niệm và gần 350 hiện vật",
+      "Dịp nào đông đoàn, mở cửa dịp Tết",
+      "Ghép với các điểm khác ở Thái Nguyên trong ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/",
+      "/du-lich/chua-hang-thai-nguyen/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00828.json",
+  "draft_template": {
+    "id": "TM-00828",
+    "url": "/du-lich/khu-di-tich-dai-doi-915-gia-sang/",
+    "title": "Khu di tích Đại đội 915 Gia Sàng: 60 liệt sĩ TNXP ga Lưu Xá 1972",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích đại đội 915, đại đội 915 thái nguyên, 60 liệt sĩ thanh niên xung phong, ga lưu xá, di tích 915 gia sàng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Khu di tích 915 ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Đêm 24/12/1972 ở ga Lưu Xá",
+        "<p></p>"
+      ],
+      [
+        "Nhà tưởng niệm và gần 350 hiện vật",
+        "<p></p>"
+      ],
+      [
+        "Dịp nào đông đoàn, mở cửa dịp Tết",
+        "<p></p>"
+      ],
+      [
+        "Ghép với các điểm khác ở Thái Nguyên trong ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thainguyen.gov.vn/di-va-den-thai-nguyen/tren-50-000-luot-khach-den-tham-quan-khu-di-tich-915-258413",
+        "quote": "Cổng TTĐT tỉnh Thái Nguyên, 2026 (đọc 14/10/2026): quý I/2026 Khu di tích lịch sử quốc gia 60 liệt sĩ TNXP Đại đội 915, Đội 91 Bắc Thái (phường Gia Sàng) đón 208 đoàn với trên 50.100 lượt khách; tưởng niệm 60 TNXP hy sinh đêm 24/12/1972 tại ga Lưu Xá; do Trung tâm Dịch vụ tổng hợp phường Gia Sàng quản lý; bố trí trực, mở cửa xuyên suốt dịp Tết Nguyên đán 2026.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://thainguyen.gov.vn/di-tich-danh-lam-thang-canh/khu-di-tich-lich-su-quoc-gia-60-liet-si-thanh-nien-xung-phong-dai-doi-915-doi-91-bac-thai-291214",
+        "quote": "Cổng TTĐT tỉnh Thái Nguyên, mục Di tích (đọc 14/10/2026): khu di tích tọa lạc tại phường Gia Sàng; du khách dâng hương và tham quan không gian trưng bày với gần 350 hiện vật, tài liệu, tư liệu về 60 TNXP hy sinh đêm Noel năm 1972.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/khu-di-tich-dai-doi-915-dia-chi-do-giao-duc-truyen-thong",
+        "quote": "Báo Thái Nguyên, 01/09/2026 (đọc 14/10/2026): mỗi dịp nghỉ lễ 2/9 nhiều đoàn về dâng hương; có Nhà tưởng niệm 60 liệt sĩ TNXP; các liệt sĩ hy sinh sau trận bom Mỹ ném xuống ga Lưu Xá đêm Noel 24/12/1972 khi đang vận chuyển hàng chi viện chiến trường; có hướng dẫn viên tại khu di tích.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00828"
+  }
+}

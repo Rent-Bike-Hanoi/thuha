@@ -1,0 +1,157 @@
+{
+  "writer": "writer-H1",
+  "queued": "2026-10-14T14:54:33.287696+00:00",
+  "topic": {
+    "topic_id": "TM-00818",
+    "url": "/du-lich/ho-yen-trung-uong-bi/",
+    "title": "Hồ Yên Trung Uông Bí: hồ 100 ha giữa rừng thông, cắm trại, chèo kayak",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ yên trung",
+    "secondary_keywords": [
+      "hồ yên trung uông bí",
+      "đà lạt thu nhỏ quảng ninh",
+      "cắm trại hồ yên trung",
+      "hồ yên trung phương đông"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người ở Hà Nội đi Hạ Long hay Yên Tử muốn dừng nghỉ cắm trại ở hồ Yên Trung: rẽ từ quốc lộ 18 ở đâu, có dịch vụ gì, quy định cấm bơi, câu cá.",
+    "information_gain": "Chưa có bài nào về hồ Yên Trung; /du-lich/chua-ba-vang-uong-bi/ và bài Yên Tử chỉ là điểm lân cận. Bài mới: hồ khoảng 100 ha ở phường Phương Đông (Uông Bí cũ), từ trung tâm đi quốc lộ 18A khoảng 5 km tới UBND phường rồi hơn 1 km tới hồ, cách Hà Nội khoảng 115 km; hai đảo giữa hồ; dịch vụ cắm trại do 8 hộ kinh doanh, kayak; quy định cấm bơi, câu cá, đốt lửa; công nhận khu du lịch cấp tỉnh (2019/2020); hướng phát triển giữ nguyên lõi hồ và rừng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=3700",
+        "quote": "Cổng Du lịch Quảng Ninh, 'Ghé \"Đà Lạt thu nhỏ\" một chiều hè' (không ghi ngày, đọc 14/10/2026): khu du lịch có dịch vụ cắm trại, giao lưu âm nhạc, ăn uống, teambuilding; được đầu tư điện chiếu sáng, nước, khuôn viên, mở đường, bãi đỗ xe; quản lý giao cho Tổ công tác hồ Yên Trung (BQL Di tích – Danh thắng Yên Tử), phối hợp 8 điểm hộ kinh doanh; dựng biển báo nghiêm cấm bơi lội, đánh bắt, câu cá; yêu cầu không đốt lửa. Khu du lịch hồ Yên Trung được công nhận khu du lịch cấp tỉnh từ cuối năm 2019.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/ho-yen-trung-da-lat-tho-mong-cua-quang-ninh-post2506486.html",
+        "quote": "Báo Quảng Ninh, 26/10/2020 (đọc 14/10/2026): hồ ở phường Phương Đông, khoảng 100 ha; từ trung tâm Uông Bí đi quốc lộ 18A khoảng 5 km tới UBND phường Phương Đông, đi tiếp hơn 1 km tới hồ; từ Hà Nội theo quốc lộ 18A khoảng 115 km, chưa đầy 3 giờ; giữa hồ có hai đảo; có cầu tình yêu, vườn hoa; thuê kayak 80.000–100.000 đồng/tiếng (năm 2020); đến hết tháng 10/2020 gần 80.000 lượt khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/check-in/nang-vang-thong-xanh-noi-da-lat-thu-nho-giua-long-quang-ninh-post1043216.vov",
+        "quote": "VOV.VN, 04/09/2023 (đọc 14/10/2026, qua WebFetch): hồ Yên Trung ở phường Phương Đông, gần quốc lộ 18A, diện tích 100 ha; từ năm 2018 được đầu tư chiếu sáng, cấp nước, khuôn viên, đường đi; dịch vụ chèo thuyền, ăn uống, cho thuê lều trại do người dân cung cấp; hai đảo giữa hồ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/uong-bi-doi-huong-phat-trien-khu-du-lich-ho-yen-trung-post3179958.html",
+        "quote": "Báo Quảng Ninh, 26/03/2022 (đọc 14/10/2026, qua WebFetch): hồ được công nhận khu du lịch cấp tỉnh năm 2020; Uông Bí đổi hướng giữ nguyên lõi hồ và rừng, chỉ làm lối đi bộ nhỏ, dịch vụ nhỏ do dân làm; dự án lớn đẩy ra vùng đệm; phế tích chùa Quốc Dưỡng sau hồ sẽ lập hồ sơ di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hồ yên trung"
+      }
+    ],
+    "notes": "Mâu thuẫn năm công nhận khu du lịch cấp tỉnh: 'cuối năm 2019' (Cổng Du lịch QN) vs 'năm 2020' (Báo QN 2022). Giá kayak là số liệu 2020, chỉ để trong thân bài kèm năm, không đưa vào tiêu đề. Báo QN 2020 nhắc dự án FLC dự kiến công bố cuối 11/2020 — bài 2022 cho thấy đã đổi hướng; không viết là dự án đang có. Diện tích 'trên 1.000 ha' trong một bài khác (chỉ xem đoạn trích) là cả quần thể, không dùng. Uông Bí nay là phường của thành phố Quảng Ninh; không viết 'tỉnh'.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Hồ Yên Trung ở đâu, rẽ từ quốc lộ 18 thế nào",
+      "Hồ 100 ha, hai đảo và rừng thông: xem gì",
+      "Cắm trại, kayak và các hộ dịch vụ",
+      "Những điều bị cấm: bơi, câu cá, đốt lửa",
+      "Ghép với chùa Ba Vàng, Yên Tử trong một ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-ba-vang-uong-bi/",
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00818.json",
+  "draft_template": {
+    "id": "TM-00818",
+    "url": "/du-lich/ho-yen-trung-uong-bi/",
+    "title": "Hồ Yên Trung Uông Bí: hồ 100 ha giữa rừng thông, cắm trại, chèo kayak",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ yên trung, hồ yên trung uông bí, đà lạt thu nhỏ quảng ninh, cắm trại hồ yên trung, hồ yên trung phương đông",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Hồ Yên Trung ở đâu, rẽ từ quốc lộ 18 thế nào",
+        "<p></p>"
+      ],
+      [
+        "Hồ 100 ha, hai đảo và rừng thông: xem gì",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại, kayak và các hộ dịch vụ",
+        "<p></p>"
+      ],
+      [
+        "Những điều bị cấm: bơi, câu cá, đốt lửa",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chùa Ba Vàng, Yên Tử trong một ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=3700",
+        "quote": "Cổng Du lịch Quảng Ninh, 'Ghé \"Đà Lạt thu nhỏ\" một chiều hè' (không ghi ngày, đọc 14/10/2026): khu du lịch có dịch vụ cắm trại, giao lưu âm nhạc, ăn uống, teambuilding; được đầu tư điện chiếu sáng, nước, khuôn viên, mở đường, bãi đỗ xe; quản lý giao cho Tổ công tác hồ Yên Trung (BQL Di tích – Danh thắng Yên Tử), phối hợp 8 điểm hộ kinh doanh; dựng biển báo nghiêm cấm bơi lội, đánh bắt, câu cá; yêu cầu không đốt lửa. Khu du lịch hồ Yên Trung được công nhận khu du lịch cấp tỉnh từ cuối năm 2019.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/ho-yen-trung-da-lat-tho-mong-cua-quang-ninh-post2506486.html",
+        "quote": "Báo Quảng Ninh, 26/10/2020 (đọc 14/10/2026): hồ ở phường Phương Đông, khoảng 100 ha; từ trung tâm Uông Bí đi quốc lộ 18A khoảng 5 km tới UBND phường Phương Đông, đi tiếp hơn 1 km tới hồ; từ Hà Nội theo quốc lộ 18A khoảng 115 km, chưa đầy 3 giờ; giữa hồ có hai đảo; có cầu tình yêu, vườn hoa; thuê kayak 80.000–100.000 đồng/tiếng (năm 2020); đến hết tháng 10/2020 gần 80.000 lượt khách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/check-in/nang-vang-thong-xanh-noi-da-lat-thu-nho-giua-long-quang-ninh-post1043216.vov",
+        "quote": "VOV.VN, 04/09/2023 (đọc 14/10/2026, qua WebFetch): hồ Yên Trung ở phường Phương Đông, gần quốc lộ 18A, diện tích 100 ha; từ năm 2018 được đầu tư chiếu sáng, cấp nước, khuôn viên, đường đi; dịch vụ chèo thuyền, ăn uống, cho thuê lều trại do người dân cung cấp; hai đảo giữa hồ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/uong-bi-doi-huong-phat-trien-khu-du-lich-ho-yen-trung-post3179958.html",
+        "quote": "Báo Quảng Ninh, 26/03/2022 (đọc 14/10/2026, qua WebFetch): hồ được công nhận khu du lịch cấp tỉnh năm 2020; Uông Bí đổi hướng giữ nguyên lõi hồ và rừng, chỉ làm lối đi bộ nhỏ, dịch vụ nhỏ do dân làm; dự án lớn đẩy ra vùng đệm; phế tích chùa Quốc Dưỡng sau hồ sẽ lập hồ sơ di tích.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00818"
+  }
+}

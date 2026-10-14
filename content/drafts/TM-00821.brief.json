@@ -1,0 +1,158 @@
+{
+  "writer": "writer-H2",
+  "queued": "2026-10-14T14:54:33.784413+00:00",
+  "topic": {
+    "topic_id": "TM-00821",
+    "url": "/du-lich/chua-phat-tich-truc-lam-ban-gioc/",
+    "title": "Chùa Phật Tích Trúc Lâm Bản Giốc: chùa trên núi Phia Nhằm nhìn xuống thác",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa phật tích trúc lâm bản giốc",
+    "secondary_keywords": [
+      "chùa trúc lâm bản giốc",
+      "chùa bản giốc",
+      "núi phia nhằm",
+      "chùa cạnh thác bản giốc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi thác Bản Giốc bằng xe máy muốn lên chùa Phật Tích Trúc Lâm ngay cạnh thác: chùa có gì, leo bậc thế nào, đứng đâu ngắm thác.",
+    "information_gain": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/ chỉ ghi chùa cách thác khoảng 700 m; /du-lich/dong-nguom-ngao/ và /du-lich/lang-da-khuoi-ky/ là điểm lân cận. Bài mới cho riêng chùa: trên núi Phia Nhằm, xã Đàm Thủy; khởi công 15/6/2013, khánh thành 15/12/2014; các hạng mục (tam quan, lầu chuông Đại hồng chung Thiên Bảo 1,5 tấn, tượng Quan Thế Âm, tam bảo, đền thờ Nùng Trí Cao, nhà thờ Bác Hồ và Đại tướng Võ Nguyên Giáp); cửa động trong núi trên đường lên tam bảo; sân chùa nhìn toàn cảnh thác; lối lên hàng trăm bậc đá.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/chu-tich-nuoc-cat-bang-khanh-thanh-chua-phat-tich-truc-lam-ban-gioc-1419278710.htm",
+        "quote": "Dân trí, 15/12/2014 (đọc 14/10/2026): khánh thành chùa ngày 15/12/2014 tại xã Đàm Thủy, huyện Trùng Khánh; 'ngôi chùa đầu tiên được xây dựng ở nơi biên cương phía Bắc', ngay cạnh thác Bản Giốc; khởi công 6/2013, trên núi Phia Nhằm, diện tích 3 ha; hạng mục: tam quan, lầu chuông, lầu trống, bia đá, tam bảo, nhà thờ Tổ, nhà thờ Mẫu, đền thờ anh hùng dân tộc, đền thờ Chủ tịch Hồ Chí Minh, Đại tướng Võ Nguyên Giáp; lầu chuông Đại hồng chung Thiên Bảo bằng đồng nặng 1,5 tấn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ngoi-chua-ben-thac-ban-gioc-3118057.html",
+        "quote": "VnExpress, 10/12/2014 (đọc 14/10/2026): chùa khởi công 6/2013 tại núi Phia Nhằm bên thác Bản Giốc; lối lên chùa gồm hàng trăm bậc đá; có đền thờ Nùng Trí Cao; công trình trên diện tích 2 ha, kinh phí khoảng 38 tỷ đồng; từ sân chùa lưng chừng núi nhìn được toàn cảnh thác Bản Giốc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://caobang.gov.vn/viet-ve-cao-bang/chua-thieng-tran-ai-vung-bien-608872",
+        "quote": "Cổng TTĐT tỉnh Cao Bằng, 'Chùa thiêng trấn ải vùng biên', 16/09/2016 (đọc 14/10/2026): chùa khánh thành cuối 2014, diện tích gần 3 ha; khởi công 15/6/2013, khánh thành 15/12/2014; có đền thờ Nùng Trí Cao, Tổ Hùng Vương, nhà thờ Chủ tịch Hồ Chí Minh và Đại tướng Võ Nguyên Giáp, bãi đỗ xe; có tuyến xe buýt từ TP Cao Bằng về chùa (theo lời kể năm 2016).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Chiem-nguong-Chua-Phat-tich-Truc-lam-Ban-Gioc-39111.html",
+        "quote": "Báo Cao Bằng (không ghi rõ ngày, đọc 14/10/2026): chùa bên sườn Phja Nhằm, Bản Giốc, xã Đàm Thủy, tổng diện tích 3 ha; có vườn địa đàng, vườn tượng La Hán; trên đường lên Tam Bảo có vòm hang như miệng rồng ngậm ngọc quay ra hướng thác — cửa động trong núi Phja Nhằm; từ sân chùa ngắm trọn thác Bản Giốc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa phật tích trúc lâm bản giốc"
+      }
+    ],
+    "notes": "Mâu thuẫn diện tích: 3 ha (Dân trí, Báo Cao Bằng), 'gần 3 ha' (Cổng TT), 2 ha (VnExpress) — ghi cả. Khoảng cách chùa – thác: bài Cao Bằng hiện có ghi khoảng 700 m (VnExpress 2023); VOV ghi khoảng 500 m nhưng chỉ thấy đoạn trích — không dùng 500 m. Xe buýt là thông tin 2016, không viết là còn chạy. Không có nguồn giờ mở cửa/vé chùa. Không viết về cột mốc, chợ biên giới hay thủ tục biên phòng.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Chùa nằm ở đâu so với thác Bản Giốc",
+      "Xây 2013–2014: các hạng mục chính",
+      "Lầu chuông 1,5 tấn, cửa động trong núi Phia Nhằm",
+      "Đền thờ Nùng Trí Cao và nhà thờ Bác Hồ, Đại tướng",
+      "Leo bậc đá, chỗ ngắm thác và ghép lịch trình"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/dong-nguom-ngao/",
+      "/du-lich/lang-da-khuoi-ky/",
+      "/du-lich/khu-di-tich-pac-bo/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00821.json",
+  "draft_template": {
+    "id": "TM-00821",
+    "url": "/du-lich/chua-phat-tich-truc-lam-ban-gioc/",
+    "title": "Chùa Phật Tích Trúc Lâm Bản Giốc: chùa trên núi Phia Nhằm nhìn xuống thác",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa phật tích trúc lâm bản giốc, chùa trúc lâm bản giốc, chùa bản giốc, núi phia nhằm, chùa cạnh thác bản giốc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Chùa nằm ở đâu so với thác Bản Giốc",
+        "<p></p>"
+      ],
+      [
+        "Xây 2013–2014: các hạng mục chính",
+        "<p></p>"
+      ],
+      [
+        "Lầu chuông 1,5 tấn, cửa động trong núi Phia Nhằm",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ Nùng Trí Cao và nhà thờ Bác Hồ, Đại tướng",
+        "<p></p>"
+      ],
+      [
+        "Leo bậc đá, chỗ ngắm thác và ghép lịch trình",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/thoi-su/chu-tich-nuoc-cat-bang-khanh-thanh-chua-phat-tich-truc-lam-ban-gioc-1419278710.htm",
+        "quote": "Dân trí, 15/12/2014 (đọc 14/10/2026): khánh thành chùa ngày 15/12/2014 tại xã Đàm Thủy, huyện Trùng Khánh; 'ngôi chùa đầu tiên được xây dựng ở nơi biên cương phía Bắc', ngay cạnh thác Bản Giốc; khởi công 6/2013, trên núi Phia Nhằm, diện tích 3 ha; hạng mục: tam quan, lầu chuông, lầu trống, bia đá, tam bảo, nhà thờ Tổ, nhà thờ Mẫu, đền thờ anh hùng dân tộc, đền thờ Chủ tịch Hồ Chí Minh, Đại tướng Võ Nguyên Giáp; lầu chuông Đại hồng chung Thiên Bảo bằng đồng nặng 1,5 tấn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ngoi-chua-ben-thac-ban-gioc-3118057.html",
+        "quote": "VnExpress, 10/12/2014 (đọc 14/10/2026): chùa khởi công 6/2013 tại núi Phia Nhằm bên thác Bản Giốc; lối lên chùa gồm hàng trăm bậc đá; có đền thờ Nùng Trí Cao; công trình trên diện tích 2 ha, kinh phí khoảng 38 tỷ đồng; từ sân chùa lưng chừng núi nhìn được toàn cảnh thác Bản Giốc.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://caobang.gov.vn/viet-ve-cao-bang/chua-thieng-tran-ai-vung-bien-608872",
+        "quote": "Cổng TTĐT tỉnh Cao Bằng, 'Chùa thiêng trấn ải vùng biên', 16/09/2016 (đọc 14/10/2026): chùa khánh thành cuối 2014, diện tích gần 3 ha; khởi công 15/6/2013, khánh thành 15/12/2014; có đền thờ Nùng Trí Cao, Tổ Hùng Vương, nhà thờ Chủ tịch Hồ Chí Minh và Đại tướng Võ Nguyên Giáp, bãi đỗ xe; có tuyến xe buýt từ TP Cao Bằng về chùa (theo lời kể năm 2016).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Chiem-nguong-Chua-Phat-tich-Truc-lam-Ban-Gioc-39111.html",
+        "quote": "Báo Cao Bằng (không ghi rõ ngày, đọc 14/10/2026): chùa bên sườn Phja Nhằm, Bản Giốc, xã Đàm Thủy, tổng diện tích 3 ha; có vườn địa đàng, vườn tượng La Hán; trên đường lên Tam Bảo có vòm hang như miệng rồng ngậm ngọc quay ra hướng thác — cửa động trong núi Phja Nhằm; từ sân chùa ngắm trọn thác Bản Giốc.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00821"
+  }
+}

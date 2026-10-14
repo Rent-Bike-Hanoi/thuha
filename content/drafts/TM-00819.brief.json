@@ -1,0 +1,170 @@
+{
+  "writer": "writer-H1",
+  "queued": "2026-10-14T14:54:33.527478+00:00",
+  "topic": {
+    "topic_id": "TM-00819",
+    "url": "/du-lich/thac-dang-mo-binh-gia/",
+    "title": "Thác Đăng Mò Bình Gia: km 11 quốc lộ 279, cách Bắc Sơn 20 km, mùa nước",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác đăng mò",
+    "secondary_keywords": [
+      "thác đăng mò bình gia",
+      "thác mũi bò lạng sơn",
+      "thác đăng mò bắc sơn",
+      "quốc lộ 279"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người đi Bắc Sơn bằng xe máy muốn ghé thác Đăng Mò tắm suối: đi đường nào từ Bắc Sơn, thác có nước quanh năm không, có dịch vụ gì.",
+    "information_gain": "/du-lich/bac-son-di-xe-may-tu-ha-noi/ chỉ nhắc Đăng Mò trong một câu; chưa có bài riêng. Bài mới: thác ở km 11 quốc lộ 279 (Bình Gia đi Na Rì), nơi giáp 3 xã Mông Ân, Thiện Thuật, Hoàng Văn Thụ; từ thị trấn Bắc Sơn theo quốc lộ 1B khoảng 10 km rồi rẽ trái quốc lộ 279; cách TP Lạng Sơn khoảng 90 km; tên 'mũi bò', 3 tầng, dài khoảng trăm mét; được công nhận điểm du lịch 6/2020; từng cạn từ 7/2020 — cần hỏi trước khi đi mùa khô; dự án 15 ha khởi công 2017.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://sovhtt.langson.gov.vn/tin-tuc-su-kien/linh-vuc-du-lich/khai-thac-tiem-nang-du-lich-thac-dang-mo-huyen-binh-gia.html",
+        "quote": "Sở VHTTDL Lạng Sơn (không ghi ngày, đọc 14/10/2026): thác cách TP Lạng Sơn khoảng 90 km, ở cây số 11 quốc lộ 279 từ Bình Gia đi Na Rì, giáp 3 xã Mông Ân, Thiện Thuật, Hoàng Văn Thụ; còn gọi thác Mũi Bò vì 2 dòng suối nhập lại; từ đỉnh tới chân thác khoảng trăm mét; được công nhận điểm du lịch của tỉnh tháng 6/2020; cách thị trấn Bắc Sơn khoảng 20 km về hướng Bắc: theo quốc lộ 1B khoảng 10 km rồi rẽ trái quốc lộ 279 tới km 11; có nước quanh năm, mùa mưa nhiều nước hơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/thac-dang-mo-ve-dep-nen-tho-huyen-bi-1444182.html",
+        "quote": "Báo Lạng Sơn (không ghi ngày, đọc 14/10/2026): thác nằm sát quốc lộ 279 từ Lạng Sơn đi Bắc Kạn, cách TP Lạng Sơn khoảng 90 km; huyện Bình Gia đầu tư điểm du lịch khoảng 15 ha (ngắm cảnh, câu cá, cắm trại, ẩm thực); thác bắt nguồn từ mạch nước ngầm trong núi đá vôi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Lạng Sơn 2023' (đọc 14/10/2026): thác Đăng Mò thuộc huyện Bình Gia, cách Bắc Sơn 20 km; hai dòng suối là mạch nước ngầm dãy núi đá Bắc Sơn nhập lại trông như mũi bò; nước đổ tạo thành ba tầng; quanh năm nước đổ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/trien-vong-tu-du-an-khu-du-lich-sinh-thai-thac-dang-mo-1128448.html",
+        "quote": "Báo Lạng Sơn (2017, đọc 14/10/2026): tháng 2/2017 huyện Bình Gia phê duyệt Khu du lịch sinh thái thác Đăng Mò 60 tỷ đồng, diện tích 15 ha, chủ đầu tư Công ty TNHH Minh Hợp; khởi công 21/4/2017; dự kiến phục vụ 600–800 khách/ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/khu-du-lich-thac-dang-mo-vang-khach-do-can-kiet-nguon-nuoc-1300361.html",
+        "quote": "Báo Lạng Sơn (2020, đọc 14/10/2026): khu vực thác Đăng Mò khô hạn từ đầu tháng 7/2020 do nắng nóng, không mưa; tháng 6/2020 đón khoảng 2.800 lượt khách, từ đầu tháng 7/2020 không có khách; người dân nói hiện tượng cạn chưa từng xảy ra.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "thác đăng mò"
+      }
+    ],
+    "notes": "Mâu thuẫn: các nguồn nói 'nước quanh năm' nhưng Báo Lạng Sơn ghi thác cạn từ 7/2020 — viết cả hai, khuyên hỏi địa phương trước mùa khô. Có thu vé năm 2020 (doanh thu bán vé) nhưng không có giá vé — không viết giá. Không xác nhận tình trạng dự án Minh Hợp sau 2018. Bình Gia/Bắc Sơn sau sắp xếp 2025 là xã; giữ tên cũ kèm chú thích.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Thác Đăng Mò ở đâu: km 11 quốc lộ 279",
+      "Từ Bắc Sơn đi thác bằng xe máy",
+      "Thác 'mũi bò' ba tầng: xem và tắm ở đâu",
+      "Mùa nước và lần thác cạn năm 2020",
+      "Dịch vụ, dự án 15 ha và lưu ý an toàn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/ai-chi-lang-lang-son/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00819.json",
+  "draft_template": {
+    "id": "TM-00819",
+    "url": "/du-lich/thac-dang-mo-binh-gia/",
+    "title": "Thác Đăng Mò Bình Gia: km 11 quốc lộ 279, cách Bắc Sơn 20 km, mùa nước",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác đăng mò, thác đăng mò bình gia, thác mũi bò lạng sơn, thác đăng mò bắc sơn, quốc lộ 279",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Thác Đăng Mò ở đâu: km 11 quốc lộ 279",
+        "<p></p>"
+      ],
+      [
+        "Từ Bắc Sơn đi thác bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Thác 'mũi bò' ba tầng: xem và tắm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Mùa nước và lần thác cạn năm 2020",
+        "<p></p>"
+      ],
+      [
+        "Dịch vụ, dự án 15 ha và lưu ý an toàn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://sovhtt.langson.gov.vn/tin-tuc-su-kien/linh-vuc-du-lich/khai-thac-tiem-nang-du-lich-thac-dang-mo-huyen-binh-gia.html",
+        "quote": "Sở VHTTDL Lạng Sơn (không ghi ngày, đọc 14/10/2026): thác cách TP Lạng Sơn khoảng 90 km, ở cây số 11 quốc lộ 279 từ Bình Gia đi Na Rì, giáp 3 xã Mông Ân, Thiện Thuật, Hoàng Văn Thụ; còn gọi thác Mũi Bò vì 2 dòng suối nhập lại; từ đỉnh tới chân thác khoảng trăm mét; được công nhận điểm du lịch của tỉnh tháng 6/2020; cách thị trấn Bắc Sơn khoảng 20 km về hướng Bắc: theo quốc lộ 1B khoảng 10 km rồi rẽ trái quốc lộ 279 tới km 11; có nước quanh năm, mùa mưa nhiều nước hơn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/thac-dang-mo-ve-dep-nen-tho-huyen-bi-1444182.html",
+        "quote": "Báo Lạng Sơn (không ghi ngày, đọc 14/10/2026): thác nằm sát quốc lộ 279 từ Lạng Sơn đi Bắc Kạn, cách TP Lạng Sơn khoảng 90 km; huyện Bình Gia đầu tư điểm du lịch khoảng 15 ha (ngắm cảnh, câu cá, cắm trại, ẩm thực); thác bắt nguồn từ mạch nước ngầm trong núi đá vôi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-lang-son-4660039.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Lạng Sơn 2023' (đọc 14/10/2026): thác Đăng Mò thuộc huyện Bình Gia, cách Bắc Sơn 20 km; hai dòng suối là mạch nước ngầm dãy núi đá Bắc Sơn nhập lại trông như mũi bò; nước đổ tạo thành ba tầng; quanh năm nước đổ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/trien-vong-tu-du-an-khu-du-lich-sinh-thai-thac-dang-mo-1128448.html",
+        "quote": "Báo Lạng Sơn (2017, đọc 14/10/2026): tháng 2/2017 huyện Bình Gia phê duyệt Khu du lịch sinh thái thác Đăng Mò 60 tỷ đồng, diện tích 15 ha, chủ đầu tư Công ty TNHH Minh Hợp; khởi công 21/4/2017; dự kiến phục vụ 600–800 khách/ngày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/khu-du-lich-thac-dang-mo-vang-khach-do-can-kiet-nguon-nuoc-1300361.html",
+        "quote": "Báo Lạng Sơn (2020, đọc 14/10/2026): khu vực thác Đăng Mò khô hạn từ đầu tháng 7/2020 do nắng nóng, không mưa; tháng 6/2020 đón khoảng 2.800 lượt khách, từ đầu tháng 7/2020 không có khách; người dân nói hiện tượng cạn chưa từng xảy ra.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00819"
+  }
+}

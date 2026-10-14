@@ -1,0 +1,144 @@
+{
+  "writer": "writer-H3",
+  "queued": "2026-10-14T14:54:34.756717+00:00",
+  "topic": {
+    "topic_id": "TM-00826",
+    "url": "/du-lich/don-phu-thong/",
+    "title": "Đồn Phủ Thông: di tích trận công đồn 25/7/1948 gần quốc lộ 3",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đồn phủ thông",
+    "secondary_keywords": [
+      "di tích đồn phủ thông",
+      "trận công đồn phủ thông",
+      "tiểu đoàn phủ thông",
+      "hội xuân phủ thông"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi quốc lộ 3 lên Ba Bể, Cao Bằng muốn ghé di tích đồn Phủ Thông: nằm ở đâu, còn lại gì, có đáng dừng không.",
+    "information_gain": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/ chỉ nhắc Phủ Thông như địa danh trên đường; chưa có bài về di tích. Bài mới: đồn trên mỏm núi Nà Cọt cao gần 200 m, cách ngã ba Phủ Thông 300 m, cách thị xã Bắc Kạn cũ 18 km cạnh quốc lộ 3; đồn hình chữ nhật 100 x 50 m, tường đất nện dày 1 m, 4 lô cốt; trận 25/7/1948 là trận công đồn cấp tiểu đoàn đầu tiên; di tích quốc gia 23/7/1998; hiện chỉ còn nền và vài đoạn chân tường; dự án phục dựng 20 tỷ đồng khởi công 4/7/2026; hội xuân 20 tháng Giêng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bac-kan-ky-niem-75-nam-tran-cong-don-phu-thong-post763785.html",
+        "quote": "Nhân Dân, 24/07/2023 (đọc 14/10/2026): đồn nằm ở thị trấn Phủ Thông, huyện Bạch Thông, cách thị xã Bắc Kạn 18 km về phía Bắc – Đông Bắc, cạnh quốc lộ 3 đi Cao Bằng; xây trên mỏm núi Nà Cọt, độ cao gần 200 m, cách ngã ba Phủ Thông 300 m; 18 giờ ngày 25/7/1948 quân ta tấn công, tiêu diệt hơn 100 tên địch; trận cường tập quy mô cấp tiểu đoàn đầu tiên; ngày 23/7/1998 xếp hạng di tích lịch sử cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/len-bac-kan-tham-don-chien-thang-phu-thong-810088",
+        "quote": "Quân đội Nhân dân (đọc 14/10/2026, qua Tavily extract): chưa đầy 30 phút xe từ TP Bắc Kạn theo quốc lộ 3 hướng Cao Bằng, rẽ đường 128 Phủ Thông đi Chợ Rã; đồn hình chữ nhật dài 100 m, rộng 50 m, cổng chính phía Nam, tường đất nện dày 1 m, cao 2 m, 4 lô cốt ở 4 góc; hiện khu di tích chỉ còn nền và một vài đoạn chân tường; quân ta 3 lần tập kích đồn; Hội xuân Phủ Thông ngày 20 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thai-nguyen-khoi-cong-phuc-dung-ton-tao-di-tich-lich-su-don-phu-thong-post973527.html",
+        "quote": "Nhân Dân, 04/07/2026 (đọc 14/10/2026): ngày 4/7/2026 tại xã Phủ Thông, Bộ CHQS tỉnh Thái Nguyên khởi công dự án phục dựng, tôn tạo một số hạng mục di tích quốc gia đồn Phủ Thông, tổng mức 20 tỷ đồng; trận 25/7/1948 của Tiểu đoàn 11 (Trung đoàn 308) phối hợp Tiểu đoàn 55 và Đại đội Ba Bể, tiêu diệt và làm bị thương 3/4 quân số địch; Tiểu đoàn 11 được mang tên Tiểu đoàn Phủ Thông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đồn phủ thông"
+      }
+    ],
+    "notes": "Trong lúc thi công (khởi công 4/7/2026) khu di tích có thể đang rào chắn — nói rõ, khuyên hỏi trước. Thời gian 'chưa đầy 30 phút' là của phóng viên QĐND, chỉ dẫn nguồn. Số địch: 'hơn 100 tên' (Nhân Dân 2023) vs '3/4 quân số' (Nhân Dân 2026) — không mâu thuẫn trực tiếp, ghi cả. Bắc Kạn cũ nay thuộc tỉnh Thái Nguyên; thị trấn Phủ Thông nay là xã Phủ Thông.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Đồn Phủ Thông ở đâu, rẽ từ quốc lộ 3",
+      "Trận công đồn 25/7/1948",
+      "Hôm nay còn gì: nền đồn, chân tường, đài tưởng niệm",
+      "Dự án phục dựng 2026 và lưu ý khi ghé",
+      "Hội xuân 20 tháng Giêng và ghép lộ trình"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00826.json",
+  "draft_template": {
+    "id": "TM-00826",
+    "url": "/du-lich/don-phu-thong/",
+    "title": "Đồn Phủ Thông: di tích trận công đồn 25/7/1948 gần quốc lộ 3",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đồn phủ thông, di tích đồn phủ thông, trận công đồn phủ thông, tiểu đoàn phủ thông, hội xuân phủ thông",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Đồn Phủ Thông ở đâu, rẽ từ quốc lộ 3",
+        "<p></p>"
+      ],
+      [
+        "Trận công đồn 25/7/1948",
+        "<p></p>"
+      ],
+      [
+        "Hôm nay còn gì: nền đồn, chân tường, đài tưởng niệm",
+        "<p></p>"
+      ],
+      [
+        "Dự án phục dựng 2026 và lưu ý khi ghé",
+        "<p></p>"
+      ],
+      [
+        "Hội xuân 20 tháng Giêng và ghép lộ trình",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/bac-kan-ky-niem-75-nam-tran-cong-don-phu-thong-post763785.html",
+        "quote": "Nhân Dân, 24/07/2023 (đọc 14/10/2026): đồn nằm ở thị trấn Phủ Thông, huyện Bạch Thông, cách thị xã Bắc Kạn 18 km về phía Bắc – Đông Bắc, cạnh quốc lộ 3 đi Cao Bằng; xây trên mỏm núi Nà Cọt, độ cao gần 200 m, cách ngã ba Phủ Thông 300 m; 18 giờ ngày 25/7/1948 quân ta tấn công, tiêu diệt hơn 100 tên địch; trận cường tập quy mô cấp tiểu đoàn đầu tiên; ngày 23/7/1998 xếp hạng di tích lịch sử cấp quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/len-bac-kan-tham-don-chien-thang-phu-thong-810088",
+        "quote": "Quân đội Nhân dân (đọc 14/10/2026, qua Tavily extract): chưa đầy 30 phút xe từ TP Bắc Kạn theo quốc lộ 3 hướng Cao Bằng, rẽ đường 128 Phủ Thông đi Chợ Rã; đồn hình chữ nhật dài 100 m, rộng 50 m, cổng chính phía Nam, tường đất nện dày 1 m, cao 2 m, 4 lô cốt ở 4 góc; hiện khu di tích chỉ còn nền và một vài đoạn chân tường; quân ta 3 lần tập kích đồn; Hội xuân Phủ Thông ngày 20 tháng Giêng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thai-nguyen-khoi-cong-phuc-dung-ton-tao-di-tich-lich-su-don-phu-thong-post973527.html",
+        "quote": "Nhân Dân, 04/07/2026 (đọc 14/10/2026): ngày 4/7/2026 tại xã Phủ Thông, Bộ CHQS tỉnh Thái Nguyên khởi công dự án phục dựng, tôn tạo một số hạng mục di tích quốc gia đồn Phủ Thông, tổng mức 20 tỷ đồng; trận 25/7/1948 của Tiểu đoàn 11 (Trung đoàn 308) phối hợp Tiểu đoàn 55 và Đại đội Ba Bể, tiêu diệt và làm bị thương 3/4 quân số địch; Tiểu đoàn 11 được mang tên Tiểu đoàn Phủ Thông.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00826"
+  }
+}

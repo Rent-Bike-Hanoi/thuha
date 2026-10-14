@@ -1,0 +1,157 @@
+{
+  "writer": "writer-H2",
+  "queued": "2026-10-14T14:54:34.255507+00:00",
+  "topic": {
+    "topic_id": "TM-00824",
+    "url": "/du-lich/ho-ban-viet-trung-khanh/",
+    "title": "Hồ Bản Viết Trùng Khánh: hồ 5 ha, mùa lá sau sau đỏ tháng 12 và tháng 1",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ bản viết",
+    "secondary_keywords": [
+      "hồ bản viết cao bằng",
+      "mùa lá đỏ trùng khánh",
+      "cây sau sau cao bằng",
+      "hồ bản viết phong châu"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi Bản Giốc bằng xe máy cuối năm muốn ghé hồ Bản Viết ngắm lá đỏ: rẽ ở đâu, mùa lá đỏ kéo dài bao lâu, có dịch vụ gì.",
+    "information_gain": "Chưa có bài nào về hồ Bản Viết; /du-lich/ha-noi-di-cao-bang-bang-xe-may/ và /du-lich/lang-da-khuoi-ky/ không nhắc. Bài mới: hồ nhân tạo khoảng 5 ha, 4 nhánh, ở xóm Bản Viết – Tân Phong, xã Phong Châu (Trùng Khánh cũ); từ thị trấn Trùng Khánh đi hướng thác 8–10 km rồi rẽ khoảng 3 km; mùa lá sau sau (phong hương) đổi màu tháng 12 đến cuối tháng 1, có năm chỉ khoảng 2 tuần; sáng sớm 3–10 độ C; đi bè mảng với người dân, chèo SUP, cắm trại; dịch vụ còn ít.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/rung-cay-la-do-nhuom-mau-ho-nhan-tao-tai-cao-bang-nhu-o-chau-au-20251218112703548.htm",
+        "quote": "Dân trí, 18/12/2025 (đọc 14/10/2026): hồ nhân tạo rộng khoảng 5 ha, chia 4 nhánh; mùa phong hương đổi màu ở Trùng Khánh từ tháng 12 đến cuối tháng 1 năm sau; từ Hà Nội theo cao tốc Hà Nội – Bắc Giang, quốc lộ 3A tới thị trấn Trùng Khánh rồi đi tiếp về hướng Bắc 13 km; cây sau sau cao tới 10 m, ngả đỏ đẹp nhất cuối tháng 12; buổi sáng khoảng 3–10 độ C; du khách có thể ngồi thuyền.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/media/mua-la-do-nhu-tien-canh-tren-rung-cay-sau-sau-o-cao-bang-1432638.html",
+        "quote": "Lao Động, 11/12/2024 (đọc 14/10/2026, nội dung qua Tavily extract): từ thị trấn Trùng Khánh đi khoảng 10 km rồi rẽ khoảng 3 km hướng xóm Bản Viết, xã Phong Châu; hồ nhân tạo rộng 5 ha; từ tháng 11 đến tháng 1 rừng sau sau chuyển đỏ vàng; năm đó mùa lá đỏ chỉ kéo dài độ 2 tuần do cây già; quanh hồ chưa có dịch vụ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Ho-Ban-Viet-Mot-dia-chi-du-lich-Trekking-hap-dan-39431.html",
+        "quote": "Báo Cao Bằng (đọc 14/10/2026): hồ ở 2 xóm Bản Viết, Tân Phong, xã Phong Châu, rộng 5 ha, 4 nhánh; đi ô tô/xe máy hoặc theo người dân bằng bè mảng quanh lòng hồ; từ TP Cao Bằng theo quốc lộ 3, tỉnh lộ 206 qua thị trấn Trùng Khánh khoảng 8 km, rẽ phải đường nông thôn mới khoảng 3 km.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Cao Bằng 2026' (đọc 14/10/2026): từ thị trấn Trùng Khánh đi thác Bản Giốc khoảng 10 km rồi rẽ khoảng 3 km tới xóm Bản Viết, xã Phong Châu; đẹp nhất mùa thu đông khi cây thay lá; hợp dã ngoại, cắm trại, trekking, chèo SUP.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hồ bản viết"
+      }
+    ],
+    "notes": "Mâu thuẫn mùa lá: tháng 11–1 (Lao Động) vs tháng 12–cuối tháng 1 (Dân trí, VnExpress 'Rừng Trùng Khánh mùa lá đỏ') — tiêu đề dùng 12–1 theo Dân trí; khoảng cách rẽ: 8 km (Báo CB) / 10 km (Lao Động, VnExpress) / 13 km tổng (Dân trí). Lao Động 2024 nói chưa có dịch vụ; VnExpress 2026 nhắc SUP — nói dịch vụ còn ít, hỏi tại chỗ. Không có nguồn vé.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Hồ Bản Viết ở đâu, rẽ từ đường đi Bản Giốc",
+      "Hồ nhân tạo 5 ha, 4 nhánh: ngắm ở đâu",
+      "Mùa lá sau sau: tháng nào, kéo dài bao lâu",
+      "Bè mảng, SUP, cắm trại và dịch vụ còn ít",
+      "Đi sáng sớm mùa lạnh: chuẩn bị gì"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/lang-da-khuoi-ky/",
+      "/du-lich/dong-nguom-ngao/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00824.json",
+  "draft_template": {
+    "id": "TM-00824",
+    "url": "/du-lich/ho-ban-viet-trung-khanh/",
+    "title": "Hồ Bản Viết Trùng Khánh: hồ 5 ha, mùa lá sau sau đỏ tháng 12 và tháng 1",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ bản viết, hồ bản viết cao bằng, mùa lá đỏ trùng khánh, cây sau sau cao bằng, hồ bản viết phong châu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Hồ Bản Viết ở đâu, rẽ từ đường đi Bản Giốc",
+        "<p></p>"
+      ],
+      [
+        "Hồ nhân tạo 5 ha, 4 nhánh: ngắm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Mùa lá sau sau: tháng nào, kéo dài bao lâu",
+        "<p></p>"
+      ],
+      [
+        "Bè mảng, SUP, cắm trại và dịch vụ còn ít",
+        "<p></p>"
+      ],
+      [
+        "Đi sáng sớm mùa lạnh: chuẩn bị gì",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/rung-cay-la-do-nhuom-mau-ho-nhan-tao-tai-cao-bang-nhu-o-chau-au-20251218112703548.htm",
+        "quote": "Dân trí, 18/12/2025 (đọc 14/10/2026): hồ nhân tạo rộng khoảng 5 ha, chia 4 nhánh; mùa phong hương đổi màu ở Trùng Khánh từ tháng 12 đến cuối tháng 1 năm sau; từ Hà Nội theo cao tốc Hà Nội – Bắc Giang, quốc lộ 3A tới thị trấn Trùng Khánh rồi đi tiếp về hướng Bắc 13 km; cây sau sau cao tới 10 m, ngả đỏ đẹp nhất cuối tháng 12; buổi sáng khoảng 3–10 độ C; du khách có thể ngồi thuyền.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/media/mua-la-do-nhu-tien-canh-tren-rung-cay-sau-sau-o-cao-bang-1432638.html",
+        "quote": "Lao Động, 11/12/2024 (đọc 14/10/2026, nội dung qua Tavily extract): từ thị trấn Trùng Khánh đi khoảng 10 km rồi rẽ khoảng 3 km hướng xóm Bản Viết, xã Phong Châu; hồ nhân tạo rộng 5 ha; từ tháng 11 đến tháng 1 rừng sau sau chuyển đỏ vàng; năm đó mùa lá đỏ chỉ kéo dài độ 2 tuần do cây già; quanh hồ chưa có dịch vụ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Ho-Ban-Viet-Mot-dia-chi-du-lich-Trekking-hap-dan-39431.html",
+        "quote": "Báo Cao Bằng (đọc 14/10/2026): hồ ở 2 xóm Bản Viết, Tân Phong, xã Phong Châu, rộng 5 ha, 4 nhánh; đi ô tô/xe máy hoặc theo người dân bằng bè mảng quanh lòng hồ; từ TP Cao Bằng theo quốc lộ 3, tỉnh lộ 206 qua thị trấn Trùng Khánh khoảng 8 km, rẽ phải đường nông thôn mới khoảng 3 km.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-cao-bang-4445913.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Cao Bằng 2026' (đọc 14/10/2026): từ thị trấn Trùng Khánh đi thác Bản Giốc khoảng 10 km rồi rẽ khoảng 3 km tới xóm Bản Viết, xã Phong Châu; đẹp nhất mùa thu đông khi cây thay lá; hợp dã ngoại, cắm trại, trekking, chèo SUP.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00824"
+  }
+}

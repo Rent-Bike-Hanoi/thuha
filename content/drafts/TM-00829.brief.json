@@ -1,0 +1,157 @@
+{
+  "writer": "writer-H3",
+  "queued": "2026-10-14T14:54:35.458869+00:00",
+  "topic": {
+    "topic_id": "TM-00829",
+    "url": "/du-lich/suoi-kem-la-bang-dai-tu/",
+    "title": "Suối Kẹm La Bằng Đại Từ: suối chân Tam Đảo, tham quan miễn phí, cắm trại",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "suối kẹm la bằng",
+    "secondary_keywords": [
+      "suối kẹm",
+      "suối kẹm thái nguyên",
+      "du lịch cộng đồng tân sơn la bằng",
+      "cắm trại suối kẹm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi xe máy cuối tuần tắm suối, cắm trại ở suối Kẹm (La Bằng, Đại Từ): đi đường nào, có mất phí không, ăn ở đâu.",
+    "information_gain": "Chưa có bài nào về suối Kẹm; /du-lich/nui-van-nui-vo-dai-tu/ và /du-lich/ha-noi-di-thai-nguyen-xe-may/ ở cùng vùng Đại Từ nhưng không nhắc. Bài mới: suối ở xóm Tân Sơn, xã La Bằng, sườn Đông Tam Đảo, trong rừng đặc dụng VQG Tam Đảo; cách TP Thái Nguyên khoảng 35–40 km, từ Hà Nội theo cao tốc rồi quốc lộ 37; tham quan miễn phí, dịch vụ cắm trại do HTX Kẹm La Bằng (8 thành viên); điểm du lịch cộng đồng công nhận 8/9/2023; mùa tắm tháng 5–9; khoảng trên 20.000 lượt khách/năm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/trai-nghiem-suoi-kem-khong-phai-ai-cung-biet-o-thai-nguyen-1459105.html",
+        "quote": "Lao Động, 20/02/2025 (đọc 14/10/2026, nội dung qua Tavily extract): suối ở xã La Bằng, huyện Đại Từ, cách trung tâm TP Thái Nguyên khoảng 35 km theo quốc lộ 3 hướng Đại Từ; từ Hà Nội đi cao tốc Hà Nội – Thái Nguyên – quốc lộ 3 rồi rẽ trái quốc lộ 37 hướng La Bằng; mùa hè tháng 5–9 hợp tắm suối, cắm trại; 'Tham quan Suối Kẹm hoàn toàn miễn phí'; thuê lều cắm trại qua đêm 200.000–400.000 đồng/nhóm; chưa nhiều dịch vụ ăn uống, nên mang đồ ăn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://sovhttdl.thainguyen.gov.vn/du-lich/phat-trien-du-lich-cong-dong-o-tan-son-xa-la-bang-huyen-dai-tu-193070",
+        "quote": "Sở VHTTDL Thái Nguyên (đọc 14/10/2026): ngày 08/9/2023 UBND tỉnh ra Quyết định 1866/QĐ-UBND công nhận Điểm du lịch cộng đồng xóm Tân Sơn, xã La Bằng do HTX Du lịch cộng đồng Kẹm La Bằng quản lý (08 thành viên); xóm Tân Sơn sát chân núi Tam Đảo, cách trung tâm xã khoảng 2,5 km, cách TP Thái Nguyên hơn 40 km; mỗi hộ có bãi đỗ xe 200–500 m²; dẫn nước suối về các bể bơi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://labang.thainguyen.gov.vn/vi-tri-ia-ly/du-lich-suoi-kem-la-bang-dat-che-dai-tu-thai-nguyen-37492",
+        "quote": "Cổng TTĐT xã La Bằng (đọc 14/10/2026): La Bằng ở sườn Đông dãy Tam Đảo; đường bê tông từ UBND xã qua đồi chè dẫn tới chân núi; khu rừng đặc dụng VQG Tam Đảo có suối Kẹm trong, mát lạnh chảy qua ghềnh đá.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/kinh-te/202408/la-bang-niu-chan-du-khach-c1f1250",
+        "quote": "Báo Thái Nguyên, 01/08/2024 (đọc 14/10/2026): hơn 10 hộ ở xóm Tân Sơn làm dịch vụ ăn uống, lưu trú; nhà hàng nuôi cá tầm bằng nước suối Kẹm; điểm du lịch đón khoảng trên 20.000 lượt khách/năm; La Bằng có hơn 330 ha chè; quy hoạch điểm du lịch 92 ha tại xóm Tân Sơn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "suối kẹm la bằng"
+      }
+    ],
+    "notes": "Mâu thuẫn khoảng cách: khoảng 35 km (Lao Động) vs hơn 40 km (Sở VHTTDL) — ghi '35–40 km'. Giá lều 2025 chỉ để thân bài kèm năm, không vào tiêu đề. Lao Động nói 'miễn phí tham quan' nhưng bãi đỗ xe là của hộ dân — có thể thu phí gửi xe, chưa có nguồn: khuyên hỏi. Suối trong rừng đặc dụng: lưu ý an toàn lũ ống mùa mưa (không có nguồn số liệu, viết dạng khuyến nghị chung). Đại Từ nay là xã thuộc tỉnh Thái Nguyên.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Suối Kẹm ở đâu, đi từ Hà Nội bằng xe máy",
+      "Xóm Tân Sơn và điểm du lịch cộng đồng",
+      "Tắm suối, cắm trại: miễn phí và phần có tính tiền",
+      "Ăn gì, gửi xe ở đâu",
+      "Mùa đi và lưu ý an toàn khi tắm suối rừng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nui-van-nui-vo-dai-tu/",
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/ho-ghenh-che/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00829.json",
+  "draft_template": {
+    "id": "TM-00829",
+    "url": "/du-lich/suoi-kem-la-bang-dai-tu/",
+    "title": "Suối Kẹm La Bằng Đại Từ: suối chân Tam Đảo, tham quan miễn phí, cắm trại",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "suối kẹm la bằng, suối kẹm, suối kẹm thái nguyên, du lịch cộng đồng tân sơn la bằng, cắm trại suối kẹm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Suối Kẹm ở đâu, đi từ Hà Nội bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Xóm Tân Sơn và điểm du lịch cộng đồng",
+        "<p></p>"
+      ],
+      [
+        "Tắm suối, cắm trại: miễn phí và phần có tính tiền",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì, gửi xe ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Mùa đi và lưu ý an toàn khi tắm suối rừng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/trai-nghiem-suoi-kem-khong-phai-ai-cung-biet-o-thai-nguyen-1459105.html",
+        "quote": "Lao Động, 20/02/2025 (đọc 14/10/2026, nội dung qua Tavily extract): suối ở xã La Bằng, huyện Đại Từ, cách trung tâm TP Thái Nguyên khoảng 35 km theo quốc lộ 3 hướng Đại Từ; từ Hà Nội đi cao tốc Hà Nội – Thái Nguyên – quốc lộ 3 rồi rẽ trái quốc lộ 37 hướng La Bằng; mùa hè tháng 5–9 hợp tắm suối, cắm trại; 'Tham quan Suối Kẹm hoàn toàn miễn phí'; thuê lều cắm trại qua đêm 200.000–400.000 đồng/nhóm; chưa nhiều dịch vụ ăn uống, nên mang đồ ăn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://sovhttdl.thainguyen.gov.vn/du-lich/phat-trien-du-lich-cong-dong-o-tan-son-xa-la-bang-huyen-dai-tu-193070",
+        "quote": "Sở VHTTDL Thái Nguyên (đọc 14/10/2026): ngày 08/9/2023 UBND tỉnh ra Quyết định 1866/QĐ-UBND công nhận Điểm du lịch cộng đồng xóm Tân Sơn, xã La Bằng do HTX Du lịch cộng đồng Kẹm La Bằng quản lý (08 thành viên); xóm Tân Sơn sát chân núi Tam Đảo, cách trung tâm xã khoảng 2,5 km, cách TP Thái Nguyên hơn 40 km; mỗi hộ có bãi đỗ xe 200–500 m²; dẫn nước suối về các bể bơi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://labang.thainguyen.gov.vn/vi-tri-ia-ly/du-lich-suoi-kem-la-bang-dat-che-dai-tu-thai-nguyen-37492",
+        "quote": "Cổng TTĐT xã La Bằng (đọc 14/10/2026): La Bằng ở sườn Đông dãy Tam Đảo; đường bê tông từ UBND xã qua đồi chè dẫn tới chân núi; khu rừng đặc dụng VQG Tam Đảo có suối Kẹm trong, mát lạnh chảy qua ghềnh đá.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/kinh-te/202408/la-bang-niu-chan-du-khach-c1f1250",
+        "quote": "Báo Thái Nguyên, 01/08/2024 (đọc 14/10/2026): hơn 10 hộ ở xóm Tân Sơn làm dịch vụ ăn uống, lưu trú; nhà hàng nuôi cá tầm bằng nước suối Kẹm; điểm du lịch đón khoảng trên 20.000 lượt khách/năm; La Bằng có hơn 330 ha chè; quy hoạch điểm du lịch 92 ha tại xóm Tân Sơn.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00829"
+  }
+}

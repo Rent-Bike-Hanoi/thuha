@@ -1,0 +1,157 @@
+{
+  "writer": "writer-H2",
+  "queued": "2026-10-14T14:54:34.491082+00:00",
+  "topic": {
+    "topic_id": "TM-00825",
+    "url": "/du-lich/di-tich-na-tu/",
+    "title": "Di tích Nà Tu: nơi Bác Hồ tặng thơ thanh niên xung phong 28/3/1951",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "di tích nà tu",
+    "secondary_keywords": [
+      "khu di tích nà tu",
+      "nà tu cẩm giàng",
+      "không có việc gì khó nà tu",
+      "thanh niên xung phong 312"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Ba Bể hoặc Cao Bằng theo quốc lộ 3 muốn dừng ở Nà Tu, nơi Bác Hồ đọc 4 câu thơ 'Không có việc gì khó': ở đâu, có gì để xem.",
+    "information_gain": "Chưa có bài nào về Nà Tu; /du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ và /du-lich/ha-noi-di-cao-bang-bang-xe-may/ đi qua quốc lộ 3 nhưng không nhắc. Bài mới: di tích ở xã Cẩm Giàng (Bạch Thông cũ, nay thuộc Thái Nguyên), cách TP Bắc Kạn cũ 10 km về phía Bắc, dọc quốc lộ 3; sự kiện 28/3/1951 với Liên phân đội TNXP 312 ở cầu Nà Cù; xếp hạng quốc gia 1996; tượng đài Bác Hồ và TNXP; số hóa từ 10/2022 (website, QR); kỷ niệm 75 năm 28/3/2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/len-bac-kan-tham-noi-bac-ho-tang-thanh-nien-4-cau-tho-bat-hu-post1088108.vov",
+        "quote": "VOV.VN, 11/04/2024 (đọc 14/10/2026, qua WebFetch): Khu di tích Nà Tu thuộc xã Cẩm Giàng, huyện Bạch Thông, cách TP Bắc Kạn 10 km về phía Bắc, dọc quốc lộ 3; Liên phân đội TNXP 312 đóng quân bảo vệ, sửa chữa cầu Nà Cù; 28/3/1951 Chủ tịch Hồ Chí Minh đến thăm; năm 1996 xếp hạng di tích lịch sử cấp quốc gia; số hóa từ 10/2022, tham quan qua website ditichnatu.backan.gov.vn hoặc mã QR.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ra-mat-mo-hinh-so-hoa-khu-di-tich-lich-su-thanh-nien-xung-phong-na-tu-post719310.html",
+        "quote": "Nhân Dân, 11/10/2022 (đọc 14/10/2026): ngày 28/3/1951 Bác Hồ đến thăm đơn vị TNXP 312 làm nhiệm vụ tại cầu Nà Cù và tặng 4 câu thơ 'Không có việc gì khó/Chỉ sợ lòng không bền/Đào núi và lấp biển/Quyết chí ắt làm nên'; ra mắt mô hình số hóa di tích, có thuyết minh tự động tiếng Việt và tiếng Anh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/xa-hoi/202603/ky-niem-75-nam-ngay-bac-ho-den-tham-va-tang-tho-thanh-nien-xung-phong-caa5d92",
+        "quote": "Báo Thái Nguyên, 28/03/2026 (đọc 14/10/2026): sáng 28/3/2026 tại xã Cẩm Giàng tổ chức lễ kỷ niệm 75 năm Ngày Bác Hồ đến thăm và tặng thơ TNXP (28/3/1951–28/3/2026), dâng hương tại Khu di tích lịch sử Nà Tu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/xa-hoi/202604/ky-uc-cua-nhung-nguoi-duoc-nghe-bac-doc-tho-db96cf9",
+        "quote": "Báo Thái Nguyên, 10/04/2026 (đọc 14/10/2026): khu di tích Nà Tu (xã Cẩm Giàng) đã được tôn tạo khang trang, có tượng đài tái hiện hình ảnh Bác Hồ và TNXP; cựu TNXP đơn vị 312 kể Bác hỏi chuyện quanh đống lửa.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "di tích nà tu"
+      }
+    ],
+    "notes": "VOV 2024 nói tỉnh định lập hồ sơ đề nghị di tích quốc gia đặc biệt năm 2024 — chưa có nguồn xác nhận đã được công nhận, không viết. Website số hóa mang tên miền backan.gov.vn (2022–2024) — sau sáp nhập có thể đổi; khuyên kiểm tra mã QR tại chỗ. Bắc Kạn cũ nay thuộc tỉnh Thái Nguyên. Không có nguồn giờ mở cửa/vé.",
+    "outline": [
+      "Câu trả lời ngắn",
+      "Nà Tu ở đâu trên quốc lộ 3",
+      "Ngày 28/3/1951 và bốn câu thơ",
+      "Cầu Nà Cù và Liên phân đội TNXP 312",
+      "Xem gì ở khu di tích hôm nay, tham quan số hóa",
+      "Dừng chân hợp lý trên đường đi Ba Bể, Cao Bằng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/thac-dau-dang-ba-be/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00825.json",
+  "draft_template": {
+    "id": "TM-00825",
+    "url": "/du-lich/di-tich-na-tu/",
+    "title": "Di tích Nà Tu: nơi Bác Hồ tặng thơ thanh niên xung phong 28/3/1951",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "di tích nà tu, khu di tích nà tu, nà tu cẩm giàng, không có việc gì khó nà tu, thanh niên xung phong 312",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn",
+        "<p></p>"
+      ],
+      [
+        "Nà Tu ở đâu trên quốc lộ 3",
+        "<p></p>"
+      ],
+      [
+        "Ngày 28/3/1951 và bốn câu thơ",
+        "<p></p>"
+      ],
+      [
+        "Cầu Nà Cù và Liên phân đội TNXP 312",
+        "<p></p>"
+      ],
+      [
+        "Xem gì ở khu di tích hôm nay, tham quan số hóa",
+        "<p></p>"
+      ],
+      [
+        "Dừng chân hợp lý trên đường đi Ba Bể, Cao Bằng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/van-hoa/len-bac-kan-tham-noi-bac-ho-tang-thanh-nien-4-cau-tho-bat-hu-post1088108.vov",
+        "quote": "VOV.VN, 11/04/2024 (đọc 14/10/2026, qua WebFetch): Khu di tích Nà Tu thuộc xã Cẩm Giàng, huyện Bạch Thông, cách TP Bắc Kạn 10 km về phía Bắc, dọc quốc lộ 3; Liên phân đội TNXP 312 đóng quân bảo vệ, sửa chữa cầu Nà Cù; 28/3/1951 Chủ tịch Hồ Chí Minh đến thăm; năm 1996 xếp hạng di tích lịch sử cấp quốc gia; số hóa từ 10/2022, tham quan qua website ditichnatu.backan.gov.vn hoặc mã QR.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ra-mat-mo-hinh-so-hoa-khu-di-tich-lich-su-thanh-nien-xung-phong-na-tu-post719310.html",
+        "quote": "Nhân Dân, 11/10/2022 (đọc 14/10/2026): ngày 28/3/1951 Bác Hồ đến thăm đơn vị TNXP 312 làm nhiệm vụ tại cầu Nà Cù và tặng 4 câu thơ 'Không có việc gì khó/Chỉ sợ lòng không bền/Đào núi và lấp biển/Quyết chí ắt làm nên'; ra mắt mô hình số hóa di tích, có thuyết minh tự động tiếng Việt và tiếng Anh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/xa-hoi/202603/ky-niem-75-nam-ngay-bac-ho-den-tham-va-tang-tho-thanh-nien-xung-phong-caa5d92",
+        "quote": "Báo Thái Nguyên, 28/03/2026 (đọc 14/10/2026): sáng 28/3/2026 tại xã Cẩm Giàng tổ chức lễ kỷ niệm 75 năm Ngày Bác Hồ đến thăm và tặng thơ TNXP (28/3/1951–28/3/2026), dâng hương tại Khu di tích lịch sử Nà Tu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baothainguyen.vn/xa-hoi/202604/ky-uc-cua-nhung-nguoi-duoc-nghe-bac-doc-tho-db96cf9",
+        "quote": "Báo Thái Nguyên, 10/04/2026 (đọc 14/10/2026): khu di tích Nà Tu (xã Cẩm Giàng) đã được tôn tạo khang trang, có tượng đài tái hiện hình ảnh Bác Hồ và TNXP; cựu TNXP đơn vị 312 kể Bác hỏi chuyện quanh đống lửa.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00825"
+  }
+}
