@@ -49,8 +49,18 @@ Hiện trạng (kiểm 15/10): robots.txt cho phép mọi bot; bài có BlogPost
 | D1 | Không chặn bot tìm kiếm AI (OAI-SearchBot, PerplexityBot, Googlebot, Bingbot). Bot huấn luyện (GPTBot, Google-Extended) là quyết định riêng; mặc định để mở | Đã đúng (robots.txt Allow /) |
 | D2 | Nối thực thể: LocalBusiness/Organization thêm `sameAs` = link Google Maps của hồ sơ, `alternateName` = tên trên GBP, để AI nối blog với cửa hàng trên Maps | Làm 15/10 |
 | D3 | Bing Webmaster Tools + IndexNow (ChatGPT search, Copilot được cho là dựa nhiều vào chỉ mục Bing; chưa có xác nhận chính thức) và Cốc Cốc | Cần chủ site xác minh site |
-| D4 | Trang tiền mở đầu bằng đoạn trả lời 40–60 từ (giá, địa chỉ, giờ, giấy tờ); FAQ khớp câu hỏi người dùng hỏi AI: "thuê xe máy Long Biên ở đâu", "giá thuê xe máy Hà Nội 2026", "người nước ngoài thuê xe máy Hà Nội cần gì", "thuê xe 50cc không cần bằng" | Rà 6 trang tiền |
+| D4 | Trang tiền mở đầu bằng đoạn trả lời 40–60 từ (giá, địa chỉ, giờ, giấy tờ); FAQ khớp câu hỏi người dùng hỏi AI: "thuê xe máy Long Biên ở đâu", "giá thuê xe máy Hà Nội 2026", "người nước ngoài thuê xe máy Hà Nội cần gì", "thuê xe 50cc không cần bằng" | Xong 15/10: 6 trang tiền đã có đoạn trả lời thẳng + FAQ; thêm câu "Cửa hàng ở đâu, mở cửa mấy giờ?" |
 | D5 | Uy tín ngoài site: review GBP đều đặn, nhắc tên "Thuê xe máy Nguyễn Hà" nhất quán trên Facebook, nhóm, blog du lịch đối tác; không mua review, không spam diễn đàn | Liên tục (mục 9) |
-| D6 | Đo: bộ 20 câu hỏi kiểm tra mỗi tháng trên Google AI Mode, ChatGPT, Gemini, Perplexity (có nhắc cửa hàng không, đúng giá/địa chỉ không, dẫn trang nào); GA4 theo dõi nguồn giới thiệu chatgpt.com, perplexity.ai, gemini.google.com, copilot | Bắt đầu tuần này |
+| D6 | Đo: bộ 20 câu hỏi kiểm tra mỗi tháng trên Google AI Mode, ChatGPT, Gemini, Perplexity (có nhắc cửa hàng không, đúng giá/địa chỉ không, dẫn trang nào); GA4 theo dõi nguồn giới thiệu chatgpt.com, perplexity.ai, gemini.google.com, copilot | Bộ câu hỏi: docs/GEO-bo-cau-hoi-kiem-tra.md |
 
 Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domain không thấy liên hệ với trích dẫn AI), nhồi từ khoá, nội dung viết riêng cho bot.
+
+## Trạng thái 15/10/2026
+
+- A1 xong: 0 link gãy; kiểm tra link gãy trong thân bài đã đưa vào `scripts/validate_factory_site.py` (A5).
+- A2 xong: Bài liên quan theo chủ đề + ô thứ 4 cho bài ít được trỏ tới.
+- A3 xong: /thue-xe-may/ha-noi/theo-thang/ từ 14 lên 47 link vào (gợi ý dịch vụ theo ngữ cảnh "thuê … tháng").
+- A4: thêm link ngữ cảnh cho phanh CBS, Klara S, xe điện leo dốc, TMAX. Còn 2 trang có 2 link vào (Royal Enfield Himalayan 450, nhường đường vòng xuyến): chưa bài nào cùng chuyên mục nhắc tự nhiên, không ép link.
+- B: UB-015, 018–024 xong. UB-017 chờ chủ cửa hàng xác nhận xe côn tay / phân khối lớn.
+- C: chưa lấy được volume (OpenSEO 11 credit, Semrush hết API unit). Chạy ngay khi có credit.
+- D: D1, D2, D4, D6 xong; D3 (Bing Webmaster Tools) chờ chủ site; D5 liên tục.

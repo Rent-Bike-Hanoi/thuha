@@ -63,6 +63,14 @@ for p in posts:
  if not excluded and p['url'] not in in_sitemap:errors.append('not in sitemap '+p['url'])
 for u in in_sitemap:
  if not (ROOT/u.strip('/')/'index.html').exists() and u!='/':errors.append('sitemap URL without HTML '+u)
+# Internal links in the body of indexable pages must resolve to a built page or file.
+for u in in_sitemap:
+ f=ROOT/u.strip('/')/'index.html'
+ if not f.exists():continue
+ m=re.search(r'<article class="article-body[^"]*">(.*?)</article>',f.read_text(),re.S)
+ for l in set(re.findall(r'href="(/[^"#?]*)"',m.group(1) if m else '')):
+  t=ROOT/l.strip('/')
+  if not ((t/'index.html').exists() or (t.is_file() if l.strip('/') else True)):errors.append('broken internal link '+l+' in '+u)
 author=ROOT/'tac-gia/nguyen-ha/index.html'
 if not author.exists() or '"@type": "Person"' not in author.read_text():errors.append('missing author page with Person schema')
 if '/tac-gia/nguyen-ha/' not in in_sitemap:errors.append('author page not in sitemap')

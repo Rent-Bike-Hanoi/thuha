@@ -265,6 +265,8 @@ SERVICE_LINKS=[
 def wrap_tables(h): return re.sub(r'(<div class="table-scroll">\s*)?(<table\b.*?</table>)',lambda m:m.group(0) if m.group(1) else f'<div class="table-scroll">{m.group(2)}</div>',h,flags=re.S)
 def service_nav(p,sections_html):
  text=' '.join([p['url'],p['title'],p.get('intent',''),p.get('keywords','')]).lower()
+ # Bài nói đến thuê theo tháng trong thân bài (không chỉ ở tiêu đề/từ khoá) cũng được gợi ý trang thuê theo tháng.
+ if p['hub'] in ('thue-xe','xe-dien','xe-may','kinh-nghiem') and re.search(r'thuê[^.<]{0,40}(?:tháng|dài ngày|lâu dài)',re.sub(r'<[^>]+>',' ',sections_html),re.I):text+=' theo tháng'
  picks=[(u,a) for u,a,keys in SERVICE_LINKS if u!=p['url'] and f'href="{u}"' not in sections_html and any(k in text for k in keys)][:2]
  if not picks:return ''
  return '<nav class="post-nav" aria-label="Dịch vụ thuê xe liên quan">'+''.join(f'<a class="post-nav-link" href="{u}"><small>Dịch vụ liên quan</small><span>{E(a)}</span></a>' for u,a in picks)+'</nav>'
@@ -279,7 +281,18 @@ for q in P:
 def related_for(p):
  mine=_toks(p);pool=_RELPOOL.get(p['hub'],[])
  scored=sorted(((-len(mine&t),q['parent']!=p['url'],q['url'],q) for q,t in pool if q['url']!=p['url']),key=lambda x:x[:3])
- return [x[3] for x in scored[:3]]
+ return [x[3] for x in scored[:25]]
+# Lượt 2: giữ 3 bài sát chủ đề nhất, thêm bài thứ 4 là bài ít được trỏ tới nhất trong 10 ứng viên đầu, để bài mới không bị bỏ rơi.
+_REL={q['url']:related_for(q) for q in P if q['kind'] not in ['hub','page'] and not factory_noindex(q)}
+_RELIN={}
+for _u,_c in _REL.items():
+ for _q in _c[:3]:_RELIN[_q['url']]=_RELIN.get(_q['url'],0)+1
+def related_final(p):
+ c=_REL.get(p['url']) or related_for(p)
+ top=c[:3];rest=[q for q in c[3:] if q not in top]
+ if rest:
+  pick=min(rest,key=lambda q:(min(_RELIN.get(q['url'],0),3),rest.index(q)));_RELIN[pick['url']]=_RELIN.get(pick['url'],0)+1;top=top+[pick]
+ return top
 for p in P:
  par=lookup.get(p['parent']);hub=next(h for h in NAV if h['slug']==p['hub'])
  crumbs='<a href="/">Trang chủ</a><span>/</span><a href="'+hub['url']+'">'+E(hub['label'])+'</a>'
@@ -289,7 +302,7 @@ for p in P:
  if p.get('faq'):
   n=len(p['sections'])+1
   sections+=f'<section id="muc-{n}" class="article-faq"><h2>{E(p.get("faqTitle","Câu hỏi thường gặp khi thuê xe máy Hà Nội"))}</h2>'+''.join(f'<details class="faq-item"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q,a in p['faq'])+'</section>'
- related=related_for(p)
+ related=related_final(p)
  if p['kind']=='page':
   if p['url']=='/faq/':
    sections=''.join(f'<details class="faq-item" id="muc-{i+1}"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for i,(q,a) in enumerate(FAQ))
