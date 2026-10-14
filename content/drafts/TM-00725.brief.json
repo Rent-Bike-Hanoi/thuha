@@ -1,0 +1,142 @@
+{
+  "writer": "writer-U",
+  "queued": "2026-10-14T05:45:47.307959+00:00",
+  "topic": {
+    "topic_id": "TM-00725",
+    "url": "/du-lich/den-ong-hoang-muoi-nghe-an/",
+    "title": "Đền Ông Hoàng Mười Nghệ An: lễ khai điểm rằm tháng Ba, giỗ tháng Mười",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền ông hoàng mười nghệ an",
+    "secondary_keywords": [
+      "lễ hội đền ông hoàng mười",
+      "đền ông hoàng mười hưng nguyên",
+      "giỗ ông hoàng mười"
+    ],
+    "intent": "informational",
+    "user_problem": "Người theo đạo Mẫu hoặc đi du lịch Vinh muốn đi lễ đền Ông Hoàng Mười cần biết đền ở đâu, hai kỳ lễ chính và lúc nào đông nhất.",
+    "information_gain": "Chưa có bài nào về đền Ông Hoàng Mười. Bài /du-lich/den-bao-ha-lao-cai/ nói về ông Hoàng Bảy ở Lào Cai, không phải đền này; /du-lich/khu-di-tich-kim-lien-nghe-an/ khác điểm. Bài mới nêu vị trí làng Xuân Am bên sông Lam dưới núi Dũng Quyết, năm dựng 1634, 21 đạo sắc, hai kỳ lễ (rằm tháng Ba, giỗ 8–11/10 âm) và chuyện tắc đường dịp đầu xuân.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/den-ong-hoang-muoi-chon-du-lich-tam-linh-dac-sac-post401982.html",
+        "quote": "Báo Pháp luật Việt Nam (08/07/2021): đền ở làng Xuân Am, xã Hưng Thịnh, huyện Hưng Nguyên, mặt hướng sông Lam, sau lưng là núi Dũng Quyết và Phượng Hoàng Trung Đô; xây năm 1634 thời Hậu Lê, rộng trên 1 ha; có tam quan, lầu cô, lầu cậu, hạ – trung – thượng điện; lưu 21 đạo sắc; hai kỳ lễ lớn: lễ hội khai điểm rằm tháng 3 âm lịch và giỗ ông Hoàng Mười 8/10–11/10 âm lịch; dị bản phổ biến nhất coi ông là tướng Nguyễn Xí.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/to-chuc-trang-trong-le-hoi-den-ong-hoang-muoi-o-nghe-an-77951.html",
+        "quote": "Báo Văn Hóa (11/2020): lễ hội 2020 ngày 23–24/11 (9–10 tháng 10 Canh Tý), do Covid chỉ tổ chức phần lễ; đền ở xóm 5 xã Hưng Thịnh; năm 2002 UBND tỉnh xếp hạng di tích; năm 2018 công nhận điểm du lịch văn hóa tâm linh; năm 2019 lễ hội được công nhận Di sản văn hóa phi vật thể quốc gia; lễ hội tổ chức 9–10/10 âm lịch hằng năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/van-hoa/hang-ngan-du-khach-dang-huong-cau-binh-an-phuc-loc-tai-den-ong-hoang-muoi-1514210.tpo",
+        "quote": "Tiền Phong (31/01/2020): đầu xuân hàng ngàn khách về đền, đường vào tắc nghẽn, bãi đỗ xe chật cứng; đền xây năm 1634, duy tu năm 1995, lưu 21 đạo sắc; hai kỳ lễ lớn rằm tháng 3 âm lịch và giỗ ngày 10/10 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền ông hoàng mười nghệ an"
+      }
+    ],
+    "notes": "Ngày giỗ ghi khác nhau: 8–11/10 (PLVN), 9–10/10 (Báo Văn Hóa), 10/10 (Tiền Phong) — viết 'khoảng 8–11 tháng Mười âm lịch, chính giỗ 10/10'. Xếp hạng 2002 là cấp tỉnh, không gọi di tích quốc gia. Tên xã sau sắp xếp 2025 chưa kiểm. Không có nguồn đã tải nêu quãng đường/thời gian từ Hà Nội: writer không được ghi số km, chỉ mô tả hướng đi chung theo QL1A.",
+    "outline": [
+      "Đền Ông Hoàng Mười ở đâu",
+      "Ông Hoàng Mười là ai: các dị bản",
+      "Kiến trúc và 21 đạo sắc",
+      "Hai kỳ lễ: rằm tháng Ba và giỗ tháng Mười",
+      "Ngày đông, gửi xe và đường vào",
+      "Ghép với đền Quang Trung núi Dũng Quyết"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-bao-ha-lao-cai/",
+      "/du-lich/khu-di-tich-kim-lien-nghe-an/",
+      "/du-lich/bien-cua-lo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00725.json",
+  "draft_template": {
+    "id": "TM-00725",
+    "url": "/du-lich/den-ong-hoang-muoi-nghe-an/",
+    "title": "Đền Ông Hoàng Mười Nghệ An: lễ khai điểm rằm tháng Ba, giỗ tháng Mười",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền ông hoàng mười nghệ an, lễ hội đền ông hoàng mười, đền ông hoàng mười hưng nguyên, giỗ ông hoàng mười",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Ông Hoàng Mười ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Ông Hoàng Mười là ai: các dị bản",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc và 21 đạo sắc",
+        "<p></p>"
+      ],
+      [
+        "Hai kỳ lễ: rằm tháng Ba và giỗ tháng Mười",
+        "<p></p>"
+      ],
+      [
+        "Ngày đông, gửi xe và đường vào",
+        "<p></p>"
+      ],
+      [
+        "Ghép với đền Quang Trung núi Dũng Quyết",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/den-ong-hoang-muoi-chon-du-lich-tam-linh-dac-sac-post401982.html",
+        "quote": "Báo Pháp luật Việt Nam (08/07/2021): đền ở làng Xuân Am, xã Hưng Thịnh, huyện Hưng Nguyên, mặt hướng sông Lam, sau lưng là núi Dũng Quyết và Phượng Hoàng Trung Đô; xây năm 1634 thời Hậu Lê, rộng trên 1 ha; có tam quan, lầu cô, lầu cậu, hạ – trung – thượng điện; lưu 21 đạo sắc; hai kỳ lễ lớn: lễ hội khai điểm rằm tháng 3 âm lịch và giỗ ông Hoàng Mười 8/10–11/10 âm lịch; dị bản phổ biến nhất coi ông là tướng Nguyễn Xí.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/to-chuc-trang-trong-le-hoi-den-ong-hoang-muoi-o-nghe-an-77951.html",
+        "quote": "Báo Văn Hóa (11/2020): lễ hội 2020 ngày 23–24/11 (9–10 tháng 10 Canh Tý), do Covid chỉ tổ chức phần lễ; đền ở xóm 5 xã Hưng Thịnh; năm 2002 UBND tỉnh xếp hạng di tích; năm 2018 công nhận điểm du lịch văn hóa tâm linh; năm 2019 lễ hội được công nhận Di sản văn hóa phi vật thể quốc gia; lễ hội tổ chức 9–10/10 âm lịch hằng năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/van-hoa/hang-ngan-du-khach-dang-huong-cau-binh-an-phuc-loc-tai-den-ong-hoang-muoi-1514210.tpo",
+        "quote": "Tiền Phong (31/01/2020): đầu xuân hàng ngàn khách về đền, đường vào tắc nghẽn, bãi đỗ xe chật cứng; đền xây năm 1634, duy tu năm 1995, lưu 21 đạo sắc; hai kỳ lễ lớn rằm tháng 3 âm lịch và giỗ ngày 10/10 âm lịch.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00725"
+  }
+}

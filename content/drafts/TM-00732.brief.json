@@ -1,0 +1,155 @@
+{
+  "writer": "writer-W",
+  "queued": "2026-10-14T05:45:48.626427+00:00",
+  "topic": {
+    "topic_id": "TM-00732",
+    "url": "/du-lich/den-qua-son-do-luong/",
+    "title": "Đền Quả Sơn Đô Lương: thờ Uy Minh Vương, lễ hội tháng Giêng bên sông Lam",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền quả sơn",
+    "secondary_keywords": [
+      "lễ hội đền quả sơn",
+      "đền quả đô lương",
+      "uy minh vương lý nhật quang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ đầu năm ở Nghệ An muốn đến đền Quả Sơn cần biết đền thờ ai, nằm ở đâu, lễ hội diễn ra ngày nào và có nghi thức gì đặc sắc.",
+    "information_gain": "Chưa có bài về đền Quả Sơn. Gần nhất là /du-lich/khu-di-tich-kim-lien-nghe-an/ (khác điểm, khác huyện). Bài mới nêu Lý Nhật Quang – con thứ 8 vua Lý Thái Tổ, trị Nghệ An 1039–1057, câu 'Nhất Cờn, nhì Quả', nghi thức trở quân sáng 20 tháng Giêng, rước nước trên sông Lam năm chẵn và mã QR thuyết minh từ 2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/nghe-an-le-hoi-den-qua-son-duoc-cong-nhan-la-di-san-van-hoa-phi-vat-the-quoc-gia-52717.html",
+        "quote": "Báo Văn Hóa (25/02/2019): ngày 24/2/2019 Đô Lương đón bằng Di sản văn hóa phi vật thể quốc gia lễ hội đền Quả Sơn và quyết định công nhận điểm du lịch; Lý Nhật Quang là con thứ 8 vua Lý Công Uẩn, năm 1039 cai quản Hoan Châu, năm 1044 phong Vương, mất năm 1057 tại chân núi Quả, xã Bồi Sơn; giỗ 17 tháng Chạp, lễ hội 18–20 tháng Giêng; tháng 12/1998 công nhận di tích quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/so-hoa-ngoi-den-linh-thieng-thu-2-xu-nghe-post1602240.tpo",
+        "quote": "Tiền Phong (07/01/2024): đền dưới chân núi Quả, xã Bồi Sơn, huyện Đô Lương; 'nhất Cờn, nhì Quả, tam Bạch Mã, tứ Chiêu Trưng'; tuổi gần 1.000 năm; năm 1999 xếp hạng di tích quốc gia theo Quyết định 05/QĐ-BVHTT; ngày 6/1/2024 bàn giao công trình mã QR thuyết minh di tích.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/le-hoi-den-qua-son-coi-nguon-van-hoa-cua-vung-bach-ngoc-10317802.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh): đền ở xóm 6 xã Bồi Sơn (nay xã Bạch Ngọc); quần thể gồm nghi môn, nhà ngựa, nhà bia, thượng – trung – hạ điện, mộ Uy Minh Vương; lễ hội hằng năm 19–21 tháng Giêng; nghi thức 'trở quân' sáng 20 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/linh-thieng-le-hoi-den-qua-son-10128501.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh, 2017): năm 1952 bom Pháp tàn phá đền, chỉ còn bia đá cổ và mộ; trong tỉnh có hơn 30 đền khác cùng thờ ông; năm chẵn có lễ rước ngược sông Lam tới đền Tiên Tích cách 4 km về phía Tây; rước chính bắt đầu 6h sáng 20 tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền quả sơn"
+      }
+    ],
+    "notes": "Lệch số liệu: lễ hội 18–20 (Báo Văn Hóa) vs 19–21 tháng Giêng (Báo Nghệ An); năm xếp hạng 12/1998 vs 1999 (QĐ 05/QĐ-BVHTT); cha là Lý Công Uẩn = Lý Thái Tổ (cùng người). Ghi 'chính hội 20 tháng Giêng'. Xã nay là Bạch Ngọc. Không có nguồn đã tải nêu quãng đường/thời gian từ Hà Nội: writer không được ghi số km, chỉ mô tả hướng đi chung theo QL1A.",
+    "outline": [
+      "Đền Quả Sơn ở đâu",
+      "Uy Minh Vương Lý Nhật Quang là ai",
+      "Quần thể đền sau chiến tranh",
+      "Lễ hội tháng Giêng và nghi thức trở quân",
+      "Rước nước trên sông Lam năm chẵn",
+      "Đi xe máy và lưu ý ngày hội"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-kim-lien-nghe-an/",
+      "/du-lich/bien-cua-lo/",
+      "/du-lich/co-do-hoa-lu/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00732.json",
+  "draft_template": {
+    "id": "TM-00732",
+    "url": "/du-lich/den-qua-son-do-luong/",
+    "title": "Đền Quả Sơn Đô Lương: thờ Uy Minh Vương, lễ hội tháng Giêng bên sông Lam",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền quả sơn, lễ hội đền quả sơn, đền quả đô lương, uy minh vương lý nhật quang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Quả Sơn ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Uy Minh Vương Lý Nhật Quang là ai",
+        "<p></p>"
+      ],
+      [
+        "Quần thể đền sau chiến tranh",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Giêng và nghi thức trở quân",
+        "<p></p>"
+      ],
+      [
+        "Rước nước trên sông Lam năm chẵn",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và lưu ý ngày hội",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/nghe-an-le-hoi-den-qua-son-duoc-cong-nhan-la-di-san-van-hoa-phi-vat-the-quoc-gia-52717.html",
+        "quote": "Báo Văn Hóa (25/02/2019): ngày 24/2/2019 Đô Lương đón bằng Di sản văn hóa phi vật thể quốc gia lễ hội đền Quả Sơn và quyết định công nhận điểm du lịch; Lý Nhật Quang là con thứ 8 vua Lý Công Uẩn, năm 1039 cai quản Hoan Châu, năm 1044 phong Vương, mất năm 1057 tại chân núi Quả, xã Bồi Sơn; giỗ 17 tháng Chạp, lễ hội 18–20 tháng Giêng; tháng 12/1998 công nhận di tích quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/so-hoa-ngoi-den-linh-thieng-thu-2-xu-nghe-post1602240.tpo",
+        "quote": "Tiền Phong (07/01/2024): đền dưới chân núi Quả, xã Bồi Sơn, huyện Đô Lương; 'nhất Cờn, nhì Quả, tam Bạch Mã, tứ Chiêu Trưng'; tuổi gần 1.000 năm; năm 1999 xếp hạng di tích quốc gia theo Quyết định 05/QĐ-BVHTT; ngày 6/1/2024 bàn giao công trình mã QR thuyết minh di tích.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/le-hoi-den-qua-son-coi-nguon-van-hoa-cua-vung-bach-ngoc-10317802.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh): đền ở xóm 6 xã Bồi Sơn (nay xã Bạch Ngọc); quần thể gồm nghi môn, nhà ngựa, nhà bia, thượng – trung – hạ điện, mộ Uy Minh Vương; lễ hội hằng năm 19–21 tháng Giêng; nghi thức 'trở quân' sáng 20 tháng Giêng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baonghean.vn/en/linh-thieng-le-hoi-den-qua-son-10128501.html",
+        "quote": "Báo Nghệ An (bản tiếng Anh, 2017): năm 1952 bom Pháp tàn phá đền, chỉ còn bia đá cổ và mộ; trong tỉnh có hơn 30 đền khác cùng thờ ông; năm chẵn có lễ rước ngược sông Lam tới đền Tiên Tích cách 4 km về phía Tây; rước chính bắt đầu 6h sáng 20 tháng Giêng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00732"
+  }
+}
