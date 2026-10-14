@@ -1,0 +1,144 @@
+{
+  "writer": "writer-N1",
+  "queued": "2026-10-14T15:43:40.907896+00:00",
+  "topic": {
+    "topic_id": "TM-00875",
+    "url": "/du-lich/hoi-phet-hien-quan-tam-nong/",
+    "title": "Hội Phết Hiền Quan Tam Nông: 12–13 tháng Giêng, phần cướp phết ra sao",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hội phết hiền quan",
+    "secondary_keywords": [
+      "lễ hội phết hiền quan",
+      "cướp phết hiền quan",
+      "hiền quan tam nông phú thọ",
+      "đánh phết"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn xem hội cướp phết nổi tiếng ở Phú Thọ cần biết lễ diễn ra ngày nào, phần đánh phết có còn tổ chức không và nên chuẩn bị gì khi đi xe máy từ Hà Nội.",
+    "information_gain": "Site chưa có bài về Hiền Quan. Gần nhất là /du-lich/di-den-hung-bang-xe-may-tu-ha-noi/ và /du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/, không nhắc hội Phết. Bài mới nêu: hội ngày 12–13 tháng Giêng, chính hội 13; thờ Thiều Hoa công chúa (đền) và Mộc Trang Đại Vương thời Đinh (đình); 6 quả phết, 3 quả chúi; năm có tổ chức sân rộng 1.500 m² có trọng tài; phần đánh phết từng bị dừng vì chưa bảo đảm an toàn, năm 2023 không tổ chức — khách phải kiểm tra trước khi đi; cảnh báo chen lấn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hoi-phet-hien-quan-2125175.html",
+        "quote": "VnExpress (đọc 14/10/2026): Hội Phết Hiền Quan tổ chức ngày 12–13 tháng Giêng tại xã Hiền Quan, huyện Tam Nông (Phú Thọ), cách Hà Nội gần 80 km; tưởng nhớ nữ tướng Thiều Hoa công chúa giúp Hai Bà Trưng; hội lớn nhất ngày 13 tháng Giêng; phết chơi ba bàn, giữ phết sệt đất; quả phết làm bằng gốc tre sơn son thếp vàng; có hát Xoan, chọi gà, làm bánh dày, kéo lửa nấu cơm thi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/doc-dao-soi-dong-le-hoi-phet-hien-quan-post238931.html",
+        "quote": "Báo Pháp Luật Việt Nam (đọc 14/10/2026): hội tổ chức 12–13 tháng Giêng âm lịch; phần lễ, hội diễn ra ở đình Hiền Quan (thờ Lý Mộc Trang thời Đinh) và đền Hiền Quan (thờ Thiều Hoa); có 6 quả phết và 3 quả chúi, phết nay làm bằng gỗ mít; năm đó bãi đánh phết rộng 1.500 m², 4 góc 4 cây nêu, một trọng tài chính, hai trọng tài biên; dù giới hạn người tham gia, hàng trăm thanh niên vẫn phá rào vào tranh phết.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/le-hoi-phet-tiep-tuc-dung-cuop-phet-post677432.html",
+        "quote": "Báo Sài Gòn Giải Phóng (bài ngày 2-2, năm 2023 theo ảnh chú thích, đọc 14/10/2026): lễ hội Phết khai hội nhưng tiếp tục không tổ chức phần đánh/cướp phết; hội thường gồm 4 phần: rước kiệu, tế lễ, kéo quân, đánh phết; lý do: chưa bảo đảm an toàn, an ninh trật tự, sân phết khu Đồng Đám đang tích nước cấy, phương án chưa cụ thể; năm đó chỉ tập trung phần lễ và văn nghệ, thể thao.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hội phết hiền quan"
+      }
+    ],
+    "notes": "Không xác minh được tình trạng phần đánh phết năm 2024–2026 từ trang đã đọc; bài phải nói rõ 'kiểm tra thông báo của xã trước khi đi'. Con số 'gần 80 km' là của VnExpress (bài cũ) — ghi kèm nguồn. Chưa xác minh hội có trong danh mục di sản quốc gia — không viết là di sản. Tên hành chính sau sáp nhập chưa kiểm tra.",
+    "outline": [
+      "Hội Phết Hiền Quan thờ ai, ở đâu",
+      "Lịch hội 12–13 tháng Giêng, chính hội ngày 13",
+      "Phết, chúi và luật đánh phết",
+      "Vì sao phần cướp phết nhiều năm bị dừng",
+      "Đi xe máy từ Hà Nội: giờ đến, gửi xe, an toàn khi đông người",
+      "Kết hợp Đền Hùng, Xuân Sơn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/vuon-quoc-gia-xuan-son-phu-tho-di-xe-may/",
+      "/du-lich/den-mau-au-co-ha-hoa/",
+      "/du-lich/hoi-lim-bac-ninh/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00875.json",
+  "draft_template": {
+    "id": "TM-00875",
+    "url": "/du-lich/hoi-phet-hien-quan-tam-nong/",
+    "title": "Hội Phết Hiền Quan Tam Nông: 12–13 tháng Giêng, phần cướp phết ra sao",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hội phết hiền quan, lễ hội phết hiền quan, cướp phết hiền quan, hiền quan tam nông phú thọ, đánh phết",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hội Phết Hiền Quan thờ ai, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lịch hội 12–13 tháng Giêng, chính hội ngày 13",
+        "<p></p>"
+      ],
+      [
+        "Phết, chúi và luật đánh phết",
+        "<p></p>"
+      ],
+      [
+        "Vì sao phần cướp phết nhiều năm bị dừng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: giờ đến, gửi xe, an toàn khi đông người",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp Đền Hùng, Xuân Sơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/hoi-phet-hien-quan-2125175.html",
+        "quote": "VnExpress (đọc 14/10/2026): Hội Phết Hiền Quan tổ chức ngày 12–13 tháng Giêng tại xã Hiền Quan, huyện Tam Nông (Phú Thọ), cách Hà Nội gần 80 km; tưởng nhớ nữ tướng Thiều Hoa công chúa giúp Hai Bà Trưng; hội lớn nhất ngày 13 tháng Giêng; phết chơi ba bàn, giữ phết sệt đất; quả phết làm bằng gốc tre sơn son thếp vàng; có hát Xoan, chọi gà, làm bánh dày, kéo lửa nấu cơm thi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/doc-dao-soi-dong-le-hoi-phet-hien-quan-post238931.html",
+        "quote": "Báo Pháp Luật Việt Nam (đọc 14/10/2026): hội tổ chức 12–13 tháng Giêng âm lịch; phần lễ, hội diễn ra ở đình Hiền Quan (thờ Lý Mộc Trang thời Đinh) và đền Hiền Quan (thờ Thiều Hoa); có 6 quả phết và 3 quả chúi, phết nay làm bằng gỗ mít; năm đó bãi đánh phết rộng 1.500 m², 4 góc 4 cây nêu, một trọng tài chính, hai trọng tài biên; dù giới hạn người tham gia, hàng trăm thanh niên vẫn phá rào vào tranh phết.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/le-hoi-phet-tiep-tuc-dung-cuop-phet-post677432.html",
+        "quote": "Báo Sài Gòn Giải Phóng (bài ngày 2-2, năm 2023 theo ảnh chú thích, đọc 14/10/2026): lễ hội Phết khai hội nhưng tiếp tục không tổ chức phần đánh/cướp phết; hội thường gồm 4 phần: rước kiệu, tế lễ, kéo quân, đánh phết; lý do: chưa bảo đảm an toàn, an ninh trật tự, sân phết khu Đồng Đám đang tích nước cấy, phương án chưa cụ thể; năm đó chỉ tập trung phần lễ và văn nghệ, thể thao.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00875"
+  }
+}

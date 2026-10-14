@@ -1,0 +1,144 @@
+{
+  "writer": "writer-N1",
+  "queued": "2026-10-14T15:43:41.176420+00:00",
+  "topic": {
+    "topic_id": "TM-00876",
+    "url": "/du-lich/le-hoi-tich-dien-doi-son/",
+    "title": "Lễ hội Tịch điền Đọi Sơn: mùng 5–7 tháng Giêng, xem vua cày ruộng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "lễ hội tịch điền đọi sơn",
+    "secondary_keywords": [
+      "tịch điền đọi sơn",
+      "lễ tịch điền",
+      "lễ hội tịch điền hà nam",
+      "vua lê đại hành cày ruộng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn xem lễ cày tịch điền đầu xuân cần biết lễ chính diễn ra ngày nào, nghi thức gồm gì và cách kết hợp với chùa Long Đọi Sơn, làng trống Đọi Tam.",
+    "information_gain": "Bài /du-lich/chua-long-doi-son/ nói về chùa trên núi Đọi, /du-lich/lang-trong-doi-tam-duy-tien/ chỉ nhắc truyền thuyết vua về cày tịch điền khi kể gốc nghề trống; không bài nào mô tả lễ hội. Bài mới nêu: tích vua Lê Đại Hành cày ruộng năm 987; khôi phục năm 2009; không gian lễ hội mùng 5–7, nghi lễ chính mùng 7 tháng Giêng; trình tự rước linh vị từ chùa Long Đọi Sơn xuống chân núi, nhập đoàn rước Thành hoàng và tổ nghề trống, bô lão đi 3 sá cày đầu, gieo đỗ, lạc, thóc; thi trang trí trâu; là di sản phi vật thể quốc gia.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/le-hoi-tich-dien-doi-son-tro-ve-nguon-coi-299809.htm",
+        "quote": "Tuổi Trẻ (khai hội 1-2, mồng 7 tháng giêng Kỷ Sửu, đọc 14/10/2026): khai hội Tịch điền Đọi Sơn tại xã Đọi Sơn, huyện Duy Tiên, Hà Nam; lễ hội được khôi phục sau nhiều năm thất truyền; mùa xuân năm 987 vua Lê Đại Hành lần đầu cày ruộng ở Đọi Sơn, năm 988 cày ở Bàn Hải; lễ hội diễn ra từ mồng 5–7 với rước chân nhang vua từ đền Lăng (Liêm Cần, Thanh Liêm), lễ rước nước, lễ sái tịnh; có hội thi trang trí trâu với hình tứ linh, tứ quý.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/le-hoi-tich-dien-doi-son-cau-mong-mua-thuan-gio-hoa-mua-mang-tuoi-tot-post928052.vnp",
+        "quote": "VietnamPlus/TTXVN (đọc 14/10/2026): lễ hội năm 2024 diễn ra sáng 16/2 (mùng 7 tháng Giêng Giáp Thìn) tại xã Tiên Sơn, thị xã Duy Tiên; năm 987 vua Lê Đại Hành cày tịch điền ở Đọi Sơn; lễ hội được khôi phục năm 2009; được ghi danh Di sản văn hóa phi vật thể quốc gia; nghi thức: rước trống, rước linh vị vua từ chùa Long Đọi Sơn xuống chân núi, nhập đoàn rước Thành hoàng và tổ nghề trống Đọi Tam; bô lão đi 3 sá cày đầu tiên, sau đó lãnh đạo và các bô lão cày tiếp; đoàn gieo đỗ xanh, lạc, thóc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hoi-thao-khoa-hoc-bao-ton-va-phat-huy-khong-gian-le-hoi-tich-dien-doi-son-post789666.html",
+        "quote": "Báo Nhân Dân (hội thảo chiều 28/12, đọc 14/10/2026): UBND thị xã Duy Tiên, Sở VHTTDL Hà Nam và Viện Văn hóa Nghệ thuật quốc gia tổ chức hội thảo bảo tồn không gian lễ hội Tịch điền – Đọi Sơn; sau gần 15 năm phục dựng lễ hội được tổ chức long trọng; gọi đây là di sản văn hóa phi vật thể quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "lễ hội tịch điền đọi sơn"
+      }
+    ],
+    "notes": "Hai cách ghi thời gian: Tuổi Trẻ 'mồng 5–7', VietnamPlus nêu ngày lễ chính mùng 7 — ghi cả hai trong bài, không đưa vào tiêu đề ngoài '5–7'. Số quyết định công nhận (217/QĐ-BVHTTDL theo kết quả tìm kiếm) chưa đọc được trang gốc — không dùng. Sau sáp nhập 2025 Hà Nam nhập Ninh Bình; tên xã hiện nay chưa xác minh. Đừng nhầm với lễ 'chạy lợn' Duyên Yết cùng ngày (Phú Xuyên).",
+    "outline": [
+      "Tịch điền là gì, vì sao ở Đọi Sơn",
+      "Lịch hội: mùng 5–7, lễ cày chính mùng 7 tháng Giêng",
+      "Trình tự nghi lễ từ chùa Long Đọi Sơn ra ruộng",
+      "Thi trang trí trâu và phần hội",
+      "Đi xe máy từ Hà Nội, gửi xe, giờ nên đến",
+      "Ghép chùa Long Đọi Sơn, làng trống Đọi Tam"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-long-doi-son/",
+      "/du-lich/lang-trong-doi-tam-duy-tien/",
+      "/du-lich/den-lanh-giang/",
+      "/du-lich/den-tho-le-hoan-xuan-lap/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00876.json",
+  "draft_template": {
+    "id": "TM-00876",
+    "url": "/du-lich/le-hoi-tich-dien-doi-son/",
+    "title": "Lễ hội Tịch điền Đọi Sơn: mùng 5–7 tháng Giêng, xem vua cày ruộng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "lễ hội tịch điền đọi sơn, tịch điền đọi sơn, lễ tịch điền, lễ hội tịch điền hà nam, vua lê đại hành cày ruộng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tịch điền là gì, vì sao ở Đọi Sơn",
+        "<p></p>"
+      ],
+      [
+        "Lịch hội: mùng 5–7, lễ cày chính mùng 7 tháng Giêng",
+        "<p></p>"
+      ],
+      [
+        "Trình tự nghi lễ từ chùa Long Đọi Sơn ra ruộng",
+        "<p></p>"
+      ],
+      [
+        "Thi trang trí trâu và phần hội",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội, gửi xe, giờ nên đến",
+        "<p></p>"
+      ],
+      [
+        "Ghép chùa Long Đọi Sơn, làng trống Đọi Tam",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/le-hoi-tich-dien-doi-son-tro-ve-nguon-coi-299809.htm",
+        "quote": "Tuổi Trẻ (khai hội 1-2, mồng 7 tháng giêng Kỷ Sửu, đọc 14/10/2026): khai hội Tịch điền Đọi Sơn tại xã Đọi Sơn, huyện Duy Tiên, Hà Nam; lễ hội được khôi phục sau nhiều năm thất truyền; mùa xuân năm 987 vua Lê Đại Hành lần đầu cày ruộng ở Đọi Sơn, năm 988 cày ở Bàn Hải; lễ hội diễn ra từ mồng 5–7 với rước chân nhang vua từ đền Lăng (Liêm Cần, Thanh Liêm), lễ rước nước, lễ sái tịnh; có hội thi trang trí trâu với hình tứ linh, tứ quý.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/le-hoi-tich-dien-doi-son-cau-mong-mua-thuan-gio-hoa-mua-mang-tuoi-tot-post928052.vnp",
+        "quote": "VietnamPlus/TTXVN (đọc 14/10/2026): lễ hội năm 2024 diễn ra sáng 16/2 (mùng 7 tháng Giêng Giáp Thìn) tại xã Tiên Sơn, thị xã Duy Tiên; năm 987 vua Lê Đại Hành cày tịch điền ở Đọi Sơn; lễ hội được khôi phục năm 2009; được ghi danh Di sản văn hóa phi vật thể quốc gia; nghi thức: rước trống, rước linh vị vua từ chùa Long Đọi Sơn xuống chân núi, nhập đoàn rước Thành hoàng và tổ nghề trống Đọi Tam; bô lão đi 3 sá cày đầu tiên, sau đó lãnh đạo và các bô lão cày tiếp; đoàn gieo đỗ xanh, lạc, thóc.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hoi-thao-khoa-hoc-bao-ton-va-phat-huy-khong-gian-le-hoi-tich-dien-doi-son-post789666.html",
+        "quote": "Báo Nhân Dân (hội thảo chiều 28/12, đọc 14/10/2026): UBND thị xã Duy Tiên, Sở VHTTDL Hà Nam và Viện Văn hóa Nghệ thuật quốc gia tổ chức hội thảo bảo tồn không gian lễ hội Tịch điền – Đọi Sơn; sau gần 15 năm phục dựng lễ hội được tổ chức long trọng; gọi đây là di sản văn hóa phi vật thể quốc gia.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00876"
+  }
+}
