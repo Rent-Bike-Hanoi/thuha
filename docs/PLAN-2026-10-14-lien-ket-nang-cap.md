@@ -69,5 +69,6 @@ Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domai
   3. Xe điện: thuê xe điện hà nội 390, thuê xe máy điện hà nội 260, xe máy điện tailg 880 (mẫu cửa hàng có), trạm đổi pin vinfast 2.400.
   4. Trang theo tháng / 50cc: 70–110/tháng; giữ, không mở trang mới.
   5. Luật có nhu cầu: xe không chính chủ có bị phạt không 1.600, kiểm định khí thải xe máy 1.300, đèn đỏ có được rẽ phải không 590.
-  Từ khoá du lịch (~660 bài) chưa tra: chạy tiếp khi cần, HarborRank nhận tối đa 700 từ/lần.
+  Từ khoá du lịch: 666 từ khoá chính của bài du lịch đã tra 15/10 (HarborRank), 441 có volume. Cao nhất: bến xe mỹ đình 673.000, bến xe nước ngầm 450.000, bến xe giáp bát 301.000, văn miếu quốc tử giám 165.000, bến xe yên nghĩa 165.000, bảo tàng lịch sử quân sự 110.000, công viên thống nhất 110.000. Nhiều từ là ý định điều hướng (bến xe, ga, chợ, công viên): nâng cấp các bài này theo hướng thông tin thực dụng (giờ, đường đi xe máy, gửi xe) và link về trang thuê xe.
+- A4 xong 15/10: thêm link "xem thêm" cùng chủ đề tới vòng xuyến (từ đèn đỏ rẽ phải, nhường người đi bộ) và Himalayan 450 (từ Hunter 350, Speed 400).
 - D: D1, D2, D4, D6 xong; D3 (Bing Webmaster Tools) chờ chủ site; D5 liên tục.
