@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w24a",
+  "queued": "2026-10-14T01:35:17.030532+00:00",
+  "topic": {
+    "topic_id": "TM-00541",
+    "url": "/du-lich/nui-voi-an-lao/",
+    "title": "Núi Voi Hải Phòng: hang Họng Voi, chùa Long Hoa, hội rằm tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "núi voi hải phòng",
+    "secondary_keywords": [
+      "núi voi an lão",
+      "khu di tích núi voi",
+      "lễ hội núi voi 2026",
+      "hang họng voi",
+      "chùa long hoa núi voi"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hải Phòng bằng xe máy muốn một điểm ngoài nội thành, có núi, hang và di tích, cần biết Núi Voi nay thuộc xã nào, xem gì và lễ hội đầu xuân rơi vào ngày nào.",
+    "information_gain": "Trang chưa có bài nào nhắc Núi Voi. /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ chỉ liệt kê điểm trong nội thành, Đồ Sơn, Cát Bà; /du-lich/den-nghe-hai-phong/ nói đền thờ Lê Chân ở nội thành. Bài mới cho biết Núi Voi – Xuân Sơn bên sông Lạch Tray là di tích quốc gia từ 28/4/1962 (sớm nhất Hải Phòng), nay thuộc các xã An Lão và An Trường; có hang Họng Voi, Già Vị, Chiêng, Trống, dấu tích căn cứ nhà Mạc (Đấu đong quân, kênh nhà Mạc), đền thờ nữ tướng Lê Chân, chùa Long Hoa với tượng Thích Ca bằng đồng 15 tấn, bảo tàng Núi Voi trưng bày rìu đá, giáo đồng thời Đông Sơn; chiến công dân quân Núi Voi bắn rơi máy bay Mỹ 8/10/1967; lễ hội dịp rằm tháng Giêng (2026: 27/2–1/3).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/di-tich-danh-thang/di-tich-lich-su-thang-canh-nui-voi-nui-xuan-son-nui-do-622035",
+        "quote": "Cổng TTĐT TP Hải Phòng, 'Di tích lịch sử thắng cảnh núi Voi – núi Xuân Sơn' (không ghi ngày, nội dung trước sáp nhập; đọc 14/10/2026): quần thể núi đá, núi đất qua 3 xã Trường Thành, An Tiến, An Thắng của huyện An Lão (tên cũ); xếp hạng di tích lịch sử, thắng cảnh sớm nhất Hải Phòng ngày 28/4/1962; là di tích khảo cổ, hiện vật rìu đá, bôn đá, giáo đồng, dao găm đồng trưng bày tại Bảo tàng Núi Voi; thế kỷ XVI nhà Mạc lập căn cứ tiền tiêu bảo vệ Dương Kinh, còn tên hang Chạn, Đấu đong quân, kênh nhà Mạc; có đình, chùa Chi Lai.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/khai-mac-le-hoi-truyen-thong-nui-voi-xuan-binh-ngo-2026-512420.html",
+        "quote": "Báo Công lý (28/2/2026, đọc 14/10/2026): tối 27/2/2026 (11 tháng Giêng Bính Ngọ) xã An Lão phối hợp xã An Trường (TP Hải Phòng) khai mạc lễ hội truyền thống Núi Voi, diễn ra 27/2–1/3/2026 (rước kiệu, dâng hương, cờ người, kéo co, lửa trại…); Núi Voi bên sông Lạch Tray, có hang Họng Voi, Già Vị, Chiêng, Trống, Cá Chép; nữ tướng Lê Chân từng lập căn cứ; 29 cô gái Trung đội dân quân Núi Voi bắn rơi máy bay Mỹ ngày 8/10/1967; chùa Long Hoa phục dựng thờ tượng Thích Ca bằng đồng nặng 15 tấn; lễ hội hằng năm dịp Rằm tháng Giêng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/giu-net-dep-truyen-thong-le-hoi-nui-voi-510021.html",
+        "quote": "Báo Hải Phòng (15/2/2025, trước sáp nhập; đọc 14/10/2026): lễ hội Núi Voi 2025 diễn ra 14–16/2/2025 (17–19 tháng Giêng Ất Tỵ) tại các xã Trường Thành, An Tiến (cũ); có tế lễ ở đền thờ nữ tướng Lê Chân, đình – chùa Chi Lai, chùa Long Hoa; di tích có hang Họng Voi, Già Vị, hang Thành ủy; bài ghi '28 dân quân du kích núi Voi đã bắn rơi máy bay Mỹ'; địa phương phối hợp công an bảo đảm an toàn giao thông, 'không để xảy ra các điểm trông coi xe tự phát' trong mùa lễ hội.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "núi voi hải phòng"
+      }
+    ],
+    "notes": "Số dân quân lệch: Công lý 2026 ghi 29 cô gái (kèm 29 huy hiệu), Báo Hải Phòng 2025 ghi 28 — không đưa con số vào tiêu đề, writer nêu cả hai hoặc viết 'trung đội nữ dân quân'. Tên xã mới: An Lão và An Trường (Công lý 2026); các nguồn khác dùng tên cũ An Tiến, Trường Thành, An Thắng — ghi '(cũ)'. Chưa có nguồn về giờ mở cửa, vé, đường lên đỉnh, khoảng cách từ trung tâm Hải Phòng (trang lữ hành ghi ~18–20 km, không dùng). Phí tham quan Núi Voi không có trong danh sách nghị quyết phí Hải Phòng 2026 đã đọc (Báo Hải Phòng 15/12/2025) — có thể không thu phí, chưa xác nhận.",
+    "outline": [
+      "Núi Voi ở đâu: bên sông Lạch Tray, xã An Lão – An Trường",
+      "Di tích quốc gia từ 1962: dấu tích Đông Sơn, căn cứ nhà Mạc",
+      "Xem gì: hang Họng Voi, Già Vị, chùa Long Hoa, đền thờ Lê Chân",
+      "Chuyện nữ dân quân Núi Voi năm 1967",
+      "Lễ hội dịp rằm tháng Giêng và lưu ý gửi xe",
+      "Ghép lịch với nội thành Hải Phòng, Đồ Sơn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/bao-tang-hai-phong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00541.json",
+  "draft_template": {
+    "id": "TM-00541",
+    "url": "/du-lich/nui-voi-an-lao/",
+    "title": "Núi Voi Hải Phòng: hang Họng Voi, chùa Long Hoa, hội rằm tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "núi voi hải phòng, núi voi an lão, khu di tích núi voi, lễ hội núi voi 2026, hang họng voi, chùa long hoa núi voi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Núi Voi ở đâu: bên sông Lạch Tray, xã An Lão – An Trường",
+        "<p></p>"
+      ],
+      [
+        "Di tích quốc gia từ 1962: dấu tích Đông Sơn, căn cứ nhà Mạc",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: hang Họng Voi, Già Vị, chùa Long Hoa, đền thờ Lê Chân",
+        "<p></p>"
+      ],
+      [
+        "Chuyện nữ dân quân Núi Voi năm 1967",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội dịp rằm tháng Giêng và lưu ý gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với nội thành Hải Phòng, Đồ Sơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/di-tich-danh-thang/di-tich-lich-su-thang-canh-nui-voi-nui-xuan-son-nui-do-622035",
+        "quote": "Cổng TTĐT TP Hải Phòng, 'Di tích lịch sử thắng cảnh núi Voi – núi Xuân Sơn' (không ghi ngày, nội dung trước sáp nhập; đọc 14/10/2026): quần thể núi đá, núi đất qua 3 xã Trường Thành, An Tiến, An Thắng của huyện An Lão (tên cũ); xếp hạng di tích lịch sử, thắng cảnh sớm nhất Hải Phòng ngày 28/4/1962; là di tích khảo cổ, hiện vật rìu đá, bôn đá, giáo đồng, dao găm đồng trưng bày tại Bảo tàng Núi Voi; thế kỷ XVI nhà Mạc lập căn cứ tiền tiêu bảo vệ Dương Kinh, còn tên hang Chạn, Đấu đong quân, kênh nhà Mạc; có đình, chùa Chi Lai.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/khai-mac-le-hoi-truyen-thong-nui-voi-xuan-binh-ngo-2026-512420.html",
+        "quote": "Báo Công lý (28/2/2026, đọc 14/10/2026): tối 27/2/2026 (11 tháng Giêng Bính Ngọ) xã An Lão phối hợp xã An Trường (TP Hải Phòng) khai mạc lễ hội truyền thống Núi Voi, diễn ra 27/2–1/3/2026 (rước kiệu, dâng hương, cờ người, kéo co, lửa trại…); Núi Voi bên sông Lạch Tray, có hang Họng Voi, Già Vị, Chiêng, Trống, Cá Chép; nữ tướng Lê Chân từng lập căn cứ; 29 cô gái Trung đội dân quân Núi Voi bắn rơi máy bay Mỹ ngày 8/10/1967; chùa Long Hoa phục dựng thờ tượng Thích Ca bằng đồng nặng 15 tấn; lễ hội hằng năm dịp Rằm tháng Giêng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/giu-net-dep-truyen-thong-le-hoi-nui-voi-510021.html",
+        "quote": "Báo Hải Phòng (15/2/2025, trước sáp nhập; đọc 14/10/2026): lễ hội Núi Voi 2025 diễn ra 14–16/2/2025 (17–19 tháng Giêng Ất Tỵ) tại các xã Trường Thành, An Tiến (cũ); có tế lễ ở đền thờ nữ tướng Lê Chân, đình – chùa Chi Lai, chùa Long Hoa; di tích có hang Họng Voi, Già Vị, hang Thành ủy; bài ghi '28 dân quân du kích núi Voi đã bắn rơi máy bay Mỹ'; địa phương phối hợp công an bảo đảm an toàn giao thông, 'không để xảy ra các điểm trông coi xe tự phát' trong mùa lễ hội.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00541"
+  }
+}

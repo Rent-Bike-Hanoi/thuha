@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w24b",
+  "queued": "2026-10-14T01:35:17.211253+00:00",
+  "topic": {
+    "topic_id": "TM-00540",
+    "url": "/du-lich/lang-gom-chu-dau/",
+    "title": "Làng gốm Chu Đậu: xem nghệ nhân vẽ gốm, dòng gốm cổ hồi sinh",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng gốm chu đậu",
+    "secondary_keywords": [
+      "gốm chu đậu",
+      "gốm chu đậu nam sách",
+      "tham quan gốm chu đậu",
+      "trải nghiệm làm gốm chu đậu",
+      "gốm chu đậu hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi quốc lộ 5 về Hải Phòng, đã biết Bát Tràng, muốn ghé một làng gốm có lịch sử khác, cần biết Chu Đậu nay thuộc đâu, vào xem gì, có được tự làm gốm không và gốm Chu Đậu khác gì gốm thường.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ và /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ chỉ liệt kê 'làng gốm Chu Đậu' trong một dòng điểm đến; /du-lich/lang-gom-bat-trang/ nói Bát Tràng. Bài mới giải thích dòng gốm cổ Chu Đậu (niên đại thế kỷ XII–XIII, rực rỡ XIV–XV, thất truyền thế kỷ XVII, phát hiện lại năm 1983 khi đào được lò gốm ở làng Chu Đậu), hiện vật có ở 46 bảo tàng tại 32 quốc gia; công ty phục dựng từ 2001 tại thôn Chu Đậu, xã Thái Tân (Nam Sách cũ, nay Hải Phòng), khách được xem gian trưng bày, nghệ nhân tạo tác, tự làm sản phẩm và gửi bưu điện sau khi nung; 5 sản phẩm OCOP 5 sao (6/2025).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/4812/chu-djau-djinh-cao-gom-co-viet-nam.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'Chu Đậu – Đỉnh cao gốm cổ Việt Nam' (không ghi ngày, đọc 14/10/2026): cuối thế kỷ 14 là thời kỳ phát triển cao nhất của đồ gốm mà ngày nay gọi là 'đồ gốm Chu Đậu', tàn lụi đầu thế kỷ 17 sau chiến tranh Lê – Mạc; năm 1983 ở làng Chu Đậu, dưới vườn nhà một nông dân, người ta đào được di tích lò gốm; quanh phủ Nam Sách còn các lò ở làng Vạn Yên, Gốm, Ngói, Phú Điền, Phúc Lão, Cậy; đồ gốm Chu Đậu tìm thấy nhiều dưới các tàu buôn chìm ngoài khơi Hội An, Đà Nẵng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/gom-chu-dau-khai-truong-cua-hang-trung-bay-san-pham-dau-tien-tai-khu-vuc-dong-hai-phong-416155.html",
+        "quote": "Báo Hải Phòng (11/7/2025, đọc 14/10/2026): Công ty CP Gốm Chu Đậu do Hapro (Tập đoàn BRG) thành lập năm 2001 để phục hưng dòng gốm cổ; ngày 26/6/2025 có 5 sản phẩm (bình giọt ngọc, bình hoa lam, bình phú quý, bình thiên nga, bình tỳ bà) được công nhận OCOP 5 sao; cổ vật gốm Chu Đậu trưng bày tại 46 bảo tàng ở 32 quốc gia; công ty mở cửa hàng trưng bày tại khu đô thị du lịch Đồ Sơn, phường Đồ Sơn (TP Hải Phòng), khách được trải nghiệm làm gốm tại cửa hàng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/gom-chu-dau-don-khoang-10-000-luot-khach-tham-quan-trai-nghiem-396705.html",
+        "quote": "Báo Hải Phòng (28/10/2024, trước 2025 và trước sáp nhập; đọc 14/10/2026): Công ty CP Gốm Chu Đậu ở xã Thái Tân (Nam Sách) đón khoảng 10.000 lượt khách từ đầu năm 2024, hơn 1.000 khách nước ngoài; khách tìm hiểu lịch sử dòng gốm, tham quan gian trưng bày và quá trình nghệ nhân tạo tác; có nhân viên hướng dẫn khách trải nghiệm làm sản phẩm, sản phẩm nung xong được doanh nghiệp đóng gói gửi bưu điện cho khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/gom-chu-dau-khang-dinh-thuong-hieu-quoc-gia-398794.html",
+        "quote": "Báo Hải Phòng (25/11/2024, trước 2025; đọc 14/10/2026): gốm Chu Đậu có niên đại khoảng thế kỷ XII–XIII, rực rỡ thế kỷ XIV–XV, rơi vào quên lãng thế kỷ XVII; nơi sản sinh nay là thôn Chu Đậu, xã Thái Tân, Nam Sách (tên trước sáp nhập); men chiết xuất từ tro vỏ trấu nếp cái hoa vàng; công ty có hơn 200 công nhân, 35 nghệ nhân làng nghề; nổi tiếng cặp bình gốm Hoa Lam và bình tỳ bà; 3 lần đạt Thương hiệu quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng gốm chu đậu"
+      }
+    ],
+    "notes": "Chưa có nguồn chính thức về tên xã/phường mới của thôn Chu Đậu sau sáp nhập 7/2025 (chỉ thấy trang thương mại ghi 'xã Thái Tân, thành phố Hải Phòng'); writer ghi 'thôn Chu Đậu (xã Thái Tân, huyện Nam Sách, Hải Dương cũ), nay thuộc TP Hải Phòng'. Chưa có nguồn về giờ mở cửa, vé tham quan, giá trải nghiệm làm gốm — không đưa số; khuyên gọi trước. Số lượt khách 10.000 là năm 2024. Lưu ý 'làng gốm Chu Đậu' thực tế là khu sản xuất của một doanh nghiệp; không quảng bá giá bán sản phẩm. Quãng đường từ quốc lộ 5 chưa có nguồn.",
+    "outline": [
+      "Chu Đậu ở đâu: thôn Chu Đậu, Nam Sách cũ, nay thuộc Hải Phòng",
+      "Dòng gốm cổ thất truyền và lần phát hiện lò gốm năm 1983",
+      "Đến xem gì: gian trưng bày, nghệ nhân vẽ men lam, tự làm gốm",
+      "Gốm Chu Đậu khác Bát Tràng thế nào",
+      "Đi xe máy theo quốc lộ 5, ghép Côn Sơn – Kiếp Bạc, Văn miếu Mao Điền",
+      "Hỏi trước khi đến: giờ đón khách, phí trải nghiệm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/van-mieu-mao-dien/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00540.json",
+  "draft_template": {
+    "id": "TM-00540",
+    "url": "/du-lich/lang-gom-chu-dau/",
+    "title": "Làng gốm Chu Đậu: xem nghệ nhân vẽ gốm, dòng gốm cổ hồi sinh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gốm chu đậu, gốm chu đậu, gốm chu đậu nam sách, tham quan gốm chu đậu, trải nghiệm làm gốm chu đậu, gốm chu đậu hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chu Đậu ở đâu: thôn Chu Đậu, Nam Sách cũ, nay thuộc Hải Phòng",
+        "<p></p>"
+      ],
+      [
+        "Dòng gốm cổ thất truyền và lần phát hiện lò gốm năm 1983",
+        "<p></p>"
+      ],
+      [
+        "Đến xem gì: gian trưng bày, nghệ nhân vẽ men lam, tự làm gốm",
+        "<p></p>"
+      ],
+      [
+        "Gốm Chu Đậu khác Bát Tràng thế nào",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo quốc lộ 5, ghép Côn Sơn – Kiếp Bạc, Văn miếu Mao Điền",
+        "<p></p>"
+      ],
+      [
+        "Hỏi trước khi đến: giờ đón khách, phí trải nghiệm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/4812/chu-djau-djinh-cao-gom-co-viet-nam.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'Chu Đậu – Đỉnh cao gốm cổ Việt Nam' (không ghi ngày, đọc 14/10/2026): cuối thế kỷ 14 là thời kỳ phát triển cao nhất của đồ gốm mà ngày nay gọi là 'đồ gốm Chu Đậu', tàn lụi đầu thế kỷ 17 sau chiến tranh Lê – Mạc; năm 1983 ở làng Chu Đậu, dưới vườn nhà một nông dân, người ta đào được di tích lò gốm; quanh phủ Nam Sách còn các lò ở làng Vạn Yên, Gốm, Ngói, Phú Điền, Phúc Lão, Cậy; đồ gốm Chu Đậu tìm thấy nhiều dưới các tàu buôn chìm ngoài khơi Hội An, Đà Nẵng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/gom-chu-dau-khai-truong-cua-hang-trung-bay-san-pham-dau-tien-tai-khu-vuc-dong-hai-phong-416155.html",
+        "quote": "Báo Hải Phòng (11/7/2025, đọc 14/10/2026): Công ty CP Gốm Chu Đậu do Hapro (Tập đoàn BRG) thành lập năm 2001 để phục hưng dòng gốm cổ; ngày 26/6/2025 có 5 sản phẩm (bình giọt ngọc, bình hoa lam, bình phú quý, bình thiên nga, bình tỳ bà) được công nhận OCOP 5 sao; cổ vật gốm Chu Đậu trưng bày tại 46 bảo tàng ở 32 quốc gia; công ty mở cửa hàng trưng bày tại khu đô thị du lịch Đồ Sơn, phường Đồ Sơn (TP Hải Phòng), khách được trải nghiệm làm gốm tại cửa hàng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/gom-chu-dau-don-khoang-10-000-luot-khach-tham-quan-trai-nghiem-396705.html",
+        "quote": "Báo Hải Phòng (28/10/2024, trước 2025 và trước sáp nhập; đọc 14/10/2026): Công ty CP Gốm Chu Đậu ở xã Thái Tân (Nam Sách) đón khoảng 10.000 lượt khách từ đầu năm 2024, hơn 1.000 khách nước ngoài; khách tìm hiểu lịch sử dòng gốm, tham quan gian trưng bày và quá trình nghệ nhân tạo tác; có nhân viên hướng dẫn khách trải nghiệm làm sản phẩm, sản phẩm nung xong được doanh nghiệp đóng gói gửi bưu điện cho khách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/gom-chu-dau-khang-dinh-thuong-hieu-quoc-gia-398794.html",
+        "quote": "Báo Hải Phòng (25/11/2024, trước 2025; đọc 14/10/2026): gốm Chu Đậu có niên đại khoảng thế kỷ XII–XIII, rực rỡ thế kỷ XIV–XV, rơi vào quên lãng thế kỷ XVII; nơi sản sinh nay là thôn Chu Đậu, xã Thái Tân, Nam Sách (tên trước sáp nhập); men chiết xuất từ tro vỏ trấu nếp cái hoa vàng; công ty có hơn 200 công nhân, 35 nghệ nhân làng nghề; nổi tiếng cặp bình gốm Hoa Lam và bình tỳ bà; 3 lần đạt Thương hiệu quốc gia.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00540"
+  }
+}

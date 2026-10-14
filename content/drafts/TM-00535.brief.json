@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w24b",
+  "queued": "2026-10-14T01:35:17.209782+00:00",
+  "topic": {
+    "topic_id": "TM-00535",
+    "url": "/du-lich/den-bao-loc/",
+    "title": "Đền Bảo Lộc: quê Đức Thánh Trần, rước kiệu tháng Tám âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền bảo lộc",
+    "secondary_keywords": [
+      "đền bảo lộc nam định",
+      "đền bảo lộc mỹ lộc",
+      "lễ hội đền bảo lộc",
+      "rước kiệu đức thánh trần",
+      "đền an lạc bảo lộc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi lễ đền Trần Nam Định muốn ghé thêm đền Bảo Lộc, nơi gắn với quê Trần Hưng Đạo, cần biết đền nay thuộc đâu, thờ gì, lễ hội ngày nào và tránh các dịch vụ 'đóng ấn' thu tiền.",
+    "information_gain": "/du-lich/den-tran-nam-dinh-di-xe-may/ chỉ nói quần thể đền Trần (Thiên Trường – Cố Trạch) và mùa khai ấn, không nhắc đền Bảo Lộc. Bài mới cho biết đền Bảo Lộc nay ở phường Nam Định, tỉnh Ninh Bình (trước là xã Mỹ Phúc, huyện Mỹ Lộc), là di tích quốc gia, nguyên là đền An Lạc trên đất thái ấp của An Sinh Vương Trần Liễu; kiến trúc chữ Đinh từ năm 1928, tượng đồng Đức Thánh Trần nặng 4,8 tấn, sắc phong Thiệu Trị 1845; lễ hội tháng 8 âm lịch với lễ rước kiệu về lăng mộ Hưng Đạo Đại vương (năm 2026 rước ngày 25/9); và việc UBND tỉnh, huyện cấm 'đóng ấn, thu tiền', đổi tiền lẻ tại đền (2/2024).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3253",
+        "quote": "Trang TTĐT Trung tâm Thông tin XTDL – Sở Du lịch Ninh Bình, 'Đền Bảo Lộc – Di tích lịch sử văn hóa linh thiêng' (không ghi ngày, đọc 14/10/2026): đền tọa lạc tại phường Nam Định, tỉnh Ninh Bình; vùng ấp An Lạc là thái ấp của An Sinh Vương Trần Liễu, nơi sinh ra Trần Quốc Tuấn; đền gần sông Châu Giang; năm 1928 xây dựng quy mô hình chữ 'Đinh' gồm tiền đường 7 gian, trung đường 5 gian, hậu cung 3 gian; bên trái chùa, bên phải phủ thờ Mẫu, phía sau đền Khải Thánh; tượng đồng Đức Thánh Trần nặng 4,8 tấn; ngày 12/4/2013 tiếp nhận đạo sắc phong vua Thiệu Trị năm 1845; lễ hội truyền thống ngày 20 tháng 8 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoninhbinh.org.vn/le-ruoc-kieu-truyen-thong-duc-thanh-tran-tai-den-bao-loc-260925113954052.html",
+        "quote": "Báo Ninh Bình (25/9/2026, đọc 14/10/2026): sáng 25/9/2026 (15 tháng 8 năm Bính Ngọ) tại Di tích lịch sử – văn hóa quốc gia Đền Bảo Lộc (phường Nam Định, tỉnh Ninh Bình) diễn ra lễ rước kiệu truyền thống Đức Thánh Trần, mở đầu lễ hội tưởng niệm 726 năm ngày mất Hưng Đạo Đại vương; đoàn rước từ đền hướng về Lăng mộ Hưng Đạo Đại vương Trần Quốc Tuấn rồi trở về đền; hai kiệu Long Đình và Bát Cống; lễ hội tổ chức hằng năm vào tháng 8 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nam-dinh-chan-chinh-ngay-viec-dong-an-thu-tien-o-den-bao-loc-post796830.html",
+        "quote": "Báo Nhân Dân (20/2/2024, trước 2025; đọc 14/10/2026): UBND tỉnh Nam Định và UBND huyện Mỹ Lộc yêu cầu xử lý việc 'đóng ấn, thu tiền' và đổi tiền lẻ tại đền Bảo Lộc, xã Mỹ Phúc (tên cũ); báo chí phản ánh lá ấn được 'bán' 50.000–250.000 đồng, có lúc 500.000 đồng, đổi tiền lẻ 'lãi' tới 25%; huyện 'nghiêm cấm việc đóng ấn mặc cả, thu tiền' tại cung cấm; việc khai ấn là nghi lễ ở Đền Trần (phường Lộc Vượng); đền Bảo Lộc nguyên là đền An Lạc, làng Bảo Lộc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền bảo lộc"
+      }
+    ],
+    "notes": "Chưa có nguồn chính thức về giờ mở cửa, vé (dường như không thu vé nhưng chưa có nguồn) và khoảng cách từ đền Trần tới đền Bảo Lộc — không đưa số; writer chỉ nói 'cùng phường Nam Định' theo Báo Ninh Bình/Sở Du lịch. Số liệu giá ấn 2024 chỉ dùng để cảnh báo, ghi rõ năm. Ngày lễ: Sở Du lịch ghi 20/8 âm lịch, Báo Ninh Bình ghi lễ rước 15/8 âm lịch mở đầu lễ hội — viết 'lễ hội tháng 8 âm lịch, rước kiệu khoảng 15/8, chính hội 20/8'. Nguồn chỉ 3 mục; cần thêm nếu writer muốn chi tiết kiến trúc.",
+    "outline": [
+      "Đền Bảo Lộc ở đâu sau sáp nhập: phường Nam Định, Ninh Bình",
+      "Vì sao gọi là quê Đức Thánh Trần: ấp An Lạc của Trần Liễu",
+      "Xem gì: kiến trúc chữ Đinh, tượng đồng 4,8 tấn, sắc phong 1845",
+      "Lễ hội tháng Tám âm lịch và lễ rước kiệu về lăng mộ",
+      "Lưu ý: không 'mua ấn', cẩn thận đổi tiền lẻ",
+      "Ghép lịch với đền Trần, Phủ Dày trong một ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/phu-day-di-xe-may-tu-ha-noi/",
+      "/du-lich/den-tran-thuong-phat-luong/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00535.json",
+  "draft_template": {
+    "id": "TM-00535",
+    "url": "/du-lich/den-bao-loc/",
+    "title": "Đền Bảo Lộc: quê Đức Thánh Trần, rước kiệu tháng Tám âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền bảo lộc, đền bảo lộc nam định, đền bảo lộc mỹ lộc, lễ hội đền bảo lộc, rước kiệu đức thánh trần, đền an lạc bảo lộc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Bảo Lộc ở đâu sau sáp nhập: phường Nam Định, Ninh Bình",
+        "<p></p>"
+      ],
+      [
+        "Vì sao gọi là quê Đức Thánh Trần: ấp An Lạc của Trần Liễu",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: kiến trúc chữ Đinh, tượng đồng 4,8 tấn, sắc phong 1845",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Tám âm lịch và lễ rước kiệu về lăng mộ",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: không 'mua ấn', cẩn thận đổi tiền lẻ",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với đền Trần, Phủ Dày trong một ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3253",
+        "quote": "Trang TTĐT Trung tâm Thông tin XTDL – Sở Du lịch Ninh Bình, 'Đền Bảo Lộc – Di tích lịch sử văn hóa linh thiêng' (không ghi ngày, đọc 14/10/2026): đền tọa lạc tại phường Nam Định, tỉnh Ninh Bình; vùng ấp An Lạc là thái ấp của An Sinh Vương Trần Liễu, nơi sinh ra Trần Quốc Tuấn; đền gần sông Châu Giang; năm 1928 xây dựng quy mô hình chữ 'Đinh' gồm tiền đường 7 gian, trung đường 5 gian, hậu cung 3 gian; bên trái chùa, bên phải phủ thờ Mẫu, phía sau đền Khải Thánh; tượng đồng Đức Thánh Trần nặng 4,8 tấn; ngày 12/4/2013 tiếp nhận đạo sắc phong vua Thiệu Trị năm 1845; lễ hội truyền thống ngày 20 tháng 8 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baoninhbinh.org.vn/le-ruoc-kieu-truyen-thong-duc-thanh-tran-tai-den-bao-loc-260925113954052.html",
+        "quote": "Báo Ninh Bình (25/9/2026, đọc 14/10/2026): sáng 25/9/2026 (15 tháng 8 năm Bính Ngọ) tại Di tích lịch sử – văn hóa quốc gia Đền Bảo Lộc (phường Nam Định, tỉnh Ninh Bình) diễn ra lễ rước kiệu truyền thống Đức Thánh Trần, mở đầu lễ hội tưởng niệm 726 năm ngày mất Hưng Đạo Đại vương; đoàn rước từ đền hướng về Lăng mộ Hưng Đạo Đại vương Trần Quốc Tuấn rồi trở về đền; hai kiệu Long Đình và Bát Cống; lễ hội tổ chức hằng năm vào tháng 8 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/nam-dinh-chan-chinh-ngay-viec-dong-an-thu-tien-o-den-bao-loc-post796830.html",
+        "quote": "Báo Nhân Dân (20/2/2024, trước 2025; đọc 14/10/2026): UBND tỉnh Nam Định và UBND huyện Mỹ Lộc yêu cầu xử lý việc 'đóng ấn, thu tiền' và đổi tiền lẻ tại đền Bảo Lộc, xã Mỹ Phúc (tên cũ); báo chí phản ánh lá ấn được 'bán' 50.000–250.000 đồng, có lúc 500.000 đồng, đổi tiền lẻ 'lãi' tới 25%; huyện 'nghiêm cấm việc đóng ấn mặc cả, thu tiền' tại cung cấm; việc khai ấn là nghi lễ ở Đền Trần (phường Lộc Vượng); đền Bảo Lộc nguyên là đền An Lạc, làng Bảo Lộc.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00535"
+  }
+}

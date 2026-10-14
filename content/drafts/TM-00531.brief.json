@@ -1,0 +1,171 @@
+{
+  "writer": "writer-w24a",
+  "queued": "2026-10-14T01:35:17.028829+00:00",
+  "topic": {
+    "topic_id": "TM-00531",
+    "url": "/du-lich/vuon-quoc-gia-cat-ba/",
+    "title": "Vườn quốc gia Cát Bà: leo đỉnh Ngự Lâm, động Trung Trang, phí 2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "vườn quốc gia cát bà",
+    "secondary_keywords": [
+      "vườn quốc gia cát bà giá vé",
+      "đỉnh ngự lâm cát bà",
+      "động trung trang",
+      "trekking cát bà",
+      "voọc cát bà"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi xe máy ra Cát Bà muốn dành nửa ngày vào rừng thay vì chỉ đi tàu vịnh, cần biết vé vào Vườn quốc gia năm 2026 bao nhiêu, tuyến nào ngắn, leo Ngự Lâm khó cỡ nào và mở cửa giờ nào.",
+    "information_gain": "/du-lich/vinh-lan-ha/ chỉ nhắc một câu rằng cùng nghị quyết phí 2026 vé Vườn quốc gia Cát Bà là 160.000 đồng; /du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ dừng ở đường ra đảo và 25 km vào thị trấn. Bài mới tách các mức phí theo nghị quyết HĐND Hải Phòng hiệu lực 2026 (toàn vườn 160.000đ, tuyến lẻ Kim Giao – Ngự Lâm – Trung Trang, Ninh Tiếp – Tiền Đức, Phù Long – Thiên Long 80.000–120.000đ), các tuyến ngắn 1–2 giờ và tuyến dài 4–5 giờ theo trang Vườn, mô tả đoạn dốc 40–50 độ lên Ngự Lâm cao khoảng 220 m (Lao Động 9/2026), giờ mở 6h30–17h, diện tích 17.360 ha, voọc Cát Bà đặc hữu và lưu ý an toàn khi trekking.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/hai-phong-dieu-chinh-muc-thu-phi-tham-quan-danh-lam-thang-canh-tu-nam-2026-529647.html",
+        "quote": "Báo Hải Phòng (15/12/2025, đọc 14/10/2026): HĐND TP Hải Phòng khóa 16, kỳ họp thứ 32 thông qua nghị quyết phí tham quan áp dụng từ 2026; 'Vườn Quốc gia Cát Bà có mức thu 160.000 đồng/lượt đối với người lớn, 80.000 đồng/lượt với trẻ em từ 6 tuổi trở lên'; các tuyến trung tâm – đỉnh Kim Giao – đỉnh Ngự Lâm – động Trung Trang; đồng Ninh Tiếp – hang Tiền Đức; Phù Long – rừng ngập mặn – động Thiên Long thu 80.000–120.000 đồng/lượt người lớn, trẻ em 50%; miễn phí trẻ dưới 6 tuổi, giảm 50% người cao tuổi, sinh viên tham quan ngoại khóa…",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonquocgiacatba.com.vn/cac-hoat-dong-du-lich",
+        "quote": "Vườn Quốc gia Cát Bà, trang 'Các hoạt động du lịch' (không ghi ngày, đọc 14/10/2026): tuyến ngắn (đi bộ và leo núi 1–2 giờ): Rừng Kim Giao – Đỉnh Ngự Lâm, Hang Trung Trang, Tuyến giáo dục Môi trường; tuyến dài (leo núi 4–5 giờ): Mây Bầu – Ao ếch – Áng Phay – Việt Hải; hang Trung Trang dài khoảng 400 m xuyên lòng núi; Nhà tiêu bản trong khuôn viên trung tâm Vườn có khoảng 2.500 mẫu vật.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonquocgiacatba.com.vn/",
+        "quote": "Vườn Quốc gia Cát Bà, trang chủ (đọc 14/10/2026): thành lập năm 1986, diện tích hơn 17.360 ha gồm 10.912,51 ha rừng và 6.450,45 ha mặt nước biển; là tâm điểm Khu Dự trữ Sinh quyển thế giới Cát Bà; voọc Cát Bà (Trachypithecus poliocephalus) là loài linh trưởng đặc hữu, cực kỳ nguy cấp chỉ phân bố ở quần đảo Cát Bà. Trang 'Bảng giá vé thăm quan' (cập nhật 23/4/2026) hiển thị giá dạng ảnh, không đọc được chữ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/trai-nghiem-chinh-phuc-dinh-ngu-lam-giua-rung-nguyen-sinh-cat-ba-1753278.html",
+        "quote": "Báo Lao Động (12/9/2026, đọc 14/10/2026): Vườn nằm trên đảo Cát Bà (đặc khu Cát Hải, Hải Phòng), cách Hà Nội khoảng 150 km; tuyến đỉnh Ngự Lâm dài khoảng 3 km gồm gần 1 km đường bê tông rồi đường mòn qua rừng Kim Giao, có đoạn dốc 40–50 độ, đá tai mèo, đất trơn; mất 3–4 giờ; đỉnh cao khoảng 220 m, có lầu vọng cảnh hai tầng; khuyên đi giày bám, mang nước, không tách đoàn; vé kết hợp Ngự Lâm – động Trung Trang khoảng 120.000 đồng/người; mở cửa 6h30–17h hằng ngày; từ thị trấn Cát Bà thuê xe máy hoặc taxi vào Vườn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv8.vtv.vn/vuon-quoc-gia-cat-ba-huong-toi-trung-tam-du-lich-sinh-thai-cao-cap-tam-quoc-te-107260626211725063.htm",
+        "quote": "VTV8 (27/6/2026, đọc 14/10/2026): Vườn quốc gia Cát Bà là 'trái tim xanh' nằm trong Di sản thiên nhiên thế giới Vịnh Hạ Long – Quần đảo Cát Bà; diện tích hơn 17.000 ha; voọc đầu trắng Cát Bà là một trong những loài linh trưởng nguy cấp nhất thế giới; gợi ý tuyến trekking Kim Giao – đỉnh Ngự Lâm, Ao Ếch. (Bài ghi 'huyện Cát Hải' là tên cũ; nay là đặc khu Cát Hải.)",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "vườn quốc gia cát bà"
+      }
+    ],
+    "notes": "Thông tin Vườn tạm đóng rồi 'hoạt động trở lại bình thường từ 26/08/2026' chỉ thấy trên trang Facebook của Vườn (kết quả tìm kiếm), không đọc được bản chính thức — không đưa vào bài; writer nên ghi 'mùa bão có thể tạm dừng, hỏi trước'. Bảng giá trên trang Vườn là ảnh, không đối chiếu được; dùng mức của nghị quyết (Báo Hải Phòng). Mức 120.000đ cho vé kết hợp Ngự Lâm – Trung Trang của Lao Động khớp khoảng 80.000–120.000đ của nghị quyết. Cẩm nang tư nhân ghi 40.000/80.000đ là mức cũ, không dùng. Khoảng cách 150 km là tính cho ô tô theo Lao Động; xe máy đi theo bài Cát Bà (quốc lộ 5, phà), không vào cao tốc.",
+    "outline": [
+      "Vườn quốc gia Cát Bà ở đâu, cách thị trấn bao xa",
+      "Phí tham quan 2026: vé toàn vườn và vé từng tuyến",
+      "Tuyến ngắn 1–2 giờ: Kim Giao – Ngự Lâm, động Trung Trang",
+      "Leo đỉnh Ngự Lâm: dốc 40–50 độ, giày, nước, không tách đoàn",
+      "Tuyến dài 4–5 giờ và voọc Cát Bà",
+      "Giờ mở cửa, mùa mưa bão và ghép lịch với vịnh Lan Hạ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/",
+      "/du-lich/vinh-lan-ha/",
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00531.json",
+  "draft_template": {
+    "id": "TM-00531",
+    "url": "/du-lich/vuon-quoc-gia-cat-ba/",
+    "title": "Vườn quốc gia Cát Bà: leo đỉnh Ngự Lâm, động Trung Trang, phí 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vườn quốc gia cát bà, vườn quốc gia cát bà giá vé, đỉnh ngự lâm cát bà, động trung trang, trekking cát bà, voọc cát bà",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vườn quốc gia Cát Bà ở đâu, cách thị trấn bao xa",
+        "<p></p>"
+      ],
+      [
+        "Phí tham quan 2026: vé toàn vườn và vé từng tuyến",
+        "<p></p>"
+      ],
+      [
+        "Tuyến ngắn 1–2 giờ: Kim Giao – Ngự Lâm, động Trung Trang",
+        "<p></p>"
+      ],
+      [
+        "Leo đỉnh Ngự Lâm: dốc 40–50 độ, giày, nước, không tách đoàn",
+        "<p></p>"
+      ],
+      [
+        "Tuyến dài 4–5 giờ và voọc Cát Bà",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa, mùa mưa bão và ghép lịch với vịnh Lan Hạ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/hai-phong-dieu-chinh-muc-thu-phi-tham-quan-danh-lam-thang-canh-tu-nam-2026-529647.html",
+        "quote": "Báo Hải Phòng (15/12/2025, đọc 14/10/2026): HĐND TP Hải Phòng khóa 16, kỳ họp thứ 32 thông qua nghị quyết phí tham quan áp dụng từ 2026; 'Vườn Quốc gia Cát Bà có mức thu 160.000 đồng/lượt đối với người lớn, 80.000 đồng/lượt với trẻ em từ 6 tuổi trở lên'; các tuyến trung tâm – đỉnh Kim Giao – đỉnh Ngự Lâm – động Trung Trang; đồng Ninh Tiếp – hang Tiền Đức; Phù Long – rừng ngập mặn – động Thiên Long thu 80.000–120.000 đồng/lượt người lớn, trẻ em 50%; miễn phí trẻ dưới 6 tuổi, giảm 50% người cao tuổi, sinh viên tham quan ngoại khóa…",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonquocgiacatba.com.vn/cac-hoat-dong-du-lich",
+        "quote": "Vườn Quốc gia Cát Bà, trang 'Các hoạt động du lịch' (không ghi ngày, đọc 14/10/2026): tuyến ngắn (đi bộ và leo núi 1–2 giờ): Rừng Kim Giao – Đỉnh Ngự Lâm, Hang Trung Trang, Tuyến giáo dục Môi trường; tuyến dài (leo núi 4–5 giờ): Mây Bầu – Ao ếch – Áng Phay – Việt Hải; hang Trung Trang dài khoảng 400 m xuyên lòng núi; Nhà tiêu bản trong khuôn viên trung tâm Vườn có khoảng 2.500 mẫu vật.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vuonquocgiacatba.com.vn/",
+        "quote": "Vườn Quốc gia Cát Bà, trang chủ (đọc 14/10/2026): thành lập năm 1986, diện tích hơn 17.360 ha gồm 10.912,51 ha rừng và 6.450,45 ha mặt nước biển; là tâm điểm Khu Dự trữ Sinh quyển thế giới Cát Bà; voọc Cát Bà (Trachypithecus poliocephalus) là loài linh trưởng đặc hữu, cực kỳ nguy cấp chỉ phân bố ở quần đảo Cát Bà. Trang 'Bảng giá vé thăm quan' (cập nhật 23/4/2026) hiển thị giá dạng ảnh, không đọc được chữ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/kham-pha/trai-nghiem-chinh-phuc-dinh-ngu-lam-giua-rung-nguyen-sinh-cat-ba-1753278.html",
+        "quote": "Báo Lao Động (12/9/2026, đọc 14/10/2026): Vườn nằm trên đảo Cát Bà (đặc khu Cát Hải, Hải Phòng), cách Hà Nội khoảng 150 km; tuyến đỉnh Ngự Lâm dài khoảng 3 km gồm gần 1 km đường bê tông rồi đường mòn qua rừng Kim Giao, có đoạn dốc 40–50 độ, đá tai mèo, đất trơn; mất 3–4 giờ; đỉnh cao khoảng 220 m, có lầu vọng cảnh hai tầng; khuyên đi giày bám, mang nước, không tách đoàn; vé kết hợp Ngự Lâm – động Trung Trang khoảng 120.000 đồng/người; mở cửa 6h30–17h hằng ngày; từ thị trấn Cát Bà thuê xe máy hoặc taxi vào Vườn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv8.vtv.vn/vuon-quoc-gia-cat-ba-huong-toi-trung-tam-du-lich-sinh-thai-cao-cap-tam-quoc-te-107260626211725063.htm",
+        "quote": "VTV8 (27/6/2026, đọc 14/10/2026): Vườn quốc gia Cát Bà là 'trái tim xanh' nằm trong Di sản thiên nhiên thế giới Vịnh Hạ Long – Quần đảo Cát Bà; diện tích hơn 17.000 ha; voọc đầu trắng Cát Bà là một trong những loài linh trưởng nguy cấp nhất thế giới; gợi ý tuyến trekking Kim Giao – đỉnh Ngự Lâm, Ao Ếch. (Bài ghi 'huyện Cát Hải' là tên cũ; nay là đặc khu Cát Hải.)",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00531"
+  }
+}

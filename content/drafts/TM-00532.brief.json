@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w24a",
+  "queued": "2026-10-14T01:35:17.029307+00:00",
+  "topic": {
+    "topic_id": "TM-00532",
+    "url": "/du-lich/bai-tam-cat-co-cat-ba/",
+    "title": "Bãi tắm Cát Cò Cát Bà: giờ cấm xe đường Cát Tiên, cứu hộ, 3 bãi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bãi tắm cát cò",
+    "secondary_keywords": [
+      "cát cò 1",
+      "cát cò 2",
+      "cát cò 3",
+      "đường cát tiên cát bà",
+      "tắm biển cát bà an toàn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy ra Cát Bà muốn tắm biển ngay sát thị trấn, cần biết có được chạy xe xuống bãi Cát Cò không, gửi xe ở đâu, bãi nào có cứu hộ và tắm thế nào cho an toàn.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/ dừng ở đường ra đảo và 25 km vào thị trấn, không nhắc bãi Cát Cò; /du-lich/vinh-lan-ha/ chỉ nói tàu vịnh. Bài mới cho biết đường Cát Tiên (đường lên Cát Cò 1, 2) cấm xe máy, ô tô, xe điện 5h30–18h30 từ 30/4 đến 5/9/2026, ô tô trả khách ở chân dốc, xe máy để tại điểm được hướng dẫn, không đỗ vỉa hè từ khách sạn Hùng Long tới Cát Cò 3; 4 bãi tắm được công nhận (Cát Cò 1, 2, 3, Tùng Thu), Cát Cò 1 dài 142 m; cứu hộ thường trực, phao giới hạn, mô tô nước mùa hè 2026; vụ đuối nước 2024 và lời khuyên chỉ tắm trong phao.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/ngay-dau-han-che-phuong-tien-tren-duong-ra-bai-tam-o-cat-ba-hai-phong-1694181.html",
+        "quote": "Báo Lao Động (30/4/2026, đọc 14/10/2026): từ 30/4/2026 đặc khu Cát Hải phân làn đường Cát Tiên (đường lên bãi tắm Cát Cò 1, 2); theo UBND đặc khu, 'không cho xe mô tô, xe gắn máy, xe ô tô và xe điện du lịch hoạt động trên tuyến đường Cát Tiên trong khung giờ từ 5h30 đến 18h30 hằng ngày (từ 30.4.2026 đến 5.9.2026)', trừ trường hợp theo quy định; không dừng, đỗ trên vỉa hè từ khách sạn Hùng Long đến bãi tắm Cát Cò 3; ô tô trả khách tại chân dốc Cát Cò 1, 2; xe máy được hướng dẫn để tại các điểm phù hợp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/bao-dam-an-toan-du-lich-cat-ba-mua-cao-diem-he-547947.html",
+        "quote": "Báo Hải Phòng (15/7/2026, đọc 14/10/2026): mùa cao điểm hè 2026, toàn bộ các bãi tắm khu du lịch Cát Bà bố trí lực lượng cứu hộ thường trực cả mùa hè; biển cảnh báo, phao giới hạn khu vực tắm an toàn kiểm tra hằng ngày; cứu hộ quan sát từ trên cao, tuần tra dọc bờ; mỗi bãi tắm túc trực mô tô nước cứu hộ; tổ công tác tạm giữ 14 phao chuối hoạt động trái phép trên các vịnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/du-khach-duoi-nuoc-tai-bai-tam-cat-co-1-tai-dao-cat-ba-501214.html",
+        "quote": "Báo Hải Phòng (7/7/2024, trước 2025; đọc 14/10/2026): sáng 7/7/2024 một du khách đuối nước sau khi bơi ra xa bờ ở bãi Cát Cò 1, cứu hộ của Flamingo Resort Cát Bà đưa vào bờ nhưng không qua khỏi; 'Bãi tắm Cát Cò 1 là 1 trong 4 bãi tắm tại đảo Cát Bà được UBND thành phố công nhận là điểm du lịch… bãi tắm tự nhiên, dài 142 m, thường ít có sóng lớn'; năm 2024 kiểm tra 4 bãi Cát Cò 1, Cát Cò 2, Cát Cò 3, Tùng Thu theo Quyết định 04/2024/QĐ-UBND (Quy chế quản lý bãi tắm biển Hải Phòng); khuyến cáo chỉ tắm trong giới hạn phao, không bơi quá xa bờ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/mua-he-but-pha-cua-du-lich-cat-ba-550738.html",
+        "quote": "Báo Hải Phòng (17/8/2026, đọc 14/10/2026): hè 2026 không khí du lịch sôi động từ trung tâm Cát Bà tới các bãi tắm Cát Cò, Tùng Thu, Bến Bèo; hết tháng 7/2026 đặc khu Cát Hải đón hơn 3,3 triệu lượt khách; riêng tháng 7 hơn 875.000 lượt; lượng khách tập trung gây sức ép lên giao thông, bãi tắm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bãi tắm cát cò"
+      }
+    ],
+    "notes": "Không có nguồn chính thức/báo lớn về giá thuê ghế, phí vào Cát Cò 2 hay vé tắm nước ngọt (chỉ thấy trên trang cẩm nang tư nhân) — không đưa giá. Không có nguồn 2026 về chiều dài Cát Cò 2, 3; dùng 142 m chỉ cho Cát Cò 1 (nguồn 2024). Lệnh cấm xe trên đường Cát Tiên chỉ áp dụng 30/4–5/9/2026; writer ghi rõ đã hết hiệu lực mùa 2026 và có thể lặp lại mùa hè sau — hỏi trước. Không có nguồn đọc được về Cát Cò bị ảnh hưởng bão mùa 2026. Pháo đài Thần Công (gần đó) không có nguồn chính thức xác nhận còn mở cửa — không gợi ý ghé.",
+    "outline": [
+      "Cát Cò ở đâu: ba bãi sát thị trấn Cát Bà, cùng Tùng Thu là 4 bãi được công nhận",
+      "Đi xe máy tới bãi: đường Cát Tiên, giờ cấm xe mùa hè, chỗ để xe",
+      "Cát Cò 1, 2, 3 khác nhau thế nào",
+      "Tắm an toàn: cứu hộ, phao giới hạn, bài học đuối nước",
+      "Mùa đông khách và mùa bão: lúc nào nên đi",
+      "Ghép lịch: vịnh Lan Hạ, Vườn quốc gia Cát Bà"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/",
+      "/du-lich/vinh-lan-ha/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00532.json",
+  "draft_template": {
+    "id": "TM-00532",
+    "url": "/du-lich/bai-tam-cat-co-cat-ba/",
+    "title": "Bãi tắm Cát Cò Cát Bà: giờ cấm xe đường Cát Tiên, cứu hộ, 3 bãi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bãi tắm cát cò, cát cò 1, cát cò 2, cát cò 3, đường cát tiên cát bà, tắm biển cát bà an toàn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cát Cò ở đâu: ba bãi sát thị trấn Cát Bà, cùng Tùng Thu là 4 bãi được công nhận",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy tới bãi: đường Cát Tiên, giờ cấm xe mùa hè, chỗ để xe",
+        "<p></p>"
+      ],
+      [
+        "Cát Cò 1, 2, 3 khác nhau thế nào",
+        "<p></p>"
+      ],
+      [
+        "Tắm an toàn: cứu hộ, phao giới hạn, bài học đuối nước",
+        "<p></p>"
+      ],
+      [
+        "Mùa đông khách và mùa bão: lúc nào nên đi",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch: vịnh Lan Hạ, Vườn quốc gia Cát Bà",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/du-lich/tin-tuc/ngay-dau-han-che-phuong-tien-tren-duong-ra-bai-tam-o-cat-ba-hai-phong-1694181.html",
+        "quote": "Báo Lao Động (30/4/2026, đọc 14/10/2026): từ 30/4/2026 đặc khu Cát Hải phân làn đường Cát Tiên (đường lên bãi tắm Cát Cò 1, 2); theo UBND đặc khu, 'không cho xe mô tô, xe gắn máy, xe ô tô và xe điện du lịch hoạt động trên tuyến đường Cát Tiên trong khung giờ từ 5h30 đến 18h30 hằng ngày (từ 30.4.2026 đến 5.9.2026)', trừ trường hợp theo quy định; không dừng, đỗ trên vỉa hè từ khách sạn Hùng Long đến bãi tắm Cát Cò 3; ô tô trả khách tại chân dốc Cát Cò 1, 2; xe máy được hướng dẫn để tại các điểm phù hợp.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/bao-dam-an-toan-du-lich-cat-ba-mua-cao-diem-he-547947.html",
+        "quote": "Báo Hải Phòng (15/7/2026, đọc 14/10/2026): mùa cao điểm hè 2026, toàn bộ các bãi tắm khu du lịch Cát Bà bố trí lực lượng cứu hộ thường trực cả mùa hè; biển cảnh báo, phao giới hạn khu vực tắm an toàn kiểm tra hằng ngày; cứu hộ quan sát từ trên cao, tuần tra dọc bờ; mỗi bãi tắm túc trực mô tô nước cứu hộ; tổ công tác tạm giữ 14 phao chuối hoạt động trái phép trên các vịnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/du-khach-duoi-nuoc-tai-bai-tam-cat-co-1-tai-dao-cat-ba-501214.html",
+        "quote": "Báo Hải Phòng (7/7/2024, trước 2025; đọc 14/10/2026): sáng 7/7/2024 một du khách đuối nước sau khi bơi ra xa bờ ở bãi Cát Cò 1, cứu hộ của Flamingo Resort Cát Bà đưa vào bờ nhưng không qua khỏi; 'Bãi tắm Cát Cò 1 là 1 trong 4 bãi tắm tại đảo Cát Bà được UBND thành phố công nhận là điểm du lịch… bãi tắm tự nhiên, dài 142 m, thường ít có sóng lớn'; năm 2024 kiểm tra 4 bãi Cát Cò 1, Cát Cò 2, Cát Cò 3, Tùng Thu theo Quyết định 04/2024/QĐ-UBND (Quy chế quản lý bãi tắm biển Hải Phòng); khuyến cáo chỉ tắm trong giới hạn phao, không bơi quá xa bờ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/mua-he-but-pha-cua-du-lich-cat-ba-550738.html",
+        "quote": "Báo Hải Phòng (17/8/2026, đọc 14/10/2026): hè 2026 không khí du lịch sôi động từ trung tâm Cát Bà tới các bãi tắm Cát Cò, Tùng Thu, Bến Bèo; hết tháng 7/2026 đặc khu Cát Hải đón hơn 3,3 triệu lượt khách; riêng tháng 7 hơn 875.000 lượt; lượng khách tập trung gây sức ép lên giao thông, bãi tắm.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00532"
+  }
+}

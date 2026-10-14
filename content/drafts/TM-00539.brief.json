@@ -1,0 +1,145 @@
+{
+  "writer": "writer-w24b",
+  "queued": "2026-10-14T01:35:17.210861+00:00",
+  "topic": {
+    "topic_id": "TM-00539",
+    "url": "/du-lich/den-a-sao-ben-tuong/",
+    "title": "Đền A Sào và Bến Tượng: đại bản doanh Trần Hưng Đạo bên sông Hóa",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền a sào",
+    "secondary_keywords": [
+      "bến tượng a sào",
+      "đình đền bến tượng a sào",
+      "lễ hội đền a sào",
+      "đền a sào quỳnh phụ",
+      "tượng trần hưng đạo a sào"
+    ],
+    "intent": "informational",
+    "user_problem": "Người tìm các di tích nhà Trần quanh Hưng Yên – Thái Bình cũ muốn đến đền A Sào và Bến Tượng, cần biết nơi này nay thuộc xã nào, xem gì (hồ Tắm Tượng, voi đá, tượng đá 13,2 m) và lễ hội vào tháng nào.",
+    "information_gain": "Trang chưa có bài nào nhắc A Sào. /du-lich/khu-di-tich-bach-dang-giang/ kể trận Bạch Đằng 1288 phía Hải Phòng, /du-lich/chua-keo-thai-binh/ nói chùa Keo. Bài mới cho biết Đình – Đền – Bến Tượng A Sào nay thuộc xã A Sào, tỉnh Hưng Yên (trước là xã An Thái, Quỳnh Phụ, Thái Bình), là di tích quốc gia (2011), lễ hội là di sản phi vật thể quốc gia (2015), được UBND tỉnh công nhận điểm du lịch ngày 30/9/2026; câu chuyện kho lương và đại bản doanh 1288, 'Đệ nhị sinh từ' sau Kiếp Bạc; hồ Tắm Tượng, voi đá phục dựng 2006 ở Bến Tượng, tượng Trần Hưng Đạo đá xanh cao 13,2 m; hai mùa hội: 10/2 âm lịch và lễ hội tháng 8 âm lịch (2026: 29/9–2/10).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/di-tich-lich-su-van-hoa-quoc-gia-dinh-den-ben-tuong-a-sao-duoc-cong-nhan-la-diem-du-lich-3199563.html",
+        "quote": "Báo Hưng Yên (30/9/2026, đọc 14/10/2026): sáng 30/9/2026 xã A Sào khai mạc lễ hội truyền thống Di tích lịch sử – văn hóa quốc gia Đình – Đền – Bến Tượng A Sào; lễ hội 2026 diễn ra 29/9–2/10 với tế cáo yết, rước bộ, tế lễ, dâng hương, thể thao, trò chơi dân gian, văn nghệ; Phó Chủ tịch UBND tỉnh trao quyết định của UBND tỉnh công nhận di tích là Điểm du lịch; A Sào từng là nơi nhà Trần xây căn cứ, tích trữ binh lương chống Nguyên – Mông.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyentourism.com.vn/khu-di-tich-lich-su-van-hoa-quoc-gia-dinh-den-ben-tuong-a-sao-c21490.html",
+        "quote": "Trung tâm Xúc tiến Du lịch tỉnh Hưng Yên (không ghi ngày, đọc 14/10/2026): khu di tích cạnh sông Hóa, xã A Sào, tỉnh Hưng Yên, thờ Hưng Đạo Đại Vương; năm 1258 Trần Quốc Tuấn được giao trấn thủ A Sào; năm 1288 A Sào là đại bản doanh; đền gọi là 'Đệ nhị sinh từ (sau Đệ nhất Kiếp Bạc)'; công trình phục dựng 2005, hoàn thiện 2011, gồm đền Trình, tòa Đại bái, tòa Phủ Đệ; trong khuôn viên có hồ Tắm Tượng, gò Đống Yên, Trại binh; Bến Tượng ghi dấu voi chiến sa lầy khi vượt sông Hóa; voi đá phục dựng năm 2006; tượng Trần Hưng Đạo cao 13,2 m đá xanh nguyên khối; lễ hội vào danh mục di sản phi vật thể quốc gia năm 2015, tổ chức ngày 10 tháng Hai âm lịch (rước bộ, tế lễ, thi pháo đất, bơi chải, múa kéo chữ); di tích quốc gia năm 2011.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.hungyen.gov.vn/vi/detailevents/?t=le-hoi-den-a-sao&id=event_785",
+        "quote": "Cổng du lịch tỉnh Hưng Yên, 'Lễ hội Đền A Sào' (16/11/2023, trước sáp nhập; đọc 14/10/2026): hằng năm ngày 10/2 âm lịch (tương truyền ngày sinh Hưng Đạo Đại Vương) làng A Sào mở hội; A Sào tên gốc A Cảo, ven sông Hóa (khi đó thuộc xã An Thái, huyện Quỳnh Phụ, tỉnh Thái Bình); dấu tích kho lương còn ở tên làng Mễ Thương, A Mễ, Đại Nẫm, Am Qua.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền a sào"
+      }
+    ],
+    "notes": "Hai mốc lễ hội: nguồn Hưng Yên (2023 và trang XTDL) ghi lễ hội chính 10/2 âm lịch; Báo Hưng Yên 2026 đưa tin lễ hội 29/9–2/10/2026 (khoảng 19–22/8 âm lịch, theo phép quy đổi của writer — cần kiểm tra lịch). Writer ghi cả hai, nói rõ năm. Năm công nhận di sản phi vật thể: trang XTDL ghi 2015 — chỉ một nguồn. Chưa có nguồn về giờ mở cửa, vé, khoảng cách từ Hà Nội — không đưa số. Không nhầm với đền Trần Thái Bình (Long Hưng) — bài khác của trang.",
+    "outline": [
+      "A Sào ở đâu: xã A Sào, Hưng Yên (Quỳnh Phụ, Thái Bình cũ), bên sông Hóa",
+      "Vì sao quan trọng: kho lương, đại bản doanh 1288, 'Đệ nhị sinh từ'",
+      "Đền A Sào: đền Trình, Đại bái, Phủ Đệ, hồ Tắm Tượng",
+      "Bến Tượng và chuyện voi chiến, tượng đá 13,2 m",
+      "Lễ hội 10/2 âm lịch và hội mùa thu; công nhận điểm du lịch 2026",
+      "Đi xe máy và ghép lịch với đền Đồng Bằng, chùa Keo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/khu-di-tich-bach-dang-giang/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/bien-dong-chau/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00539.json",
+  "draft_template": {
+    "id": "TM-00539",
+    "url": "/du-lich/den-a-sao-ben-tuong/",
+    "title": "Đền A Sào và Bến Tượng: đại bản doanh Trần Hưng Đạo bên sông Hóa",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền a sào, bến tượng a sào, đình đền bến tượng a sào, lễ hội đền a sào, đền a sào quỳnh phụ, tượng trần hưng đạo a sào",
+    "excerpt": "",
+    "sections": [
+      [
+        "A Sào ở đâu: xã A Sào, Hưng Yên (Quỳnh Phụ, Thái Bình cũ), bên sông Hóa",
+        "<p></p>"
+      ],
+      [
+        "Vì sao quan trọng: kho lương, đại bản doanh 1288, 'Đệ nhị sinh từ'",
+        "<p></p>"
+      ],
+      [
+        "Đền A Sào: đền Trình, Đại bái, Phủ Đệ, hồ Tắm Tượng",
+        "<p></p>"
+      ],
+      [
+        "Bến Tượng và chuyện voi chiến, tượng đá 13,2 m",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 10/2 âm lịch và hội mùa thu; công nhận điểm du lịch 2026",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và ghép lịch với đền Đồng Bằng, chùa Keo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/di-tich-lich-su-van-hoa-quoc-gia-dinh-den-ben-tuong-a-sao-duoc-cong-nhan-la-diem-du-lich-3199563.html",
+        "quote": "Báo Hưng Yên (30/9/2026, đọc 14/10/2026): sáng 30/9/2026 xã A Sào khai mạc lễ hội truyền thống Di tích lịch sử – văn hóa quốc gia Đình – Đền – Bến Tượng A Sào; lễ hội 2026 diễn ra 29/9–2/10 với tế cáo yết, rước bộ, tế lễ, dâng hương, thể thao, trò chơi dân gian, văn nghệ; Phó Chủ tịch UBND tỉnh trao quyết định của UBND tỉnh công nhận di tích là Điểm du lịch; A Sào từng là nơi nhà Trần xây căn cứ, tích trữ binh lương chống Nguyên – Mông.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyentourism.com.vn/khu-di-tich-lich-su-van-hoa-quoc-gia-dinh-den-ben-tuong-a-sao-c21490.html",
+        "quote": "Trung tâm Xúc tiến Du lịch tỉnh Hưng Yên (không ghi ngày, đọc 14/10/2026): khu di tích cạnh sông Hóa, xã A Sào, tỉnh Hưng Yên, thờ Hưng Đạo Đại Vương; năm 1258 Trần Quốc Tuấn được giao trấn thủ A Sào; năm 1288 A Sào là đại bản doanh; đền gọi là 'Đệ nhị sinh từ (sau Đệ nhất Kiếp Bạc)'; công trình phục dựng 2005, hoàn thiện 2011, gồm đền Trình, tòa Đại bái, tòa Phủ Đệ; trong khuôn viên có hồ Tắm Tượng, gò Đống Yên, Trại binh; Bến Tượng ghi dấu voi chiến sa lầy khi vượt sông Hóa; voi đá phục dựng năm 2006; tượng Trần Hưng Đạo cao 13,2 m đá xanh nguyên khối; lễ hội vào danh mục di sản phi vật thể quốc gia năm 2015, tổ chức ngày 10 tháng Hai âm lịch (rước bộ, tế lễ, thi pháo đất, bơi chải, múa kéo chữ); di tích quốc gia năm 2011.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.hungyen.gov.vn/vi/detailevents/?t=le-hoi-den-a-sao&id=event_785",
+        "quote": "Cổng du lịch tỉnh Hưng Yên, 'Lễ hội Đền A Sào' (16/11/2023, trước sáp nhập; đọc 14/10/2026): hằng năm ngày 10/2 âm lịch (tương truyền ngày sinh Hưng Đạo Đại Vương) làng A Sào mở hội; A Sào tên gốc A Cảo, ven sông Hóa (khi đó thuộc xã An Thái, huyện Quỳnh Phụ, tỉnh Thái Bình); dấu tích kho lương còn ở tên làng Mễ Thương, A Mễ, Đại Nẫm, Am Qua.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00539"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w24b",
+  "queued": "2026-10-14T01:35:17.210199+00:00",
+  "topic": {
+    "topic_id": "TM-00537",
+    "url": "/du-lich/den-dong-bang/",
+    "title": "Đền Đồng Bằng Hưng Yên: đền Vua Cha Bát Hải, hội 20–26 tháng Tám",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền đồng bằng",
+    "secondary_keywords": [
+      "đền đồng bằng thái bình",
+      "đền vua cha bát hải động đình",
+      "lễ hội đền đồng bằng 2026",
+      "đền đức vua quỳnh phụ",
+      "tháng tám giỗ cha"
+    ],
+    "intent": "informational",
+    "user_problem": "Người theo tín ngưỡng 'tháng Tám giỗ Cha' muốn đi lễ đền Đồng Bằng (Quỳnh Phụ, Thái Bình cũ), cần biết đền nay thuộc xã nào của Hưng Yên, thờ ai, ngày hội chính và có gì xem ngoài dâng hương.",
+    "information_gain": "Trang chưa có bài nào nhắc đền Đồng Bằng. /du-lich/chua-keo-thai-binh/ nói chùa Keo và /du-lich/bien-dong-chau/ nói biển Tiền Hải; /du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/ nói hội 20/8 âm lịch ở Kiếp Bạc nhưng không nói chuyện khách 'xuôi về' Đồng Bằng. Bài mới cho biết đền nay thuộc xã Đồng Bằng, tỉnh Hưng Yên (trước là xã An Lễ, Quỳnh Phụ, Thái Bình), thờ Vua Cha Bát Hải Động Đình và tưởng niệm Trần Hưng Đạo; di tích quốc gia 1986, lễ hội là di sản phi vật thể quốc gia (QĐ 3247/QĐ-BVHTTDL ngày 16/9/2016); nội tự 13 tòa 66 gian kiểu 'tiền chữ Nhị – hậu chữ Đinh' bên sông Mai Diêm; lễ hội 20–26/8 âm lịch (2026: 30/9–6/10) với bơi trải, đấu vật, hát văn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/khai-mac-le-hoi-truyen-thong-den-dong-bang-nam-2026-3199561.html",
+        "quote": "Báo Hưng Yên (30/9/2026, đọc 14/10/2026): sáng 30/9/2026 xã Đồng Bằng khai mạc lễ hội truyền thống đền Đồng Bằng; đền còn gọi đền Đức Vua hay đền Vua Cha Bát Hải Động Đình, bên sông Mai Diêm, xưa thuộc trang Đào Động, tổng Vọng Lỗ, huyện Phụ Phượng, nay thuộc xã Đồng Bằng, tỉnh Hưng Yên; kiểu 'tiền chữ Nhị – hậu chữ Đinh'; xếp hạng di tích quốc gia năm 1986; lễ hội vào danh mục di sản văn hóa phi vật thể quốc gia năm 2016; lễ hội 2026 từ 30/9 đến 6/10 (20–26/8 âm lịch) có dâng hương, tế lễ, bơi trải, đấu vật, kéo co, cờ tướng, bóng chuyền.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hung-yen-den-dong-bang-trong-mach-nguon-lich-su-van-hoa-viet-post1131200.vnp",
+        "quote": "VietnamPlus/TTXVN (8/9/2026, đọc 14/10/2026): đền thờ Vua Cha Bát Hải (Vĩnh Công Đại Vương) theo truyền thuyết phò vua Hùng thứ 18 trấn giữ tám cửa biển, mất ngày 25 tháng Tám âm lịch; còn là nơi tưởng niệm Hưng Đạo Đại Vương và các danh tướng nhà Trần; theo tư liệu địa phương khu nội tự gồm 13 tòa, 66 gian, bố cục 'tiền chữ Nhị – hậu chữ Đinh'; cột, kèo, vì nách gỗ chạm rồng phượng, sơn son thếp vàng; di tích quốc gia 1986, lễ hội vào danh mục di sản phi vật thể quốc gia 2016.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.hungyen.gov.vn/vi/detailevents/?id=event_752",
+        "quote": "Cổng du lịch tỉnh Hưng Yên, 'Lễ hội đền Đồng Bằng trong không gian tháng 8 Khánh tiệc Đức Thánh Trần' (không ghi ngày, nội dung trước sáp nhập; đọc 14/10/2026): lễ hội gắn với tâm thức 'tháng Tám giỗ cha', vừa giỗ Vua Cha Bát Hải Động Đình vừa giỗ Đức Thánh Trần; du khách thường trảy hội Côn Sơn, Kiếp Bạc ngày 20/8 rồi xuôi về đền Đồng Bằng; đền ở thôn Đồng Bằng, xã An Lễ, huyện Quỳnh Phụ (tên cũ); ngày 16/9/2016 Bộ VHTTDL ra QĐ 3247/QĐ-BVHTTDL đưa lễ hội vào danh mục di sản phi vật thể quốc gia; lễ hội 20–26/8 âm lịch có hát văn hầu đồng, tế lễ, trò chơi dân gian.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/le-hoi-den-dong-bang-ghi-danh-di-san-van-hoa-phi-vat-the-quoc-gia-102228329.htm",
+        "quote": "Báo Điện tử Chính phủ (9/10/2017, trước 2025; đọc 14/10/2026): ngày 9/10/2017 UBND xã An Lễ, huyện Quỳnh Phụ, tỉnh Thái Bình (tên cũ) đón nhận quyết định ghi danh lễ hội đền Đồng Bằng; Thứ trưởng Bộ VHTTDL đề nghị quản lý thực hành tín ngưỡng, không để lợi dụng mê tín dị đoan, đầu tư hạ tầng giao thông, bến bãi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền đồng bằng"
+      }
+    ],
+    "notes": "Không có nguồn về giờ mở cửa, vé (không thấy nhắc thu vé), chỗ gửi xe, khoảng cách Hà Nội – Đồng Bằng — không đưa số. Tên xã mới 'xã Đồng Bằng, tỉnh Hưng Yên' theo Báo Hưng Yên 9/2026; các nguồn cũ ghi xã An Lễ, Quỳnh Phụ, Thái Bình — ghi '(cũ)'. Năm 2026 lễ hội đã qua (30/9–6/10); bài nên viết theo lịch âm 20–26/8 hằng năm. Đừng mô tả hầu đồng chi tiết như hướng dẫn tín ngưỡng; giữ góc nhìn tham quan.",
+    "outline": [
+      "Đền Đồng Bằng ở đâu: xã Đồng Bằng, Hưng Yên (Quỳnh Phụ, Thái Bình cũ)",
+      "Thờ ai: Vua Cha Bát Hải Động Đình và Đức Thánh Trần",
+      "Kiến trúc 13 tòa 66 gian bên sông Mai Diêm",
+      "Lễ hội 20–26 tháng Tám âm lịch: bơi trải, đấu vật, hát văn",
+      "'Tháng Tám giỗ Cha': nối Kiếp Bạc với Đồng Bằng",
+      "Đi xe máy và ghép với chùa Keo, biển Đồng Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/bien-dong-chau/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00537.json",
+  "draft_template": {
+    "id": "TM-00537",
+    "url": "/du-lich/den-dong-bang/",
+    "title": "Đền Đồng Bằng Hưng Yên: đền Vua Cha Bát Hải, hội 20–26 tháng Tám",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền đồng bằng, đền đồng bằng thái bình, đền vua cha bát hải động đình, lễ hội đền đồng bằng 2026, đền đức vua quỳnh phụ, tháng tám giỗ cha",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Đồng Bằng ở đâu: xã Đồng Bằng, Hưng Yên (Quỳnh Phụ, Thái Bình cũ)",
+        "<p></p>"
+      ],
+      [
+        "Thờ ai: Vua Cha Bát Hải Động Đình và Đức Thánh Trần",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc 13 tòa 66 gian bên sông Mai Diêm",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 20–26 tháng Tám âm lịch: bơi trải, đấu vật, hát văn",
+        "<p></p>"
+      ],
+      [
+        "'Tháng Tám giỗ Cha': nối Kiếp Bạc với Đồng Bằng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và ghép với chùa Keo, biển Đồng Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/khai-mac-le-hoi-truyen-thong-den-dong-bang-nam-2026-3199561.html",
+        "quote": "Báo Hưng Yên (30/9/2026, đọc 14/10/2026): sáng 30/9/2026 xã Đồng Bằng khai mạc lễ hội truyền thống đền Đồng Bằng; đền còn gọi đền Đức Vua hay đền Vua Cha Bát Hải Động Đình, bên sông Mai Diêm, xưa thuộc trang Đào Động, tổng Vọng Lỗ, huyện Phụ Phượng, nay thuộc xã Đồng Bằng, tỉnh Hưng Yên; kiểu 'tiền chữ Nhị – hậu chữ Đinh'; xếp hạng di tích quốc gia năm 1986; lễ hội vào danh mục di sản văn hóa phi vật thể quốc gia năm 2016; lễ hội 2026 từ 30/9 đến 6/10 (20–26/8 âm lịch) có dâng hương, tế lễ, bơi trải, đấu vật, kéo co, cờ tướng, bóng chuyền.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hung-yen-den-dong-bang-trong-mach-nguon-lich-su-van-hoa-viet-post1131200.vnp",
+        "quote": "VietnamPlus/TTXVN (8/9/2026, đọc 14/10/2026): đền thờ Vua Cha Bát Hải (Vĩnh Công Đại Vương) theo truyền thuyết phò vua Hùng thứ 18 trấn giữ tám cửa biển, mất ngày 25 tháng Tám âm lịch; còn là nơi tưởng niệm Hưng Đạo Đại Vương và các danh tướng nhà Trần; theo tư liệu địa phương khu nội tự gồm 13 tòa, 66 gian, bố cục 'tiền chữ Nhị – hậu chữ Đinh'; cột, kèo, vì nách gỗ chạm rồng phượng, sơn son thếp vàng; di tích quốc gia 1986, lễ hội vào danh mục di sản phi vật thể quốc gia 2016.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.hungyen.gov.vn/vi/detailevents/?id=event_752",
+        "quote": "Cổng du lịch tỉnh Hưng Yên, 'Lễ hội đền Đồng Bằng trong không gian tháng 8 Khánh tiệc Đức Thánh Trần' (không ghi ngày, nội dung trước sáp nhập; đọc 14/10/2026): lễ hội gắn với tâm thức 'tháng Tám giỗ cha', vừa giỗ Vua Cha Bát Hải Động Đình vừa giỗ Đức Thánh Trần; du khách thường trảy hội Côn Sơn, Kiếp Bạc ngày 20/8 rồi xuôi về đền Đồng Bằng; đền ở thôn Đồng Bằng, xã An Lễ, huyện Quỳnh Phụ (tên cũ); ngày 16/9/2016 Bộ VHTTDL ra QĐ 3247/QĐ-BVHTTDL đưa lễ hội vào danh mục di sản phi vật thể quốc gia; lễ hội 20–26/8 âm lịch có hát văn hầu đồng, tế lễ, trò chơi dân gian.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baochinhphu.vn/le-hoi-den-dong-bang-ghi-danh-di-san-van-hoa-phi-vat-the-quoc-gia-102228329.htm",
+        "quote": "Báo Điện tử Chính phủ (9/10/2017, trước 2025; đọc 14/10/2026): ngày 9/10/2017 UBND xã An Lễ, huyện Quỳnh Phụ, tỉnh Thái Bình (tên cũ) đón nhận quyết định ghi danh lễ hội đền Đồng Bằng; Thứ trưởng Bộ VHTTDL đề nghị quản lý thực hành tín ngưỡng, không để lợi dụng mê tín dị đoan, đầu tư hạ tầng giao thông, bến bãi.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00537"
+  }
+}

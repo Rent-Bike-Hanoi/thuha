@@ -1,0 +1,158 @@
+{
+  "writer": "writer-w24a",
+  "queued": "2026-10-14T01:35:17.030165+00:00",
+  "topic": {
+    "topic_id": "TM-00536",
+    "url": "/du-lich/chua-quynh-lam/",
+    "title": "Chùa Quỳnh Lâm Đông Triều: tượng Phật ngọc, hội mùng 1 tháng Hai",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa quỳnh lâm",
+    "secondary_keywords": [
+      "chùa quỳnh lâm đông triều",
+      "tượng phật ngọc chùa quỳnh lâm",
+      "lễ hội chùa quỳnh lâm 2026",
+      "an nam tứ đại khí",
+      "chùa quỳnh lâm quảng ninh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi quốc lộ 18 về phía Yên Tử muốn dừng ở một ngôi chùa Trúc Lâm ngay ven đường, cần biết chùa Quỳnh Lâm nay ở phường nào, có gì đáng xem và lễ hội rơi vào ngày nào.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/ chỉ nhắc Đông Triều như điểm đi qua trên quốc lộ 18; /du-lich/chua-ba-vang-uong-bi/ nói chùa Ba Vàng. Bài mới cho biết chùa Quỳnh Lâm thuộc Khu di tích quốc gia đặc biệt nhà Trần tại Đông Triều và quần thể di sản thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc (UNESCO 7/2025), di tích quốc gia từ QĐ 2009/QĐ-VHTT ngày 15/11/1991, từng là 'học viện Phật giáo' thời Trần gắn với tượng Di Lặc trong 'An Nam tứ đại khí'; chùa gỗ khôi phục với 3 tòa điện hơn 1.000 m², tượng Phật ngọc khoảng 3,5 tấn cao 2,2 m, chuông đồng thời Nguyễn; lễ hội khai mạc ngày 1 tháng 2 âm lịch (19/3/2026) có nghi lễ rước nước ở hồ Quỳnh.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/202603/khai-hoi-chua-quynh-lam-nam-2026-a23527e/",
+        "quote": "Báo Tuyên Quang (20/3/2026, đọc 14/10/2026): ngày 19/3/2026 (1 tháng 2 năm Bính Ngọ) UBND phường Bình Khê khai mạc lễ hội truyền thống chùa Quỳnh Lâm 2026; chùa thuộc Khu di tích quốc gia đặc biệt nhà Trần tại Đông Triều, công nhận di tích quốc gia theo QĐ 2009/QĐ-VHTT ngày 15/11/1991; chùa trên sườn núi Tiên Du, là một trong các di tích của quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO công nhận tháng 7/2025; 'Học viện Phật giáo đầu tiên' thời Trần, tượng Di Lặc là một trong 'An Nam tứ đại khí'; nay là chùa gỗ với 3 tòa điện tổng hơn 1.000 m²; tượng Phật ngọc Thích Ca 'trọng lượng khoảng 3,5 tấn, cao 2,2 mét', chuông đồng niên đại 200 năm; có nghi lễ rước nước tại hồ Quỳnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/So/sovanhoathethao/Trang/ChiTietTinTuc.aspx?nid=11337",
+        "quote": "Trang Sở VHTT Quảng Ninh, 'Lễ khánh thành chùa Quỳnh Lâm, Di tích Quốc gia đặc biệt nhà Trần tại Đông Triều' (bài khoảng 12/2020, trước 2025; đọc 14/10/2026): chùa xây từ thời Lý, niên hiệu Long Thụy Thái Bình thứ tư (1057) đời Lý Thánh Tông, trên sườn đồi núi Tiên Du, xã Hà Lôi, phủ Kinh Môn, Hải Dương xưa (khi đó thuộc phường Tràng An, thị xã Đông Triều); thời Trần là cửa ngõ nối trung tâm Phật giáo Yên Tử, Ngọa Vân, Hồ Thiên với đồng bằng. Chân trang ghi địa chỉ 'Phường Hạ Long – Thành phố Quảng Ninh'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/khanh-thanh-chua-quynh-lam-di-tich-quoc-gia-dac-biet-nha-tran-tai-dong-trieu-post627919.html",
+        "quote": "Báo Nhân Dân (12/12/2020, trước 2025; đọc 14/10/2026): ngày 12/12/2020 khánh thành chùa Quỳnh Lâm; các vị tổ Trúc Lâm Trần Nhân Tông, Pháp Loa, Huyền Quang đều về tu ở chùa; Pháp Loa có công lớn mở mang chùa thành trung tâm Phật giáo lớn; chùa từng bị hủy hoại chỉ còn phế tích, khuôn viên còn tháp mộ, bia đá, thành bậc rồng đá xanh, tảng kê chân cột, chuông đồng… phát lộ qua khảo cổ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://m.cafef.vn/hom-nay-1-9-dia-phuong-15-trieu-dan-nay-chinh-thuc-tro-thanh-thanh-pho-truc-thuoc-trung-uong-thu-8-cua-viet-nam-thu-51000-ty-dong-sau-8-thang-tu-1-nganh-co-song-lung-khung-long-2000-bac-188260901011822328.chn",
+        "quote": "CafeF (1/9/2026, đọc 14/10/2026): ngày 24/8/2026 Quốc hội khóa XVI thông qua Nghị quyết 36/2026/QH16 thành lập thành phố Quảng Ninh trên cơ sở toàn bộ tỉnh Quảng Ninh, hiệu lực từ 1/9/2026; thành phố có 54 đơn vị hành chính cấp xã (30 phường, 22 xã, 2 đặc khu); quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh ngày 12/7/2025.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa quỳnh lâm"
+      }
+    ],
+    "notes": "Năm dựng chùa lệch: Sở VHTT QN/Nhân Dân 2020 ghi 1057 đời Lý Thánh Tông; Báo Tuyên Quang 2026 ghi 'thời Lý Thần Tông' — dùng 'từ thời Lý' và dẫn nguồn. Tên phường: bài 2026 ghi UBND phường Bình Khê tổ chức lễ hội; bài 2020 ghi phường Tràng An (cũ) — writer ghi 'phường Bình Khê (theo Báo Tuyên Quang 3/2026)' và kiểm tra lại. Từ 1/9/2026 Quảng Ninh là thành phố trực thuộc Trung ương (CafeF dẫn NQ 36/2026/QH16; chưa đọc văn bản gốc trên trang Quốc hội). Không có nguồn về giờ mở cửa, vé, chỗ để xe, khoảng cách từ quốc lộ 18 — không đưa số. Báo Tuyên Quang là báo tỉnh khác đưa tin sự kiện Quảng Ninh; chưa tìm được bài Báo Quảng Ninh 2026 để đối chiếu.",
+    "outline": [
+      "Chùa Quỳnh Lâm ở đâu: Đông Triều, trong di sản thế giới Yên Tử",
+      "Lịch sử: học viện Phật giáo thời Trần và tượng Di Lặc 'tứ đại khí'",
+      "Xem gì hôm nay: chùa gỗ 3 tòa điện, tượng Phật ngọc 3,5 tấn, chuông cổ",
+      "Lễ hội mùng 1 tháng Hai âm lịch và lễ rước nước hồ Quỳnh",
+      "Đi xe máy theo quốc lộ 18, không vào cao tốc",
+      "Ghép lịch: Quỳnh Lâm – Yên Tử – Ba Vàng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/du-lich/chua-ba-vang-uong-bi/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00536.json",
+  "draft_template": {
+    "id": "TM-00536",
+    "url": "/du-lich/chua-quynh-lam/",
+    "title": "Chùa Quỳnh Lâm Đông Triều: tượng Phật ngọc, hội mùng 1 tháng Hai",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa quỳnh lâm, chùa quỳnh lâm đông triều, tượng phật ngọc chùa quỳnh lâm, lễ hội chùa quỳnh lâm 2026, an nam tứ đại khí, chùa quỳnh lâm quảng ninh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Quỳnh Lâm ở đâu: Đông Triều, trong di sản thế giới Yên Tử",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: học viện Phật giáo thời Trần và tượng Di Lặc 'tứ đại khí'",
+        "<p></p>"
+      ],
+      [
+        "Xem gì hôm nay: chùa gỗ 3 tòa điện, tượng Phật ngọc 3,5 tấn, chuông cổ",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội mùng 1 tháng Hai âm lịch và lễ rước nước hồ Quỳnh",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo quốc lộ 18, không vào cao tốc",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch: Quỳnh Lâm – Yên Tử – Ba Vàng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/202603/khai-hoi-chua-quynh-lam-nam-2026-a23527e/",
+        "quote": "Báo Tuyên Quang (20/3/2026, đọc 14/10/2026): ngày 19/3/2026 (1 tháng 2 năm Bính Ngọ) UBND phường Bình Khê khai mạc lễ hội truyền thống chùa Quỳnh Lâm 2026; chùa thuộc Khu di tích quốc gia đặc biệt nhà Trần tại Đông Triều, công nhận di tích quốc gia theo QĐ 2009/QĐ-VHTT ngày 15/11/1991; chùa trên sườn núi Tiên Du, là một trong các di tích của quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO công nhận tháng 7/2025; 'Học viện Phật giáo đầu tiên' thời Trần, tượng Di Lặc là một trong 'An Nam tứ đại khí'; nay là chùa gỗ với 3 tòa điện tổng hơn 1.000 m²; tượng Phật ngọc Thích Ca 'trọng lượng khoảng 3,5 tấn, cao 2,2 mét', chuông đồng niên đại 200 năm; có nghi lễ rước nước tại hồ Quỳnh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/So/sovanhoathethao/Trang/ChiTietTinTuc.aspx?nid=11337",
+        "quote": "Trang Sở VHTT Quảng Ninh, 'Lễ khánh thành chùa Quỳnh Lâm, Di tích Quốc gia đặc biệt nhà Trần tại Đông Triều' (bài khoảng 12/2020, trước 2025; đọc 14/10/2026): chùa xây từ thời Lý, niên hiệu Long Thụy Thái Bình thứ tư (1057) đời Lý Thánh Tông, trên sườn đồi núi Tiên Du, xã Hà Lôi, phủ Kinh Môn, Hải Dương xưa (khi đó thuộc phường Tràng An, thị xã Đông Triều); thời Trần là cửa ngõ nối trung tâm Phật giáo Yên Tử, Ngọa Vân, Hồ Thiên với đồng bằng. Chân trang ghi địa chỉ 'Phường Hạ Long – Thành phố Quảng Ninh'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/khanh-thanh-chua-quynh-lam-di-tich-quoc-gia-dac-biet-nha-tran-tai-dong-trieu-post627919.html",
+        "quote": "Báo Nhân Dân (12/12/2020, trước 2025; đọc 14/10/2026): ngày 12/12/2020 khánh thành chùa Quỳnh Lâm; các vị tổ Trúc Lâm Trần Nhân Tông, Pháp Loa, Huyền Quang đều về tu ở chùa; Pháp Loa có công lớn mở mang chùa thành trung tâm Phật giáo lớn; chùa từng bị hủy hoại chỉ còn phế tích, khuôn viên còn tháp mộ, bia đá, thành bậc rồng đá xanh, tảng kê chân cột, chuông đồng… phát lộ qua khảo cổ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://m.cafef.vn/hom-nay-1-9-dia-phuong-15-trieu-dan-nay-chinh-thuc-tro-thanh-thanh-pho-truc-thuoc-trung-uong-thu-8-cua-viet-nam-thu-51000-ty-dong-sau-8-thang-tu-1-nganh-co-song-lung-khung-long-2000-bac-188260901011822328.chn",
+        "quote": "CafeF (1/9/2026, đọc 14/10/2026): ngày 24/8/2026 Quốc hội khóa XVI thông qua Nghị quyết 36/2026/QH16 thành lập thành phố Quảng Ninh trên cơ sở toàn bộ tỉnh Quảng Ninh, hiệu lực từ 1/9/2026; thành phố có 54 đơn vị hành chính cấp xã (30 phường, 22 xã, 2 đặc khu); quần thể Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh ngày 12/7/2025.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00536"
+  }
+}

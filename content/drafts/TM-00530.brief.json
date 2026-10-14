@@ -1,0 +1,197 @@
+{
+  "writer": "writer-w24a",
+  "queued": "2026-10-14T01:35:17.028325+00:00",
+  "topic": {
+    "topic_id": "TM-00530",
+    "url": "/du-lich/chua-ngoa-van/",
+    "title": "Chùa Ngọa Vân Đông Triều: cáp treo Trại Lốc, lễ hội xuân 3 tháng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa ngọa vân",
+    "secondary_keywords": [
+      "am ngọa vân",
+      "chùa ngọa vân đông triều",
+      "cáp treo ngọa vân",
+      "lễ hội xuân ngọa vân 2026",
+      "ngọa vân yên tử"
+    ],
+    "intent": "informational",
+    "user_problem": "Người Hà Nội đã đi Yên Tử muốn tới nơi Phật hoàng Trần Nhân Tông nhập Niết bàn, cần biết Ngọa Vân nằm đâu sau sáp nhập, leo bộ hay đi cáp treo, mùa hội lúc nào và rẽ khỏi quốc lộ 18 ở đâu.",
+    "information_gain": "Trang chưa có bài nào nhắc Ngọa Vân. /du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/ chỉ nhắc Đông Triều như điểm đi qua trên quốc lộ 18 rồi rẽ vào Yên Tử ở Uông Bí; /du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ nói sườn Bắc Ninh. Bài mới cho biết Ngọa Vân nay thuộc phường An Sinh (Quảng Ninh), là một trong 14 điểm của Khu di tích quốc gia đặc biệt nhà Trần tại Đông Triều và nằm trong quần thể Di sản thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc (UNESCO 2025); cấu trúc chùa thượng – am – tháp Phật hoàng; cáp treo Trại Lốc – Ngọa Vân 2.200 m rút 2 giờ leo 3–4 km xuống hơn 10 phút; lễ hội xuân khai mạc mùng 9 tháng Giêng (25/2/2026) kéo dài ba tháng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://halongbay.com.vn/p/478-khai-hoi-xuan-ngoa-van-diem-hen-van-hoa-tam-linh-xuan-binh-ngo-2026",
+        "quote": "Trang thông tin của Ban Quản lý Di sản thế giới vịnh Hạ Long – Yên Tử, 'Khai hội Xuân Ngọa Vân, điểm hẹn văn hóa tâm linh Xuân Bính Ngọ 2026' (đọc 14/10/2026): 09h00 ngày 25/02/2026 (mùng 9 tháng Giêng năm Bính Ngọ) khai hội Xuân Ngọa Vân tại chùa Ngọa Vân, phường An Sinh, tỉnh Quảng Ninh; do Ban Quản lý di sản thế giới vịnh Hạ Long – Yên Tử, Ban Trị sự GHPGVN tỉnh Quảng Ninh và Công ty CP Du lịch Văn hóa Ngọa Vân – Yên Tử phối hợp tổ chức; Am – Chùa Ngọa Vân là nơi Phật hoàng Trần Nhân Tông tu hành những năm cuối đời và nhập Niết bàn năm 1308; phần hội có văn hóa, thể thao, trò chơi dân gian.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vntravel.org.vn/khai-hoi-xuan-ngoa-van-2026-lan-toa-gia-tri-thanh-dia-truc-lam-sau-khi-duoc-unesco-vinh-danh-a8212.html",
+        "quote": "Tạp chí Du lịch Việt Nam (Hiệp hội Du lịch Việt Nam), 25/2/2026 (đọc 14/10/2026): lễ hội Xuân Ngọa Vân 2026 là mùa hội đầu tiên sau khi Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh (năm 2025); lễ hội diễn ra suốt ba tháng đầu xuân; đường vào khu di tích, bãi đỗ xe, biển chỉ dẫn được rà soát; tuyến cáp treo Trại Lốc – Ngọa Vân: trước đây phải đi bộ 3–4 km trong khoảng hai giờ với nhiều đoạn dốc, trơn trượt, nay rút xuống hơn 10 phút.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/khai-hoi-xuan-ngoa-van-2026-512168.html",
+        "quote": "Báo Công lý, 'Khai hội Xuân Ngọa Vân 2026' (25/2/2026, đọc 14/10/2026): khai mạc tại chùa Ngọa Vân (phường An Sinh, Quảng Ninh); Ngọa Vân nằm trong quần thể di sản thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc, là 'Chốn Tổ' của Thiền phái Trúc Lâm, nơi Phật hoàng Trần Nhân Tông nhập niết bàn năm 1308; lễ khai hội năm nay tổ chức tại Nhà Trúc của Làng thiền Ngọa Vân; lễ hội kéo dài 3 tháng đầu năm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4874",
+        "quote": "Cổng du lịch tỉnh Quảng Ninh, 'Khai hội xuân Ngọa Vân 2025' (bài 2025, trước 2026; đọc 14/10/2026): sáng 6/2/2025 (mùng 9 tháng Giêng Ất Tỵ) khai hội tại sân ga cáp treo, thôn Trại Lốc, xã An Sinh, TP Đông Triều (tên đơn vị trước sáp nhập); 'Ngọa Vân là 1 trong 14 điểm di tích quan trọng thuộc Khu di tích nhà Trần tại Đông Triều' được Thủ tướng xếp hạng di tích quốc gia đặc biệt; lễ hội diễn ra đến hết tháng 3 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4684",
+        "quote": "Cổng du lịch tỉnh Quảng Ninh, 'Miễn phí vé cáp treo Ngọa Vân nhân kỷ niệm 716 năm Phật hoàng nhập Niết bàn' (cuối 2024, trước 2025; đọc 14/10/2026): từ 2/12 đến 28/1/2025 giá vé cáp treo 2 chiều giảm 50%; 'Thời gian hoạt động của cáp treo từ 6 giờ đến 18 giờ hàng ngày' (giờ năm 2024, cần kiểm tra lại).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://ngoavanyentu.vn/dich-vu-cap-treo",
+        "quote": "Trang của đơn vị vận hành cáp treo Ngọa Vân (không ghi ngày, đọc 14/10/2026): toàn tuyến dài 2.200 mét, 2 nhà ga, từ thôn Trại Lốc 1 đến chùa Ngọa Vân; 12 trụ, 52 cabin, mỗi cabin 10 người, công suất 2.300 người/giờ; thời gian lên chùa giảm từ hai giờ leo bộ 3–4 km xuống hơn 10 phút. Trang không hiển thị bảng giá dạng chữ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/di-tich-quoc-gia-dac-biet-chua-ngoa-van-noi-khoi-nguon-thien-phai-truc-lam-post983611.vnp",
+        "quote": "VietnamPlus/TTXVN (17/10/2024, trước 2025; đọc 14/10/2026): quần thể chùa, am Ngọa Vân trên núi Bảo Đài, độ cao hơn 500 m; trước chùa Ngọa Vân thượng có 'Phật hoàng tháp' lưu giữ một phần xá lị; nơi cao nhất là Bàn Cờ Tiên; chùa được xếp hạng di tích quốc gia đặc biệt năm 2014 (theo bài; địa danh xã An Sinh, Bình Khê là trước sáp nhập).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chùa ngọa vân"
+      }
+    ],
+    "notes": "Giá vé cáp treo Ngọa Vân chưa xác minh: trang vận hành không hiện bảng giá dạng chữ, mức 220.000/120.000đ chỉ thấy ở trang lữ hành (không dùng). Giờ cáp treo 6–18h là thông tin cuối 2024 — ghi 'theo thông báo năm 2024, hỏi lại'. Năm công nhận di tích lệch nguồn (trang doanh nghiệp ghi di tích quốc gia 2006; VietnamPlus ghi quốc gia đặc biệt 2014; Cổng QN ghi thuộc khu di tích quốc gia đặc biệt nhà Trần) — không đưa năm vào tiêu đề. Chưa có nguồn chính thức về quãng đường xe máy Hà Nội – Ngọa Vân (trang doanh nghiệp ghi ~120 km, không dùng làm số chính); writer dùng tuyến QL18 từ bài Yên Tử, không vào cao tốc. Tên 'phường An Sinh' theo các nguồn 2026; 'TP Đông Triều', 'xã Bình Khê' là tên cũ. Từ 1/9/2026 Quảng Ninh là thành phố trực thuộc Trung ương (NQ 36/2026/QH16 theo CafeF 1/9/2026, https://m.cafef.vn/hom-nay-1-9-dia-phuong-15-trieu-dan-nay-chinh-thuc-tro-thanh-thanh-pho-truc-thuoc-trung-uong-thu-8-cua-viet-nam-thu-51000-ty-dong-sau-8-thang-tu-1-nganh-co-song-lung-khung-long-2000-bac-188260901011822328.chn); các nguồn 2/2026 còn ghi 'tỉnh Quảng Ninh' — writer ghi 'phường An Sinh, thành phố Quảng Ninh'.",
+    "outline": [
+      "Ngọa Vân ở đâu: phường An Sinh, trong quần thể di sản thế giới Yên Tử",
+      "Đi xe máy từ Hà Nội: quốc lộ 18 tới Đông Triều, vào thôn Trại Lốc",
+      "Leo bộ 3–4 km hay cáp treo 2.200 m",
+      "Xem gì: chùa Ngọa Vân thượng, am Ngọa Vân, tháp Phật hoàng, Bàn Cờ Tiên",
+      "Lễ hội xuân từ mùng 9 tháng Giêng, kéo dài ba tháng",
+      "Ghép lịch với Yên Tử, Ba Vàng, Côn Sơn – Kiếp Bạc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-ba-vang-uong-bi/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00530.json",
+  "draft_template": {
+    "id": "TM-00530",
+    "url": "/du-lich/chua-ngoa-van/",
+    "title": "Chùa Ngọa Vân Đông Triều: cáp treo Trại Lốc, lễ hội xuân 3 tháng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa ngọa vân, am ngọa vân, chùa ngọa vân đông triều, cáp treo ngọa vân, lễ hội xuân ngọa vân 2026, ngọa vân yên tử",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ngọa Vân ở đâu: phường An Sinh, trong quần thể di sản thế giới Yên Tử",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội: quốc lộ 18 tới Đông Triều, vào thôn Trại Lốc",
+        "<p></p>"
+      ],
+      [
+        "Leo bộ 3–4 km hay cáp treo 2.200 m",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: chùa Ngọa Vân thượng, am Ngọa Vân, tháp Phật hoàng, Bàn Cờ Tiên",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội xuân từ mùng 9 tháng Giêng, kéo dài ba tháng",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với Yên Tử, Ba Vàng, Côn Sơn – Kiếp Bạc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://halongbay.com.vn/p/478-khai-hoi-xuan-ngoa-van-diem-hen-van-hoa-tam-linh-xuan-binh-ngo-2026",
+        "quote": "Trang thông tin của Ban Quản lý Di sản thế giới vịnh Hạ Long – Yên Tử, 'Khai hội Xuân Ngọa Vân, điểm hẹn văn hóa tâm linh Xuân Bính Ngọ 2026' (đọc 14/10/2026): 09h00 ngày 25/02/2026 (mùng 9 tháng Giêng năm Bính Ngọ) khai hội Xuân Ngọa Vân tại chùa Ngọa Vân, phường An Sinh, tỉnh Quảng Ninh; do Ban Quản lý di sản thế giới vịnh Hạ Long – Yên Tử, Ban Trị sự GHPGVN tỉnh Quảng Ninh và Công ty CP Du lịch Văn hóa Ngọa Vân – Yên Tử phối hợp tổ chức; Am – Chùa Ngọa Vân là nơi Phật hoàng Trần Nhân Tông tu hành những năm cuối đời và nhập Niết bàn năm 1308; phần hội có văn hóa, thể thao, trò chơi dân gian.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vntravel.org.vn/khai-hoi-xuan-ngoa-van-2026-lan-toa-gia-tri-thanh-dia-truc-lam-sau-khi-duoc-unesco-vinh-danh-a8212.html",
+        "quote": "Tạp chí Du lịch Việt Nam (Hiệp hội Du lịch Việt Nam), 25/2/2026 (đọc 14/10/2026): lễ hội Xuân Ngọa Vân 2026 là mùa hội đầu tiên sau khi Quần thể di tích và danh thắng Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc được UNESCO ghi danh (năm 2025); lễ hội diễn ra suốt ba tháng đầu xuân; đường vào khu di tích, bãi đỗ xe, biển chỉ dẫn được rà soát; tuyến cáp treo Trại Lốc – Ngọa Vân: trước đây phải đi bộ 3–4 km trong khoảng hai giờ với nhiều đoạn dốc, trơn trượt, nay rút xuống hơn 10 phút.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://congly.vn/khai-hoi-xuan-ngoa-van-2026-512168.html",
+        "quote": "Báo Công lý, 'Khai hội Xuân Ngọa Vân 2026' (25/2/2026, đọc 14/10/2026): khai mạc tại chùa Ngọa Vân (phường An Sinh, Quảng Ninh); Ngọa Vân nằm trong quần thể di sản thế giới Yên Tử – Vĩnh Nghiêm – Côn Sơn, Kiếp Bạc, là 'Chốn Tổ' của Thiền phái Trúc Lâm, nơi Phật hoàng Trần Nhân Tông nhập niết bàn năm 1308; lễ khai hội năm nay tổ chức tại Nhà Trúc của Làng thiền Ngọa Vân; lễ hội kéo dài 3 tháng đầu năm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4874",
+        "quote": "Cổng du lịch tỉnh Quảng Ninh, 'Khai hội xuân Ngọa Vân 2025' (bài 2025, trước 2026; đọc 14/10/2026): sáng 6/2/2025 (mùng 9 tháng Giêng Ất Tỵ) khai hội tại sân ga cáp treo, thôn Trại Lốc, xã An Sinh, TP Đông Triều (tên đơn vị trước sáp nhập); 'Ngọa Vân là 1 trong 14 điểm di tích quan trọng thuộc Khu di tích nhà Trần tại Đông Triều' được Thủ tướng xếp hạng di tích quốc gia đặc biệt; lễ hội diễn ra đến hết tháng 3 âm lịch.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=4684",
+        "quote": "Cổng du lịch tỉnh Quảng Ninh, 'Miễn phí vé cáp treo Ngọa Vân nhân kỷ niệm 716 năm Phật hoàng nhập Niết bàn' (cuối 2024, trước 2025; đọc 14/10/2026): từ 2/12 đến 28/1/2025 giá vé cáp treo 2 chiều giảm 50%; 'Thời gian hoạt động của cáp treo từ 6 giờ đến 18 giờ hàng ngày' (giờ năm 2024, cần kiểm tra lại).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://ngoavanyentu.vn/dich-vu-cap-treo",
+        "quote": "Trang của đơn vị vận hành cáp treo Ngọa Vân (không ghi ngày, đọc 14/10/2026): toàn tuyến dài 2.200 mét, 2 nhà ga, từ thôn Trại Lốc 1 đến chùa Ngọa Vân; 12 trụ, 52 cabin, mỗi cabin 10 người, công suất 2.300 người/giờ; thời gian lên chùa giảm từ hai giờ leo bộ 3–4 km xuống hơn 10 phút. Trang không hiển thị bảng giá dạng chữ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/di-tich-quoc-gia-dac-biet-chua-ngoa-van-noi-khoi-nguon-thien-phai-truc-lam-post983611.vnp",
+        "quote": "VietnamPlus/TTXVN (17/10/2024, trước 2025; đọc 14/10/2026): quần thể chùa, am Ngọa Vân trên núi Bảo Đài, độ cao hơn 500 m; trước chùa Ngọa Vân thượng có 'Phật hoàng tháp' lưu giữ một phần xá lị; nơi cao nhất là Bàn Cờ Tiên; chùa được xếp hạng di tích quốc gia đặc biệt năm 2014 (theo bài; địa danh xã An Sinh, Bình Khê là trước sáp nhập).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00530"
+  }
+}
