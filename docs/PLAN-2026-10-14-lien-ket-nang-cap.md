@@ -61,7 +61,7 @@ Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domai
 - A2 xong: Bài liên quan theo chủ đề + ô thứ 4 cho bài ít được trỏ tới.
 - A3 xong: /thue-xe-may/ha-noi/theo-thang/ từ 14 lên 47 link vào (gợi ý dịch vụ theo ngữ cảnh "thuê … tháng").
 - A4: thêm link ngữ cảnh cho phanh CBS, Klara S, xe điện leo dốc, TMAX. Còn 2 trang có 2 link vào (Royal Enfield Himalayan 450, nhường đường vòng xuyến): chưa bài nào cùng chuyên mục nhắc tự nhiên, không ép link.
-- B: UB-015, 017–024 xong. UB-017: gỡ khẳng định ngoài business-facts (xe côn tay, phân khối lớn, bảo dưỡng định kỳ, thời điểm thanh toán); 15/10 chủ site chọn giữ để kéo traffic: đưa lại dưới dạng "mẫu khách hay hỏi, gọi hỏi trước", không khẳng định có sẵn, không giá.
+- B: UB-015, 017–024 xong. UB-017: gỡ khẳng định ngoài business-facts (xe côn tay, phân khối lớn, bảo dưỡng định kỳ, thời điểm thanh toán); 15/10 chủ site chọn giữ để kéo traffic: chủ cửa hàng xác nhận không cho thuê hai loại này; trang ghi rõ "cửa hàng không cho thuê", giữ danh sách mẫu để phục vụ tìm kiếm. Đóng.
 - C xong 15/10: 309 dòng volume thật trong `data/keyword-metrics.jsonl` (12 từ Ubersuggest; 297 từ HarborRank/DataForSEO, Việt Nam: 23 từ khoá trang tiền + toàn bộ từ khoá chính của bài đã xuất bản ngoài hub du lịch). 166 từ có volume, 131 dưới ngưỡng thống kê.
   Kết luận ưu tiên nâng cấp:
   1. /thue-xe-may/ha-noi/: "thuê xe máy hà nội" 8.100 (KD 7) + "cho thuê xe máy hà nội" 1.600 (KD 7): nhu cầu lớn nhất, độ khó thấp. "giá thuê xe máy hà nội" chỉ 110 nhưng KD 46.
