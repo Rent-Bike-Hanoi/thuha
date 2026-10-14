@@ -1,0 +1,158 @@
+{
+  "writer": "writer-T",
+  "queued": "2026-10-14T05:34:17.372887+00:00",
+  "topic": {
+    "topic_id": "TM-00723",
+    "url": "/du-lich/nui-ngu-chi-son-2-858-m/",
+    "title": "Núi Ngũ Chỉ Sơn 2.858 m: đường leo, giải leo núi 2026 và lưu ý",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "ngũ chỉ sơn",
+    "secondary_keywords": [
+      "leo núi ngũ chỉ sơn",
+      "đỉnh ngũ chỉ sơn sa pa",
+      "giải leo núi ngũ chỉ sơn",
+      "trekking ngũ chỉ sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã leo Fansipan bằng cáp treo muốn thử một đỉnh trekking thật ở Lào Cai; cần biết Ngũ Chỉ Sơn cao bao nhiêu, đường leo dài, khó thế nào.",
+    "information_gain": "/du-lich/cap-treo-fansipan/, /du-lich/ky-quan-san-bat-xat/ và /du-lich/dinh-pu-ta-leng/ nói về đỉnh khác. Bài mới cho Ngũ Chỉ Sơn: cao 2.858 m, 'Đệ nhất hùng sơn' Tây Bắc, thứ 15 trong các núi cao nhất; tuyến từ thôn Ngũ Chỉ Sơn lên đỉnh (7 km theo khảo sát, 12 km theo bài giải đấu); địa hình suối, thác, vách đá, rừng rậm; Giải leo núi lần I 9–10/10/2026 với 258 VĐV do UBND xã Ngũ Chỉ Sơn tổ chức – mốc cho thấy tuyến đã được khảo sát an toàn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khao-sat-tuyen-duong-chinh-phuc-dinh-ngu-chi-son-post909017.html",
+        "quote": "Báo Lào Cai, 'Khảo sát tuyến đường chinh phục đỉnh Ngũ Chỉ Sơn' (đọc 14/10/2026): ngày 8/9 Ban tổ chức khảo sát tuyến từ thôn Ngũ Chỉ Sơn lên đỉnh để bảo đảm an toàn cho VĐV; giải lần thứ nhất diễn ra 9–10/10/2026; tuyến dài khoảng 7 km, đưa VĐV lên độ cao 2.858 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ngu-chi-son-day-nhanh-cong-tac-chuan-bi-giai-leo-nui-lan-thu-i-nam-2026-post910662.html",
+        "quote": "Báo Lào Cai (đọc 14/10/2026): sáng 29/9 UBND xã Ngũ Chỉ Sơn họp triển khai chuẩn bị Giải leo núi Ngũ Chỉ Sơn lần I năm 2026, dự kiến 9–10/10/2026; hạn đăng ký kết thúc 30/9.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/gan-260-van-dong-vien-tranh-tai-giai-leo-nui-ngu-chi-son-post911560.html",
+        "quote": "Báo Lào Cai, 'Gần 260 vận động viên tranh tài Giải leo núi Ngũ Chỉ Sơn' (đọc 14/10/2026): sáng 10/10/2026 giải khởi tranh với 258 VĐV, 4 nội dung nam/nữ 18–40 và 41–56 tuổi; núi cao 2.858 m, được mệnh danh 'Đệ nhất hùng sơn' Tây Bắc, xếp thứ 15 trong những ngọn núi cao nhất Việt Nam; cung đường dài khoảng 12 km qua bản làng, suối, thác nước, vách đá dựng đứng, rừng rậm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/vuot-nui-cao-chinh-phuc-thu-thach-ngu-chi-son-post911613.html",
+        "quote": "Báo Lào Cai, 'Vượt núi cao, chinh phục thử thách Ngũ Chỉ Sơn' (đọc 14/10/2026): 258 VĐV từ nhiều tỉnh thành tranh tài ngày 10/10 do UBND xã Ngũ Chỉ Sơn tổ chức; cung đường qua bản làng, suối, thác, vách đá và rừng; công bố kết quả theo hạng mục.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "ngũ chỉ sơn"
+      }
+    ],
+    "notes": "Mâu thuẫn chiều dài tuyến: 7 km (bài khảo sát) vs 12 km (bài khai mạc) – ghi cả hai, không đưa lên tiêu đề. Chưa có nguồn về vé/phí vào rừng, quy định đăng ký leo, porter hay quy định của VQG Hoàng Liên cho khách thường – không viết số; khuyên liên hệ UBND xã Ngũ Chỉ Sơn. Trang đã đọc không ghi Ngũ Chỉ Sơn cách trung tâm Sa Pa bao xa, cũng không nêu rõ thuộc khu vực Sa Pa – không đưa số, xác minh vị trí xã Ngũ Chỉ Sơn trước khi viết. Giải 2026 đã diễn ra; không hứa giải năm sau. Xe máy thuê nên gửi ở chân núi.",
+    "outline": [
+      "Ngũ Chỉ Sơn là núi nào, cao bao nhiêu",
+      "Tuyến leo từ thôn Ngũ Chỉ Sơn: 7 km hay 12 km",
+      "Địa hình: suối, thác, vách đá, rừng",
+      "Giải leo núi lần I năm 2026 cho thấy gì",
+      "Chuẩn bị, porter và hỏi thủ tục ở xã",
+      "Đi xe máy tới chân núi và gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cap-treo-fansipan/",
+      "/du-lich/ky-quan-san-bat-xat/",
+      "/du-lich/dinh-pu-ta-leng/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00723.json",
+  "draft_template": {
+    "id": "TM-00723",
+    "url": "/du-lich/nui-ngu-chi-son-2-858-m/",
+    "title": "Núi Ngũ Chỉ Sơn 2.858 m: đường leo, giải leo núi 2026 và lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "ngũ chỉ sơn, leo núi ngũ chỉ sơn, đỉnh ngũ chỉ sơn sa pa, giải leo núi ngũ chỉ sơn, trekking ngũ chỉ sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ngũ Chỉ Sơn là núi nào, cao bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Tuyến leo từ thôn Ngũ Chỉ Sơn: 7 km hay 12 km",
+        "<p></p>"
+      ],
+      [
+        "Địa hình: suối, thác, vách đá, rừng",
+        "<p></p>"
+      ],
+      [
+        "Giải leo núi lần I năm 2026 cho thấy gì",
+        "<p></p>"
+      ],
+      [
+        "Chuẩn bị, porter và hỏi thủ tục ở xã",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy tới chân núi và gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khao-sat-tuyen-duong-chinh-phuc-dinh-ngu-chi-son-post909017.html",
+        "quote": "Báo Lào Cai, 'Khảo sát tuyến đường chinh phục đỉnh Ngũ Chỉ Sơn' (đọc 14/10/2026): ngày 8/9 Ban tổ chức khảo sát tuyến từ thôn Ngũ Chỉ Sơn lên đỉnh để bảo đảm an toàn cho VĐV; giải lần thứ nhất diễn ra 9–10/10/2026; tuyến dài khoảng 7 km, đưa VĐV lên độ cao 2.858 m.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ngu-chi-son-day-nhanh-cong-tac-chuan-bi-giai-leo-nui-lan-thu-i-nam-2026-post910662.html",
+        "quote": "Báo Lào Cai (đọc 14/10/2026): sáng 29/9 UBND xã Ngũ Chỉ Sơn họp triển khai chuẩn bị Giải leo núi Ngũ Chỉ Sơn lần I năm 2026, dự kiến 9–10/10/2026; hạn đăng ký kết thúc 30/9.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/gan-260-van-dong-vien-tranh-tai-giai-leo-nui-ngu-chi-son-post911560.html",
+        "quote": "Báo Lào Cai, 'Gần 260 vận động viên tranh tài Giải leo núi Ngũ Chỉ Sơn' (đọc 14/10/2026): sáng 10/10/2026 giải khởi tranh với 258 VĐV, 4 nội dung nam/nữ 18–40 và 41–56 tuổi; núi cao 2.858 m, được mệnh danh 'Đệ nhất hùng sơn' Tây Bắc, xếp thứ 15 trong những ngọn núi cao nhất Việt Nam; cung đường dài khoảng 12 km qua bản làng, suối, thác nước, vách đá dựng đứng, rừng rậm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/vuot-nui-cao-chinh-phuc-thu-thach-ngu-chi-son-post911613.html",
+        "quote": "Báo Lào Cai, 'Vượt núi cao, chinh phục thử thách Ngũ Chỉ Sơn' (đọc 14/10/2026): 258 VĐV từ nhiều tỉnh thành tranh tài ngày 10/10 do UBND xã Ngũ Chỉ Sơn tổ chức; cung đường qua bản làng, suối, thác, vách đá và rừng; công bố kết quả theo hạng mục.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00723"
+  }
+}

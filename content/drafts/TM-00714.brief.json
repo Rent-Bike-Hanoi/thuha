@@ -1,0 +1,170 @@
+{
+  "writer": "writer-R",
+  "queued": "2026-10-14T05:34:15.385831+00:00",
+  "topic": {
+    "topic_id": "TM-00714",
+    "url": "/du-lich/hang-tham-pua-tuan-giao/",
+    "title": "Hang Thẩm Púa Tuần Giáo: Sở chỉ huy đầu tiên của chiến dịch Điện Biên Phủ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang thẩm púa",
+    "secondary_keywords": [
+      "hang thẩm púa tuần giáo",
+      "hang ông giáp",
+      "sở chỉ huy tiền phương điện biên phủ",
+      "di tích chiến dịch điện biên phủ tuần giáo"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Điện Biên muốn ghé di tích dọc đường trước khi vào TP Điện Biên Phủ: hang Thẩm Púa ở đâu, có ý nghĩa gì, liên quan thế nào với Mường Phăng.",
+    "information_gain": "/du-lich/so-chi-huy-muong-phang/ chỉ nói về vị trí thứ 3 của Sở chỉ huy (Mường Phăng); /du-lich/ha-noi-di-dien-bien-bang-xe-may/ là tuyến đường QL6 – Pha Đin. Chưa bài nào nói về hang Thẩm Púa ở Tuần Giáo: vị trí thứ nhất của Sở chỉ huy (32 ngày, 17/12/1953 – 17/1/1954), gần QL279, cách huyện Tuần Giáo 15 km; mốc 'đánh nhanh thắng nhanh' dự định nổ súng 20/1/1954; lòng hang cao tới 10 m và giá trị khảo cổ; trình tự 3 vị trí Thẩm Púa → Huổi He → Mường Phăng để ghép lộ trình.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-dau-tich-lich-su-o-dien-bien-2979307.html",
+        "quote": "VnExpress, 'Những dấu tích lịch sử ở Điện Biên' (đọc 14/10/2026): hang Thẩm Púa ở xã Chiềng Sinh, huyện Tuần Giáo, là địa điểm đầu tiên đặt Sở chỉ huy tiền phương của Bộ chỉ huy chiến dịch Điện Biên Phủ; đường vào hang nhỏ hẹp, nhiều sườn dốc; lòng hang rộng, có chỗ cao tới 10 mét, nhiều phiến đá phẳng như mặt bàn; tại đây Đại tướng Võ Nguyên Giáp phổ biến lệnh tác chiến bí mật theo phương án 'đánh nhanh thắng nhanh', dự định nổ súng 20/1/1954; người dân gọi là 'hang ông Giáp'; hang có hiện vật chứng minh người tiền sử từng sinh sống.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tham-noi-dai-tuong-vo-nguyen-giap-quyet-dinh-danh-tran-dien-bien-phu-post463267.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Thăm nơi Đại tướng Võ Nguyên Giáp quyết định đánh trận Điện Biên Phủ' (đọc 14/10/2026): địa điểm thứ nhất của Sở Chỉ huy đặt tại hang Thẩm Púa, gần Quốc lộ 279, cách huyện Tuần Giáo 15 km, trong 32 ngày (17/12/1953 – 17/01/1954); địa điểm thứ 2 tại bản Huổi He, xã Nà Tấu, huyện Điện Biên, 13 ngày (18/01 – 30/01/1954).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://plo.vn/ve-noi-da-phat-di-menh-lenh-tong-tan-cong-chien-dich-dien-bien-phu-post788304.html",
+        "quote": "Pháp Luật TP.HCM, 'Về nơi phát mệnh lệnh tổng tấn công chiến dịch Điện Biên Phủ' (đọc 14/10/2026): Sở chỉ huy ở Mường Phăng hoạt động 31/1 – 15/5/1954, là vị trí thứ 3; trước đó vị trí thứ nhất ở hang Thẩm Púa (xã Chiềng Sinh, huyện Tuần Giáo) 32 ngày, từ 17/12/1953 đến 17/1/1954; vị trí thứ 2 ở bản Huổi He (xã Nà Tấu, nay thuộc TP Điện Biên Phủ) 13 ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/so-chi-huy-chien-dich-dien-bien-phu-an-sau-trong-rung-xanh-muong-phang-post265948.html",
+        "quote": "Báo Hà Tĩnh, 'Sở Chỉ huy chiến dịch Điện Biên Phủ ẩn sâu trong rừng xanh Mường Phăng' (đọc 14/10/2026): Sở Chỉ huy đặt ở Mường Phăng 105 ngày (31/1 – 15/5/1954); trước đó địa điểm đầu tiên tại hang Thẩm Púa (xã Chiềng Sinh, huyện Tuần Giáo) trong 32 ngày, địa điểm thứ 2 ở bản Huổi He (xã Nà Tấu) 13 ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dien-bien-4687746.html",
+        "quote": "VnExpress, Cẩm nang du lịch Điện Biên (đọc 14/10/2026): liệt kê hang động Thẩm Púa cùng Pa Thơm, suối khoáng Hua Pe, U Va, hồ Pá Khoang, Pe Luông trong nhóm tài nguyên du lịch thiên nhiên của tỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang thẩm púa"
+      }
+    ],
+    "notes": "Không tìm được giờ mở cửa, vé, tình trạng bảo tồn hay hạng xếp hạng di tích riêng của hang; không viết các mục này. Địa danh hành chính: các nguồn ghi 'xã Chiềng Sinh, huyện Tuần Giáo' (trước sắp xếp 2025) – ghi rõ là tên cũ, không tự suy tên xã mới. Một trang tổng hợp ghi tên/địa chỉ khác (bản Pó, Chiềng Đông) – không dùng. Đường vào hang hẹp, dốc: khuyên gửi xe, đi bộ, không chạy xe vào lối mòn. Khoảng cách 15 km là tính từ 'huyện Tuần Giáo' theo VietnamPlus, không phải từ Hà Nội.",
+    "outline": [
+      "Hang Thẩm Púa ở đâu trên đường Hà Nội – Điện Biên",
+      "Vị trí thứ nhất của Sở chỉ huy: 32 ngày và quyết định 'đánh nhanh thắng nhanh'",
+      "Ba vị trí Sở chỉ huy: Thẩm Púa – Huổi He – Mường Phăng",
+      "Trong hang có gì: lòng hang, phiến đá, dấu tích tiền sử",
+      "Đi vào hang: gửi xe, lối mòn dốc, lưu ý mùa mưa",
+      "Ghép lộ trình với Mường Phăng và đồi A1"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/du-lich/so-chi-huy-muong-phang/",
+      "/du-lich/doi-a1-dien-bien/",
+      "/kinh-nghiem/di-xe-may-duong-deo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00714.json",
+  "draft_template": {
+    "id": "TM-00714",
+    "url": "/du-lich/hang-tham-pua-tuan-giao/",
+    "title": "Hang Thẩm Púa Tuần Giáo: Sở chỉ huy đầu tiên của chiến dịch Điện Biên Phủ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang thẩm púa, hang thẩm púa tuần giáo, hang ông giáp, sở chỉ huy tiền phương điện biên phủ, di tích chiến dịch điện biên phủ tuần giáo",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hang Thẩm Púa ở đâu trên đường Hà Nội – Điện Biên",
+        "<p></p>"
+      ],
+      [
+        "Vị trí thứ nhất của Sở chỉ huy: 32 ngày và quyết định 'đánh nhanh thắng nhanh'",
+        "<p></p>"
+      ],
+      [
+        "Ba vị trí Sở chỉ huy: Thẩm Púa – Huổi He – Mường Phăng",
+        "<p></p>"
+      ],
+      [
+        "Trong hang có gì: lòng hang, phiến đá, dấu tích tiền sử",
+        "<p></p>"
+      ],
+      [
+        "Đi vào hang: gửi xe, lối mòn dốc, lưu ý mùa mưa",
+        "<p></p>"
+      ],
+      [
+        "Ghép lộ trình với Mường Phăng và đồi A1",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-dau-tich-lich-su-o-dien-bien-2979307.html",
+        "quote": "VnExpress, 'Những dấu tích lịch sử ở Điện Biên' (đọc 14/10/2026): hang Thẩm Púa ở xã Chiềng Sinh, huyện Tuần Giáo, là địa điểm đầu tiên đặt Sở chỉ huy tiền phương của Bộ chỉ huy chiến dịch Điện Biên Phủ; đường vào hang nhỏ hẹp, nhiều sườn dốc; lòng hang rộng, có chỗ cao tới 10 mét, nhiều phiến đá phẳng như mặt bàn; tại đây Đại tướng Võ Nguyên Giáp phổ biến lệnh tác chiến bí mật theo phương án 'đánh nhanh thắng nhanh', dự định nổ súng 20/1/1954; người dân gọi là 'hang ông Giáp'; hang có hiện vật chứng minh người tiền sử từng sinh sống.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/tham-noi-dai-tuong-vo-nguyen-giap-quyet-dinh-danh-tran-dien-bien-phu-post463267.vnp",
+        "quote": "VietnamPlus (TTXVN), 'Thăm nơi Đại tướng Võ Nguyên Giáp quyết định đánh trận Điện Biên Phủ' (đọc 14/10/2026): địa điểm thứ nhất của Sở Chỉ huy đặt tại hang Thẩm Púa, gần Quốc lộ 279, cách huyện Tuần Giáo 15 km, trong 32 ngày (17/12/1953 – 17/01/1954); địa điểm thứ 2 tại bản Huổi He, xã Nà Tấu, huyện Điện Biên, 13 ngày (18/01 – 30/01/1954).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://plo.vn/ve-noi-da-phat-di-menh-lenh-tong-tan-cong-chien-dich-dien-bien-phu-post788304.html",
+        "quote": "Pháp Luật TP.HCM, 'Về nơi phát mệnh lệnh tổng tấn công chiến dịch Điện Biên Phủ' (đọc 14/10/2026): Sở chỉ huy ở Mường Phăng hoạt động 31/1 – 15/5/1954, là vị trí thứ 3; trước đó vị trí thứ nhất ở hang Thẩm Púa (xã Chiềng Sinh, huyện Tuần Giáo) 32 ngày, từ 17/12/1953 đến 17/1/1954; vị trí thứ 2 ở bản Huổi He (xã Nà Tấu, nay thuộc TP Điện Biên Phủ) 13 ngày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/so-chi-huy-chien-dich-dien-bien-phu-an-sau-trong-rung-xanh-muong-phang-post265948.html",
+        "quote": "Báo Hà Tĩnh, 'Sở Chỉ huy chiến dịch Điện Biên Phủ ẩn sâu trong rừng xanh Mường Phăng' (đọc 14/10/2026): Sở Chỉ huy đặt ở Mường Phăng 105 ngày (31/1 – 15/5/1954); trước đó địa điểm đầu tiên tại hang Thẩm Púa (xã Chiềng Sinh, huyện Tuần Giáo) trong 32 ngày, địa điểm thứ 2 ở bản Huổi He (xã Nà Tấu) 13 ngày.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-dien-bien-4687746.html",
+        "quote": "VnExpress, Cẩm nang du lịch Điện Biên (đọc 14/10/2026): liệt kê hang động Thẩm Púa cùng Pa Thơm, suối khoáng Hua Pe, U Va, hồ Pá Khoang, Pe Luông trong nhóm tài nguyên du lịch thiên nhiên của tỉnh.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00714"
+  }
+}

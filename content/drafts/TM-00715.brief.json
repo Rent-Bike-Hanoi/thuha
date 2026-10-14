@@ -1,0 +1,157 @@
+{
+  "writer": "writer-R",
+  "queued": "2026-10-14T05:34:15.621710+00:00",
+  "topic": {
+    "topic_id": "TM-00715",
+    "url": "/du-lich/hang-con-moong-thach-thanh/",
+    "title": "Hang Con Moong Thạch Thành: di tích quốc gia đặc biệt, đường vào và xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hang con moong",
+    "secondary_keywords": [
+      "hang con moong thanh hóa",
+      "di chỉ con moong",
+      "hang con moong thạch thành",
+      "hang con moong ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mê khảo cổ/di sản đi Thanh Hóa hoặc Cúc Phương muốn biết hang Con Moong ở đâu, vì sao được xếp di tích quốc gia đặc biệt và đường vào hiện ra sao.",
+    "information_gain": "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/ và /du-lich/thanh-nha-ho-thanh-hoa/ không nhắc tới Con Moong. Bài mới cho riêng di tích: vị trí bản Mọ (thôn Thành Trung), xã Thành Yên cũ, vùng đệm Cúc Phương; phát hiện 1974, khai quật 1976, hợp tác Nga 2010–2014; xếp hạng quốc gia 2007 và quốc gia đặc biệt 2015; chuỗi văn hóa Sơn Vi – Hòa Bình – Bắc Sơn; dự án đường vào Km7+300 – Km16+950 lùi hạn về 2026; lộ trình hồ sơ UNESCO – kèm cảnh báo các con số độ dày địa tầng/niên đại mâu thuẫn giữa nguồn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thanh-hoa-don-bang-di-tich-quoc-gia-dac-biet-hang-con-moong-va-cac-di-tich-phu-can-post278681.html",
+        "quote": "Báo Nhân Dân, lễ đón bằng di tích quốc gia đặc biệt (đọc 14/10/2026): hang Con Moong thuộc bản Mọ (nay là thôn Thành Trung), xã Thành Yên, huyện Thạch Thành; phát hiện năm 1974, khai quật nhiều lần; địa tầng dày trung bình 9,5 m gồm 10 tầng văn hóa; cuối năm 2015 được Thủ tướng xếp hạng Di tích quốc gia đặc biệt; Bảo tàng tỉnh mở triển lãm gần 500 hiện vật tại Trung tâm Văn hóa – Thể thao huyện Thạch Thành.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hang-con-moong-don-bang-cong-nhan-di-tich-quoc-gia-dac-biet-post417437.vnp",
+        "quote": "VietnamPlus (TTXVN) (đọc 14/10/2026): hang nằm trong vùng đệm rừng quốc gia Cúc Phương, xã Thành Yên; phát hiện lần đầu 1974, khai quật lần đầu 1976; 2010–2014 Viện Khảo cổ học hợp tác Viện Khảo cổ học – Dân tộc học Novosibirsk (Nga) khai quật; nơi quần cư liên tục của văn hóa Sơn Vi, Hòa Bình, Bắc Sơn; con người có mặt từ khoảng 60.000 năm trước; di tích liên quan gồm động Người xưa, mái đá Mộc Long, hang Lai, hang Diêm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/duong-vao-di-tich-hang-con-moong-lui-han-ve-dich-251140.html",
+        "quote": "Báo Văn Hóa, 'Đường vào di tích hang Con Moong lùi hạn về đích' (đọc 14/10/2026): UBND tỉnh Thanh Hóa điều chỉnh dự án đường vào di tích (đoạn Km7+300 – Km16+950) từ giai đoạn 2022–2025 sang hoàn thành trong năm 2026; địa điểm dự án nay thuộc xã Thành Vinh; năm 2007 xếp hạng di tích quốc gia; năm 2015 xếp hạng quốc gia đặc biệt; bài ghi địa tầng dày 3,6 m và ở đoạn khác ghi lớp địa tầng dày tới 10,14 m, diễn biến văn hóa từ khoảng 74.000 đến 7.000 năm trước.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-803704.html",
+        "quote": "Báo Nhân Dân, 'Thanh Hóa: Xây dựng hồ sơ đề cử Di sản thế giới hang Con Moong' (đọc 14/10/2026): khu di sản gồm hàng chục hang động, mái đá trong không gian hơn 20.000 ha thuộc vùng đệm VQG Cúc Phương; địa tầng dày hơn 10 m, dấu tích cư trú từ 50.000 đến 7.000 năm; hội thảo cho rằng di sản có thể đáp ứng 3 tiêu chí nổi bật toàn cầu; đỉnh Mây Bạc cao 648,2 m.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "hang con moong"
+      }
+    ],
+    "notes": "Số liệu mâu thuẫn, chỉ đưa vào bài kèm tên nguồn, không đưa lên tiêu đề: độ dày địa tầng 9,5 m (Nhân Dân 2015) / 3,6 m và 10,14 m (Báo Văn Hóa) / hơn 10 m (Nhân Dân); niên đại 60.000 năm (VietnamPlus) / 74.000 năm (Báo Văn Hóa) / 50.000 năm (Nhân Dân). Chưa xác nhận đường vào đã thông xe hay chưa và không có thông tin vé, giờ mở cửa, nhà trưng bày tại hang – khuyên hỏi địa phương trước khi đi; đường hiện có thể là đường đất/xấu. Hồ sơ UNESCO mới là mục tiêu, chưa được ghi danh. Tên xã: 'Thành Yên' (cũ), dự án đường ghi 'xã Thành Vinh' (mới) – nói rõ.",
+    "outline": [
+      "Hang Con Moong ở đâu: Thạch Thành, vùng đệm Cúc Phương",
+      "Vì sao là di tích quốc gia đặc biệt",
+      "Các di tích phụ cận: hang Lai, mái đá Mộc Long, hang Diêm",
+      "Các con số khảo cổ và vì sao nguồn ghi khác nhau",
+      "Đường vào: dự án Km7+300 – Km16+950 và tình trạng 2026",
+      "Đi xe máy: ghép với Cúc Phương hoặc thác Mây"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/pu-luong-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00715.json",
+  "draft_template": {
+    "id": "TM-00715",
+    "url": "/du-lich/hang-con-moong-thach-thanh/",
+    "title": "Hang Con Moong Thạch Thành: di tích quốc gia đặc biệt, đường vào và xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hang con moong, hang con moong thanh hóa, di chỉ con moong, hang con moong thạch thành, hang con moong ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hang Con Moong ở đâu: Thạch Thành, vùng đệm Cúc Phương",
+        "<p></p>"
+      ],
+      [
+        "Vì sao là di tích quốc gia đặc biệt",
+        "<p></p>"
+      ],
+      [
+        "Các di tích phụ cận: hang Lai, mái đá Mộc Long, hang Diêm",
+        "<p></p>"
+      ],
+      [
+        "Các con số khảo cổ và vì sao nguồn ghi khác nhau",
+        "<p></p>"
+      ],
+      [
+        "Đường vào: dự án Km7+300 – Km16+950 và tình trạng 2026",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy: ghép với Cúc Phương hoặc thác Mây",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thanh-hoa-don-bang-di-tich-quoc-gia-dac-biet-hang-con-moong-va-cac-di-tich-phu-can-post278681.html",
+        "quote": "Báo Nhân Dân, lễ đón bằng di tích quốc gia đặc biệt (đọc 14/10/2026): hang Con Moong thuộc bản Mọ (nay là thôn Thành Trung), xã Thành Yên, huyện Thạch Thành; phát hiện năm 1974, khai quật nhiều lần; địa tầng dày trung bình 9,5 m gồm 10 tầng văn hóa; cuối năm 2015 được Thủ tướng xếp hạng Di tích quốc gia đặc biệt; Bảo tàng tỉnh mở triển lãm gần 500 hiện vật tại Trung tâm Văn hóa – Thể thao huyện Thạch Thành.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hang-con-moong-don-bang-cong-nhan-di-tich-quoc-gia-dac-biet-post417437.vnp",
+        "quote": "VietnamPlus (TTXVN) (đọc 14/10/2026): hang nằm trong vùng đệm rừng quốc gia Cúc Phương, xã Thành Yên; phát hiện lần đầu 1974, khai quật lần đầu 1976; 2010–2014 Viện Khảo cổ học hợp tác Viện Khảo cổ học – Dân tộc học Novosibirsk (Nga) khai quật; nơi quần cư liên tục của văn hóa Sơn Vi, Hòa Bình, Bắc Sơn; con người có mặt từ khoảng 60.000 năm trước; di tích liên quan gồm động Người xưa, mái đá Mộc Long, hang Lai, hang Diêm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/doi-song/duong-vao-di-tich-hang-con-moong-lui-han-ve-dich-251140.html",
+        "quote": "Báo Văn Hóa, 'Đường vào di tích hang Con Moong lùi hạn về đích' (đọc 14/10/2026): UBND tỉnh Thanh Hóa điều chỉnh dự án đường vào di tích (đoạn Km7+300 – Km16+950) từ giai đoạn 2022–2025 sang hoàn thành trong năm 2026; địa điểm dự án nay thuộc xã Thành Vinh; năm 2007 xếp hạng di tích quốc gia; năm 2015 xếp hạng quốc gia đặc biệt; bài ghi địa tầng dày 3,6 m và ở đoạn khác ghi lớp địa tầng dày tới 10,14 m, diễn biến văn hóa từ khoảng 74.000 đến 7.000 năm trước.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/post-803704.html",
+        "quote": "Báo Nhân Dân, 'Thanh Hóa: Xây dựng hồ sơ đề cử Di sản thế giới hang Con Moong' (đọc 14/10/2026): khu di sản gồm hàng chục hang động, mái đá trong không gian hơn 20.000 ha thuộc vùng đệm VQG Cúc Phương; địa tầng dày hơn 10 m, dấu tích cư trú từ 50.000 đến 7.000 năm; hội thảo cho rằng di sản có thể đáp ứng 3 tiêu chí nổi bật toàn cầu; đỉnh Mây Bạc cao 648,2 m.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00715"
+  }
+}
