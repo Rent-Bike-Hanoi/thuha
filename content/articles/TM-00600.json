@@ -89,5 +89,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-00600"
+  "topic_id": "TM-00600",
+  "publishedAt": "2026-10-14T03:33:17.144954+00:00",
+  "publishedBy": "Claude Code (routine)"
 }
