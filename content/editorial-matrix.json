@@ -41085,5 +41085,86 @@
     "url": "/thue-xe/thue-xe-may-theo-thang-hay-mua-xe/",
     "priority": "P0",
     "status": "published"
+  },
+  {
+    "title": "Vùng phát thải thấp Hà Nội: xe máy xăng, xe điện đi thế nào",
+    "keyword": "vùng phát thải thấp hà nội xe máy, vùng phát thải thấp vành đai 1, xe máy xăng có được vào phố cổ, xe máy điện vùng phát thải thấp, khu vực 1 khu vực 2 hoàn kiếm, lộ trình cấm xe máy xăng hà nội",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/vung-phat-thai-thap-ha-noi-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy nổ lốp khi đang chạy: giữ lái, giảm tốc, dừng xe",
+    "keyword": "xe máy nổ lốp khi đang chạy, xử lý khi xe máy bị nổ lốp, xe máy xịt lốp đột ngột, nổ lốp trước xe máy, thủng lốp có nên đi tiếp, nguyên nhân nổ lốp xe máy",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/xe-may-no-lop-khi-dang-chay/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy bốc cháy: xử lý thế nào với xe xăng và xe điện",
+    "keyword": "xe máy bốc cháy xử lý thế nào, xe máy bị cháy khi đang chạy, xe điện bốc cháy làm gì, cháy xe máy trong nhà, dập lửa xe máy có dùng nước không, gọi 114 báo cháy",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/xe-may-boc-chay-xu-ly-the-nao/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe máy gặp giông sét: trú ở đâu, có nên chạy tiếp",
+    "keyword": "đi xe máy gặp giông sét, đi xe máy có bị sét đánh không, trú mưa dưới cây khi có sét, quy tắc 30 giây chớp sấm, phòng tránh sét khi ở ngoài đường, giông lốc khi đang đi xe máy",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/di-xe-may-gap-giong-set/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Xe máy điện hết pin giữa đường: làm gì để về được",
+    "keyword": "xe máy điện hết pin giữa đường, xe điện báo pin yếu, xe máy điện yếu pin đi chậm, chế độ ECO xe máy điện, dắt xe máy điện hết pin, pin dưới 20% có sao không",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/xe-may-dien-het-pin-giua-duong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Để đồ trong cốp xe máy: thứ không nên để và cách xếp",
+    "keyword": "để đồ trong cốp xe máy, cốp xe máy có nóng không, để điện thoại trong cốp xe, không để chìa khóa trong cốp, móc treo đồ xe máy, cổng sạc usb xe máy",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/de-do-trong-cop-xe-may/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Độ pin, nâng tốc độ xe máy điện có bị phạt không",
+    "keyword": "độ xe máy điện có bị phạt không, độ pin xe máy điện, nâng công suất xe máy điện, mở khóa tốc độ xe điện, thay pin dung lượng lớn hơn, xe đạp điện độ có phải đăng ký",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/do-xe-may-dien-co-bi-phat-khong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đi xe máy theo đoàn: đội hình, khoảng cách, dẫn và chốt đoàn",
+    "keyword": "đi xe máy theo đoàn, đi phượt theo nhóm an toàn, đội hình so le xe máy, khoảng cách 2 giây, trưởng đoàn chốt đoàn, đi xe máy dàn hàng ngang",
+    "hub": "kinh-nghiem",
+    "pillar": "/kinh-nghiem/",
+    "url": "/kinh-nghiem/di-xe-may-theo-doan/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Thay ắc quy, pin xe máy điện: đọc nhãn theo QCVN 31:2026",
+    "keyword": "thay ắc quy xe máy điện, QCVN 31:2026/BXD, quy chuẩn ắc quy xe máy điện, mua pin xe máy điện thay thế, dung lượng C3 là gì, ắc quy xe điện không rõ nguồn gốc",
+    "hub": "xe-dien",
+    "pillar": "/xe-dien/",
+    "url": "/xe-dien/thay-ac-quy-xe-may-dien-qcvn-31-2026/",
+    "priority": "P1",
+    "status": "published"
   }
 ]
