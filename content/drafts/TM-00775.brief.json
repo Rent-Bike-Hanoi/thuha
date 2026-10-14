@@ -1,0 +1,145 @@
+{
+  "writer": "writer-D4",
+  "queued": "2026-10-14T06:39:16.399681+00:00",
+  "topic": {
+    "topic_id": "TM-00775",
+    "url": "/du-lich/tu-luong-xam/",
+    "title": "Từ Lương Xâm: 'Từ Cả' thờ Ngô Quyền, 3 cọc Bạch Đằng, hội 16–18 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "từ lương xâm",
+    "secondary_keywords": [
+      "từ lương xâm hải phòng",
+      "từ lương xâm ngô quyền",
+      "di tích quốc gia đặc biệt từ lương xâm",
+      "lễ hội từ lương xâm",
+      "đền thờ ngô quyền hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy ở Hải Phòng muốn thăm Từ Lương Xâm (Hải An) – nơi thờ Ngô Quyền: ở đâu, vì sao gọi 'Từ Cả', có gì (cọc Bạch Đằng, sắc phong, giếng Mắt rồng), lễ hội ngày nào.",
+    "information_gain": "Chưa có URL nào về Từ Lương Xâm. /du-lich/khu-di-tich-bach-dang-giang/ nói về Tràng Kênh (Thủy Nguyên) – khu mới xây; bài mới về di tích gốc phía Hải An: Từ Lương Xâm được tôn 'Từ Cả' đứng đầu các nơi thờ Ngô Quyền, trên nền đại bản doanh năm 938; rộng 36.747 m², bố cục 'nội công ngoại quốc', tiền tế 5 gian 24 cột lim 9 m x 18 m, hai giếng Mắt rồng; còn 3 cọc Bạch Đằng, 25 đạo sắc phong (1522–1924); xếp hạng quốc gia theo Quyết định 235/VH-QĐ ngày 12/12/1986, quốc gia đặc biệt 17/1/2025, đón bằng 12/2/2025; lễ hội 16–18 tháng Giêng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/di-tich-danh-thang/tu-luong-xam-di-tich-lich-su-quoc-gia-dac-biet-736833",
+        "quote": "Cổng TTĐT thành phố Hải Phòng (đọc 14/10/2026): ngày 17/1/2025 Thủ tướng xếp hạng Di tích quốc gia đặc biệt Cụm di tích Từ Lương Xâm – Căn cứ bản doanh của Ngô Quyền năm 938; ngày 12/2/2025 quận Hải An đón bằng; Từ Lương Xâm là nơi Ngô Quyền dựng đại bản doanh, đắp thành Vành Kiệu chỉ huy trận Bạch Đằng 938; còn sắc phong, bia đá, cấu kiện chạm khắc phong cách Lê Trung hưng thế kỷ 17 và Nguyễn thế kỷ 19–20; lễ hội Từ Lương Xâm từ 16 đến 18 tháng Giêng hằng năm; năm 1986 Quyết định 235/VH-QĐ ngày 12/12/1986 xếp hạng di tích quốc gia với tên 'Di tích lịch sử khu vực Từ Lương Xâm – Căn cứ bản doanh của Ngô Quyền năm 938, xã Nam Hải, huyện An Hải'; là một trong 'Tứ linh từ' của huyện cổ An Dương.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/cum-di-tich-tu-luong-xam-can-cu%CC%81-ba%CC%89n-doanh-cu%CC%89a-ngo-quye%CC%80n-nam-938-thanh-pho-hai-phong-22227",
+        "quote": "Cục Di sản văn hóa (đọc 14/10/2026): Từ Lương Xâm là một trong ba 'Linh Từ' của quận Hải An, được tôn là 'Từ Cả' – nơi đứng đầu các di tích thờ Ngô Quyền; di tích quay hướng Đông, rộng 36.747 m2, bố cục 'nội công ngoại quốc' gồm nghi môn, tiền tế, thiêu hương, giải vũ, từ chính, tượng đài; nghi môn hai lớp ba cửa, đỉnh cột gắn đôi nghê; qua nghi môn ngoại có hai giếng Mắt rồng nước ngọt quanh năm, tương truyền do quân Ngô Quyền đào; tiền tế 9 m x 18 m, 5 gian, nền cao hơn sân 0,35 m, 24 cột gỗ lim, 6 bộ vì, chân tảng đá xanh thế kỷ XVIII – đầu XX; chạm rồng ẩn mây, tứ linh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphongnews.gov.vn/vn/du-lich/tu-luong-xam-di-tich-lich-su-tho-phung-duc-vuong-ngo-quyen-ct451.html",
+        "quote": "Hai Phong News (đọc 14/10/2026): Từ Lương Xâm là một trong 3 'linh từ' của quận Hải An (Từ Lương Xâm, Phủ Thượng Đoạn, Đền Phú Xá); Lương Xâm xưa là xã thuộc huyện An Dương, nay phường Nam Hải, quận Hải An; từ xây thời Hậu Lê, trùng tu thời Nguyễn; bố cục 'nội công ngoại quốc', trên nền bản doanh và kho lương của Ngô Quyền; còn lưu giữ 3 chiếc cọc Bạch Đằng; 25 đạo sắc chính và hơn 20 sắc sao niên đại 1522–1924; ngày 12/12/1986 xếp hạng di tích quốc gia; lễ hội 16–18 tháng Giêng kỷ niệm chiến thắng Bạch Đằng và ngày mất Ngô Quyền, hàng chục làng xã rước kiệu về chầu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "từ lương xâm"
+      }
+    ],
+    "notes": "Địa giới: phường Nam Hải, quận Hải An (cũ); bài Facebook 2026 nói 'phường Đông Hải' nhưng không có nguồn chính thức đã đọc – viết 'Hải An cũ'. Không có nguồn giờ mở, vé, gửi xe, km từ trung tâm. Không trộn với Khu di tích Bạch Đằng Giang (Tràng Kênh) – đó là bài khác, chỉ link.",
+    "outline": [
+      "Câu trả lời ngắn: Từ Lương Xâm ở đâu, thờ ai",
+      "Vì sao là 'Từ Cả': đại bản doanh Ngô Quyền năm 938",
+      "Kiến trúc nội công ngoại quốc, giếng Mắt rồng, tiền tế 24 cột",
+      "Hiện vật: 3 cọc Bạch Đằng, 25 đạo sắc phong",
+      "Lễ hội 16–18 tháng Giêng và danh hiệu quốc gia đặc biệt 2025",
+      "Đi xe máy, kết hợp Bạch Đằng Giang và lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-bach-dang-giang/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/dinh-hang-kenh-hai-phong/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00775.json",
+  "draft_template": {
+    "id": "TM-00775",
+    "url": "/du-lich/tu-luong-xam/",
+    "title": "Từ Lương Xâm: 'Từ Cả' thờ Ngô Quyền, 3 cọc Bạch Đằng, hội 16–18 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "từ lương xâm, từ lương xâm hải phòng, từ lương xâm ngô quyền, di tích quốc gia đặc biệt từ lương xâm, lễ hội từ lương xâm, đền thờ ngô quyền hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Từ Lương Xâm ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Vì sao là 'Từ Cả': đại bản doanh Ngô Quyền năm 938",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc nội công ngoại quốc, giếng Mắt rồng, tiền tế 24 cột",
+        "<p></p>"
+      ],
+      [
+        "Hiện vật: 3 cọc Bạch Đằng, 25 đạo sắc phong",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 16–18 tháng Giêng và danh hiệu quốc gia đặc biệt 2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, kết hợp Bạch Đằng Giang và lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://haiphong.gov.vn/di-tich-danh-thang/tu-luong-xam-di-tich-lich-su-quoc-gia-dac-biet-736833",
+        "quote": "Cổng TTĐT thành phố Hải Phòng (đọc 14/10/2026): ngày 17/1/2025 Thủ tướng xếp hạng Di tích quốc gia đặc biệt Cụm di tích Từ Lương Xâm – Căn cứ bản doanh của Ngô Quyền năm 938; ngày 12/2/2025 quận Hải An đón bằng; Từ Lương Xâm là nơi Ngô Quyền dựng đại bản doanh, đắp thành Vành Kiệu chỉ huy trận Bạch Đằng 938; còn sắc phong, bia đá, cấu kiện chạm khắc phong cách Lê Trung hưng thế kỷ 17 và Nguyễn thế kỷ 19–20; lễ hội Từ Lương Xâm từ 16 đến 18 tháng Giêng hằng năm; năm 1986 Quyết định 235/VH-QĐ ngày 12/12/1986 xếp hạng di tích quốc gia với tên 'Di tích lịch sử khu vực Từ Lương Xâm – Căn cứ bản doanh của Ngô Quyền năm 938, xã Nam Hải, huyện An Hải'; là một trong 'Tứ linh từ' của huyện cổ An Dương.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/cum-di-tich-tu-luong-xam-can-cu%CC%81-ba%CC%89n-doanh-cu%CC%89a-ngo-quye%CC%80n-nam-938-thanh-pho-hai-phong-22227",
+        "quote": "Cục Di sản văn hóa (đọc 14/10/2026): Từ Lương Xâm là một trong ba 'Linh Từ' của quận Hải An, được tôn là 'Từ Cả' – nơi đứng đầu các di tích thờ Ngô Quyền; di tích quay hướng Đông, rộng 36.747 m2, bố cục 'nội công ngoại quốc' gồm nghi môn, tiền tế, thiêu hương, giải vũ, từ chính, tượng đài; nghi môn hai lớp ba cửa, đỉnh cột gắn đôi nghê; qua nghi môn ngoại có hai giếng Mắt rồng nước ngọt quanh năm, tương truyền do quân Ngô Quyền đào; tiền tế 9 m x 18 m, 5 gian, nền cao hơn sân 0,35 m, 24 cột gỗ lim, 6 bộ vì, chân tảng đá xanh thế kỷ XVIII – đầu XX; chạm rồng ẩn mây, tứ linh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://haiphongnews.gov.vn/vn/du-lich/tu-luong-xam-di-tich-lich-su-tho-phung-duc-vuong-ngo-quyen-ct451.html",
+        "quote": "Hai Phong News (đọc 14/10/2026): Từ Lương Xâm là một trong 3 'linh từ' của quận Hải An (Từ Lương Xâm, Phủ Thượng Đoạn, Đền Phú Xá); Lương Xâm xưa là xã thuộc huyện An Dương, nay phường Nam Hải, quận Hải An; từ xây thời Hậu Lê, trùng tu thời Nguyễn; bố cục 'nội công ngoại quốc', trên nền bản doanh và kho lương của Ngô Quyền; còn lưu giữ 3 chiếc cọc Bạch Đằng; 25 đạo sắc chính và hơn 20 sắc sao niên đại 1522–1924; ngày 12/12/1986 xếp hạng di tích quốc gia; lễ hội 16–18 tháng Giêng kỷ niệm chiến thắng Bạch Đằng và ngày mất Ngô Quyền, hàng chục làng xã rước kiệu về chầu.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00775"
+  }
+}

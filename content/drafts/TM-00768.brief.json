@@ -1,0 +1,146 @@
+{
+  "writer": "writer-D2",
+  "queued": "2026-10-14T06:39:14.757416+00:00",
+  "topic": {
+    "topic_id": "TM-00768",
+    "url": "/du-lich/cho-vieng-phu-day/",
+    "title": "Chợ Viềng Phủ Dầy: họp đêm mùng 7 rạng mùng 8 tháng Giêng, mua may bán rủi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ viềng",
+    "secondary_keywords": [
+      "chợ viềng nam định",
+      "chợ viềng phủ dầy",
+      "chợ viềng xuân",
+      "chợ viềng vụ bản",
+      "chợ viềng họp ngày nào"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người từ Hà Nội muốn đi xe máy xuống chợ Viềng (Vụ Bản, Nam Định cũ) đầu năm: chợ họp đêm nào, năm 2026 tổ chức ra sao, mua gì, kết hợp lễ Phủ Dầy thế nào và cần chuẩn bị gì cho chuyến đi đêm.",
+    "information_gain": "Chưa có URL nào về chợ Viềng. /du-lich/phu-day-di-xe-may-tu-ha-noi/ nói về Phủ Dầy và đường đi nhưng không có phiên chợ. Bài mới: chợ chỉ họp một phiên đêm mùng 7 rạng mùng 8 tháng Giêng trước Phủ Tiên Hương; năm 2026 lần đầu nâng thành lễ hội 3 ngày từ tối 22 đến 24/2/2026 (mùng 6–8), khai mạc tại sân vận động Kim Thái; không gian trải dài từ thị trấn Gôi cũ dọc quốc lộ 37B; mặt hàng truyền thống (đồ đồng Tống Xá, cây giống Nam Điền), tục mua đồ cũ 'bán rủi'; nguồn sử 1850 và 1893 về 'Thiên Tiên thị'.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/van-hoa-giai-tri/khai-mac-le-hoi-cho-vieng-xuan-2026-1658981.ldo",
+        "quote": "Lao Động, 22/02/2026 (đọc 14/10/2026): tối 22/2 tại sân vận động Kim Thái, xã Vụ Bản khai mạc Lễ hội chợ Viềng Xuân 2026; chợ Viềng (chợ Viềng Phủ Dầy) chỉ có một phiên đêm mùng 7 rạng sáng mùng 8 tháng Giêng, từ đình ông Khổng đến trước Phủ chính Tiên Hương, nay xã Vụ Bản, tỉnh Ninh Bình; không gian họp chợ trải dài từ thị trấn Gôi cũ dọc quốc lộ 37B đến xã Hiển Khánh; năm 2026 lần đầu nâng thành lễ hội kéo dài mùng 6 đến mùng 8 tháng Giêng và lần đầu tổ chức khai mạc; xã phân luồng giao thông, bảo đảm an ninh.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/cho-vieng-phien-cho-doc-dao-bac-nhat-vung-dong-bang-bac-bo-post897674.html",
+        "quote": "Tin tức – TTXVN (đọc 14/10/2026): Chợ Viềng Xuân 2026 tại xã Vụ Bản, tỉnh Ninh Bình diễn ra từ tối 22 đến 24/2/2026 (mùng 6 đến mùng 8 tháng Giêng Bính Ngọ); sách Tục lệ xã An Thái năm 1850 gọi chợ là 'Thiên Tiên thị'; năm 1893 được nhắc trong Nam Định dư địa chí mục lục; chợ xưa từ đình ông Khổng đến trước Phủ Tiên Hương, gắn tín ngưỡng thờ Thánh Nguyễn Minh Không; hàng truyền thống là đồ đồng, đồ sắt, nông cụ (đúc đồng Tống Xá, rèn Bảo Ngũ, Vân Chàng, sơn mài, gỗ La Xuyên); gian hàng đồ cũ 'bán rủi mua may'; cây giống, cây cảnh từ Nam Điền, Nam Trực; quan niệm đi chợ không mua gì sẽ không may; gắn quần thể Phủ Dầy thờ Thánh Mẫu Liễu Hạnh; có đánh đu, tổ tôm điếm, cờ người, hát chầu văn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/ve-vu-ban-tray-hoi-cho-vieng.htm",
+        "quote": "VnEconomy (đọc 14/10/2026): Chợ Viềng Xuân tại xã Vụ Bản, tỉnh Ninh Bình diễn ra ba ngày từ tối 22 đến 24/2/2026 (mùng 6 đến mùng 8 tháng Giêng Bính Ngọ), tổ chức ba ngày là điểm mới so với mọi năm; dân gian gọi Chợ Viềng Phủ, Chợ Viềng Xuân – phiên chợ chỉ họp một lần đêm mùng 7 rạng sáng mùng 8; mặt hàng đồ đồng, đồ sắt, nông cụ, đồ gia dụng cũ, cây giống, cây cảnh; có khu ẩm thực dân gian; gắn quần thể di tích Phủ Dầy.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chợ viềng"
+      }
+    ],
+    "notes": "Lịch 2027 chưa có nguồn – chỉ nêu quy luật âm lịch (đêm mùng 7 rạng mùng 8) và dẫn lịch 2026 làm ví dụ. Không có nguồn về giá vé gửi xe, giá cây cảnh – không viết giá. Không có số km Hà Nội – Vụ Bản trong nguồn (dùng link bài Phủ Dầy cho đường đi). Đi đêm, đông người: nhắc chỉ nhắc an toàn chung, không hứa chỗ gửi xe.",
+    "outline": [
+      "Câu trả lời ngắn: chợ Viềng họp đêm nào, ở đâu",
+      "Phiên chợ 'Thiên Tiên thị' trong sử liệu 1850, 1893",
+      "Mua gì ở chợ Viềng: đồ đồng, nông cụ, đồ cũ, cây giống",
+      "Lễ hội chợ Viềng Xuân 2026: lần đầu kéo dài 3 ngày",
+      "Kết hợp lễ Phủ Dầy và đi xe máy từ Hà Nội trong đêm",
+      "Lưu ý an toàn, giữ đồ, chọn giờ đi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/phu-day-di-xe-may-tu-ha-noi/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/chua-pho-minh/",
+      "/thue-xe-may/ha-noi/",
+      "/bang-gia/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00768.json",
+  "draft_template": {
+    "id": "TM-00768",
+    "url": "/du-lich/cho-vieng-phu-day/",
+    "title": "Chợ Viềng Phủ Dầy: họp đêm mùng 7 rạng mùng 8 tháng Giêng, mua may bán rủi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ viềng, chợ viềng nam định, chợ viềng phủ dầy, chợ viềng xuân, chợ viềng vụ bản, chợ viềng họp ngày nào",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: chợ Viềng họp đêm nào, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Phiên chợ 'Thiên Tiên thị' trong sử liệu 1850, 1893",
+        "<p></p>"
+      ],
+      [
+        "Mua gì ở chợ Viềng: đồ đồng, nông cụ, đồ cũ, cây giống",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội chợ Viềng Xuân 2026: lần đầu kéo dài 3 ngày",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp lễ Phủ Dầy và đi xe máy từ Hà Nội trong đêm",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý an toàn, giữ đồ, chọn giờ đi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://laodong.vn/van-hoa-giai-tri/khai-mac-le-hoi-cho-vieng-xuan-2026-1658981.ldo",
+        "quote": "Lao Động, 22/02/2026 (đọc 14/10/2026): tối 22/2 tại sân vận động Kim Thái, xã Vụ Bản khai mạc Lễ hội chợ Viềng Xuân 2026; chợ Viềng (chợ Viềng Phủ Dầy) chỉ có một phiên đêm mùng 7 rạng sáng mùng 8 tháng Giêng, từ đình ông Khổng đến trước Phủ chính Tiên Hương, nay xã Vụ Bản, tỉnh Ninh Bình; không gian họp chợ trải dài từ thị trấn Gôi cũ dọc quốc lộ 37B đến xã Hiển Khánh; năm 2026 lần đầu nâng thành lễ hội kéo dài mùng 6 đến mùng 8 tháng Giêng và lần đầu tổ chức khai mạc; xã phân luồng giao thông, bảo đảm an ninh.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baotintuc.vn/cho-vieng-phien-cho-doc-dao-bac-nhat-vung-dong-bang-bac-bo-post897674.html",
+        "quote": "Tin tức – TTXVN (đọc 14/10/2026): Chợ Viềng Xuân 2026 tại xã Vụ Bản, tỉnh Ninh Bình diễn ra từ tối 22 đến 24/2/2026 (mùng 6 đến mùng 8 tháng Giêng Bính Ngọ); sách Tục lệ xã An Thái năm 1850 gọi chợ là 'Thiên Tiên thị'; năm 1893 được nhắc trong Nam Định dư địa chí mục lục; chợ xưa từ đình ông Khổng đến trước Phủ Tiên Hương, gắn tín ngưỡng thờ Thánh Nguyễn Minh Không; hàng truyền thống là đồ đồng, đồ sắt, nông cụ (đúc đồng Tống Xá, rèn Bảo Ngũ, Vân Chàng, sơn mài, gỗ La Xuyên); gian hàng đồ cũ 'bán rủi mua may'; cây giống, cây cảnh từ Nam Điền, Nam Trực; quan niệm đi chợ không mua gì sẽ không may; gắn quần thể Phủ Dầy thờ Thánh Mẫu Liễu Hạnh; có đánh đu, tổ tôm điếm, cờ người, hát chầu văn.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/ve-vu-ban-tray-hoi-cho-vieng.htm",
+        "quote": "VnEconomy (đọc 14/10/2026): Chợ Viềng Xuân tại xã Vụ Bản, tỉnh Ninh Bình diễn ra ba ngày từ tối 22 đến 24/2/2026 (mùng 6 đến mùng 8 tháng Giêng Bính Ngọ), tổ chức ba ngày là điểm mới so với mọi năm; dân gian gọi Chợ Viềng Phủ, Chợ Viềng Xuân – phiên chợ chỉ họp một lần đêm mùng 7 rạng sáng mùng 8; mặt hàng đồ đồng, đồ sắt, nông cụ, đồ gia dụng cũ, cây giống, cây cảnh; có khu ẩm thực dân gian; gắn quần thể di tích Phủ Dầy.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00768"
+  }
+}

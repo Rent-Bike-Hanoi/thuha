@@ -1,0 +1,145 @@
+{
+  "writer": "writer-D3",
+  "queued": "2026-10-14T06:39:15.684063+00:00",
+  "topic": {
+    "topic_id": "TM-00772",
+    "url": "/du-lich/den-sinh-den-hoa-chi-linh-cach-con-son-1-km-hoi-6-8-thang-5-am-lich/",
+    "title": "Đền Sinh – đền Hóa Chí Linh: cách Côn Sơn 1 km, hội 6–8 tháng 5 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền sinh đền hóa",
+    "secondary_keywords": [
+      "đền sinh đền hóa chí linh",
+      "đền sinh chí linh",
+      "đền hóa an mô",
+      "lễ hội đền sinh đền hóa",
+      "thánh phi bồng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy đến Côn Sơn – Kiếp Bạc muốn ghé thêm đền Sinh – đền Hóa gần đó: đền ở đâu, thờ ai, truyền thuyết tảng đá sinh thánh, hội ngày nào.",
+    "information_gain": "Chưa có URL nào về đền Sinh – đền Hóa. /du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/ nói về Côn Sơn – Kiếp Bạc nhưng không nhắc cụm đền này. Bài mới: cụm đền thờ Thánh Phi Bồng ở thôn An Mô, xã Lê Lợi cũ, nay phường Trần Hưng Đạo (Hải Phòng), cách chùa Côn Sơn 1 km về phía Bắc, hai đền cách nhau khoảng 800 m trên sườn núi Ngũ Nhạc; đền Sinh có tảng đá tương truyền sinh Thánh (thờ Mẫu Thạch Bàn), đền Hóa thờ tượng Chu Phúc Uy; di tích quốc gia theo Quyết định 295/QĐ-BT ngày 12/2/1994; hội 6–8/5 âm lịch (năm 2024 là 11–13/6) có rước bài vị Trần Hưng Đạo đi cùng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/nhung-dieu-it-biet-ve-den-sinh-den-hoa-526773.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): đền Sinh, đền Hóa là quần thể di tích thờ Thánh Phi Bồng (đức Thánh An Mô), nay thuộc phường Trần Hưng Đạo (Hải Phòng), cách chùa Côn Sơn 1 km về phía Bắc; thần tích chép ngài sinh ra từ một viên đá, đám trẻ chăn trâu thấy đứa bé khóc trên tảng đá, sau bay lên trời; tại đền Sinh vẫn còn viên đá; văn bia cuối Nguyễn kể Phi Bồng là tướng Chu Phúc Uy thế kỷ 6 theo Lý Bí, hy sinh ngày 11/8 tại Việt Yên; di tích hiện còn kiến trúc thế kỷ 19 – đầu 20; đền Sinh hình chữ tam 3 tòa, thờ Mẫu Hoàng Thị Ba, có hai bia; đền Hóa quy mô lớn hơn, thờ tượng Chu Phúc Uy; lễ hội 3 ngày từ 6–8/5 âm lịch kỷ niệm ngày sinh, rước thần vị từ đền Sinh xuống đền Hóa, rước long bài vị Trần Hưng Đạo đi cùng; có chọi gà, đập niêu, cờ tướng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov4.vov.vn/du-lich-vung-cao/ve-dep-cua-ngoi-den-sinh-450048.vov4",
+        "quote": "VOV4 (đọc 14/10/2026): đền Mẫu Sinh ở thôn An Mô, xã Lê Lợi, thành phố Chí Linh, Hải Dương, thờ Đức Thánh Mẫu Thạch Bàn – tượng đá tự nhiên; đền Hóa thờ Đức Thánh Phi Bồng Hiệu Thiên; hai đền cách nhau chừng 800 m; bia Ngọc Phả ghi khối đá vuông như chiếu lớn, hài nhi khóc như chuông vào giờ Dần ngày 8/5; thời Trần Thánh phù trợ Trần Hưng Đạo đánh Nguyên Mông; năm 1994 đền Sinh, đền Hóa được công nhận di tích lịch sử văn hóa và danh thắng quốc gia theo Quyết định 295/QĐ-BT ngày 12/2/1994; đền nằm lưng chừng núi Ngũ Nhạc, nhìn hướng Đông Bắc, kiến trúc chữ tam 3 tòa, sau tam quan là đền trình; lễ cổ truyền 6–8/5 âm lịch; người dân đến cầu con cái.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/le-hoi-den-sinh-den-hoa-chi-linh-se-dien-ra-tu-ngay-11-13-6-384181.html",
+        "quote": "Báo Hải Phòng (2024, đọc 14/10/2026): từ 11–13/6/2024 UBND TP Chí Linh tổ chức lễ hội đền Sinh – đền Hóa tại xã Lê Lợi; ngày 11/6 (6/5 âm lịch) lễ cáo yết, tế khai hội và thực hành tín ngưỡng thờ Mẫu tam phủ; 12/6 lễ mộc dục và giải thể thao; 13/6 lễ dâng hương tưởng niệm Đức Thánh Phi Bồng Hiệu Thiên và lễ rước truyền thống; 5 thanh đồng đăng ký thực hành tín ngưỡng thờ Mẫu; theo lịch sử và thần tích đền ra đời từ thế kỷ XI, di tích hiện nay trùng tu thế kỷ XIX – đầu XX.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền sinh đền hóa"
+      }
+    ],
+    "notes": "Niên đại ra đời chênh: 'thế kỷ 6' (bài 'Những điều ít biết') vs 'thế kỷ XI' (bài lễ hội 2024) – nêu là truyền thuyết/thần tích, kiến trúc hiện còn thế kỷ XIX–XX. Lịch hội 2026 (20–22/6) chỉ thấy trên Facebook – không dùng; chỉ nêu quy luật 6–8/5 âm lịch và ví dụ 2024. Địa giới: xã Lê Lợi, TP Chí Linh (cũ) nay phường Trần Hưng Đạo, TP Hải Phòng. Không có nguồn về vé, gửi xe, giờ mở – không viết.",
+    "outline": [
+      "Câu trả lời ngắn: đền Sinh – đền Hóa ở đâu, thờ ai",
+      "Truyền thuyết tảng đá sinh Thánh Phi Bồng và tướng Chu Phúc Uy",
+      "Hai ngôi đền trên núi Ngũ Nhạc: kiến trúc và hiện vật",
+      "Lễ hội 6–8 tháng 5 âm lịch và rước bài vị Trần Hưng Đạo",
+      "Ghé thêm từ Côn Sơn – Kiếp Bạc bằng xe máy",
+      "Lưu ý và điều chưa rõ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/du-lich/van-mieu-mao-dien/",
+      "/du-lich/den-tranh-ninh-giang/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00772.json",
+  "draft_template": {
+    "id": "TM-00772",
+    "url": "/du-lich/den-sinh-den-hoa-chi-linh-cach-con-son-1-km-hoi-6-8-thang-5-am-lich/",
+    "title": "Đền Sinh – đền Hóa Chí Linh: cách Côn Sơn 1 km, hội 6–8 tháng 5 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền sinh đền hóa, đền sinh đền hóa chí linh, đền sinh chí linh, đền hóa an mô, lễ hội đền sinh đền hóa, thánh phi bồng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền Sinh – đền Hóa ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Truyền thuyết tảng đá sinh Thánh Phi Bồng và tướng Chu Phúc Uy",
+        "<p></p>"
+      ],
+      [
+        "Hai ngôi đền trên núi Ngũ Nhạc: kiến trúc và hiện vật",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 6–8 tháng 5 âm lịch và rước bài vị Trần Hưng Đạo",
+        "<p></p>"
+      ],
+      [
+        "Ghé thêm từ Côn Sơn – Kiếp Bạc bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý và điều chưa rõ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/nhung-dieu-it-biet-ve-den-sinh-den-hoa-526773.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): đền Sinh, đền Hóa là quần thể di tích thờ Thánh Phi Bồng (đức Thánh An Mô), nay thuộc phường Trần Hưng Đạo (Hải Phòng), cách chùa Côn Sơn 1 km về phía Bắc; thần tích chép ngài sinh ra từ một viên đá, đám trẻ chăn trâu thấy đứa bé khóc trên tảng đá, sau bay lên trời; tại đền Sinh vẫn còn viên đá; văn bia cuối Nguyễn kể Phi Bồng là tướng Chu Phúc Uy thế kỷ 6 theo Lý Bí, hy sinh ngày 11/8 tại Việt Yên; di tích hiện còn kiến trúc thế kỷ 19 – đầu 20; đền Sinh hình chữ tam 3 tòa, thờ Mẫu Hoàng Thị Ba, có hai bia; đền Hóa quy mô lớn hơn, thờ tượng Chu Phúc Uy; lễ hội 3 ngày từ 6–8/5 âm lịch kỷ niệm ngày sinh, rước thần vị từ đền Sinh xuống đền Hóa, rước long bài vị Trần Hưng Đạo đi cùng; có chọi gà, đập niêu, cờ tướng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vov4.vov.vn/du-lich-vung-cao/ve-dep-cua-ngoi-den-sinh-450048.vov4",
+        "quote": "VOV4 (đọc 14/10/2026): đền Mẫu Sinh ở thôn An Mô, xã Lê Lợi, thành phố Chí Linh, Hải Dương, thờ Đức Thánh Mẫu Thạch Bàn – tượng đá tự nhiên; đền Hóa thờ Đức Thánh Phi Bồng Hiệu Thiên; hai đền cách nhau chừng 800 m; bia Ngọc Phả ghi khối đá vuông như chiếu lớn, hài nhi khóc như chuông vào giờ Dần ngày 8/5; thời Trần Thánh phù trợ Trần Hưng Đạo đánh Nguyên Mông; năm 1994 đền Sinh, đền Hóa được công nhận di tích lịch sử văn hóa và danh thắng quốc gia theo Quyết định 295/QĐ-BT ngày 12/2/1994; đền nằm lưng chừng núi Ngũ Nhạc, nhìn hướng Đông Bắc, kiến trúc chữ tam 3 tòa, sau tam quan là đền trình; lễ cổ truyền 6–8/5 âm lịch; người dân đến cầu con cái.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/le-hoi-den-sinh-den-hoa-chi-linh-se-dien-ra-tu-ngay-11-13-6-384181.html",
+        "quote": "Báo Hải Phòng (2024, đọc 14/10/2026): từ 11–13/6/2024 UBND TP Chí Linh tổ chức lễ hội đền Sinh – đền Hóa tại xã Lê Lợi; ngày 11/6 (6/5 âm lịch) lễ cáo yết, tế khai hội và thực hành tín ngưỡng thờ Mẫu tam phủ; 12/6 lễ mộc dục và giải thể thao; 13/6 lễ dâng hương tưởng niệm Đức Thánh Phi Bồng Hiệu Thiên và lễ rước truyền thống; 5 thanh đồng đăng ký thực hành tín ngưỡng thờ Mẫu; theo lịch sử và thần tích đền ra đời từ thế kỷ XI, di tích hiện nay trùng tu thế kỷ XIX – đầu XX.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00772"
+  }
+}

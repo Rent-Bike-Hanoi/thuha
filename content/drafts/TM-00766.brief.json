@@ -1,0 +1,146 @@
+{
+  "writer": "writer-D2",
+  "queued": "2026-10-14T06:39:14.304684+00:00",
+  "topic": {
+    "topic_id": "TM-00766",
+    "url": "/du-lich/den-thanh-nguyen-gia-vien/",
+    "title": "Đền Thánh Nguyễn Gia Viễn: thờ Nguyễn Minh Không, hội 8–10 tháng 3 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền thánh nguyễn",
+    "secondary_keywords": [
+      "đền đức thánh nguyễn",
+      "đền thánh nguyễn ninh bình",
+      "đền thánh nguyễn gia viễn",
+      "lễ hội đền thánh nguyễn",
+      "nguyễn minh không gia viễn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Ninh Bình theo tuyến Bái Đính – Vân Long muốn ghé đền Thánh Nguyễn: đền ở xã nào sau sáp nhập, thờ ai, kiến trúc có gì đặc biệt, lễ hội ngày nào.",
+    "information_gain": "Chưa có URL nào về đền Thánh Nguyễn. Gần nhất là /du-lich/chua-bai-dinh-xe-dien/ (cùng gắn Nguyễn Minh Không), /du-lich/dam-van-long/ và /du-lich/chua-dich-long-ninh-binh/ (cùng Gia Viễn cũ). Bài mới: đền ở thôn Đàm Xá, xã Tiến Thắng cũ, nay xã Đại Hoàng; vốn là chùa Viên Quang xây năm 1121; kiến trúc 'nội công ngoại quốc', gác chuông thế kỷ XVI được coi là sớm nhất nước; 5 đợt đại trùng tu (đầu tiên 1637); di tích kiến trúc nghệ thuật quốc gia 1989; lễ hội 8–10/3 âm lịch là di sản phi vật thể quốc gia theo Quyết định 3986/QĐ-BVHTTDL ngày 10/12/2024; tour kết nối làng Sinh Dược.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://daihoang.ninhbinh.gov.vn/du-lich-dich-vu/le-hoi-den-thanh-nguyen-di-san-van-hoa-phi-vat-the-quoc-gia-170.html",
+        "quote": "Cổng TTĐT xã Đại Hoàng, Ninh Bình, 08/11/2025 (đọc 14/10/2026): lễ hội đền Thánh Nguyễn diễn ra từ mùng 8 đến 10 tháng 3 âm lịch; năm 1136 Thiền sư Nguyễn Minh Không chữa khỏi bệnh cho vua Lý Thần Tông, được phong Quốc sư; ngài được tôn là ông Tổ nghề đúc đồng; đền ở xã Tiến Thắng, huyện Gia Viễn, xây kiểu 'nội công ngoại quốc', hướng về Cố đô Hoa Lư, được xem là một trong 'Hoa Lư tứ trấn'; kiến trúc thời Hậu Lê; được công nhận Di tích kiến trúc nghệ thuật quốc gia năm 1989; ngày 10/12/2024 Bộ VHTTDL ra Quyết định 3986/QĐ-BVHTTDL công nhận lễ hội là Di sản văn hóa phi vật thể quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/75922/djen-thanh-nguyen-tuyet-tac-kien-truc-co-o-ninh-binh.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): đền Thánh Nguyễn (xã Đại Hoàng, tỉnh Ninh Bình) công nhận Di tích kiến trúc nghệ thuật quốc gia năm 1989; theo truyền thuyết năm 1121 Thiền sư Nguyễn Minh Không về quê Đàm Xá dựng chùa Viên Quang Tự, sau đổi thành đền thờ ông tại thôn Đàm Xá, xã Tiến Thắng, huyện Gia Viễn (nay xã Đại Hoàng); đền quay hướng Nam về Cố đô Hoa Lư; 4 tòa kiểu tiền nhất hậu công; Vọng Lâu 3 gian tương truyền là nhà cũ của Đức Thánh; đền chính 3 tòa 5 gian (tiền đường, trung đường, thượng điện), chạm khắc thế kỷ XVII; gác chuông 2 tầng 8 mái 3 gian, niên đại khoảng thế kỷ XVI, được coi là gác chuông sớm nhất nước ta; 5 đợt đại trùng tu ghi trên 5 văn bia, đợt đầu năm 1637 kéo dài 10 năm; toàn bộ cột, xà bằng gỗ lim; còn đèn đá, cột kinh, 2 sóc đá cổ, chân tảng thời Lý – Trần.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/49432",
+        "quote": "Cục Du lịch Quốc gia Việt Nam (đọc 14/10/2026): huyện Gia Viễn giới thiệu tour 'Tìm về cội nguồn Đức Thánh Nguyễn' kết nối đền Đức Thánh Nguyễn và HTX Sinh Dược; đền là ngôi đền cổ thuộc làng Điềm (nay thuộc xã Gia Tiến và Gia Thắng), thờ Thiền sư Nguyễn Minh Không, người chữa bệnh cho vua và được phong Quốc sư; đền được xếp hạng di tích kiến trúc nghệ thuật quốc gia tháng 2 năm 1989; làng nghề Sinh Dược dưới chân núi Bái Đính, xóm 4, xã Gia Sinh, gắn truyền thuyết Nguyễn Minh Không tìm thảo dược và lập chùa Bái Đính.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền thánh nguyễn"
+      }
+    ],
+    "notes": "Địa danh ghi khác nhau theo thời điểm: xã Gia Thắng – Gia Tiến (cũ), xã Tiến Thắng (sau sáp nhập xã 2019–2020), nay xã Đại Hoàng, tỉnh Ninh Bình – giải thích trong bài. Không có nguồn về giờ mở cửa, vé, gửi xe; không có khoảng cách từ Hà Nội hay từ Bái Đính – không viết km. 'Gác chuông sớm nhất nước ta' là nhận định của bài Bảo tàng Lịch sử – dẫn nguồn khi viết.",
+    "outline": [
+      "Câu trả lời ngắn: đền Thánh Nguyễn ở đâu, thờ ai",
+      "Nguyễn Minh Không: Quốc sư chữa bệnh cho vua, tổ nghề đúc đồng",
+      "Kiến trúc nội công ngoại quốc, Vọng Lâu, gác chuông thế kỷ XVI",
+      "Lễ hội 8–10 tháng 3 âm lịch – di sản phi vật thể quốc gia 2024",
+      "Đi xe máy kết hợp Bái Dính, Vân Long, Địch Lộng",
+      "Những điều chưa rõ và lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-bai-dinh-xe-dien/",
+      "/du-lich/dam-van-long/",
+      "/du-lich/chua-dich-long-ninh-binh/",
+      "/du-lich/co-do-hoa-lu/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00766.json",
+  "draft_template": {
+    "id": "TM-00766",
+    "url": "/du-lich/den-thanh-nguyen-gia-vien/",
+    "title": "Đền Thánh Nguyễn Gia Viễn: thờ Nguyễn Minh Không, hội 8–10 tháng 3 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền thánh nguyễn, đền đức thánh nguyễn, đền thánh nguyễn ninh bình, đền thánh nguyễn gia viễn, lễ hội đền thánh nguyễn, nguyễn minh không gia viễn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền Thánh Nguyễn ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Nguyễn Minh Không: Quốc sư chữa bệnh cho vua, tổ nghề đúc đồng",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc nội công ngoại quốc, Vọng Lâu, gác chuông thế kỷ XVI",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 8–10 tháng 3 âm lịch – di sản phi vật thể quốc gia 2024",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy kết hợp Bái Dính, Vân Long, Địch Lộng",
+        "<p></p>"
+      ],
+      [
+        "Những điều chưa rõ và lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://daihoang.ninhbinh.gov.vn/du-lich-dich-vu/le-hoi-den-thanh-nguyen-di-san-van-hoa-phi-vat-the-quoc-gia-170.html",
+        "quote": "Cổng TTĐT xã Đại Hoàng, Ninh Bình, 08/11/2025 (đọc 14/10/2026): lễ hội đền Thánh Nguyễn diễn ra từ mùng 8 đến 10 tháng 3 âm lịch; năm 1136 Thiền sư Nguyễn Minh Không chữa khỏi bệnh cho vua Lý Thần Tông, được phong Quốc sư; ngài được tôn là ông Tổ nghề đúc đồng; đền ở xã Tiến Thắng, huyện Gia Viễn, xây kiểu 'nội công ngoại quốc', hướng về Cố đô Hoa Lư, được xem là một trong 'Hoa Lư tứ trấn'; kiến trúc thời Hậu Lê; được công nhận Di tích kiến trúc nghệ thuật quốc gia năm 1989; ngày 10/12/2024 Bộ VHTTDL ra Quyết định 3986/QĐ-BVHTTDL công nhận lễ hội là Di sản văn hóa phi vật thể quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3096/75922/djen-thanh-nguyen-tuyet-tac-kien-truc-co-o-ninh-binh.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia (đọc 14/10/2026): đền Thánh Nguyễn (xã Đại Hoàng, tỉnh Ninh Bình) công nhận Di tích kiến trúc nghệ thuật quốc gia năm 1989; theo truyền thuyết năm 1121 Thiền sư Nguyễn Minh Không về quê Đàm Xá dựng chùa Viên Quang Tự, sau đổi thành đền thờ ông tại thôn Đàm Xá, xã Tiến Thắng, huyện Gia Viễn (nay xã Đại Hoàng); đền quay hướng Nam về Cố đô Hoa Lư; 4 tòa kiểu tiền nhất hậu công; Vọng Lâu 3 gian tương truyền là nhà cũ của Đức Thánh; đền chính 3 tòa 5 gian (tiền đường, trung đường, thượng điện), chạm khắc thế kỷ XVII; gác chuông 2 tầng 8 mái 3 gian, niên đại khoảng thế kỷ XVI, được coi là gác chuông sớm nhất nước ta; 5 đợt đại trùng tu ghi trên 5 văn bia, đợt đầu năm 1637 kéo dài 10 năm; toàn bộ cột, xà bằng gỗ lim; còn đèn đá, cột kinh, 2 sóc đá cổ, chân tảng thời Lý – Trần.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/49432",
+        "quote": "Cục Du lịch Quốc gia Việt Nam (đọc 14/10/2026): huyện Gia Viễn giới thiệu tour 'Tìm về cội nguồn Đức Thánh Nguyễn' kết nối đền Đức Thánh Nguyễn và HTX Sinh Dược; đền là ngôi đền cổ thuộc làng Điềm (nay thuộc xã Gia Tiến và Gia Thắng), thờ Thiền sư Nguyễn Minh Không, người chữa bệnh cho vua và được phong Quốc sư; đền được xếp hạng di tích kiến trúc nghệ thuật quốc gia tháng 2 năm 1989; làng nghề Sinh Dược dưới chân núi Bái Đính, xóm 4, xã Gia Sinh, gắn truyền thuyết Nguyễn Minh Không tìm thảo dược và lập chùa Bái Đính.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00766"
+  }
+}

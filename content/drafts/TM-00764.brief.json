@@ -1,0 +1,146 @@
+{
+  "writer": "writer-D1",
+  "queued": "2026-10-14T06:39:13.819287+00:00",
+  "topic": {
+    "topic_id": "TM-00764",
+    "url": "/du-lich/nha-tho-bac-trach-tien-hai/",
+    "title": "Nhà thờ Bác Trạch Tiền Hải: tháp chuông 61 m, dài 92,5 m, khánh thành 2013",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ bác trạch",
+    "secondary_keywords": [
+      "nhà thờ bác trạch thái bình",
+      "nhà thờ bác trạch tiền hải",
+      "đền thánh bác trạch",
+      "nhà thờ đẹp thái bình",
+      "giáo xứ bác trạch"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy về biển Đồng Châu, Cồn Vành muốn ghé nhà thờ Bác Trạch chụp ảnh: nhà thờ ở xã nào sau sáp nhập, kích thước, lịch sử giáo xứ, có vào bên trong được không.",
+    "information_gain": "Chưa có URL nào về nhà thờ Bác Trạch. Các bài nhà thờ hiện có là /du-lich/nha-tho-bui-chu/, /du-lich/nha-tho-da-phat-diem/, /du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/ (đều Nam Định – Ninh Bình). Bài mới: nhà thờ ở xã Vân Trường, Tiền Hải cũ, nay xã Tây Tiền Hải (Hưng Yên), cách thành phố Thái Bình khoảng 25 km; dài 92,5 m, rộng 32 m, hai tháp chuông 61 m, chuông lớn 3 tấn, đồng hồ đường kính 4 m; xây 7 năm, khánh thành tháng 10/2013; giáo họ có nhà thờ đầu tiên năm 1735; bên trong cần xin phép; kết hợp Cồn Vành, Đồng Châu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nha-tho-bac-trach-tua-nhu-troi-au-o-thai-binh-2339837.html",
+        "quote": "VietNamNet (đọc 14/10/2026): nhà thờ Bác Trạch cách trung tâm TP Thái Bình khoảng 25 km, thuộc xã Vân Trường, huyện Tiền Hải; xây dựng trong 7 năm, khánh thành tháng 10/2013; phong cách Gothic kết hợp kiến trúc Hy Lạp hai bên hông; dài 92,5 m, rộng 32 m, hai tháp chuông cao 61 m; quả chuông lớn nhất nặng 3 tấn; đồng hồ ở tiền sảnh đường kính 4 m; muốn tham quan bên trong cần được cho phép, bên ngoài chụp ảnh thoải mái; nên đi sáng sớm hoặc chiều tà; kết hợp Cồn Vành, Đồng Châu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://taytienhai.hungyen.gov.vn/nha-tho-bac-trach-ban-thanh-ca-bang-da-giua-mien-duyen-hai-c2158.html",
+        "quote": "Cổng TTĐT xã Tây Tiền Hải, tỉnh Hưng Yên (đọc 14/10/2026): nhà thờ Bác Trạch ở phía Đông Bắc huyện Tiền Hải cũ, nay thuộc xã Tây Tiền Hải, tỉnh Hưng Yên; cộng đoàn Công giáo hình thành khoảng thế kỷ XVII; năm 1735 dựng nhà thờ đầu tiên tường đất mái rạ; năm 1770 xây lại; trùng tu, mở rộng các năm 1880, 1895, 1938; đầu thế kỷ XXI xây thánh đường mới; bên trong có hàng trăm bức tranh kính, hệ thống tượng, phù điêu; các dịp Giáng sinh, Phục sinh, lễ kính Lòng Chúa Thương Xót quy tụ hàng vạn giáo dân và du khách.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/nha-tho-bac-trach-thai-binh-17340",
+        "quote": "MIA.vn (đọc 14/10/2026): nhà thờ Bác Trạch còn gọi Đền Thánh Lòng Chúa Thương Xót, xã Vân Trường, huyện Tiền Hải, cách thành phố Thái Bình 25 km; khánh thành ngày 13/10/2013 sau 7 năm xây dựng; dài 92,5 m, rộng 32 m, hai tháp chuông cao 61 m; dùng 46 vạn gạch, khoảng 350 tấn sắt, hơn 500 tấn vôi, gần 3.000 tấn xi măng; gần 100 tượng, phù điêu và hàng trăm tranh kính; tháp chuông có sáu quả chuông, quả lớn nhất nặng hơn 3 tấn.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà thờ bác trạch"
+      }
+    ],
+    "notes": "Phong cách kiến trúc được mô tả khác nhau (Gothic + Hy Lạp theo VietNamNet; Baroque theo MIA; Gothic + Baroque + Hy Lạp theo cổng xã) – viết 'kết hợp nhiều phong cách'. Không có giờ lễ chính thức từ nguồn đáng tin – không ghi giờ lễ. Không có khoảng cách từ Hà Nội – không viết km. Nhắc trang phục kín đáo, không vào trong giờ lễ nếu không dự lễ.",
+    "outline": [
+      "Câu trả lời ngắn: nhà thờ Bác Trạch ở đâu, có gì nổi bật",
+      "Kích thước và kiến trúc: tháp 61 m, chuông 3 tấn, tranh kính",
+      "Lịch sử giáo xứ từ nhà thờ mái rạ 1735 đến thánh đường 2013",
+      "Đi xe máy và kết hợp Cồn Vành, Đồng Châu, chùa Keo",
+      "Chụp ảnh và ứng xử khi vào nhà thờ",
+      "Những điều chưa rõ: giờ lễ, mùa đông khách"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bien-dong-chau/",
+      "/du-lich/nha-tho-bui-chu/",
+      "/du-lich/nha-tho-da-phat-diem/",
+      "/du-lich/chua-keo-thai-binh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00764.json",
+  "draft_template": {
+    "id": "TM-00764",
+    "url": "/du-lich/nha-tho-bac-trach-tien-hai/",
+    "title": "Nhà thờ Bác Trạch Tiền Hải: tháp chuông 61 m, dài 92,5 m, khánh thành 2013",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ bác trạch, nhà thờ bác trạch thái bình, nhà thờ bác trạch tiền hải, đền thánh bác trạch, nhà thờ đẹp thái bình, giáo xứ bác trạch",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: nhà thờ Bác Trạch ở đâu, có gì nổi bật",
+        "<p></p>"
+      ],
+      [
+        "Kích thước và kiến trúc: tháp 61 m, chuông 3 tấn, tranh kính",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử giáo xứ từ nhà thờ mái rạ 1735 đến thánh đường 2013",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy và kết hợp Cồn Vành, Đồng Châu, chùa Keo",
+        "<p></p>"
+      ],
+      [
+        "Chụp ảnh và ứng xử khi vào nhà thờ",
+        "<p></p>"
+      ],
+      [
+        "Những điều chưa rõ: giờ lễ, mùa đông khách",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nha-tho-bac-trach-tua-nhu-troi-au-o-thai-binh-2339837.html",
+        "quote": "VietNamNet (đọc 14/10/2026): nhà thờ Bác Trạch cách trung tâm TP Thái Bình khoảng 25 km, thuộc xã Vân Trường, huyện Tiền Hải; xây dựng trong 7 năm, khánh thành tháng 10/2013; phong cách Gothic kết hợp kiến trúc Hy Lạp hai bên hông; dài 92,5 m, rộng 32 m, hai tháp chuông cao 61 m; quả chuông lớn nhất nặng 3 tấn; đồng hồ ở tiền sảnh đường kính 4 m; muốn tham quan bên trong cần được cho phép, bên ngoài chụp ảnh thoải mái; nên đi sáng sớm hoặc chiều tà; kết hợp Cồn Vành, Đồng Châu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://taytienhai.hungyen.gov.vn/nha-tho-bac-trach-ban-thanh-ca-bang-da-giua-mien-duyen-hai-c2158.html",
+        "quote": "Cổng TTĐT xã Tây Tiền Hải, tỉnh Hưng Yên (đọc 14/10/2026): nhà thờ Bác Trạch ở phía Đông Bắc huyện Tiền Hải cũ, nay thuộc xã Tây Tiền Hải, tỉnh Hưng Yên; cộng đoàn Công giáo hình thành khoảng thế kỷ XVII; năm 1735 dựng nhà thờ đầu tiên tường đất mái rạ; năm 1770 xây lại; trùng tu, mở rộng các năm 1880, 1895, 1938; đầu thế kỷ XXI xây thánh đường mới; bên trong có hàng trăm bức tranh kính, hệ thống tượng, phù điêu; các dịp Giáng sinh, Phục sinh, lễ kính Lòng Chúa Thương Xót quy tụ hàng vạn giáo dân và du khách.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/nha-tho-bac-trach-thai-binh-17340",
+        "quote": "MIA.vn (đọc 14/10/2026): nhà thờ Bác Trạch còn gọi Đền Thánh Lòng Chúa Thương Xót, xã Vân Trường, huyện Tiền Hải, cách thành phố Thái Bình 25 km; khánh thành ngày 13/10/2013 sau 7 năm xây dựng; dài 92,5 m, rộng 32 m, hai tháp chuông cao 61 m; dùng 46 vạn gạch, khoảng 350 tấn sắt, hơn 500 tấn vôi, gần 3.000 tấn xi măng; gần 100 tượng, phù điêu và hàng trăm tranh kính; tháp chuông có sáu quả chuông, quả lớn nhất nặng hơn 3 tấn.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00764"
+  }
+}

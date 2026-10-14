@@ -1,0 +1,145 @@
+{
+  "writer": "writer-D4",
+  "queued": "2026-10-14T06:39:15.925257+00:00",
+  "topic": {
+    "topic_id": "TM-00773",
+    "url": "/du-lich/den-quat-gia-loc-tho-yet-kieu/",
+    "title": "Đền Quát Gia Lộc thờ Yết Kiêu: bãi bơi 2.000 m², hội thu 14–16/8 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền quát",
+    "secondary_keywords": [
+      "đền quát hải dương",
+      "đền quát yết kiêu",
+      "đền thờ yết kiêu gia lộc",
+      "lễ hội đền quát",
+      "bơi chải đền quát"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy qua Hải Dương cũ (Gia Lộc) muốn ghé đền Quát thờ Yết Kiêu: đền ở đâu, có gì (tượng trâu thần, bãi bơi, voi ngựa đá), hội xuân – hội thu ngày nào, lễ bơi chải ra sao.",
+    "information_gain": "Chưa có URL nào về đền Quát hay Yết Kiêu (ngoài câu nhắc trong bài Núi Bài Thơ). Gần nhất là /du-lich/den-tranh-ninh-giang/ và /du-lich/van-mieu-mao-dien/ (cùng Hải Dương cũ). Bài mới: đền ở thôn Hạ Bì (làng Quát), xã Yết Kiêu; Yết Kiêu tên thật Phạm Hữu Thế (1242–1301), 'Đệ nhất đô soái thủy quân'; đền tiền tế 7 gian, hậu cung 3 gian, khuôn viên 2.700 m², bãi bơi 2.000 m² bên sông Đinh Đào với voi đá, ngựa đá; tượng đôi trâu thần; di tích quốc gia (1989 theo TTĐN, 1998 theo Vietnam+ – ghi rõ); lễ hội là di sản phi vật thể quốc gia; hội xuân tháng Giêng, hội thu 14–16/8 âm lịch với bơi chải.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/den-quat-di-tich-lich-su-quoc-gia-tho-danh-tuong-yet-kieu-post594934.vnp",
+        "quote": "Vietnam+ (TTXVN, 2019, đọc 14/10/2026): đền Quát ở thôn Hạ Bì, xã Yết Kiêu, huyện Gia Lộc, thờ Yết Kiêu tên thật Phạm Hữu Thế (1242–1301), 'Đệ nhất đô soái thủy quân'; đền nằm trên gò đất vốn là bến đò xưa, trước mặt là sông Đinh Đào; khu di tích gồm đền chính và bãi bơi; trùng tu đời Nguyễn: tiền tế 7 gian, hậu cung 3 gian; bãi bơi rộng tới 2.000 m2 dọc bờ sông có đôi voi đá, ngựa đá và bệ ngự đặt kiệu; xếp hạng di tích quốc gia năm 1998; trong đền có tượng đôi trâu thần (tích nuốt lông trâu thần) và tượng công chúa Ngọc Loan; lễ hội có rước thủy, rước bộ, thi bơi chải; hội xuân 14–16 tháng Giêng, hội thu 14–16/8 âm lịch; năm 2019 hội thu 12–14/9.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/le-hoi-den-quat-tri-an-danh-tuong-yet-kieu-146437.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): sáng 10/9 (15/8 âm lịch) UBND huyện Gia Lộc khai mạc lễ hội truyền thống mùa thu đền Quát (xã Yết Kiêu), tổ chức lại sau hơn 2 năm dịch COVID-19; Yết Kiêu là tùy tướng, một trong hai tướng cầm cờ tiết chế của Trần Hưng Đạo (cùng Dã Tượng), được phong 'Trần triều hữu tướng, đệ nhất đô soái thủy quân, tước hầu', coi là thủy tổ Binh chủng Thủy quân; sinh ngày 13/2/1242, mồ côi cha năm 8 tuổi, chài lưới cào hến nuôi mẹ; truyền thuyết năm 15 tuổi nuốt lông trâu thần nên bơi lặn như đi trên đất.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://ttdn.vn/hoi-nhap-va-phat-trien/van-hoa-xa-hoi/hai-duong-le-hoi-den-quat-duoc-cong-nhan-la-di-san-van-hoa-phi-vat-the-quoc-gia-41426",
+        "quote": "Thông tin Đối ngoại – Ban Tuyên giáo Trung ương (đọc 14/10/2026): ngày 1/10 huyện Gia Lộc đón Bằng ghi danh Lễ hội đền Quát là di sản văn hóa phi vật thể quốc gia; Yết Kiêu (Phạm Hữu Thế, 1242–1301) người thôn Hạ Bì; đền tồn tại hơn 700 năm, tôn tạo thế kỷ XVII–XVIII, tu sửa triều Nguyễn, khuôn viên rộng 2.700 m2; xếp hạng di tích quốc gia ngày 28/1/1989; năm 2017 hoàn thành tu bổ 3 giai đoạn; lễ hội mùa Xuân 10–20 tháng Giêng, mùa Thu 14–16/8 âm lịch; tái hiện nghi lễ bơi chiềng và dâng cỗ hộp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền quát"
+      }
+    ],
+    "notes": "Mâu thuẫn: năm xếp hạng quốc gia 1998 (Vietnam+) vs 28/1/1989 (TTĐN); hội xuân 14–16 tháng Giêng (Vietnam+) vs 10–20 tháng Giêng (TTĐN); Vietnam+ ghi năm mất 1301 nhưng cũng viết 'mất ngày 28 tháng Chạp năm Quý Mão (1303)'. Nêu trong bài. Lịch hội 2026 (23–26/9) chỉ thấy trên Facebook – không dùng. Địa giới: xã Yết Kiêu, huyện Gia Lộc (cũ), nay thuộc TP Hải Phòng (theo Facebook 2025, không có nguồn chính thức đã đọc) – viết 'Hải Dương cũ'. Không có nguồn giờ mở, vé, km.",
+    "outline": [
+      "Câu trả lời ngắn: đền Quát ở đâu, thờ ai",
+      "Yết Kiêu – Phạm Hữu Thế và truyền thuyết lông trâu thần",
+      "Đền chính 7 gian, bãi bơi 2.000 m², voi ngựa đá",
+      "Lễ hội đền Quát: hội xuân, hội thu, bơi chải (di sản phi vật thể)",
+      "Đi xe máy từ Hà Nội kết hợp đền Tranh, Mao Điền",
+      "Lưu ý và những điều nguồn chưa thống nhất"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tranh-ninh-giang/",
+      "/du-lich/van-mieu-mao-dien/",
+      "/du-lich/con-son-kiep-bac-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00773.json",
+  "draft_template": {
+    "id": "TM-00773",
+    "url": "/du-lich/den-quat-gia-loc-tho-yet-kieu/",
+    "title": "Đền Quát Gia Lộc thờ Yết Kiêu: bãi bơi 2.000 m², hội thu 14–16/8 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền quát, đền quát hải dương, đền quát yết kiêu, đền thờ yết kiêu gia lộc, lễ hội đền quát, bơi chải đền quát",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: đền Quát ở đâu, thờ ai",
+        "<p></p>"
+      ],
+      [
+        "Yết Kiêu – Phạm Hữu Thế và truyền thuyết lông trâu thần",
+        "<p></p>"
+      ],
+      [
+        "Đền chính 7 gian, bãi bơi 2.000 m², voi ngựa đá",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội đền Quát: hội xuân, hội thu, bơi chải (di sản phi vật thể)",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội kết hợp đền Tranh, Mao Điền",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý và những điều nguồn chưa thống nhất",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/den-quat-di-tich-lich-su-quoc-gia-tho-danh-tuong-yet-kieu-post594934.vnp",
+        "quote": "Vietnam+ (TTXVN, 2019, đọc 14/10/2026): đền Quát ở thôn Hạ Bì, xã Yết Kiêu, huyện Gia Lộc, thờ Yết Kiêu tên thật Phạm Hữu Thế (1242–1301), 'Đệ nhất đô soái thủy quân'; đền nằm trên gò đất vốn là bến đò xưa, trước mặt là sông Đinh Đào; khu di tích gồm đền chính và bãi bơi; trùng tu đời Nguyễn: tiền tế 7 gian, hậu cung 3 gian; bãi bơi rộng tới 2.000 m2 dọc bờ sông có đôi voi đá, ngựa đá và bệ ngự đặt kiệu; xếp hạng di tích quốc gia năm 1998; trong đền có tượng đôi trâu thần (tích nuốt lông trâu thần) và tượng công chúa Ngọc Loan; lễ hội có rước thủy, rước bộ, thi bơi chải; hội xuân 14–16 tháng Giêng, hội thu 14–16/8 âm lịch; năm 2019 hội thu 12–14/9.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohaiphong.vn/le-hoi-den-quat-tri-an-danh-tuong-yet-kieu-146437.html",
+        "quote": "Báo Hải Phòng (đọc 14/10/2026): sáng 10/9 (15/8 âm lịch) UBND huyện Gia Lộc khai mạc lễ hội truyền thống mùa thu đền Quát (xã Yết Kiêu), tổ chức lại sau hơn 2 năm dịch COVID-19; Yết Kiêu là tùy tướng, một trong hai tướng cầm cờ tiết chế của Trần Hưng Đạo (cùng Dã Tượng), được phong 'Trần triều hữu tướng, đệ nhất đô soái thủy quân, tước hầu', coi là thủy tổ Binh chủng Thủy quân; sinh ngày 13/2/1242, mồ côi cha năm 8 tuổi, chài lưới cào hến nuôi mẹ; truyền thuyết năm 15 tuổi nuốt lông trâu thần nên bơi lặn như đi trên đất.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://ttdn.vn/hoi-nhap-va-phat-trien/van-hoa-xa-hoi/hai-duong-le-hoi-den-quat-duoc-cong-nhan-la-di-san-van-hoa-phi-vat-the-quoc-gia-41426",
+        "quote": "Thông tin Đối ngoại – Ban Tuyên giáo Trung ương (đọc 14/10/2026): ngày 1/10 huyện Gia Lộc đón Bằng ghi danh Lễ hội đền Quát là di sản văn hóa phi vật thể quốc gia; Yết Kiêu (Phạm Hữu Thế, 1242–1301) người thôn Hạ Bì; đền tồn tại hơn 700 năm, tôn tạo thế kỷ XVII–XVIII, tu sửa triều Nguyễn, khuôn viên rộng 2.700 m2; xếp hạng di tích quốc gia ngày 28/1/1989; năm 2017 hoàn thành tu bổ 3 giai đoạn; lễ hội mùa Xuân 10–20 tháng Giêng, mùa Thu 14–16/8 âm lịch; tái hiện nghi lễ bơi chiềng và dâng cỗ hộp.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00773"
+  }
+}

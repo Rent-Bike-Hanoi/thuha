@@ -1,0 +1,158 @@
+{
+  "writer": "writer-D1",
+  "queued": "2026-10-14T06:39:14.071989+00:00",
+  "topic": {
+    "topic_id": "TM-00765",
+    "url": "/du-lich/khu-luu-niem-nguyen-duc-canh-o-diem-dien/",
+    "title": "Khu lưu niệm Nguyễn Đức Cảnh ở Diêm Điền: nếp nhà xưa, giếng Ngọc, 1.600 m²",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu lưu niệm nguyễn đức cảnh",
+    "secondary_keywords": [
+      "khu lưu niệm đồng chí nguyễn đức cảnh",
+      "nguyễn đức cảnh diêm điền",
+      "khu lưu niệm nguyễn đức cảnh thái thụy",
+      "di tích diêm điền thái thụy",
+      "lăng mộ nguyễn đức cảnh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy về Diêm Điền, Thái Thụy (Thái Bình cũ) muốn thăm khu lưu niệm Nguyễn Đức Cảnh: ở đâu, có gì (nhà thờ tổ, giếng Ngọc, lăng mộ, nhà trưng bày), lịch sử nhân vật tóm tắt.",
+    "information_gain": "Chưa có URL nào về Nguyễn Đức Cảnh hay Diêm Điền. Gần nhất là /du-lich/bien-dong-chau/ và /du-lich/chua-keo-thai-binh/. Bài mới: khu lưu niệm tại làng Diêm Điền, nay xã Thái Thụy, tỉnh Hưng Yên; dựng trên đất hương hỏa của 8 gia đình, rộng 1.600 m² (nguồn khác 1.650 m²); gồm nhà thờ tổ 3 gian 26 m², nhà ngang nơi sinh 25 m², giếng Ngọc, nhà bia khắc bài 'Tạ từ ngôn', nhà lưu niệm, lăng mộ (hài cốt đưa về tháng 11/2007); ông sinh 2/2/1908, bị xử chém 31/7/1932 ở Hải Phòng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thaithuy.hungyen.gov.vn/khu-luu-niem-dong-chi-nguyen-duc-canh-c263.html",
+        "quote": "Cổng TTĐT xã Thái Thụy, tỉnh Hưng Yên (đọc 14/10/2026): Nguyễn Đức Cảnh sinh ngày 2/2/1908 tại làng Diêm Điền, tổng Hổ Đội, huyện Thụy Anh (nay là xã Thái Thụy, tỉnh Hưng Yên); học trường Hương học Cổ Am (Vĩnh Bảo), trường Thành Chung Nam Định; tháng 3/1929 thuộc Chi bộ Cộng sản đầu tiên 7 người tại 5D Hàm Long; 28/9/1929 được bầu Tổng thư ký Tổng Công hội Đỏ Bắc Kỳ; sau Hội nghị hợp nhất 3–7/2/1930 làm Bí thư Xứ ủy Bắc Kỳ, Bí thư Tỉnh bộ Hải Phòng; Ban quản lý Khu lưu niệm dâng hương tại đài tưởng niệm dịp tháng 7.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/vietnamese/tin-tuc/khu-luu-niem-dong-chi-nguyen-duc-canh-310229.html",
+        "quote": "Báo ảnh Việt Nam – TTXVN (đọc 14/10/2026): khu lưu niệm tại thị trấn Diêm Điền, huyện Thái Thụy; xây trên đất hương hỏa của 8 gia đình trong thân tộc, diện tích 1.600 m²; dựng lại nhà thờ Tổ (vốn là trường dạy học của thân sinh), nhà ở, nhà bếp trên nền đất cũ; có lăng mộ và nơi thờ Nguyễn Đức Cảnh cùng đồng chí Hồ Ngọc Lân; giếng nước phía sau nhà gọi là giếng Ngọc, nơi ông được sinh sáng mùng 1 Tết Mậu Thân (2/2/1908), nước ngọt trong dù vùng ven biển; bên giếng có bia đá khoảng 3 m x 5 m khắc bài 'Tạ từ ngôn'; ông bị chém sáng 31/7/1932 tại nhà lao Hải Phòng, 24 tuổi; là di tích lịch sử văn hóa cấp quốc gia.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/cong-doan/dau-an-sau-dam-ve-nguyen-duc-canh-tren-que-huong-diem-dien-655672.ldo",
+        "quote": "Lao Động (cuối 2018, kỷ niệm 110 năm ngày sinh, đọc 14/10/2026): Nguyễn Đức Cảnh là Chủ tịch đầu tiên của tổ chức Công đoàn Việt Nam, Tổng Biên tập đầu tiên của Báo Lao Động; khu lưu niệm rộng 1.600 m2 trên đất hương hỏa của 8 gia đình; khu Nhà tưởng niệm mới khánh thành đầu năm 2018; mỗi năm đón cả nghìn lượt khách; người trông coi là con cháu trong gia tộc.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyentourism.com.vn/khu-luu-niem-dong-chi-nguyen-duc-canh-c21545.html",
+        "quote": "Trung tâm Xúc tiến du lịch Hưng Yên (đọc 14/10/2026): khu lưu niệm gồm 3 gian nhà gỗ 26 m2 (nhà thờ tổ – trường dạy học của cụ Nguyễn Đức Tiết), 3 gian nhà ngang nơi sinh đồng chí, tường chình đất, vì kèo tre, 25 m2; nhà bếp, giếng nước, nhà bia, vườn hoa, khu nhà lưu niệm và lăng mộ, tổng diện tích 1.650 m2; tháng 11/2007 hài cốt được đưa về an nghỉ; nhà lưu niệm trưng bày bài báo Pháp, công trình nghiên cứu, hình ảnh pháp trường Hải Phòng; ông bị bắt 9/4/1931, viết cuốn 'Công nhân vận động' trong xà lim án chém, bị xử chém sáng 31/7/1932 tại Hải Phòng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "khu lưu niệm nguyễn đức cảnh"
+      }
+    ],
+    "notes": "Diện tích chênh: 1.600 m² (TTXVN, Lao Động) và 1.650 m² (Hưng Yên tourism) – nêu cả hai hoặc viết 'khoảng 1.600 m²' có dẫn nguồn. Không có nguồn về giờ mở cửa, vé (thường miễn phí nhưng không có nguồn – không khẳng định). Không có khoảng cách từ Hà Nội. Cấp xếp hạng: TTXVN ghi 'di tích lịch sử văn hóa cấp quốc gia' nhưng không có số quyết định – viết theo nguồn, không bịa số.",
+    "outline": [
+      "Câu trả lời ngắn: khu lưu niệm ở đâu, xem gì",
+      "Nguyễn Đức Cảnh là ai: 1908–1932 tóm tắt theo nguồn",
+      "Nếp nhà xưa, giếng Ngọc và bia 'Tạ từ ngôn'",
+      "Nhà lưu niệm và lăng mộ (từ 11/2007)",
+      "Đi xe máy về Diêm Điền, kết hợp biển Đồng Châu",
+      "Lưu ý ứng xử nơi tưởng niệm và điều chưa rõ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bien-dong-chau/",
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/den-tran-thai-binh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00765.json",
+  "draft_template": {
+    "id": "TM-00765",
+    "url": "/du-lich/khu-luu-niem-nguyen-duc-canh-o-diem-dien/",
+    "title": "Khu lưu niệm Nguyễn Đức Cảnh ở Diêm Điền: nếp nhà xưa, giếng Ngọc, 1.600 m²",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu lưu niệm nguyễn đức cảnh, khu lưu niệm đồng chí nguyễn đức cảnh, nguyễn đức cảnh diêm điền, khu lưu niệm nguyễn đức cảnh thái thụy, di tích diêm điền thái thụy, lăng mộ nguyễn đức cảnh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: khu lưu niệm ở đâu, xem gì",
+        "<p></p>"
+      ],
+      [
+        "Nguyễn Đức Cảnh là ai: 1908–1932 tóm tắt theo nguồn",
+        "<p></p>"
+      ],
+      [
+        "Nếp nhà xưa, giếng Ngọc và bia 'Tạ từ ngôn'",
+        "<p></p>"
+      ],
+      [
+        "Nhà lưu niệm và lăng mộ (từ 11/2007)",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy về Diêm Điền, kết hợp biển Đồng Châu",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý ứng xử nơi tưởng niệm và điều chưa rõ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thaithuy.hungyen.gov.vn/khu-luu-niem-dong-chi-nguyen-duc-canh-c263.html",
+        "quote": "Cổng TTĐT xã Thái Thụy, tỉnh Hưng Yên (đọc 14/10/2026): Nguyễn Đức Cảnh sinh ngày 2/2/1908 tại làng Diêm Điền, tổng Hổ Đội, huyện Thụy Anh (nay là xã Thái Thụy, tỉnh Hưng Yên); học trường Hương học Cổ Am (Vĩnh Bảo), trường Thành Chung Nam Định; tháng 3/1929 thuộc Chi bộ Cộng sản đầu tiên 7 người tại 5D Hàm Long; 28/9/1929 được bầu Tổng thư ký Tổng Công hội Đỏ Bắc Kỳ; sau Hội nghị hợp nhất 3–7/2/1930 làm Bí thư Xứ ủy Bắc Kỳ, Bí thư Tỉnh bộ Hải Phòng; Ban quản lý Khu lưu niệm dâng hương tại đài tưởng niệm dịp tháng 7.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/vietnamese/tin-tuc/khu-luu-niem-dong-chi-nguyen-duc-canh-310229.html",
+        "quote": "Báo ảnh Việt Nam – TTXVN (đọc 14/10/2026): khu lưu niệm tại thị trấn Diêm Điền, huyện Thái Thụy; xây trên đất hương hỏa của 8 gia đình trong thân tộc, diện tích 1.600 m²; dựng lại nhà thờ Tổ (vốn là trường dạy học của thân sinh), nhà ở, nhà bếp trên nền đất cũ; có lăng mộ và nơi thờ Nguyễn Đức Cảnh cùng đồng chí Hồ Ngọc Lân; giếng nước phía sau nhà gọi là giếng Ngọc, nơi ông được sinh sáng mùng 1 Tết Mậu Thân (2/2/1908), nước ngọt trong dù vùng ven biển; bên giếng có bia đá khoảng 3 m x 5 m khắc bài 'Tạ từ ngôn'; ông bị chém sáng 31/7/1932 tại nhà lao Hải Phòng, 24 tuổi; là di tích lịch sử văn hóa cấp quốc gia.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/cong-doan/dau-an-sau-dam-ve-nguyen-duc-canh-tren-que-huong-diem-dien-655672.ldo",
+        "quote": "Lao Động (cuối 2018, kỷ niệm 110 năm ngày sinh, đọc 14/10/2026): Nguyễn Đức Cảnh là Chủ tịch đầu tiên của tổ chức Công đoàn Việt Nam, Tổng Biên tập đầu tiên của Báo Lao Động; khu lưu niệm rộng 1.600 m2 trên đất hương hỏa của 8 gia đình; khu Nhà tưởng niệm mới khánh thành đầu năm 2018; mỗi năm đón cả nghìn lượt khách; người trông coi là con cháu trong gia tộc.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://hungyentourism.com.vn/khu-luu-niem-dong-chi-nguyen-duc-canh-c21545.html",
+        "quote": "Trung tâm Xúc tiến du lịch Hưng Yên (đọc 14/10/2026): khu lưu niệm gồm 3 gian nhà gỗ 26 m2 (nhà thờ tổ – trường dạy học của cụ Nguyễn Đức Tiết), 3 gian nhà ngang nơi sinh đồng chí, tường chình đất, vì kèo tre, 25 m2; nhà bếp, giếng nước, nhà bia, vườn hoa, khu nhà lưu niệm và lăng mộ, tổng diện tích 1.650 m2; tháng 11/2007 hài cốt được đưa về an nghỉ; nhà lưu niệm trưng bày bài báo Pháp, công trình nghiên cứu, hình ảnh pháp trường Hải Phòng; ông bị bắt 9/4/1931, viết cuốn 'Công nhân vận động' trong xà lim án chém, bị xử chém sáng 31/7/1932 tại Hải Phòng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00765"
+  }
+}

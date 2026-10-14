@@ -1,0 +1,146 @@
+{
+  "writer": "writer-D3",
+  "queued": "2026-10-14T06:39:14.996565+00:00",
+  "topic": {
+    "topic_id": "TM-00769",
+    "url": "/du-lich/nha-tho-chinh-toa-hai-phong/",
+    "title": "Nhà thờ Chính tòa Hải Phòng: Gothic không cột, chứa gần 900 người",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ chính tòa hải phòng",
+    "secondary_keywords": [
+      "nhà thờ lớn hải phòng",
+      "nhà thờ chính tòa giáo phận hải phòng",
+      "nhà thờ nữ vương rất thánh mân côi",
+      "nhà thờ hải phòng hoàng văn thụ",
+      "điểm tham quan trung tâm hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy xuống trung tâm Hải Phòng muốn ghé Nhà thờ Lớn: nhà thờ ở đâu, xây khi nào, kiến trúc có gì đặc biệt, bên trong có gì, kết hợp Bảo tàng, Nhà hát Lớn thế nào.",
+    "information_gain": "Chưa có URL nào về nhà thờ Chính tòa Hải Phòng. Các bài trung tâm Hải Phòng hiện có là /du-lich/nha-hat-lon-hai-phong/, /du-lich/bao-tang-hai-phong/, /du-lich/den-nghe-hai-phong/, /du-lich/chua-du-hang-hai-phong/. Bài mới: nhà thờ tước hiệu Nữ Vương Rất Thánh Mân Côi, do các thừa sai Đa Minh Tây Ban Nha xây theo Gothic; theo lược sử giáo phận, năm 1880 cha chính Salvador Masso Tế xây nhà thờ lớn, năm 1890 Tòa giám mục dời ra Hải Phòng, 1924 đổi tên giáo phận Hải Phòng; thiết kế không cột, chứa gần 900 người; 3 phần mộ giám mục trong nhà thờ; gần Bảo tàng Hải Phòng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://gphaiphong.org/chi-tiet/luoc-su-giao-phan-hai-phong",
+        "quote": "Giáo phận Hải Phòng – Lược sử giáo phận (đọc 14/10/2026): năm 1679 lập giáo phận Đông Đàng Ngoài; ngày 29/5/1883 lập giáo phận Bắc tách từ giáo phận Đông, Tòa giám mục đặt ở Hải Dương; 'năm 1880, cha chính Salvador Masso Tế đã xây nhà thờ lớn' ở Hải Phòng; năm 1890 Đức cha Terrès Hiến dời Tòa giám mục ra Hải Phòng; ngày 3/12/1924 Tòa Thánh đổi tên giáo phận Đông thành giáo phận Hải Phòng; năm 1953 Đức cha Giuse Trương Cao Đại làm giám mục Hải Phòng; năm 1956 Đức cha Phêrô Khuất Văn Tạo nhận giáo phận.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hpta.vn/rNDM1dg.html",
+        "quote": "Hiệp hội Du lịch Hải Phòng (đọc 14/10/2026): Nhà thờ Chính tòa Hải Phòng tước hiệu Nữ Vương Rất Thánh Mân Côi, do các cha thừa sai Đa Minh Tây Ban Nha xây theo lối Gothique, trùng tu nhiều lần; thiết kế không cột, chứa được gần 900 người; tượng Đức Mẹ Hải Phòng dưới chân tháp; hai bên hông 14 thánh giá phủ vàng và tranh kính màu; có hai tòa giám mục; trong nhà thờ có 3 phần mộ giám mục: Giuse Trương Cao Đại (mất 1969), Phêrô Maria Khuất Văn Tạo (mất 1977), Giuse Maria Nguyễn Tùng Cương (mất 1999); nằm giữa trung tâm nên khuôn viên khiêm tốn; sáng chủ nhật có lễ thiếu nhi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/ve-dep-vuot-thoi-gian-cua-nha-tho-chinh-toa-hai-phong-4362",
+        "quote": "MIA.vn (đọc 14/10/2026): Nhà thờ Chính tòa Hải Phòng nằm trên trục đường chính của thành phố, rất gần Bảo tàng Hải Phòng nên có thể tham quan cả hai trong một buổi; đi taxi, xe máy hay xe buýt đều thuận tiện; thiết kế không cột, chứa gần 900 người; 3 phần mộ giám mục dưới chân Tòa Chúa Giêsu; cửa chính, cửa sổ phong cách Gothique; kiến trúc tương tự Nhà thờ Hàm Long (Hà Nội).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà thờ chính tòa hải phòng"
+      }
+    ],
+    "notes": "Năm xây mâu thuẫn: lược sử giáo phận ghi nhà thờ lớn xây năm 1880; HPTA và MIA viết 'những năm 20 của thế kỷ XIX' (có vẻ sai); snippet tìm kiếm của gphaiphong nêu 'khởi công 1876' nhưng không có trong trang đã đọc – chỉ dùng mốc 1880 có dẫn nguồn và nói các nguồn khác nhau. Địa chỉ 46 Hoàng Văn Thụ chỉ thấy trên Wikipedia – không dùng số nhà, chỉ ghi 'phố Hoàng Văn Thụ, trung tâm thành phố' nếu writer tìm được nguồn khác, nếu không thì bỏ. Giờ lễ không có nguồn tin cậy – không ghi.",
+    "outline": [
+      "Câu trả lời ngắn: Nhà thờ Lớn Hải Phòng ở đâu, có gì",
+      "Lịch sử: giáo phận Đông, nhà thờ lớn 1880, Tòa giám mục 1890",
+      "Kiến trúc Gothic không cột, tranh kính, 3 phần mộ giám mục",
+      "Đi xe máy vào trung tâm và gửi xe (không nêu giá)",
+      "Kết hợp Bảo tàng, Nhà hát Lớn, đền Nghè trong nửa ngày",
+      "Ứng xử khi vào nhà thờ và điều chưa rõ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-hat-lon-hai-phong/",
+      "/du-lich/bao-tang-hai-phong/",
+      "/du-lich/den-nghe-hai-phong/",
+      "/du-lich/chua-du-hang-hai-phong/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00769.json",
+  "draft_template": {
+    "id": "TM-00769",
+    "url": "/du-lich/nha-tho-chinh-toa-hai-phong/",
+    "title": "Nhà thờ Chính tòa Hải Phòng: Gothic không cột, chứa gần 900 người",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ chính tòa hải phòng, nhà thờ lớn hải phòng, nhà thờ chính tòa giáo phận hải phòng, nhà thờ nữ vương rất thánh mân côi, nhà thờ hải phòng hoàng văn thụ, điểm tham quan trung tâm hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: Nhà thờ Lớn Hải Phòng ở đâu, có gì",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: giáo phận Đông, nhà thờ lớn 1880, Tòa giám mục 1890",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc Gothic không cột, tranh kính, 3 phần mộ giám mục",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy vào trung tâm và gửi xe (không nêu giá)",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp Bảo tàng, Nhà hát Lớn, đền Nghè trong nửa ngày",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi vào nhà thờ và điều chưa rõ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://gphaiphong.org/chi-tiet/luoc-su-giao-phan-hai-phong",
+        "quote": "Giáo phận Hải Phòng – Lược sử giáo phận (đọc 14/10/2026): năm 1679 lập giáo phận Đông Đàng Ngoài; ngày 29/5/1883 lập giáo phận Bắc tách từ giáo phận Đông, Tòa giám mục đặt ở Hải Dương; 'năm 1880, cha chính Salvador Masso Tế đã xây nhà thờ lớn' ở Hải Phòng; năm 1890 Đức cha Terrès Hiến dời Tòa giám mục ra Hải Phòng; ngày 3/12/1924 Tòa Thánh đổi tên giáo phận Đông thành giáo phận Hải Phòng; năm 1953 Đức cha Giuse Trương Cao Đại làm giám mục Hải Phòng; năm 1956 Đức cha Phêrô Khuất Văn Tạo nhận giáo phận.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hpta.vn/rNDM1dg.html",
+        "quote": "Hiệp hội Du lịch Hải Phòng (đọc 14/10/2026): Nhà thờ Chính tòa Hải Phòng tước hiệu Nữ Vương Rất Thánh Mân Côi, do các cha thừa sai Đa Minh Tây Ban Nha xây theo lối Gothique, trùng tu nhiều lần; thiết kế không cột, chứa được gần 900 người; tượng Đức Mẹ Hải Phòng dưới chân tháp; hai bên hông 14 thánh giá phủ vàng và tranh kính màu; có hai tòa giám mục; trong nhà thờ có 3 phần mộ giám mục: Giuse Trương Cao Đại (mất 1969), Phêrô Maria Khuất Văn Tạo (mất 1977), Giuse Maria Nguyễn Tùng Cương (mất 1999); nằm giữa trung tâm nên khuôn viên khiêm tốn; sáng chủ nhật có lễ thiếu nhi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://mia.vn/cam-nang-du-lich/ve-dep-vuot-thoi-gian-cua-nha-tho-chinh-toa-hai-phong-4362",
+        "quote": "MIA.vn (đọc 14/10/2026): Nhà thờ Chính tòa Hải Phòng nằm trên trục đường chính của thành phố, rất gần Bảo tàng Hải Phòng nên có thể tham quan cả hai trong một buổi; đi taxi, xe máy hay xe buýt đều thuận tiện; thiết kế không cột, chứa gần 900 người; 3 phần mộ giám mục dưới chân Tòa Chúa Giêsu; cửa chính, cửa sổ phong cách Gothique; kiến trúc tương tự Nhà thờ Hàm Long (Hà Nội).",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00769"
+  }
+}
