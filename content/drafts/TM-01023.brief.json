@@ -1,0 +1,158 @@
+{
+  "writer": "wQ",
+  "queued": "2026-10-14T17:25:08.027558+00:00",
+  "topic": {
+    "topic_id": "TM-01023",
+    "url": "/du-lich/bao-tang-thanh-hoa/",
+    "title": "Bảo tàng tỉnh Thanh Hóa: 3 bảo vật quốc gia, vạc đồng Cẩm Thủy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng tỉnh thanh hóa",
+    "secondary_keywords": [
+      "bảo tàng thanh hóa",
+      "vạc đồng cẩm thủy",
+      "kiếm ngắn núi nưa",
+      "trống đồng cẩm giang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lam Kinh, Hàm Rồng hoặc thành Nhà Hồ muốn biết Bảo tàng tỉnh Thanh Hóa có gì đáng xem, nhất là các bảo vật quốc gia.",
+    "information_gain": "/du-lich/khu-di-tich-lam-kinh/, /du-lich/ham-rong-thanh-hoa/ và /du-lich/thanh-nha-ho-thanh-hoa/ nói về di tích ngoài trời, chưa có bài về bảo tàng tỉnh. Bài mới thêm: quy mô hơn 30.000 hiện vật, hơn 2.000 đang trưng bày; mô tả cụ thể 3 bảo vật quốc gia (vạc Cẩm Thủy miệng 134,4 cm, nặng có thể khoảng 1 tấn; kiếm núi Nưa dài 46,5 cm chuôi hình người phụ nữ; trống vịt Cẩm Giang khoảng 2.000 năm); ứng dụng thực tế ảo từ 2022; học sinh chiếm 60–70% khách — để người đọc biết cần dành bao lâu và nhìn gì.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/sau-lam-kinh-du-khach-di-dau-de-hieu-them-ve-xu-thanh-271449.html",
+        "quote": "Báo Văn Hóa, 'Sau Lam Kinh, du khách đi đâu để hiểu thêm về xứ Thanh?' (4/10/2026, đọc 13/10/2026): Bảo tàng tỉnh lưu giữ hơn 30.000 hiện vật, hơn 2.000 hiện vật được chọn trưng bày; 3 bảo vật quốc gia đang trưng bày: vạc đồng Cẩm Thủy, kiếm ngắn núi Nưa, trống đồng Cẩm Giang; vạc có đường kính miệng 134,4 cm, đáy 115 cm, cao 79,8 cm, nặng có thể khoảng 1 tấn, được đánh giá lớn nhất Việt Nam, bàn giao cho bảo tàng 1/8/2002.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/sau-lam-kinh-du-khach-di-dau-de-hieu-them-ve-xu-thanh-271449.html",
+        "quote": "Báo Văn Hóa (4/10/2026, đọc 13/10/2026): kiếm núi Nưa sưu tầm năm 1961 dưới chân núi Nưa (Triệu Sơn), hiện vật độc bản văn hóa Đông Sơn; dài 46,5 cm, rộng 5 cm, cán dài 18 cm; cán là tượng người phụ nữ đúc liền lưỡi; núi Nưa gắn với căn cứ khởi nghĩa Bà Triệu năm 248.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/ba-bao-vat-quoc-gia-ke-chuyen-bang-cong-nghe-so-192463.html",
+        "quote": "Báo Văn Hóa, 'Ba bảo vật quốc gia kể chuyện bằng công nghệ số' (25/12/2025, đọc 13/10/2026): trống đồng Cẩm Giang (trống vịt) là hiện vật gốc độc bản khoảng 2.000 năm, mặt trống có 4 khối tượng vịt; từ năm 2022 ba bảo vật được số hóa, tích hợp thực tế ảo cho khách xem 3D.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/noi-chap-canh-tinh-yeu-van-hoa-lich-su-cho-hoc-sinh-sinh-vien-123071.html",
+        "quote": "Báo Văn Hóa (7/3/2025, đọc 13/10/2026): bảo tàng lưu giữ khoảng 30.000 hiện vật, có 3 bảo vật quốc gia; học sinh, sinh viên chiếm 60–70% khách; có chương trình giáo dục như 'Văn hóa Đông Sơn và câu chuyện trống đồng'; năm 2025 dự kiến 4–5 cuộc trưng bày chuyên đề.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bảo tàng tỉnh thanh hóa"
+      }
+    ],
+    "notes": "Nguồn không có địa chỉ, giờ mở cửa, vé — không ghi; gọi trước. Hai con số kho (30.000 và 'hơn 30.000') khác nhẹ giữa các bài — ghi 'khoảng/hơn 30.000'. Không có khoảng cách Hà Nội–Thanh Hóa từ nguồn đã đọc.",
+    "outline": [
+      "Bảo tàng tỉnh Thanh Hóa có gì: con số chính",
+      "Vạc đồng Cẩm Thủy: chiếc vạc lớn nhất Việt Nam",
+      "Kiếm núi Nưa và câu chuyện Bà Triệu",
+      "Trống vịt Cẩm Giang",
+      "Xem bảo vật bằng thực tế ảo",
+      "Ghép với Lam Kinh, Hàm Rồng trong chuyến xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01023.json",
+  "draft_template": {
+    "id": "TM-01023",
+    "url": "/du-lich/bao-tang-thanh-hoa/",
+    "title": "Bảo tàng tỉnh Thanh Hóa: 3 bảo vật quốc gia, vạc đồng Cẩm Thủy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng tỉnh thanh hóa, bảo tàng thanh hóa, vạc đồng cẩm thủy, kiếm ngắn núi nưa, trống đồng cẩm giang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng tỉnh Thanh Hóa có gì: con số chính",
+        "<p></p>"
+      ],
+      [
+        "Vạc đồng Cẩm Thủy: chiếc vạc lớn nhất Việt Nam",
+        "<p></p>"
+      ],
+      [
+        "Kiếm núi Nưa và câu chuyện Bà Triệu",
+        "<p></p>"
+      ],
+      [
+        "Trống vịt Cẩm Giang",
+        "<p></p>"
+      ],
+      [
+        "Xem bảo vật bằng thực tế ảo",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Lam Kinh, Hàm Rồng trong chuyến xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/sau-lam-kinh-du-khach-di-dau-de-hieu-them-ve-xu-thanh-271449.html",
+        "quote": "Báo Văn Hóa, 'Sau Lam Kinh, du khách đi đâu để hiểu thêm về xứ Thanh?' (4/10/2026, đọc 13/10/2026): Bảo tàng tỉnh lưu giữ hơn 30.000 hiện vật, hơn 2.000 hiện vật được chọn trưng bày; 3 bảo vật quốc gia đang trưng bày: vạc đồng Cẩm Thủy, kiếm ngắn núi Nưa, trống đồng Cẩm Giang; vạc có đường kính miệng 134,4 cm, đáy 115 cm, cao 79,8 cm, nặng có thể khoảng 1 tấn, được đánh giá lớn nhất Việt Nam, bàn giao cho bảo tàng 1/8/2002.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/sau-lam-kinh-du-khach-di-dau-de-hieu-them-ve-xu-thanh-271449.html",
+        "quote": "Báo Văn Hóa (4/10/2026, đọc 13/10/2026): kiếm núi Nưa sưu tầm năm 1961 dưới chân núi Nưa (Triệu Sơn), hiện vật độc bản văn hóa Đông Sơn; dài 46,5 cm, rộng 5 cm, cán dài 18 cm; cán là tượng người phụ nữ đúc liền lưỡi; núi Nưa gắn với căn cứ khởi nghĩa Bà Triệu năm 248.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/ba-bao-vat-quoc-gia-ke-chuyen-bang-cong-nghe-so-192463.html",
+        "quote": "Báo Văn Hóa, 'Ba bảo vật quốc gia kể chuyện bằng công nghệ số' (25/12/2025, đọc 13/10/2026): trống đồng Cẩm Giang (trống vịt) là hiện vật gốc độc bản khoảng 2.000 năm, mặt trống có 4 khối tượng vịt; từ năm 2022 ba bảo vật được số hóa, tích hợp thực tế ảo cho khách xem 3D.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/noi-chap-canh-tinh-yeu-van-hoa-lich-su-cho-hoc-sinh-sinh-vien-123071.html",
+        "quote": "Báo Văn Hóa (7/3/2025, đọc 13/10/2026): bảo tàng lưu giữ khoảng 30.000 hiện vật, có 3 bảo vật quốc gia; học sinh, sinh viên chiếm 60–70% khách; có chương trình giáo dục như 'Văn hóa Đông Sơn và câu chuyện trống đồng'; năm 2025 dự kiến 4–5 cuộc trưng bày chuyên đề.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01023"
+  }
+}

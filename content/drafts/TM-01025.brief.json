@@ -1,0 +1,145 @@
+{
+  "writer": "wQ",
+  "queued": "2026-10-14T17:25:08.842539+00:00",
+  "topic": {
+    "topic_id": "TM-01025",
+    "url": "/du-lich/bao-tang-dong-que-giao-thuy/",
+    "title": "Bảo tàng Đồng Quê Giao Thủy: 6.000 m² ký ức làng quê Bắc Bộ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng đồng quê",
+    "secondary_keywords": [
+      "bảo tàng đồng quê giao thủy",
+      "bảo tàng đồng quê nam định",
+      "bảo tàng nông cụ xưa",
+      "giao thịnh giao thủy"
+    ],
+    "intent": "informational",
+    "user_problem": "Gia đình có con nhỏ đi biển Quất Lâm hoặc Xuân Thủy muốn ghé một bảo tàng nông thôn để con xem cày bừa, nhà tranh xưa: ở đâu, rộng bao nhiêu, có gì.",
+    "information_gain": "Chưa bài/row nào về Bảo tàng Đồng Quê; /du-lich/den-tran-nam-dinh-di-xe-may/ không đi xuống Giao Thủy. Bài mới cho: vị trí thôn Bỉnh Di, xã Giao Thịnh; quy mô khoảng 6.000 m², ba khu (ngoài trời, trong nhà 4 tầng, ẩm thực); khoảng 10.000 hiện vật, khoảng 25.000 lượt khách/năm; mô hình nhà bần nông – trung nông – địa chủ, hầm chữ A; câu chuyện bà Ngô Thị Khiếu và tướng Hoàng Kiền lập bảo tàng ra đời 4/2/2013.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/doc-dao-bao-tang-dong-que-post790398.html",
+        "quote": "Nhân Dân, 'Độc đáo Bảo tàng Đồng quê' (2/1/2024, đọc 13/10/2026): bảo tàng ở thôn Bỉnh Di, xã Giao Thịnh, rộng khoảng 6.000 m², gồm khu trưng bày ngoài trời, trong nhà và khu văn hóa ẩm thực đồng quê; là một trong những bảo tàng tư nhân quy mô lớn; khu trong nhà là công trình bốn tầng: tầng một kỷ vật 'đời chiến sĩ', tầng hai, ba hàng nghìn hiện vật nông nghiệp Bắc Bộ; hiện có khoảng 10.000 hiện vật, mỗi năm đón khoảng 25.000 lượt khách; bảo tàng tự cấy tám sào ruộng.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/ky-3-nhung-cay-cau-tham-dam-tinh-yeu-xu-so-post771237.html",
+        "quote": "Nhân Dân (8/9/2023, đọc 13/10/2026): Bảo tàng Đồng Quê (xã Giao Thịnh, huyện Giao Thủy) ra đời ngày 4/2/2013 do Thiếu tướng, Anh hùng LLVTND Hoàng Kiền (và gia đình) lập; lưu giữ hàng vạn hiện vật trong nhà và ngoài trời: thúng, mủng, giần, sàng, mâm đồng, cối đá, cày, bừa, vó cất, lờ cá, nhà rạ mái gianh; kết nối với Vườn quốc gia Xuân Thủy, Nhà lưu niệm Trường Chinh.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/mua-do-dong-nat-ve-lam-bao-tang-2393894.html",
+        "quote": "VnExpress, 'Mua đồ đồng nát về làm bảo tàng' (26/11/2012, đọc 13/10/2026): khuôn viên 5.000 m² tại làng Bỉnh Di, xã Giao Thịnh; cô Khiếu khởi công năm 2011, thiết kế 5 kiểu nhà tái hiện các giai đoạn phát triển nông thôn; có kênh nhân tạo, hàng trăm loại cây, hầm chữ A tái hiện nơi tránh bom.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bảo tàng đồng quê"
+      }
+    ],
+    "notes": "Diện tích lệch: 5.000 m² (VnExpress 2012, lúc đang xây) và khoảng 6.000 m² (Nhân Dân 2024) — dùng số mới, ghi chú số cũ. Số hiện vật lệch: 'khoảng 10.000' (2024) và 'hàng vạn' (2023) — dùng 'khoảng 10.000'. Không có giờ mở cửa; giá vé trong trang du lịch/VnExpress cũ bị bỏ theo brief. Không có khoảng cách từ Hà Nội. Huyện Giao Thủy có thể đã đổi đơn vị hành chính sau 2025.",
+    "outline": [
+      "Bảo tàng Đồng Quê ở đâu",
+      "Ai lập và vì sao",
+      "Ba khu trưng bày: ngoài trời, nhà 4 tầng, ẩm thực",
+      "Nông cụ, nhà tranh và hầm chữ A: cho trẻ xem gì",
+      "Ghép với biển và Vườn quốc gia Xuân Thủy",
+      "Lưu ý khi đi xe máy đường quê"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/thue-xe-may/ha-noi/theo-ngay/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01025.json",
+  "draft_template": {
+    "id": "TM-01025",
+    "url": "/du-lich/bao-tang-dong-que-giao-thuy/",
+    "title": "Bảo tàng Đồng Quê Giao Thủy: 6.000 m² ký ức làng quê Bắc Bộ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng đồng quê, bảo tàng đồng quê giao thủy, bảo tàng đồng quê nam định, bảo tàng nông cụ xưa, giao thịnh giao thủy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Đồng Quê ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Ai lập và vì sao",
+        "<p></p>"
+      ],
+      [
+        "Ba khu trưng bày: ngoài trời, nhà 4 tầng, ẩm thực",
+        "<p></p>"
+      ],
+      [
+        "Nông cụ, nhà tranh và hầm chữ A: cho trẻ xem gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép với biển và Vườn quốc gia Xuân Thủy",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xe máy đường quê",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/doc-dao-bao-tang-dong-que-post790398.html",
+        "quote": "Nhân Dân, 'Độc đáo Bảo tàng Đồng quê' (2/1/2024, đọc 13/10/2026): bảo tàng ở thôn Bỉnh Di, xã Giao Thịnh, rộng khoảng 6.000 m², gồm khu trưng bày ngoài trời, trong nhà và khu văn hóa ẩm thực đồng quê; là một trong những bảo tàng tư nhân quy mô lớn; khu trong nhà là công trình bốn tầng: tầng một kỷ vật 'đời chiến sĩ', tầng hai, ba hàng nghìn hiện vật nông nghiệp Bắc Bộ; hiện có khoảng 10.000 hiện vật, mỗi năm đón khoảng 25.000 lượt khách; bảo tàng tự cấy tám sào ruộng.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/ky-3-nhung-cay-cau-tham-dam-tinh-yeu-xu-so-post771237.html",
+        "quote": "Nhân Dân (8/9/2023, đọc 13/10/2026): Bảo tàng Đồng Quê (xã Giao Thịnh, huyện Giao Thủy) ra đời ngày 4/2/2013 do Thiếu tướng, Anh hùng LLVTND Hoàng Kiền (và gia đình) lập; lưu giữ hàng vạn hiện vật trong nhà và ngoài trời: thúng, mủng, giần, sàng, mâm đồng, cối đá, cày, bừa, vó cất, lờ cá, nhà rạ mái gianh; kết nối với Vườn quốc gia Xuân Thủy, Nhà lưu niệm Trường Chinh.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/mua-do-dong-nat-ve-lam-bao-tang-2393894.html",
+        "quote": "VnExpress, 'Mua đồ đồng nát về làm bảo tàng' (26/11/2012, đọc 13/10/2026): khuôn viên 5.000 m² tại làng Bỉnh Di, xã Giao Thịnh; cô Khiếu khởi công năm 2011, thiết kế 5 kiểu nhà tái hiện các giai đoạn phát triển nông thôn; có kênh nhân tạo, hàng trăm loại cây, hầm chữ A tái hiện nơi tránh bom.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01025"
+  }
+}

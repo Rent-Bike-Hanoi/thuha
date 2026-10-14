@@ -1,0 +1,158 @@
+{
+  "writer": "wQ",
+  "queued": "2026-10-14T17:25:09.688183+00:00",
+  "topic": {
+    "topic_id": "TM-01026",
+    "url": "/du-lich/bao-tang-tinh-lao-cai/",
+    "title": "Bảo tàng tỉnh Lào Cai: hơn 20 nghìn hiện vật, trống đồng Pha Long",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng tỉnh lào cai",
+    "secondary_keywords": [
+      "bảo tàng lào cai",
+      "trống đồng pha long",
+      "trống đồng gia phú",
+      "bảo tàng lào cai có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Sa Pa bằng xe máy muốn dừng ở thành phố Lào Cai nửa buổi và hỏi bảo tàng tỉnh có gì đáng xem.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/, /du-lich/ban-cat-cat-sa-pa/ và /du-lich/y-ty-lao-cai/ không nhắc bảo tàng tỉnh. Bài mới cho: tòa nhà gần 8.000 m² sàn dùng từ 2016 trong khu hành chính tỉnh, hơn 20 nghìn hiện vật, 2 bảo vật quốc gia (mặt trống Pha Long, trống Gia Phú), trưng bày thường xuyên về thiên nhiên – lịch sử – văn hóa dân tộc, lượng khách năm 2025 trên 40.000 — đủ để quyết định ghé hay không trên đường lên Sa Pa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/bai-viet/346238-bao-tang-tinh-huong-toi-la-trung-tam-nghien-cuu-van-hoa-vung-tay-bac",
+        "quote": "Báo Lào Cai (21/8/2021, đọc 13/10/2026): Bảo tàng tỉnh thành lập tháng 8/1992; sau 8 lần chuyển địa điểm, đến năm 2016 có trụ sở trong khu trung tâm hành chính tỉnh; lưu giữ, trưng bày hơn 20 nghìn hiện vật.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/lay-y-kien-xay-dung-bao-tang-tinh-lao-cai-thanh-mot-bao-tang-song-post367437.html",
+        "quote": "Báo Lào Cai (19/4/2023, đọc 13/10/2026): công trình bảo tàng hoàn thành, đưa vào sử dụng từ năm 2016 với gần 8.000 m² sàn, định hướng bổ sung không gian trưng bày ngoài trời; trưng bày thường xuyên giới thiệu thiên nhiên, lịch sử, văn hóa các dân tộc trong tỉnh; 4 chủ đề hội thảo: khảo cổ học, lịch sử xã hội, thiên nhiên – danh thắng, bản sắc dân tộc.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tren-40000-luot-khach-den-tham-quan-bao-tang-tinh-lao-cai-post888227.html",
+        "quote": "Báo Lào Cai (5/12/2025, đọc 13/10/2026): năm 2025 bảo tàng đón trên 40.000 lượt khách, bằng 111,2% kế hoạch; chuyển dần từ 'lưu giữ' sang 'tương tác, trải nghiệm'; có cơ sở 1 và cơ sở 2 (sưu tầm bổ sung 100 hiện vật ở cơ sở 1, 210 ở cơ sở 2).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/anh-nhung-bao-vat-quoc-gia-doc-song-hong-post398585.html",
+        "quote": "Báo Lào Cai (13/3/2025, đọc 13/10/2026): Lào Cai có 2 bảo vật quốc gia là mặt trống đồng Pha Long và trống đồng Gia Phú, lưu giữ tại Bảo tàng tỉnh Lào Cai; mặt trống Pha Long đường kính 74 cm, nặng 3,2 kg, văn hóa Đông Sơn khoảng 2.000–2.500 năm, phát hiện năm 1956.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bảo tàng tỉnh lào cai"
+      }
+    ],
+    "notes": "Không có địa chỉ cụ thể, giờ, vé. Sau sáp nhập (2025) Lào Cai gồm cả Yên Bái cũ; 'cơ sở 2' có thể là bảo tàng Yên Bái cũ nhưng nguồn không nói — không khẳng định; nếu viết cả hai, tránh trùng với bài Bảo tàng Yên Bái. Không ghi khoảng cách. Không nhắc khu vực cần giấy phép biên giới.",
+    "outline": [
+      "Bảo tàng tỉnh Lào Cai: lịch sử 8 lần chuyển nhà",
+      "Tòa nhà 2016 và các khu trưng bày",
+      "Hai bảo vật quốc gia: trống Pha Long, Gia Phú",
+      "Văn hóa các dân tộc vùng cao",
+      "Dừng ở Lào Cai trên đường lên Sa Pa",
+      "Lưu ý: gọi hỏi giờ, hai cơ sở"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01026.json",
+  "draft_template": {
+    "id": "TM-01026",
+    "url": "/du-lich/bao-tang-tinh-lao-cai/",
+    "title": "Bảo tàng tỉnh Lào Cai: hơn 20 nghìn hiện vật, trống đồng Pha Long",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng tỉnh lào cai, bảo tàng lào cai, trống đồng pha long, trống đồng gia phú, bảo tàng lào cai có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng tỉnh Lào Cai: lịch sử 8 lần chuyển nhà",
+        "<p></p>"
+      ],
+      [
+        "Tòa nhà 2016 và các khu trưng bày",
+        "<p></p>"
+      ],
+      [
+        "Hai bảo vật quốc gia: trống Pha Long, Gia Phú",
+        "<p></p>"
+      ],
+      [
+        "Văn hóa các dân tộc vùng cao",
+        "<p></p>"
+      ],
+      [
+        "Dừng ở Lào Cai trên đường lên Sa Pa",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: gọi hỏi giờ, hai cơ sở",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/bai-viet/346238-bao-tang-tinh-huong-toi-la-trung-tam-nghien-cuu-van-hoa-vung-tay-bac",
+        "quote": "Báo Lào Cai (21/8/2021, đọc 13/10/2026): Bảo tàng tỉnh thành lập tháng 8/1992; sau 8 lần chuyển địa điểm, đến năm 2016 có trụ sở trong khu trung tâm hành chính tỉnh; lưu giữ, trưng bày hơn 20 nghìn hiện vật.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/lay-y-kien-xay-dung-bao-tang-tinh-lao-cai-thanh-mot-bao-tang-song-post367437.html",
+        "quote": "Báo Lào Cai (19/4/2023, đọc 13/10/2026): công trình bảo tàng hoàn thành, đưa vào sử dụng từ năm 2016 với gần 8.000 m² sàn, định hướng bổ sung không gian trưng bày ngoài trời; trưng bày thường xuyên giới thiệu thiên nhiên, lịch sử, văn hóa các dân tộc trong tỉnh; 4 chủ đề hội thảo: khảo cổ học, lịch sử xã hội, thiên nhiên – danh thắng, bản sắc dân tộc.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/tren-40000-luot-khach-den-tham-quan-bao-tang-tinh-lao-cai-post888227.html",
+        "quote": "Báo Lào Cai (5/12/2025, đọc 13/10/2026): năm 2025 bảo tàng đón trên 40.000 lượt khách, bằng 111,2% kế hoạch; chuyển dần từ 'lưu giữ' sang 'tương tác, trải nghiệm'; có cơ sở 1 và cơ sở 2 (sưu tầm bổ sung 100 hiện vật ở cơ sở 1, 210 ở cơ sở 2).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/anh-nhung-bao-vat-quoc-gia-doc-song-hong-post398585.html",
+        "quote": "Báo Lào Cai (13/3/2025, đọc 13/10/2026): Lào Cai có 2 bảo vật quốc gia là mặt trống đồng Pha Long và trống đồng Gia Phú, lưu giữ tại Bảo tàng tỉnh Lào Cai; mặt trống Pha Long đường kính 74 cm, nặng 3,2 kg, văn hóa Đông Sơn khoảng 2.000–2.500 năm, phát hiện năm 1956.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01026"
+  }
+}
