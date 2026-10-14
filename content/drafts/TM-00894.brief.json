@@ -1,0 +1,144 @@
+{
+  "writer": "writer-P1",
+  "queued": "2026-10-14T15:55:08.130949+00:00",
+  "topic": {
+    "topic_id": "TM-00894",
+    "url": "/du-lich/cum-di-tich-tien-luc-lang-giang/",
+    "title": "Cụm di tích Tiên Lục Lạng Giang: cây dã hương nghìn năm và chùa Phúc Quang",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "di tích tiên lục",
+    "secondary_keywords": [
+      "cây dã hương tiên lục",
+      "đình đền chùa tiên lục",
+      "chùa phúc quang lạng giang",
+      "lễ hội tiên lục"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Bắc Giang (cũ) hoặc Lạng Giang muốn biết quần thể Tiên Lục gồm những công trình nào, cây dã hương có gì đặc biệt và vì sao được xếp hạng đặc biệt.",
+    "information_gain": "Site có /du-lich/chua-vinh-nghiem-bac-ninh/, /du-lich/chua-bo-da-bac-ninh/ và /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ nhưng chưa trang nào nói về Tiên Lục. Bài mới cho: 4 công trình (chùa Phúc Quang, đền Thánh Cả, đình Thuận Hòa, đình Viễn Sơn), cây dã hương sắc phong 1783 với số đo gốc 13,5 m, chùa trùng tu 1707 với hơn 80 pho tượng, mốc xếp hạng 1989, lễ hội di sản phi vật thể 2022 và QĐ 1473/QĐ-TTg ngày 26/11/2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/quan-the-di-tich-tien-luc-don-nhan-bang-di-tich-quoc-gia-dac-biet-post872864.html",
+        "quote": "Báo Nhân Dân, 'Quần thể di tích Tiên Lục đón nhận Bằng Di tích quốc gia đặc biệt' (16/04/2025, đọc 14/10/2026): ngày 16/4 UBND huyện Lạng Giang đón Bằng và khai mạc lễ hội Tiên Lục 2025; quần thể gồm chùa Phúc Quang, đền Tiên Lục (đền Thánh Cả), đình Thuận Hòa, đình Viễn Sơn; chùa có hơn 80 pho tượng, trùng tu lớn năm 1707 (Vĩnh Thịnh thứ 3), lấy tên Phúc Quang tự; đền và hai đình thờ Thần Cao Sơn, Quý Minh Đại Vương; cây dã hương nghìn năm tuổi được vua Lê Cảnh Hưng thứ 44 (1783) sắc phong 'Quốc chúa đô mộc Dã Đại vương'; năm 1989 xếp hạng kiến trúc-nghệ thuật quốc gia; 13/5/2020 công nhận điểm du lịch tỉnh; 12/01/2022 lễ hội Tiên Lục là Di sản văn hóa phi vật thể quốc gia; 26/11/2024 QĐ 1473/QĐ-TTg xếp hạng Di tích quốc gia đặc biệt; có tục kéo chữ 'Thiên Hạ Thái Bình'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/di-san/them-6-di-tich-duoc-xep-hang-di-tich-quoc-gia-dac-biet-113191.html",
+        "quote": "Báo Văn hóa, 'Thêm 6 di tích được xếp hạng Di tích quốc gia đặc biệt' (27/11/2024, đọc 14/10/2026): đợt này gồm Di tích kiến trúc nghệ thuật Quần thể di tích đình, đền, chùa Tiên Lục ở huyện Lạng Giang, tỉnh Bắc Giang, cùng đình Đình Bảng, Đa Hòa-Dạ Trạch và các di tích khác.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cay-da-huong-tien-luc-post420830.html",
+        "quote": "Báo Nhân Dân, 'Cây dã hương Tiên Lục' (06/06/2007, đọc 14/10/2026): cây ở gò Lao, xóm Giữa (xóm Đình Viễn Sơn), xã Tiên Lục; chu vi gốc 13,50 m, đường kính gốc sát đất gần 4 m; thời Lê Trung Hưng được phong 'Cây dã đại thần'; ảnh cây từng in trong Bách khoa từ điển Larousse; năm 1931 trưng bày tại triển lãm Mác-xây; năm 1990 được Bộ Văn hóa-Thông tin xếp hạng; đình Viễn Sơn (đình Cây dã) gồm Đại đình và hậu cung, dựng năm 1750; nằm bên bờ sông Thương.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "di tích tiên lục"
+      }
+    ],
+    "notes": "Mâu thuẫn năm xếp hạng quốc gia: Nhân Dân 2025 ghi 1989 (cả cụm), Nhân Dân 2007 ghi 1990 (cây dã) — nêu cả hai. 'Cây dã hương lớn nhất cả nước' là nhận định báo chí, viết thận trọng. Năm 2012 Cây di sản chỉ thấy trong tóm tắt tìm kiếm, không có trong trang tải về — không dùng. Lạng Giang nay thuộc tỉnh Bắc Ninh sau sắp xếp 2025; kiểm tra tên xã mới. Không có khoảng cách/giờ mở cửa chính thức; không nêu giá. Đình Phù Lão cùng huyện bị loại vì chỉ có 2 nguồn.",
+    "outline": [
+      "Tiên Lục ở đâu và gồm những công trình nào",
+      "Cây dã hương: sắc phong 1783 và các số đo",
+      "Chùa Phúc Quang và hơn 80 pho tượng",
+      "Đền Thánh Cả, đình Thuận Hòa, đình Viễn Sơn",
+      "Các mốc xếp hạng 1989/1990, 2022, 2024",
+      "Lễ hội Tiên Lục và kéo chữ Thiên Hạ Thái Bình"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-vinh-nghiem-bac-ninh/",
+      "/du-lich/chua-bo-da-bac-ninh/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/du-lich/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00894.json",
+  "draft_template": {
+    "id": "TM-00894",
+    "url": "/du-lich/cum-di-tich-tien-luc-lang-giang/",
+    "title": "Cụm di tích Tiên Lục Lạng Giang: cây dã hương nghìn năm và chùa Phúc Quang",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "di tích tiên lục, cây dã hương tiên lục, đình đền chùa tiên lục, chùa phúc quang lạng giang, lễ hội tiên lục",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tiên Lục ở đâu và gồm những công trình nào",
+        "<p></p>"
+      ],
+      [
+        "Cây dã hương: sắc phong 1783 và các số đo",
+        "<p></p>"
+      ],
+      [
+        "Chùa Phúc Quang và hơn 80 pho tượng",
+        "<p></p>"
+      ],
+      [
+        "Đền Thánh Cả, đình Thuận Hòa, đình Viễn Sơn",
+        "<p></p>"
+      ],
+      [
+        "Các mốc xếp hạng 1989/1990, 2022, 2024",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội Tiên Lục và kéo chữ Thiên Hạ Thái Bình",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/quan-the-di-tich-tien-luc-don-nhan-bang-di-tich-quoc-gia-dac-biet-post872864.html",
+        "quote": "Báo Nhân Dân, 'Quần thể di tích Tiên Lục đón nhận Bằng Di tích quốc gia đặc biệt' (16/04/2025, đọc 14/10/2026): ngày 16/4 UBND huyện Lạng Giang đón Bằng và khai mạc lễ hội Tiên Lục 2025; quần thể gồm chùa Phúc Quang, đền Tiên Lục (đền Thánh Cả), đình Thuận Hòa, đình Viễn Sơn; chùa có hơn 80 pho tượng, trùng tu lớn năm 1707 (Vĩnh Thịnh thứ 3), lấy tên Phúc Quang tự; đền và hai đình thờ Thần Cao Sơn, Quý Minh Đại Vương; cây dã hương nghìn năm tuổi được vua Lê Cảnh Hưng thứ 44 (1783) sắc phong 'Quốc chúa đô mộc Dã Đại vương'; năm 1989 xếp hạng kiến trúc-nghệ thuật quốc gia; 13/5/2020 công nhận điểm du lịch tỉnh; 12/01/2022 lễ hội Tiên Lục là Di sản văn hóa phi vật thể quốc gia; 26/11/2024 QĐ 1473/QĐ-TTg xếp hạng Di tích quốc gia đặc biệt; có tục kéo chữ 'Thiên Hạ Thái Bình'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/di-san/them-6-di-tich-duoc-xep-hang-di-tich-quoc-gia-dac-biet-113191.html",
+        "quote": "Báo Văn hóa, 'Thêm 6 di tích được xếp hạng Di tích quốc gia đặc biệt' (27/11/2024, đọc 14/10/2026): đợt này gồm Di tích kiến trúc nghệ thuật Quần thể di tích đình, đền, chùa Tiên Lục ở huyện Lạng Giang, tỉnh Bắc Giang, cùng đình Đình Bảng, Đa Hòa-Dạ Trạch và các di tích khác.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/cay-da-huong-tien-luc-post420830.html",
+        "quote": "Báo Nhân Dân, 'Cây dã hương Tiên Lục' (06/06/2007, đọc 14/10/2026): cây ở gò Lao, xóm Giữa (xóm Đình Viễn Sơn), xã Tiên Lục; chu vi gốc 13,50 m, đường kính gốc sát đất gần 4 m; thời Lê Trung Hưng được phong 'Cây dã đại thần'; ảnh cây từng in trong Bách khoa từ điển Larousse; năm 1931 trưng bày tại triển lãm Mác-xây; năm 1990 được Bộ Văn hóa-Thông tin xếp hạng; đình Viễn Sơn (đình Cây dã) gồm Đại đình và hậu cung, dựng năm 1750; nằm bên bờ sông Thương.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00894"
+  }
+}
