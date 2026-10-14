@@ -1,0 +1,156 @@
+{
+  "writer": "wX",
+  "queued": "2026-10-14T16:55:01.995836+00:00",
+  "topic": {
+    "topic_id": "TM-00989",
+    "url": "/du-lich/lang-to-co-chat/",
+    "title": "Làng tơ Cổ Chất: ươm tơ thủ công từ thời Trần, giải thưởng năm 1942",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng tơ cổ chất",
+    "secondary_keywords": [
+      "làng ươm tơ cổ chất",
+      "lụa cổ chất nam định",
+      "cổ chất trực ninh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Nam Định cũ muốn xem làng ươm tơ thủ công hiếm hoi còn lại, biết mùa ươm tơ, làng ở đâu sau sáp nhập và xem được gì ngoài xưởng tơ.",
+    "information_gain": "Site có /du-lich/den-tran-nam-dinh-di-xe-may/, /du-lich/nha-tho-bui-chu/ nhưng chưa có làng nghề tơ lụa Nam Định (Vạn Phúc ở Hà Nội là làng dệt, khác khâu ươm tơ). Bài mới nêu: Cổ Chất cung cấp tơ cho các làng dệt quanh vùng từ thời Trần, nhà máy ươm tơ thời Pháp, giải 'cửu phẩm công nghệ' 1942, các công đoạn ươm thủ công (nấu kén, quay guồng, hong tơ), HTX Lụa Cổ Chất 2021 OCOP 4 sao, hội làng 6/3 âm lịch.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tet2026/to-vang-ong-anh-ai-hong-giua-lang-5142.html",
+        "quote": "Nhân Dân (Tết 2026): làng Cổ Chất, xã Phương Định, huyện Trực Ninh, tỉnh Nam Định cũ (nay là xã Ninh Giang, tỉnh Ninh Bình); nghề nuôi tằm, ươm tơ, dệt lụa khởi nguồn từ thời Trần, sát bờ sông Ninh Cơ; người Pháp xây nhà máy chế biến sợi tơ tại Cổ Chất, dấu tích nền móng vẫn còn; năm 1942 cụ Phạm Ruân đem tơ dự đấu xảo do Phủ Thủ hiến Bắc Kỳ tổ chức, đạt giải 'cửu phẩm công nghệ'; các công đoạn phân loại kén, nấu kén rút sợi, quấn bát tơ, lên guồng, tháo tơ, hong tơ làm hoàn toàn thủ công.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/nghe-uom-to-lang-co-chat-nhung-vat-va-dang-sau-soi-to-ong-anh-post894742.vnp",
+        "quote": "VietnamPlus: Cổ Chất là một trong số rất ít làng còn ươm tơ thủ công; từ thời Trần cung cấp nguyên liệu cho các làng dệt Cự Trữ, Nhự Nương; nghề phát triển mạnh sau khai thác thuộc địa lần thứ nhất (năm 1897), trở thành vùng nguyên liệu cho Công ty Bông Vải Sợi Bắc Kỳ; thương lái mua tơ đem bán ở bến Đò Chè trước 1945; giải 'Cửu phẩm công nghệ' năm 1942.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/doc-dao-lang-uom-to-co-chat-post806161.html",
+        "quote": "Nhân Dân: câu ca 'Nam Định có bến đò Chè/Có tàu Ngô Khách, có nghề ươm tơ'; nghề ươm, xe tơ phát triển mạnh nhất đầu thế kỷ 20; HTX Lụa Cổ Chất thành lập năm 2021, sản phẩm vải tơ tằm thủ công đạt OCOP 4 sao; tơ Cổ Chất đã đến thị trường Đông Nam Á, châu Âu, châu Phi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ve-dep-thanh-binh-o-lang-que-co-chat-3120018.html",
+        "quote": "VnExpress (24/12/2014): làng Cổ Chất cách trung tâm TP Nam Định khoảng 20 km, trên trục đường ra biển Quất Lâm, bên sông Ninh; có đền Vạn Cổ Hương và chùa Phổ Quang tự là di tích lịch sử – văn hóa; hội làng mồng 6 tháng 3 âm lịch với rước kiệu, bơi chải, chọi gà, đánh đu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng tơ cổ chất"
+      }
+    ],
+    "notes": "Trùng tên hành chính: xã Ninh Giang (Ninh Bình) — đừng nhầm với Ninh Giang (Hải Phòng) của bánh gai. Mùa ươm tơ cụ thể (tháng 2–3 đến tháng 9 âm lịch) chỉ thấy ở một trang thương mại (stylerepublik) chưa tải — CHƯA kiểm chứng, không ghi. Không ghi giá lụa. 'Phủ Thủ hiến Bắc Kỳ' là cách gọi của nguồn. Khoảng cách từ Hà Nội chưa có nguồn; chỉ có '20 km từ TP Nam Định' (2014).",
+    "outline": [
+      "Cổ Chất ở đâu: từ Trực Ninh (Nam Định) đến xã Ninh Giang (Ninh Bình)",
+      "Từ thời Trần đến nhà máy tơ thời Pháp",
+      "Giải 'cửu phẩm công nghệ' 1942 và câu ca bến đò Chè",
+      "Ươm tơ thủ công: nấu kén, quay guồng, hong tơ",
+      "HTX Lụa Cổ Chất và tơ lụa hôm nay",
+      "Đền Vạn Cổ Hương, chùa Phổ Quang và hội 6/3 âm lịch; ghép đường ra Quất Lâm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/du-lich/nha-tho-bui-chu/",
+      "/du-lich/bien-giao-ninh-quat-lam/",
+      "/du-lich/lang-lua-van-phuc/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00989.json",
+  "draft_template": {
+    "id": "TM-00989",
+    "url": "/du-lich/lang-to-co-chat/",
+    "title": "Làng tơ Cổ Chất: ươm tơ thủ công từ thời Trần, giải thưởng năm 1942",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng tơ cổ chất, làng ươm tơ cổ chất, lụa cổ chất nam định, cổ chất trực ninh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cổ Chất ở đâu: từ Trực Ninh (Nam Định) đến xã Ninh Giang (Ninh Bình)",
+        "<p></p>"
+      ],
+      [
+        "Từ thời Trần đến nhà máy tơ thời Pháp",
+        "<p></p>"
+      ],
+      [
+        "Giải 'cửu phẩm công nghệ' 1942 và câu ca bến đò Chè",
+        "<p></p>"
+      ],
+      [
+        "Ươm tơ thủ công: nấu kén, quay guồng, hong tơ",
+        "<p></p>"
+      ],
+      [
+        "HTX Lụa Cổ Chất và tơ lụa hôm nay",
+        "<p></p>"
+      ],
+      [
+        "Đền Vạn Cổ Hương, chùa Phổ Quang và hội 6/3 âm lịch; ghép đường ra Quất Lâm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tet2026/to-vang-ong-anh-ai-hong-giua-lang-5142.html",
+        "quote": "Nhân Dân (Tết 2026): làng Cổ Chất, xã Phương Định, huyện Trực Ninh, tỉnh Nam Định cũ (nay là xã Ninh Giang, tỉnh Ninh Bình); nghề nuôi tằm, ươm tơ, dệt lụa khởi nguồn từ thời Trần, sát bờ sông Ninh Cơ; người Pháp xây nhà máy chế biến sợi tơ tại Cổ Chất, dấu tích nền móng vẫn còn; năm 1942 cụ Phạm Ruân đem tơ dự đấu xảo do Phủ Thủ hiến Bắc Kỳ tổ chức, đạt giải 'cửu phẩm công nghệ'; các công đoạn phân loại kén, nấu kén rút sợi, quấn bát tơ, lên guồng, tháo tơ, hong tơ làm hoàn toàn thủ công.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/nghe-uom-to-lang-co-chat-nhung-vat-va-dang-sau-soi-to-ong-anh-post894742.vnp",
+        "quote": "VietnamPlus: Cổ Chất là một trong số rất ít làng còn ươm tơ thủ công; từ thời Trần cung cấp nguyên liệu cho các làng dệt Cự Trữ, Nhự Nương; nghề phát triển mạnh sau khai thác thuộc địa lần thứ nhất (năm 1897), trở thành vùng nguyên liệu cho Công ty Bông Vải Sợi Bắc Kỳ; thương lái mua tơ đem bán ở bến Đò Chè trước 1945; giải 'Cửu phẩm công nghệ' năm 1942.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/doc-dao-lang-uom-to-co-chat-post806161.html",
+        "quote": "Nhân Dân: câu ca 'Nam Định có bến đò Chè/Có tàu Ngô Khách, có nghề ươm tơ'; nghề ươm, xe tơ phát triển mạnh nhất đầu thế kỷ 20; HTX Lụa Cổ Chất thành lập năm 2021, sản phẩm vải tơ tằm thủ công đạt OCOP 4 sao; tơ Cổ Chất đã đến thị trường Đông Nam Á, châu Âu, châu Phi.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ve-dep-thanh-binh-o-lang-que-co-chat-3120018.html",
+        "quote": "VnExpress (24/12/2014): làng Cổ Chất cách trung tâm TP Nam Định khoảng 20 km, trên trục đường ra biển Quất Lâm, bên sông Ninh; có đền Vạn Cổ Hương và chùa Phổ Quang tự là di tích lịch sử – văn hóa; hội làng mồng 6 tháng 3 âm lịch với rước kiệu, bơi chải, chọi gà, đánh đu.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00989"
+  }
+}

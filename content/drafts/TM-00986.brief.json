@@ -1,0 +1,156 @@
+{
+  "writer": "wX",
+  "queued": "2026-10-14T16:54:59.505827+00:00",
+  "topic": {
+    "topic_id": "TM-00986",
+    "url": "/du-lich/banh-cay-lang-nguyen/",
+    "title": "Bánh cáy làng Nguyễn: làng bánh tiến vua ở Đông Hưng, Hưng Yên",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bánh cáy làng nguyễn",
+    "secondary_keywords": [
+      "làng nghề bánh cáy nguyên xá",
+      "bánh cáy thái bình",
+      "bánh kẹo nguyên xá"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Thái Bình cũ (nay Hưng Yên) muốn ghé làng gốc bánh cáy, hiểu bánh làm thế nào, tên gọi từ đâu và mua quà đúng làng nghề.",
+    "information_gain": "Chưa có bài về bánh cáy. /du-lich/chua-keo-thai-binh/ nói chùa Keo; /du-lich/den-tran-thuong-phat-luong/... không đề cập làng Nguyễn. Bài mới nêu: làng Nguyễn (xã Nguyên Xá cũ, nay xã Đông Hưng, Hưng Yên), tổ nghề Nguyễn Thị Tần thế kỷ 18 và hai giả thuyết tên 'bánh cáy'/'bánh cay', quy trình nếp chia 3 phần (xôi gấc, xôi dành dành, bỏng), khoảng 1.500 hộ bánh kẹo và chuyển đổi 80% công đoạn bằng máy — thông tin chưa có trên site.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "quote": "VnExpress: nổi tiếng nhất là bánh cáy làng Nguyễn, xã Nguyên Xá, huyện Đông Hưng; tên bánh từ hạt xôi gấc ép, xắt hạt lựu có màu vàng như trứng cáy; toàn xã khoảng 300 hộ làm bánh, sản lượng 120-150 tấn mỗi tháng; mỡ lợn ướp đường ít nhất nửa tháng; nếp cái hoa vàng chia 3 phần: hai phần nấu xôi (gấc đỏ, dành dành vàng), một phần làm bỏng; trộn với mật mía, nén khuôn gỗ lót vừng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/banh-cay-lang-nguyen-hon-que-trong-tung-mieng-banh-post1107685.vnp",
+        "quote": "VietnamPlus: làng Nguyễn (xã Nguyên Xá, huyện Đông Hưng, Thái Bình cũ, nay là xã Đông Hưng, tỉnh Hưng Yên); bánh ra đời thế kỷ 18 gắn với bà Nguyễn Thị Tần (sinh năm 1724), người vào cung dạy thái tử dưới triều Lê Hiển Tông; ban đầu gọi 'bánh ngũ vị', vua đặt tên Bánh Cáy vì màu giống trứng cáy; cách giải thích khác: 'bánh cay' vì vị gừng, đọc chệch thành 'bánh cáy'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/tu-dong-hoa-lang-nghe-banh-keo-nguyen-xa-3184011.html",
+        "quote": "Báo Hưng Yên: làng nghề bánh kẹo Nguyên Xá, xã Đông Hưng; xã có khoảng 1.500 hộ sản xuất, kinh doanh bánh kẹo, 500 hộ sản xuất thường xuyên; sản phẩm chủ lực bánh cáy, kẹo lạc, kẹo vừng, kẹo dồi; một xưởng 80% công đoạn bằng máy, có 5 sản phẩm OCOP 4 sao; nhiều sản phẩm đạt OCOP 3–4 sao.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/banh-cay-lang-nguyen-1851525169.htm",
+        "quote": "Thanh Niên: ông Nguyễn Trọng Quý (thôn Hồng Phong, xã Nguyên Xá) cho biết cụ tổ Nguyễn Thị Tần tạo ra bánh cáy năm 1725; nguyên liệu tự nhiên: gấc, dành dành, lạc, vừng, gừng, cà rốt, vỏ quýt; nấu xôi dùng nước mưa; mỡ heo tẩm đường khoảng 15 ngày.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bánh cáy làng nguyễn"
+      }
+    ],
+    "notes": "Năm: bà Tần sinh 1724 (VietnamPlus), làm bánh năm 1725 (theo lời kể trên Thanh Niên) — không nhất quán, ghi là 'tương truyền'. Số hộ: 300 hộ làm bánh (VnExpress, bài cũ) vs khoảng 1.500 hộ bánh kẹo (Báo Hưng Yên, phạm vi xã mới) — ghi rõ phạm vi. Không ghi giá bánh. Không có thông tin cơ sở mở cửa đón khách — không hứa 'tham quan xưởng'. Báo Lao Động không tải được (chặn cookie).",
+    "outline": [
+      "Làng Nguyễn ở đâu sau sáp nhập Thái Bình – Hưng Yên",
+      "Bà Nguyễn Thị Tần và hai giả thuyết về tên bánh cáy",
+      "Nguyên liệu và quy trình: xôi gấc, xôi dành dành, bỏng nếp",
+      "Từ thủ công đến máy móc: làng bánh kẹo hôm nay",
+      "Mua quà đúng làng: đọc nhãn, OCOP, hạn dùng",
+      "Ghép lộ trình với chùa Keo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-keo-thai-binh/",
+      "/du-lich/ha-noi-di-pho-hien-hung-yen-bang-xe-may/",
+      "/du-lich/den-tran-nam-dinh-di-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00986.json",
+  "draft_template": {
+    "id": "TM-00986",
+    "url": "/du-lich/banh-cay-lang-nguyen/",
+    "title": "Bánh cáy làng Nguyễn: làng bánh tiến vua ở Đông Hưng, Hưng Yên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bánh cáy làng nguyễn, làng nghề bánh cáy nguyên xá, bánh cáy thái bình, bánh kẹo nguyên xá",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Nguyễn ở đâu sau sáp nhập Thái Bình – Hưng Yên",
+        "<p></p>"
+      ],
+      [
+        "Bà Nguyễn Thị Tần và hai giả thuyết về tên bánh cáy",
+        "<p></p>"
+      ],
+      [
+        "Nguyên liệu và quy trình: xôi gấc, xôi dành dành, bỏng nếp",
+        "<p></p>"
+      ],
+      [
+        "Từ thủ công đến máy móc: làng bánh kẹo hôm nay",
+        "<p></p>"
+      ],
+      [
+        "Mua quà đúng làng: đọc nhãn, OCOP, hạn dùng",
+        "<p></p>"
+      ],
+      [
+        "Ghép lộ trình với chùa Keo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/thoi-su/banh-cay-qua-que-binh-di-cua-lang-nguyen-thai-binh-3559589.html",
+        "quote": "VnExpress: nổi tiếng nhất là bánh cáy làng Nguyễn, xã Nguyên Xá, huyện Đông Hưng; tên bánh từ hạt xôi gấc ép, xắt hạt lựu có màu vàng như trứng cáy; toàn xã khoảng 300 hộ làm bánh, sản lượng 120-150 tấn mỗi tháng; mỡ lợn ướp đường ít nhất nửa tháng; nếp cái hoa vàng chia 3 phần: hai phần nấu xôi (gấc đỏ, dành dành vàng), một phần làm bỏng; trộn với mật mía, nén khuôn gỗ lót vừng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/banh-cay-lang-nguyen-hon-que-trong-tung-mieng-banh-post1107685.vnp",
+        "quote": "VietnamPlus: làng Nguyễn (xã Nguyên Xá, huyện Đông Hưng, Thái Bình cũ, nay là xã Đông Hưng, tỉnh Hưng Yên); bánh ra đời thế kỷ 18 gắn với bà Nguyễn Thị Tần (sinh năm 1724), người vào cung dạy thái tử dưới triều Lê Hiển Tông; ban đầu gọi 'bánh ngũ vị', vua đặt tên Bánh Cáy vì màu giống trứng cáy; cách giải thích khác: 'bánh cay' vì vị gừng, đọc chệch thành 'bánh cáy'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/tu-dong-hoa-lang-nghe-banh-keo-nguyen-xa-3184011.html",
+        "quote": "Báo Hưng Yên: làng nghề bánh kẹo Nguyên Xá, xã Đông Hưng; xã có khoảng 1.500 hộ sản xuất, kinh doanh bánh kẹo, 500 hộ sản xuất thường xuyên; sản phẩm chủ lực bánh cáy, kẹo lạc, kẹo vừng, kẹo dồi; một xưởng 80% công đoạn bằng máy, có 5 sản phẩm OCOP 4 sao; nhiều sản phẩm đạt OCOP 3–4 sao.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/banh-cay-lang-nguyen-1851525169.htm",
+        "quote": "Thanh Niên: ông Nguyễn Trọng Quý (thôn Hồng Phong, xã Nguyên Xá) cho biết cụ tổ Nguyễn Thị Tần tạo ra bánh cáy năm 1725; nguyên liệu tự nhiên: gấc, dành dành, lạc, vừng, gừng, cà rốt, vỏ quýt; nấu xôi dùng nước mưa; mỡ heo tẩm đường khoảng 15 ngày.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00986"
+  }
+}

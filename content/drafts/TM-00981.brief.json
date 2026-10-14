@@ -1,0 +1,156 @@
+{
+  "writer": "wX",
+  "queued": "2026-10-14T16:54:55.225468+00:00",
+  "topic": {
+    "topic_id": "TM-00981",
+    "url": "/du-lich/lang-mien-duong-lieu-hoai-duc/",
+    "title": "Làng miến Dương Liễu Hoài Đức: từ củ dong đến sợi miến, nên đi mùa nào",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng miến dương liễu",
+    "secondary_keywords": [
+      "miến dong dương liễu",
+      "làng nghề chế biến nông sản dương liễu",
+      "miến dong hoài đức"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người Hà Nội muốn chạy xe máy ra Hoài Đức xem làm miến dong tận nơi (nhất là dịp cuối năm), cần biết làng làm gì, mùa nào nhộn nhịp và nên để ý gì khi vào làng nghề.",
+    "information_gain": "Site chưa có bài/dòng ma trận nào về Dương Liễu. Gần nhất là /du-lich/lang-co-cu-da/ (Cự Đà có nghề miến nhưng trọng tâm là làng cổ nhà Tây) và /du-lich/lang-lua-van-phuc/. Bài mới mô tả riêng làng nghề chế biến nông sản Dương Liễu: quy mô (hơn 1.200 hộ sản xuất, 37 sản phẩm OCOP 4 sao), quy trình củ dong đót → tinh bột → tráng, ủ, cắt sợi, phơi, mùa cao điểm tháng 10 – tháng 2, và lưu ý thực tế về xe tải, bụi, nước thải khi đi xe máy vào làng mùa vụ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://suckhoedoisong.vn/lang-nghe-mien-duong-lieu-tat-bat-cho-vu-tet-16922120813275006.htm",
+        "quote": "Sức khỏe & Đời sống (8/12/2022): nghề miến dong ở xã Dương Liễu (Hoài Đức) nổi tiếng từ lâu, là nghề chính tạo thu nhập; củ dong làm miến là dong đót chứ không phải dong đào, chủ yếu mua từ nơi khác và chỉ có vào cuối năm; quy trình: rửa, nghiền lọc lấy tinh bột, làm sạch tinh bột ít nhất 3 lần, hòa thành hồ, tráng bánh mỏng, hấp chín, phơi, cắt sợi rồi phơi khô; bánh tráng cần độ ẩm khoảng 20-22%, ủ kín 10-12 tiếng trước khi cắt; một xưởng làm trung bình khoảng 800 kg miến/ngày dịp gần Tết.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/tran-tro-o-lang-nghe-duong-lieu-550098.html",
+        "quote": "Hànộimới: từ năm 2001 xã Dương Liễu được công nhận Làng nghề truyền thống chế biến nông sản; có hơn 2.000 doanh nghiệp, cơ sở chế biến nông sản; tháng sản xuất cao điểm từ tháng 10 năm trước đến đầu tháng 2 năm sau, xe chở hàng ra vào hàng trăm lượt mỗi ngày; chỉ thu được 20% bột, 100 tấn củ dong sau sơ chế có tới 80 tấn đất, bã thải; chất thải chưa qua xử lý xả vào hệ thống thoát nước chung gây ô nhiễm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/hoai-duc-tap-trung-phat-trien-lang-nghe-634193.html",
+        "quote": "Hànộimới: Hoài Đức có 52 làng có nghề, 12 làng được công nhận làng nghề; làng nghề chế biến nông sản Dương Liễu có hơn 1.200 hộ sản xuất, chế biến nông sản, 1.600 hộ kinh doanh dịch vụ; Hội Chế biến nông sản xã có 256 hộ, doanh nghiệp; được công nhận 37 sản phẩm OCOP 4 sao; cơ sở Miến Xưa (thôn Gia) sản xuất thủ công từ củ dong, mỗi năm 120-130 tấn miến.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/san-xuat-mien-dong-tai-xa-duong-lieu-hoai-duc-khong-co-chuyen-su-dung-pham-mau-doc-hai-363065.html",
+        "quote": "Hànộimới: toàn xã Dương Liễu có khoảng 80 hộ sản xuất miến dong, tập trung nhiều ở thôn Gia (38 hộ); hầu hết hộ thuê ruộng ở khu đồng Dương Liễu B và C làm sân phơi miến, tinh bột; đa số hộ làm miến mộc (màu tự nhiên), ít hộ làm miến trắng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng miến dương liễu"
+      }
+    ],
+    "notes": "Không nêu giá miến (nguồn có nhắc giá tăng nhưng không dùng). Số hộ làm miến khác nhau theo thời điểm (khoảng 80 hộ miến ở bài cũ trên Hànộimới; hơn 1.200 hộ chế biến nông sản nói chung ở bài 2023) — viết rõ hai con số là hai phạm vi khác nhau. Tên đơn vị hành chính sau sắp xếp 2025 (xã Dương Liễu có thể đã nhập xã mới) CHƯA kiểm chứng — dùng 'làng Dương Liễu (Hoài Đức cũ)'. Ngày đăng các bài Hànộimới không hiển thị rõ trong bản tải. Không khuyến khích vào xưởng khi chưa hỏi chủ; nhắc đường bụi, xe tải mùa vụ. Khoảng cách từ Long Biên chưa có nguồn — không ghi số km.",
+    "outline": [
+      "Dương Liễu là làng gì và vì sao gọi là làng nghề chế biến nông sản",
+      "Từ củ dong đót đến sợi miến: các công đoạn có thể quan sát",
+      "Mùa nào làng nhộn nhịp nhất (tháng 10 – tháng 2)",
+      "Miến mộc, miến trắng và sản phẩm OCOP của làng",
+      "Mặt trái làng nghề: bụi, nước thải, xe tải — đi xe máy cần lưu ý gì",
+      "Kết hợp với làng cổ Cự Đà hoặc Vạn Phúc trong một buổi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-co-cu-da/",
+      "/du-lich/lang-lua-van-phuc/",
+      "/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/",
+      "/kinh-nghiem/diem-mu-xe-tai-xe-buyt/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00981.json",
+  "draft_template": {
+    "id": "TM-00981",
+    "url": "/du-lich/lang-mien-duong-lieu-hoai-duc/",
+    "title": "Làng miến Dương Liễu Hoài Đức: từ củ dong đến sợi miến, nên đi mùa nào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng miến dương liễu, miến dong dương liễu, làng nghề chế biến nông sản dương liễu, miến dong hoài đức",
+    "excerpt": "",
+    "sections": [
+      [
+        "Dương Liễu là làng gì và vì sao gọi là làng nghề chế biến nông sản",
+        "<p></p>"
+      ],
+      [
+        "Từ củ dong đót đến sợi miến: các công đoạn có thể quan sát",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào làng nhộn nhịp nhất (tháng 10 – tháng 2)",
+        "<p></p>"
+      ],
+      [
+        "Miến mộc, miến trắng và sản phẩm OCOP của làng",
+        "<p></p>"
+      ],
+      [
+        "Mặt trái làng nghề: bụi, nước thải, xe tải — đi xe máy cần lưu ý gì",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp với làng cổ Cự Đà hoặc Vạn Phúc trong một buổi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://suckhoedoisong.vn/lang-nghe-mien-duong-lieu-tat-bat-cho-vu-tet-16922120813275006.htm",
+        "quote": "Sức khỏe & Đời sống (8/12/2022): nghề miến dong ở xã Dương Liễu (Hoài Đức) nổi tiếng từ lâu, là nghề chính tạo thu nhập; củ dong làm miến là dong đót chứ không phải dong đào, chủ yếu mua từ nơi khác và chỉ có vào cuối năm; quy trình: rửa, nghiền lọc lấy tinh bột, làm sạch tinh bột ít nhất 3 lần, hòa thành hồ, tráng bánh mỏng, hấp chín, phơi, cắt sợi rồi phơi khô; bánh tráng cần độ ẩm khoảng 20-22%, ủ kín 10-12 tiếng trước khi cắt; một xưởng làm trung bình khoảng 800 kg miến/ngày dịp gần Tết.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/tran-tro-o-lang-nghe-duong-lieu-550098.html",
+        "quote": "Hànộimới: từ năm 2001 xã Dương Liễu được công nhận Làng nghề truyền thống chế biến nông sản; có hơn 2.000 doanh nghiệp, cơ sở chế biến nông sản; tháng sản xuất cao điểm từ tháng 10 năm trước đến đầu tháng 2 năm sau, xe chở hàng ra vào hàng trăm lượt mỗi ngày; chỉ thu được 20% bột, 100 tấn củ dong sau sơ chế có tới 80 tấn đất, bã thải; chất thải chưa qua xử lý xả vào hệ thống thoát nước chung gây ô nhiễm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/hoai-duc-tap-trung-phat-trien-lang-nghe-634193.html",
+        "quote": "Hànộimới: Hoài Đức có 52 làng có nghề, 12 làng được công nhận làng nghề; làng nghề chế biến nông sản Dương Liễu có hơn 1.200 hộ sản xuất, chế biến nông sản, 1.600 hộ kinh doanh dịch vụ; Hội Chế biến nông sản xã có 256 hộ, doanh nghiệp; được công nhận 37 sản phẩm OCOP 4 sao; cơ sở Miến Xưa (thôn Gia) sản xuất thủ công từ củ dong, mỗi năm 120-130 tấn miến.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/san-xuat-mien-dong-tai-xa-duong-lieu-hoai-duc-khong-co-chuyen-su-dung-pham-mau-doc-hai-363065.html",
+        "quote": "Hànộimới: toàn xã Dương Liễu có khoảng 80 hộ sản xuất miến dong, tập trung nhiều ở thôn Gia (38 hộ); hầu hết hộ thuê ruộng ở khu đồng Dương Liễu B và C làm sân phơi miến, tinh bột; đa số hộ làm miến mộc (màu tự nhiên), ít hộ làm miến trắng.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00981"
+  }
+}
