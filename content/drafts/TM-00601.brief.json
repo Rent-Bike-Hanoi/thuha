@@ -1,0 +1,200 @@
+{
+  "writer": "writer-w29b",
+  "queued": "2026-10-14T03:25:03.134221+00:00",
+  "topic": {
+    "topic_id": "TM-00601",
+    "url": "/xe-may/royal-enfield-hunter-350/",
+    "title": "Royal Enfield Hunter 350: thông số, 2 nhóm màu, khác Classic 350",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "royal enfield hunter 350",
+    "secondary_keywords": [
+      "hunter 350 giá",
+      "hunter 350 chiều cao yên",
+      "royal enfield classic 350 giá",
+      "hunter 350 hay classic 350",
+      "hunter 350 cần bằng gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn mua mô tô cổ điển 350cc đầu tiên để đi phố Hà Nội tìm hiểu Royal Enfield Hunter 350: giá chính hãng, yên cao bao nhiêu, nặng bao nhiêu, khác Classic 350 cùng máy ở điểm nào và cần bằng gì.",
+    "information_gain": "Site có /xe-may/honda-gb350s/ và /xe-may/kawasaki-w175/ (xe cổ điển) nhưng chưa có bài Royal Enfield nào. Bài thêm số liệu Royal Enfield Việt Nam đọc 14/10/2026: Hunter 350 Group A (Dapper Grey, Rio White) 109.000.000 đ, Group B (Tokyo Black, London Red, Rebel Blue) 112.000.000 đ; 349 cc làm mát gió-dầu, 14,87 kW/6100 vòng, 27 Nm/4000 vòng, 5 số, ly hợp Assist & Slip, yên 790 mm, 181 kg (90% xăng), bình 13 l, gầm 160 mm, bánh 17 inch, phanh đĩa 300/270 mm, ABS 2 kênh, Tripper, sạc Type-C; mục riêng Classic 350 cùng nền máy 350 (5 màu 129–139 triệu đồng) thay vì bài riêng; nhà phân phối TAMS từ 24/5/2026, bảo hành 3 năm không giới hạn km (báo chí); Điều 57 Luật 36/2024 → bằng A. Bài là thông tin mẫu xe, không phải dịch vụ: cửa hàng Thuê xe máy Nguyễn Hà không cho thuê mẫu này (đội xe theo business-facts chỉ gồm 3 xe 50cc và xe điện Tailg); người cần thuê xe được dẫn sang /thue-xe-may/ha-noi/ và /bang-gia/ với lời nhắc \"hỏi cửa hàng xe đang có\".",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.royalenfield.com/vn/vi/motorcycles/hunter-350/",
+        "quote": "Royal Enfield Việt Nam, trang Hunter 350 (đọc 14/10/2026), bảng thông số: Single cylinder, 4 stroke, Air-Oil cooled; 349cc; 72 x 85.8 mm; 9.5:1; 20.2 BHP @ 6100 rpm (14.87 kW); 27 Nm @ 4000 rpm; EFI; Wet multi-plates (Assist & Slip) clutch; 5 speed; Twin Downtube Spine Frame; phuộc 41mm hành trình 130mm; giảm xóc đôi 6 nấc tải trước (90mm); wheelbase 1370 mm; ground clearance 160 mm; 2055 x 810 x 1070 mm; seat height 790 mm; kerb weight 181 kg (with 90% fuel & oil); fuel 13 ltr; lốp 110/70-17 và 140/70-17 không săm; phanh đĩa trước 300 mm, sau 270 mm; Dual Channel ABS; USB Type C fast charging. FAQ: Hunter 350 là \"Retro-Metro Roadster\", hai bánh 17 inch; nâng cấp ly hợp Assist & Slip, đèn pha LED, Tripper Pod, cổng Type-C (\"chỉ áp dụng trên phiên bản Metro\"); \"Hunter 350 có 2 phiên bản và 5 màu sắc\".",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.royalenfield.com/vn/vi/motorcycles/hunter-350/",
+        "quote": "Royal Enfield Việt Nam, bộ chọn màu trên trang Hunter 350 (đọc 14/10/2026), giá ghi trong thuộc tính data-slide-price: Tokyo Black, London Red, Rebel Blue \"VND 112,000,000*\" (Group B); Dapper Grey, Rio White \"VND 109,000,000*\" (Group A).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.royalenfield.com/vn/vi/motorcycles/classic-350/",
+        "quote": "Royal Enfield Việt Nam, trang Classic 350 (đọc 14/10/2026), mục màu sắc: Emerald VND 139,000,000; Stealth Black VND 137,000,000; Gun Grey VND 137,000,000; Commando Sand VND 134,000,000; Medallion Bronze VND 129,000,000 (\"Hiện Có Sẵn\"); trang viết mẫu xe \"nay xuất hiện với bảy phối màu mới\".",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/khoahocphothong/royal-enfield-vietnam-chinh-thuc-ra-mat-nha-phan-phoi-moi-tams-va-cong-bo-gia-5-dong-xe-the-he-moi-2026-104266382.htm",
+        "quote": "Tạp chí Khoa học phổ thông (Tuổi Trẻ), 25/05/2026 (đọc 14/10/2026): ngày 24/05/2026 Royal Enfield ra mắt nhà phân phối chính thức mới Trâm Anh Motor Sports (TAMS), công bố giá (gồm VAT) Classic 350, Hunter 350, Himalayan 450, Guerrilla 450, Super Meteor 650; Hunter 350 Rio White và Dapper Grey 109.000.000 VND, Tokyo Black, Rebel Blue, London Red 112.000.000 VND; Hunter \"chiều cao yên thấp 800mm\"; Classic 350: Medallion Bronze 129.000.000, Commando Sand 133.000.000, Gun Grey và Stealth Black 137.000.000, Emerald 139.000.000 VND; Classic 350 có phanh đĩa trước, mâm 18 inch, LED, Type-C, bản Emerald và Dark có Tripper; \"tất cả các dòng xe mô tô đều đi kèm ... chế độ bảo hành 3 năm không giới hạn số km\".",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn; đọc 14/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: \"Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1...\".",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.50cc: 3 xe: SYM Elite 50 màu xanh đen, xe ga 50cc màu trắng, xe Cub 50 (Cub mới mua lại, chưa có ảnh thật) (theo chủ cửa hàng, 10/2026)",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "royal enfield hunter 350"
+      }
+    ],
+    "notes": "Mâu thuẫn: trang chính hãng ghi yên Hunter 790 mm, bài Tuổi Trẻ ghi 800 mm – dùng 790 mm (trang hãng). Classic 350 Commando Sand: trang hãng 134.000.000 đ, báo 133.000.000 đ – dùng giá trang hãng, ghi ngày đọc. FAQ Hunter vừa nói \"6 phối màu\" vừa \"2 phiên bản và 5 màu\" và liệt kê cả 5 màu dưới \"Phiên bản Metro\"; trang Classic nói \"bảy phối màu\" nhưng chỉ bán 5 màu – không viết số màu ngoài 5 màu có giá. Trang hãng không ghi tên hai phiên bản Hunter tương ứng Group A/B – không tự đặt tên. Bảo hành 3 năm chỉ có nguồn báo chí – ghi \"theo công bố tại lễ ra mắt\". Không có số tiêu hao xăng chính thức – không viết. Classic 350 dùng chung nền máy 350 nên làm mục so sánh trong bài này, không mở bài riêng; chưa đọc bảng thông số Classic (chỉ có file tải về) – chỉ so giá/màu và trang bị đã nêu. Không viết rằng cửa hàng cho thuê/bán/sửa mẫu này; CTA chỉ là /thue-xe-may/ha-noi/ và /bang-gia/ kèm \"hỏi cửa hàng xe đang có\".",
+    "outline": [
+      "Hunter 350 là xe gì, ai phân phối ở Việt Nam",
+      "Giá theo 2 nhóm màu",
+      "Thông số: 349 cc, 14,87 kW, yên 790 mm, 181 kg",
+      "Trang bị: ABS 2 kênh, ly hợp Assist & Slip, Tripper, Type-C",
+      "Hunter 350 hay Classic 350: giá, kiểu dáng, bánh 17 và 18 inch",
+      "Bảo hành và bằng A",
+      "Muốn thuê xe ở Hà Nội: hỏi cửa hàng xe đang có"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/honda-gb350s/",
+      "/xe-may/kawasaki-w175/",
+      "/kinh-nghiem/xe-con-tay-co-kho-di-khong/",
+      "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "review",
+    "overlap": [
+      {
+        "url": "/xe-may/royal-enfield-himalayan-450/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.485
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/xe-may/royal-enfield-himalayan-450/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00601.json",
+  "draft_template": {
+    "id": "TM-00601",
+    "url": "/xe-may/royal-enfield-hunter-350/",
+    "title": "Royal Enfield Hunter 350: thông số, 2 nhóm màu, khác Classic 350",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "royal enfield hunter 350, hunter 350 giá, hunter 350 chiều cao yên, royal enfield classic 350 giá, hunter 350 hay classic 350, hunter 350 cần bằng gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hunter 350 là xe gì, ai phân phối ở Việt Nam",
+        "<p></p>"
+      ],
+      [
+        "Giá theo 2 nhóm màu",
+        "<p></p>"
+      ],
+      [
+        "Thông số: 349 cc, 14,87 kW, yên 790 mm, 181 kg",
+        "<p></p>"
+      ],
+      [
+        "Trang bị: ABS 2 kênh, ly hợp Assist & Slip, Tripper, Type-C",
+        "<p></p>"
+      ],
+      [
+        "Hunter 350 hay Classic 350: giá, kiểu dáng, bánh 17 và 18 inch",
+        "<p></p>"
+      ],
+      [
+        "Bảo hành và bằng A",
+        "<p></p>"
+      ],
+      [
+        "Muốn thuê xe ở Hà Nội: hỏi cửa hàng xe đang có",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.royalenfield.com/vn/vi/motorcycles/hunter-350/",
+        "quote": "Royal Enfield Việt Nam, trang Hunter 350 (đọc 14/10/2026), bảng thông số: Single cylinder, 4 stroke, Air-Oil cooled; 349cc; 72 x 85.8 mm; 9.5:1; 20.2 BHP @ 6100 rpm (14.87 kW); 27 Nm @ 4000 rpm; EFI; Wet multi-plates (Assist & Slip) clutch; 5 speed; Twin Downtube Spine Frame; phuộc 41mm hành trình 130mm; giảm xóc đôi 6 nấc tải trước (90mm); wheelbase 1370 mm; ground clearance 160 mm; 2055 x 810 x 1070 mm; seat height 790 mm; kerb weight 181 kg (with 90% fuel & oil); fuel 13 ltr; lốp 110/70-17 và 140/70-17 không săm; phanh đĩa trước 300 mm, sau 270 mm; Dual Channel ABS; USB Type C fast charging. FAQ: Hunter 350 là \"Retro-Metro Roadster\", hai bánh 17 inch; nâng cấp ly hợp Assist & Slip, đèn pha LED, Tripper Pod, cổng Type-C (\"chỉ áp dụng trên phiên bản Metro\"); \"Hunter 350 có 2 phiên bản và 5 màu sắc\".",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.royalenfield.com/vn/vi/motorcycles/hunter-350/",
+        "quote": "Royal Enfield Việt Nam, bộ chọn màu trên trang Hunter 350 (đọc 14/10/2026), giá ghi trong thuộc tính data-slide-price: Tokyo Black, London Red, Rebel Blue \"VND 112,000,000*\" (Group B); Dapper Grey, Rio White \"VND 109,000,000*\" (Group A).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://www.royalenfield.com/vn/vi/motorcycles/classic-350/",
+        "quote": "Royal Enfield Việt Nam, trang Classic 350 (đọc 14/10/2026), mục màu sắc: Emerald VND 139,000,000; Stealth Black VND 137,000,000; Gun Grey VND 137,000,000; Commando Sand VND 134,000,000; Medallion Bronze VND 129,000,000 (\"Hiện Có Sẵn\"); trang viết mẫu xe \"nay xuất hiện với bảy phối màu mới\".",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/khoahocphothong/royal-enfield-vietnam-chinh-thuc-ra-mat-nha-phan-phoi-moi-tams-va-cong-bo-gia-5-dong-xe-the-he-moi-2026-104266382.htm",
+        "quote": "Tạp chí Khoa học phổ thông (Tuổi Trẻ), 25/05/2026 (đọc 14/10/2026): ngày 24/05/2026 Royal Enfield ra mắt nhà phân phối chính thức mới Trâm Anh Motor Sports (TAMS), công bố giá (gồm VAT) Classic 350, Hunter 350, Himalayan 450, Guerrilla 450, Super Meteor 650; Hunter 350 Rio White và Dapper Grey 109.000.000 VND, Tokyo Black, Rebel Blue, London Red 112.000.000 VND; Hunter \"chiều cao yên thấp 800mm\"; Classic 350: Medallion Bronze 129.000.000, Commando Sand 133.000.000, Gun Grey và Stealth Black 137.000.000, Emerald 139.000.000 VND; Classic 350 có phanh đĩa trước, mâm 18 inch, LED, Type-C, bản Emerald và Dark có Tripper; \"tất cả các dòng xe mô tô đều đi kèm ... chế độ bảo hành 3 năm không giới hạn số km\".",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://hcc.nghean.gov.vn/tin-tong-hop/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-1545.html",
+        "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (bản toàn văn đăng trên hcc.nghean.gov.vn; đọc 14/10/2026): Điều 57 khoản 1 điểm a: \"Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW\"; điểm b: \"Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1\". Điều 59 khoản 1 điểm b: \"Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1...\".",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "fleet.50cc: 3 xe: SYM Elite 50 màu xanh đen, xe ga 50cc màu trắng, xe Cub 50 (Cub mới mua lại, chưa có ảnh thật) (theo chủ cửa hàng, 10/2026)",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00601"
+  }
+}
