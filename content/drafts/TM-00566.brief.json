@@ -1,0 +1,169 @@
+{
+  "writer": "writer-w25",
+  "queued": "2026-10-14T02:15:10.120605+00:00",
+  "topic": {
+    "topic_id": "TM-00566",
+    "url": "/kinh-nghiem/gia-do-dien-thoai-xe-may/",
+    "title": "Giá đỡ điện thoại xe máy: chống rung camera và có bị phạt không",
+    "hub": "kinh-nghiem",
+    "subtopic": "trang-bi",
+    "primary_keyword": "giá đỡ điện thoại xe máy",
+    "secondary_keywords": [
+      "gắn điện thoại lên xe máy có bị phạt không",
+      "giá đỡ điện thoại xe máy hỏng camera iphone",
+      "giá kẹp điện thoại chống rung xe máy",
+      "xem bản đồ trên xe máy có bị phạt",
+      "gắn điện thoại vào gương xe máy"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người thuê xe đi Hà Nội bằng bản đồ điện thoại muốn gắn máy lên ghi đông, nhưng nghe nói rung xe làm hỏng camera iPhone và không chắc gắn điện thoại để xem đường có bị phạt như cầm điện thoại không.",
+    "information_gain": "/kinh-nghiem/google-maps-chi-duong-xe-may/ có mục 'xem bản đồ an toàn: dừng xe, không cầm điện thoại khi chạy' nhưng không bàn giá đỡ; /luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/ chỉ nói mức phạt; /kinh-nghiem/mang-gi-khi-di-phuot-xe-may/ chỉ liệt kê giá đỡ trong danh sách đồ. Bài mới trả lời hai câu cụ thể: (1) khuyến cáo chính thức của Apple rằng rung biên độ cao của động cơ xe máy làm giảm hiệu suất hệ thống chống rung quang học (OIS) và lấy nét vòng kín, xe tay ga phân khối nhỏ rung thấp hơn nhưng vẫn nên dùng giá chống rung và không gắn thường xuyên thời gian dài; (2) chữ trong luật: lỗi bị phạt là 'dùng tay cầm và sử dụng điện thoại' (Nghị định 168 Điều 7 khoản 4 điểm đ, 800.000–1.000.000 đồng, trừ 4 điểm), nên gắn cố định và thao tác khi dừng xe; kèm cách chọn vị trí gắn không che đồng hồ, gương. Khác /luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/: đó là bài mức phạt; bài này về chọn và lắp giá đỡ (rung hại camera theo Apple), chỉ nhắc luật một đoạn và dẫn sang bài phạt.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://support.apple.com/vi-vn/102175",
+        "quote": "Apple, trang hỗ trợ 'Việc tiếp xúc với các rung lắc, chẳng hạn như những rung lắc do động cơ xe máy công suất lớn tạo ra, có thể ảnh hưởng đến camera của iPhone' (ngày đăng tháng 11 10, 2023; đọc 14/10/2026): hiệu suất hệ thống camera có thể giảm nếu iPhone tiếp xúc với rung lắc biên độ cao ở dải tần số nhất định, đặc biệt do động cơ xe máy công suất lớn; tiếp xúc trực tiếp và kéo dài có thể làm giảm hiệu suất của OIS và AF vòng kín, giảm chất lượng ảnh và video. Không nên gắn iPhone vào xe máy có động cơ công suất hoặc phân khối lớn. Gắn vào xe động cơ điện hoặc phân khối nhỏ như xe đạp máy, xe tay ga có rung biên độ tương đối thấp hơn, nhưng nên lắp giá đỡ chống rung lắc và không nên thường xuyên dùng theo cách đó trong thời gian dài. OIS có trên iPhone 6 Plus, 6s Plus, iPhone 7 trở lên (gồm SE thế hệ 2 và 3); AF vòng kín có trên iPhone XS trở lên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Chinhphu.vn, toàn văn Nghị định 168/2024/NĐ-CP (đọc 14/10/2026), Điều 7 khoản 4: phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm đ: 'Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác.' Cũng Điều 7: thực hiện hành vi tại điểm đ khoản 4 bị trừ điểm giấy phép lái xe 04 điểm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Văn bản hợp nhất 55/VBHN-VPQH (23/3/2026) Luật Trật tự, an toàn giao thông đường bộ (đọc 14/10/2026), Điều 33 khoản 3: người lái xe mô tô hai bánh, xe gắn máy không được: c) sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính; d) buông cả hai tay; g) hành vi khác gây mất trật tự, an toàn giao thông đường bộ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), mục Ổ cắm USB: 'Cố định cẩn thận các thiết bị đã kết nối, vì thiết bị có thể bị hỏng hoặc tuột ra khi gặp rung lắc'; không để dây nối USB bị vướng hoặc mắc kẹt.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "giá đỡ điện thoại xe máy"
+      }
+    ],
+    "notes": "Nghị định 238/2026/NĐ-CP (trang tóm tắt chinhphu.vn đọc hôm nay) sửa Điều 3, 6, 20... và không thấy sửa Điều 7 khoản 4 trong phần đọc được – writer cần đối chiếu toàn văn trước khi khẳng định mức phạt còn nguyên. Luật không có điều nào nhắc 'giá đỡ điện thoại'; không được viết 'gắn giá đỡ chắc chắn không bị phạt' – chỉ nói lỗi trong nghị định gắn với 'dùng tay cầm', và chạm/thao tác màn hình khi xe chạy vẫn rủi ro (điểm g khoản 3 Điều 33 'hành vi khác'). Không có nguồn chính hãng Samsung/Android được đọc – không suy rộng khuyến cáo Apple sang hãng khác. Không gợi ý thương hiệu giá đỡ cụ thể. Không gắn vào gương (gương phải dùng để quan sát) – nếu viết thì dẫn bài gương, không cần nguồn số.",
+    "outline": [
+      "Câu trả lời ngắn: gắn cố định được, nhưng đừng cầm và đừng bấm khi xe chạy",
+      "Rung xe máy làm hỏng camera điện thoại thế nào: khuyến cáo của Apple",
+      "Xe tay ga, xe số nhỏ, xe điện: mức rung và giá chống rung",
+      "Luật nói gì: 'dùng tay cầm và sử dụng điện thoại' và mức phạt",
+      "Chọn vị trí gắn: không che đồng hồ, gương, không vướng tay lái",
+      "Đặt lộ trình trước khi đi và thao tác khi đã dừng hẳn"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/google-maps-chi-duong-xe-may/",
+      "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/kinh-nghiem/chinh-guong-chieu-hau-xe-may/",
+      "/kinh-nghiem/phong-cuop-giat-khi-di-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [
+      {
+        "url": "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.418
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00566.json",
+  "draft_template": {
+    "id": "TM-00566",
+    "url": "/kinh-nghiem/gia-do-dien-thoai-xe-may/",
+    "title": "Giá đỡ điện thoại xe máy: chống rung camera và có bị phạt không",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "giá đỡ điện thoại xe máy, gắn điện thoại lên xe máy có bị phạt không, giá đỡ điện thoại xe máy hỏng camera iphone, giá kẹp điện thoại chống rung xe máy, xem bản đồ trên xe máy có bị phạt, gắn điện thoại vào gương xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: gắn cố định được, nhưng đừng cầm và đừng bấm khi xe chạy",
+        "<p></p>"
+      ],
+      [
+        "Rung xe máy làm hỏng camera điện thoại thế nào: khuyến cáo của Apple",
+        "<p></p>"
+      ],
+      [
+        "Xe tay ga, xe số nhỏ, xe điện: mức rung và giá chống rung",
+        "<p></p>"
+      ],
+      [
+        "Luật nói gì: 'dùng tay cầm và sử dụng điện thoại' và mức phạt",
+        "<p></p>"
+      ],
+      [
+        "Chọn vị trí gắn: không che đồng hồ, gương, không vướng tay lái",
+        "<p></p>"
+      ],
+      [
+        "Đặt lộ trình trước khi đi và thao tác khi đã dừng hẳn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://support.apple.com/vi-vn/102175",
+        "quote": "Apple, trang hỗ trợ 'Việc tiếp xúc với các rung lắc, chẳng hạn như những rung lắc do động cơ xe máy công suất lớn tạo ra, có thể ảnh hưởng đến camera của iPhone' (ngày đăng tháng 11 10, 2023; đọc 14/10/2026): hiệu suất hệ thống camera có thể giảm nếu iPhone tiếp xúc với rung lắc biên độ cao ở dải tần số nhất định, đặc biệt do động cơ xe máy công suất lớn; tiếp xúc trực tiếp và kéo dài có thể làm giảm hiệu suất của OIS và AF vòng kín, giảm chất lượng ảnh và video. Không nên gắn iPhone vào xe máy có động cơ công suất hoặc phân khối lớn. Gắn vào xe động cơ điện hoặc phân khối nhỏ như xe đạp máy, xe tay ga có rung biên độ tương đối thấp hơn, nhưng nên lắp giá đỡ chống rung lắc và không nên thường xuyên dùng theo cách đó trong thời gian dài. OIS có trên iPhone 6 Plus, 6s Plus, iPhone 7 trở lên (gồm SE thế hệ 2 và 3); AF vòng kín có trên iPhone XS trở lên.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+        "quote": "Chinhphu.vn, toàn văn Nghị định 168/2024/NĐ-CP (đọc 14/10/2026), Điều 7 khoản 4: phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe mô tô, xe gắn máy thực hiện hành vi tại điểm đ: 'Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác.' Cũng Điều 7: thực hiện hành vi tại điểm đ khoản 4 bị trừ điểm giấy phép lái xe 04 điểm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "law",
+        "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+        "quote": "Văn bản hợp nhất 55/VBHN-VPQH (23/3/2026) Luật Trật tự, an toàn giao thông đường bộ (đọc 14/10/2026), Điều 33 khoản 3: người lái xe mô tô hai bánh, xe gắn máy không được: c) sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính; d) buông cả hai tay; g) hành vi khác gây mất trật tự, an toàn giao thông đường bộ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), mục Ổ cắm USB: 'Cố định cẩn thận các thiết bị đã kết nối, vì thiết bị có thể bị hỏng hoặc tuột ra khi gặp rung lắc'; không để dây nối USB bị vướng hoặc mắc kẹt.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00566"
+  }
+}

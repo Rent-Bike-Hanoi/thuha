@@ -1,0 +1,192 @@
+{
+  "writer": "writer-w25",
+  "queued": "2026-10-14T02:15:10.122104+00:00",
+  "topic": {
+    "topic_id": "TM-00567",
+    "url": "/kinh-nghiem/ve-sinh-mu-bao-hiem/",
+    "title": "Vệ sinh mũ bảo hiểm: giặt lót, lau vỏ, kính và khi nào thay mũ",
+    "hub": "kinh-nghiem",
+    "subtopic": "trang-bi",
+    "primary_keyword": "vệ sinh mũ bảo hiểm",
+    "secondary_keywords": [
+      "giặt lót mũ bảo hiểm",
+      "khử mùi mũ bảo hiểm",
+      "lau kính mũ bảo hiểm",
+      "mũ bảo hiểm dùng bao lâu thì thay",
+      "mũ bảo hiểm bị rơi có cần thay không",
+      "dùng chung mũ bảo hiểm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy hằng ngày ở Hà Nội (mồ hôi mùa hè, mưa phùn mùa xuân) thấy mũ bảo hiểm có mùi, lót bẩn, kính mờ; muốn biết rửa bằng gì để không làm hỏng vỏ và lớp xốp, và dấu hiệu nào cho thấy mũ phải thay chứ không chỉ cần giặt.",
+    "information_gain": "/kinh-nghiem/mu-bao-hiem-dat-chuan/ chỉ nói chọn mũ có tem CR, cỡ mũ và có một câu 'nên thay mũ khi vỏ nứt, xốp lún, sau va đập'; /bao-duong/rua-xe-may-tai-nha-dung-cach/ nói chất tẩy rửa làm hỏng nhựa, sơn của xe, không nói mũ; /kinh-nghiem/gang-tay-ao-giap-di-xe-may/ không bàn chăm sóc mũ. Bài mới là hướng dẫn chăm sóc theo nhà sản xuất: tháo phần lót rời giặt tay hoặc máy ở 30 °C với túi giặt và chất tẩy trung tính, lau phần đệm cố định bằng khăn ẩm, lớp xốp EPS chỉ lau ẩm vì không chịu dung môi và nhiệt, tránh xăng dầu, chất tẩy axit/kiềm và nước lau kính trên phần nhựa, phơi khô hẳn mới lắp; cùng danh sách 5 dấu hiệu phải thay của Shoei (gồm phép thử lắc đầu thấy mũ xoay) và khuyến cáo Honda không dùng mũ đã vỡ hoặc va đập mạnh. Thêm phần mũ dùng chung (mũ đi kèm xe thuê) theo khuyến nghị vệ sinh trước khi người khác dùng. Khác /luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/ (mức phạt) và /kinh-nghiem/mu-bao-hiem-dat-chuan/ (chọn mũ đạt chuẩn, cỡ mũ): bài này về vệ sinh lót, vỏ, kính và dấu hiệu nên thay mũ.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://shoei-helmets.com/helmet-maintenance/",
+        "quote": "SHOEI Helmets USA (Helmet House, nhà phân phối chính thức của Shoei Co., Ltd), trang Helmet Care & Maintenance (đọc 14/10/2026): mọi chi tiết nhựa rất nhạy với chất chứa dung môi (kể cả sản phẩm từ dầu mỏ), có thể ngấm vào nhựa gây xuống cấp dần và tăng nguy cơ gãy; chất tẩy axit hoặc kiềm và nước lau kính cũng không phù hợp – chỉ nên dùng nước và/hoặc chất tẩy nhẹ, trung tính; chỗ bẩn nhiều chà nhẹ bằng bàn chải đánh răng mềm hoặc tăm bông; tháo kính và các phần rời để làm sạch; kính và miếng Pinlock phải khô hẳn trước khi lắp lại. Không dùng chất đánh bóng cho mũ sơn mờ (matte) – chỉ dùng nước và chất tẩy nhẹ.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shoei-helmets.com/helmet-maintenance/",
+        "quote": "SHOEI Helmets USA, Helmet Care & Maintenance (đọc 14/10/2026): các phần lót tháo rời được giặt tay hoặc giặt máy ở 30 °C (86 °F), dùng túi giặt và chất tẩy trung tính; phần đệm cố định lau bằng khăn ẩm với chất tẩy trung tính; chất tẩy kháng khuẩn giúp khử mùi; mọi thứ phải khô hoàn toàn trước khi lắp lại. Lớp xốp hấp thụ va đập EPS không chịu được dung môi và nhiệt, chỉ lau bằng khăn ẩm để tránh trầy hoặc lõm.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shoei-helmets.com/helmet-maintenance/",
+        "quote": "SHOEI Helmets USA, Helmet Care & Maintenance (đọc 14/10/2026): tuổi thọ mũ phụ thuộc cường độ và tần suất sử dụng; nên thay mũ nếu có dù chỉ một trong các điểm: 1) mũ đã chịu va đập; 2) đệm hoặc hệ thống quai đã lỏng, xuống cấp – phép thử: cài quai, lắc nhẹ đầu mà mũ xoay sang bên; 3) lớp EPS tách khỏi vỏ; 4) EPS mòn, bắt đầu vỡ, hoặc đã tiếp xúc nhiệt/dung môi và bị chảy, có vết lõm; 5) dù không có điểm nào ở trên, Shoei khuyến nghị thay mũ sau 5 năm kể từ khi mua lần đầu.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, tài liệu 'Kỹ thuật lái xe an toàn' (PDF tạo 29/7/2026, đọc 14/10/2026), mục 02–03: kiểm tra chất lượng mũ gồm vỏ mũ, lõi xốp, dây và khóa chốt, tem kiểm định; vỏ nhẵn mịn, dày, cứng, khó vỡ; lõi xốp dày, không bị lún khi ấn; dây và khóa chắc chắn, chịu lực kéo tốt. 'Lưu ý: Không sử dụng Mũ bảo hiểm đã bị vỡ, va đập mạnh.' Đội mũ: xoay đi xoay lại để đảm bảo vừa đầu, cài chốt, đưa 2 ngón tay vào giữa cằm và quai.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://cafef.vn/loi-khuyen-cho-nhung-ai-thuong-xuyen-doi-mu-bao-hiem-188260911143021656.chn",
+        "quote": "CafeF (11/09/2026, dẫn Sức khỏe & Cộng đồng; đọc 14/10/2026), 'Lời khuyên cho những ai thường xuyên đội mũ bảo hiểm': lót mũ tích tụ mồ hôi, dầu, bụi gây mùi và kích ứng da đầu ở một số người; nên vệ sinh phần lót và bộ phận tháo rời theo hướng dẫn nhà sản xuất, để mũ khô hoàn toàn, không cất mũ còn ẩm hoặc ở nơi bí kín; sau khi gội nên lau/sấy tóc tương đối khô trước khi đội; tốt nhất mỗi người dùng mũ riêng, nếu buộc phải dùng chung cần vệ sinh sạch trước khi người khác dùng; mũ có vết nứt, biến dạng, vỏ hoặc lớp lót bảo vệ hỏng thì không nên dùng tiếp.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "vệ sinh mũ bảo hiểm"
+      }
+    ],
+    "notes": "Nguồn nhà sản xuất là Shoei (mũ fullface vỏ sợi thủy tinh); mũ nửa đầu/3/4 phổ biến ở Việt Nam thường vỏ nhựa và lót có thể không tháo được – writer phải nói rõ 'làm theo nhãn/hướng dẫn đi kèm mũ của bạn', không áp con số 30 °C cho mọi mũ. Mốc '5 năm' là khuyến nghị riêng của Shoei, không phải quy định Việt Nam – không viết thành quy chuẩn. Không tìm được nguồn chính thức Việt Nam về thời hạn sử dụng mũ. Mũ đi kèm xe thuê: chỉ được nói cửa hàng cho mũ cơ bản miễn phí nếu lấy từ business-facts (policies.helmet) – hub kinh-nghiem nên chỉ gợi ý mang mũ riêng hoặc vệ sinh, không hứa chất lượng mũ của cửa hàng. Không khuyên phơi mũ dưới nắng gắt hay sấy nóng (EPS không chịu nhiệt) – đây là suy luận từ nguồn Shoei, nói đúng như vậy.",
+    "outline": [
+      "Câu trả lời ngắn: nước và chất tẩy trung tính, không xăng, không dung môi",
+      "Giặt lót tháo rời và lau đệm cố định",
+      "Lau vỏ mũ, kính chắn và Pinlock",
+      "Lớp xốp EPS: vì sao chỉ được lau ẩm, không sấy nóng",
+      "Khử mùi và phơi khô đúng cách, mũ dùng chung",
+      "5 dấu hiệu phải thay mũ, không chỉ giặt"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/mu-bao-hiem-dat-chuan/",
+      "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/",
+      "/kinh-nghiem/di-xe-may-troi-nang-nong-40-do-o-ha-noi/",
+      "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
+      "/bao-duong/rua-xe-may-tai-nha-dung-cach/"
+    ],
+    "content_type": "howto",
+    "overlap": [
+      {
+        "url": "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.445
+        }
+      },
+      {
+        "url": "/kinh-nghiem/mu-bao-hiem-dat-chuan/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.443
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00567.json",
+  "draft_template": {
+    "id": "TM-00567",
+    "url": "/kinh-nghiem/ve-sinh-mu-bao-hiem/",
+    "title": "Vệ sinh mũ bảo hiểm: giặt lót, lau vỏ, kính và khi nào thay mũ",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vệ sinh mũ bảo hiểm, giặt lót mũ bảo hiểm, khử mùi mũ bảo hiểm, lau kính mũ bảo hiểm, mũ bảo hiểm dùng bao lâu thì thay, mũ bảo hiểm bị rơi có cần thay không, dùng chung mũ bảo hiểm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: nước và chất tẩy trung tính, không xăng, không dung môi",
+        "<p></p>"
+      ],
+      [
+        "Giặt lót tháo rời và lau đệm cố định",
+        "<p></p>"
+      ],
+      [
+        "Lau vỏ mũ, kính chắn và Pinlock",
+        "<p></p>"
+      ],
+      [
+        "Lớp xốp EPS: vì sao chỉ được lau ẩm, không sấy nóng",
+        "<p></p>"
+      ],
+      [
+        "Khử mùi và phơi khô đúng cách, mũ dùng chung",
+        "<p></p>"
+      ],
+      [
+        "5 dấu hiệu phải thay mũ, không chỉ giặt",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://shoei-helmets.com/helmet-maintenance/",
+        "quote": "SHOEI Helmets USA (Helmet House, nhà phân phối chính thức của Shoei Co., Ltd), trang Helmet Care & Maintenance (đọc 14/10/2026): mọi chi tiết nhựa rất nhạy với chất chứa dung môi (kể cả sản phẩm từ dầu mỏ), có thể ngấm vào nhựa gây xuống cấp dần và tăng nguy cơ gãy; chất tẩy axit hoặc kiềm và nước lau kính cũng không phù hợp – chỉ nên dùng nước và/hoặc chất tẩy nhẹ, trung tính; chỗ bẩn nhiều chà nhẹ bằng bàn chải đánh răng mềm hoặc tăm bông; tháo kính và các phần rời để làm sạch; kính và miếng Pinlock phải khô hẳn trước khi lắp lại. Không dùng chất đánh bóng cho mũ sơn mờ (matte) – chỉ dùng nước và chất tẩy nhẹ.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shoei-helmets.com/helmet-maintenance/",
+        "quote": "SHOEI Helmets USA, Helmet Care & Maintenance (đọc 14/10/2026): các phần lót tháo rời được giặt tay hoặc giặt máy ở 30 °C (86 °F), dùng túi giặt và chất tẩy trung tính; phần đệm cố định lau bằng khăn ẩm với chất tẩy trung tính; chất tẩy kháng khuẩn giúp khử mùi; mọi thứ phải khô hoàn toàn trước khi lắp lại. Lớp xốp hấp thụ va đập EPS không chịu được dung môi và nhiệt, chỉ lau bằng khăn ẩm để tránh trầy hoặc lõm.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shoei-helmets.com/helmet-maintenance/",
+        "quote": "SHOEI Helmets USA, Helmet Care & Maintenance (đọc 14/10/2026): tuổi thọ mũ phụ thuộc cường độ và tần suất sử dụng; nên thay mũ nếu có dù chỉ một trong các điểm: 1) mũ đã chịu va đập; 2) đệm hoặc hệ thống quai đã lỏng, xuống cấp – phép thử: cài quai, lắc nhẹ đầu mà mũ xoay sang bên; 3) lớp EPS tách khỏi vỏ; 4) EPS mòn, bắt đầu vỡ, hoặc đã tiếp xúc nhiệt/dung môi và bị chảy, có vết lõm; 5) dù không có điểm nào ở trên, Shoei khuyến nghị thay mũ sau 5 năm kể từ khi mua lần đầu.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, tài liệu 'Kỹ thuật lái xe an toàn' (PDF tạo 29/7/2026, đọc 14/10/2026), mục 02–03: kiểm tra chất lượng mũ gồm vỏ mũ, lõi xốp, dây và khóa chốt, tem kiểm định; vỏ nhẵn mịn, dày, cứng, khó vỡ; lõi xốp dày, không bị lún khi ấn; dây và khóa chắc chắn, chịu lực kéo tốt. 'Lưu ý: Không sử dụng Mũ bảo hiểm đã bị vỡ, va đập mạnh.' Đội mũ: xoay đi xoay lại để đảm bảo vừa đầu, cài chốt, đưa 2 ngón tay vào giữa cằm và quai.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://cafef.vn/loi-khuyen-cho-nhung-ai-thuong-xuyen-doi-mu-bao-hiem-188260911143021656.chn",
+        "quote": "CafeF (11/09/2026, dẫn Sức khỏe & Cộng đồng; đọc 14/10/2026), 'Lời khuyên cho những ai thường xuyên đội mũ bảo hiểm': lót mũ tích tụ mồ hôi, dầu, bụi gây mùi và kích ứng da đầu ở một số người; nên vệ sinh phần lót và bộ phận tháo rời theo hướng dẫn nhà sản xuất, để mũ khô hoàn toàn, không cất mũ còn ẩm hoặc ở nơi bí kín; sau khi gội nên lau/sấy tóc tương đối khô trước khi đội; tốt nhất mỗi người dùng mũ riêng, nếu buộc phải dùng chung cần vệ sinh sạch trước khi người khác dùng; mũ có vết nứt, biến dạng, vỏ hoặc lớp lót bảo vệ hỏng thì không nên dùng tiếp.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00567"
+  }
+}
