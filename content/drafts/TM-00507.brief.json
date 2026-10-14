@@ -1,0 +1,185 @@
+{
+  "writer": "writer-w20a",
+  "queued": "2026-10-14T00:29:31.967758+00:00",
+  "topic": {
+    "topic_id": "TM-00507",
+    "url": "/du-lich/doi-mam-xoi-la-pan-tan/",
+    "title": "Đồi Mâm Xôi La Pán Tẩn: gửi xe, xe ôm lên đồi, Mâm Xôi bé, mùa lúa",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đồi mâm xôi la pán tẩn",
+    "secondary_keywords": [
+      "la pán tẩn",
+      "đồi mâm xôi mù cang chải",
+      "mâm xôi bé",
+      "vé đồi mâm xôi",
+      "púng luông lào cai"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người chạy xe máy lên Mù Cang Chải mùa lúa muốn biết đồi Mâm Xôi nằm đâu so với trung tâm, có tự chạy lên được không hay phải gửi xe đi xe ôm, vé bao nhiêu, Mâm Xôi lớn và bé khác gì, và có gì cần cẩn thận khi chụp ảnh.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ chỉ nhắc 'La Pán Tẩn, đồi mâm xôi' trong một dòng lịch trình 4 ngày; /du-lich/thung-lung-tu-le/ và /du-lich/muong-lo-nghia-lo/ nói các điểm khác trên QL32. Bài mới dành riêng cho đồi Mâm Xôi: địa danh sau sáp nhập (xã Púng Luông, Lào Cai); cách trung tâm hơn 8 km, gửi xe máy rồi đi xe ôm (VnExpress cập nhật 1/2026); giá vé 40.000 đồng, trẻ dưới 1,2 m miễn phí, xe ôm 100.000 đồng hai chiều do HTX niêm yết mùa 2025 (Báo Lào Cai 29/8/2025); Mâm Xôi bé vắng hơn, chòi check-in thu khoảng 10.000 đồng và lệnh của xã ngày 24/9/2026 cấm trèo lan can; tình trạng QL32 sau sạt lở 15/9/2026.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-mu-cang-chai-4158151.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Mù Cang Chải' (đăng 9/9/2020, cập nhật 14/1/2026, đọc 13/10/2026): Đồi Mâm Xôi là hình ảnh biểu tượng mùa vàng Mù Cang Chải; đồi nằm ở La Pán Tẩn cách trung tâm thị trấn hơn 8 km, đường đi khó khăn nên dừng và gửi xe rồi thuê xe ôm của người dân đưa lên tận nơi; gần đồi có vườn hoa tam giác mạch và cho thuê váy áo dân tộc; ở đồi Mâm Xôi lớn lên lán chụp ảnh tốn thêm 5.000 đồng một người; vé vào mỗi điểm 20.000 đồng người lớn, 10.000 đồng trẻ em; xe ôm 60.000–100.000 đồng một người hai chiều (giá cũ, xem nguồn 2025). Từ Hà Nội tới Mù Cang Chải khoảng 300 km; đoạn Tú Lệ tới trung tâm Mù Cang Chải khoảng 60 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/mua-vang-sau-bao-post880797.html",
+        "quote": "Báo Lào Cai, 'Mùa vàng sau bão' (29/8/2025, đọc 13/10/2026): Giám đốc HTX Du lịch đồi Mâm xôi La Pán Tẩn Lý A Dờ cho biết 5 ha ruộng bậc thang ở khu vực đồi được cấy lúa và trồng hoa; HTX đã niêm yết giá: vé tham quan 40.000 đồng/người, miễn phí trẻ em dưới 1,2 m; xe ôm 100.000 đồng/khách (2 chiều); HTX thuê thêm nhân viên hướng dẫn khách dịp 2/9. Hoàn lưu bão số 5 cuối 8/2025 gây 20 điểm sạt lở nghiêm trọng trên QL32 đoạn đèo Khau Phạ; đường tới đồi Mâm xôi, 'Sống lưng khủng long', 'võng lúa' Mồ Dề đã được khơi thông, cắm biển cảnh báo ở khu vực nguy hiểm. Các cơ sở lưu trú, xe ôm, porter ký cam kết không tăng giá, niêm yết giá.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/canh-bao-du-khach-dung-tren-lan-can-lieu-mang-check-in-o-mu-cang-chai-post910289.html",
+        "quote": "Báo Lào Cai, 'Cảnh báo du khách đứng trên lan can, liều mạng check-in ở Mù Cang Chải' (24/9/2026, đọc 13/10/2026, dẫn Tri thức – Znews): Đồi Mâm Xôi bé ở xã Púng Luông, tỉnh Lào Cai thường vắng hơn đồi Mâm Xôi lớn, tầm nhìn rộng ra ruộng bậc thang và suối giữa thung lũng; một số chủ đồi dựng chòi check-in thu khoảng 10.000 đồng mỗi lượt; ngày 24/9/2026 UBND xã Púng Luông rà soát chòi tự phát, yêu cầu tháo dỡ chòi không an toàn, tuyệt đối không cho khách trèo lên lan can, chòi chắc chắn phải cắm biển cảnh báo; khách giảm trong tuần 14–20/9 vì lo sạt lở, mưa lớn; mùa lúa chín kéo dài đến khoảng cuối tháng 10; ruộng bậc thang Mù Cang Chải được xếp hạng Di tích quốc gia đặc biệt năm 2020.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/24-gio-o-mu-cang-chai-chon-diem-nao-de-ngam-tron-mua-vang-post882045.html",
+        "quote": "Báo Lào Cai, '24 giờ ở Mù Cang Chải, chọn điểm nào để ngắm trọn mùa vàng' (14/9/2025, đọc 13/10/2026): mùa lúa chín rực rỡ nhất từ tháng 9 đến tháng 10; Đồi Mâm Xôi ở La Pán Tẩn nên là điểm đầu tiên, buổi sớm có sương mỏng, là nơi đông khách nhất mùa lúa; Mâm Xôi nhỏ cách đó không xa, yên tĩnh hơn nhưng đường đi gập ghềnh, nên đi cùng người bản địa; sau La Pán Tẩn có thể lên 'sống lưng khủng long' nhìn bốn khu ruộng Dế Xu Phình, Chế Cu Nha, La Pán Tẩn, Mồ Dề.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/60576",
+        "quote": "Cục Du lịch Quốc gia Việt Nam – Trung tâm Thông tin du lịch, 'Đến Yên Bái khám phá thiên nhiên và văn hóa đồi mâm xôi La Pán Tẩn' (29/12/2024, đọc 13/10/2026): La Pán Tẩn là nơi sinh sống của đồng bào Mông; ruộng trải từ triền đồi xuống vùng trũng, bao quanh chân đồi là nước; du khách có thể trải nghiệm gặt, tuốt, sàng sẩy lúa cùng người dân; tháng 9 có lễ hội với chọi chê, bịt mắt bắt lợn, tù lu, kéo co, bắn nỏ, ném còn. (Trang viết La Pán Tẩn 'nằm trên đỉnh đèo Khau Phạ' – mô tả chung, không dùng làm vị trí.)",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/mua-lon-gay-sat-lo-nhieu-tuyen-duong-tai-lao-cai-post1136383.vnp",
+        "quote": "VietnamPlus (TTXVN), 15/9/2026, đọc 13/10/2026: mưa lớn gây sạt lở taluy dương, tắc đường tại Km265+900 Quốc lộ 32 thuộc xã Tú Lệ; đến 16 giờ cùng ngày đã thông xe; QL32 ghi nhận sạt taluy dương tại 6 vị trí với trên 755 m³ và một vị trí sạt taluy âm dài khoảng 10 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đồi mâm xôi la pán tẩn"
+      }
+    ],
+    "notes": "Hành chính: nguồn 2025–2026 gọi 'xã Púng Luông, tỉnh Lào Cai' (La Pán Tẩn cũ, huyện Mù Cang Chải, Yên Bái cũ); dùng đúng như vậy. Giá: 40.000 đồng vé và 100.000 đồng xe ôm là niêm yết mùa 2025 (Báo Lào Cai 29/8/2025); giá 20.000 đồng và xe ôm 60.000–100.000 trong bài VnExpress là số cũ dù trang cập nhật 1/2026 – ghi rõ là cũ. Không tìm được bảng giá 2026 ngoài Facebook của HTX (không dùng làm nguồn) – khuyên hỏi tại cổng. Phí chòi 10.000 đồng ở Mâm Xôi bé là con số Phó chủ tịch xã nêu 9/2026. Khoảng cách 'hơn 8 km' từ trung tâm thị trấn cũ, không đo lại. Không có nguồn về giờ mở cửa hay chỗ gửi xe cụ thể/phí gửi xe – không ghi. Câu 'nằm trên đỉnh Khau Phạ' của trang Cục Du lịch không chính xác về vị trí, đừng chép. Mùa lúa 2026 đã gần hết (cuối 10); viết như hướng dẫn thường niên, không hứa ngày.",
+    "outline": [
+      "Đồi Mâm Xôi ở đâu: La Pán Tẩn cũ, nay xã Púng Luông",
+      "Từ trung tâm Mù Cang Chải vào: hơn 8 km, gửi xe máy và đi xe ôm",
+      "Vé, xe ôm và phí chòi chụp ảnh: giá niêm yết gần nhất",
+      "Mâm Xôi lớn hay Mâm Xôi bé, ghép thêm sống lưng khủng long",
+      "An toàn khi chụp ảnh: lệnh cấm trèo lan can 9/2026",
+      "Mùa lúa, giờ đẹp và tình trạng QL32 mùa mưa"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/thung-lung-tu-le/",
+      "/du-lich/muong-lo-nghia-lo/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00507.json",
+  "draft_template": {
+    "id": "TM-00507",
+    "url": "/du-lich/doi-mam-xoi-la-pan-tan/",
+    "title": "Đồi Mâm Xôi La Pán Tẩn: gửi xe, xe ôm lên đồi, Mâm Xôi bé, mùa lúa",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đồi mâm xôi la pán tẩn, la pán tẩn, đồi mâm xôi mù cang chải, mâm xôi bé, vé đồi mâm xôi, púng luông lào cai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồi Mâm Xôi ở đâu: La Pán Tẩn cũ, nay xã Púng Luông",
+        "<p></p>"
+      ],
+      [
+        "Từ trung tâm Mù Cang Chải vào: hơn 8 km, gửi xe máy và đi xe ôm",
+        "<p></p>"
+      ],
+      [
+        "Vé, xe ôm và phí chòi chụp ảnh: giá niêm yết gần nhất",
+        "<p></p>"
+      ],
+      [
+        "Mâm Xôi lớn hay Mâm Xôi bé, ghép thêm sống lưng khủng long",
+        "<p></p>"
+      ],
+      [
+        "An toàn khi chụp ảnh: lệnh cấm trèo lan can 9/2026",
+        "<p></p>"
+      ],
+      [
+        "Mùa lúa, giờ đẹp và tình trạng QL32 mùa mưa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-mu-cang-chai-4158151.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Mù Cang Chải' (đăng 9/9/2020, cập nhật 14/1/2026, đọc 13/10/2026): Đồi Mâm Xôi là hình ảnh biểu tượng mùa vàng Mù Cang Chải; đồi nằm ở La Pán Tẩn cách trung tâm thị trấn hơn 8 km, đường đi khó khăn nên dừng và gửi xe rồi thuê xe ôm của người dân đưa lên tận nơi; gần đồi có vườn hoa tam giác mạch và cho thuê váy áo dân tộc; ở đồi Mâm Xôi lớn lên lán chụp ảnh tốn thêm 5.000 đồng một người; vé vào mỗi điểm 20.000 đồng người lớn, 10.000 đồng trẻ em; xe ôm 60.000–100.000 đồng một người hai chiều (giá cũ, xem nguồn 2025). Từ Hà Nội tới Mù Cang Chải khoảng 300 km; đoạn Tú Lệ tới trung tâm Mù Cang Chải khoảng 60 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/mua-vang-sau-bao-post880797.html",
+        "quote": "Báo Lào Cai, 'Mùa vàng sau bão' (29/8/2025, đọc 13/10/2026): Giám đốc HTX Du lịch đồi Mâm xôi La Pán Tẩn Lý A Dờ cho biết 5 ha ruộng bậc thang ở khu vực đồi được cấy lúa và trồng hoa; HTX đã niêm yết giá: vé tham quan 40.000 đồng/người, miễn phí trẻ em dưới 1,2 m; xe ôm 100.000 đồng/khách (2 chiều); HTX thuê thêm nhân viên hướng dẫn khách dịp 2/9. Hoàn lưu bão số 5 cuối 8/2025 gây 20 điểm sạt lở nghiêm trọng trên QL32 đoạn đèo Khau Phạ; đường tới đồi Mâm xôi, 'Sống lưng khủng long', 'võng lúa' Mồ Dề đã được khơi thông, cắm biển cảnh báo ở khu vực nguy hiểm. Các cơ sở lưu trú, xe ôm, porter ký cam kết không tăng giá, niêm yết giá.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/canh-bao-du-khach-dung-tren-lan-can-lieu-mang-check-in-o-mu-cang-chai-post910289.html",
+        "quote": "Báo Lào Cai, 'Cảnh báo du khách đứng trên lan can, liều mạng check-in ở Mù Cang Chải' (24/9/2026, đọc 13/10/2026, dẫn Tri thức – Znews): Đồi Mâm Xôi bé ở xã Púng Luông, tỉnh Lào Cai thường vắng hơn đồi Mâm Xôi lớn, tầm nhìn rộng ra ruộng bậc thang và suối giữa thung lũng; một số chủ đồi dựng chòi check-in thu khoảng 10.000 đồng mỗi lượt; ngày 24/9/2026 UBND xã Púng Luông rà soát chòi tự phát, yêu cầu tháo dỡ chòi không an toàn, tuyệt đối không cho khách trèo lên lan can, chòi chắc chắn phải cắm biển cảnh báo; khách giảm trong tuần 14–20/9 vì lo sạt lở, mưa lớn; mùa lúa chín kéo dài đến khoảng cuối tháng 10; ruộng bậc thang Mù Cang Chải được xếp hạng Di tích quốc gia đặc biệt năm 2020.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/24-gio-o-mu-cang-chai-chon-diem-nao-de-ngam-tron-mua-vang-post882045.html",
+        "quote": "Báo Lào Cai, '24 giờ ở Mù Cang Chải, chọn điểm nào để ngắm trọn mùa vàng' (14/9/2025, đọc 13/10/2026): mùa lúa chín rực rỡ nhất từ tháng 9 đến tháng 10; Đồi Mâm Xôi ở La Pán Tẩn nên là điểm đầu tiên, buổi sớm có sương mỏng, là nơi đông khách nhất mùa lúa; Mâm Xôi nhỏ cách đó không xa, yên tĩnh hơn nhưng đường đi gập ghềnh, nên đi cùng người bản địa; sau La Pán Tẩn có thể lên 'sống lưng khủng long' nhìn bốn khu ruộng Dế Xu Phình, Chế Cu Nha, La Pán Tẩn, Mồ Dề.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.gov.vn/post/60576",
+        "quote": "Cục Du lịch Quốc gia Việt Nam – Trung tâm Thông tin du lịch, 'Đến Yên Bái khám phá thiên nhiên và văn hóa đồi mâm xôi La Pán Tẩn' (29/12/2024, đọc 13/10/2026): La Pán Tẩn là nơi sinh sống của đồng bào Mông; ruộng trải từ triền đồi xuống vùng trũng, bao quanh chân đồi là nước; du khách có thể trải nghiệm gặt, tuốt, sàng sẩy lúa cùng người dân; tháng 9 có lễ hội với chọi chê, bịt mắt bắt lợn, tù lu, kéo co, bắn nỏ, ném còn. (Trang viết La Pán Tẩn 'nằm trên đỉnh đèo Khau Phạ' – mô tả chung, không dùng làm vị trí.)",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/mua-lon-gay-sat-lo-nhieu-tuyen-duong-tai-lao-cai-post1136383.vnp",
+        "quote": "VietnamPlus (TTXVN), 15/9/2026, đọc 13/10/2026: mưa lớn gây sạt lở taluy dương, tắc đường tại Km265+900 Quốc lộ 32 thuộc xã Tú Lệ; đến 16 giờ cùng ngày đã thông xe; QL32 ghi nhận sạt taluy dương tại 6 vị trí với trên 755 m³ và một vị trí sạt taluy âm dài khoảng 10 m.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00507"
+  }
+}

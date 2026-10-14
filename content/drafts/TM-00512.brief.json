@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w20b",
+  "queued": "2026-10-14T00:29:32.126007+00:00",
+  "topic": {
+    "topic_id": "TM-00512",
+    "url": "/du-lich/lang-huong-phia-thap/",
+    "title": "Làng hương Phia Thắp Cao Bằng: dừng ở đâu trên đường đi Bản Giốc",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng hương phia thắp",
+    "secondary_keywords": [
+      "làng hương phja thắp",
+      "phia thắp cao bằng",
+      "làng làm hương cao bằng",
+      "làng rèn phúc sen",
+      "trải nghiệm se hương nùng an"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy từ TP Cao Bằng đi thác Bản Giốc muốn biết làng hương Phia Thắp nằm ở đâu bên đường, có đáng dừng không, mùa nào thấy phơi hương đỏ, có được thử làm hương, ngủ homestay và ghé thêm làng rèn Phúc Sen không.",
+    "information_gain": "Trang chưa có bài nào nhắc Phia Thắp hay Phúc Sen. /du-lich/ha-noi-di-cao-bang-bang-xe-may/ nói đường lên Cao Bằng và Bản Giốc; /du-lich/ho-thang-hen-nui-mat-than/, /du-lich/lang-da-khuoi-ky/ và /du-lich/dong-nguom-ngao/ là các điểm khác cùng hướng. Bài mới là điểm dừng trên đường đi Trùng Khánh: làng cách trung tâm TP khoảng 35 km, bên phải QL3 dưới chân núi Phà Hùng (VnExpress 2023); địa danh đổi qua các năm (Quốc Dân, Quảng Uyên → Phúc Sen, Quảng Hòa → xã Quảng Uyên 2026); 48/51 hộ làm hương, làng nghề công nhận 2021; nguyên liệu bầu hắt, cây mai, vỏ cây gạo, nhuộm đỏ bằng lá 'chăm che'; phơi hương đông nhất trước Tết; nhà sàn cải tạo thành homestay; làng rèn Phúc Sen 145 lò ở 4 xóm (Báo Cao Bằng 12/2/2026).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/lang-nghe-mo-huong-phat-trien-du-lich-3185330.html",
+        "quote": "Báo Cao Bằng, 'Làng nghề mở hướng phát triển du lịch' (12/2/2026, đọc 13/10/2026): nghề làm hương xóm Phia Thắp (xã Quảng Uyên) quanh năm thu hút khách trải nghiệm; làng của người Nùng An dưới chân núi Phia Tử; bó chân hương nhuộm đỏ phơi dọc đường, trên sân nhà sàn; nguyên liệu cây mai, vỏ cây gạo, lá bầu hắt, mùn cưa lấy từ rừng, không hóa chất; 48/51 hộ tham gia làm hương, hơn 100 lao động; nhiều nhà sàn cải tạo thành homestay – khách ăn cơm lam, ngủ nhà sàn, sáng se hương cùng bà con; cũng tại xã Quảng Uyên, nghề rèn Phúc Sen có 145 lò ở 4 xóm, gần 320 lao động, nhiều cơ sở đạt OCOP 3 sao, lò rèn là điểm tham quan.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/trai-nghiem-lang-huong-phja-thap-3174587.html",
+        "quote": "Báo Cao Bằng, 'Trải nghiệm làng hương Phja Thắp' (2/1/2025, đọc 13/10/2026): làng thuộc xã Phúc Sen, huyện Quảng Hòa (cũ), lịch sử hơn 100 năm; từ năm 2016 là một trong 7 thôn bản của tỉnh được đầu tư làm du lịch cộng đồng; UBND tỉnh công nhận làng nghề năm 2021; xóm có 51 hộ, 49 hộ duy trì nghề hương; hương bán quanh năm, chạy nhất dịp Tết Nguyên đán và tháng 3 âm lịch; người dân còn hạn chế khi tiếp cận làm du lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-cao-bang-4655446.html",
+        "quote": "VnExpress, '48 giờ ở Cao Bằng' (6/10/2023, nguồn trước 2025, đọc 13/10/2026): làng hương Phia Thắp cách trung tâm TP Cao Bằng tầm 35 km, trên đường đến huyện Trùng Khánh; từ QL3 đi thẳng sẽ thấy làng bên phải đường, dưới chân núi Phà Hùng (núi To), xã Quốc Dân, huyện Quảng Uyên (địa danh cũ); thác Bản Giốc cách trung tâm TP khoảng 90 km.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tai-hien-nghe-lam-huong-truyen-thong-cua-nguoi-nung-an-o-cao-bang-post807445.html",
+        "quote": "Báo Nhân Dân, 2/5/2024 (nguồn trước 2025, đọc 13/10/2026): làng hương Phia Thắp, xã Phúc Sen, huyện Quảng Hòa (cũ), hơn 100 năm; que hương làm từ cây mai ('mạy mười'), keo từ lá 'bầu hắt'; mùn cưa từ cây tràm, mạy khảo thu trước một năm; que hương nhuộm đỏ bằng lá 'chăm che' trồng quanh nhà; phơi hương là khâu lâu nhất, tận dụng cả ruộng sau thu hoạch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/du-khach-tay-kham-pha-lang-huong-thu-cong-tram-nam-tuoi-vung-cao-185917595.htm",
+        "quote": "Báo Thanh Niên, 18/1/2020 (nguồn trước 2025, đọc 13/10/2026): cứ dịp cận Tết, người Nùng ở xóm Phia Thắp dọn gốc rạ, phơi hương ra ruộng cho vụ hương lớn nhất năm; hương bán ở các chợ phiên Tết trong tỉnh và các tỉnh phía Bắc; làng làm du lịch cộng đồng, khách được trải nghiệm làm hương.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "làng hương phia thắp"
+      }
+    ],
+    "notes": "Địa danh: Phia Thắp/Phja Thắp đều được dùng; xã qua các thời kỳ: Quốc Dân (Quảng Uyên cũ, 2020–2023) → Phúc Sen (Quảng Hòa cũ, 2024–2025) → xã Quảng Uyên, tỉnh Cao Bằng (Báo Cao Bằng 2/2026). Ghi theo nguồn mới nhất, nhắc tên cũ để tra bản đồ. Khoảng cách '35 km' là VnExpress 2023, không đo lại; có trang thương mại ghi 26 km – không dùng. Không có nguồn về giá trải nghiệm, giá homestay, giờ đón khách – không ghi giá; khuyên hỏi trước. Mùa phơi hương đẹp nhất: cận Tết (nguồn 2020, 2025) – không hứa có cảnh phơi mọi ngày. Đoạn QL3 Cao Bằng – Trùng Khánh: không tìm được tin sạt lở 2026 riêng cho đoạn này – dẫn sang bài route Cao Bằng.",
+    "outline": [
+      "Phia Thắp ở đâu: bên QL3 trên đường TP Cao Bằng – Trùng Khánh",
+      "Hương Phia Thắp làm từ gì: bầu hắt, cây mai, nhuộm đỏ",
+      "Mùa nào thấy phơi hương: cận Tết và tháng 3 âm lịch",
+      "Ghé làng: trải nghiệm se hương, ngủ nhà sàn, ứng xử",
+      "Kết hợp làng rèn Phúc Sen cùng xã",
+      "Ghép vào lịch trình Bản Giốc – Thang Hen bằng xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/ho-thang-hen-nui-mat-than/",
+      "/du-lich/lang-da-khuoi-ky/",
+      "/du-lich/dong-nguom-ngao/",
+      "/du-lich/khu-di-tich-pac-bo/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00512.json",
+  "draft_template": {
+    "id": "TM-00512",
+    "url": "/du-lich/lang-huong-phia-thap/",
+    "title": "Làng hương Phia Thắp Cao Bằng: dừng ở đâu trên đường đi Bản Giốc",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng hương phia thắp, làng hương phja thắp, phia thắp cao bằng, làng làm hương cao bằng, làng rèn phúc sen, trải nghiệm se hương nùng an",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phia Thắp ở đâu: bên QL3 trên đường TP Cao Bằng – Trùng Khánh",
+        "<p></p>"
+      ],
+      [
+        "Hương Phia Thắp làm từ gì: bầu hắt, cây mai, nhuộm đỏ",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào thấy phơi hương: cận Tết và tháng 3 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghé làng: trải nghiệm se hương, ngủ nhà sàn, ứng xử",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp làng rèn Phúc Sen cùng xã",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào lịch trình Bản Giốc – Thang Hen bằng xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/lang-nghe-mo-huong-phat-trien-du-lich-3185330.html",
+        "quote": "Báo Cao Bằng, 'Làng nghề mở hướng phát triển du lịch' (12/2/2026, đọc 13/10/2026): nghề làm hương xóm Phia Thắp (xã Quảng Uyên) quanh năm thu hút khách trải nghiệm; làng của người Nùng An dưới chân núi Phia Tử; bó chân hương nhuộm đỏ phơi dọc đường, trên sân nhà sàn; nguyên liệu cây mai, vỏ cây gạo, lá bầu hắt, mùn cưa lấy từ rừng, không hóa chất; 48/51 hộ tham gia làm hương, hơn 100 lao động; nhiều nhà sàn cải tạo thành homestay – khách ăn cơm lam, ngủ nhà sàn, sáng se hương cùng bà con; cũng tại xã Quảng Uyên, nghề rèn Phúc Sen có 145 lò ở 4 xóm, gần 320 lao động, nhiều cơ sở đạt OCOP 3 sao, lò rèn là điểm tham quan.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/trai-nghiem-lang-huong-phja-thap-3174587.html",
+        "quote": "Báo Cao Bằng, 'Trải nghiệm làng hương Phja Thắp' (2/1/2025, đọc 13/10/2026): làng thuộc xã Phúc Sen, huyện Quảng Hòa (cũ), lịch sử hơn 100 năm; từ năm 2016 là một trong 7 thôn bản của tỉnh được đầu tư làm du lịch cộng đồng; UBND tỉnh công nhận làng nghề năm 2021; xóm có 51 hộ, 49 hộ duy trì nghề hương; hương bán quanh năm, chạy nhất dịp Tết Nguyên đán và tháng 3 âm lịch; người dân còn hạn chế khi tiếp cận làm du lịch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-cao-bang-4655446.html",
+        "quote": "VnExpress, '48 giờ ở Cao Bằng' (6/10/2023, nguồn trước 2025, đọc 13/10/2026): làng hương Phia Thắp cách trung tâm TP Cao Bằng tầm 35 km, trên đường đến huyện Trùng Khánh; từ QL3 đi thẳng sẽ thấy làng bên phải đường, dưới chân núi Phà Hùng (núi To), xã Quốc Dân, huyện Quảng Uyên (địa danh cũ); thác Bản Giốc cách trung tâm TP khoảng 90 km.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tai-hien-nghe-lam-huong-truyen-thong-cua-nguoi-nung-an-o-cao-bang-post807445.html",
+        "quote": "Báo Nhân Dân, 2/5/2024 (nguồn trước 2025, đọc 13/10/2026): làng hương Phia Thắp, xã Phúc Sen, huyện Quảng Hòa (cũ), hơn 100 năm; que hương làm từ cây mai ('mạy mười'), keo từ lá 'bầu hắt'; mùn cưa từ cây tràm, mạy khảo thu trước một năm; que hương nhuộm đỏ bằng lá 'chăm che' trồng quanh nhà; phơi hương là khâu lâu nhất, tận dụng cả ruộng sau thu hoạch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/du-khach-tay-kham-pha-lang-huong-thu-cong-tram-nam-tuoi-vung-cao-185917595.htm",
+        "quote": "Báo Thanh Niên, 18/1/2020 (nguồn trước 2025, đọc 13/10/2026): cứ dịp cận Tết, người Nùng ở xóm Phia Thắp dọn gốc rạ, phơi hương ra ruộng cho vụ hương lớn nhất năm; hương bán ở các chợ phiên Tết trong tỉnh và các tỉnh phía Bắc; làng làm du lịch cộng đồng, khách được trải nghiệm làm hương.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00512"
+  }
+}

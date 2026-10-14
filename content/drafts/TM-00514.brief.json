@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w20b",
+  "queued": "2026-10-14T00:29:32.126825+00:00",
+  "topic": {
+    "topic_id": "TM-00514",
+    "url": "/du-lich/ban-lien-lao-cai/",
+    "title": "Bản Liền Lào Cai: chè Shan cổ thụ, homestay Tày, tỉnh lộ 153 từ Bắc Hà",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản liền lào cai",
+    "secondary_keywords": [
+      "bản liền bắc hà",
+      "chè shan tuyết bản liền",
+      "homestay bản liền",
+      "du lịch cộng đồng bản liền",
+      "đường đi bản liền"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã tới Bắc Hà muốn chạy xe máy thêm vào Bản Liền: đường vào bao xa, có sạt lở mùa mưa không, xem rừng chè Shan cổ thụ và đồi chè ở thôn nào, homestay có nhiều không và nên đi mùa nào.",
+    "information_gain": "Trang chưa có bài nào nhắc Bản Liền. /du-lich/cho-phien-bac-ha/ và /du-lich/dinh-hoang-a-tuong-bac-ha/ dừng ở trung tâm Bắc Hà; /du-lich/y-ty-lao-cai/ là hướng Bát Xát. Bài mới là chặng nối từ Bắc Hà: gần 30 km vào rừng chè Shan cổ thụ thôn Đội 4, đồi chè 'hình nơm' thôn Đội 3; tour 'hái chè – sao chè – thưởng chè'; chỉ 8 hộ homestay và khoảng 450 lượt khách/năm (giai đoạn 2020–2025) – nơi vắng, cần hẹn trước; thác Pắc Kẹ, suối Bản Liền; xã mới sau hợp nhất với Nậm Khánh; tuyến 'Cung đường di sản văn hóa ruộng bậc thang' khảo sát 10/2026; điểm sạt lở Km30+800 tỉnh lộ 153 (6/2024) và lời khuyên mùa mưa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ky-vong-moi-cho-du-lich-cong-dong-ban-lien-post881872.html",
+        "quote": "Báo Lào Cai, e-magazine 'Kỳ vọng mới cho du lịch cộng đồng Bản Liền' (12/9/2025, đọc 13/10/2026): quãng đường gần 30 km từ Bắc Hà vào rừng chè Shan cổ thụ thôn Đội 4; đồi chè 'như chiếc nơm' ở thôn Đội 3; tour du lịch cộng đồng 'Hái chè – sao chè – thưởng chè Shan'; 8 hộ làm homestay; trung bình 450 lượt khách/năm, doanh thu 165 triệu đồng/năm; điểm du lịch chính: thác Pắc Kẹ, rừng già thôn Đội 4, suối Bản Liền, đồi chè thôn Đội 3, ruộng bậc thang mùa lúa; xã Bản Liền hợp nhất với xã Nậm Khánh thành xã Bản Liền mới; mục tiêu 2025–2030 đón 5.000 lượt khách/năm, hình thành làng du lịch cộng đồng thôn Đội 3.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khao-sat-cung-duong-du-lich-ruong-bac-thang-trai-nghiem-hai-che-tai-xa-ban-lien-post911220.html",
+        "quote": "Báo Lào Cai, 6/10/2026, đọc 13/10/2026: đoàn khảo sát 'Cung đường Di sản văn hóa ruộng bậc thang' đi qua triền núi, thung lũng, ruộng bậc thang xã Bản Liền giữa mùa lúa chín, xuống ruộng gặt lúa, hái chè Shan tuyết cùng người dân giữa những cây chè cổ thụ, nghe người dân kể chuyện bản làng; vùng chè được xem là tài nguyên cho sản phẩm du lịch trải nghiệm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/danh-gia-tinh-kha-thi-tuyen-du-lich-cung-duong-di-san-sau-3-ngay-khao-sat-thuc-te-post911270.html",
+        "quote": "Báo Lào Cai, 6/10/2026, đọc 13/10/2026: sáng 6/10/2026 tại xã Bản Liền, Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh chủ trì hội nghị đánh giá tuyến 'Khám phá cung đường kết nối di sản văn hóa ruộng bậc thang' (hơn 40 đại biểu) sau 3 ngày khảo sát; tuyến liên kết Tú Lệ, Mù Cang Chải, Sa Pa và Bản Liền; bàn giao bộ tài liệu khai thác sản phẩm cho các địa phương.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/bac-ha-tac-duong-tinh-lo-153-do-sat-lo-post385855.html",
+        "quote": "Báo Lào Cai, 26/6/2024 (nguồn trước 2025, đọc 13/10/2026): sau 2 ngày mưa liên tục, đêm 25 rạng sáng 26/6/2024 sạt lở taluy dương dài khoảng 100 m tại Km30+800 Tỉnh lộ 153, thôn San Sả Hồ, xã Thải Giàng Phố (cũ) – đường từ Bắc Hà đi các xã Nậm Khánh, Bản Liền – gây ách tắc cục bộ; cơ quan chức năng huy động máy xúc xử lý.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "bản liền lào cai"
+      }
+    ],
+    "notes": "Không tìm được tin sạt lở/đóng đường tỉnh lộ 153 năm 2025–2026 (tin chính thức laocai.gov.vn về thông tuyến tạm thời tới Bản Liền sau bão – không tải được trang) → chỉ dẫn sự cố 6/2024, ghi rõ là cũ, khuyên hỏi homestay về đường trước khi đi mùa mưa. Không có nguồn chính thức về giá homestay/tour hái chè (trang thương mại ghi 150.000–400.000 đồng – không dùng). 'Gần 30 km' từ Bắc Hà là số của phóng viên, không đo lại. Hành chính: xã Bản Liền, tỉnh Lào Cai (hợp nhất Bản Liền + Nậm Khánh; Bắc Hà cũ).",
+    "outline": [
+      "Bản Liền ở đâu và khác trung tâm Bắc Hà thế nào",
+      "Đường vào: tỉnh lộ 153, gần 30 km, đoạn hay sạt lở",
+      "Rừng chè Shan cổ thụ thôn Đội 4 và đồi chè thôn Đội 3",
+      "Hái chè, sao chè, thác Pắc Kẹ, suối Bản Liền",
+      "Ngủ homestay người Tày: ít hộ, phải đặt trước",
+      "Mùa nào đi và ghép Bản Liền với chợ phiên Bắc Hà"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cho-phien-bac-ha/",
+      "/du-lich/dinh-hoang-a-tuong-bac-ha/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00514.json",
+  "draft_template": {
+    "id": "TM-00514",
+    "url": "/du-lich/ban-lien-lao-cai/",
+    "title": "Bản Liền Lào Cai: chè Shan cổ thụ, homestay Tày, tỉnh lộ 153 từ Bắc Hà",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản liền lào cai, bản liền bắc hà, chè shan tuyết bản liền, homestay bản liền, du lịch cộng đồng bản liền, đường đi bản liền",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bản Liền ở đâu và khác trung tâm Bắc Hà thế nào",
+        "<p></p>"
+      ],
+      [
+        "Đường vào: tỉnh lộ 153, gần 30 km, đoạn hay sạt lở",
+        "<p></p>"
+      ],
+      [
+        "Rừng chè Shan cổ thụ thôn Đội 4 và đồi chè thôn Đội 3",
+        "<p></p>"
+      ],
+      [
+        "Hái chè, sao chè, thác Pắc Kẹ, suối Bản Liền",
+        "<p></p>"
+      ],
+      [
+        "Ngủ homestay người Tày: ít hộ, phải đặt trước",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đi và ghép Bản Liền với chợ phiên Bắc Hà",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/ky-vong-moi-cho-du-lich-cong-dong-ban-lien-post881872.html",
+        "quote": "Báo Lào Cai, e-magazine 'Kỳ vọng mới cho du lịch cộng đồng Bản Liền' (12/9/2025, đọc 13/10/2026): quãng đường gần 30 km từ Bắc Hà vào rừng chè Shan cổ thụ thôn Đội 4; đồi chè 'như chiếc nơm' ở thôn Đội 3; tour du lịch cộng đồng 'Hái chè – sao chè – thưởng chè Shan'; 8 hộ làm homestay; trung bình 450 lượt khách/năm, doanh thu 165 triệu đồng/năm; điểm du lịch chính: thác Pắc Kẹ, rừng già thôn Đội 4, suối Bản Liền, đồi chè thôn Đội 3, ruộng bậc thang mùa lúa; xã Bản Liền hợp nhất với xã Nậm Khánh thành xã Bản Liền mới; mục tiêu 2025–2030 đón 5.000 lượt khách/năm, hình thành làng du lịch cộng đồng thôn Đội 3.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/khao-sat-cung-duong-du-lich-ruong-bac-thang-trai-nghiem-hai-che-tai-xa-ban-lien-post911220.html",
+        "quote": "Báo Lào Cai, 6/10/2026, đọc 13/10/2026: đoàn khảo sát 'Cung đường Di sản văn hóa ruộng bậc thang' đi qua triền núi, thung lũng, ruộng bậc thang xã Bản Liền giữa mùa lúa chín, xuống ruộng gặt lúa, hái chè Shan tuyết cùng người dân giữa những cây chè cổ thụ, nghe người dân kể chuyện bản làng; vùng chè được xem là tài nguyên cho sản phẩm du lịch trải nghiệm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/danh-gia-tinh-kha-thi-tuyen-du-lich-cung-duong-di-san-sau-3-ngay-khao-sat-thuc-te-post911270.html",
+        "quote": "Báo Lào Cai, 6/10/2026, đọc 13/10/2026: sáng 6/10/2026 tại xã Bản Liền, Trung tâm Xúc tiến Đầu tư, Thương mại và Du lịch tỉnh chủ trì hội nghị đánh giá tuyến 'Khám phá cung đường kết nối di sản văn hóa ruộng bậc thang' (hơn 40 đại biểu) sau 3 ngày khảo sát; tuyến liên kết Tú Lệ, Mù Cang Chải, Sa Pa và Bản Liền; bàn giao bộ tài liệu khai thác sản phẩm cho các địa phương.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/bac-ha-tac-duong-tinh-lo-153-do-sat-lo-post385855.html",
+        "quote": "Báo Lào Cai, 26/6/2024 (nguồn trước 2025, đọc 13/10/2026): sau 2 ngày mưa liên tục, đêm 25 rạng sáng 26/6/2024 sạt lở taluy dương dài khoảng 100 m tại Km30+800 Tỉnh lộ 153, thôn San Sả Hồ, xã Thải Giàng Phố (cũ) – đường từ Bắc Hà đi các xã Nậm Khánh, Bản Liền – gây ách tắc cục bộ; cơ quan chức năng huy động máy xúc xử lý.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00514"
+  }
+}

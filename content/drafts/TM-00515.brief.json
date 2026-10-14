@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w20b",
+  "queued": "2026-10-14T00:29:32.127187+00:00",
+  "topic": {
+    "topic_id": "TM-00515",
+    "url": "/du-lich/den-duom-thai-nguyen/",
+    "title": "Đền Đuổm Thái Nguyên: núi Đuổm cạnh quốc lộ 3, hội mùng 6 tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền đuổm",
+    "secondary_keywords": [
+      "đền đuổm thái nguyên",
+      "lễ hội đền đuổm",
+      "núi đuổm",
+      "đền đuổm phú lương",
+      "dương tự minh"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy theo quốc lộ 3 từ Hà Nội lên Thái Nguyên, Định Hóa hay Ba Bể muốn biết đền Đuổm ở đâu, có đáng rẽ vào không, thờ ai, hội đông nhất ngày nào và đền có mấy tầng phải leo.",
+    "information_gain": "Trang chưa có bài nào nhắc đền Đuổm. /du-lich/ha-noi-di-thai-nguyen-xe-may/ nói đồi chè Tân Cương, hồ Núi Cốc; /du-lich/atk-dinh-hoa/ chỉ nhắc Phú Lương là một phần ATK; /du-lich/ho-ba-be-di-xe-may-tu-ha-noi/ đi qua QL3. Bài mới là điểm dừng trên QL3: núi Đuổm (Điểm Sơn) kề quốc lộ 3, cách trung tâm TP Thái Nguyên cũ 24 km; đền thờ Dương Tự Minh (thế kỷ XII); kiến trúc tam cấp đền Thượng – đền Trung – phủ thờ công chúa; di tích quốc gia 1993, lễ hội là di sản phi vật thể quốc gia 2017; lễ mùng 5–6 tháng Giêng, năm 2026 khai hội 22/2; cổng số hóa di tích khai trương 2026; lưu ý các điểm hư hỏng QL3 phía Bắc (Km130+950 trở lên) sau mưa 8–9/2026 nếu đi tiếp lên Bắc Kạn cũ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/thai-nguyen-chinh-thuc-khai-hoi-den-duom-nam-2026-post1094972.vnp",
+        "quote": "VietnamPlus (TTXVN), 22/2/2026, đọc 13/10/2026: ngày 22/2/2026 (mùng 6 tháng Giêng) tại xã Phú Lương, tỉnh Thái Nguyên, lễ hội đền Đuổm năm 2026 khai hội; đền xây khoảng thế kỷ 12 thờ Dương Tự Minh, tướng nhà Lý, người Tày quê phủ Phú Lương xưa; năm 1127 được gả công chúa Diên Bình, năm 1144 gả công chúa Thiều Dung; lễ hội hằng năm mùng 5 và mùng 6 tháng Giêng; năm 1993 xếp hạng di tích lịch sử văn hóa quốc gia; năm 2017 lễ hội được công nhận di sản văn hóa phi vật thể quốc gia; kiến trúc tam cấp gồm đền Thượng, đền Trung và hai phủ thờ công chúa; dịp này khai trương Cổng số hóa di tích đền Đuổm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://thainguyentourism.vn/vi/du-khach/Kham-pha-diem-den/Den-Duom-Nui-Duom-58.html",
+        "quote": "Cổng du lịch Thái Nguyên, 'Đền Đuổm – Núi Đuổm' (19/10/2015, nguồn trước 2025, đọc 13/10/2026): núi Đuổm, xưa gọi Điểm Sơn, nằm kề quốc lộ 3, cách trung tâm thành phố Thái Nguyên (cũ) 24 km về phía Tây Bắc; Đại Nam Nhất Thống Chí xếp Điểm Sơn là danh thắng; sáu ngọn núi đá như sáu đầu rồng, vách đá thẳng đứng, nhiều cây cổ thụ; đền xếp hạng di tích quốc gia năm 1993; lễ hội mùng 6 tháng Giêng hằng năm.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://daithainguyen.vn/danh-cho-du-khach/le-hoi-duom-152.html",
+        "quote": "Trang daithainguyen.vn (mục Dành cho du khách, 'Lễ hội Đuổm', không ghi ngày, đọc 13/10/2026): hội Đuổm là lễ hội lớn thu hút đông khách thập phương nhất tỉnh Thái Nguyên; mùng 6 tháng Giêng là chính hội nhưng trước và sau ngày đó rất đông khách; đồng bào Tày, Sán Chay, Kinh, Dao, Hmông ở xã Động Đạt (cũ) và vùng phụ cận dâng lễ vật lợn quay, xôi gà, bánh dày, bánh khảo, chè lam.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-bo-tinh-huong-khan-cap-ve-thien-tai-tren-quoc-lo-3-va-duong-ho-chi-minh-post1137742.vnp",
+        "quote": "VietnamPlus, 22/9/2026, đọc 13/10/2026: Bộ Xây dựng công bố tình huống khẩn cấp về thiên tai để khắc phục hư hỏng tại Km130+950, Km148+400, Km202+130 Quốc lộ 3 và Km120+650 đường Hồ Chí Minh qua tỉnh Thái Nguyên do mưa lớn từ 18/8 đến 8/9/2026 (các vị trí này nằm xa hơn đền Đuổm về phía Bắc; bài không nêu cấm đường).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền đuổm"
+      }
+    ],
+    "notes": "Hành chính: nguồn 2026 ghi 'xã Phú Lương, tỉnh Thái Nguyên'; daithainguyen ghi xã Động Đạt (cũ). Khoảng cách 24 km tính từ trung tâm TP Thái Nguyên cũ (nguồn 2015) – không đo lại; không có nguồn về số bậc lên đền Thượng, vé, gửi xe, giờ mở cửa → không ghi. Lịch 2027: theo âm lịch mùng 5–6 tháng Giêng; không khẳng định ngày dương. Mục QL3 chỉ là cảnh báo cho người đi tiếp lên phía Bắc; đoạn QL3 gần đền chưa có tin hư hỏng 2026. Xe máy không vào cao tốc Hà Nội – Thái Nguyên: dẫn sang bài Hà Nội đi Thái Nguyên.",
+    "outline": [
+      "Đền Đuổm ở đâu: núi Đuổm kề quốc lộ 3, xã Phú Lương",
+      "Thờ Dương Tự Minh: vì sao người Tày, người Kinh cùng đi hội",
+      "Đền Thượng, đền Trung, phủ công chúa: đi một vòng thế nào",
+      "Hội Đuổm mùng 5–6 tháng Giêng: ngày đông nhất, lễ vật",
+      "Ghép đền Đuổm vào chuyến QL3 đi ATK Định Hóa hoặc Ba Bể",
+      "QL3 sau mùa mưa 2026 và lưu ý khi đi xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-thai-nguyen-xe-may/",
+      "/du-lich/atk-dinh-hoa/",
+      "/du-lich/ho-ba-be-di-xe-may-tu-ha-noi/",
+      "/du-lich/bao-tang-van-hoa-cac-dan-toc-thai-nguyen/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00515.json",
+  "draft_template": {
+    "id": "TM-00515",
+    "url": "/du-lich/den-duom-thai-nguyen/",
+    "title": "Đền Đuổm Thái Nguyên: núi Đuổm cạnh quốc lộ 3, hội mùng 6 tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền đuổm, đền đuổm thái nguyên, lễ hội đền đuổm, núi đuổm, đền đuổm phú lương, dương tự minh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Đuổm ở đâu: núi Đuổm kề quốc lộ 3, xã Phú Lương",
+        "<p></p>"
+      ],
+      [
+        "Thờ Dương Tự Minh: vì sao người Tày, người Kinh cùng đi hội",
+        "<p></p>"
+      ],
+      [
+        "Đền Thượng, đền Trung, phủ công chúa: đi một vòng thế nào",
+        "<p></p>"
+      ],
+      [
+        "Hội Đuổm mùng 5–6 tháng Giêng: ngày đông nhất, lễ vật",
+        "<p></p>"
+      ],
+      [
+        "Ghép đền Đuổm vào chuyến QL3 đi ATK Định Hóa hoặc Ba Bể",
+        "<p></p>"
+      ],
+      [
+        "QL3 sau mùa mưa 2026 và lưu ý khi đi xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/thai-nguyen-chinh-thuc-khai-hoi-den-duom-nam-2026-post1094972.vnp",
+        "quote": "VietnamPlus (TTXVN), 22/2/2026, đọc 13/10/2026: ngày 22/2/2026 (mùng 6 tháng Giêng) tại xã Phú Lương, tỉnh Thái Nguyên, lễ hội đền Đuổm năm 2026 khai hội; đền xây khoảng thế kỷ 12 thờ Dương Tự Minh, tướng nhà Lý, người Tày quê phủ Phú Lương xưa; năm 1127 được gả công chúa Diên Bình, năm 1144 gả công chúa Thiều Dung; lễ hội hằng năm mùng 5 và mùng 6 tháng Giêng; năm 1993 xếp hạng di tích lịch sử văn hóa quốc gia; năm 2017 lễ hội được công nhận di sản văn hóa phi vật thể quốc gia; kiến trúc tam cấp gồm đền Thượng, đền Trung và hai phủ thờ công chúa; dịp này khai trương Cổng số hóa di tích đền Đuổm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "http://thainguyentourism.vn/vi/du-khach/Kham-pha-diem-den/Den-Duom-Nui-Duom-58.html",
+        "quote": "Cổng du lịch Thái Nguyên, 'Đền Đuổm – Núi Đuổm' (19/10/2015, nguồn trước 2025, đọc 13/10/2026): núi Đuổm, xưa gọi Điểm Sơn, nằm kề quốc lộ 3, cách trung tâm thành phố Thái Nguyên (cũ) 24 km về phía Tây Bắc; Đại Nam Nhất Thống Chí xếp Điểm Sơn là danh thắng; sáu ngọn núi đá như sáu đầu rồng, vách đá thẳng đứng, nhiều cây cổ thụ; đền xếp hạng di tích quốc gia năm 1993; lễ hội mùng 6 tháng Giêng hằng năm.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://daithainguyen.vn/danh-cho-du-khach/le-hoi-duom-152.html",
+        "quote": "Trang daithainguyen.vn (mục Dành cho du khách, 'Lễ hội Đuổm', không ghi ngày, đọc 13/10/2026): hội Đuổm là lễ hội lớn thu hút đông khách thập phương nhất tỉnh Thái Nguyên; mùng 6 tháng Giêng là chính hội nhưng trước và sau ngày đó rất đông khách; đồng bào Tày, Sán Chay, Kinh, Dao, Hmông ở xã Động Đạt (cũ) và vùng phụ cận dâng lễ vật lợn quay, xôi gà, bánh dày, bánh khảo, chè lam.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/cong-bo-tinh-huong-khan-cap-ve-thien-tai-tren-quoc-lo-3-va-duong-ho-chi-minh-post1137742.vnp",
+        "quote": "VietnamPlus, 22/9/2026, đọc 13/10/2026: Bộ Xây dựng công bố tình huống khẩn cấp về thiên tai để khắc phục hư hỏng tại Km130+950, Km148+400, Km202+130 Quốc lộ 3 và Km120+650 đường Hồ Chí Minh qua tỉnh Thái Nguyên do mưa lớn từ 18/8 đến 8/9/2026 (các vị trí này nằm xa hơn đền Đuổm về phía Bắc; bài không nêu cấm đường).",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00515"
+  }
+}

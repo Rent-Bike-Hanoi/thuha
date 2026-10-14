@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w20a",
+  "queued": "2026-10-14T00:29:31.969762+00:00",
+  "topic": {
+    "topic_id": "TM-00518",
+    "url": "/du-lich/nha-tho-da-sa-pa/",
+    "title": "Nhà thờ đá Sa Pa: xem gì, đêm Giáng sinh, quảng trường và lưu ý",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ đá sa pa",
+    "secondary_keywords": [
+      "nhà thờ sa pa",
+      "nhà thờ đá sapa",
+      "giáng sinh sa pa",
+      "quảng trường sa pa",
+      "nhà thờ cổ sa pa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy lên Sa Pa muốn biết nhà thờ đá ở đâu trong trung tâm, có gì để xem ngoài chụp ảnh, xây năm nào, đêm Giáng sinh đông ra sao và nên chú ý gì quanh quảng trường (đông, trẻ em xin tiền).",
+    "information_gain": "/du-lich/nui-ham-rong-sa-pa/ chỉ nhắc 'sau Hàm Rồng ghé nhà thờ Đá ở trung tâm'; /du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/, /du-lich/ban-cat-cat-sa-pa/ và /du-lich/cap-treo-fansipan/ không có phần nào về nhà thờ. Bài mới dành riêng cho công trình biểu tượng ở trung tâm phường Sa Pa: giáo xứ lập năm 1902; năm khởi công đang mâu thuẫn giữa các nguồn (1895 theo VnExpress, 1925–1935 theo Báo Lào Cai) và cách viết cho đúng; kích thước 7,6 × 39 m, tháp chuông 18 m, chuông đồng đúc 1932 nặng 300 kg; khôi phục năm 1995; quảng trường và ga tàu leo núi đối diện; đêm 24/12 đông nhất; tình trạng trẻ em nhảy múa xin tiền quanh nhà thờ và quảng trường (2/2025) để khách biết cách ứng xử.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/nha-tho-da-co-diem-du-lich-hap-dan-cua-sa-pa-post350972.html",
+        "quote": "Báo Lào Cai, 'Nhà thờ đá cổ – điểm du lịch hấp dẫn của Sa Pa' (23/12/2021, nguồn trước 2025, đọc 13/10/2026): năm 1902 Hội thừa sai Paris lập Giáo xứ Sa Pa, năm 1925 bắt tay xây nhà thờ, năm 1935 hoàn thành và đưa vào sử dụng; nhà thờ rộng 7,6 m, dài 39 m, hai bên thánh giá cao 14 m, tháp chuông cao 18 m; quả chuông đúc bằng đồng năm 1932 nặng 300 kg; lưng dựa núi Hàm Rồng, cổng nhìn hướng mặt trời mọc; bị tàn phá trong chiến tranh, năm 1995 được khôi phục cho giáo dân hành lễ và khách tham quan.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Sa Pa' (đăng 4/6/2020, cập nhật 16/4/2026, đọc 13/10/2026): sau núi Hàm Rồng trở về trung tâm ghé nhà thờ Đá Sa Pa, 'công trình biểu tượng của phố núi được khởi công năm 1895'; xây theo hình thập giá, phong cách Gothic ở mái, tháp chuông, vòm cuốn; quảng trường Sa Pa đối diện nhà thờ; ga tàu hỏa leo núi Fansipan đối diện quảng trường.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nan-tre-em-nhay-mua-xin-tien-du-khach-o-sa-pa-4850221.html",
+        "quote": "VnExpress, 'Nạn trẻ em nhảy múa xin tiền du khách ở Sa Pa' (17/2/2025, đọc 13/10/2026): trẻ em 5–10 tuổi mặc trang phục dân tộc bật loa kéo nhảy múa xin tiền ở khu vực quảng trường, nhà thờ Đá; từ giữa tháng 2/2025 thị xã tăng cường lực lượng xử lý, sau một tuần 'dẹp' gần hết nhưng khó kiểm soát cuối tuần đông khách; nguyên nhân từ hoàn cảnh kinh tế khó khăn của nhiều hộ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/nhon-nhip-khong-khi-giang-sinh-tai-thi-xa-sa-pa-post377626.html",
+        "quote": "Báo Lào Cai, 'Nhộn nhịp không khí Giáng sinh tại thị xã Sa Pa' (24/12/2023, nguồn trước 2025, đọc 13/10/2026): mỗi mùa Giáng sinh nhà thờ đá Sa Pa là điểm thu hút đông người dân, du khách; phố trung tâm gần nhà thờ trang hoàng đèn, cây thông; khoảng 19h30 tối 24/12 dòng người đổ về; có chương trình hoan ca mừng Giáng sinh; cùng thời điểm có Lễ hội mùa Đông.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "nhà thờ đá sa pa"
+      }
+    ],
+    "notes": "Năm xây dựng mâu thuẫn: VnExpress (cập nhật 4/2026) ghi khởi công 1895; Báo Lào Cai (2021) ghi giáo xứ lập 1902, khởi công 1925, xong 1935 – không đưa năm vào tiêu đề; trình bày cả hai và nói rõ nguồn. Tháp chuông 18 m (Báo Lào Cai) – các trang thương mại ghi 20 m, không dùng. Không tìm được nguồn chính thức về giờ lễ, giờ mở cửa cho khách, quy định trang phục → không ghi giờ; khuyên tôn trọng giờ lễ, không vào khi đang lễ nếu không dự lễ. Nguồn Giáng sinh là năm 2023; không có kế hoạch 2026. Không có vé (không thấy nguồn nói thu vé – không khẳng định). Xe máy: gửi ở bãi quanh trung tâm; không có nguồn về điểm gửi xe cụ thể. Hành chính: phường Sa Pa, tỉnh Lào Cai. Viết tôn trọng, không quay phim trong giờ lễ.",
+    "outline": [
+      "Nhà thờ đá ở đâu: trung tâm phường Sa Pa, cạnh quảng trường",
+      "Xây năm nào: hai mốc 1895 và 1925–1935 theo từng nguồn",
+      "Xem gì: kiến trúc Gothic, tháp chuông 18 m, chuông đồng 1932",
+      "Đêm Giáng sinh và mùa đông: đông nhất lúc nào",
+      "Ứng xử quanh quảng trường: giờ lễ, trẻ em xin tiền, chụp ảnh",
+      "Ghép nhà thờ với Hàm Rồng, ga tàu leo núi Fansipan, bản Cát Cát"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/du-lich/nui-ham-rong-sa-pa/",
+      "/du-lich/cap-treo-fansipan/",
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/du-lich/deo-o-quy-ho/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00518.json",
+  "draft_template": {
+    "id": "TM-00518",
+    "url": "/du-lich/nha-tho-da-sa-pa/",
+    "title": "Nhà thờ đá Sa Pa: xem gì, đêm Giáng sinh, quảng trường và lưu ý",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ đá sa pa, nhà thờ sa pa, nhà thờ đá sapa, giáng sinh sa pa, quảng trường sa pa, nhà thờ cổ sa pa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ đá ở đâu: trung tâm phường Sa Pa, cạnh quảng trường",
+        "<p></p>"
+      ],
+      [
+        "Xây năm nào: hai mốc 1895 và 1925–1935 theo từng nguồn",
+        "<p></p>"
+      ],
+      [
+        "Xem gì: kiến trúc Gothic, tháp chuông 18 m, chuông đồng 1932",
+        "<p></p>"
+      ],
+      [
+        "Đêm Giáng sinh và mùa đông: đông nhất lúc nào",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử quanh quảng trường: giờ lễ, trẻ em xin tiền, chụp ảnh",
+        "<p></p>"
+      ],
+      [
+        "Ghép nhà thờ với Hàm Rồng, ga tàu leo núi Fansipan, bản Cát Cát",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/nha-tho-da-co-diem-du-lich-hap-dan-cua-sa-pa-post350972.html",
+        "quote": "Báo Lào Cai, 'Nhà thờ đá cổ – điểm du lịch hấp dẫn của Sa Pa' (23/12/2021, nguồn trước 2025, đọc 13/10/2026): năm 1902 Hội thừa sai Paris lập Giáo xứ Sa Pa, năm 1925 bắt tay xây nhà thờ, năm 1935 hoàn thành và đưa vào sử dụng; nhà thờ rộng 7,6 m, dài 39 m, hai bên thánh giá cao 14 m, tháp chuông cao 18 m; quả chuông đúc bằng đồng năm 1932 nặng 300 kg; lưng dựa núi Hàm Rồng, cổng nhìn hướng mặt trời mọc; bị tàn phá trong chiến tranh, năm 1995 được khôi phục cho giáo dân hành lễ và khách tham quan.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html",
+        "quote": "VnExpress, 'Kinh nghiệm du lịch Sa Pa' (đăng 4/6/2020, cập nhật 16/4/2026, đọc 13/10/2026): sau núi Hàm Rồng trở về trung tâm ghé nhà thờ Đá Sa Pa, 'công trình biểu tượng của phố núi được khởi công năm 1895'; xây theo hình thập giá, phong cách Gothic ở mái, tháp chuông, vòm cuốn; quảng trường Sa Pa đối diện nhà thờ; ga tàu hỏa leo núi Fansipan đối diện quảng trường.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nan-tre-em-nhay-mua-xin-tien-du-khach-o-sa-pa-4850221.html",
+        "quote": "VnExpress, 'Nạn trẻ em nhảy múa xin tiền du khách ở Sa Pa' (17/2/2025, đọc 13/10/2026): trẻ em 5–10 tuổi mặc trang phục dân tộc bật loa kéo nhảy múa xin tiền ở khu vực quảng trường, nhà thờ Đá; từ giữa tháng 2/2025 thị xã tăng cường lực lượng xử lý, sau một tuần 'dẹp' gần hết nhưng khó kiểm soát cuối tuần đông khách; nguyên nhân từ hoàn cảnh kinh tế khó khăn của nhiều hộ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/nhon-nhip-khong-khi-giang-sinh-tai-thi-xa-sa-pa-post377626.html",
+        "quote": "Báo Lào Cai, 'Nhộn nhịp không khí Giáng sinh tại thị xã Sa Pa' (24/12/2023, nguồn trước 2025, đọc 13/10/2026): mỗi mùa Giáng sinh nhà thờ đá Sa Pa là điểm thu hút đông người dân, du khách; phố trung tâm gần nhà thờ trang hoàng đèn, cây thông; khoảng 19h30 tối 24/12 dòng người đổ về; có chương trình hoan ca mừng Giáng sinh; cùng thời điểm có Lễ hội mùa Đông.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00518"
+  }
+}

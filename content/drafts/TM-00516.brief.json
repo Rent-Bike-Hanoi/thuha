@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w20a",
+  "queued": "2026-10-14T00:29:31.969418+00:00",
+  "topic": {
+    "topic_id": "TM-00516",
+    "url": "/du-lich/cao-nguyen-da-ta-phin-tua-chua/",
+    "title": "Cao nguyên đá Tả Phìn Tủa Chùa: bãi đá tai mèo, thành Vàng Lồng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cao nguyên đá tả phìn tủa chùa",
+    "secondary_keywords": [
+      "cao nguyên đá tủa chùa",
+      "thành vàng lồng",
+      "bãi đá cổ tả phìn",
+      "tủa chùa điện biên",
+      "chè shan tuyết sín chải"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy vòng Tây Bắc qua Điện Biên muốn rẽ lên Tủa Chùa xem cao nguyên đá Tả Phìn: cách thị trấn bao xa, đường có hay sạt lở không, ở Tả Phìn có gì (bãi đá, thành Vàng Lồng, ruộng Chiếu Tính) và mùa nào nên đi.",
+    "information_gain": "Trang chưa có bài nào nhắc Tủa Chùa hay Tả Phìn (Điện Biên); /du-lich/ha-noi-di-dien-bien-bang-xe-may/ chỉ đi QL6 – Pha Đin vào TP Điện Biên Phủ; /du-lich/ban-ta-phin-sa-pa/ là Tả Phìn khác ở Sa Pa (dễ nhầm tên). Bài mới: bãi đá tai mèo dài khoảng 4 km theo đường liên xã, cách thị trấn Tủa Chùa cũ khoảng 30–35 km tùy nguồn; thành Vàng Lồng gần 3 thế kỷ, tường đá cao trung bình 2 m, mặt rộng 1 m, xây trong 9 năm; ruộng bậc thang Chiếu Tính; nối với chè Shan cổ thụ Sín Chải, chợ phiên Tả Sìn Thàng dọc tỉnh lộ 140; mùa đẹp tháng 9 đến tháng 5 năm sau; sạt lở tại Km40+600 tuyến Tủa Chùa – Tả Phìn và nhiều điểm ĐT140, ĐT144, Đèo Gió – Tả Sìn Thàng ngày 6/7/2026.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/portal/pages/2021-6-22/Tua-Chua--Diem-trai-nghiem-thu-vi-cho-du-khachnt1tik711wh8.aspx",
+        "quote": "Sở VHTTDL Điện Biên, 'Tủa Chùa – Điểm trải nghiệm thú vị cho du khách' (22/6/2021, nguồn trước 2025, đọc 13/10/2026): Tủa Chùa đẹp nhất từ tháng 9 năm trước tới tháng 5 năm sau; Sín Chải (xã cực Bắc của huyện cũ) có chè Tuyết Shan cổ thụ và rượu Mông Pê; ngược tỉnh lộ 140 là Tả Sìn Thàng với chợ phiên lâu đời; cách Tả Sìn Thàng 10 km về phía Nam dọc tỉnh lộ 140 là xã Tả Phìn, nổi tiếng cao nguyên đá tai mèo; thành Vàng Lồng trong cao nguyên đá Tả Phìn xây cách đây gần 3 thế kỷ, bằng đá ghè đẽo thủ công, cao trung bình 2 m, mặt thành rộng 1 m, người và ngựa đi được trên mặt thành, xây trong 9 năm; hang Xá Nhè, Khó Chua La cách thị trấn khoảng 15 km, chợ phiên Xá Nhè họp ngày Mão, ngày Dậu.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichdienbien.vietnaminfo.net/vi/blog/details/kham-pha-reo-cao-tua-chua-dien-bien-114",
+        "quote": "Cổng thông tin du lịch Điện Biên, 'Khám phá rẻo cao Tủa Chùa' (29/5/2024, nguồn trước 2025, đọc 13/10/2026): cách thị trấn Tủa Chùa khoảng 35 km về phía Bắc là xã Tả Phìn với cao nguyên đá cổ dài khoảng 4 km, đá tai mèo 'mọc' từ thung lũng lên đỉnh đồi; thành Vàng Lồng xây cách đây gần 3 thế kỷ; cánh đồng ruộng bậc thang Chiếu Tính là một trong những cánh đồng lớn nhất huyện; điểm săn mây, ngắm hoàng hôn thôn Kể Cải (xã Mường Báng cũ) cách thị trấn khoảng 3 km, giáp tỉnh lộ 144, đầu tư từ cuối năm 2022.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/trai-nghiem-thien-nhien-van-hoa-tua-chua-17857.html",
+        "quote": "Báo Dân tộc và Phát triển, 'Trải nghiệm thiên nhiên – văn hóa Tủa Chùa' (6/7/2021, nguồn trước 2025, đọc 13/10/2026): Tủa Chùa có 3/4 diện tích là núi đá tai mèo, núi đá vôi; chủ yếu đồng bào Mông; đẹp nhất từ tháng 9 đến tháng 5 năm sau; homestay ven hồ ở thôn Huổi Trẳng (xã Tủa Thàng cũ), Huổi Lóng (xã Huổi Só cũ); cách Tả Sìn Thàng 10 km về phía Nam dọc tỉnh lộ 140 là xã Tả Phìn; ruộng bậc thang Tà Là Cáo, Đề Dê Hu ở xã Sính Phình (cũ).",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hoan-luu-bao-so-1-gay-sat-lo-nhieu-tuyen-duong-o-dien-bien-post1122575.vnp",
+        "quote": "VietnamPlus (TTXVN), 6/7/2026, đọc 13/10/2026: hoàn lưu bão số 1 gây sạt lở trên Quốc lộ 6, các tuyến ĐT140, ĐT144, ĐT140B (Đèo Gió – Tả Sìn Thàng), tuyến Huổi Só – Huổi Lóng và Tủa Chùa – Tả Phìn; tại Km40+600 tuyến Tủa Chùa – Tả Phìn đất đá tràn xuống mặt đường; ĐT140 Km55+950 nhiều tảng đá lớn lăn xuống; Đèo Gió – Tả Sìn Thàng Km16+450 tắc cục bộ; ĐT144 Km22+200 sạt lở khối lượng lớn; Huổi Só – Huổi Lóng Km2+550 mặt đường bị vùi lấp.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "cao nguyên đá tả phìn tủa chùa"
+      }
+    ],
+    "notes": "Khoảng cách thị trấn Tủa Chùa – Tả Phìn: 'khoảng 35 km' (cổng du lịch tỉnh 2024) so với 'khoảng 30 km' (một trang khác, chưa đọc kỹ) → ghi 'khoảng 30–35 km', không đưa vào tiêu đề. Không có nguồn chính thức về quãng đường TP Điện Biên Phủ hoặc Tuần Giáo – Tủa Chùa (trang thương mại ghi 130 km – không dùng); người viết chỉ nói Tủa Chùa đi theo ĐT140 từ hướng Tuần Giáo nếu tìm được nguồn, nếu không thì bỏ. Hành chính sau 7/2025: nguồn 2026 dùng 'xã Tủa Chùa' và tên tuyến 'Tủa Chùa – Tả Phìn'; Tả Phìn, Sín Chải, Sính Phình, Mường Báng là tên xã cũ – ghi kèm '(cũ)'. Không có nguồn về vé, homestay ở Tả Phìn, trạm xăng trên ĐT140 → khuyên đổ đầy xăng ở trung tâm xã. Tin sạt lở 7/2026 đã được xử lý hay chưa: bài không nêu thời điểm thông xe từng điểm. Đừng nhầm với bản Tả Phìn ở Sa Pa.",
+    "outline": [
+      "Tả Phìn của Tủa Chùa ở đâu (đừng nhầm Tả Phìn Sa Pa)",
+      "Đường xe máy: tỉnh lộ 140, tuyến Tủa Chùa – Tả Phìn và các điểm sạt lở 7/2026",
+      "Bãi đá tai mèo 4 km và thành Vàng Lồng",
+      "Ruộng Chiếu Tính, chè Shan Sín Chải, chợ phiên Tả Sìn Thàng",
+      "Mùa đi: tháng 9 đến tháng 5, tránh mưa lớn tháng 6–8",
+      "Xăng, chỗ ngủ và giờ quay về khi đi xe máy"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/du-lich/doi-a1-dien-bien/",
+      "/du-lich/so-chi-huy-muong-phang/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/kinh-nghiem/xe-may-het-xang-giua-duong/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00516.json",
+  "draft_template": {
+    "id": "TM-00516",
+    "url": "/du-lich/cao-nguyen-da-ta-phin-tua-chua/",
+    "title": "Cao nguyên đá Tả Phìn Tủa Chùa: bãi đá tai mèo, thành Vàng Lồng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cao nguyên đá tả phìn tủa chùa, cao nguyên đá tủa chùa, thành vàng lồng, bãi đá cổ tả phìn, tủa chùa điện biên, chè shan tuyết sín chải",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tả Phìn của Tủa Chùa ở đâu (đừng nhầm Tả Phìn Sa Pa)",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: tỉnh lộ 140, tuyến Tủa Chùa – Tả Phìn và các điểm sạt lở 7/2026",
+        "<p></p>"
+      ],
+      [
+        "Bãi đá tai mèo 4 km và thành Vàng Lồng",
+        "<p></p>"
+      ],
+      [
+        "Ruộng Chiếu Tính, chè Shan Sín Chải, chợ phiên Tả Sìn Thàng",
+        "<p></p>"
+      ],
+      [
+        "Mùa đi: tháng 9 đến tháng 5, tránh mưa lớn tháng 6–8",
+        "<p></p>"
+      ],
+      [
+        "Xăng, chỗ ngủ và giờ quay về khi đi xe máy",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://svhttdl.dienbien.gov.vn/portal/pages/2021-6-22/Tua-Chua--Diem-trai-nghiem-thu-vi-cho-du-khachnt1tik711wh8.aspx",
+        "quote": "Sở VHTTDL Điện Biên, 'Tủa Chùa – Điểm trải nghiệm thú vị cho du khách' (22/6/2021, nguồn trước 2025, đọc 13/10/2026): Tủa Chùa đẹp nhất từ tháng 9 năm trước tới tháng 5 năm sau; Sín Chải (xã cực Bắc của huyện cũ) có chè Tuyết Shan cổ thụ và rượu Mông Pê; ngược tỉnh lộ 140 là Tả Sìn Thàng với chợ phiên lâu đời; cách Tả Sìn Thàng 10 km về phía Nam dọc tỉnh lộ 140 là xã Tả Phìn, nổi tiếng cao nguyên đá tai mèo; thành Vàng Lồng trong cao nguyên đá Tả Phìn xây cách đây gần 3 thế kỷ, bằng đá ghè đẽo thủ công, cao trung bình 2 m, mặt thành rộng 1 m, người và ngựa đi được trên mặt thành, xây trong 9 năm; hang Xá Nhè, Khó Chua La cách thị trấn khoảng 15 km, chợ phiên Xá Nhè họp ngày Mão, ngày Dậu.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichdienbien.vietnaminfo.net/vi/blog/details/kham-pha-reo-cao-tua-chua-dien-bien-114",
+        "quote": "Cổng thông tin du lịch Điện Biên, 'Khám phá rẻo cao Tủa Chùa' (29/5/2024, nguồn trước 2025, đọc 13/10/2026): cách thị trấn Tủa Chùa khoảng 35 km về phía Bắc là xã Tả Phìn với cao nguyên đá cổ dài khoảng 4 km, đá tai mèo 'mọc' từ thung lũng lên đỉnh đồi; thành Vàng Lồng xây cách đây gần 3 thế kỷ; cánh đồng ruộng bậc thang Chiếu Tính là một trong những cánh đồng lớn nhất huyện; điểm săn mây, ngắm hoàng hôn thôn Kể Cải (xã Mường Báng cũ) cách thị trấn khoảng 3 km, giáp tỉnh lộ 144, đầu tư từ cuối năm 2022.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/trai-nghiem-thien-nhien-van-hoa-tua-chua-17857.html",
+        "quote": "Báo Dân tộc và Phát triển, 'Trải nghiệm thiên nhiên – văn hóa Tủa Chùa' (6/7/2021, nguồn trước 2025, đọc 13/10/2026): Tủa Chùa có 3/4 diện tích là núi đá tai mèo, núi đá vôi; chủ yếu đồng bào Mông; đẹp nhất từ tháng 9 đến tháng 5 năm sau; homestay ven hồ ở thôn Huổi Trẳng (xã Tủa Thàng cũ), Huổi Lóng (xã Huổi Só cũ); cách Tả Sìn Thàng 10 km về phía Nam dọc tỉnh lộ 140 là xã Tả Phìn; ruộng bậc thang Tà Là Cáo, Đề Dê Hu ở xã Sính Phình (cũ).",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hoan-luu-bao-so-1-gay-sat-lo-nhieu-tuyen-duong-o-dien-bien-post1122575.vnp",
+        "quote": "VietnamPlus (TTXVN), 6/7/2026, đọc 13/10/2026: hoàn lưu bão số 1 gây sạt lở trên Quốc lộ 6, các tuyến ĐT140, ĐT144, ĐT140B (Đèo Gió – Tả Sìn Thàng), tuyến Huổi Só – Huổi Lóng và Tủa Chùa – Tả Phìn; tại Km40+600 tuyến Tủa Chùa – Tả Phìn đất đá tràn xuống mặt đường; ĐT140 Km55+950 nhiều tảng đá lớn lăn xuống; Đèo Gió – Tả Sìn Thàng Km16+450 tắc cục bộ; ĐT144 Km22+200 sạt lở khối lượng lớn; Huổi Só – Huổi Lóng Km2+550 mặt đường bị vùi lấp.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00516"
+  }
+}

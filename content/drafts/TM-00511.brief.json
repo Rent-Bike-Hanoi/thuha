@@ -1,0 +1,172 @@
+{
+  "writer": "writer-w20b",
+  "queued": "2026-10-14T00:29:32.125477+00:00",
+  "topic": {
+    "topic_id": "TM-00511",
+    "url": "/du-lich/den-bac-le-lang-son/",
+    "title": "Đền Bắc Lệ Lạng Sơn: rẽ từ ngã tư Mẹt, chính hội 20/9 âm lịch",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền bắc lệ",
+    "secondary_keywords": [
+      "đền công đồng bắc lệ",
+      "lễ hội đền bắc lệ",
+      "đền bắc lệ hữu lũng",
+      "đường đi đền bắc lệ",
+      "chầu bé bắc lệ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn chạy xe máy đi lễ đền Bắc Lệ (Lạng Sơn) trong ngày: rẽ ở đâu khỏi quốc lộ 1, xa bao nhiêu, ngày chính hội là ngày nào, rước kiệu mấy giờ và nên tránh ngày nào cho đỡ đông.",
+    "information_gain": "Trang chưa có bài nào nhắc đền Bắc Lệ. /du-lich/ha-noi-di-lang-son-bang-xe-may/ và /du-lich/ai-chi-lang-lang-son/ chỉ nói Hữu Lũng như đoạn đi qua trên QL1; /du-lich/ho-cam-son/ nói hồ giáp Hữu Lũng. Bài mới cho chuyến đi lễ bằng xe máy: vị trí thôn Bắc Lệ, xã Tân Thành (Lạng Sơn); lối rẽ ở ngã tư Mẹt rồi khoảng 12 km, ga Bắc Lệ cách đền 50 m (cổng du lịch Lạng Sơn); di tích công nhận 1992; lịch lễ trong năm (Thượng Nguyên, vào hè, ra hè, Tiệc Mẫu 18–20/9 âm lịch, tất niên 15–25 tháng Chạp); nghi thức rước kiệu sáng 20/9 âm lịch sang đền Đèo Kẻng, tới nơi khoảng 9–10 giờ (Kế hoạch 50/KH-UBND xã Tân Thành năm 2025), phục dựng từ 2018 sau 70 năm thất truyền.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://tanthanh.langson.gov.vn/tin-tuc-su-kien/du-lich/khai-mac-le-hoi-den-cong-dong-bac-le.html",
+        "quote": "Cổng TTĐT xã Tân Thành, tỉnh Lạng Sơn, 'Khai mạc lễ hội Đền công đồng Bắc Lệ' (10/11/2025, đọc 13/10/2026): thực hiện Kế hoạch số 50/KH-UBND xã Tân Thành ngày 17/10/2025 về tổ chức Lễ hội đền Công đồng Bắc Lệ năm 2025; lễ Mẫu tổ chức từ 18 đến 20/9 âm lịch; sáng sớm 20/9 âm lịch đoàn rước kiệu khởi hành từ đền Bắc Lệ sang đền Đèo Kẻng, tới nơi khoảng 9–10 giờ sáng, làm lễ đại tế rồi rước về đền Bắc Lệ; hai kiệu bát cống, mỗi kiệu 8 người khiêng; lễ hội được phục dựng từ năm 2018 và duy trì đến nay.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://langsontourism.com.vn/en/detailnews/?t=tiem-nang-phat-trien-du-lich-tai-den-bac-le-huyen-huu-lung-tinh-lang-son&id=news_1323",
+        "quote": "Cổng thông tin du lịch Lạng Sơn, 'Tiềm năng phát triển du lịch tại đền Bắc Lệ' (30/11/2021, nguồn trước 2025, đọc 13/10/2026): đền có tên chữ Bắc Lệ Linh từ, thôn Bắc Lệ, xã Tân Thành, huyện Hữu Lũng (cũ); được công nhận di tích lịch sử, văn hóa năm 1992; đi đường bộ từ Hà Nội hướng lên TP Lạng Sơn, đến ngã tư Mẹt rẽ phải đi 12 km là đến đền; đường sắt từ ga Hà Nội hoặc Gia Lâm lên ga Bắc Lệ, ga cách đền 50 m.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://btgcp.gov.vn/pages/detail/9176/Den-tho-Mau-Thuong-Ngan-Bac-Le-tinh-Lang-Son.html",
+        "quote": "Ban Tôn giáo Chính phủ, 'Đền thờ Mẫu Thượng Ngàn Bắc Lệ, tỉnh Lạng Sơn' (17/1/2024, nguồn trước 2025, đọc 13/10/2026): văn bia năm Khải Định thứ 4 (1919) cho biết trước đó đền là am thờ nhỏ bị hỏa hoạn, năm 1919 xây thành nhà ba gian; còn 19 pho tượng gỗ mít; đền thờ Mẫu Thượng Ngàn và Chầu Bé; lễ hội hằng năm ngày 20/9 âm lịch; lễ tất niên 15–25 tháng Chạp âm lịch; lễ tiệc Mẫu 18–20 tháng Chín âm lịch là chính hội; khách Hà Nội thường đi lễ tháng Giêng, tháng Chạp và tháng Chín âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/phuc-dung-le-hoi-truyen-thong-den-cong-dong-bac-le-1174502.html",
+        "quote": "Báo Lạng Sơn, 'Phục dựng lễ hội truyền thống đền công đồng Bắc Lệ' (28/10/2018, nguồn trước 2025, đọc 13/10/2026): UBND xã Tân Thành và Ban quản lý đền tổ chức lễ hội ngày 20/9 âm lịch và phục dựng lễ rước từ đền Bắc Lệ sang đền Đèo Kẻng (xã Hồ Sơn cũ), năm đầu tiên phục dựng sau 70 năm thất truyền; đền thờ tam vị Thánh Mẫu, Công đồng chư thánh và Chầu Bé Bắc Lệ.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://langsongeopark.com.vn/di-san-van-hoa/le-hoi-den-bac-le-n28.html",
+        "quote": "Công viên địa chất Lạng Sơn, 'Lễ hội đền Bắc Lệ' (7/7/2022, nguồn trước 2025, đọc 13/10/2026): đền xây khoảng thế kỷ XVI–XVII; ba tòa Tiền Tế – Đại Bái – Hậu Cung; được coi là một trong ba nơi thờ chính của Mẫu Thượng Ngàn (cùng đền Suối Mỡ, đền Đông Cuông); lễ trong năm gồm Thượng Nguyên, lễ vào hè, lễ ra hè, Tiệc Mẫu (chính hội), lễ tất niên; chính hội 20/9 âm lịch thu hút hàng ngàn người.",
+        "verbatim": false,
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "đền bắc lệ"
+      }
+    ],
+    "notes": "Hành chính: nguồn 2025 dùng 'xã Tân Thành, tỉnh Lạng Sơn' (Hữu Lũng cũ). '12 km từ ngã tư Mẹt' là số của cổng du lịch tỉnh năm 2021 – không đo lại; không có nguồn chính thức về khoảng cách Hà Nội – đền (chỉ có trang thương mại) → không ghi số tổng. Ngày dương lịch của 20/9 âm lịch năm 2026 không có nguồn công bố kế hoạch 2026 (chỉ có kế hoạch 2025) – người viết tự đối chiếu lịch âm, ghi 'theo âm lịch', không khẳng định lịch rước 2026. Không có nguồn về vé, phí gửi xe, giờ mở cửa – không ghi. Đây là nơi thờ tự: nhắc trang phục, không ghi lời khuyên dâng lễ/đồng bóng. Xe máy không đi cao tốc: dẫn sang bài Hà Nội đi Lạng Sơn cho đoạn QL1.",
+    "outline": [
+      "Đền Bắc Lệ ở đâu: thôn Bắc Lệ, xã Tân Thành, Lạng Sơn",
+      "Đường xe máy: QL1 tới ngã tư Mẹt rồi rẽ khoảng 12 km",
+      "Đền thờ ai: Mẫu Thượng Ngàn, Chầu Bé, di tích từ 1992",
+      "Lịch lễ trong năm và chính hội 18–20/9 âm lịch",
+      "Lễ rước kiệu sang đền Đèo Kẻng: giờ nào, đứng xem ở đâu",
+      "Đi ngày thường hay ngày hội, trang phục và ghép với ải Chi Lăng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-lang-son-bang-xe-may/",
+      "/du-lich/ai-chi-lang-lang-son/",
+      "/du-lich/ho-cam-son/",
+      "/du-lich/bac-son-di-xe-may-tu-ha-noi/",
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00511.json",
+  "draft_template": {
+    "id": "TM-00511",
+    "url": "/du-lich/den-bac-le-lang-son/",
+    "title": "Đền Bắc Lệ Lạng Sơn: rẽ từ ngã tư Mẹt, chính hội 20/9 âm lịch",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền bắc lệ, đền công đồng bắc lệ, lễ hội đền bắc lệ, đền bắc lệ hữu lũng, đường đi đền bắc lệ, chầu bé bắc lệ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Bắc Lệ ở đâu: thôn Bắc Lệ, xã Tân Thành, Lạng Sơn",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: QL1 tới ngã tư Mẹt rồi rẽ khoảng 12 km",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ ai: Mẫu Thượng Ngàn, Chầu Bé, di tích từ 1992",
+        "<p></p>"
+      ],
+      [
+        "Lịch lễ trong năm và chính hội 18–20/9 âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Lễ rước kiệu sang đền Đèo Kẻng: giờ nào, đứng xem ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Đi ngày thường hay ngày hội, trang phục và ghép với ải Chi Lăng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://tanthanh.langson.gov.vn/tin-tuc-su-kien/du-lich/khai-mac-le-hoi-den-cong-dong-bac-le.html",
+        "quote": "Cổng TTĐT xã Tân Thành, tỉnh Lạng Sơn, 'Khai mạc lễ hội Đền công đồng Bắc Lệ' (10/11/2025, đọc 13/10/2026): thực hiện Kế hoạch số 50/KH-UBND xã Tân Thành ngày 17/10/2025 về tổ chức Lễ hội đền Công đồng Bắc Lệ năm 2025; lễ Mẫu tổ chức từ 18 đến 20/9 âm lịch; sáng sớm 20/9 âm lịch đoàn rước kiệu khởi hành từ đền Bắc Lệ sang đền Đèo Kẻng, tới nơi khoảng 9–10 giờ sáng, làm lễ đại tế rồi rước về đền Bắc Lệ; hai kiệu bát cống, mỗi kiệu 8 người khiêng; lễ hội được phục dựng từ năm 2018 và duy trì đến nay.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://langsontourism.com.vn/en/detailnews/?t=tiem-nang-phat-trien-du-lich-tai-den-bac-le-huyen-huu-lung-tinh-lang-son&id=news_1323",
+        "quote": "Cổng thông tin du lịch Lạng Sơn, 'Tiềm năng phát triển du lịch tại đền Bắc Lệ' (30/11/2021, nguồn trước 2025, đọc 13/10/2026): đền có tên chữ Bắc Lệ Linh từ, thôn Bắc Lệ, xã Tân Thành, huyện Hữu Lũng (cũ); được công nhận di tích lịch sử, văn hóa năm 1992; đi đường bộ từ Hà Nội hướng lên TP Lạng Sơn, đến ngã tư Mẹt rẽ phải đi 12 km là đến đền; đường sắt từ ga Hà Nội hoặc Gia Lâm lên ga Bắc Lệ, ga cách đền 50 m.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://btgcp.gov.vn/pages/detail/9176/Den-tho-Mau-Thuong-Ngan-Bac-Le-tinh-Lang-Son.html",
+        "quote": "Ban Tôn giáo Chính phủ, 'Đền thờ Mẫu Thượng Ngàn Bắc Lệ, tỉnh Lạng Sơn' (17/1/2024, nguồn trước 2025, đọc 13/10/2026): văn bia năm Khải Định thứ 4 (1919) cho biết trước đó đền là am thờ nhỏ bị hỏa hoạn, năm 1919 xây thành nhà ba gian; còn 19 pho tượng gỗ mít; đền thờ Mẫu Thượng Ngàn và Chầu Bé; lễ hội hằng năm ngày 20/9 âm lịch; lễ tất niên 15–25 tháng Chạp âm lịch; lễ tiệc Mẫu 18–20 tháng Chín âm lịch là chính hội; khách Hà Nội thường đi lễ tháng Giêng, tháng Chạp và tháng Chín âm lịch.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "press",
+        "source": "https://baolangson.vn/phuc-dung-le-hoi-truyen-thong-den-cong-dong-bac-le-1174502.html",
+        "quote": "Báo Lạng Sơn, 'Phục dựng lễ hội truyền thống đền công đồng Bắc Lệ' (28/10/2018, nguồn trước 2025, đọc 13/10/2026): UBND xã Tân Thành và Ban quản lý đền tổ chức lễ hội ngày 20/9 âm lịch và phục dựng lễ rước từ đền Bắc Lệ sang đền Đèo Kẻng (xã Hồ Sơn cũ), năm đầu tiên phục dựng sau 70 năm thất truyền; đền thờ tam vị Thánh Mẫu, Công đồng chư thánh và Chầu Bé Bắc Lệ.",
+        "checked": "2026-10-13"
+      },
+      {
+        "type": "official",
+        "source": "https://langsongeopark.com.vn/di-san-van-hoa/le-hoi-den-bac-le-n28.html",
+        "quote": "Công viên địa chất Lạng Sơn, 'Lễ hội đền Bắc Lệ' (7/7/2022, nguồn trước 2025, đọc 13/10/2026): đền xây khoảng thế kỷ XVI–XVII; ba tòa Tiền Tế – Đại Bái – Hậu Cung; được coi là một trong ba nơi thờ chính của Mẫu Thượng Ngàn (cùng đền Suối Mỡ, đền Đông Cuông); lễ trong năm gồm Thượng Nguyên, lễ vào hè, lễ ra hè, Tiệc Mẫu (chính hội), lễ tất niên; chính hội 20/9 âm lịch thu hút hàng ngàn người.",
+        "checked": "2026-10-13"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00511"
+  }
+}
