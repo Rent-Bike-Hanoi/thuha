@@ -28,7 +28,7 @@
     ],
     [
       "Lễ dâng hương quanh ngày 3/12",
-      "<p>Hai bài báo cho thấy nhịp tưởng niệm hằng năm: <a href=\"https://www.vietnamplus.vn/dang-huong-tuong-niem-111-nam-ngay-sinh-dong-chi-ngo-gia-tu-post610506.vnp\" target=\"_blank\" rel=\"noopener\">VietnamPlus</a> đưa tin dâng hương kỷ niệm 111 năm ngày sinh ngày 30/11/2019, và <a href=\"https://nhandan.vn/bac-ninh-dang-huong-nhan-ky-niem-116-nam-ngay-sinh-dong-chi-ngo-gia-tu-post848316.html\" target=\"_blank\" rel=\"noopener\">Báo Nhân Dân</a> đưa tin dâng hương nhân 116 năm ngày sinh ngày 3/12/2024.</p><p>Nếu muốn thấy không khí lễ, bạn có thể chọn đi quanh ngày 3/12, nhưng nên nhớ lễ chính thức có đoàn đại biểu và có thể hạn chế đi lại trong lúc làm lễ. Muốn xem kỹ hiện vật thì ngày thường yên tĩnh hơn.</p>"
+      "<p>Hai bài báo cho thấy nhịp tưởng niệm hằng năm: <a href=\"https://www.vietnamplus.vn/dang-huong-tuong-niem-111-nam-ngay-sinh-dong-chi-ngo-gia-tu-post610506.vnp\" target=\"_blank\" rel=\"noopener\">VietnamPlus</a> đưa tin dâng hương kỷ niệm 111 năm ngày sinh ngày 30/11/2019, và <a href=\"https://nhandan.vn/bac-ninh-dang-huong-nhan-ky-niem-116-nam-ngay-sinh-dong-chi-ngo-gia-tu-post848316.html\" target=\"_blank\" rel=\"noopener\">Báo Nhân Dân</a> đưa tin dâng hương nhân 116 năm ngày sinh ngày 3/12/2024.</p><p>Nếu muốn thấy không khí lễ, bạn có thể chọn đi quanh ngày 3/12. Muốn xem kỹ hiện vật thì ngày thường yên tĩnh hơn.</p>"
     ],
     [
       "Ghép với khu lưu niệm Nguyễn Văn Cừ ở Phù Khê",
@@ -79,5 +79,7 @@
     }
   ],
   "factoryVersion": 2,
-  "topic_id": "TM-00892"
+  "topic_id": "TM-00892",
+  "publishedAt": "2026-10-14T15:51:23.178920+00:00",
+  "publishedBy": "Claude Code (routine)"
 }
