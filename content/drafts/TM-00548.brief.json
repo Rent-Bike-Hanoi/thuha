@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w23",
+  "queued": "2026-10-14T01:39:17.150918+00:00",
+  "topic": {
+    "topic_id": "TM-00548",
+    "url": "/kinh-nghiem/google-maps-chi-duong-xe-may/",
+    "title": "Google Maps chỉ đường xe máy ở Hà Nội: bật chế độ hai bánh",
+    "hub": "kinh-nghiem",
+    "subtopic": "di-chuyen-ha-noi",
+    "primary_keyword": "google maps chỉ đường xe máy",
+    "secondary_keywords": [
+      "chế độ xe hai bánh google maps",
+      "google maps xe máy không thấy",
+      "tải bản đồ ngoại tuyến google maps",
+      "xem bản đồ khi đi xe máy",
+      "chỉ đường xe máy tránh đường cấm"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách thuê xe, nhất là người mới đến Hà Nội và khách nước ngoài, cần dùng điện thoại tìm đường bằng xe máy mà không bị dẫn lên đường cấm xe máy, và muốn biết xem bản đồ thế nào cho an toàn, đúng luật, kể cả khi đi tỉnh mất sóng.",
+    "information_gain": "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/ chỉ có một dòng 'tải bản đồ ngoại tuyến vùng sẽ đi'; /luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/ nói mức phạt khi cầm điện thoại xem bản đồ; /kinh-nghiem/lai-xe-o-ha-noi/ chuẩn bị chung. Chưa bài nào hướng dẫn cách dùng chế độ chỉ đường cho xe mô tô hai bánh của Google Maps: các bước bật theo trang Trợ giúp Google, giới hạn chính thức (chỉ trên thiết bị di động, một số vị trí; tuyến không cấm xe mô tô hai bánh, có thể đi tắt qua phố nhỏ), xem trước các ngã rẽ và thêm điểm dừng trước khi lăn bánh, tải bản đồ ngoại tuyến khi đi tỉnh và giới hạn khi không có mạng (không có thông tin giao thông, tuyến thay thế). Bài gắn với thói quen an toàn: chuẩn bị tuyến lúc dừng xe, không cầm điện thoại khi chạy (một câu luật, liên kết bài luật).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://support.google.com/maps/answer/11473680?hl=vi",
+        "quote": "Google, Maps Trợ giúp 'Xem đường đi cho xe tay ga và xe máy' (đọc 14/10/2026): để nhận các bước đơn giản khi đi xe máy hoặc xe tay ga, chuyển sang đường đi cho xe mô tô hai bánh. Lưu ý quan trọng: tính năng chỉ dành cho thiết bị di động và một số vị trí. 'Các thông tin đường đi này sẽ chỉ cho bạn những tuyến đường không cấm xe mô tô hai bánh. Bạn có thể được chỉ đường tới các lối tắt chạy qua những con phố nhỏ hơn.' Các bước: tìm hoặc nhấn điểm đến; nhấn biểu tượng Đường đi ở dưới cùng bên trái; nhấn biểu tượng Xe mô tô hai bánh rồi Bắt đầu. Có thể xem trước các ngã rẽ tiếp theo (Các bước) và thêm điểm dừng.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://support.google.com/maps/answer/6291838?hl=vi",
+        "quote": "Google, Maps Trợ giúp 'Tải bản đồ của các khu vực xuống để đi theo chỉ dẫn khi không có mạng' (Android, đọc 14/10/2026): cần kết nối Internet và đăng nhập; tìm một địa điểm như Hà Nội, trong bảng thông tin vuốt sang phải, nhấn Xem thêm > Tải bản đồ ngoại tuyến xuống > Tải xuống. Bản đồ ngoại tuyến hướng dẫn đến điểm đến 'miễn là toàn bộ tuyến đường đều nằm trong bản đồ ngoại tuyến'. Khi không có mạng không dùng được chỉ đường phương tiện công cộng, đi xe đạp hoặc đi bộ; khi lái xe không có mạng sẽ không nhận được thông tin giao thông hoặc tuyến thay thế. Bản đồ ngoại tuyến phải cập nhật trước khi hết hạn; khi sắp hết hạn trong vòng 15 ngày và đang có Wi-Fi, Maps sẽ cố tự cập nhật. Trang ghi một số quốc gia, khu vực không tải được bản đồ ngoại tuyến.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 15 Chuyển hướng an toàn tại giao lộ: 'Xác định hướng đi sớm trước khi tới giao lộ', kiểm tra phía sau qua gương và quay đầu qua vai, bật đèn báo hiệu, giảm dần tốc độ và dịch chuyển dần sang làn phù hợp với hướng đi; khung kết luận: 'Để đảm bảo an toàn khi đi qua giao lộ, hãy xác định hướng rẽ sớm, luôn chú ý quan sát và chủ động nhường đường.'",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "maps_url: https://maps.google.com/?cid=12425073981350767487",
+        "verbatim": true,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "google maps chỉ đường xe máy"
+      }
+    ],
+    "notes": "Trang Google không nói chế độ xe hai bánh có chạy ngoại tuyến hay không (chỉ liệt kê phương tiện công cộng, xe đạp, đi bộ không dùng được): writer không khẳng định. Google không công bố Việt Nam là 'một số vị trí' trên trang này; chỉ viết 'nếu thấy biểu tượng xe máy'. Không nêu mức phạt dùng điện thoại (bài luật đã có, chỉ liên kết); không khuyên dùng tai nghe. Không có nguồn chính thức về giá đỡ điện thoại hợp pháp hay không: không khẳng định. Không nhắc ứng dụng bản đồ khác vì chưa có nguồn. Bản đồ cửa hàng dùng maps_url trong business-facts.",
+    "outline": [
+      "Vì sao chỉ đường ô tô dễ dẫn xe máy sai đường",
+      "Bật chế độ xe mô tô hai bánh: 3 bước theo Google",
+      "Xem trước ngã rẽ, thêm điểm dừng khi còn đứng yên",
+      "Đi tỉnh: tải bản đồ ngoại tuyến và giới hạn khi mất sóng",
+      "Xem bản đồ an toàn: dừng xe, không cầm điện thoại khi chạy",
+      "Tìm đường đến cửa hàng và trả xe đúng giờ"
+    ],
+    "suggested_internal_links": [
+      "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/",
+      "/kinh-nghiem/lai-xe-o-ha-noi/",
+      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/luat-giao-thong/di-xe-may-trong-ham-duong-bo/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00548.json",
+  "draft_template": {
+    "id": "TM-00548",
+    "url": "/kinh-nghiem/google-maps-chi-duong-xe-may/",
+    "title": "Google Maps chỉ đường xe máy ở Hà Nội: bật chế độ hai bánh",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "google maps chỉ đường xe máy, chế độ xe hai bánh google maps, google maps xe máy không thấy, tải bản đồ ngoại tuyến google maps, xem bản đồ khi đi xe máy, chỉ đường xe máy tránh đường cấm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vì sao chỉ đường ô tô dễ dẫn xe máy sai đường",
+        "<p></p>"
+      ],
+      [
+        "Bật chế độ xe mô tô hai bánh: 3 bước theo Google",
+        "<p></p>"
+      ],
+      [
+        "Xem trước ngã rẽ, thêm điểm dừng khi còn đứng yên",
+        "<p></p>"
+      ],
+      [
+        "Đi tỉnh: tải bản đồ ngoại tuyến và giới hạn khi mất sóng",
+        "<p></p>"
+      ],
+      [
+        "Xem bản đồ an toàn: dừng xe, không cầm điện thoại khi chạy",
+        "<p></p>"
+      ],
+      [
+        "Tìm đường đến cửa hàng và trả xe đúng giờ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://support.google.com/maps/answer/11473680?hl=vi",
+        "quote": "Google, Maps Trợ giúp 'Xem đường đi cho xe tay ga và xe máy' (đọc 14/10/2026): để nhận các bước đơn giản khi đi xe máy hoặc xe tay ga, chuyển sang đường đi cho xe mô tô hai bánh. Lưu ý quan trọng: tính năng chỉ dành cho thiết bị di động và một số vị trí. 'Các thông tin đường đi này sẽ chỉ cho bạn những tuyến đường không cấm xe mô tô hai bánh. Bạn có thể được chỉ đường tới các lối tắt chạy qua những con phố nhỏ hơn.' Các bước: tìm hoặc nhấn điểm đến; nhấn biểu tượng Đường đi ở dưới cùng bên trái; nhấn biểu tượng Xe mô tô hai bánh rồi Bắt đầu. Có thể xem trước các ngã rẽ tiếp theo (Các bước) và thêm điểm dừng.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "official",
+        "source": "https://support.google.com/maps/answer/6291838?hl=vi",
+        "quote": "Google, Maps Trợ giúp 'Tải bản đồ của các khu vực xuống để đi theo chỉ dẫn khi không có mạng' (Android, đọc 14/10/2026): cần kết nối Internet và đăng nhập; tìm một địa điểm như Hà Nội, trong bảng thông tin vuốt sang phải, nhấn Xem thêm > Tải bản đồ ngoại tuyến xuống > Tải xuống. Bản đồ ngoại tuyến hướng dẫn đến điểm đến 'miễn là toàn bộ tuyến đường đều nằm trong bản đồ ngoại tuyến'. Khi không có mạng không dùng được chỉ đường phương tiện công cộng, đi xe đạp hoặc đi bộ; khi lái xe không có mạng sẽ không nhận được thông tin giao thông hoặc tuyến thay thế. Bản đồ ngoại tuyến phải cập nhật trước khi hết hạn; khi sắp hết hạn trong vòng 15 ngày và đang có Wi-Fi, Maps sẽ cố tự cập nhật. Trang ghi một số quốc gia, khu vực không tải được bản đồ ngoại tuyến.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 15 Chuyển hướng an toàn tại giao lộ: 'Xác định hướng đi sớm trước khi tới giao lộ', kiểm tra phía sau qua gương và quay đầu qua vai, bật đèn báo hiệu, giảm dần tốc độ và dịch chuyển dần sang làn phù hợp với hướng đi; khung kết luận: 'Để đảm bảo an toàn khi đi qua giao lộ, hãy xác định hướng rẽ sớm, luôn chú ý quan sát và chủ động nhường đường.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "business-facts",
+        "source": "config/business-facts.json",
+        "quote": "maps_url: https://maps.google.com/?cid=12425073981350767487",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00548"
+  }
+}

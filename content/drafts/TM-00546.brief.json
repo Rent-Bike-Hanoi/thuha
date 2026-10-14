@@ -1,0 +1,182 @@
+{
+  "writer": "writer-w23",
+  "queued": "2026-10-14T01:39:17.150408+00:00",
+  "topic": {
+    "topic_id": "TM-00546",
+    "url": "/kinh-nghiem/chinh-guong-chieu-hau-xe-may/",
+    "title": "Chỉnh gương chiếu hậu xe máy đúng cách và điểm mù của gương",
+    "hub": "kinh-nghiem",
+    "subtopic": "ky-nang-lai",
+    "primary_keyword": "chỉnh gương chiếu hậu xe máy",
+    "secondary_keywords": [
+      "cách chỉnh gương xe máy",
+      "điểm mù gương xe máy",
+      "quay đầu nhìn qua vai khi chuyển làn",
+      "gương xe máy nhìn thấy gì",
+      "nhận xe thuê chỉnh gương"
+    ],
+    "intent": "informational",
+    "user_problem": "Người vừa nhận xe thuê hoặc mới học lái không biết chỉnh gương thế nào cho thấy đường phía sau, và không biết vùng nào gương không chiếu tới khi chuyển làn, rẽ ở Hà Nội.",
+    "information_gain": "/luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/ trả lời câu hỏi pháp lý (gương bên trái phải có tác dụng, mức phạt); /kinh-nghiem/diem-mu-xe-tai-xe-buyt/ nói điểm mù của xe tải, xe buýt đối với người đi xe máy. Chưa bài nào hướng dẫn người lái xe máy chỉnh gương của chính mình: tỷ lệ 1/4 gương thấy cánh tay, 3/4 thấy giao thông phía sau theo chiều ngang và phần mặt đường theo chiều dọc, theo tài liệu 'Kỹ thuật lái xe an toàn' của Honda Việt Nam; vùng gương không chiếu tới và cách quay đầu nhìn qua vai mà không xoay cả vai làm xe lệch hướng; thứ tự gương – quay đầu – xi nhan trước khi ra đường lớn, rẽ ở giao lộ hay vượt xe. Bài mới thêm bước chỉnh gương vào thói quen nhận xe thuê. Khác /luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/: bài đó về mức phạt khi thiếu gương; bài này về cách chỉnh gương (tỉ lệ khung nhìn theo tài liệu Honda) và điểm mù.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, tài liệu 'Kỹ thuật lái xe an toàn' (PDF tạo 29/7/2026, đọc 14/10/2026), mục 01 Kiểm tra xe trước khi đi (tr. 3), 4. Gương chiếu hậu – điều chỉnh gương sao cho: theo chiều ngang, 1/4 gương nhìn thấy cánh tay người lái và 3/4 còn lại nhìn thấy quang cảnh giao thông phía sau; theo chiều dọc, 1/3 gương nhìn thấy phía trên và 2/3 gương nhìn thấy mặt đường phía sau (hình minh họa trên trang ghi 1/4 – 3/4 chiều ngang và 2/3 phần dưới chiều dọc; dòng chữ gốc có đoạn lặp 'và 1/3 nhìn thấy mặt đường phía sau').",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 18 Điểm mù của gương xe và cách khắc phục (tr. 21): có vùng quan sát được qua gương và vùng không thể quan sát được qua gương. Khắc phục: 'Quan sát an toàn hai bên và phía sau không chỉ qua gương, mà còn bằng cách quay đầu qua vai nhìn trực tiếp bằng mắt.' Chú ý: 'Không quay cả người hoặc vai vì như vậy tay lái có thể quay theo, làm xe chuyển hướng đột ngột.'",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026): mục 13 (tr. 16) khi đi từ đường nhỏ ra đường lớn, kiểm tra an toàn phía sau và hai bên bằng cách quan sát qua gương và quay đầu nhìn qua vai, bật xi nhan, giảm tốc, dừng ở giao lộ khuất tầm nhìn nếu cần; mục 15 (tr. 18) chuyển hướng tại giao lộ: xác định hướng đi sớm (hình minh họa ghi khoảng 50 m), kiểm tra phía sau qua gương và quay đầu qua vai, bật đèn báo hiệu, giảm tốc và chuyển dần sang làn phù hợp; mục 16 (tr. 19) vượt xe: kiểm tra phía sau qua gương và quay đầu nhìn hai bên qua vai, giữ khoảng cách bề ngang 2 m với xe bị vượt.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/giao-thong-tphcm-hom-nay-nu-ninja-trum-kin-khi-ra-duong-nguy-hiem-cua-vay-chong-nang-4946466.html",
+        "quote": "VnExpress, bài ý kiến độc giả (02/10/2025, đọc 14/10/2026) 'An toàn giao thông nhìn từ những điểm mù do áo khoác trùm đầu, váy chống nắng, gương chiếu hậu...': khi lái xe, từ vai hướng ra phía trước người lái quan sát trực tiếp bằng mắt; từ vai trở ra sau phải quan sát qua hai gương chiếu hậu, nên chỉnh gương không đúng tầm sẽ tạo ra nhiều điểm mù nguy hiểm; áo khoác trùm đầu cũng hạn chế tầm quan sát hai bên.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục tháo lắp hộp đèn pha (tr. 54–55): gương có ốc khóa và ốc chỉnh gương dưới chụp cao su; khi lắp lại: lắp ốc chỉnh gương, vặn gương ngược chiều kim đồng hồ đến khi không vặn được, nới gương khoảng 2 vòng, điều chỉnh gương, rồi siết chặt đai ốc khóa và lắp chụp cao su chắn bụi.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "chỉnh gương chiếu hậu xe máy"
+      }
+    ],
+    "notes": "Dòng chữ chiều dọc trong PDF Honda có đoạn lặp ('... 2/3 gương nhìn thấy mặt đường và 1/3 nhìn thấy mặt đường phía sau'); đã xem hình tr. 3 (14/10/2026): hình ghi 2/3 phần dưới gương là mặt đường phía sau, nên viết '1/3 phía trên, 2/3 mặt đường phía sau' và dẫn nguồn. Nguồn VnExpress là bài ý kiến độc giả, chỉ dùng làm minh họa. Phần pháp lý (gương trái bắt buộc, mức phạt) chỉ một câu và liên kết sang bài luật, không trích lại. Không khuyên tự tháo, thay gương; xe thuê gương lỏng thì báo cửa hàng.",
+    "outline": [
+      "Vì sao gương lệch là điểm mù tự tạo",
+      "Chỉnh gương theo Honda: 1/4 cánh tay, 3/4 đường phía sau",
+      "Vùng gương không thấy và cách quay đầu nhìn qua vai",
+      "Thứ tự gương – quay đầu – xi nhan khi ra đường lớn, rẽ, vượt",
+      "Gương lỏng, rung: tự siết hay báo cửa hàng",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/",
+      "/kinh-nghiem/diem-mu-xe-tai-xe-buyt/",
+      "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/",
+      "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+      "/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/"
+    ],
+    "content_type": "howto",
+    "overlap": [
+      {
+        "url": "/luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.584
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00546.json",
+  "draft_template": {
+    "id": "TM-00546",
+    "url": "/kinh-nghiem/chinh-guong-chieu-hau-xe-may/",
+    "title": "Chỉnh gương chiếu hậu xe máy đúng cách và điểm mù của gương",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chỉnh gương chiếu hậu xe máy, cách chỉnh gương xe máy, điểm mù gương xe máy, quay đầu nhìn qua vai khi chuyển làn, gương xe máy nhìn thấy gì, nhận xe thuê chỉnh gương",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vì sao gương lệch là điểm mù tự tạo",
+        "<p></p>"
+      ],
+      [
+        "Chỉnh gương theo Honda: 1/4 cánh tay, 3/4 đường phía sau",
+        "<p></p>"
+      ],
+      [
+        "Vùng gương không thấy và cách quay đầu nhìn qua vai",
+        "<p></p>"
+      ],
+      [
+        "Thứ tự gương – quay đầu – xi nhan khi ra đường lớn, rẽ, vượt",
+        "<p></p>"
+      ],
+      [
+        "Gương lỏng, rung: tự siết hay báo cửa hàng",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, tài liệu 'Kỹ thuật lái xe an toàn' (PDF tạo 29/7/2026, đọc 14/10/2026), mục 01 Kiểm tra xe trước khi đi (tr. 3), 4. Gương chiếu hậu – điều chỉnh gương sao cho: theo chiều ngang, 1/4 gương nhìn thấy cánh tay người lái và 3/4 còn lại nhìn thấy quang cảnh giao thông phía sau; theo chiều dọc, 1/3 gương nhìn thấy phía trên và 2/3 gương nhìn thấy mặt đường phía sau (hình minh họa trên trang ghi 1/4 – 3/4 chiều ngang và 2/3 phần dưới chiều dọc; dòng chữ gốc có đoạn lặp 'và 1/3 nhìn thấy mặt đường phía sau').",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 18 Điểm mù của gương xe và cách khắc phục (tr. 21): có vùng quan sát được qua gương và vùng không thể quan sát được qua gương. Khắc phục: 'Quan sát an toàn hai bên và phía sau không chỉ qua gương, mà còn bằng cách quay đầu qua vai nhìn trực tiếp bằng mắt.' Chú ý: 'Không quay cả người hoặc vai vì như vậy tay lái có thể quay theo, làm xe chuyển hướng đột ngột.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026): mục 13 (tr. 16) khi đi từ đường nhỏ ra đường lớn, kiểm tra an toàn phía sau và hai bên bằng cách quan sát qua gương và quay đầu nhìn qua vai, bật xi nhan, giảm tốc, dừng ở giao lộ khuất tầm nhìn nếu cần; mục 15 (tr. 18) chuyển hướng tại giao lộ: xác định hướng đi sớm (hình minh họa ghi khoảng 50 m), kiểm tra phía sau qua gương và quay đầu qua vai, bật đèn báo hiệu, giảm tốc và chuyển dần sang làn phù hợp; mục 16 (tr. 19) vượt xe: kiểm tra phía sau qua gương và quay đầu nhìn hai bên qua vai, giữ khoảng cách bề ngang 2 m với xe bị vượt.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/giao-thong-tphcm-hom-nay-nu-ninja-trum-kin-khi-ra-duong-nguy-hiem-cua-vay-chong-nang-4946466.html",
+        "quote": "VnExpress, bài ý kiến độc giả (02/10/2025, đọc 14/10/2026) 'An toàn giao thông nhìn từ những điểm mù do áo khoác trùm đầu, váy chống nắng, gương chiếu hậu...': khi lái xe, từ vai hướng ra phía trước người lái quan sát trực tiếp bằng mắt; từ vai trở ra sau phải quan sát qua hai gương chiếu hậu, nên chỉnh gương không đúng tầm sẽ tạo ra nhiều điểm mù nguy hiểm; áo khoác trùm đầu cũng hạn chế tầm quan sát hai bên.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Wave Alpha (đọc 14/10/2026), mục tháo lắp hộp đèn pha (tr. 54–55): gương có ốc khóa và ốc chỉnh gương dưới chụp cao su; khi lắp lại: lắp ốc chỉnh gương, vặn gương ngược chiều kim đồng hồ đến khi không vặn được, nới gương khoảng 2 vòng, điều chỉnh gương, rồi siết chặt đai ốc khóa và lắp chụp cao su chắn bụi.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00546"
+  }
+}

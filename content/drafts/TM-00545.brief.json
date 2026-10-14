@@ -1,0 +1,159 @@
+{
+  "writer": "writer-w23",
+  "queued": "2026-10-14T01:39:17.150110+00:00",
+  "topic": {
+    "topic_id": "TM-00545",
+    "url": "/kinh-nghiem/tu-the-ngoi-lai-xe-may/",
+    "title": "Tư thế ngồi lái xe máy đúng: 7 điểm giúp đỡ mỏi vai, lưng",
+    "hub": "kinh-nghiem",
+    "subtopic": "ky-nang-lai",
+    "primary_keyword": "tư thế ngồi lái xe máy",
+    "secondary_keywords": [
+      "ngồi lái xe máy đúng cách",
+      "đi xe máy bị mỏi vai gáy",
+      "đi xe máy đau lưng",
+      "cách cầm tay lái xe máy",
+      "đặt chân khi lái xe số"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mới lái, hoặc người thuê xe đi cả ngày ở Hà Nội và đi tỉnh, bị mỏi vai, tê tay, đau lưng và muốn biết ngồi, cầm lái, đặt chân thế nào cho đúng theo hướng dẫn của hãng xe.",
+    "information_gain": "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/ chỉ có một gạch đầu dòng 'chỉnh tay lái, gác chân, yên cho hợp tư thế' theo VnExpress 2013; /kinh-nghiem/cach-ngoi-sau-xe-may-an-toan/ dành cho người ngồi sau; /kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/ chỉ nhắc cổ tay thấp. Chưa bài nào hướng dẫn tư thế người lái theo tài liệu lái xe an toàn của hãng. Bài mới trình bày 7 điểm (mắt, vai, khuỷu tay, bàn tay, hông, đùi, bàn chân) theo tài liệu 'Kỹ thuật lái xe an toàn' của Honda Việt Nam và 'Hướng dẫn cơ bản lái xe an toàn – Bước 3' của Yamaha, chỉ ra điểm khác giữa xe ga và xe số (chân phải sẵn trên cần phanh, chân trái không tỳ cần số), lỗi đặt ngón tay lên cần phanh, tư thế khi phanh gấp, và cách tự kiểm tra trên xe thuê trước khi đi xa.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, tài liệu 'Kỹ thuật lái xe an toàn' (PDF tạo 29/7/2026, đọc 14/10/2026), mục 05 Tư thế lái xe (tr. 7): mục đích 'Giảm thiểu tối đa mệt mỏi khi điều khiển xe trên đường dài' và giúp phát hiện, xử lý tình huống nguy hiểm. Những điểm cần lưu ý: 1. Mắt: nhìn xa về phía trước; 2. Vai: thả lỏng; 3. Khuỷu tay: thả lỏng, hơi khép vào phía trong; 4. Bàn tay: nắm tròn vào giữa tay nắm; 5. Hông: ngồi chính giữa yên xe; 6. Đùi: hai đùi khép nhẹ vào yên xe; 7. Bàn chân: xe tay ga đặt vào vị trí để chân; xe số đặt giữa gan bàn chân lên thanh để chân, bàn chân phải luôn sẵn sàng trên cần phanh, bàn chân trái không đè lên cần số.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2021/05/Buoc-3.pdf",
+        "quote": "Yamaha Motor Việt Nam, 'Hướng dẫn cơ bản lái xe an toàn – Bước 3: Tư thế lái xe' (PDF, thư mục tải lên 05/2021, đọc 14/10/2026): ngồi đúng tư thế giúp quan sát tốt, giữ người và xe cân bằng, giảm mệt mỏi khi đi xe. 7 điểm: mắt nhìn thẳng, nhìn xa; vai thả lỏng để điều khiển tốt khi vào cua và tránh mệt mỏi khi đi đường dài; khuỷu tay thả lỏng, hơi khép, gập tự nhiên không căng quá; bàn tay nắm tròn vào chính giữa tay nắm, không đặt ngón tay lên cần phanh hay đặt cả năm ngón về một phía; hông ngồi chính giữa yên, không quá gần hoặc quá xa tay lái; đùi khép song song thân xe, đầu gối hướng về phía trước; bàn chân đặt giữa gan bàn chân lên thanh để chân, mũi chân hướng thẳng, xe số mũi chân phải đặt nhẹ lên cần phanh, chân trái tránh tỳ lên cần số.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 10 Kỹ năng phanh (tr. 13): giảm hết ga, dùng đồng thời cả hai phanh, lực tăng dần đều, phanh trước mạnh hơn phanh sau; lưu ý 'cong lưng hình chữ C' dồn trọng lực về phía sau để hạn chế quán tính, tránh bị dồn lên phía trước gây mất thăng bằng; căng tay và giữ thẳng lái khi phanh. Mục 11 Kỹ năng thăng bằng (tr. 14): đi chậm ở đường nhỏ hẹp, đông, ngập nước thì nhìn thẳng với tầm quan sát rộng, dùng hông và bụng giữ trọng tâm, 'Luôn duy trì đúng tư thế lái xe'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 02 Trang phục lái xe an toàn: mục đích bảo vệ người lái khỏi chấn thương và giảm các tác nhân làm mệt mỏi như nắng, gió, bụi; nên dùng mũ bảo hiểm, áo dài tay, găng tay ('tăng ma sát'), quần dài, giày che kín mũi và gót chân.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "tư thế ngồi lái xe máy"
+      }
+    ],
+    "notes": "Không có nguồn y tế chính thức về đau lưng do đi xe máy; không đưa lời khuyên y khoa, không nêu tỷ lệ hay số liệu sức khỏe. Không có số đo chiều cao yên lý tưởng chính thức: chỉ khuyên hai chân chạm đất (đã có ở bài xe ga cho người mới). Nhịp nghỉ đường dài liên kết sang bài nghỉ, không lặp. PDF Yamaha không ghi ngày đăng; chỉ biết thư mục tải lên 2021/05.",
+    "outline": [
+      "Vì sao tư thế sai làm mỏi vai, tê tay khi đi xa",
+      "7 điểm tư thế lái theo Honda và Yamaha",
+      "Xe ga và xe số: đặt chân khác nhau thế nào",
+      "Lỗi hay gặp: gồng tay, ngón tay trên cần phanh, ngồi sát tay lái",
+      "Tư thế khi phanh gấp và khi đi chậm trong phố đông",
+      "Kiểm tra tư thế trên xe thuê trước chuyến đi xa"
+    ],
+    "suggested_internal_links": [
+      "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
+      "/kinh-nghiem/cach-phanh-xe-may-an-toan/",
+      "/kinh-nghiem/cach-ngoi-sau-xe-may-an-toan/",
+      "/kinh-nghiem/gang-tay-ao-giap-di-xe-may/",
+      "/kinh-nghiem/cach-di-xe-so/"
+    ],
+    "content_type": "howto",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00545.json",
+  "draft_template": {
+    "id": "TM-00545",
+    "url": "/kinh-nghiem/tu-the-ngoi-lai-xe-may/",
+    "title": "Tư thế ngồi lái xe máy đúng: 7 điểm giúp đỡ mỏi vai, lưng",
+    "hub": "kinh-nghiem",
+    "parent": "/kinh-nghiem/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "tư thế ngồi lái xe máy, ngồi lái xe máy đúng cách, đi xe máy bị mỏi vai gáy, đi xe máy đau lưng, cách cầm tay lái xe máy, đặt chân khi lái xe số",
+    "excerpt": "",
+    "sections": [
+      [
+        "Vì sao tư thế sai làm mỏi vai, tê tay khi đi xa",
+        "<p></p>"
+      ],
+      [
+        "7 điểm tư thế lái theo Honda và Yamaha",
+        "<p></p>"
+      ],
+      [
+        "Xe ga và xe số: đặt chân khác nhau thế nào",
+        "<p></p>"
+      ],
+      [
+        "Lỗi hay gặp: gồng tay, ngón tay trên cần phanh, ngồi sát tay lái",
+        "<p></p>"
+      ],
+      [
+        "Tư thế khi phanh gấp và khi đi chậm trong phố đông",
+        "<p></p>"
+      ],
+      [
+        "Kiểm tra tư thế trên xe thuê trước chuyến đi xa",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, tài liệu 'Kỹ thuật lái xe an toàn' (PDF tạo 29/7/2026, đọc 14/10/2026), mục 05 Tư thế lái xe (tr. 7): mục đích 'Giảm thiểu tối đa mệt mỏi khi điều khiển xe trên đường dài' và giúp phát hiện, xử lý tình huống nguy hiểm. Những điểm cần lưu ý: 1. Mắt: nhìn xa về phía trước; 2. Vai: thả lỏng; 3. Khuỷu tay: thả lỏng, hơi khép vào phía trong; 4. Bàn tay: nắm tròn vào giữa tay nắm; 5. Hông: ngồi chính giữa yên xe; 6. Đùi: hai đùi khép nhẹ vào yên xe; 7. Bàn chân: xe tay ga đặt vào vị trí để chân; xe số đặt giữa gan bàn chân lên thanh để chân, bàn chân phải luôn sẵn sàng trên cần phanh, bàn chân trái không đè lên cần số.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/wp/wp-content/uploads/2021/05/Buoc-3.pdf",
+        "quote": "Yamaha Motor Việt Nam, 'Hướng dẫn cơ bản lái xe an toàn – Bước 3: Tư thế lái xe' (PDF, thư mục tải lên 05/2021, đọc 14/10/2026): ngồi đúng tư thế giúp quan sát tốt, giữ người và xe cân bằng, giảm mệt mỏi khi đi xe. 7 điểm: mắt nhìn thẳng, nhìn xa; vai thả lỏng để điều khiển tốt khi vào cua và tránh mệt mỏi khi đi đường dài; khuỷu tay thả lỏng, hơi khép, gập tự nhiên không căng quá; bàn tay nắm tròn vào chính giữa tay nắm, không đặt ngón tay lên cần phanh hay đặt cả năm ngón về một phía; hông ngồi chính giữa yên, không quá gần hoặc quá xa tay lái; đùi khép song song thân xe, đầu gối hướng về phía trước; bàn chân đặt giữa gan bàn chân lên thanh để chân, mũi chân hướng thẳng, xe số mũi chân phải đặt nhẹ lên cần phanh, chân trái tránh tỳ lên cần số.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 10 Kỹ năng phanh (tr. 13): giảm hết ga, dùng đồng thời cả hai phanh, lực tăng dần đều, phanh trước mạnh hơn phanh sau; lưu ý 'cong lưng hình chữ C' dồn trọng lực về phía sau để hạn chế quán tính, tránh bị dồn lên phía trước gây mất thăng bằng; căng tay và giữ thẳng lái khi phanh. Mục 11 Kỹ năng thăng bằng (tr. 14): đi chậm ở đường nhỏ hẹp, đông, ngập nước thì nhìn thẳng với tầm quan sát rộng, dùng hông và bụng giữ trọng tâm, 'Luôn duy trì đúng tư thế lái xe'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/training-material-document-customer/August2026/U4p8gKhBPAbzAL0kuQgS.pdf",
+        "quote": "Honda Việt Nam, 'Kỹ thuật lái xe an toàn' (đọc 14/10/2026), mục 02 Trang phục lái xe an toàn: mục đích bảo vệ người lái khỏi chấn thương và giảm các tác nhân làm mệt mỏi như nắng, gió, bụi; nên dùng mũ bảo hiểm, áo dài tay, găng tay ('tăng ma sát'), quần dài, giày che kín mũi và gót chân.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00545"
+  }
+}

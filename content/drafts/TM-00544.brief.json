@@ -1,0 +1,185 @@
+{
+  "writer": "writer-w23",
+  "queued": "2026-10-14T01:39:17.149735+00:00",
+  "topic": {
+    "topic_id": "TM-00544",
+    "url": "/xe-may/phanh-cbs-xe-may-la-gi/",
+    "title": "Phanh CBS xe máy là gì, khác ABS thế nào và bóp phanh ra sao",
+    "hub": "xe-may",
+    "subtopic": "so-sanh-mau-xe",
+    "primary_keyword": "phanh cbs xe máy là gì",
+    "secondary_keywords": [
+      "phanh kết hợp xe máy",
+      "phanh cbs và abs khác nhau",
+      "phanh ubs yamaha",
+      "bản cbs hay bản abs",
+      "xe cbs bóp phanh trái"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chọn xe để mua hoặc thuê thấy hai phiên bản CBS và ABS (Air Blade, LEAD, Vision, Gear) và muốn biết phanh kết hợp CBS làm gì, khác ABS ở đâu và đi xe CBS thì bóp phanh thế nào cho đúng.",
+    "information_gain": "/xe-may/phanh-abs-xe-may-den-bao-abs/ giải thích sâu ABS và chỉ nhắc CBS trong một ô bảng (Air Blade ACA125CBF dùng phanh kết hợp); /kinh-nghiem/cach-phanh-xe-may-an-toan/ dạy thao tác phanh chung; /xe-may/honda-air-blade-125-va-160-khac-gi-nhau/ so phiên bản. Chưa bài nào trả lời CBS là gì: Honda viết rằng lực phanh được phân bổ tới hai bánh khác nhau khi chỉ dùng phanh trước hay chỉ dùng phanh sau, và vẫn khuyên dùng đồng thời cả hai; Yamaha mô tả UBS trên Gear 125 Hybrid DX là bóp phanh sau thì tự phân bổ một phần lực lên bánh trước. Bài mới đặt CBS (cơ khí, không có cảm biến) cạnh ABS (điện tử, chống bó cứng bánh trước, không chạy dưới 10 km/h) trong một bảng, chỉ ra điểm nguồn mâu thuẫn (Yamaha 2022 viết 'phân phối đều'), và nhắc dây cáp CBS phải do đại lý chỉnh.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), tr. 11–12: bản ACA160CAF/ACA125CAF có ABS trên bánh trước ('Chức năng ABS không được trang bị cho bánh sau'; 'ABS không làm giảm khoảng cách phanh'; không hoạt động dưới 10 km/h). Bản ACA125CBF: 'Chiếc xe này được trang bị hệ thống phanh kết hợp phân bổ lực phanh giữa phanh trước và phanh sau. Lực phanh được phân bổ tới phanh trước và phanh sau khác nhau khi chỉ sử dụng phanh trước và chỉ sử dụng phanh sau. Để phanh đạt hiệu quả tối ưu, hãy sử dụng đồng thời cả phanh trước và phanh sau.' Nhãn cảnh báo CBS trên ACA125CBF: 'Việc điều chỉnh dây cáp phải do Cửa hàng Honda ủy nhiệm thực hiện.'",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng LEAD 125 (đọc 14/10/2026): 'Trừ loại VI V' xe được trang bị hệ thống phanh kết hợp, cùng đoạn mô tả như sách Air Blade (lực phanh phân bổ khác nhau khi chỉ dùng phanh trước hoặc chỉ dùng phanh sau; nên dùng đồng thời cả hai). Sơ đồ vị trí bộ phận ghi 'Hộp dầu phanh CBS' (trừ loại VI V), loại VI V ghi 'Hộp dầu phanh trước'.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng VISION (đọc 14/10/2026), mục Phanh kết hợp: cùng mô tả phân bổ lực phanh giữa phanh trước và sau, khuyên dùng đồng thời cả hai phanh; nhãn cảnh báo CBS (loại ED, E, TU): việc điều chỉnh dây cáp phải do cửa hàng Honda ủy nhiệm thực hiện. Mục thời tiết ẩm ướt: phanh bị ẩm hoạt động không hiệu quả, nếu phanh ẩm hãy dùng phanh khi lái ở tốc độ thấp để làm khô.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/so-sanh-yamaha-gear-125-hybrid-ban-std-va-dx-dau-la-su-khac-biet/",
+        "quote": "Yamaha Motor Việt Nam, 'So sánh Yamaha GEAR 125 Hybrid bản STD và DX' (ngày đăng 01.07.2026, đọc 14/10/2026): hệ thống phanh kết hợp UBS (Unified Brake System) chỉ có trên bản DX; khi người lái tác dụng lực lên tay phanh sau, UBS tự động phân bổ đồng thời một phần lực phanh lên bánh trước, giúp xe giảm tốc đều, giữ thăng bằng và hạn chế trượt bánh; có tác dụng ngay cả khi người lái chỉ bóp tay phanh bên trái (phanh sau).",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/danh-gia-cac-loai-va-he-thong-phanh-xe-may-hien-nay/",
+        "quote": "Yamaha Motor Việt Nam, 'Đánh giá các loại và hệ thống phanh xe máy hiện nay' (ngày đăng 30.09.2022, đọc 14/10/2026): CBS (Combi Brake System) là hệ thống phanh kết hợp, phân bổ lực phanh đồng thời xuống 2 cụm phanh trước và sau; cấu tạo đơn giản, gọn nhẹ với hệ thống dây phanh và một bộ điều chỉnh áp lực phanh; bài viết rằng lực phanh được 'phân phối đều' xuống hai cụm phanh và nêu ưu điểm kết cấu đơn giản, giá thành thấp, phổ biến.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/phanh-abs-va-cbs-la-gi-loai-nao-an-toan-hon-562312.html",
+        "quote": "VietNamNet (26/08/2019, theo Báo Giao thông), 'Phanh ABS và CBS là gì, loại nào an toàn hơn?' (đọc 14/10/2026): CBS ra mắt đầu tiên năm 1983 trên Honda GL1100 Gold Wing, tác động lực phanh đồng thời lên cả hai bánh; ABS dùng cảm biến và hệ thống điều khiển để má phanh liên tục kẹp – nhả khi phanh gấp; phanh CBS vẫn còn khả năng bị bó cứng bánh trên đường có ma sát kém, còn ABS hạn chế hiện tượng này; phiên bản ABS thường có giá cao hơn bản CBS.",
+        "verbatim": false,
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "openseo-dataforseo",
+        "value": null,
+        "checked": "2026-10-14",
+        "keyword": "phanh cbs xe máy là gì"
+      }
+    ],
+    "notes": "Mâu thuẫn nguồn: bài Yamaha 2022 viết CBS 'phân phối đều' và 'giảm quãng đường phanh', trong khi sách Honda ghi lực phân bổ 'khác nhau' tùy tay phanh và không hứa giảm quãng phanh; writer theo sách Honda, nêu rõ sự khác biệt, không khẳng định CBS rút ngắn quãng phanh. Không có tỷ lệ phân bổ lực chính thức: không nêu con số. Bài VietNamNet 2019 chỉ dùng cho lịch sử và ý 'CBS vẫn có thể bó cứng bánh'. Không nêu giá chênh lệch giữa bản CBS và ABS. Không khẳng định cửa hàng có xe CBS hay ABS.",
+    "outline": [
+      "Câu trả lời ngắn: CBS phân lực sang hai bánh, ABS chống bó cứng",
+      "Sách Honda nói gì về phanh kết hợp trên Vision, LEAD, Air Blade",
+      "UBS của Yamaha: bóp phanh sau, bánh trước cùng hãm",
+      "Bảng so sánh CBS và ABS: cơ chế, giới hạn, bảo dưỡng",
+      "Đi xe CBS bóp phanh thế nào: vẫn dùng cả hai tay",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/phanh-abs-xe-may-den-bao-abs/",
+      "/kinh-nghiem/cach-phanh-xe-may-an-toan/",
+      "/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/",
+      "/xe-may/yamaha-gear-125-hybrid/",
+      "/bao-duong/phanh-xe-may-keu-phanh-khong-an/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-00544.json",
+  "draft_template": {
+    "id": "TM-00544",
+    "url": "/xe-may/phanh-cbs-xe-may-la-gi/",
+    "title": "Phanh CBS xe máy là gì, khác ABS thế nào và bóp phanh ra sao",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phanh cbs xe máy là gì, phanh kết hợp xe máy, phanh cbs và abs khác nhau, phanh ubs yamaha, bản cbs hay bản abs, xe cbs bóp phanh trái",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: CBS phân lực sang hai bánh, ABS chống bó cứng",
+        "<p></p>"
+      ],
+      [
+        "Sách Honda nói gì về phanh kết hợp trên Vision, LEAD, Air Blade",
+        "<p></p>"
+      ],
+      [
+        "UBS của Yamaha: bóp phanh sau, bánh trước cùng hãm",
+        "<p></p>"
+      ],
+      [
+        "Bảng so sánh CBS và ABS: cơ chế, giới hạn, bảo dưỡng",
+        "<p></p>"
+      ],
+      [
+        "Đi xe CBS bóp phanh thế nào: vẫn dùng cả hai tay",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng Air Blade (đọc 14/10/2026), tr. 11–12: bản ACA160CAF/ACA125CAF có ABS trên bánh trước ('Chức năng ABS không được trang bị cho bánh sau'; 'ABS không làm giảm khoảng cách phanh'; không hoạt động dưới 10 km/h). Bản ACA125CBF: 'Chiếc xe này được trang bị hệ thống phanh kết hợp phân bổ lực phanh giữa phanh trước và phanh sau. Lực phanh được phân bổ tới phanh trước và phanh sau khác nhau khi chỉ sử dụng phanh trước và chỉ sử dụng phanh sau. Để phanh đạt hiệu quả tối ưu, hãy sử dụng đồng thời cả phanh trước và phanh sau.' Nhãn cảnh báo CBS trên ACA125CBF: 'Việc điều chỉnh dây cáp phải do Cửa hàng Honda ủy nhiệm thực hiện.'",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng LEAD 125 (đọc 14/10/2026): 'Trừ loại VI V' xe được trang bị hệ thống phanh kết hợp, cùng đoạn mô tả như sách Air Blade (lực phanh phân bổ khác nhau khi chỉ dùng phanh trước hoặc chỉ dùng phanh sau; nên dùng đồng thời cả hai). Sơ đồ vị trí bộ phận ghi 'Hộp dầu phanh CBS' (trừ loại VI V), loại VI V ghi 'Hộp dầu phanh trước'.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+        "quote": "Honda Việt Nam, Hướng dẫn sử dụng VISION (đọc 14/10/2026), mục Phanh kết hợp: cùng mô tả phân bổ lực phanh giữa phanh trước và sau, khuyên dùng đồng thời cả hai phanh; nhãn cảnh báo CBS (loại ED, E, TU): việc điều chỉnh dây cáp phải do cửa hàng Honda ủy nhiệm thực hiện. Mục thời tiết ẩm ướt: phanh bị ẩm hoạt động không hiệu quả, nếu phanh ẩm hãy dùng phanh khi lái ở tốc độ thấp để làm khô.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/so-sanh-yamaha-gear-125-hybrid-ban-std-va-dx-dau-la-su-khac-biet/",
+        "quote": "Yamaha Motor Việt Nam, 'So sánh Yamaha GEAR 125 Hybrid bản STD và DX' (ngày đăng 01.07.2026, đọc 14/10/2026): hệ thống phanh kết hợp UBS (Unified Brake System) chỉ có trên bản DX; khi người lái tác dụng lực lên tay phanh sau, UBS tự động phân bổ đồng thời một phần lực phanh lên bánh trước, giúp xe giảm tốc đều, giữ thăng bằng và hạn chế trượt bánh; có tác dụng ngay cả khi người lái chỉ bóp tay phanh bên trái (phanh sau).",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/danh-gia-cac-loai-va-he-thong-phanh-xe-may-hien-nay/",
+        "quote": "Yamaha Motor Việt Nam, 'Đánh giá các loại và hệ thống phanh xe máy hiện nay' (ngày đăng 30.09.2022, đọc 14/10/2026): CBS (Combi Brake System) là hệ thống phanh kết hợp, phân bổ lực phanh đồng thời xuống 2 cụm phanh trước và sau; cấu tạo đơn giản, gọn nhẹ với hệ thống dây phanh và một bộ điều chỉnh áp lực phanh; bài viết rằng lực phanh được 'phân phối đều' xuống hai cụm phanh và nêu ưu điểm kết cấu đơn giản, giá thành thấp, phổ biến.",
+        "checked": "2026-10-14"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/phanh-abs-va-cbs-la-gi-loai-nao-an-toan-hon-562312.html",
+        "quote": "VietNamNet (26/08/2019, theo Báo Giao thông), 'Phanh ABS và CBS là gì, loại nào an toàn hơn?' (đọc 14/10/2026): CBS ra mắt đầu tiên năm 1983 trên Honda GL1100 Gold Wing, tác động lực phanh đồng thời lên cả hai bánh; ABS dùng cảm biến và hệ thống điều khiển để má phanh liên tục kẹp – nhả khi phanh gấp; phanh CBS vẫn còn khả năng bị bó cứng bánh trên đường có ma sát kém, còn ABS hạn chế hiện tượng này; phiên bản ABS thường có giá cao hơn bản CBS.",
+        "checked": "2026-10-14"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-00544"
+  }
+}
