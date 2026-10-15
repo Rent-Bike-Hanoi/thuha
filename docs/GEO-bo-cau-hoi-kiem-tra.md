@@ -32,5 +32,6 @@ Mỗi tháng (tuần đầu), hỏi nguyên văn từng câu trên Google (AI Mo
 
 | Tháng | Nền tảng | Câu được nhắc | Sai thông tin | Trang được dẫn | Ghi chú |
 |---|---|---|---|---|---|
+| 10/2026 (mốc) | GA4 (property 557131381, lọc hostName thuha.rentbikehanoi.com) qua HarborRank | – | – | – | 16/9–13/10/2026, riêng thuha: 161 phiên = Organic Social 129, Organic Search 18, Direct 13, khác 1; **0 phiên từ AI** (ChatGPT, Perplexity, Gemini, Copilot, Claude…), 0 key event. 13 phiên AI của property đều thuộc blog.rentbikehanoi.com (site cũ). Property dùng chung cho 2 tên miền: tháng sau lọc hostName như trên. |
 
 GA4: Báo cáo Thu hút → Nguồn giới thiệu, lọc chatgpt.com, perplexity.ai, gemini.google.com, copilot.microsoft.com.

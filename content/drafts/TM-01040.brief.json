@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-15T01:17:39.468787+00:00",
+  "topic": {
+    "topic_id": "TM-01040",
+    "url": "/du-lich/lang-co-dong-son-thanh-hoa/",
+    "title": "Làng cổ Đông Sơn Thanh Hóa: di chỉ phát hiện 1924, ngõ cổ, hội tháng Ba",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng cổ đông sơn thanh hóa",
+    "secondary_keywords": [
+      "làng cổ đông sơn",
+      "di chỉ văn hóa đông sơn",
+      "hội làng đông sơn",
+      "làng đông sơn hàm rồng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Thanh Hóa, ghé Hàm Rồng muốn biết làng cổ Đông Sơn ở đâu, có gì để xem (di chỉ, đền, nhà cổ) và khi nào có hội làng.",
+    "information_gain": "/du-lich/ham-rong-thanh-hoa/ và /du-lich/bao-tang-thanh-hoa/ không nói đến làng cổ Đông Sơn; chưa có trang riêng. Bài mới cho: làng ở phường Hàm Rồng bên hữu ngạn sông Mã; di chỉ phát hiện năm 1924, 7 đợt khai quật tổng 2.214 m², xếp hạng di tích quốc gia năm 1962 (QĐ 315-VH/VP), còn hố khai quật để ngoài trời; các ngõ Nhân, Nghĩa, Trí, Dũng, nhà cổ cụ Lương Trọng Duệ hơn hai thế kỷ; đền Đức Thánh Cả là di tích quốc gia, hội làng mùng 1–3 tháng Ba âm lịch.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://thanhhoa.travel/di-chi-khao-co-hoc-van-hoa-%C4%91ong-son.html",
+        "quote": "Cổng du lịch Thanh Hóa, 'Di chỉ Khảo cổ học văn hóa Đông Sơn' (18/3/2022, đọc 15/10/2026): năm 1924 ông Nguyễn Văn Nắm phát hiện đồ đồng khi bờ sông sạt lở; hơn 80 năm có 7 đợt khai quật lớn, tổng 2.214 m²; di vật gồm công cụ, vũ khí, đồ gốm, trang sức, trống đồng; di tích quốc gia theo Quyết định 315-VH/VP ngày 28/4/1962; khu di chỉ gồm đồi Đông Sơn và bờ sông Mã từ cầu Hàm Rồng vào làng, nay thuộc phường Hàm Rồng; một hố khai quật phía bắc làng để ngoài trời cho khách xem.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baothanhhoa.vn/lang-co-dong-son-diem-cham-mien-ky-uc-284109.htm",
+        "quote": "Báo Thanh Hóa, 'Làng cổ Đông Sơn - Điểm chạm miền ký ức' (10/4/2026, đọc 15/10/2026): làng thuộc phường Hàm Rồng, tỉnh Thanh Hóa, hữu ngạn sông Mã, tựa núi Cánh Tiên; các ngõ mang tên Nhân, Nghĩa, Trí, Dũng; có chùa Đông Sơn, miếu Đệ Nhị Thần Hoàng Trịnh Thế Lợi, đền Đức Thánh Cả (thờ Lê Hữu) được xếp hạng di tích quốc gia; nhà cổ cụ Lương Trọng Duệ ở ngõ Trí tồn tại hơn hai thế kỷ.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hoi-lang-dong-son-o-thanh-pho-thanh-hoa-post804270.html",
+        "quote": "Báo Nhân Dân, 'Hội làng Đông Sơn ở thành phố Thanh Hóa' (11/4/2024, đọc 15/10/2026): hội làng tổ chức hằng năm từ mùng 1 đến mùng 3 tháng Ba âm lịch tại đền Đức Thánh Cả – Lê Uy – Trần Khát Chân, di tích lịch sử - văn hóa - kiến trúc nghệ thuật quốc gia; có rước nước, dâng hương, tế, văn nghệ, giao lưu bóng chuyền hơi, tiệc làng.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 170,
+        "checked": "2026-10-15",
+        "keyword": "làng cổ đông sơn thanh hóa"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Làng cổ Đông Sơn ở đâu, cách Hàm Rồng bao xa",
+      "Di chỉ văn hóa Đông Sơn: phát hiện 1924 và hố khai quật",
+      "Đi bộ các ngõ Nhân, Nghĩa, Trí, Dũng và nhà cổ",
+      "Đền Đức Thánh Cả và hội làng tháng Ba âm lịch",
+      "Ghép làng cổ với núi Hàm Rồng, bảo tàng tỉnh",
+      "Gửi xe máy và ứng xử khi vào nhà dân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/bao-tang-thanh-hoa/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01040.json",
+  "draft_template": {
+    "id": "TM-01040",
+    "url": "/du-lich/lang-co-dong-son-thanh-hoa/",
+    "title": "Làng cổ Đông Sơn Thanh Hóa: di chỉ phát hiện 1924, ngõ cổ, hội tháng Ba",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng cổ đông sơn thanh hóa, làng cổ đông sơn, di chỉ văn hóa đông sơn, hội làng đông sơn, làng đông sơn hàm rồng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng cổ Đông Sơn ở đâu, cách Hàm Rồng bao xa",
+        "<p></p>"
+      ],
+      [
+        "Di chỉ văn hóa Đông Sơn: phát hiện 1924 và hố khai quật",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ các ngõ Nhân, Nghĩa, Trí, Dũng và nhà cổ",
+        "<p></p>"
+      ],
+      [
+        "Đền Đức Thánh Cả và hội làng tháng Ba âm lịch",
+        "<p></p>"
+      ],
+      [
+        "Ghép làng cổ với núi Hàm Rồng, bảo tàng tỉnh",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe máy và ứng xử khi vào nhà dân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://thanhhoa.travel/di-chi-khao-co-hoc-van-hoa-%C4%91ong-son.html",
+        "quote": "Cổng du lịch Thanh Hóa, 'Di chỉ Khảo cổ học văn hóa Đông Sơn' (18/3/2022, đọc 15/10/2026): năm 1924 ông Nguyễn Văn Nắm phát hiện đồ đồng khi bờ sông sạt lở; hơn 80 năm có 7 đợt khai quật lớn, tổng 2.214 m²; di vật gồm công cụ, vũ khí, đồ gốm, trang sức, trống đồng; di tích quốc gia theo Quyết định 315-VH/VP ngày 28/4/1962; khu di chỉ gồm đồi Đông Sơn và bờ sông Mã từ cầu Hàm Rồng vào làng, nay thuộc phường Hàm Rồng; một hố khai quật phía bắc làng để ngoài trời cho khách xem.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baothanhhoa.vn/lang-co-dong-son-diem-cham-mien-ky-uc-284109.htm",
+        "quote": "Báo Thanh Hóa, 'Làng cổ Đông Sơn - Điểm chạm miền ký ức' (10/4/2026, đọc 15/10/2026): làng thuộc phường Hàm Rồng, tỉnh Thanh Hóa, hữu ngạn sông Mã, tựa núi Cánh Tiên; các ngõ mang tên Nhân, Nghĩa, Trí, Dũng; có chùa Đông Sơn, miếu Đệ Nhị Thần Hoàng Trịnh Thế Lợi, đền Đức Thánh Cả (thờ Lê Hữu) được xếp hạng di tích quốc gia; nhà cổ cụ Lương Trọng Duệ ở ngõ Trí tồn tại hơn hai thế kỷ.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hoi-lang-dong-son-o-thanh-pho-thanh-hoa-post804270.html",
+        "quote": "Báo Nhân Dân, 'Hội làng Đông Sơn ở thành phố Thanh Hóa' (11/4/2024, đọc 15/10/2026): hội làng tổ chức hằng năm từ mùng 1 đến mùng 3 tháng Ba âm lịch tại đền Đức Thánh Cả – Lê Uy – Trần Khát Chân, di tích lịch sử - văn hóa - kiến trúc nghệ thuật quốc gia; có rước nước, dâng hương, tế, văn nghệ, giao lưu bóng chuyền hơi, tiệc làng.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01040"
+  }
+}

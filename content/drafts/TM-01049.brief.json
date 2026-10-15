@@ -1,0 +1,154 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-15T01:17:39.469015+00:00",
+  "topic": {
+    "topic_id": "TM-01049",
+    "url": "/du-lich/cong-vien-dia-chat-non-nuoc-cao-bang/",
+    "title": "Công viên địa chất Non nước Cao Bằng: 4 tuyến, 57 điểm, thẻ xanh 2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "công viên địa chất non nước cao bằng",
+    "secondary_keywords": [
+      "non nước cao bằng unesco",
+      "tuyến du lịch công viên địa chất cao bằng",
+      "geopark cao bằng",
+      "công viên địa chất toàn cầu cao bằng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người lên Cao Bằng bằng xe máy muốn hiểu công viên địa chất toàn cầu Non nước Cao Bằng gồm những vùng nào, có những tuyến tham quan nào để xếp lịch 3–4 ngày cho hợp lý.",
+    "information_gain": "/du-lich/ha-noi-di-cao-bang-bang-xe-may/, /du-lich/khu-di-tich-pac-bo/, /du-lich/dong-nguom-ngao/, /du-lich/phja-oac-phja-den-cao-bang/ là đường đi và từng điểm lẻ; chưa trang nào giải thích công viên địa chất. Bài mới cho: UNESCO công nhận 12/4/2018, tái thẩm định 6/2025 được 'thẻ xanh', nhận chứng nhận tại Paris 27/4/2026; rộng hơn 3.683 km², 36 xã/phường, hơn 130 điểm di sản địa chất; 4 tuyến với 57 điểm (Hành trình về nguồn – phía bắc; Khám phá Phia Oắc – phía tây; Trải nghiệm văn hóa bản địa – phía đông; Âm vang những năm tháng hào hùng – phía nam), cách gom các bài điểm lẻ của site theo tuyến. Khác /du-lich/cong-vien-dia-chat-lang-son/ (công viên địa chất khác, công nhận 2025, tuyến và điểm riêng của Lạng Sơn): bài này chỉ nói Non nước Cao Bằng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1782812/efforts-made-to-preserve-promote-values-of-non-nuoc-cao-bang-global-geopark.html",
+        "quote": "Việt Nam News, 'Efforts made to preserve, promote values of Non Nước Cao Bằng Global Geopark' (5/6/2026, đọc 15/10/2026): rộng hơn 3.683 km², gồm toàn bộ hoặc một phần 36 xã, phường; hơn 130 điểm di sản địa chất, hơn 210 di tích xếp hạng, có 3 di tích quốc gia đặc biệt Pác Bó, Rừng Trần Hưng Đạo, Chiến thắng Biên giới 1950; 4 tuyến với 57 điểm: Hành trình về nguồn (bắc), Khám phá Phia Oắc (tây), Trải nghiệm văn hóa bản địa (đông), Âm vang những năm tháng hào hùng (nam); tuyến thứ 5 nối với Cao nguyên đá Đồng Văn đang xây dựng; công nhận 12/4/2018, nhận chứng nhận tái thẩm định tại Paris 27/4/2026.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/english/print/non-nuoc-cao-bang-reaffirms-status-as-global-geopark-453670.html",
+        "quote": "TTXVN (VNA), 'Non Nuoc Cao Bang Reaffirms Status as Global Geopark' (25/6/2026, đọc 15/10/2026): UNESCO công nhận công viên địa chất toàn cầu năm 2018 và tái công nhận năm 2026; lịch sử địa chất hơn 500 triệu năm.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/463563/cao-bang-promotes-unesco-recognised-geopark.html",
+        "quote": "Việt Nam News, 'Cao Bằng promotes UNESCO-recognised geopark' (11/8/2018, đọc 15/10/2026): ngày 12/4 Hội đồng Công viên địa chất toàn cầu UNESCO tại Paris công nhận Non nước Cao Bằng; rộng hơn 3.000 km²; có di tích quốc gia đặc biệt Pác Bó, Rừng Trần Hưng Đạo; tỉnh đã đưa vào khai thác 3 tuyến du lịch.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 170,
+        "checked": "2026-10-15",
+        "keyword": "công viên địa chất non nước cao bằng"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Công viên địa chất toàn cầu Non nước Cao Bằng là gì",
+      "Thẻ xanh 2026: danh hiệu được giữ thế nào",
+      "Bốn tuyến tham quan và điểm tiêu biểu từng tuyến",
+      "Xếp lịch xe máy 3–4 ngày theo tuyến",
+      "Những điểm đã có bài hướng dẫn chi tiết trên site",
+      "Lưu ý đường đèo và vùng biên giới"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/khu-di-tich-pac-bo/",
+      "/du-lich/phja-oac-phja-den-cao-bang/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/cong-vien-dia-chat-lang-son/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.46
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/cong-vien-dia-chat-lang-son/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01049.json",
+  "draft_template": {
+    "id": "TM-01049",
+    "url": "/du-lich/cong-vien-dia-chat-non-nuoc-cao-bang/",
+    "title": "Công viên địa chất Non nước Cao Bằng: 4 tuyến, 57 điểm, thẻ xanh 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "công viên địa chất non nước cao bằng, non nước cao bằng unesco, tuyến du lịch công viên địa chất cao bằng, geopark cao bằng, công viên địa chất toàn cầu cao bằng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Công viên địa chất toàn cầu Non nước Cao Bằng là gì",
+        "<p></p>"
+      ],
+      [
+        "Thẻ xanh 2026: danh hiệu được giữ thế nào",
+        "<p></p>"
+      ],
+      [
+        "Bốn tuyến tham quan và điểm tiêu biểu từng tuyến",
+        "<p></p>"
+      ],
+      [
+        "Xếp lịch xe máy 3–4 ngày theo tuyến",
+        "<p></p>"
+      ],
+      [
+        "Những điểm đã có bài hướng dẫn chi tiết trên site",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý đường đèo và vùng biên giới",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1782812/efforts-made-to-preserve-promote-values-of-non-nuoc-cao-bang-global-geopark.html",
+        "quote": "Việt Nam News, 'Efforts made to preserve, promote values of Non Nước Cao Bằng Global Geopark' (5/6/2026, đọc 15/10/2026): rộng hơn 3.683 km², gồm toàn bộ hoặc một phần 36 xã, phường; hơn 130 điểm di sản địa chất, hơn 210 di tích xếp hạng, có 3 di tích quốc gia đặc biệt Pác Bó, Rừng Trần Hưng Đạo, Chiến thắng Biên giới 1950; 4 tuyến với 57 điểm: Hành trình về nguồn (bắc), Khám phá Phia Oắc (tây), Trải nghiệm văn hóa bản địa (đông), Âm vang những năm tháng hào hùng (nam); tuyến thứ 5 nối với Cao nguyên đá Đồng Văn đang xây dựng; công nhận 12/4/2018, nhận chứng nhận tái thẩm định tại Paris 27/4/2026.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnam.vnanet.vn/english/print/non-nuoc-cao-bang-reaffirms-status-as-global-geopark-453670.html",
+        "quote": "TTXVN (VNA), 'Non Nuoc Cao Bang Reaffirms Status as Global Geopark' (25/6/2026, đọc 15/10/2026): UNESCO công nhận công viên địa chất toàn cầu năm 2018 và tái công nhận năm 2026; lịch sử địa chất hơn 500 triệu năm.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/463563/cao-bang-promotes-unesco-recognised-geopark.html",
+        "quote": "Việt Nam News, 'Cao Bằng promotes UNESCO-recognised geopark' (11/8/2018, đọc 15/10/2026): ngày 12/4 Hội đồng Công viên địa chất toàn cầu UNESCO tại Paris công nhận Non nước Cao Bằng; rộng hơn 3.000 km²; có di tích quốc gia đặc biệt Pác Bó, Rừng Trần Hưng Đạo; tỉnh đã đưa vào khai thác 3 tuyến du lịch.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01049"
+  }
+}

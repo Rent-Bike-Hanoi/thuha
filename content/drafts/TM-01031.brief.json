@@ -1,0 +1,150 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-15T01:17:39.228734+00:00",
+  "topic": {
+    "topic_id": "TM-01031",
+    "url": "/xe-dien/vinfast-flazz-max/",
+    "title": "VinFast Flazz Max: 49 km/h, pin LFP 1,5 kWh, 87 km, khác Flazz ở đâu",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "vinfast flazz max",
+    "secondary_keywords": [
+      "flazz max giá bao nhiêu",
+      "flazz max đi được bao nhiêu km",
+      "flazz max và flazz khác gì",
+      "flazz max có cần bằng lái không",
+      "flazz max cốp bao nhiêu lít"
+    ],
+    "intent": "informational",
+    "user_problem": "Phụ huynh, sinh viên ở Hà Nội thấy VinFast có cả Flazz và Flazz Max muốn biết bản Max nhanh hơn, đi xa hơn bao nhiêu, giá niêm yết và có còn thuộc nhóm không cần bằng lái.",
+    "information_gain": "/xe-dien/vinfast-flazz/ chỉ viết Flazz (1100 W, 39 km/h, pin 1,2 kWh) và ghi rõ 'Flazz Max chưa đọc trang – không viết thông số'; /xe-dien/vinfast-zgoo/ là mẫu khác. Bài mới lấp đúng chỗ trống đó bằng trang VinFast đọc 15/10/2026: Flazz Max 1500 W, pin LFP 1,5 kWh tháo lắp đổi pin, khoảng 87 km/lần sạc, 49 km/h (65 kg, Sport), cốp chỉ 4 L, yên 750 mm, gầm 130 mm, giá niêm yết 12,5 triệu, bảo hành xe 6 năm/pin 8 năm, 3 màu — và đặt cạnh Flazz để người đọc thấy bản Max đổi cốp lấy tốc độ, quãng đường.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-flazz-max",
+        "quote": "VinFast, trang 'VinFast Flazz Max - Xe điện đô thị dành cho học sinh' (đọc 15/10/2026): công suất tối đa 1500 W; pin LFP 1,5 kWh, tháo lắp đổi pin; quãng đường đến 87 km/lần sạc; tốc độ tối đa 49 km/h (1 người 65 kg, chế độ Sport); 1568×662×1007 mm, yên 750 mm, gầm 130 mm, cốp 4 L; đèn pha LED Projector; kết nối app E-Scooter; giá niêm yết 12,5 triệu đồng; bảo hành xe 6 năm không giới hạn km, pin 8 năm; màu Xanh, Trắng Cam, Đen.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast Shop, trang danh sách xe máy điện (đọc 15/10/2026): Flazz Max 12.500.000 đ, Flazz 14.200.000 đ, ZGoo 13.300.000 đ; không ghi ngày áp dụng, không ghi giá gồm pin hay chưa.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/gia-chi-tu-125-trieu-dong-vinfast-flazz-max-hut-phu-huynh-va-hoc-sinh-nho-thiet-ke-dep-va-doi-pin-tien-d639233.html",
+        "quote": "Báo Đầu tư, 'Giá chỉ từ 12,5 triệu đồng, VinFast Flazz Max hút phụ huynh và học sinh nhờ thiết kế đẹp và đổi pin tiện' (09/07/2026, đọc 15/10/2026): đổi pin tại tủ trong vài phút hoặc sạc tại nhà qua đêm; miễn phí đổi pin 20 lần/tháng đến 30/6/2028, sau đó trả phí thuê pin; một phụ huynh nói học sinh không cần bằng lái; bài không nêu dung lượng pin, quãng đường hay tốc độ chính thức.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 720,
+        "checked": "2026-10-15",
+        "keyword": "vinfast flazz max"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Flazz Max là bản nào trong dòng Flazz",
+      "Thông số chính: 1500 W, 49 km/h, pin LFP 1,5 kWh",
+      "87 km mỗi lần sạc và cách đổi pin",
+      "Flazz Max và Flazz khác gì: tốc độ, pin, cốp",
+      "Có cần bằng lái không: đọc theo công suất và tốc độ hãng công bố",
+      "Giá niêm yết và chính sách pin có thời hạn",
+      "Cần xe điện đi tạm ở Hà Nội: hỏi cửa hàng"
+    ],
+    "suggested_internal_links": [
+      "/thue-xe-dien/ha-noi/",
+      "/xe-dien/vinfast-flazz/",
+      "/xe-dien/vinfast-zgoo/",
+      "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/"
+    ],
+    "content_type": "comparison",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01031.json",
+  "draft_template": {
+    "id": "TM-01031",
+    "url": "/xe-dien/vinfast-flazz-max/",
+    "title": "VinFast Flazz Max: 49 km/h, pin LFP 1,5 kWh, 87 km, khác Flazz ở đâu",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vinfast flazz max, flazz max giá bao nhiêu, flazz max đi được bao nhiêu km, flazz max và flazz khác gì, flazz max có cần bằng lái không, flazz max cốp bao nhiêu lít",
+    "excerpt": "",
+    "sections": [
+      [
+        "Flazz Max là bản nào trong dòng Flazz",
+        "<p></p>"
+      ],
+      [
+        "Thông số chính: 1500 W, 49 km/h, pin LFP 1,5 kWh",
+        "<p></p>"
+      ],
+      [
+        "87 km mỗi lần sạc và cách đổi pin",
+        "<p></p>"
+      ],
+      [
+        "Flazz Max và Flazz khác gì: tốc độ, pin, cốp",
+        "<p></p>"
+      ],
+      [
+        "Có cần bằng lái không: đọc theo công suất và tốc độ hãng công bố",
+        "<p></p>"
+      ],
+      [
+        "Giá niêm yết và chính sách pin có thời hạn",
+        "<p></p>"
+      ],
+      [
+        "Cần xe điện đi tạm ở Hà Nội: hỏi cửa hàng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-flazz-max",
+        "quote": "VinFast, trang 'VinFast Flazz Max - Xe điện đô thị dành cho học sinh' (đọc 15/10/2026): công suất tối đa 1500 W; pin LFP 1,5 kWh, tháo lắp đổi pin; quãng đường đến 87 km/lần sạc; tốc độ tối đa 49 km/h (1 người 65 kg, chế độ Sport); 1568×662×1007 mm, yên 750 mm, gầm 130 mm, cốp 4 L; đèn pha LED Projector; kết nối app E-Scooter; giá niêm yết 12,5 triệu đồng; bảo hành xe 6 năm không giới hạn km, pin 8 năm; màu Xanh, Trắng Cam, Đen.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast Shop, trang danh sách xe máy điện (đọc 15/10/2026): Flazz Max 12.500.000 đ, Flazz 14.200.000 đ, ZGoo 13.300.000 đ; không ghi ngày áp dụng, không ghi giá gồm pin hay chưa.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/gia-chi-tu-125-trieu-dong-vinfast-flazz-max-hut-phu-huynh-va-hoc-sinh-nho-thiet-ke-dep-va-doi-pin-tien-d639233.html",
+        "quote": "Báo Đầu tư, 'Giá chỉ từ 12,5 triệu đồng, VinFast Flazz Max hút phụ huynh và học sinh nhờ thiết kế đẹp và đổi pin tiện' (09/07/2026, đọc 15/10/2026): đổi pin tại tủ trong vài phút hoặc sạc tại nhà qua đêm; miễn phí đổi pin 20 lần/tháng đến 30/6/2028, sau đó trả phí thuê pin; một phụ huynh nói học sinh không cần bằng lái; bài không nêu dung lượng pin, quãng đường hay tốc độ chính thức.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01031"
+  }
+}

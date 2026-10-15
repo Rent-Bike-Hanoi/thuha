@@ -1,0 +1,144 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-15T01:17:39.721874+00:00",
+  "topic": {
+    "topic_id": "TM-01041",
+    "url": "/du-lich/di-tich-him-lam-dien-bien/",
+    "title": "Di tích Him Lam Điện Biên: trận mở màn 13/3/1954, tôn tạo xong 2026",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "di tích him lam điện biên",
+    "secondary_keywords": [
+      "đồi him lam",
+      "trung tâm đề kháng him lam",
+      "cứ điểm him lam",
+      "phù điêu him lam"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy lên Điện Biên muốn biết cụm cứ điểm Him Lam ở đâu, ý nghĩa trận mở màn và sau đợt tôn tạo 2026 có gì để xem.",
+    "information_gain": "/du-lich/doi-a1-dien-bien/, /du-lich/ham-de-castries/ và /du-lich/bao-tang-chien-thang-dien-bien-phu/ chỉ nhắc Him Lam như một cái tên nhìn từ xa. Bài mới cho: Him Lam là trung tâm đề kháng gồm 3 cứ điểm trên 3 quả đồi, cách hầm De Castries khoảng 2,5 km về phía đông bắc; trận 13/3/1954 mở màn chiến dịch, gắn Phan Đình Giót; giai đoạn II tôn tạo (động thổ 17/4/2024, khánh thành 8/3/2026, 90 tỷ đồng) có phù điêu đá dài 45 m, cao 8,9 m, nhà dâng hương, đường lên 3 cứ điểm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thu-tuong-chinh-phu-pham-minh-chinh-du-le-khanh-thanh-cong-trinh-bao-ton-ton-tao-khu-di-tich-him-lam-giai-doan-ii-post947018.html",
+        "quote": "Báo Nhân Dân (8/3/2026, đọc 15/10/2026): sáng 8/3/2026 khánh thành công trình bảo tồn, tôn tạo Khu di tích Him Lam giai đoạn II gồm phù điêu dài 45 m bằng đá tự nhiên, nhà dâng hương, tôn tạo kè, cải tạo đường dẫn lên 3 cứ điểm; tổng mức 90 tỷ đồng; Trung tâm đề kháng Him Lam gồm 3 cứ điểm trên 3 quả đồi tạo thế chân kiềng, nơi anh hùng Phan Đình Giót hy sinh.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/chinh-tri/thu-tuong-du-khanh-thanh-ton-tao-di-tich-de-khang-him-lam-209632.html",
+        "quote": "Báo Văn Hóa (8/3/2026, đọc 15/10/2026): khu trung tâm đề kháng Him Lam ở phường Điện Biên Phủ, tỉnh Điện Biên; ngày 13/3/1954 ta tiến công Him Lam, mở màn chiến dịch; Him Lam là 'cánh cửa thép' phía đông bắc tập đoàn cứ điểm; động thổ 17/4/2024; phù điêu diện tích 460 m², dài 45 m, cao 8,9 m cả bệ, bằng đá tự nhiên; 90 tỷ đồng.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thu-tuong-pham-minh-chinh-du-khoi-cong-cong-trinh-ton-tao-di-tich-khu-trung-tam-de-khang-him-lam-le-gan-bien-duong-pham-van-dong-post805212.html",
+        "quote": "Báo Nhân Dân (17/4/2024, đọc 15/10/2026): Trung tâm đề kháng Him Lam thuộc Di tích quốc gia đặc biệt Chiến trường Điện Biên Phủ, cách sở chỉ huy De Castries khoảng 2,5 km về phía đông bắc; hạng mục chính giai đoạn II: phù điêu dài 45 m, nhà dâng hương, sân, bãi đỗ xe, cây xanh; 13/3/1954 pháo ta bắn vào Him Lam mở màn chiến dịch.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-15",
+        "keyword": "di tích him lam điện biên"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Him Lam ở đâu so với đồi A1 và hầm De Castries",
+      "Trận mở màn 13/3/1954 và Phan Đình Giót",
+      "Sau tôn tạo 2026: phù điêu đá, nhà dâng hương, đường lên 3 cứ điểm",
+      "Lộ trình xe máy trong TP Điện Biên ghép các điểm di tích",
+      "Giờ mở cửa, vé: cần hỏi ban quản lý",
+      "Ứng xử tại di tích chiến trường"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/doi-a1-dien-bien/",
+      "/du-lich/ham-de-castries/",
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01041.json",
+  "draft_template": {
+    "id": "TM-01041",
+    "url": "/du-lich/di-tich-him-lam-dien-bien/",
+    "title": "Di tích Him Lam Điện Biên: trận mở màn 13/3/1954, tôn tạo xong 2026",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "di tích him lam điện biên, đồi him lam, trung tâm đề kháng him lam, cứ điểm him lam, phù điêu him lam",
+    "excerpt": "",
+    "sections": [
+      [
+        "Him Lam ở đâu so với đồi A1 và hầm De Castries",
+        "<p></p>"
+      ],
+      [
+        "Trận mở màn 13/3/1954 và Phan Đình Giót",
+        "<p></p>"
+      ],
+      [
+        "Sau tôn tạo 2026: phù điêu đá, nhà dâng hương, đường lên 3 cứ điểm",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình xe máy trong TP Điện Biên ghép các điểm di tích",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa, vé: cần hỏi ban quản lý",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử tại di tích chiến trường",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thu-tuong-chinh-phu-pham-minh-chinh-du-le-khanh-thanh-cong-trinh-bao-ton-ton-tao-khu-di-tich-him-lam-giai-doan-ii-post947018.html",
+        "quote": "Báo Nhân Dân (8/3/2026, đọc 15/10/2026): sáng 8/3/2026 khánh thành công trình bảo tồn, tôn tạo Khu di tích Him Lam giai đoạn II gồm phù điêu dài 45 m bằng đá tự nhiên, nhà dâng hương, tôn tạo kè, cải tạo đường dẫn lên 3 cứ điểm; tổng mức 90 tỷ đồng; Trung tâm đề kháng Him Lam gồm 3 cứ điểm trên 3 quả đồi tạo thế chân kiềng, nơi anh hùng Phan Đình Giót hy sinh.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/chinh-tri/thu-tuong-du-khanh-thanh-ton-tao-di-tich-de-khang-him-lam-209632.html",
+        "quote": "Báo Văn Hóa (8/3/2026, đọc 15/10/2026): khu trung tâm đề kháng Him Lam ở phường Điện Biên Phủ, tỉnh Điện Biên; ngày 13/3/1954 ta tiến công Him Lam, mở màn chiến dịch; Him Lam là 'cánh cửa thép' phía đông bắc tập đoàn cứ điểm; động thổ 17/4/2024; phù điêu diện tích 460 m², dài 45 m, cao 8,9 m cả bệ, bằng đá tự nhiên; 90 tỷ đồng.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/thu-tuong-pham-minh-chinh-du-khoi-cong-cong-trinh-ton-tao-di-tich-khu-trung-tam-de-khang-him-lam-le-gan-bien-duong-pham-van-dong-post805212.html",
+        "quote": "Báo Nhân Dân (17/4/2024, đọc 15/10/2026): Trung tâm đề kháng Him Lam thuộc Di tích quốc gia đặc biệt Chiến trường Điện Biên Phủ, cách sở chỉ huy De Castries khoảng 2,5 km về phía đông bắc; hạng mục chính giai đoạn II: phù điêu dài 45 m, nhà dâng hương, sân, bãi đỗ xe, cây xanh; 13/3/1954 pháo ta bắn vào Him Lam mở màn chiến dịch.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01041"
+  }
+}

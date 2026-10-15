@@ -1,0 +1,158 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-15T01:17:39.722403+00:00",
+  "topic": {
+    "topic_id": "TM-01058",
+    "url": "/bao-duong/xe-may-ra-khoi-ong-xa/",
+    "title": "Xe máy ra khói trắng, khói đen, khói xanh ở ống xả: nguyên nhân, xử lý",
+    "hub": "bao-duong",
+    "subtopic": "su-co-thuong-gap",
+    "primary_keyword": "xe máy ra khói ống xả",
+    "secondary_keywords": [
+      "xe máy ra khói trắng",
+      "xe máy ra khói đen",
+      "xe máy ra khói xanh",
+      "xe máy bị ăn nhớt",
+      "ống xả xe máy có khói"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy thấy ống xả ra khói (trắng, đen hoặc xanh) muốn biết màu khói báo lỗi gì, khi nào là bình thường, có đi tiếp được không và cần kiểm tra gì trước khi ra tiệm.",
+    "information_gain": "Site có /bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/, /bao-duong/ve-sinh-kim-phun-xang-dien-tu-bao-lau-mot-lan/ và /bao-duong/xe-may-hao-xang-bat-thuong/ nhưng chưa trang nào lấy màu khói làm triệu chứng để khoanh vùng. Bài mới cho: hỏi đáp Honda về khói đen (quên đóng bướm gió/mạch làm giàu, lọc gió tắc, chế hòa khí); sổ HDSD Air Blade về mức tiêu hao dầu động cơ phải kiểm tra thường xuyên và việc nổ cầm chừng quá lâu làm hỏng hệ thống xả; khung phân biệt hơi nước lúc trời lạnh với khói trắng dày, khói xanh do nhớt cháy (nêu rõ nguồn báo viết cho ô tô) – và quyết định đi tiếp hay dừng.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, Hỏi đáp 'Khi xe bị ra khói đen thì cần kiểm tra các bộ phận nào của xe?' (cập nhật 21/09/2021, đọc 15/10/2026): khói đen sau ống xả nghĩa là có một lượng xăng không được đốt hết; nguyên nhân có thể: dùng hệ thống khởi động (cần bướm gió hoặc mạch làm giàu) rồi quên đóng hoặc bị kẹt; lọc gió tắc, bẩn làm thiếu không khí, hỗn hợp quá nhiều xăng; bộ chế hòa khí có vấn đề không kiểm soát được tỷ lệ xăng – gió.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Sách HDSD Honda Air Blade 160/125 (bản PDF trên cdn.honda.com.vn, đọc 15/10/2026): 'Mức độ tiêu hao dầu động cơ là khác nhau và chất lượng dầu giảm tùy theo thời gian sử dụng và điều kiện lái xe. Kiểm tra mức dầu động cơ thường xuyên và đổ thêm dầu động cơ khuyên dùng vào nếu cần'; 'Để xe nổ cầm chừng quá lâu hoặc vặn ga liên tục có thể làm hỏng động cơ và hệ thống xả'.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cach-nhin-khoi-bat-benh-oto-4611810.html",
+        "quote": "VnExpress, 'Cách nhìn khói bắt bệnh ôtô' (31/5/2023, đọc 15/10/2026; bài viết cho ô tô): khí thải bình thường gần như không màu; khói trắng mỏng khi khởi động trời lạnh là hơi nước ngưng tụ, hết khi xe nóng; khói trắng dày kéo dài thường do nước làm mát lọt vào máy (đệm quy-lát hỏng), nhận biết qua mùi hơi ngọt hoặc mức nước làm mát giảm; khói xanh do dầu bị đốt, dầu lọt vào buồng đốt vì vòng piston mòn; khói đen do đốt quá nhiều nhiên liệu, lọc gió bẩn hoặc kim phun; nên đưa xe đi kiểm tra sớm.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://voh.com.vn/xe/doan-benh-cho-xe-tu-mau-khoi-thai-528372.html",
+        "quote": "VOH, 'Đoán bệnh cho xe từ màu khói thải' (20/05/2024, đọc 15/10/2026; bài viết cho ô tô): khói trắng thường do nước làm mát rò vào buồng đốt, có mùi ngọt khác hơi nước; khói đen do nhiên liệu cháy không hết, thường vì kim phun, cảm biến hoặc lọc gió tắc; khói xanh cho thấy dầu nhớt lọt vào buồng đốt do vòng găng piston hở hoặc van PCV hỏng, có trường hợp phải tháo máy.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-15",
+        "keyword": "xe máy ra khói ống xả"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Câu trả lời ngắn: màu khói nào phải dừng xe",
+      "Khói trắng mỏng lúc sáng lạnh: hơi nước, bình thường",
+      "Khói trắng dày: xe có két nước và xe không có két nước",
+      "Khói đen: bướm gió, lọc gió, chế hòa khí, kim phun theo Honda",
+      "Khói xanh, mùi khét: nhớt cháy, kiểm tra que thăm nhớt",
+      "Tự kiểm tra trước khi ra tiệm và khi nào gọi cửa hàng"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/",
+      "/bao-duong/xe-may/thay-nhot/",
+      "/bao-duong/nuoc-lam-mat-xe-may-bao-lau-thay/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "troubleshooting",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01058.json",
+  "draft_template": {
+    "id": "TM-01058",
+    "url": "/bao-duong/xe-may-ra-khoi-ong-xa/",
+    "title": "Xe máy ra khói trắng, khói đen, khói xanh ở ống xả: nguyên nhân, xử lý",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "xe máy ra khói ống xả, xe máy ra khói trắng, xe máy ra khói đen, xe máy ra khói xanh, xe máy bị ăn nhớt, ống xả xe máy có khói",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: màu khói nào phải dừng xe",
+        "<p></p>"
+      ],
+      [
+        "Khói trắng mỏng lúc sáng lạnh: hơi nước, bình thường",
+        "<p></p>"
+      ],
+      [
+        "Khói trắng dày: xe có két nước và xe không có két nước",
+        "<p></p>"
+      ],
+      [
+        "Khói đen: bướm gió, lọc gió, chế hòa khí, kim phun theo Honda",
+        "<p></p>"
+      ],
+      [
+        "Khói xanh, mùi khét: nhớt cháy, kiểm tra que thăm nhớt",
+        "<p></p>"
+      ],
+      [
+        "Tự kiểm tra trước khi ra tiệm và khi nào gọi cửa hàng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+        "quote": "Honda Việt Nam, Hỏi đáp 'Khi xe bị ra khói đen thì cần kiểm tra các bộ phận nào của xe?' (cập nhật 21/09/2021, đọc 15/10/2026): khói đen sau ống xả nghĩa là có một lượng xăng không được đốt hết; nguyên nhân có thể: dùng hệ thống khởi động (cần bướm gió hoặc mạch làm giàu) rồi quên đóng hoặc bị kẹt; lọc gió tắc, bẩn làm thiếu không khí, hỗn hợp quá nhiều xăng; bộ chế hòa khí có vấn đề không kiểm soát được tỷ lệ xăng – gió.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Sách HDSD Honda Air Blade 160/125 (bản PDF trên cdn.honda.com.vn, đọc 15/10/2026): 'Mức độ tiêu hao dầu động cơ là khác nhau và chất lượng dầu giảm tùy theo thời gian sử dụng và điều kiện lái xe. Kiểm tra mức dầu động cơ thường xuyên và đổ thêm dầu động cơ khuyên dùng vào nếu cần'; 'Để xe nổ cầm chừng quá lâu hoặc vặn ga liên tục có thể làm hỏng động cơ và hệ thống xả'.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cach-nhin-khoi-bat-benh-oto-4611810.html",
+        "quote": "VnExpress, 'Cách nhìn khói bắt bệnh ôtô' (31/5/2023, đọc 15/10/2026; bài viết cho ô tô): khí thải bình thường gần như không màu; khói trắng mỏng khi khởi động trời lạnh là hơi nước ngưng tụ, hết khi xe nóng; khói trắng dày kéo dài thường do nước làm mát lọt vào máy (đệm quy-lát hỏng), nhận biết qua mùi hơi ngọt hoặc mức nước làm mát giảm; khói xanh do dầu bị đốt, dầu lọt vào buồng đốt vì vòng piston mòn; khói đen do đốt quá nhiều nhiên liệu, lọc gió bẩn hoặc kim phun; nên đưa xe đi kiểm tra sớm.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://voh.com.vn/xe/doan-benh-cho-xe-tu-mau-khoi-thai-528372.html",
+        "quote": "VOH, 'Đoán bệnh cho xe từ màu khói thải' (20/05/2024, đọc 15/10/2026; bài viết cho ô tô): khói trắng thường do nước làm mát rò vào buồng đốt, có mùi ngọt khác hơi nước; khói đen do nhiên liệu cháy không hết, thường vì kim phun, cảm biến hoặc lọc gió tắc; khói xanh cho thấy dầu nhớt lọt vào buồng đốt do vòng găng piston hở hoặc van PCV hỏng, có trường hợp phải tháo máy.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01058"
+  }
+}

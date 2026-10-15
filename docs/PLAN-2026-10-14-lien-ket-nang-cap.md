@@ -34,7 +34,12 @@ Trạng thái 14/10: OpenSEO còn 11 credit, không đủ cho một lần gọi 
 - Khi có: lấy volume cho ~150 từ khoá ưu tiên (trang tiền + cụm thuê xe + bài có hiển thị trong GSC), ghi vào `data/keyword-metrics.jsonl` (ngày + nguồn), xếp thứ tự nâng cấp theo nhu cầu.
 - Trong lúc chờ: dùng 3 báo cáo Ubersuggest/ngày cho từ khoá trang tiền.
 
-## Kiểm tra mỗi PR
+## Quy trình định kỳ (áp dụng liên tục, không phải hạng mục cần hoàn thành)
+
+- Mỗi PR chạy bộ kiểm tra dưới đây (đã chạy cho #36, #38).
+- Đo GEO tuần đầu mỗi tháng theo `docs/GEO-bo-cau-hoi-kiem-tra.md` (mốc 10/2026 đã ghi).
+
+### Kiểm tra mỗi PR
 
 `content_factory.py run --dry-run`, 4 bộ test, `topic_matrix.py validate`, `build.py` (rebuild không diff), `validate_factory_site.py`.
 
@@ -48,20 +53,20 @@ Hiện trạng (kiểm 15/10): robots.txt cho phép mọi bot; bài có BlogPost
 |---|---|---|
 | D1 | Không chặn bot tìm kiếm AI (OAI-SearchBot, PerplexityBot, Googlebot, Bingbot). Bot huấn luyện (GPTBot, Google-Extended) là quyết định riêng; mặc định để mở | Đã đúng (robots.txt Allow /) |
 | D2 | Nối thực thể: LocalBusiness/Organization thêm `sameAs` = link Google Maps của hồ sơ, `alternateName` = tên trên GBP, để AI nối blog với cửa hàng trên Maps | Làm 15/10 |
-| D3 | Bing Webmaster Tools + IndexNow (ChatGPT search, Copilot được cho là dựa nhiều vào chỉ mục Bing; chưa có xác nhận chính thức) và Cốc Cốc | Cần chủ site xác minh site |
+| D3 | Bing Webmaster Tools + IndexNow (ChatGPT search, Copilot được cho là dựa nhiều vào chỉ mục Bing; chưa có xác nhận chính thức) và Cốc Cốc | Chủ site chọn bỏ qua Bing Webmaster Tools (15/10). Đã có sẵn: file khoá IndexNow ở gốc site + `scripts/indexnow.py` (chạy `--send` sau khi deploy). Còn: chủ site đăng nhập Bing Webmaster Tools, nhập site từ Google Search Console (xác minh tự động) |
 | D4 | Trang tiền mở đầu bằng đoạn trả lời 40–60 từ (giá, địa chỉ, giờ, giấy tờ); FAQ khớp câu hỏi người dùng hỏi AI: "thuê xe máy Long Biên ở đâu", "giá thuê xe máy Hà Nội 2026", "người nước ngoài thuê xe máy Hà Nội cần gì", "thuê xe 50cc không cần bằng" | Xong 15/10: 6 trang tiền đã có đoạn trả lời thẳng + FAQ; thêm câu "Cửa hàng ở đâu, mở cửa mấy giờ?" |
 | D5 | Uy tín ngoài site: review GBP đều đặn, nhắc tên "Thuê xe máy Nguyễn Hà" nhất quán trên Facebook, nhóm, blog du lịch đối tác; không mua review, không spam diễn đàn | Liên tục (mục 9) |
-| D6 | Đo: bộ 20 câu hỏi kiểm tra mỗi tháng trên Google AI Mode, ChatGPT, Gemini, Perplexity (có nhắc cửa hàng không, đúng giá/địa chỉ không, dẫn trang nào); GA4 theo dõi nguồn giới thiệu chatgpt.com, perplexity.ai, gemini.google.com, copilot | Bộ câu hỏi: docs/GEO-bo-cau-hoi-kiem-tra.md |
+| D6 | Đo: bộ 20 câu hỏi kiểm tra mỗi tháng trên Google AI Mode, ChatGPT, Gemini, Perplexity (có nhắc cửa hàng không, đúng giá/địa chỉ không, dẫn trang nào); GA4 theo dõi nguồn giới thiệu chatgpt.com, perplexity.ai, gemini.google.com, copilot | Bộ câu hỏi: docs/GEO-bo-cau-hoi-kiem-tra.md; mốc 10/2026 đã ghi (GA4 lọc thuha: 161 phiên, 0 phiên từ AI). Lặp lại tuần đầu mỗi tháng |
 
 Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domain không thấy liên hệ với trích dẫn AI), nhồi từ khoá, nội dung viết riêng cho bot.
 
-## Trạng thái 15/10/2026
+## Trạng thái 15/10/2026: HOÀN THÀNH (A, B, C, D)
 
 - A1 xong: 0 link gãy; kiểm tra link gãy trong thân bài đã đưa vào `scripts/validate_factory_site.py` (A5).
 - A2 xong: Bài liên quan theo chủ đề + ô thứ 4 cho bài ít được trỏ tới.
 - A3 xong: /thue-xe-may/ha-noi/theo-thang/ từ 14 lên 47 link vào (gợi ý dịch vụ theo ngữ cảnh "thuê … tháng").
 - A4: thêm link ngữ cảnh cho phanh CBS, Klara S, xe điện leo dốc, TMAX. Còn 2 trang có 2 link vào (Royal Enfield Himalayan 450, nhường đường vòng xuyến): chưa bài nào cùng chuyên mục nhắc tự nhiên, không ép link.
-- B: UB-015, 017–024 xong. UB-017: gỡ khẳng định ngoài business-facts (xe côn tay, phân khối lớn, bảo dưỡng định kỳ, thời điểm thanh toán); thêm lại khi chủ cửa hàng xác nhận.
+- B: UB-015, 017–024 xong. UB-017: gỡ khẳng định ngoài business-facts (xe côn tay, phân khối lớn, bảo dưỡng định kỳ, thời điểm thanh toán); 15/10 chủ site chọn giữ để kéo traffic: chủ cửa hàng xác nhận không cho thuê hai loại này; trang ghi rõ "cửa hàng không cho thuê", giữ danh sách mẫu để phục vụ tìm kiếm. Đóng.
 - C xong 15/10: 309 dòng volume thật trong `data/keyword-metrics.jsonl` (12 từ Ubersuggest; 297 từ HarborRank/DataForSEO, Việt Nam: 23 từ khoá trang tiền + toàn bộ từ khoá chính của bài đã xuất bản ngoài hub du lịch). 166 từ có volume, 131 dưới ngưỡng thống kê.
   Kết luận ưu tiên nâng cấp:
   1. /thue-xe-may/ha-noi/: "thuê xe máy hà nội" 8.100 (KD 7) + "cho thuê xe máy hà nội" 1.600 (KD 7): nhu cầu lớn nhất, độ khó thấp. "giá thuê xe máy hà nội" chỉ 110 nhưng KD 46.
@@ -69,5 +74,6 @@ Không làm: llms.txt (Google cho biết không dùng; khảo sát 300.000 domai
   3. Xe điện: thuê xe điện hà nội 390, thuê xe máy điện hà nội 260, xe máy điện tailg 880 (mẫu cửa hàng có), trạm đổi pin vinfast 2.400.
   4. Trang theo tháng / 50cc: 70–110/tháng; giữ, không mở trang mới.
   5. Luật có nhu cầu: xe không chính chủ có bị phạt không 1.600, kiểm định khí thải xe máy 1.300, đèn đỏ có được rẽ phải không 590.
-  Từ khoá du lịch (~660 bài) chưa tra: chạy tiếp khi cần, HarborRank nhận tối đa 700 từ/lần.
-- D: D1, D2, D4, D6 xong; D3 (Bing Webmaster Tools) chờ chủ site; D5 liên tục.
+  Từ khoá du lịch: 666 từ khoá chính của bài du lịch đã tra 15/10 (HarborRank), 441 có volume. Cao nhất: bến xe mỹ đình 673.000, bến xe nước ngầm 450.000, bến xe giáp bát 301.000, văn miếu quốc tử giám 165.000, bến xe yên nghĩa 165.000, bảo tàng lịch sử quân sự 110.000, công viên thống nhất 110.000. Nhiều từ là ý định điều hướng (bến xe, ga, chợ, công viên): nâng cấp các bài này theo hướng thông tin thực dụng (giờ, đường đi xe máy, gửi xe) và link về trang thuê xe.
+- A4 xong 15/10: thêm link "xem thêm" cùng chủ đề tới vòng xuyến (từ đèn đỏ rẽ phải, nhường người đi bộ) và Himalayan 450 (từ Hunter 350, Speed 400).
+- D: D1, D2, D4, D6 xong; D3: chủ site chọn bỏ qua Bing Webmaster Tools; IndexNow có sẵn nếu cần; D5 liên tục.

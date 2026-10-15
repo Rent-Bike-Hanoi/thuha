@@ -1,0 +1,188 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-15T01:17:39.227618+00:00",
+  "topic": {
+    "topic_id": "TM-01030",
+    "url": "/xe-dien/vinfast-feliz-ii/",
+    "title": "VinFast Feliz II: pin 1,5 kWh, 156 km khi lắp 2 pin, khác Feliz 2027 ra sao",
+    "hub": "xe-dien",
+    "subtopic": "chon-xe-dien",
+    "primary_keyword": "vinfast feliz ii",
+    "secondary_keywords": [
+      "feliz ii giá bao nhiêu",
+      "feliz ii đi được bao nhiêu km",
+      "feliz ii và feliz 2027 khác gì",
+      "vinfast feliz 2027",
+      "feliz ii có cần bằng lái không"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội đang cân nhắc xe máy điện đổi pin VinFast tầm 23–27 triệu muốn biết Feliz II đi được bao xa, giá niêm yết bao nhiêu và khác gì bản Feliz 2027 cùng dáng xe.",
+    "information_gain": "Gần nhất là /xe-dien/vinfast-feliz-s/ (Feliz S đã ngừng niêm yết, chỉ đặt cạnh Feliz 2025) và /xe-dien/vinfast-evo-grand/; chưa trang nào nói về Feliz II hay Feliz 2027. Bài mới cho số liệu VinFast đọc 15/10/2026: Feliz II pin LFP 1,5 kWh (thêm 1 pin 1,5 kWh), khoảng 156 km khi lắp 2 pin ở 30 km/h, khoảng 70 km/h, 3000 W, 0–50 km/h 15 giây, cốp 10 L khi lắp 2 pin, gầm 134 mm, giá niêm yết đề xuất 23.000.000 đ trên trang danh sách; đặt cạnh Feliz 2027 cùng kích thước 1920×694×1140 mm nhưng pin 2,4 kWh (khoảng 262 km khi thêm pin phụ), 2800 W, cốp 34 L (15 L khi lắp pin phụ), giá 26,9 triệu; và giá ra mắt/thuê pin 3/2026 theo báo để người đọc thấy chênh lệch theo thời điểm.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-feliz-II",
+        "quote": "VinFast, trang 'Feliz II - Xe máy điện đổi pin giá tốt' (đọc 15/10/2026): tốc độ tối đa ~70 km/h (1 người 65 kg, chế độ Sport); ~156 km/lần sạc khi lắp thêm pin phụ (điều kiện kiểm thử VinFast 30 km/h); 0–50 km/h 15 giây; pin LFP 1,5 kWh, tùy chọn thêm 1 pin 1,5 kWh; công suất tối đa 3000 W, động cơ BLDC Inhub; 1920×694×1140 mm, yên 780 mm, gầm 134 mm; cốp 10 L khi lắp 2 pin; định vị, lịch sử hành trình, vùng an toàn, tìm xe qua app E-Scooter, xác thực pin, cổng sạc USB.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast Shop, trang danh sách xe máy điện (đọc 15/10/2026): Feliz II 23.000.000 đ, Feliz 2025 26.000.000 đ, Feliz 2027 26.900.000 đ; trang không ghi giá đã gồm pin hay chưa và không ghi ngày áp dụng.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-feliz-the-he-moi",
+        "quote": "VinFast, trang 'Xe máy điện VinFast Feliz 2027 - Phiên bản hoàn toàn mới' (đọc 15/10/2026): 1920×694×1140 mm, yên 780 mm, gầm 141 mm, cốp 34 L (15 L khi lắp thêm pin phụ), công suất tối đa 2800 W, 70 km/h (65 kg, Sport), ~262 km/lần sạc khi lắp thêm pin phụ (30 km/h), 0–50 km/h <18 giây, pin LFP 2,4 kWh tùy chọn thêm 1 pin 2,4 kWh; giá niêm yết 26,9 triệu đồng; bảo hành xe 6 năm, pin 8 năm, không giới hạn km; 4 màu Trắng ngọc trai, Xám xi măng, Xanh cẩm thạch, Đen bóng.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/tv/vinfast-feliz-ii-xe-may-dien-pho-thong-gia-249-trieu-dong-pham-vi-toi-156-km-32222.html",
+        "quote": "Báo Hà Tĩnh, 'VinFast Feliz II: Xe máy điện phổ thông giá 24,9 triệu đồng, phạm vi tới 156 km' (02/03/2026, đọc 15/10/2026): bản không kèm pin 24,9 triệu (gồm VAT và sạc), bản kèm 1 pin 30,5 triệu; thuê pin 175.000 đ/tháng (1 pin), 300.000 đ/tháng (2 pin); khoảng 82 km với 1 pin, 156 km với 2 pin; động cơ BLDC Inhub 1.800 W danh định, 3.000 W tối đa; 70 km/h; IP67; 4 màu Đỏ, Trắng, Đen, Xanh Oliu.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/tv/print/37714.html",
+        "quote": "Báo Hà Tĩnh, 'VinFast Feliz II giảm giá sâu: Chỉ từ 21,7 triệu đồng cùng ưu đãi đổi pin miễn phí' (17/04/2026, đọc 15/10/2026): mỗi pin LFP 1,5 kWh nặng 12,5 kg; 82 km/1 pin, 156 km/2 pin; 70 km/h nên cần bằng A1; 24.000 xe bán trong tháng 3/2026; miễn phí đổi pin 20 lần/tháng đến 30/06/2028, sạc miễn phí trạm V-Green đến 31/07/2027; bảo hành xe 6 năm, pin 8 năm; vành đúc 14 inch, phanh đĩa trước, tang trống sau.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 2400,
+        "checked": "2026-10-15",
+        "keyword": "vinfast feliz ii"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Feliz II là xe gì trong dải xe VinFast",
+      "Pin 1,5 kWh: 1 pin và 2 pin đi được bao xa",
+      "Giá niêm yết, mua kèm pin hay thuê pin",
+      "Feliz II và Feliz 2027 khác nhau ở đâu",
+      "Cần bằng lái gì khi xe chạy 70 km/h",
+      "Đổi pin, sạc và bảo hành",
+      "Cần xe điện đi tạm ở Hà Nội: hỏi cửa hàng xe đang có"
+    ],
+    "suggested_internal_links": [
+      "/thue-xe-dien/ha-noi/",
+      "/xe-dien/vinfast-feliz-s/",
+      "/xe-dien/vinfast-evo-grand/",
+      "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/"
+    ],
+    "content_type": "comparison",
+    "overlap": [
+      {
+        "url": "/xe-dien/vinfast-feliz-s/",
+        "layers": [
+          "keyword_normalized",
+          "title"
+        ],
+        "scores": {
+          "keyword_normalized": 1.0,
+          "title": 0.65
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/xe-dien/vinfast-feliz-s/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01030.json",
+  "draft_template": {
+    "id": "TM-01030",
+    "url": "/xe-dien/vinfast-feliz-ii/",
+    "title": "VinFast Feliz II: pin 1,5 kWh, 156 km khi lắp 2 pin, khác Feliz 2027 ra sao",
+    "hub": "xe-dien",
+    "parent": "/xe-dien/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "vinfast feliz ii, feliz ii giá bao nhiêu, feliz ii đi được bao nhiêu km, feliz ii và feliz 2027 khác gì, vinfast feliz 2027, feliz ii có cần bằng lái không",
+    "excerpt": "",
+    "sections": [
+      [
+        "Feliz II là xe gì trong dải xe VinFast",
+        "<p></p>"
+      ],
+      [
+        "Pin 1,5 kWh: 1 pin và 2 pin đi được bao xa",
+        "<p></p>"
+      ],
+      [
+        "Giá niêm yết, mua kèm pin hay thuê pin",
+        "<p></p>"
+      ],
+      [
+        "Feliz II và Feliz 2027 khác nhau ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Cần bằng lái gì khi xe chạy 70 km/h",
+        "<p></p>"
+      ],
+      [
+        "Đổi pin, sạc và bảo hành",
+        "<p></p>"
+      ],
+      [
+        "Cần xe điện đi tạm ở Hà Nội: hỏi cửa hàng xe đang có",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-vinfast-feliz-II",
+        "quote": "VinFast, trang 'Feliz II - Xe máy điện đổi pin giá tốt' (đọc 15/10/2026): tốc độ tối đa ~70 km/h (1 người 65 kg, chế độ Sport); ~156 km/lần sạc khi lắp thêm pin phụ (điều kiện kiểm thử VinFast 30 km/h); 0–50 km/h 15 giây; pin LFP 1,5 kWh, tùy chọn thêm 1 pin 1,5 kWh; công suất tối đa 3000 W, động cơ BLDC Inhub; 1920×694×1140 mm, yên 780 mm, gầm 134 mm; cốp 10 L khi lắp 2 pin; định vị, lịch sử hành trình, vùng an toàn, tìm xe qua app E-Scooter, xác thực pin, cổng sạc USB.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://shop.vinfastauto.com/vn_vi/xe-may-dien-vinfast.html",
+        "quote": "VinFast Shop, trang danh sách xe máy điện (đọc 15/10/2026): Feliz II 23.000.000 đ, Feliz 2025 26.000.000 đ, Feliz 2027 26.900.000 đ; trang không ghi giá đã gồm pin hay chưa và không ghi ngày áp dụng.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://vinfastauto.com/vn_vi/xe-may-dien-feliz-the-he-moi",
+        "quote": "VinFast, trang 'Xe máy điện VinFast Feliz 2027 - Phiên bản hoàn toàn mới' (đọc 15/10/2026): 1920×694×1140 mm, yên 780 mm, gầm 141 mm, cốp 34 L (15 L khi lắp thêm pin phụ), công suất tối đa 2800 W, 70 km/h (65 kg, Sport), ~262 km/lần sạc khi lắp thêm pin phụ (30 km/h), 0–50 km/h <18 giây, pin LFP 2,4 kWh tùy chọn thêm 1 pin 2,4 kWh; giá niêm yết 26,9 triệu đồng; bảo hành xe 6 năm, pin 8 năm, không giới hạn km; 4 màu Trắng ngọc trai, Xám xi măng, Xanh cẩm thạch, Đen bóng.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/tv/vinfast-feliz-ii-xe-may-dien-pho-thong-gia-249-trieu-dong-pham-vi-toi-156-km-32222.html",
+        "quote": "Báo Hà Tĩnh, 'VinFast Feliz II: Xe máy điện phổ thông giá 24,9 triệu đồng, phạm vi tới 156 km' (02/03/2026, đọc 15/10/2026): bản không kèm pin 24,9 triệu (gồm VAT và sạc), bản kèm 1 pin 30,5 triệu; thuê pin 175.000 đ/tháng (1 pin), 300.000 đ/tháng (2 pin); khoảng 82 km với 1 pin, 156 km với 2 pin; động cơ BLDC Inhub 1.800 W danh định, 3.000 W tối đa; 70 km/h; IP67; 4 màu Đỏ, Trắng, Đen, Xanh Oliu.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/tv/print/37714.html",
+        "quote": "Báo Hà Tĩnh, 'VinFast Feliz II giảm giá sâu: Chỉ từ 21,7 triệu đồng cùng ưu đãi đổi pin miễn phí' (17/04/2026, đọc 15/10/2026): mỗi pin LFP 1,5 kWh nặng 12,5 kg; 82 km/1 pin, 156 km/2 pin; 70 km/h nên cần bằng A1; 24.000 xe bán trong tháng 3/2026; miễn phí đổi pin 20 lần/tháng đến 30/06/2028, sạc miễn phí trạm V-Green đến 31/07/2027; bảo hành xe 6 năm, pin 8 năm; vành đúc 14 inch, phanh đĩa trước, tang trống sau.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01030"
+  }
+}
