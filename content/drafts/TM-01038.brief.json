@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-15T01:17:39.467867+00:00",
+  "topic": {
+    "topic_id": "TM-01038",
+    "url": "/du-lich/den-suoi-mo/",
+    "title": "Đền Suối Mỡ: ba đền thờ Mẫu, lễ hội cuối tháng Ba âm lịch, đường 293",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền suối mỡ",
+    "secondary_keywords": [
+      "lễ hội đền suối mỡ",
+      "suối mỡ bắc ninh",
+      "khu du lịch suối mỡ",
+      "suối mỡ lục nam"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi lễ hoặc chơi suối ở Suối Mỡ cần biết đền ở đâu sau sáp nhập, ba đền nằm thế nào, lễ hội ngày nào và đi xe máy theo đường nào.",
+    "information_gain": "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ và /du-lich/chua-am-vai-luc-ngan/ chỉ nhắc Suối Mỡ là một phần quần thể Tây Yên Tử; chưa có trang riêng. Bài mới cho: vị trí xã Nghĩa Phương, tỉnh Bắc Ninh; đi theo QL31 và đường tỉnh 293, đền Hạ nằm sát đường 293; ba đền Hạ–Trung–Thượng thờ Mẫu Thượng Ngàn dọc suối; di tích quốc gia từ 1988, lễ hội là di sản phi vật thể quốc gia từ 2015; mùa du lịch 2026 lần đầu tổ chức từ tháng Tư.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "http://baobacninhtv.vn/bg2/dulichbg/suoi-mo-thang-tich-mien-song-luc-nui-huyen-postid442068.bbg",
+        "quote": "Báo và PT-TH Bắc Ninh, 'Suối Mỡ - thắng tích miền sông Lục, núi Huyền' (28/3/2026, đọc 15/10/2026): khu di tích danh thắng Suối Mỡ thuộc xã Nghĩa Phương, tỉnh Bắc Ninh, sườn Tây Yên Tử; ba đền Thượng, Trung, Hạ thờ Thánh Mẫu Thượng Ngàn Quế Mỵ Nương; năm 1988 công nhận di tích lịch sử - văn hóa quốc gia; năm 2015 lễ hội đền Suối Mỡ là di sản văn hóa phi vật thể quốc gia; lễ hội hằng năm 30/3 và 1/4 âm lịch, đặc trưng hát văn, hầu đồng; năm nay giảm 30% giá vé cho đoàn đăng ký trước (không nêu giá gốc).",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "http://baobacninhtv.vn/bg2/dulichbg/suoi-mo-mien-non-thieng-xanh-tham-postid445133.bbg",
+        "quote": "Báo và PT-TH Bắc Ninh, 'Suối Mỡ - miền non thiêng xanh thẳm' (9/5/2026, đọc 15/10/2026): Suối Mỡ ở xã Nghĩa Phương, tỉnh Bắc Ninh; lễ hội từ 30 tháng Ba đến mùng 2 tháng Tư âm lịch; mùa du lịch 2026 lần đầu tổ chức từ tháng Tư, gắn Festival 'Về miền di sản Bắc Ninh - 2026'; khu du lịch tâm linh - sinh thái cấp tỉnh; có 5 cơ sở lưu trú khoảng 200 khách/ngày; dịp giỗ Tổ và 30/4–1/5 đón hơn 30 nghìn lượt.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "http://baobacninhtv.vn/bg/emagazine/suoi-mo-khong-gian-van-hoa-tam-linh-giua-troi-may-non-nuoc.bbg",
+        "quote": "Báo Bắc Giang (nay Báo và PT-TH Bắc Ninh), 'Suối Mỡ - Không gian văn hóa tâm linh giữa trời mây non nước' (8/10/2018, đọc 15/10/2026): cách TP Bắc Giang khoảng 30 km theo QL31 và đường tỉnh 293; đền Hạ nằm cạnh đường tỉnh 293, có ba pho tượng đồng; thác Thùm Thùm (thác Chúa) cao và đẹp nhất; lễ hội 30 tháng Ba và mùng 1 tháng Tư âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 390,
+        "checked": "2026-10-15",
+        "keyword": "đền suối mỡ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Suối Mỡ ở đâu sau khi Bắc Giang nhập Bắc Ninh",
+      "Đi xe máy từ Hà Nội theo QL31, đường tỉnh 293",
+      "Đền Hạ, đền Trung, đền Thượng: thứ tự đi",
+      "Lễ hội cuối tháng Ba âm lịch và mùa du lịch",
+      "Thác Thùm Thùm, tắm suối và an toàn",
+      "Vé, gửi xe và nghỉ đêm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/chua-am-vai-luc-ngan/",
+      "/du-lich/ho-khuon-than/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01038.json",
+  "draft_template": {
+    "id": "TM-01038",
+    "url": "/du-lich/den-suoi-mo/",
+    "title": "Đền Suối Mỡ: ba đền thờ Mẫu, lễ hội cuối tháng Ba âm lịch, đường 293",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền suối mỡ, lễ hội đền suối mỡ, suối mỡ bắc ninh, khu du lịch suối mỡ, suối mỡ lục nam",
+    "excerpt": "",
+    "sections": [
+      [
+        "Suối Mỡ ở đâu sau khi Bắc Giang nhập Bắc Ninh",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội theo QL31, đường tỉnh 293",
+        "<p></p>"
+      ],
+      [
+        "Đền Hạ, đền Trung, đền Thượng: thứ tự đi",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội cuối tháng Ba âm lịch và mùa du lịch",
+        "<p></p>"
+      ],
+      [
+        "Thác Thùm Thùm, tắm suối và an toàn",
+        "<p></p>"
+      ],
+      [
+        "Vé, gửi xe và nghỉ đêm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "http://baobacninhtv.vn/bg2/dulichbg/suoi-mo-thang-tich-mien-song-luc-nui-huyen-postid442068.bbg",
+        "quote": "Báo và PT-TH Bắc Ninh, 'Suối Mỡ - thắng tích miền sông Lục, núi Huyền' (28/3/2026, đọc 15/10/2026): khu di tích danh thắng Suối Mỡ thuộc xã Nghĩa Phương, tỉnh Bắc Ninh, sườn Tây Yên Tử; ba đền Thượng, Trung, Hạ thờ Thánh Mẫu Thượng Ngàn Quế Mỵ Nương; năm 1988 công nhận di tích lịch sử - văn hóa quốc gia; năm 2015 lễ hội đền Suối Mỡ là di sản văn hóa phi vật thể quốc gia; lễ hội hằng năm 30/3 và 1/4 âm lịch, đặc trưng hát văn, hầu đồng; năm nay giảm 30% giá vé cho đoàn đăng ký trước (không nêu giá gốc).",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "http://baobacninhtv.vn/bg2/dulichbg/suoi-mo-mien-non-thieng-xanh-tham-postid445133.bbg",
+        "quote": "Báo và PT-TH Bắc Ninh, 'Suối Mỡ - miền non thiêng xanh thẳm' (9/5/2026, đọc 15/10/2026): Suối Mỡ ở xã Nghĩa Phương, tỉnh Bắc Ninh; lễ hội từ 30 tháng Ba đến mùng 2 tháng Tư âm lịch; mùa du lịch 2026 lần đầu tổ chức từ tháng Tư, gắn Festival 'Về miền di sản Bắc Ninh - 2026'; khu du lịch tâm linh - sinh thái cấp tỉnh; có 5 cơ sở lưu trú khoảng 200 khách/ngày; dịp giỗ Tổ và 30/4–1/5 đón hơn 30 nghìn lượt.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "http://baobacninhtv.vn/bg/emagazine/suoi-mo-khong-gian-van-hoa-tam-linh-giua-troi-may-non-nuoc.bbg",
+        "quote": "Báo Bắc Giang (nay Báo và PT-TH Bắc Ninh), 'Suối Mỡ - Không gian văn hóa tâm linh giữa trời mây non nước' (8/10/2018, đọc 15/10/2026): cách TP Bắc Giang khoảng 30 km theo QL31 và đường tỉnh 293; đền Hạ nằm cạnh đường tỉnh 293, có ba pho tượng đồng; thác Thùm Thùm (thác Chúa) cao và đẹp nhất; lễ hội 30 tháng Ba và mùng 1 tháng Tư âm lịch.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01038"
+  }
+}

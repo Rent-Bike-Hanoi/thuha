@@ -1,0 +1,145 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-15T01:17:39.469428+00:00",
+  "topic": {
+    "topic_id": "TM-01053",
+    "url": "/du-lich/lang-cuu-phu-xuyen/",
+    "title": "Làng Cựu Phú Xuyên: gần 40 biệt thự cổ, làng thợ may và cách tham quan",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng cựu phú xuyên",
+    "secondary_keywords": [
+      "làng cựu",
+      "làng cựu vân từ",
+      "làng biệt thự cổ phú xuyên",
+      "biệt thự cầu nối làng cựu",
+      "làng cựu có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người trẻ và khách nước ngoài ở Hà Nội thấy ảnh biệt thự kiểu Pháp ở làng Cựu, muốn đi xe máy về chụp ảnh trong ngày nhưng không biết làng ở đâu, có gì và nên cư xử thế nào khi phần lớn là nhà dân.",
+    "information_gain": "Site có /du-lich/lang-kham-trai-chuyen-my/ và /du-lich/lang-to-he-xuan-la/ cùng vùng Phú Xuyên, /du-lich/lang-co-cu-da/ (làng nhà Tây ven sông Nhuệ) nhưng không bài nào nhắc làng Cựu. Bài mới cho: vị trí bên sông Nhuệ hơn 40 km phía nam; gần 40 biệt thự pha Pháp – Việt; gốc tích nghề may âu phục sau trận hỏa hoạn trước những năm 1920; các nhà tiêu biểu (nhà cụ Phó Du 1929, nhà cụ Xã Vinh có cầu nối hai nhà, biệt thự Chu Văn Luận từng là trường Huỳnh Thúc Kháng); tình trạng nhiều nhà xuống cấp, bỏ hoang; điểm du lịch may Vân Từ được thành phố công nhận và trung tâm thông tin ở nhà văn hóa – kèm lưu ý tôn trọng nhà dân.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/khoi-day-tiem-nang-du-lich-phu-xuyen-post859399.html",
+        "quote": "Báo Nhân Dân, 'Khơi dậy tiềm năng du lịch Phú Xuyên' (10/02/2025, đọc 15/10/2026): làng Cựu (xã Vân Từ) giữ được gần 40 ngôi biệt thự cổ pha kiến trúc Pháp và Việt cổ, nghề may hình thành từ thời Pháp thuộc; thu hút nhiều khách, nhất là khách nước ngoài và bạn trẻ; nhà văn hóa làng vừa nâng cấp trung tâm thông tin du lịch; thành phố công nhận 4 điểm du lịch ở Phú Xuyên: may Vân Từ, khảm trai – sơn mài Chuyên Mỹ, giày da Phú Yên, mây tre đan cỏ tế Phú Túc.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/ngoi-lang-co-phu-bui-giua-long-thu-do-5655.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Ngôi làng cổ phủ bụi giữa lòng thủ đô' (15/11/2014, đọc 15/10/2026): làng Cựu, xã Vân Từ, huyện Phú Xuyên nằm bên sông Nhuệ, cách trung tâm hơn 40 km; sau trận hỏa hoạn trước những năm 1920 người làng học nghề may, nhuộm rồi mở hiệu ở phố cổ Hà Nội; biệt thự cụ Phó Du xây năm 1929; biệt thự cụ Xã Vinh có cầu cong nối hai nhà; ông Chu Văn Luận lập trường Huỳnh Thúc Kháng, lát đường làng bằng đá xanh; nhiều nhà bị chia cho nhiều hộ sau 1953, xuống cấp.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/lang-cu-phu-post544899.html",
+        "quote": "Báo Sài Gòn Giải Phóng, 'Làng cự phú' (26/01/2020, đọc 15/10/2026): làng Cựu ở xã Vân Từ, huyện Phú Xuyên; người làng từng làm nghề may comple, váy đầm; nhà ông Xã Vinh (buôn gỗ) xây đầu thế kỷ 20 có cây cầu nối sang nhà bên, nay cầu không dùng được; biệt thự của dòng họ Trần Đình Thông xuống cấp nghiêm trọng; biệt thự lớn nhất làng từng là trường học nay bỏ hoang; nhiều clip ca nhạc, phim lấy bối cảnh làng Cựu.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 90,
+        "checked": "2026-10-15",
+        "keyword": "làng cựu phú xuyên"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Làng Cựu ở đâu và đi xe máy từ Long Biên thế nào",
+      "Vì sao một làng quê có gần 40 biệt thự kiểu Pháp",
+      "Những ngôi nhà nên xem: Phó Du, Xã Vinh, trường Huỳnh Thúc Kháng",
+      "Hiện trạng: nhà dân, nhà xuống cấp và điều nên tránh",
+      "Ghép lịch với làng khảm Chuôn Ngọ, làng tò he Xuân La",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-kham-trai-chuyen-my/",
+      "/du-lich/lang-to-he-xuan-la/",
+      "/du-lich/lang-co-cu-da/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01053.json",
+  "draft_template": {
+    "id": "TM-01053",
+    "url": "/du-lich/lang-cuu-phu-xuyen/",
+    "title": "Làng Cựu Phú Xuyên: gần 40 biệt thự cổ, làng thợ may và cách tham quan",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng cựu phú xuyên, làng cựu, làng cựu vân từ, làng biệt thự cổ phú xuyên, biệt thự cầu nối làng cựu, làng cựu có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Cựu ở đâu và đi xe máy từ Long Biên thế nào",
+        "<p></p>"
+      ],
+      [
+        "Vì sao một làng quê có gần 40 biệt thự kiểu Pháp",
+        "<p></p>"
+      ],
+      [
+        "Những ngôi nhà nên xem: Phó Du, Xã Vinh, trường Huỳnh Thúc Kháng",
+        "<p></p>"
+      ],
+      [
+        "Hiện trạng: nhà dân, nhà xuống cấp và điều nên tránh",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với làng khảm Chuôn Ngọ, làng tò he Xuân La",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/khoi-day-tiem-nang-du-lich-phu-xuyen-post859399.html",
+        "quote": "Báo Nhân Dân, 'Khơi dậy tiềm năng du lịch Phú Xuyên' (10/02/2025, đọc 15/10/2026): làng Cựu (xã Vân Từ) giữ được gần 40 ngôi biệt thự cổ pha kiến trúc Pháp và Việt cổ, nghề may hình thành từ thời Pháp thuộc; thu hút nhiều khách, nhất là khách nước ngoài và bạn trẻ; nhà văn hóa làng vừa nâng cấp trung tâm thông tin du lịch; thành phố công nhận 4 điểm du lịch ở Phú Xuyên: may Vân Từ, khảm trai – sơn mài Chuyên Mỹ, giày da Phú Yên, mây tre đan cỏ tế Phú Túc.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquocte.vn/ngoi-lang-co-phu-bui-giua-long-thu-do-5655.html",
+        "quote": "Báo Thế giới & Việt Nam, 'Ngôi làng cổ phủ bụi giữa lòng thủ đô' (15/11/2014, đọc 15/10/2026): làng Cựu, xã Vân Từ, huyện Phú Xuyên nằm bên sông Nhuệ, cách trung tâm hơn 40 km; sau trận hỏa hoạn trước những năm 1920 người làng học nghề may, nhuộm rồi mở hiệu ở phố cổ Hà Nội; biệt thự cụ Phó Du xây năm 1929; biệt thự cụ Xã Vinh có cầu cong nối hai nhà; ông Chu Văn Luận lập trường Huỳnh Thúc Kháng, lát đường làng bằng đá xanh; nhiều nhà bị chia cho nhiều hộ sau 1953, xuống cấp.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/lang-cu-phu-post544899.html",
+        "quote": "Báo Sài Gòn Giải Phóng, 'Làng cự phú' (26/01/2020, đọc 15/10/2026): làng Cựu ở xã Vân Từ, huyện Phú Xuyên; người làng từng làm nghề may comple, váy đầm; nhà ông Xã Vinh (buôn gỗ) xây đầu thế kỷ 20 có cây cầu nối sang nhà bên, nay cầu không dùng được; biệt thự của dòng họ Trần Đình Thông xuống cấp nghiêm trọng; biệt thự lớn nhất làng từng là trường học nay bỏ hoang; nhiều clip ca nhạc, phim lấy bối cảnh làng Cựu.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01053"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-15T01:17:39.722178+00:00",
+  "topic": {
+    "topic_id": "TM-01054",
+    "url": "/du-lich/nha-tho-co-ba-vi/",
+    "title": "Nhà thờ cổ Ba Vì: phế tích Pháp trong Vườn quốc gia, đi xe máy, vé vào",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "nhà thờ cổ ba vì",
+    "secondary_keywords": [
+      "nhà thờ đổ ba vì",
+      "phế tích pháp ba vì",
+      "khu nhà thờ cổ vườn quốc gia ba vì",
+      "nhà thờ cổ ba vì ở cốt bao nhiêu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Ba Vì bằng xe máy muốn tìm 'nhà thờ đổ' rêu phong để chụp ảnh, cần biết nó ở độ cao nào trong Vườn quốc gia, đường lên ra sao, vé vào vườn và giờ mở cửa.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/ nói đường đi Ba Vì, /du-lich/den-thuong-ba-vi/ nói đền trên núi, /du-lich/khu-du-lich-ao-vua-ba-vi/ nói khu Ao Vua; không trang nào nói riêng khu phế tích Pháp và nhà thờ cổ. Bài mới cho: nhà thờ là một phần quần thể phế tích thời Pháp (biệt thự nghỉ mát, trại hè, nhà tù chính trị) ở khoảng cốt 600–800 m; đường bê tông rộng nhưng nhiều dốc; vé người lớn 60.000 đồng, giờ mở 7h–17h30 theo VnExpress 2024; nêu rõ chỗ các nguồn mô tả độ cao khác nhau.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-ba-vi-4787026.html",
+        "quote": "VnExpress, '48 giờ ở Ba Vì' (30/8/2024, đọc 15/10/2026): Vườn quốc gia Ba Vì vé người lớn 60.000 đồng; vé ưu tiên 30.000 đồng cho người khuyết tật, 10.000–20.000 đồng cho học sinh, sinh viên; ô tô vào vườn 40.000 đồng; mở cửa 7h–17h30; các phế tích (khu nhà thờ, trại hè, nhà tù chính trị) chủ yếu ở khu vực cốt 600 m; đường bê tông rộng, gần khu lưu trú nhưng nhiều đoạn dốc; điểm trên đỉnh có thể đi bằng xe đạp, xe máy hoặc ô tô.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/kham-pha-nhung-can-biet-thu-co-trong-vuon-quoc-gia-ba-vi-post213402.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Khám phá những căn biệt thự cổ trong vườn quốc gia Ba Vì' (09/03/2016, đọc 15/10/2026): nhà thờ cổ ở độ cao khoảng 800 m, sau đoạn dốc cao và khúc cua tay áo rẽ phải, chỉ còn khung tường phủ rêu; người Pháp chọn Ba Vì làm khu nghỉ dưỡng đầu thập niên 1940; phế tích biệt thự, khách sạn nằm ở khoảng 600–800 m, phần lớn đổ nát.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ba-vi-4468415.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Ba Vì' (bài gốc 9/6/2022, đọc 15/10/2026): Vườn quốc gia Ba Vì rộng khoảng 11.000 ha, có nhà thờ bỏ hoang, phế tích thời Pháp ở nhiều độ cao, nhà tù chính trị cũ ở cốt 1.000–1.100 m; lên đền Thượng phải leo khoảng 500 bậc; tuyến đi bộ dễ nhất từ cốt 600 xuống cốt 300; tháng 10–11 có hoa dại ven đường.",
+        "verbatim": false,
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-15",
+        "keyword": "nhà thờ cổ ba vì"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Nhà thờ cổ Ba Vì là gì và nằm ở đâu trong Vườn quốc gia",
+      "Vé vào vườn, giờ mở cửa (nguồn 2024)",
+      "Đi xe máy lên cốt 400, 600: dốc, cua và phanh",
+      "Tìm khu phế tích: nhà thờ, biệt thự, trại hè",
+      "Chụp ảnh an toàn ở công trình đổ nát",
+      "Ghép lịch với đền Thượng và khu Ao Vua"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-ba-vi-bang-xe-may/",
+      "/du-lich/den-thuong-ba-vi/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01054.json",
+  "draft_template": {
+    "id": "TM-01054",
+    "url": "/du-lich/nha-tho-co-ba-vi/",
+    "title": "Nhà thờ cổ Ba Vì: phế tích Pháp trong Vườn quốc gia, đi xe máy, vé vào",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ cổ ba vì, nhà thờ đổ ba vì, phế tích pháp ba vì, khu nhà thờ cổ vườn quốc gia ba vì, nhà thờ cổ ba vì ở cốt bao nhiêu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ cổ Ba Vì là gì và nằm ở đâu trong Vườn quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Vé vào vườn, giờ mở cửa (nguồn 2024)",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy lên cốt 400, 600: dốc, cua và phanh",
+        "<p></p>"
+      ],
+      [
+        "Tìm khu phế tích: nhà thờ, biệt thự, trại hè",
+        "<p></p>"
+      ],
+      [
+        "Chụp ảnh an toàn ở công trình đổ nát",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với đền Thượng và khu Ao Vua",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-ba-vi-4787026.html",
+        "quote": "VnExpress, '48 giờ ở Ba Vì' (30/8/2024, đọc 15/10/2026): Vườn quốc gia Ba Vì vé người lớn 60.000 đồng; vé ưu tiên 30.000 đồng cho người khuyết tật, 10.000–20.000 đồng cho học sinh, sinh viên; ô tô vào vườn 40.000 đồng; mở cửa 7h–17h30; các phế tích (khu nhà thờ, trại hè, nhà tù chính trị) chủ yếu ở khu vực cốt 600 m; đường bê tông rộng, gần khu lưu trú nhưng nhiều đoạn dốc; điểm trên đỉnh có thể đi bằng xe đạp, xe máy hoặc ô tô.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/kham-pha-nhung-can-biet-thu-co-trong-vuon-quoc-gia-ba-vi-post213402.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Khám phá những căn biệt thự cổ trong vườn quốc gia Ba Vì' (09/03/2016, đọc 15/10/2026): nhà thờ cổ ở độ cao khoảng 800 m, sau đoạn dốc cao và khúc cua tay áo rẽ phải, chỉ còn khung tường phủ rêu; người Pháp chọn Ba Vì làm khu nghỉ dưỡng đầu thập niên 1940; phế tích biệt thự, khách sạn nằm ở khoảng 600–800 m, phần lớn đổ nát.",
+        "checked": "2026-10-15"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ba-vi-4468415.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Ba Vì' (bài gốc 9/6/2022, đọc 15/10/2026): Vườn quốc gia Ba Vì rộng khoảng 11.000 ha, có nhà thờ bỏ hoang, phế tích thời Pháp ở nhiều độ cao, nhà tù chính trị cũ ở cốt 1.000–1.100 m; lên đền Thượng phải leo khoảng 500 bậc; tuyến đi bộ dễ nhất từ cốt 600 xuống cốt 300; tháng 10–11 có hoa dại ven đường.",
+        "checked": "2026-10-15"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01054"
+  }
+}
