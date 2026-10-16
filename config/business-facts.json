@@ -20,7 +20,10 @@
     "age": "xe 50cc nhận khách từ 18 tuổi; xe khác khách từ 20 tuổi có giấy phép phù hợp",
     "license_50cc": "xe gắn máy dưới 50cc không yêu cầu bằng A1, người lái đủ 16 tuổi (theo chủ cửa hàng, 10/2026)",
     "damage": "xử lý theo hợp đồng; lỗi của xe: cửa hàng chịu phần lớn chi phí; khách gây tai nạn, thủng săm, xịt lốp: khách tự chịu",
+    "loss": "mất xe: khách hoàn trả tiền theo giá trị xe ghi trên hợp đồng lúc thuê (theo chủ cửa hàng, 16/10/2026)",
+    "damage_cost": "xe hỏng hoặc gây tai nạn: khách trả tiền sửa xe theo dự tính của cửa hàng khi trả xe (theo chủ cửa hàng, 16/10/2026)",
     "delivery": "hợp đồng nhiều ngày, tuần, tháng; 50.000đ/lượt trong bán kính 10 km từ trung tâm Hoàn Kiếm, hai chiều 100.000đ; không giao/nhận tại sân bay Nội Bài",
+    "out_of_hanoi": "được đi ra ngoài Hà Nội; tính theo giá ngày 150–200 nghìn và chỉ cho thuê khi đi từ 2 ngày trở lên (theo chủ cửa hàng, 16/10/2026)",
     "fuel": "trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ",
     "helmet": "mũ bảo hiểm cơ bản miễn phí",
     "payment": "tiền mặt hoặc chuyển khoản ngân hàng Việt Nam"
