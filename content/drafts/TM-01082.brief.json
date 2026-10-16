@@ -1,0 +1,141 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T01:24:30.557808+00:00",
+  "topic": {
+    "topic_id": "TM-01082",
+    "url": "/du-lich/lang-hoa-me-linh/",
+    "title": "Làng hoa Mê Linh: mùa hoa Tết, hồng, cúc, ly và đi xe máy theo quốc lộ 23",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng hoa mê linh",
+    "secondary_keywords": [
+      "vựa hoa mê linh",
+      "hoa hồng mê linh",
+      "chợ hoa mê linh tết",
+      "làng hoa mê linh ở đâu"
+    ],
+    "intent": "transactional",
+    "user_problem": "Người muốn chụp ảnh vườn hoa hoặc mua hoa Tết tận gốc muốn biết làng hoa Mê Linh ở xã nào, trồng hoa gì, mùa nào đẹp và đi xe máy ra sao.",
+    "information_gain": "/du-lich/lang-hoa-tay-tuu/ và /du-lich/lang-hoa-nhat-tan-quat-tu-lien/ là làng hoa khác; /du-lich/den-ha-loi-me-linh/ chỉ nói đền. Chưa trang nào về vùng hoa Mê Linh. Bài mới cho: dọc quốc lộ 23 từ xã Mê Linh đến Đại Thịnh; sau sáp nhập xã Mê Linh có 365–450 ha hoa (hồng ~300 ha, cúc ~100 ha, ly 18 ha, lay ơn 9 ha); xã nào trồng hoa gì (đào ở Kim Hoa, Thanh Lâm cũ; cúc, lan ở Đại Thịnh; hồng ở Văn Khê, Tam Đồng); giá tham khảo Tết 2026; lịch tỉa nụ 40 ngày để hiểu khi nào hoa nở rộ. Khác /du-lich/lang-hoa-ngoc-ha/ (làng hoa trong nội đô Ba Đình): bài này nói vùng trồng hoa Mê Linh ngoại thành và đường đi QL23.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/me-linh-ron-rang-vao-mua-hoa-tet-1024025",
+        "quote": "Báo Quân đội nhân dân, 'Mê Linh rộn ràng vào mùa hoa Tết' (giáp Tết Bính Ngọ 2026, đọc 16/10/2026): làng hoa Mê Linh thuộc xã Mê Linh, TP Hà Nội; theo Phó trưởng phòng Kinh tế UBND xã, sau sáp nhập diện tích hoa 365–450 ha tùy vụ, hồng khoảng 300 ha, cúc khoảng 100 ha, ly 18 ha, lay ơn 9 ha; hoa hồng tỉa nụ mất khoảng 40 ngày ra lứa nụ mới; giá hồng khoảng 4.000đ/bông, cúc 150.000–200.000đ/bó 50 bông; bão số 10, 11 cuối 2025 gây thiệt hại; nhà vườn đăng hoa lên Facebook, TikTok, Zalo cho khách ở xa.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/lang-hoa-me-linh-san-sang-phuc-vu-tet-624131.html",
+        "quote": "Hànộimới – Nhịp sống Hà Nội, 'Làng hoa Mê Linh sẵn sàng phục vụ Tết' (5/1/2023, đọc 16/10/2026): dọc quốc lộ 23 từ xã Mê Linh đến xã Đại Thịnh các nhà vườn đưa hoa ra điểm tập kết; giá 50.000–600.000đ/cây tùy loại ở một vườn thôn Hạ Lôi; huyện (cũ) trồng khoảng 1.800 ha hoa: Kim Hoa, Thanh Lâm chuyên đào; Đại Thịnh cúc, lan hồ điệp; xã Mê Linh hồng, ly, thược dược; Văn Khê, Tam Đồng trồng hồng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1600,
+        "checked": "2026-10-16",
+        "keyword": "làng hoa mê linh"
+      }
+    ],
+    "notes": "Diện tích khác nhau do phạm vi khác nhau: 1.800 ha (cả huyện Mê Linh cũ, Hànộimới 1/2023) và 365–450 ha (xã Mê Linh sau sáp nhập, QĐND 2026) — người viết ghi rõ phạm vi/năm, không gộp. Đây là vùng sản xuất, không có vé/giờ mở; vườn là tài sản tư, khuyên xin phép trước khi chụp. Festival hoa Mê Linh chỉ thấy tin 2024 (không mở được bài) — không viết về festival năm nay.",
+    "outline": [
+      "Làng hoa Mê Linh ở đâu, gồm những xã nào",
+      "Trồng hoa gì: hồng, cúc, ly, lay ơn, đào",
+      "Mùa nào đẹp: cao điểm Tết và lịch tỉa nụ",
+      "Đi xe máy theo quốc lộ 23, dừng xe ven ruộng sao cho an toàn",
+      "Mua hoa tại vườn: giá tham khảo và cách chọn",
+      "Ứng xử khi vào vườn nhà dân, kết hợp đền Hạ Lôi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-hoa-tay-tuu/",
+      "/du-lich/den-ha-loi-me-linh/",
+      "/du-lich/lang-hoa-nhat-tan-quat-tu-lien/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/lang-hoa-ngoc-ha/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.516
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/lang-hoa-ngoc-ha/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01082.json",
+  "draft_template": {
+    "id": "TM-01082",
+    "url": "/du-lich/lang-hoa-me-linh/",
+    "title": "Làng hoa Mê Linh: mùa hoa Tết, hồng, cúc, ly và đi xe máy theo quốc lộ 23",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng hoa mê linh, vựa hoa mê linh, hoa hồng mê linh, chợ hoa mê linh tết, làng hoa mê linh ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng hoa Mê Linh ở đâu, gồm những xã nào",
+        "<p></p>"
+      ],
+      [
+        "Trồng hoa gì: hồng, cúc, ly, lay ơn, đào",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đẹp: cao điểm Tết và lịch tỉa nụ",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo quốc lộ 23, dừng xe ven ruộng sao cho an toàn",
+        "<p></p>"
+      ],
+      [
+        "Mua hoa tại vườn: giá tham khảo và cách chọn",
+        "<p></p>"
+      ],
+      [
+        "Ứng xử khi vào vườn nhà dân, kết hợp đền Hạ Lôi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/van-hoa/doi-song/me-linh-ron-rang-vao-mua-hoa-tet-1024025",
+        "quote": "Báo Quân đội nhân dân, 'Mê Linh rộn ràng vào mùa hoa Tết' (giáp Tết Bính Ngọ 2026, đọc 16/10/2026): làng hoa Mê Linh thuộc xã Mê Linh, TP Hà Nội; theo Phó trưởng phòng Kinh tế UBND xã, sau sáp nhập diện tích hoa 365–450 ha tùy vụ, hồng khoảng 300 ha, cúc khoảng 100 ha, ly 18 ha, lay ơn 9 ha; hoa hồng tỉa nụ mất khoảng 40 ngày ra lứa nụ mới; giá hồng khoảng 4.000đ/bông, cúc 150.000–200.000đ/bó 50 bông; bão số 10, 11 cuối 2025 gây thiệt hại; nhà vườn đăng hoa lên Facebook, TikTok, Zalo cho khách ở xa.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/lang-hoa-me-linh-san-sang-phuc-vu-tet-624131.html",
+        "quote": "Hànộimới – Nhịp sống Hà Nội, 'Làng hoa Mê Linh sẵn sàng phục vụ Tết' (5/1/2023, đọc 16/10/2026): dọc quốc lộ 23 từ xã Mê Linh đến xã Đại Thịnh các nhà vườn đưa hoa ra điểm tập kết; giá 50.000–600.000đ/cây tùy loại ở một vườn thôn Hạ Lôi; huyện (cũ) trồng khoảng 1.800 ha hoa: Kim Hoa, Thanh Lâm chuyên đào; Đại Thịnh cúc, lan hồ điệp; xã Mê Linh hồng, ly, thược dược; Văn Khê, Tam Đồng trồng hồng.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01082"
+  }
+}

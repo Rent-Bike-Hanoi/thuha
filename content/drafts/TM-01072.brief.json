@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T01:24:30.557262+00:00",
+  "topic": {
+    "topic_id": "TM-01072",
+    "url": "/du-lich/dong-cao-son-dong/",
+    "title": "Cao nguyên Đồng Cao Sơn Động: cắm trại qua đêm, đường xe máy, mùa đẹp",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cao nguyên đồng cao",
+    "secondary_keywords": [
+      "đồng cao sơn động",
+      "cắm trại đồng cao",
+      "đồng cao bắc giang",
+      "đường lên đồng cao"
+    ],
+    "intent": "transactional",
+    "user_problem": "Nhóm trẻ ở Hà Nội muốn cắm trại qua đêm trên đồng cỏ gần Hà Nội, cần biết Đồng Cao ở đâu, đi xe máy theo đường nào, đoạn cuối khó không và cần chuẩn bị gì.",
+    "information_gain": "/du-lich/khe-ro-son-dong/ và /du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/ nói các điểm khác của Sơn Động; site chưa có trang nào về Đồng Cao. Bài mới cho: Đồng Cao thuộc bản Gà, xã Thạch Sơn (Bắc Giang cũ, nay Bắc Ninh), cách Hà Nội khoảng 150 km; ba cung đường từ QL31 (rẽ đầu cầu Cẩm Đàn, qua An Châu – Vân Sơn...); bãi cỏ với đá cổ, vài chục hộ dân dưới chân; cắm trại đêm đông và sương giá; mâu thuẫn quãng đường từ An Châu (gần 20 km hay 25–30 km).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/xuan-tren-mien-son-cuoc-dong-cao-post858268.html",
+        "quote": "Báo Nhân Dân, 'Xuân trên miền sơn cước Đồng Cao' (1/2/2025, đọc 16/10/2026): Đồng Cao thuộc bản Gà, xã Thạch Sơn, huyện Sơn Động, cách Hà Nội khoảng 150 km; từ thị trấn An Châu tới Đồng Cao khoảng 25–30 km đường đồi núi; cao nguyên có bãi đá cổ tự nhiên, dưới chân có vài chục hộ dân; có thể ở homestay, cắm trại qua đêm hoặc về An Châu; mùa xuân hoa đào, hoa mận nở.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bg2/son-dong/dong-cao-diem-den-ly-tuong-postid277017.bbg",
+        "quote": "Báo Bắc Giang (nay Báo Bắc Ninh), 'Đồng Cao - điểm đến lý tưởng' (6/2/2018, đọc 16/10/2026): cao nguyên Đồng Cao xã Thạch Sơn được ví như Tam Đảo, Mẫu Sơn của Bắc Giang; cách thị trấn An Châu gần 20 km, nối hai xã Thạch Sơn và Vân Sơn; từ TP Bắc Giang theo QL31, có thể rẽ trái đầu cầu Cẩm Đàn qua Thạch Sơn, hoặc qua An Châu theo QL31 lên Vân Sơn rẽ trái; mùa đông nhiều bạn trẻ cắm trại, chờ sương giá.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "http://dulich.bacgiang.gov.vn/kham-pha/vung-dat-con-nguoi-bac-giang/mot-chuyen-dong-cao-740.html",
+        "quote": "Cổng thông tin du lịch Bắc Ninh (Trung tâm Văn hóa và Xúc tiến Du lịch), 'Một chuyến Đồng Cao' (12/4/2023, đọc 16/10/2026): Đồng Cao là thảo nguyên thuộc 'xã Phúc Sơn' huyện Sơn Động, cách Hà Nội non 150 km, đi về trong ngày được nhưng nên cắm trại qua đêm; lộ trình QL5 – QL1 hướng Lạng Sơn, rẽ QL31 ở ngã ba Kế, thêm chừng 80 km tới thị trấn An Châu.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1600,
+        "checked": "2026-10-16",
+        "keyword": "cao nguyên đồng cao"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đồng Cao ở đâu, cách Hà Nội bao xa",
+      "Ba cung đường xe máy từ QL31 và đoạn cuối",
+      "Cắm trại qua đêm: gió, lạnh, củi, nước",
+      "Mùa nào đẹp: xuân hoa đào, đông sương giá",
+      "Homestay dưới chân hay về An Châu ngủ",
+      "Ghép Khe Rỗ, Tây Yên Tử trong chuyến Sơn Động"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khe-ro-son-dong/",
+      "/du-lich/tay-yen-tu-di-xe-may-tu-ha-noi/",
+      "/du-lich/ho-khuon-than/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01072.json",
+  "draft_template": {
+    "id": "TM-01072",
+    "url": "/du-lich/dong-cao-son-dong/",
+    "title": "Cao nguyên Đồng Cao Sơn Động: cắm trại qua đêm, đường xe máy, mùa đẹp",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cao nguyên đồng cao, đồng cao sơn động, cắm trại đồng cao, đồng cao bắc giang, đường lên đồng cao",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đồng Cao ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Ba cung đường xe máy từ QL31 và đoạn cuối",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại qua đêm: gió, lạnh, củi, nước",
+        "<p></p>"
+      ],
+      [
+        "Mùa nào đẹp: xuân hoa đào, đông sương giá",
+        "<p></p>"
+      ],
+      [
+        "Homestay dưới chân hay về An Châu ngủ",
+        "<p></p>"
+      ],
+      [
+        "Ghép Khe Rỗ, Tây Yên Tử trong chuyến Sơn Động",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/xuan-tren-mien-son-cuoc-dong-cao-post858268.html",
+        "quote": "Báo Nhân Dân, 'Xuân trên miền sơn cước Đồng Cao' (1/2/2025, đọc 16/10/2026): Đồng Cao thuộc bản Gà, xã Thạch Sơn, huyện Sơn Động, cách Hà Nội khoảng 150 km; từ thị trấn An Châu tới Đồng Cao khoảng 25–30 km đường đồi núi; cao nguyên có bãi đá cổ tự nhiên, dưới chân có vài chục hộ dân; có thể ở homestay, cắm trại qua đêm hoặc về An Châu; mùa xuân hoa đào, hoa mận nở.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/bg2/son-dong/dong-cao-diem-den-ly-tuong-postid277017.bbg",
+        "quote": "Báo Bắc Giang (nay Báo Bắc Ninh), 'Đồng Cao - điểm đến lý tưởng' (6/2/2018, đọc 16/10/2026): cao nguyên Đồng Cao xã Thạch Sơn được ví như Tam Đảo, Mẫu Sơn của Bắc Giang; cách thị trấn An Châu gần 20 km, nối hai xã Thạch Sơn và Vân Sơn; từ TP Bắc Giang theo QL31, có thể rẽ trái đầu cầu Cẩm Đàn qua Thạch Sơn, hoặc qua An Châu theo QL31 lên Vân Sơn rẽ trái; mùa đông nhiều bạn trẻ cắm trại, chờ sương giá.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "http://dulich.bacgiang.gov.vn/kham-pha/vung-dat-con-nguoi-bac-giang/mot-chuyen-dong-cao-740.html",
+        "quote": "Cổng thông tin du lịch Bắc Ninh (Trung tâm Văn hóa và Xúc tiến Du lịch), 'Một chuyến Đồng Cao' (12/4/2023, đọc 16/10/2026): Đồng Cao là thảo nguyên thuộc 'xã Phúc Sơn' huyện Sơn Động, cách Hà Nội non 150 km, đi về trong ngày được nhưng nên cắm trại qua đêm; lộ trình QL5 – QL1 hướng Lạng Sơn, rẽ QL31 ở ngã ba Kế, thêm chừng 80 km tới thị trấn An Châu.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01072"
+  }
+}

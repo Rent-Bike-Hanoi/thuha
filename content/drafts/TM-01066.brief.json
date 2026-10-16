@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T01:24:30.558586+00:00",
+  "topic": {
+    "topic_id": "TM-01066",
+    "url": "/du-lich/kem-trong/",
+    "title": "Kẽm Trống: danh thắng sông Đáy xếp hạng 1962, thơ Hồ Xuân Hương, hiện trạng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "kẽm trống",
+    "secondary_keywords": [
+      "kẽm trống hà nam",
+      "danh thắng kẽm trống",
+      "kẽm trống ở đâu",
+      "kẽm trống sông đáy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đọc thơ Hồ Xuân Hương hoặc đi QL1 qua Thanh Liêm muốn biết Kẽm Trống ở đâu, còn đẹp không và dừng xem từ chỗ nào.",
+    "information_gain": "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/ và /du-lich/chua-ba-danh/ nói các điểm khác của Hà Nam cũ; site chưa có trang nào về Kẽm Trống. Bài mới cho: danh thắng quốc gia từ 1962 nằm sát QL1A, nơi sông Đáy chảy giữa núi Rùa, núi Cổ Động (bờ Hà Nam cũ) và núi Bài Thơ, dãy Bạt Gia (bờ Ninh Bình cũ); núi Trinh Tiết có ngôi chùa cổ; bút tích khắc trên núi Bài Thơ; báo chí từng phản ánh khai thác đá xâm hại (2017) — để người đọc biết nên kỳ vọng gì khi dừng xe.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ha-nam-4462234.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Hà Nam' (3/5/2022, đọc 16/10/2026): Kẽm Trống là danh thắng quốc gia được công nhận năm 1962; sông Đáy chảy qua hai ngọn núi, bên tả có núi Rùa, núi Cổ Động thuộc Hà Nam, bên hữu có núi Bài Thơ, dãy Bạt Gia thuộc Ninh Bình; gần đó có núi Bồng, núi Vọng, núi Rồng, núi Trinh Tiết với một ngôi chùa cổ trên đỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/van-hoa/danh-thang-quoc-gia-sap-bien-thanh-phe-tich-20170428200446769.htm",
+        "quote": "Báo Dân trí, 'Hà Nam: Danh thắng Quốc gia sắp biến thành... phế tích' (29/4/2017, đọc 16/10/2026): Kẽm Trống nằm sát QL1A giữa xã Thanh Hải (Thanh Liêm, Hà Nam) và xã Gia Thanh (Gia Viễn, Ninh Bình), xếp hạng danh thắng quốc gia năm 1962; Hồ Xuân Hương để lại bài thơ về Kẽm Trống; nhiều bút tích còn khắc trên núi Bài Thơ; khi đó danh thắng bị xâm hại nghiêm trọng do khai thác đá, đường vào từ phía Ninh Bình nham nhở.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 590,
+        "checked": "2026-10-16",
+        "keyword": "kẽm trống"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Kẽm Trống ở đâu: đoạn sông Đáy sát QL1A",
+      "Danh thắng quốc gia 1962 và bài thơ Hồ Xuân Hương",
+      "Các ngọn núi hai bờ: Rùa, Cổ Động, Bài Thơ, Trinh Tiết",
+      "Hiện trạng: khai thác đá và những gì còn xem được",
+      "Dừng xe máy ở đâu, đi lúc nào cho có sương sớm",
+      "Ghép Tam Chúc, chùa Bà Đanh trong một chuyến"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-chua-tam-chuc-bang-xe-may/",
+      "/du-lich/chua-ba-danh/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01066.json",
+  "draft_template": {
+    "id": "TM-01066",
+    "url": "/du-lich/kem-trong/",
+    "title": "Kẽm Trống: danh thắng sông Đáy xếp hạng 1962, thơ Hồ Xuân Hương, hiện trạng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "kẽm trống, kẽm trống hà nam, danh thắng kẽm trống, kẽm trống ở đâu, kẽm trống sông đáy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Kẽm Trống ở đâu: đoạn sông Đáy sát QL1A",
+        "<p></p>"
+      ],
+      [
+        "Danh thắng quốc gia 1962 và bài thơ Hồ Xuân Hương",
+        "<p></p>"
+      ],
+      [
+        "Các ngọn núi hai bờ: Rùa, Cổ Động, Bài Thơ, Trinh Tiết",
+        "<p></p>"
+      ],
+      [
+        "Hiện trạng: khai thác đá và những gì còn xem được",
+        "<p></p>"
+      ],
+      [
+        "Dừng xe máy ở đâu, đi lúc nào cho có sương sớm",
+        "<p></p>"
+      ],
+      [
+        "Ghép Tam Chúc, chùa Bà Đanh trong một chuyến",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-ha-nam-4462234.html",
+        "quote": "VnExpress, 'Cẩm nang Du lịch Hà Nam' (3/5/2022, đọc 16/10/2026): Kẽm Trống là danh thắng quốc gia được công nhận năm 1962; sông Đáy chảy qua hai ngọn núi, bên tả có núi Rùa, núi Cổ Động thuộc Hà Nam, bên hữu có núi Bài Thơ, dãy Bạt Gia thuộc Ninh Bình; gần đó có núi Bồng, núi Vọng, núi Rồng, núi Trinh Tiết với một ngôi chùa cổ trên đỉnh.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/van-hoa/danh-thang-quoc-gia-sap-bien-thanh-phe-tich-20170428200446769.htm",
+        "quote": "Báo Dân trí, 'Hà Nam: Danh thắng Quốc gia sắp biến thành... phế tích' (29/4/2017, đọc 16/10/2026): Kẽm Trống nằm sát QL1A giữa xã Thanh Hải (Thanh Liêm, Hà Nam) và xã Gia Thanh (Gia Viễn, Ninh Bình), xếp hạng danh thắng quốc gia năm 1962; Hồ Xuân Hương để lại bài thơ về Kẽm Trống; nhiều bút tích còn khắc trên núi Bài Thơ; khi đó danh thắng bị xâm hại nghiêm trọng do khai thác đá, đường vào từ phía Ninh Bình nham nhở.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01066"
+  }
+}

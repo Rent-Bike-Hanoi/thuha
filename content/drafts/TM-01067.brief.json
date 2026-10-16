@@ -1,0 +1,144 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T01:24:30.797205+00:00",
+  "topic": {
+    "topic_id": "TM-01067",
+    "url": "/du-lich/dinh-chieu-lau-thi/",
+    "title": "Đỉnh Chiêu Lầu Thi: 773 bậc lên đỉnh, săn mây Hồ Thầu, đi xe máy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đỉnh chiêu lầu thi",
+    "secondary_keywords": [
+      "chiêu lầu thi",
+      "chiêu lầu thi hoàng su phì",
+      "săn mây chiêu lầu thi",
+      "hồ thầu hoàng su phì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hoàng Su Phì mùa lúa hoặc mùa mây muốn lên Chiêu Lầu Thi, cần biết đỉnh ở đâu, leo bao nhiêu bậc, mùa nào có biển mây và đường xe máy có đi được không.",
+    "information_gain": "/du-lich/hoang-su-phi-di-xe-may-tu-ha-noi/ chỉ nhắc Chiêu Lầu Thi 2 lần trong lộ trình ruộng bậc thang. Bài mới cho: đỉnh thuộc xã Hồ Thầu, dãy Tây Côn Lĩnh; theo tiếng Dao nghĩa là 'chín bậc thang lên trời'; khối đá cao khoảng 120 m trên đỉnh; 773 bậc thang tới cột mốc (giải chạy 2026); mây đẹp nhất bình minh, hoàng hôn cuối tháng 12 – đầu tháng 1; và mâu thuẫn độ cao 2.402 m / 2.408 m.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/202306/chim-dam-ve-dep-chieu-lau-thi-66807c6/",
+        "quote": "Báo Hà Giang (nay Báo Tuyên Quang), 'Chìm đắm vẻ đẹp Chiêu Lầu Thi' (4/6/2023, đọc 16/10/2026): Chiêu Lầu Thi là một trong 5 đỉnh liền kề phía Tây Nam dãy Tây Côn Lĩnh; khu vực cao nhất là khối đá vách dựng đứng cao khoảng 120 m; cuối tháng 12 đến đầu tháng 1, bình minh hoặc hoàng hôn có biển mây, độ cao 2.402 m.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/phong-su/202607/kich-cau-du-lich-o-ho-thau-88905ef/",
+        "quote": "Báo Tuyên Quang, 'Kích cầu du lịch ở Hồ Thầu' (9/7/2026, đọc 16/10/2026): đỉnh Chiêu Lầu Thi cao 2.408 m, được ví là 'nóc nhà của vùng Đông Bắc'; giải chạy 'Cung đường chân mây' dài 10 km và thử thách chinh phục đỉnh với 773 bậc thang lên cột mốc 2.408 m thu hút 350 vận động viên từ 10 tỉnh, thành.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ngam-may-tren-dinh-chieu-lau-thi-post338647.html",
+        "quote": "Báo Nhân Dân, 'Ngắm mây trên đỉnh Chiêu Lầu Thi' (21/10/2018, đọc 16/10/2026): đỉnh thuộc xã Hồ Thầu, huyện Hoàng Su Phì (Hà Giang cũ), dãy Tây Côn Lĩnh; theo người Dao, Chiêu Lầu Thi nghĩa là chín bậc thang lên trời; tương truyền thời Pháp cho đục chín bậc đá lên đỉnh để quan sát.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đỉnh chiêu lầu thi"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chiêu Lầu Thi ở đâu: xã Hồ Thầu, dãy Tây Côn Lĩnh",
+      "Cao 2.402 m hay 2.408 m: hai con số trên báo",
+      "Đường xe máy vào Hồ Thầu và chỗ để xe",
+      "Leo 773 bậc: mất bao lâu, mang gì",
+      "Mùa mây, giờ bình minh và hoàng hôn",
+      "Ruộng bậc thang, đồi chè và homestay quanh Hồ Thầu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/hoang-su-phi-di-xe-may-tu-ha-noi/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01067.json",
+  "draft_template": {
+    "id": "TM-01067",
+    "url": "/du-lich/dinh-chieu-lau-thi/",
+    "title": "Đỉnh Chiêu Lầu Thi: 773 bậc lên đỉnh, săn mây Hồ Thầu, đi xe máy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đỉnh chiêu lầu thi, chiêu lầu thi, chiêu lầu thi hoàng su phì, săn mây chiêu lầu thi, hồ thầu hoàng su phì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chiêu Lầu Thi ở đâu: xã Hồ Thầu, dãy Tây Côn Lĩnh",
+        "<p></p>"
+      ],
+      [
+        "Cao 2.402 m hay 2.408 m: hai con số trên báo",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy vào Hồ Thầu và chỗ để xe",
+        "<p></p>"
+      ],
+      [
+        "Leo 773 bậc: mất bao lâu, mang gì",
+        "<p></p>"
+      ],
+      [
+        "Mùa mây, giờ bình minh và hoàng hôn",
+        "<p></p>"
+      ],
+      [
+        "Ruộng bậc thang, đồi chè và homestay quanh Hồ Thầu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/van-hoa/202306/chim-dam-ve-dep-chieu-lau-thi-66807c6/",
+        "quote": "Báo Hà Giang (nay Báo Tuyên Quang), 'Chìm đắm vẻ đẹp Chiêu Lầu Thi' (4/6/2023, đọc 16/10/2026): Chiêu Lầu Thi là một trong 5 đỉnh liền kề phía Tây Nam dãy Tây Côn Lĩnh; khu vực cao nhất là khối đá vách dựng đứng cao khoảng 120 m; cuối tháng 12 đến đầu tháng 1, bình minh hoặc hoàng hôn có biển mây, độ cao 2.402 m.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baotuyenquang.com.vn/phong-su/202607/kich-cau-du-lich-o-ho-thau-88905ef/",
+        "quote": "Báo Tuyên Quang, 'Kích cầu du lịch ở Hồ Thầu' (9/7/2026, đọc 16/10/2026): đỉnh Chiêu Lầu Thi cao 2.408 m, được ví là 'nóc nhà của vùng Đông Bắc'; giải chạy 'Cung đường chân mây' dài 10 km và thử thách chinh phục đỉnh với 773 bậc thang lên cột mốc 2.408 m thu hút 350 vận động viên từ 10 tỉnh, thành.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ngam-may-tren-dinh-chieu-lau-thi-post338647.html",
+        "quote": "Báo Nhân Dân, 'Ngắm mây trên đỉnh Chiêu Lầu Thi' (21/10/2018, đọc 16/10/2026): đỉnh thuộc xã Hồ Thầu, huyện Hoàng Su Phì (Hà Giang cũ), dãy Tây Côn Lĩnh; theo người Dao, Chiêu Lầu Thi nghĩa là chín bậc thang lên trời; tương truyền thời Pháp cho đục chín bậc đá lên đỉnh để quan sát.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01067"
+  }
+}
