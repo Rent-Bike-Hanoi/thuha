@@ -1,0 +1,157 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:53:27.012980+00:00",
+  "topic": {
+    "topic_id": "TM-01297",
+    "url": "/du-lich/pho-trang-tien/",
+    "title": "Phố Tràng Tiền: từ xưởng đúc tiền đến phố Paul Bert và Nhà hát Lớn",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "phố tràng tiền",
+    "secondary_keywords": [
+      "phố tràng tiền hà nội",
+      "phố paul bert",
+      "tràng tiền xưa và nay",
+      "kiến trúc pháp tràng tiền"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách dạo hồ Gươm muốn biết phố Tràng Tiền có lịch sử gì, những tòa nhà Pháp nào còn lại và đi xe máy vào phố lúc nào thì được.",
+    "information_gain": "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/ chỉ nói Nhà hát Lớn, /du-lich/bao-tang-lich-su-quoc-gia/ nói bảo tàng; chưa bài nào nói về chính con phố. Bài mới thêm: tên Pháp Rue Paul Bert; các công trình theo góc phố (ngân hàng Pháp Hoa nay thuộc Bộ Công Thương, rạp Eden nay là rạp Công Nhân, Garage Boillot số 3 xây 1900, Grands Magasins nay là Tràng Tiền Plaza, nhà G. Taupin nay là Trung tâm Sách Tràng Tiền); Nhà hát Lớn 1901–1911; Tràng Tiền là tuyến giới hạn khu vực 1 vùng phát thải thấp cấm xe máy 19h–24h T6–CN.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/hinh-anh-trang-tien-pho-sang-ha-noi-xua-va-nay-941840.vov",
+        "quote": "VOV.VN (theo Dân trí), 'Hình ảnh Tràng Tiền – phố sang Hà Nội xưa và nay' (8/8/2019, đọc 16/10/2026): thời Pháp phố là Rue Paul Bert, phố sang nhất Hà Nội thuộc địa; Nhà hát Lớn ở cuối phố; nhà ngân hàng Pháp Hoa góc Paul Bert – Henri Rivière nay thuộc Bộ Công Thương; rạp Eden nay là rạp Công Nhân; Garage Boillot xây 1900 ở số 3 Paul Bert; Grands Magasins nay là Tràng Tiền Plaza; nhà xuất bản G. Taupin nay là Trung tâm Sách – Văn hóa phẩm Tràng Tiền.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://special.nhandan.vn/dau-an-di-san-kien-truc-phap-hanoi/index.html",
+        "quote": "Nhân Dân (special), 'Dấu ấn di sản' (không ghi ngày, đọc 16/10/2026): phố Paul Bert nay là Tràng Tiền; Nhà hát Lớn ở đầu đường Paul Bert, xây 1901–1910, hoàn thành 1911; Ngân hàng Pháp Hoa kiến trúc Art Deco ở góc Tràng Tiền – Ngô Quyền nay là trụ sở Bộ Công Thương.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-5085660.html",
+        "quote": "VnExpress, 'Hà Nội thí điểm vùng phát thải thấp tại vùng lõi Hoàn Kiếm' (15/6/2026, đọc 16/10/2026): giai đoạn 1 (1/7–31/12/2026) khu vực 1 phường Hoàn Kiếm giới hạn bởi 11 tuyến Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ; cấm xe máy, xe gắn máy và ô tô 19h–24h thứ Sáu, thứ Bảy, Chủ nhật; xe ưu tiên, xe có giấy phép được đi 24/24; từ 1/1/2027 khu vực 3 cấm xe ôm công nghệ chạy xăng; từ 1/1/2028 toàn vành đai 1 cấm xe máy xăng không đạt khí thải mức 3.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/cong-bo-de-an-vung-phat-thai-thap-trong-vanh-dai-1-thanh-pho-ha-noi-119260703145217105.htm",
+        "quote": "Cổng TTĐT Chính phủ – Xây dựng chính sách, công bố Đề án vùng phát thải thấp trong vành đai 1 (5/7/2026, đọc 16/10/2026): giai đoạn 1 (1/7–31/12/2026) khu vực 1 phường Hoàn Kiếm cấm xe mô tô, xe gắn máy 19h–24h thứ Sáu, thứ Bảy, Chủ nhật; giai đoạn 2 (2027) khu vực 1, 2, 3 thuộc phường Hoàn Kiếm và Cửa Nam không cho phép xe máy xăng chạy kinh doanh trên nền tảng và xe không đạt khí thải mức 3 theo QCVN 99:2025/BNNMT; ranh giới theo bản đồ kèm Quyết định 3273/QĐ-UBND.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1300,
+        "checked": "2026-10-16",
+        "keyword": "phố tràng tiền"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Tên Tràng Tiền và phố Paul Bert",
+      "Đi bộ theo góc phố: những tòa nhà còn lại",
+      "Nhà hát Lớn ở đầu phố",
+      "Ngân hàng Pháp Hoa và kiến trúc Art Deco",
+      "Đi xe máy vào Tràng Tiền: khung giờ vùng phát thải thấp",
+      "Gợi ý ghép tuyến hồ Gươm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+      "/du-lich/bao-tang-lich-su-quoc-gia/",
+      "/kinh-nghiem/vung-phat-thai-thap-ha-noi-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01297.json",
+  "draft_template": {
+    "id": "TM-01297",
+    "url": "/du-lich/pho-trang-tien/",
+    "title": "Phố Tràng Tiền: từ xưởng đúc tiền đến phố Paul Bert và Nhà hát Lớn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phố tràng tiền, phố tràng tiền hà nội, phố paul bert, tràng tiền xưa và nay, kiến trúc pháp tràng tiền",
+    "excerpt": "",
+    "sections": [
+      [
+        "Tên Tràng Tiền và phố Paul Bert",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ theo góc phố: những tòa nhà còn lại",
+        "<p></p>"
+      ],
+      [
+        "Nhà hát Lớn ở đầu phố",
+        "<p></p>"
+      ],
+      [
+        "Ngân hàng Pháp Hoa và kiến trúc Art Deco",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy vào Tràng Tiền: khung giờ vùng phát thải thấp",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý ghép tuyến hồ Gươm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/hinh-anh-trang-tien-pho-sang-ha-noi-xua-va-nay-941840.vov",
+        "quote": "VOV.VN (theo Dân trí), 'Hình ảnh Tràng Tiền – phố sang Hà Nội xưa và nay' (8/8/2019, đọc 16/10/2026): thời Pháp phố là Rue Paul Bert, phố sang nhất Hà Nội thuộc địa; Nhà hát Lớn ở cuối phố; nhà ngân hàng Pháp Hoa góc Paul Bert – Henri Rivière nay thuộc Bộ Công Thương; rạp Eden nay là rạp Công Nhân; Garage Boillot xây 1900 ở số 3 Paul Bert; Grands Magasins nay là Tràng Tiền Plaza; nhà xuất bản G. Taupin nay là Trung tâm Sách – Văn hóa phẩm Tràng Tiền.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://special.nhandan.vn/dau-an-di-san-kien-truc-phap-hanoi/index.html",
+        "quote": "Nhân Dân (special), 'Dấu ấn di sản' (không ghi ngày, đọc 16/10/2026): phố Paul Bert nay là Tràng Tiền; Nhà hát Lớn ở đầu đường Paul Bert, xây 1901–1910, hoàn thành 1911; Ngân hàng Pháp Hoa kiến trúc Art Deco ở góc Tràng Tiền – Ngô Quyền nay là trụ sở Bộ Công Thương.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-thi-diem-vung-phat-thai-thap-tai-vung-loi-hoan-kiem-5085660.html",
+        "quote": "VnExpress, 'Hà Nội thí điểm vùng phát thải thấp tại vùng lõi Hoàn Kiếm' (15/6/2026, đọc 16/10/2026): giai đoạn 1 (1/7–31/12/2026) khu vực 1 phường Hoàn Kiếm giới hạn bởi 11 tuyến Tràng Tiền, Hàng Khay, Lê Thái Tổ, Hàng Đào, Hàng Ngang, Hàng Buồm, Mã Mây, Hàng Bạc, Hàng Mắm, Nguyễn Hữu Huân, Lý Thái Tổ; cấm xe máy, xe gắn máy và ô tô 19h–24h thứ Sáu, thứ Bảy, Chủ nhật; xe ưu tiên, xe có giấy phép được đi 24/24; từ 1/1/2027 khu vực 3 cấm xe ôm công nghệ chạy xăng; từ 1/1/2028 toàn vành đai 1 cấm xe máy xăng không đạt khí thải mức 3.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://xaydungchinhsach.chinhphu.vn/cong-bo-de-an-vung-phat-thai-thap-trong-vanh-dai-1-thanh-pho-ha-noi-119260703145217105.htm",
+        "quote": "Cổng TTĐT Chính phủ – Xây dựng chính sách, công bố Đề án vùng phát thải thấp trong vành đai 1 (5/7/2026, đọc 16/10/2026): giai đoạn 1 (1/7–31/12/2026) khu vực 1 phường Hoàn Kiếm cấm xe mô tô, xe gắn máy 19h–24h thứ Sáu, thứ Bảy, Chủ nhật; giai đoạn 2 (2027) khu vực 1, 2, 3 thuộc phường Hoàn Kiếm và Cửa Nam không cho phép xe máy xăng chạy kinh doanh trên nền tảng và xe không đạt khí thải mức 3 theo QCVN 99:2025/BNNMT; ranh giới theo bản đồ kèm Quyết định 3273/QĐ-UBND.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01297"
+  }
+}

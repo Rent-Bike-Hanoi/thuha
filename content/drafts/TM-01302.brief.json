@@ -1,0 +1,172 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T15:53:27.833719+00:00",
+  "topic": {
+    "topic_id": "TM-01302",
+    "url": "/du-lich/dinh-trung-yen/",
+    "title": "Đình Trung Yên: ngôi đình trong ngõ nhỏ thờ tiến sĩ thời Mạc",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình trung yên",
+    "secondary_keywords": [
+      "ngõ trung yên",
+      "đình trung yên hoàn kiếm",
+      "10 ngõ trung yên",
+      "chuyện đình trong phố"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người đi bộ phố cổ hoặc tìm quán ngõ Trung Yên muốn biết ngôi đình nhỏ trong ngõ thờ ai và có mở cho khách xem không.",
+    "information_gain": "/du-lich/dinh-ha-vi-11-hang-hom/, /du-lich/dinh-pha-truc-lam-40-hang-hanh/ và /du-lich/dinh-kim-ngan-hang-bac/ là các đình phố cổ khác; chưa bài nào về đình Trung Yên. Bài mới thêm: địa chỉ 10 ngõ Trung Yên; thờ Ông Mỗ, một tiến sĩ thời Mạc; đình nằm trong chuỗi dự án 'Chuyện đình trong phố' trưng bày tác phẩm về đời sống quanh đình; cây si già trước cổng miếu; ngõ nổi tiếng hàng ăn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/tao-suc-song-moi-cho-cac-ngoi-dinh-trong-pho-10359540.html",
+        "quote": "Đại biểu Nhân dân, 'Tạo sức sống mới cho các ngôi đình trong phố' (16/2/2025, đọc 16/10/2026): đình Trung Yên ở số 10 ngõ Trung Yên thờ Ông Mỗ, một tiến sĩ thời Mạc; đình trưng bày tác phẩm về đời sống quanh đình và phố cổ; Hoàn Kiếm có hơn 60 đình thờ tổ nghề.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hon-xua-pho-co-post850568.html",
+        "quote": "Nhân Dân, 'Hồn xưa phố cổ' (15/12/2024, đọc 16/10/2026): đình Trung Yên (ngõ Trung Yên) được nêu cùng đình Tú Thị, Hà Vỹ, Phả Trúc Lâm là những ngôi đình ít người biết; phố cổ rộng khoảng 87 ha, cứ khoảng 100 m có một đình, đền hoặc chùa.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-muon-neo-ngo-2869274.html",
+        "quote": "VnExpress, 'Hà Nội muôn nẻo ngõ' (26/8/2013, đọc 16/10/2026): ngõ Trung Yên có một ngôi miếu nhỏ với cây si già trước cổng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đình trung yên"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Ngõ Trung Yên nằm ở đâu",
+      "Ông Mỗ – tiến sĩ thời Mạc được thờ ở đình",
+      "Đình hay miếu: tên gọi theo các nguồn",
+      "Dự án 'Chuyện đình trong phố'",
+      "Đi bộ và ăn trong ngõ",
+      "Ghép các đình phố nghề lân cận"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dinh-ha-vi-11-hang-hom/",
+      "/du-lich/dinh-kim-ngan-hang-bac/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/dinh-tu-thi-pho-yen-thai/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      },
+      {
+        "url": "/du-lich/dinh-ha-vi-11-hang-hom/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      },
+      {
+        "url": "/du-lich/dinh-dai-yen-ngoc-hoa-cong-chua/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.474
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/dinh-tu-thi-pho-yen-thai/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01302.json",
+  "draft_template": {
+    "id": "TM-01302",
+    "url": "/du-lich/dinh-trung-yen/",
+    "title": "Đình Trung Yên: ngôi đình trong ngõ nhỏ thờ tiến sĩ thời Mạc",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình trung yên, ngõ trung yên, đình trung yên hoàn kiếm, 10 ngõ trung yên, chuyện đình trong phố",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ngõ Trung Yên nằm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Ông Mỗ – tiến sĩ thời Mạc được thờ ở đình",
+        "<p></p>"
+      ],
+      [
+        "Đình hay miếu: tên gọi theo các nguồn",
+        "<p></p>"
+      ],
+      [
+        "Dự án 'Chuyện đình trong phố'",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ và ăn trong ngõ",
+        "<p></p>"
+      ],
+      [
+        "Ghép các đình phố nghề lân cận",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/tao-suc-song-moi-cho-cac-ngoi-dinh-trong-pho-10359540.html",
+        "quote": "Đại biểu Nhân dân, 'Tạo sức sống mới cho các ngôi đình trong phố' (16/2/2025, đọc 16/10/2026): đình Trung Yên ở số 10 ngõ Trung Yên thờ Ông Mỗ, một tiến sĩ thời Mạc; đình trưng bày tác phẩm về đời sống quanh đình và phố cổ; Hoàn Kiếm có hơn 60 đình thờ tổ nghề.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/hon-xua-pho-co-post850568.html",
+        "quote": "Nhân Dân, 'Hồn xưa phố cổ' (15/12/2024, đọc 16/10/2026): đình Trung Yên (ngõ Trung Yên) được nêu cùng đình Tú Thị, Hà Vỹ, Phả Trúc Lâm là những ngôi đình ít người biết; phố cổ rộng khoảng 87 ha, cứ khoảng 100 m có một đình, đền hoặc chùa.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ha-noi-muon-neo-ngo-2869274.html",
+        "quote": "VnExpress, 'Hà Nội muôn nẻo ngõ' (26/8/2013, đọc 16/10/2026): ngõ Trung Yên có một ngôi miếu nhỏ với cây si già trước cổng.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01302"
+  }
+}

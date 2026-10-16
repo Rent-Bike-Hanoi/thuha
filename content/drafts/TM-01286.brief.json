@@ -1,0 +1,143 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T15:53:27.594369+00:00",
+  "topic": {
+    "topic_id": "TM-01286",
+    "url": "/du-lich/le-hoi-trau-rom-bo-ra/",
+    "title": "Lễ hội Trâu rơm Bò rạ Vĩnh Tường: mùng 4 Tết, cày bừa ở sân đình",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "lễ hội trâu rơm bò rạ",
+    "secondary_keywords": [
+      "trâu rơm bò rạ",
+      "bích đại đồng vệ",
+      "lễ hội đại đồng vĩnh tường",
+      "hội mùng 4 tết vĩnh phúc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn cho con xem một hội nông nghiệp vui, không bạo lực, gần Hà Nội cần biết hội Trâu rơm Bò rạ diễn ra ngày nào, ở đâu và xem gì.",
+    "information_gain": "Site chưa có trang nào về Trâu rơm Bò rạ; gần nhất là /du-lich/le-hoi-tich-dien-doi-son/ (lễ cày tịch điền) và /du-lich/le-hoi-choi-trau-hai-luu/. Bài mới cho: ngày mùng 4 Tết, hai làng Bích Đại – Đồng Vệ chung một đình, thờ tướng Đinh Thiên Tích, trò trâu bò bện rơm cày bừa, tục nam giả nữ, nữ giả nam, rắc trấu, phục dựng từ 1996.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://giaoduc.net.vn/mung-4-tet-co-le-hoi-ky-la-trau-rom-bo-ra-post215144.gd",
+        "quote": "Giáo dục & Thời đại, 'Mùng 4 Tết có lễ hội kỳ lạ Trâu Rơm - Bò Rạ' (6/2/2021, đọc 16/10/2026): mùng 4 Tết ở hai làng Bích Đại và Đồng Vệ chung một đình, xã Đại Đồng, Vĩnh Tường; thờ tướng Đinh Thiên Tích thời Hùng Vương thứ 6; trâu bò bện rơm 'cày bừa' ở sân đình, nam giả nữ, nữ giả nam, rắc trấu.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/le-hoi-CC6498A33/kham-pha-van-hoa-le-hoi-dau-xuan-tai-vinh-phuc-b0c79d3bd.html",
+        "quote": "Báo Thanh tra, 'Khám phá văn hóa lễ hội đầu Xuân tại Vĩnh Phúc' (1/2/2025, đọc 16/10/2026): lễ hội Trâu rơm, Bò rạ hằng năm mùng 4 Tết ở xã Đại Đồng, Vĩnh Tường; thờ Đinh Thiên Tích; phục dựng từ 1996; trò diễn do dân Bích Đại và Đồng Vệ thực hiện.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/nhung-le-hoi-doc-dao-cua-mien-bac-trong-thang-gieng-d39708.html",
+        "quote": "Báo Đầu tư (ANTĐ), 'Những lễ hội độc đáo của miền Bắc trong tháng Giêng' (28/1/2017, đọc 16/10/2026): Trò diễn Trâu rơm, Bò rạ mùng 4–5 Tết, làng Bích Đại và Đồng Vệ, xã Đại Đồng, Vĩnh Tường.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "lễ hội trâu rơm bò rạ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Lễ hội Trâu rơm Bò rạ ngày nào",
+      "Bích Đại – Đồng Vệ ở đâu, đi xe máy",
+      "Tướng Đinh Thiên Tích và tích hội",
+      "Trò trâu rơm, bò rạ cày bừa",
+      "Tục nam giả nữ, rắc trấu",
+      "Gợi ý cho gia đình có trẻ nhỏ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/le-hoi-tich-dien-doi-son/",
+      "/du-lich/le-hoi-choi-trau-hai-luu/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01286.json",
+  "draft_template": {
+    "id": "TM-01286",
+    "url": "/du-lich/le-hoi-trau-rom-bo-ra/",
+    "title": "Lễ hội Trâu rơm Bò rạ Vĩnh Tường: mùng 4 Tết, cày bừa ở sân đình",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "lễ hội trâu rơm bò rạ, trâu rơm bò rạ, bích đại đồng vệ, lễ hội đại đồng vĩnh tường, hội mùng 4 tết vĩnh phúc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Lễ hội Trâu rơm Bò rạ ngày nào",
+        "<p></p>"
+      ],
+      [
+        "Bích Đại – Đồng Vệ ở đâu, đi xe máy",
+        "<p></p>"
+      ],
+      [
+        "Tướng Đinh Thiên Tích và tích hội",
+        "<p></p>"
+      ],
+      [
+        "Trò trâu rơm, bò rạ cày bừa",
+        "<p></p>"
+      ],
+      [
+        "Tục nam giả nữ, rắc trấu",
+        "<p></p>"
+      ],
+      [
+        "Gợi ý cho gia đình có trẻ nhỏ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://giaoduc.net.vn/mung-4-tet-co-le-hoi-ky-la-trau-rom-bo-ra-post215144.gd",
+        "quote": "Giáo dục & Thời đại, 'Mùng 4 Tết có lễ hội kỳ lạ Trâu Rơm - Bò Rạ' (6/2/2021, đọc 16/10/2026): mùng 4 Tết ở hai làng Bích Đại và Đồng Vệ chung một đình, xã Đại Đồng, Vĩnh Tường; thờ tướng Đinh Thiên Tích thời Hùng Vương thứ 6; trâu bò bện rơm 'cày bừa' ở sân đình, nam giả nữ, nữ giả nam, rắc trấu.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/le-hoi-CC6498A33/kham-pha-van-hoa-le-hoi-dau-xuan-tai-vinh-phuc-b0c79d3bd.html",
+        "quote": "Báo Thanh tra, 'Khám phá văn hóa lễ hội đầu Xuân tại Vĩnh Phúc' (1/2/2025, đọc 16/10/2026): lễ hội Trâu rơm, Bò rạ hằng năm mùng 4 Tết ở xã Đại Đồng, Vĩnh Tường; thờ Đinh Thiên Tích; phục dựng từ 1996; trò diễn do dân Bích Đại và Đồng Vệ thực hiện.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/nhung-le-hoi-doc-dao-cua-mien-bac-trong-thang-gieng-d39708.html",
+        "quote": "Báo Đầu tư (ANTĐ), 'Những lễ hội độc đáo của miền Bắc trong tháng Giêng' (28/1/2017, đọc 16/10/2026): Trò diễn Trâu rơm, Bò rạ mùng 4–5 Tết, làng Bích Đại và Đồng Vệ, xã Đại Đồng, Vĩnh Tường.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01286"
+  }
+}

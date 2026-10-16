@@ -1,0 +1,144 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:53:26.718789+00:00",
+  "topic": {
+    "topic_id": "TM-01299",
+    "url": "/du-lich/pho-hang-chieu/",
+    "title": "Phố Hàng Chiếu: phố đầu tiên quy hoạch kiểu Tây sau trận cháy 1888",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "phố hàng chiếu",
+    "secondary_keywords": [
+      "hàng chiếu hà nội",
+      "phố hàng chiếu ô quan chưởng",
+      "hàng chiếu bán gì",
+      "cơm thầy cơm cô hàng chiếu"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi từ chợ Đồng Xuân ra Ô Quan Chưởng muốn biết phố Hàng Chiếu xưa bán gì, nay còn gì và có gì đáng dừng lại.",
+    "information_gain": "/du-lich/o-quan-chuong/ chỉ dùng ngã tư Hàng Chiếu – Đào Duy Từ làm vị trí cửa ô; /du-lich/cho-dong-xuan/ nói chợ. Bài mới thêm: phố chạy từ Ô Quan Chưởng đến ngã tư Hàng Đường – Hàng Mã; sau trận cháy 1888 người Pháp làm lại thành phố đầu tiên quy hoạch kiểu phương Tây (vỉa hè, cây xanh, đèn, cống); bối cảnh tiểu thuyết 'Cơm thầy cơm cô' của Vũ Trọng Phụng; hàng hóa hiện nay là dây thừng, chăn gối bình dân, mành nhựa, vải bạt; người bán chiếu cói thỉnh thoảng tụ ở Ô Quan Chưởng; ngõ Đồng Xuân nối chợ với Hàng Chiếu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chuyen-pho-co-ha-noi-5122545.html",
+        "quote": "VnExpress, 'Chuyện phố cổ Hà Nội' (22/9/2026, đọc 16/10/2026): phố Hàng Chiếu trải dài từ cửa Ô Quan Chưởng đến ngã tư Hàng Đường – Hàng Mã; năm 1888 sau đám cháy lớn thiêu rụi dãy phố cũ, Pháp biến nơi đây thành con phố đầu tiên ở Hà Nội quy hoạch kiểu đô thị phương Tây với vỉa hè, cây xanh, đèn đường, cống thoát nước; phố là bối cảnh 'Cơm thầy cơm cô' của Vũ Trọng Phụng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/chieu-tren-chieu-duoi-post119164.html",
+        "quote": "Sài Gòn Giải Phóng, 'Chiếu trên, chiếu dưới' (14/12/2013, đọc 16/10/2026): Hà Nội có một con phố khang trang trong phố cổ mang tên Hàng Chiếu; phố bán dây thừng, chăn gối bình dân, mành nhựa, vải bạt che công trình; thỉnh thoảng vẫn thấy vài người bán chiếu cói chở trên xe đạp tụ ở Ô Quan Chưởng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/an-sinh-AFA9C5670/lang-nghe-hon-cua-ngo-FD0B3510.html",
+        "quote": "Báo Thanh tra, 'Lắng nghe hồn của ngõ' (13/2/2024, đọc 16/10/2026): ngõ Đồng Xuân nối chợ Đồng Xuân với phố Hàng Chiếu, dài khoảng 200 m, nhiều quán ăn, đông khách từ trưa đến chiều.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 12100,
+        "checked": "2026-10-16",
+        "keyword": "phố hàng chiếu"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Hàng Chiếu chạy từ đâu đến đâu",
+      "Trận cháy 1888 và con phố kiểu Tây đầu tiên",
+      "Hàng Chiếu trong 'Cơm thầy cơm cô'",
+      "Phố nay bán gì",
+      "Ô Quan Chưởng và ngõ Đồng Xuân ở hai đầu phố",
+      "Gửi xe và đi bộ quanh phố"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/o-quan-chuong/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01299.json",
+  "draft_template": {
+    "id": "TM-01299",
+    "url": "/du-lich/pho-hang-chieu/",
+    "title": "Phố Hàng Chiếu: phố đầu tiên quy hoạch kiểu Tây sau trận cháy 1888",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "phố hàng chiếu, hàng chiếu hà nội, phố hàng chiếu ô quan chưởng, hàng chiếu bán gì, cơm thầy cơm cô hàng chiếu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hàng Chiếu chạy từ đâu đến đâu",
+        "<p></p>"
+      ],
+      [
+        "Trận cháy 1888 và con phố kiểu Tây đầu tiên",
+        "<p></p>"
+      ],
+      [
+        "Hàng Chiếu trong 'Cơm thầy cơm cô'",
+        "<p></p>"
+      ],
+      [
+        "Phố nay bán gì",
+        "<p></p>"
+      ],
+      [
+        "Ô Quan Chưởng và ngõ Đồng Xuân ở hai đầu phố",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe và đi bộ quanh phố",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/chuyen-pho-co-ha-noi-5122545.html",
+        "quote": "VnExpress, 'Chuyện phố cổ Hà Nội' (22/9/2026, đọc 16/10/2026): phố Hàng Chiếu trải dài từ cửa Ô Quan Chưởng đến ngã tư Hàng Đường – Hàng Mã; năm 1888 sau đám cháy lớn thiêu rụi dãy phố cũ, Pháp biến nơi đây thành con phố đầu tiên ở Hà Nội quy hoạch kiểu đô thị phương Tây với vỉa hè, cây xanh, đèn đường, cống thoát nước; phố là bối cảnh 'Cơm thầy cơm cô' của Vũ Trọng Phụng.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.sggp.org.vn/chieu-tren-chieu-duoi-post119164.html",
+        "quote": "Sài Gòn Giải Phóng, 'Chiếu trên, chiếu dưới' (14/12/2013, đọc 16/10/2026): Hà Nội có một con phố khang trang trong phố cổ mang tên Hàng Chiếu; phố bán dây thừng, chăn gối bình dân, mành nhựa, vải bạt che công trình; thỉnh thoảng vẫn thấy vài người bán chiếu cói chở trên xe đạp tụ ở Ô Quan Chưởng.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhtra.com.vn/an-sinh-AFA9C5670/lang-nghe-hon-cua-ngo-FD0B3510.html",
+        "quote": "Báo Thanh tra, 'Lắng nghe hồn của ngõ' (13/2/2024, đọc 16/10/2026): ngõ Đồng Xuân nối chợ Đồng Xuân với phố Hàng Chiếu, dài khoảng 200 m, nhiều quán ăn, đông khách từ trưa đến chiều.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01299"
+  }
+}

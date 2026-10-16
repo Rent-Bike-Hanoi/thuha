@@ -1,0 +1,159 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T15:53:27.594897+00:00",
+  "topic": {
+    "topic_id": "TM-01288",
+    "url": "/du-lich/ban-sin-chai-sa-pa/",
+    "title": "Bản Sín Chải Sa Pa: bản Mông sau Cát Cát, trek 4–5 km, ruộng một vụ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản sín chải sa pa",
+    "secondary_keywords": [
+      "sín chải sa pa",
+      "trekking cát cát sín chải",
+      "bản sín chải",
+      "homestay sín chải"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách ở Sa Pa đã đi Cát Cát muốn đi tiếp một bản vắng hơn, cần biết Sín Chải cách bao xa, đi bộ hay xe máy, có gì.",
+    "information_gain": "/du-lich/ban-cat-cat-sa-pa/ dừng ở Cát Cát (vé, bậc đá); /du-lich/ban-ta-phin-sa-pa/ là bản Dao. Bài mới cho: Sín Chải là bản Mông khoảng 1.600 người cách trung tâm 4–5 km, lối đi qua Cát Cát men núi, trek hoặc xe máy, ruộng một vụ (đổ nước tháng 5–6, gặt 9–10), dệt lanh, không có hàng quán dọc đường — cần mang nước.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1205285/the-remote-rustic-beauty-of-sin-chai-village.html",
+        "quote": "Việt Nam News, 'The remote, rustic beauty of Sín Chải Village' (27/05/2022, đọc 16/10/2026): cách trung tâm Sa Pa khoảng 4 km, xã Hoàng Liên, chân dãy Hoàng Liên Sơn; khoảng 1.600 người Mông; trek hoặc thuê xe máy; gần như không có quán dọc đường, mang nước, đồ ăn; ruộng đổ nước tháng 5–6, gặt tháng 9–10, một vụ; phụ nữ Mông dệt lanh, may váy cưới; nhà thấp lợp gỗ pơ mu.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/5-ban-lang-nhat-dinh-phai-den-khi-du-lich-sa-pa-post398127.html",
+        "quote": "Báo Lào Cai, '5 bản làng nhất định phải đến khi du lịch Sa Pa' (01/03/2025, đọc 16/10/2026): Sín Chải khá vắng lặng, nguyên sơ; tuyến trekking từ Cát Cát đến Sín Chải; ngắm ruộng ngô, lúa, bình minh, hoàng hôn, trò chuyện bên bếp lửa.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "bản sín chải sa pa"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Sín Chải ở đâu, cách Cát Cát bao xa",
+      "Đi bộ hay xe máy",
+      "Người Mông ở Sín Chải: lanh, nhà gỗ",
+      "Mùa ruộng nên đi",
+      "Chuẩn bị gì: nước, giày",
+      "Ghép Cát Cát – Sín Chải trong nửa ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ban-cat-cat-sa-pa/",
+      "/du-lich/ban-ta-phin-sa-pa/",
+      "/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/ban-cat-cat-sa-pa/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.427
+        }
+      },
+      {
+        "url": "/du-lich/ban-ho-sa-pa/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.459
+        }
+      },
+      {
+        "url": "/du-lich/a-pa-chai-cot-moc-so-0/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.403
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/ban-cat-cat-sa-pa/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01288.json",
+  "draft_template": {
+    "id": "TM-01288",
+    "url": "/du-lich/ban-sin-chai-sa-pa/",
+    "title": "Bản Sín Chải Sa Pa: bản Mông sau Cát Cát, trek 4–5 km, ruộng một vụ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản sín chải sa pa, sín chải sa pa, trekking cát cát sín chải, bản sín chải, homestay sín chải",
+    "excerpt": "",
+    "sections": [
+      [
+        "Sín Chải ở đâu, cách Cát Cát bao xa",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ hay xe máy",
+        "<p></p>"
+      ],
+      [
+        "Người Mông ở Sín Chải: lanh, nhà gỗ",
+        "<p></p>"
+      ],
+      [
+        "Mùa ruộng nên đi",
+        "<p></p>"
+      ],
+      [
+        "Chuẩn bị gì: nước, giày",
+        "<p></p>"
+      ],
+      [
+        "Ghép Cát Cát – Sín Chải trong nửa ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/1205285/the-remote-rustic-beauty-of-sin-chai-village.html",
+        "quote": "Việt Nam News, 'The remote, rustic beauty of Sín Chải Village' (27/05/2022, đọc 16/10/2026): cách trung tâm Sa Pa khoảng 4 km, xã Hoàng Liên, chân dãy Hoàng Liên Sơn; khoảng 1.600 người Mông; trek hoặc thuê xe máy; gần như không có quán dọc đường, mang nước, đồ ăn; ruộng đổ nước tháng 5–6, gặt tháng 9–10, một vụ; phụ nữ Mông dệt lanh, may váy cưới; nhà thấp lợp gỗ pơ mu.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/5-ban-lang-nhat-dinh-phai-den-khi-du-lich-sa-pa-post398127.html",
+        "quote": "Báo Lào Cai, '5 bản làng nhất định phải đến khi du lịch Sa Pa' (01/03/2025, đọc 16/10/2026): Sín Chải khá vắng lặng, nguyên sơ; tuyến trekking từ Cát Cát đến Sín Chải; ngắm ruộng ngô, lúa, bình minh, hoàng hôn, trò chuyện bên bếp lửa.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01288"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T15:53:27.595481+00:00",
+  "topic": {
+    "topic_id": "TM-01290",
+    "url": "/du-lich/ban-phieng-loi-dien-bien/",
+    "title": "Bản Phiêng Lơi Điện Biên: bản Thái đen cạnh QL279, làm du lịch từ 2025",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản phiêng lơi",
+    "secondary_keywords": [
+      "phiêng lơi điện biên",
+      "du lịch cộng đồng điện biên",
+      "bản thái đen điện biên",
+      "homestay phiêng lơi"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đến TP Điện Biên xem di tích muốn thêm một buổi ở bản Thái gần thành phố: Phiêng Lơi ở đâu, có ăn ngủ được không.",
+    "information_gain": "/du-lich/di-tich-him-lam-dien-bien/, /du-lich/doi-a1-dien-bien/ chỉ là di tích chiến trường. Bài mới cho: Phiêng Lơi khai trương điểm du lịch cộng đồng tối 1/12/2025; cách trung tâm tỉnh khoảng 7 km, cạnh QL279, sông Nậm Rốm; 100% Thái đen; mới có 2 homestay, 2 hộ ẩm thực, 2 đội văn nghệ — giúp người đọc kỳ vọng đúng quy mô nhỏ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/thuc-day-phat-trien-du-lich-cong-dong-ban-phieng-loi-phuong-dien-bien-phu-10407524.html",
+        "quote": "Đại biểu Nhân dân, 'Thúc đẩy phát triển du lịch cộng đồng bản Phiêng Lơi, phường Điện Biên Phủ' (24/02/2026, đọc 16/10/2026): cách trung tâm hành chính tỉnh khoảng 7 km phía bắc phường Điện Biên Phủ, cạnh QL279; 100% người Thái đen; 2 homestay, 2 hộ ẩm thực, 2 đội văn nghệ; có nhà văn hóa, nhà di sản; sông Nậm Rốm chảy qua.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/dien-bien-khai-truong-diem-du-lich-cong-dong-ban-phieng-loi-va-ra-mat-phan-mem-du-lich-thong-minh-dien-bien-tour-10397935.html",
+        "quote": "Đại biểu Nhân dân, 'Điện Biên: Khai trương Điểm du lịch cộng đồng bản Phiêng Lơi...' (02/12/2025, đọc 16/10/2026): khai trương tối 1/12/2025, người Thái ngành Thái đen; một số hộ làm lưu trú, ẩm thực, trải nghiệm văn hóa.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/phieng-loi-diem-den-du-lich-cong-dong-giau-ban-sac-van-hoa-185008.html",
+        "quote": "Báo Văn Hóa, 'Phiêng Lơi – điểm đến du lịch cộng đồng giàu bản sắc văn hóa' (02/12/2025, đọc 16/10/2026): khai trương kèm app 'Điện Biên Phủ Tour'; kết thúc bằng xòe; dự kiến dân ca, trò chơi dân gian; phường tính khu ẩm thực, phố đi bộ đêm, hạ tầng Phiêng Lơi và Kê Nênh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "bản phiêng lơi"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Phiêng Lơi ở đâu, cách trung tâm 7 km",
+      "Bản Thái đen bên Nậm Rốm",
+      "Quy mô hiện tại: 2 homestay",
+      "Ăn gì, xem gì",
+      "Ghép với di tích Điện Biên Phủ",
+      "Lưu ý khi đi xe máy QL279"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-tich-him-lam-dien-bien/",
+      "/du-lich/doi-a1-dien-bien/",
+      "/du-lich/ha-noi-di-dien-bien-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01290.json",
+  "draft_template": {
+    "id": "TM-01290",
+    "url": "/du-lich/ban-phieng-loi-dien-bien/",
+    "title": "Bản Phiêng Lơi Điện Biên: bản Thái đen cạnh QL279, làm du lịch từ 2025",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản phiêng lơi, phiêng lơi điện biên, du lịch cộng đồng điện biên, bản thái đen điện biên, homestay phiêng lơi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Phiêng Lơi ở đâu, cách trung tâm 7 km",
+        "<p></p>"
+      ],
+      [
+        "Bản Thái đen bên Nậm Rốm",
+        "<p></p>"
+      ],
+      [
+        "Quy mô hiện tại: 2 homestay",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì, xem gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép với di tích Điện Biên Phủ",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xe máy QL279",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/thuc-day-phat-trien-du-lich-cong-dong-ban-phieng-loi-phuong-dien-bien-phu-10407524.html",
+        "quote": "Đại biểu Nhân dân, 'Thúc đẩy phát triển du lịch cộng đồng bản Phiêng Lơi, phường Điện Biên Phủ' (24/02/2026, đọc 16/10/2026): cách trung tâm hành chính tỉnh khoảng 7 km phía bắc phường Điện Biên Phủ, cạnh QL279; 100% người Thái đen; 2 homestay, 2 hộ ẩm thực, 2 đội văn nghệ; có nhà văn hóa, nhà di sản; sông Nậm Rốm chảy qua.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/dien-bien-khai-truong-diem-du-lich-cong-dong-ban-phieng-loi-va-ra-mat-phan-mem-du-lich-thong-minh-dien-bien-tour-10397935.html",
+        "quote": "Đại biểu Nhân dân, 'Điện Biên: Khai trương Điểm du lịch cộng đồng bản Phiêng Lơi...' (02/12/2025, đọc 16/10/2026): khai trương tối 1/12/2025, người Thái ngành Thái đen; một số hộ làm lưu trú, ẩm thực, trải nghiệm văn hóa.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/dan-toc-ton-giao/phieng-loi-diem-den-du-lich-cong-dong-giau-ban-sac-van-hoa-185008.html",
+        "quote": "Báo Văn Hóa, 'Phiêng Lơi – điểm đến du lịch cộng đồng giàu bản sắc văn hóa' (02/12/2025, đọc 16/10/2026): khai trương kèm app 'Điện Biên Phủ Tour'; kết thúc bằng xòe; dự kiến dân ca, trò chơi dân gian; phường tính khu ẩm thực, phố đi bộ đêm, hạ tầng Phiêng Lơi và Kê Nênh.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01290"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:53:27.013409+00:00",
+  "topic": {
+    "topic_id": "TM-01279",
+    "url": "/du-lich/den-tho-nguyen-xi-nghi-loc/",
+    "title": "Lăng mộ và đền thờ Nguyễn Xí Nghi Lộc: di tích đặc biệt gần Cửa Lò",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền thờ nguyễn xí",
+    "secondary_keywords": [
+      "lăng mộ nguyễn xí",
+      "đền nguyễn xí nghi lộc",
+      "cương quốc công nguyễn xí",
+      "di tích gần cửa lò"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách tắm biển Cửa Lò muốn ghé một di tích lịch sử gần đó và cần biết đền thờ Nguyễn Xí ở đâu, có gì đáng xem.",
+    "information_gain": "/du-lich/bien-cua-lo/ và /du-lich/dao-ngu-cua-lo/ chỉ nói biển, đảo; /du-lich/den-ong-hoang-muoi-nghe-an/ là đền khác. Bài mới cho: lăng ở xứ Đồng Lầm, đền cách lăng khoảng 300 m, xã Khánh Hợp; kiến trúc nội công ngoại quốc, hồ bán nguyệt, chạm gỗ, không dùng bê tông; vai trò Nguyễn Xí trong khởi nghĩa Lam Sơn; xếp hạng đặc biệt QĐ 2280/QĐ-TTg (31/12/2020).",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/lang-mo-va-den-tho-nguyen-xi-tinh-nghe-an-3309",
+        "quote": "Cục Di sản văn hóa, 'Lăng mộ và đền thờ Nguyễn Xí, tỉnh Nghệ An' (đọc 16/10/2026): lăng ở xứ Đồng Lầm, xã Khánh Hợp, Nghi Lộc; đền cách lăng khoảng 300 m, quay hướng Nam, quanh là núi Cờ, núi Kiếm… và Cửa Lò; Nguyễn Xí theo khởi nghĩa Lam Sơn từ đầu, được ban quốc tính; xếp hạng di tích quốc gia đặc biệt theo QĐ 2280/QĐ-TTg ngày 31/12/2020.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/den-co-linh-thieng-xu-nghe-tho-vi-khai-quoc-cong-than-trieu-le-post443277.html",
+        "quote": "Báo Pháp luật VN, 'Đền cổ linh thiêng xứ Nghệ thờ vị khai quốc công thần triều Lê' (21/4/2022, đọc 16/10/2026): lăng ở xứ Đồng Lầm, xã Khánh Hợp, đền cách khoảng 300 m; Nguyễn Xí mất năm 1465, hai năm sau vua Lê Thánh Tông cho lập đền; bố cục nội công ngoại quốc, hồ bán nguyệt trước nghi môn, vật liệu truyền thống, trang trí vôi vữa và gỗ chạm.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 140,
+        "checked": "2026-10-16",
+        "keyword": "đền thờ nguyễn xí"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đền và lăng ở đâu, cách Cửa Lò bao xa",
+      "Nguyễn Xí là ai",
+      "Kiến trúc đền: nội công ngoại quốc, hồ bán nguyệt",
+      "Lăng mộ xứ Đồng Lầm",
+      "Ghép lịch với biển Cửa Lò",
+      "Lưu ý lễ hội và trang phục"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bien-cua-lo/",
+      "/du-lich/dao-ngu-cua-lo/",
+      "/du-lich/den-ong-hoang-muoi-nghe-an/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01279.json",
+  "draft_template": {
+    "id": "TM-01279",
+    "url": "/du-lich/den-tho-nguyen-xi-nghi-loc/",
+    "title": "Lăng mộ và đền thờ Nguyễn Xí Nghi Lộc: di tích đặc biệt gần Cửa Lò",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền thờ nguyễn xí, lăng mộ nguyễn xí, đền nguyễn xí nghi lộc, cương quốc công nguyễn xí, di tích gần cửa lò",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền và lăng ở đâu, cách Cửa Lò bao xa",
+        "<p></p>"
+      ],
+      [
+        "Nguyễn Xí là ai",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc đền: nội công ngoại quốc, hồ bán nguyệt",
+        "<p></p>"
+      ],
+      [
+        "Lăng mộ xứ Đồng Lầm",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với biển Cửa Lò",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý lễ hội và trang phục",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dsvh.gov.vn/lang-mo-va-den-tho-nguyen-xi-tinh-nghe-an-3309",
+        "quote": "Cục Di sản văn hóa, 'Lăng mộ và đền thờ Nguyễn Xí, tỉnh Nghệ An' (đọc 16/10/2026): lăng ở xứ Đồng Lầm, xã Khánh Hợp, Nghi Lộc; đền cách lăng khoảng 300 m, quay hướng Nam, quanh là núi Cờ, núi Kiếm… và Cửa Lò; Nguyễn Xí theo khởi nghĩa Lam Sơn từ đầu, được ban quốc tính; xếp hạng di tích quốc gia đặc biệt theo QĐ 2280/QĐ-TTg ngày 31/12/2020.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/den-co-linh-thieng-xu-nghe-tho-vi-khai-quoc-cong-than-trieu-le-post443277.html",
+        "quote": "Báo Pháp luật VN, 'Đền cổ linh thiêng xứ Nghệ thờ vị khai quốc công thần triều Lê' (21/4/2022, đọc 16/10/2026): lăng ở xứ Đồng Lầm, xã Khánh Hợp, đền cách khoảng 300 m; Nguyễn Xí mất năm 1465, hai năm sau vua Lê Thánh Tông cho lập đền; bố cục nội công ngoại quốc, hồ bán nguyệt trước nghi môn, vật liệu truyền thống, trang trí vôi vữa và gỗ chạm.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01279"
+  }
+}

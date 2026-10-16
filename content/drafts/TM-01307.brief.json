@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:53:26.719516+00:00",
+  "topic": {
+    "topic_id": "TM-01307",
+    "url": "/du-lich/cung-van-hoa-huu-nghi-viet-xo/",
+    "title": "Cung Văn hóa Hữu nghị Việt Xô 91 Trần Hưng Đạo: lịch sử và hội trường",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "cung văn hóa hữu nghị việt xô",
+    "secondary_keywords": [
+      "cung việt xô",
+      "cung việt xô 91 trần hưng đạo",
+      "cung văn hóa lao động hữu nghị việt xô",
+      "nhà đấu xảo hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người có vé xem ca nhạc, hội chợ hoặc hội nghị ở Cung Việt Xô, và người mê kiến trúc, muốn biết công trình ở đâu, xây khi nào, hội trường lớn cỡ nào.",
+    "information_gain": "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/ và /du-lich/san-van-dong-hang-day-lich-su/ nói các nhà hát và sân vận động khác, chưa trang nào nói về Cung Việt Xô. Bài mới cho các ý sau: công trình xây trên nền nhà Đấu xảo cũ, khởi công 1/1/1978, xong 1/9/1985, do kiến trúc sư Liên Xô Isakovich thiết kế. Khối chính dài 96 m, rộng 60 m, cao 33 m; hội trường lớn 1.111 ghế có sân khấu quay. Năm 2019 có vụ cháy, năm 2020 cải tạo lại khán phòng, sân khấu và hệ thống PCCC.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/lich-su-cung-van-hoa-huu-nghi-viet-xo-ar501169.html",
+        "quote": "VTC News, 'Lịch sử Cung Văn hóa Hữu nghị Việt Xô' (28/09/2019, đọc 16/10/2026): cung ở phố Trần Hưng Đạo, khởi công 1/1/1978 trên nền nhà Đấu xảo Hà Nội, do kiến trúc sư Liên Xô Isakovich thiết kế, Hội đồng Trung ương Công đoàn Liên Xô tài trợ. Công trình xong ngày 1/9/1985 sau hơn 7 năm xây dựng, rộng khoảng 3,2 ha. Khối chính 4 tầng, dài 96 m, rộng 60 m, cao 33 m. Hội trường lớn có 1.111 chỗ và sân khấu quay sâu. Nơi đây từng đón sự kiện bên lề APEC 2006, Đại lễ 1.000 năm Thăng Long và trung tâm báo chí Hội nghị Mỹ – Triều 2019. Tối 28/9/2019, sân khấu bị cháy.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://kinhtedothi.vn/hoan-thanh-cai-tao-sua-chua-cung-van-hoa-lao-dong-huu-nghi-viet-xo-truoc-ngay-6-9.html",
+        "quote": "Kinh tế & Đô thị, 'Hoàn thành cải tạo, sửa chữa Cung Văn hóa Lao động Hữu nghị Việt - Xô trước ngày 6/9' (21/08/2020, đọc 16/10/2026): dự án cải tạo dự kiến xong trước 6/9/2020. Ngày 20/8, khán phòng đạt 80%, sân khấu 90%, phòng hậu trường 90%, PCCC 90%.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 2400,
+        "checked": "2026-10-16",
+        "keyword": "cung văn hóa hữu nghị việt xô"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Cung Việt Xô ở đâu",
+      "Từ nhà Đấu xảo đến công trình quà tặng của Liên Xô (1978–1985)",
+      "Kiến trúc: khối chính 96 × 60 × 33 m, hội trường 1.111 chỗ",
+      "Những sự kiện lớn từng tổ chức",
+      "Vụ cháy năm 2019 và đợt cải tạo năm 2020",
+      "Đi xem chương trình: lưu ý trước khi đến"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-hat-lon-ha-noi-dong-cua-trung-tu/",
+      "/du-lich/ga-ha-noi/",
+      "/du-lich/ha-noi/pho-co/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01307.json",
+  "draft_template": {
+    "id": "TM-01307",
+    "url": "/du-lich/cung-van-hoa-huu-nghi-viet-xo/",
+    "title": "Cung Văn hóa Hữu nghị Việt Xô 91 Trần Hưng Đạo: lịch sử và hội trường",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cung văn hóa hữu nghị việt xô, cung việt xô, cung việt xô 91 trần hưng đạo, cung văn hóa lao động hữu nghị việt xô, nhà đấu xảo hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cung Việt Xô ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Từ nhà Đấu xảo đến công trình quà tặng của Liên Xô (1978–1985)",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc: khối chính 96 × 60 × 33 m, hội trường 1.111 chỗ",
+        "<p></p>"
+      ],
+      [
+        "Những sự kiện lớn từng tổ chức",
+        "<p></p>"
+      ],
+      [
+        "Vụ cháy năm 2019 và đợt cải tạo năm 2020",
+        "<p></p>"
+      ],
+      [
+        "Đi xem chương trình: lưu ý trước khi đến",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/lich-su-cung-van-hoa-huu-nghi-viet-xo-ar501169.html",
+        "quote": "VTC News, 'Lịch sử Cung Văn hóa Hữu nghị Việt Xô' (28/09/2019, đọc 16/10/2026): cung ở phố Trần Hưng Đạo, khởi công 1/1/1978 trên nền nhà Đấu xảo Hà Nội, do kiến trúc sư Liên Xô Isakovich thiết kế, Hội đồng Trung ương Công đoàn Liên Xô tài trợ. Công trình xong ngày 1/9/1985 sau hơn 7 năm xây dựng, rộng khoảng 3,2 ha. Khối chính 4 tầng, dài 96 m, rộng 60 m, cao 33 m. Hội trường lớn có 1.111 chỗ và sân khấu quay sâu. Nơi đây từng đón sự kiện bên lề APEC 2006, Đại lễ 1.000 năm Thăng Long và trung tâm báo chí Hội nghị Mỹ – Triều 2019. Tối 28/9/2019, sân khấu bị cháy.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://kinhtedothi.vn/hoan-thanh-cai-tao-sua-chua-cung-van-hoa-lao-dong-huu-nghi-viet-xo-truoc-ngay-6-9.html",
+        "quote": "Kinh tế & Đô thị, 'Hoàn thành cải tạo, sửa chữa Cung Văn hóa Lao động Hữu nghị Việt - Xô trước ngày 6/9' (21/08/2020, đọc 16/10/2026): dự án cải tạo dự kiến xong trước 6/9/2020. Ngày 20/8, khán phòng đạt 80%, sân khấu 90%, phòng hậu trường 90%, PCCC 90%.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01307"
+  }
+}

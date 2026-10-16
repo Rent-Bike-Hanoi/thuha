@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:53:27.013212+00:00",
+  "topic": {
+    "topic_id": "TM-01278",
+    "url": "/du-lich/khu-di-tich-hai-thuong-lan-ong/",
+    "title": "Khu di tích Hải Thượng Lãn Ông Hương Sơn: 231 bậc lên tượng đài",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích hải thượng lãn ông",
+    "secondary_keywords": [
+      "mộ lê hữu trác",
+      "tượng đài hải thượng lãn ông",
+      "núi minh tự hương sơn",
+      "nhà thờ lê hữu trác"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi QL8A về Hương Sơn muốn biết khu di tích Lê Hữu Trác có mấy điểm, đường lên tượng đài dài bao nhiêu bậc.",
+    "information_gain": "Site chỉ có /du-lich/pho-lan-ong/ (phố thuốc Bắc ở Hà Nội mang tên Lãn Ông) và các bài Hà Tĩnh như /du-lich/chua-huong-tich-ha-tinh/; chưa trang nào về quê Lê Hữu Trác. Bài mới cho: hai cụm cách nhau 7 km (khu mộ, tượng đài Sơn Trung và nhà thờ Bảo Thượng bên sông Ngàn Phố); đường đá 629 m, 231 bậc; tượng đá cẩm thạch 16,91 m nặng 350 tấn; xếp hạng đặc biệt 2024.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/noi-luu-giu-nhung-gia-tri-van-hoa-lich-su-ve-cuoc-doi-dai-danh-y-le-huu-trac/53635.html",
+        "quote": "TTXVN/Chính sách & Cuộc sống, 'Nơi lưu giữ những giá trị văn hóa - lịch sử về cuộc đời Đại danh y Lê Hữu Trác' (đọc 16/10/2026): cách TP Hà Tĩnh 70 km về phía Tây; khu mộ và tượng đài ở thôn Hải Thượng, xã Sơn Trung rộng 45.000 m², đường đá lên tượng đài dài 629 m với 231 bậc; cách khu mộ 7 km về phía Tây là nhà thờ, khu tưởng niệm ở thôn Bảo Thượng, xã Quang Diệm, bên sông Ngàn Phố.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dukcq.hatinh.gov.vn/van-hoa-van-nghe/mo-va-khu-luu-niem-le-huu-trac-duoc-xep-hang-di-tich-quoc-gia-dac-biet-1317.html",
+        "quote": "Cổng Đảng ủy khối CQ Hà Tĩnh (nguồn baohatinh.vn), 'Mộ và Khu lưu niệm Lê Hữu Trác được xếp hạng di tích quốc gia đặc biệt' (đọc 16/10/2026): là di tích quốc gia đặc biệt thứ 2 của Hà Tĩnh sau Khu lưu niệm Nguyễn Du (2012); tượng đài trên đỉnh núi Minh Tự bằng đá cẩm thạch cao 16,91 m, nặng 350 tấn; đại lễ 300 năm ngày sinh (1724–2024) ngày 27/12/2024.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 880,
+        "checked": "2026-10-16",
+        "keyword": "khu di tích hải thượng lãn ông"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Khu di tích nằm đâu ở Hương Sơn",
+      "Khu mộ và tượng đài trên núi Minh Tự",
+      "Nhà thờ Bảo Thượng bên sông Ngàn Phố",
+      "231 bậc đá: leo mất bao lâu, đi giờ nào",
+      "Đi xe máy theo QL8A",
+      "Lưu ý thời tiết gió Lào, nước uống"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-lan-ong/",
+      "/du-lich/chua-huong-tich-ha-tinh/",
+      "/du-lich/nga-ba-dong-loc-can-loc/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01278.json",
+  "draft_template": {
+    "id": "TM-01278",
+    "url": "/du-lich/khu-di-tich-hai-thuong-lan-ong/",
+    "title": "Khu di tích Hải Thượng Lãn Ông Hương Sơn: 231 bậc lên tượng đài",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích hải thượng lãn ông, mộ lê hữu trác, tượng đài hải thượng lãn ông, núi minh tự hương sơn, nhà thờ lê hữu trác",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khu di tích nằm đâu ở Hương Sơn",
+        "<p></p>"
+      ],
+      [
+        "Khu mộ và tượng đài trên núi Minh Tự",
+        "<p></p>"
+      ],
+      [
+        "Nhà thờ Bảo Thượng bên sông Ngàn Phố",
+        "<p></p>"
+      ],
+      [
+        "231 bậc đá: leo mất bao lâu, đi giờ nào",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy theo QL8A",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý thời tiết gió Lào, nước uống",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/noi-luu-giu-nhung-gia-tri-van-hoa-lich-su-ve-cuoc-doi-dai-danh-y-le-huu-trac/53635.html",
+        "quote": "TTXVN/Chính sách & Cuộc sống, 'Nơi lưu giữ những giá trị văn hóa - lịch sử về cuộc đời Đại danh y Lê Hữu Trác' (đọc 16/10/2026): cách TP Hà Tĩnh 70 km về phía Tây; khu mộ và tượng đài ở thôn Hải Thượng, xã Sơn Trung rộng 45.000 m², đường đá lên tượng đài dài 629 m với 231 bậc; cách khu mộ 7 km về phía Tây là nhà thờ, khu tưởng niệm ở thôn Bảo Thượng, xã Quang Diệm, bên sông Ngàn Phố.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dukcq.hatinh.gov.vn/van-hoa-van-nghe/mo-va-khu-luu-niem-le-huu-trac-duoc-xep-hang-di-tich-quoc-gia-dac-biet-1317.html",
+        "quote": "Cổng Đảng ủy khối CQ Hà Tĩnh (nguồn baohatinh.vn), 'Mộ và Khu lưu niệm Lê Hữu Trác được xếp hạng di tích quốc gia đặc biệt' (đọc 16/10/2026): là di tích quốc gia đặc biệt thứ 2 của Hà Tĩnh sau Khu lưu niệm Nguyễn Du (2012); tượng đài trên đỉnh núi Minh Tự bằng đá cẩm thạch cao 16,91 m, nặng 350 tấn; đại lễ 300 năm ngày sinh (1724–2024) ngày 27/12/2024.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01278"
+  }
+}

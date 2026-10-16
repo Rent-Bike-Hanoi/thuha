@@ -1,0 +1,143 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:53:27.306725+00:00",
+  "topic": {
+    "topic_id": "TM-01283",
+    "url": "/du-lich/hoi-cuop-phet-ban-gian/",
+    "title": "Hội cướp phết Bàn Giản Lập Thạch: mùng 7 tháng Giêng, đả cầu tranh phết",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hội cướp phết bàn giản",
+    "secondary_keywords": [
+      "cướp phết lập thạch",
+      "đả cầu cướp phết",
+      "đền đông lai bàn giản",
+      "lễ hội mùng 7 tết vĩnh phúc"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã biết hội Phết Hiền Quan muốn tìm hội cướp phết khác gần Hà Nội, cần biết hội Bàn Giản diễn ra ngày nào, giờ nào và khác gì.",
+    "information_gain": "/du-lich/hoi-phet-hien-quan-tam-nong/ chỉ viết về hội Phết Hiền Quan (12–13 tháng Giêng, Phú Thọ cũ). Bài mới là địa điểm và ngày khác: Bàn Giản, Lập Thạch, mùng 7 tháng Giêng; thi giã bánh giầy giữa ba làng Đông Lai, Xuân Me, Trụ Thạch; tích bốn tướng thời Hùng Vương thứ 3; giờ bắt đầu khoảng 15h và hội chỉ tan khi phết được đưa về đền (có năm đến 21h).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuop-phet-dau-nam-phong-tuc-dan-gian-vinh-phuc-2285228.html",
+        "quote": "VnExpress, ''Cướp phết' đầu năm - phong tục dân gian Vĩnh Phúc' (30/1/2012, đọc 16/10/2026): hội mùng 7 Tết ở xã Bàn Giản, Lập Thạch; mở đầu thi giã bánh giầy giữa Đông Lai, Xuân Me, Trụ Thạch; bắt đầu 15h, kết thúc khi có người đưa phết về đền, có năm tới 21h.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/hang-tram-thanh-nien-cuop-phet-lay-may-o-vinh-phuc-10299307.html",
+        "quote": "Đại Đoàn Kết, 'Hàng trăm thanh niên cướp phết lấy may ở Vĩnh Phúc' (4/2/2025, đọc 16/10/2026): mùng 7 tháng Giêng tại đình các thôn Đông Lai, Xuân Me, Trụ Thạch, xã Bàn Giản; lễ tế, rước kiệu từ 15h rồi đả cầu cướp phết gỗ; tích Hùng Vương thứ 3 giao bốn tướng trấn giữ vùng này.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/nhung-le-hoi-doc-dao-cua-mien-bac-trong-thang-gieng-d39708.html",
+        "quote": "Báo Đầu tư (ANTĐ), 'Những lễ hội độc đáo của miền Bắc trong tháng Giêng' (28/1/2017, đọc 16/10/2026): Đả cầu cướp phết mùng 7 tháng Giêng, đền Đông Lai, xã Bàn Giản, Lập Thạch, Vĩnh Phúc.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "hội cướp phết bàn giản"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Hội cướp phết Bàn Giản ngày nào, mấy giờ",
+      "Xã Bàn Giản ở đâu, đi xe máy từ Hà Nội",
+      "Tích bốn tướng thời Hùng Vương",
+      "Thi giã bánh giầy ba làng",
+      "Đả cầu cướp phết diễn ra thế nào",
+      "Khác hội Phết Hiền Quan ra sao"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/hoi-phet-hien-quan-tam-nong/",
+      "/du-lich/le-hoi-choi-trau-hai-luu/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01283.json",
+  "draft_template": {
+    "id": "TM-01283",
+    "url": "/du-lich/hoi-cuop-phet-ban-gian/",
+    "title": "Hội cướp phết Bàn Giản Lập Thạch: mùng 7 tháng Giêng, đả cầu tranh phết",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hội cướp phết bàn giản, cướp phết lập thạch, đả cầu cướp phết, đền đông lai bàn giản, lễ hội mùng 7 tết vĩnh phúc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hội cướp phết Bàn Giản ngày nào, mấy giờ",
+        "<p></p>"
+      ],
+      [
+        "Xã Bàn Giản ở đâu, đi xe máy từ Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Tích bốn tướng thời Hùng Vương",
+        "<p></p>"
+      ],
+      [
+        "Thi giã bánh giầy ba làng",
+        "<p></p>"
+      ],
+      [
+        "Đả cầu cướp phết diễn ra thế nào",
+        "<p></p>"
+      ],
+      [
+        "Khác hội Phết Hiền Quan ra sao",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cuop-phet-dau-nam-phong-tuc-dan-gian-vinh-phuc-2285228.html",
+        "quote": "VnExpress, ''Cướp phết' đầu năm - phong tục dân gian Vĩnh Phúc' (30/1/2012, đọc 16/10/2026): hội mùng 7 Tết ở xã Bàn Giản, Lập Thạch; mở đầu thi giã bánh giầy giữa Đông Lai, Xuân Me, Trụ Thạch; bắt đầu 15h, kết thúc khi có người đưa phết về đền, có năm tới 21h.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/hang-tram-thanh-nien-cuop-phet-lay-may-o-vinh-phuc-10299307.html",
+        "quote": "Đại Đoàn Kết, 'Hàng trăm thanh niên cướp phết lấy may ở Vĩnh Phúc' (4/2/2025, đọc 16/10/2026): mùng 7 tháng Giêng tại đình các thôn Đông Lai, Xuân Me, Trụ Thạch, xã Bàn Giản; lễ tế, rước kiệu từ 15h rồi đả cầu cướp phết gỗ; tích Hùng Vương thứ 3 giao bốn tướng trấn giữ vùng này.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/nhung-le-hoi-doc-dao-cua-mien-bac-trong-thang-gieng-d39708.html",
+        "quote": "Báo Đầu tư (ANTĐ), 'Những lễ hội độc đáo của miền Bắc trong tháng Giêng' (28/1/2017, đọc 16/10/2026): Đả cầu cướp phết mùng 7 tháng Giêng, đền Đông Lai, xã Bàn Giản, Lập Thạch, Vĩnh Phúc.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01283"
+  }
+}

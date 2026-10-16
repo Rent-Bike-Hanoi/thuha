@@ -1,0 +1,143 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:53:27.306225+00:00",
+  "topic": {
+    "topic_id": "TM-01280",
+    "url": "/du-lich/hoi-chem-lon-nem-thuong/",
+    "title": "Hội chém lợn Ném Thượng Bắc Ninh: mùng 6 tháng Giêng, nghi lễ nay ra sao",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hội chém lợn ném thượng",
+    "secondary_keywords": [
+      "lễ hội chém lợn bắc ninh",
+      "làng ném thượng",
+      "ném thượng mùng 6 tết",
+      "rước ông ỉn ném thượng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội tò mò về hội chém lợn làng Ném Thượng muốn biết hội diễn ra ngày nào, ở đâu, nghi lễ hiện nay còn chém lợn công khai không và có nên đưa trẻ em đi xem.",
+    "information_gain": "/du-lich/hoi-lim-bac-ninh/ và /du-lich/ha-noi-di-bac-ninh-bang-xe-may/ không nhắc tới Ném Thượng; chưa URL nào trên site nói về hội này. Bài mới cho: ngày cố định mùng 6 tháng Giêng, các bước rước 'ông ỉn' từ chiều mùng 5, hai cách ghi danh thành hoàng (Đoàn Thượng / Nguyễn Thủ Tiệp), và diễn biến thay đổi nghi lễ 2013–2016 (chỉ cắt tiết, rồi 'xử kín' sau đình có quây bạt) để người đọc biết trước sẽ thấy gì.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/van-nghe/613986/Nem-Thuong-vao-hoi-chem-lon-tpov.html",
+        "quote": "Tiền Phong, 'Ném Thượng vào hội chém lợn' (16/2/2013, đọc 16/10/2026): hội ở làng Ném Thượng, xã Khắc Niệm, Tiên Du (Bắc Ninh) vào mùng 6 tháng Giêng, chiều mùng 5 rước hai 'ông ỉn' ra sân đình cân; sáng mùng 6 rước quanh làng; thờ tướng Đoàn Thượng; năm 2013 theo chỉ đạo của tỉnh không chém mà chỉ cắt tiết.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/loai-bo-tinh-bao-luc-trong-le-hoi-chem-lon-nem-thuong-281984.html",
+        "quote": "VietNamNet, 'Loại bỏ tính bạo lực trong Lễ hội chém lợn Ném Thượng' (31/12/2015, đọc 16/10/2026): hội mùng 6 tháng Giêng ở Ném Thượng, xã Khắc Niệm; thành hoàng được ghi là sứ quân Nguyễn Thủ Tiệp hoặc tướng Đoàn Thượng; Bộ VHTTDL đề nghị không chém lợn giữa sân đình theo Thông tư 15.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/le-hoi-chem-lon-lang-nem-thuong-2016-hai-cu-in-da-duoc-xu-kin-d39571.html",
+        "quote": "Báo Đầu tư (Vietnam+), 'Lễ hội chém lợn làng Ném Thượng 2016: Hai cụ ỉn đã được xử kín' (13/2/2016, đọc 16/10/2026): mùng 6 tháng Giêng (13/2/2016), lợn được rước quanh làng rồi về đình; việc giết mổ chuyển vào trong khuôn viên đình, quây bạt, không cho xem; Sở VHTTDL Bắc Ninh yêu cầu giữ các bước nghi lễ khác.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "hội chém lợn ném thượng"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Hội chém lợn Ném Thượng diễn ra ngày nào",
+      "Làng Ném Thượng ở đâu, đi xe máy từ Hà Nội",
+      "Tích thành hoàng và ý nghĩa nghi lễ",
+      "Rước 'ông ỉn' từ chiều mùng 5 đến trưa mùng 6",
+      "Nghi lễ đã thay đổi thế nào từ 2013–2016",
+      "Lưu ý khi đi xem cùng trẻ em"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/hoi-lim-bac-ninh/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01280.json",
+  "draft_template": {
+    "id": "TM-01280",
+    "url": "/du-lich/hoi-chem-lon-nem-thuong/",
+    "title": "Hội chém lợn Ném Thượng Bắc Ninh: mùng 6 tháng Giêng, nghi lễ nay ra sao",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hội chém lợn ném thượng, lễ hội chém lợn bắc ninh, làng ném thượng, ném thượng mùng 6 tết, rước ông ỉn ném thượng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hội chém lợn Ném Thượng diễn ra ngày nào",
+        "<p></p>"
+      ],
+      [
+        "Làng Ném Thượng ở đâu, đi xe máy từ Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Tích thành hoàng và ý nghĩa nghi lễ",
+        "<p></p>"
+      ],
+      [
+        "Rước 'ông ỉn' từ chiều mùng 5 đến trưa mùng 6",
+        "<p></p>"
+      ],
+      [
+        "Nghi lễ đã thay đổi thế nào từ 2013–2016",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xem cùng trẻ em",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/van-nghe/613986/Nem-Thuong-vao-hoi-chem-lon-tpov.html",
+        "quote": "Tiền Phong, 'Ném Thượng vào hội chém lợn' (16/2/2013, đọc 16/10/2026): hội ở làng Ném Thượng, xã Khắc Niệm, Tiên Du (Bắc Ninh) vào mùng 6 tháng Giêng, chiều mùng 5 rước hai 'ông ỉn' ra sân đình cân; sáng mùng 6 rước quanh làng; thờ tướng Đoàn Thượng; năm 2013 theo chỉ đạo của tỉnh không chém mà chỉ cắt tiết.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/loai-bo-tinh-bao-luc-trong-le-hoi-chem-lon-nem-thuong-281984.html",
+        "quote": "VietNamNet, 'Loại bỏ tính bạo lực trong Lễ hội chém lợn Ném Thượng' (31/12/2015, đọc 16/10/2026): hội mùng 6 tháng Giêng ở Ném Thượng, xã Khắc Niệm; thành hoàng được ghi là sứ quân Nguyễn Thủ Tiệp hoặc tướng Đoàn Thượng; Bộ VHTTDL đề nghị không chém lợn giữa sân đình theo Thông tư 15.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/le-hoi-chem-lon-lang-nem-thuong-2016-hai-cu-in-da-duoc-xu-kin-d39571.html",
+        "quote": "Báo Đầu tư (Vietnam+), 'Lễ hội chém lợn làng Ném Thượng 2016: Hai cụ ỉn đã được xử kín' (13/2/2016, đọc 16/10/2026): mùng 6 tháng Giêng (13/2/2016), lợn được rước quanh làng rồi về đình; việc giết mổ chuyển vào trong khuôn viên đình, quây bạt, không cho xem; Sở VHTTDL Bắc Ninh yêu cầu giữ các bước nghi lễ khác.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01280"
+  }
+}

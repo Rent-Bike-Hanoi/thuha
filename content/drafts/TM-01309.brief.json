@@ -1,0 +1,130 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:53:26.717931+00:00",
+  "topic": {
+    "topic_id": "TM-01309",
+    "url": "/du-lich/cung-the-thao-quan-ngua/",
+    "title": "Cung thể thao Quần Ngựa Văn Cao: SEA Games 31 và nhà tập mới 2025",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "cung thể thao quần ngựa",
+    "secondary_keywords": [
+      "cung quần ngựa",
+      "nhà thi đấu quần ngựa",
+      "cung thể thao tổng hợp quần ngựa",
+      "quần ngựa văn cao"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xem thi đấu, hòa nhạc hoặc đưa con đi tập ở Cung thể thao Quần Ngựa muốn biết công trình ở đâu, từng tổ chức gì và mới bổ sung hạng mục nào.",
+    "information_gain": "/du-lich/san-van-dong-hang-day-lich-su/ chỉ nói sân Hàng Đẫy, chưa trang nào nói về Cung Quần Ngựa. Bài mới cho các ý sau: năm 2022 Cung được cải tạo (điều hòa, âm thanh, ánh sáng, phòng chức năng, cổng phố Văn Cao) để tổ chức thể dục dụng cụ, thể dục nghệ thuật và aerobic SEA Games 31 (12–23/5/2022). Ngày 18/8/2025 gắn biển nhà tập luyện thi đấu đa năng mới khoảng 600 chỗ, một hầm và ba tầng nổi, kèm sân tennis và bóng rổ ngoài trời.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://kinhtedothi.vn/anh-cung-the-thao-tong-hop-quan-ngua-san-sang-cho-sea-games-31.html",
+        "quote": "Kinh tế & Đô thị, '[Ảnh]: Cung Thể thao tổng hợp Quần Ngựa sẵn sàng cho SEA Games 31' (09/05/2022, đọc 16/10/2026): Cung ở quận Ba Đình (cũ) được cải tạo để tổ chức 3 môn SEA Games 31: thể dục dụng cụ, thể dục nghệ thuật và aerobic, từ 12 đến 23/5/2022. Đợt cải tạo thay điều hòa, âm thanh, ánh sáng, nâng cấp phòng chức năng và sửa tường rào, biển hiệu mặt phố Văn Cao.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/phuong-ngoc-ha-gan-bien-cong-trinh-khu-lien-hop-cung-the-thao-tong-hop-quan-ngua-92542.html",
+        "quote": "Người Hà Nội, 'Phường Ngọc Hà gắn biển công trình khu liên hợp Cung thể thao tổng hợp Quần Ngựa' (18/08/2025, đọc 16/10/2026): sáng 18/8/2025 công trình được gắn biển chào mừng 80 năm Cách mạng Tháng Tám và Quốc khánh. Hạng mục gồm nhà tập luyện thi đấu đa năng cho thể dục, aerobic, bóng bàn, cầu lông, võ thuật, sức chứa khoảng 600 khán giả, 1 tầng hầm và 3 tầng nổi; sân tennis và bóng rổ ngoài trời; cổng và tường rào. Công trình đạt tiêu chí công trình xanh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 22200,
+        "checked": "2026-10-16",
+        "keyword": "cung thể thao quần ngựa"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Cung thể thao Quần Ngựa ở đâu (phố Văn Cao, phường Ngọc Hà)",
+      "Nguồn gốc tên Quần Ngựa",
+      "Cải tạo cho SEA Games 31 năm 2022",
+      "Nhà tập đa năng mới gắn biển tháng 8/2025",
+      "Đi xem sự kiện: lưu ý trước khi đến",
+      "Ghép với hồ Tây và Lăng Bác"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/san-van-dong-hang-day-lich-su/",
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01309.json",
+  "draft_template": {
+    "id": "TM-01309",
+    "url": "/du-lich/cung-the-thao-quan-ngua/",
+    "title": "Cung thể thao Quần Ngựa Văn Cao: SEA Games 31 và nhà tập mới 2025",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cung thể thao quần ngựa, cung quần ngựa, nhà thi đấu quần ngựa, cung thể thao tổng hợp quần ngựa, quần ngựa văn cao",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cung thể thao Quần Ngựa ở đâu (phố Văn Cao, phường Ngọc Hà)",
+        "<p></p>"
+      ],
+      [
+        "Nguồn gốc tên Quần Ngựa",
+        "<p></p>"
+      ],
+      [
+        "Cải tạo cho SEA Games 31 năm 2022",
+        "<p></p>"
+      ],
+      [
+        "Nhà tập đa năng mới gắn biển tháng 8/2025",
+        "<p></p>"
+      ],
+      [
+        "Đi xem sự kiện: lưu ý trước khi đến",
+        "<p></p>"
+      ],
+      [
+        "Ghép với hồ Tây và Lăng Bác",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://kinhtedothi.vn/anh-cung-the-thao-tong-hop-quan-ngua-san-sang-cho-sea-games-31.html",
+        "quote": "Kinh tế & Đô thị, '[Ảnh]: Cung Thể thao tổng hợp Quần Ngựa sẵn sàng cho SEA Games 31' (09/05/2022, đọc 16/10/2026): Cung ở quận Ba Đình (cũ) được cải tạo để tổ chức 3 môn SEA Games 31: thể dục dụng cụ, thể dục nghệ thuật và aerobic, từ 12 đến 23/5/2022. Đợt cải tạo thay điều hòa, âm thanh, ánh sáng, nâng cấp phòng chức năng và sửa tường rào, biển hiệu mặt phố Văn Cao.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/phuong-ngoc-ha-gan-bien-cong-trinh-khu-lien-hop-cung-the-thao-tong-hop-quan-ngua-92542.html",
+        "quote": "Người Hà Nội, 'Phường Ngọc Hà gắn biển công trình khu liên hợp Cung thể thao tổng hợp Quần Ngựa' (18/08/2025, đọc 16/10/2026): sáng 18/8/2025 công trình được gắn biển chào mừng 80 năm Cách mạng Tháng Tám và Quốc khánh. Hạng mục gồm nhà tập luyện thi đấu đa năng cho thể dục, aerobic, bóng bàn, cầu lông, võ thuật, sức chứa khoảng 600 khán giả, 1 tầng hầm và 3 tầng nổi; sân tennis và bóng rổ ngoài trời; cổng và tường rào. Công trình đạt tiêu chí công trình xanh.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01309"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:53:27.306906+00:00",
+  "topic": {
+    "topic_id": "TM-01284",
+    "url": "/du-lich/hoi-vat-lieu-doi/",
+    "title": "Hội vật Liễu Đôi Thanh Liêm: mùng 5 Tết, keo vật trai rốt, vật võ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hội vật liễu đôi",
+    "secondary_keywords": [
+      "vật võ liễu đôi",
+      "lễ hội liễu đôi hà nam",
+      "keo vật trai rốt",
+      "hội vật mùng 5 tết"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích xem vật dân tộc muốn biết hội vật Liễu Đôi diễn ra ngày nào, ở đâu, có gì khác các hội vật khác.",
+    "information_gain": "Site chưa có trang về hội vật nào ở vùng Thanh Liêm; gần nhất là /du-lich/le-hoi-tich-dien-doi-son/ (cùng mùng 5–7 tháng Giêng, gần đó) và /du-lich/nha-tho-so-kien-ha-nam/. Bài mới cho: ngày mùng 5 Tết, thờ Đức Thánh Tiên tổ họ Đoàn, 5 keo vật 'trai rốt' mở hội, mức giải 30.000–50.000đ/keo và giải cọc 500.000đ, chu kỳ hội lớn 3 năm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/doc-nhat-vo-nhi-keo-vat-trai-rot-post190885.html",
+        "quote": "Báo Pháp luật VN, 'Độc nhất vô nhị keo vật trai rốt…' (17/2/2015, đọc 16/10/2026): hội vật Liễu Đôi hằng năm mùng 5 Tết, xã Liêm Túc, Thanh Liêm, Hà Nam; thờ Đức Thánh Tiên, tổ họ Đoàn; mở bằng 5 keo 'trai rốt' của làng Tháp và Đống Cầu; giải 30.000–50.000đ mỗi keo, giải cọc 500.000đ; ba năm một lần hội lớn, rút từ 8 ngày xuống 3 ngày.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/nhung-le-hoi-doc-dao-cua-mien-bac-trong-thang-gieng-d39708.html",
+        "quote": "Báo Đầu tư (ANTĐ), 'Những lễ hội độc đáo của miền Bắc trong tháng Giêng' (28/1/2017, đọc 16/10/2026): Hội vật Liễu Đôi mùng 5 tháng Giêng, xã Liên Trúc, Thanh Liêm, Hà Nam.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "hội vật liễu đôi"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Hội vật Liễu Đôi ngày nào",
+      "Liễu Đôi ở đâu, đi xe máy từ Hà Nội",
+      "Tích Đức Thánh Tiên họ Đoàn",
+      "Keo vật trai rốt mở hội",
+      "Giải thưởng và hội lớn ba năm một lần",
+      "Kết hợp hội Tịch điền Đọi Sơn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/le-hoi-tich-dien-doi-son/",
+      "/du-lich/nha-tho-so-kien-ha-nam/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01284.json",
+  "draft_template": {
+    "id": "TM-01284",
+    "url": "/du-lich/hoi-vat-lieu-doi/",
+    "title": "Hội vật Liễu Đôi Thanh Liêm: mùng 5 Tết, keo vật trai rốt, vật võ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hội vật liễu đôi, vật võ liễu đôi, lễ hội liễu đôi hà nam, keo vật trai rốt, hội vật mùng 5 tết",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hội vật Liễu Đôi ngày nào",
+        "<p></p>"
+      ],
+      [
+        "Liễu Đôi ở đâu, đi xe máy từ Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Tích Đức Thánh Tiên họ Đoàn",
+        "<p></p>"
+      ],
+      [
+        "Keo vật trai rốt mở hội",
+        "<p></p>"
+      ],
+      [
+        "Giải thưởng và hội lớn ba năm một lần",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp hội Tịch điền Đọi Sơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/doc-nhat-vo-nhi-keo-vat-trai-rot-post190885.html",
+        "quote": "Báo Pháp luật VN, 'Độc nhất vô nhị keo vật trai rốt…' (17/2/2015, đọc 16/10/2026): hội vật Liễu Đôi hằng năm mùng 5 Tết, xã Liêm Túc, Thanh Liêm, Hà Nam; thờ Đức Thánh Tiên, tổ họ Đoàn; mở bằng 5 keo 'trai rốt' của làng Tháp và Đống Cầu; giải 30.000–50.000đ mỗi keo, giải cọc 500.000đ; ba năm một lần hội lớn, rút từ 8 ngày xuống 3 ngày.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baodautu.vn/nhung-le-hoi-doc-dao-cua-mien-bac-trong-thang-gieng-d39708.html",
+        "quote": "Báo Đầu tư (ANTĐ), 'Những lễ hội độc đáo của miền Bắc trong tháng Giêng' (28/1/2017, đọc 16/10/2026): Hội vật Liễu Đôi mùng 5 tháng Giêng, xã Liên Trúc, Thanh Liêm, Hà Nam.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01284"
+  }
+}
