@@ -1,0 +1,130 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:16:52.999980+00:00",
+  "topic": {
+    "topic_id": "TM-01251",
+    "url": "/du-lich/bao-tang-vinh-phuc/",
+    "title": "Bảo tàng Vĩnh Phúc trên đường Lý Bôn: hơn 10.000 hiện vật, xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng vĩnh phúc",
+    "secondary_keywords": [
+      "bảo tàng tỉnh vĩnh phúc",
+      "bảo tàng vĩnh yên",
+      "bảo tàng vĩnh phúc ở đâu",
+      "số 12 lý bôn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Tam Đảo, Đại Lải qua Vĩnh Yên muốn biết Bảo tàng Vĩnh Phúc nằm đâu sau khi sáp nhập vào Phú Thọ và bên trong trưng bày gì.",
+    "information_gain": "Site có /du-lich/bao-tang-hung-vuong-viet-tri/ (Việt Trì) và /du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/ nhưng chưa có bài về bảo tàng ở Vĩnh Yên. Bài mới cho: địa chỉ số 12 Lý Bôn, phường Vĩnh Phúc (tỉnh Phú Thọ); khuôn viên 38.000 m², 2.500 m² trưng bày, hơn 10.000 hiện vật; tượng Bác nói chuyện 2/3/1963; phòng số 1 (140 m²) về Kinh, Sán Dìu, Cao Lan, Dao và lễ hội chọi trâu Hải Lựu, cướp Phết Bàn Giản, Tây Thiên.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/bao-tang-vinh-phuc",
+        "quote": "Trang du lịch chính thức Phú Thọ, 'Bảo tàng Vĩnh Phúc' (đọc 16/10/2026): số 12 đường Lý Bôn, phường Vĩnh Phúc, tỉnh Phú Thọ; trưng bày trên 10.000 hiện vật từ thời tiền sơ sử; khuôn viên từng được Chủ tịch Hồ Chí Minh ghé ngày 02/3/1963; email baotangvp@gmail.com, ĐT 0211 862 930.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/nghe-chuyen-lich-su-o-bao-tang-tinh-vinh-phuc",
+        "quote": "Vietnam.vn, 'Nghe chuyện lịch sử ở bảo tàng tỉnh Vĩnh Phúc' (25/04/2023, đọc 16/10/2026): trên đường Lý Bôn, không gian 38.000 m², diện tích trưng bày 2.500 m²; gian mở đầu có tượng Bác nói chuyện với nhân dân 2/3/1963; phòng số 1 rộng 140 m² về văn hóa Kinh, Sán Dìu, Cao Lan, Dao, lễ hội chọi trâu Hải Lựu, cướp Phết Bàn Giản, Tây Thiên.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "bảo tàng vĩnh phúc"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Bảo tàng Vĩnh Phúc ở đâu sau sáp nhập",
+      "Không gian và quy mô trưng bày",
+      "Gian mở đầu: Bác Hồ về Vĩnh Phúc 1963",
+      "Văn hóa Kinh, Sán Dìu, Cao Lan, Dao",
+      "Lễ hội tiêu biểu qua hiện vật",
+      "Ghép với chuyến xe máy Tam Đảo – Tây Thiên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-hung-vuong-viet-tri/",
+      "/du-lich/mien-bac/ha-noi-di-tam-dao-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01251.json",
+  "draft_template": {
+    "id": "TM-01251",
+    "url": "/du-lich/bao-tang-vinh-phuc/",
+    "title": "Bảo tàng Vĩnh Phúc trên đường Lý Bôn: hơn 10.000 hiện vật, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng vĩnh phúc, bảo tàng tỉnh vĩnh phúc, bảo tàng vĩnh yên, bảo tàng vĩnh phúc ở đâu, số 12 lý bôn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng Vĩnh Phúc ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Không gian và quy mô trưng bày",
+        "<p></p>"
+      ],
+      [
+        "Gian mở đầu: Bác Hồ về Vĩnh Phúc 1963",
+        "<p></p>"
+      ],
+      [
+        "Văn hóa Kinh, Sán Dìu, Cao Lan, Dao",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tiêu biểu qua hiện vật",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chuyến xe máy Tam Đảo – Tây Thiên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/bao-tang-vinh-phuc",
+        "quote": "Trang du lịch chính thức Phú Thọ, 'Bảo tàng Vĩnh Phúc' (đọc 16/10/2026): số 12 đường Lý Bôn, phường Vĩnh Phúc, tỉnh Phú Thọ; trưng bày trên 10.000 hiện vật từ thời tiền sơ sử; khuôn viên từng được Chủ tịch Hồ Chí Minh ghé ngày 02/3/1963; email baotangvp@gmail.com, ĐT 0211 862 930.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/nghe-chuyen-lich-su-o-bao-tang-tinh-vinh-phuc",
+        "quote": "Vietnam.vn, 'Nghe chuyện lịch sử ở bảo tàng tỉnh Vĩnh Phúc' (25/04/2023, đọc 16/10/2026): trên đường Lý Bôn, không gian 38.000 m², diện tích trưng bày 2.500 m²; gian mở đầu có tượng Bác nói chuyện với nhân dân 2/3/1963; phòng số 1 rộng 140 m² về văn hóa Kinh, Sán Dìu, Cao Lan, Dao, lễ hội chọi trâu Hải Lựu, cướp Phết Bàn Giản, Tây Thiên.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01251"
+  }
+}

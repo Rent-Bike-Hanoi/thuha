@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:16:52.536506+00:00",
+  "topic": {
+    "topic_id": "TM-01231",
+    "url": "/xe-may/honda-gold-wing/",
+    "title": "Honda Gold Wing 2025: giá 1,2315 tỷ, 1.833 cc, DCT 7 cấp, túi khí",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "honda gold wing",
+    "secondary_keywords": [
+      "gold wing 2025",
+      "giá gold wing",
+      "gold wing túi khí",
+      "gold wing 50 năm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người quan tâm mô tô touring muốn biết Gold Wing 2025 chính hãng giá bao nhiêu, nặng bao nhiêu, trang bị gì và có gì khác các bản trước.",
+    "information_gain": "Site chưa có trang Gold Wing; /xe-may/phanh-cbs-xe-may-la-gi/ chỉ nhắc tên. Bài mới gom thông số chính hãng: 390 kg, yên 745 mm, bình 21 lít, 6 xi-lanh nằm ngang 1.833 cc 93 kW/170 Nm, DCT 7 cấp, túi khí, màn TFT 7 inch, bản kỷ niệm 50 năm, bảo hành 2 năm không giới hạn km.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/san-pham/gold-wing-2025?category=4",
+        "quote": "Honda Việt Nam, 'Gold Wing 2025' (đọc 16/10/2026): giá bán lẻ đề xuất 1.231.500.000 VNĐ; màu Vàng Bạc Đen và Đỏ Đen; 390 kg; yên 745 mm; bình 21 lít; 6 xi-lanh làm mát chất lỏng 93 kW tại 5.500 v/p, 170 Nm tại 4.500 v/p; DCT 7 cấp; tiêu thụ 5,75 l/100 km; túi khí trên bản Gold Wing Tour DCT.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/honda-ra-mat-gold-wing-2025-gia-hon-1-2-ty-dong-4893594.html",
+        "quote": "VnExpress, 'Honda ra mắt Gold Wing 2025 giá hơn 1,2 tỷ đồng' (6/2025, đọc 16/10/2026): bán từ 7/6 tại DreamWing, bảo hành 2 năm không giới hạn km, giá hơn 1,231 tỷ gồm VAT; 1.833 cc; 4 chế độ lái, D-CBS, HSTC; túi khí; TFT 7 inch; bản kỷ niệm 50 năm (ra mắt lần đầu 1975); bình 21 lít, hao 5,73 l/100 km.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 880,
+        "checked": "2026-10-16",
+        "keyword": "honda gold wing"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Gold Wing 2025 giá bao nhiêu, màu nào, bảo hành ra sao",
+      "Động cơ 6 xi-lanh 1.833 cc và hộp số DCT 7 cấp",
+      "Túi khí, D-CBS, kiểm soát lực kéo HSTC và 4 chế độ lái",
+      "390 kg, yên 745 mm: dắt xe và quay đầu thế nào",
+      "Bình 21 lít và mức hao xăng công bố",
+      "Chi tiết bản kỷ niệm 50 năm"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/phanh-cbs-xe-may-la-gi/",
+      "/xe-may/dct-va-e-clutch-honda-khac-gi/",
+      "/xe-may/honda-africa-twin/",
+      "/bang-gia/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01231.json",
+  "draft_template": {
+    "id": "TM-01231",
+    "url": "/xe-may/honda-gold-wing/",
+    "title": "Honda Gold Wing 2025: giá 1,2315 tỷ, 1.833 cc, DCT 7 cấp, túi khí",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "honda gold wing, gold wing 2025, giá gold wing, gold wing túi khí, gold wing 50 năm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Gold Wing 2025 giá bao nhiêu, màu nào, bảo hành ra sao",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 6 xi-lanh 1.833 cc và hộp số DCT 7 cấp",
+        "<p></p>"
+      ],
+      [
+        "Túi khí, D-CBS, kiểm soát lực kéo HSTC và 4 chế độ lái",
+        "<p></p>"
+      ],
+      [
+        "390 kg, yên 745 mm: dắt xe và quay đầu thế nào",
+        "<p></p>"
+      ],
+      [
+        "Bình 21 lít và mức hao xăng công bố",
+        "<p></p>"
+      ],
+      [
+        "Chi tiết bản kỷ niệm 50 năm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/san-pham/gold-wing-2025?category=4",
+        "quote": "Honda Việt Nam, 'Gold Wing 2025' (đọc 16/10/2026): giá bán lẻ đề xuất 1.231.500.000 VNĐ; màu Vàng Bạc Đen và Đỏ Đen; 390 kg; yên 745 mm; bình 21 lít; 6 xi-lanh làm mát chất lỏng 93 kW tại 5.500 v/p, 170 Nm tại 4.500 v/p; DCT 7 cấp; tiêu thụ 5,75 l/100 km; túi khí trên bản Gold Wing Tour DCT.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/honda-ra-mat-gold-wing-2025-gia-hon-1-2-ty-dong-4893594.html",
+        "quote": "VnExpress, 'Honda ra mắt Gold Wing 2025 giá hơn 1,2 tỷ đồng' (6/2025, đọc 16/10/2026): bán từ 7/6 tại DreamWing, bảo hành 2 năm không giới hạn km, giá hơn 1,231 tỷ gồm VAT; 1.833 cc; 4 chế độ lái, D-CBS, HSTC; túi khí; TFT 7 inch; bản kỷ niệm 50 năm (ra mắt lần đầu 1975); bình 21 lít, hao 5,73 l/100 km.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01231"
+  }
+}

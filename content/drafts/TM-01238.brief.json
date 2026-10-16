@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:16:52.789445+00:00",
+  "topic": {
+    "topic_id": "TM-01238",
+    "url": "/du-lich/cho-lui-lung-phin/",
+    "title": "Chợ lùi Lũng Phìn: 6 ngày một phiên ngày Dần, Thân, cách tính ngày họp",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ lùi lũng phìn",
+    "secondary_keywords": [
+      "chợ phiên lũng phìn",
+      "chợ lũng phìn họp ngày nào",
+      "chợ lùi hà giang",
+      "cách tính chợ lùi"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi cao nguyên đá muốn biết chợ Lũng Phìn họp ngày nào vì đây là chợ lùi, không cố định thứ trong tuần.",
+    "information_gain": "/du-lich/pho-co-dong-van-cho-phien/ nói chợ Đồng Văn Chủ nhật và có nhắc chợ lùi Phố Cáo; /du-lich/cho-phien-lung-phinh-bac-ha/ (RESEARCH) là Lùng Phình ở Bắc Hà — khác hẳn Lũng Phìn. Bài mới cho: chợ 6 ngày một phiên theo ngày Dần, Thân (nên mỗi tuần lùi một ngày), họp khoảng 4–5h sáng đến 3–4h chiều; đặc sản mật ong bạc hà, chè tuyết Lũng Phìn; cách tra lịch can chi trước chuyến đi; phân biệt với Lùng Phình Bắc Hà.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/den-ha-giang-di-cho-phien-lung-phin-2995847.html",
+        "quote": "VnExpress, 'Đến Hà Giang đi chợ phiên Lũng Phìn' (đọc 16/10/2026): chợ lùi 6 ngày một phiên, tuần này họp ngày Dần thì tuần sau ngày Thân; họp từ khoảng 4–5h sáng đến 3–4h chiều; ngày hội của hơn 16 dân tộc; khách mua nhiều mật ong bạc hà, chè tuyết Lũng Phìn, gà đồi, thổ cẩm.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/dac-sac-phien-cho-lui-pho-cao-tren-cong-vien-dia-chat-toan-cau-cao-nguyen-da-dong-van-post1200390.vov",
+        "quote": "VOV, 'Đặc sắc phiên chợ lùi Phố Cáo trên Công viên địa chất toàn cầu Cao nguyên đá Đồng Văn' (đọc 16/10/2026): khác chợ Phố Cáo (ngày Sửu, Mùi), chợ lùi Lũng Phìn, Đồng Văn cũng họp chu kỳ 6 ngày nhưng vào ngày Dần, ngày Thân.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/phong-su-anh/doc-dao-cho-lui-lung-phin-504724",
+        "quote": "Quân đội Nhân dân, 'Độc đáo chợ lùi Lũng Phìn' (đọc 16/10/2026): chợ phiên xã Lũng Phìn gọi là chợ lùi vì tuần sau lùi một ngày so với tuần trước; bà con đi ngựa, xe máy, đi bộ; bán từ dao, cuốc, khoai, sắn đến trâu, bò, ngựa, lợn.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "chợ lùi lũng phìn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chợ lùi là gì và vì sao Lũng Phìn lùi mỗi tuần",
+      "Cách tra ngày Dần, Thân trước chuyến đi",
+      "Chợ Lũng Phìn ở đâu trên cao nguyên đá",
+      "Họp mấy giờ, mua gì: mật ong bạc hà, chè tuyết",
+      "Phân biệt Lũng Phìn (Hà Giang cũ) với Lùng Phình (Bắc Hà)",
+      "Ghép lịch với chợ Đồng Văn, Phố Cáo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pho-co-dong-van-cho-phien/",
+      "/du-lich/deo-ma-pi-leng-va-dong-van/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01238.json",
+  "draft_template": {
+    "id": "TM-01238",
+    "url": "/du-lich/cho-lui-lung-phin/",
+    "title": "Chợ lùi Lũng Phìn: 6 ngày một phiên ngày Dần, Thân, cách tính ngày họp",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ lùi lũng phìn, chợ phiên lũng phìn, chợ lũng phìn họp ngày nào, chợ lùi hà giang, cách tính chợ lùi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ lùi là gì và vì sao Lũng Phìn lùi mỗi tuần",
+        "<p></p>"
+      ],
+      [
+        "Cách tra ngày Dần, Thân trước chuyến đi",
+        "<p></p>"
+      ],
+      [
+        "Chợ Lũng Phìn ở đâu trên cao nguyên đá",
+        "<p></p>"
+      ],
+      [
+        "Họp mấy giờ, mua gì: mật ong bạc hà, chè tuyết",
+        "<p></p>"
+      ],
+      [
+        "Phân biệt Lũng Phìn (Hà Giang cũ) với Lùng Phình (Bắc Hà)",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch với chợ Đồng Văn, Phố Cáo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/den-ha-giang-di-cho-phien-lung-phin-2995847.html",
+        "quote": "VnExpress, 'Đến Hà Giang đi chợ phiên Lũng Phìn' (đọc 16/10/2026): chợ lùi 6 ngày một phiên, tuần này họp ngày Dần thì tuần sau ngày Thân; họp từ khoảng 4–5h sáng đến 3–4h chiều; ngày hội của hơn 16 dân tộc; khách mua nhiều mật ong bạc hà, chè tuyết Lũng Phìn, gà đồi, thổ cẩm.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vov.vn/du-lich/dac-sac-phien-cho-lui-pho-cao-tren-cong-vien-dia-chat-toan-cau-cao-nguyen-da-dong-van-post1200390.vov",
+        "quote": "VOV, 'Đặc sắc phiên chợ lùi Phố Cáo trên Công viên địa chất toàn cầu Cao nguyên đá Đồng Văn' (đọc 16/10/2026): khác chợ Phố Cáo (ngày Sửu, Mùi), chợ lùi Lũng Phìn, Đồng Văn cũng họp chu kỳ 6 ngày nhưng vào ngày Dần, ngày Thân.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.qdnd.vn/phong-su-anh/doc-dao-cho-lui-lung-phin-504724",
+        "quote": "Quân đội Nhân dân, 'Độc đáo chợ lùi Lũng Phìn' (đọc 16/10/2026): chợ phiên xã Lũng Phìn gọi là chợ lùi vì tuần sau lùi một ngày so với tuần trước; bà con đi ngựa, xe máy, đi bộ; bán từ dao, cuốc, khoai, sắn đến trâu, bò, ngựa, lợn.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01238"
+  }
+}

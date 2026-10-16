@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:16:52.999123+00:00",
+  "topic": {
+    "topic_id": "TM-01248",
+    "url": "/du-lich/khu-luu-niem-sau-dieu-bac-ho-day-cand/",
+    "title": "Khu lưu niệm Sáu điều Bác Hồ dạy CAND ở Nhã Nam: tượng đài, xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu lưu niệm sáu điều bác hồ dạy công an nhân dân",
+    "secondary_keywords": [
+      "khu lưu niệm 6 điều bác hồ dạy cand",
+      "chùa nguộn nhã nam",
+      "di tích công an khu xii",
+      "nhã nam tân yên có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Đoàn công an, học sinh và khách đi Yên Thế, Tân Yên (Bắc Giang cũ) muốn biết khu lưu niệm ở Nhã Nam gắn với sự kiện gì, có những hạng mục nào.",
+    "information_gain": "Site có /du-lich/khu-di-tich-hoang-hoa-tham-phon-xuong/ và /du-lich/bao-tang-cong-an-ha-noi/ nhưng chưa bài nào về khu lưu niệm ở Chùa Nguộn, Nhã Nam. Bài mới cho: bối cảnh Công an Khu XII đóng quân cạnh chùa Nguộn 1946–1948, báo 'Bạn Dân', thư Bác gửi ngày 11/3/1948 với 6 điều; khánh thành 11/3/2018 trên 3,55 ha với tượng đài, phù điêu, nhà truyền thống.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotangcongan.com.vn/di-tich/khu-luu-niem-6-dieu-bac-ho-day-cong-an-nhan-dan-2/",
+        "quote": "Bảo tàng Công an nhân dân, 'Khu lưu niệm 6 điều Bác Hồ dạy Công an nhân dân' (đọc 16/10/2026): địa chỉ thôn Chùa Nguộn, xã Nhã Nam, huyện Tân Yên, Bắc Giang (cũ); xây cạnh Chùa Nguộn, nơi Công an Khu XII đóng quân cuối 1946–đầu 1948; ngày 11/3/1948 Bác Hồ gửi thư cho đồng chí Hoàng Mai nêu 'Tư cách người Công an cách mệnh' (sáu điều).",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/dep-mai-dia-chi-do-cua-luc-luong-cong-an-nhan-dan.bbg",
+        "quote": "Báo Bắc Ninh, 'Đẹp mãi địa chỉ đỏ của lực lượng công an nhân dân' (đọc 16/10/2026): Bộ Công an đầu tư, khánh thành 11/3/2018; diện tích 3,55 ha; hạng mục tượng đài 'Bác Hồ với CAND', phù điêu '70 năm CAND học tập và thực hiện Sáu điều Bác Hồ dạy', Nhà truyền thống; 8 tháng đón hơn 300 đoàn khách.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "khu lưu niệm sáu điều bác hồ dạy công an nhân dân"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Khu lưu niệm nằm ở đâu tại Nhã Nam",
+      "Công an Khu XII, báo 'Bạn Dân' và lá thư 11/3/1948",
+      "Nội dung Sáu điều Bác Hồ dạy",
+      "Tượng đài, phù điêu và nhà truyền thống",
+      "Kết hợp Phồn Xương, Yên Thế trong một ngày",
+      "Đi xe máy từ Hà Nội qua Bắc Ninh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-hoang-hoa-tham-phon-xuong/",
+      "/du-lich/bao-tang-cong-an-ha-noi/",
+      "/du-lich/ha-noi-di-bac-ninh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01248.json",
+  "draft_template": {
+    "id": "TM-01248",
+    "url": "/du-lich/khu-luu-niem-sau-dieu-bac-ho-day-cand/",
+    "title": "Khu lưu niệm Sáu điều Bác Hồ dạy CAND ở Nhã Nam: tượng đài, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu lưu niệm sáu điều bác hồ dạy công an nhân dân, khu lưu niệm 6 điều bác hồ dạy cand, chùa nguộn nhã nam, di tích công an khu xii, nhã nam tân yên có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khu lưu niệm nằm ở đâu tại Nhã Nam",
+        "<p></p>"
+      ],
+      [
+        "Công an Khu XII, báo 'Bạn Dân' và lá thư 11/3/1948",
+        "<p></p>"
+      ],
+      [
+        "Nội dung Sáu điều Bác Hồ dạy",
+        "<p></p>"
+      ],
+      [
+        "Tượng đài, phù điêu và nhà truyền thống",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp Phồn Xương, Yên Thế trong một ngày",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội qua Bắc Ninh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotangcongan.com.vn/di-tich/khu-luu-niem-6-dieu-bac-ho-day-cong-an-nhan-dan-2/",
+        "quote": "Bảo tàng Công an nhân dân, 'Khu lưu niệm 6 điều Bác Hồ dạy Công an nhân dân' (đọc 16/10/2026): địa chỉ thôn Chùa Nguộn, xã Nhã Nam, huyện Tân Yên, Bắc Giang (cũ); xây cạnh Chùa Nguộn, nơi Công an Khu XII đóng quân cuối 1946–đầu 1948; ngày 11/3/1948 Bác Hồ gửi thư cho đồng chí Hoàng Mai nêu 'Tư cách người Công an cách mệnh' (sáu điều).",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baobacninhtv.vn/dep-mai-dia-chi-do-cua-luc-luong-cong-an-nhan-dan.bbg",
+        "quote": "Báo Bắc Ninh, 'Đẹp mãi địa chỉ đỏ của lực lượng công an nhân dân' (đọc 16/10/2026): Bộ Công an đầu tư, khánh thành 11/3/2018; diện tích 3,55 ha; hạng mục tượng đài 'Bác Hồ với CAND', phù điêu '70 năm CAND học tập và thực hiện Sáu điều Bác Hồ dạy', Nhà truyền thống; 8 tháng đón hơn 300 đoàn khách.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01248"
+  }
+}

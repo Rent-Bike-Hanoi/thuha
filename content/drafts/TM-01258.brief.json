@@ -1,0 +1,131 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T15:16:53.244409+00:00",
+  "topic": {
+    "topic_id": "TM-01258",
+    "url": "/du-lich/lang-non-la-sai-nga/",
+    "title": "Làng nón lá Sai Nga: nón lá cọ bên sông Thao, di sản quốc gia 2020",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng nón lá sai nga",
+    "secondary_keywords": [
+      "nón sai nga cẩm khê",
+      "nón lá phú thọ",
+      "làng nón phú thọ",
+      "sai nga cẩm khê"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Phú Thọ (Đền Hùng, Ao Châu) muốn xem làng làm nón cần biết Sai Nga ở đâu, nón ở đây làm từ lá gì và khi nào ghé.",
+    "information_gain": "/du-lich/lang-non-chuong/ là nón lá cây cọ/lá nón ở Hà Nội với chợ phiên; Sai Nga khác: nón làm từ búp cọ non địa phương, hơ diêm sinh cho trắng; nghề làm nón lá Sai Nga là di sản phi vật thể quốc gia năm 2020; OCOP 4 sao 2023; khoảng 600 hộ ở các khu 4, 5, 6 (Sai Nga cũ), xã Cẩm Khê, bán đi Hà Nội, Tuyên Quang, Nghệ An.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vtv.vn/non-la-sai-nga-giu-hon-dat-to-giua-nhip-song-hien-dai-100251109180118911.htm",
+        "quote": "VTV, 'Nón lá Sai Nga – Giữ hồn Đất Tổ giữa nhịp sống hiện đại' (09/11/2025, đọc 16/10/2026): năm 2020 nghề làm nón lá Sai Nga được Bộ VHTTDL công nhận di sản phi vật thể quốc gia; năm 2023 nón lá Sai Nga đạt OCOP 4 sao; xã Cẩm Khê có khoảng 600 hộ làm nón ở khu 4, 5, 6 (Sai Nga cũ); mỗi năm hàng vạn chiếc, tiêu thụ ở Hà Nội, Tuyên Quang, Yên Bái, Nghệ An; công đoạn quay lá, vanh, khâu.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/lang-nghe-non-la-sai-nga",
+        "quote": "Trang thông tin chính thức du lịch Phú Thọ, 'Làng nghề nón lá Sai Nga' (đọc 16/10/2026): nghệ nhân dùng búp non cây cọ chặt về phơi khô rồi là; khâu xong hơ hơi diêm sinh cho nón trắng, không mốc; gài hình trổ hoa lá giữa hai lớp lá; điểm tham quan ghi 'mở cửa 24h', chứng nhận nghề thủ công truyền thống.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "làng nón lá sai nga"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Sai Nga ở đâu: Cẩm Khê bên sông Thao",
+      "Nón lá cọ: nguyên liệu khác nón Chuông thế nào",
+      "Các công đoạn: quay lá, vanh, khâu, hơ diêm sinh",
+      "Di sản 2020 và OCOP: mua nón ở đâu",
+      "Lưu ý khi vào nhà làm nón (nghề hộ gia đình)",
+      "Ghép với Đền Hùng, đầm Ao Châu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/di-den-hung-bang-xe-may-tu-ha-noi/",
+      "/du-lich/dam-ao-chau-phu-tho/",
+      "/du-lich/lang-non-chuong/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01258.json",
+  "draft_template": {
+    "id": "TM-01258",
+    "url": "/du-lich/lang-non-la-sai-nga/",
+    "title": "Làng nón lá Sai Nga: nón lá cọ bên sông Thao, di sản quốc gia 2020",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng nón lá sai nga, nón sai nga cẩm khê, nón lá phú thọ, làng nón phú thọ, sai nga cẩm khê",
+    "excerpt": "",
+    "sections": [
+      [
+        "Sai Nga ở đâu: Cẩm Khê bên sông Thao",
+        "<p></p>"
+      ],
+      [
+        "Nón lá cọ: nguyên liệu khác nón Chuông thế nào",
+        "<p></p>"
+      ],
+      [
+        "Các công đoạn: quay lá, vanh, khâu, hơ diêm sinh",
+        "<p></p>"
+      ],
+      [
+        "Di sản 2020 và OCOP: mua nón ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi vào nhà làm nón (nghề hộ gia đình)",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Đền Hùng, đầm Ao Châu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vtv.vn/non-la-sai-nga-giu-hon-dat-to-giua-nhip-song-hien-dai-100251109180118911.htm",
+        "quote": "VTV, 'Nón lá Sai Nga – Giữ hồn Đất Tổ giữa nhịp sống hiện đại' (09/11/2025, đọc 16/10/2026): năm 2020 nghề làm nón lá Sai Nga được Bộ VHTTDL công nhận di sản phi vật thể quốc gia; năm 2023 nón lá Sai Nga đạt OCOP 4 sao; xã Cẩm Khê có khoảng 600 hộ làm nón ở khu 4, 5, 6 (Sai Nga cũ); mỗi năm hàng vạn chiếc, tiêu thụ ở Hà Nội, Tuyên Quang, Yên Bái, Nghệ An; công đoạn quay lá, vanh, khâu.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dulichphutho.gov.vn/diemden/lang-nghe-non-la-sai-nga",
+        "quote": "Trang thông tin chính thức du lịch Phú Thọ, 'Làng nghề nón lá Sai Nga' (đọc 16/10/2026): nghệ nhân dùng búp non cây cọ chặt về phơi khô rồi là; khâu xong hơ hơi diêm sinh cho nón trắng, không mốc; gài hình trổ hoa lá giữa hai lớp lá; điểm tham quan ghi 'mở cửa 24h', chứng nhận nghề thủ công truyền thống.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01258"
+  }
+}

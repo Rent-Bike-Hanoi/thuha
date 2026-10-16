@@ -1,0 +1,154 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:16:52.536898+00:00",
+  "topic": {
+    "topic_id": "TM-01266",
+    "url": "/du-lich/chua-me-so-hung-yen/",
+    "title": "Chùa Mễ Sở Hưng Yên: tượng Quan Âm 1.014 tay bảo vật quốc gia",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chùa mễ sở",
+    "secondary_keywords": [
+      "tượng quan âm nghìn mắt nghìn tay chùa mễ sở",
+      "chùa mễ sở văn giang",
+      "bảo vật quốc gia hưng yên",
+      "quan âm thiên thủ thiên nhãn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Hà Nội muốn đi gần, qua cầu sang Văn Giang chiêm bái tượng Quan Âm nghìn tay, cần biết chùa ở đâu và tượng đặc biệt thế nào.",
+    "information_gain": "/du-lich/chua-huong-lang-hung-yen/, /du-lich/chua-thai-lac-hung-yen/ và /du-lich/chua-nom-lang-nom-hung-yen/ là chùa Hưng Yên khác; chưa có bài chùa Mễ Sở. Bài mới cho: tượng gỗ cao 2,80 m bệ 0,53 m với 1.014 tay, đầu thế kỷ XIX, công nhận theo QĐ 1821/QĐ-TTg (2018), đôi tay Phổ Lễ sau lưng, chuyện hai lần mất trộm, chùa kiến trúc Lê sát đê sông Hồng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/pho-tuong-bo-tat-quan-am-nghin-mat-nghin-tay-hai-lan-mat-trom-deu-duoc-tim-thay-post448760.html",
+        "quote": "Báo Pháp Luật VN, 'Pho tượng Bồ Tát Quan Âm nghìn mắt, nghìn tay hai lần mất trộm đều được tìm thấy' (đọc 16/10/2026): chùa ở thôn Mễ Sở, Văn Giang, kiến trúc thời Lê, sát đê sông Hồng; tượng gỗ cao 2,80 m, bệ 0,53 m, 1.014 cánh tay, mỗi tay một mắt, đầu thế kỷ XIX, có đôi tay Phổ Lễ phía sau; hai lần bị trộm đều tìm lại được.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hung-yen-cong-bo-bao-vat-quoc-gia-tuong-phat-quan-am-chua-me-so-post570926.vnp",
+        "quote": "Vietnam+, 'Hưng Yên công bố bảo vật quốc gia tượng Phật Quan Âm chùa Mễ Sở' (đọc 16/10/2026): ngày 23/5 tại chùa công bố QĐ 1821/QĐ-TTg công nhận bảo vật quốc gia; một trong ba kiệt tác tượng Quan Âm Thiên Thủ Thiên Nhãn cổ ở Việt Nam; 1.014 cánh tay.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/chiem-nguong-2-hien-vat-o-hung-yen-duoc-de-nghi-cong-nhan-la-bao-vat-quoc-gia-23252.html",
+        "quote": "Báo Hưng Yên (đọc 16/10/2026): tượng Quan Âm Thiên Thủ Thiên Nhãn chùa Mễ Sở (Văn Giang) được công nhận bảo vật quốc gia năm 2018.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 480,
+        "checked": "2026-10-16",
+        "keyword": "chùa mễ sở"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chùa Mễ Sở ở đâu, đi từ Hà Nội qua sông Hồng",
+      "Tượng Quan Âm 1.014 tay: kích thước và cách tạo tác",
+      "Vì sao là bảo vật quốc gia (QĐ 1821/QĐ-TTg)",
+      "Chuyện hai lần mất trộm",
+      "Kiến trúc chùa thời Lê bên đê",
+      "Ghép với chùa Hương Lãng, chùa Thái Lạc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-huong-lang-hung-yen/",
+      "/du-lich/chua-thai-lac-hung-yen/",
+      "/du-lich/chua-nom-lang-nom-hung-yen/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/chua-huong-lang-hung-yen/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/chua-huong-lang-hung-yen/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01266.json",
+  "draft_template": {
+    "id": "TM-01266",
+    "url": "/du-lich/chua-me-so-hung-yen/",
+    "title": "Chùa Mễ Sở Hưng Yên: tượng Quan Âm 1.014 tay bảo vật quốc gia",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa mễ sở, tượng quan âm nghìn mắt nghìn tay chùa mễ sở, chùa mễ sở văn giang, bảo vật quốc gia hưng yên, quan âm thiên thủ thiên nhãn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Mễ Sở ở đâu, đi từ Hà Nội qua sông Hồng",
+        "<p></p>"
+      ],
+      [
+        "Tượng Quan Âm 1.014 tay: kích thước và cách tạo tác",
+        "<p></p>"
+      ],
+      [
+        "Vì sao là bảo vật quốc gia (QĐ 1821/QĐ-TTg)",
+        "<p></p>"
+      ],
+      [
+        "Chuyện hai lần mất trộm",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc chùa thời Lê bên đê",
+        "<p></p>"
+      ],
+      [
+        "Ghép với chùa Hương Lãng, chùa Thái Lạc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/pho-tuong-bo-tat-quan-am-nghin-mat-nghin-tay-hai-lan-mat-trom-deu-duoc-tim-thay-post448760.html",
+        "quote": "Báo Pháp Luật VN, 'Pho tượng Bồ Tát Quan Âm nghìn mắt, nghìn tay hai lần mất trộm đều được tìm thấy' (đọc 16/10/2026): chùa ở thôn Mễ Sở, Văn Giang, kiến trúc thời Lê, sát đê sông Hồng; tượng gỗ cao 2,80 m, bệ 0,53 m, 1.014 cánh tay, mỗi tay một mắt, đầu thế kỷ XIX, có đôi tay Phổ Lễ phía sau; hai lần bị trộm đều tìm lại được.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnamplus.vn/hung-yen-cong-bo-bao-vat-quoc-gia-tuong-phat-quan-am-chua-me-so-post570926.vnp",
+        "quote": "Vietnam+, 'Hưng Yên công bố bảo vật quốc gia tượng Phật Quan Âm chùa Mễ Sở' (đọc 16/10/2026): ngày 23/5 tại chùa công bố QĐ 1821/QĐ-TTg công nhận bảo vật quốc gia; một trong ba kiệt tác tượng Quan Âm Thiên Thủ Thiên Nhãn cổ ở Việt Nam; 1.014 cánh tay.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/chiem-nguong-2-hien-vat-o-hung-yen-duoc-de-nghi-cong-nhan-la-bao-vat-quoc-gia-23252.html",
+        "quote": "Báo Hưng Yên (đọc 16/10/2026): tượng Quan Âm Thiên Thủ Thiên Nhãn chùa Mễ Sở (Văn Giang) được công nhận bảo vật quốc gia năm 2018.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01266"
+  }
+}

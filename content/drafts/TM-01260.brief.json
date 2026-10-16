@@ -1,0 +1,144 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:16:52.537110+00:00",
+  "topic": {
+    "topic_id": "TM-01260",
+    "url": "/du-lich/lang-gom-su-dong-trieu/",
+    "title": "Gốm sứ Đông Triều: làng gốm nặng lửa 1.300 độ C, điểm xem lò ở Quảng Ninh",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "gốm sứ đông triều",
+    "secondary_keywords": [
+      "làng gốm đông triều",
+      "gốm nặng lửa đông triều",
+      "gốm mạo khê",
+      "tham quan gốm đông triều"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hạ Long/Yên Tử qua Đông Triều muốn ghé xem làm gốm cần biết gốm Đông Triều khác Bát Tràng thế nào và điểm nào đón khách.",
+    "information_gain": "/du-lich/lang-gom-bat-trang/, /du-lich/lang-gom-chu-dau/, /du-lich/lang-gom-phu-lang/ nói gốm vùng khác; /du-lich/den-an-sinh-dong-trieu/ chỉ nói di tích. Bài mới nêu: gốm Đông Triều là dòng gốm nặng lửa nung khoảng 1.300 độ C bằng lò lớn 10 bầu; làng gốm trên 200 năm tuổi cạnh xưởng gốm mỏng xuất khẩu gốc Bát Tràng; các điểm dừng chân (Yên Thọ, Mạo Khê, Kim Sơn, Bình Dương); số khách năm 2019 ở một số xưởng.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://quangninh.gov.vn/chuyen-de/DH-Dang/Trang/ChiTietTinTuc.aspx?nid=125966",
+        "quote": "Cổng TTĐT Quảng Ninh, 'Phát huy giá trị du lịch làng nghề gốm sứ ở Đông Triều' (đọc 16/10/2026): Đông Triều có làng gốm truyền thống trên 200 năm tuổi và xưởng gốm mỏng xuất khẩu gốc Bát Tràng; năm 2019 gốm Quang Vinh đón hơn 15.000 lượt khách, Thái Sơn 6.000 lượt/năm; hè 2023 xưởng Quang Vinh (Mạo Khê) đón hơn 10 đoàn, giới hạn 50–70 khách/đoàn.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/chuyen-de/diemden/Trang/ChiTietTinTuc.aspx?nid=107476",
+        "quote": "Cổng TTĐT Quảng Ninh, 'Trăn trở làng nghề gốm sứ Đông Triều' (đọc 16/10/2026): gốm truyền thống chủ yếu sản phẩm to, nung nặng lửa; lò phổ biến loại 10 bầu, nhiệt độ khoảng 1.300 độ C; người làng nghề thường cả tuần mới đốt lò một lần.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baochinhphu.vn/phat-trien-nghe-gom-su-dong-trieu-10276698.htm",
+        "quote": "Báo Chính phủ, 'Phát triển nghề gốm sứ Đông Triều' (đọc 16/10/2026): Đông Triều có 5 điểm dừng chân xem gốm: sứ Long Hải, sứ Thái Sơn (Yên Thọ), gốm Việt (Mạo Khê), sứ Đông Triều (Kim Sơn), sứ Thành Đồng (Bình Dương).",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 170,
+        "checked": "2026-10-16",
+        "keyword": "gốm sứ đông triều"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Gốm Đông Triều ở đâu trên đường Hà Nội – Hạ Long",
+      "Gốm nặng lửa khác gốm Bát Tràng thế nào",
+      "Lò 10 bầu và lịch đốt lò",
+      "Các xưởng đón khách: đi đoàn hay đi lẻ",
+      "Mua gốm và chở bằng xe máy",
+      "Ghép với Yên Tử, đền An Sinh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-an-sinh-dong-trieu/",
+      "/du-lich/mien-bac/ha-noi-di-yen-tu-bang-xe-may/",
+      "/du-lich/lang-gom-bat-trang/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01260.json",
+  "draft_template": {
+    "id": "TM-01260",
+    "url": "/du-lich/lang-gom-su-dong-trieu/",
+    "title": "Gốm sứ Đông Triều: làng gốm nặng lửa 1.300 độ C, điểm xem lò ở Quảng Ninh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "gốm sứ đông triều, làng gốm đông triều, gốm nặng lửa đông triều, gốm mạo khê, tham quan gốm đông triều",
+    "excerpt": "",
+    "sections": [
+      [
+        "Gốm Đông Triều ở đâu trên đường Hà Nội – Hạ Long",
+        "<p></p>"
+      ],
+      [
+        "Gốm nặng lửa khác gốm Bát Tràng thế nào",
+        "<p></p>"
+      ],
+      [
+        "Lò 10 bầu và lịch đốt lò",
+        "<p></p>"
+      ],
+      [
+        "Các xưởng đón khách: đi đoàn hay đi lẻ",
+        "<p></p>"
+      ],
+      [
+        "Mua gốm và chở bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Yên Tử, đền An Sinh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://quangninh.gov.vn/chuyen-de/DH-Dang/Trang/ChiTietTinTuc.aspx?nid=125966",
+        "quote": "Cổng TTĐT Quảng Ninh, 'Phát huy giá trị du lịch làng nghề gốm sứ ở Đông Triều' (đọc 16/10/2026): Đông Triều có làng gốm truyền thống trên 200 năm tuổi và xưởng gốm mỏng xuất khẩu gốc Bát Tràng; năm 2019 gốm Quang Vinh đón hơn 15.000 lượt khách, Thái Sơn 6.000 lượt/năm; hè 2023 xưởng Quang Vinh (Mạo Khê) đón hơn 10 đoàn, giới hạn 50–70 khách/đoàn.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://www.quangninh.gov.vn/chuyen-de/diemden/Trang/ChiTietTinTuc.aspx?nid=107476",
+        "quote": "Cổng TTĐT Quảng Ninh, 'Trăn trở làng nghề gốm sứ Đông Triều' (đọc 16/10/2026): gốm truyền thống chủ yếu sản phẩm to, nung nặng lửa; lò phổ biến loại 10 bầu, nhiệt độ khoảng 1.300 độ C; người làng nghề thường cả tuần mới đốt lò một lần.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baochinhphu.vn/phat-trien-nghe-gom-su-dong-trieu-10276698.htm",
+        "quote": "Báo Chính phủ, 'Phát triển nghề gốm sứ Đông Triều' (đọc 16/10/2026): Đông Triều có 5 điểm dừng chân xem gốm: sứ Long Hải, sứ Thái Sơn (Yên Thọ), gốm Việt (Mạo Khê), sứ Đông Triều (Kim Sơn), sứ Thành Đồng (Bình Dương).",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01260"
+  }
+}

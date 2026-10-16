@@ -1,0 +1,144 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:16:52.999415+00:00",
+  "topic": {
+    "topic_id": "TM-01249",
+    "url": "/du-lich/khu-di-tich-nha-cong-an-trung-uong/",
+    "title": "Khu di tích Nha Công an Trung ương ở Minh Thanh: đồi A, đồi B, xem gì",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu di tích nha công an trung ương",
+    "secondary_keywords": [
+      "di tích công an nhân dân tuyên quang",
+      "đồng đon minh thanh",
+      "nha công an trung ương tân trào",
+      "bảo tàng công an minh thanh"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Khách đi ATK Tân Trào muốn biết khu di tích Nha Công an Trung ương ở Minh Thanh là gì, cách Tân Trào bao xa và có gì để xem.",
+    "information_gain": "/du-lich/tan-trao-di-xe-may-tu-ha-noi/ chỉ nói lán Nà Lừa, đình Tân Trào; /du-lich/bao-tang-cong-an-ha-noi/ ở Hà Nội. Bài mới cho: vị trí thôn Đồng Đon/Lũng Cò, xã Minh Thanh, cách Tân Trào khoảng 7 km; Nha đóng ở đây 4/1947–9/1950; đồi A, đồi B làm trụ sở; nội san 'Rèn luyện' ra số đầu 21/2/1948 (14 bản, sau 320 bản); thuộc Di tích quốc gia đặc biệt Tân Trào.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://baotangcongan.com.vn/di-tich/di-tich-nha-cong-an-trung-uong-2/",
+        "quote": "Bảo tàng Công an nhân dân, 'Di tích Nha Công an Trung ương' (đọc 16/10/2026): thôn Lũng Cò, xã Minh Thanh, huyện Sơn Dương (cũ); Nha chuyển về Minh Thanh từ 4/1947; Minh Thanh cách Tân Trào khoảng 7 km; 21/02/1948 tại căn cứ Đồng Đon ra nội san 'Rèn luyện', tiền thân Báo CAND.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://congan.tuyenquang.gov.vn/vi/tin-bai/khu-di-tich-lich-su-nha-cong-an-trung-uong?type=NEWS&id=152887",
+        "quote": "Công an tỉnh Tuyên Quang, 'Khu di tích lịch sử Nha Công an Trung ương' (15/08/2025, đọc 16/10/2026): thôn Đồng Đon, xã Minh Thanh, một phần Di tích quốc gia đặc biệt Tân Trào; nơi ở, làm việc 4/1947–9/1950; trụ sở trên 2 ngọn đồi gọi là đồi A, đồi B gần cánh đồng Lũng Cò; Giám đốc Lê Giản ở nhờ nhà người Tày.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/dia-chi-do-giao-duc-truyen-thong-cua-luc-luong-cong-an-nhan-dan-post767050.html",
+        "quote": "Nhân Dân, 'Địa chỉ đỏ giáo dục truyền thống của lực lượng Công an nhân dân' (đọc 16/10/2026): nội san 'Rèn luyện' do Lê Giản làm chủ nhiệm ra số đầu 21/2/1948, 14 bản, sau tới 320 bản; phía sau hai đồi có núi Đền bao bọc; có Bảo tàng Công an Nhân dân tại khu di tích.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "khu di tích nha công an trung ương"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Khu di tích nằm ở đâu, cách Tân Trào bao xa",
+      "Nha Công an Trung ương ở Minh Thanh 1947–1950",
+      "Đồi A, đồi B và cảnh quan núi Đền",
+      "Nội san 'Rèn luyện' – tiền thân Báo CAND",
+      "Nhà trưng bày tại khu di tích",
+      "Ghép vào cung xe máy ATK Sơn Dương"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/du-lich/bao-tang-cong-an-ha-noi/",
+      "/du-lich/atk-dinh-hoa/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01249.json",
+  "draft_template": {
+    "id": "TM-01249",
+    "url": "/du-lich/khu-di-tich-nha-cong-an-trung-uong/",
+    "title": "Khu di tích Nha Công an Trung ương ở Minh Thanh: đồi A, đồi B, xem gì",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu di tích nha công an trung ương, di tích công an nhân dân tuyên quang, đồng đon minh thanh, nha công an trung ương tân trào, bảo tàng công an minh thanh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khu di tích nằm ở đâu, cách Tân Trào bao xa",
+        "<p></p>"
+      ],
+      [
+        "Nha Công an Trung ương ở Minh Thanh 1947–1950",
+        "<p></p>"
+      ],
+      [
+        "Đồi A, đồi B và cảnh quan núi Đền",
+        "<p></p>"
+      ],
+      [
+        "Nội san 'Rèn luyện' – tiền thân Báo CAND",
+        "<p></p>"
+      ],
+      [
+        "Nhà trưng bày tại khu di tích",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào cung xe máy ATK Sơn Dương",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://baotangcongan.com.vn/di-tich/di-tich-nha-cong-an-trung-uong-2/",
+        "quote": "Bảo tàng Công an nhân dân, 'Di tích Nha Công an Trung ương' (đọc 16/10/2026): thôn Lũng Cò, xã Minh Thanh, huyện Sơn Dương (cũ); Nha chuyển về Minh Thanh từ 4/1947; Minh Thanh cách Tân Trào khoảng 7 km; 21/02/1948 tại căn cứ Đồng Đon ra nội san 'Rèn luyện', tiền thân Báo CAND.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://congan.tuyenquang.gov.vn/vi/tin-bai/khu-di-tich-lich-su-nha-cong-an-trung-uong?type=NEWS&id=152887",
+        "quote": "Công an tỉnh Tuyên Quang, 'Khu di tích lịch sử Nha Công an Trung ương' (15/08/2025, đọc 16/10/2026): thôn Đồng Đon, xã Minh Thanh, một phần Di tích quốc gia đặc biệt Tân Trào; nơi ở, làm việc 4/1947–9/1950; trụ sở trên 2 ngọn đồi gọi là đồi A, đồi B gần cánh đồng Lũng Cò; Giám đốc Lê Giản ở nhờ nhà người Tày.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/dia-chi-do-giao-duc-truyen-thong-cua-luc-luong-cong-an-nhan-dan-post767050.html",
+        "quote": "Nhân Dân, 'Địa chỉ đỏ giáo dục truyền thống của lực lượng Công an nhân dân' (đọc 16/10/2026): nội san 'Rèn luyện' do Lê Giản làm chủ nhiệm ra số đầu 21/2/1948, 14 bản, sau tới 320 bản; phía sau hai đồi có núi Đền bao bọc; có Bảo tàng Công an Nhân dân tại khu di tích.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01249"
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:16:52.788571+00:00",
+  "topic": {
+    "topic_id": "TM-01242",
+    "url": "/du-lich/cho-phien-hoang-su-phi/",
+    "title": "Chợ phiên Hoàng Su Phì: họp sáng Chủ nhật dọc phố chính Vinh Quang",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ phiên hoàng su phì",
+    "secondary_keywords": [
+      "chợ vinh quang hoàng su phì",
+      "chợ hoàng su phì họp ngày nào",
+      "chợ phiên chủ nhật hà giang",
+      "đặc sản chợ hoàng su phì"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đi ruộng bậc thang Hoàng Su Phì muốn ở lại sáng Chủ nhật để đi chợ, cần biết chợ họp ở đâu và có gì.",
+    "information_gain": "/du-lich/hoang-su-phi-di-xe-may-tu-ha-noi/ là bài lộ trình, không có phần chợ phiên. Bài mới cho: chợ chỉ họp sáng Chủ nhật, trải dọc phố chính Vinh Quang dài hàng cây số; người Mông, Dao, Tày, Nùng, La Chí từ Bản Luốc, Sán Xả Hồ, Nậm Ty gùi hàng xuống; mắc khén, thảo quả, rượu của phụ nữ Nùng, dao đi rừng, củ ấu tẩu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://congdankhuyenhoc.vn/huong-vi-nui-rung-o-cho-phien-hoang-su-phi-179220930111639575.htm",
+        "quote": "Công dân & Khuyến học, 'Hương vị núi rừng ở chợ phiên Hoàng Su Phì' (01/10/2022, đọc 16/10/2026): chợ chỉ họp một phiên Chủ nhật, dọc phố chính thị trấn Vinh Quang kéo dài vài cây số; người Mông, Dao, Tày, Nùng, La Chí; bà con Bản Luốc, Sán Xả Hồ, Nậm Ty gùi hàng xuống từ sớm; có mắc khén, thảo quả, hạt tiêu, góc bán rượu của phụ nữ Nùng, dao đi rừng, củ ấu tẩu.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://media.chinhphu.vn/sac-mau-phien-cho-vung-cao-hoang-su-phi-102221207122108909.htm",
+        "quote": "Báo điện tử Chính phủ, 'Sắc màu phiên chợ vùng cao Hoàng Su Phì' (07/12/2022, đọc 16/10/2026): chợ là nơi tụ họp của Tày, Nùng, Dao, H'Mông; đồng bào họp dọc hai bên tuyến đường chính thị trấn Vinh Quang, kéo dài hàng cây số; hàng hóa đa phần là sản vật nhà.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 50,
+        "checked": "2026-10-16",
+        "keyword": "chợ phiên hoàng su phì"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chợ Hoàng Su Phì họp khi nào, ở đâu",
+      "Lên Vinh Quang bằng xe máy",
+      "Mua gì: mắc khén, thảo quả, rượu, dao",
+      "Đi chợ sáng Chủ nhật rồi xem ruộng bậc thang",
+      "Lưu ý đường đèo, đỗ xe dọc phố chợ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/hoang-su-phi-di-xe-may-tu-ha-noi/",
+      "/du-lich/cho-phien-bac-ha/",
+      "/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/cho-phien-meo-vac-sang-chu-nhat/",
+        "layers": [
+          "keyword_normalized"
+        ],
+        "scores": {
+          "keyword_normalized": 1.0
+        }
+      },
+      {
+        "url": "/du-lich/hoang-su-phi-di-xe-may-tu-ha-noi/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.514
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/cho-phien-meo-vac-sang-chu-nhat/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01242.json",
+  "draft_template": {
+    "id": "TM-01242",
+    "url": "/du-lich/cho-phien-hoang-su-phi/",
+    "title": "Chợ phiên Hoàng Su Phì: họp sáng Chủ nhật dọc phố chính Vinh Quang",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ phiên hoàng su phì, chợ vinh quang hoàng su phì, chợ hoàng su phì họp ngày nào, chợ phiên chủ nhật hà giang, đặc sản chợ hoàng su phì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ Hoàng Su Phì họp khi nào, ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Lên Vinh Quang bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Mua gì: mắc khén, thảo quả, rượu, dao",
+        "<p></p>"
+      ],
+      [
+        "Đi chợ sáng Chủ nhật rồi xem ruộng bậc thang",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý đường đèo, đỗ xe dọc phố chợ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://congdankhuyenhoc.vn/huong-vi-nui-rung-o-cho-phien-hoang-su-phi-179220930111639575.htm",
+        "quote": "Công dân & Khuyến học, 'Hương vị núi rừng ở chợ phiên Hoàng Su Phì' (01/10/2022, đọc 16/10/2026): chợ chỉ họp một phiên Chủ nhật, dọc phố chính thị trấn Vinh Quang kéo dài vài cây số; người Mông, Dao, Tày, Nùng, La Chí; bà con Bản Luốc, Sán Xả Hồ, Nậm Ty gùi hàng xuống từ sớm; có mắc khén, thảo quả, hạt tiêu, góc bán rượu của phụ nữ Nùng, dao đi rừng, củ ấu tẩu.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://media.chinhphu.vn/sac-mau-phien-cho-vung-cao-hoang-su-phi-102221207122108909.htm",
+        "quote": "Báo điện tử Chính phủ, 'Sắc màu phiên chợ vùng cao Hoàng Su Phì' (07/12/2022, đọc 16/10/2026): chợ là nơi tụ họp của Tày, Nùng, Dao, H'Mông; đồng bào họp dọc hai bên tuyến đường chính thị trấn Vinh Quang, kéo dài hàng cây số; hàng hóa đa phần là sản vật nhà.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01242"
+  }
+}

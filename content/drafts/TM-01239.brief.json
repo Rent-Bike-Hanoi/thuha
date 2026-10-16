@@ -1,0 +1,126 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:16:52.788896+00:00",
+  "topic": {
+    "topic_id": "TM-01239",
+    "url": "/du-lich/cho-phien-bao-lac/",
+    "title": "Chợ phiên Bảo Lạc Cao Bằng: 5 ngày một phiên theo lịch âm, bên sông Gâm",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "chợ phiên bảo lạc",
+    "secondary_keywords": [
+      "chợ bảo lạc cao bằng",
+      "chợ phiên bảo lạc họp ngày nào",
+      "chợ phiên cao bằng",
+      "chợ bên sông gâm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy qua đèo Khau Cốc Chà muốn ghé chợ Bảo Lạc và cần biết lịch họp theo âm lịch.",
+    "information_gain": "/du-lich/deo-khau-coc-cha-bao-lac/ chỉ nói đèo; site chưa có chợ phiên Cao Bằng nào. Bài mới cho: chợ họp 5 ngày một phiên vào các ngày 5, 10, 15, 20, 25 âm lịch; chợ ở trung tâm, một bên sông Gâm, một bên dãy nhà dựa vách núi; người Tày, Nùng, Mông, Dao, Lô Lô, Sán Chỉ; măng rừng, rễ thuốc, mật ong, thịt trâu gác bếp; cách đổi lịch âm sang dương trước chuyến đi.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Cho-phien-Bao-Lac-nhung-ngay-cuoi-nam-7123.html",
+        "quote": "Báo Cao Bằng, 'Chợ phiên Bảo Lạc những ngày cuối năm' (24/01/2020, đọc 16/10/2026): chợ diễn ra các ngày 5, 10, 15, 20, 25 âm lịch hằng tháng; chợ ở trung tâm thị trấn, một bên bờ sông Gâm, một bên dãy nhà dựa vách núi; có người Mông, Dao, Lô Lô, Sán Chỉ, Nùng, Tày; bán rau rừng, măng, củ ấu, gừng, mật ong.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/dttg/van-hoa-kien-truc/cho-phien-bao-lac-net-van-hoa-dac-sac-noi-mien-son-cuoc-cao-bang-1577743.html",
+        "quote": "Lao Động, 'Chợ phiên Bảo Lạc – Nét văn hóa đặc sắc nơi miền sơn cước Cao Bằng' (đọc 16/10/2026): giữa núi rừng xã Bảo Lạc, 5 ngày một lần chợ phiên họp; người Tày, Nùng, Mông, Dao, Lô Lô gùi hàng xuống chợ; bán măng rừng, rau, rễ thuốc, mật ong, thịt trâu gác bếp, thổ cẩm.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 30,
+        "checked": "2026-10-16",
+        "keyword": "chợ phiên bảo lạc"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chợ Bảo Lạc họp ngày nào (lịch âm)",
+      "Vị trí bên sông Gâm và đường từ Khau Cốc Chà",
+      "Các dân tộc đi chợ: Lô Lô, Sán Chỉ, Mông, Dao",
+      "Mua và xem gì",
+      "Ghép với đèo Khau Cốc Chà, Nà Tềnh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/deo-khau-coc-cha-bao-lac/",
+      "/du-lich/deo-na-tenh-cao-bang/",
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01239.json",
+  "draft_template": {
+    "id": "TM-01239",
+    "url": "/du-lich/cho-phien-bao-lac/",
+    "title": "Chợ phiên Bảo Lạc Cao Bằng: 5 ngày một phiên theo lịch âm, bên sông Gâm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ phiên bảo lạc, chợ bảo lạc cao bằng, chợ phiên bảo lạc họp ngày nào, chợ phiên cao bằng, chợ bên sông gâm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ Bảo Lạc họp ngày nào (lịch âm)",
+        "<p></p>"
+      ],
+      [
+        "Vị trí bên sông Gâm và đường từ Khau Cốc Chà",
+        "<p></p>"
+      ],
+      [
+        "Các dân tộc đi chợ: Lô Lô, Sán Chỉ, Mông, Dao",
+        "<p></p>"
+      ],
+      [
+        "Mua và xem gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép với đèo Khau Cốc Chà, Nà Tềnh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/Cho-phien-Bao-Lac-nhung-ngay-cuoi-nam-7123.html",
+        "quote": "Báo Cao Bằng, 'Chợ phiên Bảo Lạc những ngày cuối năm' (24/01/2020, đọc 16/10/2026): chợ diễn ra các ngày 5, 10, 15, 20, 25 âm lịch hằng tháng; chợ ở trung tâm thị trấn, một bên bờ sông Gâm, một bên dãy nhà dựa vách núi; có người Mông, Dao, Lô Lô, Sán Chỉ, Nùng, Tày; bán rau rừng, măng, củ ấu, gừng, mật ong.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://laodong.vn/dttg/van-hoa-kien-truc/cho-phien-bao-lac-net-van-hoa-dac-sac-noi-mien-son-cuoc-cao-bang-1577743.html",
+        "quote": "Lao Động, 'Chợ phiên Bảo Lạc – Nét văn hóa đặc sắc nơi miền sơn cước Cao Bằng' (đọc 16/10/2026): giữa núi rừng xã Bảo Lạc, 5 ngày một lần chợ phiên họp; người Tày, Nùng, Mông, Dao, Lô Lô gùi hàng xuống chợ; bán măng rừng, rau, rễ thuốc, mật ong, thịt trâu gác bếp, thổ cẩm.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01239"
+  }
+}

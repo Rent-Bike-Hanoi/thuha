@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T15:16:52.999715+00:00",
+  "topic": {
+    "topic_id": "TM-01250",
+    "url": "/du-lich/di-tich-cach-mang-lao-my-bang/",
+    "title": "Di tích cách mạng Lào ở Mỹ Bằng: Làng Ngòi, Đá Bàn và nhà Xuphanuvông",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "di tích cách mạng lào mỹ bằng",
+    "secondary_keywords": [
+      "khu di tích làng ngòi đá bàn",
+      "nhà hoàng thân xuphanuvông tuyên quang",
+      "đại hội neo lào ítxala 1950",
+      "mỹ bằng yên sơn có gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Tuyên Quang tìm điểm lịch sử ít người biết muốn hiểu khu di tích cách mạng Lào ở Mỹ Bằng gồm những điểm nào và gắn với sự kiện gì.",
+    "information_gain": "Chưa có trang nào trên site nhắc Mỹ Bằng; các bài Tuyên Quang (/du-lich/tan-trao-di-xe-may-tu-ha-noi/, /du-lich/kim-binh-chiem-hoa/) chỉ về di tích Việt Nam. Bài mới cho: hai cụm Làng Ngòi (đồi Gò Tre, đồi Tơ, 1.500 m²) và Đá Bàn (khe núi Nhọn, hang đá); Đại hội Neo Lào Ítxala 13–15/8/1950; nhà Hoàng thân Xuphanuvông và Cayxỏn Phômvihản; vị trí ngã ba Tuyên Quang–Yên Bái–Phú Thọ, cách trung tâm hơn 20 km.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://yenson.tuyenquang.gov.vn/vi/tin-bai/khu-di-tich-lich-su-cach-mang-lao?type=NEWS&id=114316",
+        "quote": "Cổng TTĐT xã Yên Sơn, 'Khu di tích lịch sử cách mạng Lào' (đọc 16/10/2026): hai khu Làng Ngòi và Đá Bàn; Làng Ngòi trên đồi Gò Tre, đồi Tơ, khoanh vùng 1.500 m², có hội trường Đại hội Neo Lào Ítxala (13–15/8/1950), nhà Hoàng thân Xuphanuvông, nhà Cayxỏn Phômvihản; Đá Bàn KV1 20.100 m², KV2 200 m², hang đá ở khe núi Nhọn, chân núi Là.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/noi-ghi-dau-an-dac-biet-cua-tinh-huu-nghi-viet-lao-post769125.html",
+        "quote": "Nhân Dân, 'Nơi ghi dấu ấn đặc biệt của tình hữu nghị Việt-Lào' (đọc 16/10/2026): khu di tích cách trung tâm thành phố Tuyên Quang hơn 20 km, ở thôn Làng Ngòi và Đá Bàn, xã Mỹ Bằng; Mỹ Bằng nằm ở ngã ba giáp Tuyên Quang–Yên Bái–Phú Thọ; nhà làm trong rừng già dưới tán cây để giữ bí mật.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "di tích cách mạng lào mỹ bằng"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Khu di tích ở đâu và đường vào Mỹ Bằng",
+      "Năm 1950 và Đại hội Neo Lào Ítxala",
+      "Cụm Làng Ngòi: hội trường, nhà Xuphanuvông, Cayxỏn",
+      "Cụm Đá Bàn: hang đá ở khe núi Nhọn",
+      "Nên đi lúc nào, chuẩn bị gì",
+      "Ghép với thành phố Tuyên Quang"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/du-lich/kim-binh-chiem-hoa/",
+      "/du-lich/thanh-nha-mac-tuyen-quang/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01250.json",
+  "draft_template": {
+    "id": "TM-01250",
+    "url": "/du-lich/di-tich-cach-mang-lao-my-bang/",
+    "title": "Di tích cách mạng Lào ở Mỹ Bằng: Làng Ngòi, Đá Bàn và nhà Xuphanuvông",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "di tích cách mạng lào mỹ bằng, khu di tích làng ngòi đá bàn, nhà hoàng thân xuphanuvông tuyên quang, đại hội neo lào ítxala 1950, mỹ bằng yên sơn có gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khu di tích ở đâu và đường vào Mỹ Bằng",
+        "<p></p>"
+      ],
+      [
+        "Năm 1950 và Đại hội Neo Lào Ítxala",
+        "<p></p>"
+      ],
+      [
+        "Cụm Làng Ngòi: hội trường, nhà Xuphanuvông, Cayxỏn",
+        "<p></p>"
+      ],
+      [
+        "Cụm Đá Bàn: hang đá ở khe núi Nhọn",
+        "<p></p>"
+      ],
+      [
+        "Nên đi lúc nào, chuẩn bị gì",
+        "<p></p>"
+      ],
+      [
+        "Ghép với thành phố Tuyên Quang",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://yenson.tuyenquang.gov.vn/vi/tin-bai/khu-di-tich-lich-su-cach-mang-lao?type=NEWS&id=114316",
+        "quote": "Cổng TTĐT xã Yên Sơn, 'Khu di tích lịch sử cách mạng Lào' (đọc 16/10/2026): hai khu Làng Ngòi và Đá Bàn; Làng Ngòi trên đồi Gò Tre, đồi Tơ, khoanh vùng 1.500 m², có hội trường Đại hội Neo Lào Ítxala (13–15/8/1950), nhà Hoàng thân Xuphanuvông, nhà Cayxỏn Phômvihản; Đá Bàn KV1 20.100 m², KV2 200 m², hang đá ở khe núi Nhọn, chân núi Là.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/noi-ghi-dau-an-dac-biet-cua-tinh-huu-nghi-viet-lao-post769125.html",
+        "quote": "Nhân Dân, 'Nơi ghi dấu ấn đặc biệt của tình hữu nghị Việt-Lào' (đọc 16/10/2026): khu di tích cách trung tâm thành phố Tuyên Quang hơn 20 km, ở thôn Làng Ngòi và Đá Bàn, xã Mỹ Bằng; Mỹ Bằng nằm ở ngã ba giáp Tuyên Quang–Yên Bái–Phú Thọ; nhà làm trong rừng già dưới tán cây để giữ bí mật.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01250"
+  }
+}

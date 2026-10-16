@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:16:52.789262+00:00",
+  "topic": {
+    "topic_id": "TM-01262",
+    "url": "/du-lich/den-tran-vu-thach-ban/",
+    "title": "Đền Trấn Vũ Thạch Bàn: tượng đồng Trấn Vũ 1802 và hội kéo co ngồi",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đền trấn vũ thạch bàn",
+    "secondary_keywords": [
+      "đền trấn vũ long biên",
+      "tượng huyền thiên trấn vũ thạch bàn",
+      "kéo co ngồi thạch bàn",
+      "lễ hội đền trấn vũ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Long Biên, Gia Lâm hoặc khách thuê xe muốn biết đền Trấn Vũ Thạch Bàn ở đâu, có gì khác đền Quán Thánh và khi nào có hội kéo co ngồi.",
+    "information_gain": "/du-lich/den-quan-thanh/ chỉ nói tượng Trấn Vũ ở Ba Đình; /du-lich/den-ghenh-long-bien/ và /du-lich/dinh-le-mat-long-bien/ là di tích Long Biên khác. Chưa trang nào về đền Trấn Vũ Thạch Bàn: tượng đồng cao 3,8 m nặng 9 tấn đúc 14 năm (1788–1802), đền khởi dựng thời Lê Thánh Tông, quay hướng Bắc, hội 1–4/3 âm lịch (chính hội 3/3) với kéo co ngồi.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-tran-vu-quan-long-bien-74539.html",
+        "quote": "Người Hà Nội, 'Đền Trấn Vũ (quận Long Biên)' (đọc 16/10/2026): đền ở phường Thạch Bàn, khởi dựng thời Lê Thánh Tông (1460–1496), xây lại hoàn toàn thời Nguyễn, trùng tu lớn 2006–2007, quay hướng Bắc; Thượng cung đặt tượng đồng Trấn Vũ cao 3,8 m, chu vi 8 m, nặng 9 tấn, đúc 14 năm từ 1788 đến 1802; hội ngày 3/3 âm lịch (ngày sinh) và 9/9 âm lịch (ngày hóa), có trò kéo co luồn dây qua lỗ cột.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/den-tran-vu-noi-luu-giu-nhieu-di-san-quy-34153.vov2",
+        "quote": "VOV2, 'Đền Trấn Vũ nơi lưu giữ nhiều di sản quý' (đọc 16/10/2026): đền ở phường Thạch Bàn, gồm tiền tế, trung đường, hậu cung; tượng Huyền thiên Trấn Vũ đúc xong năm 1802, được công nhận bảo vật quốc gia năm 2015; kéo co ngồi của lễ hội được UNESCO ghi danh di sản phi vật thể đại diện của nhân loại.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tung-bung-le-hoi-truyen-thong-den-tran-vu-post869022.html",
+        "quote": "Nhân Dân, 'Tưng bừng lễ hội truyền thống đền Trấn Vũ' (31/3/2025, đọc 16/10/2026): lễ hội tổ chức thường niên từ 1/3 đến hết 4/3 âm lịch, chính hội 3/3 âm lịch, ngày sinh Đức thánh Huyền Thiên Trấn Vũ, tại phường Thạch Bàn, Long Biên.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 10,
+        "checked": "2026-10-16",
+        "keyword": "đền trấn vũ thạch bàn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đền Trấn Vũ Thạch Bàn ở đâu, đi từ Long Biên thế nào",
+      "Lịch sử: từ thời Lê Thánh Tông đến lần xây lại thời Nguyễn",
+      "Tượng đồng Trấn Vũ 1788–1802: kích thước và vì sao là bảo vật quốc gia",
+      "Lễ hội 1–4/3 âm lịch và kéo co ngồi",
+      "Khác gì đền Quán Thánh",
+      "Lưu ý khi đi lễ: trang phục, gửi xe, giờ đông khách"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-quan-thanh/",
+      "/du-lich/den-ghenh-long-bien/",
+      "/du-lich/dinh-le-mat-long-bien/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01262.json",
+  "draft_template": {
+    "id": "TM-01262",
+    "url": "/du-lich/den-tran-vu-thach-ban/",
+    "title": "Đền Trấn Vũ Thạch Bàn: tượng đồng Trấn Vũ 1802 và hội kéo co ngồi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền trấn vũ thạch bàn, đền trấn vũ long biên, tượng huyền thiên trấn vũ thạch bàn, kéo co ngồi thạch bàn, lễ hội đền trấn vũ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Trấn Vũ Thạch Bàn ở đâu, đi từ Long Biên thế nào",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: từ thời Lê Thánh Tông đến lần xây lại thời Nguyễn",
+        "<p></p>"
+      ],
+      [
+        "Tượng đồng Trấn Vũ 1788–1802: kích thước và vì sao là bảo vật quốc gia",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 1–4/3 âm lịch và kéo co ngồi",
+        "<p></p>"
+      ],
+      [
+        "Khác gì đền Quán Thánh",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi lễ: trang phục, gửi xe, giờ đông khách",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/den-tran-vu-quan-long-bien-74539.html",
+        "quote": "Người Hà Nội, 'Đền Trấn Vũ (quận Long Biên)' (đọc 16/10/2026): đền ở phường Thạch Bàn, khởi dựng thời Lê Thánh Tông (1460–1496), xây lại hoàn toàn thời Nguyễn, trùng tu lớn 2006–2007, quay hướng Bắc; Thượng cung đặt tượng đồng Trấn Vũ cao 3,8 m, chu vi 8 m, nặng 9 tấn, đúc 14 năm từ 1788 đến 1802; hội ngày 3/3 âm lịch (ngày sinh) và 9/9 âm lịch (ngày hóa), có trò kéo co luồn dây qua lỗ cột.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vov2.vov.vn/van-hoa-giai-tri/den-tran-vu-noi-luu-giu-nhieu-di-san-quy-34153.vov2",
+        "quote": "VOV2, 'Đền Trấn Vũ nơi lưu giữ nhiều di sản quý' (đọc 16/10/2026): đền ở phường Thạch Bàn, gồm tiền tế, trung đường, hậu cung; tượng Huyền thiên Trấn Vũ đúc xong năm 1802, được công nhận bảo vật quốc gia năm 2015; kéo co ngồi của lễ hội được UNESCO ghi danh di sản phi vật thể đại diện của nhân loại.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/tung-bung-le-hoi-truyen-thong-den-tran-vu-post869022.html",
+        "quote": "Nhân Dân, 'Tưng bừng lễ hội truyền thống đền Trấn Vũ' (31/3/2025, đọc 16/10/2026): lễ hội tổ chức thường niên từ 1/3 đến hết 4/3 âm lịch, chính hội 3/3 âm lịch, ngày sinh Đức thánh Huyền Thiên Trấn Vũ, tại phường Thạch Bàn, Long Biên.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01262"
+  }
+}

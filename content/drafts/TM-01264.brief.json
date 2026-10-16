@@ -1,0 +1,131 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T15:16:53.529655+00:00",
+  "topic": {
+    "topic_id": "TM-01264",
+    "url": "/du-lich/dinh-nhat-tao/",
+    "title": "Đình Nhật Tảo Đông Ngạc: nơi giữ chuông Nhật Tảo năm 948",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình nhật tảo",
+    "secondary_keywords": [
+      "chuông nhật tảo",
+      "chuông nhật tảo bảo vật quốc gia",
+      "đình nhật tảo đông ngạc",
+      "cung tĩnh vương trần nguyên trác"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích lịch sử muốn biết chuông Nhật Tảo là gì, vì sao là bảo vật quốc gia và có xem được ở đình Nhật Tảo không.",
+    "information_gain": "/du-lich/lang-co-dong-ngac/ nói làng tiến sĩ Đông Ngạc, không nói đình Nhật Tảo và quả chuông. Bài mới cho: chuông đồng nặng 6 kg đúc năm 948, chuyện dân làng cất đồ thờ ra văn chỉ khi Pháp chiếm đình 1953 và phát hiện lại thập niên 1980–1995, đình thờ Cung Tĩnh vương Trần Nguyên Trác, vị trí ven đê sông Hồng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/bao-vat-an-minh-nghin-nam-4098978.html",
+        "quote": "VnExpress, 'Bảo vật ẩn mình nghìn năm' (đọc 16/10/2026): năm 1953 lính Pháp chiếm đình Nhật Tảo; dân làng chuyển đồ thờ ra văn chỉ, trong đó có chiếc chuông đồng nặng 6 kg, thân khắc kín chữ Hán, đúc năm 948; đình ven đê sông Hồng, thờ Cung Tĩnh vương Trần Nguyên Trác, người được phong ấp tại đây năm 1339.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/vi-sao-chuong-nhat-tao-duoc-coi-la-bao-vat-quoc-gia-616000.html",
+        "quote": "VietNamNet, 'Vì sao chuông Nhật Tảo được coi là bảo vật quốc gia?' (đọc 16/10/2026): chuông là cổ vật độc bản, bài minh là một trong những sử liệu chữ viết sớm nhất thời tự chủ; lưu giữ tại di tích đình Nhật Tảo, phường Đông Ngạc, Bắc Từ Liêm; dân làng kể chuông được phát hiện khi làm hồ sơ xếp hạng tháng 3/1995, còn nhà nghiên cứu kể Phạm Văn Thắm (Viện Hán Nôm) tìm thấy năm 1987 ở miếu thờ Đức thánh Trần.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đình nhật tảo"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đình Nhật Tảo ở đâu trong phường Đông Ngạc",
+      "Chuông Nhật Tảo: năm 948, nặng 6 kg, bài minh chữ Hán",
+      "Hai câu chuyện phát hiện chuông (1987 và 1995)",
+      "Đình thờ Cung Tĩnh vương Trần Nguyên Trác",
+      "Có xem chuông được không, lưu ý bảo vệ hiện vật",
+      "Kết hợp làng cổ Đông Ngạc, đình Chèm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-co-dong-ngac/",
+      "/du-lich/dinh-chem/",
+      "/du-lich/chua-mot-cot/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01264.json",
+  "draft_template": {
+    "id": "TM-01264",
+    "url": "/du-lich/dinh-nhat-tao/",
+    "title": "Đình Nhật Tảo Đông Ngạc: nơi giữ chuông Nhật Tảo năm 948",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình nhật tảo, chuông nhật tảo, chuông nhật tảo bảo vật quốc gia, đình nhật tảo đông ngạc, cung tĩnh vương trần nguyên trác",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Nhật Tảo ở đâu trong phường Đông Ngạc",
+        "<p></p>"
+      ],
+      [
+        "Chuông Nhật Tảo: năm 948, nặng 6 kg, bài minh chữ Hán",
+        "<p></p>"
+      ],
+      [
+        "Hai câu chuyện phát hiện chuông (1987 và 1995)",
+        "<p></p>"
+      ],
+      [
+        "Đình thờ Cung Tĩnh vương Trần Nguyên Trác",
+        "<p></p>"
+      ],
+      [
+        "Có xem chuông được không, lưu ý bảo vệ hiện vật",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp làng cổ Đông Ngạc, đình Chèm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/bao-vat-an-minh-nghin-nam-4098978.html",
+        "quote": "VnExpress, 'Bảo vật ẩn mình nghìn năm' (đọc 16/10/2026): năm 1953 lính Pháp chiếm đình Nhật Tảo; dân làng chuyển đồ thờ ra văn chỉ, trong đó có chiếc chuông đồng nặng 6 kg, thân khắc kín chữ Hán, đúc năm 948; đình ven đê sông Hồng, thờ Cung Tĩnh vương Trần Nguyên Trác, người được phong ấp tại đây năm 1339.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/vi-sao-chuong-nhat-tao-duoc-coi-la-bao-vat-quoc-gia-616000.html",
+        "quote": "VietNamNet, 'Vì sao chuông Nhật Tảo được coi là bảo vật quốc gia?' (đọc 16/10/2026): chuông là cổ vật độc bản, bài minh là một trong những sử liệu chữ viết sớm nhất thời tự chủ; lưu giữ tại di tích đình Nhật Tảo, phường Đông Ngạc, Bắc Từ Liêm; dân làng kể chuông được phát hiện khi làm hồ sơ xếp hạng tháng 3/1995, còn nhà nghiên cứu kể Phạm Văn Thắm (Viện Hán Nôm) tìm thấy năm 1987 ở miếu thờ Đức thánh Trần.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01264"
+  }
+}

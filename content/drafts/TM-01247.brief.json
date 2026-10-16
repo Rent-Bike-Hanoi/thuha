@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:16:52.536706+00:00",
+  "topic": {
+    "topic_id": "TM-01247",
+    "url": "/du-lich/bao-tang-tinh-tuyen-quang/",
+    "title": "Bảo tàng tỉnh Tuyên Quang: hơn 23.000 hiện vật, kỷ vật kháng chiến",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng tỉnh tuyên quang",
+    "secondary_keywords": [
+      "bảo tàng tuyên quang",
+      "bảo tàng tuyên quang có gì",
+      "hiện vật thời lý trần tuyên quang",
+      "kỷ vật chiến tranh tuyên quang"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách lên Tân Trào, Na Hang ghé thành phố Tuyên Quang muốn biết bảo tàng tỉnh có gì đáng xem và ai quản lý các di tích quanh vùng.",
+    "information_gain": "Site có /du-lich/thanh-nha-mac-tuyen-quang/, /du-lich/kim-binh-chiem-hoa/, /du-lich/tan-trao-di-xe-may-tu-ha-noi/ và /du-lich/bao-tang-tinh-ha-giang/ (bảo tàng cơ sở Hà Giang cũ) nhưng chưa có bài về bảo tàng ở Tuyên Quang. Bài mới cho: hơn 23.000 tài liệu, hiện vật (8.425 tài liệu, 14.910 hiện vật, trên 5.000 về kháng chiến), hiện vật khảo cổ thời Lý–Trần; việc bảo tàng quản lý khu Kim Bình, Kiên Đài, khu cách mạng Lào Mỹ Bằng — giúp ghép chuyến đi.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://www.dulichvn.org.vn/index.php/item/bao-tang-tinh-tuyen-quang-noi-luu-giu-nhung-ky-vat-chien-tranh-38382",
+        "quote": "Cục Du lịch Quốc gia (dulichvn.org.vn), 'Bảo tàng tỉnh Tuyên Quang: Nơi lưu giữ những kỷ vật chiến tranh' (08/07/2019, đọc 16/10/2026): lưu giữ trên 23.000 tài liệu, hiện vật, gồm 8.425 tài liệu, 14.910 hiện vật, trên 5.000 về kháng chiến chống Pháp và Mỹ; hiện vật khảo cổ quý thời Lý, Trần; bảo tàng quản lý 452/635 di tích của tỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://sovhttdl.tuyenquang.gov.vn/vi/tin-bai/bao-tang-tinh?type=NEWS&id=81396",
+        "quote": "Sở VHTTDL Tuyên Quang, 'Bảo tàng tỉnh' (01/06/2023, đọc 16/10/2026): đơn vị trực thuộc Sở, quản lý Khu di tích lịch sử Kim Bình, khu di tích Kiên Đài (Chiêm Hóa) và khu di tích Cách mạng Lào xã Mỹ Bằng (Yên Sơn); nhiệm vụ trưng bày tài liệu, hiện vật và di sản phi vật thể.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 590,
+        "checked": "2026-10-16",
+        "keyword": "bảo tàng tỉnh tuyên quang"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Bảo tàng tỉnh Tuyên Quang nằm ở đâu",
+      "Kho hiện vật: con số và nhóm sưu tập chính",
+      "Hiện vật khảo cổ thời Lý – Trần",
+      "Kỷ vật kháng chiến chống Pháp, chống Mỹ",
+      "Các di tích bảo tàng quản lý quanh tỉnh",
+      "Ghép vào chuyến xe máy Tân Trào – thành Tuyên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-nha-mac-tuyen-quang/",
+      "/du-lich/kim-binh-chiem-hoa/",
+      "/du-lich/tan-trao-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01247.json",
+  "draft_template": {
+    "id": "TM-01247",
+    "url": "/du-lich/bao-tang-tinh-tuyen-quang/",
+    "title": "Bảo tàng tỉnh Tuyên Quang: hơn 23.000 hiện vật, kỷ vật kháng chiến",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng tỉnh tuyên quang, bảo tàng tuyên quang, bảo tàng tuyên quang có gì, hiện vật thời lý trần tuyên quang, kỷ vật chiến tranh tuyên quang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng tỉnh Tuyên Quang nằm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Kho hiện vật: con số và nhóm sưu tập chính",
+        "<p></p>"
+      ],
+      [
+        "Hiện vật khảo cổ thời Lý – Trần",
+        "<p></p>"
+      ],
+      [
+        "Kỷ vật kháng chiến chống Pháp, chống Mỹ",
+        "<p></p>"
+      ],
+      [
+        "Các di tích bảo tàng quản lý quanh tỉnh",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào chuyến xe máy Tân Trào – thành Tuyên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://www.dulichvn.org.vn/index.php/item/bao-tang-tinh-tuyen-quang-noi-luu-giu-nhung-ky-vat-chien-tranh-38382",
+        "quote": "Cục Du lịch Quốc gia (dulichvn.org.vn), 'Bảo tàng tỉnh Tuyên Quang: Nơi lưu giữ những kỷ vật chiến tranh' (08/07/2019, đọc 16/10/2026): lưu giữ trên 23.000 tài liệu, hiện vật, gồm 8.425 tài liệu, 14.910 hiện vật, trên 5.000 về kháng chiến chống Pháp và Mỹ; hiện vật khảo cổ quý thời Lý, Trần; bảo tàng quản lý 452/635 di tích của tỉnh.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://sovhttdl.tuyenquang.gov.vn/vi/tin-bai/bao-tang-tinh?type=NEWS&id=81396",
+        "quote": "Sở VHTTDL Tuyên Quang, 'Bảo tàng tỉnh' (01/06/2023, đọc 16/10/2026): đơn vị trực thuộc Sở, quản lý Khu di tích lịch sử Kim Bình, khu di tích Kiên Đài (Chiêm Hóa) và khu di tích Cách mạng Lào xã Mỹ Bằng (Yên Sơn); nhiệm vụ trưng bày tài liệu, hiện vật và di sản phi vật thể.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01247"
+  }
+}

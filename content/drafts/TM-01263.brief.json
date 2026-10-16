@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T15:16:52.537486+00:00",
+  "topic": {
+    "topic_id": "TM-01263",
+    "url": "/du-lich/chua-sui-phu-thi/",
+    "title": "Chùa Sủi Phú Thị Gia Lâm: chùa gắn Ỷ Lan, 73 pho tượng cổ",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa sủi gia lâm",
+    "secondary_keywords": [
+      "chùa phú thị",
+      "đình đền chùa phú thị",
+      "chùa đại dương sùng phúc",
+      "lễ hội làng sủi"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở phía đông Hà Nội muốn đi lễ một ngôi chùa cổ gần Trâu Quỳ, cần biết chùa Sủi ở đâu, liên quan Ỷ Lan thế nào và nên xem gì.",
+    "information_gain": "/du-lich/chua-dao-xuyen-gia-lam/, /du-lich/den-chua-ba-tam-gia-lam/ và /du-lich/den-phu-dong-gia-lam/ là di tích Gia Lâm khác; chưa có bài cụm đình–đền–chùa Phú Thị. Bài mới cho: đường đi từ quốc lộ 5 qua Trâu Quỳ rẽ tỉnh lộ 282, cụm xếp hạng quốc gia năm 1989, tu bổ 2005–2006, tên chữ Đại Dương Sùng Phúc tự, chuyện nguyên phi Ỷ Lan và 73 pho tượng thế kỷ 17–19.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/hoan-thanh-tu-bo-cum-di-tich-quoc-gia-dinh-den-chua-phu-thi-172333.htm",
+        "quote": "Tuổi Trẻ, 'Hoàn thành tu bổ cụm di tích quốc gia đình-đền-chùa Phú Thị' (đọc 16/10/2026): quần thể nằm trong khu đất làng Sủi, xếp hạng di tích cấp quốc gia năm 1989; công trình tu bổ khởi công 10/2005, tổng kinh phí hơn 5 tỷ đồng, gồm đại bái, hậu cung đình chùa, tiền tế đền, nhà bia, tháp chuông, nhà thờ tổ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://ngaynay.vn/phatgiao/chua-sui-doc-dao-ngoi-chua-nguyen-phi-y-lan-tung-nhiep-chinh-post90851.html",
+        "quote": "Ngày Nay, 'Chùa Sủi - độc đáo ngôi chùa nguyên phi Ỷ Lan từng nhiếp chính' (đọc 16/10/2026): chùa Phú Thị tên chữ Đại Dương tự/Đại Dương Sùng Phúc tự; đường đi từ trung tâm qua cầu Chương Dương/Vĩnh Tuy/Thanh Trì theo quốc lộ 5, qua Trâu Quỳ 3 km rẽ trái, đi tiếp khoảng 1,5 km theo tỉnh lộ 282; chùa lưu giữ 73 pho tượng cổ thế kỷ 17–19, có tượng Thái hậu Ỷ Lan.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 90,
+        "checked": "2026-10-16",
+        "keyword": "chùa sủi gia lâm"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chùa Sủi ở đâu, đường đi từ Long Biên qua Trâu Quỳ",
+      "Cụm đình – đền – chùa Phú Thị và lần xếp hạng 1989",
+      "Nguyên phi Ỷ Lan và tên Đại Dương Sùng Phúc tự",
+      "73 pho tượng cổ nên xem",
+      "Hội làng Sủi tháng Ba",
+      "Kết hợp chùa Đào Xuyên, đền chùa Bà Tấm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-dao-xuyen-gia-lam/",
+      "/du-lich/den-chua-ba-tam-gia-lam/",
+      "/du-lich/den-phu-dong-gia-lam/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01263.json",
+  "draft_template": {
+    "id": "TM-01263",
+    "url": "/du-lich/chua-sui-phu-thi/",
+    "title": "Chùa Sủi Phú Thị Gia Lâm: chùa gắn Ỷ Lan, 73 pho tượng cổ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa sủi gia lâm, chùa phú thị, đình đền chùa phú thị, chùa đại dương sùng phúc, lễ hội làng sủi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Sủi ở đâu, đường đi từ Long Biên qua Trâu Quỳ",
+        "<p></p>"
+      ],
+      [
+        "Cụm đình – đền – chùa Phú Thị và lần xếp hạng 1989",
+        "<p></p>"
+      ],
+      [
+        "Nguyên phi Ỷ Lan và tên Đại Dương Sùng Phúc tự",
+        "<p></p>"
+      ],
+      [
+        "73 pho tượng cổ nên xem",
+        "<p></p>"
+      ],
+      [
+        "Hội làng Sủi tháng Ba",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp chùa Đào Xuyên, đền chùa Bà Tấm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tuoitre.vn/hoan-thanh-tu-bo-cum-di-tich-quoc-gia-dinh-den-chua-phu-thi-172333.htm",
+        "quote": "Tuổi Trẻ, 'Hoàn thành tu bổ cụm di tích quốc gia đình-đền-chùa Phú Thị' (đọc 16/10/2026): quần thể nằm trong khu đất làng Sủi, xếp hạng di tích cấp quốc gia năm 1989; công trình tu bổ khởi công 10/2005, tổng kinh phí hơn 5 tỷ đồng, gồm đại bái, hậu cung đình chùa, tiền tế đền, nhà bia, tháp chuông, nhà thờ tổ.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://ngaynay.vn/phatgiao/chua-sui-doc-dao-ngoi-chua-nguyen-phi-y-lan-tung-nhiep-chinh-post90851.html",
+        "quote": "Ngày Nay, 'Chùa Sủi - độc đáo ngôi chùa nguyên phi Ỷ Lan từng nhiếp chính' (đọc 16/10/2026): chùa Phú Thị tên chữ Đại Dương tự/Đại Dương Sùng Phúc tự; đường đi từ trung tâm qua cầu Chương Dương/Vĩnh Tuy/Thanh Trì theo quốc lộ 5, qua Trâu Quỳ 3 km rẽ trái, đi tiếp khoảng 1,5 km theo tỉnh lộ 282; chùa lưu giữ 73 pho tượng cổ thế kỷ 17–19, có tượng Thái hậu Ỷ Lan.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01263"
+  }
+}

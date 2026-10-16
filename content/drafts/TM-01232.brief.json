@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T15:16:52.788320+00:00",
+  "topic": {
+    "topic_id": "TM-01232",
+    "url": "/xe-may/honda-cbr1000rr-r-fireblade-sp/",
+    "title": "Honda CBR1000RR-R Fireblade SP: giá 1,051 tỷ, bản duy nhất ở VN",
+    "hub": "xe-may",
+    "subtopic": "mau-xe",
+    "primary_keyword": "honda cbr1000rr-r fireblade",
+    "secondary_keywords": [
+      "fireblade sp 2024",
+      "giá cbr1000rr-r",
+      "cbr1000rr-r việt nam",
+      "honda fireblade"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mê superbike muốn biết Fireblade chính hãng tại Việt Nam bán bản nào, giá bao nhiêu và nâng cấp gì so với đời trước.",
+    "information_gain": "/xe-may/honda-cbr500r/ chỉ nhắc Fireblade trong bảng giá; chưa trang nào trả lời riêng. Bài mới cho: chỉ có bản SP, màu đỏ-xanh-trắng, giá 1,051 tỷ, bán từ 28/10/2024 tại DreamWing; ga điện tử hai mô-tơ, cánh gió mới giảm 10% lực cản khi chuyển hướng, bình xăng thấp hơn tăng 0,4 lít.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/san-pham/cbr1000rr-r-fireblade-sp-2024",
+        "quote": "Honda Việt Nam, 'CBR1000RR-R Fireblade SP 2024' (đọc 16/10/2026): giá bán lẻ đề xuất 1.051.000.000 VNĐ; ga điện tử TBW hai mô-tơ điều khiển riêng từng cặp xi-lanh; bình xăng thiết kế thấp, tăng 0,4 l; cánh gió mới giảm 10% lực cản khi chuyển hướng tốc độ cao.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://cafef.vn/sieu-mo-tohonda-cbr1000rr-r-fireblade-2024-chot-gia-hon-1-ty-tai-viet-nam-188241024093949328.chn",
+        "quote": "CafeF, 'Siêu mô tô Honda CBR1000RR-R Fireblade 2024 chốt giá hơn 1 tỷ tại Việt Nam' (24/10/2024, đọc 16/10/2026): ra mắt tại VMS 2024, chỉ một bản SP màu đỏ xanh; 4 xi-lanh thẳng hàng 1.000 cc; bán từ 28/10/2024 tại DreamWing, giá đề xuất 1,051 tỷ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://autobikes.vn/honda-cbr1000rr-r-fireblade-2024-chot-gia-hon-1-ty-dong-tai-viet-nam-19840.html",
+        "quote": "AutoBikes, 'Honda CBR1000RR-R Fireblade 2024 chốt giá hơn 1 tỷ đồng tại Việt Nam' (24/10/2024, đọc 16/10/2026): duy nhất bản SP màu đỏ xanh trắng, giá đề xuất 1,051 tỷ; cải tiến van nạp/xả, trục cam, tỷ số nén, giảm trọng lượng trục khuỷu, có hỗ trợ từ chương trình MotoGP của HRC.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 50,
+        "checked": "2026-10-16",
+        "keyword": "honda cbr1000rr-r fireblade"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Fireblade ở Việt Nam bán bản nào và giá bao nhiêu",
+      "Động cơ 1.000 cc 4 xi-lanh được cải tiến gì",
+      "Ga điện tử hai mô-tơ hoạt động thế nào",
+      "Cánh gió, bình xăng và tư thế lái mới",
+      "Fireblade SP khác CBR500R/CBR650R trong dải sport Honda",
+      "Điều kiện bằng lái và nơi bán"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/honda-cbr500r/",
+      "/xe-may/honda-cbr150r/",
+      "/xe-may/yamaha-yzf-r3/",
+      "/bang-gia/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01232.json",
+  "draft_template": {
+    "id": "TM-01232",
+    "url": "/xe-may/honda-cbr1000rr-r-fireblade-sp/",
+    "title": "Honda CBR1000RR-R Fireblade SP: giá 1,051 tỷ, bản duy nhất ở VN",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "honda cbr1000rr-r fireblade, fireblade sp 2024, giá cbr1000rr-r, cbr1000rr-r việt nam, honda fireblade",
+    "excerpt": "",
+    "sections": [
+      [
+        "Fireblade ở Việt Nam bán bản nào và giá bao nhiêu",
+        "<p></p>"
+      ],
+      [
+        "Động cơ 1.000 cc 4 xi-lanh được cải tiến gì",
+        "<p></p>"
+      ],
+      [
+        "Ga điện tử hai mô-tơ hoạt động thế nào",
+        "<p></p>"
+      ],
+      [
+        "Cánh gió, bình xăng và tư thế lái mới",
+        "<p></p>"
+      ],
+      [
+        "Fireblade SP khác CBR500R/CBR650R trong dải sport Honda",
+        "<p></p>"
+      ],
+      [
+        "Điều kiện bằng lái và nơi bán",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://www.honda.com.vn/xe-may/san-pham/cbr1000rr-r-fireblade-sp-2024",
+        "quote": "Honda Việt Nam, 'CBR1000RR-R Fireblade SP 2024' (đọc 16/10/2026): giá bán lẻ đề xuất 1.051.000.000 VNĐ; ga điện tử TBW hai mô-tơ điều khiển riêng từng cặp xi-lanh; bình xăng thiết kế thấp, tăng 0,4 l; cánh gió mới giảm 10% lực cản khi chuyển hướng tốc độ cao.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://cafef.vn/sieu-mo-tohonda-cbr1000rr-r-fireblade-2024-chot-gia-hon-1-ty-tai-viet-nam-188241024093949328.chn",
+        "quote": "CafeF, 'Siêu mô tô Honda CBR1000RR-R Fireblade 2024 chốt giá hơn 1 tỷ tại Việt Nam' (24/10/2024, đọc 16/10/2026): ra mắt tại VMS 2024, chỉ một bản SP màu đỏ xanh; 4 xi-lanh thẳng hàng 1.000 cc; bán từ 28/10/2024 tại DreamWing, giá đề xuất 1,051 tỷ.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://autobikes.vn/honda-cbr1000rr-r-fireblade-2024-chot-gia-hon-1-ty-dong-tai-viet-nam-19840.html",
+        "quote": "AutoBikes, 'Honda CBR1000RR-R Fireblade 2024 chốt giá hơn 1 tỷ đồng tại Việt Nam' (24/10/2024, đọc 16/10/2026): duy nhất bản SP màu đỏ xanh trắng, giá đề xuất 1,051 tỷ; cải tiến van nạp/xả, trục cam, tỷ số nén, giảm trọng lượng trục khuỷu, có hỗ trợ từ chương trình MotoGP của HRC.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01232"
+  }
+}
