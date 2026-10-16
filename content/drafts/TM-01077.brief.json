@@ -1,0 +1,141 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T01:24:30.558352+00:00",
+  "topic": {
+    "topic_id": "TM-01077",
+    "url": "/du-lich/chua-nanh-ninh-hiep/",
+    "title": "Chùa Nành Ninh Hiệp: chùa Pháp Vân, thủy đình 8 mái và chuông năm 1653",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa nành",
+    "secondary_keywords": [
+      "chùa pháp vân ninh hiệp",
+      "chùa cả ninh hiệp",
+      "chùa nành gia lâm",
+      "chùa tứ pháp hà nội"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi chợ vải Ninh Hiệp hoặc khách thích chùa cổ muốn biết chùa Nành có gì đáng xem, vì sao gọi là chùa Pháp Vân và kết hợp đi chợ thế nào.",
+    "information_gain": "/du-lich/cho-ninh-hiep/ chỉ nói chợ vải Nành và gửi xe; /du-lich/den-phu-dong-gia-lam/ và /du-lich/den-chua-ba-tam-gia-lam/ là di tích khác. Chưa trang nào về chùa Nành. Bài mới cho: các tên gọi (chùa Cả, Pháp Vân tự, Đại Thiền tự); một trong bốn chùa thờ Tứ Pháp lớn nhất miền Bắc; lối vào bằng Ngũ môn thay Tam quan; kiến trúc 'nội công ngoại quốc', lầu chuông khánh hai bên tiền đường; thủy đình 2 tầng 8 mái trên hồ gắn với bà Chiêu nghi Nguyễn Thị Huyền; 116 pho tượng; chuông 'Pháp Vân tự hồng chung' 1653. Khác /du-lich/cho-ninh-hiep/ (chợ vải, mua sắm): bài này chỉ nói ngôi chùa Pháp Vân, kiến trúc và di tích.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2775",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, trang điểm đến 'Chùa Nành' (đọc 16/10/2026): cách trung tâm Hà Nội khoảng 17 km về phía đông bắc, xã Ninh Hiệp; một trong bốn chùa thờ Tứ Pháp lớn nhất miền Bắc; còn gọi chùa Pháp Vân, chùa Cả; làng có 3 chùa (Cả, Khánh Ninh 1664, Đại Bi 1673); thủy đình 2 tầng 8 mái trên hồ, tương truyền do bà Chiêu nghi Nguyễn Thị Huyền (vợ vua Cảnh Hưng) dựng thế kỷ 18 làm nơi múa rối nước; cổng ngũ môn 2 tầng vòm cuốn đá xanh; tiền đường 7 gian 2 dĩ, thiêu hương 6 gian, thượng điện 3 gian; 116 pho tượng; chuông 'Pháp Vân tự hồng chung' niên hiệu Thịnh Đức 1 (1653).",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-nanh-huyen-gia-lam-76510.html",
+        "quote": "Tạp chí Người Hà Nội, 'Chùa Nành (huyện Gia Lâm)' (đọc 16/10/2026): xưa là thôn Phù Ninh (tên nôm Nành), trấn Kinh Bắc; chùa có tên chùa Cả, chùa Nành, chùa Ninh Hiệp, Đại Thiền tự, Pháp Vân tự; tiền thân có thể là đền thờ bà chúa Nành; bia ghi trùng tu dựng các năm 1583, 1675, 1733, 1743, 1784, 1790; lối vào bằng Ngũ môn (không bắt đầu bằng Tam quan); kiến trúc kiểu 'nội công ngoại quốc' có thêm toà Tiền đường trong; lầu chuông, khánh chồng diêm hai bên tiền đường ngoài.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1000,
+        "checked": "2026-10-16",
+        "keyword": "chùa nành"
+      }
+    ],
+    "notes": "Khoảng cách 17 km theo Cục Du lịch; giacngo.vn (chỉ xem snippet, không dùng) nói 20 km. Không có nguồn mở được về giờ mở cửa/gửi xe; người viết không tự thêm. Tên xã hiện tại sau sáp nhập 2025 cần kiểm tra lại (Gia Lâm cũ).",
+    "outline": [
+      "Chùa Nành ở đâu, vì sao có nhiều tên",
+      "Chùa Tứ Pháp và tích tượng Pháp Vân",
+      "Ngũ môn, thủy đình 8 mái và mặt bằng 'nội công ngoại quốc'",
+      "Tượng, bia và chuông 1653 nên xem",
+      "Đi xe máy từ Long Biên, ghép với chợ Ninh Hiệp và đền Phù Đổng",
+      "Lưu ý trang phục, giờ viếng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/cho-ninh-hiep/",
+      "/du-lich/den-phu-dong-gia-lam/",
+      "/du-lich/den-chua-ba-tam-gia-lam/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/cho-ninh-hiep/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.402
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/cho-ninh-hiep/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01077.json",
+  "draft_template": {
+    "id": "TM-01077",
+    "url": "/du-lich/chua-nanh-ninh-hiep/",
+    "title": "Chùa Nành Ninh Hiệp: chùa Pháp Vân, thủy đình 8 mái và chuông năm 1653",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa nành, chùa pháp vân ninh hiệp, chùa cả ninh hiệp, chùa nành gia lâm, chùa tứ pháp hà nội",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Nành ở đâu, vì sao có nhiều tên",
+        "<p></p>"
+      ],
+      [
+        "Chùa Tứ Pháp và tích tượng Pháp Vân",
+        "<p></p>"
+      ],
+      [
+        "Ngũ môn, thủy đình 8 mái và mặt bằng 'nội công ngoại quốc'",
+        "<p></p>"
+      ],
+      [
+        "Tượng, bia và chuông 1653 nên xem",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên, ghép với chợ Ninh Hiệp và đền Phù Đổng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý trang phục, giờ viếng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vietnamtourism.vn/index.php/tourism/items/2775",
+        "quote": "Cục Du lịch Quốc gia Việt Nam, trang điểm đến 'Chùa Nành' (đọc 16/10/2026): cách trung tâm Hà Nội khoảng 17 km về phía đông bắc, xã Ninh Hiệp; một trong bốn chùa thờ Tứ Pháp lớn nhất miền Bắc; còn gọi chùa Pháp Vân, chùa Cả; làng có 3 chùa (Cả, Khánh Ninh 1664, Đại Bi 1673); thủy đình 2 tầng 8 mái trên hồ, tương truyền do bà Chiêu nghi Nguyễn Thị Huyền (vợ vua Cảnh Hưng) dựng thế kỷ 18 làm nơi múa rối nước; cổng ngũ môn 2 tầng vòm cuốn đá xanh; tiền đường 7 gian 2 dĩ, thiêu hương 6 gian, thượng điện 3 gian; 116 pho tượng; chuông 'Pháp Vân tự hồng chung' niên hiệu Thịnh Đức 1 (1653).",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nguoihanoi.vn/chua-nanh-huyen-gia-lam-76510.html",
+        "quote": "Tạp chí Người Hà Nội, 'Chùa Nành (huyện Gia Lâm)' (đọc 16/10/2026): xưa là thôn Phù Ninh (tên nôm Nành), trấn Kinh Bắc; chùa có tên chùa Cả, chùa Nành, chùa Ninh Hiệp, Đại Thiền tự, Pháp Vân tự; tiền thân có thể là đền thờ bà chúa Nành; bia ghi trùng tu dựng các năm 1583, 1675, 1733, 1743, 1784, 1790; lối vào bằng Ngũ môn (không bắt đầu bằng Tam quan); kiến trúc kiểu 'nội công ngoại quốc' có thêm toà Tiền đường trong; lầu chuông, khánh chồng diêm hai bên tiền đường ngoài.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01077"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T01:24:30.287385+00:00",
+  "topic": {
+    "topic_id": "TM-01073",
+    "url": "/du-lich/thac-khe-van-binh-lieu/",
+    "title": "Thác Khe Vằn Bình Liêu: thác 3 tầng cao khoảng 100 m, đường vào Húc Động",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác khe vằn",
+    "secondary_keywords": [
+      "thác khe vằn bình liêu",
+      "khe vằn húc động",
+      "thác lớn nhất quảng ninh",
+      "đường vào thác khe vằn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Bình Liêu ngắm sống lưng khủng long, mùa cỏ lau muốn ghép thêm một thác nước, cần biết Khe Vằn ở đâu, đi xe máy vào thế nào, đi bộ bao lâu.",
+    "information_gain": "/du-lich/binh-lieu-song-lung-khung-long/ nói sống lưng khủng long và đường biên, không nhắc Khe Vằn. Bài mới cho: thác thuộc xã Húc Động, cách trung tâm Bình Liêu 12–15 km, cách Hạ Long 100 km; đi xe máy tới UBND xã Húc Động rồi thêm khoảng 3 km đến điểm dừng thôn Khe Vằn, đi bộ khoảng 15 phút tới chân thác; thác cao khoảng 100 m, 3 tầng; đường lên thôn trên đỉnh hẹp, hợp xe số.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=2189",
+        "quote": "Cổng thông tin du lịch Quảng Ninh, 'Thác Khe Vằn: Điểm du lịch hút khách ở vùng cao' (đọc 16/10/2026): thác thuộc xã Húc Động, huyện Bình Liêu, cách TP Hạ Long 100 km, cách trung tâm thị trấn Bình Liêu khoảng 12 km về hướng đông nam; đi ô tô hoặc xe máy đến UBND xã Húc Động, thêm khoảng 3 km là điểm dừng chân thôn Khe Vằn, từ bãi đỗ đi bộ khoảng 15 phút tới chân thác; thác cao khoảng 100 m, chia 3 tầng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/thac-nuoc-dep-nhu-tranh-o-mien-bien-ai-quang-ninh-18523112617185524.htm",
+        "quote": "Báo Thanh Niên, 'Thác nước đẹp như tranh ở miền biên ải' (27/11/2023, đọc 16/10/2026): Khe Vằn cách Bình Liêu khoảng 15 km, thuộc xã Húc Động; đường vào thác là đường nhựa; thác 3 tầng, được giới thiệu là thác nước lớn nhất Quảng Ninh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/thac-khe-van-2209537.html",
+        "quote": "Báo Quảng Ninh, 'Thác Khe Vằn' (6/10/2013, đọc 16/10/2026): cách thị trấn Bình Liêu 15 km; tên ban đầu là Khe Vân; thác cách trụ sở UBND xã Húc Động khoảng 3 km, đi xe máy hoặc đi bộ; cao khoảng 100 m, ba tầng nước.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 2400,
+        "checked": "2026-10-16",
+        "keyword": "thác khe vằn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Thác Khe Vằn ở đâu trong Bình Liêu",
+      "Đường xe máy: qua UBND xã Húc Động vào thôn Khe Vằn",
+      "Đi bộ 15 phút tới chân thác",
+      "Ba tầng thác và mùa nước đẹp",
+      "An toàn khi tắm thác mùa mưa",
+      "Ghép sống lưng khủng long, mùa cỏ lau Bình Liêu"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/binh-lieu-song-lung-khung-long/",
+      "/du-lich/rung-ngap-man-dong-rui/",
+      "/du-lich/bien-tra-co-mong-cai/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01073.json",
+  "draft_template": {
+    "id": "TM-01073",
+    "url": "/du-lich/thac-khe-van-binh-lieu/",
+    "title": "Thác Khe Vằn Bình Liêu: thác 3 tầng cao khoảng 100 m, đường vào Húc Động",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác khe vằn, thác khe vằn bình liêu, khe vằn húc động, thác lớn nhất quảng ninh, đường vào thác khe vằn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Khe Vằn ở đâu trong Bình Liêu",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy: qua UBND xã Húc Động vào thôn Khe Vằn",
+        "<p></p>"
+      ],
+      [
+        "Đi bộ 15 phút tới chân thác",
+        "<p></p>"
+      ],
+      [
+        "Ba tầng thác và mùa nước đẹp",
+        "<p></p>"
+      ],
+      [
+        "An toàn khi tắm thác mùa mưa",
+        "<p></p>"
+      ],
+      [
+        "Ghép sống lưng khủng long, mùa cỏ lau Bình Liêu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulich.quangninh.gov.vn/Trang/ChiTietTinTuc.aspx?nid=2189",
+        "quote": "Cổng thông tin du lịch Quảng Ninh, 'Thác Khe Vằn: Điểm du lịch hút khách ở vùng cao' (đọc 16/10/2026): thác thuộc xã Húc Động, huyện Bình Liêu, cách TP Hạ Long 100 km, cách trung tâm thị trấn Bình Liêu khoảng 12 km về hướng đông nam; đi ô tô hoặc xe máy đến UBND xã Húc Động, thêm khoảng 3 km là điểm dừng chân thôn Khe Vằn, từ bãi đỗ đi bộ khoảng 15 phút tới chân thác; thác cao khoảng 100 m, chia 3 tầng.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://thanhnien.vn/thac-nuoc-dep-nhu-tranh-o-mien-bien-ai-quang-ninh-18523112617185524.htm",
+        "quote": "Báo Thanh Niên, 'Thác nước đẹp như tranh ở miền biên ải' (27/11/2023, đọc 16/10/2026): Khe Vằn cách Bình Liêu khoảng 15 km, thuộc xã Húc Động; đường vào thác là đường nhựa; thác 3 tầng, được giới thiệu là thác nước lớn nhất Quảng Ninh.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baoquangninh.vn/thac-khe-van-2209537.html",
+        "quote": "Báo Quảng Ninh, 'Thác Khe Vằn' (6/10/2013, đọc 16/10/2026): cách thị trấn Bình Liêu 15 km; tên ban đầu là Khe Vân; thác cách trụ sở UBND xã Húc Động khoảng 3 km, đi xe máy hoặc đi bộ; cao khoảng 100 m, ba tầng nước.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01073"
+  }
+}

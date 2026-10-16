@@ -1,0 +1,144 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T01:24:30.287732+00:00",
+  "topic": {
+    "topic_id": "TM-01074",
+    "url": "/du-lich/thac-tac-tinh/",
+    "title": "Thác Tác Tình Tam Đường: thác cạnh QL4D cách thị trấn 1,5 km, truyền thuyết",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "thác tác tình",
+    "secondary_keywords": [
+      "thác tác tình lai châu",
+      "thác tác tình tam đường",
+      "thác tắc tình",
+      "thác đẹp lai châu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi cung Sa Pa – Lai Châu qua đèo Ô Quy Hồ muốn dừng một thác nước ngay cạnh đường, cần biết Thác Tác Tình ở đâu, cao bao nhiêu, đi bộ vào có xa không và câu chuyện tên thác.",
+    "information_gain": "/du-lich/deo-o-quy-ho/ dừng ở đèo; /du-lich/ban-vang-pheo-lai-chau/ chỉ nhắc thác 2 lần; /du-lich/ban-si-thau-chai-tam-duong/ nói bản Sì Thâu Chải. Chưa trang nào riêng về thác. Bài mới cho: thác thuộc Bình Lư, Tam Đường, cạnh QL4D cách trung tâm Tam Đường 1,5 km; chân thác rộng khoảng 40 m, hồ khoảng 200 m²; di tích danh lam thắng cảnh cấp tỉnh theo Quyết định 2352/QĐ-UBND ngày 31/12/2008; truyền thuyết đôi trai gái người Dao; mâu thuẫn chiều cao 120 m / 130 m.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://laichau.gov.vn/danh-muc/tong-quan-lai-chau/danh-lamg-thang-canh/thac-tac-tinh2.html",
+        "quote": "Cổng TTĐT tỉnh Lai Châu, 'Thác Tác Tình' (27/11/2020, theo Địa chí Lai Châu 2020, đọc 16/10/2026): thác thuộc thị trấn Bình Lư, huyện Tam Đường, giữa dãy núi Sơn Đào, bắt nguồn từ dãy Hoàng Liên Sơn; cao chừng 120 m, chân thác rộng chừng 40 m, hồ dưới chân khoảng 200 m²; gắn với truyền thuyết tình yêu đôi trai gái người Dao; ngày 31/12/2008 UBND tỉnh Lai Châu ra Quyết định 2352/QĐ-UBND xếp hạng di tích danh lam thắng cảnh cấp tỉnh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.laichau.gov.vn/vi/blog/details/thac-tac-tinh-154",
+        "quote": "Cổng du lịch Lai Châu (Sở VHTTDL), 'Thác Tác Tình' (10/7/2018, đọc 16/10/2026): cách trung tâm thị trấn Tam Đường 1,5 km, cạnh QL4D nối Sa Pa với Lai Châu; thác cao chừng 130 m, chân thác rộng khoảng 40 m, hồ khoảng 200 m²; chiều tà có thể thấy cầu vồng trên mặt nước.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/kham-pha-6-diem-checkin-hap-dan-o-tam-duong-dip-tet-duong-lich-16334.html",
+        "quote": "Báo Văn Hóa, 'Khám phá 6 điểm check-in hấp dẫn ở Tam Đường dịp Tết dương lịch' (27/12/2023, đọc 16/10/2026): thác Tác Tình ở thị trấn Tam Đường, bắt nguồn từ dãy Hoàng Liên Sơn, cao hơn 100 m; dưới chân thác có hồ khá rộng tràn thành suối chảy xuống thung lũng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 2400,
+        "checked": "2026-10-16",
+        "keyword": "thác tác tình"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Thác Tác Tình ở đâu trên QL4D",
+      "Cao 120 m hay 130 m: số liệu các nguồn",
+      "Đường đi bộ từ đường lớn vào chân thác",
+      "Truyền thuyết tên thác của người Dao",
+      "Giờ đẹp: chiều tà và cầu vồng",
+      "Ghép Sì Thâu Chải, động Tiên Sơn, đèo Ô Quy Hồ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/deo-o-quy-ho/",
+      "/du-lich/ban-si-thau-chai-tam-duong/",
+      "/du-lich/ban-vang-pheo-lai-chau/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01074.json",
+  "draft_template": {
+    "id": "TM-01074",
+    "url": "/du-lich/thac-tac-tinh/",
+    "title": "Thác Tác Tình Tam Đường: thác cạnh QL4D cách thị trấn 1,5 km, truyền thuyết",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "thác tác tình, thác tác tình lai châu, thác tác tình tam đường, thác tắc tình, thác đẹp lai châu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Thác Tác Tình ở đâu trên QL4D",
+        "<p></p>"
+      ],
+      [
+        "Cao 120 m hay 130 m: số liệu các nguồn",
+        "<p></p>"
+      ],
+      [
+        "Đường đi bộ từ đường lớn vào chân thác",
+        "<p></p>"
+      ],
+      [
+        "Truyền thuyết tên thác của người Dao",
+        "<p></p>"
+      ],
+      [
+        "Giờ đẹp: chiều tà và cầu vồng",
+        "<p></p>"
+      ],
+      [
+        "Ghép Sì Thâu Chải, động Tiên Sơn, đèo Ô Quy Hồ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://laichau.gov.vn/danh-muc/tong-quan-lai-chau/danh-lamg-thang-canh/thac-tac-tinh2.html",
+        "quote": "Cổng TTĐT tỉnh Lai Châu, 'Thác Tác Tình' (27/11/2020, theo Địa chí Lai Châu 2020, đọc 16/10/2026): thác thuộc thị trấn Bình Lư, huyện Tam Đường, giữa dãy núi Sơn Đào, bắt nguồn từ dãy Hoàng Liên Sơn; cao chừng 120 m, chân thác rộng chừng 40 m, hồ dưới chân khoảng 200 m²; gắn với truyền thuyết tình yêu đôi trai gái người Dao; ngày 31/12/2008 UBND tỉnh Lai Châu ra Quyết định 2352/QĐ-UBND xếp hạng di tích danh lam thắng cảnh cấp tỉnh.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dulich.laichau.gov.vn/vi/blog/details/thac-tac-tinh-154",
+        "quote": "Cổng du lịch Lai Châu (Sở VHTTDL), 'Thác Tác Tình' (10/7/2018, đọc 16/10/2026): cách trung tâm thị trấn Tam Đường 1,5 km, cạnh QL4D nối Sa Pa với Lai Châu; thác cao chừng 130 m, chân thác rộng khoảng 40 m, hồ khoảng 200 m²; chiều tà có thể thấy cầu vồng trên mặt nước.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/kham-pha-6-diem-checkin-hap-dan-o-tam-duong-dip-tet-duong-lich-16334.html",
+        "quote": "Báo Văn Hóa, 'Khám phá 6 điểm check-in hấp dẫn ở Tam Đường dịp Tết dương lịch' (27/12/2023, đọc 16/10/2026): thác Tác Tình ở thị trấn Tam Đường, bắt nguồn từ dãy Hoàng Liên Sơn, cao hơn 100 m; dưới chân thác có hồ khá rộng tràn thành suối chảy xuống thung lũng.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01074"
+  }
+}
