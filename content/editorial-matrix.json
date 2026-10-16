@@ -46332,5 +46332,365 @@
     "url": "/kinh-nghiem/vanh-dai-2-5-ha-noi-xe-may/",
     "priority": "P1",
     "status": "published"
+  },
+  {
+    "title": "Honda Gold Wing 2025: giá 1,2315 tỷ, 1.833 cc, DCT 7 cấp, túi khí",
+    "keyword": "honda gold wing, gold wing 2025, giá gold wing, gold wing túi khí, gold wing 50 năm",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-gold-wing/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Honda CBR1000RR-R Fireblade SP: giá 1,051 tỷ, bản duy nhất ở VN",
+    "keyword": "honda cbr1000rr-r fireblade, fireblade sp 2024, giá cbr1000rr-r, cbr1000rr-r việt nam, honda fireblade",
+    "hub": "xe-may",
+    "pillar": "/xe-may/",
+    "url": "/xe-may/honda-cbr1000rr-r-fireblade-sp/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ phiên Sín Chéng Si Ma Cai: họp thứ Tư, chợ Mông cách Si Ma Cai 10 km",
+    "keyword": "chợ phiên sín chéng, chợ sín chéng si ma cai, chợ sín chéng họp ngày nào, chợ phiên thứ tư lào cai, đi chợ sín chéng bằng xe máy",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-phien-sin-cheng-si-ma-cai/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ phiên Mường Khương: họp sáng Chủ nhật, ớt và tương ớt vùng biên",
+    "keyword": "chợ phiên mường khương, chợ mường khương họp ngày nào, tương ớt mường khương, chợ phiên chủ nhật lào cai, chợ vùng cao mường khương",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-phien-muong-khuong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ lùi Lũng Phìn: 6 ngày một phiên ngày Dần, Thân, cách tính ngày họp",
+    "keyword": "chợ lùi lũng phìn, chợ phiên lũng phìn, chợ lũng phìn họp ngày nào, chợ lùi hà giang, cách tính chợ lùi",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-lui-lung-phin/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ phiên Bảo Lạc Cao Bằng: 5 ngày một phiên theo lịch âm, bên sông Gâm",
+    "keyword": "chợ phiên bảo lạc, chợ bảo lạc cao bằng, chợ phiên bảo lạc họp ngày nào, chợ phiên cao bằng, chợ bên sông gâm",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-phien-bao-lac/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ phiên Trùng Khánh: họp ngày 5, 10, 15, 20, 25 âm lịch, mùa hạt dẻ",
+    "keyword": "chợ phiên trùng khánh, chợ trùng khánh cao bằng, chợ trùng khánh họp ngày nào, hạt dẻ trùng khánh mua ở đâu, chợ phiên gần thác bản giốc",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-phien-trung-khanh/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ Nà Giàng Hà Quảng: chợ phiên ngày 1, 6 âm lịch trên đường đi Pác Bó",
+    "keyword": "chợ nà giàng, chợ phiên nà giàng, chợ nà giàng họp ngày nào, chợ phiên hà quảng, chợ gần pác bó",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-na-giang-ha-quang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ phiên Hoàng Su Phì: họp sáng Chủ nhật dọc phố chính Vinh Quang",
+    "keyword": "chợ phiên hoàng su phì, chợ vinh quang hoàng su phì, chợ hoàng su phì họp ngày nào, chợ phiên chủ nhật hà giang, đặc sản chợ hoàng su phì",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-phien-hoang-su-phi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ phiên Tả Sìn Thàng Tủa Chùa: chợ lùi 6 ngày, họp ngày Tý và ngày Ngọ",
+    "keyword": "chợ phiên tả sìn thàng, chợ tả sìn thàng họp ngày nào, chợ phiên tủa chùa, chợ lùi điện biên, rượu mông pê",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-phien-ta-sin-thang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chợ Hàng Bè phố cổ: 'chợ nhà giàu' ở phố Gia Ngư, đồ lễ làm sẵn ngày rằm",
+    "keyword": "chợ hàng bè, chợ nhà giàu hà nội, chợ hàng bè ở đâu, chợ gia ngư, mua đồ cúng rằm phố cổ",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/cho-hang-be/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Di tích 5D Hàm Long: nơi lập Chi bộ Cộng sản đầu tiên, xem gì",
+    "keyword": "di tích 5d hàm long, nhà 5d hàm long, chi bộ cộng sản đầu tiên, 5d hàm long ở đâu, di tích hàm long hà nội",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/di-tich-5d-ham-long/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Khu lưu niệm Trường Chinh ở Hành Thiện: nhà gỗ lim 1902, xem gì",
+    "keyword": "khu lưu niệm trường chinh, nhà lưu niệm tổng bí thư trường chinh, làng hành thiện xuân hồng, quần thể lưu niệm trường chinh, nhà tưởng niệm trường chinh xuân trường",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/khu-luu-niem-truong-chinh-hanh-thien/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng tỉnh Tuyên Quang: hơn 23.000 hiện vật, kỷ vật kháng chiến",
+    "keyword": "bảo tàng tỉnh tuyên quang, bảo tàng tuyên quang, bảo tàng tuyên quang có gì, hiện vật thời lý trần tuyên quang, kỷ vật chiến tranh tuyên quang",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-tinh-tuyen-quang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Khu lưu niệm Sáu điều Bác Hồ dạy CAND ở Nhã Nam: tượng đài, xem gì",
+    "keyword": "khu lưu niệm sáu điều bác hồ dạy công an nhân dân, khu lưu niệm 6 điều bác hồ dạy cand, chùa nguộn nhã nam, di tích công an khu xii, nhã nam tân yên có gì",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/khu-luu-niem-sau-dieu-bac-ho-day-cand/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Khu di tích Nha Công an Trung ương ở Minh Thanh: đồi A, đồi B, xem gì",
+    "keyword": "khu di tích nha công an trung ương, di tích công an nhân dân tuyên quang, đồng đon minh thanh, nha công an trung ương tân trào, bảo tàng công an minh thanh",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/khu-di-tich-nha-cong-an-trung-uong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Di tích cách mạng Lào ở Mỹ Bằng: Làng Ngòi, Đá Bàn và nhà Xuphanuvông",
+    "keyword": "di tích cách mạng lào mỹ bằng, khu di tích làng ngòi đá bàn, nhà hoàng thân xuphanuvông tuyên quang, đại hội neo lào ítxala 1950, mỹ bằng yên sơn có gì",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/di-tich-cach-mang-lao-my-bang/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bảo tàng Vĩnh Phúc trên đường Lý Bôn: hơn 10.000 hiện vật, xem gì",
+    "keyword": "bảo tàng vĩnh phúc, bảo tàng tỉnh vĩnh phúc, bảo tàng vĩnh yên, bảo tàng vĩnh phúc ở đâu, số 12 lý bôn",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/bao-tang-vinh-phuc/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng thêu ren Văn Lâm: thêu tay giữa Tam Cốc, di sản quốc gia 2024",
+    "keyword": "làng thêu ren văn lâm, thêu ren văn lâm ninh bình, làng thêu tam cốc, văn lâm ninh hải, mua đồ thêu ninh bình",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-theu-ren-van-lam/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng đúc đồng Tống Xá Ý Yên: nơi đúc tượng đài lớn, lễ hội 3 năm/lần",
+    "keyword": "làng đúc đồng tống xá, đúc đồng ý yên, tống xá ý yên, làng nghề đúc đồng nam định, đền thánh tổ tống xá",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-duc-dong-tong-xa/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng chạm gỗ La Xuyên: tổ nghề thời Đinh, đình gỗ lim, chợ đồ gỗ",
+    "keyword": "làng chạm gỗ la xuyên, làng nghề la xuyên ý yên, đồ gỗ la xuyên, chạm khắc gỗ ý yên, làng mộc la xuyên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-cham-go-la-xuyen/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng đúc đồng Trà Đông (làng Chè): di sản quốc gia gần TP Thanh Hóa",
+    "keyword": "làng đúc đồng trà đông, làng chè thiệu trung, đúc đồng thanh hóa, trà đông thiệu hóa, nghề đúc đồng làng chè",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-duc-dong-tra-dong/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng đá Nhồi Thanh Hóa: chạm đá dưới chân núi An Hoạch, đá cho Lăng Bác",
+    "keyword": "làng đá nhồi, làng đá nhồi thanh hóa, đá mỹ nghệ nhồi, núi an hoạch, chế tác đá an hoạch",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-da-nhoi-thanh-hoa/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng dệt đũi Nam Cao: khung dệt tay hơn 400 năm, di sản quốc gia 2023",
+    "keyword": "làng dệt đũi nam cao, đũi nam cao, lụa đũi thái bình, nam cao kiến xương, dệt đũi hưng yên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-det-dui-nam-cao/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng nón lá Sai Nga: nón Cẩm Khê, Phú Thọ, di sản quốc gia 2020",
+    "keyword": "làng nón lá sai nga, nón sai nga cẩm khê, nón lá phú thọ, làng nón phú thọ, sai nga cẩm khê",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-non-la-sai-nga/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Bản thổ cẩm Hoa Tiến Quỳ Châu: dệt thổ cẩm Thái, trải nghiệm từ lá dâu đến tấm vải",
+    "keyword": "thổ cẩm hoa tiến, bản hoa tiến quỳ châu, làng nghề thổ cẩm nghệ an, hoa tiến châu tiến, dệt thổ cẩm thái nghệ an",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/ban-tho-cam-hoa-tien-quy-chau/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Gốm sứ Đông Triều: làng gốm nặng lửa 1.300 độ C, điểm xem lò ở Quảng Ninh",
+    "keyword": "gốm sứ đông triều, làng gốm đông triều, gốm nặng lửa đông triều, gốm mạo khê, tham quan gốm đông triều",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-gom-su-dong-trieu/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Làng đan đó Thủ Sỹ Hưng Yên: nghề đan ngư cụ tre hơn 200 năm",
+    "keyword": "làng đan đó thủ sỹ, đan đó thủ sỹ tiên lữ, làng nghề đan đó hưng yên, tất viên thủ sỹ, đan rọ đó",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/lang-dan-do-thu-sy/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đền Trấn Vũ Thạch Bàn: tượng đồng Trấn Vũ 1802 và hội kéo co ngồi",
+    "keyword": "đền trấn vũ thạch bàn, đền trấn vũ long biên, tượng huyền thiên trấn vũ thạch bàn, kéo co ngồi thạch bàn, lễ hội đền trấn vũ",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/den-tran-vu-thach-ban/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Sủi Phú Thị Gia Lâm: chùa gắn Ỷ Lan, 73 pho tượng cổ",
+    "keyword": "chùa sủi gia lâm, chùa phú thị, đình đền chùa phú thị, chùa đại dương sùng phúc, lễ hội làng sủi",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-sui-phu-thi/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đình Nhật Tảo Đông Ngạc: nơi giữ chuông Nhật Tảo năm 948",
+    "keyword": "đình nhật tảo, chuông nhật tảo, chuông nhật tảo bảo vật quốc gia, đình nhật tảo đông ngạc, cung tĩnh vương trần nguyên trác",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/dinh-nhat-tao/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Đình Diềm Bắc Ninh: cửa võng bảo vật quốc gia cao 7 m",
+    "keyword": "đình diềm bắc ninh, cửa võng đình diềm, đình làng diềm, viêm xá hòa long, thứ nhất đình đông khang thứ nhì đình bảng",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/dinh-diem-bac-ninh/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Mễ Sở Hưng Yên: tượng Quan Âm 1.014 tay bảo vật quốc gia",
+    "keyword": "chùa mễ sở, tượng quan âm nghìn mắt nghìn tay chùa mễ sở, chùa mễ sở văn giang, bảo vật quốc gia hưng yên, quan âm thiên thủ thiên nhãn",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-me-so-hung-yen/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Động Ngọ Thanh Hà: tòa Cửu phẩm Liên hoa, bảo vật quốc gia",
+    "keyword": "chùa động ngọ, cửu phẩm liên hoa chùa động ngọ, chùa cập nhất, chùa đồng ngọ thanh hà, bảo vật quốc gia cửu phẩm liên hoa",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-dong-ngo/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Trà Phương Kiến Thụy: tượng Mạc Đăng Dung, bảo vật độc bản",
+    "keyword": "chùa trà phương, chùa bà đanh kiến thụy, tượng thái tổ mạc đăng dung, thiên phúc tự trà phương, phù điêu vũ thị ngọc toàn",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-tra-phuong-kien-thuy/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Ngô Xá Ý Yên: tượng A Di Đà đá thời Lý, bảo vật quốc gia",
+    "keyword": "chùa ngô xá, chùa phi lai ý yên, tượng a di đà chùa ngô xá, núi chương sơn, bảo vật quốc gia nam định",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-ngo-xa-y-yen/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Chùa Cảnh Lâm Yên Mỹ: bia Diên Phúc thời Lý, bảo vật quốc gia",
+    "keyword": "chùa cảnh lâm, bia cổ việt thôn diên phúc tự bi minh, chùa diên phúc yên mỹ, chùa cảnh lâm tân việt, bia thời lý hưng yên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/chua-canh-lam-yen-my/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Vườn quốc gia Hoàng Liên: diện tích, rừng già, các tuyến tham quan ở Sa Pa",
+    "keyword": "vườn quốc gia hoàng liên, vườn quốc gia hoàng liên sa pa, vườn quốc gia hoàng liên ở đâu, suối vàng thác tình yêu, du lịch sinh thái hoàng liên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/vuon-quoc-gia-hoang-lien/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hang Huổi Cang – Huổi Đáp Mường Chà: hang dài hơn 1 km, danh thắng quốc gia",
+    "keyword": "hang huổi cang huổi đáp, hang huổi cang, hang huổi đáp, hang động mường chà, hang động điện biên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/hang-huoi-cang-huoi-dap/",
+    "priority": "P1",
+    "status": "published"
+  },
+  {
+    "title": "Hang Khó Chua La Tủa Chùa: hang sâu hơn 800 m, 180 bậc lên cửa",
+    "keyword": "hang khó chua la, hang khó chua la tủa chùa, động xá nhè, hang động tủa chùa, khó chua la điện biên",
+    "hub": "du-lich",
+    "pillar": "/du-lich/",
+    "url": "/du-lich/hang-kho-chua-la-tua-chua/",
+    "priority": "P1",
+    "status": "published"
   }
 ]
