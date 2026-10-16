@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T16:10:56.182746+00:00",
+  "topic": {
+    "topic_id": "TM-01310",
+    "url": "/du-lich/dinh-mong-phu-duong-lam/",
+    "title": "Đình Mông Phụ Đường Lâm: đình dựng năm 1684, di tích quốc gia 1984",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "đình mông phụ",
+    "secondary_keywords": [
+      "đình mông phụ đường lâm",
+      "đình làng mông phụ",
+      "đình mông phụ sơn tây",
+      "đình cổ đường lâm"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Đường Lâm muốn biết đình Mông Phụ có gì đáng xem, dựng khi nào, nằm ở đâu trong làng để ghé khi dạo làng cổ.",
+    "information_gain": "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/ chỉ nhắc đình Mông Phụ như điểm mốc gửi xe/đi bộ; /du-lich/chua-mia-duong-lam/ và /du-lich/lang-ngo-quyen-duong-lam/ nói về di tích khác. Bài mới riêng về ngôi đình: dựng năm 1684 niên hiệu Vĩnh Tộ đời Lê Hy Tông, rộng 1.800 m², trên khu đất cao nhất làng, quay hướng Tây Nam, xếp hạng di tích quốc gia năm 1984, phong cách Việt – Mường với chạm khắc tinh tế, và cách ghép vào lộ trình đi bộ trong làng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-net-co-duong-lam-3105263.html",
+        "quote": "VnExpress, 'Những nét cổ Đường Lâm' (18/11/2014, đọc 16/10/2026): đình Mông Phụ dựng năm 1684, rộng 1.800 m², nằm trên khu đất cao nhất làng, quay hướng Tây Nam; năm 1984 Bộ Văn hóa Thông tin công nhận di tích lịch sử văn hóa cấp quốc gia; công trình cổ tiêu biểu của nông thôn Bắc Bộ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/ve-xu-doai-tham--lang-co-ap-hai-vua-74073.htm",
+        "quote": "Tạp chí Công Thương, 'Về xứ Đoài thăm làng cổ đất hai Vua' (10/08/2020, đọc 16/10/2026): đình Mông Phụ dựng năm 1684 niên hiệu Vĩnh Tộ đời vua Lê Hy Tông, kiến trúc Việt Mường với những nét chạm khắc tinh tế; làng cổ Đường Lâm là làng cổ đầu tiên được công nhận di tích quốc gia năm 2006.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1000,
+        "checked": "2026-10-16",
+        "keyword": "đình mông phụ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đình Mông Phụ ở đâu trong làng cổ Đường Lâm",
+      "Lịch sử: dựng năm 1684 thời Lê Hy Tông",
+      "Kiến trúc Việt – Mường và chạm khắc",
+      "Di tích quốc gia 1984 và làng cổ di tích 2006",
+      "Ghép đình vào lộ trình đi bộ Mông Phụ",
+      "Đi xe máy từ Long Biên và lưu ý gửi xe"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-duong-lam-bang-xe-may/",
+      "/du-lich/chua-mia-duong-lam/",
+      "/du-lich/lang-ngo-quyen-duong-lam/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01310.json",
+  "draft_template": {
+    "id": "TM-01310",
+    "url": "/du-lich/dinh-mong-phu-duong-lam/",
+    "title": "Đình Mông Phụ Đường Lâm: đình dựng năm 1684, di tích quốc gia 1984",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình mông phụ, đình mông phụ đường lâm, đình làng mông phụ, đình mông phụ sơn tây, đình cổ đường lâm",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Mông Phụ ở đâu trong làng cổ Đường Lâm",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: dựng năm 1684 thời Lê Hy Tông",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc Việt – Mường và chạm khắc",
+        "<p></p>"
+      ],
+      [
+        "Di tích quốc gia 1984 và làng cổ di tích 2006",
+        "<p></p>"
+      ],
+      [
+        "Ghép đình vào lộ trình đi bộ Mông Phụ",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Long Biên và lưu ý gửi xe",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nhung-net-co-duong-lam-3105263.html",
+        "quote": "VnExpress, 'Những nét cổ Đường Lâm' (18/11/2014, đọc 16/10/2026): đình Mông Phụ dựng năm 1684, rộng 1.800 m², nằm trên khu đất cao nhất làng, quay hướng Tây Nam; năm 1984 Bộ Văn hóa Thông tin công nhận di tích lịch sử văn hóa cấp quốc gia; công trình cổ tiêu biểu của nông thôn Bắc Bộ.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://tapchicongthuong.vn/ve-xu-doai-tham--lang-co-ap-hai-vua-74073.htm",
+        "quote": "Tạp chí Công Thương, 'Về xứ Đoài thăm làng cổ đất hai Vua' (10/08/2020, đọc 16/10/2026): đình Mông Phụ dựng năm 1684 niên hiệu Vĩnh Tộ đời vua Lê Hy Tông, kiến trúc Việt Mường với những nét chạm khắc tinh tế; làng cổ Đường Lâm là làng cổ đầu tiên được công nhận di tích quốc gia năm 2006.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01310"
+  }
+}

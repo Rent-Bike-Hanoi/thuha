@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T16:10:56.183574+00:00",
+  "topic": {
+    "topic_id": "TM-01312",
+    "url": "/du-lich/ky-dai-thuan-chau/",
+    "title": "Kỳ đài Thuận Châu Sơn La: nơi Bác Hồ nói chuyện ngày 7/5/1959",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "kỳ đài thuận châu",
+    "secondary_keywords": [
+      "kỳ đài thuận châu sơn la",
+      "di tích kỳ đài thuận châu",
+      "nhà tưởng niệm bác hồ thuận châu",
+      "bác hồ thăm tây bắc 1959"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Sơn La – Điện Biên qua Thuận Châu muốn biết Kỳ đài Thuận Châu là di tích gì, gắn với sự kiện nào và có đáng dừng lại không.",
+    "information_gain": "/du-lich/nha-tu-son-la/ và /du-lich/khu-bao-ton-copia-thuan-chau-son-la/ chỉ nói nhà tù và rừng Copia; chưa trang nào viết về Kỳ đài Thuận Châu. Bài mới cho: sự kiện sáng 7/5/1959 Bác Hồ nói chuyện với cán bộ, chiến sĩ, đồng bào Khu tự trị Thái – Mèo nhân 5 năm chiến thắng Điện Biên Phủ; việc xếp hạng di tích quốc gia ngày 20/4/1995; Nhà tưởng niệm Chủ tịch Hồ Chí Minh khánh thành đầu 2018; cách ghép điểm dừng này vào hành trình QL6.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/vang-mai-ban-hung-ca-son-la-tay-bac-92692.html",
+        "quote": "Báo Văn Hóa, 'Vang mãi \"Bản hùng ca Sơn La - Tây Bắc\"' (03/05/2024, đọc 16/10/2026): sáng 7/5/1959 Chủ tịch Hồ Chí Minh nói chuyện thân mật với cán bộ, chiến sĩ và đồng bào các dân tộc Tây Bắc tại Khu tự trị Thái – Mèo, huyện Thuận Châu, Sơn La.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/khanh-thanh-nha-tuong-niem-chu-tich-ho-chi-minh-tai-son-la-10092730.html",
+        "quote": "Báo Đại Đoàn Kết, 'Khánh thành Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại Sơn La' (01/01/2018, đọc 16/10/2026): nhà tưởng niệm ở huyện Thuận Châu, khởi công 7/5/2017; năm 1959 Bác nói chuyện tại đây trong mít tinh kỷ niệm 5 năm chiến thắng Điện Biên Phủ và 4 năm thành lập Khu tự trị; Kỳ đài Thuận Châu được xếp hạng di tích cấp quốc gia ngày 20/4/1995.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "kỳ đài thuận châu"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Kỳ đài Thuận Châu ở đâu trên đường Sơn La – Điện Biên",
+      "Sự kiện 7/5/1959: Bác Hồ nói chuyện với đồng bào Tây Bắc",
+      "Di tích quốc gia từ 20/4/1995",
+      "Nhà tưởng niệm Chủ tịch Hồ Chí Minh khánh thành 2018",
+      "Ghép Kỳ đài với Nhà tù Sơn La và rừng Copia",
+      "Lưu ý khi đi xe máy qua QL6"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tu-son-la/",
+      "/du-lich/khu-bao-ton-copia-thuan-chau-son-la/",
+      "/du-lich/ban-mong-son-la/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01312.json",
+  "draft_template": {
+    "id": "TM-01312",
+    "url": "/du-lich/ky-dai-thuan-chau/",
+    "title": "Kỳ đài Thuận Châu Sơn La: nơi Bác Hồ nói chuyện ngày 7/5/1959",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "kỳ đài thuận châu, kỳ đài thuận châu sơn la, di tích kỳ đài thuận châu, nhà tưởng niệm bác hồ thuận châu, bác hồ thăm tây bắc 1959",
+    "excerpt": "",
+    "sections": [
+      [
+        "Kỳ đài Thuận Châu ở đâu trên đường Sơn La – Điện Biên",
+        "<p></p>"
+      ],
+      [
+        "Sự kiện 7/5/1959: Bác Hồ nói chuyện với đồng bào Tây Bắc",
+        "<p></p>"
+      ],
+      [
+        "Di tích quốc gia từ 20/4/1995",
+        "<p></p>"
+      ],
+      [
+        "Nhà tưởng niệm Chủ tịch Hồ Chí Minh khánh thành 2018",
+        "<p></p>"
+      ],
+      [
+        "Ghép Kỳ đài với Nhà tù Sơn La và rừng Copia",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xe máy qua QL6",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/van-hoa/vang-mai-ban-hung-ca-son-la-tay-bac-92692.html",
+        "quote": "Báo Văn Hóa, 'Vang mãi \"Bản hùng ca Sơn La - Tây Bắc\"' (03/05/2024, đọc 16/10/2026): sáng 7/5/1959 Chủ tịch Hồ Chí Minh nói chuyện thân mật với cán bộ, chiến sĩ và đồng bào các dân tộc Tây Bắc tại Khu tự trị Thái – Mèo, huyện Thuận Châu, Sơn La.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/khanh-thanh-nha-tuong-niem-chu-tich-ho-chi-minh-tai-son-la-10092730.html",
+        "quote": "Báo Đại Đoàn Kết, 'Khánh thành Nhà tưởng niệm Chủ tịch Hồ Chí Minh tại Sơn La' (01/01/2018, đọc 16/10/2026): nhà tưởng niệm ở huyện Thuận Châu, khởi công 7/5/2017; năm 1959 Bác nói chuyện tại đây trong mít tinh kỷ niệm 5 năm chiến thắng Điện Biên Phủ và 4 năm thành lập Khu tự trị; Kỳ đài Thuận Châu được xếp hạng di tích cấp quốc gia ngày 20/4/1995.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01312"
+  }
+}

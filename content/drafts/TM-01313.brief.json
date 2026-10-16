@@ -1,0 +1,136 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T16:10:56.183908+00:00",
+  "topic": {
+    "topic_id": "TM-01313",
+    "url": "/du-lich/nha-tho-nguyen-khuyen-binh-luc/",
+    "title": "Nhà thờ Nguyễn Khuyến Bình Lục: vườn Bùi, ao Thu điếu, làng Vị Hạ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ nguyễn khuyến",
+    "secondary_keywords": [
+      "từ đường nguyễn khuyến",
+      "vườn bùi nguyễn khuyến",
+      "quê nguyễn khuyến yên đổ",
+      "ao thu điếu"
+    ],
+    "intent": "informational",
+    "user_problem": "Học sinh, giáo viên văn và người yêu thơ muốn về thăm quê Tam nguyên Yên Đổ, cần biết nhà thờ Nguyễn Khuyến ở đâu và xem gì.",
+    "information_gain": "/du-lich/nha-luu-niem-tu-xuong-nam-dinh/ và /du-lich/khu-luu-niem-le-quy-don-hung-yen/ là di tích danh nhân khác; site chưa có bài về Nguyễn Khuyến. Bài mới cho: vị trí làng Vị Hạ, xã Trung Lương cũ (Yên Đổ), Bình Lục, cách Hà Nội khoảng 65 km; cổng 'Môn Tử Môn', từ đường với biển 'Ân tứ vinh quy', 'Nhị giáp tiến sĩ', áo triều phục, tượng; vườn Bùi và tên gọi từ cây vối; ao còn khoảng 6 sào với bia đá bát giác khắc 'Thu điếu' ba thứ chữ.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/Van-Hoa/525278/Nhung-chuyen-la-o-vuon-nha-Nguyen-Khuyen.html",
+        "quote": "Tiền Phong, 'Những chuyện lạ ở vườn nhà Nguyễn Khuyến' (16/1/2011, đọc 16/10/2026): nhà ở làng Vị Hạ, xã Trung Lương, huyện Bình Lục, Hà Nam, là di tích lịch sử văn hóa quốc gia; cổng ghi 'Môn Tử Môn'; từ đường có biển 'Ân tứ vinh quy', 'Nhị giáp tiến sĩ' vua Tự Đức ban, áo triều phục, tượng ông chống gậy trúc; vườn Bùi gọi theo cây vối (người Nghệ gọi là cây Bùi); ao thu hẹp còn khoảng 6 sào, có bia đá bát giác khắc bài 'Thu điếu' bằng chữ Nôm, quốc ngữ và tiếng Anh; năm 1884 ông cáo quan về quê.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/468492/fvh-trip-to-famed-poets-birthplace.html",
+        "quote": "Việt Nam News, 'FVH trip to famed poet's birthplace' (25/10/2018, đọc 16/10/2026): nhà ở làng Vị Hạ, xã Yên Đổ (nay Trung Lương), Bình Lục, Hà Nam, cách Hà Nội khoảng 65 km; nhà gỗ cổ nay như bảo tàng về cuộc đời nhà thơ, có vườn và ao, tượng Nguyễn Khuyến của nhà điêu khắc Dương Đình Khoa.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "nhà thờ nguyễn khuyến"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Nhà thờ Nguyễn Khuyến ở đâu sau sáp nhập",
+      "Đi xe máy từ Hà Nội về Bình Lục",
+      "Cổng Môn Tử Môn và từ đường",
+      "Vườn Bùi và ao Thu điếu",
+      "Hiện vật: biển vua ban, áo triều phục, tượng",
+      "Lưu ý khi thăm di tích gia đình",
+      "Câu hỏi thường gặp"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-luu-niem-tu-xuong-nam-dinh/",
+      "/du-lich/khu-luu-niem-le-quy-don-hung-yen/",
+      "/du-lich/chua-ba-danh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01313.json",
+  "draft_template": {
+    "id": "TM-01313",
+    "url": "/du-lich/nha-tho-nguyen-khuyen-binh-luc/",
+    "title": "Nhà thờ Nguyễn Khuyến Bình Lục: vườn Bùi, ao Thu điếu, làng Vị Hạ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ nguyễn khuyến, từ đường nguyễn khuyến, vườn bùi nguyễn khuyến, quê nguyễn khuyến yên đổ, ao thu điếu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ Nguyễn Khuyến ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Hà Nội về Bình Lục",
+        "<p></p>"
+      ],
+      [
+        "Cổng Môn Tử Môn và từ đường",
+        "<p></p>"
+      ],
+      [
+        "Vườn Bùi và ao Thu điếu",
+        "<p></p>"
+      ],
+      [
+        "Hiện vật: biển vua ban, áo triều phục, tượng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi thăm di tích gia đình",
+        "<p></p>"
+      ],
+      [
+        "Câu hỏi thường gặp",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/Van-Hoa/525278/Nhung-chuyen-la-o-vuon-nha-Nguyen-Khuyen.html",
+        "quote": "Tiền Phong, 'Những chuyện lạ ở vườn nhà Nguyễn Khuyến' (16/1/2011, đọc 16/10/2026): nhà ở làng Vị Hạ, xã Trung Lương, huyện Bình Lục, Hà Nam, là di tích lịch sử văn hóa quốc gia; cổng ghi 'Môn Tử Môn'; từ đường có biển 'Ân tứ vinh quy', 'Nhị giáp tiến sĩ' vua Tự Đức ban, áo triều phục, tượng ông chống gậy trúc; vườn Bùi gọi theo cây vối (người Nghệ gọi là cây Bùi); ao thu hẹp còn khoảng 6 sào, có bia đá bát giác khắc bài 'Thu điếu' bằng chữ Nôm, quốc ngữ và tiếng Anh; năm 1884 ông cáo quan về quê.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/468492/fvh-trip-to-famed-poets-birthplace.html",
+        "quote": "Việt Nam News, 'FVH trip to famed poet's birthplace' (25/10/2018, đọc 16/10/2026): nhà ở làng Vị Hạ, xã Yên Đổ (nay Trung Lương), Bình Lục, Hà Nam, cách Hà Nội khoảng 65 km; nhà gỗ cổ nay như bảo tàng về cuộc đời nhà thơ, có vườn và ao, tượng Nguyễn Khuyến của nhà điêu khắc Dương Đình Khoa.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01313"
+  }
+}
