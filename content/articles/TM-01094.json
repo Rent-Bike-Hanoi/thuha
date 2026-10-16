@@ -1,0 +1,81 @@
+{
+  "id": "TM-01094",
+  "url": "/xe-dien/ung-dung-vinfast-xe-may-dien/",
+  "title": "Ứng dụng VinFast cho xe máy điện: định vị, cảnh báo trộm, đọc lỗi, pin",
+  "hub": "xe-dien",
+  "parent": "/xe-dien/",
+  "kind": "article",
+  "art": "App VinFast",
+  "tone": "gold",
+  "keywords": "ứng dụng vinfast xe máy điện, app vinfast xe máy điện, kết nối xe máy điện vinfast với điện thoại, định vị xe máy điện vinfast, thiết lập vùng an toàn xe máy điện",
+  "excerpt": "Ứng dụng VinFast cho xe máy điện: kết nối Bluetooth bằng mã 6 chữ số, xem pin, tìm trạm sạc, cảnh báo chống trộm, đọc lỗi. Định vị, vùng an toàn, chẩn đoán lỗi là “Tùy chọn” theo mẫu xe.",
+  "sections": [
+    [
+      "Câu trả lời ngắn: app làm được gì, tính năng nào tùy mẫu xe",
+      "<p>Ứng dụng điện thoại của VinFast cho phép kết nối với xe máy điện để xem pin, tìm xe, nhận cảnh báo và đọc lỗi. Nhưng không phải xe nào cũng có đủ: trên <a href=\"https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien\" target=\"_blank\" rel=\"noopener\">trang Câu hỏi thường gặp về xe máy điện của VinFast</a>, phần lớn tính năng thông minh của các mẫu như Evo Grand, Feliz 2025, ZGoo đều ghi <strong>“Tùy chọn”</strong>. Muốn biết xe của bạn có tính năng nào, hãy hỏi đại lý theo số khung hoặc phiên bản xe.</p><p><strong>Về tên ứng dụng</strong>, các nguồn của VinFast gọi khác nhau, chúng tôi giữ nguyên cách gọi của từng nguồn:</p><ul><li><a href=\"https://play.google.com/store/apps/details?id=com.vinfast.companion.app&hl=vi\" target=\"_blank\" rel=\"noopener\">trang ứng dụng “VinFast” trên Google Play</a> (cập nhật 26/9/2026): tên “VinFast”, nhà phát triển Vingroup Joint Stock Company, dùng chung cho xe điện VinFast.</li><li>Trang Câu hỏi thường gặp và <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol001-06-evo_max_vn_owner_manual_vie.pdf\" target=\"_blank\" rel=\"noopener\">sách hướng dẫn sử dụng VinFast Evo</a> gọi là “ứng dụng VinFast E-Scooter”.</li></ul><p>Chúng tôi không xác minh được đây là một ứng dụng đã đổi tên hay hai ứng dụng khác nhau. Khi tải, hãy kiểm tra nhà phát triển và hỏi đại lý ứng dụng nào dùng cho xe của bạn.</p>"
+    ],
+    [
+      "Tải app, đăng nhập và thêm xe",
+      "<p>Theo sách hướng dẫn Evo (mục 3.18), ứng dụng có sẵn trên App Store và Google Play, tải và cài đặt miễn phí; sách in mã QR dẫn tới ứng dụng VinFast E-Scooter.</p><p><strong>Đăng nhập</strong>: theo trang hỏi đáp của VinFast, khi đã có số điện thoại đăng ký tài khoản, bạn đăng nhập bằng số điện thoại và mật khẩu đã thiết lập; có thể thiết lập thêm cách đăng nhập khác.</p><p><strong>Kết nối app với xe qua Bluetooth</strong>, tóm tắt các bước VinFast hướng dẫn:</p><ol><li>Chuẩn bị: ứng dụng đã được VinFast ghép với xe (thông tin xe hiện trên app). Bật xe, mở app, cầm sẵn khóa điều khiển từ xa hoặc Smart Key.</li><li>Nhấn biểu tượng Bluetooth trên hình xe trong app, đọc hướng dẫn.</li><li>Nhấn giữ nút Tìm xe trên khóa điều khiển khoảng 5 giây; mã bảo mật 6 chữ số hiện ở vùng hiển thị ODO trên xe.</li><li>Chọn “Nhập mã” trong app, nhập mã. Khi xong, biểu tượng Bluetooth trên app sáng xanh và màn hình xe hiện biểu tượng Bluetooth.</li></ol><p>Bước 1 cho thấy việc ghép xe với tài khoản do VinFast thực hiện; nếu app chưa hiện xe, hãy liên hệ đại lý nơi mua.</p>"
+    ],
+    [
+      "Tìm xe, định vị, lịch sử hành trình, vùng an toàn",
+      "<p>Bảng dưới tóm tắt tính năng thông minh mà <a href=\"https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien\" target=\"_blank\" rel=\"noopener\">trang Câu hỏi thường gặp về xe máy điện của VinFast</a> liệt kê cho Evo Grand, Feliz 2025 và ZGoo (đọc 16/10/2026):</p><div class=\"table-scroll\"><table><thead><tr><th>Tính năng</th><th>Evo Grand, Feliz 2025, ZGoo</th></tr></thead><tbody><tr><td>Tìm xe trong bãi bằng remote</td><td>Tùy chọn</td></tr><tr><td>Hiển thị thông tin, trạng thái xe</td><td>Tùy chọn</td></tr><tr><td>Tìm xe từ xa qua app</td><td>Tùy chọn</td></tr><tr><td>Hiển thị thông tin pin</td><td>Tùy chọn</td></tr><tr><td>Định vị xe, lịch sử hành trình, thống kê quãng đường, thiết lập vùng an toàn</td><td>Tùy chọn</td></tr><tr><td>Chẩn đoán lỗi</td><td>Tùy chọn</td></tr><tr><td>Sạc pin với trạm sạc VinFast</td><td>Có</td></tr></tbody></table></div><p>Với “thiết lập vùng an toàn”, trang VinFast chỉ liệt kê tên tính năng, không mô tả cách hoạt động hay cách cảnh báo. Định vị và hành trình thường cần xe có kết nối mạng: trang hỏi đáp mô tả riêng mẫu Vento S có HMI tích hợp eSIM cho phép định vị GPS, tự động chẩn đoán và cảnh báo lỗi từ xa qua app. Nếu xe bạn không có phần cứng này, app sẽ không hiện vị trí.</p>"
+    ],
+    [
+      "Cảnh báo chống trộm và cho người khác mượn xe",
+      "<p>Mô tả trên <a href=\"https://play.google.com/store/apps/details?id=com.vinfast.companion.app&hl=vi\" target=\"_blank\" rel=\"noopener\">trang ứng dụng “VinFast” trên Google Play</a> liệt kê các tiện ích “dành riêng cho xe điện VinFast”: nhận cảnh báo chống trộm và quản lý quyền truy cập khi cho mượn xe. Trang không nói rõ mẫu xe máy điện nào hỗ trợ, nên hãy kiểm tra trong app sau khi đã ghép xe.</p><p>Cảnh báo trên điện thoại chỉ giúp bạn biết sớm; nó không thay được khóa cơ. Khi đỗ xe qua đêm hoặc ở chỗ lạ, vẫn nên khóa cổ, dùng khóa đĩa và gửi ở bãi có người trông. Các loại khóa và thiết bị định vị nói chung có trong <a href=\"/kinh-nghiem/khoa-chong-trom-xe-may/\">khóa chống trộm xe máy</a>.</p><p>Khi cho người khác mượn, nên dùng tính năng cấp quyền (nếu xe có) thay vì đưa mật khẩu tài khoản của bạn, và thu hồi quyền khi họ trả xe.</p>"
+    ],
+    [
+      "Xem pin, đặt lịch sạc, tìm trạm sạc",
+      "<p>Google Play ghi app giúp theo dõi mức pin, đặt lịch sạc, tìm và dẫn đường đến trạm sạc gần nhất. Sách Evo ghi thông tin trạng thái sạc được cập nhật lên màn hình HMI và ứng dụng điện thoại nếu có kết nối. Ứng dụng còn có đặt lịch bảo dưỡng, sửa chữa, thanh toán dịch vụ và theo dõi lịch sử giao dịch; Google Play cho biết app có thể kết nối với đồng hồ thông minh.</p><p>Cách dùng trạm đổi pin và trạm sạc công cộng có ở hai bài <a href=\"/xe-dien/tram-doi-pin-vinfast/\">trạm đổi pin VinFast</a> và <a href=\"/xe-dien/sac-xe-may-dien-o-tram-sac-cong-cong-vinfast/\">sạc xe máy điện ở trạm sạc công cộng VinFast</a>. Nếu bạn mới chuyển từ xe xăng, đọc thêm <a href=\"/xe-dien/cach-di-xe-may-dien-cho-nguoi-moi/\">cách đi xe máy điện cho người mới</a>.</p>"
+    ],
+    [
+      "Đọc lỗi trên app: dùng để biết, không tự sửa",
+      "<p>Theo <a href=\"https://static-cms-prod.vinfastauto.com/espcne9bol001-06-evo_max_vn_owner_manual_vie.pdf\" target=\"_blank\" rel=\"noopener\">sách hướng dẫn sử dụng VinFast Evo</a> (mục 7), với hầu hết lỗi đơn giản, người dùng có thể dùng ứng dụng điện thoại để đọc lỗi và nhận hướng dẫn xử lý; khi màn hình HMI hiện biểu tượng lỗi, xem mã lỗi trên đồng hồ, dùng app để đọc lỗi, và VinFast <strong>khuyến cáo mang xe đến đại lý hoặc xưởng dịch vụ ủy quyền</strong>. Google Play cũng ghi app có thể tự động phát hiện sự cố và hỗ trợ cứu hộ.</p><p>Đọc lỗi trên app giúp bạn biết lỗi thuộc pin hay bộ phận nào để báo cho xưởng, không phải để tự tháo pin hay mở hệ thống điện.</p>"
+    ],
+    [
+      "Xe thuê: tài khoản app thuộc chủ xe",
+      "<p>Việc ghép xe với ứng dụng do VinFast thực hiện cho tài khoản của chủ xe. Vì vậy, khi đi xe mượn hay xe thuê, bạn thường không có quyền vào app của xe đó, trừ khi chủ xe cấp quyền.</p><p>Thuê xe máy Nguyễn Hà ở Long Biên <strong>không cho thuê xe VinFast</strong>; xe máy điện của cửa hàng là xe Tailg màu đen nhám. Giá thuê xe điện theo cửa hàng: giá ngày tùy mẫu, 600–800 nghìn/tuần, 1,5–1,8 triệu/tháng. Xem <a href=\"/thue-xe-dien/ha-noi/\">thuê xe điện Hà Nội</a> hoặc gọi 0334 699 969 (08:00–17:00) để hỏi xe đang có.</p>"
+    ]
+  ],
+  "faqTitle": "Hỏi nhanh về ứng dụng VinFast cho xe máy điện",
+  "faq": [
+    [
+      "App xe máy điện VinFast tên là gì?",
+      "Google Play ghi tên “VinFast” (Vingroup Joint Stock Company); trang hỏi đáp và sách hướng dẫn Evo của VinFast gọi là “ứng dụng VinFast E-Scooter”. Hãy hỏi đại lý ứng dụng nào dùng cho xe bạn."
+    ],
+    [
+      "Xe máy điện VinFast nào cũng định vị được qua app?",
+      "Không chắc. Trang hỏi đáp của VinFast ghi định vị, lịch sử hành trình, vùng an toàn là “Tùy chọn” với Evo Grand, Feliz 2025, ZGoo."
+    ],
+    [
+      "Kết nối app với xe bằng cách nào?",
+      "Bật xe, mở app, nhấn biểu tượng Bluetooth, giữ nút Tìm xe trên khóa khoảng 5 giây để lấy mã 6 chữ số hiện ở vùng ODO, rồi nhập mã vào app (theo trang hỏi đáp VinFast)."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien",
+      "quote": "VinFast, trang Câu hỏi thường gặp – xe máy điện (đọc 16/10/2026): Evo Grand, Feliz 2025, ZGoo – tìm xe trong bãi bằng Remote, hiển thị thông tin/trạng thái xe, tìm xe từ xa (qua APP), hiển thị thông tin pin, định vị xe/lịch sử hành trình/thống kê quãng đường/thiết lập vùng an toàn, chẩn đoán lỗi: 'Tùy chọn'; sạc pin với trạm sạc VinFast: 'Có'. Kết nối ứng dụng với xe: ứng dụng đã được VinFast ghép với xe; nhấn biểu tượng Bluetooth; nhấn giữ nút Tìm xe khoảng 5 giây, mã bảo mật 6 chữ số hiện ở vùng ODO; nhập mã. Đăng nhập Ứng dụng VinFast E-Scooter bằng số điện thoại và mật khẩu. Vento S: HMI tích hợp eSIM cho phép định vị GPS, tự động chẩn đoán và cảnh báo lỗi từ xa qua ứng dụng.",
+      "checked": "2026-10-16"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://play.google.com/store/apps/details?id=com.vinfast.companion.app&hl=vi",
+      "quote": "Google Play, trang ứng dụng 'VinFast' của Vingroup Joint Stock Company (cập nhật 26/9/2026, đọc 16/10/2026): đặt lịch bảo dưỡng, sửa chữa; thanh toán dịch vụ; lịch sử giao dịch; dành riêng cho xe điện VinFast – nhận cảnh báo chống trộm, quản lý quyền truy cập khi cho mượn xe, theo dõi mức pin và đặt lịch sạc, tìm và dẫn đường đến trạm sạc gần nhất, tự động phát hiện sự cố và hỗ trợ cứu hộ; có thể kết nối đồng hồ thông minh.",
+      "checked": "2026-10-16"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://static-cms-prod.vinfastauto.com/espcne9bol001-06-evo_max_vn_owner_manual_vie.pdf",
+      "quote": "VinFast, Hướng dẫn sử dụng xe máy điện VinFast Evo (ESPCNE9BOL001/06, đọc 16/10/2026): mục 3.18 Ứng dụng điện thoại – hỗ trợ kết nối với xe và tác vụ nâng cao, tải miễn phí trên App Store, Google Play, mã QR 'ứng dụng VinFast E-Scooter'; trạng thái sạc cập nhật lên HMI và ứng dụng nếu có kết nối; mục 7 Xử lý sự cố – với hầu hết lỗi đơn giản dùng ứng dụng điện thoại để đọc lỗi và nhận hướng dẫn; khuyến cáo mang xe đến ĐLPP và XDV ủy quyền của VinFast.",
+      "checked": "2026-10-16"
+    }
+  ],
+  "factoryVersion": 2,
+  "topic_id": "TM-01094",
+  "publishedAt": "2026-10-16T01:39:58.320340+00:00",
+  "publishedBy": "Claude Code (routine)"
+}
