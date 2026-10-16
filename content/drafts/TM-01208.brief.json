@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T14:48:26.061717+00:00",
+  "topic": {
+    "topic_id": "TM-01208",
+    "url": "/du-lich/lang-truong-luu-ha-tinh/",
+    "title": "Làng cổ Trường Lưu Hà Tĩnh: 3 di sản tư liệu, nhà thờ họ Nguyễn Huy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng trường lưu",
+    "secondary_keywords": [
+      "làng cổ trường lưu",
+      "trường lưu can lộc",
+      "nguyễn huy oánh",
+      "mộc bản trường học phúc giang"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Can Lộc (Ngã ba Đồng Lộc) muốn ghé một làng cổ có di sản cần biết Trường Lưu có gì để xem và hiện làm du lịch đến đâu.",
+    "information_gain": "/du-lich/nga-ba-dong-loc-can-loc/ cùng huyện nhưng là di tích chiến tranh; chưa có bài làng cổ nào ở Hà Tĩnh. Bài mới cho: làng ở xã Kim Song Trường; 3 di sản Ký ức thế giới khu vực (Mộc bản Trường học Phúc Giang, Hoàng Hoa sứ trình đồ, Văn bản Hán Nôm); danh sách 4 di tích quốc gia và 8 di tích cấp tỉnh do ban quản lý nêu; đình làng, nhà cổ, câu lạc bộ ví giặm; thực trạng đề án làng văn hóa du lịch đang hoàn thiện.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/nhung-gia-tri-cot-loi-tu-lang-van-hoa-du-lich-truong-luu",
+        "quote": "Cổng TTĐT Hà Tĩnh, 'Những giá trị cốt lõi từ Làng văn hóa du lịch Trường Lưu' (đọc 16/10/2026): làng thuộc xã Kim Song Trường (Can Lộc); có 3 di sản UNESCO thuộc Chương trình Ký ức thế giới khu vực châu Á – Thái Bình Dương (Mộc bản Trường học Phúc Giang, Hoàng Hoa sứ trình đồ, Văn bản Hán Nôm làng Trường Lưu); 4 di tích quốc gia (nhà thờ Nguyễn Huy Tự, Nguyễn Huy Hổ, mộ và nhà thờ Nguyễn Huy Oánh, đền thờ Nguyễn Huy Cự) và 8 di tích cấp tỉnh (đình làng, nhà cổ Nguyễn Huy Thản...); có đình, giếng, nhà cổ, câu lạc bộ ví giặm.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/tap-trung-hoan-thien-quy-hoach-xay-dung-lang-van-hoa-du-lich-truong-luu-post244509.html",
+        "quote": "Báo Hà Tĩnh, 'Tập trung hoàn thiện quy hoạch xây dựng Làng văn hóa du lịch Trường Lưu' (15/2/2023, đọc 16/10/2026): đề án quy hoạch làng văn hóa du lịch Trường Lưu (xã Kim Song Trường) đang hoàn thiện; làng có 3 di sản UNESCO công nhận, 7 di tích cấp quốc gia, 16 di tích cấp tỉnh; hạ tầng giao thông tương đối thuận lợi, nằm trong hệ thống di tích như Ngã ba Đồng Lộc.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 20,
+        "checked": "2026-10-16",
+        "keyword": "làng trường lưu"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Làng Trường Lưu ở đâu, đi từ Đồng Lộc",
+      "Ba di sản tư liệu Ký ức thế giới",
+      "Dòng họ Nguyễn Huy và các nhà thờ, đền",
+      "Đình làng, nhà cổ, ví giặm",
+      "Du lịch ở đây hiện ra sao: kỳ vọng thực tế",
+      "Lịch trình nửa ngày Can Lộc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nga-ba-dong-loc-can-loc/",
+      "/du-lich/chua-huong-tich-ha-tinh/",
+      "/du-lich/khu-di-tich-kim-lien-nghe-an/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01208.json",
+  "draft_template": {
+    "id": "TM-01208",
+    "url": "/du-lich/lang-truong-luu-ha-tinh/",
+    "title": "Làng cổ Trường Lưu Hà Tĩnh: 3 di sản tư liệu, nhà thờ họ Nguyễn Huy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng trường lưu, làng cổ trường lưu, trường lưu can lộc, nguyễn huy oánh, mộc bản trường học phúc giang",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Trường Lưu ở đâu, đi từ Đồng Lộc",
+        "<p></p>"
+      ],
+      [
+        "Ba di sản tư liệu Ký ức thế giới",
+        "<p></p>"
+      ],
+      [
+        "Dòng họ Nguyễn Huy và các nhà thờ, đền",
+        "<p></p>"
+      ],
+      [
+        "Đình làng, nhà cổ, ví giặm",
+        "<p></p>"
+      ],
+      [
+        "Du lịch ở đây hiện ra sao: kỳ vọng thực tế",
+        "<p></p>"
+      ],
+      [
+        "Lịch trình nửa ngày Can Lộc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://hatinh.gov.vn/vi/bai-viet/nhung-gia-tri-cot-loi-tu-lang-van-hoa-du-lich-truong-luu",
+        "quote": "Cổng TTĐT Hà Tĩnh, 'Những giá trị cốt lõi từ Làng văn hóa du lịch Trường Lưu' (đọc 16/10/2026): làng thuộc xã Kim Song Trường (Can Lộc); có 3 di sản UNESCO thuộc Chương trình Ký ức thế giới khu vực châu Á – Thái Bình Dương (Mộc bản Trường học Phúc Giang, Hoàng Hoa sứ trình đồ, Văn bản Hán Nôm làng Trường Lưu); 4 di tích quốc gia (nhà thờ Nguyễn Huy Tự, Nguyễn Huy Hổ, mộ và nhà thờ Nguyễn Huy Oánh, đền thờ Nguyễn Huy Cự) và 8 di tích cấp tỉnh (đình làng, nhà cổ Nguyễn Huy Thản...); có đình, giếng, nhà cổ, câu lạc bộ ví giặm.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baohatinh.vn/tap-trung-hoan-thien-quy-hoach-xay-dung-lang-van-hoa-du-lich-truong-luu-post244509.html",
+        "quote": "Báo Hà Tĩnh, 'Tập trung hoàn thiện quy hoạch xây dựng Làng văn hóa du lịch Trường Lưu' (15/2/2023, đọc 16/10/2026): đề án quy hoạch làng văn hóa du lịch Trường Lưu (xã Kim Song Trường) đang hoàn thiện; làng có 3 di sản UNESCO công nhận, 7 di tích cấp quốc gia, 16 di tích cấp tỉnh; hạ tầng giao thông tương đối thuận lợi, nằm trong hệ thống di tích như Ngã ba Đồng Lộc.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01208"
+  }
+}

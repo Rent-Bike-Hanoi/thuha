@@ -1,0 +1,144 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T14:48:26.602139+00:00",
+  "topic": {
+    "topic_id": "TM-01182",
+    "url": "/du-lich/den-nguyen-cong-tru-kim-son/",
+    "title": "Đền Nguyễn Công Trứ Kim Sơn: nhà ở cũ thành đền thờ sống, lễ hội 14/11",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền nguyễn công trứ kim sơn",
+    "secondary_keywords": [
+      "đền nguyễn công trứ",
+      "truy tư từ kim sơn",
+      "lễ hội đền nguyễn công trứ",
+      "doanh điền sứ nguyễn công trứ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Phát Diệm muốn ghé đền thờ Nguyễn Công Trứ – người lập huyện Kim Sơn: đền ở đâu, có gì đặc biệt, lễ hội khi nào.",
+    "information_gain": "/du-lich/nha-tho-da-phat-diem/ và /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ không nói đền này. Bài mới cho: đền Truy Tư Từ ở xã Quang Thiện, vốn là căn nhà Nguyễn Công Trứ ở và làm việc, được dân lập Sinh Từ khi ông còn sống, sau 1858 thêm tiền đường; Kim Sơn lập ngày 05/4/1829 sau 5 tháng khẩn hoang; di tích quốc gia 22/01/1992; lễ hội 12–14/11 âm lịch có tế nam quan, tế nữ quan, tổ tôm điếm, cờ người; người lương và giáo cùng đến lễ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/1709",
+        "quote": "Trung tâm Xúc tiến du lịch Ninh Bình, 'Đền Nguyễn Công Trứ' (đọc 16/10/2026): tên Truy Tư Từ, thờ Doanh điền sứ Nguyễn Công Trứ – người lập huyện Kim Sơn năm 1829, ở xã Quang Thiện; đền làm từ ngôi nhà ông xây và ở, được dựng khi ông còn sống (Sinh Từ), sau khi ông mất 1858 xây thêm tiền đường; người không tôn giáo, Phật giáo, Công giáo đều đến lễ; tế lễ ngày 14/11 âm lịch; di tích quốc gia ngày 22/01/1992.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dinhhoa.ninhbinh.gov.vn/tin-tuc-trong-huyen/den-tho-doanh-dien-su-nguyen-cong-tru-noi-luu-giu-cac-gia-tri-van-hoa-lich-su-530.html",
+        "quote": "UBND xã Định Hóa, 'Đền thờ Doanh điền sứ Nguyễn Công Trứ – nơi lưu giữ các giá trị văn hóa lịch sử' (đọc 16/10/2026): đền ở xóm 16, xã Quang Thiện; tháng 10/1828 ông dâng sớ khẩn hoang, sau 5 tháng lập huyện Kim Sơn ngày 05/4/1829; năm 1856 dân lập Sinh Từ; sau khi ông mất 1858 xây tiền đường, gian nhà cũ làm chính cung, đổi tên Truy Tư Từ; tiền thân là căn nhà ba gian ở ấp Lạc Thiện.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nbtv.vn/huyen-kim-son-dang-huong-tai-den-tho-doanh-dien-su-nguyen-cong-tru-83391.html",
+        "quote": "Báo và PT-TH Ninh Bình, 'Huyện Kim Sơn dâng hương tại Đền thờ Doanh điền sứ Nguyễn Công Trứ' (12/2024, đọc 16/10/2026): lễ hội đền tổ chức 3 ngày từ 12 đến 14/11 âm lịch, có tế nam quan, tế nữ quan, dâng hương; phần hội có tổ tôm điếm, cờ tướng, cờ người.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đền nguyễn công trứ kim sơn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đền ở đâu: xã Quang Thiện cạnh Phát Diệm",
+      "Nguyễn Công Trứ và cuộc khẩn hoang lập Kim Sơn 1829",
+      "Từ căn nhà ba gian thành Sinh Từ, Truy Tư Từ",
+      "Lễ hội 12–14/11 âm lịch: phần lễ và phần hội",
+      "Nơi lương – giáo cùng đến lễ",
+      "Ghép với nhà thờ đá Phát Diệm và Cồn Nổi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-da-phat-diem/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/vuon-quoc-gia-xuan-thuy/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01182.json",
+  "draft_template": {
+    "id": "TM-01182",
+    "url": "/du-lich/den-nguyen-cong-tru-kim-son/",
+    "title": "Đền Nguyễn Công Trứ Kim Sơn: nhà ở cũ thành đền thờ sống, lễ hội 14/11",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền nguyễn công trứ kim sơn, đền nguyễn công trứ, truy tư từ kim sơn, lễ hội đền nguyễn công trứ, doanh điền sứ nguyễn công trứ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền ở đâu: xã Quang Thiện cạnh Phát Diệm",
+        "<p></p>"
+      ],
+      [
+        "Nguyễn Công Trứ và cuộc khẩn hoang lập Kim Sơn 1829",
+        "<p></p>"
+      ],
+      [
+        "Từ căn nhà ba gian thành Sinh Từ, Truy Tư Từ",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội 12–14/11 âm lịch: phần lễ và phần hội",
+        "<p></p>"
+      ],
+      [
+        "Nơi lương – giáo cùng đến lễ",
+        "<p></p>"
+      ],
+      [
+        "Ghép với nhà thờ đá Phát Diệm và Cồn Nổi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/1709",
+        "quote": "Trung tâm Xúc tiến du lịch Ninh Bình, 'Đền Nguyễn Công Trứ' (đọc 16/10/2026): tên Truy Tư Từ, thờ Doanh điền sứ Nguyễn Công Trứ – người lập huyện Kim Sơn năm 1829, ở xã Quang Thiện; đền làm từ ngôi nhà ông xây và ở, được dựng khi ông còn sống (Sinh Từ), sau khi ông mất 1858 xây thêm tiền đường; người không tôn giáo, Phật giáo, Công giáo đều đến lễ; tế lễ ngày 14/11 âm lịch; di tích quốc gia ngày 22/01/1992.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://dinhhoa.ninhbinh.gov.vn/tin-tuc-trong-huyen/den-tho-doanh-dien-su-nguyen-cong-tru-noi-luu-giu-cac-gia-tri-van-hoa-lich-su-530.html",
+        "quote": "UBND xã Định Hóa, 'Đền thờ Doanh điền sứ Nguyễn Công Trứ – nơi lưu giữ các giá trị văn hóa lịch sử' (đọc 16/10/2026): đền ở xóm 16, xã Quang Thiện; tháng 10/1828 ông dâng sớ khẩn hoang, sau 5 tháng lập huyện Kim Sơn ngày 05/4/1829; năm 1856 dân lập Sinh Từ; sau khi ông mất 1858 xây tiền đường, gian nhà cũ làm chính cung, đổi tên Truy Tư Từ; tiền thân là căn nhà ba gian ở ấp Lạc Thiện.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nbtv.vn/huyen-kim-son-dang-huong-tai-den-tho-doanh-dien-su-nguyen-cong-tru-83391.html",
+        "quote": "Báo và PT-TH Ninh Bình, 'Huyện Kim Sơn dâng hương tại Đền thờ Doanh điền sứ Nguyễn Công Trứ' (12/2024, đọc 16/10/2026): lễ hội đền tổ chức 3 ngày từ 12 đến 14/11 âm lịch, có tế nam quan, tế nữ quan, dâng hương; phần hội có tổ tôm điếm, cờ tướng, cờ người.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01182"
+  }
+}

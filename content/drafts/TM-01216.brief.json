@@ -1,0 +1,136 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T14:48:25.764458+00:00",
+  "topic": {
+    "topic_id": "TM-01216",
+    "url": "/bao-duong/cac-bo-phan-cua-xe-may/",
+    "title": "Các bộ phận của xe máy: tên gọi và bộ phận nào cần bảo dưỡng",
+    "hub": "bao-duong",
+    "subtopic": "lich-bao-duong",
+    "primary_keyword": "các bộ phận của xe máy",
+    "secondary_keywords": [
+      "tên các bộ phận xe máy",
+      "cấu tạo xe máy",
+      "bộ phận xe máy cần bảo dưỡng",
+      "sơ đồ các bộ phận xe máy"
+    ],
+    "intent": "informational",
+    "user_problem": "Người mới đi xe, người thuê xe dài hạn nghe thợ nói 'gắp', 'nồi', 'ti phuộc', 'que thăm' mà không biết ở đâu; họ cần bảng tên bộ phận kèm mục nào phải kiểm tra định kỳ để không bị 'vẽ bệnh'.",
+    "information_gain": "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/ liệt kê hạng mục và chi phí; các bài chuyên đề (má phanh, lốp, bugi, lọc gió) đi từng bộ phận. Chưa có trang tổng quan tên gọi và vị trí. Bài mới cho: nhóm bộ phận chính theo Yamaha (khung, phuộc, giảm xóc, truyền động, bánh xe...) và nhóm cần bảo dưỡng thường xuyên (má phanh/dầu phanh, lốp, bugi...); trang 'Vị trí các bộ phận' trong sổ Honda Vision (que thăm/nắp đổ dầu, cần khóa phanh sau, móc treo đồ...) và lịch bảo dưỡng của Honda, mỗi bộ phận dẫn sang bài chi tiết trên site.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/cac-bo-phan-cua-xe-may-dieu-can-biet-khi-bao-duong-dinh-ky/",
+        "quote": "Yamaha Motor Việt Nam, 'Các bộ phận của xe máy & điều cần biết khi bảo dưỡng định kỳ' (đọc 16/10/2026): các bộ phận gồm khung sườn, phuộc, giảm xóc, hệ thống truyền động, bánh xe...; các bộ phận cần bảo dưỡng thường xuyên gồm má phanh, dầu phanh, lốp, bugi...; Yamaha viết nên bảo trì má phanh, dầu phanh sau mỗi 15.000–20.000 km theo khuyến cáo nhà sản xuất.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+        "quote": "Honda Việt Nam, 'Hướng dẫn sử dụng Vision' (PDF 12/2025, đọc 16/10/2026): mục 'Vị trí các bộ phận' chỉ que thăm/nắp đổ dầu, tay phanh sau, cần khóa phanh sau, móc treo đồ, móc giữ mũ bảo hiểm...; bảng lịch bảo dưỡng theo mốc ×1.000 km (1, 6, 12, 18, 24, 30, 36) gồm đường ống xăng, mực xăng, hoạt động tay ga, lọc gió, thông hơi vách máy, độ rọi đèn pha, giảm xóc...",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 210,
+        "checked": "2026-10-16",
+        "keyword": "các bộ phận của xe máy"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Câu trả lời ngắn: 5 nhóm bộ phận chính",
+      "Khung, phuộc, giảm xóc: phần chịu lực",
+      "Động cơ và truyền động: xe số khác xe ga",
+      "Phanh, bánh, lốp",
+      "Điện: ắc quy, bugi, đèn, khóa",
+      "Bảng: bộ phận nào kiểm tra theo mốc km của Honda",
+      "Gọi đúng tên khi báo hỏng xe thuê"
+    ],
+    "suggested_internal_links": [
+      "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
+      "/bao-duong/ma-phanh-xe-may-bao-lau-thay/",
+      "/xe-may/phuoc-xe-may-bi-chay-dau/",
+      "/thue-xe-may/ha-noi/theo-thang/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01216.json",
+  "draft_template": {
+    "id": "TM-01216",
+    "url": "/bao-duong/cac-bo-phan-cua-xe-may/",
+    "title": "Các bộ phận của xe máy: tên gọi và bộ phận nào cần bảo dưỡng",
+    "hub": "bao-duong",
+    "parent": "/bao-duong/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "các bộ phận của xe máy, tên các bộ phận xe máy, cấu tạo xe máy, bộ phận xe máy cần bảo dưỡng, sơ đồ các bộ phận xe máy",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: 5 nhóm bộ phận chính",
+        "<p></p>"
+      ],
+      [
+        "Khung, phuộc, giảm xóc: phần chịu lực",
+        "<p></p>"
+      ],
+      [
+        "Động cơ và truyền động: xe số khác xe ga",
+        "<p></p>"
+      ],
+      [
+        "Phanh, bánh, lốp",
+        "<p></p>"
+      ],
+      [
+        "Điện: ắc quy, bugi, đèn, khóa",
+        "<p></p>"
+      ],
+      [
+        "Bảng: bộ phận nào kiểm tra theo mốc km của Honda",
+        "<p></p>"
+      ],
+      [
+        "Gọi đúng tên khi báo hỏng xe thuê",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://yamaha-motor.com.vn/tin-tuc/cac-bo-phan-cua-xe-may-dieu-can-biet-khi-bao-duong-dinh-ky/",
+        "quote": "Yamaha Motor Việt Nam, 'Các bộ phận của xe máy & điều cần biết khi bảo dưỡng định kỳ' (đọc 16/10/2026): các bộ phận gồm khung sườn, phuộc, giảm xóc, hệ thống truyền động, bánh xe...; các bộ phận cần bảo dưỡng thường xuyên gồm má phanh, dầu phanh, lốp, bugi...; Yamaha viết nên bảo trì má phanh, dầu phanh sau mỗi 15.000–20.000 km theo khuyến cáo nhà sản xuất.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+        "quote": "Honda Việt Nam, 'Hướng dẫn sử dụng Vision' (PDF 12/2025, đọc 16/10/2026): mục 'Vị trí các bộ phận' chỉ que thăm/nắp đổ dầu, tay phanh sau, cần khóa phanh sau, móc treo đồ, móc giữ mũ bảo hiểm...; bảng lịch bảo dưỡng theo mốc ×1.000 km (1, 6, 12, 18, 24, 30, 36) gồm đường ống xăng, mực xăng, hoạt động tay ga, lọc gió, thông hơi vách máy, độ rọi đèn pha, giảm xóc...",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01216"
+  }
+}

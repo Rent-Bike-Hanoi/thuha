@@ -1,0 +1,131 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T14:48:26.602813+00:00",
+  "topic": {
+    "topic_id": "TM-01191",
+    "url": "/du-lich/roi-nuoc-nguyen-xa/",
+    "title": "Rối nước Nguyên Xá Đông Hưng: phường rối điều khiển bằng dây",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "rối nước nguyên xá",
+    "secondary_keywords": [
+      "phường rối nước nguyên xá",
+      "múa rối nước thái bình",
+      "thủy đình nguyên xá",
+      "rối nước đông hưng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Hưng Yên (Thái Bình cũ) muốn xem rối nước làng ở Nguyên Xá, cần biết nó khác rối nước sân khấu ra sao và xem ở đâu.",
+    "information_gain": "Site chưa có trang nào về rối nước Nguyên Xá; gần nhất là /du-lich/lang-roi-nuoc-dao-thuc-dong-anh/ (Hà Nội). Bài mới cho: kỹ thuật điều khiển bằng dây không dùng sào, khoảng 20 nghệ nhân 16–80 tuổi, hơn 20 tích trò, hơn 40 buổi/năm tại thủy đình vừa cải tạo (trên 6,6 tỷ đồng, khánh thành 11/2025), di sản phi vật thể quốc gia 2018.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://tuyengiao.hungyen.dcs.vn/doc-dao-roi-nuoc-nguyen-xa-c240123.html",
+        "quote": "Ban Tuyên giáo Tỉnh ủy Hưng Yên (theo Báo Hưng Yên), 'Độc đáo rối nước Nguyên Xá' (4/4/2026, đọc 16/10/2026): phường rối ở thôn Nguyên Xá, xã Đông Hưng; theo nghệ nhân đã có khoảng 700 năm; di sản văn hóa phi vật thể quốc gia; điều khiển bằng hệ thống dây dưới nước, hoàn toàn không dùng sào; khoảng 20 nghệ nhân 16–80 tuổi; hơn 20 trò truyền thống; mỗi năm hơn 40 buổi tại thủy đình và hàng chục buổi lưu diễn.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/xa-dong-hung-khanh-thanh-cong-trinh-nha-thuy-dinh-phuong-roi-nuoc-nguyen-xa-3188078.html",
+        "quote": "Báo Hưng Yên, 'Xã Đông Hưng: Khánh thành công trình nhà thủy đình phường rối nước Nguyên Xá' (20/11/2025, đọc 16/10/2026): tối 19/11 khánh thành thủy đình cải tạo, tổng trên 6,6 tỷ đồng, 12 hạng mục; năm 2018 Bộ VHTTDL công nhận rối nước Nguyên Xá là di sản văn hóa phi vật thể quốc gia; gần đó có đền thờ Đại tướng Võ Nguyên Giáp, làng nghề Nguyên Xá.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "rối nước nguyên xá"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Nguyên Xá ở đâu, đi từ Hà Nội",
+      "Rối dây khác rối sào thế nào",
+      "Nghệ nhân và tích trò",
+      "Thủy đình mới và lịch diễn: cách hỏi trước",
+      "Ghép lịch trình với bánh cáy làng Nguyễn, đền Trần",
+      "Lưu ý khi xem rối nước ngoài trời"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/banh-cay-lang-nguyen/",
+      "/du-lich/den-tran-thai-binh/",
+      "/du-lich/chua-keo-thai-binh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01191.json",
+  "draft_template": {
+    "id": "TM-01191",
+    "url": "/du-lich/roi-nuoc-nguyen-xa/",
+    "title": "Rối nước Nguyên Xá Đông Hưng: phường rối điều khiển bằng dây",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "rối nước nguyên xá, phường rối nước nguyên xá, múa rối nước thái bình, thủy đình nguyên xá, rối nước đông hưng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nguyên Xá ở đâu, đi từ Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Rối dây khác rối sào thế nào",
+        "<p></p>"
+      ],
+      [
+        "Nghệ nhân và tích trò",
+        "<p></p>"
+      ],
+      [
+        "Thủy đình mới và lịch diễn: cách hỏi trước",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình với bánh cáy làng Nguyễn, đền Trần",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi xem rối nước ngoài trời",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://tuyengiao.hungyen.dcs.vn/doc-dao-roi-nuoc-nguyen-xa-c240123.html",
+        "quote": "Ban Tuyên giáo Tỉnh ủy Hưng Yên (theo Báo Hưng Yên), 'Độc đáo rối nước Nguyên Xá' (4/4/2026, đọc 16/10/2026): phường rối ở thôn Nguyên Xá, xã Đông Hưng; theo nghệ nhân đã có khoảng 700 năm; di sản văn hóa phi vật thể quốc gia; điều khiển bằng hệ thống dây dưới nước, hoàn toàn không dùng sào; khoảng 20 nghệ nhân 16–80 tuổi; hơn 20 trò truyền thống; mỗi năm hơn 40 buổi tại thủy đình và hàng chục buổi lưu diễn.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baohungyen.vn/xa-dong-hung-khanh-thanh-cong-trinh-nha-thuy-dinh-phuong-roi-nuoc-nguyen-xa-3188078.html",
+        "quote": "Báo Hưng Yên, 'Xã Đông Hưng: Khánh thành công trình nhà thủy đình phường rối nước Nguyên Xá' (20/11/2025, đọc 16/10/2026): tối 19/11 khánh thành thủy đình cải tạo, tổng trên 6,6 tỷ đồng, 12 hạng mục; năm 2018 Bộ VHTTDL công nhận rối nước Nguyên Xá là di sản văn hóa phi vật thể quốc gia; gần đó có đền thờ Đại tướng Võ Nguyên Giáp, làng nghề Nguyên Xá.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01191"
+  }
+}

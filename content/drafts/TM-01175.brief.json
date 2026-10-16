@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T14:48:26.061495+00:00",
+  "topic": {
+    "topic_id": "TM-01175",
+    "url": "/du-lich/lang-chieu-coi-nga-son/",
+    "title": "Làng chiếu cói Nga Sơn: xem dệt chiếu, cánh đồng cói ven biển xứ Thanh",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng chiếu cói nga sơn",
+    "secondary_keywords": [
+      "chiếu cói nga sơn",
+      "chiếu nga sơn thanh hóa",
+      "làng nghề cói nga sơn",
+      "mua chiếu nga sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Thanh Hóa qua Nga Sơn (động Từ Thức, Ba Đình) muốn ghé xem làng dệt chiếu cói, biết nghề ở đâu, xem gì và mua gì.",
+    "information_gain": "/du-lich/dong-tu-thuc-nga-son/ và /du-lich/can-cu-khoi-nghia-ba-dinh-nga-son/ chỉ nói di tích; /du-lich/lang-chieu-hoi-hung-ha-cu/ là làng chiếu khác (Thái Bình cũ, nguyên liệu và lịch sử khác). Bài mới cho: câu ca dao 'Chiếu Nga Sơn, gạch Bát Tràng...', vùng nghề 8 xã ven biển, 37 làng, hơn 1.500 lao động, cách trung tâm Nga Sơn cũ khoảng 3 km về Đông Nam, quy trình cói (thu hoạch, phơi, nhuộm, se, dệt) để biết lúc nào xem được, và gợi ý ghép với động Từ Thức.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/thanh-hoa-xua-va-nay-chieu-coi-nga-son--net-dep-lang-bien-43353.htm",
+        "quote": "Báo Thanh Hóa (chuyên trang VHĐS), '[Thanh Hóa xưa và nay] Chiếu cói Nga Sơn – Nét đẹp làng biển' (14/05/2026, đọc 16/10/2026): vùng ven biển Nga Sơn nổi tiếng nghề dệt chiếu cói, có ca dao 'Chiếu Nga Sơn, gạch Bát Tràng, vải tơ Nam Định, lụa hàng Hà Đông'; cánh đồng cói ven sông, ven biển; công đoạn: thu hoạch cói, phơi khô, chọn sợi nhuộm màu, se sợi rồi dệt.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vanhoanghethuat.vn/nghien-cuu-bao-ton-va-phat-huy-gia-tri-lang-nghe-chieu-coi-nga-son-vao-phat-trien-du-lich-77757148.html",
+        "quote": "Tạp chí Văn hóa Nghệ thuật, 'Nghiên cứu bảo tồn và phát huy giá trị làng nghề chiếu cói Nga Sơn vào phát triển du lịch' (đọc 16/10/2026): làng nghề cách trung tâm huyện Nga Sơn khoảng 3 km về Đông Nam, gồm 8 xã ven biển, 37 làng, hơn 1.500 lao động; năm 2014 UBND tỉnh duyệt quy hoạch điểm du lịch làng nghề (QĐ 3136/QĐ-UBND) trong đó có chiếu cói Nga Sơn; chưa có chương trình tham quan riêng cho làng nghề.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 20,
+        "checked": "2026-10-16",
+        "keyword": "làng chiếu cói nga sơn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chiếu Nga Sơn nổi tiếng từ đâu",
+      "Vùng nghề: các xã ven biển và cánh đồng cói",
+      "Các công đoạn từ cây cói đến tấm chiếu",
+      "Đến xem dệt thế nào khi chưa có tour riêng",
+      "Mua chiếu và đồ cói: hỏi gì trước khi mua",
+      "Ghép với động Từ Thức, căn cứ Ba Đình"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dong-tu-thuc-nga-son/",
+      "/du-lich/can-cu-khoi-nghia-ba-dinh-nga-son/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01175.json",
+  "draft_template": {
+    "id": "TM-01175",
+    "url": "/du-lich/lang-chieu-coi-nga-son/",
+    "title": "Làng chiếu cói Nga Sơn: xem dệt chiếu, cánh đồng cói ven biển xứ Thanh",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng chiếu cói nga sơn, chiếu cói nga sơn, chiếu nga sơn thanh hóa, làng nghề cói nga sơn, mua chiếu nga sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chiếu Nga Sơn nổi tiếng từ đâu",
+        "<p></p>"
+      ],
+      [
+        "Vùng nghề: các xã ven biển và cánh đồng cói",
+        "<p></p>"
+      ],
+      [
+        "Các công đoạn từ cây cói đến tấm chiếu",
+        "<p></p>"
+      ],
+      [
+        "Đến xem dệt thế nào khi chưa có tour riêng",
+        "<p></p>"
+      ],
+      [
+        "Mua chiếu và đồ cói: hỏi gì trước khi mua",
+        "<p></p>"
+      ],
+      [
+        "Ghép với động Từ Thức, căn cứ Ba Đình",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/thanh-hoa-xua-va-nay-chieu-coi-nga-son--net-dep-lang-bien-43353.htm",
+        "quote": "Báo Thanh Hóa (chuyên trang VHĐS), '[Thanh Hóa xưa và nay] Chiếu cói Nga Sơn – Nét đẹp làng biển' (14/05/2026, đọc 16/10/2026): vùng ven biển Nga Sơn nổi tiếng nghề dệt chiếu cói, có ca dao 'Chiếu Nga Sơn, gạch Bát Tràng, vải tơ Nam Định, lụa hàng Hà Đông'; cánh đồng cói ven sông, ven biển; công đoạn: thu hoạch cói, phơi khô, chọn sợi nhuộm màu, se sợi rồi dệt.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vanhoanghethuat.vn/nghien-cuu-bao-ton-va-phat-huy-gia-tri-lang-nghe-chieu-coi-nga-son-vao-phat-trien-du-lich-77757148.html",
+        "quote": "Tạp chí Văn hóa Nghệ thuật, 'Nghiên cứu bảo tồn và phát huy giá trị làng nghề chiếu cói Nga Sơn vào phát triển du lịch' (đọc 16/10/2026): làng nghề cách trung tâm huyện Nga Sơn khoảng 3 km về Đông Nam, gồm 8 xã ven biển, 37 làng, hơn 1.500 lao động; năm 2014 UBND tỉnh duyệt quy hoạch điểm du lịch làng nghề (QĐ 3136/QĐ-UBND) trong đó có chiếu cói Nga Sơn; chưa có chương trình tham quan riêng cho làng nghề.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01175"
+  }
+}

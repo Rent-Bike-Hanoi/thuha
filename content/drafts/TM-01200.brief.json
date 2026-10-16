@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T14:48:25.492921+00:00",
+  "topic": {
+    "topic_id": "TM-01200",
+    "url": "/du-lich/bao-tang-xo-viet-nghe-tinh/",
+    "title": "Bảo tàng Xô viết Nghệ Tĩnh ở Vinh: trưng bày gì, nằm ở đâu",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bảo tàng xô viết nghệ tĩnh",
+    "secondary_keywords": [
+      "bảo tàng nghệ an",
+      "bảo tàng xô viết nghệ tĩnh vinh",
+      "bảo tàng ở vinh",
+      "đường đào tấn vinh"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người ghé Vinh muốn xem một bảo tàng lịch sử trong thành phố cần biết Bảo tàng Xô viết Nghệ Tĩnh ở đâu, có những phòng trưng bày gì.",
+    "information_gain": "/du-lich/thanh-co-vinh/ và /du-lich/quang-truong-ho-chi-minh-vinh/ chỉ nhắc khu Thành cổ và quảng trường; chưa có bài về bảo tàng. Bài mới cho: địa chỉ số 10 Đào Tấn, trong khu Thành cổ, trên nền nhà lao Vinh cũ; thành lập 1960, đón khách 1963; 9 phòng thường trực về phong trào 1930–1931 và 2 phòng chuyên đề (Lênin; Kaysone Phomvihane – hữu nghị Việt–Lào); hiện vật nổi bật: trống da bò, 11 lá cờ Đảng, bức tường cong 77 chiến sĩ.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://vhttdl.nghean.gov.vn/du-lich-van-hoa-lich-su/bao-tang-xo-viet-nghe-tinh-471768",
+        "quote": "Sở VHTT Nghệ An, 'Bảo tàng Xô viết Nghệ Tĩnh' (30/6/2019, đọc 16/10/2026): thành lập 15/01/1960, trong khu Thành cổ Nghệ An, số 10 Đào Tấn, phường Cửa Nam, TP Vinh; đón khách từ 12/9/1963; trên nền nhà lao Vinh cũ, khuôn viên hơn 15.000 m2; 9 phòng trưng bày thường trực về phong trào Xô viết Nghệ Tĩnh và 2 phòng chuyên đề về V.I. Lênin và Kaysone Phomvihane – hữu nghị Việt–Lào; được công nhận điểm du lịch 12/2017.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3091/75791/nhung-djieu-can-biet-khi-tham-quan-hien-vat-quy-tai-bao-tang-xo-viet-nghe-tinh.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'Những điều cần biết khi tham quan hiện vật quý tại Bảo tàng Xô viết Nghệ Tĩnh' (đọc 16/10/2026): nhà trưng bày thuộc Bảo tàng Nghệ An – Xô viết Nghệ Tĩnh lưu giữ hàng chục nghìn hiện vật về cao trào 1930–1931; điểm nhấn: trống da bò hiệu triệu, cờ búa liềm, vũ khí thô sơ của Tự vệ đỏ, dụng cụ in truyền đơn, bức tường cong khắc chân dung 77 chiến sĩ Xô viết, bộ sưu tập 11 lá cờ Đảng, bộ trống mít tinh.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1300,
+        "checked": "2026-10-16",
+        "keyword": "bảo tàng xô viết nghệ tĩnh"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Bảo tàng nằm ở đâu trong khu Thành cổ Vinh",
+      "Lịch sử: từ nhà lao Vinh đến bảo tàng (1960–1963)",
+      "9 phòng thường trực về 1930–1931",
+      "Hiện vật nên xem: trống, 11 lá cờ, tường 77 chiến sĩ",
+      "Hai phòng chuyên đề Lênin và Kaysone",
+      "Kết hợp Thành cổ, quảng trường, đền Hồng Sơn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thanh-co-vinh/",
+      "/du-lich/quang-truong-ho-chi-minh-vinh/",
+      "/du-lich/den-hong-son-vinh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01200.json",
+  "draft_template": {
+    "id": "TM-01200",
+    "url": "/du-lich/bao-tang-xo-viet-nghe-tinh/",
+    "title": "Bảo tàng Xô viết Nghệ Tĩnh ở Vinh: trưng bày gì, nằm ở đâu",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bảo tàng xô viết nghệ tĩnh, bảo tàng nghệ an, bảo tàng xô viết nghệ tĩnh vinh, bảo tàng ở vinh, đường đào tấn vinh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bảo tàng nằm ở đâu trong khu Thành cổ Vinh",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử: từ nhà lao Vinh đến bảo tàng (1960–1963)",
+        "<p></p>"
+      ],
+      [
+        "9 phòng thường trực về 1930–1931",
+        "<p></p>"
+      ],
+      [
+        "Hiện vật nên xem: trống, 11 lá cờ, tường 77 chiến sĩ",
+        "<p></p>"
+      ],
+      [
+        "Hai phòng chuyên đề Lênin và Kaysone",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp Thành cổ, quảng trường, đền Hồng Sơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://vhttdl.nghean.gov.vn/du-lich-van-hoa-lich-su/bao-tang-xo-viet-nghe-tinh-471768",
+        "quote": "Sở VHTT Nghệ An, 'Bảo tàng Xô viết Nghệ Tĩnh' (30/6/2019, đọc 16/10/2026): thành lập 15/01/1960, trong khu Thành cổ Nghệ An, số 10 Đào Tấn, phường Cửa Nam, TP Vinh; đón khách từ 12/9/1963; trên nền nhà lao Vinh cũ, khuôn viên hơn 15.000 m2; 9 phòng trưng bày thường trực về phong trào Xô viết Nghệ Tĩnh và 2 phòng chuyên đề về V.I. Lênin và Kaysone Phomvihane – hữu nghị Việt–Lào; được công nhận điểm du lịch 12/2017.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://baotanglichsu.vn/vi/Articles/3091/75791/nhung-djieu-can-biet-khi-tham-quan-hien-vat-quy-tai-bao-tang-xo-viet-nghe-tinh.html",
+        "quote": "Bảo tàng Lịch sử Quốc gia, 'Những điều cần biết khi tham quan hiện vật quý tại Bảo tàng Xô viết Nghệ Tĩnh' (đọc 16/10/2026): nhà trưng bày thuộc Bảo tàng Nghệ An – Xô viết Nghệ Tĩnh lưu giữ hàng chục nghìn hiện vật về cao trào 1930–1931; điểm nhấn: trống da bò hiệu triệu, cờ búa liềm, vũ khí thô sơ của Tự vệ đỏ, dụng cụ in truyền đơn, bức tường cong khắc chân dung 77 chiến sĩ Xô viết, bộ sưu tập 11 lá cờ Đảng, bộ trống mít tinh.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01200"
+  }
+}

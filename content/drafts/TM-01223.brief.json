@@ -1,0 +1,143 @@
+{
+  "writer": "writer-6",
+  "queued": "2026-10-16T14:48:26.868964+00:00",
+  "topic": {
+    "topic_id": "TM-01223",
+    "url": "/du-lich/cong-vien-bac-linh-dam/",
+    "title": "Công viên Bắc Linh Đàm sau cải tạo: đi dạo hồ Linh Đàm",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "công viên bắc linh đàm",
+    "secondary_keywords": [
+      "công viên linh đàm",
+      "hồ linh đàm",
+      "đi dạo hồ linh đàm",
+      "công viên hoàng mai"
+    ],
+    "intent": "informational",
+    "user_problem": "Cư dân Hoàng Mai và khách ở khu Linh Đàm tìm chỗ đi dạo, tập thể dục ven hồ, muốn biết công viên Bắc Linh Đàm sau cải tạo có gì và gửi xe ở đâu.",
+    "information_gain": "Site có /du-lich/cong-vien-yen-so/ và /du-lich/chua-tu-ky/ ở Hoàng Mai nhưng chưa có bài về hồ/công viên Linh Đàm. Bài mới cho: diện tích gần 6.000m² hoàn thành 2/2000, tình trạng xuống cấp được báo chí ghi 2022, cải tạo khởi động đầu 2024 (lối đi đá chống trơn, ghế composite mái che, đèn năng lượng mặt trời, máy tập ngoài trời), hướng dẫn giờ đi dạo và gửi xe.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/hoi-sinh-cong-vien-gan-6000m2-o-quan-dong-dan-nhat-ha-noi-post1719787.tpo",
+        "quote": "Tiền Phong, ''Hồi sinh' công viên gần 6.000m2 ở quận đông dân nhất Hà Nội' (25/2/2025, đọc 16/10/2026): công viên Bắc Linh Đàm ven hồ Linh Đàm, cải tạo khởi động đầu 2024 sau hơn 20 năm sử dụng; lát lại lối đi bằng đá tự nhiên chống trơn, gia cố bờ kè, ghế gỗ composite có mái che, đèn năng lượng mặt trời, khu tập thể thao ngoài trời.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/xa-hoi/xuong-cap-tram-trong-nhieu-cong-vien-giua-thu-do-keu-cuu-20220813231754652.htm",
+        "quote": "VTV, 'Xuống cấp trầm trọng, nhiều công viên giữa Thủ đô kêu cứu' (14/8/2022, đọc 16/10/2026): công viên Bắc Linh Đàm hoàn thành 2/2000, rộng 6.000m²; khi đó xuống cấp: đèn hỏng, phòng vé rêu mốc, dải ven hồ bị trồng rau, hố ga không nắp.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "công viên bắc linh đàm"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Công viên Bắc Linh Đàm ở đâu",
+      "Từ xuống cấp đến cải tạo 2024",
+      "Có gì sau cải tạo: lối đi, ghế, máy tập",
+      "Đi dạo vòng hồ Linh Đàm",
+      "Đi xe máy tới và gửi xe",
+      "Gần đó có gì: chùa Tứ Kỳ, công viên Yên Sở"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-tu-ky/",
+      "/du-lich/cong-vien-yen-so/",
+      "/du-lich/ben-xe-giap-bat/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/cong-vien-cau-giay/",
+        "layers": [
+          "keyword_normalized",
+          "title"
+        ],
+        "scores": {
+          "keyword_normalized": 1.0,
+          "title": 0.466
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/cong-vien-cau-giay/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01223.json",
+  "draft_template": {
+    "id": "TM-01223",
+    "url": "/du-lich/cong-vien-bac-linh-dam/",
+    "title": "Công viên Bắc Linh Đàm sau cải tạo: đi dạo hồ Linh Đàm",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "công viên bắc linh đàm, công viên linh đàm, hồ linh đàm, đi dạo hồ linh đàm, công viên hoàng mai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Công viên Bắc Linh Đàm ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Từ xuống cấp đến cải tạo 2024",
+        "<p></p>"
+      ],
+      [
+        "Có gì sau cải tạo: lối đi, ghế, máy tập",
+        "<p></p>"
+      ],
+      [
+        "Đi dạo vòng hồ Linh Đàm",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy tới và gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Gần đó có gì: chùa Tứ Kỳ, công viên Yên Sở",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/hoi-sinh-cong-vien-gan-6000m2-o-quan-dong-dan-nhat-ha-noi-post1719787.tpo",
+        "quote": "Tiền Phong, ''Hồi sinh' công viên gần 6.000m2 ở quận đông dân nhất Hà Nội' (25/2/2025, đọc 16/10/2026): công viên Bắc Linh Đàm ven hồ Linh Đàm, cải tạo khởi động đầu 2024 sau hơn 20 năm sử dụng; lát lại lối đi bằng đá tự nhiên chống trơn, gia cố bờ kè, ghế gỗ composite có mái che, đèn năng lượng mặt trời, khu tập thể thao ngoài trời.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vtv.vn/xa-hoi/xuong-cap-tram-trong-nhieu-cong-vien-giua-thu-do-keu-cuu-20220813231754652.htm",
+        "quote": "VTV, 'Xuống cấp trầm trọng, nhiều công viên giữa Thủ đô kêu cứu' (14/8/2022, đọc 16/10/2026): công viên Bắc Linh Đàm hoàn thành 2/2000, rộng 6.000m²; khi đó xuống cấp: đèn hỏng, phòng vé rêu mốc, dải ven hồ bị trồng rau, hố ga không nắp.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01223"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T14:48:25.763838+00:00",
+  "topic": {
+    "topic_id": "TM-01163",
+    "url": "/du-lich/ho-dong-quan-soc-son/",
+    "title": "Hồ Đồng Quan Sóc Sơn: rừng thông, cắm trại ven hồ, cá kho làng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "hồ đồng quan sóc sơn",
+    "secondary_keywords": [
+      "hồ đồng quan",
+      "cắm trại hồ đồng quan",
+      "my hill sóc sơn",
+      "cá kho hồ đồng quan"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Nhóm bạn, gia đình ở Hà Nội tìm chỗ cắm trại, picnic cuối tuần gần Sóc Sơn muốn biết hồ Đồng Quan ở đâu, khác gì hồ Đồng Đò và cần lưu ý gì.",
+    "information_gain": "Site đã có /du-lich/ho-dong-do-soc-son/, /du-lich/nui-ham-lon/ và /du-lich/den-soc-soc-son/ nhưng chưa có trang về hồ Đồng Quan. Bài mới cho: vị trí gần đền Sóc, hồ nằm trong cụm 'núi Sóc – hồ Đồng Quan' của quy hoạch du lịch Hà Nội, điểm cắm trại My Hill ven hồ (vé tham khảo theo nguồn 2024), món cá kho hồ Đồng Quan, và cách ghép với hồ Kèo Cả, hồ Đồng Đò trong một ngày.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-soc-son-4445500.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sóc Sơn 2024 từ A-Z' (04/01/2024, đọc 16/10/2026): khu sinh thái hồ Đồng Quan nằm gần đền Gióng, hợp leo đồi, cắm trại, nướng; điểm cắm trại My Hill vé vào 40.000 đồng/người, qua đêm 60.000 đồng (giá theo bài 2024); nhóm dưới 15 người dựng lều tại chòi bên hồ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-soc-son-4738568.html",
+        "quote": "VnExpress, '48 giờ ở Sóc Sơn' (28/4/2024, đọc 16/10/2026): gợi ý đi bộ, chạy quanh hồ Kèo Cả, hồ Đồng Quan, xa hơn là hồ Đồng Đò; món cá kho hồ Đồng Quan trong nhóm món dân dã nên ăn.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/sunday/1638044/soc-son-shows-limitless-tourist-potential.html",
+        "quote": "Việt Nam News, 'Sóc Sơn shows limitless tourist potential' (24/12/2023, đọc 16/10/2026): trong quy hoạch phát triển du lịch Hà Nội, cụm núi Sóc – hồ Đồng Quan là một trong sáu cụm du lịch trọng điểm (tâm linh, nghỉ dưỡng sinh thái, thể thao).",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 210,
+        "checked": "2026-10-16",
+        "keyword": "hồ đồng quan sóc sơn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Hồ Đồng Quan ở đâu, đi từ Long Biên bằng xe máy",
+      "Cảnh quan: hồ, đồi và rừng thông",
+      "Cắm trại, câu cá ven hồ: dịch vụ và giá cần hỏi lại",
+      "Ăn gì: cá kho hồ Đồng Quan",
+      "Ghép lịch trình với đền Sóc, hồ Kèo Cả, hồ Đồng Đò",
+      "Lưu ý an toàn khi cắm trại, mang rác về"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ho-dong-do-soc-son/",
+      "/du-lich/den-soc-soc-son/",
+      "/du-lich/nui-ham-lon/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01163.json",
+  "draft_template": {
+    "id": "TM-01163",
+    "url": "/du-lich/ho-dong-quan-soc-son/",
+    "title": "Hồ Đồng Quan Sóc Sơn: rừng thông, cắm trại ven hồ, cá kho làng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ đồng quan sóc sơn, hồ đồng quan, cắm trại hồ đồng quan, my hill sóc sơn, cá kho hồ đồng quan",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Đồng Quan ở đâu, đi từ Long Biên bằng xe máy",
+        "<p></p>"
+      ],
+      [
+        "Cảnh quan: hồ, đồi và rừng thông",
+        "<p></p>"
+      ],
+      [
+        "Cắm trại, câu cá ven hồ: dịch vụ và giá cần hỏi lại",
+        "<p></p>"
+      ],
+      [
+        "Ăn gì: cá kho hồ Đồng Quan",
+        "<p></p>"
+      ],
+      [
+        "Ghép lịch trình với đền Sóc, hồ Kèo Cả, hồ Đồng Đò",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý an toàn khi cắm trại, mang rác về",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-soc-son-4445500.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sóc Sơn 2024 từ A-Z' (04/01/2024, đọc 16/10/2026): khu sinh thái hồ Đồng Quan nằm gần đền Gióng, hợp leo đồi, cắm trại, nướng; điểm cắm trại My Hill vé vào 40.000 đồng/người, qua đêm 60.000 đồng (giá theo bài 2024); nhóm dưới 15 người dựng lều tại chòi bên hồ.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/48-gio-o-soc-son-4738568.html",
+        "quote": "VnExpress, '48 giờ ở Sóc Sơn' (28/4/2024, đọc 16/10/2026): gợi ý đi bộ, chạy quanh hồ Kèo Cả, hồ Đồng Quan, xa hơn là hồ Đồng Đò; món cá kho hồ Đồng Quan trong nhóm món dân dã nên ăn.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/sunday/1638044/soc-son-shows-limitless-tourist-potential.html",
+        "quote": "Việt Nam News, 'Sóc Sơn shows limitless tourist potential' (24/12/2023, đọc 16/10/2026): trong quy hoạch phát triển du lịch Hà Nội, cụm núi Sóc – hồ Đồng Quan là một trong sáu cụm du lịch trọng điểm (tâm linh, nghỉ dưỡng sinh thái, thể thao).",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01163"
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T14:48:26.339386+00:00",
+  "topic": {
+    "topic_id": "TM-01176",
+    "url": "/du-lich/lang-gom-bo-bat/",
+    "title": "Làng gốm Bồ Bát Ninh Bình: gốm men trắng ở làng Bạch Liên, Yên Mô cũ",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "làng gốm bồ bát",
+    "secondary_keywords": [
+      "gốm bồ bát ninh bình",
+      "làng bạch liên yên mô",
+      "gốm men trắng bồ bát",
+      "bồ bát bát tràng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Ninh Bình muốn tìm một làng nghề ít khách ngoài Tràng An, Tam Cốc: muốn biết gốm Bồ Bát ở đâu, có gì khác Bát Tràng, xem và mua gì.",
+    "information_gain": "/du-lich/lang-gom-bat-trang/ nói Bát Tràng; /du-lich/tam-coc-bich-dong/ và /du-lich/co-do-hoa-lu/ không có làng nghề gốm Ninh Bình. Bài mới cho: vị trí làng Bạch Liên (xã Yên Thành, Yên Mô cũ), đất sét trắng Bồ Di ('đất non sương') nung chỉ 50–70% thời gian, di chỉ Mán Bạc khai quật 1999, truyền thuyết thợ Bồ Bát theo nhà Lý ra Thăng Long lập Bát Tràng, nghề từng thất truyền rồi hồi sinh, sản phẩm men gan giả cổ vẽ cảnh Tràng An, Bái Đính.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2571",
+        "quote": "Trung tâm Xúc tiến du lịch Ninh Bình, 'Về Ninh Bình thăm làng gốm Bồ Bát' (đọc 16/10/2026): làng Bạch Liên, xã Yên Thành, huyện Yên Mô; đất sét Bồ Di (đất non sương) cho men trắng, nung 50–70% thời gian so với đất khác; khai quật di chỉ Mán Bạc năm 1999 tìm thấy 15 mộ, 17 cá thể và đồ gốm; theo sử sách nghệ nhân Bạch Liên theo nhà Lý (1010) ra Thăng Long lập Bát Tràng, nghề ở làng bị thất truyền rồi được tái phát triển; nay làm ấm chén, bát đĩa, chuông gió, tranh gốm, men gan giả cổ, vẽ cảnh Hoa Lư, Tràng An, Bái Đính, Tam Cốc.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/lang-gom-bo-bat-hoi-sinh-sau-hang-tram-nam-that-truyen-post454048.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Làng gốm Bồ Bát hồi sinh sau hàng trăm năm thất truyền' (07/10/2022, đọc 16/10/2026): nghề gốm bắt nguồn từ làng Bạch Bát – Bồ Xuyên (Ái Châu xưa), nay là làng Bạch Liên, xã Yên Thành, Yên Mô; dùng đất sét trắng quý hiếm, khác gốm Gia Thủy (Nho Quan) dùng đất sét vàng; phát triển rực rỡ từ thế kỷ X; truyền thuyết ông Hứa Vĩnh Kiều người Bồ Bát học nghề gốm trắng, được tôn làm tổ nghề.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "làng gốm bồ bát"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Bồ Bát ở đâu: làng Bạch Liên và tên hành chính mới",
+      "Đất sét trắng Bồ Di khác gì đất làm gốm khác",
+      "Di chỉ Mán Bạc và truyền thuyết tổ nghề",
+      "Từ thất truyền đến hồi sinh: xưởng gốm hiện nay",
+      "Xem làm gốm, mua gì làm quà",
+      "Ghép Bồ Bát với Tam Cốc, đền Thái Vi"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-gom-bat-trang/",
+      "/du-lich/tam-coc-bich-dong/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/lang-gom-bat-trang/",
+        "layers": [
+          "title"
+        ],
+        "scores": {
+          "title": 0.435
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/lang-gom-bat-trang/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01176.json",
+  "draft_template": {
+    "id": "TM-01176",
+    "url": "/du-lich/lang-gom-bo-bat/",
+    "title": "Làng gốm Bồ Bát Ninh Bình: gốm men trắng ở làng Bạch Liên, Yên Mô cũ",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng gốm bồ bát, gốm bồ bát ninh bình, làng bạch liên yên mô, gốm men trắng bồ bát, bồ bát bát tràng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bồ Bát ở đâu: làng Bạch Liên và tên hành chính mới",
+        "<p></p>"
+      ],
+      [
+        "Đất sét trắng Bồ Di khác gì đất làm gốm khác",
+        "<p></p>"
+      ],
+      [
+        "Di chỉ Mán Bạc và truyền thuyết tổ nghề",
+        "<p></p>"
+      ],
+      [
+        "Từ thất truyền đến hồi sinh: xưởng gốm hiện nay",
+        "<p></p>"
+      ],
+      [
+        "Xem làm gốm, mua gì làm quà",
+        "<p></p>"
+      ],
+      [
+        "Ghép Bồ Bát với Tam Cốc, đền Thái Vi",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/2571",
+        "quote": "Trung tâm Xúc tiến du lịch Ninh Bình, 'Về Ninh Bình thăm làng gốm Bồ Bát' (đọc 16/10/2026): làng Bạch Liên, xã Yên Thành, huyện Yên Mô; đất sét Bồ Di (đất non sương) cho men trắng, nung 50–70% thời gian so với đất khác; khai quật di chỉ Mán Bạc năm 1999 tìm thấy 15 mộ, 17 cá thể và đồ gốm; theo sử sách nghệ nhân Bạch Liên theo nhà Lý (1010) ra Thăng Long lập Bát Tràng, nghề ở làng bị thất truyền rồi được tái phát triển; nay làm ấm chén, bát đĩa, chuông gió, tranh gốm, men gan giả cổ, vẽ cảnh Hoa Lư, Tràng An, Bái Đính, Tam Cốc.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/lang-gom-bo-bat-hoi-sinh-sau-hang-tram-nam-that-truyen-post454048.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Làng gốm Bồ Bát hồi sinh sau hàng trăm năm thất truyền' (07/10/2022, đọc 16/10/2026): nghề gốm bắt nguồn từ làng Bạch Bát – Bồ Xuyên (Ái Châu xưa), nay là làng Bạch Liên, xã Yên Thành, Yên Mô; dùng đất sét trắng quý hiếm, khác gốm Gia Thủy (Nho Quan) dùng đất sét vàng; phát triển rực rỡ từ thế kỷ X; truyền thuyết ông Hứa Vĩnh Kiều người Bồ Bát học nghề gốm trắng, được tôn làm tổ nghề.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01176"
+  }
+}

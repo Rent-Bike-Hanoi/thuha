@@ -1,0 +1,131 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T14:48:26.601761+00:00",
+  "topic": {
+    "topic_id": "TM-01180",
+    "url": "/du-lich/di-chi-nui-do/",
+    "title": "Di chỉ núi Đọ Thanh Hóa: dấu tích đồ đá cũ bên ngã ba sông Chu – sông Mã",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "di chỉ núi đọ",
+    "secondary_keywords": [
+      "núi đọ thanh hóa",
+      "văn hóa núi đọ",
+      "núi đọ ở đâu",
+      "chùa vồm bàn chân tiên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người quan tâm lịch sử khi đi Thanh Hóa (Hàm Rồng, bảo tàng tỉnh) muốn biết núi Đọ là gì, có gì để xem tận nơi và đi đường nào.",
+    "information_gain": "/du-lich/ham-rong-thanh-hoa/, /du-lich/bao-tang-thanh-hoa/ và /du-lich/hang-con-moong-thach-thanh/ không nói núi Đọ. Bài mới cho: núi cao gần 160 m ở hữu ngạn sông Chu nơi hợp lưu sông Mã, phát hiện 1960, 'văn hóa núi Đọ' sơ kỳ đồ đá cũ, hàng vạn mảnh tước còn rải rác sườn Đông và Tây Nam, di tích quốc gia từ 1962, các thắng tích chùa Vồm, chùa Đọ, bàn chân Tiên – và cảnh báo thực trạng di tích chưa được tôn tạo, đường lên khó tìm.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/nhung-nen-van-hoa-co-o-xu-thanh-hoi-tu-va-toa-sang-di-chi-nui-do-tu-dau-chan-loai-nguoi-den-su-phat-trien-xa-hoi-40059.htm",
+        "quote": "Báo Thanh Hóa (VHĐS), 'Di chỉ Núi Đọ – Từ dấu chân loài người đến sự phát triển xã hội' (17/11/2025, đọc 16/10/2026): núi Đọ ở hữu ngạn sông Chu, nơi hợp lưu sông Chu – sông Mã, cao gần 160 m, thuộc Thiệu Tân và Thiệu Khánh cũ, nay là phường Đông Tiến; dấu vết người nguyên thủy phát hiện lần đầu năm 1960; 'văn hóa núi Đọ' sơ kỳ đồ đá cũ gồm núi Đọ, núi Nuông, Quan Yên I, núi Nổ; hàng vạn mảnh tước còn rải rác, nhất là sườn Đông và Tây Nam.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/di-tich-nui-do-di-san-bi-lang-quen-10197495.html",
+        "quote": "Báo Đại Đoàn Kết, 'Di tích núi Đọ: Di sản bị lãng quên' (29/07/2021, đọc 16/10/2026): di tích trên địa bàn Thiệu Tân, Thiệu Vân, Thiệu Khánh; 4 lần khai quật từ 1960 với 2.500 hiện vật đá; có chùa Vồm, bàn chân Tiên, chùa Đọ; công nhận di tích quốc gia năm 1962; nhà dân xây sát chân núi, chùa Đọ dựng lại đơn sơ, lối lên bàn chân Tiên bị cây dại phủ và lọt vào vườn nhà dân.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "di chỉ núi đọ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Núi Đọ ở đâu: tên phường mới và hướng đi từ TP Thanh Hóa",
+      "Vì sao núi Đọ quan trọng với khảo cổ Việt Nam",
+      "Thấy gì tận nơi: mảnh tước, sườn núi, chùa Đọ",
+      "Chùa Vồm và bàn chân Tiên",
+      "Thực trạng di tích và cách tham quan có trách nhiệm",
+      "Ghép với Hàm Rồng và bảo tàng tỉnh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ham-rong-thanh-hoa/",
+      "/du-lich/bao-tang-thanh-hoa/",
+      "/du-lich/lang-co-dong-son-thanh-hoa/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01180.json",
+  "draft_template": {
+    "id": "TM-01180",
+    "url": "/du-lich/di-chi-nui-do/",
+    "title": "Di chỉ núi Đọ Thanh Hóa: dấu tích đồ đá cũ bên ngã ba sông Chu – sông Mã",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "di chỉ núi đọ, núi đọ thanh hóa, văn hóa núi đọ, núi đọ ở đâu, chùa vồm bàn chân tiên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Núi Đọ ở đâu: tên phường mới và hướng đi từ TP Thanh Hóa",
+        "<p></p>"
+      ],
+      [
+        "Vì sao núi Đọ quan trọng với khảo cổ Việt Nam",
+        "<p></p>"
+      ],
+      [
+        "Thấy gì tận nơi: mảnh tước, sườn núi, chùa Đọ",
+        "<p></p>"
+      ],
+      [
+        "Chùa Vồm và bàn chân Tiên",
+        "<p></p>"
+      ],
+      [
+        "Thực trạng di tích và cách tham quan có trách nhiệm",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Hàm Rồng và bảo tàng tỉnh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vhds.baothanhhoa.vn/nhung-nen-van-hoa-co-o-xu-thanh-hoi-tu-va-toa-sang-di-chi-nui-do-tu-dau-chan-loai-nguoi-den-su-phat-trien-xa-hoi-40059.htm",
+        "quote": "Báo Thanh Hóa (VHĐS), 'Di chỉ Núi Đọ – Từ dấu chân loài người đến sự phát triển xã hội' (17/11/2025, đọc 16/10/2026): núi Đọ ở hữu ngạn sông Chu, nơi hợp lưu sông Chu – sông Mã, cao gần 160 m, thuộc Thiệu Tân và Thiệu Khánh cũ, nay là phường Đông Tiến; dấu vết người nguyên thủy phát hiện lần đầu năm 1960; 'văn hóa núi Đọ' sơ kỳ đồ đá cũ gồm núi Đọ, núi Nuông, Quan Yên I, núi Nổ; hàng vạn mảnh tước còn rải rác, nhất là sườn Đông và Tây Nam.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://daidoanket.vn/di-tich-nui-do-di-san-bi-lang-quen-10197495.html",
+        "quote": "Báo Đại Đoàn Kết, 'Di tích núi Đọ: Di sản bị lãng quên' (29/07/2021, đọc 16/10/2026): di tích trên địa bàn Thiệu Tân, Thiệu Vân, Thiệu Khánh; 4 lần khai quật từ 1960 với 2.500 hiện vật đá; có chùa Vồm, bàn chân Tiên, chùa Đọ; công nhận di tích quốc gia năm 1962; nhà dân xây sát chân núi, chùa Đọ dựng lại đơn sơ, lối lên bàn chân Tiên bị cây dại phủ và lọt vào vườn nhà dân.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01180"
+  }
+}

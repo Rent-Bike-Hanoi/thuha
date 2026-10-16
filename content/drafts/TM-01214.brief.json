@@ -1,0 +1,131 @@
+{
+  "writer": "writer-6",
+  "queued": "2026-10-16T14:48:26.868649+00:00",
+  "topic": {
+    "topic_id": "TM-01214",
+    "url": "/xe-may/chinh-gio-dong-ho-xe-may-honda/",
+    "title": "Chỉnh giờ đồng hồ xe máy Honda: nút MODE, nút SELECT và SET",
+    "hub": "xe-may",
+    "subtopic": "van-hanh",
+    "primary_keyword": "chỉnh giờ đồng hồ xe máy honda",
+    "secondary_keywords": [
+      "cách chỉnh giờ xe lead",
+      "chỉnh đồng hồ xe air blade",
+      "cài đặt đồng hồ xe máy",
+      "đồng hồ xe máy bị sai giờ"
+    ],
+    "intent": "informational",
+    "user_problem": "Sau khi tháo bình điện, thay ắc quy hay mới nhận xe, đồng hồ giờ trên xe tay ga Honda chạy sai hoặc nhấp nháy; người dùng cần thao tác nút cụ thể theo từng mẫu.",
+    "information_gain": "/xe-may/cai-lai-den-bao-thay-dau-honda/ chỉ hướng dẫn cài lại đèn OIL CHANGE; /xe-may/den-bao-tren-dong-ho-xe-may/ giải thích đèn báo. Chưa có trang chỉnh giờ. Bài mới cho: LEAD 125 dùng một nút MODE (chọn đồng hồ giờ, giữ MODE tới khi giờ nhấp nháy, ấn MODE chọn giờ và AM/PM, giữ MODE sang phút), đồng hồ hiển thị 12 giờ; Air Blade 160/125 dùng hai nút SELECT và SET (vào chế độ cài đặt, SET để giờ nhấp nháy, SELECT tăng giá trị, giữ để tăng nhanh, SET chuyển phút, sau đó màn hình chuyển sang cài khoảng đèn OIL CHANGE); bảng so sánh thao tác hai mẫu.",
+    "evidence": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, 'Hướng dẫn sử dụng LEAD 125' (PDF 11/2025, đọc 16/10/2026), trang 25–26: bảng đồng hồ có đồng hồ báo giờ (hiển thị 12 giờ). Cài đặt: chọn đồng hồ báo giờ; ấn và giữ nút MODE tới khi số giờ nhấp nháy; ấn MODE tới khi hiện giờ và AM/PM mong muốn; ấn và giữ MODE, số phút nhấp nháy; ấn MODE tới khi hiện số phút mong muốn.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, 'Hướng dẫn sử dụng ACA160CAF/ACA125CAF/CBF' (Air Blade 160/125, PDF 11/2025, đọc 16/10/2026), phần Bảng đồng hồ: 'Cài đặt đồng hồ' dùng nút SELECT và SET: vặn khóa On, nhấn giữ SELECT và SET để vào chế độ cài đặt; nhấn SET, chữ số giờ nhấp nháy; nhấn SELECT tới giờ mong muốn (giữ để tăng nhanh); nhấn SET, số phút nhấp nháy; chỉnh tương tự; nhấn SET, màn hình chuyển sang giá trị khoảng thời gian của đèn báo OIL CHANGE.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "chỉnh giờ đồng hồ xe máy honda"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Câu trả lời ngắn: xem xe có một nút MODE hay hai nút SELECT/SET",
+      "Khi nào đồng hồ bị sai giờ",
+      "Chỉnh giờ trên LEAD 125: từng bước với nút MODE",
+      "Chỉnh giờ trên Air Blade 160/125: SELECT và SET",
+      "Đừng nhầm với cài lại đèn thay dầu",
+      "Xe khác hoặc xe thuê: tra sổ hướng dẫn của đúng mẫu"
+    ],
+    "suggested_internal_links": [
+      "/xe-may/cai-lai-den-bao-thay-dau-honda/",
+      "/xe-may/den-bao-tren-dong-ho-xe-may/",
+      "/xe-may/honda-lead-125/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01214.json",
+  "draft_template": {
+    "id": "TM-01214",
+    "url": "/xe-may/chinh-gio-dong-ho-xe-may-honda/",
+    "title": "Chỉnh giờ đồng hồ xe máy Honda: nút MODE, nút SELECT và SET",
+    "hub": "xe-may",
+    "parent": "/xe-may/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chỉnh giờ đồng hồ xe máy honda, cách chỉnh giờ xe lead, chỉnh đồng hồ xe air blade, cài đặt đồng hồ xe máy, đồng hồ xe máy bị sai giờ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Câu trả lời ngắn: xem xe có một nút MODE hay hai nút SELECT/SET",
+        "<p></p>"
+      ],
+      [
+        "Khi nào đồng hồ bị sai giờ",
+        "<p></p>"
+      ],
+      [
+        "Chỉnh giờ trên LEAD 125: từng bước với nút MODE",
+        "<p></p>"
+      ],
+      [
+        "Chỉnh giờ trên Air Blade 160/125: SELECT và SET",
+        "<p></p>"
+      ],
+      [
+        "Đừng nhầm với cài lại đèn thay dầu",
+        "<p></p>"
+      ],
+      [
+        "Xe khác hoặc xe thuê: tra sổ hướng dẫn của đúng mẫu",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+        "quote": "Honda Việt Nam, 'Hướng dẫn sử dụng LEAD 125' (PDF 11/2025, đọc 16/10/2026), trang 25–26: bảng đồng hồ có đồng hồ báo giờ (hiển thị 12 giờ). Cài đặt: chọn đồng hồ báo giờ; ấn và giữ nút MODE tới khi số giờ nhấp nháy; ấn MODE tới khi hiện giờ và AM/PM mong muốn; ấn và giữ MODE, số phút nhấp nháy; ấn MODE tới khi hiện số phút mong muốn.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "manufacturer",
+        "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+        "quote": "Honda Việt Nam, 'Hướng dẫn sử dụng ACA160CAF/ACA125CAF/CBF' (Air Blade 160/125, PDF 11/2025, đọc 16/10/2026), phần Bảng đồng hồ: 'Cài đặt đồng hồ' dùng nút SELECT và SET: vặn khóa On, nhấn giữ SELECT và SET để vào chế độ cài đặt; nhấn SET, chữ số giờ nhấp nháy; nhấn SELECT tới giờ mong muốn (giữ để tăng nhanh); nhấn SET, số phút nhấp nháy; chỉnh tương tự; nhấn SET, màn hình chuyển sang giá trị khoảng thời gian của đèn báo OIL CHANGE.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01214"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T14:48:26.063453+00:00",
+  "topic": {
+    "topic_id": "TM-01166",
+    "url": "/du-lich/lang-giay-da-phu-yen-phu-xuyen/",
+    "title": "Làng giày da Phú Yên Phú Xuyên: Giẽ Thượng, Giẽ Hạ và dãy cửa hàng giày",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng giày da phú yên",
+    "secondary_keywords": [
+      "làng giày phú xuyên",
+      "giày da giẽ hạ",
+      "giày da giẽ thượng",
+      "mua giày ở phú yên phú xuyên"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn mua giày da tận làng hoặc tò mò về làng nghề giày gần Hà Nội muốn biết làng Phú Yên ở đâu, nguồn gốc nghề và mua ở khu nào.",
+    "information_gain": "Site có /du-lich/dinh-pha-truc-lam-40-hang-hanh/ (đình thờ tổ nghề da giày ở phố cổ) và /du-lich/lang-cuu-phu-xuyen/, chưa có trang về làng giày Phú Yên. Bài mới cho: hai thôn Giẽ Thượng, Giẽ Hạ; nghề bắt đầu đầu thế kỷ 20 từ cụ Nguyễn Lương Nghé học nghề ở phố Tràng Tiền; khu bán hàng gần 2 km đầu làng; làng là điểm du lịch thành phố công nhận; chuyển sang công nghiệp hỗ trợ, hơn 100 cơ sở đăng ký nhãn hiệu, sản phẩm OCOP 4 sao.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/phat-trien-cong-nghiep/lang-nghe-phu-yen-diem-sang-trong-cong-nghiep-ho-tro-nganh-da-giay-viet-nam.html",
+        "quote": "Bộ Công Thương, 'Làng nghề Phú Yên: Điểm sáng trong công nghiệp hỗ trợ ngành da giày Việt Nam' (không ghi ngày trên bản đọc được, đọc 16/10/2026): xã Phú Yên (Phú Xuyên) có hai làng nghề Giẽ Thượng, Giẽ Hạ; nghề khởi nguồn đầu thế kỷ 20 khi cụ Nguyễn Lương Nghé học nghề ở phố Tràng Tiền; hơn 100 cơ sở đăng ký nhãn hiệu; hơn 500 hộ tham gia sản xuất; có sản phẩm OCOP 4 sao.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/khoi-day-tiem-nang-du-lich-phu-xuyen-post859399.html",
+        "quote": "Nhân Dân, 'Khơi dậy tiềm năng du lịch Phú Xuyên' (10/02/2025, đọc 16/10/2026): khu trưng bày và bán sản phẩm dài gần 2 km ở đầu làng có gần 400 hiệu giày; giày da Phú Yên là một trong bốn điểm du lịch UBND TP Hà Nội công nhận ở Phú Xuyên.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "làng giày da phú yên"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Làng giày Phú Yên ở đâu, đường đi xe máy",
+      "Nguồn gốc nghề: cụ Nguyễn Lương Nghé và phố Tràng Tiền",
+      "Giẽ Thượng, Giẽ Hạ hôm nay: từ thủ công sang công nghiệp hỗ trợ",
+      "Dãy cửa hàng đầu làng: xem gì, chọn giày thế nào",
+      "Ghép với Phú Túc, làng Cựu, Chuyên Mỹ",
+      "Lưu ý: không cam kết giá, thử giày kỹ, giữ hóa đơn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/dinh-pha-truc-lam-40-hang-hanh/",
+      "/du-lich/lang-cuu-phu-xuyen/",
+      "/du-lich/lang-kham-trai-chuyen-my/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01166.json",
+  "draft_template": {
+    "id": "TM-01166",
+    "url": "/du-lich/lang-giay-da-phu-yen-phu-xuyen/",
+    "title": "Làng giày da Phú Yên Phú Xuyên: Giẽ Thượng, Giẽ Hạ và dãy cửa hàng giày",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng giày da phú yên, làng giày phú xuyên, giày da giẽ hạ, giày da giẽ thượng, mua giày ở phú yên phú xuyên",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng giày Phú Yên ở đâu, đường đi xe máy",
+        "<p></p>"
+      ],
+      [
+        "Nguồn gốc nghề: cụ Nguyễn Lương Nghé và phố Tràng Tiền",
+        "<p></p>"
+      ],
+      [
+        "Giẽ Thượng, Giẽ Hạ hôm nay: từ thủ công sang công nghiệp hỗ trợ",
+        "<p></p>"
+      ],
+      [
+        "Dãy cửa hàng đầu làng: xem gì, chọn giày thế nào",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Phú Túc, làng Cựu, Chuyên Mỹ",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý: không cam kết giá, thử giày kỹ, giữ hóa đơn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://moit.gov.vn/tin-tuc/phat-trien-cong-nghiep/lang-nghe-phu-yen-diem-sang-trong-cong-nghiep-ho-tro-nganh-da-giay-viet-nam.html",
+        "quote": "Bộ Công Thương, 'Làng nghề Phú Yên: Điểm sáng trong công nghiệp hỗ trợ ngành da giày Việt Nam' (không ghi ngày trên bản đọc được, đọc 16/10/2026): xã Phú Yên (Phú Xuyên) có hai làng nghề Giẽ Thượng, Giẽ Hạ; nghề khởi nguồn đầu thế kỷ 20 khi cụ Nguyễn Lương Nghé học nghề ở phố Tràng Tiền; hơn 100 cơ sở đăng ký nhãn hiệu; hơn 500 hộ tham gia sản xuất; có sản phẩm OCOP 4 sao.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/ocop/khoi-day-tiem-nang-du-lich-phu-xuyen-post859399.html",
+        "quote": "Nhân Dân, 'Khơi dậy tiềm năng du lịch Phú Xuyên' (10/02/2025, đọc 16/10/2026): khu trưng bày và bán sản phẩm dài gần 2 km ở đầu làng có gần 400 hiệu giày; giày da Phú Yên là một trong bốn điểm du lịch UBND TP Hà Nội công nhận ở Phú Xuyên.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01166"
+  }
+}

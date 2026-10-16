@@ -1,0 +1,131 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T14:48:26.339695+00:00",
+  "topic": {
+    "topic_id": "TM-01177",
+    "url": "/du-lich/den-quan-chao-tam-diep/",
+    "title": "Đền Quán Cháo Tam Điệp: tích dâng cháo quân Tây Sơn, lễ hội tháng Giêng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền quán cháo",
+    "secondary_keywords": [
+      "đền quán cháo tam điệp",
+      "đền dâu quán cháo",
+      "chúc sơn tiên từ",
+      "đền quán cháo ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy QL1A qua dốc Tam Điệp (đi Thanh Hóa, đi lễ đền Sòng) muốn ghé đền Quán Cháo: ở đâu, thờ ai, lễ hội khi nào.",
+    "information_gain": "/du-lich/den-song-son-bim-son/ nói đền Sòng (Thanh Hóa) cùng hệ thờ Mẫu; /du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/ chỉ chỉ đường. Chưa trang nào nói đền Quán Cháo/đền Dâu. Bài mới cho: tên chữ Chúc Sơn Tiên từ, tích Mẫu hóa tiên nữ dâng cháo cho quân Tây Sơn trước trận 1789, trùng tu năm 1854, kiến trúc chữ Nhị và 3 cung thờ, lễ hội từ rằm tháng Giêng đến 3/3 âm lịch, xếp hạng di tích cấp tỉnh 2009 cùng đền Dâu, và lưu ý dừng xe ngay sát QL1A.",
+    "evidence": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3212",
+        "quote": "Trung tâm Xúc tiến du lịch Ninh Bình, 'Đền Quán Cháo' (đọc 16/10/2026): thuộc cụm di tích Đền Dâu – Quán Cháo, phường Tam Điệp; tên chữ Chúc Sơn Tiên từ; truyền thuyết Thánh Mẫu hóa tiên nữ dâng cháo cho nghĩa quân Tây Sơn trước trận Đống Đa 1789, vua Quang Trung cho lập miếu thờ Mẫu Liễu Hạnh; năm 1854 Tuần phủ Tôn Thất Tĩnh trùng tu; đền sát QL1A, kiến trúc chữ Nhị, hậu cung chuôi vồ, ba cung thờ; lễ hội từ 15 tháng Giêng đến hết mùng 3 tháng 3 âm lịch.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://tamdiep.ninhbinh.gov.vn/vi/van-hoa-xa-hoi-an-ninh-quoc-phong/tang-cuong-cong-tac-quan-ly-phat-huy-hieu-qua-gia-tri-lich-su-van-hoa-den-dau-den-quan-chao-theo-dung-quy-dinh-1990.html",
+        "quote": "UBND TP Tam Điệp (nay phường Tam Điệp), 'Tăng cường công tác quản lý, phát huy hiệu quả giá trị lịch sử – văn hoá đền Dâu, đền Quán Cháo theo đúng quy định' (hội nghị 29/7/2024, đọc 16/10/2026): đền Dâu xây từ khoảng 1592, đền Quán Cháo có vào khoảng cuối thế kỷ XVIII; trước 1945 thuộc xã Lý Nhân, tổng Đàm Khánh, huyện Yên Mô; năm 2009 hai đền được công nhận di tích cấp tỉnh; có Ban quản lý di tích.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đền quán cháo"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đền Quán Cháo ở đâu trên QL1A, dừng xe thế nào",
+      "Tích dâng cháo cho quân Tây Sơn",
+      "Kiến trúc và ba cung thờ",
+      "Đền Dâu gần đó: liên hệ hai ngôi đền",
+      "Lễ hội tháng Giêng – tháng Ba và lưu ý đông khách",
+      "Ghép với đền Sòng Bỉm Sơn trên cùng tuyến"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/den-song-son-bim-son/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01177.json",
+  "draft_template": {
+    "id": "TM-01177",
+    "url": "/du-lich/den-quan-chao-tam-diep/",
+    "title": "Đền Quán Cháo Tam Điệp: tích dâng cháo quân Tây Sơn, lễ hội tháng Giêng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền quán cháo, đền quán cháo tam điệp, đền dâu quán cháo, chúc sơn tiên từ, đền quán cháo ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Quán Cháo ở đâu trên QL1A, dừng xe thế nào",
+        "<p></p>"
+      ],
+      [
+        "Tích dâng cháo cho quân Tây Sơn",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc và ba cung thờ",
+        "<p></p>"
+      ],
+      [
+        "Đền Dâu gần đó: liên hệ hai ngôi đền",
+        "<p></p>"
+      ],
+      [
+        "Lễ hội tháng Giêng – tháng Ba và lưu ý đông khách",
+        "<p></p>"
+      ],
+      [
+        "Ghép với đền Sòng Bỉm Sơn trên cùng tuyến",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "official",
+        "source": "https://dulichninhbinh.com.vn/item/3212",
+        "quote": "Trung tâm Xúc tiến du lịch Ninh Bình, 'Đền Quán Cháo' (đọc 16/10/2026): thuộc cụm di tích Đền Dâu – Quán Cháo, phường Tam Điệp; tên chữ Chúc Sơn Tiên từ; truyền thuyết Thánh Mẫu hóa tiên nữ dâng cháo cho nghĩa quân Tây Sơn trước trận Đống Đa 1789, vua Quang Trung cho lập miếu thờ Mẫu Liễu Hạnh; năm 1854 Tuần phủ Tôn Thất Tĩnh trùng tu; đền sát QL1A, kiến trúc chữ Nhị, hậu cung chuôi vồ, ba cung thờ; lễ hội từ 15 tháng Giêng đến hết mùng 3 tháng 3 âm lịch.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://tamdiep.ninhbinh.gov.vn/vi/van-hoa-xa-hoi-an-ninh-quoc-phong/tang-cuong-cong-tac-quan-ly-phat-huy-hieu-qua-gia-tri-lich-su-van-hoa-den-dau-den-quan-chao-theo-dung-quy-dinh-1990.html",
+        "quote": "UBND TP Tam Điệp (nay phường Tam Điệp), 'Tăng cường công tác quản lý, phát huy hiệu quả giá trị lịch sử – văn hoá đền Dâu, đền Quán Cháo theo đúng quy định' (hội nghị 29/7/2024, đọc 16/10/2026): đền Dâu xây từ khoảng 1592, đền Quán Cháo có vào khoảng cuối thế kỷ XVIII; trước 1945 thuộc xã Lý Nhân, tổng Đàm Khánh, huyện Yên Mô; năm 2009 hai đền được công nhận di tích cấp tỉnh; có Ban quản lý di tích.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01177"
+  }
+}

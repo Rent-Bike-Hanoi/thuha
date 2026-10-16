@@ -1,0 +1,131 @@
+{
+  "writer": "writer-6",
+  "queued": "2026-10-16T14:48:26.867515+00:00",
+  "topic": {
+    "topic_id": "TM-01204",
+    "url": "/du-lich/khu-luu-niem-hoang-dinh-giong/",
+    "title": "Khu lưu niệm Hoàng Đình Giong ở Cao Bằng: làng Nà Toàn",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu lưu niệm hoàng đình giong",
+    "secondary_keywords": [
+      "hoàng đình giong cao bằng",
+      "nà toàn đề thám",
+      "di tích gần thành phố cao bằng",
+      "khu tưởng niệm hoàng đình giong"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Cao Bằng muốn thăm một di tích cách mạng ngay gần thành phố (không phải đi Pác Bó) cần biết khu lưu niệm ở đâu và có gì.",
+    "information_gain": "/du-lich/khu-di-tich-pac-bo/ và /du-lich/rung-tran-hung-dao-cao-bang/ ở xa thành phố; chưa có bài về di tích này. Bài mới cho: vị trí làng Nà Toàn, phường Đề Thám, cách trung tâm ~6 km; nhà phục dựng 2009, mở rộng 2022, khánh thành nhà trưng bày ~110 m2 ngày 1/4/2024; tượng đồng 2,25 m; tiểu sử ngắn (người cộng sản đầu tiên của Cao Bằng, chi bộ Nặm Lìn 1930) để người đọc hiểu vì sao di tích có ý nghĩa.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/dia-diem-luu-niem-dong-chi-hoang-dinh-giong-dia-chi-giao-duc-truyen-thong-cach-mang-3168525.html",
+        "quote": "Báo Cao Bằng, 'Địa điểm lưu niệm đồng chí Hoàng Đình Giong...' (17/5/2024, đọc 16/10/2026): ở làng Nà Toàn nay tổ 8, phường Đề Thám, cách trung tâm thành phố ~6 km; nhà gia đình phục dựng 2009 trên nền cũ; tổng diện tích gần 2.000 m2, tượng đồng cao 2,25 m; 2022 mở rộng, xây nhà trưng bày ~110 m2 và nhà đón khách, bàn giao 1/4/2024; ông sinh 1/6/1904, người Tày, lập chi bộ Đảng đầu tiên Cao Bằng ở Nặm Lìn 1/4/1930.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/tham-khu-tuong-niem-chien-si-hoang-dinh-giong-6200.html",
+        "quote": "Dân tộc và Phát triển (VietNamNet), 'Thăm Khu tưởng niệm chiến sĩ Hoàng Đình Giong' (19/8/2019, đọc 16/10/2026): khu ở xóm Nà Toàn, phường Đề Thám, cách TP Cao Bằng ~6 km, là di tích lịch sử cấp quốc gia; xây trên khu đất 1.500 m2 gồm khuôn viên, tượng đài, nhà lưu niệm lưu kỷ vật; người cháu trông coi, mở cửa hằng ngày đón khách.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "khu lưu niệm hoàng đình giong"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Khu lưu niệm ở đâu, đi từ trung tâm Cao Bằng",
+      "Hoàng Đình Giong là ai: vài mốc chính",
+      "Các hạng mục: nhà phục dựng, tượng, nhà trưng bày mới",
+      "Nên xem gì trong 30–45 phút",
+      "Ghép vào ngày ở thành phố Cao Bằng",
+      "Lưu ý ăn mặc, giờ thăm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/khu-di-tich-pac-bo/",
+      "/du-lich/lang-hoai-khao-cao-bang/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01204.json",
+  "draft_template": {
+    "id": "TM-01204",
+    "url": "/du-lich/khu-luu-niem-hoang-dinh-giong/",
+    "title": "Khu lưu niệm Hoàng Đình Giong ở Cao Bằng: làng Nà Toàn",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu lưu niệm hoàng đình giong, hoàng đình giong cao bằng, nà toàn đề thám, di tích gần thành phố cao bằng, khu tưởng niệm hoàng đình giong",
+    "excerpt": "",
+    "sections": [
+      [
+        "Khu lưu niệm ở đâu, đi từ trung tâm Cao Bằng",
+        "<p></p>"
+      ],
+      [
+        "Hoàng Đình Giong là ai: vài mốc chính",
+        "<p></p>"
+      ],
+      [
+        "Các hạng mục: nhà phục dựng, tượng, nhà trưng bày mới",
+        "<p></p>"
+      ],
+      [
+        "Nên xem gì trong 30–45 phút",
+        "<p></p>"
+      ],
+      [
+        "Ghép vào ngày ở thành phố Cao Bằng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý ăn mặc, giờ thăm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/dia-diem-luu-niem-dong-chi-hoang-dinh-giong-dia-chi-giao-duc-truyen-thong-cach-mang-3168525.html",
+        "quote": "Báo Cao Bằng, 'Địa điểm lưu niệm đồng chí Hoàng Đình Giong...' (17/5/2024, đọc 16/10/2026): ở làng Nà Toàn nay tổ 8, phường Đề Thám, cách trung tâm thành phố ~6 km; nhà gia đình phục dựng 2009 trên nền cũ; tổng diện tích gần 2.000 m2, tượng đồng cao 2,25 m; 2022 mở rộng, xây nhà trưng bày ~110 m2 và nhà đón khách, bàn giao 1/4/2024; ông sinh 1/6/1904, người Tày, lập chi bộ Đảng đầu tiên Cao Bằng ở Nặm Lìn 1/4/1930.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://dantocphattrien.vietnamnet.vn/tham-khu-tuong-niem-chien-si-hoang-dinh-giong-6200.html",
+        "quote": "Dân tộc và Phát triển (VietNamNet), 'Thăm Khu tưởng niệm chiến sĩ Hoàng Đình Giong' (19/8/2019, đọc 16/10/2026): khu ở xóm Nà Toàn, phường Đề Thám, cách TP Cao Bằng ~6 km, là di tích lịch sử cấp quốc gia; xây trên khu đất 1.500 m2 gồm khuôn viên, tượng đài, nhà lưu niệm lưu kỷ vật; người cháu trông coi, mở cửa hằng ngày đón khách.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01204"
+  }
+}

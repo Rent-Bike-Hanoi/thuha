@@ -1,0 +1,131 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T14:48:26.602523+00:00",
+  "topic": {
+    "topic_id": "TM-01190",
+    "url": "/du-lich/dao-ba-mun/",
+    "title": "Đảo Ba Mùn: lõi Vườn quốc gia Bái Tử Long, rừng nguyên sinh giữa biển",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đảo ba mùn",
+    "secondary_keywords": [
+      "vườn quốc gia bái tử long",
+      "đảo ba mùn vân đồn",
+      "đảo thú ba mùn",
+      "ba mùn quảng ninh"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người thích thiên nhiên muốn biết đảo Ba Mùn có gì, thuộc vườn quốc gia nào và đi ra đó ra sao từ Vân Đồn.",
+    "information_gain": "/du-lich/vinh-bai-tu-long/ và /du-lich/dao-quan-lan/ chỉ nói vịnh và đảo có dân; chưa trang nào về Vườn quốc gia Bái Tử Long và đảo Ba Mùn. Bài mới cho: diện tích vườn 15.783 ha, hơn 40 đảo; Ba Mùn ~1.800 ha, dài hơn 20 km, vùng lõi thuộc xã Minh Châu; hươu sao, khỉ, lan hài, trung tâm cứu hộ (2010); đi tàu hơn 1 giờ từ Cái Rồng — nhấn mạnh phải liên hệ ban quản lý.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/749072/discovering-the-wild-nature-of-ba-mun-island.html",
+        "quote": "Việt Nam News, 'Discovering the wild nature of Ba Mùn Island' (3/7/2020, đọc 16/10/2026): Ba Mùn trong Vườn quốc gia Bái Tử Long (lập 2001), rộng khoảng 1.800 ha, dài hơn 20 km, cách bờ khoảng 15 km; đi tàu hơn 1 giờ từ cảng Cái Rồng; tên cũ đảo Cao Lô, 'đảo thú'; có hươu sao, sơn dương, khỉ; lan hài; 7 suối lớn chảy quanh năm; trung tâm cứu hộ mở năm 2010.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://lifestyle.zingnews.vn/toi-quang-ninh-san-anh-doc-tai-vuon-quoc-gia-tren-bien-post904413.html",
+        "quote": "Zing News, 'Tới Quảng Ninh, săn ảnh độc tại vườn quốc gia trên biển' (30/12/2018, đọc 16/10/2026): Vườn quốc gia Bái Tử Long ở Vân Đồn, tổng 15.783 ha (6.125 ha rừng và đất rừng, 9.650 ha mặt nước); hơn 40 đảo; Ba Mùn thuộc xã Minh Châu, là vùng lõi; khảo sát ghi 106 loài san hô, 119 loài cá.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đảo ba mùn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Ba Mùn ở đâu trong Vườn quốc gia Bái Tử Long",
+      "Hệ sinh thái: rừng, suối, hươu sao, lan hài",
+      "Trung tâm cứu hộ và quy định bảo tồn",
+      "Cách ra đảo từ Cái Rồng hoặc Minh Châu",
+      "Đi trong ngày hay ở lại Quan Lạn/Minh Châu",
+      "Đồ cần mang, an toàn đi rừng"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/vinh-bai-tu-long/",
+      "/du-lich/dao-quan-lan/",
+      "/du-lich/dao-ngoc-vung-van-don/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01190.json",
+  "draft_template": {
+    "id": "TM-01190",
+    "url": "/du-lich/dao-ba-mun/",
+    "title": "Đảo Ba Mùn: lõi Vườn quốc gia Bái Tử Long, rừng nguyên sinh giữa biển",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đảo ba mùn, vườn quốc gia bái tử long, đảo ba mùn vân đồn, đảo thú ba mùn, ba mùn quảng ninh",
+    "excerpt": "",
+    "sections": [
+      [
+        "Ba Mùn ở đâu trong Vườn quốc gia Bái Tử Long",
+        "<p></p>"
+      ],
+      [
+        "Hệ sinh thái: rừng, suối, hươu sao, lan hài",
+        "<p></p>"
+      ],
+      [
+        "Trung tâm cứu hộ và quy định bảo tồn",
+        "<p></p>"
+      ],
+      [
+        "Cách ra đảo từ Cái Rồng hoặc Minh Châu",
+        "<p></p>"
+      ],
+      [
+        "Đi trong ngày hay ở lại Quan Lạn/Minh Châu",
+        "<p></p>"
+      ],
+      [
+        "Đồ cần mang, an toàn đi rừng",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnews.vn/life-style/749072/discovering-the-wild-nature-of-ba-mun-island.html",
+        "quote": "Việt Nam News, 'Discovering the wild nature of Ba Mùn Island' (3/7/2020, đọc 16/10/2026): Ba Mùn trong Vườn quốc gia Bái Tử Long (lập 2001), rộng khoảng 1.800 ha, dài hơn 20 km, cách bờ khoảng 15 km; đi tàu hơn 1 giờ từ cảng Cái Rồng; tên cũ đảo Cao Lô, 'đảo thú'; có hươu sao, sơn dương, khỉ; lan hài; 7 suối lớn chảy quanh năm; trung tâm cứu hộ mở năm 2010.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://lifestyle.zingnews.vn/toi-quang-ninh-san-anh-doc-tai-vuon-quoc-gia-tren-bien-post904413.html",
+        "quote": "Zing News, 'Tới Quảng Ninh, săn ảnh độc tại vườn quốc gia trên biển' (30/12/2018, đọc 16/10/2026): Vườn quốc gia Bái Tử Long ở Vân Đồn, tổng 15.783 ha (6.125 ha rừng và đất rừng, 9.650 ha mặt nước); hơn 40 đảo; Ba Mùn thuộc xã Minh Châu, là vùng lõi; khảo sát ghi 106 loài san hô, 119 loài cá.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01190"
+  }
+}

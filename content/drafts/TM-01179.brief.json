@@ -1,0 +1,131 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T14:48:26.339933+00:00",
+  "topic": {
+    "topic_id": "TM-01179",
+    "url": "/du-lich/den-le-lai-ngoc-lac/",
+    "title": "Đền Lê Lai Ngọc Lặc (đền Tép): nơi thờ người liều mình cứu Lê Lợi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền lê lai",
+    "secondary_keywords": [
+      "đền thờ lê lai",
+      "đền tép ngọc lặc",
+      "đền trung túc vương lê lai",
+      "hai mốt lê lai hai hai lê lợi"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Lam Kinh muốn ghé đền thờ Lê Lai cách đó vài km: đền ở đâu, gắn với tích gì, lễ giỗ khi nào.",
+    "information_gain": "/du-lich/khu-di-tich-lam-kinh/ nói chính điện Lam Kinh, vé và lễ hội nhưng không có đền Lê Lai. Bài mới cho: vị trí làng Tép, Kiên Thọ (Ngọc Lặc cũ), cách chính điện Lam Kinh khoảng 6 km, tích đổi áo bào cứu Lê Lợi ở núi Chí Linh, câu 'hai mốt Lê Lai, hai hai Lê Lợi', lịch sử trùng tu (1450, 1939, 1944), kiến trúc chồng rường giá chiêng, hai cây đại là Cây di sản, đền thờ bà Nương A Thiện bên cạnh.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ngoi-den-co-gan-600-nam-tho-le-lai-4682553.html",
+        "quote": "VnExpress, 'Ngôi đền cổ gần 600 năm thờ Lê Lai' (04/12/2023, đọc 16/10/2026): đền Trung túc vương Lê Lai (đền Tép) trên đồi thấp ở làng Tép, xã Kiên Thọ, Ngọc Lặc; thuộc Khu di tích quốc gia đặc biệt Lam Kinh, cách chính điện khoảng 6 km về phía Tây, cách TP Thanh Hóa hơn 50 km; năm 1419 Lê Lai đổi áo bào cứu Lê Lợi ở núi Chí Linh; Lê Lợi lập đền năm 1428 và dặn giỗ Lê Lai trước mình một ngày ('hai mốt Lê Lai, hai hai Lê Lợi').",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baothanhhoa.vn/dau-son-trung-nghia-cua-anh-hung-le-lai-trong-ngoi-den-gan-600-nam-tuoi-303559.htm",
+        "quote": "Báo Thanh Hóa, 'Dấu son trung nghĩa của Anh hùng Lê Lai trong ngôi đền gần 600 năm tuổi' (30/09/2026, đọc 16/10/2026): đền cách chính điện Lam Kinh khoảng 6 km về phía Tây Bắc; năm 1418 Lê Lai nhận 5 thớt voi, 2.000 quân giả làm Lê Lợi; năm 1450 triều đình chỉ dụ tu sửa, trùng tu 1939 và 1944; hồ bán nguyệt phía trước, hai cây đại ở cổng là Cây di sản Việt Nam; kiến trúc chồng rường giá chiêng; bên trái là đền thờ bà Nương A Thiện, vợ Lê Lai.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đền lê lai"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đền Lê Lai ở đâu, cách Lam Kinh bao xa",
+      "Tích Lê Lai cứu chúa và câu 'hai mốt Lê Lai'",
+      "Kiến trúc, cây đại di sản và hậu cung",
+      "Đền thờ bà Nương A Thiện bên cạnh",
+      "Ngày giỗ, lễ dâng hương và trang phục",
+      "Lộ trình Lam Kinh – đền Lê Lai trong nửa ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-di-tich-lam-kinh/",
+      "/du-lich/thanh-nha-ho-thanh-hoa/",
+      "/du-lich/ha-noi-di-sam-son-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01179.json",
+  "draft_template": {
+    "id": "TM-01179",
+    "url": "/du-lich/den-le-lai-ngoc-lac/",
+    "title": "Đền Lê Lai Ngọc Lặc (đền Tép): nơi thờ người liều mình cứu Lê Lợi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền lê lai, đền thờ lê lai, đền tép ngọc lặc, đền trung túc vương lê lai, hai mốt lê lai hai hai lê lợi",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Lê Lai ở đâu, cách Lam Kinh bao xa",
+        "<p></p>"
+      ],
+      [
+        "Tích Lê Lai cứu chúa và câu 'hai mốt Lê Lai'",
+        "<p></p>"
+      ],
+      [
+        "Kiến trúc, cây đại di sản và hậu cung",
+        "<p></p>"
+      ],
+      [
+        "Đền thờ bà Nương A Thiện bên cạnh",
+        "<p></p>"
+      ],
+      [
+        "Ngày giỗ, lễ dâng hương và trang phục",
+        "<p></p>"
+      ],
+      [
+        "Lộ trình Lam Kinh – đền Lê Lai trong nửa ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ngoi-den-co-gan-600-nam-tho-le-lai-4682553.html",
+        "quote": "VnExpress, 'Ngôi đền cổ gần 600 năm thờ Lê Lai' (04/12/2023, đọc 16/10/2026): đền Trung túc vương Lê Lai (đền Tép) trên đồi thấp ở làng Tép, xã Kiên Thọ, Ngọc Lặc; thuộc Khu di tích quốc gia đặc biệt Lam Kinh, cách chính điện khoảng 6 km về phía Tây, cách TP Thanh Hóa hơn 50 km; năm 1419 Lê Lai đổi áo bào cứu Lê Lợi ở núi Chí Linh; Lê Lợi lập đền năm 1428 và dặn giỗ Lê Lai trước mình một ngày ('hai mốt Lê Lai, hai hai Lê Lợi').",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baothanhhoa.vn/dau-son-trung-nghia-cua-anh-hung-le-lai-trong-ngoi-den-gan-600-nam-tuoi-303559.htm",
+        "quote": "Báo Thanh Hóa, 'Dấu son trung nghĩa của Anh hùng Lê Lai trong ngôi đền gần 600 năm tuổi' (30/09/2026, đọc 16/10/2026): đền cách chính điện Lam Kinh khoảng 6 km về phía Tây Bắc; năm 1418 Lê Lai nhận 5 thớt voi, 2.000 quân giả làm Lê Lợi; năm 1450 triều đình chỉ dụ tu sửa, trùng tu 1939 và 1944; hồ bán nguyệt phía trước, hai cây đại ở cổng là Cây di sản Việt Nam; kiến trúc chồng rường giá chiêng; bên trái là đền thờ bà Nương A Thiện, vợ Lê Lai.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01179"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T14:48:26.062169+00:00",
+  "topic": {
+    "topic_id": "TM-01164",
+    "url": "/du-lich/lang-dieu-khac-du-du-thanh-oai/",
+    "title": "Làng điêu khắc Dư Dụ Thanh Oai: xem tạc tượng gỗ Phật, Di Lặc",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "làng điêu khắc dư dụ",
+    "secondary_keywords": [
+      "làng dư dụ thanh thùy",
+      "tượng gỗ dư dụ",
+      "làng tạc tượng thanh oai",
+      "điêu khắc gỗ thanh oai"
+    ],
+    "intent": "informational",
+    "user_problem": "Người cần đặt tượng gỗ, đồ thờ hoặc muốn xem thợ tạc tượng ở ngoại thành phía nam Hà Nội muốn biết làng Dư Dụ ở đâu, làm gì, khác Sơn Đồng hay Thiết Úng thế nào.",
+    "information_gain": "Site có /du-lich/lang-son-dong-hoai-duc/ (tượng sơn son thếp vàng) và /du-lich/lang-go-my-nghe-thiet-ung-dong-anh/ (chạm khắc Đông Anh), /du-lich/lang-long-chim-vac-thanh-oai/ cùng huyện; chưa có Dư Dụ. Bài mới cho: vị trí xã Thanh Thùy, nhóm sản phẩm (tượng Di Lặc, Bồ Tát, đồ trang trí, nội thất), thờ tổ nghề ở đình làng, tỷ lệ hơn 90% dân làm nghề (theo nguồn 2016), có khâu dùng máy, xuất khẩu, và cách xem xưởng lịch sự.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/en/du-du-village-the-essence-of-sculpture-E163535.html",
+        "quote": "VietNamNet Global, 'Du Du village – the essence of sculpture' (22/09/2016, đọc 16/10/2026): làng Dư Dụ xã Thanh Thùy, Thanh Oai giữ nghề điêu khắc nhiều thế hệ; sản phẩm đồ trang trí, nội thất, tượng gỗ (Di Lặc, Bồ Tát); xuất sang Trung Quốc, Đài Loan, Đông Nam Á; tổ nghề thờ ở đình làng; gỗ lấy từ Tây Nguyên; một số công đoạn dùng máy; hơn 90% dân làng làm nghề.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nghe-dieu-kha-c-3086586.html",
+        "quote": "VnExpress, 'Nghề điêu khắc' (ảnh, 30/9/2014, đọc 16/10/2026): tác phẩm điêu khắc, đặc biệt là tượng, của làng Dư Dụ (xã Thanh Thùy, Thanh Oai) có mặt khắp cả nước và ra nước ngoài; cùng bài nhắc Vũ Lăng (Dân Hòa, Thanh Oai) làm đồ thờ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "làng điêu khắc dư dụ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Làng Dư Dụ ở đâu, đường từ trung tâm Hà Nội",
+      "Nghề tạc tượng: gỗ, công cụ, công đoạn nào làm tay",
+      "Sản phẩm chính: tượng Phật, Di Lặc, đồ trang trí",
+      "Đình làng thờ tổ nghề",
+      "So với Sơn Đồng và Thiết Úng: nên đi đâu cho nhu cầu nào",
+      "Lưu ý khi vào xưởng: bụi gỗ, xin phép chụp ảnh"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/lang-son-dong-hoai-duc/",
+      "/du-lich/lang-go-my-nghe-thiet-ung-dong-anh/",
+      "/du-lich/lang-long-chim-vac-thanh-oai/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01164.json",
+  "draft_template": {
+    "id": "TM-01164",
+    "url": "/du-lich/lang-dieu-khac-du-du-thanh-oai/",
+    "title": "Làng điêu khắc Dư Dụ Thanh Oai: xem tạc tượng gỗ Phật, Di Lặc",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "làng điêu khắc dư dụ, làng dư dụ thanh thùy, tượng gỗ dư dụ, làng tạc tượng thanh oai, điêu khắc gỗ thanh oai",
+    "excerpt": "",
+    "sections": [
+      [
+        "Làng Dư Dụ ở đâu, đường từ trung tâm Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Nghề tạc tượng: gỗ, công cụ, công đoạn nào làm tay",
+        "<p></p>"
+      ],
+      [
+        "Sản phẩm chính: tượng Phật, Di Lặc, đồ trang trí",
+        "<p></p>"
+      ],
+      [
+        "Đình làng thờ tổ nghề",
+        "<p></p>"
+      ],
+      [
+        "So với Sơn Đồng và Thiết Úng: nên đi đâu cho nhu cầu nào",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi vào xưởng: bụi gỗ, xin phép chụp ảnh",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/en/du-du-village-the-essence-of-sculpture-E163535.html",
+        "quote": "VietNamNet Global, 'Du Du village – the essence of sculpture' (22/09/2016, đọc 16/10/2026): làng Dư Dụ xã Thanh Thùy, Thanh Oai giữ nghề điêu khắc nhiều thế hệ; sản phẩm đồ trang trí, nội thất, tượng gỗ (Di Lặc, Bồ Tát); xuất sang Trung Quốc, Đài Loan, Đông Nam Á; tổ nghề thờ ở đình làng; gỗ lấy từ Tây Nguyên; một số công đoạn dùng máy; hơn 90% dân làng làm nghề.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/nghe-dieu-kha-c-3086586.html",
+        "quote": "VnExpress, 'Nghề điêu khắc' (ảnh, 30/9/2014, đọc 16/10/2026): tác phẩm điêu khắc, đặc biệt là tượng, của làng Dư Dụ (xã Thanh Thùy, Thanh Oai) có mặt khắp cả nước và ra nước ngoài; cùng bài nhắc Vũ Lăng (Dân Hòa, Thanh Oai) làm đồ thờ.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01164"
+  }
+}
