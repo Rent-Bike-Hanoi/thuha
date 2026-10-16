@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T14:16:37.500017+00:00",
+  "topic": {
+    "topic_id": "TM-01135",
+    "url": "/du-lich/chua-van-nien-tay-ho/",
+    "title": "Chùa Vạn Niên Hồ Tây: chùa nghìn năm, tượng Phật ngọc, bảo tháp Tây Tạng",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa vạn niên",
+    "secondary_keywords": [
+      "chùa vạn niên tây hồ",
+      "chùa vạn niên 364 lạc long quân",
+      "tượng phật ngọc chùa vạn niên",
+      "chùa vạn niên drukpa"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi vòng Hồ Tây muốn biết chùa Vạn Niên ở đâu, có gì khác các chùa ven hồ (tượng Phật ngọc, ảnh hưởng Tây Tạng) và vào từ cổng nào.",
+    "information_gain": "/du-lich/chua-tran-quoc/, /du-lich/phu-tay-ho/, /du-lich/chua-kim-lien-tay-ho/ và /du-lich/ha-noi/vong-ho-tay-xe-may/ không có bài riêng về Vạn Niên. Bài mới cho: vị trí phường Xuân La, cổng phụ 364 Lạc Long Quân; gốc tích 1014 thời Lý (thiền sư Hữu Nhai Tăng lập giới đàn), tên cũ Vạn Tuế; xếp hạng 1996; tượng Phật ngọc nguyên khối ~600kg an vị 2010; từ 1992 tiếp nhận dòng Drukpa với chorten Tây Tạng; chuông Gia Long, hơn 40 tượng và 10 sắc phong — để ghép vào cung vòng hồ phía tây.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/tuong-phat-tu-da-quy-nguyen-khoi-trong-ngoi-chua-nghin-nam-tuoi-o-ha-noi-20210202173319789.htm",
+        "quote": "Dân trí, 'Tượng Phật từ đá quý nguyên khối trong ngôi chùa nghìn năm tuổi ở Hà Nội' (7/2/2021, đọc 16/10/2026): chùa Vạn Niên ven bờ tây Hồ Tây, cổng phụ 364 Lạc Long Quân, thôn Vệ Hồ, phường Xuân La; tên cũ Vạn Tuế; tương truyền dựng 1014 thời Lý khi thiền sư Hữu Nhai Tăng xin lập giới đàn; trùng tu lớn thế kỷ XIX nên kiến trúc kiểu Nguyễn; xếp hạng di tích kiến trúc nghệ thuật quốc gia 1996; tượng Phật đá quý nguyên khối cao gần 1,5m, khoảng 600kg; hơn 40 pho tượng tròn, 10 đạo sắc phong Lê–Tây Sơn, chuông 'Vạn Niên Tự Chung' thời Gia Long; cổng chính phía Hồ Tây, cổng phụ gỗ mới mở ra Lạc Long Quân.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/mot-thoang-tay-tang-giua-long-ha-noi-post12012.html",
+        "quote": "Giác Ngộ (dẫn Đất Việt), 'Một thoáng Tây Tạng giữa lòng Hà Nội' (6/2/2011, đọc 16/10/2026): năm 1992 cố HT. Thích Viên Thành đưa dòng Drukpa (Kim Cương thừa Tây Tạng) về chùa Vạn Niên, một trong số ít chùa ở Việt Nam chịu ảnh hưởng Phật giáo Tây Tạng; chorten (bảo tháp Tây Tạng) khắc thần chú chữ Tạng, chân tháp chạm chày kim cương, pháp luân; cờ ngũ sắc dưới mái; chùa dựng năm 1014.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 9900,
+        "checked": "2026-10-16",
+        "keyword": "chùa vạn niên"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chùa Vạn Niên ở đâu trên vòng Hồ Tây",
+      "Lịch sử từ Vạn Tuế thời Lý đến di tích quốc gia 1996",
+      "Tượng Phật ngọc và điện Phật",
+      "Dấu ấn Tây Tạng: dòng Drukpa và bảo tháp chorten",
+      "Đi xe máy, đỗ xe và kết hợp Phủ Tây Hồ, Trấn Quốc",
+      "Lưu ý trang phục, giờ đông khách ngày rằm"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/vong-ho-tay-xe-may/",
+      "/du-lich/chua-tran-quoc/",
+      "/du-lich/phu-tay-ho/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01135.json",
+  "draft_template": {
+    "id": "TM-01135",
+    "url": "/du-lich/chua-van-nien-tay-ho/",
+    "title": "Chùa Vạn Niên Hồ Tây: chùa nghìn năm, tượng Phật ngọc, bảo tháp Tây Tạng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa vạn niên, chùa vạn niên tây hồ, chùa vạn niên 364 lạc long quân, tượng phật ngọc chùa vạn niên, chùa vạn niên drukpa",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Vạn Niên ở đâu trên vòng Hồ Tây",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử từ Vạn Tuế thời Lý đến di tích quốc gia 1996",
+        "<p></p>"
+      ],
+      [
+        "Tượng Phật ngọc và điện Phật",
+        "<p></p>"
+      ],
+      [
+        "Dấu ấn Tây Tạng: dòng Drukpa và bảo tháp chorten",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, đỗ xe và kết hợp Phủ Tây Hồ, Trấn Quốc",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý trang phục, giờ đông khách ngày rằm",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/tuong-phat-tu-da-quy-nguyen-khoi-trong-ngoi-chua-nghin-nam-tuoi-o-ha-noi-20210202173319789.htm",
+        "quote": "Dân trí, 'Tượng Phật từ đá quý nguyên khối trong ngôi chùa nghìn năm tuổi ở Hà Nội' (7/2/2021, đọc 16/10/2026): chùa Vạn Niên ven bờ tây Hồ Tây, cổng phụ 364 Lạc Long Quân, thôn Vệ Hồ, phường Xuân La; tên cũ Vạn Tuế; tương truyền dựng 1014 thời Lý khi thiền sư Hữu Nhai Tăng xin lập giới đàn; trùng tu lớn thế kỷ XIX nên kiến trúc kiểu Nguyễn; xếp hạng di tích kiến trúc nghệ thuật quốc gia 1996; tượng Phật đá quý nguyên khối cao gần 1,5m, khoảng 600kg; hơn 40 pho tượng tròn, 10 đạo sắc phong Lê–Tây Sơn, chuông 'Vạn Niên Tự Chung' thời Gia Long; cổng chính phía Hồ Tây, cổng phụ gỗ mới mở ra Lạc Long Quân.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://giacngo.vn/mot-thoang-tay-tang-giua-long-ha-noi-post12012.html",
+        "quote": "Giác Ngộ (dẫn Đất Việt), 'Một thoáng Tây Tạng giữa lòng Hà Nội' (6/2/2011, đọc 16/10/2026): năm 1992 cố HT. Thích Viên Thành đưa dòng Drukpa (Kim Cương thừa Tây Tạng) về chùa Vạn Niên, một trong số ít chùa ở Việt Nam chịu ảnh hưởng Phật giáo Tây Tạng; chorten (bảo tháp Tây Tạng) khắc thần chú chữ Tạng, chân tháp chạm chày kim cương, pháp luân; cờ ngũ sắc dưới mái; chùa dựng năm 1014.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01135"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T14:16:38.250570+00:00",
+  "topic": {
+    "topic_id": "TM-01102",
+    "url": "/du-lich/cay-da-then-sin-lai-chau/",
+    "title": "Cây đa Thèn Sin Lai Châu: cây di sản hơn 500 tuổi trên đồi",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "cây đa thèn sin",
+    "secondary_keywords": [
+      "cây đa di sản lai châu",
+      "cây đa lở thàng",
+      "cây đa 500 tuổi tam đường",
+      "thèn sin tam đường"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Sin Suối Hồ hoặc Tam Đường muốn biết cây đa di sản ở Thèn Sin nằm đâu, to cỡ nào và có lễ gì để ghé dừng chân.",
+    "information_gain": "/du-lich/ban-sin-suoi-ho/ nói bản du lịch cộng đồng; /du-lich/deo-o-quy-ho/ và /du-lich/thac-tac-tinh/ là điểm khác của Tam Đường; chưa bài nào về cây đa. Bài mới cho: cây trên đồi gần bản Lở Thàng 1–2, xã Thèn Sin, trên đường vào Sin Suối Hồ; hơn 500 tuổi, chu vi >10 m, đường kính gốc >3 m, cao >21 m, tán >170 m; được công nhận Cây Di sản Việt Nam (lễ công bố 5/2024); dân họp dưới gốc đa dịp 3/3 và 6/6 âm lịch.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/cay-da-co-thu-then-sin-cay-di-san-viet-nam/47418.html",
+        "quote": "TTXVN – Chính sách & Cuộc sống, 'Cây đa cổ thụ Thèn Sin – Cây di sản Việt Nam' (4/10/2024, đọc 16/10/2026): cây trên đỉnh đồi xã Thèn Sin (Tam Đường), gần bản Lở Thàng 1, 2, trên đường tới bản du lịch cộng đồng Sin Suối Hồ; hơn 500 tuổi; chu vi hơn 10 m, đường kính gốc hơn 3 m, cao hơn 21 m, tán rộng hơn 170 m; hằng năm dịp 3/3 và 6/6 âm lịch dân tụ họp dưới gốc cầu may.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://trangtraiviet.danviet.vn/cay-da-hon-500-tuoi-o-lai-chau-duoc-cong-nhan-la-cay-di-san-viet-nam-20240511135305888-d60021.html",
+        "quote": "Dân Việt – Trang trại Việt (11/5/2024, đọc 16/10/2026): xã Thèn Sin tổ chức lễ công bố quyết định công nhận cây đa bản Lở Thàng 1, 2 là Cây Di sản Việt Nam; TS Trần Ngọc Hải, Phó Chủ tịch Hội đồng Cây Di sản Việt Nam công bố; cây trên 500 năm tuổi.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "cây đa thèn sin"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Cây đa Thèn Sin ở đâu trên đường vào Sin Suối Hồ",
+      "Kích thước và tuổi cây theo hồ sơ công nhận",
+      "Cây Di sản Việt Nam: được công nhận khi nào",
+      "Lễ cầu may 3/3 và 6/6 âm lịch dưới gốc đa",
+      "Dừng xe, đi bộ lên đồi và ứng xử nơi linh thiêng",
+      "Ghép với Sin Suối Hồ và Tam Đường trong một ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ban-sin-suoi-ho/",
+      "/du-lich/deo-o-quy-ho/",
+      "/du-lich/thac-tac-tinh/",
+      "/thue-xe-may/ha-noi/theo-thang/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01102.json",
+  "draft_template": {
+    "id": "TM-01102",
+    "url": "/du-lich/cay-da-then-sin-lai-chau/",
+    "title": "Cây đa Thèn Sin Lai Châu: cây di sản hơn 500 tuổi trên đồi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "cây đa thèn sin, cây đa di sản lai châu, cây đa lở thàng, cây đa 500 tuổi tam đường, thèn sin tam đường",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cây đa Thèn Sin ở đâu trên đường vào Sin Suối Hồ",
+        "<p></p>"
+      ],
+      [
+        "Kích thước và tuổi cây theo hồ sơ công nhận",
+        "<p></p>"
+      ],
+      [
+        "Cây Di sản Việt Nam: được công nhận khi nào",
+        "<p></p>"
+      ],
+      [
+        "Lễ cầu may 3/3 và 6/6 âm lịch dưới gốc đa",
+        "<p></p>"
+      ],
+      [
+        "Dừng xe, đi bộ lên đồi và ứng xử nơi linh thiêng",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Sin Suối Hồ và Tam Đường trong một ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://chinhsachcuocsong.vnanet.vn/cay-da-co-thu-then-sin-cay-di-san-viet-nam/47418.html",
+        "quote": "TTXVN – Chính sách & Cuộc sống, 'Cây đa cổ thụ Thèn Sin – Cây di sản Việt Nam' (4/10/2024, đọc 16/10/2026): cây trên đỉnh đồi xã Thèn Sin (Tam Đường), gần bản Lở Thàng 1, 2, trên đường tới bản du lịch cộng đồng Sin Suối Hồ; hơn 500 tuổi; chu vi hơn 10 m, đường kính gốc hơn 3 m, cao hơn 21 m, tán rộng hơn 170 m; hằng năm dịp 3/3 và 6/6 âm lịch dân tụ họp dưới gốc cầu may.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://trangtraiviet.danviet.vn/cay-da-hon-500-tuoi-o-lai-chau-duoc-cong-nhan-la-cay-di-san-viet-nam-20240511135305888-d60021.html",
+        "quote": "Dân Việt – Trang trại Việt (11/5/2024, đọc 16/10/2026): xã Thèn Sin tổ chức lễ công bố quyết định công nhận cây đa bản Lở Thàng 1, 2 là Cây Di sản Việt Nam; TS Trần Ngọc Hải, Phó Chủ tịch Hội đồng Cây Di sản Việt Nam công bố; cây trên 500 năm tuổi.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01102"
+  }
+}

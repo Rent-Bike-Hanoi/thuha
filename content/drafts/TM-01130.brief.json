@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T14:16:37.994197+00:00",
+  "topic": {
+    "topic_id": "TM-01130",
+    "url": "/du-lich/ho-tam-bac-hai-phong/",
+    "title": "Hồ Tam Bạc Hải Phòng: phố đi bộ Thế Lữ và sông Tam Bạc",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "hồ tam bạc hải phòng",
+    "secondary_keywords": [
+      "phố đi bộ tam bạc",
+      "sông tam bạc",
+      "phố đi bộ thế lữ",
+      "hồ tam bạc"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách đến trung tâm Hải Phòng buổi tối muốn biết hồ và sông Tam Bạc, phố đi bộ Thế Lữ ở đâu, có gì để đi dạo, ăn uống.",
+    "information_gain": "/du-lich/nha-hat-lon-hai-phong/ chỉ nhắc khu Tam Bạc qua; /du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/ nói lộ trình. Bài mới cho: phân biệt hồ Tam Bạc và sông Tam Bạc; đoạn sông từ cầu Lạc Long đến vườn hoa Tam Bạc đã cải tạo; phố đi bộ Thế Lữ ven sông (phường Hạ Lý); các phố cổ Nguyễn Đức Cảnh, Quang Trung, Tam Bạc; dự án 2 cầu đi bộ khoảng 76 tỷ (chưa rõ tiến độ).",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/diem-nhan-canh-quan-do-thi-hai-phong-post381034.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Điểm nhấn cảnh quan đô thị Hải Phòng' (6/2/2021, đọc 16/10/2026): đoạn sông Tam Bạc từ cầu Lạc Long đến vườn hoa Tam Bạc đã cải tạo xong, trước đó bồi lắng, lau sậy; quận Hồng Bàng thả thiên nga trên sông; đường Thế Lữ ven sông Tam Bạc (phường Hạ Lý) được nâng cấp thành phố đi bộ, trồng cây bóng mát, làm không gian cộng đồng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/hai-phong-sap-xay-2-cau-di-bo-tren-ho-tam-bac-de-kich-cau-du-lich.htm",
+        "quote": "VnEconomy, 'Hải Phòng sắp xây 2 cầu đi bộ trên hồ Tam Bạc để kích cầu du lịch' (11/8/2023, đọc 16/10/2026): UBND TP giao quận Hồng Bàng làm chủ đầu tư 2 cầu đi bộ qua hồ và sông Tam Bạc, khoảng 76 tỷ đồng xã hội hóa; cầu qua hồ nối Nguyễn Đức Cảnh – Quang Trung, cầu qua sông từ Hoàng Ngân sang Thế Lữ có tĩnh không cho thuyền du lịch; phục vụ khu phố đi bộ Tam Bạc – Thế Lữ, nơi tham quan, dạo bộ, food tour.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 590,
+        "checked": "2026-10-16",
+        "keyword": "hồ tam bạc hải phòng"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Hồ Tam Bạc và sông Tam Bạc khác nhau thế nào",
+      "Phố đi bộ Thế Lữ ven sông",
+      "Các phố cổ quanh hồ",
+      "Dự án cầu đi bộ: đã có gì, chưa có gì",
+      "Ăn uống buổi tối quanh Tam Bạc",
+      "Gửi xe máy và ghép với Nhà hát lớn"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-hat-lon-hai-phong/",
+      "/du-lich/mien-bac/ha-noi-di-hai-phong-bang-xe-may/",
+      "/du-lich/bao-tang-hai-phong/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01130.json",
+  "draft_template": {
+    "id": "TM-01130",
+    "url": "/du-lich/ho-tam-bac-hai-phong/",
+    "title": "Hồ Tam Bạc Hải Phòng: phố đi bộ Thế Lữ và sông Tam Bạc",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "hồ tam bạc hải phòng, phố đi bộ tam bạc, sông tam bạc, phố đi bộ thế lữ, hồ tam bạc",
+    "excerpt": "",
+    "sections": [
+      [
+        "Hồ Tam Bạc và sông Tam Bạc khác nhau thế nào",
+        "<p></p>"
+      ],
+      [
+        "Phố đi bộ Thế Lữ ven sông",
+        "<p></p>"
+      ],
+      [
+        "Các phố cổ quanh hồ",
+        "<p></p>"
+      ],
+      [
+        "Dự án cầu đi bộ: đã có gì, chưa có gì",
+        "<p></p>"
+      ],
+      [
+        "Ăn uống buổi tối quanh Tam Bạc",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe máy và ghép với Nhà hát lớn",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/diem-nhan-canh-quan-do-thi-hai-phong-post381034.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Điểm nhấn cảnh quan đô thị Hải Phòng' (6/2/2021, đọc 16/10/2026): đoạn sông Tam Bạc từ cầu Lạc Long đến vườn hoa Tam Bạc đã cải tạo xong, trước đó bồi lắng, lau sậy; quận Hồng Bàng thả thiên nga trên sông; đường Thế Lữ ven sông Tam Bạc (phường Hạ Lý) được nâng cấp thành phố đi bộ, trồng cây bóng mát, làm không gian cộng đồng.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/hai-phong-sap-xay-2-cau-di-bo-tren-ho-tam-bac-de-kich-cau-du-lich.htm",
+        "quote": "VnEconomy, 'Hải Phòng sắp xây 2 cầu đi bộ trên hồ Tam Bạc để kích cầu du lịch' (11/8/2023, đọc 16/10/2026): UBND TP giao quận Hồng Bàng làm chủ đầu tư 2 cầu đi bộ qua hồ và sông Tam Bạc, khoảng 76 tỷ đồng xã hội hóa; cầu qua hồ nối Nguyễn Đức Cảnh – Quang Trung, cầu qua sông từ Hoàng Ngân sang Thế Lữ có tĩnh không cho thuyền du lịch; phục vụ khu phố đi bộ Tam Bạc – Thế Lữ, nơi tham quan, dạo bộ, food tour.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01130"
+  }
+}

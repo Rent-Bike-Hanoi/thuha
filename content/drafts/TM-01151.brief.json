@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T14:16:37.760878+00:00",
+  "topic": {
+    "topic_id": "TM-01151",
+    "url": "/du-lich/deo-na-tenh-cao-bang/",
+    "title": "Đèo Nà Tềnh Cao Bằng: 20 khúc cua ngay sau Khau Cốc Chà",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "đèo nà tềnh",
+    "secondary_keywords": [
+      "đèo nà tềnh ở đâu",
+      "đèo nà tềnh cao bằng",
+      "đèo 20 khúc cua cao bằng",
+      "đèo nà tềnh hà quảng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người chạy xe máy từ Hà Giang sang Cao Bằng sau đèo Khau Cốc Chà muốn biết đèo Nà Tềnh ở đâu, dài bao nhiêu và có khó không.",
+    "information_gain": "/du-lich/deo-khau-coc-cha-bao-lac/ chỉ tả Khau Cốc Chà; /du-lich/ha-noi-di-cao-bang-bang-xe-may/ đi trục QL3. Bài mới cho: Nà Tềnh thuộc xã Cần Nông (Hà Quảng), giáp Xuân Trường (Bảo Lạc), cách Khau Cốc Chà ~15–18 km trên QL4A, dài ~2,5 km với 20 khúc cua mềm, khá bằng phẳng – phân biệt với Khau Cốc Chà 14 cua gắt.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/ve-dep-ky-vi-cua-nhung-cung-deo-cao-bang-3180452.html",
+        "quote": "Báo Cao Bằng, 'Vẻ đẹp kỳ vĩ của những cung đèo Cao Bằng' (19/9/2025, đọc 16/10/2026): đèo Nà Tềnh trên Quốc lộ 4A, cách Khau Cốc Chà khoảng 15–18 km, không quá dốc; Khau Cốc Chà trên QL4A có 14 khúc cua tay áo tạo 15 tầng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/kham-pha-deo-na-tenh-o-cao-bang-ar839814.html",
+        "quote": "VTC News, 'Khám phá đèo Nà Tềnh ở Cao Bằng' (12/12/2023, đọc 16/10/2026): đèo thuộc xã Cần Nông, huyện Hà Quảng, giáp xã Xuân Trường (Bảo Lạc), ngay sau Khau Cốc Chà trên đường Hà Giang – Cao Bằng, dài khoảng 2,5 km, 20 khúc cua, khá bằng phẳng, xe máy và ô tô đi được.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 1900,
+        "checked": "2026-10-16",
+        "keyword": "đèo nà tềnh"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đèo Nà Tềnh ở đâu",
+      "Nà Tềnh khác Khau Cốc Chà thế nào",
+      "Chiều dài và 20 khúc cua",
+      "Điểm ngắm và dừng xe",
+      "Nối cung Bảo Lạc – Nà Tềnh – TP Cao Bằng",
+      "Lưu ý xe máy trên QL4A vùng biên"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi-di-cao-bang-bang-xe-may/",
+      "/du-lich/deo-khau-coc-cha-bao-lac/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01151.json",
+  "draft_template": {
+    "id": "TM-01151",
+    "url": "/du-lich/deo-na-tenh-cao-bang/",
+    "title": "Đèo Nà Tềnh Cao Bằng: 20 khúc cua ngay sau Khau Cốc Chà",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đèo nà tềnh, đèo nà tềnh ở đâu, đèo nà tềnh cao bằng, đèo 20 khúc cua cao bằng, đèo nà tềnh hà quảng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đèo Nà Tềnh ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Nà Tềnh khác Khau Cốc Chà thế nào",
+        "<p></p>"
+      ],
+      [
+        "Chiều dài và 20 khúc cua",
+        "<p></p>"
+      ],
+      [
+        "Điểm ngắm và dừng xe",
+        "<p></p>"
+      ],
+      [
+        "Nối cung Bảo Lạc – Nà Tềnh – TP Cao Bằng",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý xe máy trên QL4A vùng biên",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baocaobang.vn/ve-dep-ky-vi-cua-nhung-cung-deo-cao-bang-3180452.html",
+        "quote": "Báo Cao Bằng, 'Vẻ đẹp kỳ vĩ của những cung đèo Cao Bằng' (19/9/2025, đọc 16/10/2026): đèo Nà Tềnh trên Quốc lộ 4A, cách Khau Cốc Chà khoảng 15–18 km, không quá dốc; Khau Cốc Chà trên QL4A có 14 khúc cua tay áo tạo 15 tầng.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vtcnews.vn/kham-pha-deo-na-tenh-o-cao-bang-ar839814.html",
+        "quote": "VTC News, 'Khám phá đèo Nà Tềnh ở Cao Bằng' (12/12/2023, đọc 16/10/2026): đèo thuộc xã Cần Nông, huyện Hà Quảng, giáp xã Xuân Trường (Bảo Lạc), ngay sau Khau Cốc Chà trên đường Hà Giang – Cao Bằng, dài khoảng 2,5 km, 20 khúc cua, khá bằng phẳng, xe máy và ô tô đi được.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01151"
+  }
+}

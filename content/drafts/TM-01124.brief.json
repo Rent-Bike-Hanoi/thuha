@@ -1,0 +1,131 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T14:16:38.527403+00:00",
+  "topic": {
+    "topic_id": "TM-01124",
+    "url": "/du-lich/khu-bao-ton-pu-hu/",
+    "title": "Khu bảo tồn Pù Hu Thanh Hóa: đỉnh 1.468 m, thác và bản Yên",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "khu bảo tồn pù hu",
+    "secondary_keywords": [
+      "pù hu thanh hóa",
+      "khu bảo tồn thiên nhiên pù hu",
+      "đỉnh pù hu",
+      "bản yên hiền kiệt"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đã đi Pù Luông muốn tìm điểm rừng hoang sơ hơn ở Quan Hóa, Mường Lát, cần biết Pù Hu có gì, ở đâu và du lịch ở đây đang đến đâu.",
+    "information_gain": "/du-lich/pu-luong-di-xe-may-tu-ha-noi/ chỉ nói Pù Luông. Bài mới cho: Pù Hu lập năm 1999, hơn 28.476 ha trên 8 xã, cách trung tâm tỉnh khoảng 135 km; đỉnh Pù Hu 1.468 m, thác Khặt, Sơn Dương, cây chò xanh di sản; 1.725 loài thực vật, 915 loài động vật; bản Yên (Hiền Kiệt) làm du lịch cộng đồng; đề án 2026 với 3 điểm (Pù Hu, bản Chiềng, Khe Yên) — tức là đang quy hoạch, chưa phải khu du lịch hoàn chỉnh.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/danh-thuc-pu-hu-thanh-diem-den-xanh-cua-xu-thanh-224641.html",
+        "quote": "Báo Văn Hóa, '“Đánh thức” Pù Hu thành điểm đến xanh của xứ Thanh' (4/5/2026, đọc 16/10/2026): khu bảo tồn ở tây bắc Thanh Hóa, cách trung tâm tỉnh khoảng 135 km, lập năm 1999, hơn 28.476 ha trên 8 xã; đỉnh Pù Hu 1.468 m, thác Khặt, Sơn Dương, cây chò xanh được công nhận Cây di sản; 1.725 loài thực vật, 915 loài động vật; vùng đệm có người Thái, Mường, Mông, bản Yên (xã Hiền Kiệt) là điểm du lịch cộng đồng; phân khu bảo vệ nghiêm ngặt cấm xây dựng, lưu trú.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/thanh-hoa-duyet-de-an-phat-trien-du-lich-sinh-thai-khu-bao-ton-pu-hu.htm",
+        "quote": "VnEconomy, 'Thanh Hóa duyệt đề án phát triển du lịch sinh thái Khu bảo tồn Pù Hu' (1/5/2026, đọc 16/10/2026): đề án quy hoạch 3 điểm du lịch tổng 156,28 ha (Pù Hu có khu nghỉ dưỡng và điểm trải nghiệm nông nghiệp bản Chiềng, điểm sinh thái Khe Yên); mục tiêu khoảng 10.000 lượt khách/năm đến 2030, 30.000 lượt đến 2035; tổng kinh phí khoảng 598,25 tỷ đồng.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "khu bảo tồn pù hu"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Pù Hu ở đâu, khác Pù Luông thế nào",
+      "Đỉnh Pù Hu, thác Khặt, thác Sơn Dương",
+      "Đa dạng sinh học và cây chò xanh di sản",
+      "Bản Yên và du lịch cộng đồng vùng đệm",
+      "Đề án du lịch sinh thái 2026: đang ở giai đoạn nào",
+      "Đi xe máy lên Quan Hóa: lưu ý đường đèo"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/pu-luong-di-xe-may-tu-ha-noi/",
+      "/du-lich/thac-may-thach-thanh/",
+      "/du-lich/suoi-ca-than-cam-luong/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01124.json",
+  "draft_template": {
+    "id": "TM-01124",
+    "url": "/du-lich/khu-bao-ton-pu-hu/",
+    "title": "Khu bảo tồn Pù Hu Thanh Hóa: đỉnh 1.468 m, thác và bản Yên",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "khu bảo tồn pù hu, pù hu thanh hóa, khu bảo tồn thiên nhiên pù hu, đỉnh pù hu, bản yên hiền kiệt",
+    "excerpt": "",
+    "sections": [
+      [
+        "Pù Hu ở đâu, khác Pù Luông thế nào",
+        "<p></p>"
+      ],
+      [
+        "Đỉnh Pù Hu, thác Khặt, thác Sơn Dương",
+        "<p></p>"
+      ],
+      [
+        "Đa dạng sinh học và cây chò xanh di sản",
+        "<p></p>"
+      ],
+      [
+        "Bản Yên và du lịch cộng đồng vùng đệm",
+        "<p></p>"
+      ],
+      [
+        "Đề án du lịch sinh thái 2026: đang ở giai đoạn nào",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy lên Quan Hóa: lưu ý đường đèo",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baovanhoa.vn/du-lich/danh-thuc-pu-hu-thanh-diem-den-xanh-cua-xu-thanh-224641.html",
+        "quote": "Báo Văn Hóa, '“Đánh thức” Pù Hu thành điểm đến xanh của xứ Thanh' (4/5/2026, đọc 16/10/2026): khu bảo tồn ở tây bắc Thanh Hóa, cách trung tâm tỉnh khoảng 135 km, lập năm 1999, hơn 28.476 ha trên 8 xã; đỉnh Pù Hu 1.468 m, thác Khặt, Sơn Dương, cây chò xanh được công nhận Cây di sản; 1.725 loài thực vật, 915 loài động vật; vùng đệm có người Thái, Mường, Mông, bản Yên (xã Hiền Kiệt) là điểm du lịch cộng đồng; phân khu bảo vệ nghiêm ngặt cấm xây dựng, lưu trú.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vneconomy.vn/thanh-hoa-duyet-de-an-phat-trien-du-lich-sinh-thai-khu-bao-ton-pu-hu.htm",
+        "quote": "VnEconomy, 'Thanh Hóa duyệt đề án phát triển du lịch sinh thái Khu bảo tồn Pù Hu' (1/5/2026, đọc 16/10/2026): đề án quy hoạch 3 điểm du lịch tổng 156,28 ha (Pù Hu có khu nghỉ dưỡng và điểm trải nghiệm nông nghiệp bản Chiềng, điểm sinh thái Khe Yên); mục tiêu khoảng 10.000 lượt khách/năm đến 2030, 30.000 lượt đến 2035; tổng kinh phí khoảng 598,25 tỷ đồng.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01124"
+  }
+}

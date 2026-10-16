@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T14:16:37.762082+00:00",
+  "topic": {
+    "topic_id": "TM-01126",
+    "url": "/du-lich/bien-con-den/",
+    "title": "Biển Cồn Đen: cồn cát, rừng ngập mặn ven biển Thái Thụy",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "biển cồn đen",
+    "secondary_keywords": [
+      "cồn đen thái thụy",
+      "bãi biển cồn đen",
+      "khu du lịch cồn đen",
+      "cồn đen thái bình"
+    ],
+    "intent": "troubleshooting",
+    "user_problem": "Người ở Hà Nội tìm biển gần, đi xe máy trong ngày, muốn biết Cồn Đen ở đâu, cách bao xa, tắm được không và có gì ngoài tắm biển.",
+    "information_gain": "/du-lich/bien-dong-chau/ nói Tiền Hải, /du-lich/bien-vo-cuc-thuy-xuan/ nói biển vô cực Thụy Xuân; chưa có bài riêng Cồn Đen. Bài mới cho: vị trí xã Thái Đô (Thái Thụy cũ), khoảng 150 km từ Hà Nội, 40 km từ TP Thái Bình; cồn dài khoảng 3 km do phù sa sông Trà Lý; bãi thoải sóng nhẹ, rừng ngập mặn, khoảng 200 loài chim; đơn vị khai thác và tuần du lịch biển, khinh khí cầu 2023.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/con-bien-dep-hang-dau-mien-bac-2989379.html",
+        "quote": "VnExpress, 'Cồn biển đẹp hàng đầu miền Bắc' (15/5/2014, đọc 16/10/2026): Cồn Đen ở huyện Thái Thụy, cách Hà Nội khoảng 150 km, cách TP Thái Bình khoảng 40 km; dài khoảng 3 km, hình thành từ phù sa sông Trà Lý; bãi cát rộng, thoải, sóng nhẹ quanh năm, tắm được; rừng ngập mặn chắn gió, khoảng 500 loài thủy sinh, rong cỏ và khoảng 200 loài chim; gần Cồn Vành (Tiền Hải).",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/thai-binh-khai-mac-tuan-du-lich-bien-va-khinh-khi-cau-244350.html",
+        "quote": "Diễn đàn Doanh nghiệp, 'Thái Bình khai mạc Tuần du lịch biển và khinh khí cầu' (22/5/2023, đọc 16/10/2026): Khu du lịch sinh thái biển Cồn Đen ở xã Thái Đô, huyện Thái Thụy do Công ty TNHH TMDV Minh Phú quản lý khai thác; tuần du lịch biển và khinh khí cầu đầu tiên của tỉnh 20–26/5/2023 tổ chức tại đây; tour kết nối Biển Vô Cực và rừng ngập mặn Thụy Hải, Thụy Xuân, Thụy Trường, Thái Đô.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 590,
+        "checked": "2026-10-16",
+        "keyword": "biển cồn đen"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Cồn Đen ở đâu, cách Hà Nội bao xa",
+      "Cồn cát hình thành thế nào",
+      "Tắm biển và rừng ngập mặn",
+      "Ghép với Biển Vô Cực, Đồng Châu",
+      "Đi xe máy trong ngày: lộ trình và nghỉ chân",
+      "Mùa đi và lưu ý thủy triều"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bien-vo-cuc-thuy-xuan/",
+      "/du-lich/bien-dong-chau/",
+      "/du-lich/den-het-thai-thuy/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01126.json",
+  "draft_template": {
+    "id": "TM-01126",
+    "url": "/du-lich/bien-con-den/",
+    "title": "Biển Cồn Đen: cồn cát, rừng ngập mặn ven biển Thái Thụy",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "biển cồn đen, cồn đen thái thụy, bãi biển cồn đen, khu du lịch cồn đen, cồn đen thái bình",
+    "excerpt": "",
+    "sections": [
+      [
+        "Cồn Đen ở đâu, cách Hà Nội bao xa",
+        "<p></p>"
+      ],
+      [
+        "Cồn cát hình thành thế nào",
+        "<p></p>"
+      ],
+      [
+        "Tắm biển và rừng ngập mặn",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Biển Vô Cực, Đồng Châu",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy trong ngày: lộ trình và nghỉ chân",
+        "<p></p>"
+      ],
+      [
+        "Mùa đi và lưu ý thủy triều",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/con-bien-dep-hang-dau-mien-bac-2989379.html",
+        "quote": "VnExpress, 'Cồn biển đẹp hàng đầu miền Bắc' (15/5/2014, đọc 16/10/2026): Cồn Đen ở huyện Thái Thụy, cách Hà Nội khoảng 150 km, cách TP Thái Bình khoảng 40 km; dài khoảng 3 km, hình thành từ phù sa sông Trà Lý; bãi cát rộng, thoải, sóng nhẹ quanh năm, tắm được; rừng ngập mặn chắn gió, khoảng 500 loài thủy sinh, rong cỏ và khoảng 200 loài chim; gần Cồn Vành (Tiền Hải).",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://diendandoanhnghiep.vn/thai-binh-khai-mac-tuan-du-lich-bien-va-khinh-khi-cau-244350.html",
+        "quote": "Diễn đàn Doanh nghiệp, 'Thái Bình khai mạc Tuần du lịch biển và khinh khí cầu' (22/5/2023, đọc 16/10/2026): Khu du lịch sinh thái biển Cồn Đen ở xã Thái Đô, huyện Thái Thụy do Công ty TNHH TMDV Minh Phú quản lý khai thác; tuần du lịch biển và khinh khí cầu đầu tiên của tỉnh 20–26/5/2023 tổ chức tại đây; tour kết nối Biển Vô Cực và rừng ngập mặn Thụy Hải, Thụy Xuân, Thụy Trường, Thái Đô.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01126"
+  }
+}

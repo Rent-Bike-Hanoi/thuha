@@ -1,0 +1,131 @@
+{
+  "writer": "writer-5",
+  "queued": "2026-10-16T14:16:38.527207+00:00",
+  "topic": {
+    "topic_id": "TM-01122",
+    "url": "/du-lich/nha-tho-phu-nhai/",
+    "title": "Nhà thờ Phú Nhai: vương cung thánh đường Gothic ở Xuân Trường",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "nhà thờ phú nhai",
+    "secondary_keywords": [
+      "vương cung thánh đường phú nhai",
+      "nhà thờ phú nhai xuân trường",
+      "nhà thờ phú nhai nam định",
+      "nhà thờ phú nhai ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy về vùng Công giáo Xuân Trường, nhất là dịp Giáng sinh, muốn biết nhà thờ Phú Nhai ở đâu, có gì để xem và lịch sử xây dựng ra sao.",
+    "information_gain": "Site có /du-lich/nha-tho-bui-chu/, /du-lich/nha-tho-da-phat-diem/ và /du-lich/nha-tho-trung-lao-nam-dinh/ nhưng chưa có bài về Phú Nhai. Bài mới cho: vị trí trung tâm xã Xuân Phương cũ, cách thị trấn Xuân Trường khoảng 1 km; kích thước 80 x 27 x 30 m, hai tháp 44 m; tượng thánh Đaminh 17 m, mộ 83 thánh tử đạo, phù điêu 14 chặng đàng Thánh giá; mốc dựng lại 1933 và chỗ các nguồn ghi khác nhau về lần xây đầu.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nhung-nha-tho-dep-nuc-tieng-o-nam-dinh-ruc-ro-truoc-dem-giang-sinh-2230687.html",
+        "quote": "VietNamNet, 'Những nhà thờ đẹp nức tiếng ở Nam Định rực rỡ trước đêm Giáng sinh' (24/12/2023, đọc 16/10/2026): Vương cung Thánh đường Phú Nhai ở trung tâm xã Xuân Phương, huyện Xuân Trường, cách thị trấn Xuân Trường khoảng 1 km; kiến trúc Gothic; nhà thờ đầu tiên bằng gỗ dựng năm 1866; tượng thánh Đaminh cao khoảng 17 m; lăng mộ 15 m chứa hài cốt 83 thánh tử đạo xứ Phú Nhai; phù điêu 14 chặng đàng Thánh giá.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/10-nha-tho-dep-o-nam-dinh-3107023.html",
+        "quote": "VnExpress, '10 nhà thờ đẹp ở Nam Định' (2/12/2014, đọc 16/10/2026): Tiểu vương cung thánh đường Phú Nhai trải qua 5 lần xây dựng, lần đầu khoảng thế kỷ 18, gần nhất năm 1933; dài 80 m, rộng 27 m, cao 30 m, hai tháp cao 44 m.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "nhà thờ phú nhai"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Nhà thờ Phú Nhai ở đâu sau sáp nhập",
+      "Lịch sử 5 lần xây dựng",
+      "Kích thước và kiến trúc Gothic",
+      "Tượng thánh Đaminh, mộ các thánh tử đạo, đàng Thánh giá",
+      "Dịp Giáng sinh ở Phú Nhai",
+      "Ghép lộ trình với Bùi Chu, Hải Lý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tho-bui-chu/",
+      "/du-lich/nha-tho-do-hai-ly-va-bien-thinh-long/",
+      "/du-lich/nha-tho-da-phat-diem/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01122.json",
+  "draft_template": {
+    "id": "TM-01122",
+    "url": "/du-lich/nha-tho-phu-nhai/",
+    "title": "Nhà thờ Phú Nhai: vương cung thánh đường Gothic ở Xuân Trường",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ phú nhai, vương cung thánh đường phú nhai, nhà thờ phú nhai xuân trường, nhà thờ phú nhai nam định, nhà thờ phú nhai ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ Phú Nhai ở đâu sau sáp nhập",
+        "<p></p>"
+      ],
+      [
+        "Lịch sử 5 lần xây dựng",
+        "<p></p>"
+      ],
+      [
+        "Kích thước và kiến trúc Gothic",
+        "<p></p>"
+      ],
+      [
+        "Tượng thánh Đaminh, mộ các thánh tử đạo, đàng Thánh giá",
+        "<p></p>"
+      ],
+      [
+        "Dịp Giáng sinh ở Phú Nhai",
+        "<p></p>"
+      ],
+      [
+        "Ghép lộ trình với Bùi Chu, Hải Lý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/nhung-nha-tho-dep-nuc-tieng-o-nam-dinh-ruc-ro-truoc-dem-giang-sinh-2230687.html",
+        "quote": "VietNamNet, 'Những nhà thờ đẹp nức tiếng ở Nam Định rực rỡ trước đêm Giáng sinh' (24/12/2023, đọc 16/10/2026): Vương cung Thánh đường Phú Nhai ở trung tâm xã Xuân Phương, huyện Xuân Trường, cách thị trấn Xuân Trường khoảng 1 km; kiến trúc Gothic; nhà thờ đầu tiên bằng gỗ dựng năm 1866; tượng thánh Đaminh cao khoảng 17 m; lăng mộ 15 m chứa hài cốt 83 thánh tử đạo xứ Phú Nhai; phù điêu 14 chặng đàng Thánh giá.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/10-nha-tho-dep-o-nam-dinh-3107023.html",
+        "quote": "VnExpress, '10 nhà thờ đẹp ở Nam Định' (2/12/2014, đọc 16/10/2026): Tiểu vương cung thánh đường Phú Nhai trải qua 5 lần xây dựng, lần đầu khoảng thế kỷ 18, gần nhất năm 1933; dài 80 m, rộng 27 m, cao 30 m, hai tháp cao 44 m.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01122"
+  }
+}

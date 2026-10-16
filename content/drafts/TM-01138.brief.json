@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T14:16:37.500731+00:00",
+  "topic": {
+    "topic_id": "TM-01138",
+    "url": "/du-lich/chua-hung-ky/",
+    "title": "Chùa Hưng Ký Minh Khai: chùa gốm sứ độc đáo của Hà Nội",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chùa hưng ký",
+    "secondary_keywords": [
+      "chùa gốm sứ hà nội",
+      "chùa hưng ký minh khai",
+      "chùa hưng ký ở đâu",
+      "điện mai sau"
+    ],
+    "intent": "informational",
+    "user_problem": "Người thích kiến trúc, chụp ảnh muốn biết chùa Hưng Ký ở đâu, vì sao gọi là chùa gốm sứ và nên xem chi tiết nào.",
+    "information_gain": "/du-lich/chua-lien-phai/ và /du-lich/den-hai-ba-trung-dong-nhan/ là các di tích gần nhưng không nói Hưng Ký. Bài mới cho: địa chỉ 38B Minh Khai, tên Võ Hưng Thiền Am tự; dựng 1932 (bia 1933); kiến trúc cuối Nguyễn ốp gốm sứ nhiều màu, mái tam bảo đắp 81 nạn Tây Du Ký, Thập điện Diêm vương do nghệ nhân Bát Tràng nặn; khuôn viên ~3.000m² gồm đình Tam Thánh, điện Mai Sau; xếp hạng 1996.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/chua-hung-ky-633955.html",
+        "quote": "Nhịp sống Hà Nội, 'Chùa Hưng Ký' (2/7/2023, đọc 16/10/2026): số 38B Minh Khai, Hai Bà Trưng, còn gọi Võ Hưng Thiền Am tự; mang tên người công đức Hưng Ký (Trần Văn Thành), dựng 1932; kiến trúc cuối Nguyễn, cấu kiện trang trí gốm men nhiều màu; mái trên tam bảo đắp tích 81 nạn Tây Du Ký; khuôn viên ~3.000m², chùa chính ~2.000m²; gồm tam quan, tam bảo 7 gian, Phật điện, nhà tổ, nhà bia, đình Tam Thánh, điện Mai Sau; xếp hạng di tích kiến trúc nghệ thuật quốc gia 1996.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/van-hoa/kien-truc-doc-dao-cua-ngoi-chua-gom-su-duy-nhat-o-ha-noi-20210405185957905.htm",
+        "quote": "Dân trí, 'Kiến trúc độc đáo của ngôi chùa gốm sứ duy nhất ở Hà Nội' (5/4/2021, đọc 16/10/2026): chùa Hưng Ký trên phố Minh Khai; cổng, mái, tường, phù điêu bằng gốm men nhiều màu, rồng phượng, lân, tích Tây Du Ký; tượng Thập điện Diêm vương do nghệ nhân Bát Tràng làm; bia đá năm 1933; diện tích ~3.000m².",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 4400,
+        "checked": "2026-10-16",
+        "keyword": "chùa hưng ký"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chùa Hưng Ký ở đâu, vào từ đâu",
+      "Ai dựng chùa và vì sao tên Hưng Ký",
+      "Chi tiết gốm sứ nên xem: tam quan, mái tam bảo, Thập điện",
+      "Đình Tam Thánh và điện Mai Sau trong cùng khuôn viên",
+      "Đi xe máy, đỗ xe và giờ vắng để chụp ảnh",
+      "Kết hợp chợ Mơ, chùa Liên Phái"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/chua-lien-phai/",
+      "/du-lich/den-hai-ba-trung-dong-nhan/",
+      "/du-lich/cong-vien-thong-nhat/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01138.json",
+  "draft_template": {
+    "id": "TM-01138",
+    "url": "/du-lich/chua-hung-ky/",
+    "title": "Chùa Hưng Ký Minh Khai: chùa gốm sứ độc đáo của Hà Nội",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chùa hưng ký, chùa gốm sứ hà nội, chùa hưng ký minh khai, chùa hưng ký ở đâu, điện mai sau",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chùa Hưng Ký ở đâu, vào từ đâu",
+        "<p></p>"
+      ],
+      [
+        "Ai dựng chùa và vì sao tên Hưng Ký",
+        "<p></p>"
+      ],
+      [
+        "Chi tiết gốm sứ nên xem: tam quan, mái tam bảo, Thập điện",
+        "<p></p>"
+      ],
+      [
+        "Đình Tam Thánh và điện Mai Sau trong cùng khuôn viên",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy, đỗ xe và giờ vắng để chụp ảnh",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp chợ Mơ, chùa Liên Phái",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhipsonghanoi.hanoimoi.vn/chua-hung-ky-633955.html",
+        "quote": "Nhịp sống Hà Nội, 'Chùa Hưng Ký' (2/7/2023, đọc 16/10/2026): số 38B Minh Khai, Hai Bà Trưng, còn gọi Võ Hưng Thiền Am tự; mang tên người công đức Hưng Ký (Trần Văn Thành), dựng 1932; kiến trúc cuối Nguyễn, cấu kiện trang trí gốm men nhiều màu; mái trên tam bảo đắp tích 81 nạn Tây Du Ký; khuôn viên ~3.000m², chùa chính ~2.000m²; gồm tam quan, tam bảo 7 gian, Phật điện, nhà tổ, nhà bia, đình Tam Thánh, điện Mai Sau; xếp hạng di tích kiến trúc nghệ thuật quốc gia 1996.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/van-hoa/kien-truc-doc-dao-cua-ngoi-chua-gom-su-duy-nhat-o-ha-noi-20210405185957905.htm",
+        "quote": "Dân trí, 'Kiến trúc độc đáo của ngôi chùa gốm sứ duy nhất ở Hà Nội' (5/4/2021, đọc 16/10/2026): chùa Hưng Ký trên phố Minh Khai; cổng, mái, tường, phù điêu bằng gốm men nhiều màu, rồng phượng, lân, tích Tây Du Ký; tượng Thập điện Diêm vương do nghệ nhân Bát Tràng làm; bia đá năm 1933; diện tích ~3.000m².",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01138"
+  }
+}

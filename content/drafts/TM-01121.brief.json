@@ -1,0 +1,131 @@
+{
+  "writer": "writer-3",
+  "queued": "2026-10-16T14:16:37.994661+00:00",
+  "topic": {
+    "topic_id": "TM-01121",
+    "url": "/du-lich/den-chin-gian-que-phong/",
+    "title": "Đền Chín Gian Quế Phong: lễ hội hiến trâu của người Thái Nghệ An",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đền chín gian",
+    "secondary_keywords": [
+      "đền chín gian quế phong",
+      "lễ hội đền chín gian",
+      "đền chín gian nghệ an",
+      "lễ hiến trâu đền chín gian"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn lên miền Tây Nghệ An dự lễ hội của người Thái cần biết đền Chín Gian ở đâu, thờ ai, lễ hội diễn ra khi nào và có những nghi lễ gì.",
+    "information_gain": "Site có /du-lich/thac-khe-kem-pu-mat/ và /du-lich/den-ong-hoang-muoi-nghe-an/ nhưng chưa có bài nào về Quế Phong hay tín ngưỡng người Thái. Bài mới cho: vị trí bản Khoẳng Đổ, xã Quế Phong trên núi Pú Chỏ Nhàng; kiến trúc nhà sàn 9 gian ứng với 9 mường; các vị thờ (Thẻn Phà, Náng Xỉ Đà, Tạo Ló Ỳ); lịch lễ 14–16 tháng 2 âm lịch và trình tự khai quang, yết cáo, tắm trâu bến Tà Tạo, hiến trâu tượng trưng; mốc di sản 2008/2016/2023.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/den-chin-gian-linh-thieng-hoi-tu-hon-cot-nguoi-thai-mien-tay-xu-nghe-post955014.html",
+        "quote": "Nhân Dân, 'Đền Chín Gian: Linh thiêng hội tụ hồn cốt người Thái miền Tây xứ Nghệ' (12/4/2026, đọc 16/10/2026): đền ở xã Quế Phong, theo truyền tích khởi dựng khoảng thế kỷ XIV; thờ Thẻn Phà, Náng Xỉ Đà và Tạo Ló Ỳ; nhà sàn 9 gian, gian giữa tượng trưng mường chủ; lễ hội đầu xuân gồm khai quang, yết cáo, tắm trâu bến Tà Tạo, hiến trâu nay mang tính tượng trưng, rước lễ; lễ hội vào danh mục di sản phi vật thể quốc gia năm 2016, di tích xếp hạng quốc gia năm 2023.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/dac-sac-le-hien-trau-o-den-thieng-chin-gian-post1832554.tpo",
+        "quote": "Tiền Phong, 'Đặc sắc lễ hiến trâu ở đền thiêng Chín Gian' (2/4/2026, đọc 16/10/2026): đền ở bản Khoẳng Đổ, xã Quế Phong, trên núi Pú Chỏ Nhàng (Tến Pỏm); lễ hội hằng năm 14–16 tháng 2 âm lịch, kỳ 2026 diễn ra 1–2/4/2026; lễ hiến trâu dùng 9 con trâu tắm ở bến Tà Tạo, chém trâu nay chỉ tượng trưng; có kéo co, bắn nỏ, cà kheo, cồng chiêng; di tích cấp tỉnh 2008, lễ hội di sản phi vật thể quốc gia 2016, di tích quốc gia 2023.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 480,
+        "checked": "2026-10-16",
+        "keyword": "đền chín gian"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đền Chín Gian ở đâu, đường lên Quế Phong",
+      "Vì sao gọi là Chín Gian: nhà sàn 9 gian và 9 mường",
+      "Các vị được thờ",
+      "Lịch lễ hội và trình tự nghi lễ hiến trâu",
+      "Trò chơi dân gian trong hội",
+      "Lưu ý khi đi xe máy lên miền Tây Nghệ An"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/thac-khe-kem-pu-mat/",
+      "/du-lich/den-ong-hoang-muoi-nghe-an/",
+      "/du-lich/thanh-co-vinh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01121.json",
+  "draft_template": {
+    "id": "TM-01121",
+    "url": "/du-lich/den-chin-gian-que-phong/",
+    "title": "Đền Chín Gian Quế Phong: lễ hội hiến trâu của người Thái Nghệ An",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đền chín gian, đền chín gian quế phong, lễ hội đền chín gian, đền chín gian nghệ an, lễ hiến trâu đền chín gian",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đền Chín Gian ở đâu, đường lên Quế Phong",
+        "<p></p>"
+      ],
+      [
+        "Vì sao gọi là Chín Gian: nhà sàn 9 gian và 9 mường",
+        "<p></p>"
+      ],
+      [
+        "Các vị được thờ",
+        "<p></p>"
+      ],
+      [
+        "Lịch lễ hội và trình tự nghi lễ hiến trâu",
+        "<p></p>"
+      ],
+      [
+        "Trò chơi dân gian trong hội",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý khi đi xe máy lên miền Tây Nghệ An",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://nhandan.vn/den-chin-gian-linh-thieng-hoi-tu-hon-cot-nguoi-thai-mien-tay-xu-nghe-post955014.html",
+        "quote": "Nhân Dân, 'Đền Chín Gian: Linh thiêng hội tụ hồn cốt người Thái miền Tây xứ Nghệ' (12/4/2026, đọc 16/10/2026): đền ở xã Quế Phong, theo truyền tích khởi dựng khoảng thế kỷ XIV; thờ Thẻn Phà, Náng Xỉ Đà và Tạo Ló Ỳ; nhà sàn 9 gian, gian giữa tượng trưng mường chủ; lễ hội đầu xuân gồm khai quang, yết cáo, tắm trâu bến Tà Tạo, hiến trâu nay mang tính tượng trưng, rước lễ; lễ hội vào danh mục di sản phi vật thể quốc gia năm 2016, di tích xếp hạng quốc gia năm 2023.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/dac-sac-le-hien-trau-o-den-thieng-chin-gian-post1832554.tpo",
+        "quote": "Tiền Phong, 'Đặc sắc lễ hiến trâu ở đền thiêng Chín Gian' (2/4/2026, đọc 16/10/2026): đền ở bản Khoẳng Đổ, xã Quế Phong, trên núi Pú Chỏ Nhàng (Tến Pỏm); lễ hội hằng năm 14–16 tháng 2 âm lịch, kỳ 2026 diễn ra 1–2/4/2026; lễ hiến trâu dùng 9 con trâu tắm ở bến Tà Tạo, chém trâu nay chỉ tượng trưng; có kéo co, bắn nỏ, cà kheo, cồng chiêng; di tích cấp tỉnh 2008, lễ hội di sản phi vật thể quốc gia 2016, di tích quốc gia 2023.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01121"
+  }
+}

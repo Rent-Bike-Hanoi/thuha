@@ -1,0 +1,141 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T14:16:37.499769+00:00",
+  "topic": {
+    "topic_id": "TM-01140",
+    "url": "/du-lich/cho-hang-da/",
+    "title": "Chợ Hàng Da: chợ cổ phố cổ dưới tầng hầm, mở 5h–20h",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "chợ hàng da",
+    "secondary_keywords": [
+      "chợ hàng da hà nội",
+      "chợ hàng da tầng hầm",
+      "hàng da galleria",
+      "chợ hàng da bán gì"
+    ],
+    "intent": "informational",
+    "user_problem": "Khách dạo phố cổ muốn biết chợ Hàng Da còn hoạt động không, khu nào còn chợ truyền thống, mở mấy giờ và mua gì.",
+    "information_gain": "/du-lich/cho-dong-xuan/ và /du-lich/cho-dem-pho-co-ha-noi/ nói chợ khác; /du-lich/ha-noi/pho-co/ chỉ tổng quan. Bài mới cho: nguồn gốc thế kỷ XV (thợ thủ công Ngoại Bưởi), chuyển thành Trung tâm thương mại Hàng Da 2010 với 5 tầng nổi, 2 tầng hầm (~3.700m²); tầng hầm giữ chợ truyền thống (quần áo, giày dép, thực phẩm, đồ ăn, gốm), giờ mở 5h–20h; lối vào cạnh đường xuống bãi xe, tầng trên vắng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/khu-cho-an-minh-duoi-long-dat-o-ha-noi-khach-nuoc-ngoai-thich-thu-ghe-tham-20250403004156620.htm",
+        "quote": "Dân trí, 'Khu chợ ẩn mình dưới lòng đất ở Hà Nội, khách nước ngoài thích thú ghé thăm' (4/2025, đọc 16/10/2026): chợ Hàng Da mở 5h–20h hằng ngày; lối vào cạnh lối xuống bãi xe tòa nhà, biển nhỏ; tầng hầm sôi động nhất, bán quần áo, giày dép, rau, thịt, cá, đồ khô, đồ ăn uống, khu gốm sứ được khách mua nhiều; tòa nhà cải tạo 2010 với 5 tầng nổi, 2 tầng hầm, ~3.700m², tầng trên vắng; chợ có từ thế kỷ XV khi thợ thủ công làng Ngoại Bưởi đến lập nghiệp.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ten-cho-hang-da-bat-nguon-tu-hang-hoa-nao-5002835.html",
+        "quote": "VnExpress, 'Tên chợ Hàng Da bắt nguồn từ hàng hóa nào?' (7/1/2026, đọc 16/10/2026): chợ có từ thế kỷ XV–XVII, ban đầu là chợ trời, sau xây kiên cố; năm 2010 thành Trung tâm Thương mại Hàng Da.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 14800,
+        "checked": "2026-10-16",
+        "keyword": "chợ hàng da"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Chợ Hàng Da ở đâu, lối vào khu chợ",
+      "Từ chợ trời thế kỷ XV đến tòa nhà 2010",
+      "Tầng hầm bán gì: đồ ăn, thực phẩm, gốm sứ",
+      "Giờ mở cửa và lúc nên đến",
+      "Gửi xe máy ở tòa nhà và phố quanh chợ",
+      "Kết hợp phố cổ, chợ Đồng Xuân"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/ha-noi/pho-co/",
+      "/du-lich/cho-dong-xuan/",
+      "/du-lich/cho-dem-pho-co-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [
+      {
+        "url": "/du-lich/cho-hom-duc-vien/",
+        "layers": [
+          "exact_keyword"
+        ],
+        "scores": {
+          "exact_keyword": 1.0
+        }
+      }
+    ],
+    "legacy_overlap": [],
+    "merge_into": "/du-lich/cho-hom-duc-vien/",
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01140.json",
+  "draft_template": {
+    "id": "TM-01140",
+    "url": "/du-lich/cho-hang-da/",
+    "title": "Chợ Hàng Da: chợ cổ phố cổ dưới tầng hầm, mở 5h–20h",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "chợ hàng da, chợ hàng da hà nội, chợ hàng da tầng hầm, hàng da galleria, chợ hàng da bán gì",
+    "excerpt": "",
+    "sections": [
+      [
+        "Chợ Hàng Da ở đâu, lối vào khu chợ",
+        "<p></p>"
+      ],
+      [
+        "Từ chợ trời thế kỷ XV đến tòa nhà 2010",
+        "<p></p>"
+      ],
+      [
+        "Tầng hầm bán gì: đồ ăn, thực phẩm, gốm sứ",
+        "<p></p>"
+      ],
+      [
+        "Giờ mở cửa và lúc nên đến",
+        "<p></p>"
+      ],
+      [
+        "Gửi xe máy ở tòa nhà và phố quanh chợ",
+        "<p></p>"
+      ],
+      [
+        "Kết hợp phố cổ, chợ Đồng Xuân",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://dantri.com.vn/du-lich/khu-cho-an-minh-duoi-long-dat-o-ha-noi-khach-nuoc-ngoai-thich-thu-ghe-tham-20250403004156620.htm",
+        "quote": "Dân trí, 'Khu chợ ẩn mình dưới lòng đất ở Hà Nội, khách nước ngoài thích thú ghé thăm' (4/2025, đọc 16/10/2026): chợ Hàng Da mở 5h–20h hằng ngày; lối vào cạnh lối xuống bãi xe tòa nhà, biển nhỏ; tầng hầm sôi động nhất, bán quần áo, giày dép, rau, thịt, cá, đồ khô, đồ ăn uống, khu gốm sứ được khách mua nhiều; tòa nhà cải tạo 2010 với 5 tầng nổi, 2 tầng hầm, ~3.700m², tầng trên vắng; chợ có từ thế kỷ XV khi thợ thủ công làng Ngoại Bưởi đến lập nghiệp.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/ten-cho-hang-da-bat-nguon-tu-hang-hoa-nao-5002835.html",
+        "quote": "VnExpress, 'Tên chợ Hàng Da bắt nguồn từ hàng hóa nào?' (7/1/2026, đọc 16/10/2026): chợ có từ thế kỷ XV–XVII, ban đầu là chợ trời, sau xây kiên cố; năm 2010 thành Trung tâm Thương mại Hàng Da.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01140"
+  }
+}

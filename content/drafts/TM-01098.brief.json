@@ -1,0 +1,131 @@
+{
+  "writer": "writer-4",
+  "queued": "2026-10-16T14:16:38.249706+00:00",
+  "topic": {
+    "topic_id": "TM-01098",
+    "url": "/du-lich/ban-mong-son-la/",
+    "title": "Bản Mòng Sơn La: bản Thái ven Nậm La và suối khoáng nóng 36–38°C",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "bản mòng sơn la",
+    "secondary_keywords": [
+      "suối khoáng bản mòng",
+      "tắm khoáng nóng sơn la",
+      "bó nặm ún",
+      "bản mòng ở đâu"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy lên Sơn La muốn biết bản Mòng ở đâu, cách trung tâm bao xa, tắm khoáng mở cửa giờ nào và trong bản có gì ngoài suối nóng.",
+    "information_gain": "/du-lich/nha-tu-son-la/ chỉ nói di tích trong trung tâm; /du-lich/khoang-nong-kim-boi/ là khoáng nóng ở Hòa Bình; /du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/ dừng ở Mộc Châu. Bài mới cho: bản Mòng ven sông Nậm La cách trung tâm Sơn La khoảng 5 km, đường nhựa; nước khoáng ổn định 36–38°C, không mùi; giờ mở 8h–18h; hơn 100 hộ Thái giữ nhà sàn, thổ cẩm — và chênh lệch giá vé/địa giới hành chính giữa các nguồn.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-son-la-4720798.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sơn La' (19/3/2024, đọc 16/10/2026): bản Mòng là điểm du lịch sinh thái, văn hóa, nghỉ dưỡng cách trung tâm TP Sơn La khoảng 5 km, đường vào trải nhựa rộng; nước khoáng ổn định 36–38 độ C, không mùi, tắm được quanh năm; mở 8h–18h; vé tắm nước lá và khoáng nóng 120.000 đồng/người/lượt (thời điểm bài viết).",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/ban-mong-diem-den-moi-o-son-la",
+        "quote": "Vietnam.vn, 'Bản Mòng, điểm đến mới ở Sơn La' (1/4/2025, đọc 16/10/2026): bản Mòng thuộc xã Hua La, thị xã (nay TP) Sơn La, nằm bên dòng Nậm La; nguồn nước khoáng tự nhiên; bản có hơn 100 hộ, sống bằng lúa nước, chăn nuôi, thêu dệt thổ cẩm, giữ văn hóa Thái.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 70,
+        "checked": "2026-10-16",
+        "keyword": "bản mòng sơn la"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Bản Mòng ở đâu, cách trung tâm Sơn La bao xa",
+      "Đường xe máy vào bản và chỗ gửi xe",
+      "Suối khoáng nóng: nhiệt độ, giờ mở, lưu ý khi tắm",
+      "Bản Thái bên sông Nậm La: nhà sàn, thổ cẩm, ẩm thực",
+      "Ghép bản Mòng với lịch trình trong thành phố Sơn La",
+      "Lưu ý giá vé và thông tin cần hỏi lại tại chỗ"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/nha-tu-son-la/",
+      "/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/",
+      "/du-lich/khoang-nong-kim-boi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01098.json",
+  "draft_template": {
+    "id": "TM-01098",
+    "url": "/du-lich/ban-mong-son-la/",
+    "title": "Bản Mòng Sơn La: bản Thái ven Nậm La và suối khoáng nóng 36–38°C",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "bản mòng sơn la, suối khoáng bản mòng, tắm khoáng nóng sơn la, bó nặm ún, bản mòng ở đâu",
+    "excerpt": "",
+    "sections": [
+      [
+        "Bản Mòng ở đâu, cách trung tâm Sơn La bao xa",
+        "<p></p>"
+      ],
+      [
+        "Đường xe máy vào bản và chỗ gửi xe",
+        "<p></p>"
+      ],
+      [
+        "Suối khoáng nóng: nhiệt độ, giờ mở, lưu ý khi tắm",
+        "<p></p>"
+      ],
+      [
+        "Bản Thái bên sông Nậm La: nhà sàn, thổ cẩm, ẩm thực",
+        "<p></p>"
+      ],
+      [
+        "Ghép bản Mòng với lịch trình trong thành phố Sơn La",
+        "<p></p>"
+      ],
+      [
+        "Lưu ý giá vé và thông tin cần hỏi lại tại chỗ",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/cam-nang-du-lich-son-la-4720798.html",
+        "quote": "VnExpress, 'Cẩm nang du lịch Sơn La' (19/3/2024, đọc 16/10/2026): bản Mòng là điểm du lịch sinh thái, văn hóa, nghỉ dưỡng cách trung tâm TP Sơn La khoảng 5 km, đường vào trải nhựa rộng; nước khoáng ổn định 36–38 độ C, không mùi, tắm được quanh năm; mở 8h–18h; vé tắm nước lá và khoáng nóng 120.000 đồng/người/lượt (thời điểm bài viết).",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://www.vietnam.vn/ban-mong-diem-den-moi-o-son-la",
+        "quote": "Vietnam.vn, 'Bản Mòng, điểm đến mới ở Sơn La' (1/4/2025, đọc 16/10/2026): bản Mòng thuộc xã Hua La, thị xã (nay TP) Sơn La, nằm bên dòng Nậm La; nguồn nước khoáng tự nhiên; bản có hơn 100 hộ, sống bằng lúa nước, chăn nuôi, thêu dệt thổ cẩm, giữ văn hóa Thái.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01098"
+  }
+}

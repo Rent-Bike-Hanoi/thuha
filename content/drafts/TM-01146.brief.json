@@ -1,0 +1,131 @@
+{
+  "writer": "writer-1",
+  "queued": "2026-10-16T14:16:37.500937+00:00",
+  "topic": {
+    "topic_id": "TM-01146",
+    "url": "/du-lich/deo-khau-pha-tren-ql32/",
+    "title": "Đèo Khau Phạ trên QL32: dài hơn 30 km, sạt lở Km269 và tình trạng đường",
+    "hub": "du-lich",
+    "subtopic": "tuyen-duong-xe-may",
+    "primary_keyword": "đèo khau phạ",
+    "secondary_keywords": [
+      "đèo khau phạ ql32",
+      "đèo khau phạ sạt lở",
+      "đèo khau phạ dài bao nhiêu km",
+      "đường nghĩa lộ mù cang chải"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi xe máy Hà Nội – Mù Cang Chải mùa lúa chín cần biết đèo Khau Phạ dài bao nhiêu, đoạn nào hay sạt lở và kiểm tra thông xe ra sao.",
+    "information_gain": "/du-lich/du-luon-khau-pha/ viết về dù lượn và /du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/ về cả hành trình; chưa trang nào nói riêng con đèo như một chặng lái xe. Bài mới cho: QL32, dài hơn 30 km, cao trên 1.200 m, đỉnh ở xã Tú Lệ; đợt sạt lở 29/9–3/10/2025 với 30–40 điểm, Km269+750 mất nền đường, thông xe cơ bản 20h ngày 3/10/2025; cách kiểm tra trước khi qua đèo mùa mưa bão.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/deo-khau-pha-sat-lo-khach-huy-tour-ngam-mua-vang-4946374.html",
+        "quote": "VnExpress, 'Đèo Khau Phạ sạt lở, khách hủy tour ngắm mùa vàng' (2/10/2025, đọc 16/10/2026): Khau Phạ (Lào Cai) trên QL32 nối Mù Cang Chải – Văn Chấn, dài hơn 30 km, cao trên 1.200 m; từ 29/9 có 30–40 điểm sạt lở, lớn nhất Km269 cuốn mất ~30 m mặt đường; sáng 2/10 giao thông Nghĩa Lộ – Mù Cang Chải – Than Uyên còn bị chia cắt.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/vuot-kho-dam-bao-thong-suot-nhung-tuyen-duong-post883634.html",
+        "quote": "Báo Lào Cai, 'Vượt khó đảm bảo thông suốt những tuyến đường' (4/10/2025, đọc 16/10/2026): QL32 có 144 điểm sạt taluy dương và 16 điểm taluy âm; Km269+750 đèo Khau Phạ sạt taluy âm mất hơn 20 m nền đường; 20h ngày 3/10 cơ bản thông xe; máy móc trực tại đỉnh đèo xã Tú Lệ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 4400,
+        "checked": "2026-10-16",
+        "keyword": "đèo khau phạ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đèo Khau Phạ nằm ở đâu trên QL32",
+      "Số liệu: chiều dài, độ cao, xã Tú Lệ",
+      "Các đoạn dễ sạt lở và đợt sạt lở 2025",
+      "Kiểm tra thông xe trước khi đi",
+      "Mùa lúa chín và mật độ xe trên đèo",
+      "Kỹ thuật lái xe máy đổ đèo dài"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/mien-bac/ha-noi-di-mu-cang-chai-bang-xe-may/",
+      "/du-lich/du-luon-khau-pha/",
+      "/kinh-nghiem/di-xe-may-duong-deo/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "route",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01146.json",
+  "draft_template": {
+    "id": "TM-01146",
+    "url": "/du-lich/deo-khau-pha-tren-ql32/",
+    "title": "Đèo Khau Phạ trên QL32: dài hơn 30 km, sạt lở Km269 và tình trạng đường",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đèo khau phạ, đèo khau phạ ql32, đèo khau phạ sạt lở, đèo khau phạ dài bao nhiêu km, đường nghĩa lộ mù cang chải",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đèo Khau Phạ nằm ở đâu trên QL32",
+        "<p></p>"
+      ],
+      [
+        "Số liệu: chiều dài, độ cao, xã Tú Lệ",
+        "<p></p>"
+      ],
+      [
+        "Các đoạn dễ sạt lở và đợt sạt lở 2025",
+        "<p></p>"
+      ],
+      [
+        "Kiểm tra thông xe trước khi đi",
+        "<p></p>"
+      ],
+      [
+        "Mùa lúa chín và mật độ xe trên đèo",
+        "<p></p>"
+      ],
+      [
+        "Kỹ thuật lái xe máy đổ đèo dài",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vnexpress.net/deo-khau-pha-sat-lo-khach-huy-tour-ngam-mua-vang-4946374.html",
+        "quote": "VnExpress, 'Đèo Khau Phạ sạt lở, khách hủy tour ngắm mùa vàng' (2/10/2025, đọc 16/10/2026): Khau Phạ (Lào Cai) trên QL32 nối Mù Cang Chải – Văn Chấn, dài hơn 30 km, cao trên 1.200 m; từ 29/9 có 30–40 điểm sạt lở, lớn nhất Km269 cuốn mất ~30 m mặt đường; sáng 2/10 giao thông Nghĩa Lộ – Mù Cang Chải – Than Uyên còn bị chia cắt.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://baolaocai.vn/vuot-kho-dam-bao-thong-suot-nhung-tuyen-duong-post883634.html",
+        "quote": "Báo Lào Cai, 'Vượt khó đảm bảo thông suốt những tuyến đường' (4/10/2025, đọc 16/10/2026): QL32 có 144 điểm sạt taluy dương và 16 điểm taluy âm; Km269+750 đèo Khau Phạ sạt taluy âm mất hơn 20 m nền đường; 20h ngày 3/10 cơ bản thông xe; máy móc trực tại đỉnh đèo xã Tú Lệ.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01146"
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "writer": "writer-6",
+  "queued": "2026-10-16T14:16:38.779308+00:00",
+  "topic": {
+    "topic_id": "TM-01143",
+    "url": "/du-lich/nha-tho-ho-nguyen-quy-dai-mo/",
+    "title": "Nhà thờ họ Nguyễn Quý Đại Mỗ: Tam Đại Vương và hội kéo lửa thổi xôi",
+    "hub": "du-lich",
+    "subtopic": "dia-diem-ha-noi",
+    "primary_keyword": "nhà thờ họ nguyễn quý đại mỗ",
+    "secondary_keywords": [
+      "tam đại vương đại mỗ",
+      "nguyễn quý đức đại mỗ",
+      "hội làng đại mỗ",
+      "kéo lửa thổi xôi đại mỗ"
+    ],
+    "intent": "informational",
+    "user_problem": "Người ở Nam Từ Liêm, học sinh tìm hiểu khoa bảng muốn biết nhà thờ họ Nguyễn Quý ở Đại Mỗ thờ ai, ba đời đỗ đạt ra sao và hội làng có trò gì.",
+    "information_gain": "/du-lich/bao-tang-lich-su-quan-su-viet-nam/ cùng khu Đại Mỗ – Tây Mỗ nhưng không nói di tích làng; /du-lich/lang-com-me-tri/ là làng khác. Bài mới cho: nhà thờ Tam Đại Vương ở xóm Đình, Đại Mỗ thờ Nguyễn Quý Đức (Thám hoa 1676, chánh sứ sang Thanh 1691), con Nguyễn Quý Ân (Hoàng giáp 1715), cháu Nguyễn Quý Kính; được làng thờ làm Phúc thần/thành hoàng; xuân tế mùng 9 tháng Giêng, hội rằm tháng Hai có trò kéo lửa thổi xôi; cụm đình, chùa Trùng Quang.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/phuc-than-ba-doi-tiep-noi-390409.html",
+        "quote": "Hà Nội Mới, 'Phúc thần ba đời tiếp nối' (15/3/2015, đọc 16/10/2026): nhà thờ Tam Đại Vương (họ Nguyễn Quý) ở thôn Đình, phường Đại Mỗ, Nam Từ Liêm, thờ Nguyễn Quý Đức, con trưởng Nguyễn Quý Ân, cháu Nguyễn Quý Kính, đều được phong Đại vương, thờ làm Phúc thần, dân coi là thành hoàng; đã xếp hạng di tích lịch sử văn hóa (không ghi năm); xuân tế mùng 9 tháng Giêng; hội làng rằm tháng Hai có trò kéo lửa thổi xôi.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/lang-dai-mo-25190.html",
+        "quote": "Hà Nội Mới, 'Làng Đại Mỗ' (22/11/2003, đọc 16/10/2026): Đại Mỗ có cụm di tích Thiên Thọ đình, chùa Trùng Quang, nhà thờ họ Nguyễn Quý còn nhiều bia cổ; Nguyễn Quý Đức (1648–1720) đỗ Đình nguyên Thám hoa 1676, chánh sứ sang nhà Thanh 1691, được thờ làm thành hoàng vì hiến đất giúp làng; Nguyễn Quý Ân (1673–1722) Hoàng giáp 1715, làm Bồi tụng; Nguyễn Quý Kính làm Tham tụng, Thượng thư bộ Hình; ba vị thờ chung 'Tam vị đại vương'.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "nhà thờ họ nguyễn quý đại mỗ"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Nhà thờ họ Nguyễn Quý ở đâu trong làng Đại Mỗ",
+      "Ba đời khoa bảng: Quý Đức, Quý Ân, Quý Kính",
+      "Từ dòng họ thành Phúc thần của làng",
+      "Hội rằm tháng Hai và trò kéo lửa thổi xôi",
+      "Cụm di tích đình Thiên Thọ, chùa Trùng Quang",
+      "Đi xe máy từ Đại lộ Thăng Long, kết hợp Bảo tàng Lịch sử Quân sự"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bao-tang-lich-su-quan-su-viet-nam/",
+      "/du-lich/lang-com-me-tri/",
+      "/du-lich/ben-xe-my-dinh/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01143.json",
+  "draft_template": {
+    "id": "TM-01143",
+    "url": "/du-lich/nha-tho-ho-nguyen-quy-dai-mo/",
+    "title": "Nhà thờ họ Nguyễn Quý Đại Mỗ: Tam Đại Vương và hội kéo lửa thổi xôi",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "nhà thờ họ nguyễn quý đại mỗ, tam đại vương đại mỗ, nguyễn quý đức đại mỗ, hội làng đại mỗ, kéo lửa thổi xôi đại mỗ",
+    "excerpt": "",
+    "sections": [
+      [
+        "Nhà thờ họ Nguyễn Quý ở đâu trong làng Đại Mỗ",
+        "<p></p>"
+      ],
+      [
+        "Ba đời khoa bảng: Quý Đức, Quý Ân, Quý Kính",
+        "<p></p>"
+      ],
+      [
+        "Từ dòng họ thành Phúc thần của làng",
+        "<p></p>"
+      ],
+      [
+        "Hội rằm tháng Hai và trò kéo lửa thổi xôi",
+        "<p></p>"
+      ],
+      [
+        "Cụm di tích đình Thiên Thọ, chùa Trùng Quang",
+        "<p></p>"
+      ],
+      [
+        "Đi xe máy từ Đại lộ Thăng Long, kết hợp Bảo tàng Lịch sử Quân sự",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/phuc-than-ba-doi-tiep-noi-390409.html",
+        "quote": "Hà Nội Mới, 'Phúc thần ba đời tiếp nối' (15/3/2015, đọc 16/10/2026): nhà thờ Tam Đại Vương (họ Nguyễn Quý) ở thôn Đình, phường Đại Mỗ, Nam Từ Liêm, thờ Nguyễn Quý Đức, con trưởng Nguyễn Quý Ân, cháu Nguyễn Quý Kính, đều được phong Đại vương, thờ làm Phúc thần, dân coi là thành hoàng; đã xếp hạng di tích lịch sử văn hóa (không ghi năm); xuân tế mùng 9 tháng Giêng; hội làng rằm tháng Hai có trò kéo lửa thổi xôi.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://hanoimoi.vn/lang-dai-mo-25190.html",
+        "quote": "Hà Nội Mới, 'Làng Đại Mỗ' (22/11/2003, đọc 16/10/2026): Đại Mỗ có cụm di tích Thiên Thọ đình, chùa Trùng Quang, nhà thờ họ Nguyễn Quý còn nhiều bia cổ; Nguyễn Quý Đức (1648–1720) đỗ Đình nguyên Thám hoa 1676, chánh sứ sang nhà Thanh 1691, được thờ làm thành hoàng vì hiến đất giúp làng; Nguyễn Quý Ân (1673–1722) Hoàng giáp 1715, làm Bồi tụng; Nguyễn Quý Kính làm Tham tụng, Thượng thư bộ Hình; ba vị thờ chung 'Tam vị đại vương'.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01143"
+  }
+}

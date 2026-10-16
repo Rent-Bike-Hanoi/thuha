@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-16T14:16:37.761255+00:00",
+  "topic": {
+    "topic_id": "TM-01132",
+    "url": "/du-lich/dao-vinh-thuc-mong-cai/",
+    "title": "Đảo Vĩnh Thực Móng Cái: bãi Đầu Đông, Bến Hèn và hải đăng",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đảo vĩnh thực",
+    "secondary_keywords": [
+      "đảo vĩnh thực móng cái",
+      "bãi biển đầu đông",
+      "bến mũi ngọc đi vĩnh thực",
+      "hải đăng vĩnh thực"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Móng Cái, Trà Cổ muốn ra một đảo gần, ít khách, cần biết đi Vĩnh Thực từ bến nào, mất bao lâu và trên đảo có gì.",
+    "information_gain": "/du-lich/bien-tra-co-mong-cai/ nói bãi Trà Cổ trên đất liền; /du-lich/dao-cai-chien/ nói đảo khác ở Hải Hà. Chưa bài nào về Vĩnh Thực. Bài mới cho: đảo khoảng 5.000 ha (gồm Vĩnh Trung cũ) cách trung tâm Móng Cái khoảng 20 km; đi xuồng khoảng 10 phút từ bến Mũi Ngọc (phường Móng Cái 1), có phà; hai bãi Đầu Đông, Bến Hèn cát trắng rừng phi lao; hải đăng Vĩnh Thực.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/dao-vinh-thuc-vien-ngoc-tho-noi-dia-dau-dong-bac-10428695.html",
+        "quote": "Đại biểu Nhân dân, 'Đảo Vĩnh Thực: Viên ngọc thô nơi địa đầu Đông Bắc' (26/8/2026, đọc 16/10/2026): đảo cách trung tâm Móng Cái khoảng 20 km, rộng khoảng 5.000 ha gồm cả xã Vĩnh Trung cũ; khách đi từ bến Mũi Ngọc (phường Móng Cái 1), xuồng khoảng 10 phút, có tuyến phà nối đất liền; hai bãi Đầu Đông, Bến Hèn cát trắng, nước trong, rừng phi lao; hải đăng Vĩnh Thực là điểm check-in.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/3-ngay-kham-pha-dao-hoang-so-voi-gia-trong-mo-12-trieu-320147.html",
+        "quote": "VietNamNet, '3 ngày khám phá đảo hoang sơ với giá trong mơ 1,2 triệu' (9/8/2016, đọc 16/10/2026): đảo Vĩnh Thực cách TP Móng Cái khoảng 20 km, từ đất liền ra đảo bằng cano dưới 10 phút; bãi đá cạnh ngọn hải đăng đẹp, hùng vĩ.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": 880,
+        "checked": "2026-10-16",
+        "keyword": "đảo vĩnh thực"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đảo Vĩnh Thực ở đâu",
+      "Đi từ bến Mũi Ngọc: xuồng và phà",
+      "Bãi Đầu Đông và Bến Hèn",
+      "Hải đăng và bãi đá",
+      "Ghép với Trà Cổ trong chuyến Móng Cái",
+      "Mang xe máy ra đảo: lưu ý"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/bien-tra-co-mong-cai/",
+      "/du-lich/dao-cai-chien/",
+      "/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01132.json",
+  "draft_template": {
+    "id": "TM-01132",
+    "url": "/du-lich/dao-vinh-thuc-mong-cai/",
+    "title": "Đảo Vĩnh Thực Móng Cái: bãi Đầu Đông, Bến Hèn và hải đăng",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đảo vĩnh thực, đảo vĩnh thực móng cái, bãi biển đầu đông, bến mũi ngọc đi vĩnh thực, hải đăng vĩnh thực",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đảo Vĩnh Thực ở đâu",
+        "<p></p>"
+      ],
+      [
+        "Đi từ bến Mũi Ngọc: xuồng và phà",
+        "<p></p>"
+      ],
+      [
+        "Bãi Đầu Đông và Bến Hèn",
+        "<p></p>"
+      ],
+      [
+        "Hải đăng và bãi đá",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Trà Cổ trong chuyến Móng Cái",
+        "<p></p>"
+      ],
+      [
+        "Mang xe máy ra đảo: lưu ý",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://daibieunhandan.vn/dao-vinh-thuc-vien-ngoc-tho-noi-dia-dau-dong-bac-10428695.html",
+        "quote": "Đại biểu Nhân dân, 'Đảo Vĩnh Thực: Viên ngọc thô nơi địa đầu Đông Bắc' (26/8/2026, đọc 16/10/2026): đảo cách trung tâm Móng Cái khoảng 20 km, rộng khoảng 5.000 ha gồm cả xã Vĩnh Trung cũ; khách đi từ bến Mũi Ngọc (phường Móng Cái 1), xuồng khoảng 10 phút, có tuyến phà nối đất liền; hai bãi Đầu Đông, Bến Hèn cát trắng, nước trong, rừng phi lao; hải đăng Vĩnh Thực là điểm check-in.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/3-ngay-kham-pha-dao-hoang-so-voi-gia-trong-mo-12-trieu-320147.html",
+        "quote": "VietNamNet, '3 ngày khám phá đảo hoang sơ với giá trong mơ 1,2 triệu' (9/8/2016, đọc 16/10/2026): đảo Vĩnh Thực cách TP Móng Cái khoảng 20 km, từ đất liền ra đảo bằng cano dưới 10 phút; bãi đá cạnh ngọn hải đăng đẹp, hùng vĩ.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01132"
+  }
+}
