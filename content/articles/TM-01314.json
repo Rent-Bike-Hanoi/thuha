@@ -16,7 +16,7 @@
     ],
     [
       "Điều kiện: thuê từ 48 giờ, tính giá ngày 150–200 nghìn",
-      "<p>Các con số dưới đây lấy từ thông tin cửa hàng (business-facts, kiểm tra 17/10/2026):</p><div class=\"table-scroll\"><table><thead><tr><th>Mục</th><th>Điều kiện khi đi ra ngoài Hà Nội</th></tr></thead><tbody><tr><td>Thời gian thuê tối thiểu</td><td>Từ 48 giờ trở lên</td></tr><tr><td>Cách tính giá</td><td>Theo giá ngày 150–200 nghìn</td></tr><tr><td>Đặt cọc</td><td>2–5 triệu đồng tùy xe và thời hạn thuê; cọc tiền thì không giữ giấy tờ gốc</td></tr><tr><td>Mũ bảo hiểm</td><td>Mũ bảo hiểm cơ bản miễn phí</td></tr><tr><td>Xăng khi trả</td><td>Trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ</td></tr></tbody></table></div><p>Ví dụ cách hiểu: thuê 48 giờ là hai ngày thuê, mỗi ngày trong khoảng 150–200 nghìn tùy xe. Mức cụ thể của từng xe cửa hàng báo khi bạn chọn xe. Bảng giá chung có mức tuần cho xe số 700–800 nghìn và xe ga 600 nghìn–1 triệu; với chuyến đi tỉnh, điều khoản ngày 17/10/2026 ghi rõ tính theo giá ngày, nên nếu bạn đi dài ngày hãy hỏi cửa hàng trước khi chốt, đừng tự áp giá tuần.</p><p>Nếu cọc bằng tiền, bạn giữ lại giấy tờ gốc của mình, điều này hữu ích khi đi xa vì có thể cần xuất trình giấy tờ trên đường.</p>"
+      "<p>Các con số dưới đây lấy từ thông tin cửa hàng (business-facts, kiểm tra 17/10/2026):</p><div class=\"table-scroll\"><table><thead><tr><th>Mục</th><th>Điều kiện khi đi ra ngoài Hà Nội</th></tr></thead><tbody><tr><td>Thời gian thuê tối thiểu</td><td>Từ 48 giờ trở lên</td></tr><tr><td>Cách tính giá</td><td>Theo giá ngày 150–200 nghìn</td></tr><tr><td>Đặt cọc</td><td>2–5 triệu đồng tùy xe và thời hạn thuê; cọc tiền thì không giữ giấy tờ gốc</td></tr><tr><td>Mũ bảo hiểm</td><td>Mũ bảo hiểm cơ bản miễn phí</td></tr><tr><td>Xăng khi trả</td><td>Trả xe với khoảng 0,5–1 lít xăng; bình trống phí 20.000đ</td></tr></tbody></table></div><p>Ví dụ cách hiểu: thuê 48 giờ là hai ngày thuê, mỗi ngày trong khoảng 150–200 nghìn tùy xe. Mức cụ thể của từng xe cửa hàng báo khi bạn chọn xe. Bảng giá chung có mức tuần cho xe số 700–800 nghìn và xe ga 600 nghìn–1 triệu; với chuyến đi tỉnh, cửa hàng tính theo giá ngày kể cả khi đi dài ngày, không áp giá tuần (chủ cửa hàng xác nhận 17/10/2026).</p><p>Nếu cọc bằng tiền, bạn giữ lại giấy tờ gốc của mình, điều này hữu ích khi đi xa vì có thể cần xuất trình giấy tờ trên đường.</p>"
     ],
     [
       "Cách tính ngày thuê và phí trả muộn khi đi xa",
@@ -58,7 +58,7 @@
     {
       "type": "business-facts",
       "source": "config/business-facts.json",
-      "quote": "policies.out_of_hanoi: được đi ra ngoài Hà Nội; tính theo giá ngày 150–200 nghìn và chỉ cho thuê khi thuê từ 48 giờ trở lên (theo chủ cửa hàng, 17/10/2026)",
+      "quote": "policies.out_of_hanoi: được đi ra ngoài Hà Nội; tính theo giá ngày 150–200 nghìn và chỉ cho thuê khi thuê từ 48 giờ trở lên; đi dài ngày vẫn tính giá ngày, không áp giá tuần (theo chủ cửa hàng, 17/10/2026)",
       "checked": "2026-10-17"
     },
     {
