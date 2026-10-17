@@ -43,7 +43,7 @@
     ],
     [
       "Tiền cọc có được trừ vào khoản đền không?",
-      "Cọc là khoản riêng 2–5 triệu đồng tùy xe và thời hạn thuê. Cách xử lý cọc khi mất xe, hỏi trực tiếp cửa hàng theo hợp đồng của bạn."
+      "Có. Tiền cọc (2–5 triệu đồng tùy xe và thời hạn thuê) được trừ vào số tiền phải hoàn trả theo giá trị xe ghi trên hợp đồng."
     ],
     [
       "Đổ xe làm trầy vỏ có phải đền như mất xe không?",
@@ -58,7 +58,7 @@
     {
       "type": "business-facts",
       "source": "config/business-facts.json",
-      "quote": "policies.loss: mất xe: khách hoàn trả tiền theo giá trị xe ghi trên hợp đồng lúc thuê (theo chủ cửa hàng, 16/10/2026)",
+      "quote": "policies.loss: mất xe: khách hoàn trả tiền theo giá trị xe ghi trên hợp đồng lúc thuê; tiền cọc được trừ vào số tiền phải hoàn trả (theo chủ cửa hàng, 16–17/10/2026)",
       "checked": "2026-10-17"
     },
     {
