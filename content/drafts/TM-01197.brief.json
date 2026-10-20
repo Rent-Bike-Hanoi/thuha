@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-20T08:29:12.647657+00:00",
+  "topic": {
+    "topic_id": "TM-01197",
+    "url": "/du-lich/dinh-kim-son-kien-thuy/",
+    "title": "Đình Kim Sơn Kiến Thụy: hội vật cầu củ chuối mùng 6 Tết",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đình kim sơn",
+    "secondary_keywords": [
+      "vật cầu kim sơn",
+      "lễ hội vật cầu kiến thụy",
+      "đình kim sơn hải phòng",
+      "hội xuân hải phòng"
+    ],
+    "intent": "informational",
+    "user_problem": "Người muốn xem hội xuân ở Hải Phòng tìm hiểu đình Kim Sơn ở đâu, hội vật cầu diễn ra ngày nào và luật chơi ra sao.",
+    "information_gain": "/du-lich/khu-tuong-niem-vuong-trieu-mac/ (cùng Kiến Thụy) và /du-lich/den-het-thai-thuy/ (có vật cầu) không nói về Kim Sơn. Bài mới cho: hội mùng 6 Tết tại sân đình Kim Sơn (thôn Kim Sơn, xã Tân Trào cũ), quả cầu củ chuối hột ~20 kg đường kính ~40 cm bọc giấy đỏ tứ linh, 24 dòng họ chia 3 giáp, mỗi giáp 5 đô vật chưa vợ, 3 hiệp; truyền tích Phạm Ngũ Lão.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/nhung-le-hoi-xuan-doc-nhat-vo-nhi-tai-hai-phong-post212082.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Những lễ hội xuân độc nhất vô nhị tại Hải Phòng' (8/2/2016, đọc 16/10/2026): sân đình Kim Sơn, làng Kim Sơn, xã Tân Trào, huyện Kiến Thụy, cách trung tâm Hải Phòng hơn 20 km; mồng 6 Tết, bắt đầu 10h; ba năm một lần; tích Phạm Ngũ Lão dùng củ chuối hột luyện quân; quả cầu củ chuối 20 kg bọc giấy đỏ tứ linh; 24 dòng họ chia 3 giáp, mỗi giáp 1 tổng cờ và 5 đô vật trai chưa vợ; 3 hiệp mỗi hiệp 3 phút; kết thúc ném cầu xuống ao bán nguyệt.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/van-hoa/hang-chuc-trai-lang-danh-vat-voi-qua-cau-lam-tu-cu-chuoi-khong-lo-1513930.tpo",
+        "quote": "Tiền Phong, 'Hàng chục trai làng đánh vật với quả cầu làm từ củ chuối khổng lồ' (31/1/2020, đọc 16/10/2026): làng Kim Sơn, xã Tân Trào, Kiến Thụy, Hải Phòng; mùng 6 Tết (30/1/2020); bài nói tổ chức hằng năm nhưng một người dân nói 3 năm một lần; cầu củ chuối hột đường kính ~40 cm, ~20 kg; ba giáp Đông, Nam, Bắc; cách tính điểm mới 5/10 điểm theo khoảng cách tới hố.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đình kim sơn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đình Kim Sơn ở đâu, đi từ Hà Nội",
+      "Tích Phạm Ngũ Lão và quả cầu củ chuối",
+      "Luật vật cầu: giáp, đô vật, hiệp đấu",
+      "Năm nào có hội: hỏi trước",
+      "Chỗ đứng xem an toàn, giữ xe",
+      "Ghép với khu tưởng niệm vương triều Mạc"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/khu-tuong-niem-vuong-trieu-mac/",
+      "/du-lich/den-het-thai-thuy/",
+      "/du-lich/do-son-di-xe-may-tu-ha-noi/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01197.json",
+  "draft_template": {
+    "id": "TM-01197",
+    "url": "/du-lich/dinh-kim-son-kien-thuy/",
+    "title": "Đình Kim Sơn Kiến Thụy: hội vật cầu củ chuối mùng 6 Tết",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đình kim sơn, vật cầu kim sơn, lễ hội vật cầu kiến thụy, đình kim sơn hải phòng, hội xuân hải phòng",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đình Kim Sơn ở đâu, đi từ Hà Nội",
+        "<p></p>"
+      ],
+      [
+        "Tích Phạm Ngũ Lão và quả cầu củ chuối",
+        "<p></p>"
+      ],
+      [
+        "Luật vật cầu: giáp, đô vật, hiệp đấu",
+        "<p></p>"
+      ],
+      [
+        "Năm nào có hội: hỏi trước",
+        "<p></p>"
+      ],
+      [
+        "Chỗ đứng xem an toàn, giữ xe",
+        "<p></p>"
+      ],
+      [
+        "Ghép với khu tưởng niệm vương triều Mạc",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://baophapluat.vn/nhung-le-hoi-xuan-doc-nhat-vo-nhi-tai-hai-phong-post212082.html",
+        "quote": "Báo Pháp luật Việt Nam, 'Những lễ hội xuân độc nhất vô nhị tại Hải Phòng' (8/2/2016, đọc 16/10/2026): sân đình Kim Sơn, làng Kim Sơn, xã Tân Trào, huyện Kiến Thụy, cách trung tâm Hải Phòng hơn 20 km; mồng 6 Tết, bắt đầu 10h; ba năm một lần; tích Phạm Ngũ Lão dùng củ chuối hột luyện quân; quả cầu củ chuối 20 kg bọc giấy đỏ tứ linh; 24 dòng họ chia 3 giáp, mỗi giáp 1 tổng cờ và 5 đô vật trai chưa vợ; 3 hiệp mỗi hiệp 3 phút; kết thúc ném cầu xuống ao bán nguyệt.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "press",
+        "source": "https://tienphong.vn/van-hoa/hang-chuc-trai-lang-danh-vat-voi-qua-cau-lam-tu-cu-chuoi-khong-lo-1513930.tpo",
+        "quote": "Tiền Phong, 'Hàng chục trai làng đánh vật với quả cầu làm từ củ chuối khổng lồ' (31/1/2020, đọc 16/10/2026): làng Kim Sơn, xã Tân Trào, Kiến Thụy, Hải Phòng; mùng 6 Tết (30/1/2020); bài nói tổ chức hằng năm nhưng một người dân nói 3 năm một lần; cầu củ chuối hột đường kính ~40 cm, ~20 kg; ba giáp Đông, Nam, Bắc; cách tính điểm mới 5/10 điểm theo khoảng cách tới hố.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01197"
+  }
+}

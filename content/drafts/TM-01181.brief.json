@@ -1,0 +1,131 @@
+{
+  "writer": "writer-2",
+  "queued": "2026-10-20T08:29:12.646649+00:00",
+  "topic": {
+    "topic_id": "TM-01181",
+    "url": "/du-lich/dan-vien-chau-son/",
+    "title": "Đan viện Châu Sơn Nho Quan: thánh đường gạch đỏ 1939, tháp chuông dang dở",
+    "hub": "du-lich",
+    "subtopic": "diem-den-mien-bac",
+    "primary_keyword": "đan viện châu sơn",
+    "secondary_keywords": [
+      "nhà thờ châu sơn",
+      "đan viện thánh mẫu châu sơn",
+      "nhà thờ gạch nho quan",
+      "đan viện xitô châu sơn"
+    ],
+    "intent": "informational",
+    "user_problem": "Người đi Cúc Phương hoặc thích chụp kiến trúc muốn ghé Đan viện Châu Sơn: ở đâu, vì sao nổi tiếng, vào xem có được không và cần lưu ý gì.",
+    "information_gain": "/du-lich/nha-tho-da-phat-diem/ và /du-lich/nha-tho-phu-nhai/ là nhà thờ giáo xứ; chưa trang nào nói đan viện Xitô ở Nho Quan. Bài mới cho: đan viện chiêm niệm dòng Xitô lập 1936 trên đồn điền Lacombe, thánh đường xây 1939 dài 64 m, rộng 20 m, cao 21 m bằng gạch đỏ không trát, không xi măng cốt thép, do cha Placido Trương Minh Trạch thiết kế, tháp chuông 60 m bỏ dở vì tiền dùng cứu đói 1945, khu đất gần 10 ha có vườn Fatima – và nhắc đây là nơi tu hành cần giữ yên lặng.",
+    "evidence": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/dan-vien-dep-nhu-troi-au-o-ninh-binh-va-cau-chuyen-thap-chuong-dang-do-2425982.html",
+        "quote": "VietNamNet, 'Đan viện đẹp như trời Âu ở Ninh Bình và câu chuyện tháp chuông dang dở' (02/08/2025, đọc 16/10/2026): còn gọi nhà thờ Châu Sơn, nhà thờ Gạch, ở xã Phú Sơn; khởi công 1936, đan viện chiêm niệm dòng Xitô; khu đất gần 10 ha có vườn Fatima, giếng cổ; thánh đường xây từ 2/1939, Gothic, dài 64 m, rộng 20 m, cao 21 m, gạch đỏ không tô trát, không xi măng cốt thép, cha Placido Trương Minh Trạch thiết kế; tháp chuông 60 m dang dở vì tiền dùng giúp dân trong nạn đói 1945.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://xitothanhgia.com/lich-su-dan-vien-thanh-mau-chau-son-nho-quan-ninh-binh/",
+        "quote": "Dòng Xitô Thánh Gia, 'Lịch sử Đan viện Thánh Mẫu Châu Sơn Nho Quan Ninh Bình' (05/10/2022, đọc 16/10/2026): lịch sử chia 3 giai đoạn 1936–1950, 1950–1988, 1988–2006; Đức cha Nguyễn Bá Tòng mời dòng Phước Sơn lập dòng ở giáo phận Phát Diệm, mua đồn điền cà phê Lacombe ở Nho Quan; 18/02/1936 nhận đồn điền; 19/03/1936 nhóm đan sĩ đầu tiên ra Nho Quan.",
+        "verbatim": false,
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "keyword-volume",
+        "source": "harborrank (DataForSEO, location 2704)",
+        "value": null,
+        "checked": "2026-10-16",
+        "keyword": "đan viện châu sơn"
+      }
+    ],
+    "notes": "",
+    "outline": [
+      "Đan viện Châu Sơn ở đâu, đi từ Nho Quan",
+      "Từ đồn điền Lacombe đến đan viện Xitô",
+      "Thánh đường gạch đỏ: số đo và cách xây",
+      "Câu chuyện tháp chuông 60 m dang dở",
+      "Tham quan nơi tu hành: giờ, trang phục, chụp ảnh",
+      "Ghép với Cúc Phương trong một ngày"
+    ],
+    "suggested_internal_links": [
+      "/du-lich/vuon-quoc-gia-cuc-phuong-di-xe-may-tu-ha-noi/",
+      "/du-lich/nha-tho-da-phat-diem/",
+      "/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/",
+      "/thue-xe-may/ha-noi/"
+    ],
+    "content_type": "place-guide",
+    "overlap": [],
+    "legacy_overlap": [],
+    "merge_into": null,
+    "priority": "P2"
+  },
+  "rules": [
+    "Chỉ viết đúng ý định trong brief; không mở rộng sang câu hỏi của bài đã có (xem overlap/merge_into).",
+    "Mọi con số, mức phạt, giá, điều khoản phải có trong evidence/sources hoặc config/business-facts.json; không được bịa.",
+    "Trích dẫn nguồn ngay trong bài (href tới văn bản gốc) và liệt kê trong trường sources.",
+    "Tối thiểu 700 từ và 4 mục; độ dài theo nhu cầu người đọc, không nhồi chữ.",
+    "Ít nhất 2 liên kết nội bộ tới bài cùng cụm/hub (suggested_internal_links, merge_into); không liên kết hỏng.",
+    "Số điện thoại duy nhất: theo business-facts; không nhắc rentbikehanoi.com.",
+    "Tiêu đề giữ từ khoá chính; keywords = từ khoá chính, từ khoá phụ (phân cách bằng dấu phẩy).",
+    "FAQ (faq) 3–5 câu nếu bài có câu hỏi phụ thật; không lặp lại nội dung mục chính."
+  ],
+  "draft_file": "content/drafts/TM-01181.json",
+  "draft_template": {
+    "id": "TM-01181",
+    "url": "/du-lich/dan-vien-chau-son/",
+    "title": "Đan viện Châu Sơn Nho Quan: thánh đường gạch đỏ 1939, tháp chuông dang dở",
+    "hub": "du-lich",
+    "parent": "/du-lich/",
+    "kind": "article",
+    "art": "",
+    "tone": "gold",
+    "keywords": "đan viện châu sơn, nhà thờ châu sơn, đan viện thánh mẫu châu sơn, nhà thờ gạch nho quan, đan viện xitô châu sơn",
+    "excerpt": "",
+    "sections": [
+      [
+        "Đan viện Châu Sơn ở đâu, đi từ Nho Quan",
+        "<p></p>"
+      ],
+      [
+        "Từ đồn điền Lacombe đến đan viện Xitô",
+        "<p></p>"
+      ],
+      [
+        "Thánh đường gạch đỏ: số đo và cách xây",
+        "<p></p>"
+      ],
+      [
+        "Câu chuyện tháp chuông 60 m dang dở",
+        "<p></p>"
+      ],
+      [
+        "Tham quan nơi tu hành: giờ, trang phục, chụp ảnh",
+        "<p></p>"
+      ],
+      [
+        "Ghép với Cúc Phương trong một ngày",
+        "<p></p>"
+      ]
+    ],
+    "faqTitle": "",
+    "faq": [],
+    "sources": [
+      {
+        "type": "press",
+        "source": "https://vietnamnet.vn/dan-vien-dep-nhu-troi-au-o-ninh-binh-va-cau-chuyen-thap-chuong-dang-do-2425982.html",
+        "quote": "VietNamNet, 'Đan viện đẹp như trời Âu ở Ninh Bình và câu chuyện tháp chuông dang dở' (02/08/2025, đọc 16/10/2026): còn gọi nhà thờ Châu Sơn, nhà thờ Gạch, ở xã Phú Sơn; khởi công 1936, đan viện chiêm niệm dòng Xitô; khu đất gần 10 ha có vườn Fatima, giếng cổ; thánh đường xây từ 2/1939, Gothic, dài 64 m, rộng 20 m, cao 21 m, gạch đỏ không tô trát, không xi măng cốt thép, cha Placido Trương Minh Trạch thiết kế; tháp chuông 60 m dang dở vì tiền dùng giúp dân trong nạn đói 1945.",
+        "checked": "2026-10-16"
+      },
+      {
+        "type": "official",
+        "source": "https://xitothanhgia.com/lich-su-dan-vien-thanh-mau-chau-son-nho-quan-ninh-binh/",
+        "quote": "Dòng Xitô Thánh Gia, 'Lịch sử Đan viện Thánh Mẫu Châu Sơn Nho Quan Ninh Bình' (05/10/2022, đọc 16/10/2026): lịch sử chia 3 giai đoạn 1936–1950, 1950–1988, 1988–2006; Đức cha Nguyễn Bá Tòng mời dòng Phước Sơn lập dòng ở giáo phận Phát Diệm, mua đồn điền cà phê Lacombe ở Nho Quan; 18/02/1936 nhận đồn điền; 19/03/1936 nhóm đan sĩ đầu tiên ra Nho Quan.",
+        "checked": "2026-10-16"
+      }
+    ],
+    "factoryVersion": 2,
+    "topic_id": "TM-01181"
+  }
+}
