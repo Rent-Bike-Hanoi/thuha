@@ -15,7 +15,7 @@
   ],
   [
    "Lịch cho người mới mua Air Blade: nhớt máy theo km, láp theo năm",
-   "<p>Trong bảng Lịch bảo dưỡng của Air Blade, dòng “Dầu truyền động cuối” để trống ở mọi cột km; chỉ cột Thay thế định kỳ ghi 2 năm. Trang phụ tùng <a href=\"https://www.honda.com.vn/xe-may/phu-tung/hoa-chat-detail?id_pt=2\" target=\"_blank\" rel=\"noopener noreferrer\">Dầu hộp số của Honda</a> cũng ghi “Honda khuyến cáo nên thay thế sau 2 năm sử dụng”. Ghép hai dòng lại, một chiếc Air Blade mới sẽ có nhịp như sau:</p><table><thead><tr><th>Thời điểm</th><th>Dầu động cơ</th><th>Dầu truyền động cuối</th></tr></thead><tbody><tr><td>Khoảng 1.000 km</td><td>Thay lần đầu, đặt lại đèn OIL CHANGE</td><td>Chưa đến hạn</td></tr><tr><td>Mỗi 6.000 km tiếp theo</td><td>Thay, đặt lại đèn</td><td>Nhờ thợ xem quanh ốc xả có rỉ không</td></tr><tr><td>Tròn 1 năm (nếu đi ít)</td><td>Thay theo cột hằng năm</td><td>Chưa đến hạn</td></tr><tr><td>Tròn 2 năm kể từ ngày mua</td><td>Theo mốc km hoặc năm</td><td>Thay mới</td></tr></tbody></table><p>Sổ không đặt lịch riêng cho mùa nắng nóng, nên trời nóng không làm mốc 2 năm ngắn lại; cái làm thay đổi là cách dùng xe. Trang <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">hỏi đáp của Honda Việt Nam</a> dặn mùa mưa “nên lưu ý kiểm tra thêm cả dầu truyền động cuối”. Các trường hợp nên thay sớm hơn hai năm và mốc của các hãng khác đã được so sánh ở bài <a href=\"/bao-duong/nhot-hop-so-xe-ga-nhot-lap-bao-lau-thay-mot-lan/\">nhớt láp xe ga bao lâu thay một lần</a>.</p>"
+   "<p>Trong bảng Lịch bảo dưỡng của Air Blade, dòng “Dầu truyền động cuối” để trống ở mọi cột km; chỉ cột Thay thế định kỳ ghi 2 năm. Trang phụ tùng <a href=\"https://www.honda.com.vn/xe-may/phu-tung/hoa-chat-detail?id_pt=2\" target=\"_blank\" rel=\"noopener noreferrer\">Dầu hộp số của Honda</a> cũng ghi “Honda khuyến cáo nên thay thế sau 2 năm sử dụng”. Ghép hai dòng lại, một chiếc Air Blade mới sẽ có nhịp như sau:</p><table><thead><tr><th>Thời điểm</th><th>Dầu động cơ</th><th>Dầu truyền động cuối</th></tr></thead><tbody><tr><td>Khoảng 1.000 km</td><td>Thay lần đầu, đặt lại đèn OIL CHANGE</td><td>Chưa đến hạn</td></tr><tr><td>Mỗi 6.000 km tiếp theo</td><td>Thay, đặt lại đèn</td><td>Sổ không đặt mốc (có thể nhờ thợ xem có rỉ dầu)</td></tr><tr><td>Tròn 1 năm (nếu đi ít)</td><td>Thay theo cột hằng năm</td><td>Chưa đến hạn</td></tr><tr><td>Tròn 2 năm kể từ ngày mua</td><td>Theo mốc km hoặc năm</td><td>Thay mới</td></tr></tbody></table><p>Sổ không đặt lịch riêng cho mùa nắng nóng, nên trời nóng không làm mốc 2 năm ngắn lại; cái làm thay đổi là cách dùng xe. Trang <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">hỏi đáp của Honda Việt Nam</a> dặn mùa mưa “nên lưu ý kiểm tra thêm cả dầu truyền động cuối”. Các trường hợp nên thay sớm hơn hai năm và mốc của các hãng khác đã được so sánh ở bài <a href=\"/bao-duong/nhot-hop-so-xe-ga-nhot-lap-bao-lau-thay-mot-lan/\">nhớt láp xe ga bao lâu thay một lần</a>.</p>"
   ],
   [
    "Đọc sổ Air Blade cho đúng con số 0,13 lít",
@@ -43,7 +43,7 @@
  "kind": "article",
  "art": "01636",
  "tone": "black",
- "wordCount": 1572,
+ "wordCount": 1575,
  "intent": "xe-info|thay-nhot-hop-so-lap|xe tay ga honda air blade|người mới mua xe lần đầu|những ngày nắng nóng đỉnh điểm|sai-lam-pho-bien",
  "factoryVersion": 1,
  "faqTitle": "Câu hỏi thường gặp về nhớt láp Air Blade",
