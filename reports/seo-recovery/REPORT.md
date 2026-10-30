@@ -1,6 +1,6 @@
 # Báo cáo SEO recovery thuha.rentbikehanoi.com
 
-Cập nhật 2026-10-31 00:04 (giờ Hà Nội). Sinh tự động từ `reports/seo-recovery/data/` bằng `scripts/seo_recovery_report.py`.
+Cập nhật 2026-10-31 01:24 (giờ Hà Nội). Sinh tự động từ `reports/seo-recovery/data/` bằng `scripts/seo_recovery_report.py`.
 
 > INDEX_ELIGIBLE (trang cho phép index, có trong sitemap) **không** đồng nghĩa INDEXED trên Google. Trạng thái Google chỉ lấy từ Search Console; URL chưa kiểm tra ghi NOT_VERIFIED.
 
@@ -12,16 +12,16 @@ Cập nhật 2026-10-31 00:04 (giờ Hà Nội). Sinh tự động từ `reports
 |   trong đó noindex lúc audit | 3747 |
 |   index-eligible lúc audit | 1301 |
 | URL đã xoá trước dự án (10/10/2026, 404) | 142 |
-| Bài V1 đã mở index có kiểm chứng | 12 |
-| URL còn trong config/factory-noindex.json | 3328 |
+| Bài V1 đã mở index có kiểm chứng | 33 |
+| URL còn trong config/factory-noindex.json | 3325 |
 
 
 ### Phân loại (classification.csv)
 
 | (Nhóm, hành động, trạng thái) | Số URL |
 |---|---|
-| ('B', 'REWRITE_THEN_INDEX', 'DONE') | 12 |
-| ('B', 'REWRITE_THEN_INDEX', 'IN_PROGRESS') | 31 |
+| ('B', 'REWRITE_THEN_INDEX', 'BLOCKED') | 10 |
+| ('B', 'REWRITE_THEN_INDEX', 'DONE') | 33 |
 | ('C', 'KEEP_NOINDEX', 'BLOCKED') | 2985 |
 | ('D', 'KEEP_INDEX', 'DONE_BY_RULE') | 45 |
 | ('D', 'KEEP_NOINDEX', 'BLOCKED') | 2 |
@@ -71,12 +71,33 @@ Cập nhật 2026-10-31 00:04 (giờ Hà Nội). Sinh tự động từ `reports
 | /xe-dien/xe-may-dien-vinfast-evo-200/xu-ly-ngap-nuoc-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03-live | None | 14 | Submitted and indexed |
 | /xe-dien/xe-may-dien-vinfast-feliz-s/khoi-dong-buoi-sang-lanh-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03-live | None | 45 | Crawled - currently not indexed |
 | /xe-may/ba-dinh/honda-wave-alpha/lo-trinh-khach-du-lich-trong-nuoc-di-cong-tac-dai-ngay-chay-xe-tren-cac-truc-duong-vanh-dai/ | B03-live | None | 10 | Crawled - currently not indexed |
+| /xe-may/xe-con-tay-honda-winner-x/thay-the-bugi-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-may-so-honda-wave/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-may-so-honda-wave/thay-dau-nhot-tai-xe-cong-nghe-chay-xe-lien-tuc-mua-mua-ngap-ung-do-thi-huong-dan-chi-tiet/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-may-so-honda-wave/thay-loc-gio-dong-co-nguoi-thue-xe-dai-han-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-may-so-honda-wave/thay-the-bugi-nhan-vien-van-phong-ban-ron-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-so-yamaha-sirius/ap-suat-lop-chuan-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/ | B04-live | None | 7 | NOT_VERIFIED |
+| /xe-may/xe-so-yamaha-sirius/thay-dau-nhot-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-sai-lam-pho-bien/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-so-yamaha-sirius/thay-loc-gio-dong-co-nu-gioi-su-dung-xe-ga-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-so-yamaha-sirius/thay-the-bugi-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
 | /xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/ | B03-live | None | 13 | Submitted and indexed |
+| /xe-may/xe-tay-ga-honda-air-blade/thay-dau-nhot-nhan-vien-van-phong-ban-ron-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/ | B04-live | None | 0 | NOT_VERIFIED |
 | /xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/ | B03-live | None | 5 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-air-blade/thay-the-bugi-nguoi-thue-xe-dai-han-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-lead/kiem-tra-nuoc-lam-mat-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-lead/thay-day-curoa-nhan-vien-van-phong-ban-ron-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-lead/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-vision/ap-suat-lop-chuan-sinh-vien-tu-bao-duong-xe-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/ | B04-live | None | 0 | NOT_VERIFIED |
 | /xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/ | B03-live | None | 16 | Crawled - currently not indexed |
+| /xe-may/xe-tay-ga-honda-vision/thay-dau-nhot-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-sai-lam-pho-bien/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-vision/thay-day-curoa-nguoi-moi-mua-xe-lan-dau-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-vision/thay-loc-gio-dong-co-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-vision/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/ | B04-live | None | 0 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-vision/thay-the-bugi-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/ | B04-live | None | 0 | NOT_VERIFIED |
 
 
-### URL giữ noindex có lý do (BLOCKED): 3557
+### URL giữ noindex có lý do (BLOCKED): 3567
 
 Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
 
@@ -129,14 +150,14 @@ Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
 | duplicate content | V1: median max-sim TF-IDF 0,82; 2.590/3.600 bài V1 >= 0,80 với bài khác; 148 cụm >= 0,80 (lớn nhất 786 bài). Index-eligible: 183 cặp >= 0,60 (ví dụ /bang-gia/ ~ /thue-xe-may/ha-noi/theo-thang/ 0,73; CBR650R ~ CB650R 0,80). | 2590 | IN_PROGRESS |  |
 | cross-domain | blog.rentbikehanoi.com (WordPress, cùng thương hiệu, 1.100 URL) và rentbikehanoi.com nhắm cùng từ khoá "thuê xe máy hà nội"; nội dung KHÔNG sao chép (<4% 6-gram trùng). GBP trỏ về rentbikehanoi.com. | 0 | NEEDS_REVIEW |  |
 | build reproducibility | Clone nông (shallow) làm build.py dùng ngày fallback cho lastmod/dateModified của toàn bộ 4.866 trang; sau unshallow build tái tạo 0 diff. | 4866 | DONE |  |
-| dates / structured data | Mọi bài trong content/posts.json (73 bài viết tay, gồm 9 trang tiền) lấy datePublished = dateModified = ngày commit gần nhất của posts.json; sửa 1 bài làm cả 73 trang đổi ngày đăng, ngày sửa và sitemap lastmod (tín hiệu tươi mới giả). | 73 | IN_PROGRESS | 3b819fa99f (PR #5) |
+| dates / structured data | Mọi bài trong content/posts.json (73 bài viết tay, gồm 9 trang tiền) lấy datePublished = dateModified = ngày commit gần nhất của posts.json; sửa 1 bài làm cả 73 trang đổi ngày đăng, ngày sửa và sitemap lastmod (tín hiệu tươi mới giả). | 73 | DONE | 3b819fa99f (PR #5, merge 40e52b2e60); bot refresh 0 diff; live 30/10: /bang-gia/ dateModified 2026-10-15, theo-ngay 2026-10-30 |
 | business facts | Bảng giá trong quy tắc chung của chủ sở hữu (Wave tháng 900k–1,2tr, Vision tháng 1,8–2tr, Air Blade tháng 1,5tr, Click/Mio, cọc 2–3tr…) khác cách nhóm giá của site (config/business-facts.json: xe số 1–1,2tr/tháng, xe ga 1,2–2tr/tháng, cọc 2–5tr). | 0 | NEEDS_REVIEW |  |
 
 
 ## 6. Changelog và QA
 
-- Changelog: 43 dòng (sheet 09).
-- QA: 37 lượt; PASS 36, FAIL 1 (sheet 10).
+- Changelog: 96 dòng (sheet 09).
+- QA: 89 lượt; PASS 78, FAIL 11 (sheet 10).
 
 
 ## 7. GSC
@@ -155,9 +176,9 @@ Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
 
 ```json
 {
- "batch_id": "B04 (đang viết) — đã xong HUB-01 (PR #4), B05 (PR #5)",
- "updated": "2026-10-31T00:04:04+07:00",
- "commit_sha": "40e52b2e60 (merge PR #5, main); nhánh làm việc claude/seo-recovery-2026-10-30",
+ "batch_id": "B04 hoàn tất (PR #6, #7)",
+ "updated": "2026-10-31T01:23:53+07:00",
+ "commit_sha": "57fd310780 (main, merge PR #7); 625c5bee22 (squash PR #6)",
  "completed_urls": [
   "/kinh-nghiem/deo-o-quy-ho/xe-ga-honda-vision/di-ve-trong-ngay-day-trip-phuot-solo-mot-minh-checklist-chuan-bi/",
   "/kinh-nghiem/deo-o-quy-ho/xe-may-so-honda-wave/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-checklist-chuan-bi/",
@@ -168,15 +189,37 @@ Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
   "/xe-dien/xe-may-dien-vinfast-evo-200/xu-ly-ngap-nuoc-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
   "/xe-dien/xe-may-dien-vinfast-feliz-s/khoi-dong-buoi-sang-lanh-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
   "/xe-may/ba-dinh/honda-wave-alpha/lo-trinh-khach-du-lich-trong-nuoc-di-cong-tac-dai-ngay-chay-xe-tren-cac-truc-duong-vanh-dai/",
+  "/xe-may/xe-con-tay-honda-winner-x/thay-the-bugi-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-may-so-honda-wave/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
+  "/xe-may/xe-may-so-honda-wave/thay-dau-nhot-tai-xe-cong-nghe-chay-xe-lien-tuc-mua-mua-ngap-ung-do-thi-huong-dan-chi-tiet/",
+  "/xe-may/xe-may-so-honda-wave/thay-loc-gio-dong-co-nguoi-thue-xe-dai-han-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/",
+  "/xe-may/xe-may-so-honda-wave/thay-the-bugi-nhan-vien-van-phong-ban-ron-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/",
+  "/xe-may/xe-so-yamaha-sirius/ap-suat-lop-chuan-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-so-yamaha-sirius/thay-dau-nhot-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-sai-lam-pho-bien/",
+  "/xe-may/xe-so-yamaha-sirius/thay-loc-gio-dong-co-nu-gioi-su-dung-xe-ga-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-so-yamaha-sirius/thay-the-bugi-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
+  "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
   "/xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-air-blade/thay-dau-nhot-nhan-vien-van-phong-ban-ron-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/",
   "/xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
-  "/xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/"
+  "/xe-may/xe-tay-ga-honda-air-blade/thay-the-bugi-nguoi-thue-xe-dai-han-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-lead/kiem-tra-nuoc-lam-mat-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/",
+  "/xe-may/xe-tay-ga-honda-lead/thay-day-curoa-nhan-vien-van-phong-ban-ron-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-lead/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-vision/ap-suat-lop-chuan-sinh-vien-tu-bao-duong-xe-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
+  "/xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/",
+  "/xe-may/xe-tay-ga-honda-vision/thay-dau-nhot-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-sai-lam-pho-bien/",
+  "/xe-may/xe-tay-ga-honda-vision/thay-day-curoa-nguoi-moi-mua-xe-lan-dau-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-vision/thay-loc-gio-dong-co-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-vision/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
+  "/xe-may/xe-tay-ga-honda-vision/thay-the-bugi-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/"
  ],
- "remaining": "B04: 31 bài thông số mẫu xe — Lead 7 + Vision 6 đã viết (greedy QA thử: 10 PASS, 3 Lead trùng Vision cần viết lại vòng 2); Air Blade 5, Winner X 5, Wave 4, Sirius 4 đang viết. B06 (/bang-gia/ vs /theo-thang/ trùng 0,74–0,77) BLOCKED chờ chủ site quyết định phân vai. NH-00115 BLOCKED. 3.588 bài V1 còn noindex theo phân loại.",
- "next_task": "Khi workflow B04 xong: chạy seo_recover_batch.py --greedy theo thứ tự Vision, Air Blade, Wave Alpha, Sirius, Lead, Winner X; viết lại vòng 2 các bài trùng; bài vẫn trùng -> khôi phục bản gốc từ scratch originals + BLOCKED; commit nguồn -> build -> validate/test -> PR -> merge -> xác minh live -> GSC baseline -> matrix/report.",
+ "remaining": "33 bài V1 đã mở index có kiểm chứng (B03 12 + B04 21). BLOCKED: B04 10 bài (bản nháp ở reports/seo-recovery/drafts/B04/), NH-00115, B06 (/bang-gia/ vs /theo-thang/). Nhóm C 2.985 + E 572 giữ noindex theo phân loại. Theo dõi GSC: trang tiền/trang chủ 'Crawled - currently not indexed' (crawl 29/10, trước nội dung mới); 6 hub + 9/10 bài B04 'URL is unknown to Google'.",
+ "next_task": "Sau 7–14 ngày: kéo GSC (Windsor searchconsole + OpenSEO inspect, bind tạm thuha rồi trả về blog) cho 33 URL đã mở + 7 hub + trang tiền; cập nhật sheet GSC/Dashboard. Ứng viên lô sau: nhóm B còn lại (nếu có dữ liệu chính hãng mới), viết lại vòng 2 cho drafts/B04 nếu có thông số riêng từng mẫu, quyết định của chủ site về B06.",
  "open_errors": [
-  "Trang tiền + trang chủ 'Crawled - currently not indexed' (GSC 29/10) — chờ Google crawl lại sau nội dung mới; không ép index",
-  "6 hub 'URL is unknown to Google' — đã có trong sitemap + menu"
+  "Trang tiền + trang chủ 'Crawled - currently not indexed' (GSC 29/10)",
+  "cross-domain blog.rentbikehanoi.com cùng thương hiệu/NAP: NEEDS_REVIEW",
+  "bảng giá quy tắc chung khác business-facts.json: NEEDS_REVIEW"
  ],
  "history": [
   {
@@ -185,6 +228,12 @@ Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
     "HUB-01 PR #4 merge b69b1b5162, live 7/7",
     "B05 PR #5 merge 40e52b2e60, live: theo-ngay QA 95; ngày thật cho 73 bài viết tay; bot refresh 0 diff",
     "B06 BLOCKED (ghi changelog)"
+   ]
+  },
+  {
+   "ts": "2026-10-31T01:23:53+07:00",
+   "done": [
+    "B04: 31 bài viết lại theo sổ hướng dẫn chính hãng, kiểm chứng đối kháng (3 lỗi nặng + 30 nhẹ đã sửa); greedy QA 21 PASS / 10 BLOCKED; PR #6 squash 625c5bee22; PR #7 đồng bộ ngày 57fd310780; live 21/21 index-eligible + sitemap, 10/10 BLOCKED noindex"
    ]
   }
  ]
