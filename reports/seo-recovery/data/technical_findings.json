@@ -1,0 +1,182 @@
+[
+ {
+  "area": "robots/meta",
+  "finding": "3.747 trang noindex,follow: 3.337 bài V1 trong config/factory-noindex.json (GOP 2.737 + BO 575 + XEM_LAI 25, chủ site duyệt 10–11/10/2026), 263 bài V1 KEEP chỉ bị noindex do cờ toàn cục noindex_factory_articles=true (commit 43394ba465 11/10/2026), 145 trang phân trang chỉ chứa bài noindex, 2 hub trống (/xe-dap/, /o-to/).",
+  "affected_count": 3747,
+  "evidence": "reports/seo-recovery/data/inventory.csv (noindex_reason)",
+  "fix": "Giữ noindex cho C/E; mở index có kiểm chứng qua config/factory-reindex.json sau khi bài đạt scripts/seo_qa.py >= 85",
+  "status": "IN_PROGRESS",
+  "commit": "9945e332bc"
+ },
+ {
+  "area": "x-robots-tag",
+  "finding": "GitHub Pages không gửi X-Robots-Tag; không có noindex qua HTTP header.",
+  "affected_count": 0,
+  "evidence": "curl -I trên 8 URL mẫu 30/10/2026",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "robots.txt",
+  "finding": "Allow: / cho mọi bot; sitemap index khai báo đúng.",
+  "affected_count": 0,
+  "evidence": "https://thuha.rentbikehanoi.com/robots.txt",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "canonical",
+  "finding": "100% trang có canonical tự trỏ đúng https://thuha.rentbikehanoi.com<path>; không canonical chéo domain.",
+  "affected_count": 0,
+  "evidence": "inventory.csv canonical_self=True cho 5.048 trang",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "sitemap",
+  "finding": "sitemap.xml (index) -> sitemap-pages.xml 87 URL + sitemap-posts.xml 1.169 URL = 1.256 URL, tất cả index-eligible, có lastmod thật từ git; không chứa URL noindex.",
+  "affected_count": 1256,
+  "evidence": "validate_factory_site.py PASS; inventory noindex_in_sitemap=0",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "title",
+  "finding": "1.239/1.301 trang index-eligible có thẻ <title> > 65 ký tự vì hậu tố \" | Thuê xe máy Nguyễn Hà\" (24 ký tự) bị Google cắt.",
+  "affected_count": 1239,
+  "evidence": "inventory.csv title_full_len",
+  "fix": "build.py seo_title(): bỏ hậu tố khi thẻ > 65 ký tự; H1 và title nguồn giữ nguyên",
+  "status": "DONE",
+  "commit": "f8bb56ef58 (PR #2, merge 8df6269c)"
+ },
+ {
+  "area": "meta description",
+  "finding": "922/1.301 trang index-eligible có meta description > 160 ký tự (tối đa 301).",
+  "affected_count": 922,
+  "evidence": "inventory.csv meta_desc_len",
+  "fix": "build.py seo_desc(): cắt ở cuối câu trước 158 ký tự, else ranh giới từ + …",
+  "status": "DONE",
+  "commit": "f8bb56ef58 (PR #2)"
+ },
+ {
+  "area": "menu / crawl",
+  "finding": "Header+footer trên 5.048 trang link tới 2 hub noindex rỗng (/xe-dap/, /o-to/) và 9 hub cố định.",
+  "affected_count": 5048,
+  "evidence": "templates/partials/header.html, footer.html; build.py NAV",
+  "fix": "NAV_MENU chỉ gồm hub có bài index-eligible; hub trống vẫn build + link từ /cam-nang/",
+  "status": "DONE",
+  "commit": "f8bb56ef58 (PR #2)"
+ },
+ {
+  "area": "homepage",
+  "finding": "Trang chủ gần như không có nội dung văn bản (0 từ trong article-body), H1 là slogan; GSC: \"Crawled - currently not indexed\" (29/10).",
+  "affected_count": 1,
+  "evidence": "gsc_inspection_2026-10-30.tsv",
+  "fix": "content/home.json ~700 từ từ business-facts; H1 \"Thuê xe máy Nguyễn Hà\"; title/description mới",
+  "status": "DONE",
+  "commit": "f8bb56ef58 (PR #2)"
+ },
+ {
+  "area": "index coverage",
+  "finding": "GSC URL Inspection 30/10: 9/10 trang tiền \"Crawled - currently not indexed\" (chỉ /thue-xe-may/long-bien/ indexed); 6/9 hub \"URL is unknown to Google\"; V2 mẫu: 4 indexed, 3 crawled-not-indexed, 2 discovered, 1 unknown; 4 bài V1 noindex vẫn \"Submitted and indexed\" (crawl trước 10/10).",
+  "affected_count": 50,
+  "evidence": "gsc_inspection_2026-10-30.tsv (50 URL)",
+  "fix": "Nâng chất lượng trang tiền/hub, nội dung thật, giảm template; theo dõi lại sau 2–4 tuần",
+  "status": "IN_PROGRESS",
+  "commit": ""
+ },
+ {
+  "area": "pagination",
+  "finding": "208 trang phân trang hub (25 bài/trang); 145 trang chỉ chứa bài V1 noindex -> noindex; 45 trang index-eligible nhưng không có trong sitemap (đúng chủ đích).",
+  "affected_count": 208,
+  "evidence": "inventory.csv page_type=pagination",
+  "fix": "Giữ URL; tự động index khi bài trong trang được phục hồi",
+  "status": "DONE_BY_RULE",
+  "commit": ""
+ },
+ {
+  "area": "redirect / http",
+  "finding": "http->https 301; không có trailing slash -> 301 có slash; www không phục vụ (không có DNS/cert) — không link tới www ở đâu.",
+  "affected_count": 0,
+  "evidence": "curl -I 30/10/2026",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "404",
+  "finding": "URL không tồn tại trả 404 với 404.html (noindex); 142 URL mồ côi đã bị xoá ngày 10/10/2026 trước dự án (live 404, GSC unknown).",
+  "affected_count": 142,
+  "evidence": "reports/seo-recovery/data/removed_prior_2026-10-10.csv",
+  "fix": "Không khôi phục (không thuộc nguồn bài, không index); ghi nhận",
+  "status": "DONE_BY_RULE",
+  "commit": ""
+ },
+ {
+  "area": "schema",
+  "finding": "Mọi trang có Organization + Blog; bài có BlogPosting (author Person, publisher) + BreadcrumbList; FAQPage khi có FAQ; trang tiền có LocalBusiness (geo, hasMap, giờ); tác giả có ProfilePage. GSC rich results: Breadcrumbs PASS trên mẫu.",
+  "affected_count": 0,
+  "evidence": "inventory.csv jsonld_types; gsc_inspection richResultsResult",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "images",
+  "finding": "0 ảnh thiếu alt; ảnh trong bài có width/height và loading=lazy; 1.294 trang index-eligible dùng og:image mặc định của thương hiệu (chấp nhận được).",
+  "affected_count": 0,
+  "evidence": "inventory.csv img_missing_alt",
+  "fix": "Không cần",
+  "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "performance",
+  "finding": "HTML 26–50 KB; CSS 28 KB (render-blocking, không font ngoài); JS 19 KB defer; assets/search-index.json 5,6 MB chỉ tải khi mở tìm kiếm/chat (lazy). Chưa đo Lighthouse/CWV thực tế.",
+  "affected_count": 0,
+  "evidence": "curl -I assets; assets/site.js loadIndex()",
+  "fix": "Theo dõi CrUX khi có dữ liệu; có thể giảm text trong search-index",
+  "status": "NOT_VERIFIED",
+  "commit": ""
+ },
+ {
+  "area": "internal links",
+  "finding": "0 link nội bộ gãy; 46.643 link ngữ cảnh+liên quan; 1 bài V2 index-eligible không có link vào (/du-lich/phu-quang-cung/, GSC Discovered-not-indexed).",
+  "affected_count": 1,
+  "evidence": "inventory_summary orphan_indexable",
+  "fix": "Thêm link ngữ cảnh từ bài cùng cụm (lô nội dung)",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "duplicate content",
+  "finding": "V1: median max-sim TF-IDF 0,82; 2.590/3.600 bài V1 >= 0,80 với bài khác; 148 cụm >= 0,80 (lớn nhất 786 bài). Index-eligible: 183 cặp >= 0,60 (ví dụ /bang-gia/ ~ /thue-xe-may/ha-noi/theo-thang/ 0,73; CBR650R ~ CB650R 0,80).",
+  "affected_count": 2590,
+  "evidence": "reports/seo-recovery/data/similarity.csv",
+  "fix": "V1 trùng giữ noindex (C); cặp index-eligible >= 0,6 vào lô khác biệt hoá nội dung",
+  "status": "IN_PROGRESS",
+  "commit": ""
+ },
+ {
+  "area": "cross-domain",
+  "finding": "blog.rentbikehanoi.com (WordPress, cùng thương hiệu, 1.100 URL) và rentbikehanoi.com nhắm cùng từ khoá \"thuê xe máy hà nội\"; nội dung KHÔNG sao chép (<4% 6-gram trùng). GBP trỏ về rentbikehanoi.com.",
+  "affected_count": 0,
+  "evidence": "scratchpad crossdomain check 30/10/2026",
+  "fix": "Ngoài phạm vi (quy tắc mỗi domain độc lập); ghi nhận rủi ro cạnh tranh nội bộ",
+  "status": "NEEDS_REVIEW",
+  "commit": ""
+ },
+ {
+  "area": "build reproducibility",
+  "finding": "Clone nông (shallow) làm build.py dùng ngày fallback cho lastmod/dateModified của toàn bộ 4.866 trang; sau unshallow build tái tạo 0 diff.",
+  "affected_count": 4866,
+  "evidence": "git rev-parse --is-shallow-repository; build 2 lần",
+  "fix": "Luôn build từ clone đủ lịch sử (CI dùng fetch-depth: 0)",
+  "status": "DONE",
+  "commit": ""
+ }
+]

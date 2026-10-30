@@ -16,7 +16,18 @@ noindex_list=json.loads(nl_path.read_text()).get('urls',[]) if nl_path.exists() 
 if len(noindex_list)!=len(set(noindex_list)):errors.append('duplicate URL in factory-noindex.json')
 for u in set(noindex_list)-factory_urls:errors.append('factory-noindex.json lists a non-factory URL '+u)
 noindex_set=set(noindex_list)
-def factory_noindex(u): return u in factory_urls and (u in noindex_set or (noindex_factory and factory_ver.get(u,1)<2))  # V2 shards stay indexable
+ri_path=ROOT/'config/factory-reindex.json'
+reindex_list=json.loads(ri_path.read_text()).get('urls',[]) if ri_path.exists() else []
+if len(reindex_list)!=len(set(reindex_list)):errors.append('duplicate URL in factory-reindex.json')
+for u in set(reindex_list)-factory_urls:errors.append('factory-reindex.json lists a non-factory URL '+u)
+for u in set(reindex_list)&noindex_set:errors.append('URL in both factory-noindex.json and factory-reindex.json '+u)
+reindex_set=set(reindex_list)
+# Every allowlisted article must carry its QA evidence in the shard (written by the recovery batch).
+for p in posts:
+ if p['url'] in reindex_set:
+  rw=p.get('rewrite') or {}
+  if not (isinstance(rw.get('qa_score'),(int,float)) and rw['qa_score']>=85 and rw.get('rewrittenAt')):errors.append('reindexed article without QA evidence (rewrite.qa_score>=85, rewrittenAt): '+p['url'])
+def factory_noindex(u): return u in factory_urls and u not in reindex_set and (u in noindex_set or (noindex_factory and factory_ver.get(u,1)<2))  # V2 shards stay indexable
 NOINDEX_META='<meta name="robots" content="noindex,follow">'
 urls=[p['url'] for p in posts]
 if len(urls)!=len(set(urls)):errors.append('duplicate article URL')

@@ -11,13 +11,17 @@ NOINDEX_FACTORY=bool(FACTORY_CFG.get('noindex_factory_articles',False))
 # Per-article list (config/factory-noindex.json, from scripts/audit_factory.py):
 # those factory articles are rendered noindex,follow and left out of the sitemap.
 NOINDEX_LIST=set(json.loads((ROOT/'config/factory-noindex.json').read_text()).get('urls',[])) if (ROOT/'config/factory-noindex.json').exists() else set()
+# Allowlist (config/factory-reindex.json, SEO recovery 10/2026): factory articles that were rewritten,
+# passed scripts/seo_qa.py (>= 85, no critical) and may be indexed again even while the global
+# noindex_factory_articles flag stays on for the rest of the V1 corpus.  URL unchanged.
+REINDEX_LIST=set(json.loads((ROOT/'config/factory-reindex.json').read_text()).get('urls',[])) if (ROOT/'config/factory-reindex.json').exists() else set()
 def is_factory(p): return str(p.get('_source','')).startswith('content/articles/')
 def factory_version(p):
  try:return int(p.get('factoryVersion') or 1)
  except (TypeError,ValueError):return 1
 # The global switch only covers the old template factory (factoryVersion < 2).  Topic Factory V2
 # shards (scripts/factory_v2.py) are indexable unless listed in factory-noindex.json explicitly.
-def factory_noindex(p): return is_factory(p) and (p['url'] in NOINDEX_LIST or (NOINDEX_FACTORY and factory_version(p)<2))
+def factory_noindex(p): return is_factory(p) and p['url'] not in REINDEX_LIST and (p['url'] in NOINDEX_LIST or (NOINDEX_FACTORY and factory_version(p)<2))
 HUBS=[
 ('thue-xe','Thuê xe','Bảng giá, thủ tục và lựa chọn xe cho từng hành trình.',['Thuê xe máy Hà Nội','Thuê xe 50cc','Thuê xe điện','Theo ngày, tuần, tháng']),
 ('xe-may','Xe máy','Tìm hiểu xe số, xe ga và các mẫu xe quen thuộc.',['Honda','Yamaha','Xe số & xe ga','Đánh giá & so sánh']),
@@ -185,6 +189,9 @@ PHOTOS={x['id']:x for x in json.loads((ROOT/'content/photos.json').read_text())[
 for x in PHOTOS.values():
  if x.get('illustration') and not (x.get('credit') or {}).get('author'):raise SystemExit('Illustration photo without source credit: '+x['id'])
 FACTS=json.loads((ROOT/'config/business-facts.json').read_text())
+# Editorial hub pages (content/hubs.json): {slug: {title,h1,description,sections:[[h2,html]],faqTitle,faq:[[q,a]]}}
+HUB_CONTENT=json.loads((ROOT/'content/hubs.json').read_text(encoding='utf-8')) if (ROOT/'content/hubs.json').exists() else {}
+HUB_CONTENT={k:v for k,v in HUB_CONTENT.items() if not k.startswith('_')}
 def ext_link(text,url): return f'<a href="{E(url,quote=True)}" target="_blank" rel="noopener noreferrer">{E(text)}</a>' if url else E(text)
 def photo_credit(c):
  parts=[ext_link(c['author'],c.get('url'))]+([ext_link(c['license'],c.get('license_url'))] if c.get('license') else [])+([E(c['changes'])] if c.get('changes') else [])
@@ -366,7 +373,15 @@ for p in P:
    items.sort(key=lambda q:(factory_noindex(q),q.get('_source')!='content/posts.json'))
    page_size=25
    total_pages=max(1,(len(items)+page_size-1)//page_size) if items else 1
-   hub_sections_body='<div class="article-body" style="margin-top:30px">'+''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{b}</section>' for i,(t,b) in enumerate(p['sections']))+'</div>' if p['sections'] else ''
+   # Editorial hub content (content/hubs.json, SEO recovery 10/2026) replaces the generic auto sections:
+   # intro sections above the article grid, optional plain FAQ (no FAQPage schema on listing pages).
+   hc=HUB_CONTENT.get(p['hub'])
+   if hc:
+    hub_intro='<div class="article-body information-page hub-intro">'+''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{wrap_tables(b)}</section>' for i,(t,b) in enumerate(hc['sections']))+(('<section id="muc-'+str(len(hc['sections'])+1)+'" class="article-faq"><h2>'+E(hc.get('faqTitle','Câu hỏi thường gặp'))+'</h2>'+''.join(f'<details class="faq-item"><summary>{E(q)}</summary><p>{E(a)}</p></details>' for q,a in hc['faq'])+'</section>') if hc.get('faq') else '')+'</div>'
+    hub_sections_body=''
+   else:
+    hub_intro=''
+    hub_sections_body='<div class="article-body" style="margin-top:30px">'+''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{b}</section>' for i,(t,b) in enumerate(p['sections']))+'</div>' if p['sections'] else ''
    def make_hub_page(page_num):
     start=(page_num-1)*page_size
     page_items=items[start:start+page_size]
@@ -378,7 +393,10 @@ for p in P:
      sec='<div class="empty"><h2>Nội dung đang được chuẩn bị</h2><p>Chuyên mục chưa có bài viết. Bạn có thể bắt đầu với cẩm nang thuê xe và du lịch Hà Nội.</p><a class="pill gold" href="/thue-xe-may/ha-noi/">Đọc cẩm nang thuê xe</a></div>'
     if page_num==1 and hub_sections_body:
      sec+=hub_sections_body
-    return f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><p class="eyebrow">CHUYÊN MỤC</p><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p></header><section class="section">{sec}</section>'
+    intro=hub_intro if page_num==1 else ''
+    h1=hc['h1'] if (hc and page_num==1 and hc.get('h1')) else p['title']
+    lede=hc['description'] if (hc and page_num==1 and hc.get('description')) else p['excerpt']
+    return f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><p class="eyebrow">CHUYÊN MỤC</p><h1>{E(h1)}</h1><p>{E(lede)}</p></header>{("<section class=\"section\" style=\"padding-top:0\">"+intro+"</section>") if intro else ""}<section class="section">{sec}</section>'
    page=make_hub_page(1)
    for p_num in range(2,total_pages+1):
     sub_page=make_hub_page(p_num)
@@ -419,7 +437,8 @@ for p in P:
   extra.append(local)
   page+=local_map()
  if p['url']=='/faq/':extra.append({'@context':'https://schema.org','@type':'FAQPage','mainEntity':[{'@type':'Question','name':q,'acceptedAnswer':{'@type':'Answer','text':a}} for q,a in FAQ]})
- write(p['url'],shell(p['title'],p['excerpt'],p['url'],page,extra,noindex=(p['kind']=='hub' and not hub_indexable(p['hub'])) or (factory_noindex(p))))
+ hc_page=HUB_CONTENT.get(p['hub']) if p['kind']=='hub' else None
+ write(p['url'],shell(hc_page['title'] if hc_page and hc_page.get('title') else p['title'],hc_page['description'] if hc_page and hc_page.get('description') else p['excerpt'],p['url'],page,extra,noindex=(p['kind']=='hub' and not hub_indexable(p['hub'])) or (factory_noindex(p))))
 (ROOT/'404.html').write_text(shell('Không tìm thấy trang','Trang bạn đang tìm không tồn tại.','/404.html','<section class="notice404"><p class="eyebrow">404</p><h1>Ta đổi hướng nhé.</h1><p>Trang này không còn ở địa chỉ bạn vừa mở.</p><a class="pill gold" href="/">Về trang chủ</a></section>',noindex=True))
 
 # Author page: only repo facts (byline name, brand, address, hours, phone).
