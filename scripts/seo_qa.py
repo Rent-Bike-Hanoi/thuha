@@ -24,6 +24,21 @@ BANNED=[(r'24/7|24h/7|24 giờ/7','hỗ trợ 24/7 không có trong chính sách
  (r'hoàn (lại )?100% (tiền )?cọc','cam kết hoàn cọc không có trong chính sách'),(r'chiết khấu|giảm giá \d','khuyến mãi không có trong chính sách'),
  (r'(?<!mũ )(?<!nón )bảo hiểm(?! đạt chuẩn)','không nêu bảo hiểm (xe/TNDS) trong bài (chủ cửa hàng 17/10/2026); "mũ bảo hiểm" được phép'),(r'(?<!không )(?<!không có dịch vụ )giao (xe |nhận )?(xe )?(tại|ở|đến|tới) sân bay(?! nội bài là không)','không giao nhận tại sân bay Nội Bài'),
  (r'rentbikehanoi\.com(?!\S*thuha)','không nhắc site chính rentbikehanoi.com')]
+def _amount_value(x):
+    m=re.fullmatch(r'(\d+(?:,\d+)?)\s(triệu|nghìn)',x)
+    if m: return round(float(m.group(1).replace(',','.'))*(1_000_000 if m.group(2)=='triệu' else 1000))
+    return int(x.replace('.','')) if re.fullmatch(r'\d{1,3}(?:\.\d{3})+',x) else None
+BASE_VALUES=sorted({v for v in (_amount_value(x) for x in ALLOWED_AMOUNTS) if v})
+def derived_amount(x):
+    """Số tiền suy ra được bằng phép tính từ giá trong business-facts: k lần một mức giá (2–31 ngày/lượt/giờ),
+    giá + k giờ phí trả muộn, tổng hai mức giá, hoặc quy đổi giá tuần/tháng về mỗi ngày (làm tròn nghìn)."""
+    v=_amount_value(x)
+    if not v: return False
+    for b in BASE_VALUES:
+        if any(v==k*b for k in range(2,32)) or any(v==b+k*20000 for k in range(1,7)): return True
+        if any(abs(v-b/d)<=1000 for d in (7,30,31)): return True
+        if any(v==b+c for c in BASE_VALUES): return True
+    return False
 HOURS_RE=re.compile(r'(\d{1,2})[:h](\d{2})\s*[–-]\s*(\d{1,2})[:h](\d{2})')
 PHONE_RE=re.compile(r'0\d{2,3}[\s.]?\d{3}[\s.]?\d{3,4}|\+84[\s.]?\d{2,3}[\s.]?\d{3}[\s.]?\d{3,4}')
 STOP=set('và của cho các một những với trong khi đi ở là có không được tại từ theo bằng xe máy hà nội thuê bài gì nào sao bao nhiêu nên hay thế để này đó đã sẽ cũng như về hơn nếu thì lại ra vào trên dưới cần phải khách cửa hàng nguyễn hà'.split())
@@ -107,7 +122,9 @@ def qa(a,docs,uniq,urls,published_url=None,allow_links=frozenset()):
     for rx,msg in BANNED:
         if re.search(rx,text,re.I): crit.append(msg); pts-=5
     amounts=set(re.findall(r'\d{1,3}(?:\.\d{3})+(?=\s*(?:đ(?![a-zà-ỹđ])|đồng|VNĐ))|\d+(?:,\d+)?\s(?:triệu|nghìn)',text))
-    unsupported=sorted(x for x in amounts if x not in ALLOWED_AMOUNTS)
+    derived=sorted(x for x in amounts if x not in ALLOWED_AMOUNTS and derived_amount(x))
+    unsupported=sorted(x for x in amounts if x not in ALLOWED_AMOUNTS and x not in derived)
+    if derived: notes.append('số tiền suy ra từ business-facts (phép tính): '+', '.join(derived[:8]))
     has_ext=bool(re.search(r'href="https?://(?!thuha\.rentbikehanoi\.com)',body_html))
     srcs=a.get('sources') or []
     if unsupported and not (has_ext or srcs): crit.append('số tiền không có trong business-facts và không có nguồn: '+', '.join(unsupported[:6])); pts-=5
