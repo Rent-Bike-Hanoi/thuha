@@ -22,7 +22,7 @@ ALLOWED_AMOUNTS={'20.000','50.000','100.000','150.000','200.000','600.000','700.
  '150 nghìn','200 nghìn','600 nghìn','700 nghìn','800 nghìn','1 triệu','1,2 triệu','1,5 triệu','1,8 triệu','2 triệu','5 triệu','2–5 triệu','2-5 triệu'}
 BANNED=[(r'24/7|24h/7|24 giờ/7','hỗ trợ 24/7 không có trong chính sách'),(r'miễn phí (thay nhớt|bảo dưỡng|giao xe)','ưu đãi không có trong chính sách'),
  (r'hoàn (lại )?100% (tiền )?cọc','cam kết hoàn cọc không có trong chính sách'),(r'chiết khấu|giảm giá \d','khuyến mãi không có trong chính sách'),
- (r'bảo hiểm','không nêu bảo hiểm trong bài (chủ cửa hàng 17/10/2026)'),(r'giao (xe |nhận )?(tại|ở) sân bay|sân bay nội bài.*giao','không giao nhận tại sân bay Nội Bài'),
+ (r'bảo hiểm','không nêu bảo hiểm trong bài (chủ cửa hàng 17/10/2026)'),(r'(?<!không )(?<!không có dịch vụ )giao (xe |nhận )?(xe )?(tại|ở|đến|tới) sân bay(?! nội bài là không)','không giao nhận tại sân bay Nội Bài'),
  (r'rentbikehanoi\.com(?!\S*thuha)','không nhắc site chính rentbikehanoi.com')]
 HOURS_RE=re.compile(r'(\d{1,2})[:h](\d{2})\s*[–-]\s*(\d{1,2})[:h](\d{2})')
 PHONE_RE=re.compile(r'0\d{2,3}[\s.]?\d{3}[\s.]?\d{3,4}|\+84[\s.]?\d{2,3}[\s.]?\d{3}[\s.]?\d{3,4}')
@@ -75,7 +75,7 @@ class Uniq:
         for i,u in enumerate(self.urls):
             if u==exclude_url: s[i]=-1
         j=int(s.argmax()); return float(s[j]),self.urls[j]
-def qa(a,docs,uniq,urls,published_url=None):
+def qa(a,docs,uniq,urls,published_url=None,allow_links=frozenset()):
     checks={};crit=[];notes=[]
     secs=a.get('sections') or []; faq=a.get('faq') or []
     text=article_text(a); words=len(text.split()); body_html=' '.join(b for _,b in secs)
@@ -121,6 +121,8 @@ def qa(a,docs,uniq,urls,published_url=None):
     links=set(re.findall(r'href="(/[^"#?]*)"',body_html))
     broken=[l for l in links if l not in urls and not l.startswith('/assets/')]
     if broken: crit.append('link nội bộ gãy: '+', '.join(broken[:5]))
+    to_noindex=[l for l in links if l in docs and not docs[l]['indexable'] and l not in allow_links and l!=a.get('url')]
+    if to_noindex: crit.append('link tới bài đang noindex (ngoài lô): '+', '.join(to_noindex[:5]))
     to_index=[l for l in links if l in docs and docs[l]['indexable'] or l in MONEY or re.fullmatch(r'/[a-z-]+/',l)]
     pts=10 if (len(to_index)>=3 and any(l in MONEY for l in links)) else 5 if len(to_index)>=1 else 0
     checks['internal_links']=pts

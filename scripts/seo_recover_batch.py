@@ -28,11 +28,12 @@ def main():
     nl=json.loads(nl_path.read_text(encoding='utf-8')); rl=json.loads(rl_path.read_text(encoding='utf-8'))
     docs=seo_qa.load_corpus(); uniq=seo_qa.Uniq(docs); urls=seo_qa.existing_urls()|set(docs)
     passed=[];failed=[];qa_rows=[];log=[]
+    batch_urls=frozenset(json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8'))['url'] for f in args.files)
     for f in args.files:
         p=ROOT/f if not Path(f).is_absolute() else Path(f); rel=str(p.relative_to(ROOT))
         a=json.loads(p.read_text(encoding='utf-8')); before=git_show(rel)
         if before and before['url']!=a['url']: print('URL CHANGED, refusing:',rel); failed.append(rel); continue
-        r=seo_qa.qa(a,docs,uniq,urls,published_url=(before or a)['url'])
+        r=seo_qa.qa(a,docs,uniq,urls,published_url=(before or a)['url'],allow_links=batch_urls)
         rw=a.get('rewrite') or {}
         ok=r['pass_'] and bool(rw.get('rewrittenAt'))
         row=dict(ts=now(),batch=args.batch,url=a['url'],score=r['score'],pass_=ok,checks=r['checks'],critical=r['critical']+([] if rw.get('rewrittenAt') else ['missing rewrite.rewrittenAt']),
