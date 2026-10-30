@@ -185,8 +185,8 @@
   "affected_count": 73,
   "evidence": "Build B05 trước khi sửa: 1.060 file HTML đổi chỉ vì ngày; trước đó mọi trang tiền cùng lastmod 2026-10-27T07:51:27+07:00.",
   "fix": "scripts/build.py posts_entry_dates(): datePublished = commit đầu tiên có URL, dateModified = commit cuối cùng đổi nội dung mục đó (lịch sử git của posts.json).",
-  "status": "IN_PROGRESS",
-  "commit": "3b819fa99f (PR #5)"
+  "status": "DONE",
+  "commit": "3b819fa99f (PR #5, merge 40e52b2e60); bot refresh 0 diff; live 30/10: /bang-gia/ dateModified 2026-10-15, theo-ngay 2026-10-30"
  },
  {
   "area": "business facts",
