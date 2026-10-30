@@ -311,7 +311,7 @@ class Sheet:
 
 # ----------------------------------------------------------------------------- data loading
 def load_all(data):
-    d = {}
+    d = {'data_dir': data}
     d['inv_fields'], d['inv'] = read_csv(data / 'inventory.csv')
     _, d['removed'] = read_csv(find_file(data, 'removed_prior_2026-10-10.csv', 'removed_prior_', '.csv'))
     _, d['cls'] = read_csv(data / 'classification.csv')
@@ -416,16 +416,24 @@ def build_index_recovery(wb, d, R):
                'canonical_self', 'in_sitemap', 'qa_score', 'gsc_inspection', 'gsc_impressions',
                'gsc_clicks', 'commit', 'notes']
     rows = []
+    # Optional current_state.csv (url, noindex_now, in_sitemap_now, fix_method): state after the latest merged batch.
+    cur = {}
+    cs = Path(d.get('data_dir', DEFAULT_DATA)) / 'current_state.csv'
+    if cs.exists():
+        cur = {x['url']: x for x in read_csv(cs)[1]}
     for r in d['inv']:
         c = d['cls_by_url'].get(r['url'], {})
         if not (is_true(r.get('noindex')) or c.get('category') in RECOVERY_CATEGORIES or (c.get('status') or '')):
             continue
         qa = d['qa_latest'].get(r['url'])
+        now_ = cur.get(r['url'], {})
         rows.append([clean(r['url']), clean(r.get('page_type')), clean(r.get('hub')), clean(r.get('noindex')),
                      clean(r.get('noindex_reason')), clean(c.get('audit_decision') or r.get('audit_decision')),
                      clean(c.get('merge_into') or r.get('merge_into')), clean(c.get('category')),
                      clean(c.get('action')), clean(c.get('status')), clean(c.get('priority')),
-                     clean(c.get('reason')), None, None, clean(r.get('canonical_self')),
+                     clean(c.get('reason')), clean(now_.get('fix_method')) or None,
+                     ('TRUE' if now_.get('noindex_now') == 'True' else 'FALSE' if now_.get('noindex_now') == 'False' else None),
+                     clean(r.get('canonical_self')),
                      clean(r.get('in_sitemap')), num(qa.get('score')) if qa else None,
                      clean(c.get('gsc_inspection')), num(c.get('gsc_impressions')), num(c.get('gsc_clicks')),
                      clean(d['commit_latest'].get(r['url'])), None])
