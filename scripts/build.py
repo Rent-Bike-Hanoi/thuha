@@ -111,6 +111,27 @@ def git_source_dates():
   if status.startswith('A'):added[path]=cur  # keeps overwriting -> oldest add wins
  return modified,added
 GIT_MODIFIED,GIT_ADDED=git_source_dates()
+def posts_entry_dates():
+ """Per-entry dates for content/posts.json: first commit that contains each URL and
+ last commit that changed that URL's entry, so editing one post no longer re-dates
+ every hand-written post.  Empty dicts without full git history."""
+ if not GIT_MODIFIED: return {},{}
+ import hashlib
+ try:
+  log=subprocess.run(['git','log','--format=%H %cI','--','content/posts.json'],cwd=ROOT,capture_output=True,text=True,check=True,timeout=120).stdout
+ except Exception: return {},{}
+ first={};last={};prev={}
+ for line in reversed([l for l in log.splitlines() if l.strip()]):
+  sha,ts=line.split(' ',1)
+  try: data=json.loads(subprocess.run(['git','show',sha+':content/posts.json'],cwd=ROOT,capture_output=True,text=True,check=True,timeout=60).stdout)
+  except Exception: continue
+  cur={e['url']:hashlib.sha1(json.dumps(e,sort_keys=True,ensure_ascii=False).encode()).hexdigest() for e in data if isinstance(e,dict) and e.get('url')}
+  for u,h in cur.items():
+   first.setdefault(u,ts)
+   if prev.get(u)!=h: last[u]=ts
+  prev=cur
+ return first,last
+POST_FIRST,POST_LAST=posts_entry_dates()
 def to_vn(ts):
  try:return datetime.fromisoformat(ts).astimezone(VN_TZ)
  except Exception:return None
@@ -139,6 +160,8 @@ for p in P:
  if src and src.startswith('content/articles/'):
   # Only factory shards have a per-article publish date.
   pub=to_vn(QUEUE_PASS.get(p.get('id'),'')) or to_vn(GIT_ADDED.get(src,'')) or to_vn(QUEUE_ANY.get(p.get('id'),''))
+ elif src=='content/posts.json' and p['url'] in POST_LAST:
+  pub=to_vn(POST_FIRST.get(p['url'],'')); mod=to_vn(POST_LAST[p['url']]) or mod
  if pub is None and mod is None: pub=mod=datetime.fromisoformat(FALLBACK_ISO)
  # Without a real publish date, the one real date is used for both fields.
  p['has_publish_date']=pub is not None
