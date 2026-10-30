@@ -27,7 +27,7 @@
   ],
   [
    "Thuê xe ga ở Hà Nội cho chuyến 2 ngày 1 đêm",
-   "<p>Thuê xe máy Nguyễn Hà cho xe đi ra ngoài Hà Nội khi thuê <strong>từ 48 giờ trở lên</strong>, tính theo giá ngày 150–200 nghìn cho xe ga. Lịch 2 ngày 1 đêm vừa đúng mức tối thiểu, nên giờ trả xe cần tính từ trước:</p><ul><li>Một ngày thuê là 24 giờ từ lúc nhận xe. Về muộn tính 20.000đ/giờ; quá 6 giờ tính tròn thêm một ngày.</li><li>Cửa hàng mở 08:00–17:00. Nếu dự kiến về sau giờ đóng cửa, thuê 3 ngày ngay từ đầu thường dễ chịu hơn là chạy ép cho kịp giờ trả.</li><li>Cọc 2–5 triệu đồng tùy xe và thời hạn; trả xe với khoảng 0,5–1 lít xăng.</li><li>Thủng săm, xịt lốp, đổ xe dọc đường là phần khách tự chịu; xe hỏng do lỗi của xe thì cửa hàng chịu phần lớn chi phí.</li></ul><p>Chọn Vision hay mẫu khác, xem <a href=\"/xe-may/honda/vision/chon-xe-thue/\">Honda Vision có phù hợp để thuê</a>; giá và điều kiện ở trang <a href=\"/thue-xe-may/ha-noi/theo-ngay/\">thuê xe máy theo ngày và tuần</a>. Cửa hàng ở Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên; gọi/Zalo 0334 699 969 và nói rõ bạn đi đường núi để được chọn xe phanh, lốp tốt.</p>"
+   "<p>Thuê xe máy Nguyễn Hà cho xe đi ra ngoài Hà Nội khi thuê <strong>từ 48 giờ trở lên</strong>, tính theo giá ngày 150–200 nghìn cho xe ga. Lịch 2 ngày 1 đêm vừa đúng mức tối thiểu, nên giờ trả xe cần tính từ trước:</p><ul><li>Một ngày thuê là 24 giờ kể từ lúc nhận. Trả trễ tính 20.000đ mỗi giờ; trễ quá 6 giờ thì thành thêm một ngày thuê.</li><li>Cửa hàng mở 08:00–17:00. Nếu dự kiến về sau giờ đóng cửa, thuê 3 ngày ngay từ đầu thường dễ chịu hơn là chạy ép cho kịp giờ trả.</li><li>Tiền cọc 2–5 triệu đồng tùy xe và số ngày thuê; khi trả, để lại khoảng 0,5–1 lít xăng trong bình.</li><li>Dọc đường mà thủng săm, xịt lốp hay đổ xe thì khách tự lo; chết máy do chính chiếc xe thì cửa hàng gánh phần lớn chi phí.</li></ul><p>Chọn Vision hay mẫu khác, xem <a href=\"/xe-may/honda/vision/chon-xe-thue/\">Honda Vision có phù hợp để thuê</a>; giá và điều kiện ở trang <a href=\"/thue-xe-may/ha-noi/theo-ngay/\">thuê xe máy theo ngày và tuần</a>. Địa chỉ: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Gọi/Zalo 0334 699 969 và nói rõ bạn đi đường núi để được chọn xe phanh, lốp tốt.</p>"
   ],
   [
    "Nguồn tham khảo",
@@ -39,7 +39,7 @@
  "kind": "article",
  "art": "00393",
  "tone": "gold",
- "wordCount": 1720,
+ "wordCount": 1729,
  "intent": "du-lich|săn mây tà xùa|xe ga honda vision|cuối tuần 2 ngày 1 đêm|phượt solo một mình|diem-checkin-am-thuc",
  "factoryVersion": 1,
  "faqTitle": "Câu hỏi thường gặp về săn mây Tà Xùa bằng xe ga",
@@ -100,7 +100,7 @@
   }
  ],
  "rewrite": {
-  "rewrittenAt": "2026-10-30T22:43:41+07:00",
+  "rewrittenAt": "2026-10-30T22:50:48+07:00",
   "by": "Claude Code (SEO recovery B03)",
   "batch": "B03",
   "queries": [],
