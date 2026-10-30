@@ -15,7 +15,7 @@
     ],
     [
       "Lịch thay nhớt LEAD và đèn THAY DẦU",
-      "<p>Lịch bảo dưỡng của LEAD có các cột 1, 6, 12, 18, 24, 30, 36 nghìn km và cột kiểm tra hằng năm. Ghép dòng dầu động cơ với dòng lưới lọc:</p><table><thead><tr><th>Mốc</th><th>Dầu động cơ</th><th>Lưới lọc dầu</th></tr></thead><tbody><tr><td>1.000 km</td><td>Thay lần đầu</td><td>–</td></tr><tr><td>6.000 / 18.000 / 30.000 km</td><td>Thay, đổ 0,8 L</td><td>–</td></tr><tr><td>12.000 / 24.000 / 36.000 km</td><td>Thay, đổ 0,85 L</td><td>Vệ sinh</td></tr><tr><td>Kiểm tra hằng năm</td><td>Thay</td><td>–</td></tr></tbody></table><p>Quá 36.000 km thì lặp lại chu kỳ. Đèn THAY DẦU sáng lần đầu khi xe chạy khoảng 1.000 km, sau đó mỗi 6.000 km kể từ lúc cài lại. Đèn không tự tắt; thay sớm trước khi đèn sáng vẫn phải cài lại, khi đó đèn chỉ sáng khoảng 2 giây rồi tắt. Trên LEAD là giữ nút MODE trong lúc vặn khóa sang On, giữ tiếp hơn 3 giây; các bước chi tiết ở bài <a href=\"/xe-may/cai-lai-den-bao-thay-dau-honda/\">cài lại đèn báo thay dầu Honda</a>.</p><p>Đèn chỉ đếm km. Xe đi chợ, đưa đón con quãng ngắn, cả năm chưa tới 6.000 km sẽ không được đèn nhắc, nhưng cột hằng năm vẫn ghi thay; tự đặt lịch trong điện thoại theo ngày thay gần nhất.</p>"
+      "<p>Lịch bảo dưỡng của LEAD có các cột từ 1.000 đến 36.000 km (1, 6, 12, 18, 24, 30, 36 × 1.000 km) và cột kiểm tra hằng năm. Ghép dòng dầu động cơ với dòng lưới lọc:</p><table><thead><tr><th>Mốc</th><th>Dầu động cơ</th><th>Lưới lọc dầu</th></tr></thead><tbody><tr><td>1.000 km</td><td>Thay lần đầu</td><td>–</td></tr><tr><td>6.000 / 18.000 / 30.000 km</td><td>Thay, đổ 0,8 L</td><td>–</td></tr><tr><td>12.000 / 24.000 / 36.000 km</td><td>Thay, đổ 0,85 L</td><td>Vệ sinh</td></tr><tr><td>Kiểm tra hằng năm</td><td>Thay</td><td>–</td></tr></tbody></table><p>Quá 36.000 km thì lặp lại chu kỳ. Đèn THAY DẦU sáng lần đầu khi xe chạy khoảng 1.000 km, sau đó mỗi 6.000 km kể từ lúc cài lại. Đèn không tự tắt; thay sớm trước khi đèn sáng vẫn phải cài lại, khi đó đèn chỉ sáng khoảng 2 giây rồi tắt. Trên LEAD là giữ nút MODE trong lúc vặn khóa sang On, giữ tiếp hơn 3 giây; các bước chi tiết ở bài <a href=\"/xe-may/cai-lai-den-bao-thay-dau-honda/\">cài lại đèn báo thay dầu Honda</a>.</p><p>Đèn chỉ đếm km. Xe đi chợ, đưa đón con quãng ngắn, cả năm chưa tới 6.000 km sẽ không được đèn nhắc, nhưng cột hằng năm vẫn ghi thay; tự đặt lịch trong điện thoại theo ngày thay gần nhất.</p>"
     ],
     [
       "Nhớt nào, và có cần đổi khi trời nắng nóng",
@@ -23,7 +23,7 @@
     ],
     [
       "Que thăm trên LEAD: bước Idling Stop hay bị quên",
-      "<p>LEAD có que thăm gắn liền nắp đổ dầu, nên giữa hai lần thay bạn tự xem được mức. Khác với nhiều xe không có Idling Stop, sổ LEAD mở đầu quy trình bằng việc gạt công tắc Idling Stop về vị trí Idling, để máy không tự tắt trong lúc nổ cầm chừng làm nóng. Sau đó:</p><ol><li>Máy đang nguội thì nổ cầm chừng 3–5 phút; tắt khóa và đợi 2–3 phút.</li><li>Dựng chân chống đứng trên nền phẳng.</li><li>Rút que, lau sạch, cắm vào hết nhưng không vặn ren; rút ra đọc mức giữa vạch trên và vạch dưới.</li><li>Vặn chặt que thăm lại. Thiếu thì châm đúng loại dầu tới vạch trên, không vượt, lau ngay chỗ tràn.</li></ol><p>Làm xong nhớ gạt công tắc về Idling Stop nếu bạn vẫn dùng chức năng tự ngắt máy khi chờ đèn đỏ.</p>"
+      "<p>LEAD có que thăm gắn liền nắp đổ dầu, nên giữa hai lần thay bạn tự xem được mức. Điểm riêng của LEAD: sổ ghi rõ kiểm tra dầu khi công tắc Idling Stop đang ở vị trí Idling, tức là đã tắt chức năng tự ngắt máy. Gạt công tắc trước, sau đó:</p><ol><li>Máy đang nguội thì nổ cầm chừng 3–5 phút; tắt khóa và đợi 2–3 phút.</li><li>Dựng chân chống đứng trên nền phẳng.</li><li>Rút que, lau sạch, cắm vào hết nhưng không vặn ren; rút ra đọc mức giữa vạch trên và vạch dưới.</li><li>Vặn chặt que thăm lại. Thiếu thì châm đúng loại dầu tới vạch trên, không vượt, lau ngay chỗ tràn.</li></ol><p>Làm xong nhớ gạt công tắc về Idling Stop nếu bạn vẫn dùng chức năng tự ngắt máy khi chờ đèn đỏ.</p>"
     ],
     [
       "Đi xe LEAD thuê: khi đèn THAY DẦU sáng",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "02712",
   "tone": "gold",
-  "wordCount": 1345,
+  "wordCount": 1347,
   "intent": "xe-info|thay-dau-nhot|xe tay ga honda lead|nữ giới sử dụng xe ga|những ngày nắng nóng đỉnh điểm|huong-dan-chi-tiet",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về thay nhớt Honda Lead",
