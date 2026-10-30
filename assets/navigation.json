@@ -91,54 +91,6 @@
       ]
     },
     {
-      "slug": "xe-dap",
-      "label": "Xe đạp",
-      "url": "/xe-dap/",
-      "description": "Chọn xe và chuẩn bị cho những chuyến đi bằng sức mình.",
-      "children": [
-        {
-          "label": "Xe phổ thông",
-          "url": "/xe-dap/#muc-1"
-        },
-        {
-          "label": "Xe thể thao",
-          "url": "/xe-dap/#muc-2"
-        },
-        {
-          "label": "Xe địa hình",
-          "url": "/xe-dap/#muc-3"
-        },
-        {
-          "label": "Bảo dưỡng",
-          "url": "/xe-dap/#muc-4"
-        }
-      ]
-    },
-    {
-      "slug": "o-to",
-      "label": "Ô tô",
-      "url": "/o-to/",
-      "description": "Kiến thức lựa chọn và sử dụng ô tô.",
-      "children": [
-        {
-          "label": "Hãng xe",
-          "url": "/o-to/#muc-1"
-        },
-        {
-          "label": "Đánh giá",
-          "url": "/o-to/#muc-2"
-        },
-        {
-          "label": "So sánh",
-          "url": "/o-to/#muc-3"
-        },
-        {
-          "label": "Kinh nghiệm sử dụng",
-          "url": "/o-to/#muc-4"
-        }
-      ]
-    },
-    {
       "slug": "bao-duong",
       "label": "Sửa chữa & bảo dưỡng",
       "url": "/bao-duong/",
