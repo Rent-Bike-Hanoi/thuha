@@ -87,8 +87,9 @@ class Uniq:
     def max_sim(self,text,exclude_url):
         if not len(self.M): return 0.0,None
         v=self.vec(toks(text)); s=self.M@v
+        skip=getattr(self,'urls_mask',frozenset())
         for i,u in enumerate(self.urls):
-            if u==exclude_url: s[i]=-1
+            if u==exclude_url or u in skip: s[i]=-1
         j=int(s.argmax()); return float(s[j]),self.urls[j]
 def qa(a,docs,uniq,urls,published_url=None,allow_links=frozenset()):
     checks={};crit=[];notes=[]
