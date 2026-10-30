@@ -116,6 +116,8 @@
       "/xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
       "/xe-may/cai-lai-den-bao-thay-dau-honda/"
     ],
-    "note": "Viết lại riêng cho LEAD 125 theo sổ NHX125 (PDF 11/2025): 0,09/0,10 L, giảm tốc cuối 8,974, mốc 2 năm và *4 (tr. 83, đọc từ ảnh bảng), cách đếm 2 năm cho xe mới/xe mua lại/xe cất lâu, cảnh báo kéo rê xe ở mục Vận chuyển xe (tr. 149). Sổ và trang sản phẩm không ghi loại dầu (not_found trong brief) nên không khuyên nhãn dầu cụ thể; dẫn trang Dầu hộp số của Honda (đọc bằng curl 30/10/2026) chỉ để nêu khuyến cáo 2 năm, không nêu giá, cỡ chai. Không lặp bảng so sánh dầu máy/dầu láp và các lỗi hay gặp của bài Air Blade. Bỏ giá, tiền công, giờ sai, văn mẫu V1."
+    "note": "Viết lại riêng cho LEAD 125 theo sổ NHX125 (PDF 11/2025): 0,09/0,10 L, giảm tốc cuối 8,974, mốc 2 năm và *4 (tr. 83, đọc từ ảnh bảng), cách đếm 2 năm cho xe mới/xe mua lại/xe cất lâu, cảnh báo kéo rê xe ở mục Vận chuyển xe (tr. 149). Sổ và trang sản phẩm không ghi loại dầu (not_found trong brief) nên không khuyên nhãn dầu cụ thể; dẫn trang Dầu hộp số của Honda (đọc bằng curl 30/10/2026) chỉ để nêu khuyến cáo 2 năm, không nêu giá, cỡ chai. Không lặp bảng so sánh dầu máy/dầu láp và các lỗi hay gặp của bài Air Blade. Bỏ giá, tiền công, giờ sai, văn mẫu V1.",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

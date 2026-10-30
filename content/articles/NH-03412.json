@@ -11,7 +11,7 @@
     ],
     [
       "Bảng áp suất Air Blade theo từng mã xe",
-      "<p>Một cuốn sổ dùng chung cho ba mã xe: bản 160 chỉ có mã ACA160CAF; bản 125 có ACA125CAF (ABS bánh trước) và ACA125CBF (phanh kết hợp). Nhãn thông tin lốp của từng nhóm được in lại ở phần Nhãn hình ảnh (tr. 8–9), con số nhắc lại ở phần Thông số kỹ thuật (tr. 148).</p><table><thead><tr><th>Bản xe (mã trong sổ)</th><th>Cỡ lốp trước / sau</th><th>Trước (kPa)</th><th>Sau, đi một mình (kPa)</th><th>Sau, chở thêm người (kPa)</th></tr></thead><tbody><tr><td>Air Blade 160 (ACA160CAF)</td><td>90/80-14 / 100/80-14</td><td>200</td><td>225</td><td>225</td></tr><tr><td>Air Blade 125 có ABS (ACA125CAF)</td><td>80/90-14 / 90/90-14</td><td>200</td><td>225</td><td>280</td></tr><tr><td>Air Blade 125 phanh kết hợp (ACA125CBF)</td><td>80/90-14 / 90/90-14</td><td>200</td><td>225</td><td>280</td></tr></tbody></table><p><em>Theo sách hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF, tr. 8–9 và 147–148, đọc 30/10/2026.</em> Sổ bản 2022 của đời trước in đúng các con số này, nên xe cũ bơm y như xe mới.</p><p>Sổ không giải thích vì sao bản 125 cần lốp sau căng hơn khi chở người. Người dùng chỉ cần nhớ hai điều: bánh trước luôn 200, và cột “chở thêm người” chỉ khác ở bản 125. Ý nghĩa từng ký hiệu trên hông lốp xem bài <a href=\"/bao-duong/doc-thong-so-lop-xe-may/\">cách đọc thông số lốp xe máy</a>.</p>"
+      "<p>Một cuốn sổ dùng chung cho ba mã xe: bản 160 chỉ có mã ACA160CAF; bản 125 có ACA125CAF (ABS bánh trước) và ACA125CBF (phanh kết hợp). Nhãn thông tin lốp của từng nhóm được in lại ở phần Nhãn hình ảnh (tr. 8–9), con số nhắc lại ở phần Thông số kỹ thuật (tr. 148).</p><table><thead><tr><th>Bản xe (mã trong sổ)</th><th>Cỡ lốp trước / sau</th><th>Trước (kPa)</th><th>Sau, đi một mình (kPa)</th><th>Sau, chở thêm người (kPa)</th></tr></thead><tbody><tr><td>Air Blade 160 (ACA160CAF)</td><td>90/80-14 / 100/80-14</td><td>200</td><td>225</td><td>225</td></tr><tr><td>Air Blade 125 có ABS (ACA125CAF)</td><td>80/90-14 / 90/90-14</td><td>200</td><td>225</td><td>280</td></tr><tr><td>Air Blade 125 phanh kết hợp (ACA125CBF)</td><td>80/90-14 / 90/90-14</td><td>200</td><td>225</td><td>280</td></tr></tbody></table><p><em>Theo sách hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF, tr. 8–9 và 147–148, đọc 30/10/2026.</em> Sổ bản 2022 chỉ có hai mã ACA160CAF và ACA125CBF; với hai mã này, cỡ lốp và áp suất trong sổ 2022 giống hệt bảng trên. Air Blade mang mã khác, kể cả các đời ra trước cuốn sổ 2022, không nằm trong hai cuốn sổ này, nên đừng lấy bảng trên cho chúng: xem tem lốp trên chính chiếc xe hoặc sổ đi kèm xe đó.</p><p>Sổ không giải thích vì sao bản 125 cần lốp sau căng hơn khi chở người. Người dùng chỉ cần nhớ hai điều: bánh trước luôn 200, và cột “chở thêm người” chỉ khác ở bản 125. Ý nghĩa từng ký hiệu trên hông lốp xem bài <a href=\"/bao-duong/doc-thong-so-lop-xe-may/\">cách đọc thông số lốp xe máy</a>.</p>"
     ],
     [
       "Xe mình là bản nào: nhìn lốp trước là biết",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "03412",
   "tone": "black",
-  "wordCount": 1438,
+  "wordCount": 1485,
   "intent": "xe-info|ap-suat-lop-chuan|xe tay ga honda air blade|người thuê xe dài hạn|trước chuyến phượt đi xa|dau-hieu-can-kiem-tra",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về áp suất lốp Air Blade",
@@ -130,6 +130,8 @@
       "/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/",
       "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-su-dung-xe-hang-ngay-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/"
     ],
-    "note": "Viết lại riêng cho Air Blade theo sổ ACA160CAF/ACA125CAF/CBF (PDF 11/2025, nhãn lốp tr. 8–9, lốp tr. 87–89, thông số tr. 146–148) và sổ 2022 (ACA160CAF/ACA125CBF), đối chiếu trang thông số 160/125 đời 2026. Trọng tâm: khác biệt lốp sau 225/280 kPa giữa 160 và 125 khi chở người, cỡ lốp theo mã xe, cách nhận ra bản xe, đo lúc nguội, giới hạn tải, cấm lồng săm, gai tối thiểu. Bỏ danh sách lốp khuyên dùng theo hãng vì trùng bài đọc thông số lốp đang index; giảm lặp đơn vị psi/kPa sau khi QA báo trùng 0,62 với /bao-duong/xe-may/ap-suat-lop/. Bỏ toàn bộ văn mẫu V1, bỏ lời khuyên “chọn lốp bám đường” không có nguồn; không nêu vị trí dán nhãn trên xe vì sổ chỉ thể hiện bằng hình; không nêu giá lốp, tiền công."
+    "note": "Viết lại riêng cho Air Blade theo sổ ACA160CAF/ACA125CAF/CBF (PDF 11/2025, nhãn lốp tr. 8–9, lốp tr. 87–89, thông số tr. 146–148) và sổ 2022 (ACA160CAF/ACA125CBF), đối chiếu trang thông số 160/125 đời 2026. Trọng tâm: khác biệt lốp sau 225/280 kPa giữa 160 và 125 khi chở người, cỡ lốp theo mã xe, cách nhận ra bản xe, đo lúc nguội, giới hạn tải, cấm lồng săm, gai tối thiểu. Bỏ danh sách lốp khuyên dùng theo hãng vì trùng bài đọc thông số lốp đang index; giảm lặp đơn vị psi/kPa sau khi QA báo trùng 0,62 với /bao-duong/xe-may/ap-suat-lop/. Bỏ toàn bộ văn mẫu V1, bỏ lời khuyên “chọn lốp bám đường” không có nguồn; không nêu vị trí dán nhãn trên xe vì sổ chỉ thể hiện bằng hình; không nêu giá lốp, tiền công. Sửa sau kiểm tra sự thật 30/10/2026: giới hạn câu về sổ 2022 vào đúng hai mã ACA160CAF/ACA125CBF; bỏ kết luận “xe cũ bơm y như xe mới” cho mọi Air Blade đời cũ (không có nguồn cho các đời trước 2022).",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

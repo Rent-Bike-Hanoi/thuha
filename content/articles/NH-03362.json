@@ -19,7 +19,7 @@
     ],
     [
       "Gộp đai vào các lần vào xưởng: lịch 12.000 – 36.000 km",
-      "<p>Dân văn phòng ít khi rảnh mang xe đi nhiều lần. Ghép các dòng trong lịch bảo dưỡng của LEAD theo cùng mốc km, mỗi lần vào xưởng sẽ gói được những việc sau:</p><table><thead><tr><th>Mốc</th><th>Việc theo sổ LEAD</th></tr></thead><tbody><tr><td>12.000 km</td><td>Thay dầu, vệ sinh lưới lọc dầu, thay bugi, kiểm tra dung dịch làm mát, <strong>kiểm tra đai</strong></td></tr><tr><td>18.000 km</td><td>Thay dầu, kiểm tra bugi, thay lọc gió</td></tr><tr><td>24.000 km</td><td>Thay dầu, vệ sinh lưới lọc dầu, thay bugi, kiểm tra dung dịch làm mát, <strong>thay đai</strong></td></tr><tr><td>30.000 km</td><td>Thay dầu, kiểm tra bugi</td></tr><tr><td>36.000 km</td><td>Thay dầu, vệ sinh lưới lọc dầu, thay bugi, thay lọc gió, kiểm tra dung dịch làm mát, <strong>kiểm tra đai</strong></td></tr></tbody></table><p>Bảng chỉ liệt kê các hạng mục đã đọc được mốc rõ ràng; còn nhiều dòng khác như phanh, lốp, đèn còi được kiểm tra ở mọi mốc. Mốc 24.000 và 36.000 km là hai lần nhiều việc nhất, nên đặt lịch trước và mang xe đến sớm trong ngày. Thông số chung của xe xem bài <a href=\"/xe-may/honda-lead-125/\">Honda LEAD 125</a>.</p>"
+      "<p>Dân văn phòng ít khi rảnh mang xe đi nhiều lần. Ghép các dòng trong lịch bảo dưỡng của LEAD theo cùng mốc km, mỗi lần vào xưởng sẽ gói được những việc sau:</p><table><thead><tr><th>Mốc</th><th>Việc theo sổ LEAD</th></tr></thead><tbody><tr><td>12.000 km</td><td>Thay dầu, vệ sinh lưới lọc dầu, thay bugi, kiểm tra dung dịch làm mát, <strong>kiểm tra đai</strong></td></tr><tr><td>18.000 km</td><td>Thay dầu, kiểm tra bugi, thay lọc gió</td></tr><tr><td>24.000 km</td><td>Thay dầu, vệ sinh lưới lọc dầu, thay bugi, kiểm tra dung dịch làm mát, <strong>thay đai</strong></td></tr><tr><td>30.000 km</td><td>Thay dầu, kiểm tra bugi</td></tr><tr><td>36.000 km</td><td>Thay dầu, vệ sinh lưới lọc dầu, thay bugi, thay lọc gió, kiểm tra dung dịch làm mát, <strong>kiểm tra đai</strong></td></tr></tbody></table><p>Bảng chỉ liệt kê các hạng mục đã đọc được mốc rõ ràng; các dòng khác trong lịch có nhịp riêng, chẳng hạn hệ thống phanh được kiểm tra ở mọi mốc, kể cả 1.000 km, nên khi nhận xe cứ hỏi thợ đã làm những dòng nào. Mốc 24.000 và 36.000 km là hai lần nhiều việc nhất, nên đặt lịch trước và mang xe đến sớm trong ngày. Thông số chung của xe xem bài <a href=\"/xe-may/honda-lead-125/\">Honda LEAD 125</a>.</p>"
     ],
     [
       "Dấu hiệu đai có vấn đề: sổ LEAD không liệt kê",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "03362",
   "tone": "white",
-  "wordCount": 1243,
+  "wordCount": 1263,
   "intent": "xe-info|thay-day-curoa|xe tay ga honda lead|nhân viên văn phòng bận rộn|trước chuyến phượt đi xa|dau-hieu-can-kiem-tra",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về dây curoa Honda Lead",
@@ -110,6 +110,8 @@
       "/bao-duong/ve-sinh-noi-xe-tay-ga/",
       "/xe-may/honda-lead-125/"
     ],
-    "note": "Viết lại riêng cho LEAD 125 theo sổ NHX125 (PDF 11/2025): dòng Đai truyền động K12/T24/K36 đọc từ ảnh bảng tr. 83, cột năm và trang tham khảo để trống, V-Matic 2.65:1–0.82:1, bảng gộp việc theo mốc 12–36 nghìn km cho người bận rộn, “tăng tốc chậm” thuộc mục quá nhiệt. Dấu hiệu đai mòn ghi rõ là kinh nghiệm xưởng vì sổ không liệt kê. Bỏ giá phụ tùng, tiền công, giờ sai và văn mẫu V1; không suy diễn mốc sau 36.000 km ngoài câu “lặp lại chu kỳ”."
+    "note": "Viết lại riêng cho LEAD 125 theo sổ NHX125 (PDF 11/2025): dòng Đai truyền động K12/T24/K36 đọc từ ảnh bảng tr. 83, cột năm và trang tham khảo để trống, V-Matic 2.65:1–0.82:1, bảng gộp việc theo mốc 12–36 nghìn km cho người bận rộn, “tăng tốc chậm” thuộc mục quá nhiệt. Dấu hiệu đai mòn ghi rõ là kinh nghiệm xưởng vì sổ không liệt kê. Bỏ giá phụ tùng, tiền công, giờ sai và văn mẫu V1; không suy diễn mốc sau 36.000 km ngoài câu “lặp lại chu kỳ”. Sửa sau kiểm tra sự thật 30/10/2026: bỏ câu cho rằng phanh, lốp, đèn còi được kiểm tra ở mọi mốc (dòng Đèn/còi chỉ có ở cột kiểm tra trước khi lái, dòng lốp không có mốc 1.000 km); chỉ giữ phanh ở mọi mốc.",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

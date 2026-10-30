@@ -15,7 +15,7 @@
     ],
     [
       "Chú thích *2 áp vào đường Hà Nội thế nào",
-      "<p>Sách không định nghĩa điều kiện nào là nặng, cũng không cho con số km rút ngắn. Theo kinh nghiệm xưởng, những chiếc Vision hay chạy qua đoạn đang thi công, đường đất ven đê, bãi xe đất, hoặc thường xuyên đi mưa và lội nước mùa hè là thuộc nhóm nên làm sớm. Với nhóm này, cách hợp lý là nhờ đại lý mở hộp lọc xem ở lần thay nhớt 6.000 hoặc 12.000 km và thay khi tấm lọc đã đổi màu, thay vì cố chờ đủ 18.000 km. Xe chủ yếu chạy đường nhựa trong phố thì cứ theo mốc bảng.</p><p>Sách Vision không liệt kê dấu hiệu nào của lọc gió bẩn. Ngược lại, có hai triệu chứng sách nêu rõ mà người mới mua xe hay đổ cho lọc gió. Một: máy đôi lúc chạy không ổn định; sách quy cho lọc xăng bị tắc, vẫn đi tiếp được, nhưng nếu còn đủ xăng mà máy vẫn chập chờn thì đưa xe tới cửa hàng Honda ủy nhiệm sớm. Hai: đèn báo lỗi PGM-FI sáng khi đang chạy; sách dặn giảm tốc và mang xe đi kiểm tra càng sớm càng tốt, xem thêm <a href=\"/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/\">đèn báo lỗi FI trên xe Honda</a>. Thay lọc gió không chữa được hai chuyện này.</p><p>Mốc của các hãng khác và dấu hiệu chung cho xe máy đã có trong bài <a href=\"/bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/\">thay lọc gió xe máy bao lâu một lần</a>.</p>"
+      "<p>Chú thích chỉ viết “thường xuyên hơn” nếu xe hay đi trong điều kiện ẩm ướt hoặc bụi bẩn. Sách không định nghĩa thế nào là bụi bẩn, không cho con số km rút ngắn, cũng không đưa ra dấu hiệu nào trên tấm lọc để quyết định thay. Vì vậy, nếu xe bạn thường đi mưa, lội nước hay qua đoạn đường nhiều bụi, cách làm đúng với sách là báo rõ điều kiện đi lại đó khi đưa xe bảo dưỡng định kỳ và để cửa hàng Honda ủy nhiệm quyết định có thay sớm hay không; sách đời hiện hành không có quy trình để chủ xe tự mở hộp lọc. Xe chủ yếu chạy đường nhựa trong phố thì cứ theo mốc bảng.</p><p>Sách Vision không liệt kê dấu hiệu nào của lọc gió bẩn. Ngược lại, có hai triệu chứng sách nêu rõ mà người mới mua xe hay đổ cho lọc gió. Một: máy đôi lúc chạy không ổn định; sách quy cho lọc xăng bị tắc, vẫn đi tiếp được, nhưng nếu còn đủ xăng mà máy vẫn chập chờn thì đưa xe tới cửa hàng Honda ủy nhiệm sớm. Hai: đèn báo lỗi PGM-FI sáng khi đang chạy; sách dặn giảm tốc và mang xe đi kiểm tra càng sớm càng tốt, xem thêm <a href=\"/bao-duong/den-bao-loi-fi-nhay-tren-xe-may-honda/\">đèn báo lỗi FI trên xe Honda</a>. Thay lọc gió không chữa được hai chuyện này.</p><p>Mốc của các hãng khác và dấu hiệu chung cho xe máy đã có trong bài <a href=\"/bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/\">thay lọc gió xe máy bao lâu một lần</a>.</p>"
     ],
     [
       "Tấm lọc giấy nhờn: chỉ thay, không làm sạch",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "00862",
   "tone": "black",
-  "wordCount": 1323,
+  "wordCount": 1346,
   "intent": "xe-info|thay-loc-gio-dong-co|xe tay ga honda vision|người mới mua xe lần đầu|sau thời gian dài không sử dụng|dau-hieu-can-kiem-tra",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về lọc gió Honda Vision",
@@ -117,7 +117,8 @@
       "/bao-duong/xe-may-de-lau-khong-di/",
       "/xe-may/honda-vision-2026/"
     ],
-    "note": "Riêng cho Vision: dòng Lọc gió trong bảng (T ở 18 và 36 nghìn km, chú thích *2), việc cùng lần, quy ra năm theo quãng đi, đoạn cấm vệ sinh tấm lọc giấy nhờn trong sách đời trước so với sách đời hiện hành, ống thông hơi vách máy làm lọc gió nhiễm dầu, lưu ý rửa xe và bảo quản xe trong sách Vision. Giải thích chung và mốc hãng khác dẫn sang /bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/. Bỏ: vị trí hộp lọc và cách mở (sách hiện hành không có quy trình), ống kiểm tra hộp lọc riêng (không thấy trong sách), số km rút ngắn cụ thể (sách không nêu), giá lọc gió.",
-    "qa_score": 100
+    "note": "Riêng cho Vision: dòng Lọc gió trong bảng (T ở 18 và 36 nghìn km, chú thích *2), việc cùng lần, quy ra năm theo quãng đi, đoạn cấm vệ sinh tấm lọc giấy nhờn trong sách đời trước so với sách đời hiện hành, ống thông hơi vách máy làm lọc gió nhiễm dầu, lưu ý rửa xe và bảo quản xe trong sách Vision. Giải thích chung và mốc hãng khác dẫn sang /bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/. Bỏ: vị trí hộp lọc và cách mở (sách hiện hành không có quy trình), ống kiểm tra hộp lọc riêng (không thấy trong sách), số km rút ngắn cụ thể (sách không nêu), giá lọc gió. Sửa sau kiểm tra sự thật 30/10/2026: bỏ câu “theo kinh nghiệm xưởng” và tiêu chí “thay khi tấm lọc đổi màu” (không có nguồn, sách không nêu tiêu chí nào); thay bằng điều sách viết (*2: thường xuyên hơn nếu ẩm ướt hoặc bụi bẩn) và việc để đại lý quyết định.",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

@@ -11,7 +11,7 @@
     ],
     [
       "Bản nào đổ bao nhiêu, và cách nhận ra xe mình là bản nào",
-      "<table><thead><tr><th>Phiên bản (mã loại trong sách)</th><th>Sau khi xả</th><th>Xả và vệ sinh lưới lọc</th><th>Sau khi rã máy</th></tr></thead><tbody><tr><td>Thể thao (IV V, IX V)</td><td>0,65 lít</td><td>0,65 lít</td><td>0,8 lít</td></tr><tr><td>Tiêu chuẩn, Cao cấp, Đặc biệt (V, II V, III V, VI V, VII V, VIII V)</td><td>0,7 lít</td><td>0,7 lít</td><td>0,8 lít</td></tr></tbody></table><p><em>Theo sách hướng dẫn Vision 32K2CA200 và trang so sánh phiên bản của Honda Việt Nam, đọc 30/10/2026.</em></p><p>Hai nhóm lệch nhau 0,05 lít, đủ để bạn nên nói rõ với thợ xe mình thuộc nhóm nào. Không nhớ phiên bản thì nhìn bánh trước: bản Thể thao mang vành 16 inch, các bản khác 14 inch. Bảng thông số trong sách còn cho thêm hai dấu hiệu: bản Thể thao dài 1.925 mm và nặng 97 kg, nhóm còn lại dài 1.871 mm và nặng 93–94 kg.</p><p>Vệ sinh lưới lọc dầu không làm tăng lượng đổ lại. Còn 0,8 lít là dung tích khi máy đã rã; thay định kỳ mà đổ 0,8 lít là thừa so với sách, và sách cảnh báo đổ quá nhiều hay chạy thiếu đều có thể làm hỏng động cơ. Xe Vision đời trước (máy 108,2 cm³, sách mã 00X4F-K44-A200) ghi 0,7 lít sau khi xả, giống nhóm bản thường hiện nay.</p>"
+      "<table><thead><tr><th>Mã loại trong sách</th><th>Phiên bản tương ứng (đối chiếu)</th><th>Sau khi xả</th><th>Xả và vệ sinh lưới lọc</th><th>Sau khi rã máy</th></tr></thead><tbody><tr><td>IV V, IX V</td><td>Thể thao</td><td>0,65 lít</td><td>0,65 lít</td><td>0,8 lít</td></tr><tr><td>V, II V, III V, VI V, VII V, VIII V</td><td>Tiêu chuẩn, Cao cấp, Đặc biệt</td><td>0,7 lít</td><td>0,7 lít</td><td>0,8 lít</td></tr></tbody></table><p><em>Dung tích theo mã loại lấy từ sách hướng dẫn Vision 32K2CA200; dung tích theo tên phiên bản lấy từ trang so sánh của Honda Việt Nam; đọc 30/10/2026. Sách chỉ ghi mã loại, không gọi tên phiên bản: cột “phiên bản tương ứng” là đối chiếu của chúng tôi, không phải chữ in trong sách.</em></p><p>Hai nhóm lệch nhau 0,05 lít, đủ để bạn nên nói rõ với thợ xe mình thuộc nhóm nào. Không nhớ phiên bản thì nhìn bánh trước: bản Thể thao mang vành 16 inch, các bản khác 14 inch. Căn cứ để ghép mã loại với tên bản là các con số khớp nhau: bảng thông số trong sách ghi loại IV V, IX V dài 1.925 mm, nặng 97 kg, đổ 0,65 lít; các loại còn lại dài 1.871 mm, nặng 93–94 kg, đổ 0,7 lít; trang so sánh của Honda cũng ghi bản Thể thao 0,65 lít, ba bản kia 0,7 lít.</p><p>Vệ sinh lưới lọc dầu không làm tăng lượng đổ lại. Còn 0,8 lít là dung tích khi máy đã rã; thay định kỳ mà đổ 0,8 lít là thừa so với sách, và sách cảnh báo đổ quá nhiều hay chạy thiếu đều có thể làm hỏng động cơ. Xe Vision đời trước (máy 108,2 cm³, sách mã 00X4F-K44-A200) ghi 0,7 lít sau khi xả, giống nhóm bản thường hiện nay.</p>"
     ],
     [
       "Mốc thay nhớt Vision và việc đi kèm từng lần",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "01772",
   "tone": "white",
-  "wordCount": 1379,
+  "wordCount": 1455,
   "intent": "xe-info|thay-dau-nhot|xe tay ga honda vision|nữ giới sử dụng xe ga|mùa đông thời tiết lạnh giá|sai-lam-pho-bien",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về thay nhớt Honda Vision",
@@ -135,7 +135,8 @@
       "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/",
       "/xe-may/honda-vision-2026/"
     ],
-    "note": "Riêng cho Vision: dung tích theo phiên bản (Thể thao 0,65 lít, các bản khác 0,7 lít, rã máy 0,8 lít) và so với sổ đời trước, bảng mốc thay nhớt kèm các việc cùng lần trong lịch Vision, bước gạt công tắc Idling Stop trước khi xem que thăm, danh sách đèn báo không có đèn thay dầu, lỗi hay gặp. Giải thích chung về nhớt và lịch các xe Honda khác dẫn sang bài /bao-duong/xe-may/thay-nhot/. Bỏ: vị trí que thăm bên trái hay phải (sách chỉ có hình), giá nhớt và tiền công (không có nguồn).",
-    "qa_score": 100
+    "note": "Riêng cho Vision: dung tích theo phiên bản (Thể thao 0,65 lít, các bản khác 0,7 lít, rã máy 0,8 lít) và so với sổ đời trước, bảng mốc thay nhớt kèm các việc cùng lần trong lịch Vision, bước gạt công tắc Idling Stop trước khi xem que thăm, danh sách đèn báo không có đèn thay dầu, lỗi hay gặp. Giải thích chung về nhớt và lịch các xe Honda khác dẫn sang bài /bao-duong/xe-may/thay-nhot/. Bỏ: vị trí que thăm bên trái hay phải (sách chỉ có hình), giá nhớt và tiền công (không có nguồn). Sửa sau kiểm tra sự thật 30/10/2026: bảng dung tích tách cột mã loại (chữ in trong sách) với cột phiên bản tương ứng, ghi rõ việc ghép mã loại với tên phiên bản là đối chiếu (kích thước, khối lượng, lượng nhớt khớp với trang so sánh Honda), không phải nội dung sách.",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

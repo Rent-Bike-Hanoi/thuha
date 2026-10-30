@@ -23,7 +23,7 @@
     ],
     [
       "Chở hai người, chở thêm đồ: 280 kPa và giới hạn 155 kg",
-      "<p>Mức 280 kPa ở bánh sau dành cho lúc có người ngồi sau. Sách Wave Alpha cho chở người lái và 1 người ngồi sau, <strong>khối lượng trọng tải tối đa 155 kg</strong> với xe kiểu V, tính cả người, hành lý và phụ kiện; riêng hành lý tối đa 5 kg (tr. 89). Mục Trọng tải (tr. 14) nhắc chở quá tải làm giảm khả năng điều khiển, khả năng phanh và độ ổn định; hành lý phải buộc chặt, cân bằng, càng gần giữa xe càng tốt và không để sát đèn hay ống xả.</p><p>Bảng áp suất chỉ có hai dòng, không có dòng riêng cho kiểu “một người kèm đồ”. Cách quen tay của thợ: đón thêm người giữa chặng thì ghé cây bơm gần nhất đưa bánh sau lên 280 kPa; mấy ngày sau chỉ đi một mình thì xả về 225 kPa cho đúng sách. Bánh trước để nguyên.</p>"
+      "<p>Mức 280 kPa ở bánh sau dành cho lúc có người ngồi sau. Sách Wave Alpha cho chở người lái và 1 người ngồi sau, <strong>khối lượng trọng tải tối đa 155 kg</strong> với xe kiểu V, tính cả người, hành lý và phụ kiện; riêng hành lý tối đa 5 kg (tr. 89). Mục Trọng tải (tr. 14) nhắc chở quá tải làm giảm khả năng điều khiển, khả năng phanh và độ ổn định; hành lý phải buộc chặt, cân bằng, càng gần giữa xe càng tốt và không để sát đèn hay ống xả.</p><p>Bảng áp suất chỉ có hai dòng, không có dòng riêng cho kiểu “một người kèm đồ”. Hai mức 225 và 280 kPa đều là áp suất khi lốp nguội, nên việc chuyển qua lại làm lúc xe chưa chạy: biết hôm nay sẽ chở người thì bơm bánh sau lên 280 kPa trước khi dắt xe ra; hôm sau đi một mình thì xả về 225 kPa, cũng lúc lốp nguội. Bánh trước để nguyên. Lốp vừa chạy xong đang nóng, số đọc lúc đó không so được với bảng, và sách không có cách quy đổi cho lốp nóng; muốn chỉnh đúng thì đợi lốp nguội rồi mới đo.</p>"
     ],
     [
       "Thủng săm giữa đường với lốp có săm của Wave Alpha",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "02472",
   "tone": "gold",
-  "wordCount": 1475,
+  "wordCount": 1470,
   "intent": "xe-info|ap-suat-lop-chuan|xe máy số honda wave|người thuê xe dài hạn|sau thời gian dài không sử dụng|lich-trinh-dinh-ky",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về áp suất lốp Honda Wave Alpha",
@@ -50,7 +50,7 @@
     ],
     [
       "Bản cổ điển có bơm lốp khác bản tiêu chuẩn không?",
-      "Không. Sách và trang sản phẩm của các bản ghi cùng cỡ lốp và cùng mức áp suất."
+      "Không. Sách đi kèm bản cổ điển in cùng bảng áp suất với sách bản tiêu chuẩn, và trang sản phẩm hai bản ghi cùng cỡ lốp."
     ],
     [
       "Lốp Wave Alpha có săm hay không săm?",
@@ -147,6 +147,7 @@
       "/xe-may/xe-tay-ga-honda-lead/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
       "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/"
     ],
-    "note": "Viết lại riêng cho Wave Alpha theo sách AFB110MD © 2023 (S2) và sách WAVE 110 đi kèm bản cổ điển (S4): áp suất nguội trước 200 kPa cho cả hai trường hợp, sau 225/280 kPa, cỡ lốp 70/90-17M/C 38P và 80/90-17M/C 50P bố chéo có săm, lốp khuyên dùng INOUE/CHENG SHIN/VEE RUBBER, lốp trước và sau khác bề rộng, kiểm tra hằng tháng lúc nguội, TWI, thay săm khi thay lốp, bảo quản xe kê hai bánh khỏi đất tr. 83, trọng tải 155 kg và hành lý 5 kg, vá tạm không quá 50 km/h. Bỏ văn mẫu V1 (dấu hiệu chung chung, tư vấn không nguồn), không nêu giá lốp, săm, tiền công; câu săm rò và cách bơm khi đón người giữa chặng ghi rõ là kinh nghiệm thợ."
+    "note": "Viết lại riêng cho Wave Alpha theo sách AFB110MD © 2023 (S2) và sách WAVE 110 đi kèm bản cổ điển (S4): áp suất nguội trước 200 kPa cho cả hai trường hợp, sau 225/280 kPa, cỡ lốp 70/90-17M/C 38P và 80/90-17M/C 50P bố chéo có săm, lốp khuyên dùng INOUE/CHENG SHIN/VEE RUBBER, lốp trước và sau khác bề rộng, kiểm tra hằng tháng lúc nguội, TWI, thay săm khi thay lốp, bảo quản xe kê hai bánh khỏi đất tr. 83, trọng tải 155 kg và hành lý 5 kg, vá tạm không quá 50 km/h. Bỏ văn mẫu V1 (dấu hiệu chung chung, tư vấn không nguồn), không nêu giá lốp, săm, tiền công; câu săm rò ghi rõ là kinh nghiệm thợ. Sửa sau kiểm tra sự thật (31/10/2026 00:55): bỏ lời khuyên bơm 280 kPa giữa chặng khi lốp nóng, thay bằng chỉnh 225/280 kPa lúc lốp nguội theo tr. 48; FAQ bản cổ điển chỉ nói áp suất theo sách S2/S4, trang sản phẩm S1/S3 chỉ dùng cho cỡ lốp.",
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

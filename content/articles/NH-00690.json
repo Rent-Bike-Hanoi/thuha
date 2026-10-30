@@ -118,6 +118,7 @@
       "/xe-may/honda-vision-2026/"
     ],
     "note": "Chỉ dùng bảng bảo dưỡng của Vision: dòng Đai truyền động K/T/K ở 12/24/36 nghìn km, nghĩa rộng của chữ K theo chú thích, cột tham khảo trang “–”, tỷ số V-Matic 2,52:1–0,82:1 của Vision, ghép mốc dây curoa với việc cùng lần, lời dặn chạy rà, không kéo rê, rửa xe. Giải thích chung và dấu hiệu dây mòn dẫn sang bài chung /bao-duong/day-curoa-xe-ga-bao-lau-thay/. Bỏ: mức độ khó (Trung bình/Phức tạp) của dòng này vì ký hiệu không đọc được bằng chữ, triệu chứng hỏng dây (sách không nêu), giá dây và tiền công.",
-    "qa_score": 100
+    "qa_score": 100,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }

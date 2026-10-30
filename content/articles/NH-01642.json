@@ -112,6 +112,7 @@
       "/xe-may/honda-vision-2026/"
     ],
     "note": "Chỉ nói về Vision đời hiện hành: bảng cỡ lốp theo bốn phiên bản (Thể thao 80/90-16, các bản khác 80/90-14) đối chiếu mã loại trong sách, nhãn lốp có cùng mức 200/225 kPa cho một và hai người, giới hạn tải 176 kg và tải từng hộc đồ, lỗi đo lốp khi nóng, quy định lốp không săm và vá tạm 50 km/h. Phần giải thích chung về áp suất chuyển sang bài /bao-duong/xe-may/ap-suat-lop/. Bỏ: vị trí dán nhãn lốp trên xe (sách không nêu bằng chữ), loại lốp theo tên phiên bản (sách chỉ ghi theo mã loại).",
-    "qa_score": 100
+    "qa_score": 100,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
   }
 }
