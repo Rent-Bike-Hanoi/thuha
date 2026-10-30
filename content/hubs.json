@@ -1,0 +1,305 @@
+{
+ "_note": "Nội dung trang chuyên mục (scripts/build.py đọc file này cho trang 1 của hub). Viết 30/10/2026 (SEO recovery), kiểm tra link nội bộ, số liệu theo config/business-facts.json. Không dùng FAQPage schema trên trang danh sách. Số liệu trong mục giới thiệu và FAQ tóm tắt từ các bài được link (đã đối chiếu với thân bài gốc có nguồn ngày 30/10/2026).",
+ "thue-xe": {
+  "title": "Cẩm nang thuê xe máy Hà Nội: cọc, hợp đồng, trả muộn, sự cố",
+  "h1": "Thủ tục, tiền cọc và xử lý sự cố khi thuê xe máy",
+  "description": "Cọc bằng tiền thì không bị giữ giấy tờ gốc. Xem trước hợp đồng, phí trả muộn và ai chịu khi xe hỏng, mất xe tại cửa hàng Nguyễn Hà, Long Biên.",
+  "sections": [
+   [
+    "Cần chuẩn bị gì trước khi nhận xe",
+    "<p>Mang căn cước hoặc hộ chiếu, bằng lái hợp với loại xe (xe 50cc không cần bằng) và tiền cọc 2.000.000–5.000.000đ tùy xe, thời hạn thuê; cọc tiền thì không bị giữ giấy tờ gốc. Ký hợp đồng xong mới nhận xe, và một ngày thuê tính đủ 24 giờ từ lúc đó. Người 18–19 tuổi chỉ thuê được xe 50cc; xe máy điện và các xe khác nhận khách từ 20 tuổi.</p><p>Chuyên mục dành cho người thuê lần đầu ở Hà Nội: khách du lịch, người ở lại vài tháng, sinh viên, khách nước ngoài. <a href=\"/thue-xe-may/ha-noi/\">Giá từng loại xe và cách đặt xe</a> nằm ở trang dịch vụ.</p><ul><li><a href=\"/thue-xe/thue-xe-may-ha-noi-can-giay-to-gi/\">Cọc tiền hay cọc giấy tờ</a>: thủ tục từng bước khi đặt cọc.</li><li><a href=\"/thue-xe/hop-dong-thue-xe-may-gom-nhung-gi/\">Điều khoản hợp đồng nên đọc trước khi ký</a>: ai sửa xe, ai chịu hao mòn.</li></ul>"
+   ],
+   [
+    "Thuê ngày, thuê tháng hay mua hẳn một chiếc",
+    "<p>Thuê vài giờ vẫn tính giá một ngày, trả xe sớm không được hoàn tiền thuê, nên hãy chốt thời hạn sát lịch thật.</p><ul><li><a href=\"/thue-xe-may/ha-noi/theo-ngay/\">Thuê theo ngày và theo tuần</a>: mốc 24 giờ và điều nên xác nhận khi nhận xe.</li><li><a href=\"/thue-xe-may/ha-noi/theo-thang/\">Hợp đồng thuê theo tháng</a>: giá từng loại xe và giao xe tận nơi.</li><li><a href=\"/thue-xe/thue-xe-may-theo-thang-hay-mua-xe/\">Thuê theo tháng hay mua xe</a>: bảng hòa vốn theo số tháng ở Hà Nội.</li><li><a href=\"/thue-xe/tra-xe-may-thue-muon-tinh-phi-the-nao/\">Phí trả xe muộn</a>: 20.000đ mỗi giờ, quá 6 giờ tính thêm một ngày; kèm ví dụ cách tính và vì sao nên báo trước cho cửa hàng.</li></ul>"
+   ],
+   [
+    "Chưa có bằng lái hoặc là khách nước ngoài",
+    "<p>Tuổi và loại bằng quyết định bạn thuê được xe nào. Giá và ba mẫu xe 50cc của cửa hàng xem ở <a href=\"/thue-xe-50cc/ha-noi/\">trang thuê xe 50cc</a>.</p><ul><li><a href=\"/thue-xe/thue-xe-50cc-hay-xe-may-dien/\">Chọn xe 50cc hay xe máy điện khi chưa có bằng</a>: giá thuê, đổ xăng hay sạc qua đêm.</li><li><a href=\"/thue-xe-50cc/ha-noi/kinh-nghiem/\">Kinh nghiệm thuê xe 50cc</a>: kiểm tra xe, thống nhất điều kiện nhận và trả.</li><li><a href=\"/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/\">Hướng dẫn cho khách nước ngoài</a>: loại bằng lái cần mang và cách đặt cọc.</li></ul>"
+   ],
+   [
+    "Nhận xe ở Long Biên, giao tận nơi hay đi tỉnh",
+    "<p>Cửa hàng ở Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 08:00–17:00 hằng ngày; hợp đồng nhiều ngày trở lên được giao xe trong bán kính 10 km từ trung tâm Hoàn Kiếm, 50.000đ/lượt.</p><ul><li><a href=\"/thue-xe-may/long-bien/\">Thuê xe tại Long Biên</a>: đường đến cửa hàng từ Bến xe Gia Lâm và khu lân cận.</li><li><a href=\"/thue-xe/thue-xe-may-ha-noi-di-tinh/\">Thuê xe đi tỉnh, đi phượt</a>: chỉ nhận khi thuê từ 48 giờ; ai chịu khi xe hỏng, mất xe dọc đường.</li></ul>"
+   ],
+   [
+    "Xe hỏng, đổ xe, mất xe: ai chịu",
+    "<p>Lỗi của chính chiếc xe thì cửa hàng chịu phần lớn chi phí; đổ xe, va chạm, thủng săm, xịt lốp thì khách tự chịu; mất xe thì khách hoàn trả theo giá trị xe ghi trên hợp đồng, trừ đi tiền cọc đã đặt. Gặp sự cố, dừng xe an toàn, chụp ảnh và báo cửa hàng trước khi sửa lớn.</p><ul><li><a href=\"/thue-xe/xe-may-thue-bi-hong-giua-duong-phai-lam-sao/\">Xe hỏng giữa đường</a>: lỗi nào tự xử lý được ở tiệm gần nhất.</li><li><a href=\"/thue-xe/mat-xe-may-thue-phai-den-the-nao/\">Làm mất xe thuê</a>: việc cần làm ngay và cách phòng mất xe.</li></ul><p>Hỏi thêm: gọi, nhắn Zalo 0334 699 969 hoặc qua <a href=\"/lien-he/\">trang liên hệ</a>.</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Ở Hà Nội vài tháng nên thuê xe hay mua xe?",
+    "Ở vài tháng, thuê xe số theo tháng (1.000.000–1.200.000đ/tháng) thường tốn ít hơn mua xe mới, trừ khi bán lại được giá cao; thuê cũng không phải lo sang tên, bán xe khi rời Hà Nội."
+   ],
+   [
+    "Xe thuê hỏng ngoài giờ 08:00–17:00 thì làm gì?",
+    "Nhắn Zalo 0334 699 969 kèm ảnh và vị trí. Thủng săm, hết xăng thì xử lý ở tiệm gần nhất, giữ hóa đơn; sửa lớn thì đợi cửa hàng phản hồi khi mở cửa lúc 08:00."
+   ],
+   [
+    "Thuê xe đi tỉnh nhiều ngày có được tính giá tuần không?",
+    "Không. Xe mang ra ngoài Hà Nội luôn tính giá ngày 150.000–200.000đ, kể cả chuyến đi dài ngày."
+   ]
+  ]
+ },
+ "xe-may": {
+  "title": "Xe máy: chọn xe số, xe ga, 50cc và thông số từng mẫu",
+  "h1": "Chọn và dùng xe máy: xe số, xe ga, xe 50cc",
+  "description": "Chọn xe số, xe ga hay xe máy 50cc; thông số từng mẫu Honda, Yamaha, SYM, Kymco theo trang hãng; cách dùng khóa thông minh và đọc đèn báo đồng hồ xe.",
+  "sections": [
+   [
+    "Chọn xe số, xe ga hay xe 50cc để đi lại ở Hà Nội",
+    "<p>Chuyên mục này giúp người sắp thuê hoặc mua xe ở Hà Nội chọn đúng loại xe và dùng xe đúng cách. Chưa có bằng lái, hoặc từ đủ 16 đến dưới 18 tuổi, thì chỉ được đi xe gắn máy 50cc. Có bằng A1 mà chưa quen sang số, hoặc cần cốp để đồ, thì chọn xe ga. Đã quen sang số thì xe số vẫn dùng tốt. Xe trên 125 cm³, như Air Blade 160, cần bằng hạng A.</p><p>Bài <a href=\"/xe-may/chon-xe-so-hay-xe-ga/\">xe số hay xe ga: chọn theo thói quen đi lại</a> so sánh thao tác và chỗ để đồ. Với xe ga, xem <a href=\"/xe-may/honda-vision-2026/\">thông số Honda Vision 2026</a> và <a href=\"/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/\">Air Blade 125 và 160 khác gì nhau</a>; người thấp nên xem <a href=\"/xe-may/xe-may-cho-nguoi-thap/\">bảng so độ cao yên các mẫu phổ biến</a>.</p><p>Nguyễn Hà ở Long Biên cho thuê xe số, xe ga và xe 50cc; giá và thủ tục ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>.</p>"
+   ],
+   [
+    "Xe 50cc: ai được đi, chạy nhanh đến đâu",
+    "<p>Bài <a href=\"/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/\">xe 50cc chạy được bao nhiêu km/h</a> tách tốc độ thiết kế ghi trên giấy tờ với tốc độ được phép trên đường. Phụ huynh nên đọc <a href=\"/xe-may/xe-50cc-cho-hoc-sinh/\">xe 50cc cho học sinh</a>: tuổi được đi, giấy tờ, cách chọn xe vừa người.</p><p>Nhiều mẫu 50cc của SYM và Kymco có bài riêng, chẳng hạn <a href=\"/xe-may/kymco-hermosa-50fi/\">Kymco Hermosa 50Fi</a>. Riêng <a href=\"/xe-may/sym-elite-50/\">SYM Elite 50</a> đang có trong đội xe cho thuê của cửa hàng. Khi thuê, Nguyễn Hà chỉ giao xe 50cc cho khách từ 18 tuổi (xem <a href=\"/thue-xe-50cc/ha-noi/\">thuê xe 50cc Hà Nội</a>). Bằng lái và các mức phạt với xe máy có ở chuyên mục <a href=\"/luat-giao-thong/\">luật giao thông</a>.</p>"
+   ],
+   [
+    "Thông số từng mẫu theo nhà sản xuất",
+    "<p>Phần lớn bài ở đây là hồ sơ từng mẫu xe: Honda, Yamaha, SYM, Kymco, Piaggio, Vespa, Suzuki và phân khối lớn Kawasaki, Royal Enfield, Triumph, BMW. Các bài thông số lấy số liệu từ trang hãng hoặc sổ hướng dẫn, thường kèm ngày đọc, và hay nêu giá đề xuất, dung tích, cân nặng, độ cao yên, mức xăng hãng công bố, hạng bằng. Với xe số phổ thông, xem <a href=\"/xe-may/honda-wave-alpha-110/\">thông số Honda Wave Alpha 110</a>.</p><p>Cửa hàng không cho thuê xe côn tay và xe phân khối lớn; bài về nhóm này để tham khảo khi mua xe hoặc thi bằng.</p>"
+   ],
+   [
+    "Vận hành: khóa thông minh, đèn báo, xe bị đổ",
+    "<p>Nhiều xe ga đời mới dùng FOB (bộ khóa thông minh) thay chìa cơ; bài <a href=\"/xe-may/cach-dung-khoa-thong-minh-xe-ga/\">cách dùng khóa thông minh xe ga</a> đi từng bước nổ máy, khóa cổ, mở yên. Bài <a href=\"/xe-may/den-bao-tren-dong-ho-xe-may/\">các đèn báo trên đồng hồ xe máy</a> chỉ ra đèn nào sáng khi đang chạy thì phải dừng xe. Ngã xe thì đọc <a href=\"/xe-may/xe-may-bi-do-kiem-tra-gi/\">xe máy bị đổ: kiểm tra gì trước khi đi tiếp</a>.</p><p>Thay nhớt, lốp và bảo dưỡng định kỳ nằm ở chuyên mục <a href=\"/bao-duong/\">bảo dưỡng</a>. Hỏi về xe đang cho thuê: gọi 0334 699 969 (08:00–17:00).</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Xe 50cc chạy được bao nhiêu km/h?",
+    "Tốc độ thiết kế không quá 50 km/h, nhưng khi lưu thông xe gắn máy chỉ được chạy tối đa 40 km/h. Lên dốc hoặc chở hai, xe còn chậm hơn."
+   ],
+   [
+    "Đi xe 50cc có cần bằng lái không?",
+    "Không, nếu người lái đủ 16 tuổi và giấy tờ ghi đúng là xe gắn máy: dung tích không quá 50 cm³, tốc độ thiết kế không quá 50 km/h. Vượt các mức này là xe mô tô, phải có bằng."
+   ],
+   [
+    "Người thấp nên chọn xe máy thế nào?",
+    "So độ cao yên và khối lượng xe; trong bảng so độ cao yên các mẫu xe phổ thông của bài xe máy cho người thấp, SYM Elite 50 có yên thấp nhất (một số mô tô phân khối lớn còn thấp hơn). Chắc nhất vẫn là ngồi thử đúng chiếc sẽ đi."
+   ],
+   [
+    "Xe ga khóa thông minh nổ máy thế nào?",
+    "Theo sổ hướng dẫn Air Blade: kích hoạt FOB, nhấn núm khóa điện, vặn sang On khi đèn còn sáng, bóp phanh sau rồi bấm đề. Xuống xe thì khóa cổ, không để FOB trong cốp."
+   ]
+  ]
+ },
+ "xe-dien": {
+  "title": "Xe máy điện: đi bao xa, sạc ở đâu, có cần bằng lái",
+  "h1": "Chọn, sạc và đi xe điện mỗi ngày ở Hà Nội",
+  "description": "Nhiều xe gắn máy điện đi 65–87 km mỗi lần sạc theo số hãng, xe pin lớn tới 285 km. Xe nào cần bằng A1, sạc ở chung cư và đi mưa thế nào.",
+  "sections": [
+   [
+    "Một lần sạc đi bao xa, xe nào không cần bằng",
+    "<p>Chuyên mục giúp người sắp mua hoặc thuê xe điện ở Hà Nội biết trước xe đi được bao xa, có cần bằng không và sạc ở đâu. Theo số hãng công bố, nhiều xe gắn máy điện đi 65–87 km mỗi lần sạc (Yadea Orla, VinFast ZGoo, Flazz Max), mẫu pin LFP lớn từ 120 km (Yadea Oris H) tới 285 km (Dat Bike Quantum). Xe không quá 50 km/h và không quá 4 kW là xe gắn máy: đủ 16 tuổi được lái, không cần bằng. Vượt một trong hai mức là xe mô tô, cần bằng A1 và đủ 18 tuổi.</p><p>Bài <a href=\"/xe-dien/xe-may-dien-di-duoc-bao-nhieu-km-mot-lan-sac/\">quãng đường mỗi lần sạc của từng mẫu</a> ghi cả điều kiện đo. Cách biết xe thuộc nhóm nào có ở <a href=\"/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/\">bằng lái khi thuê xe điện</a>; phân biệt với xe đạp điện ở <a href=\"/xe-dien/xe-may-dien-co-can-dang-ky-bien-so-khong/\">đăng ký biển số xe điện</a>.</p>"
+   ],
+   [
+    "Sạc ở chung cư, sạc buổi tối và pin ngày rét",
+    "<p>Từ 15/12/2026, khu sạc trong chung cư phải đáp ứng yêu cầu mới về vị trí, camera, báo cháy và trụ sạc tự ngắt (<a href=\"/xe-dien/sac-xe-may-dien-chung-cu/\">quy định khu sạc chung cư</a>). Cục Cảnh sát PCCC và CNCH khuyến cáo không sạc qua đêm; giờ cắm và rút hợp lý ở bài <a href=\"/xe-dien/sac-xe-may-dien-qua-dem-co-an-toan-khong/\">sạc buổi tối an toàn</a>. Ngày rét, xe yếu đi vì cơ chế bảo vệ pin chứ không phải hỏng (<a href=\"/xe-dien/pin-xe-may-dien-troi-lanh/\">pin khi trời lạnh</a>). Bài <a href=\"/xe-dien/pin-lfp-va-ac-quy-chi-tren-xe-may-dien-khac-gi/\">pin LFP và ắc quy chì khác nhau thế nào</a> so sánh cân nặng, thời gian sạc và bảo hành.</p>"
+   ],
+   [
+    "Cầu dốc, mưa ngập: chọn mẫu theo đường mình đi",
+    "<p>Theo thông số leo dốc VinFast, mẫu công suất nhỏ chỉ còn vài km/h ở dốc thử, nên lộ trình nhiều cầu, hầm gửi xe cần xe khỏe hơn (<a href=\"/xe-dien/xe-may-dien-leo-doc/\">xe điện lên cầu, leo dốc</a>). Mùa mưa, Yadea và Dat Bike đều công bố giới hạn lội nước; Dat Bike khuyên hạn chế chạy khi nước ngập quá sàn để chân (<a href=\"/xe-dien/xe-may-dien-di-mua-loi-nuoc-co-sao-khong/\">đi mưa, lội nước có sao không</a>).</p><p>Đi ngắn trong phố, chưa có bằng thì chọn xe gắn máy điện, ví dụ <a href=\"/xe-dien/yadea-vigor/\">Yadea Vigor và Vigor H</a> (46 km/h, động cơ 800 W). Đi xa, qua nhiều cầu thì chọn mẫu công suất lớn, chấp nhận cần bằng A1.</p>"
+   ],
+   [
+    "Ngày đầu cầm lái và thuê thử trước khi mua",
+    "<p>Người quen xe xăng hay vặn ga mà xe không chạy, thường do xe còn ở chế độ Parking hoặc chân chống chưa gạt hết (<a href=\"/xe-dien/cach-di-xe-may-dien-cho-nguoi-moi/\">cách đi xe điện cho người quen xe xăng</a>). Định độ pin hay mở giới hạn tốc độ thì đọc <a href=\"/xe-dien/do-xe-may-dien-co-bi-phat-khong/\">độ pin, nâng tốc độ có bị phạt không</a>: Nghị định 168 phạt chủ xe tự ý thay đổi đặc tính xe, PCCC cũng khuyến cáo không độ pin.</p><p>Chưa chắc xe điện hợp lộ trình của mình thì có thể thuê thử một tuần rồi mới mua. Thuê xe máy Nguyễn Hà ở Long Biên có xe máy điện Tailg cho thuê; giá, cọc và điều kiện ở trang <a href=\"/thue-xe-dien/ha-noi/\">thuê xe điện ở Hà Nội</a>.</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Xe máy điện đi được bao nhiêu km một lần sạc?",
+    "Theo số hãng, nhiều xe gắn máy điện đi 65–87 km, xe pin LFP lớn 120–285 km. VinFast đo ở 30 km/h với một người 65 kg, nên chạy thật thường thấp hơn."
+   ],
+   [
+    "Đi xe máy điện có cần bằng lái không?",
+    "Xe gắn máy điện (đến 50 km/h, đến 4 kW) thì không, đủ 16 tuổi được lái. Xe mô tô điện đến 11 kW cần bằng A1 và đủ 18 tuổi; không có bằng bị phạt 2–4 triệu đồng."
+   ],
+   [
+    "Quy định khu sạc chung cư mới áp dụng từ khi nào?",
+    "Từ 15/12/2026, theo Thông tư 31/2026/TT-BXD. Chung cư đang có khu sạc phải rà soát xong trong 6 tháng kể từ ngày đó."
+   ],
+   [
+    "Xe máy điện có phải đăng ký biển số không?",
+    "Có, vì xe máy điện là xe cơ giới. Xe đạp điện thuộc nhóm xe thô sơ thì không phải đăng ký."
+   ]
+  ]
+ },
+ "bao-duong": {
+  "title": "Sửa chữa, bảo dưỡng xe máy: khi nào thay nhớt, lốp, phanh",
+  "h1": "Sửa chữa & bảo dưỡng xe máy",
+  "description": "Xe máy không đề được, đứt cầu chì, ngập nước thì kiểm tra gì; nhớt, lốp, má phanh thay khi nào theo Honda, Yamaha; checklist khi nhận xe thuê.",
+  "sections": [
+   [
+    "Bảo dưỡng xe máy: tự làm gì, khi nào ra tiệm",
+    "<p>Xe máy bấm đề mà mô tơ im lặng thì phần lớn là do thao tác: chân chống nghiêng còn hạ, xe ga chưa bóp phanh, xe số chưa về N. Nhớt, lốp, má phanh thì thay theo mốc hãng công bố. Chuyên mục này giúp người đi xe ở Hà Nội, cả xe nhà lẫn xe thuê, biết lỗi nào tự kiểm tra được và lỗi nào phải đưa thợ.</p>"
+   ],
+   [
+    "Không đề được, ngập nước, nóng máy: kiểm tra gì trước khi gọi thợ",
+    "<p>Kiểm tra xong chân chống, phanh, số N mà vẫn không đề được thì nghe mô tơ đề: không quay thì xem cầu chì, ắc quy; quay mà máy không nổ thì xem xăng.</p><ul><li><a href=\"/bao-duong/xe-may/khong-de-duoc/\">Xe máy không đề được</a>: hai danh sách kiểm tra theo sách hướng dẫn Honda và lúc phải mang xe đi sửa.</li><li><a href=\"/bao-duong/cau-chi-xe-may-bi-dut/\">Cầu chì xe máy bị đứt</a>: hộp cầu chì ở đâu, vì sao không lắp loại ampe cao hơn.</li><li><a href=\"/bao-duong/binh-ac-quy-xe-may-bao-lau-thay/\">Bình ắc quy xe máy bao lâu thay</a>: Honda chỉ ghi mốc kiểm tra, không ghi mốc thay; dấu hiệu bình yếu.</li><li><a href=\"/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/\">Xe máy ngập nước</a>: không cố đề lại vì nước trong xi lanh có thể làm cong tay biên.</li><li><a href=\"/bao-duong/xe-may-bi-nong-may-quat-ket-nuoc-chay-lien-tuc/\">Xe nóng máy, quạt két chạy liên tục</a>: đèn quá nhiệt sáng thì tấp lề, tắt máy chờ nguội.</li></ul>"
+   ],
+   [
+    "Khi nào thay nhớt, má phanh, lốp",
+    "<p>Xe Honda thay nhớt lần đầu ở mốc 1.000 km, sau đó theo chu kỳ km trong lịch bảo dưỡng của từng mẫu; đi ít vẫn thay mỗi năm một lần. Má phanh và lốp thì Honda không ghi km thay cố định: má phanh thay khi mòn tới dấu chỉ thị, lốp thay khi dấu chỉ thị độ mòn gai (TWI) lộ ra. Mốc lấy từ tài liệu hãng công bố: sách hướng dẫn sử dụng, sổ bảo hành, trang chính thức.</p><ul><li><a href=\"/bao-duong/xe-may/thay-nhot/\">Thay nhớt xe máy bao nhiêu km một lần</a>: bảng lịch thay theo từng mẫu Honda, cách đọc que thăm dầu.</li><li><a href=\"/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/\">Xe máy mới mua bảo dưỡng lần đầu khi nào</a>: lần bảo dưỡng đầu kiểm tra những gì.</li><li><a href=\"/bao-duong/ma-phanh-xe-may-bao-lau-thay/\">Má phanh xe máy bao lâu thay</a>: mốc kiểm tra của Honda, mốc thay của Yamaha và cách tìm dấu chỉ thị mòn.</li><li><a href=\"/bao-duong/lop-xe-may-bao-lau-thay/\">Lốp xe máy bao lâu thay</a>: cách tìm dấu TWI, độ sâu gai tối thiểu, vết phồng nứt buộc thay sớm.</li><li><a href=\"/bao-duong/bo-bao-duong-dinh-ky-co-mat-bao-hanh/\">Lỡ bảo dưỡng định kỳ có mất bảo hành không</a>: không tự động mất, nhưng Honda có thể từ chối bảo hành hư hỏng do thiếu bảo dưỡng.</li></ul>"
+   ],
+   [
+    "Xe thuê: kiểm tra khi nhận, báo cửa hàng khi có lỗi",
+    "<p>Trước khi ký, đi một lượt theo <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra xe máy trước khi nhận</a> và chụp lại vết trầy, lốp non hay có đinh. Tiền sửa xe hỏng được tính theo dự tính của cửa hàng lúc trả xe, nên hiện trạng có sẵn cần ghi từ đầu.</p><p>Cách phân định lỗi do xe hay do khách có ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy tại Hà Nội</a>. Lỗi pin và sạc của xe máy điện có ở chuyên mục <a href=\"/xe-dien/\">xe điện</a>.</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Có nên mồi bình ô tô cho xe máy hết điện?",
+    "Không nên. Honda khuyến cáo không mồi khởi động bằng bình điện ô tô vì có thể làm hỏng hệ thống điện của xe."
+   ],
+   [
+    "Đèn FI xe Honda sáng khi đang chạy thì làm gì?",
+    "Giảm tốc và đưa xe tới cửa hàng Honda ủy nhiệm để đọc lỗi. Đèn chỉ sáng giây lát khi bật khóa rồi tắt là bình thường."
+   ],
+   [
+    "Xe thuê có dấu hiệu lạ giữa đường thì làm gì?",
+    "Dừng ở chỗ an toàn, gọi 0334 699 969 (08:00–17:00) trước khi nhờ thợ ngoài; không tự thay phụ tùng khi cửa hàng chưa đồng ý."
+   ]
+  ]
+ },
+ "du-lich": {
+  "title": "Du lịch bằng xe máy từ Hà Nội: điểm đến, cung đường",
+  "h1": "Đi xe máy từ Hà Nội: điểm đến và cung đường",
+  "description": "Từ Hà Nội đi xe máy đâu về trong ngày, đâu nên ngủ lại: Ninh Bình, Mộc Châu, Hà Giang, Sa Pa, Hạ Long, Cát Bà, kèm tuyến quốc lộ và chỗ gửi xe.",
+  "sections": [
+   [
+    "Từ Hà Nội đi xe máy: đâu về trong ngày, đâu nên ngủ lại",
+    "<p>Chuyên mục này giúp người tự lái xe máy từ Hà Nội chọn điểm đến vừa sức và đi đúng đường. Đường Lâm, Ba Vì, chùa Hương, Tam Đảo, Ninh Bình đi về trong ngày được; Mộc Châu, Hạ Long, Cát Bà, Sầm Sơn nên ngủ lại; Hà Giang và Sa Pa là chuyến nhiều ngày. Xe máy không được vào cao tốc nên phải đi quốc lộ hoặc đường gom, thường xa và lâu hơn con số tính theo cao tốc hay gặp trên mạng.</p><p>Nên đọc trước bài <a href=\"/du-lich/mien-bac/dia-diem-du-lich-gan-ha-noi-di-xe-may-trong-ngay/\">địa điểm gần Hà Nội đi xe máy trong ngày</a>, có bảng quãng đường và nơi nên ở lại đêm nếu về muộn. Chuyên mục còn có bài về bảo tàng, đền chùa, di tích, làng nghề, bản làng, biển đảo ở Hà Nội, miền Bắc và Thanh Hóa, Nghệ An, Hà Tĩnh.</p>"
+   ],
+   [
+    "Trong Hà Nội: bảo tàng, Văn Miếu và chỗ gửi xe",
+    "<p>Mới đến Hà Nội thì đọc <a href=\"/du-lich/ha-noi/\">gợi ý chọn khu vực và lịch trình du lịch Hà Nội</a> trước. Bảo tàng Hà Nội trên đường Phạm Hùng nghỉ thứ Hai, vé 50.000đ; giờ mở cửa và phần trưng bày mới xem ở <a href=\"/du-lich/bao-tang-ha-noi/\">bài về Bảo tàng Hà Nội</a>. Ở Văn Miếu – Quốc Tử Giám, bãi gửi xe máy nằm cùng chỗ với cổng vào trên phố Quốc Tử Giám; <a href=\"/du-lich/van-mieu-quoc-tu-giam-gio-mo-cua-ve-gui-xe-may/\">giờ mở cửa và giá vé Văn Miếu</a> có trong bài riêng.</p>"
+   ],
+   [
+    "Cung đường đi Ninh Bình, Mộc Châu, Hà Giang, Sa Pa",
+    "<p>Xếp từ gần đến xa:</p><ul><li><a href=\"/du-lich/mien-bac/ha-noi-di-ninh-binh-bang-xe-may/\">Hà Nội đi Ninh Bình bằng xe máy</a>: quốc lộ 1A qua Thường Tín, Phú Xuyên, Phủ Lý, không vào cao tốc Pháp Vân – Cầu Giẽ.</li><li><a href=\"/du-lich/mien-bac/ha-noi-di-moc-chau-bang-xe-may/\">Hà Nội đi Mộc Châu theo quốc lộ 6</a>: qua Xuân Mai, Hòa Bình, Mai Châu; lưu ý đèo Thung Khe và các đoạn hay có sương mù.</li><li><a href=\"/du-lich/mien-bac/ha-noi-di-ha-giang-bang-xe-may/\">Hà Nội đi Hà Giang bằng xe máy</a>: qua Tuyên Quang, không vào cao tốc Nội Bài – Lào Cai.</li><li><a href=\"/du-lich/mien-bac/ha-noi-di-sa-pa-bang-xe-may/\">Hà Nội đi Sa Pa bằng xe máy</a>: qua Phú Thọ, Yên Bái, Lào Cai, có lưu ý về các đoạn đèo.</li></ul>"
+   ],
+   [
+    "Ra biển và đảo: Sầm Sơn, Hạ Long, Cát Bà",
+    "<ul><li><a href=\"/du-lich/ha-noi-di-sam-son-bang-xe-may/\">Hà Nội đi Sầm Sơn theo quốc lộ 1A</a>: chạy tới TP Thanh Hóa rồi vào biển, chẳng hạn qua cầu Nguyệt Viên và Đại lộ Nam Sông Mã. Gần thành phố có <a href=\"/du-lich/lang-duc-dong-tra-dong/\">làng đúc đồng Trà Đông</a> (làng Chè), nơi nghề đúc đồng được công nhận là di sản quốc gia.</li><li><a href=\"/du-lich/mien-bac/ha-noi-di-ha-long-bang-xe-may/\">Hà Nội đi Hạ Long bằng xe máy</a>: quốc lộ 18 qua Bắc Ninh, Chí Linh, Uông Bí hoặc theo hướng quốc lộ 5, không vào cao tốc Hà Nội – Hải Phòng.</li><li><a href=\"/du-lich/mien-bac/ha-noi-di-cat-ba-bang-xe-may/\">Hà Nội đi Cát Bà bằng xe máy</a>: quốc lộ 5 tới Hải Phòng, sang đảo bằng cầu rồi phà; bài ghi giờ phà và giá vé xe máy.</li></ul>"
+   ],
+   [
+    "Thuê xe ở Long Biên cho chuyến đi",
+    "<p>Thuê xe máy Nguyễn Hà ở Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, gần Bến xe Gia Lâm, mở 08:00–17:00 hằng ngày; chỉ đường có ở trang <a href=\"/thue-xe-may/long-bien/\">thuê xe máy Long Biên</a>. Đi ra ngoài Hà Nội cần thuê từ 48 giờ trở lên, giá <a href=\"/thue-xe-may/ha-noi/theo-ngay/\">tính theo ngày</a> 150–200 nghìn; đi dài ngày cũng không áp giá tuần. Cửa hàng không có xe côn tay hay phân khối lớn; thuê ở đây thì đi Hà Giang, Sa Pa bằng xe số hoặc xe ga.</p><p>Cọc và giấy tờ có ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, giá từng loại xe ở <a href=\"/bang-gia/\">bảng giá</a>. Nếu chỉ dạo phố cổ và Hồ Tây, có thể cân nhắc <a href=\"/thue-xe-dien/ha-noi/\">thuê xe điện</a>. Hẹn giờ nhận xe: gọi 0334 699 969 hoặc nhắn qua <a href=\"/lien-he/\">trang liên hệ</a>.</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Đi Đường Lâm bằng xe máy thì gửi xe ở đâu?",
+    "Gửi xe ở khu cổng làng Mông Phụ rồi đi bộ vào làng. Từ Hà Nội, xe máy đi quốc lộ 32 hoặc đường gom dành cho xe máy của Đại lộ Thăng Long."
+   ],
+   [
+    "Đi Cát Bà bằng xe máy có phải qua phà không?",
+    "Có. Qua cầu Tân Vũ – Lạch Huyện sang đảo Cát Hải, xe lên phà Đồng Bài – Cái Viềng để sang Cát Bà. Phà không chạy ban đêm, nên tính giờ cho kịp chuyến cuối."
+   ],
+   [
+    "Có mang xe máy ra Cô Tô được không?",
+    "Cách thường gặp là chạy xe ra Vân Đồn, gửi xe, đi tàu từ cảng Ao Tiên rồi thuê xe trên đảo. Việc chở xe máy lên tàu ra Cô Tô chưa có nguồn chính thức, nên hỏi hãng tàu trước."
+   ],
+   [
+    "Chưa quen đường đèo có nên tự lái xe máy đi Hà Giang không?",
+    "Không nên. Đường Hà Nội – Hà Giang có nhiều đoạn đèo khó, chỉ người đã quen chạy đường núi mới nên tự lái. Muốn tập trước, chọn cung ngắn có đèo như Tam Đảo."
+   ],
+   [
+    "Từ Long Biên đi làng gốm Bát Tràng có phải qua cầu không?",
+    "Không. Bát Tràng cùng bờ sông Hồng với Long Biên, đi xe máy theo đê Bát Tràng là tới."
+   ]
+  ]
+ },
+ "luat-giao-thong": {
+  "title": "Luật giao thông xe máy 2026: mức phạt, bằng lái, trừ điểm",
+  "h1": "Luật giao thông và bằng lái cho người đi xe máy",
+  "description": "Chuyên mục giải thích mức phạt xe máy theo Nghị định 168, phân biệt bằng A1 và A, quy định xe 50cc, cách tra phạt nguội và trừ điểm bằng lái.",
+  "sections": [
+   [
+    "Ba quy định xe máy cần nhớ trước tiên",
+    "<p>Các bài ở đây viết cho sinh viên chưa có bằng, phụ huynh có con vừa đủ 16 tuổi, người mới chuyển về Hà Nội và khách thuê xe lần đầu. Ba điều nên nắm trước:</p><ul><li>Xe gắn máy không quá 50 cm³ không cần bằng lái, người đủ 16 tuổi được lái. Xe lớn hơn là xe mô tô, người lái cần đủ 18 tuổi và có bằng A1 hoặc A.</li><li>Từ 01/01/2025, giấy phép lái xe có 12 điểm; bị trừ hết điểm thì không được lái xe.</li><li><a href=\"/luat-giao-thong/phat-vuot-den-do-xe-may/\">Vượt đèn đỏ</a> bị phạt 4–6 triệu đồng và trừ 4 điểm.</li></ul>"
+   ],
+   [
+    "Bằng A1, A và xe 50cc: xe nào cần bằng gì",
+    "<p>Bài <a href=\"/luat-giao-thong/xe-50cc-co-can-bang-lai/\">xe 50cc có cần bằng lái không</a> chỉ cách đọc giấy đăng ký để biết xe gọi là “50cc” có đúng là xe gắn máy không. Bài <a href=\"/luat-giao-thong/bang-lai-xe-may-a1-a/\">bằng A1 chạy được xe gì</a> giải thích hai hạng A1, A và bằng được cấp trước 2025 còn dùng được không. Phụ huynh nên xem <a href=\"/luat-giao-thong/bao-nhieu-tuoi-duoc-di-xe-may/\">bao nhiêu tuổi được đi xe máy</a>: mỗi độ tuổi được lái xe gì, lái sai bị xử lý ra sao.</p><p>Hai lỗi hay bị nhầm có mức phạt cách xa nhau: <a href=\"/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/\">không có bằng lái</a> khi đi xe mô tô đến 125 cm³ bị phạt 2–4 triệu đồng, còn <a href=\"/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/\">quên mang bằng, giấy tờ xe</a> chỉ bị phạt với xe kinh doanh vận tải.</p>"
+   ],
+   [
+    "Mức phạt theo Nghị định 168: lỗi hay gặp trong phố",
+    "<p>Cần tra nhanh thì mở <a href=\"/luat-giao-thong/muc-phat-xe-may-2025/\">bảng mức phạt lỗi xe máy theo Nghị định 168</a>, có kèm số điểm bị trừ. Ba lỗi có bài riêng:</p><ul><li><a href=\"/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/\">Không đội mũ, không cài quai mũ</a>: 400–600 nghìn đồng, không trừ điểm; chở người ngồi sau không đội mũ thì người lái cũng bị phạt.</li><li><a href=\"/luat-giao-thong/di-nguoc-chieu-xe-may-phat-bao-nhieu/\">Đi ngược chiều</a>: 4–6 triệu đồng, trừ 2 điểm. Khu phố cổ có nhiều phố một chiều, cần để ý biển báo.</li><li><a href=\"/luat-giao-thong/phat-nong-do-con-xe-may/\">Nồng độ cồn</a>: 2–10 triệu đồng tùy mức, trừ 4 hoặc 10 điểm; mức cao nhất bị tước bằng 22–24 tháng.</li></ul>"
+   ],
+   [
+    "Phạt nguội và trừ điểm bằng lái",
+    "<p>Phạt nguội là việc xử phạt dựa trên hình ảnh từ camera hoặc thiết bị kỹ thuật, không dừng xe tại chỗ, nên nhiều người chỉ biết khi nhận thông báo. Bài <a href=\"/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/\">tra cứu phạt nguội xe máy</a> hướng dẫn tra theo biển số trên trang của Cục Cảnh sát giao thông và ứng dụng VNeTraffic, kèm cách nhận ra tin nhắn giả danh.</p><p>Bài <a href=\"/luat-giao-thong/tru-diem-bang-lai-xe-may/\">trừ điểm bằng lái xe máy</a> liệt kê các lỗi bị trừ 2, 4, 6 hoặc 10 điểm và cách phục hồi điểm. Điểm còn lại xem trong ứng dụng VNeID.</p>"
+   ],
+   [
+    "Sắp thuê xe: hỏi trước về bằng lái",
+    "<p>Ở cửa hàng Nguyễn Hà, tuổi thuê xe cao hơn tuổi luật cho phép lái: <a href=\"/thue-xe-50cc/ha-noi/\">xe 50cc cho thuê</a> dành cho khách từ 18 tuổi, các loại xe còn lại cho khách từ 20 tuổi có bằng phù hợp. Chưa chắc bằng của mình lái được xe nào thì hỏi qua <a href=\"/lien-he/\">trang liên hệ</a> trước; giấy tờ, tiền cọc và giá xem ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>.</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Xe máy điện có cần bằng lái không?",
+    "Xe máy điện công suất không quá 4 kW là xe gắn máy, không cần bằng, người đủ 16 tuổi được lái. Xe điện trên 4 kW là xe mô tô: cần bằng A1 nếu đến 11 kW, bằng A nếu lớn hơn."
+   ],
+   [
+    "16, 17 tuổi lái xe trên 50cc bị phạt thế nào?",
+    "Người từ đủ 16 đến dưới 18 tuổi lái xe mô tô (từ 50 cm³, hoặc xe điện từ 4 kW) bị phạt 400.000–600.000 đồng theo Nghị định 168. Chủ xe giao xe cho người chưa đủ tuổi cũng bị phạt riêng."
+   ],
+   [
+    "Bằng lái đã tích hợp VNeID thì có cần mang bản giấy không?",
+    "Không bắt buộc. Luật cho phép xuất trình giấy tờ đã tích hợp qua tài khoản định danh điện tử. Nên kiểm tra trước xem bằng đã hiện trong VNeID chưa; điện thoại hết pin thì bản giấy vẫn chắc hơn."
+   ]
+  ]
+ },
+ "kinh-nghiem": {
+  "title": "Kinh nghiệm đi xe máy: xe số, xe ga, giờ cao điểm, đèo",
+  "h1": "Kinh nghiệm đi xe máy: từ phố Hà Nội đến đường đèo",
+  "description": "Tập xe ga, xe số, né giờ cao điểm và điểm ngập Hà Nội, xuống đèo, chạy đêm: các bài nên đọc trước khi tự lái để bớt lúng túng ngoài đường.",
+  "sections": [
+   [
+    "Đi xe máy ở Hà Nội: bắt đầu từ đâu",
+    "<p>Chuyên mục Kinh nghiệm di chuyển dành cho người sắp tự lái xe máy ở Hà Nội, từ người lần đầu cầm lái đến người chuẩn bị lên đèo. Mỗi bài giải quyết một việc cụ thể: vào số, chọn giờ ra phố, tránh chỗ ngập, xuống dốc, đi đêm. Luật và mức phạt xem ở chuyên mục <a href=\"/luat-giao-thong/\">Luật giao thông</a>, chăm xe ở <a href=\"/bao-duong/\">Bảo dưỡng</a>.</p><p>Bắt đầu bằng bài <a href=\"/kinh-nghiem/lai-xe-o-ha-noi/\">chuẩn bị trước khi đi xe máy ở Hà Nội</a>, rồi xem <a href=\"/kinh-nghiem/mu-bao-hiem-dat-chuan/\">cách nhận biết mũ đạt chuẩn QCVN 2:2021</a> qua dấu CR. Có người đi cùng thì gửi họ bài <a href=\"/kinh-nghiem/cach-ngoi-sau-xe-may-an-toan/\">cách ngồi sau xe máy an toàn</a> để biết đặt tay, đặt chân và nghiêng theo người lái khi rẽ.</p>"
+   ],
+   [
+    "Xe ga, xe số hay xe côn: tập thao tác trước khi ra phố",
+    "<p>Người chưa từng lái nên bắt đầu với xe ga: <a href=\"/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/\">cách đi xe ga cho người mới</a> chỉ cách vặn ga từ từ, bóp cả hai phanh, không giữ ga khi dừng đèn đỏ. Vững tay rồi chuyển sang <a href=\"/kinh-nghiem/cach-di-xe-so/\">cách đi xe số cho người mới</a>: vào số, về số đúng tốc độ, hãm bằng phanh động cơ khi xuống dốc. Xe côn tay khó thêm ở nhịp bóp côn, nhả côn lúc đề-pa; bài <a href=\"/kinh-nghiem/xe-con-tay-co-kho-di-khong/\">xe côn tay có khó đi không</a> so sánh với xe số thường và chỉ ra lỗi hay làm chết máy.</p>"
+   ],
+   [
+    "Giờ cao điểm và những tuyến dễ đi sai ở Hà Nội",
+    "<p>Đường Hà Nội tắc theo nhịp đi làm, tan tầm, ngày mưa còn kéo dài hơn. Bài <a href=\"/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/\">đi xe máy giờ cao điểm Hà Nội</a> liệt kê tuyến hay ùn và khuyên đổi giờ trước khi đổi đường. Hay chạy về phía Hòa Lạc thì đọc <a href=\"/kinh-nghiem/duong-gom-dai-lo-thang-long-xe-may/\">đường gom Đại lộ Thăng Long cho xe máy</a>: xe máy chỉ được đi đường gom, mà đường gom chạy một chiều nên dễ đi ngược chiều lúc nào không biết.</p>"
+   ],
+   [
+    "Thời tiết và sự cố trên đường",
+    "<p>Một trận mưa to có thể biến đường quen thành chỗ lội. Bài <a href=\"/kinh-nghiem/diem-ngap-ha-noi-khi-mua-xe-may/\">điểm ngập Hà Nội khi mưa lớn</a> ghi các khu từng ngập như Mỹ Đình, Hà Đông, Chiến Thắng, khi nào nên chờ nước rút và việc cần làm nếu buộc phải lội qua. Sự cố dễ làm người mới hoảng nhất là lốp nổ giữa đường; bài <a href=\"/kinh-nghiem/xe-may-no-lop-khi-dang-chay/\">xe máy nổ lốp khi đang chạy</a> nói rõ việc cần làm trong mấy giây đầu và khi nào nên gọi cứu hộ.</p>"
+   ],
+   [
+    "Đi xa: đèo dốc và chạy đêm",
+    "<p>Lên Hà Giang, Sa Pa, khó nhất thường là đoạn xuống dốc dài; bài <a href=\"/kinh-nghiem/di-xe-may-duong-deo/\">đi xe máy đường đèo</a> hướng dẫn từ chuẩn bị xe đến cách vào cua. Phải chạy khi trời tối thì đọc <a href=\"/kinh-nghiem/di-xe-may-ban-dem-an-toan/\">đi xe máy ban đêm an toàn</a>: cách dùng đèn chiếu gần, chiếu xa và chọn tốc độ theo tầm nhìn. Lộ trình từng cung đường có ở chuyên mục <a href=\"/du-lich/\">Du lịch</a>.</p><p>Thuê xe máy Nguyễn Hà ở Long Biên có xe ga, xe số và cho mang xe ra ngoài Hà Nội khi thuê từ 48 giờ trở lên; giá, cọc và giấy tờ xem ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>.</p>"
+   ]
+  ],
+  "faqTitle": "Câu hỏi thường gặp",
+  "faq": [
+   [
+    "Người mới nên tập xe ga hay xe số trước?",
+    "Xe ga, vì không phải sang số, chỉ cần làm quen ga và phanh. Vững tay lái rồi mới chuyển sang xe số."
+   ],
+   [
+    "Giờ cao điểm ở Hà Nội là mấy giờ?",
+    "Khoảng 7–9 giờ sáng và 16 giờ 30–19 giờ chiều. Thứ Hai, ngày mưa và dịp đầu, cuối kỳ nghỉ lễ thường đông hơn."
+   ],
+   [
+    "Lốp xe nổ giữa đường thì xử lý thế nào?",
+    "Ghì thẳng tay lái, không bóp cứng phanh bánh vừa nổ, nhả ga từ từ, rà nhẹ phanh bánh còn lại rồi xi nhan tấp vào lề."
+   ],
+   [
+    "Xuống đèo bằng xe máy phanh thế nào?",
+    "Hãm bằng số thấp hoặc phanh ngắt quãng, không bóp phanh liên tục, và giảm tốc trước khi vào cua."
+   ]
+  ]
+ }
+}
