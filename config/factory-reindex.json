@@ -1,0 +1,4 @@
+{
+ "_note": "Bài xưởng đã viết lại, đạt scripts/seo_qa.py >= 85 không lỗi critical, được mở index lại dù cờ noindex_factory_articles vẫn bật cho phần còn lại của V1. URL không đổi. Mỗi URL ở đây phải có trường rewrite{qa_score,rewrittenAt,by,sources} trong shard và KHÔNG còn trong factory-noindex.json (validate_factory_site.py kiểm tra).",
+ "urls": []
+}
