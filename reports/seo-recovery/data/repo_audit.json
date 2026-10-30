@@ -1,0 +1,56 @@
+[
+ {
+  "item": "Repository Rent-Bike-Hanoi/blog",
+  "value": "RỖNG trên GitHub (409 Git Repository is empty; 0 branch, 0 PR, 0 commit); clone local không có commit",
+  "risk": "Không phải nguồn triển khai; không sửa",
+  "note": "Kiểm tra 30/10/2026 qua GitHub API + git ls-remote"
+ },
+ {
+  "item": "Repository Rent-Bike-Hanoi/thuha",
+  "value": "Source of truth: 664 commit (sau unshallow), branch main, GitHub Pages deploy từ main (workflow pages-build-deployment), CNAME thuha.rentbikehanoi.com",
+  "risk": "Thấp",
+  "note": "Lịch sử nhập từ lucynguyen777/thuha (PR #44–48 cũ) rồi PR #1 ở repo mới"
+ },
+ {
+  "item": "Live site = main?",
+  "value": "Có: last-modified live khớp commit deploy; HTML trong repo = HTML live",
+  "risk": "Thấp",
+  "note": "Build deterministic (0 diff khi rebuild với lịch sử git đầy đủ)"
+ },
+ {
+  "item": "Generator",
+  "value": "scripts/build.py (Python stdlib) đọc content/posts.json (73 bài tay), content/articles/*.json (3.600 V1 + 1.169 V2), content/pages.json, content/home.json; templates/partials/*.html; scripts/templates.py",
+  "risk": "Thấp",
+  "note": "Shard V2 có topic_id, sources; V1 có intent chuỗi"
+ },
+ {
+  "item": "Noindex logic",
+  "value": "factory_noindex = (url in factory-noindex.json OR (noindex_factory_articles AND factoryVersion<2)) AND url not in factory-reindex.json",
+  "risk": "Trung bình: cờ toàn cục ẩn cả 263 bài KEEP",
+  "note": "Allowlist mới (commit 9945e332bc) mở index có kiểm chứng"
+ },
+ {
+  "item": "Workflows",
+  "value": "content-factory.yml (V1, schedule tắt, STOP_FACTORY), topic-factory-v2.yml (checks trên PR + publish thủ công), refresh-site.yml (push main sửa template -> rebuild + commit), facebook-posts.yml (06:17 hằng ngày, 3 bài từ sitemap)",
+  "risk": "Trung bình: refresh-site tự commit HTML khi sửa build.py/templates trên main",
+  "note": "Đã tính: PR lô P0 merge -> refresh-site chạy (rebuild không diff)"
+ },
+ {
+  "item": "Branch/PR",
+  "value": "Branch làm việc claude/seo-recovery-2026-10-30; PR #2 (P0) merged 30/10/2026 11:18 UTC",
+  "risk": "Thấp",
+  "note": "Rollback = revert merge commit 8df6269c1a"
+ },
+ {
+  "item": "Secrets/quyền",
+  "value": "Push được bằng credential phiên; GSC đọc qua Windsor.ai (searchconsole) + OpenSEO URL Inspection (bind tạm, đã trả về blog.rentbikehanoi.com)",
+  "risk": "Thấp",
+  "note": "Không có API key trả phí mới"
+ },
+ {
+  "item": "Rủi ro đồng bộ",
+  "value": "Không có repo thứ hai chứa mã; blog.rentbikehanoi.com là WordPress riêng (không liên quan mã nguồn)",
+  "risk": "Thấp",
+  "note": ""
+ }
+]

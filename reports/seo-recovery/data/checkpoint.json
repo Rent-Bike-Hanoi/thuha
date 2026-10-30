@@ -1,0 +1,12 @@
+{
+ "batch_id": "B01-P0+B02-infra",
+ "updated": "2026-10-30T18:25:42+07:00",
+ "commit_sha": "9937fccc45 (branch) / 8df6269c1a (main merge PR #2)",
+ "completed_urls": [
+  "/ (home content)",
+  "site-wide title/meta/menu (5.048 trang)"
+ ],
+ "remaining": "B03: 13 bài V1 đang viết lại (4 agent); 124 bài B còn lại theo lô 40; hub content (7) đang viết; Excel generator đang dựng",
+ "next_task": "Thu kết quả B03 -> seo_qa -> cập nhật factory-noindex/reindex -> build -> validate -> commit -> PR -> merge -> verify live -> inspect_urls; sau đó hubs.json tích hợp build.py",
+ "open_errors": []
+}
