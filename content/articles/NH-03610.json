@@ -27,7 +27,7 @@
     ],
     [
       "Gộp mốc 18.000 và 36.000 km để bớt một lượt vào xưởng",
-      "<p>Lọc gió không đến hạn một mình. Đọc ngang bảng của sách 2024 ở hai cột có ký hiệu thay lọc gió:</p><table><thead><tr><th>Mốc</th><th>Việc trong bảng bảo dưỡng</th></tr></thead><tbody><tr><td>18.000 km</td><td>Thay lọc gió, thay dầu động cơ, kiểm tra bugi</td></tr><tr><td>36.000 km</td><td>Thay lọc gió, thay dầu động cơ, thay bugi, vệ sinh lưới lọc dầu, kiểm tra dung dịch làm mát</td></tr></tbody></table><p>Đi chủ yếu đường bụi hoặc hay dầm mưa thì nhờ thợ mở hộp lọc ra xem ở các lần thay dầu xen giữa, rồi quyết định thay sớm theo chú thích *2. Thuê xe máy Nguyễn Hà không cho thuê xe côn tay (chủ cửa hàng xác nhận 15/10/2026); nếu chiếc Winner X phải nằm xưởng và bạn cần xe số hoặc xe ga để đi học, gọi 0334 699 969 (Zalo, 08:00–17:00) để cửa hàng xác nhận xe đang trống, thủ tục ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>. Đời kế tiếp của dòng xe là <a href=\"/xe-may/honda-winner-r/\">Honda WINNER R</a>.</p>"
+      "<p>Lọc gió không đến hạn một mình. Đọc ngang bảng của sách 2024 ở hai cột có ký hiệu thay lọc gió:</p><table><thead><tr><th>Mốc</th><th>Việc chính trong bảng bảo dưỡng</th></tr></thead><tbody><tr><td>18.000 km</td><td>Thay lọc gió, thay dầu động cơ, kiểm tra bugi</td></tr><tr><td>36.000 km</td><td>Thay lọc gió, thay dầu động cơ, thay bugi, vệ sinh lưới lọc dầu, kiểm tra dung dịch làm mát</td></tr></tbody></table><p>Đi chủ yếu đường bụi hoặc hay dầm mưa thì nhờ thợ mở hộp lọc ra xem ở các lần thay dầu xen giữa, rồi quyết định thay sớm theo chú thích *2. Thuê xe máy Nguyễn Hà không cho thuê xe côn tay (chủ cửa hàng xác nhận 15/10/2026); nếu chiếc Winner X phải nằm xưởng và bạn cần xe số hoặc xe ga để đi học, gọi 0334 699 969 (Zalo, 08:00–17:00) để cửa hàng xác nhận xe đang trống, thủ tục ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>. Đời kế tiếp của dòng xe là <a href=\"/xe-may/honda-winner-r/\">Honda WINNER R</a>.</p>"
     ],
     [
       "Nguồn tham khảo",
@@ -39,7 +39,7 @@
   "kind": "article",
   "art": "03610",
   "tone": "black",
-  "wordCount": 1316,
+  "wordCount": 1317,
   "intent": "xe-info|thay-loc-gio-dong-co|xe côn tay honda winner x|sinh viên tự bảo dưỡng xe|mùa mưa ngập úng đô thị|chi-phi-thuc-te",
   "factoryVersion": 1,
   "faqTitle": "Câu hỏi thường gặp về lọc gió Honda Winner X",
