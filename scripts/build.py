@@ -69,6 +69,10 @@ FAQ=json.loads((ROOT/'content/faq.json').read_text())
 for item in CUSTOM:
  item.update(hub='thue-xe',keywords=item['title'],parent='/',kind='page',art='NH',tone='white',_source='content/pages.json')
 P.extend(CUSTOM)
+# A hub is indexable only while it lists at least one indexable article.  Computed here so that
+# menus, the homepage grid and the hub pages all agree on which hubs are empty (noindex).
+INDEXABLE_HUBS={q['hub'] for q in P if q['kind'] not in ['hub','page'] and not factory_noindex(q)}
+def hub_indexable(slug): return slug in INDEXABLE_HUBS
 
 # Real source dates.  datePublished of a factory article is the first time the
 # QA gate passed it (append-only queue log) or, failing that, the commit that
@@ -167,8 +171,12 @@ def icon(n):return f'<svg class="icon" viewBox="0 0 24 24" aria-hidden="true">{I
 import sys
 sys.path.insert(0, str(ROOT))
 import scripts.templates as T
-def header(): return T.render_header(TOP_LINKS, NAV)
-def footer(): return T.render_footer(TOP_LINKS, NAV, CONTACT)
+# Header/footer menus and the homepage grid only list hubs that have at least one indexable
+# article.  An empty (noindex) hub keeps its URL and stays reachable from /cam-nang/ and breadcrumbs,
+# so no page is lost; it just stops being linked from every page of the site.
+NAV_MENU=[h for h in NAV if hub_indexable(h['slug'])]
+def header(): return T.render_header(TOP_LINKS, NAV_MENU)
+def footer(): return T.render_footer(TOP_LINKS, NAV_MENU, CONTACT)
 # Real shop photos (content/photos.json).  Articles embed them with
 # <!--photos:id1,id2--> so alt text, captions and sizes live in one file.
 # A photo marked "illustration" is not of the shop's own bike: it must name its
@@ -199,6 +207,21 @@ def card(p): return T.render_card(p, NAV)
 GA4_ID=T.SITE_CFG.get('analytics',{}).get('ga4_measurement_id','')
 if GA4_ID and not re.fullmatch(r'G-[A-Z0-9]+',GA4_ID):raise SystemExit('Invalid GA4 measurement id: '+GA4_ID)
 GA4_TAG=(f'<script async src="https://www.googletagmanager.com/gtag/js?id={GA4_ID}"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}gtag(\'js\',new Date());gtag(\'config\',\'{GA4_ID}\');</script>') if GA4_ID else ''
+# <title>: keep the brand suffix only while the whole tag stays readable (<= 65 characters).  A long
+# editorial title already names the topic; search engines cut title tags at about 60 characters, so
+# the suffix was the part being truncated on 1.200+ indexable pages.  H1 and the source title are untouched.
+def seo_title(title,url):
+ if S['name'].lower() in title.lower():return title
+ full=title+' | '+S['name']
+ return full if (url=='/' or len(full)<=65 or len(title)<40) else title
+# Meta description: when the excerpt is longer than 160 characters, cut at the last sentence end before
+# 158 characters, else at a word boundary.  The visible excerpt in the page header is not changed.
+def seo_desc(desc):
+ if len(desc)<=160:return desc
+ cut=max(desc.rfind(m,0,158) for m in ('. ','; ','! ','? '))
+ if cut>=90:return desc[:cut+1]
+ cut=desc.rfind(' ',0,156)
+ return (desc[:cut].rstrip(' ,;:')+'…') if cut>60 else desc
 def shell(title,desc,url,body,extra=None,noindex=False):
  brand=T.SITE_CFG.get('site',{})
  logo={'@type':'ImageObject','@id':S['url']+'/#logo','url':S['url']+brand['logo'],'contentUrl':S['url']+brand['logo'],'width':512,'height':512,'caption':'Logo '+S['name']}
@@ -210,7 +233,7 @@ def shell(title,desc,url,body,extra=None,noindex=False):
  if page_source.get('image'): image=page_source['image']
  image_url=S['url']+image['path']
  image_type='image/'+('jpeg' if image['path'].endswith(('.jpg','.jpeg')) else image['path'].rsplit('.',1)[-1])
- image_meta=f'<meta property="og:image" content="{E(image_url,quote=True)}"><meta property="og:image:secure_url" content="{E(image_url,quote=True)}"><meta property="og:image:type" content="{image_type}"><meta property="og:image:width" content="{image["width"]}"><meta property="og:image:height" content="{image["height"]}"><meta property="og:image:alt" content="{E(image["alt"],quote=True)}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title,quote=True)}"><meta name="twitter:description" content="{E(desc,quote=True)}"><meta name="twitter:image" content="{E(image_url,quote=True)}"><meta name="twitter:image:alt" content="{E(image["alt"],quote=True)}">'
+ image_meta=f'<meta property="og:image" content="{E(image_url,quote=True)}"><meta property="og:image:secure_url" content="{E(image_url,quote=True)}"><meta property="og:image:type" content="{image_type}"><meta property="og:image:width" content="{image["width"]}"><meta property="og:image:height" content="{image["height"]}"><meta property="og:image:alt" content="{E(image["alt"],quote=True)}"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="{E(title,quote=True)}"><meta name="twitter:description" content="{E(seo_desc(desc),quote=True)}"><meta name="twitter:image" content="{E(image_url,quote=True)}"><meta name="twitter:image:alt" content="{E(image["alt"],quote=True)}">'
  extra=list(extra or [])
  for entity in extra:
   if entity.get('@type')=='LocalBusiness': entity.update({'@id':publisher['@id'],'logo':logo})
@@ -223,14 +246,17 @@ def shell(title,desc,url,body,extra=None,noindex=False):
  schemas=[publisher,schema]
  if extra:schemas+=extra
  schemas_json=json.dumps(schemas,ensure_ascii=False).replace('</','<\\/')
- return f'''<!doctype html><html lang="vi"><head>{GA4_TAG}<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-site-verification" content="{S['verification']}"><title>{E(title)} | {E(S['name'])}</title><meta name="description" content="{E(desc,quote=True)}"><meta name="theme-color" content="#ffa266"><meta name="color-scheme" content="light dark">{'<meta name="robots" content="noindex,follow">' if noindex else ''}<link rel="canonical" href="{S['url']+url}"><meta property="og:type" content="{'article' if any(e.get('@type')=='BlogPosting' for e in extra) else 'website'}"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(desc,quote=True)}"><meta property="og:url" content="{S['url']+url}"><meta property="og:locale" content="vi_VN"><meta property="og:site_name" content="{E(S['name'],quote=True)}">{image_meta}<link rel="icon" href="/assets/favicon-48.png" type="image/png" sizes="48x48"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" sizes="180x180"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><script>try{{const t=localStorage.getItem('nguyenha-theme');document.documentElement.dataset.theme=t==='light'||t==='dark'?t:(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}}catch{{document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'}}</script><link rel="stylesheet" href="/assets/site.css"><script type="application/ld+json">{schemas_json}</script><script src="/assets/site.js" defer></script></head><body>{header()}<main id="main" class="wrap">{body}</main>{footer()}{widgets()}</body></html>'''
+ return f'''<!doctype html><html lang="vi"><head>{GA4_TAG}<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="google-site-verification" content="{S['verification']}"><title>{E(seo_title(title,url))}</title><meta name="description" content="{E(seo_desc(desc),quote=True)}"><meta name="theme-color" content="#ffa266"><meta name="color-scheme" content="light dark">{'<meta name="robots" content="noindex,follow">' if noindex else ''}<link rel="canonical" href="{S['url']+url}"><meta property="og:type" content="{'article' if any(e.get('@type')=='BlogPosting' for e in extra) else 'website'}"><meta property="og:title" content="{E(title,quote=True)}"><meta property="og:description" content="{E(seo_desc(desc),quote=True)}"><meta property="og:url" content="{S['url']+url}"><meta property="og:locale" content="vi_VN"><meta property="og:site_name" content="{E(S['name'],quote=True)}">{image_meta}<link rel="icon" href="/assets/favicon-48.png" type="image/png" sizes="48x48"><link rel="apple-touch-icon" href="/assets/apple-touch-icon.png" sizes="180x180"><link rel="icon" href="/assets/favicon.svg" type="image/svg+xml"><script>try{{const t=localStorage.getItem('nguyenha-theme');document.documentElement.dataset.theme=t==='light'||t==='dark'?t:(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}}catch{{document.documentElement.dataset.theme=matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light'}}</script><link rel="stylesheet" href="/assets/site.css"><script type="application/ld+json">{schemas_json}</script><script src="/assets/site.js" defer></script></head><body>{header()}<main id="main" class="wrap">{body}</main>{footer()}{widgets()}</body></html>'''
 def write(url,text):
  path=ROOT/('index.html' if url=='/' else url.strip('/')+'/index.html');path.parent.mkdir(parents=True,exist_ok=True);path.write_text(text)
 FEATURE=[P[0],P[2],P[3]]
 LATEST=[p for p in reversed(P) if p["kind"] in ["article","pillar"] and p["url"]!="/lien-he/" and not factory_noindex(p)][:3]
-body=f'''<section class="hero"><div><p class="eyebrow">THUÊ XE MÁY NGUYỄN HÀ</p><h1>Mỗi chuyến đi.<br>Một <em>góc Hà Nội.</em></h1><p>Cẩm nang thuê xe, những góc phố và kinh nghiệm cho hành trình của bạn.</p><div class="hero-actions"><a class="pill gold" href="/thue-xe-may/ha-noi/">Cẩm nang thuê xe</a><a class="text-link" href="/du-lich/ha-noi/">Khám phá Hà Nội</a></div></div><div><div class="hero-visual"><img src="/assets/hanoi.webp" alt="Người đi xe máy qua góc phố Bà Triệu ở Hà Nội" width="1400" height="788" decoding="async" fetchpriority="high"><div class="image-label"><div><small>ĐIỂM BẮT ĐẦU</small><strong>Hà Nội, qua từng con phố.</strong></div><span class="number">01</span></div></div><p class="credit">Ảnh: <a href="https://unsplash.com/@elliot_ra8" target="_blank" rel="noopener noreferrer">Elliot Andrews / Unsplash</a></p></div></section><nav class="topic-strip" aria-label="Chủ đề nhanh"><a class="chip active" href="/thue-xe/">Thuê xe Hà Nội</a><a class="chip" href="/thue-xe-50cc/ha-noi/">Xe 50cc</a><a class="chip" href="/thue-xe-dien/ha-noi/">Xe điện</a><a class="chip" href="/thue-xe-may/ha-noi/theo-thang/">Thuê theo tháng</a><a class="chip" href="/du-lich/ha-noi/">Du lịch Hà Nội</a><a class="chip" href="/bang-gia/">Bảng giá</a></nav><section class="section"><div class="section-head"><div><p class="eyebrow">BẮT ĐẦU TỪ ĐÂY</p><h2>Chọn xe. Chọn hành trình.</h2></div><a class="text-link" href="/thue-xe/">Xem cẩm nang</a></div><div class="grid">{''.join(card(p) for p in FEATURE)}</div></section><section class="section"><div class="feature-band"><div><h2>Một chiếc xe.<br>Nhiều cách khám phá.</h2><p>Giá thuê theo ngày, tuần và tháng. Xem chi phí và điều kiện trước khi lên đường.</p></div><a class="pill gold" href="/bang-gia/">Xem bảng giá</a></div></section><section class="section"><div class="section-head"><div><p class="eyebrow">ĐỌC THEO CHỦ ĐỀ</p><h2>Từ xe đến những điểm đến.</h2></div></div><div class="hub-grid">{''.join('<a class="hub-tile" href="'+h['url']+'"><span class="hub-no">'+str(i+1).zfill(2)+'</span><h3>'+E(h['label'])+'</h3><p>'+E(h['description'])+'</p></a>' for i,h in enumerate(NAV))}</div></section><section class="section"><div class="section-head"><div><p class="eyebrow">BÀI VIẾT MỚI</p><h2>Mới trên cẩm nang.</h2></div></div><div class="grid">{''.join(card(p) for p in LATEST)}</div></section>'''
+# Homepage copy lives in content/home.json (business facts only); the layout stays in the builder.
+HOME=json.loads((ROOT/'content/home.json').read_text())
+home_sections=''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{b}{PRICE if i==0 else ""}</section>' for i,(t,b) in enumerate(HOME['sections']))
+body=f'''<section class="hero"><div><p class="eyebrow">{E(HOME['eyebrow'])}</p><h1>{HOME['h1_html']}</h1><p>{E(HOME['hero_text'])}</p><div class="hero-actions"><a class="pill gold" href="{HOME['primary_cta']['url']}">{E(HOME['primary_cta']['label'])}</a><a class="text-link" href="{HOME['secondary_cta']['url']}">{E(HOME['secondary_cta']['label'])}</a></div></div><div><div class="hero-visual"><img src="/assets/hanoi.webp" alt="Người đi xe máy qua góc phố Bà Triệu ở Hà Nội" width="1400" height="788" decoding="async" fetchpriority="high"><div class="image-label"><div><small>ĐIỂM BẮT ĐẦU</small><strong>Hà Nội, qua từng con phố.</strong></div><span class="number">01</span></div></div><p class="credit">Ảnh: <a href="https://unsplash.com/@elliot_ra8" target="_blank" rel="noopener noreferrer">Elliot Andrews / Unsplash</a></p></div></section><nav class="topic-strip" aria-label="Chủ đề nhanh"><a class="chip active" href="/thue-xe-may/ha-noi/">Thuê xe máy Hà Nội</a><a class="chip" href="/thue-xe-50cc/ha-noi/">Xe 50cc</a><a class="chip" href="/thue-xe-dien/ha-noi/">Xe điện</a><a class="chip" href="/thue-xe-may/ha-noi/theo-thang/">Thuê theo tháng</a><a class="chip" href="/du-lich/ha-noi/">Du lịch Hà Nội</a><a class="chip" href="/bang-gia/">Bảng giá</a></nav><section class="section"><div class="section-head"><div><p class="eyebrow">BẮT ĐẦU TỪ ĐÂY</p><h2>Chọn xe. Chọn hành trình.</h2></div><a class="text-link" href="/thue-xe/">Xem cẩm nang</a></div><div class="grid">{''.join(card(p) for p in FEATURE)}</div></section><section class="section"><article class="article-body information-page">{home_sections}</article></section><section class="section"><div class="feature-band"><div><h2>Một chiếc xe.<br>Nhiều cách khám phá.</h2><p>Giá thuê theo ngày, tuần và tháng. Xem chi phí và điều kiện trước khi lên đường.</p></div><a class="pill gold" href="/bang-gia/">Xem bảng giá</a></div></section><section class="section"><div class="section-head"><div><p class="eyebrow">ĐỌC THEO CHỦ ĐỀ</p><h2>Từ xe đến những điểm đến.</h2></div></div><div class="hub-grid">{''.join('<a class="hub-tile" href="'+h['url']+'"><span class="hub-no">'+str(i+1).zfill(2)+'</span><h3>'+E(h['label'])+'</h3><p>'+E(h['description'])+'</p></a>' for i,h in enumerate(NAV_MENU))}</div></section><section class="section"><div class="section-head"><div><p class="eyebrow">BÀI VIẾT MỚI</p><h2>Mới trên cẩm nang.</h2></div></div><div class="grid">{''.join(card(p) for p in LATEST)}</div></section>'''
 local={'@context':'https://schema.org','@type':'LocalBusiness','name':S['name'],**({'alternateName':FACTS['google_business_name']} if FACTS.get('google_business_name') else {}),'url':S['url'],'telephone':S['internationalPhone'],'email':S['email'],'address':{'@type':'PostalAddress','streetAddress':'Ngõ 5 Nguyễn Văn Cừ, Bồ Đề','addressLocality':'Long Biên, Hà Nội','addressCountry':'VN'},'openingHoursSpecification':[{'@type':'OpeningHoursSpecification','dayOfWeek':['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'],'opens':'08:00','closes':'17:00'}],'image':[S['url']+'/assets/nguyen-ha-journal-social.png']+[S['url']+x['lg']['src'] for x in [x for x in PHOTOS.values() if not x.get('illustration')][:4]],**({'sameAs':[u for u in [FACTS.get('facebook_url'),FACTS.get('maps_url')] if u]} if FACTS.get('facebook_url') or FACTS.get('maps_url') else {}),**({'geo':{'@type':'GeoCoordinates','latitude':FACTS['geo']['latitude'],'longitude':FACTS['geo']['longitude']}} if FACTS.get('geo') else {}),'priceRange':'150.000–200.000đ/ngày','areaServed':{'@type':'City','name':'Hà Nội'},'hasMap':FACTS.get('maps_url') or 'https://www.google.com/maps/search/?api=1&query='+__import__('urllib.parse').parse.quote(S['address'])}
-write('/',shell('Cẩm nang thuê xe và khám phá Hà Nội', 'Thuê xe máy Nguyễn Hà: bảng giá, kinh nghiệm thuê xe và cẩm nang khám phá Hà Nội. Đọc theo chủ đề xe máy, xe điện và du lịch.','/',body,[local]))
+write('/',shell(HOME['title'],HOME['description'],'/',body,[local]))
 lookup={p['url']:p for p in P}
 # Previous / next article: only published, indexable articles in the same hub,
 # in source order (posts.json, then factory shards by id).  Rebuilt every build,
@@ -240,9 +266,7 @@ NAV_CHAIN={}
 for q in P:
  if q['kind'] not in ['hub','page'] and q['url']!='/lien-he/' and not factory_noindex(q):NAV_CHAIN.setdefault(q['hub'],[]).append(q)
 NAV_POS={q['url']:(h,i) for h,chain in NAV_CHAIN.items() for i,q in enumerate(chain)}
-# A hub is indexable only while it lists at least one indexable article.
-INDEXABLE_HUBS={q['hub'] for q in P if q['kind'] not in ['hub','page'] and not factory_noindex(q)}
-def hub_indexable(slug): return slug in INDEXABLE_HUBS
+# INDEXABLE_HUBS / hub_indexable are defined right after the sources are loaded (see above).
 def post_nav(p):
  if not POST_NAV_ON or p['url'] not in NAV_POS:return ''
  h,i=NAV_POS[p['url']];chain=NAV_CHAIN[h];prev=chain[i-1] if i>0 else None;nxt=chain[i+1] if i+1<len(chain) else None
@@ -328,7 +352,10 @@ for p in P:
      if h_articles:
       hub_blocks.append(f'<div id="{h["slug"]}" class="cam-nang-hub" style="margin-bottom:48px;scroll-margin-top:100px"><div class="section-head" style="margin-bottom:18px"><div><p class="eyebrow" style="margin-bottom:6px">{E(h["label"])}</p><h2 style="font-size:26px"><a href="{h["url"]}">{E(h["label"])}</a><span class="badge-count">{len(h_articles)} bài</span></h2><p>{E(h["description"])}</p></div><a class="text-link" href="{h["url"]}">Xem tất cả ({len(h_articles)})</a></div><div class="grid">' + ''.join(card(q) for q in h_articles[:3]) + '</div></div>')
     
-    sections_cam_nang=f'{stats_bar}{slider_block}{quick_nav_block}' + ''.join(hub_blocks)
+    # Hubs without indexable articles are not in the menu; keep one inbound link here so no URL is orphaned.
+    other_hubs=[h for h in NAV if h not in NAV_MENU]
+    other_block=('<p class="cam-nang-other">Chuyên mục đang chuẩn bị nội dung: '+', '.join(f'<a href="{h["url"]}">{E(h["label"])}</a>' for h in other_hubs)+'.</p>') if other_hubs else ''
+    sections_cam_nang=f'{stats_bar}{slider_block}{quick_nav_block}' + ''.join(hub_blocks) + other_block
     page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p></header><section class="section" style="padding-top:10px">{sections_cam_nang}</section>'
   else:
    page=f'<nav class="breadcrumb" aria-label="Breadcrumb">{crumbs}</nav><header class="page-heading"><h1>{E(p["title"])}</h1><p>{E(p["excerpt"])}</p></header><article class="article-body information-page">{sections}</article>'
@@ -452,7 +479,7 @@ for p in searchable:
  text_summary=full_text[:600] if len(full_text)>600 else full_text
  index.append({'url':p['url'],'title':p['title'],'hub':p['hub'],'core':0 if is_factory(p) else (2 if p['kind']=='pillar' else 1),'excerpt':p['excerpt'],'keywords':p['keywords'],'text':(p['excerpt']+' '+text_summary).strip(),'headings':' '.join([t for t,b in p['sections']]+[re.sub('<[^>]+>','',x) for t,b in p['sections'] for x in re.findall(r'<h3[^>]*>(.*?)</h3>',b)]),'sections':[{'heading':t,'text':re.sub('<[^>]+>',' ',b)[:200],'url':p['url']+'#muc-'+str(i+1)} for i,(t,b) in enumerate(p['sections'])]})
 (ROOT/'assets/search-index.json').write_text(json.dumps({'version':'2026-10-06','site':S,'documents':index},ensure_ascii=False,separators=(',',':')))
-(ROOT/'assets/navigation.json').write_text(json.dumps({'primary':[dict(label=t,url=u) for t,u in TOP_LINKS],'hubs':NAV,'support':[dict(label=t,url=u) for t,u in BOTTOM_LINKS]},ensure_ascii=False,indent=2))
+(ROOT/'assets/navigation.json').write_text(json.dumps({'primary':[dict(label=t,url=u) for t,u in TOP_LINKS],'hubs':NAV_MENU,'support':[dict(label=t,url=u) for t,u in BOTTOM_LINKS]},ensure_ascii=False,indent=2))
 (ROOT/'content/editorial-matrix.json').write_text(json.dumps([{'title':p['title'],'keyword':p['keywords'],'hub':p['hub'],'pillar':p['parent'],'url':p['url'],'priority':'P0' if p['hub']=='thue-xe' else 'P1','status':'published',**({'word_count':p['wordCount']} if 'wordCount' in p else {})} for p in P if p['kind'] not in ['hub','page']],ensure_ascii=False,indent=2))
 # Sitemap index: sitemap-pages.xml (home, hubs, static pages, posts.json) and
 # sitemap-posts.xml (factory shards).  lastmod is the source's own date.
