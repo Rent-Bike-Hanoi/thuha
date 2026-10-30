@@ -26,7 +26,13 @@ def main():
     args=ap.parse_args()
     nl_path=ROOT/'config/factory-noindex.json'; rl_path=ROOT/'config/factory-reindex.json'
     nl=json.loads(nl_path.read_text(encoding='utf-8')); rl=json.loads(rl_path.read_text(encoding='utf-8'))
-    docs=seo_qa.load_corpus(); uniq=seo_qa.Uniq(docs); urls=seo_qa.existing_urls()|set(docs)
+    docs=seo_qa.load_corpus(); urls=seo_qa.existing_urls()|set(docs)
+    # Uniqueness is measured against every indexable article AND the other articles of this batch
+    # (siblings such as "model × topic" pages must not be near-duplicates of each other).
+    batch_docs={}
+    for f in args.files:
+        a=json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8')); batch_docs[a['url']]=dict(a=a,indexable=True,src=f)
+    uniq=seo_qa.Uniq({**docs,**batch_docs})
     passed=[];failed=[];qa_rows=[];log=[]
     batch_urls=frozenset(json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8'))['url'] for f in args.files)
     for f in args.files:

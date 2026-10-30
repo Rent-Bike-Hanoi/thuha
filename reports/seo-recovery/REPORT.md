@@ -1,6 +1,6 @@
 # Báo cáo SEO recovery thuha.rentbikehanoi.com
 
-Cập nhật 2026-10-30 23:03 (giờ Hà Nội). Sinh tự động từ `reports/seo-recovery/data/` bằng `scripts/seo_recovery_report.py`.
+Cập nhật 2026-10-30 23:13 (giờ Hà Nội). Sinh tự động từ `reports/seo-recovery/data/` bằng `scripts/seo_recovery_report.py`.
 
 > INDEX_ELIGIBLE (trang cho phép index, có trong sitemap) **không** đồng nghĩa INDEXED trên Google. Trạng thái Google chỉ lấy từ Search Console; URL chưa kiểm tra ghi NOT_VERIFIED.
 
@@ -20,9 +20,9 @@ Cập nhật 2026-10-30 23:03 (giờ Hà Nội). Sinh tự động từ `reports
 
 | (Nhóm, hành động, trạng thái) | Số URL |
 |---|---|
-| ('B', 'REWRITE_THEN_INDEX', 'IN_PROGRESS') | 13 |
+| ('B', 'REWRITE_THEN_INDEX', 'DONE') | 12 |
 | ('B', 'REWRITE_THEN_INDEX', 'OPEN') | 32 |
-| ('C', 'KEEP_NOINDEX', 'BLOCKED') | 2983 |
+| ('C', 'KEEP_NOINDEX', 'BLOCKED') | 2984 |
 | ('D', 'KEEP_INDEX', 'DONE_BY_RULE') | 45 |
 | ('D', 'KEEP_NOINDEX', 'BLOCKED') | 2 |
 | ('D', 'KEEP_NOINDEX', 'DONE_BY_RULE') | 145 |
@@ -60,21 +60,21 @@ Cập nhật 2026-10-30 23:03 (giờ Hà Nội). Sinh tự động từ `reports
 
 | URL | Lô | QA | GSC hiển thị (8–10/2026) | GSC index (30/10) |
 |---|---|---|---|---|
-| /kinh-nghiem/deo-o-quy-ho/xe-ga-honda-vision/di-ve-trong-ngay-day-trip-phuot-solo-mot-minh-checklist-chuan-bi/ | B03 | 100 | 11 | NOT_VERIFIED |
-| /kinh-nghiem/deo-o-quy-ho/xe-may-so-honda-wave/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-checklist-chuan-bi/ | B03 | 100 | 14 | Crawled - currently not indexed |
-| /kinh-nghiem/san-may-ta-xua/xe-ga-honda-vision/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/ | B03 | 100 | 21 | Crawled - currently not indexed |
-| /kinh-nghiem/vuon-quoc-gia-ba-vi/xe-ga-honda-vision/hanh-trinh-3-ngay-2-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/ | B03 | 100 | 125 | Crawled - currently not indexed |
-| /luat-giao-thong/xu-ly-khi-xay-ra-va-cham-nguoi-moi-lay-bang-lai-can-cu-phap-ly-moi-nhat-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/ | B03 | 95 | 0 | NOT_VERIFIED |
-| /xe-dien/xe-may-dien-vinfast-evo-200/khoi-dong-buoi-sang-lanh-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03 | 95 | 61 | Crawled - currently not indexed |
-| /xe-dien/xe-may-dien-vinfast-evo-200/xu-ly-ngap-nuoc-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03 | 100 | 14 | Submitted and indexed |
-| /xe-dien/xe-may-dien-vinfast-feliz-s/khoi-dong-buoi-sang-lanh-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03 | 95 | 45 | Crawled - currently not indexed |
-| /xe-may/ba-dinh/honda-wave-alpha/lo-trinh-khach-du-lich-trong-nuoc-di-cong-tac-dai-ngay-chay-xe-tren-cac-truc-duong-vanh-dai/ | B03 | 100 | 10 | Crawled - currently not indexed |
-| /xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/ | B03 | 95 | 13 | Submitted and indexed |
-| /xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/ | B03 | 95 | 5 | NOT_VERIFIED |
-| /xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/ | B03 | 100 | 16 | Crawled - currently not indexed |
+| /kinh-nghiem/deo-o-quy-ho/xe-ga-honda-vision/di-ve-trong-ngay-day-trip-phuot-solo-mot-minh-checklist-chuan-bi/ | B03-live | None | 11 | NOT_VERIFIED |
+| /kinh-nghiem/deo-o-quy-ho/xe-may-so-honda-wave/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-checklist-chuan-bi/ | B03-live | None | 14 | Crawled - currently not indexed |
+| /kinh-nghiem/san-may-ta-xua/xe-ga-honda-vision/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/ | B03-live | None | 21 | Crawled - currently not indexed |
+| /kinh-nghiem/vuon-quoc-gia-ba-vi/xe-ga-honda-vision/hanh-trinh-3-ngay-2-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/ | B03-live | None | 125 | Crawled - currently not indexed |
+| /luat-giao-thong/xu-ly-khi-xay-ra-va-cham-nguoi-moi-lay-bang-lai-can-cu-phap-ly-moi-nhat-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/ | B03-live | None | 0 | NOT_VERIFIED |
+| /xe-dien/xe-may-dien-vinfast-evo-200/khoi-dong-buoi-sang-lanh-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03-live | None | 61 | Crawled - currently not indexed |
+| /xe-dien/xe-may-dien-vinfast-evo-200/xu-ly-ngap-nuoc-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03-live | None | 14 | Submitted and indexed |
+| /xe-dien/xe-may-dien-vinfast-feliz-s/khoi-dong-buoi-sang-lanh-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/ | B03-live | None | 45 | Crawled - currently not indexed |
+| /xe-may/ba-dinh/honda-wave-alpha/lo-trinh-khach-du-lich-trong-nuoc-di-cong-tac-dai-ngay-chay-xe-tren-cac-truc-duong-vanh-dai/ | B03-live | None | 10 | Crawled - currently not indexed |
+| /xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/ | B03-live | None | 13 | Submitted and indexed |
+| /xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/ | B03-live | None | 5 | NOT_VERIFIED |
+| /xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/ | B03-live | None | 16 | Crawled - currently not indexed |
 
 
-### URL giữ noindex có lý do (BLOCKED): 3555
+### URL giữ noindex có lý do (BLOCKED): 3556
 
 Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
 
@@ -132,7 +132,7 @@ Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
 ## 6. Changelog và QA
 
 - Changelog: 32 dòng (sheet 09).
-- QA: 14 lượt; PASS 13, FAIL 1 (sheet 10).
+- QA: 26 lượt; PASS 25, FAIL 1 (sheet 10).
 
 
 ## 7. GSC
@@ -151,15 +151,25 @@ Danh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:
 
 ```json
 {
- "batch_id": "B01-P0+B02-infra",
- "updated": "2026-10-30T18:25:42+07:00",
- "commit_sha": "9937fccc45 (branch) / 8df6269c1a (main merge PR #2)",
+ "batch_id": "B03",
+ "updated": "2026-10-30T23:13:52+07:00",
+ "commit_sha": "795fcca86d (merge PR #3, main)",
  "completed_urls": [
-  "/ (home content)",
-  "site-wide title/meta/menu (5.048 trang)"
+  "/kinh-nghiem/deo-o-quy-ho/xe-ga-honda-vision/di-ve-trong-ngay-day-trip-phuot-solo-mot-minh-checklist-chuan-bi/",
+  "/kinh-nghiem/deo-o-quy-ho/xe-may-so-honda-wave/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-checklist-chuan-bi/",
+  "/kinh-nghiem/san-may-ta-xua/xe-ga-honda-vision/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/",
+  "/kinh-nghiem/vuon-quoc-gia-ba-vi/xe-ga-honda-vision/hanh-trinh-3-ngay-2-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/",
+  "/luat-giao-thong/xu-ly-khi-xay-ra-va-cham-nguoi-moi-lay-bang-lai-can-cu-phap-ly-moi-nhat-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+  "/xe-dien/xe-may-dien-vinfast-evo-200/khoi-dong-buoi-sang-lanh-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
+  "/xe-dien/xe-may-dien-vinfast-evo-200/xu-ly-ngap-nuoc-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
+  "/xe-dien/xe-may-dien-vinfast-feliz-s/khoi-dong-buoi-sang-lanh-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
+  "/xe-may/ba-dinh/honda-wave-alpha/lo-trinh-khach-du-lich-trong-nuoc-di-cong-tac-dai-ngay-chay-xe-tren-cac-truc-duong-vanh-dai/",
+  "/xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
+  "/xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
+  "/xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/"
  ],
- "remaining": "B03: 13 bài V1 đang viết lại (4 agent); 124 bài B còn lại theo lô 40; hub content (7) đang viết; Excel generator đang dựng",
- "next_task": "Thu kết quả B03 -> seo_qa -> cập nhật factory-noindex/reindex -> build -> validate -> commit -> PR -> merge -> verify live -> inspect_urls; sau đó hubs.json tích hợp build.py",
+ "remaining": "B04: 31 bài thông số theo mẫu xe (Vision 6, Lead 7, Air Blade 5, Winner X 5, Wave 4, Sirius 4) — dữ liệu sách hướng dẫn đã kiểm chứng ở scratch specs; hub content 7 trang đang viết; NH-00115 BLOCKED (đề xuất nâng cấp /luat-giao-thong/xe-50cc-co-can-bang-lai/)",
+ "next_task": "Tích hợp content/hubs.json (sau khi workflow hub xong) -> lô B04 -> nâng cấp trang index có GSC hiển thị cao nhưng vị trí thấp (xe-50cc-co-can-bang-lai 351 hiển thị vị trí 62; xe-may-dien-di-duoc-bao-nhieu-km 148 / 67; xe-50cc-chay-duoc-bao-nhieu-km-h 124 / 57)",
  "open_errors": []
 }
 ```
