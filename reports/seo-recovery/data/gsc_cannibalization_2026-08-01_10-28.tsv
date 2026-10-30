@@ -1,0 +1,29 @@
+query	page	clicks	impressions	position	owner_page_intended	action
+giá thuê xe máy theo tháng	/bang-gia/	0	10	6	/thue-xe-may/ha-noi/theo-thang/	B06: bang-gia giữ bảng giá mọi kỳ hạn, chuyển phần so sánh tháng/tuần về theo-thang
+giá thuê xe máy theo tháng	/thue-xe-may/ha-noi/theo-thang/	0	3	16	/thue-xe-may/ha-noi/theo-thang/	B06
+thuê xe máy theo tháng	/thue-xe-may/ha-noi/theo-thang/	0	16	12.5	/thue-xe-may/ha-noi/theo-thang/	giữ
+thuê xe máy theo tháng	/bang-gia/	0	2	76	/thue-xe-may/ha-noi/theo-thang/	B06
+thuê xe máy theo tháng	/thue-xe-may/ha-noi/	0	2	86.5	/thue-xe-may/ha-noi/theo-thang/	theo dõi
+giá thuê xe máy hà nội	/thue-xe-may/ha-noi/	0	15	15.07	/bang-gia/	B06: bang-gia là trang đích của "giá"; pillar giữ "thuê xe máy hà nội"
+giá thuê xe máy hà nội	/bang-gia/	0	9	20.56	/bang-gia/	B06
+giá thuê xe máy hà nội	/thue-xe-may/ha-noi/theo-thang/	0	5	34.8	/bang-gia/	B06
+giá thuê xe máy hà nội	/thue-xe-may/ha-noi/theo-ngay/	0	3	43.67	/bang-gia/	B05 đã bỏ bảng giá đầy đủ khỏi theo-ngay
+thuê xe máy hà nội	/thue-xe-may/ha-noi/	5	88	23.06	/thue-xe-may/ha-noi/	giữ
+thuê xe máy hà nội	/thue-xe-may/ha-noi/theo-thang/	3	18	44.17	/thue-xe-may/ha-noi/	theo dõi
+thuê xe máy hà nội	/thue-xe-may/ha-noi/theo-ngay/	1	6	50	/thue-xe-may/ha-noi/	theo dõi
+thuê xe máy theo ngày	/thue-xe-may/ha-noi/	0	6	18.83	/thue-xe-may/ha-noi/theo-ngay/	B05: nâng cấp theo-ngay (374 -> 1.290 từ)
+thuê xe máy theo ngày	/thue-xe-may/ha-noi/theo-ngay/	0	4	32.75	/thue-xe-may/ha-noi/theo-ngay/	B05
+thuê xe máy theo ngày	/thue-xe-may/ha-noi/theo-thang/	0	2	39.5	/thue-xe-may/ha-noi/theo-ngay/	B05
+thuê xe máy hà nội theo ngày	/thue-xe-may/ha-noi/	0	5	9.2	/thue-xe-may/ha-noi/theo-ngay/	B05
+thuê xe máy hà nội theo ngày	/thue-xe-may/ha-noi/theo-ngay/	0	3	10.33	/thue-xe-may/ha-noi/theo-ngay/	B05
+thuê xe máy long biên	/thue-xe-may/long-bien/	14	54	9.33	/thue-xe-may/long-bien/	giữ
+thuê xe máy long biên	/thue-xe-may/ha-noi/	0	12	14.5	/thue-xe-may/long-bien/	theo dõi
+thuê xe máy long biên	/thue-xe-may/ha-noi/theo-thang/	0	3	51.33	/thue-xe-may/long-bien/	theo dõi
+thuê xe 50cc hà nội	/thue-xe-50cc/ha-noi/	1	25	6.92	/thue-xe-50cc/ha-noi/	giữ
+thuê xe 50cc hà nội	/	0	2	30.5	/thue-xe-50cc/ha-noi/	theo dõi
+thuê xe 50cc hà nội	/thue-xe-may/ha-noi/theo-thang/	0	2	34	/thue-xe-50cc/ha-noi/	theo dõi
+thuê xe 50cc hà nội	/bang-gia/	0	2	43.5	/thue-xe-50cc/ha-noi/	theo dõi
+thuê xe 50cc hà nội	/thue-xe-may/ha-noi/	0	2	59	/thue-xe-50cc/ha-noi/	theo dõi
+thuê xe máy giao tận nơi hà nội	/thue-xe-may/ha-noi/	1	12	25.42	/thue-xe-may/ha-noi/	giữ
+thuê xe máy giao tận nơi hà nội	/thue-xe-may/ha-noi/theo-thang/	0	2	53	/thue-xe-may/ha-noi/	theo dõi
+thuê xe máy giao tận nơi hà nội	/thue-xe-may/ha-noi/theo-ngay/	0	2	68	/thue-xe-may/ha-noi/	theo dõi
