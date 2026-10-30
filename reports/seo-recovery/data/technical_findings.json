@@ -148,9 +148,9 @@
   "finding": "0 link nội bộ gãy; 46.643 link ngữ cảnh+liên quan; 1 bài V2 index-eligible không có link vào (/du-lich/phu-quang-cung/, GSC Discovered-not-indexed).",
   "affected_count": 1,
   "evidence": "inventory_summary orphan_indexable",
-  "fix": "Thêm link ngữ cảnh từ bài cùng cụm (lô nội dung)",
-  "status": "OPEN",
-  "commit": ""
+  "fix": "Thêm link ngữ cảnh từ bài cùng cụm (lô nội dung) | B03: thêm link ngữ cảnh từ /du-lich/phu-day-di-xe-may-tu-ha-noi/ (TM-00201) và /du-lich/den-song-son-bim-son/ (TM-00496); xác minh live 30/10/2026: cả 2 trang có link.",
+  "status": "DONE",
+  "commit": "795fcca86d (PR #3)"
  },
  {
   "area": "duplicate content",
@@ -177,6 +177,24 @@
   "evidence": "git rev-parse --is-shallow-repository; build 2 lần",
   "fix": "Luôn build từ clone đủ lịch sử (CI dùng fetch-depth: 0)",
   "status": "DONE",
+  "commit": ""
+ },
+ {
+  "area": "dates / structured data",
+  "finding": "Mọi bài trong content/posts.json (73 bài viết tay, gồm 9 trang tiền) lấy datePublished = dateModified = ngày commit gần nhất của posts.json; sửa 1 bài làm cả 73 trang đổi ngày đăng, ngày sửa và sitemap lastmod (tín hiệu tươi mới giả).",
+  "affected_count": 73,
+  "evidence": "Build B05 trước khi sửa: 1.060 file HTML đổi chỉ vì ngày; trước đó mọi trang tiền cùng lastmod 2026-10-27T07:51:27+07:00.",
+  "fix": "scripts/build.py posts_entry_dates(): datePublished = commit đầu tiên có URL, dateModified = commit cuối cùng đổi nội dung mục đó (lịch sử git của posts.json).",
+  "status": "IN_PROGRESS",
+  "commit": "3b819fa99f (PR #5)"
+ },
+ {
+  "area": "business facts",
+  "finding": "Bảng giá trong quy tắc chung của chủ sở hữu (Wave tháng 900k–1,2tr, Vision tháng 1,8–2tr, Air Blade tháng 1,5tr, Click/Mio, cọc 2–3tr…) khác cách nhóm giá của site (config/business-facts.json: xe số 1–1,2tr/tháng, xe ga 1,2–2tr/tháng, cọc 2–5tr).",
+  "affected_count": 0,
+  "evidence": "config/business-facts.json do chủ cửa hàng xác nhận 10–17/10/2026; nội dung site chỉ dùng file này.",
+  "fix": "Không đổi giá khi chưa có xác nhận của chủ cửa hàng; giữ business-facts.json là nguồn duy nhất của site này.",
+  "status": "NEEDS_REVIEW",
   "commit": ""
  }
 ]

@@ -1,53 +1,118 @@
 {
   "id": "NH-01642",
   "url": "/xe-may/xe-tay-ga-honda-vision/ap-suat-lop-chuan-sinh-vien-tu-bao-duong-xe-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
-  "title": "Xe tay ga honda vision: cân chỉnh áp suất lốp và chọn lốp bám đường cho sinh viên tự bảo dưỡng xe",
+  "title": "Áp suất lốp Honda Vision: 200/225 kPa và cỡ lốp từng bản",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang cân chỉnh áp suất lốp và chọn lốp bám đường cho xe tay ga Honda Vision (sinh viên tự bảo dưỡng xe): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Áp suất lốp Honda Vision theo sách: trước 200 kPa, sau 225 kPa, đi một mình hay chở người đều vậy. Bản Thể thao dùng lốp trước 16 inch.",
   "sections": [
     [
-      "Tầm quan trọng của việc cân chỉnh áp suất lốp và chọn lốp bám đường đối với xe tay ga Honda Vision",
-      "<p>Nhiều sinh viên tự bảo dưỡng xe thường có thói quen chỉ đưa xe đi tiệm khi phương tiện đã xuất hiện hư hỏng nặng. Tuy nhiên, quy trình cân chỉnh áp suất lốp và chọn lốp bám đường chủ động sẽ giúp phát hiện sớm các hao mòn linh kiện, giữ cho chiếc xe tay ga Honda Vision luôn trong trạng thái vận hành mượt mà và êm ái nhất.</p><p>Đối với các chi tiết chuyển động quay như vòng bi, trục khuỷu và bánh răng số, lớp màng dầu bôi trơn hoặc việc căn chỉnh chuẩn xác sẽ ngăn ngừa hiện tượng ma sát khô gây mài mòn kim loại. Một chiếc xe tay ga Honda Vision được bảo dưỡng đúng cách luôn giữ được giá trị chuyển nhượng cao sau nhiều năm sử dụng.</p><p>Bên cạnh việc bảo dưỡng xe cá nhân, nếu bạn đang có nhu cầu trải nghiệm phương tiện mới đã được kiểm định an toàn nghiêm ngặt, hãy tham khảo các dòng xe sẵn có tại <a href=\"/thue-xe-may/ha-noi/\">dịch vụ thuê xe máy Hà Nội</a> của Thuê xe máy Nguyễn Hà.</p>"
+      "Câu trả lời ngắn",
+      "<p>Sách hướng dẫn Vision đời hiện hành (mã sách 32K2CA200) ghi áp suất lốp nguội: <strong>lốp trước 200 kPa, lốp sau 225 kPa</strong> (tương đương 2,00 và 2,25 kgf/cm², hay 29 và 33 psi). Đi một mình hay chở thêm một người ngồi sau, hai con số này vẫn giữ nguyên. Bốn phiên bản dùng chung mức áp suất; chỗ khác nhau là cỡ lốp trước: bản Thể thao 80/90-16, ba bản còn lại 80/90-14. Cả hai bánh đều là lốp không săm, và sách cấm lắp thêm săm vào trong.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe tay ga Honda Vision cần kiểm tra trong những ngày nắng nóng đỉnh điểm",
-      "<p>Đối với các mẫu xe máy điện, việc theo dõi thời gian sạc pin và tốc độ sụt giảm điện áp khi leo dốc là cực kỳ quan trọng. Khi pin có dấu hiệu tụt vạch nhanh bất thường hoặc bộ sạc nóng quá mức cho phép, hãy ngừng sử dụng và đưa xe đến trung tâm chuyên môn để đo đạc dung lượng thực tế.</p><p>Một dấu hiệu cảnh báo nguy hiểm khác là hiện tượng dầu nhớt bị biến chất, chuyển sang màu đen kịt hoặc có lẫn bọt nước li ti sau những ngày mưa ẩm ướt. Điều này cho thấy phốt chặn dầu hoặc gioăng buồng máy của xe tay ga Honda Vision có thể đã bị rò rỉ, cần được kiểm tra và xử lý triệt để.</p><p>Hãy duy trì thói quen quan sát nhanh chiếc xe trước mỗi chuyến đi dài. Bạn có thể đối chiếu tình trạng phương tiện với <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra kỹ thuật xe máy</a> để không bỏ sót các hư hỏng tiềm ẩn.</p><p>Đặc biệt lưu ý tiếng kêu lạch cạch ở khu vực chén cổ khi xe đi qua gờ giảm tốc. Nếu tay lái có độ rơ lớn hoặc bị sượng khi ôm cua, việc phục hồi hoặc thay mới bi cổ là yêu cầu bắt buộc để tránh mất lái.</p>"
+      "Bảng lốp của bốn phiên bản Vision 2025–2026",
+      "<p>Gộp từ sách hướng dẫn và trang so sánh phiên bản của Honda Việt Nam:</p><table><thead><tr><th>Phiên bản</th><th>Lốp trước</th><th>Lốp sau</th><th>Áp suất trước</th><th>Áp suất sau</th></tr></thead><tbody><tr><td>Thể thao</td><td>80/90-16M/C 43P</td><td>90/90-14M/C 46P</td><td>200 kPa</td><td>225 kPa</td></tr><tr><td>Đặc biệt, Cao cấp, Tiêu chuẩn</td><td>80/90-14M/C 40P</td><td>90/90-14M/C 46P</td><td>200 kPa</td><td>225 kPa</td></tr></tbody></table><p><em>Áp suất đo khi lốp nguội, dùng chung cho “chỉ người lái” và “người lái và người ngồi sau”; theo sách hướng dẫn Vision 32K2CA200 và trang so sánh phiên bản trên honda.com.vn, đọc 30/10/2026.</em></p><p>Trong sách, phiên bản không gọi bằng tên bán hàng mà bằng mã loại xe: lốp trước 16 inch ghi cho loại IV V và IX V, còn các loại V, II V, III V, VI V, VII V, VIII V dùng lốp trước 14 inch. Trang so sánh của Honda Việt Nam thì ghi thẳng tên: chỉ bản Thể thao mang lốp trước vành 16 inch. Kiểu lốp sách ghi là “lốp bố chéo không săm”, giống nhau ở mọi bản.</p><p>Xe đời trước cũng vậy. Sách Vision đời cũ (mã sách 00X4F-K44-A200, máy 108,2 cm³) ghi hai bánh cùng cỡ với các bản 14 inch hiện nay và cùng mức 200/225 kPa, nên chủ xe Vision cũ không phải nhớ con số nào khác. Ngoài tiệm, thợ quen nói “trước 2 cân, sau 2,25 cân”, cùng nghĩa với hai con số trên. Các ký hiệu như M/C, 43P, 40P nghĩa là gì, xem bài <a href=\"/bao-duong/doc-thong-so-lop-xe-may/\">cách đọc thông số lốp xe máy</a>.</p>"
     ],
     [
-      "Quy trình từng bước cân chỉnh áp suất lốp và chọn lốp bám đường chuẩn kỹ thuật",
-      "<p>Tiến hành tháo mở cẩn thận các chi tiết ốc vít theo đúng chiều ren, kiểm tra độ mòn thực tế của linh kiện cũ và vệ sinh sạch sẽ các cặn bẩn bám dính. Luôn sử dụng dung dịch tẩy rửa chuyên dụng, tránh dùng xăng thơm hay hóa chất tẩy mạnh làm hư hại các vòng đệm cao su hoặc phốt dầu.</p><p>Nếu thực hiện các công đoạn liên quan đến xả dầu hoặc thay dung dịch, hãy sử dụng khay hứng sạch sẽ và xử lý dầu thải đúng nơi quy định, tuyệt đối không đổ trực tiếp ra cống rãnh công cộng để bảo vệ môi trường đô thị xanh sạch.</p><p>Sau khi hoàn tất việc lắp ráp, khởi động xe tay ga Honda Vision và chạy thử ở tốc độ thấp trong khu vực an toàn để kiểm tra độ ổn định. Lắng nghe kỹ tiếng máy và thử lại các tính năng phanh, ga để chắc chắn phương tiện đã sẵn sàng vận hành trơn tru.</p><p>Kiểm tra lại một lượt cuối cùng toàn bộ các ốc siết quanh khu vực thao tác sau khi chạy thử 5 đến 10 phút để xác nhận không có hiện tượng rịn dầu hay ốc bị lỏng ra do rung động cơ học.</p>"
+      "Chở hai người, treo đồ: giữ nguyên áp suất, canh tổng tải",
+      "<p>Nhiều người quen tay cho lốp sau cứng hơn mỗi lần chở người. Với Vision thì không cần. Nhãn “Thông tin lốp &amp; giới hạn hàng hóa” mà sách in lại có hai cột, [Chỉ người lái] và [Người lái và người ngồi sau], và hai cột ghi cùng một cặp số 200/225 kPa. Khi xe nặng, thứ cần để ý là tổng tải, không phải áp suất.</p><ul><li><strong>Tổng tải tối đa 176 kg</strong> với các loại xe bán ở Việt Nam, đã gồm người lái, người ngồi sau, toàn bộ hành lý và phụ kiện. Xe chở người lái và một người ngồi sau.</li><li><strong>Hộp đựng đồ dưới yên: tối đa 10 kg.</strong></li><li><strong>Móc treo đồ và hộc để đồ phía trước: tối đa 1,5 kg.</strong> Sách dặn không treo hàng cồng kềnh vào móc vì đồ có thể tuột ra hoặc vướng chân khi lái.</li><li><strong>Tay dắt sau: tối đa 3 kg.</strong></li></ul><p>Hai người lớn nặng 65 và 70 kg đã chiếm 135 kg, phần còn lại cho đồ đạc chỉ khoảng 41 kg. Sách cảnh báo chở quá tải làm kém khả năng điều khiển, phanh và độ ổn định của xe; hành lý phải buộc chặt, cân bằng, càng gần giữa xe càng tốt, không để gần đèn hay ống xả. Vậy trước một chuyến chở nặng, việc nên làm là đo lại lốp lúc nguội cho đúng 200/225 kPa, chứ không phải nạp vượt lên cho “chắc”.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe tay ga Honda Vision",
-      "<p>Một lỗi tai hại khác là siết ốc xả dầu quá chặt gây nứt lốc máy, hoặc siết quá lỏng làm rò rỉ dầu nhớt ra mặt đường gây nguy hiểm khi vào cua. Nhiều người dùng cũng thường quên thay long-đền nhôm mỗi lần xả nhớt, dẫn đến hiện tượng rịn dầu âm ỉ kéo dài.</p><p>Việc bỏ qua bước kiểm tra lọc gió và chỉ chăm chăm thay nhớt máy cũng là một thiếu sót lớn. Lọc gió bám đầy bụi bẩn sẽ làm thiếu oxy cho buồng đốt, khiến xe xe tay ga Honda Vision bị lì máy và nóng ran chỉ sau vài cây số di chuyển.</p><p>Khi phát hiện có dấu hiệu bất thường ngoài khả năng xử lý, tuyệt đối không cố chấp nổ máy tiếp tục chạy. Hãy gọi điện nhờ hỗ trợ kỹ thuật để tránh làm hỏng hóc lây lan sang các bộ phận đắt tiền khác.</p><p>Sự an toàn và ổn định lâu dài luôn quan trọng hơn những can thiệp độ chế nhất thời không đúng tiêu chuẩn kỹ thuật.</p>"
+      "Kiểm lốp Vision theo nhịp của sách, và lỗi ngày nắng",
+      "<p>Sách Vision yêu cầu nhìn lốp và dùng đồng hồ kiểm tra <strong>ít nhất mỗi tháng một lần</strong>, hoặc bất cứ khi nào thấy lốp non, và <strong>luôn kiểm tra khi lốp nguội</strong>. Ngoài ra, bánh xe và lốp nằm trong danh sách kiểm tra trước mỗi lần lái của Vision, cùng với mực xăng, tay ga, mức dầu động cơ, phanh, đèn còi và công tắc tắt máy ở chân chống nghiêng. Với người tự chăm xe, nhịp hợp lý là liếc hai lốp mỗi sáng trước khi dắt xe ra, và mỗi tháng một lần kiểm bằng đồng hồ vào buổi sáng, khi xe đã đứng yên qua đêm.</p><p>Sai lầm hay gặp vào những ngày nắng nóng: xe vừa chạy giữa trưa về, thấy số cao hơn mức sách liền xả bớt cho “đúng”. Lốp đang nóng nên số đọc lên cao; xả lúc ấy thì đến sáng hôm sau lốp lại non. Ngược lại, chạy một quãng mới tới tiệm thì lốp đã ấm, nạp vừa khít lúc ấy vẫn có thể hụt chút khi nguội. Một chiếc đồng hồ cầm tay để trong hộp đựng đồ dưới yên giải quyết cả hai chuyện. Cách đo từng bước, quy đổi đơn vị và tác hại khi sai áp suất đã có trong bài <a href=\"/bao-duong/xe-may/ap-suat-lop/\">áp suất lốp xe máy bao nhiêu là đúng</a>.</p>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Tiền công thợ cho các gói bảo dưỡng định kỳ cơ bản khác nhau giữa các xưởng sửa xe tại Hà Nội, vì vậy hãy hỏi giá công trước. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.</p><p>Các gói bảo dưỡng toàn diện từ A đến Z (vệ sinh nồi, kim phun, họng xăng, tra mỡ chén cổ, kiểm tra hệ thống phanh) có giá trọn gói khác nhau tùy xưởng và dòng xe, nên hỏi rõ từng hạng mục trước khi đồng ý.</p><p>Các cửa hàng chuyên nghiệp luôn có chế độ bảo hành rõ ràng từ 1 đến 3 tháng cho các phụ tùng mới thay thế. Hãy giữ lại hóa đơn bán hàng hoặc phiếu bảo dưỡng để đối chiếu quyền lợi khi cần thiết.</p><p>Đầu tư đúng lúc cho các hạng mục bảo dưỡng định kỳ luôn là bài toán chi phí thông minh nhất, giúp bạn tránh được những khoản sửa chữa đột xuất lên đến tiền triệu khi xe hỏng nặng.</p>"
+      "Lốp không săm của Vision: vá tạm, thay mới, mua đúng cỡ",
+      "<p>Sách nói rõ <strong>loại xe này chỉ dùng lốp không săm</strong>. Vành được thiết kế riêng cho lốp không săm; nếu dùng kiểu lốp có săm, khi tăng tốc hoặc phanh gấp lốp có thể trượt khỏi vành và xì hơi rất nhanh. Cũng không được lắp thêm săm vào trong lốp, vì nhiệt tích tụ quá mức có thể làm nổ lốp.</p><ul><li><strong>Thủng lỗ nhỏ:</strong> có thể vá khẩn cấp bằng bộ dụng cụ sửa lốp không săm, theo hướng dẫn đi kèm bộ đó. Sau khi vá tạm, không chạy quá 50 km/h và đưa xe tới cửa hàng Honda ủy nhiệm để kiểm tra hoặc thay lốp càng sớm càng tốt.</li><li><strong>Soi lốp:</strong> vết cắt, vết nứt làm lộ lớp bên trong, vật nhọn cắm vào, chỗ phồng ở thành lốp; dấu chỉ thị độ mòn (TWI) đã lộ ra thì sách yêu cầu thay ngay.</li><li><strong>Thay lốp:</strong> dùng lốp khuyên dùng hoặc lốp cùng kích cỡ, cấu trúc, dải tốc độ và giới hạn tải với lốp cũ.</li></ul><p>Chỗ hay nhầm khi mua lốp trước: hỏi “lốp Vision” chung chung là chưa đủ, vì bản Thể thao cần vành 16 inch còn các bản khác 14 inch. Đọc cỡ in trên thành lốp đang dùng rồi mới mua. Mòn tới đâu thì nên thay, xem <a href=\"/bao-duong/lop-xe-may-bao-lau-thay/\">lốp xe máy bao lâu thay</a>.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho sinh viên tự bảo dưỡng xe khi sử dụng xe hằng ngày",
-      "<p>Khi sử dụng xe trong điều kiện những ngày nắng nóng đỉnh điểm, hãy chú ý rửa sạch bùn đất bám vào gầm máy, đĩa phanh và phuộc nhún ngay sau khi đi mưa về. Bùn đất chứa nhiều axit và tạp chất ăn mòn nếu để khô két sẽ làm rỉ sét ty phuộc và mòn đĩa phanh rất nhanh.</p><p>Trước khi tắt máy kết thúc ngày làm việc, hãy dành 10 giây quan sát nhanh xung quanh gầm xe xem có vết rò rỉ dung dịch nào bất thường hay không. Thao tác nhỏ này giúp bạn phát hiện sớm các sự cố rò rỉ trước khi chúng gây hại cho xe.</p><p>Hãy lắng nghe cảm giác lái của chính mình: bất kỳ tiếng kêu rè rè, rung lắc hay độ trễ ga nào cũng là dấu hiệu phương tiện đang cần được bạn quan tâm chăm sóc.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Thuê Vision ở Long Biên: soát lốp lúc nhận xe",
+      "<p>Nếu bạn muốn thuê một chiếc Vision ở Thuê xe máy Nguyễn Hà (Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên), hãy gọi hoặc nhắn Zalo 0334 699 969 trước để xác nhận mẫu xe còn trống; cửa hàng mở 08:00–17:00 hằng ngày. Lúc nhận xe, xem hai lốp có đinh hay vết rách không và kiểm lại áp suất trước khi đi xa. Kiểm kỹ có lý do: theo điều kiện thuê của cửa hàng, thủng hay xịt lốp trong thời gian thuê là phần khách tự chịu. Giá và thủ tục ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>; thông số chung của mẫu xe ở bài <a href=\"/xe-may/honda-vision-2026/\">Honda Vision 2026</a>.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe tay ga Honda Vision",
-      "<p>Ngoài ra, khi có nhu cầu bán lại hoặc nâng cấp lên đời xe mới, một chiếc xe có đầy đủ lịch sử bảo dưỡng minh bạch luôn được người mua trả giá cao hơn hẳn so với những chiếc xe không rõ nguồn gốc phụ tùng.</p><p>Thực hiện đều đặn 5 bước kiểm tra nhanh này mỗi tháng một lần chỉ tiêu tốn của bạn khoảng 15 phút nhưng đem lại sự yên tâm tuyệt đối cho suốt 30 ngày di chuyển kế tiếp.</p><p>Xem thêm các bài viết chia sẻ kinh nghiệm kỹ thuật chi tiết tại <a href=\"/bao-duong/\">chuyên mục bảo dưỡng xe toàn diện</a> để nâng cao hiểu biết về cơ khí hai bánh.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe tay ga Honda Vision",
-      "<p><strong>Bao lâu thì nên thực hiện cân chỉnh áp suất lốp và chọn lốp bám đường một lần?</strong> Chu kỳ lý tưởng phụ thuộc vào tần suất di chuyển và điều kiện môi trường. Với mật độ chạy phố hằng ngày tại Hà Nội, chuyên gia khuyến nghị bạn nên kiểm tra sau mỗi 2 đến 3 tháng hoặc tương đương 1.500 đến 2.000 km lăn bánh.</p><p><strong>Nên chọn dầu nhớt khoáng, bán tổng hợp hay tổng hợp toàn phần?</strong> Đối với nhu cầu chạy phố hằng ngày, nhớt bán tổng hợp là lựa chọn kinh tế và đủ đáp ứng. Tuy nhiên, nếu bạn thường xuyên chạy đường dài hoặc chở nặng, đầu tư nhớt tổng hợp 100% sẽ bảo vệ động cơ vượt trội.</p><p>Đừng ngần ngại hỏi rõ thợ sửa xe về nguồn gốc xuất xứ của từng món linh kiện được lắp vào xe để chắc chắn bạn nhận được giá trị xứng đáng với số tiền đã chi trả.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 09:00–21:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Với phương châm phục vụ tận tâm và chuyên nghiệp, Thuê xe máy Nguyễn Hà tự hào đồng hành cùng quý khách trên mọi nẻo đường thủ đô. Hãy gọi ngay hotline để được chuẩn bị xe tốt nhất trước giờ xuất phát.</p><p>Liên hệ ngay với chúng tôi để nhận báo giá và chọn được chiếc xe hoàn hảo cho hành trình của bạn.</p>"
+      "Nguồn tham khảo",
+      "<ul><li>Honda Việt Nam, <a href=\"https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Hướng dẫn sử dụng Vision, mã sách 32K2CA200 (PDF)</a>: nhãn thông tin lốp và giới hạn hàng hóa, trọng tải, kiểm tra lốp, thủng lốp, thông số kỹ thuật. Đọc 30/10/2026.</li><li>Honda Việt Nam, <a href=\"https://www.honda.com.vn/xe-may/so-sanh?sp=%5B%22vision%22%5D&amp;version=103&amp;category=2\" target=\"_blank\" rel=\"noopener noreferrer\">So sánh bốn phiên bản Vision</a>: kích cỡ lốp trước, lốp sau từng phiên bản. Đọc 30/10/2026.</li><li>Honda Việt Nam, <a href=\"https://www.honda.com.vn/xe-may/san-pham/vision\" target=\"_blank\" rel=\"noopener noreferrer\">Trang sản phẩm Vision</a>: bảng thông số bản Thể thao. Đọc 30/10/2026.</li><li>Thuê xe máy Nguyễn Hà, điều kiện thuê về hư hỏng (thủng, xịt lốp do khách chịu), địa chỉ và giờ mở cửa. Đối chiếu 30/10/2026.</li></ul>"
     ]
   ],
-  "keywords": "ap-suat-lop-chuan xe tay ga Honda Vision sinh viên tự bảo dưỡng xe những ngày nắng nóng đỉnh điểm",
+  "keywords": "áp suất lốp honda vision, lốp vision bơm bao nhiêu kg, cỡ lốp vision thể thao",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "01642",
   "tone": "black",
-  "wordCount": 1594,
+  "wordCount": 1435,
   "intent": "xe-info|ap-suat-lop-chuan|xe tay ga honda vision|sinh viên tự bảo dưỡng xe|những ngày nắng nóng đỉnh điểm|sai-lam-pho-bien",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Câu hỏi thường gặp về áp suất lốp Honda Vision",
+  "faq": [
+    [
+      "Lốp Vision bơm bao nhiêu kg?",
+      "Theo sách, lốp trước 2 cân (200 kPa), lốp sau 2,25 cân (225 kPa), kiểm tra khi lốp nguội."
+    ],
+    [
+      "Chở người có phải bơm lốp sau Vision căng hơn không?",
+      "Không. Nhãn lốp của Vision ghi cùng một mức cho lúc đi một mình và lúc chở người ngồi sau; điều cần canh là tổng tải."
+    ],
+    [
+      "Vision Thể thao có dùng chung lốp trước với các bản khác không?",
+      "Không. Bản Thể thao dùng lốp trước vành 16 inch, ba bản còn lại vành 14 inch; lốp sau giống nhau."
+    ],
+    [
+      "Lốp Vision bị thủng có lắp săm vào được không?",
+      "Không. Sách ghi xe chỉ dùng lốp không săm và không được lắp thêm săm vào trong lốp."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Áp suất lốp nguội: [Chỉ người lái] Lốp trước 200 kPa (2.00 kgf/cm2, 29 psi) Lốp sau 225 kPa (2.25 kgf/cm2, 33 psi) [Người lái và người ngồi sau] Lốp trước 200 kPa (2.00 kgf/cm2, 29 psi) Lốp sau 225 kPa (2.25 kgf/cm2, 33 psi)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Loại xe này chỉ sử dụng lốp không săm. Không lắp thêm săm vào trong lốp xe. Tích tụ nhiệt quá mức có thể làm nổ lốp.",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Khả năng chở tối đa *1 176 kg (388 lb); *1 : Bao gồm người lái, người ngồi sau, toàn bộ hành lý và phụ kiện kèm theo.",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/so-sanh?sp=%5B%22vision%22%5D&version=103&category=2",
+      "quote": "Kích cỡ lốp trước/ sau | Lốp trước: 80/90-16M/C 43P | Lốp sau: 90/90-14M/C 46P; Lốp trước: 80/90-14M/C 40P | Lốp sau: 90/90-14M/C 46P",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "đổ xe, va chạm, thủng săm, xịt lốp: lỗi của khách, khách tự chịu",
+      "checked": "2026-10-30"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-10-30T23:40:00+07:00",
+    "by": "Claude Code (SEO recovery B04)",
+    "batch": "B04",
+    "queries": [
+      "áp suất lốp honda vision",
+      "lốp vision bơm bao nhiêu kg",
+      "vision chở 2 người bơm lốp bao nhiêu",
+      "cỡ lốp vision thể thao",
+      "lốp vision có săm hay không săm",
+      "áp suất lốp vision psi"
+    ],
+    "differentiated_from": [
+      "/bao-duong/xe-may/ap-suat-lop/",
+      "/bao-duong/doc-thong-so-lop-xe-may/",
+      "/bao-duong/lop-xe-may-bao-lau-thay/",
+      "/xe-may/honda-vision-2026/"
+    ],
+    "note": "Chỉ nói về Vision đời hiện hành: bảng cỡ lốp theo bốn phiên bản (Thể thao 80/90-16, các bản khác 80/90-14) đối chiếu mã loại trong sách, nhãn lốp có cùng mức 200/225 kPa cho một và hai người, giới hạn tải 176 kg và tải từng hộc đồ, lỗi đo lốp khi nóng, quy định lốp không săm và vá tạm 50 km/h. Phần giải thích chung về áp suất chuyển sang bài /bao-duong/xe-may/ap-suat-lop/. Bỏ: vị trí dán nhãn lốp trên xe (sách không nêu bằng chữ), loại lốp theo tên phiên bản (sách chỉ ghi theo mã loại).",
+    "qa_score": 100,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
+  }
 }

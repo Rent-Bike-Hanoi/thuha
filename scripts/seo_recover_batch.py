@@ -9,6 +9,10 @@ Với mỗi shard: chạy lại scripts/seo_qa.py; chỉ bài PASS (>= 85, khôn
   - ghi rewrite.qa_score vào shard (validator yêu cầu),
   - ghi reports/seo-recovery/data/qa_report.jsonl và changelog.jsonl.
 Bài FAIL giữ nguyên trạng thái noindex.  Không đổi URL, slug, canonical.
+
+--greedy: xét bài theo thứ tự truyền vào; mỗi bài chỉ so trùng với bài đang index và các bài
+cùng lô ĐÃ được nhận trước nó.  Dùng khi nhiều bài "mẫu xe × chủ đề" trùng nhau: chỉ bài đầu tiên
+của một cặp trùng được mở index, bài sau phải viết lại cho khác hoặc giữ noindex (BLOCKED).
 """
 import argparse,datetime,json,subprocess,sys
 from pathlib import Path
@@ -22,17 +26,27 @@ def git_show(path):
     return json.loads(r.stdout) if r.returncode==0 and r.stdout.strip() else None
 def plainwords(a): return len(seo_qa.article_text(a).split())
 def main():
-    ap=argparse.ArgumentParser(); ap.add_argument('files',nargs='+'); ap.add_argument('--batch',required=True); ap.add_argument('--dry-run',action='store_true')
+    ap=argparse.ArgumentParser(); ap.add_argument('files',nargs='+'); ap.add_argument('--batch',required=True); ap.add_argument('--dry-run',action='store_true'); ap.add_argument('--greedy',action='store_true')
     args=ap.parse_args()
     nl_path=ROOT/'config/factory-noindex.json'; rl_path=ROOT/'config/factory-reindex.json'
     nl=json.loads(nl_path.read_text(encoding='utf-8')); rl=json.loads(rl_path.read_text(encoding='utf-8'))
-    docs=seo_qa.load_corpus(); uniq=seo_qa.Uniq(docs); urls=seo_qa.existing_urls()|set(docs)
+    docs=seo_qa.load_corpus(); urls=seo_qa.existing_urls()|set(docs)
+    # Uniqueness is measured against every indexable article AND the other articles of this batch
+    # (siblings such as "model × topic" pages must not be near-duplicates of each other).
+    batch_docs={}
+    for f in args.files:
+        a=json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8')); batch_docs[a['url']]=dict(a=a,indexable=True,src=f)
+    uniq=seo_qa.Uniq({**docs,**batch_docs})
     passed=[];failed=[];qa_rows=[];log=[]
     batch_urls=frozenset(json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8'))['url'] for f in args.files)
     for f in args.files:
         p=ROOT/f if not Path(f).is_absolute() else Path(f); rel=str(p.relative_to(ROOT))
         a=json.loads(p.read_text(encoding='utf-8')); before=git_show(rel)
         if before and before['url']!=a['url']: print('URL CHANGED, refusing:',rel); failed.append(rel); continue
+        if args.greedy:
+            # Ẩn khỏi phép so trùng những bài cùng lô chưa được nhận (kể cả chính nó).
+            pending=frozenset(batch_urls-set(passed))
+            uniq.urls_mask=pending
         r=seo_qa.qa(a,docs,uniq,urls,published_url=(before or a)['url'],allow_links=batch_urls)
         rw=a.get('rewrite') or {}
         ok=r['pass_'] and bool(rw.get('rewrittenAt'))

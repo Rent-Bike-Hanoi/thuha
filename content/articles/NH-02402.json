@@ -1,53 +1,170 @@
 {
   "id": "NH-02402",
   "url": "/xe-may/xe-so-yamaha-sirius/thay-the-bugi-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
-  "title": "Xe số yamaha sirius: kiểm tra và thay thế bugi đánh lửa cho người mới mua xe lần đầu",
+  "title": "Bugi Yamaha Sirius: FI dùng NGK CR6HSA, chế hòa khí C6HSA",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang kiểm tra và thay thế bugi đánh lửa cho xe số Yamaha Sirius (người mới mua xe lần đầu): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Sirius FI dùng bugi NGK CR6HSA, bản chế hòa khí dùng NGK C6HSA; cùng khe hở 0,6–0,7 mm, thay mỗi 10.000 km. Cách tháo, đo và đọc màu sứ theo sách.",
   "sections": [
     [
-      "Tầm quan trọng của việc kiểm tra và thay thế bugi đánh lửa đối với xe số Yamaha Sirius",
-      "<p>Nhiều người mới mua xe lần đầu thường có thói quen chỉ đưa xe đi tiệm khi phương tiện đã xuất hiện hư hỏng nặng. Tuy nhiên, quy trình kiểm tra và thay thế bugi đánh lửa chủ động sẽ giúp phát hiện sớm các hao mòn linh kiện, giữ cho chiếc xe số Yamaha Sirius luôn trong trạng thái vận hành mượt mà và êm ái nhất.</p><p>Theo các chuyên gia kỹ thuật cơ khí, việc duy trì quy chuẩn kiểm tra và thay thế bugi đánh lửa đúng hạn giúp giảm đáng kể nguy cơ xảy ra sự cố đột ngột giữa đường. Động cơ của xe số Yamaha Sirius khi được chăm sóc chuẩn mực sẽ đạt tỷ số nén lý tưởng, đốt cháy nhiên liệu triệt để hơn và thải ra ít khí thải độc hại hơn.</p><p>Bên cạnh việc bảo dưỡng xe cá nhân, nếu bạn đang có nhu cầu trải nghiệm phương tiện mới đã được kiểm định an toàn nghiêm ngặt, hãy tham khảo các dòng xe sẵn có tại <a href=\"/thue-xe-may/ha-noi/\">dịch vụ thuê xe máy Hà Nội</a> của Thuê xe máy Nguyễn Hà.</p>"
+      "Câu trả lời ngắn",
+      "<p>Hai đời Sirius dùng hai mã bugi khác nhau: <strong>Sirius FI dùng NGK CR6HSA</strong>, <strong>Sirius chế hòa khí dùng NGK C6HSA</strong>. Khe hở đánh lửa giống nhau, <strong>0,6–0,7 mm</strong>. Bảng bảo dưỡng trong sách Yamaha ghi bugi được kiểm tra, vệ sinh, chỉnh khe hở ở các lần bảo dưỡng từ mốc 4.000 km và <strong>thay mới sau mỗi 10.000 km</strong>. Lắp lại thì siết 13 N·m. Lần bảo dưỡng 1.000 km đầu tiên không có việc gì với bugi.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe số Yamaha Sirius cần kiểm tra trong sau thời gian dài không sử dụng",
-      "<p>Trong sau thời gian dài không sử dụng, bạn cần đặc biệt lưu tâm đến các biểu hiện bất thường như: tiếng kêu lạ phát ra từ bộ truyền động, tay lái có hiện tượng rung lắc hoặc nặng bất thường, hiệu quả phanh suy giảm hoặc xe có cảm giác ì ạch khi vặn ga. Đây là những tín hiệu cảnh báo hệ thống cơ khí đang cần được can thiệp kịp thời.</p><p>Nếu bạn cảm thấy lực kéo của xe bị đuối dần khi chở nặng hoặc leo dốc cầu vượt tại Hà Nội, rất có thể cụm ly hợp (bộ côn) hoặc xupap động cơ đã bị bám muội than dày đặc. Việc phát hiện sớm hiện tượng này giúp tránh tình trạng cháy chuông côn đắt đỏ.</p><p>Hãy duy trì thói quen quan sát nhanh chiếc xe trước mỗi chuyến đi dài. Bạn có thể đối chiếu tình trạng phương tiện với <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra kỹ thuật xe máy</a> để không bỏ sót các hư hỏng tiềm ẩn.</p><p>Lắng nghe chiếc xe chính là cách giao tiếp trực tiếp giữa người lái và cỗ máy, giúp bạn luôn chủ động phòng ngừa rủi ro từ trước khi nó trở thành sự cố nghiêm trọng.</p>"
+      "CR6HSA hay C6HSA: đúng mã cho đúng đời máy",
+      "<p>Hai mã chỉ khác chữ R đứng sau chữ C (C<strong>R</strong>6HSA và C6HSA), đi mua dễ đọc nhầm. Mã nào cho xe nào tùy đời máy: Sirius FI 113,7 cm³ hay Sirius chế hòa khí 110,3 cm³ (gồm cả bản RC vành đúc). Không chắc xe mình là bản nào thì nhìn đồng hồ: sách FI có đèn cảnh báo động cơ và đèn ECO, sách bản chế hòa khí không có hai đèn này. Đặc điểm từng dòng xem ở <a href=\"/xe-may/yamaha-sirius-fi/\">Yamaha Sirius FI</a> và <a href=\"/xe-may/yamaha-sirius-che-hoa-khi/\">Sirius chế hòa khí, Sirius RC</a>.</p><table><thead><tr><th>Mục</th><th>Sirius FI</th><th>Sirius chế hòa khí</th></tr></thead><tbody><tr><td>Bugi tiêu chuẩn</td><td>NGK/CR6HSA</td><td>NGK/C6HSA</td></tr><tr><td>Khe hở đánh lửa</td><td>0,6–0,7 mm</td><td>0,6–0,7 mm</td></tr><tr><td>Lực siết khi lắp</td><td>13 N·m</td><td>13 N·m</td></tr><tr><td>Kiểm tra, vệ sinh, chỉnh khe hở</td><td>4.000 / 7.000 / 10.000 / 13.000 km (hoặc 6 / 10 / 14 / 18 tháng)</td><td>4.000 / 8.000 / 12.000 / 16.000 km (hoặc 6 / 10 / 14 / 18 tháng)</td></tr><tr><td>Thay mới</td><td>Sau mỗi 10.000 km</td><td>Sau mỗi 10.000 km</td></tr><tr><td>Lịch lặp lại</td><td>Từ 16.000 km làm như mốc 4.000</td><td>Từ 20.000 km làm như mốc 4.000</td></tr><tr><td>Dấu sao (việc của đại lý)</td><td>Không</td><td>Không</td></tr><tr><td>Dụng cụ theo xe</td><td>Tuýp mở bugi trong túi dụng cụ</td><td>Tuýp (cờ lê) mở bugi trong túi dụng cụ</td></tr></tbody></table><p>Theo hai sách hướng dẫn Sirius của Yamaha (bản FI và bản chế hòa khí), mục bảng bảo dưỡng và Kiểm tra bugi, đọc 30/10/2026.</p><p>Ở cả hai cuốn, dòng bugi nằm trong “Sơ đồ các giai đoạn bảo dưỡng hệ thống kiểm tra khí thải”, cùng nhóm với xupap, hệ thống xả và phun xăng (bản FI) hoặc chế hòa khí (bản kia), tách khỏi bảng bôi trơn chung. Chuyện bugi nói chung, tuổi thọ và cách đọc mã ở các hãng khác có trong bài <a href=\"/bao-duong/bugi-xe-may-bao-lau-thay/\">bugi xe máy bao lâu thay</a>.</p>"
     ],
     [
-      "Quy trình từng bước kiểm tra và thay thế bugi đánh lửa chuẩn kỹ thuật",
-      "<p>Tiến hành tháo mở cẩn thận các chi tiết ốc vít theo đúng chiều ren, kiểm tra độ mòn thực tế của linh kiện cũ và vệ sinh sạch sẽ các cặn bẩn bám dính. Luôn sử dụng dung dịch tẩy rửa chuyên dụng, tránh dùng xăng thơm hay hóa chất tẩy mạnh làm hư hại các vòng đệm cao su hoặc phốt dầu.</p><p>Đối với hệ thống phanh, việc xả gió (e gió) đường dầu thủy lực đòi hỏi sự tỉ mỉ cao. Cần bóp nhả tay phanh đều đặn cho đến khi toàn bộ bọt khí li ti trong ống dẫn được tống khứ hoàn toàn ra ngoài, mang lại cảm giác phanh mút chắc chắn.</p><p>Sau khi hoàn tất việc lắp ráp, khởi động xe số Yamaha Sirius và chạy thử ở tốc độ thấp trong khu vực an toàn để kiểm tra độ ổn định. Lắng nghe kỹ tiếng máy và thử lại các tính năng phanh, ga để chắc chắn phương tiện đã sẵn sàng vận hành trơn tru.</p><p>Kiểm tra lại một lượt cuối cùng toàn bộ các ốc siết quanh khu vực thao tác sau khi chạy thử 5 đến 10 phút để xác nhận không có hiện tượng rịn dầu hay ốc bị lỏng ra do rung động cơ học.</p>"
+      "Mốc 10.000 km rơi vào đâu trong lịch của từng đời",
+      "<p>Chỗ dễ lỡ là mốc thay 10.000 km không khớp với các cột của bảng:</p><ul><li><strong>Sirius FI</strong>: cột bảo dưỡng là 1.000, 4.000, 7.000, 10.000, 13.000 km; từ 16.000 km lặp lại như mốc 4.000, rồi 19.000, 22.000 km. Lần thay đầu trùng đúng cột 10.000 km, nên thay luôn chứ không chỉ vệ sinh. Lần thay thứ hai ở 20.000 km thì không trùng cột nào.</li><li><strong>Sirius chế hòa khí</strong>: cột là 1.000, 4.000, 8.000, 12.000, 16.000 km; từ 20.000 km lặp lại như mốc 4.000. Lần thay 10.000 km nằm lọt giữa hai cột 8.000 và 12.000; lần thay 20.000 km thì trùng đúng điểm lịch quay vòng.</li></ul><p>Vì vậy nên ghi lại số km mỗi lần thay bugi. Cột 1.000 km để trống ở dòng bugi của cả hai bảng. Bảng có cột tháng song song cột km, mốc nào đến trước thì làm trước, nên xe ít đi vẫn tới hạn kiểm tra theo thời gian. Dòng bugi không có dấu sao: sách coi đây là việc chủ xe tự làm được nếu có dụng cụ.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe số Yamaha Sirius",
-      "<p>Sai lầm phổ biến nhất mà nhiều người mới mua xe lần đầu mắc phải là sử dụng sai chủng loại dầu nhớt hoặc dung dịch kỹ thuật không tương thích với chiếc xe số Yamaha Sirius. Ví dụ, dùng nhầm nhớt xe số cho xe tay ga hoặc ngược lại sẽ khiến động cơ nóng ran, gây trượt ly hợp hoặc làm giảm hiệu suất buồng đốt nghiêm trọng.</p><p>Việc bỏ qua bước kiểm tra lọc gió và chỉ chăm chăm thay nhớt máy cũng là một thiếu sót lớn. Lọc gió bám đầy bụi bẩn sẽ làm thiếu oxy cho buồng đốt, khiến xe xe số Yamaha Sirius bị lì máy và nóng ran chỉ sau vài cây số di chuyển.</p><p>Khi phát hiện có dấu hiệu bất thường ngoài khả năng xử lý, tuyệt đối không cố chấp nổ máy tiếp tục chạy. Hãy gọi điện nhờ hỗ trợ kỹ thuật để tránh làm hỏng hóc lây lan sang các bộ phận đắt tiền khác.</p><p>Đặc biệt đối với xe máy điện, tuyệt đối không được tự ý can thiệp vào mạch BMS quản lý pin hay đấu nối thêm các thiết bị đèn trợ sáng công suất lớn không rõ nguồn gốc gây nguy cơ quá tải đường dây.</p>"
+      "Tháo, đo, lắp bugi Sirius theo các bước trong sách",
+      "<p>Sách dặn tắt máy khi bảo trì, và ai không quen việc hay thiếu dụng cụ thì mang xe đến đại lý Yamaha. Chương bảo dưỡng của cả hai cuốn có phần tháo lắp nắp ốp A, nắp ốp B và tấm chắn A trước các việc cần tiếp cận chi tiết; mục kiểm tra bugi đặt ngay sau phần tháo tấm chắn A, tấm nằm thấp ở giữa thân xe theo hình trong sách. Các bước với bugi:</p><ol><li>Rút nắp chụp bugi.</li><li>Tháo bugi bằng tuýp mở bugi có sẵn trong túi dụng cụ.</li><li>Xem sứ cách điện và điện cực (mục dưới).</li><li>Đo khe hở bằng thước lá (sách gọi là thước căn nhét); lệch khỏi 0,6–0,7 mm thì chỉnh lại.</li><li>Lau sạch bề mặt gioăng, mặt lắp ghép và bụi bẩn trên ren bugi.</li><li>Vặn bugi vào đầu xilanh rồi siết 13 N·m. Không có cờ lê lực thì vặn tới khi thấy hơi nặng, xoay thêm 1/4 đến 1/2 vòng, nhưng sách dặn kiểm tra lại bằng cờ lê lực ngay khi có thể.</li><li>Lắp nắp chụp bugi.</li></ol>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Tiền công thợ cho các gói bảo dưỡng định kỳ cơ bản khác nhau giữa các xưởng sửa xe tại Hà Nội, vì vậy hãy hỏi giá công trước. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.</p><p>Đối với hệ thống truyền động như bộ nhông sên dĩa của xe số, dây curoa, bố ba càng và bi nồi của xe ga, giá phụ tùng phụ thuộc từng dòng xe cụ thể và việc chọn hàng chính hãng hay thay thế.</p><p>Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.</p><p>Đầu tư đúng lúc cho các hạng mục bảo dưỡng định kỳ luôn là bài toán chi phí thông minh nhất, giúp bạn tránh được những khoản sửa chữa đột xuất lên đến tiền triệu khi xe hỏng nặng.</p>"
+      "Màu sứ cách điện: hai cuốn tả khác nhau một chút",
+      "<p>Sách Sirius FI nói nếu sứ quanh điện cực giữa có <strong>màu vàng gạch</strong> thì động cơ và bugi hoạt động rất tốt. Sách bản chế hòa khí tả màu lý tưởng khi xe chạy ở điều kiện bình thường là <strong>vàng nâu đến vàng rơm</strong>. Hai cuốn cùng dặn:</p><ul><li>Bugi có màu khác thường nghĩa là có bộ phận nào đó của động cơ chưa chuẩn. Đừng tự phán đoán, mang tới đại lý Yamaha kiểm tra.</li><li>Xem điện cực có bị ăn mòn, đóng muội than không; cần thì thay bugi mới.</li><li>Bugi mòn dần vì nhiệt và cáu muội, nên phải tháo ra xem định kỳ; nhìn bugi là thấy được phần nào tình trạng động cơ.</li></ul><p>Ngoài mấy điều trên, sách không liệt kê triệu chứng bugi hỏng nào khác. Xe khó nổ thì làm đúng trình tự khởi động ở mục dưới trước khi thay bugi.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho người mới mua xe lần đầu khi sử dụng xe hằng ngày",
-      "<p>Luôn trang bị sẵn trên xe một bộ đồ nghề mini cơ bản gồm tuốc-nơ-vít, kìm nhỏ và đầu mở bugi kèm một chiếc bơm lốp mini cầm tay. Những vật dụng này sẽ là cứu cánh đắc lực giúp bạn tự xử lý các sự cố vặt trên đường vắng.</p><p>Trước khi tắt máy kết thúc ngày làm việc, hãy dành 10 giây quan sát nhanh xung quanh gầm xe xem có vết rò rỉ dung dịch nào bất thường hay không. Thao tác nhỏ này giúp bạn phát hiện sớm các sự cố rò rỉ trước khi chúng gây hại cho xe.</p><p>Hãy lắng nghe cảm giác lái của chính mình: bất kỳ tiếng kêu rè rè, rung lắc hay độ trễ ga nào cũng là dấu hiệu phương tiện đang cần được bạn quan tâm chăm sóc.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Mới mua hoặc để lâu không chạy: bugi dính tới bước nào",
+      "<p>Xe mới mua: lần đầu đụng tới bugi theo bảng là mốc 4.000 km hoặc 6 tháng, không phải 1.000 km.</p><p>Xe để lâu: phần cất giữ của hai cuốn (FI tính từ 60 ngày, bản chế hòa khí ghi “vài tháng”) có thao tác đổ dầu qua lỗ bugi: tháo nắp chụp và bugi, đổ một muỗng dầu động cơ vào lỗ, cắm bugi vào nắp chụp, đặt lên đầu xilanh cho điện cực tiếp đất, đề máy vài lần cho dầu phủ thành xilanh, rồi lắp lại. Sách bản chế hòa khí xếp đây vào việc nên làm để chống gỉ xilanh, xéc măng; sách FI ưu tiên dầu tạo màng cho động cơ, chỉ khi không có mới làm cách này. Sách cảnh báo phải chắc điện cực đã tiếp đất khi đề, tránh hư hại hoặc thương tích do tia lửa.</p><p>Trước khi nghi bugi, khởi động đúng trình tự sách. Sirius FI: về số mo, bật khóa và để đèn cảnh báo động cơ sáng vài giây rồi tắt (đèn sáng mãi thì không nổ máy, đưa xe đi kiểm tra); bóp phanh rồi nhấn đề, nhả khi máy nổ hoặc sau 5 giây, chờ 10 giây mới đề lại; không nổ thì thử với tay ga mở 1/4 vòng; đề điện không được thì dùng cần đạp. Bản chế hòa khí tương tự, không có bước chờ đèn cảnh báo, mỗi lần đề không quá 5 giây. Hai cuốn đều dặn không tăng ga mạnh khi máy nguội. Nguyên nhân khó nổ khác xem <a href=\"/bao-duong/xe-may-kho-no-buoi-sang/\">xe máy khó nổ buổi sáng</a>, cách cất xe xem <a href=\"/bao-duong/xe-may-de-lau-khong-di/\">xe máy để lâu không đi</a>.</p><p>Cần xe số đi tạm khi xe nhà chưa nổ được, bạn có thể xem cách <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy ở Hà Nội</a> tại Thuê xe máy Nguyễn Hà (Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên); gọi hoặc nhắn Zalo 0334 699 969 trong giờ 08:00–17:00 để cửa hàng xác nhận xe đang có.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe số Yamaha Sirius",
-      "<p>Ngoài ra, khi có nhu cầu bán lại hoặc nâng cấp lên đời xe mới, một chiếc xe có đầy đủ lịch sử bảo dưỡng minh bạch luôn được người mua trả giá cao hơn hẳn so với những chiếc xe không rõ nguồn gốc phụ tùng.</p><p>Nếu phát hiện bất kỳ dấu hiệu hư hỏng tiềm ẩn nào, hãy lên kế hoạch xử lý dứt điểm ngay thay vì trì hoãn để lỗi nhỏ biến thành lỗi lớn tốn kém.</p><p>Xem thêm các bài viết chia sẻ kinh nghiệm kỹ thuật chi tiết tại <a href=\"/bao-duong/\">chuyên mục bảo dưỡng xe toàn diện</a> để nâng cao hiểu biết về cơ khí hai bánh.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe số Yamaha Sirius",
-      "<p><strong>Có thể tự thực hiện tại nhà được không?</strong> Những thao tác vệ sinh bên ngoài, tra dầu xích hay đo áp suất lốp bạn hoàn toàn có thể tự làm tại nhà với dụng cụ cơ bản. Tuy nhiên, các hạng mục liên quan đến mở lốc máy, cân chỉnh xupap hay hệ thống điện tử nên để thợ có tay nghề thực hiện.</p><p><strong>Chi phí bảo dưỡng định kỳ một chiếc xe số Yamaha Sirius trung bình khoảng bao nhiêu?</strong> Chi phí mỗi lần bảo dưỡng cơ bản tùy xưởng và hạng mục cần làm, nên hỏi báo giá trước; bảo dưỡng đúng hạn là khoản đầu tư giúp phương tiện luôn bền đẹp.</p><p>Để tìm hiểu thêm nhiều kinh nghiệm hữu ích khác về các dòng xe máy, xe điện và xe đạp thể thao, bạn có thể tham khảo mục <a href=\"/faq/\">giải đáp thắc mắc thường gặp FAQ</a> được đội ngũ kỹ thuật cập nhật liên tục.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 08:00–17:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Đội ngũ chăm sóc khách hàng của Thuê xe máy Nguyễn Hà luôn sẵn sàng tư vấn mẫu xe phù hợp nhất với nhu cầu và lịch trình của bạn. Chúng tôi cam kết xe vận hành êm ái, đầy đủ giấy tờ và hỗ trợ kỹ thuật tận tình.</p><p>Mọi phương tiện tại Thuê xe máy Nguyễn Hà đều được kiểm tra kỹ thuật nghiêm ngặt trước khi bàn giao tới tay khách hàng, đảm bảo sự an tâm tuyệt đối.</p>"
+      "Nguồn tham khảo",
+      "<ul><li>Yamaha, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">tài liệu hướng dẫn Sirius FI</a>: Đèn báo (4-6), Khởi động (6-3, 6-4), bảng bảo dưỡng (7-4, 7-5), Kiểm tra bugi (7-18 đến 7-21), Cất giữ (8-6, 8-7). Đọc ngày 30/10/2026.</li><li>Yamaha, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">tài liệu hướng dẫn Sirius chế hòa khí</a>: Khởi động (6-2), bảng bảo dưỡng (7-4), Kiểm tra bugi (7-16 đến 7-18), Cất giữ (8-7). Đọc ngày 30/10/2026.</li></ul>"
     ]
   ],
-  "keywords": "thay-the-bugi xe số Yamaha Sirius người mới mua xe lần đầu sau thời gian dài không sử dụng",
+  "keywords": "bugi Yamaha Sirius, bugi Sirius FI, thay bugi Sirius bao lâu",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "02402",
   "tone": "white",
-  "wordCount": 1618,
+  "wordCount": 1500,
   "intent": "xe-info|thay-the-bugi|xe số yamaha sirius|người mới mua xe lần đầu|sau thời gian dài không sử dụng|lich-trinh-dinh-ky",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Câu hỏi thường gặp về bugi Yamaha Sirius",
+  "faq": [
+    [
+      "Sirius FI lắp bugi của bản chế hòa khí được không?",
+      "Sách mỗi bản ghi một mã bugi tiêu chuẩn riêng. Nên lắp đúng mã sách ghi cho đời máy của xe."
+    ],
+    [
+      "Bugi Sirius bao lâu thay?",
+      "Theo bảng bảo dưỡng, thay mới sau mỗi 10.000 km; giữa các lần thay thì kiểm tra, vệ sinh, chỉnh khe hở ở các mốc bảo dưỡng."
+    ],
+    [
+      "Tự thay bugi Sirius ở nhà được không?",
+      "Được. Dòng bugi không có dấu sao dành cho đại lý, xe có sẵn tuýp mở bugi và sách có hướng dẫn từng bước."
+    ],
+    [
+      "Bugi màu đen có phải thay ngay không?",
+      "Sách dặn xem điện cực có đóng muội cácbon, ăn mòn không và thay mới nếu cần; màu khác thường thì nên mang xe tới đại lý kiểm tra."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Bugi tiêu chuẩn: NGK/CR6HSA ... Khe hở bugi: 0.6–0.7 mm (0.024–0.028 in)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Bugi • Kiểm tra tình trạng. • Vệ sinh và điều chỉnh khe hở đánh lửa. [√ ở 4000, 7000, 10000, 13000 km] • Thay mới. Sau mỗi 10000 km (6000 mi) (trang 7-5)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Lực siết tiêu chuẩn: Bugi: 13 N·m (1.3 kgf·m, 9.6 lb·ft)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Kiểm tra sứ cách điện xung quanh điện cực trung tâm của bugi, nếu có màu vàng gạch có nghĩa là hoạt động của động cơ và bugi rất tốt.",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Kiểm tra sự ăn mòn điện cực của bugi và sự đóng kết muội cácbon. Thay mới bugi nếu cần thiết. (trang 7-20)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Kể từ 16000 km, nên thực hiện bảo trì lần tiếp theo như khi xe đi được 4000 km.",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Dùng dầu tạo màng chất lượng cao cho động cơ theo hướng dẫn của sản phẩm để ngăn gỉ sét cho các bộ phận bên trong động cơ. Nếu không có dầu tạo màng cho động cơ, hãy thực hiện các bước sau cho mỗi xylanh: a. Tháo nắp bugi và bugi. b. Đổ một muỗng dầu động cơ vào lỗ bugi. (trang 8-7)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Bugi tiêu chuẩn: NGK/C6HSA ... Khe hở bugi: 0.6–0.7 mm (0.024–0.028 in)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Bugi • Kiểm tra tình trạng. • Vệ sinh và điều chỉnh khe hở đánh lửa. [√ ở 4000, 8000, 12000, 16000 km] • Thay mới. Sau mỗi 10000 km (6000 mi) (trang 7-4)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "sứ cách điện xung quanh điện cực ở giữa bugi có màu vàng nâu đến màu vàng rơm (là màu sắc bugi lý tưởng khi xe vận hành ở điều kiện bình thường)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "3. Thực hiện các quy trình sau đây để bảo vệ xilanh, xéc măng v.v..chống lại sự gỉ mòn. a. Tháo nắp bugi và bugi. b. Đổ một muỗng dầu động cơ vào lỗ bugi. (trang 8-7)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Kể từ 20000 km, nên thực hiện bảo trì lần tiếp theo như khi xe đi được 4000 km.",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "address: Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội; phone 0334 699 969; hours 08:00–17:00 hằng ngày",
+      "checked": "2026-10-30"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-10-30T23:59:00+07:00",
+    "by": "Claude Code (SEO recovery B04)",
+    "batch": "B04",
+    "queries": [
+      "bugi yamaha sirius",
+      "bugi sirius fi",
+      "bugi sirius mã gì",
+      "thay bugi sirius bao lâu",
+      "khe hở bugi sirius",
+      "bugi ngk sirius"
+    ],
+    "differentiated_from": [
+      "/bao-duong/bugi-xe-may-bao-lau-thay/",
+      "/bao-duong/xe-may-kho-no-buoi-sang/",
+      "/xe-may/yamaha-sirius-fi/",
+      "/xe-may/yamaha-sirius-che-hoa-khi/",
+      "/xe-may/xe-tay-ga-honda-air-blade/thay-the-bugi-nguoi-thue-xe-dai-han-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/",
+      "/xe-may/xe-tay-ga-honda-vision/thay-the-bugi-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/",
+      "/xe-may/xe-tay-ga-honda-lead/thay-the-bugi-nguoi-su-dung-xe-hang-ngay-truoc-chuyen-phuot-di-xa-lich-trinh-dinh-ky/",
+      "/xe-may/xe-con-tay-honda-winner-x/thay-the-bugi-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/"
+    ],
+    "note": "Viết lại riêng cho Yamaha Sirius theo hai sách hướng dẫn Yamaha: FI (BSA-F8199-VA) NGK CR6HSA, bản chế hòa khí (BGY-F8199-V0) NGK C6HSA; khe hở 0,6–0,7 mm; lực siết 13 N·m; kiểm tra/vệ sinh FI 4.000/7.000/10.000/13.000 km, bản chế hòa khí 4.000/8.000/12.000/16.000 km (dấu kiểm đọc từ trang 7-5 và 7-4 đã render), thay mỗi 10.000 km; lịch lặp từ 16.000 (FI) và 20.000 (chế hòa khí); quy trình tháo lắp, màu sứ theo từng sách, thao tác lỗ bugi khi cất xe lâu, trình tự khởi động của từng bản. Không nêu mã DENSO vì sách không ghi. Bỏ văn mẫu V1 và dấu hiệu hỏng không nguồn. Không nói cửa hàng có sẵn Sirius. Sửa sau kiểm tra sự thật 30/10/2026: chữ R nằm ở vị trí thứ hai (CR6HSA), không phải “ở đầu”; FAQ bugi màu đen thêm lời dặn kiểm tra muội cácbon, thay nếu cần (FI 7-20, chế hòa khí 7-17); bước đổ dầu qua lỗ bugi khi cất xe: sách FI chỉ làm khi không có dầu tạo màng (8-7, bước 6), sách chế hòa khí là bước 3. Đồng thời sửa câu cảnh báo tiếp đất cho đúng chữ sách (“tránh hư hại hoặc bị thương tích do tia lửa điện”, bỏ “gây cháy”) và rút gọn đoạn khởi động để giữ ≤1.500 từ.",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
+  }
 }

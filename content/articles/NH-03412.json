@@ -1,53 +1,137 @@
 {
   "id": "NH-03412",
   "url": "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
-  "title": "Xe tay ga honda air blade: cân chỉnh áp suất lốp và chọn lốp bám đường cho người thuê xe dài hạn",
+  "title": "Áp suất lốp Air Blade 125/160: số chuẩn theo sổ và cỡ lốp",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang cân chỉnh áp suất lốp và chọn lốp bám đường cho xe tay ga Honda Air Blade (người thuê xe dài hạn): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Áp suất lốp Air Blade theo sổ Honda: trước 200 kPa, sau 225 kPa; bản 125 chở hai người bơm sau 280 kPa. Kèm cỡ lốp từng mã và cách nhận ra bản xe.",
   "sections": [
     [
-      "Tầm quan trọng của việc cân chỉnh áp suất lốp và chọn lốp bám đường đối với xe tay ga Honda Air Blade",
-      "<p>Nhiều người thuê xe dài hạn thường có thói quen chỉ đưa xe đi tiệm khi phương tiện đã xuất hiện hư hỏng nặng. Tuy nhiên, quy trình cân chỉnh áp suất lốp và chọn lốp bám đường chủ động sẽ giúp phát hiện sớm các hao mòn linh kiện, giữ cho chiếc xe tay ga Honda Air Blade luôn trong trạng thái vận hành mượt mà và êm ái nhất.</p><p>Chăm sóc xe thường xuyên còn mang lại cảm giác lái tự tin và phấn khởi cho người thuê xe dài hạn. Tiếng nổ máy trầm ấm, tay ga phản hồi mượt mà và khung sườn vững chãi sẽ biến mỗi hành trình đi làm hay đi dạo phố trở thành một trải nghiệm thư thái.</p><p>Bài viết này cung cấp cẩm nang chuyên sâu về nhận biết dấu hiệu hư hỏng sớm cho hạng mục cân chỉnh áp suất lốp và chọn lốp bám đường trên xe tay ga Honda Air Blade. Mọi thông số và khuyến nghị được tổng hợp dựa trên thực tế vận hành tại Hà Nội, hỗ trợ đắc lực cho người thuê xe dài hạn trong quá trình sử dụng xe hằng ngày.</p>"
+      "Câu trả lời ngắn",
+      "<p>Theo sách hướng dẫn sử dụng Air Blade bản hiện hành, áp suất đo khi <strong>lốp nguội</strong> là: lốp trước <strong>200 kPa (2,00 kgf/cm², 29 psi)</strong> cho mọi bản; lốp sau <strong>225 kPa (2,25 kgf/cm², 33 psi)</strong> khi chỉ có người lái. Khi chở thêm một người, Air Blade 160 vẫn giữ lốp sau 225 kPa, còn Air Blade 125 phải bơm lốp sau lên <strong>280 kPa (2,80 kgf/cm², 41 psi)</strong>. Đây là chỗ duy nhất hai bản khác nhau về áp suất, và cũng là chỗ hay bị bơm sai nhất.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe tay ga Honda Air Blade cần kiểm tra trong trước chuyến phượt đi xa",
-      "<p>Trong trước chuyến phượt đi xa, bạn cần đặc biệt lưu tâm đến các biểu hiện bất thường như: tiếng kêu lạ phát ra từ bộ truyền động, tay lái có hiện tượng rung lắc hoặc nặng bất thường, hiệu quả phanh suy giảm hoặc xe có cảm giác ì ạch khi vặn ga. Đây là những tín hiệu cảnh báo hệ thống cơ khí đang cần được can thiệp kịp thời.</p><p>Nếu bạn cảm thấy lực kéo của xe bị đuối dần khi chở nặng hoặc leo dốc cầu vượt tại Hà Nội, rất có thể cụm ly hợp (bộ côn) hoặc xupap động cơ đã bị bám muội than dày đặc. Việc phát hiện sớm hiện tượng này giúp tránh tình trạng cháy chuông côn đắt đỏ.</p><p>Hãy duy trì thói quen quan sát nhanh chiếc xe trước mỗi chuyến đi dài. Bạn có thể đối chiếu tình trạng phương tiện với <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra kỹ thuật xe máy</a> để không bỏ sót các hư hỏng tiềm ẩn.</p><p>Đặc biệt lưu ý tiếng kêu lạch cạch ở khu vực chén cổ khi xe đi qua gờ giảm tốc. Nếu tay lái có độ rơ lớn hoặc bị sượng khi ôm cua, việc phục hồi hoặc thay mới bi cổ là yêu cầu bắt buộc để tránh mất lái.</p>"
+      "Bảng áp suất Air Blade theo từng mã xe",
+      "<p>Một cuốn sổ dùng chung cho ba mã xe: bản 160 chỉ có mã ACA160CAF; bản 125 có ACA125CAF (ABS bánh trước) và ACA125CBF (phanh kết hợp). Nhãn thông tin lốp của từng nhóm được in lại ở phần Nhãn hình ảnh (tr. 8–9), con số nhắc lại ở phần Thông số kỹ thuật (tr. 148).</p><table><thead><tr><th>Bản xe (mã trong sổ)</th><th>Cỡ lốp trước / sau</th><th>Trước (kPa)</th><th>Sau, đi một mình (kPa)</th><th>Sau, chở thêm người (kPa)</th></tr></thead><tbody><tr><td>Air Blade 160 (ACA160CAF)</td><td>90/80-14 / 100/80-14</td><td>200</td><td>225</td><td>225</td></tr><tr><td>Air Blade 125 có ABS (ACA125CAF)</td><td>80/90-14 / 90/90-14</td><td>200</td><td>225</td><td>280</td></tr><tr><td>Air Blade 125 phanh kết hợp (ACA125CBF)</td><td>80/90-14 / 90/90-14</td><td>200</td><td>225</td><td>280</td></tr></tbody></table><p><em>Theo sách hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF, tr. 8–9 và 147–148, đọc 30/10/2026.</em> Sổ bản 2022 chỉ có hai mã ACA160CAF và ACA125CBF; với hai mã này, cỡ lốp và áp suất trong sổ 2022 giống hệt bảng trên. Air Blade mang mã khác, kể cả các đời ra trước cuốn sổ 2022, không nằm trong hai cuốn sổ này, nên đừng lấy bảng trên cho chúng: xem tem lốp trên chính chiếc xe hoặc sổ đi kèm xe đó.</p><p>Sổ không giải thích vì sao bản 125 cần lốp sau căng hơn khi chở người. Người dùng chỉ cần nhớ hai điều: bánh trước luôn 200, và cột “chở thêm người” chỉ khác ở bản 125. Ý nghĩa từng ký hiệu trên hông lốp xem bài <a href=\"/bao-duong/doc-thong-so-lop-xe-may/\">cách đọc thông số lốp xe máy</a>.</p>"
     ],
     [
-      "Quy trình từng bước cân chỉnh áp suất lốp và chọn lốp bám đường chuẩn kỹ thuật",
-      "<p>Lắp ráp linh kiện mới hoặc chi tiết đã bảo dưỡng về vị trí cũ, siết ốc với lực siết vừa đủ theo khuyến cáo kỹ thuật để tránh hiện tượng trờn ren ốc lốc máy. Bôi trơn các khớp chuyển động bằng mỡ bò chịu nhiệt hoặc dầu nhớt chuyên dụng chất lượng cao.</p><p>Trong quá trình thao tác, việc tuân thủ đúng trình tự lắp ráp là nguyên tắc sống còn. Các gioăng cao su làm kín cần được thoa một lớp mỏng dầu bôi trơn trước khi áp vào mặt bích kim loại để đảm bảo độ khít tuyệt đối và không bị xoắn rách khi siết bu-lông.</p><p>Lưu ý ghi chép lại số km trên đồng hồ công-tơ-mét và mốc thời gian thực hiện để thiết lập chu kỳ bảo dưỡng kế tiếp. Nếu chưa tự tin về tay nghề cơ khí, bạn nên đưa xe đến các cơ sở uy tín để được kỹ thuật viên giàu kinh nghiệm hỗ trợ.</p><p>Lau sạch toàn bộ dầu mỡ thừa dính trên thân xe và vành lốp để phương tiện luôn sạch sẽ tinh tươm trước khi đưa vào sử dụng hằng ngày.</p>"
+      "Xe mình là bản nào: nhìn lốp trước là biết",
+      "<p>Ở trạm bơm ven đường, lỗi hay gặp không phải quên số mà là nhầm bản: hai bản gần như giống hệt nhau, thợ thường đoán. Ba cách tự xác định trong vài giây:</p><ul><li><strong>Hông lốp trước:</strong> in 90/80-14 là bản 160, in 80/90-14 là bản 125, với điều kiện xe vẫn đi đúng cỡ lốp sổ quy định.</li><li><strong>Tem thông tin dán trên xe:</strong> tem dùng chung cho bản 160 và bản 125 có ABS chia dòng bánh sau theo mã xe; tem của bản phanh kết hợp ghi thẳng 280 ở dòng người lái và người ngồi sau.</li><li><strong>Đèn báo ABS trên đồng hồ:</strong> sổ chỉ mô tả đèn này cho bản 160 và bản 125 có ABS; bản phanh kết hợp có nhãn cảnh báo CBS. Hai bản 125 dùng chung con số, nên đèn này không làm thay đổi gì ở trạm bơm.</li></ul><p>Các khác biệt còn lại (động cơ, giá, bằng lái) có trong bài <a href=\"/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/\">Air Blade 125 và 160 khác gì nhau</a>.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe tay ga Honda Air Blade",
-      "<p>Sai lầm phổ biến nhất mà nhiều người thuê xe dài hạn mắc phải là sử dụng sai chủng loại dầu nhớt hoặc dung dịch kỹ thuật không tương thích với chiếc xe tay ga Honda Air Blade. Ví dụ, dùng nhầm nhớt xe số cho xe tay ga hoặc ngược lại sẽ khiến động cơ nóng ran, gây trượt ly hợp hoặc làm giảm hiệu suất buồng đốt nghiêm trọng.</p><p>Tự ý điều chỉnh vít gió và ốc galanti khi không có thiết bị đo vòng tua chuyên dụng cũng là nguyên nhân khiến xe bị hao xăng, hụp ga đầu và sinh ra nhiều muội than bám nghẹt đầu bugi.</p><p>Để tránh các sự cố kỹ thuật không đáng có, bạn nên tham khảo kỹ các tài liệu hướng dẫn vận hành hoặc tra cứu thêm tại <a href=\"/kinh-nghiem/lai-xe-o-ha-noi/\">chuyên mục kinh nghiệm sử dụng xe</a> trước khi tự mình tháo lắp các cụm chi tiết phức tạp.</p><p>Đặc biệt đối với xe máy điện, tuyệt đối không được tự ý can thiệp vào mạch BMS quản lý pin hay đấu nối thêm các thiết bị đèn trợ sáng công suất lớn không rõ nguồn gốc gây nguy cơ quá tải đường dây.</p>"
+      "Đo lúc lốp nguội: làm theo sổ, quen tay theo thợ",
+      "<p>Sổ Air Blade yêu cầu nhìn lốp và đo bằng đồng hồ đo áp suất <strong>ít nhất mỗi tháng một lần</strong>, hoặc bất cứ khi nào thấy lốp non, và luôn đo khi lốp nguội (tr. 87). Mục kiểm tra trước khi lái (tr. 81) cũng có dòng bánh xe và lốp xe: xem tình trạng, áp suất và điều chỉnh nếu cần. Cách làm quen tay ở xưởng:</p><ol><li>Đo trước khi dắt xe ra buổi sáng, hoặc khi xe đã nghỉ vài giờ. Vừa chạy xong, không khí trong lốp còn nóng nên đồng hồ báo cao hơn số nguội.</li><li>Hỏi trạm đang dùng đơn vị gì. Máy thường hiện psi: 29 trước, 33 sau, và 41 sau nếu bản 125 chở người. Thợ quen nói “ký” thì là 2,00 / 2,25 / 2,80.</li><li>Lỡ phải nạp hơi khi lốp còn ấm thì nạp tới số chuẩn và hôm sau kiểm lại lúc xe đã nghỉ.</li></ol><p>Tác hại của lốp thiếu hoặc thừa hơi và bảng đổi đơn vị đã có ở bài <a href=\"/bao-duong/xe-may/ap-suat-lop/\">áp suất lốp xe máy bao nhiêu là đúng</a>; bài này chỉ giữ phần riêng của Air Blade.</p>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Chi phí cho hạng mục cân chỉnh áp suất lốp và chọn lốp bám đường trên xe tay ga Honda Air Blade dao động tùy thuộc vào việc bạn lựa chọn phụ tùng chính hãng của hãng xe hay phụ tùng OEM từ các thương hiệu thứ ba danh tiếng. Thông thường, mức giá vật tư cơ bản rơi vào khoảng từ vài chục nghìn đến vài trăm nghìn đồng tùy chi tiết.</p><p>Giá phụ tùng thay thế như dầu nhớt (bán tổng hợp hay tổng hợp toàn phần), lọc gió chính hãng và bugi bạch kim hoặc iridium khác nhau theo loại, theo dòng xe và theo cửa hàng, nên tham khảo báo giá ở vài nơi trước khi thay.</p><p>Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.</p><p>Đầu tư đúng lúc cho các hạng mục bảo dưỡng định kỳ luôn là bài toán chi phí thông minh nhất, giúp bạn tránh được những khoản sửa chữa đột xuất lên đến tiền triệu khi xe hỏng nặng.</p>"
+      "Chở hai người, chở đồ: khi nào đổi số bơm",
+      "<p>Sổ ghi khả năng chở người của Air Blade là “người lái và 1 người ngồi sau”. Khả năng chở tối đa có hai mức tùy loại xe in trong sổ: <strong>160 kg</strong> với loại V, II V, IV V và <strong>120 kg</strong> với các loại còn lại, tính cả người lái, người ngồi sau, hành lý và phụ kiện (tr. 146). Cốp chính chứa tối đa 10 kg, con số in ngay trên tem áp suất.</p><ul><li><strong>Air Blade 125:</strong> trước khi chở người, nâng bánh sau lên 280; khi lại đi một mình, đưa về 225 theo dòng “chỉ người lái”. Bánh trước giữ nguyên.</li><li><strong>Air Blade 160:</strong> không phải đổi gì, bánh sau 225 cho cả hai trường hợp. Chở nặng chỉ cần giữ đúng số, đừng nạp “dư cho chắc”.</li><li><strong>Chỉ chở đồ, không chở người:</strong> sổ không có cột riêng, nên giữ số “chỉ người lái” và tôn trọng giới hạn tải. Hành lý buộc chặt, cân bằng, càng gần giữa xe càng tốt, không để gần đèn hoặc ống xả (tr. 16).</li></ul><p>Sổ cảnh báo chở quá tải làm xấu khả năng điều khiển, phanh và độ ổn định; lốp thiếu hơi khi xe đang nặng càng làm việc đó tệ hơn. Trước chuyến đi xa, đo lốp lúc nguội vào sáng hôm đi thay vì đo ở trạm xăng giữa đường.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho người thuê xe dài hạn khi sử dụng xe hằng ngày",
-      "<p>Với nhịp sống bận rộn tại các đô thị, người thuê xe dài hạn nên cài đặt ứng dụng nhắc nhở hoặc dán tem ghi nhớ số km bảo dưỡng ngay trên mặt đồng hồ xe tay ga Honda Air Blade. Thiết lập thói quen kiểm tra định kỳ mỗi 1.500 đến 2.000 km sẽ giúp xe luôn vận hành trong trạng thái lý tưởng nhất.</p><p>Trước khi tắt máy kết thúc ngày làm việc, hãy dành 10 giây quan sát nhanh xung quanh gầm xe xem có vết rò rỉ dung dịch nào bất thường hay không. Thao tác nhỏ này giúp bạn phát hiện sớm các sự cố rò rỉ trước khi chúng gây hại cho xe.</p><p>Hãy lắng nghe cảm giác lái của chính mình: bất kỳ tiếng kêu rè rè, rung lắc hay độ trễ ga nào cũng là dấu hiệu phương tiện đang cần được bạn quan tâm chăm sóc.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Lốp không săm, vá tạm và khi thuê Air Blade",
+      "<p>Sổ ghi Air Blade “chỉ sử dụng lốp không săm” và dặn không lắp thêm săm vào trong lốp (tr. 89); quy tắc chọn lốp thay thế đã được giải thích ở bài đọc thông số lốp dẫn ở trên. Gặp lỗ thủng nhỏ, có thể vá khẩn cấp bằng bộ dụng cụ sửa lốp không săm; sau khi vá tạm, đi chậm, <strong>không quá 50 km/h</strong>, và đưa xe đi kiểm tra hoặc thay lốp càng sớm càng tốt (tr. 126). Độ sâu gai tối thiểu là 1,5 mm ở lốp trước và 2,0 mm ở lốp sau; xem thêm <a href=\"/bao-duong/lop-xe-may-bao-lau-thay/\">lốp xe máy bao lâu thay</a>.</p><p>Người thuê xe dài ngày ở Thuê xe máy Nguyễn Hà nên đo lốp ngay lúc nhận xe, theo <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra xe trước khi nhận</a>, vì theo hợp đồng của cửa hàng, thủng hoặc xịt lốp trong thời gian thuê do khách tự chịu. Xe được đi ra ngoài Hà Nội khi thuê từ 48 giờ trở lên. Muốn thuê Air Blade, gọi 0334 699 969 (có Zalo, 08:00–17:00) để xác nhận còn xe trước khi đến Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên; giá và thủ tục ở trang <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe tay ga Honda Air Blade",
-      "<p>Lợi ích lớn nhất của việc lưu nhật ký là bạn sẽ không bao giờ bị quên lịch thay dầu láp xe ga hay lịch thay nước làm mát động cơ – những hạng mục thường có chu kỳ dài từ 5.000 đến 10.000 km và rất dễ bị bỏ quên.</p><p>Quy trình kiểm tra định kỳ 5 bước cơ bản gồm: bước 1 kiểm tra áp suất lốp và độ mòn gai cao su; bước 2 kiểm tra mức dầu máy và nước giải nhiệt; bước 3 kiểm tra độ rơ phanh và bố thắng; bước 4 kiểm tra hệ thống đèn chiếu sáng và còi báo; bước 5 làm sạch lọc gió và kiểm tra bugi.</p><p>Sự hiểu biết sâu sắc về chiếc xe của mình sẽ giúp bạn luôn làm chủ tình huống và không bao giờ bị bỡ ngỡ trước bất kỳ sự cố bất ngờ nào.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe tay ga Honda Air Blade",
-      "<p><strong>Dấu hiệu nào cho thấy linh kiện đã đến hạn phải thay thế gấp?</strong> Khi chi tiết xuất hiện vết nứt vỡ, độ mòn vượt quá chỉ số báo vạch an toàn của nhà sản xuất hoặc phát ra tiếng kêu cọ xát kim loại chói tai, bạn bắt buộc phải thay thế ngay lập tức để tránh tai nạn.</p><p><strong>Xe máy điện có cần bảo dưỡng định kỳ như xe xăng không?</strong> Dù không có động cơ đốt trong và dầu máy, xe máy điện vẫn cần kiểm tra định kỳ hệ thống phanh, phuộc nhún, cổ phốt, áp suất lốp và đặc biệt là kiểm tra độ an toàn của các giắc cắm pin chống nước.</p><p>Để tìm hiểu thêm nhiều kinh nghiệm hữu ích khác về các dòng xe máy, xe điện và xe đạp thể thao, bạn có thể tham khảo mục <a href=\"/faq/\">giải đáp thắc mắc thường gặp FAQ</a> được đội ngũ kỹ thuật cập nhật liên tục.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 08:00–17:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Đội ngũ chăm sóc khách hàng của Thuê xe máy Nguyễn Hà luôn sẵn sàng tư vấn mẫu xe phù hợp nhất với nhu cầu và lịch trình của bạn. Chúng tôi cam kết xe vận hành êm ái, đầy đủ giấy tờ và hỗ trợ kỹ thuật tận tình.</p><p>Mọi phương tiện tại Thuê xe máy Nguyễn Hà đều được kiểm tra kỹ thuật nghiêm ngặt trước khi bàn giao tới tay khách hàng, đảm bảo sự an tâm tuyệt đối.</p>"
+      "Nguồn tham khảo",
+      "<ul><li>Honda Việt Nam, <a href=\"https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Sách hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CAF/CBF (PDF, dẫn từ trang sản phẩm)</a>: Nhãn thông tin lốp tr. 8–9, Xếp tải tr. 16, Kiểm tra trước khi lái tr. 81, Lốp xe tr. 87–89, Thủng lốp tr. 126, Thông số kỹ thuật tr. 146–148. Đọc ngày 30/10/2026.</li><li>Honda Việt Nam, <a href=\"https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Sách hướng dẫn sử dụng Air Blade ACA160CAF/ACA125CBF bản 2022 (PDF)</a>: Nhãn thông tin lốp, Thông số kỹ thuật. Đọc ngày 30/10/2026.</li><li>Honda Việt Nam, <a href=\"https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?category=2\" target=\"_blank\" rel=\"noopener noreferrer\">Air Blade 160/125: thông số kỹ thuật bản Air Blade 160</a>. Đọc ngày 30/10/2026.</li><li>Honda Việt Nam, <a href=\"https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?version=93&amp;changeVersionFlag=1\" target=\"_blank\" rel=\"noopener noreferrer\">Air Blade 160/125: thông số kỹ thuật bản Air Blade 125 Tiêu chuẩn</a>. Đọc ngày 30/10/2026.</li><li>Thuê xe máy Nguyễn Hà, điều kiện thuê về hư hỏng lốp và đi ra ngoài Hà Nội (chủ cửa hàng xác nhận 17/10/2026). Đối chiếu ngày 30/10/2026.</li></ul>"
     ]
   ],
-  "keywords": "ap-suat-lop-chuan xe tay ga Honda Air Blade người thuê xe dài hạn trước chuyến phượt đi xa",
+  "keywords": "áp suất lốp Air Blade, bơm lốp Air Blade bao nhiêu psi, cỡ lốp Air Blade 160 và 125",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "03412",
   "tone": "black",
-  "wordCount": 1692,
+  "wordCount": 1485,
   "intent": "xe-info|ap-suat-lop-chuan|xe tay ga honda air blade|người thuê xe dài hạn|trước chuyến phượt đi xa|dau-hieu-can-kiem-tra",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Câu hỏi thường gặp về áp suất lốp Air Blade",
+  "faq": [
+    [
+      "Air Blade 160 chở hai người có phải bơm lốp sau căng hơn không?",
+      "Không. Sổ ghi bánh sau của bản 160 giữ 225 kPa cả khi chở thêm người; chỉ bản 125 phải tăng lên 280."
+    ],
+    [
+      "Bơm lốp Air Blade bao nhiêu psi?",
+      "Lốp trước 29 psi, lốp sau 33 khi đi một mình; Air Blade 125 chở hai người thì lốp sau 41."
+    ],
+    [
+      "Lốp Air Blade hay thủng, lồng săm vào có được không?",
+      "Không nên. Sổ ghi xe chỉ dùng lốp không săm và cấm lắp thêm săm vào trong lốp vì nhiệt tích tụ có thể làm nổ lốp."
+    ],
+    [
+      "Bao lâu nên đo áp suất lốp Air Blade một lần?",
+      "Ít nhất mỗi tháng một lần và mỗi khi thấy lốp xẹp, luôn đo lúc lốp nguội; nhìn lốp là một bước trong kiểm tra trước khi lái."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Tr. 8–9, NHÃN THÔNG TIN LỐP: “Áp suất lốp nguội: [Chỉ người lái] Lốp trước 200 kPa (2.00 kgf/cm2, 29 psi) Lốp sau 225 kPa (2.25 kgf/cm2, 33 psi) [Người lái và người ngồi sau] Lốp trước 200 kPa (2.00 kgf/cm2, 29 psi) Lốp sau (ACA160CAF) 225 kPa (2.25 kgf/cm2, 33 psi) (ACA125CAF) 280 kPa (2.80 kgf/cm2, 41 psi)”; nhãn ACA125CBF: “Lốp sau 280 kPa (2.80 kgf/cm2, 41 psi)”; “Giới hạn hàng hóa: Cốp chính 10 kg (22 lb)”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Tr. 87–89: “Kiểm tra lốp bằng mắt thường và sử dụng đồng hồ đo áp suất để đo áp suất lốp ít nhất một lần mỗi tháng hay bất cứ khi nào thấy lốp bị non hơi. Luôn kiểm tra áp suất khi lốp nguội.” “Không lắp thêm săm vào trong lốp xe. Tích tụ nhiệt quá mức có thể làm nổ lốp.” “Loại xe này chỉ sử dụng lốp không săm.”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Tr. 146–148: “Kích cỡ lốp Lốp trước ACA160CAF 90/80-14M/C 43P ACA125CBF/ACA125CAF 80/90-14M/C 40P Lốp sau ACA160CAF 100/80-14M/C 48P ACA125CBF/ACA125CAF 90/90-14M/C 52P”; “Kiểu lốp Lốp bố chéo không săm”; “Độ sâu gai lốp tối thiểu Lốp trước 1,5 mm (0.06 in) Lốp sau 2,0 mm (0.08 in)”; “Khả năng chở người Người lái và 1 người ngồi sau”; Khả năng chở tối đa “Loại V, II V, IV V 160 kg” / “Ngoại trừ loại V, II V, IV V 120 kg”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+      "quote": "Tr. 12: “Luôn sử dụng lốp trước/sau được khuyên dùng để đảm bảo ABS hoạt động chính xác.” Tr. 126: “Nếu buộc phải lái xe với lốp vá tạm thời, hãy lái xe thật chậm và cẩn thận, không lái xe vượt quá 50 km/h (30 dặm/giờ) cho đến khi lốp xe được thay thế.”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/NC8346r3AExXZtAvFuMG.pdf",
+      "quote": "“Lốp trước ACA160CAF 90/80-14M/C 43P ACA125CBF 80/90-14M/C 40P”; “Lốp sau (ACA160CAF) 225 kPa (2.25 kgf/cm2, 33 psi) (ACA125CBF) 280 kPa (2.80 kgf/cm2, 41 psi)”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?category=2",
+      "quote": "“Kích cỡ lốp trước/ sau Trước: 90/80-14M/C 43P Sau : 100/80 -14M/C 48P”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125?version=93&changeVersionFlag=1",
+      "quote": "“Kích cỡ lốp trước/ sau Trước: 80/90-14M/C 40P Sau: 90/90-14M/C 52P”",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "policies.damage: đổ xe, va chạm, thủng săm, xịt lốp: lỗi của khách, khách tự chịu; policies.out_of_hanoi: được đi ra ngoài Hà Nội, chỉ cho thuê khi thuê từ 48 giờ trở lên; phone 0334 699 969; hours 08:00–17:00 hằng ngày; address Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên",
+      "checked": "2026-10-30"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-10-30T23:52:00+07:00",
+    "by": "Claude Code (SEO recovery B04)",
+    "batch": "B04",
+    "queries": [
+      "áp suất lốp air blade",
+      "bơm lốp air blade bao nhiêu",
+      "áp suất lốp air blade 125 chở 2 người",
+      "lốp air blade 160 bơm bao nhiêu psi",
+      "cỡ lốp air blade 160",
+      "lốp air blade có săm không"
+    ],
+    "differentiated_from": [
+      "/bao-duong/xe-may/ap-suat-lop/",
+      "/bao-duong/doc-thong-so-lop-xe-may/",
+      "/bao-duong/lop-xe-may-bao-lau-thay/",
+      "/xe-may/honda-air-blade-125-va-160-khac-gi-nhau/",
+      "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-su-dung-xe-hang-ngay-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/"
+    ],
+    "note": "Viết lại riêng cho Air Blade theo sổ ACA160CAF/ACA125CAF/CBF (PDF 11/2025, nhãn lốp tr. 8–9, lốp tr. 87–89, thông số tr. 146–148) và sổ 2022 (ACA160CAF/ACA125CBF), đối chiếu trang thông số 160/125 đời 2026. Trọng tâm: khác biệt lốp sau 225/280 kPa giữa 160 và 125 khi chở người, cỡ lốp theo mã xe, cách nhận ra bản xe, đo lúc nguội, giới hạn tải, cấm lồng săm, gai tối thiểu. Bỏ danh sách lốp khuyên dùng theo hãng vì trùng bài đọc thông số lốp đang index; giảm lặp đơn vị psi/kPa sau khi QA báo trùng 0,62 với /bao-duong/xe-may/ap-suat-lop/. Bỏ toàn bộ văn mẫu V1, bỏ lời khuyên “chọn lốp bám đường” không có nguồn; không nêu vị trí dán nhãn trên xe vì sổ chỉ thể hiện bằng hình; không nêu giá lốp, tiền công. Sửa sau kiểm tra sự thật 30/10/2026: giới hạn câu về sổ 2022 vào đúng hai mã ACA160CAF/ACA125CBF; bỏ kết luận “xe cũ bơm y như xe mới” cho mọi Air Blade đời cũ (không có nguồn cho các đời trước 2022).",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
+  }
 }

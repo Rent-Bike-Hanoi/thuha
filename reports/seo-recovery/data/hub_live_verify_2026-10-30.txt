@@ -1,0 +1,8 @@
+PASS https://thuha.rentbikehanoi.com/thue-xe/ 200 robots= None | canon ok | intro True | details 10 | title: Cẩm nang thuê xe máy Hà Nội: cọc, hợp đồng, trả muộn, sự cố | h1: Thủ tục, tiền cọc và xử lý sự cố khi thuê xe máy
+PASS https://thuha.rentbikehanoi.com/xe-may/ 200 robots= None | canon ok | intro True | details 11 | title: Xe máy: chọn xe số, xe ga, 50cc và thông số từng mẫu | h1: Chọn và dùng xe máy: xe số, xe ga, xe 50cc
+PASS https://thuha.rentbikehanoi.com/xe-dien/ 200 robots= None | canon ok | intro True | details 11 | title: Xe máy điện: đi bao xa, sạc ở đâu, có cần bằng lái | h1: Chọn, sạc và đi xe điện mỗi ngày ở Hà Nội
+PASS https://thuha.rentbikehanoi.com/bao-duong/ 200 robots= None | canon ok | intro True | details 10 | title: Sửa chữa, bảo dưỡng xe máy: khi nào thay nhớt, lốp, phanh | h1: Sửa chữa & bảo dưỡng xe máy
+PASS https://thuha.rentbikehanoi.com/du-lich/ 200 robots= None | canon ok | intro True | details 12 | title: Du lịch bằng xe máy từ Hà Nội: điểm đến, cung đường | h1: Đi xe máy từ Hà Nội: điểm đến và cung đường
+PASS https://thuha.rentbikehanoi.com/luat-giao-thong/ 200 robots= None | canon ok | intro True | details 10 | title: Luật giao thông xe máy 2026: mức phạt, bằng lái, trừ điểm | h1: Luật giao thông và bằng lái cho người đi xe máy
+PASS https://thuha.rentbikehanoi.com/kinh-nghiem/ 200 robots= None | canon ok | intro True | details 11 | title: Kinh nghiệm đi xe máy: xe số, xe ga, giờ cao điểm, đèo | h1: Kinh nghiệm đi xe máy: từ phố Hà Nội đến đường đèo
+7 / 7

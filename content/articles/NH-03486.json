@@ -1,53 +1,159 @@
 {
   "id": "NH-03486",
   "url": "/xe-may/xe-so-yamaha-sirius/ap-suat-lop-chuan-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/",
-  "title": "Xe số yamaha sirius: cân chỉnh áp suất lốp và chọn lốp bám đường cho nữ giới sử dụng xe ga",
+  "title": "Áp suất lốp Yamaha Sirius: trước 29 psi, sau 33 hoặc 41 psi",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang cân chỉnh áp suất lốp và chọn lốp bám đường cho xe số Yamaha Sirius (nữ giới sử dụng xe ga): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Sirius FI và bản chế hòa khí cùng bơm lốp trước 200 kPa, nhưng lốp sau khác nhau khi chở nặng. Bảng số theo sách Yamaha, cỡ lốp và cách đo lúc nguội.",
   "sections": [
     [
-      "Tầm quan trọng của việc cân chỉnh áp suất lốp và chọn lốp bám đường đối với xe số Yamaha Sirius",
-      "<p>Đặc biệt trong sau thời gian dài không sử dụng, các chi tiết kỹ thuật của xe số Yamaha Sirius phải chịu áp lực làm việc cao hơn bình thường. Việc hiểu rõ nguyên lý và thời điểm cần can thiệp kỹ thuật sẽ giúp bạn hoàn toàn làm chủ phương tiện trên mọi cung đường di chuyển.</p><p>Chăm sóc xe thường xuyên còn mang lại cảm giác lái tự tin và phấn khởi cho nữ giới sử dụng xe ga. Tiếng nổ máy trầm ấm, tay ga phản hồi mượt mà và khung sườn vững chãi sẽ biến mỗi hành trình đi làm hay đi dạo phố trở thành một trải nghiệm thư thái.</p><p>Bài viết này cung cấp cẩm nang chuyên sâu về nhận biết dấu hiệu hư hỏng sớm cho hạng mục cân chỉnh áp suất lốp và chọn lốp bám đường trên xe số Yamaha Sirius. Mọi thông số và khuyến nghị được tổng hợp dựa trên thực tế vận hành tại Hà Nội, hỗ trợ đắc lực cho nữ giới sử dụng xe ga trong quá trình sử dụng xe hằng ngày.</p>"
+      "Câu trả lời ngắn",
+      "<p>Theo sách hướng dẫn Yamaha của Sirius FI và Sirius chế hòa khí, lốp trước bơm <strong>200 kPa (2,00 kgf/cm², 29 psi)</strong> ở cả hai bản, đi một mình hay chở người. Lốp sau tùy bản máy: <strong>Sirius FI</strong> bơm <strong>225 kPa (33 psi)</strong> khi tổng tải đến 90 kg và <strong>280 kPa (41 psi)</strong> khi tải từ 90 kg đến mức tối đa 152 kg; <strong>Sirius chế hòa khí</strong> giữ <strong>225 kPa (33 psi)</strong> cho cả một lẫn hai người. Mọi con số là đo lúc lốp nguội, và cả hai bản đều đi lốp có săm.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe số Yamaha Sirius cần kiểm tra trong sau thời gian dài không sử dụng",
-      "<p>Đối với các mẫu xe máy điện, việc theo dõi thời gian sạc pin và tốc độ sụt giảm điện áp khi leo dốc là cực kỳ quan trọng. Khi pin có dấu hiệu tụt vạch nhanh bất thường hoặc bộ sạc nóng quá mức cho phép, hãy ngừng sử dụng và đưa xe đến trung tâm chuyên môn để đo đạc dung lượng thực tế.</p><p>Đối với hệ thống điện, đèn pha chập chờn khi tăng ga hoặc còi xe phát ra âm thanh yếu ớt là tín hiệu rõ ràng của việc bình ắc quy yếu hoặc cuộn phát điện (mâm lửa) gặp trục trặc kỹ thuật.</p><p>Hãy duy trì thói quen quan sát nhanh chiếc xe trước mỗi chuyến đi dài. Bạn có thể đối chiếu tình trạng phương tiện với <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra kỹ thuật xe máy</a> để không bỏ sót các hư hỏng tiềm ẩn.</p><p>Đặc biệt lưu ý tiếng kêu lạch cạch ở khu vực chén cổ khi xe đi qua gờ giảm tốc. Nếu tay lái có độ rơ lớn hoặc bị sượng khi ôm cua, việc phục hồi hoặc thay mới bi cổ là yêu cầu bắt buộc để tránh mất lái.</p>"
+      "FI hay chế hòa khí: biết đúng bản xe trước khi cầm vòi bơm",
+      "<p>Số trong bài lấy từ hai cuốn sách Yamaha: cuốn cho Sirius FI phun xăng 113,7 cm³ (thư viện sách của hãng xếp cho đời 2023–2026) và cuốn cho Sirius chế hòa khí 110,3 cm³ (gồm cả RC vành đúc; xếp cho đời 2020–2024 và 2026). Xe đời cũ hơn thì xem sách đi kèm xe. Lốp trước hai cuốn ghi giống nhau, lốp sau thì không. Ba cách phân biệt nhanh:</p><ul><li><strong>Hông lốp sau.</strong> Lốp theo xe bản FI là 80/90-17 M/C <strong>50P</strong>, bản chế hòa khí là 80/90-17M/C <strong>44P</strong>: cùng cỡ, khác chỉ số tải (cách đọc ở bài <a href=\"/bao-duong/doc-thong-so-lop-xe-may/\">đọc thông số lốp xe máy</a>). Lốp đã thay hàng khác thì cách này hết chắc.</li><li><strong>Cụm đèn báo.</strong> Sách FI có thêm đèn cảnh báo động cơ và đèn ECO; sách bản chế hòa khí chỉ có đèn xi nhan, đèn mo, đèn báo số và đèn pha.</li><li><strong>Bìa sách hướng dẫn.</strong> Mã T115FL là FI, mã BGY là chế hòa khí.</li></ul><p>Giá và trang bị từng bản xem ở <a href=\"/xe-may/yamaha-sirius-fi/\">Yamaha Sirius FI</a> và <a href=\"/xe-may/yamaha-sirius-che-hoa-khi/\">Sirius chế hòa khí, Sirius RC</a>.</p>"
     ],
     [
-      "Quy trình từng bước cân chỉnh áp suất lốp và chọn lốp bám đường chuẩn kỹ thuật",
-      "<p>Tiến hành tháo mở cẩn thận các chi tiết ốc vít theo đúng chiều ren, kiểm tra độ mòn thực tế của linh kiện cũ và vệ sinh sạch sẽ các cặn bẩn bám dính. Luôn sử dụng dung dịch tẩy rửa chuyên dụng, tránh dùng xăng thơm hay hóa chất tẩy mạnh làm hư hại các vòng đệm cao su hoặc phốt dầu.</p><p>Nếu thực hiện các công đoạn liên quan đến xả dầu hoặc thay dung dịch, hãy sử dụng khay hứng sạch sẽ và xử lý dầu thải đúng nơi quy định, tuyệt đối không đổ trực tiếp ra cống rãnh công cộng để bảo vệ môi trường đô thị xanh sạch.</p><p>Lưu ý ghi chép lại số km trên đồng hồ công-tơ-mét và mốc thời gian thực hiện để thiết lập chu kỳ bảo dưỡng kế tiếp. Nếu chưa tự tin về tay nghề cơ khí, bạn nên đưa xe đến các cơ sở uy tín để được kỹ thuật viên giàu kinh nghiệm hỗ trợ.</p><p>Kiểm tra lại một lượt cuối cùng toàn bộ các ốc siết quanh khu vực thao tác sau khi chạy thử 5 đến 10 phút để xác nhận không có hiện tượng rịn dầu hay ốc bị lỏng ra do rung động cơ học.</p>"
+      "Bảng lốp và áp suất: Sirius FI và Sirius chế hòa khí",
+      "<table><thead><tr><th>Mục</th><th>Sirius FI</th><th>Sirius chế hòa khí</th></tr></thead><tbody><tr><td>Lốp trước</td><td>70/90-17 M/C 38P, có săm</td><td>70/90-17M/C 38P, có săm</td></tr><tr><td>Lốp sau</td><td>80/90-17 M/C 50P, có săm</td><td>80/90-17M/C 44P, có săm</td></tr><tr><td>Lốp theo xe</td><td>MAXXIS/M6230</td><td>MAXXIS/M6230</td></tr><tr><td>Lốp trước, lúc nguội</td><td>200 kPa (2,00 kgf/cm², 29 psi)</td><td>200 kPa (2,00 kgf/cm², 29 psi)</td></tr><tr><td>Lốp sau, lúc nguội</td><td>225 kPa (2,25 kgf/cm², 33 psi) khi tải đến 90 kg; 280 kPa (2,80 kgf/cm², 41 psi) khi tải từ 90 kg đến tối đa</td><td>225 kPa (2,25 kgf/cm², 33 psi) cho 1 người và 2 người</td></tr><tr><td>Tải tối đa</td><td>152 kg</td><td>150 kg</td></tr><tr><td>Độ sâu rãnh talông tối thiểu</td><td>1,0 mm</td><td>1,0 mm</td></tr></tbody></table><p>Theo hai sách hướng dẫn sử dụng Sirius của Yamaha ở mục Nguồn (phần Lốp xe và Thông số kỹ thuật), đọc 30/10/2026. Trang thông số trên website Yamaha Việt Nam ghi cùng cỡ lốp và chữ “Có săm” cho hai dòng.</p><p>Lý do phải đúng số, sách nói gọn: lốp là bộ phận tiếp xúc duy nhất giữa xe và mặt đường, lốp không đúng tiêu chuẩn có thể làm mất kiểm soát. Chuyện lốp non, lốp quá căng nói chung nằm ở bài <a href=\"/bao-duong/xe-may/ap-suat-lop/\">áp suất lốp xe máy bao nhiêu là đúng</a>.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe số Yamaha Sirius",
-      "<p>Đối với việc rửa xe tại nhà, việc xịt vòi nước áp lực cao trực tiếp vào khu vực ổ bi cổ phốt, công tắc điện tay lái hay họng gió buồng đốt có thể làm nước lọt vào vi mạch điều khiển, gây chập cháy cầu chì hoặc chết bugi đánh lửa.</p><p>Không ít người dùng có quan niệm sai lầm rằng chỉ cần châm thêm dầu nhớt khi thấy hụt mà không cần thay mới toàn bộ. Dầu nhớt cũ sau thời gian dài sử dụng đã bị oxy hóa và chứa đầy mạt kim loại, việc chỉ châm thêm sẽ không thể bảo vệ động cơ khỏi sự mài mòn khốc liệt.</p><p>Để tránh các sự cố kỹ thuật không đáng có, bạn nên tham khảo kỹ các tài liệu hướng dẫn vận hành hoặc tra cứu thêm tại <a href=\"/kinh-nghiem/lai-xe-o-ha-noi/\">chuyên mục kinh nghiệm sử dụng xe</a> trước khi tự mình tháo lắp các cụm chi tiết phức tạp.</p><p>Đặc biệt đối với xe máy điện, tuyệt đối không được tự ý can thiệp vào mạch BMS quản lý pin hay đấu nối thêm các thiết bị đèn trợ sáng công suất lớn không rõ nguồn gốc gây nguy cơ quá tải đường dây.</p>"
+      "Mốc 90 kg chỉ có trên Sirius FI: cộng tải thế nào",
+      "<p>Sách FI không chia theo số người mà theo <em>tải</em>: tổng trọng lượng người lái, người ngồi sau, hàng hóa và phụ kiện. Tải đến 90 kg, lốp sau 225 kPa; từ 90 kg tới mức tối đa, lốp sau 280 kPa. Lốp trước giữ 200 kPa ở cả hai trường hợp, đừng bơm căng cả hai bánh khi chở thêm người. Vài phép cộng cho dễ hình dung:</p><ul><li>Một người 62 kg đeo ba lô 5 kg đi làm: 67 kg, lốp sau 225 kPa.</li><li>Người 60 kg chở bạn 52 kg: 112 kg, quá 90 kg, lốp sau 280 kPa.</li><li>Người 75 kg đi một mình nhưng buộc thùng hàng 20 kg ở baga: 95 kg, cũng sang mức 280 kPa.</li></ul><p>Hay đổi giữa đi một mình và chở người thì để sẵn đồng hồ đo ở nhà: chở nặng bơm lốp sau lên, đi một mình xả về 225 kPa.</p><p>Bản chế hòa khí đơn giản hơn: sách chia “1 người” và “2 người”, cả hai dòng đều 200/225 kPa, tải tối đa 150 kg. Hai cuốn cùng in cảnh báo “Không bao giờ vận hành quá tải” và dặn lắp giá chở hàng thì kiểm tra lại áp suất lốp.</p>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Chi phí cho hạng mục cân chỉnh áp suất lốp và chọn lốp bám đường trên xe số Yamaha Sirius dao động tùy thuộc vào việc bạn lựa chọn phụ tùng chính hãng của hãng xe hay phụ tùng OEM từ các thương hiệu thứ ba danh tiếng. Thông thường, mức giá vật tư cơ bản rơi vào khoảng từ vài chục nghìn đến vài trăm nghìn đồng tùy chi tiết.</p><p>Giá phụ tùng thay thế như dầu nhớt (bán tổng hợp hay tổng hợp toàn phần), lọc gió chính hãng và bugi bạch kim hoặc iridium khác nhau theo loại, theo dòng xe và theo cửa hàng, nên tham khảo báo giá ở vài nơi trước khi thay.</p><p>Các cửa hàng chuyên nghiệp luôn có chế độ bảo hành rõ ràng từ 1 đến 3 tháng cho các phụ tùng mới thay thế. Hãy giữ lại hóa đơn bán hàng hoặc phiếu bảo dưỡng để đối chiếu quyền lợi khi cần thiết.</p><p>Minh bạch về tài chính và hóa đơn rõ ràng là tiêu chí quan trọng hàng đầu khi chọn lựa bất kỳ xưởng kỹ thuật nào.</p>"
+      "Đo lúc nguội, và soát lốp khi Sirius nằm lâu một chỗ",
+      "<p>Hai cuốn sách dùng chung một câu: áp suất phải kiểm tra và chỉnh <strong>khi lốp nguội</strong>, tức nhiệt độ lốp bằng nhiệt độ môi trường, và làm <strong>trước khi lái</strong>. Nghĩa là đo ở nhà buổi sáng, không phải sau mười cây số chạy tới tiệm. Đồng hồ ở tiệm vá thường hiện psi hoặc “kg” (kgf/cm²): 29 psi là 2,00; 33 psi là 2,25; 41 psi là 2,80. Báo con số cụ thể cho thợ thay vì để bơm “vừa tay”.</p><p>Phần cất giữ xe của sách FI (để xe từ 60 ngày trở lên) có bước cho lốp: chỉnh áp suất rồi dựng xe cho hai bánh không chạm đất; không dựng được thì mỗi tháng xoay bánh một lần để lốp không hỏng vì đè lâu một điểm. Sách bản chế hòa khí dặn luân phiên xoay bánh trước, bánh sau thường xuyên. Khi lấy xe ra chạy lại:</p><ol><li>Bơm lại theo bảng, lúc lốp nguội.</li><li>Tìm vết nứt ở rãnh talông và thành lốp. Sách viết lốp lão hóa cả khi không dùng hoặc ít dùng; vết nứt, đôi khi kèm biến dạng cốt lốp, cần người có chuyên môn xem còn dùng được không.</li><li>Rãnh đã lộ các đường chéo ngang chỉ độ mòn, có đinh, mảnh thủy tinh hoặc thành lốp nứt thì sách yêu cầu thay lốp ngay.</li><li>Xe vành nan hoa: xem có nan lỏng không, đưa đại lý chỉnh vì siết sai có thể làm vênh vành.</li></ol><p>Ắc quy, xăng và khởi động lại xem bài <a href=\"/bao-duong/xe-may-de-lau-khong-di/\">xe máy để lâu không đi</a>.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho nữ giới sử dụng xe ga khi sử dụng xe hằng ngày",
-      "<p>Luôn trang bị sẵn trên xe một bộ đồ nghề mini cơ bản gồm tuốc-nơ-vít, kìm nhỏ và đầu mở bugi kèm một chiếc bơm lốp mini cầm tay. Những vật dụng này sẽ là cứu cánh đắc lực giúp bạn tự xử lý các sự cố vặt trên đường vắng.</p><p>Trước khi tắt máy kết thúc ngày làm việc, hãy dành 10 giây quan sát nhanh xung quanh gầm xe xem có vết rò rỉ dung dịch nào bất thường hay không. Thao tác nhỏ này giúp bạn phát hiện sớm các sự cố rò rỉ trước khi chúng gây hại cho xe.</p><p>Hãy lắng nghe cảm giác lái của chính mình: bất kỳ tiếng kêu rè rè, rung lắc hay độ trễ ga nào cũng là dấu hiệu phương tiện đang cần được bạn quan tâm chăm sóc.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Thủng săm, thay lốp và lúc nhận xe thuê",
+      "<p>Sirius đi lốp có săm, dính đinh thường là thủng săm. Sách Yamaha viết thẳng: không nên vá săm bị thủng; nếu không tránh được thì vá cẩn thận và thay săm mới chất lượng cao càng sớm càng tốt. Khi thay lốp, sách dặn thêm: lốp trước và sau phải giống nhau về loại và thiết kế; chỉ dùng loại lốp Yamaha chấp thuận cho mẫu xe; cân bằng lại vành mỗi lần thay lốp hoặc săm; việc thay bánh, lốp nên để đại lý làm; sau khi thay thì chạy tốc độ vừa phải một thời gian để mặt lốp “quen” mặt đường. Lúc nào cần thay lốp mới xem <a href=\"/bao-duong/lop-xe-may-bao-lau-thay/\">lốp xe máy bao lâu thay</a>.</p><p>Cần xe số đi tạm khi xe nhà nằm tiệm, bạn có thể xem cách <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy ở Hà Nội</a> tại Thuê xe máy Nguyễn Hà (Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên); gọi hoặc nhắn Zalo 0334 699 969 trong giờ 08:00–17:00 để cửa hàng xác nhận xe đang có. Theo hợp đồng của cửa hàng, thủng săm, xịt lốp trong thời gian thuê do khách tự chịu, nên lúc nhận xe hãy bóp thử hai lốp và hỏi đã bơm bao nhiêu.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe số Yamaha Sirius",
-      "<p>Lợi ích lớn nhất của việc lưu nhật ký là bạn sẽ không bao giờ bị quên lịch thay dầu láp xe ga hay lịch thay nước làm mát động cơ – những hạng mục thường có chu kỳ dài từ 5.000 đến 10.000 km và rất dễ bị bỏ quên.</p><p>Quy trình kiểm tra định kỳ 5 bước cơ bản gồm: bước 1 kiểm tra áp suất lốp và độ mòn gai cao su; bước 2 kiểm tra mức dầu máy và nước giải nhiệt; bước 3 kiểm tra độ rơ phanh và bố thắng; bước 4 kiểm tra hệ thống đèn chiếu sáng và còi báo; bước 5 làm sạch lọc gió và kiểm tra bugi.</p><p>Sự hiểu biết sâu sắc về chiếc xe của mình sẽ giúp bạn luôn làm chủ tình huống và không bao giờ bị bỡ ngỡ trước bất kỳ sự cố bất ngờ nào.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe số Yamaha Sirius",
-      "<p><strong>Dấu hiệu nào cho thấy linh kiện đã đến hạn phải thay thế gấp?</strong> Khi chi tiết xuất hiện vết nứt vỡ, độ mòn vượt quá chỉ số báo vạch an toàn của nhà sản xuất hoặc phát ra tiếng kêu cọ xát kim loại chói tai, bạn bắt buộc phải thay thế ngay lập tức để tránh tai nạn.</p><p><strong>Nên chọn dầu nhớt khoáng, bán tổng hợp hay tổng hợp toàn phần?</strong> Đối với nhu cầu chạy phố hằng ngày, nhớt bán tổng hợp là lựa chọn kinh tế và đủ đáp ứng. Tuy nhiên, nếu bạn thường xuyên chạy đường dài hoặc chở nặng, đầu tư nhớt tổng hợp 100% sẽ bảo vệ động cơ vượt trội.</p><p>Đừng ngần ngại hỏi rõ thợ sửa xe về nguồn gốc xuất xứ của từng món linh kiện được lắp vào xe để chắc chắn bạn nhận được giá trị xứng đáng với số tiền đã chi trả.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 08:00–17:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Đội ngũ chăm sóc khách hàng của Thuê xe máy Nguyễn Hà luôn sẵn sàng tư vấn mẫu xe phù hợp nhất với nhu cầu và lịch trình của bạn. Chúng tôi cam kết xe vận hành êm ái, đầy đủ giấy tờ và hỗ trợ kỹ thuật tận tình.</p><p>Liên hệ ngay với chúng tôi để nhận báo giá và chọn được chiếc xe hoàn hảo cho hành trình của bạn.</p>"
+      "Nguồn tham khảo",
+      "<ul><li>Yamaha, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn sử dụng Sirius FI, bản tiếng Việt</a>: Lốp xe (7-33 đến 7-37), bảng bảo dưỡng (7-9), Cất giữ (8-6 đến 8-8), Thông số kỹ thuật (9-2). Đọc ngày 30/10/2026.</li><li>Yamaha, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn sử dụng Sirius chế hòa khí, bản tiếng Việt</a>: Lốp xe (7-26 đến 7-30), Cất giữ (8-7, 8-8), Thông số kỹ thuật (9-2). Đọc ngày 30/10/2026.</li><li>Yamaha Việt Nam, <a href=\"https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-co-mau-moi-2025-bsaf/\" target=\"_blank\" rel=\"noopener noreferrer\">Sirius FI phanh cơ màu mới 2025: thông số kỹ thuật</a>. Đọc ngày 30/10/2026.</li><li>Yamaha Việt Nam, <a href=\"https://yamaha-motor.com.vn/xe/sirius-phien-ban-phanh-co-mau-moi-2025-bgyd/\" target=\"_blank\" rel=\"noopener noreferrer\">Sirius phanh cơ màu mới 2025: thông số kỹ thuật</a>. Đọc ngày 30/10/2026.</li><li>Thuê xe máy Nguyễn Hà, chính sách thuê xe (thủng săm, xịt lốp do khách tự chịu, chủ cửa hàng làm rõ 17/10/2026). Đối chiếu ngày 30/10/2026.</li></ul>"
     ]
   ],
-  "keywords": "ap-suat-lop-chuan xe số Yamaha Sirius nữ giới sử dụng xe ga sau thời gian dài không sử dụng",
+  "keywords": "áp suất lốp Yamaha Sirius, lốp Sirius bơm bao nhiêu, cỡ lốp Sirius FI",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "03486",
   "tone": "gold",
-  "wordCount": 1628,
+  "wordCount": 1498,
   "intent": "xe-info|ap-suat-lop-chuan|xe số yamaha sirius|nữ giới sử dụng xe ga|sau thời gian dài không sử dụng|dau-hieu-can-kiem-tra",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Câu hỏi thường gặp về áp suất lốp Yamaha Sirius",
+  "faq": [
+    [
+      "Sirius chở hai người có phải bơm lốp trước căng hơn không?",
+      "Không. Cả hai cuốn sách giữ lốp trước ở cùng một mức dù chở một hay hai người; chỉ lốp sau của bản FI đổi theo tải."
+    ],
+    [
+      "Lốp Sirius là loại có săm hay không săm?",
+      "Có săm, ở cả bản FI lẫn bản chế hòa khí, theo sách hướng dẫn và trang thông số của Yamaha."
+    ],
+    [
+      "Lắp lốp sau 44P của bản chế hòa khí cho Sirius FI được không?",
+      "Sách FI chỉ liệt kê lốp sau 50P là loại Yamaha chấp thuận cho bản này, nên không nên lắp lốp khác chỉ số."
+    ],
+    [
+      "Vừa chạy về, lốp còn nóng thì bơm theo số nào?",
+      "Số trong sách là cho lốp nguội. Nếu phải bơm khi lốp còn ấm, bơm tạm rồi đo lại sau khi xe nghỉ nguội."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Áp suất hơi của lốp nguội: Tải đến 90 kg (198 lb): Trước: 200 kPa (2.00 kgf/cm², 29 psi) Sau: 225 kPa (2.25 kgf/cm², 33 psi)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Tải 90kg (198 lb) đến tối đa: Trước: 200 kPa (2.00 kgf/cm², 29 psi) Sau: 280 kPa (2.80 kgf/cm², 41 psi) Tải tối đa: Xe: 152 kg (335 lb)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Lốp trước: Kích cỡ: 70/90-17 M/C 38P Nhà sản xuất/model: MAXXIS/M6230 Lốp sau: Kích cỡ: 80/90-17 M/C 50P",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Áp suất bơm lốp xe cần phải được kiểm tra và điều chỉnh khi lốp xe nguội (ví dụ: khi nhiệt độ của lốp xe bằng với nhiệt độ của môi trường bên ngoài).",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Không nên vá săm bị thủng. Nếu không thể tránh, nên vá săm cẩn thận, và thay săm mới có chất lượng cao càng sớm càng tốt.",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Kiểm tra và điều chỉnh áp suất bơm lốp, và sau đó dựng đứng xe lên sao cho các bánh xe không tiếp xúc với mặt đất. Nếu không, hãy xoay xoay các bánh xe một lần mỗi tháng",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Áp suất bơm lốp (lốp nguội): 1 người: Trước: 200 kPa (2.00 kgf/cm², 29 psi) Sau: 225 kPa (2.25 kgf/cm², 33 psi) 2 người: Trước: 200 kPa (2.00 kgf/cm², 29 psi) Sau: 225 kPa (2.25 kgf/cm², 33 psi)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Lốp sau: Loại: Có săm Kích cỡ: 80/90-17M/C 44P Nhà sản xuất/model: MAXXIS/M6230 ... Tải tối đa: 150 kg (331 lb)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-co-mau-moi-2025-bsaf/",
+      "quote": "Lốp trước 70/90-17 M/C 38P (Có săm) Lốp sau 80/90-17 M/C 50P (Có săm)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://yamaha-motor.com.vn/xe/sirius-phien-ban-phanh-co-mau-moi-2025-bgyd/",
+      "quote": "Lốp trước 70/90 - 17 38P (Lốp có săm) Lốp sau 80/90 - 17 44P (Lốp có săm)",
+      "checked": "2026-10-30"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "đổ xe, va chạm, thủng săm, xịt lốp: lỗi của khách, khách tự chịu (chủ cửa hàng làm rõ 17/10/2026); phone 0334 699 969; hours 08:00–17:00 hằng ngày",
+      "checked": "2026-10-30"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-10-30T23:52:00+07:00",
+    "by": "Claude Code (SEO recovery B04)",
+    "batch": "B04",
+    "queries": [
+      "áp suất lốp yamaha sirius",
+      "lốp sirius bơm bao nhiêu",
+      "áp suất lốp sirius fi",
+      "sirius chở 2 người bơm lốp bao nhiêu",
+      "cỡ lốp sirius fi",
+      "lốp sirius có săm hay không săm"
+    ],
+    "differentiated_from": [
+      "/bao-duong/xe-may/ap-suat-lop/",
+      "/bao-duong/doc-thong-so-lop-xe-may/",
+      "/bao-duong/lop-xe-may-bao-lau-thay/",
+      "/xe-may/yamaha-sirius-fi/",
+      "/xe-may/yamaha-sirius-che-hoa-khi/",
+      "/xe-may/xe-tay-ga-honda-vision/ap-suat-lop-chuan-sinh-vien-tu-bao-duong-xe-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
+      "/xe-may/xe-tay-ga-honda-lead/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
+      "/xe-may/xe-con-tay-honda-winner-x/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-mua-dong-thoi-tiet-lanh-gia-sai-lam-pho-bien/",
+      "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/"
+    ],
+    "note": "Viết lại riêng cho Yamaha Sirius theo hai sách hướng dẫn Yamaha (FI T115FL-1/2/5 BSA-F8199-VA và chế hòa khí BGY1/2/3 BGY-F8199-V0): trước 200 kPa cả hai bản; sau FI 225 kPa đến 90 kg, 280 kPa từ 90 kg đến tối đa 152 kg; sau bản chế hòa khí 225 kPa cho 1 hoặc 2 người, tải tối đa 150 kg; cỡ lốp có săm 70/90-17 38P, sau 50P (FI) và 44P (chế hòa khí), lốp MAXXIS M6230; đo lúc nguội, rãnh tối thiểu 1,0 mm, vá săm, cân bằng vành, cất giữ xe lâu theo sách. Bỏ văn mẫu V1 (nữ giới, xe ga), lời khuyên chọn lốp không nguồn. Không nói cửa hàng có sẵn Sirius; chính sách thủng săm theo business-facts. Sửa sau kiểm tra sự thật 30/10/2026: bỏ “ở mọi đời” và “mỗi dòng một cuốn sách”; giới hạn số liệu vào hai sách đã đối chiếu (FI T115FL-1/2/5, thư viện Yamaha xếp đời 2023–2026; chế hòa khí BGY1/2/3, đời 2020–2024 và 2026), dặn xe đời cũ hơn xem sách đi kèm xe.",
+    "qa_score": 95,
+    "qa_checked": "2026-10-31T00:59:15+07:00"
+  }
 }
