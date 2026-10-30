@@ -22,7 +22,7 @@ ALLOWED_AMOUNTS={'20.000','50.000','100.000','150.000','200.000','600.000','700.
  '150 nghìn','200 nghìn','600 nghìn','700 nghìn','800 nghìn','1 triệu','1,2 triệu','1,5 triệu','1,8 triệu','2 triệu','5 triệu','2–5 triệu','2-5 triệu'}
 BANNED=[(r'24/7|24h/7|24 giờ/7','hỗ trợ 24/7 không có trong chính sách'),(r'miễn phí (thay nhớt|bảo dưỡng|giao xe)','ưu đãi không có trong chính sách'),
  (r'hoàn (lại )?100% (tiền )?cọc','cam kết hoàn cọc không có trong chính sách'),(r'chiết khấu|giảm giá \d','khuyến mãi không có trong chính sách'),
- (r'bảo hiểm','không nêu bảo hiểm trong bài (chủ cửa hàng 17/10/2026)'),(r'(?<!không )(?<!không có dịch vụ )giao (xe |nhận )?(xe )?(tại|ở|đến|tới) sân bay(?! nội bài là không)','không giao nhận tại sân bay Nội Bài'),
+ (r'(?<!mũ )(?<!nón )bảo hiểm(?! đạt chuẩn)','không nêu bảo hiểm (xe/TNDS) trong bài (chủ cửa hàng 17/10/2026); "mũ bảo hiểm" được phép'),(r'(?<!không )(?<!không có dịch vụ )giao (xe |nhận )?(xe )?(tại|ở|đến|tới) sân bay(?! nội bài là không)','không giao nhận tại sân bay Nội Bài'),
  (r'rentbikehanoi\.com(?!\S*thuha)','không nhắc site chính rentbikehanoi.com')]
 HOURS_RE=re.compile(r'(\d{1,2})[:h](\d{2})\s*[–-]\s*(\d{1,2})[:h](\d{2})')
 PHONE_RE=re.compile(r'0\d{2,3}[\s.]?\d{3}[\s.]?\d{3,4}|\+84[\s.]?\d{2,3}[\s.]?\d{3}[\s.]?\d{3,4}')

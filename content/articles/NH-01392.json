@@ -125,6 +125,8 @@
    "/xe-dien/ung-dung-vinfast-xe-may-dien/",
    "/xe-dien/pin-xe-may-dien-troi-lanh/"
   ],
-  "note": "Viết lại hoàn toàn theo sách HDSD FELIZ S (BOL00008955-07, static-cms-prod.vinfastauto.com/feliz-s-2022.pdf, có lớp chữ nên trích nguyên văn). Trọng tâm khác bài Evo200: remote RF, chống trộm, cập nhật phần mềm qua app/tin nhắn, quy trình và đèn sạc, áp suất lốp. Bỏ: chuẩn IP, giá, quãng đường, tốc độ tối đa, dung lượng kWh (sách chỉ ghi 48 Ah, 70,4 V); vinfastauto.com trả 403 nên không dùng FAQ/so sánh."
+  "note": "Viết lại hoàn toàn theo sách HDSD FELIZ S (BOL00008955-07, static-cms-prod.vinfastauto.com/feliz-s-2022.pdf, có lớp chữ nên trích nguyên văn). Trọng tâm khác bài Evo200: remote RF, chống trộm, cập nhật phần mềm qua app/tin nhắn, quy trình và đèn sạc, áp suất lốp. Bỏ: chuẩn IP, giá, quãng đường, tốc độ tối đa, dung lượng kWh (sách chỉ ghi 48 Ah, 70,4 V); vinfastauto.com trả 403 nên không dùng FAQ/so sánh.",
+  "qa_score": 95,
+  "qa_checked": "2026-10-30T22:58:04+07:00"
  }
 }

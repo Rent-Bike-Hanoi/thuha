@@ -114,6 +114,8 @@
    "/xe-may/honda/vision/chon-xe-thue/",
    "/bao-duong/xe-may-moi-mua-bao-duong-lan-dau-khi-nao/"
   ],
-  "note": "Viết lại từ đầu theo sổ hướng dẫn Vision (PDF 12/2025 dẫn từ trang sản phẩm Honda VN): mốc vòng bi cổ lái đọc từ ảnh bảng Lịch bảo dưỡng tr. 68 (K tại 12/24/36 nghìn km + hằng năm, mức Phức tạp). Bỏ toàn bộ giá phụ tùng, tiền công, giờ mở cửa sai của bản V1; Honda VN không công bố giá dịch vụ nên hướng dẫn hỏi báo giá HEAD. Góc “nắng nóng” của slug V1 không có cơ sở kỹ thuật nên không dùng."
+  "note": "Viết lại từ đầu theo sổ hướng dẫn Vision (PDF 12/2025 dẫn từ trang sản phẩm Honda VN): mốc vòng bi cổ lái đọc từ ảnh bảng Lịch bảo dưỡng tr. 68 (K tại 12/24/36 nghìn km + hằng năm, mức Phức tạp). Bỏ toàn bộ giá phụ tùng, tiền công, giờ mở cửa sai của bản V1; Honda VN không công bố giá dịch vụ nên hướng dẫn hỏi báo giá HEAD. Góc “nắng nóng” của slug V1 không có cơ sở kỹ thuật nên không dùng.",
+  "qa_score": 100,
+  "qa_checked": "2026-10-30T22:58:04+07:00"
  }
 }

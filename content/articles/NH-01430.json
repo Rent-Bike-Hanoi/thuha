@@ -128,6 +128,8 @@
    "/xe-dien/vinfast-evo-thong-so-pin-quang-duong-va-toc-do/",
    "/bao-duong/xe-may-de-lau-khong-di/"
   ],
-  "note": "Viết lại hoàn toàn theo sách HDSD EVO 200 (BOL00009361-06) và EVO 200 LITE (BOL00009869-06) trên static-cms-prod.vinfastauto.com; PDF dạng chữ vẽ (outline) nên đọc bằng ảnh trang. Bỏ: chuẩn IP, giá, quãng đường mỗi lần sạc, loại pin LFP (sách ghi Lithium-ion); tốc độ dùng số trong sách (60 km/h, Lite 49 km/h). vinfastauto.com trả 403 nên không dùng trang FAQ/so sánh."
+  "note": "Viết lại hoàn toàn theo sách HDSD EVO 200 (BOL00009361-06) và EVO 200 LITE (BOL00009869-06) trên static-cms-prod.vinfastauto.com; PDF dạng chữ vẽ (outline) nên đọc bằng ảnh trang. Bỏ: chuẩn IP, giá, quãng đường mỗi lần sạc, loại pin LFP (sách ghi Lithium-ion); tốc độ dùng số trong sách (60 km/h, Lite 49 km/h). vinfastauto.com trả 403 nên không dùng trang FAQ/so sánh.",
+  "qa_score": 95,
+  "qa_checked": "2026-10-30T22:58:04+07:00"
  }
 }

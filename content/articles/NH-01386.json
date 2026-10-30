@@ -120,6 +120,8 @@
    "/xe-dien/bao-duong-xe-may-dien-dinh-ky/",
    "/xe-dien/xe-may-dien-vinfast-evo-200/khoi-dong-buoi-sang-lanh-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/"
   ],
-  "note": "GSC 14 lượt hiển thị, 2 click, không có truy vấn chi tiết. Viết lại hoàn toàn theo sách HDSD EVO 200 (BOL00009361-06). Sách không in mã IP hay độ sâu lội nước bằng cm: bài không nêu IP67 (chỉ thấy trên báo, không có trong tài liệu VinFast đọc được). Mốc 15 cm (khoảng sáng gầm) và ~23 cm (tâm bánh tính từ lốp 90/90-12) ghi rõ là suy ra từ bảng thông số. Không nêu chi phí sửa."
+  "note": "GSC 14 lượt hiển thị, 2 click, không có truy vấn chi tiết. Viết lại hoàn toàn theo sách HDSD EVO 200 (BOL00009361-06). Sách không in mã IP hay độ sâu lội nước bằng cm: bài không nêu IP67 (chỉ thấy trên báo, không có trong tài liệu VinFast đọc được). Mốc 15 cm (khoảng sáng gầm) và ~23 cm (tâm bánh tính từ lốp 90/90-12) ghi rõ là suy ra từ bảng thông số. Không nêu chi phí sửa.",
+  "qa_score": 100,
+  "qa_checked": "2026-10-30T22:58:04+07:00"
  }
 }

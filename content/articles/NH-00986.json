@@ -126,6 +126,8 @@
    "/bao-duong/xe-may-bi-nong-may-quat-ket-nuoc-chay-lien-tuc/",
    "/xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-nguoi-thue-xe-dai-han-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/"
   ],
-  "note": "Viết lại riêng cho Air Blade theo sổ ACA160CAF/ACA125CAF/CBF (PDF 11/2025 dẫn từ trang sản phẩm): mốc trong bảng tr. 79 đọc từ ảnh bảng, dung tích 0,48/0,37 L, quy trình tr. 96–97, quá nhiệt tr. 111. Bỏ mốc “5.000 km” của bản V1 (không có trong sổ, giải thích trong bài), bỏ giá/giờ sai. Ghi rõ chỗ lệch 2 năm (trang phụ tùng) và 3 năm (sổ). Không nêu nhiệt độ bật quạt vì sổ không công bố."
+  "note": "Viết lại riêng cho Air Blade theo sổ ACA160CAF/ACA125CAF/CBF (PDF 11/2025 dẫn từ trang sản phẩm): mốc trong bảng tr. 79 đọc từ ảnh bảng, dung tích 0,48/0,37 L, quy trình tr. 96–97, quá nhiệt tr. 111. Bỏ mốc “5.000 km” của bản V1 (không có trong sổ, giải thích trong bài), bỏ giá/giờ sai. Ghi rõ chỗ lệch 2 năm (trang phụ tùng) và 3 năm (sổ). Không nêu nhiệt độ bật quạt vì sổ không công bố.",
+  "qa_score": 95,
+  "qa_checked": "2026-10-30T22:58:04+07:00"
  }
 }
