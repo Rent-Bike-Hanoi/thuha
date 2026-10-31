@@ -1,0 +1,29 @@
+{
+ "urls": 4857,
+ "ok": 4855,
+ "bad": 2,
+ "issues": {
+  "http 503": 2,
+  "canonical missing": 2
+ },
+ "bad_samples": [
+  [
+   "https://thuha.rentbikehanoi.com/xe-dien/ha-dong/vinfast-evo-200/gui-xe-nguoi-chay-viec-trong-pho-luu-tru-ngan-ngay-dao-pho-co-chay-xe-tren-cac-truc-duong-vanh-dai/",
+   [
+    "http 503",
+    "canonical missing"
+   ]
+  ],
+  [
+   "https://thuha.rentbikehanoi.com/xe-may/bac-tu-liem/honda-vision/chon-xe-nguoi-thue-dai-han-thue-dai-han-phuc-vu-cong-viec-quang-duong-duoi-5-km-moi-ngay/",
+   [
+    "http 503",
+    "canonical missing"
+   ]
+  ]
+ ],
+ "recheck": {
+  "2 URL 503 tạm thời": "kiểm tra lại: HTTP 200, canonical tự trỏ, không noindex"
+ },
+ "ok_after_recheck": 4857
+}
