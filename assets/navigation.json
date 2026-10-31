@@ -91,6 +91,30 @@
       ]
     },
     {
+      "slug": "xe-dap",
+      "label": "Xe đạp",
+      "url": "/xe-dap/",
+      "description": "Chọn xe và chuẩn bị cho những chuyến đi bằng sức mình.",
+      "children": [
+        {
+          "label": "Xe phổ thông",
+          "url": "/xe-dap/#muc-1"
+        },
+        {
+          "label": "Xe thể thao",
+          "url": "/xe-dap/#muc-2"
+        },
+        {
+          "label": "Xe địa hình",
+          "url": "/xe-dap/#muc-3"
+        },
+        {
+          "label": "Bảo dưỡng",
+          "url": "/xe-dap/#muc-4"
+        }
+      ]
+    },
+    {
       "slug": "bao-duong",
       "label": "Sửa chữa & bảo dưỡng",
       "url": "/bao-duong/",

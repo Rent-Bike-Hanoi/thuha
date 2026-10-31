@@ -20,7 +20,7 @@ Repository files are the source of truth. Read `docs/CONTENT-FACTORY.md` before 
 - `data/topic-matrix-published.jsonl` and `data/cache/` are derived; regenerate with `python3 scripts/topic_matrix.py sync`, never edit by hand.
 - Never bypass `discover` → `validate` → `approve`. A similarity score is a signal for the editor, never an automatic approval; every approved row must state in `information_gain` what the reader gets that existing articles do not.
 - Template permutations (same question, different district/audience/context/year) are rejected automatically and must not be re-seeded under a new wording. Search demand is only `data/keyword-metrics.jsonl` (checked date + source); do not invent volumes.
-- Legacy V1 articles stay noindexed "soft" duplicates: no deletion, URL change or redirect without the owner's approval.
+- Legacy V1 articles: the owner opened all of them to indexing on 31/10/2026 (`noindex_factory_articles: false`, empty `config/factory-noindex.json`; the previous list is kept in `reports/seo-recovery/data/factory-noindex-before-2026-10-31.json`). Still no deletion, URL change or redirect without the owner's approval.
 - An intent that an existing URL already answers is an upgrade, not a new URL: record it in `data/upgrade-backlog.jsonl` (evidence, impact, proposed action, priority P0–P4) and do not re-seed a rejected intent under new wording. Upgrades to published articles go through a PR and keep URL, slug and canonical; no mass title/H1/meta changes. Article counts are system capacity, not a target (see `docs/TOPIC-FACTORY-V2.md` §9).
 
 ## Required checks
