@@ -45,7 +45,8 @@ md.append(t(sorted(C(r['noindex_reason'] for r in inv if r['noindex']=='True').i
 md.append('\n### URL đã mở index (lô đã merge/đang merge)\n')
 md.append(t([[u,latest.get(u,{}).get('batch',''),latest.get(u,{}).get('score',''),cls.get(u,{}).get('gsc_impressions',''),insp.get(u,{}).get('coverageState','NOT_VERIFIED')] for u in recovered],['URL','Lô','QA','GSC hiển thị (8–10/2026)','GSC index (30/10)']))
 blocked=[r for r in cls.values() if r['status']=='BLOCKED' and r['page_type'].startswith('article')]
-md.append(f'\n### URL giữ noindex có lý do (BLOCKED): {len(blocked)}\n\nDanh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:\n')
+md.append(f'\n### URL giữ noindex có lý do (BLOCKED): {len(blocked)}\n\nDanh sách đầy đủ trong sheet 03_INDEX_RECOVERY. Theo lý do:\n' if nl else
+          f'\n### URL từng BLOCKED (phân loại 30/10): {len(blocked)}, nay đã mở index theo quyết định chủ site 31/10 (xem mục 9)\n\nLý do phân loại cũ:\n')
 md.append(t(C(r['reason'].split(';')[0].split(' -> ')[0][:120] for r in blocked).most_common(15),['Lý do (rút gọn)','Số URL']))
 md.append('\n## 4. Nội dung và trùng lặp\n')
 sim=rcsv('similarity.csv'); pairs=[r for r in sim if r['indexable']=='True' and r['max_sim_indexable'] and float(r['max_sim_indexable'])>=0.6]
@@ -55,7 +56,24 @@ md.append('\n## 6. Changelog và QA\n'); md.append(f'- Changelog: {len(cl)} dòn
 md.append('\n## 7. GSC\n'); daily=rcsv('gsc_daily_2026-10-05_10-27.tsv','\t')
 md.append(f'- Tổng 05–27/10/2026: {sum(int(r["clicks"]) for r in daily)} click, {sum(int(r["impressions"]) for r in daily)} hiển thị (Windsor.ai).\n')
 md.append(t(sorted(C(r['coverageState'] for r in insp.values()).items()),['URL Inspection 30/10 (50 URL mẫu)','Số URL']))
-md.append('\n## 8. Checkpoint\n'); md.append('```json\n'+json.dumps(cp,ensure_ascii=False,indent=1)+'\n```\n')
+po=rjson('post_open_index_audit_2026-10-31.json')
+if po:
+    md.append('\n## 8. Mở index toàn bộ (31/10/2026) và kiểm tra sau mở\n')
+    md.append(f'Quyết định chủ site: “{po["owner_decision_quote"]}”.\n')
+    o=po['open_index']; b=po['b07']
+    md.append(t([['PR mở index',f'{o["pr"]} ({o["merge"]})'],['Trang noindex trước / sau',f'{o["noindex_before"]} / {len(o["noindex_after"])} ({", ".join(o["noindex_after"])})'],
+                 ['URL sitemap trước / sau',f'{o["sitemap_before"]} / {o["sitemap_after"]}'],['Kiểm tra live',o['live_crawl']],['GSC mẫu',o['gsc_sample']],
+                 ['Kiểm tra rủi ro',po['audit']['workflow']],['B07 sửa sự thật',f'{b["pr"]} ({b["merge"]}): {b["urls_changed"]} URL, {b["rules"]} quy tắc'],
+                 ['Lỗi facts seo_qa trên V1 trước / sau B07',f'{b["seo_qa_fact_errors_v1_before"]} / {b["seo_qa_fact_errors_v1_after"]} URL ({b["remaining_after"]})'],
+                 ['Kiểm tra B07',b['head_unchanged']+'; '+b['live_verify']]],['Hạng mục','Kết quả']))
+    md.append('\n### Phát hiện và trạng thái\n')
+    md.append(t([[f['audit'],f['id'],f['severity'],f['url_count'],f['title'][:150],f['verifier'],f['status']] for f in po['findings']],['Mảng','ID','Mức','URL','Phát hiện','Kiểm chứng','Trạng thái']))
+    md.append('\n### Rủi ro do bước rà soát độ phủ bổ sung\n')
+    md.append(t([[x['url_count'],x['risk'][:220]] for x in po['critic_risks']],['URL','Rủi ro']))
+    md.append('\n### Cần chủ site quyết định\n')
+    md.append(t([[x['id'],x['priority'],x['url_count'],x['question'],x['evidence']] for x in po['owner_decisions']],['ID','Ưu tiên','URL','Câu hỏi','Bằng chứng']))
+    md.append('\n'+'\n'.join('- '+x for x in po['not_done'])+'\n')
+md.append('\n## 9. Checkpoint\n'); md.append('```json\n'+json.dumps(cp,ensure_ascii=False,indent=1)+'\n```\n')
 (OUT/'REPORT.md').write_text('\n'.join(md),encoding='utf-8')
 ck=['# CHECKPOINT – SEO recovery thuha.rentbikehanoi.com\n',f'Cập nhật {now}. Phiên sau đọc file này trước, rồi `reports/seo-recovery/data/checkpoint.json`.\n',
 '## Trạng thái\n','```json\n'+json.dumps(cp,ensure_ascii=False,indent=1)+'\n```\n',

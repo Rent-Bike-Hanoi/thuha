@@ -1,72 +1,43 @@
 # CHECKPOINT – SEO recovery thuha.rentbikehanoi.com
 
-Cập nhật 2026-10-31 01:24. Phiên sau đọc file này trước, rồi `reports/seo-recovery/data/checkpoint.json`.
+Cập nhật 2026-10-31 14:37. Phiên sau đọc file này trước, rồi `reports/seo-recovery/data/checkpoint.json`.
 
 ## Trạng thái
 
 ```json
 {
- "batch_id": "B04 hoàn tất (PR #6, #7)",
- "updated": "2026-10-31T01:23:53+07:00",
- "commit_sha": "57fd310780 (main, merge PR #7); 625c5bee22 (squash PR #6)",
- "completed_urls": [
-  "/kinh-nghiem/deo-o-quy-ho/xe-ga-honda-vision/di-ve-trong-ngay-day-trip-phuot-solo-mot-minh-checklist-chuan-bi/",
-  "/kinh-nghiem/deo-o-quy-ho/xe-may-so-honda-wave/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-checklist-chuan-bi/",
-  "/kinh-nghiem/san-may-ta-xua/xe-ga-honda-vision/cuoi-tuan-2-ngay-1-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/",
-  "/kinh-nghiem/vuon-quoc-gia-ba-vi/xe-ga-honda-vision/hanh-trinh-3-ngay-2-dem-phuot-solo-mot-minh-diem-checkin-am-thuc/",
-  "/luat-giao-thong/xu-ly-khi-xay-ra-va-cham-nguoi-moi-lay-bang-lai-can-cu-phap-ly-moi-nhat-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
-  "/xe-dien/xe-may-dien-vinfast-evo-200/khoi-dong-buoi-sang-lanh-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
-  "/xe-dien/xe-may-dien-vinfast-evo-200/xu-ly-ngap-nuoc-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
-  "/xe-dien/xe-may-dien-vinfast-feliz-s/khoi-dong-buoi-sang-lanh-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
-  "/xe-may/ba-dinh/honda-wave-alpha/lo-trinh-khach-du-lich-trong-nuoc-di-cong-tac-dai-ngay-chay-xe-tren-cac-truc-duong-vanh-dai/",
-  "/xe-may/xe-con-tay-honda-winner-x/thay-the-bugi-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-may-so-honda-wave/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
-  "/xe-may/xe-may-so-honda-wave/thay-dau-nhot-tai-xe-cong-nghe-chay-xe-lien-tuc-mua-mua-ngap-ung-do-thi-huong-dan-chi-tiet/",
-  "/xe-may/xe-may-so-honda-wave/thay-loc-gio-dong-co-nguoi-thue-xe-dai-han-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/",
-  "/xe-may/xe-may-so-honda-wave/thay-the-bugi-nhan-vien-van-phong-ban-ron-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/",
-  "/xe-may/xe-so-yamaha-sirius/ap-suat-lop-chuan-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-so-yamaha-sirius/thay-dau-nhot-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-sai-lam-pho-bien/",
-  "/xe-may/xe-so-yamaha-sirius/thay-loc-gio-dong-co-nu-gioi-su-dung-xe-ga-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-so-yamaha-sirius/thay-the-bugi-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
-  "/xe-may/xe-tay-ga-honda-air-blade/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-air-blade/kiem-tra-nuoc-lam-mat-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-air-blade/thay-dau-nhot-nhan-vien-van-phong-ban-ron-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/",
-  "/xe-may/xe-tay-ga-honda-air-blade/thay-nhot-hop-so-lap-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
-  "/xe-may/xe-tay-ga-honda-air-blade/thay-the-bugi-nguoi-thue-xe-dai-han-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-lead/kiem-tra-nuoc-lam-mat-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/",
-  "/xe-may/xe-tay-ga-honda-lead/thay-day-curoa-nhan-vien-van-phong-ban-ron-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-lead/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-vision/ap-suat-lop-chuan-sinh-vien-tu-bao-duong-xe-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
-  "/xe-may/xe-tay-ga-honda-vision/can-chinh-co-phot-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/",
-  "/xe-may/xe-tay-ga-honda-vision/thay-dau-nhot-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-sai-lam-pho-bien/",
-  "/xe-may/xe-tay-ga-honda-vision/thay-day-curoa-nguoi-moi-mua-xe-lan-dau-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-vision/thay-loc-gio-dong-co-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/",
-  "/xe-may/xe-tay-ga-honda-vision/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
-  "/xe-may/xe-tay-ga-honda-vision/thay-the-bugi-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/"
+ "batch_id": "OPEN-ALL + B07 hoàn tất (PR #9, #10)",
+ "updated": "2026-10-31T15:30:00+07:00",
+ "commit_sha": "ea3d59d7fc (main, merge PR #10); b7de944439 (merge PR #9)",
+ "state": "Toàn bộ bài index-eligible theo quyết định chủ site 31/10 (4.857 URL sitemap; chỉ /o-to/ và 404 noindex). INDEX_ELIGIBLE ≠ INDEXED: GSC chưa crawl lại (NOT_VERIFIED).",
+ "done": [
+  "PR #9 mở index toàn bộ; live 4.857/4.857 OK",
+  "Audit rủi ro sau mở index (9 agent, kiểm chứng đối kháng)",
+  "B07: sửa 2.835 bài V1 theo business-facts (lỗi facts 2.377 → 181 URL); live 91/91 OK"
  ],
- "remaining": "33 bài V1 đã mở index có kiểm chứng (B03 12 + B04 21). BLOCKED: B04 10 bài (bản nháp ở reports/seo-recovery/drafts/B04/), NH-00115, B06 (/bang-gia/ vs /theo-thang/). Nhóm C 2.985 + E 572 giữ noindex theo phân loại. Theo dõi GSC: trang tiền/trang chủ 'Crawled - currently not indexed' (crawl 29/10, trước nội dung mới); 6 hub + 9/10 bài B04 'URL is unknown to Google'.",
- "next_task": "Sau 7–14 ngày: kéo GSC (Windsor searchconsole + OpenSEO inspect, bind tạm thuha rồi trả về blog) cho 33 URL đã mở + 7 hub + trang tiền; cập nhật sheet GSC/Dashboard. Ứng viên lô sau: nhóm B còn lại (nếu có dữ liệu chính hãng mới), viết lại vòng 2 cho drafts/B04 nếu có thông số riêng từng mẫu, quyết định của chủ site về B06.",
- "open_errors": [
-  "Trang tiền + trang chủ 'Crawled - currently not indexed' (GSC 29/10)",
-  "cross-domain blog.rentbikehanoi.com cùng thương hiệu/NAP: NEEDS_REVIEW",
-  "bảng giá quy tắc chung khác business-facts.json: NEEDS_REVIEW"
+ "owner_decisions_pending": [
+  "OD-1: Gắn lại noindex,follow cho 572 bài BO (nội dung sai loại xe: bugi, nhớt, curoa cho xe đạp/xe điện; chủ site đã duyệt bỏ ngày 10/10), 24 bài ",
+  "OD-2: Bài xe côn tay (Winner X, Exciter) nói cửa hàng cho thuê và niêm yết giá, trong khi cửa hàng không cho thuê côn tay. Chọn: (a) noindex; (b) ",
+  "OD-3: Cửa hàng có cho thuê VinFast Klara S / Feliz S / Evo 200 không? business-facts chỉ xác nhận xe máy điện Tailg. Nếu không: bỏ lời mời thuê ho",
+  "OD-4: Khối trùng lặp: 3.566/3.567 bài V1 có bài V1 khác tương đồng ≥0,60 (trung vị 0,818), 89 cụm ≥0,86 (199 URL). Chọn theo cụm: giữ index, gộp v",
+  "OD-5: Giao xe tận nơi theo quận: quận nào nằm ngoài bán kính 10 km từ trung tâm Hoàn Kiếm (không giao)?",
+  "OD-6: Bài luật có được nhắc bảo hiểm TNDS bắt buộc (mức phạt 200–300 nghìn, NĐ 168 Điều 18) không? business-facts hiện cấm nhắc bảo hiểm trong bài",
+  "OD-7: B06: vai trò /bang-gia/ và /thue-xe-may/ha-noi/theo-thang/ cho cụm \"giá thuê xe máy theo tháng\" (534 bài V1 đang trỏ anchor này về /bang-gia",
+  "OD-8: Hub /xe-dap/ đang hiện trên menu toàn site nhưng cửa hàng không cho thuê xe đạp: giữ hub (viết phần giới thiệu) hay ẩn khỏi menu?",
+  "OD-9: Đổi tác giả JSON-LD của bài V1 từ Person \"Nguyễn Hà\" sang Organization (chỉ bài đã kiểm chứng mang tên người)?"
  ],
- "history": [
-  {
-   "ts": "2026-10-31T00:04:04+07:00",
-   "done": [
-    "HUB-01 PR #4 merge b69b1b5162, live 7/7",
-    "B05 PR #5 merge 40e52b2e60, live: theo-ngay QA 95; ngày thật cho 73 bài viết tay; bot refresh 0 diff",
-    "B06 BLOCKED (ghi changelog)"
-   ]
-  },
-  {
-   "ts": "2026-10-31T01:23:53+07:00",
-   "done": [
-    "B04: 31 bài viết lại theo sổ hướng dẫn chính hãng, kiểm chứng đối kháng (3 lỗi nặng + 30 nhẹ đã sửa); greedy QA 21 PASS / 10 BLOCKED; PR #6 squash 625c5bee22; PR #7 đồng bộ ngày 57fd310780; live 21/21 index-eligible + sitemap, 10/10 BLOCKED noindex"
-   ]
-  }
- ]
+ "next_auto": [
+  "P1 luật chưa kiểm chứng: bỏ vế 'trừ 2 điểm' (173 URL), vế cồn 8–10 triệu/tước 22–24 tháng nếu không có nguồn (88 URL), câu tốc độ/GPLX bài VinFast (284 URL)",
+  "P2: anchor 'bảng giá thuê xe máy theo tháng' sau khi chốt OD-7; lỗi 'xe xe' (766 URL) theo từng khung câu",
+  "~14/11/2026: kéo GSC (URL Inspection trang chủ + 9 trang tiền; Pages report V1 vs không V1); nếu trang tiền vẫn không index thì đề xuất noindex V1 theo lô"
+ ],
+ "do_not": [
+  "Không chạy scripts/indexnow.py --send khi chưa xử lý OD-1/OD-2",
+  "Không yêu cầu index hàng loạt",
+  "Không xoá, không redirect, không đổi URL/title khi chưa duyệt"
+ ],
+ "blocked": [],
+ "failed_qa": []
 }
 ```
 
