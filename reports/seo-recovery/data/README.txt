@@ -1,2 +1,5 @@
 source: Windsor.ai searchconsole connector, property https://thuha.rentbikehanoi.com/, fetched 2026-10-30, range 2026-08-01..2026-10-27 (pages) / 2026-07-01..2026-10-27 daily (data starts 2026-10-05)
 source: Google Search Console URL Inspection API via OpenSEO (project 7fb8c871, property https://thuha.rentbikehanoi.com/ bound temporarily 2026-10-30, restored to blog.rentbikehanoi.com afterwards)
+post-open-audit-2026-10-31/: kiểm tra rủi ro sau khi mở index toàn bộ (workflow 9 agent, 31/10/2026): legal/cannibal/technical findings (jsonl), facts_findings_by_url.csv (mẫu câu sai theo URL + quy tắc B07 đã áp), v1_duplicates.csv (tương đồng V1–V1), v1_wrong_vehicle_maintenance.csv (bài BO sai loại xe), audit_workflow_result.json (báo cáo + phán quyết kiểm chứng + rà soát độ phủ)
+post_open_index_audit_2026-10-31.json: tóm tắt phát hiện, trạng thái (FIXED_B07/OWNER_DECISION/OPEN/PASS), việc cần chủ site quyết định
+b07_fix_log.jsonl: B07 (PR #10) — mỗi dòng 1 URL đã sửa và số lần áp mỗi quy tắc

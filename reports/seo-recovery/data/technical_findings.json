@@ -196,5 +196,113 @@
   "fix": "Không đổi giá khi chưa có xác nhận của chủ cửa hàng; giữ business-facts.json là nguồn duy nhất của site này.",
   "status": "NEEDS_REVIEW",
   "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T08: Hub /xe-dap/ trở lại menu toàn site nhưng không có nội dung giới thiệu biên tập (content/hubs.json không có mục xe-dap)",
+  "affected_count": 10,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Viết mục \"xe-dap\" trong content/hubs.json theo mẫu các hub khác: title, h1, description ≤160 ký tự, 3–4 section giới thiệu thật có H2 trùng nhãn menu con, thêm FAQ nếu có. Không hứa cho thuê xe đạp vì business-facts không có. Nếu chủ site không muốn duy trì chủ đề xe đạp, cần chủ site quyết định có đưa hub ra khỏi menu hay không.",
+  "status": "OWNER_DECISION",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T09: 121/242 bài V1 trong hub xe-dap có tiêu đề/H1 về bộ phận hoặc loại xe máy (bugi, dây curoa, nhớt, nước làm mát, kim phun, xe ga)",
+  "affected_count": 121,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Cần chủ site quyết định cho nhóm 121 URL: viết lại qua PR (giữ URL), gộp, hay đặt lại noindex. AGENTS.md không cho xoá hoặc redirect khi chưa được duyệt. Trong lúc chờ, có thể xếp các bài này xuống cuối danh sách hub. Danh sách đầy đủ: chạy lại regex trong analyze_tech.py.",
+  "status": "OWNER_DECISION",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T11: Trùng title/meta description trong 4.857 URL sitemap: 147 cặp title (294 URL), 246 cặp description (492 URL), nhóm lớn nhất 2 URL",
+  "affected_count": 492,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Mỗi cặp là hai biến thể cùng chủ đề và đối tượng, chỉ khác bối cảnh hoặc góc ở slug, dễ tự cạnh tranh từ khoá với nhau. Ghi các cặp vào data/upgrade-backlog.jsonl. Gộp hoặc viết lại từng cặp qua PR, chọn một URL giữ; mọi redirect cần chủ site duyệt. Không đổi title hàng loạt (AGENTS.md). Danh sách đầy đủ ở tech_raw/metrics.json → duplicates.",
+  "status": "OWNER_DECISION",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T14: Chỉ mục chatbot/tìm kiếm (giới hạn 2.500) loại 20/33 bài V1 đã viết lại + kiểm chứng nhưng giữ 1.240 bài V1 chưa kiểm chứng",
+  "affected_count": 20,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Trong scripts/build.py, khi cắt theo limit thì sắp xếp ưu tiên: viết tay > V2 > V1 reindex > V1 chưa viết lại. Có thể dùng hàm unverified_v1() đã có sẵn. Sau đó build lại và kiểm tra cả 33 bài reindex đều có trong search-index.json.",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T12: assets/search-index.json tăng từ 5,78MB lên 14,4MB (gzip 2,49MB) sau mở index; site.js chỉ chờ tải 8 giây",
+  "affected_count": 2500,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Giảm kích thước mỗi document: bỏ hoặc cắt ngắn trường \"text\"/\"sections\" đang trùng nội dung với nhau, rút đoạn 600 ký tự xuống còn khoảng 200. Có thể hạ search_index_limit hoặc tách chỉ mục theo hub, đồng thời tăng timeout cho file lớn. Sửa ở scripts/build.py và assets/site.js.",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T06: 3.406/3.567 bài V1 mới mở có <title> > 65 ký tự (54/60 trong mẫu live)",
+  "affected_count": 3406,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: partially_wrong",
+  "fix": "Không rút gọn hàng loạt vì AGENTS.md cấm đổi title/H1/meta hàng loạt. Google tự cắt khi hiển thị. Chỉ rút gọn title khi viết lại từng bài qua PR, giữ nguyên URL. Ưu tiên các bài dài hơn 100 ký tự (450 bài).",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T10: 21/27 mục menu con dạng /hub/#muc-N có nhãn không khớp H2 của section đích (menu hiện trên 4.857 trang)",
+  "affected_count": 6,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Sửa ở một chỗ duy nhất là HUBS/NAV trong scripts/build.py: đặt nhãn menu con trùng H2 của section trong content/hubs.json, hoặc trỏ tới trang/bài thật. Không sửa trực tiếp HTML.",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T02: lastmod của sitemap.xml (index) không đổi dù sitemap-posts.xml tăng 1.202 → 4.769 URL",
+  "affected_count": 3567,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Gửi lại sitemap.xml trong Google Search Console (mục Sitemaps) để Google đọc ngay 3.567 URL mới. Có thể sửa thêm (không bắt buộc): lấy lastmod file con = max(lastmod bài, thời điểm thành phần sitemap thay đổi).",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "sau mở index 31/10",
+  "finding": "T03: 190 trang phân trang chuyên mục (144 trang trước đây noindex) nay index được, không có trong sitemap, description trùng trong cùng hub",
+  "affected_count": 190,
+  "evidence": "post-open-audit-2026-10-31/technical_findings.jsonl; kiểm chứng: confirmed",
+  "fix": "Để phân trang index được là chấp nhận được, vì Google cần lần theo link. Ưu tiên thấp: thêm \"– Trang N\" vào meta description của trang phân trang để không trùng nhau.",
+  "status": "OPEN",
+  "commit": ""
+ },
+ {
+  "area": "nội dung (sau mở index)",
+  "finding": "3.566/3.567 bài V1 có bài V1 khác tương đồng TF-IDF ≥0,60 (trung vị 0,818); 2.624 bài ≥0,80; 89 cụm ≥0,86 (199 URL). Trung vị 77,6% ký tự mỗi bài là câu lặp ở ≥20 bài.",
+  "affected_count": 3566,
+  "evidence": "post-open-audit-2026-10-31/v1_duplicates.csv",
+  "fix": "Chủ site chọn theo cụm: giữ, gộp, canonical nội bộ hoặc noindex theo lô (OD-4).",
+  "status": "OWNER_DECISION",
+  "commit": ""
+ },
+ {
+  "area": "nội dung (sau mở index)",
+  "finding": "572 bài BO (chủ site duyệt bỏ 10/10) nay được index; 552 bài có hướng dẫn kỹ thuật sai loại xe (bugi/nhớt/curoa cho xe đạp, xe điện).",
+  "affected_count": 572,
+  "evidence": "post-open-audit-2026-10-31/v1_wrong_vehicle_maintenance.csv",
+  "fix": "Đề xuất gắn lại noindex,follow (OD-1), cần chủ site đồng ý.",
+  "status": "OWNER_DECISION",
+  "commit": ""
+ },
+ {
+  "area": "business facts (sau mở index)",
+  "finding": "Câu khung sai sự thật trên bài V1: giờ 09:00–21:00, tốc độ 50cc, 50cc đòi GPLX, giá sai loại xe, cam kết bảo hiểm/đổi xe/hoàn cọc/24/7, xe đạp điện phạt như xe cơ giới.",
+  "affected_count": 2835,
+  "evidence": "b07_fix_log.jsonl; post_open_index_audit_2026-10-31.json",
+  "fix": "B07: thay bằng câu theo business-facts và nguồn luật (31 quy tắc).",
+  "status": "DONE",
+  "commit": "ea3d59d7fc (PR #10)"
  }
 ]
