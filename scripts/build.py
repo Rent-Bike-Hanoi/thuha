@@ -22,6 +22,9 @@ def factory_version(p):
 # The global switch only covers the old template factory (factoryVersion < 2).  Topic Factory V2
 # shards (scripts/factory_v2.py) are indexable unless listed in factory-noindex.json explicitly.
 def factory_noindex(p): return is_factory(p) and p['url'] not in REINDEX_LIST and (p['url'] in NOINDEX_LIST or (NOINDEX_FACTORY and factory_version(p)<2))
+# V1 chưa viết lại (không phải V2, không có trong factory-reindex.json): vẫn được index nhưng xếp sau bài viết tay,
+# V2 và bài đã kiểm chứng khi chọn bài liên quan, bài mới và thứ tự danh sách, để liên kết nội bộ ưu tiên trang chất lượng.
+def unverified_v1(p): return is_factory(p) and factory_version(p)<2 and p['url'] not in REINDEX_LIST
 HUBS=[
 ('thue-xe','Thuê xe','Bảng giá, thủ tục và lựa chọn xe cho từng hành trình.',['Thuê xe máy Hà Nội','Thuê xe 50cc','Thuê xe điện','Theo ngày, tuần, tháng']),
 ('xe-may','Xe máy','Tìm hiểu xe số, xe ga và các mẫu xe quen thuộc.',['Honda','Yamaha','Xe số & xe ga','Đánh giá & so sánh']),
@@ -280,7 +283,7 @@ def shell(title,desc,url,body,extra=None,noindex=False):
 def write(url,text):
  path=ROOT/('index.html' if url=='/' else url.strip('/')+'/index.html');path.parent.mkdir(parents=True,exist_ok=True);path.write_text(text)
 FEATURE=[P[0],P[2],P[3]]
-LATEST=[p for p in reversed(P) if p["kind"] in ["article","pillar"] and p["url"]!="/lien-he/" and not factory_noindex(p)][:3]
+LATEST=[p for p in reversed(P) if p["kind"] in ["article","pillar"] and p["url"]!="/lien-he/" and not factory_noindex(p) and not unverified_v1(p)][:3]
 # Homepage copy lives in content/home.json (business facts only); the layout stays in the builder.
 HOME=json.loads((ROOT/'content/home.json').read_text())
 home_sections=''.join(f'<section id="muc-{i+1}"><h2>{E(t)}</h2>{b}{PRICE if i==0 else ""}</section>' for i,(t,b) in enumerate(HOME['sections']))
@@ -334,8 +337,8 @@ for q in P:
  if q['kind'] not in ['hub','page'] and not factory_noindex(q):_RELPOOL.setdefault(q['hub'],[]).append((q,_toks(q)))
 def related_for(p):
  mine=_toks(p);pool=_RELPOOL.get(p['hub'],[])
- scored=sorted(((-len(mine&t),q['parent']!=p['url'],q['url'],q) for q,t in pool if q['url']!=p['url']),key=lambda x:x[:3])
- return [x[3] for x in scored[:25]]
+ scored=sorted(((unverified_v1(q),-len(mine&t),q['parent']!=p['url'],q['url'],q) for q,t in pool if q['url']!=p['url']),key=lambda x:x[:4])
+ return [x[4] for x in scored[:25]]
 # Lượt 2: giữ 3 bài sát chủ đề nhất, thêm bài thứ 4 là bài ít được trỏ tới nhất trong 10 ứng viên đầu, để bài mới không bị bỏ rơi.
 _REL={q['url']:related_for(q) for q in P if q['kind'] not in ['hub','page'] and not factory_noindex(q)}
 _RELIN={}
@@ -364,7 +367,7 @@ for p in P:
   elif p['url']=='/cam-nang/':
     all_articles=[q for q in reversed(P) if q['kind'] not in ['hub','page']]
     # Same order as hub pages: hand-written and indexable articles first (sort is stable).
-    all_articles.sort(key=lambda q:(factory_noindex(q),q.get('_source')!='content/posts.json'))
+    all_articles.sort(key=lambda q:(factory_noindex(q),unverified_v1(q),q.get('_source')!='content/posts.json'))
     total_articles_count=len(all_articles)
     total_hubs_count=len(NAV)
     recent_10=all_articles[:10]
@@ -393,7 +396,7 @@ for p in P:
    items=[q for q in reversed(P) if q['hub']==p['hub'] and q['kind'] not in ['hub','page']]
    # Hand-written and indexable articles first, noindexed factory articles last;
    # newest first within each group (sort is stable).
-   items.sort(key=lambda q:(factory_noindex(q),q.get('_source')!='content/posts.json'))
+   items.sort(key=lambda q:(factory_noindex(q),unverified_v1(q),q.get('_source')!='content/posts.json'))
    page_size=25
    total_pages=max(1,(len(items)+page_size-1)//page_size) if items else 1
    # Editorial hub content (content/hubs.json, SEO recovery 10/2026) replaces the generic auto sections:

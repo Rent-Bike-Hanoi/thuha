@@ -35,7 +35,7 @@ SHARD = {'id': 'NH-00001', 'url': '/xe-may/hoan-kiem/honda-wave-alpha/chon-xe-ng
 
 
 @contextlib.contextmanager
-def sandbox():
+def sandbox(noindex_v1=True):
     saved = {k: getattr(tm, k) for k in ('ROOT', 'MATRIX_PATH', 'PUBLISHED_PATH', 'KEYWORDS_PATH', 'CACHE_DIR', 'DB_PATH', 'POSTS_PATH', 'SHARDS_DIR',
                                         'FACTS_PATH', 'FACTORY_CFG_PATH', 'LEGACY_AUDIT_CSV', 'REPORTS')}
     with tempfile.TemporaryDirectory() as tmp:
@@ -46,6 +46,9 @@ def sandbox():
         (tmp / 'content/articles/NH-00001.json').write_text(json.dumps(SHARD, ensure_ascii=False))
         shutil.copy(ROOT / 'config/business-facts.json', tmp / 'config/business-facts.json')
         shutil.copy(ROOT / 'config/content-factory.json', tmp / 'config/content-factory.json')
+        # Kịch bản cố định, không phụ thuộc cấu hình thật của repo: mặc định V1 bị noindex (cờ bật).
+        cfg = json.loads((tmp / 'config/content-factory.json').read_text()); cfg['noindex_factory_articles'] = noindex_v1
+        (tmp / 'config/content-factory.json').write_text(json.dumps(cfg, ensure_ascii=False))
         (tmp / 'data/keyword-metrics.jsonl').write_text(json.dumps({'keyword': 'vượt phải phạt bao nhiêu', 'volume': None, 'source': 'test', 'checked': '2026-10-12'}) + '\n'
                                                        + json.dumps({'keyword': 'xe máy đi vào đường cao tốc phạt bao nhiêu', 'volume': 1300, 'source': 'test', 'checked': '2026-10-12'}) + '\n')
         tm.ROOT = tmp; tm.MATRIX_PATH = tmp / 'data/topic-matrix.jsonl'; tm.PUBLISHED_PATH = tmp / 'data/topic-matrix-published.jsonl'
@@ -82,6 +85,11 @@ assert tm.intent_class('Xe số hay xe ga nên chọn loại nào') == 'commerci
 assert tm.intent_class('Bến xe Gia Lâm') == 'navigational'
 assert tm.intent_class('Vượt phải phạt bao nhiêu') == 'informational'
 assert tm.slugify('Vượt phải xe máy phạt bao nhiêu?') == 'vuot-phai-xe-may-phat-bao-nhieu'
+
+# Chủ site mở index toàn bộ (31/10/2026): cờ tắt -> bài V1 KEEP được index và tính là trùng cứng.
+with sandbox(noindex_v1=False) as tmp:
+    rc, out = quiet(tm.sync)
+    assert tm.Index().db.execute("SELECT COUNT(*) FROM docs WHERE weight='hard'").fetchone()[0] == 6, 'mở index: bài V1 KEEP phải là trùng cứng'
 
 with sandbox() as tmp:
     rc, out = quiet(tm.sync)
