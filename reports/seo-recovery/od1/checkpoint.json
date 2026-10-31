@@ -24,12 +24,10 @@
   "OD1-B01": "workflow whhi156p1, worktree /home/user/thuha-od1-b01 (nhánh claude/seo-od1-b01)",
   "OD1-B02": "workflow wygjrxy6s, worktree /home/user/thuha-od1-b02 (nhánh claude/seo-od1-b02)",
   "OD1-B21": "workflow wiafx34lo, worktree /home/user/thuha-od1-b21",
-  "OD1-B22": "workflow wv48ci6fl, worktree /home/user/thuha-od1-b22"
+  "OD1-B22": "workflow wv48ci6fl, worktree /home/user/thuha-od1-b22",
+  "OD1-B23": "workflow w2taw22xu, worktree /home/user/thuha-od1-b23"
  },
  "batch_workflow_script": "/root/.claude/projects/-home-user/d2ee80cf-e387-578e-9efc-dc9c42172ccb/workflows/scripts/od1-batch-wf_e901aad3-43d.js (args: python3 reports/seo-recovery/od1/tools/batch_args.py OD1-Bxx 4 + libs)",
  "lesson": "Không tự gõ args lô: luôn sinh bằng batch_args.py và assert url/id khớp file (lần chạy B01 đầu bị dừng vì ghép sai id, chưa sửa file nào).",
- "law_changes_2026": "Luật 118/2025 sửa Luật 36 (01/7/2026, hợp nhất 55/VBHN-VPQH); NĐ 238/2026 sửa NĐ 168 (15/8/2026); TT 108/2026/TT-BCA thay TT 12/2025 (01/7/2026); NĐ 94/2026 thay NĐ 160/2024 — cần rà các bài luật viết tay/V2 sau OD-1.",
- "worktrees_ready": [
-  "/home/user/thuha-od1-b23 (OD1-B23 chưa chạy; args: scratchpad/seo/b23_args.json hoặc batch_args.py OD1-B23 4)"
- ]
+ "law_changes_2026": "Luật 118/2025 sửa Luật 36 (01/7/2026, hợp nhất 55/VBHN-VPQH); NĐ 238/2026 sửa NĐ 168 (15/8/2026); TT 108/2026/TT-BCA thay TT 12/2025 (01/7/2026); NĐ 94/2026 thay NĐ 160/2024 — cần rà các bài luật viết tay/V2 sau OD-1."
 }
