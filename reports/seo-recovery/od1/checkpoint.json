@@ -1,12 +1,30 @@
 {
  "task": "OD-1: viết lại 608 bài (572 sai loại xe, 24 luật XEM_LAI, 13 A2), giữ URL, không noindex hàng loạt",
  "owner_request": "Tiếp tục xử lý danh sách OD-1 gồm 608 bài ... THỰC THI TRỰC TIẾP TRÊN GITHUB ... theo từng lô 20–30 bài",
- "updated": "2026-10-31T17:00:00+07:00",
+ "updated": "2026-10-31T18:00:00+07:00",
  "matrix": "reports/seo-recovery/od1/od1_matrix.csv (cột status: TODO/WRITTEN/QA_PASS/DEPLOYED/BLOCKED)",
  "brief": "reports/seo-recovery/od1/BRIEF.md",
  "tools": "reports/seo-recovery/od1/tools/check_shard.py",
- "prep": {"libraries": "reports/seo-recovery/od1/lib/*.json", "plans": "reports/seo-recovery/od1/plan/<GROUP>.json", "workflows_running": ["wip60c8kc legal", "war3q98am vinfast", "wf6qthlsw bicycle", "wbk2rl32s xemay"]},
+ "prep": {
+  "libraries": "reports/seo-recovery/od1/lib/*.json",
+  "plans": "reports/seo-recovery/od1/plan/<GROUP>.json",
+  "workflows_running": [
+   "war3q98am vinfast",
+   "wf6qthlsw bicycle",
+   "wbk2rl32s xemay"
+  ],
+  "done": [
+   "legal: lib/legal_a.json (150), lib/legal_b.json (142), plan/LUAT.json (35 khả thi, 1 BLOCKED NH-01045 bảo hiểm TNDS — OD-6)"
+  ]
+ },
  "batches_done": [],
  "next": "Khi plan LUAT xong: tạo worktree /home/user/thuha-od1-b01 (nhánh claude/seo-od1-b01 từ origin/main), chạy workflow od1-batch cho OD1-B01, rồi QA greedy (scripts/seo_recover_batch.py --greedy --batch OD1-B01), build, test, PR, merge, verify live, cập nhật matrix/changelog/checkpoint.",
- "resume": "Đọc file này + od1_matrix.csv; lô nào status DEPLOYED thì bỏ qua; lô WRITTEN thì chạy QA/deploy; lô TODO thì chạy od1-batch."
+ "resume": "Đọc file này + od1_matrix.csv; lô nào status DEPLOYED thì bỏ qua; lô WRITTEN thì chạy QA/deploy; lô TODO thì chạy od1-batch.",
+ "batches_running": {
+  "OD1-B01": "workflow whhi156p1, worktree /home/user/thuha-od1-b01 (nhánh claude/seo-od1-b01)",
+  "OD1-B02": "workflow wygjrxy6s, worktree /home/user/thuha-od1-b02 (nhánh claude/seo-od1-b02)"
+ },
+ "batch_workflow_script": "/root/.claude/projects/-home-user/d2ee80cf-e387-578e-9efc-dc9c42172ccb/workflows/scripts/od1-batch-wf_e901aad3-43d.js (args: python3 reports/seo-recovery/od1/tools/batch_args.py OD1-Bxx 4 + libs)",
+ "lesson": "Không tự gõ args lô: luôn sinh bằng batch_args.py và assert url/id khớp file (lần chạy B01 đầu bị dừng vì ghép sai id, chưa sửa file nào).",
+ "law_changes_2026": "Luật 118/2025 sửa Luật 36 (01/7/2026, hợp nhất 55/VBHN-VPQH); NĐ 238/2026 sửa NĐ 168 (15/8/2026); TT 108/2026/TT-BCA thay TT 12/2025 (01/7/2026); NĐ 94/2026 thay NĐ 160/2024 — cần rà các bài luật viết tay/V2 sau OD-1."
 }
