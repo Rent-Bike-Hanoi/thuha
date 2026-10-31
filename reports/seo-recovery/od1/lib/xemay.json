@@ -1,0 +1,2040 @@
+{
+ "library": "xemay",
+ "built": "2026-10-31",
+ "facts": [
+  {
+   "id": "XM-001",
+   "tags": [
+    "vision",
+    "kiem-tra-nuoc-lam-mat",
+    "lam-mat"
+   ],
+   "claim": "Trang sản phẩm Honda Vision ghi động cơ xăng 4 kỳ, 1 xi lanh, làm mát bằng không khí.",
+   "quote": "Loại động cơ Xăng, 4 kỳ, 1 xi lanh, làm mát bằng không khí",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/vision",
+   "source_title": "Honda Vision – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-002",
+   "tags": [
+    "vision",
+    "kiem-tra-nuoc-lam-mat",
+    "lich-bao-duong",
+    "ve-sinh-xich-lip",
+    "thay-day-curoa"
+   ],
+   "claim": "Lịch bảo dưỡng trong sổ tay Honda Vision (loại V) chỉ có các mục động cơ, đai truyền động, dầu truyền động cuối và bình điện; không có mục dung dịch làm mát, hệ thống làm mát hay xích tải.",
+   "quote": "Loại V, II V, III V, IV V, VI V, VII V, VIII V, IX V … Đường ống xăng – … Mực xăng 55 Hoạt động của tay ga 95 Lọc gió *2 – Thông hơi vách máy *3 – Bugi – Khe hở xu páp – Dầu động cơ 86 Lưới lọc dầu động cơ – Tốc độ cầm chừng động cơ – Hệ thống kiểm soát khí xả – Đai truyền động – Dầu truyền động cuối *4 2 năm – Bình điện 73 … Độ mòn guốc ly hợp – Chân chống nghiêng 94 Giảm xóc – Ốc, bu lông, chốt – Bánh xe/lốp xe 78 Vòng bi cổ lái –",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-003",
+   "tags": [
+    "vision",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "lich-bao-duong"
+   ],
+   "claim": "Theo lịch bảo dưỡng loại V của Honda Vision, đai truyền động (dây curoa) được kiểm tra ở mốc 12.000 km, thay ở 24.000 km và kiểm tra lại ở 36.000 km.",
+   "quote": "Đai truyền động … : Kiểm tra (vệ sinh, điều chỉnh, bôi trơn hoặc thay thế nếu cần) : Thay thế : Vệ sinh [ký hiệu trong bảng, đọc từ ảnh trang in 69 (trang PDF 73): hàng \"Đai truyền động\" có K ở cột 12, T ở cột 24, K ở cột 36 (× 1.000 km)]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-004",
+   "tags": [
+    "vision",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Honda Vision cần thay dầu truyền động cuối (nhớt láp) định kỳ 2 năm; dung tích 0,07 L khi xả và 0,09 L khi rã máy.",
+   "quote": "Dầu truyền động cuối *4 2 năm … Sau khi xả 0,07 L (0.07 US qt, 0.06 Imp qt) … 0,09 L (0.10 US qt, 0.08 Imp qt) … *4 : Việc thay mới đòi hỏi phải có kỹ năng về sửa chữa.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-005",
+   "tags": [
+    "vision",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Dầu động cơ khuyên dùng cho Honda Vision là dầu 4 kỳ API SJ trở lên, loại MB theo JASO T 903, độ nhớt SAE 10W-30.",
+   "quote": "Dầu máy Honda 4 kỳ cho xe máy, phân loại SJ hoặc loại cao hơn theo tiêu chuẩn API, ngoại trừ loại dầu có dòng chữ \"Energy Conserving\" hoặc \"Resource Conserving\", dầu MB theo tiêu chuẩn JASO T 903, độ nhớt SAE 10W-30.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-006",
+   "tags": [
+    "vision",
+    "thay-dau-nhot"
+   ],
+   "claim": "Dung tích dầu động cơ Honda Vision khi xả là 0,65 L (loại ED, E, IV V, IX V) hoặc 0,7 L (các loại còn lại); 0,8 L sau khi rã máy.",
+   "quote": "Loại ED, E, 0,65 L (0.69 US qt, … IV V, IX V 0.57 Imp qt) … 0,7 L (0.7 US qt, 0.6 … Sau khi rã … 0,8 L (0.8 US qt, 0.7 Imp qt)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-007",
+   "tags": [
+    "vision",
+    "thay-dau-nhot"
+   ],
+   "claim": "Trang sản phẩm Honda Vision hiện hành ghi dung tích nhớt máy 0,65 lít sau khi xả và 0,8 lít sau khi rã máy.",
+   "quote": "Dung tích nhớt máy Sau khi xả 0,65 lít Sau khi rã máy 0,8 lít",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/vision",
+   "source_title": "Honda Vision – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-008",
+   "tags": [
+    "vision",
+    "thay-dau-nhot",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Honda Vision (loại V) thay dầu động cơ ở 1.000 km, sau đó mỗi 6.000 km (6, 12, 18, 24, 30, 36 nghìn km) và cả mốc hằng năm; lưới lọc dầu được vệ sinh ở 12, 24, 36 nghìn km.",
+   "quote": "Dầu động cơ 86 Lưới lọc dầu động cơ – [ký hiệu trong bảng, đọc từ ảnh trang in 69: hàng \"Dầu động cơ\" có K ở cột kiểm tra trước khi lái, T ở các cột 1, 6, 12, 18, 24, 30, 36 và cột Kiểm tra hàng năm; hàng \"Lưới lọc dầu động cơ\" có V ở cột 12, 24, 36]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-009",
+   "tags": [
+    "vision",
+    "thay-dau-nhot"
+   ],
+   "claim": "Sổ tay Honda Vision hướng dẫn kiểm tra dầu: nổ cầm chừng 3–5 phút nếu máy nguội, tắt máy chờ 2–3 phút, dựng chân chống đứng trên nền phẳng rồi dùng que thăm.",
+   "quote": "Kiểm tra dầu động cơ với công tắc Idling Stop ở vị trí (Idling). 1. Nếu động cơ nguội, để động cơ nổ cầm chừng từ 3 đến 5 phút. 2. Vặn khóa điện sang vị trí (Off) và đợi từ 2 - 3 phút. 3. Dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn. 4. Tháo que thăm/nắp đổ dầu ra và lau sạch.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-010",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Honda Vision dùng bình điện (ắc quy) 12 V loại GTZ6V hoặc WTZ6VIS, dung lượng 5 Ah (10 HR) tùy loại xe.",
+   "quote": "GTZ6V 12 V-5 Ah (10 HR) … WTZ6VIS 12 V-5 Ah (10 HR)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-011",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Bình điện Honda Vision là loại không cần bảo dưỡng: không cần kiểm tra mức dung dịch hay đổ nước cất, chỉ vệ sinh cực khi bẩn hoặc mòn.",
+   "quote": "Chiếc xe này sử dụng loại bình điện không cần bảo dưỡng. Không cần kiểm tra mức dung dịch điện phân hoặc đổ thêm nước cất. Vệ sinh các cực bình điện nếu bị bẩn hoặc mòn điện cực. Không được tháo dải chắn nắp bình điện ra.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-012",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Bình điện có tuổi thọ giới hạn; Honda khuyên thay bình cùng loại và vệ sinh cực bị ăn mòn bằng nước ấm.",
+   "quote": "Nếu các cực bình điện có dấu hiệu bị ăn mòn và bị bám muội trắng, hãy rửa bằng nước ấm và lau sạch. … Bình điện có tuổi thọ giới hạn. Tham khảo ý kiến của Cửa hàng Honda ủy nhiệm khi cần thay thế bình điện. Luôn thay thế bình điện cùng loại với bình điện cũ.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-013",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Khi sạc bình điện xe Vision phải tháo bình khỏi xe và dùng máy sạc dành cho xe máy; máy sạc ô tô có thể làm bình quá nhiệt và hỏng.",
+   "quote": "Sạc bình điện bằng máy sạc bình điện dùng cho xe máy. Tháo bình điện ra khỏi xe trước khi sạc. Không sử dụng máy sạc bình điện dùng cho ô tô vì có thể gây quá nhiệt bình điện và làm hỏng bình điện.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-014",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Trên Vision có Idling Stop, đèn pha vẫn sáng khi máy tự tắt nên bình yếu có thể không đề lại được; Honda khuyên khi bình yếu thì chuyển công tắc sang Idling và không dùng Idling Stop.",
+   "quote": "Đèn pha vẫn sáng sau khi động cơ dừng hoạt động bằng Hệ thống Idling Stop. Bình điện có thể hết điện và không khởi động lại được động cơ. Khi bình điện yếu, bật công tắc Idling Stop sang vị trí (Idling) và không sử dụng hệ thống Idling Stop.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-015",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "bao-quan-xe"
+   ],
+   "claim": "Khi cất xe Vision lâu ngày, Honda hướng dẫn tháo bình điện, sạc đầy và để nơi râm mát; nếu không tháo bình thì tháo dây cực âm.",
+   "quote": "Tháo bình điện (2 T. 82) để tránh làm hao hụt điện áp. Sạc đầy bình điện và sau đó đặt ở khu vực râm mát, thoáng khí. u Nếu không tháo bình điện, hãy tháo dây cực âm - ra khỏi cực bình điện để tránh hiện tượng phóng điện.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-016",
+   "tags": [
+    "vision",
+    "kiem-tra-ac-quy",
+    "lich-bao-duong"
+   ],
+   "claim": "Bình điện Honda Vision (loại V) được kiểm tra ở các mốc 6, 12, 18, 24, 30, 36 nghìn km và mốc hằng năm.",
+   "quote": "Bình điện 73 [ký hiệu trong bảng, đọc từ ảnh trang in 69: hàng \"Bình điện\" có K ở các cột 6, 12, 18, 24, 30, 36 và cột Kiểm tra hàng năm]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-017",
+   "tags": [
+    "vision",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Bảng thông số Honda Vision ghi bộ giảm tốc sơ cấp V-Matic (truyền động vô cấp) tỷ số 2,52:1–0,82:1 và giảm tốc cuối 10,625.",
+   "quote": "Giảm tốc sơ cấp V-Matic (2.52:1-0.82:1) … Giảm tốc cuối 10,625",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-018",
+   "tags": [
+    "vision",
+    "thay-day-curoa",
+    "van-chuyen-xe"
+   ],
+   "claim": "Sổ tay Vision cảnh báo không kéo rê xe một hoặc hai bánh trên đường vì có thể hư hỏng nghiêm trọng hệ thống truyền động.",
+   "quote": "Không được kéo rê xe một bánh hoặc hai bánh trên đường. LƯU Ý Kéo rê xe một bánh hoặc hai bánh trên đường có thể gây hư hỏng nghiêm trọng tới hệ thống truyền động.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-019",
+   "tags": [
+    "vision",
+    "kiem-tra-nuoc-lam-mat",
+    "chay-ra-xe-moi"
+   ],
+   "claim": "Sổ tay Vision lưu ý nổ máy tại chỗ quá lâu có thể làm hỏng động cơ vì làm mát và bôi trơn không đảm bảo.",
+   "quote": "Nổ máy tại chỗ trong thời gian dài có thể làm hỏng động cơ do điều kiện làm mát và bôi trơn không đảm bảo.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG VISION (NSC110) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-020",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Trang sản phẩm Honda LEAD ghi động cơ làm mát bằng chất lỏng và loại truyền động là truyền động đai.",
+   "quote": "Loại động cơ Xăng 4 kỳ, 1 xi lanh, làm mát bằng chất lỏng … Loại truyền động Truyền động đai",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/lead-abs",
+   "source_title": "Honda LEAD ABS – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-021",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Hệ thống làm mát Honda LEAD 125 chứa 0,37 L dung dịch; dung dịch khuyên dùng là Honda PRE-MIX.",
+   "quote": "Dung tích hệ … thống làm mát … 0,37 L (0.39 US qt, 0.33 Imp qt) … Dung dịch … làm mát DUNG DỊCH LÀM MÁT PRE-MIX HONDA",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-022",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Honda yêu cầu chỉ dùng dung dịch làm mát PRE-MIX chính hãng cho LEAD, không pha loãng với nước.",
+   "quote": "Chỉ sử dụng dung dịch làm mát PRE-MIX HONDA chính hãng mà không cần pha loãng với nước. Dung dịch làm mát PRE-MIX HONDA có khả năng chống ăn mòn và quá nhiệt rất hiệu quả. Nên kiểm tra và thay thế dung dịch làm mát đúng theo lịch bảo dưỡng.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-023",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Kiểm tra nước làm mát LEAD khi động cơ nguội: dựng chân chống đứng, mở yên, giữ xe thẳng và xem mức nằm giữa vạch UPPER và LOWER của bình dự trữ.",
+   "quote": "Kiểm tra lượng dung dịch làm mát trong bình dự trữ khi động cơ nguội. 1. Dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn. 2. Mở yên xe. 2 T. 71 3. Giữ cho xe thẳng đứng. 4. Kiểm tra mức dung dịch làm mát có nằm giữa vạch UPPER và vạch LOWER trong bình dự trữ không.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-024",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Nếu nước làm mát LEAD giảm nhanh hoặc cạn, có thể đang rò rỉ nặng và cần mang xe đến cửa hàng Honda ủy nhiệm.",
+   "quote": "Nếu thấy lượng dung dịch làm mát giảm nhanh hoặc cạn hết, có khả năng dung dịch làm mát đã bị rò rỉ nghiêm trọng. Hãy mang xe đến Cửa hàng Honda ủy nhiệm để kiểm tra.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-025",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Chỉ châm nước làm mát LEAD qua nắp bình dự trữ đến vạch UPPER; không mở nắp két tản nhiệt, nhất là khi máy còn nóng.",
+   "quote": "Tháo nắp két tản nhiệt trong khi động cơ còn nóng có thể làm dung dịch làm mát bắn ra ngoài gây bỏng. Luôn để động cơ và bộ tản nhiệt nguội hẳn trước khi tháo nắp két tản nhiệt. … Chỉ đổ thêm dung dịch làm mát qua nắp bình dự trữ, không được tháo nắp két tản nhiệt.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-026",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng LEAD 125: dung dịch làm mát két tản nhiệt được kiểm tra trước khi lái và ở các mốc 12, 24, 36 nghìn km cùng mốc hằng năm, thay định kỳ 3 năm; hệ thống làm mát kiểm tra ở 12, 24, 36 nghìn km và hằng năm.",
+   "quote": "Dung dịch làm mát két tản nhiệt *4 82 … 3 năm 102 Hệ thống làm mát [ký hiệu trong bảng, đọc từ ảnh trang in 82 (trang PDF 86): hàng \"Dung dịch làm mát két tản nhiệt *4\" có K ở cột kiểm tra trước khi lái, các cột 12, 24, 36 và cột Kiểm tra hàng năm, cột Thay thế định kỳ ghi \"3 năm\"; hàng \"Hệ thống làm mát\" có K ở cột 12, 24, 36 và cột hằng năm]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-027",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Khi đèn báo quá nhiệt dung dịch làm mát trên LEAD sáng: tắt máy, để nguội, kiểm tra rò rỉ két, kiểm tra và bổ sung mức trong bình dự trữ; có rò rỉ thì không khởi động lại.",
+   "quote": "Quá nhiệt động cơ (Đèn báo quá nhiệt dung dịch làm mát sáng) LƯU Ý Tiếp tục lái xe khi động cơ bị quá nhiệt có thể gây hư hỏng nghiêm trọng cho động cơ. 1. Tắt máy bằng khóa điện. 2. Để động cơ nguội với khóa điện ở vị trí (Off). 3. Sau khi động cơ nguội, hãy kiểm tra két tản nhiệt xem có rò rỉ không. 2 T. 102 Nếu có rò rỉ: Không khởi động động cơ.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-028",
+   "tags": [
+    "lead",
+    "kiem-tra-nuoc-lam-mat",
+    "kiem-tra-truoc-khi-lai"
+   ],
+   "claim": "Danh mục kiểm tra trước khi lái của LEAD 125 có mục mức dung dịch làm mát và rò rỉ.",
+   "quote": "Mức dung dịch làm mát - đổ thêm dung dịch làm mát nếu cần. Kiểm tra xem có rò rỉ không 2 T. 102",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-029",
+   "tags": [
+    "lead",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng LEAD 125: đai truyền động kiểm tra ở 12.000 km, thay ở 24.000 km, kiểm tra ở 36.000 km; dầu truyền động cuối thay định kỳ 2 năm.",
+   "quote": "Đai truyền động … Dầu truyền động cuối *4 … 2 năm [ký hiệu trong bảng, đọc từ ảnh trang in 83 (trang PDF 87): hàng \"Đai truyền động\" có K ở cột 12, T ở cột 24, K ở cột 36; hàng \"Dầu truyền động cuối *4\" có \"2 năm\" ở cột Thay thế định kỳ]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-030",
+   "tags": [
+    "lead",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Dung tích dầu truyền động (nhớt láp) LEAD 125 là 0,09 L khi xả và 0,10 L khi rã máy.",
+   "quote": "Sau khi xả 0,09 L (0.10 US qt, 0.08 Imp qt) … 0,10 L (0.11 US qt, 0.09 Imp qt)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-031",
+   "tags": [
+    "lead",
+    "thay-dau-nhot"
+   ],
+   "claim": "LEAD 125 cần 0,8 L dầu động cơ khi xả, 0,85 L khi xả và vệ sinh lưới lọc, 0,9 L khi rã máy; dầu khuyên dùng loại MB, SAE 10W-30.",
+   "quote": "Sau khi xả 0,8 L (0.8 US qt, 0.7 Imp qt) … 0,9 L (1.0 US qt, 0.8 Imp qt) … 0,85 L (0.90 US qt, 0.75 Imp qt) … dầu MB theo tiêu chuẩn JASO T 903, độ nhớt SAE 10W-30",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-032",
+   "tags": [
+    "lead",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "LEAD 125 (trừ loại TH, II TH) dùng bình điện WTZ6VIS 12 V-5 Ah; bình thuộc loại không cần bảo dưỡng.",
+   "quote": "WTZ6VIS … 12 V-5 Ah (10 HR) … Chiếc xe này sử dụng loại bình điện không cần bảo dưỡng. Không cần kiểm tra mức dung dịch điện phân hoặc đổ thêm nước cất.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-033",
+   "tags": [
+    "lead",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Trên LEAD, khi bình điện yếu thì hệ thống báo động chống trộm có thể không hoạt động.",
+   "quote": "Khi bình điện trên xe yếu, hệ thống báo động chống trộm có thể không hoạt động.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/a1ImE0kmkoA3Vj3r5eVr.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG LEAD 125 – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-034",
+   "tags": [
+    "air-blade",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Trang sản phẩm Honda Air Blade ghi động cơ làm mát bằng chất lỏng và loại truyền động dây đai, biến thiên vô cấp.",
+   "quote": "Loại động cơ Xăng, 4 kỳ, 1 xi-lanh, làm mát bằng chất lỏng … Loại truyền động Dây đai, biến thiên vô cấp",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/air-blade-160125",
+   "source_title": "Honda Air Blade 160/125 – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-035",
+   "tags": [
+    "air-blade",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Hệ thống làm mát Air Blade 160 (ACA160CAF) chứa 0,48 L, Air Blade 125 (ACA125CBF/CAF) chứa 0,37 L; dung dịch khuyên dùng Honda PRE-MIX COOLANT.",
+   "quote": "ACA160CAF 0,48 L (0.51 US qt, 0.42 Imp qt) Dung tích hệ thống làm mát ACA125CBF/ACA125CAF 0,37 L (0.39 US qt, 0.33 Imp qt) Dung dịch làm mát DUNG DỊCH LÀM MÁT HONDA PRE-MIX",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-036",
+   "tags": [
+    "air-blade",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Honda cảnh báo dùng dung dịch không chuyên cho động cơ nhôm hoặc dùng nước máy, nước khoáng cho Air Blade có thể gây ăn mòn động cơ.",
+   "quote": "Chỉ sử dụng dung dịch làm mát HONDA PRE-MIX COOLANT chính hãng mà không cần pha loãng với nước. … Sử dụng dung dịch làm mát không chuyên dụng cho động cơ bằng nhôm hoặc sử dụng nước máy/nước khoáng có thể gây ăn mòn động cơ.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-037",
+   "tags": [
+    "air-blade",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Kiểm tra nước làm mát Air Blade khi máy nguội, xe dựng chân chống đứng trên nền phẳng, mức phải nằm giữa vạch TRÊN (UPPER) và DƯỚI (LOWER) của bình dự trữ.",
+   "quote": "Kiểm tra lượng dung dịch làm mát trong bình dự trữ khi động cơ nguội. 1. Dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn. 2. Kiểm tra mức dung dịch làm mát có nằm giữa vạch TRÊN (UPPER) và vạch DƯỚI (LOWER) trong bình dự trữ không.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-038",
+   "tags": [
+    "air-blade",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Trên Air Blade, chỉ châm thêm dung dịch làm mát qua nắp bình dự trữ đến vạch UPPER, không tháo nắp két tản nhiệt.",
+   "quote": "Nếu lượng dung dịch làm mát nằm dưới vạch DƯỚI (LOWER), hãy đổ thêm dung dịch làm mát khuyên dùng (2 T. 86) cho đến khi chạm vạch TRÊN (UPPER). Chỉ đổ thêm dung dịch làm mát qua nắp bình dự trữ, không được tháo nắp két tản nhiệt.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-039",
+   "tags": [
+    "air-blade",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-day-curoa",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-xich-lip",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Air Blade 160/125: dung dịch làm mát kiểm tra ở 12, 24, 36 nghìn km và hằng năm, thay 3 năm; đai truyền động kiểm tra 12.000 km, thay 24.000 km; dầu truyền động cuối thay 2 năm.",
+   "quote": "Dung dịch làm mát két tản nhiệt *4 … Hệ thống làm mát … Đai truyền động … Dầu truyền động cuối *4 [ký hiệu trong bảng, đọc từ ảnh trang in 79 (trang PDF 83): hàng \"Dung dịch làm mát két tản nhiệt *4\" có K ở cột kiểm tra trước khi lái, các cột 12, 24, 36, cột hằng năm và \"3 năm\" ở cột Thay thế định kỳ; hàng \"Đai truyền động\" có K ở 12, T ở 24, K ở 36; hàng \"Dầu truyền động cuối *4\" ghi \"2 năm\"]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-040",
+   "tags": [
+    "air-blade",
+    "thay-dau-nhot"
+   ],
+   "claim": "Air Blade 160/125 cần 0,80 L dầu động cơ khi xả, 0,85 L khi xả và vệ sinh lưới lọc, 0,90 L khi rã máy; dầu khuyên dùng MB, SAE 10W-30.",
+   "quote": "dầu MB theo tiêu chuẩn JASO T 903, độ nhớt SAE 10W-30. Sau khi xả 0,80 L (0.85 US qt, 0.70 Imp qt) Sau khi xả và vệ sinh lưới lọc Dung tích dầu động cơ 0,85 L (0.90 US qt, 0.75 Imp qt) Sau khi rã máy 0,90 L (0.95 US qt, 0.79 Imp qt)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-041",
+   "tags": [
+    "air-blade",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Bảng thông số Air Blade 160/125 ghi dòng dầu cho bộ truyền động cuối (nhãn trong sổ là \"Dung tích dầu động cơ cuối cùng\") 0,13 L khi xả và 0,14 L khi rã máy, tách riêng với dầu động cơ 0,80–0,90 L.",
+   "quote": "Sau khi xả Dung tích dầu động cơ 0,13 L (0.14 US qt, 0.11 Imp qt) cuối cùng Sau khi rã máy 0,14 L (0.15 US qt, 0.12 Imp qt)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-042",
+   "tags": [
+    "air-blade",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Air Blade 160/125 dùng bình điện 12 V-5,0 Ah loại GTZ6V hoặc WTZ6VIS, loại không cần bảo dưỡng.",
+   "quote": "GTZ6V, WTZ6VIS 12 V-5,0 Ah (10 HR) … Chiếc xe này sử dụng loại bình điện không cần bảo dưỡng. Không cần kiểm tra mức dung dịch điện phân hoặc đổ thêm nước cất.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-043",
+   "tags": [
+    "air-blade",
+    "kiem-tra-ac-quy",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Air Blade kiểm tra bình điện ở 6, 12, 18, 24, 30, 36 nghìn km và hằng năm.",
+   "quote": "Bình điện [ký hiệu trong bảng, đọc từ ảnh trang in 80 (trang PDF 84): hàng \"Bình điện\" có K ở các cột 6, 12, 18, 24, 30, 36 và cột Kiểm tra hàng năm, tham khảo trang 91]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-044",
+   "tags": [
+    "air-blade",
+    "thay-day-curoa"
+   ],
+   "claim": "Air Blade dùng bộ truyền V-Matic: giảm tốc sơ cấp 2,52:1–0,82:1 (bản 160) và 2,65:1–0,82:1 (bản 125).",
+   "quote": "V-Matic (2.52:1-0.82:1) … V-Matic (2.65:1-0.82:1)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-045",
+   "tags": [
+    "air-blade",
+    "kiem-tra-ac-quy",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Nếu Air Blade không nổ trong 5 giây khi đề, Honda khuyên tắt khóa và chờ 10 giây để bình điện phục hồi điện áp.",
+   "quote": "Nếu động cơ không khởi động trong vòng 5 giây, hãy vặn khóa điện sang vị trí (Off) và đợi 10 giây trước khi khởi động lại động cơ để khôi phục điện áp bình điện.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/November2025/yGA1ooMcYBDaX4NEkfnH.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG ACA160CAF ACA125CAF/CBF (Air Blade 160/125) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-046",
+   "tags": [
+    "wave",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Honda Wave Alpha 110 dùng động cơ 4 kỳ làm mát bằng không khí và hộp số cơ khí 4 số tròn.",
+   "quote": "Loại động cơ 4 kỳ, 1 xilanh, làm mát bằng không khí … Loại truyền động Cơ khí, 4 số tròn",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/wave-alpha-110",
+   "source_title": "Honda Wave Alpha 110 – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-047",
+   "tags": [
+    "wave",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Độ chùng xích tải của Wave Alpha là 25–35 mm; không được chạy xe nếu độ chùng vượt quá 50 mm.",
+   "quote": "Độ chùng xích tải: 25 - 35 mm (1.0 - 1.4 in) Bảo dưỡng u Không lái xe nếu độ chùng vượt quá 50 mm (2.0 in).",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-048",
+   "tags": [
+    "wave",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Cách kiểm tra xích Wave Alpha: về số N, tắt máy, dựng chân chống đứng, tháo nắp lỗ kiểm tra rồi dùng ngón tay đẩy xích lên xuống; đo tại vài điểm.",
+   "quote": "Kiểm tra độ chùng xích tải tại một vài điểm trên xích. … 1. Chuyển về vị trí số N. Tắt máy. 2. Dựng xe bằng chân chống đứng trên bề mặt bằng phẳng, chắc chắn. … 3. Tháo nắp lỗ kiểm tra. … 4. Dùng ngón tay của bạn di chuyển xích tải lên và xuống.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-049",
+   "tags": [
+    "wave",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Xích Wave Alpha bôi trơn bằng dầu bôi trơn xích tải, nếu không có thì dầu hộp số SAE 80 hoặc 90; không dùng xăng hay dung môi dễ cháy để rửa xích.",
+   "quote": "Dầu bôi trơn khuyên dùng: Dầu bôi trơn xích tải Nếu không có, sử dụng dầu hộp số SAE 80 hoặc 90. … Tuyệt đối không sử dụng xăng hoặc dung môi có điểm chớp cháy thấp để vệ sinh xích tải.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-050",
+   "tags": [
+    "wave",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Wave Alpha yêu cầu kiểm tra và bôi trơn xích tải mỗi 500 km, ngoài kiểm tra trước mỗi lần lái.",
+   "quote": "Xích tải … Mỗi 500 km (300 dặm): [ký hiệu trong bảng, đọc từ ảnh trang in 40 (trang PDF 45): hàng \"Xích tải\" có K ở cột kiểm tra trước khi lái và dòng \"Mỗi 500 km (300 dặm): K B\" (B = Bôi trơn)]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-051",
+   "tags": [
+    "wave",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Xích tải tiêu chuẩn Wave Alpha là loại 420 (DID420NSD, KMC420JB, RK420EL1) với 102 mắt; nhông dẫn động 14 răng, nhông bị động 35 răng.",
+   "quote": "Độ chùng xích tải 25 - 35 mm (1.0 - 1.4 in) DID420NSD KMC420JB Xích tải tiêu chuẩn RK420EL1 Số mắt xích 102 14 răng Kích cỡ nhông tải Nhông dẫn động tiêu chuẩn Nhông bị động 35 răng",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-052",
+   "tags": [
+    "wave",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Honda lưu ý khi răng nhông mòn thì thay nhông; lắp xích mới vào nhông đã mòn sẽ làm xích mòn nhanh.",
+   "quote": "Nếu răng của một trong hai nhông tải bị mòn hoặc hư hỏng, hãy mang xe đến cửa hàng Honda ủy nhiệm để thay thế nhông tải. … Sử dụng xích mới cho nhông tải bị mòn sẽ khiến xích bị mòn nhanh.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-053",
+   "tags": [
+    "wave",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Wave Alpha dùng dầu MA theo JASO T 903, SAE 10W-30; dung tích dầu động cơ 0,8 L khi xả và 1,0 L khi rã máy (bảng thông số trang 90 chỉ có một dòng dung tích dầu, cho động cơ).",
+   "quote": "dầu MA theo tiêu chuẩn JASO T 903, độ nhớt SAE 10W-30 Sau khi xả 0,8 L (0.8 US qt, 0.7 Imp qt) Dung tích dầu Sau khi rã động cơ 1,0 L (1.1 US qt, 0.9 Imp qt)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-054",
+   "tags": [
+    "wave",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Sổ tay Wave Alpha cảnh báo không trộn các loại dầu động cơ khác nhãn hiệu, phẩm cấp vì có thể ảnh hưởng tới khả năng bôi trơn và hoạt động của hệ thống ly hợp.",
+   "quote": "Không được hòa trộn các loại dầu có nhãn hiệu và phẩm cấp dầu khác nhau. Chúng có thể ảnh hưởng đến khả năng bôi trơn và hoạt động của hệ thống ly hợp.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-055",
+   "tags": [
+    "wave",
+    "thay-dau-nhot",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Wave Alpha thay dầu động cơ ở 1.000 km, sau đó mỗi 6.000 km và mốc hằng năm; lọc dầu ly tâm và lưới lọc dầu động cơ vệ sinh ở 12, 24, 36 nghìn km.",
+   "quote": "Dầu động cơ … Lưới lọc dầu động cơ … Lọc dầu ly tâm [ký hiệu trong bảng, đọc từ ảnh trang in 39 (trang PDF 44): hàng \"Dầu động cơ\" có K trước khi lái, T ở các cột 1, 6, 12, 18, 24, 30, 36 và cột hằng năm; hàng \"Lưới lọc dầu động cơ\" và \"Lọc dầu ly tâm\" có V ở cột 12, 24, 36]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-056",
+   "tags": [
+    "wave",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Wave Alpha dùng bình điện 12 V-3 Ah (YTZ4V, GTZ4V, WTZ4V hoặc PTZ4V), loại không cần bảo dưỡng.",
+   "quote": "YTZ4V hoặc GTZ4V hoặc WTZ4V hoặc PTZ4V Bình điện 12 V-3 Ah (10 HR) … Chiếc xe này sử dụng loại bình điện không cần bảo dưỡng. Không cần kiểm tra mức dung dịch điện phân hoặc đổ thêm nước cất.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-057",
+   "tags": [
+    "wave",
+    "ve-sinh-xich-lip",
+    "kiem-tra-truoc-khi-lai"
+   ],
+   "claim": "Danh mục kiểm tra trước khi lái của Wave Alpha có mục xích tải: kiểm tra tình trạng, độ chùng, điều chỉnh và bôi trơn nếu cần.",
+   "quote": "Xích tải – Kiểm tra tình trạng và độ chùng, điều chỉnh và bôi trơn nếu cần 2 T. 66",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-058",
+   "tags": [
+    "wave",
+    "ve-sinh-xich-lip",
+    "thay-day-curoa"
+   ],
+   "claim": "Nhãn thông tin lốp và xích trên xe Wave Alpha ghi lời nhắc điều chỉnh, bôi trơn xích với hành trình tự do 25–35 mm.",
+   "quote": "THÔNG TIN LỐP & NHÃN XÍCH TẢI … Điều chỉnh và bôi trơn xích. Hành trình tự do 25 - 35 mm (1.0 - 1.4 in)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-059",
+   "tags": [
+    "wave",
+    "thay-nhot-hop-so-lap",
+    "van-chuyen-xe"
+   ],
+   "claim": "Sổ tay Wave Alpha cảnh báo kéo rê xe một hoặc hai bánh có thể hư hỏng nghiêm trọng hộp số.",
+   "quote": "Kéo rê xe với một bánh hoặc hai bánh trên đường có thể gây hư hỏng nghiêm trọng đến hộp số.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-060",
+   "tags": [
+    "wave",
+    "kiem-tra-nuoc-lam-mat",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Wave Alpha không có mục dung dịch làm mát, đai truyền động hay dầu truyền động cuối; các mục truyền lực là xích tải và hệ thống côn.",
+   "quote": "Lọc gió AI *4 Xích tải Mòn guốc phanh Hệ thống phanh Công tắc đèn phanh Độ rọi đèn pha Đèn/còi Hệ thống côn Chân chống nghiêng Giảm xóc Ốc, bu lông và ốc vít Bánh xe/lốp xe Vòng bi cổ lái",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/P8qeKg7vdU5RIqpRvC4v.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Wave Alpha (AFB110MD) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-061",
+   "tags": [
+    "wave",
+    "wave-rsx",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Honda Wave RSX làm mát bằng không khí, hộp số cơ khí 4 số vòng; dung tích nhớt máy 0,8 lít khi thay và 1,0 lít khi rã máy.",
+   "quote": "Loại động cơ Xăng, 4 kỳ, 1 xilanh, làm mát bằng không khí … Dung tích nhớt máy 0,8 lít khi thay nhớt 1,0 lít khi rã máy … Hộp số Cơ khí, 4 số vòng",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/wave-rsx",
+   "source_title": "Honda Wave RSX – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-062",
+   "tags": [
+    "wave",
+    "wave-rsx",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Độ chùng xích tải Wave RSX FI là 20–30 mm; xích tiêu chuẩn 420 (DID420AD2, KMC420JB, RK420EL), 104 mắt.",
+   "quote": "Độ chùng xích tải 20 - 30 mm (0.8 - 1.2 in) … DID420AD2 KMC420JB RK420EL Số mắt xích 104",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-063",
+   "tags": [
+    "wave",
+    "wave-rsx",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Wave RSX FI dùng bình điện 12 V-3 Ah (GTZ4V, YTZ4V hoặc PTZ4V).",
+   "quote": "GTZ4V hoặc YTZ4V hoặc PTZ4V 12 V-3 Ah (10 HR)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-064",
+   "tags": [
+    "wave",
+    "wave-rsx",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Wave RSX FI dùng dầu MA, SAE 10W-30, 0,80 L khi xả; sổ tay cảnh báo trộn dầu khác loại ảnh hưởng hệ thống ly hợp.",
+   "quote": "dầu MA theo tiêu chuẩn JASO T 903, độ nhớt SAE 10W-30 Sau khi xả 0,80 L (0.85 US qt, 0.70 Imp qt) … Chúng có thể ảnh hưởng đến khả năng bôi trơn và hoạt động của hệ thống ly hợp.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-065",
+   "tags": [
+    "wave",
+    "wave-rsx",
+    "ve-sinh-xich-lip",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Wave RSX FI kiểm tra và bôi trơn xích tải mỗi 500 km.",
+   "quote": "Xích tải … Mỗi 500 km (300 dặm): [ký hiệu trong bảng, đọc từ ảnh trang in 43 (trang PDF 48): hàng \"Xích tải\" có K trước khi lái và \"Mỗi 500 km (300 dặm): K B\"]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/EzA6x0gXYsjvv9AhkVm2.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG Wave RSX FI – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-066",
+   "tags": [
+    "winner-x",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-dau-nhot"
+   ],
+   "claim": "Winner X có hệ thống làm mát bằng dung dịch 0,57 L (Honda PRE-MIX) và cần 1,1 L dầu động cơ MA 10W-30 khi xả, 1,3 L khi rã máy.",
+   "quote": "dầu MA theo tiêu chuẩn JASO T 903, độ nhớt SAE 10W-30 … Dung tích dầu động cơ Sau khi xả 1,1 L (1.2 US qt, 1.0 Imp qt) Sau khi rã 1,3 L (1.4 US qt, 1.1 Imp qt) … Dung tích hệ 0,57 L (0.60 US qt, 0.50 Imp qt) thống làm mát Dung dịch làm DUNG DỊCH LÀM MÁT PRE-MIX HONDA",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-067",
+   "tags": [
+    "winner-x",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Winner X truyền động cuối bằng xích tải; độ chùng xích chuẩn 25–35 mm.",
+   "quote": "Xích tải Kiểm tra độ chùng xích tải Độ chùng xích tải: 25 - 35 mm (1.0 - 1.4 in)",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-068",
+   "tags": [
+    "winner-x",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Winner X bản FS150FA dùng xích phớt O, cần dầu bôi trơn dành cho xích phớt O và chất tẩy rửa riêng hoặc trung tính khi vệ sinh.",
+   "quote": "Dầu bôi trơn khuyên dùng: Dầu bôi trơn xích tải quy định dùng với xích phớt O Nếu không có sẵn dầu bôi trơn xích tải, hãy sử dụng dầu hộp số SAE 80 hoặc 90. # Vệ sinh và bôi trơn xích tải FS150FA … Dùng vải mềm tẩm chất tẩy rửa được thiết kế riêng cho xích phớt O hoặc chất tẩy rửa trung tính.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-069",
+   "tags": [
+    "winner-x",
+    "ve-sinh-xich-lip",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-dau-nhot",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo dưỡng Winner X: xích FS150FA kiểm tra, bôi trơn mỗi 1.000 km, xích FS150F mỗi 500 km; dung dịch làm mát thay 3 năm; dầu động cơ thay ở 1.000 km rồi mỗi 6.000 km và hằng năm.",
+   "quote": "Xích tải FS150FA … Xích tải FS150F … Dung dịch làm mát két tản nhiệt *4 … 3 năm [ký hiệu trong bảng, đọc từ ảnh trang in 61–62 (trang PDF 65–66): \"Mỗi 1000 km (600 dặm): K B\" cho FS150FA, \"Mỗi 500 km (300 dặm): K B\" cho FS150F; hàng dung dịch làm mát có K ở 12, 24, 36, hằng năm và \"3 năm\"; hàng \"Dầu động cơ\" có T ở 1, 6, 12, 18, 24, 30, 36 và hằng năm]",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-070",
+   "tags": [
+    "winner-x",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Winner X dùng bình điện GTZ6V 12 V-5 Ah và hộp số 6 cấp (tỷ số truyền số 1 đến số 6 nằm trong cùng bảng thông số động cơ).",
+   "quote": "GTZ6V Bình điện 12 V-5 Ah (10 HR) Số 1 3,083 Số 2 1,941 Số 3 1,500 Tỷ số truyền Số 4 1,227 Số 5 1,041 Số 6 0,923",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-071",
+   "tags": [
+    "winner-x",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Sổ tay Winner X cảnh báo trộn dầu khác nhãn hiệu, phẩm cấp ảnh hưởng xấu đến bôi trơn và tính năng của ly hợp (dầu động cơ dùng chung cho ly hợp).",
+   "quote": "Không được hòa trộn các loại dầu có nhãn hiệu và phẩm cấp khác nhau. Chúng có thể ảnh hưởng không tốt đến hoạt động bôi trơn và tính năng của ly hợp.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-072",
+   "tags": [
+    "winner-x",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Kiểm tra dung dịch làm mát Winner X khi máy nguội, giữ xe thẳng đứng trên nền phẳng, mức nằm giữa UPPER và LOWER; tụt nhanh là dấu hiệu rò rỉ.",
+   "quote": "Nếu thấy lượng dung dịch làm mát giảm nhanh hoặc cạn hết, có khả năng bị rò rỉ dung dịch làm mát nghiêm trọng. … Kiểm tra lượng dung dịch làm mát trong bình dự trữ khi động cơ nguội. 1. Dựng xe trên bề mặt bằng phẳng, chắc chắn. 2. Giữ cho xe thẳng đứng. 3. Kiểm tra mức dung dịch làm mát có nằm giữa vạch UPPER và vạch LOWER trong bình dự trữ không.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-073",
+   "tags": [
+    "winner-x",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Honda yêu cầu Winner X dùng Honda PRE-MIX COOLANT chính hãng, không pha loãng với nước.",
+   "quote": "Chỉ sử dụng dung dịch làm mát HONDA PREMIX COOLANT chính hãng mà không cần pha loãng với nước. Dung dịch làm mát HONDA PRE-MIX COOLANT chính hãng bảo vệ rất tốt cho động cơ tránh hiện tượng ăn mòn và quá nhiệt.",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/September2025/Dmypet24ei4NgR6sviCL.pdf",
+   "source_title": "SÁCH HƯỚNG DẪN SỬ DỤNG KC440/KC441 WINNERX – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-074",
+   "tags": [
+    "winner-x",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Sổ tay Winner X (bản K2PL) ghi xích 428 (DID428VIX4 cho FS150FA; RK428HSB, KMC428HG cho FS150F), nhông dẫn động 15 răng, nhông bị động 44 răng.",
+   "quote": "FS150FA DID428VIX4 Xích tải tiêu chuẩn FS150F RK428HSB , KMC428HG Số mắt xích 120 129 … Nhông dẫn 15 Răng động Nhông bị 44 Răng",
+   "source": "https://cdn.honda.com.vn/motorbike-manual/March2024/MXrG2Dth6vRvU7B9bK4a.pdf",
+   "source_title": "HƯỚNG DẪN SỬ DỤNG Winner X – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-075",
+   "tags": [
+    "winner-x",
+    "winner-r",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-dau-nhot"
+   ],
+   "claim": "Honda WINNER R (mẫu đang bán trên honda.com.vn) dùng động cơ KC46E làm mát bằng chất lỏng, dung tích nhớt máy 1,1 lít khi thay và 1,3 lít khi rã máy.",
+   "quote": "Loại động cơ HONDA KC46E, Xăng, 4 kỳ, 1 xi lanh, làm mát bằng chất lỏng … Dung tích nhớt máy \"1,1 lít khi thay nhớt 1,3 lít khi rã máy\"",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/winner-r",
+   "source_title": "Honda WINNER R – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-076",
+   "tags": [
+    "sirius",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Bảng thông số trong sổ tay Yamaha Sirius FI ghi hệ thống làm mát là làm mát bằng không khí.",
+   "quote": "Thông số kỹ thuật … Hệ thống làm mát: Làm mát bằng không khí Truyền động van: SOHC",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-077",
+   "tags": [
+    "sirius",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Trang sản phẩm Sirius FI ghi động cơ 4 thì, SOHC, làm mát bằng không khí, hệ thống truyền lực 4 số dạng quay vòng, dung tích dầu máy 1.0L (con số trên trang sản phẩm; lượng dầu khi thay theo sổ tay là 0,80 L).",
+   "quote": "Loại 4 thì, 2 van, SOHC, làm mát bằng không khí … Kiểu hệ thống truyền lực 4 số dạng quay vòng … Dung tích dầu máy 1.0L",
+   "source": "https://yamaha-motor.com.vn/xe/sirius-fi-phien-ban-phanh-co-mau-moi-2025-bsaf/",
+   "source_title": "Yamaha Sirius FI phiên bản phanh cơ màu mới – Yamaha Motor Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-078",
+   "tags": [
+    "sirius",
+    "thay-dau-nhot"
+   ],
+   "claim": "Sirius FI cần 0,80 L dầu khi thay và 0,85 L khi thay cả lọc dầu; dầu SAE 10W-40, API SG trở lên, MA theo JASO.",
+   "quote": "10W-40 … Loại có cấp chất lượng API từ SG trở lên, MA tiêu chuẩn JASO … Thay dầu: 0.80 L (0.85 US qt, 0.70 Imp.qt) Tháo lọc dầu: 0.85 L (0.90 US qt, 0.75 Imp.qt)",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-079",
+   "tags": [
+    "sirius",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Sổ tay Sirius FI ghi rõ dầu nhớt động cơ cũng bôi trơn côn (ly hợp), vì vậy không được trộn phụ gia hóa chất để tránh trượt côn.",
+   "quote": "Ðể hạn chế sự trượt côn (bởi vì dầu nhớt động cơ cũng bôi trơn côn), không được trộn lẫn bất kỳ một loại phụ gia hóa chất nào vào.",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-080",
+   "tags": [
+    "sirius",
+    "thay-dau-nhot",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo trì Sirius FI thay dầu ở 1.000 km (2 tháng), 4.000, 7.000, 10.000 và 13.000 km; thay lọc dầu ở 1.000, 7.000 và 13.000 km.",
+   "quote": "1000 km 4000 km 7000 km 10000 km 13000 km … 21 Dầu nhớt động cơ • Thay dầu. • Kiểm tra mức dầu nhớt và sự rò rỉ. … 22 Lọc dầu nhớt động cơ • Thay mới. [dấu √ đọc từ ảnh trang 7-12 (trang PDF 69): hàng 21 có √ ở cả 5 cột 1000/4000/7000/10000/13000 km; hàng 22 có √ ở cột 1000, 7000, 13000 km]",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-081",
+   "tags": [
+    "sirius",
+    "thay-dau-nhot",
+    "chay-ra-xe-moi"
+   ],
+   "claim": "Sau 1.000 km đầu, Sirius FI phải thay dầu động cơ, thay lõi hoặc lưới lọc dầu và vệ sinh vỉ lọc.",
+   "quote": "Sau khi xe đi được 1000km (600 mi), bạn phải thay dầu nhớt động cơ, thay mới lõi hoặc lưới lọc dầu và vệ sinh vỉ lọc dầu.",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-082",
+   "tags": [
+    "sirius",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Độ chùng xích truyền động Sirius FI là 30–40 mm và phải kiểm tra trước mỗi lần vận hành; độ chùng sai có thể gây trượt hoặc đứt xích.",
+   "quote": "Cần phải kiểm tra độ chùng của xích truyền động trước mỗi lần vận hành và điều chỉnh nếu cần thiết. … Độ chùng của xích truyền động: 30.0–40.0 mm (1.18–1.57 in) … chùng xích truyền động không phù hợp sẽ gây quá tải cho động cơ và các bộ phận quan trọng khác của xe và có thể gây ra trượt xích hoặc đứt xích.",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-083",
+   "tags": [
+    "sirius",
+    "ve-sinh-xich-lip",
+    "thay-day-curoa",
+    "lich-bao-duong"
+   ],
+   "claim": "Yamaha yêu cầu bôi trơn xích Sirius FI khi chạy được 500 km rồi mỗi 2.000 km, và thêm sau khi rửa xe, đi mưa hay nơi ẩm ướt.",
+   "quote": "Xích truyền động • Kiểm tra độ chùng của xích, căn chỉnh nếu cần. • Điều chỉnh và bôi trơn xích kỹ với chất bôi trơn xích Yamaha hoặc dầu bôi trơn xích phù hợp khác. Khi chạy được 500 km và cứ mỗi 2000 km sau đó. Ngoài ra, sau khi rửa xe, lái xe trong mưa hay khu vực ẩm ướt",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-084",
+   "tags": [
+    "sirius",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Sirius FI dùng ắc quy VRLA (ắc quy khô) GTZ4V hoặc PTZ4V 12 V 3.0 Ah, không cần kiểm tra dung dịch hay châm nước cất.",
+   "quote": "Loại xe này được gắn ắc quy VRLA (bình ắc quy khô). Không cần phải kiểm tra dung dịch điện phân hay châm thêm nước cất. … Ắc quy: Model: GTZ4V … 12 V, 3.0 Ah (10 HR)",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-085",
+   "tags": [
+    "sirius",
+    "kiem-tra-ac-quy",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo trì Sirius FI có mục ắc quy: kiểm tra điện áp và sạc nếu cần.",
+   "quote": "4 * Ắc quy • Kiểm tra điện áp. • Sạc nếu thấy cần thiết.",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-086",
+   "tags": [
+    "sirius",
+    "kiem-tra-ac-quy",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Động cơ Sirius FI không khởi động được nếu điện áp ắc quy dưới 11,50 V hoặc không lắp ắc quy.",
+   "quote": "Động cơ không thể khởi động nếu điện áp ắc quy dưới 11.50 V hoặc không lắp ắc quy.",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-087",
+   "tags": [
+    "sirius",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Sạc ắc quy VRLA của Sirius FI cần bộ sạc chuyên dụng; ắc quy sinh khí dễ cháy nổ nên phải sạc nơi thông thoáng.",
+   "quote": "Ắc quy sinh ra các khí dễ gây cháy nổ. Do đó, nên để xa nguồn lửa, nơi hút thuốc lá…. Khi nạp ắc quy cần để nơi thông thoáng và riêng biệt. … Ðể sạc ắc quy VRLA, cần phải có bộ sạc ắc quy chuyên dụng",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+   "source_title": "SIRIUS T115FL-1/T115FL-2/T115FL-5 (Sirius FI) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-088",
+   "tags": [
+    "sirius",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-dau-nhot"
+   ],
+   "claim": "Sirius bản chế hòa khí (BGY) làm mát bằng không khí, dùng dầu 10W-40 MA, 0,80 L khi thay dầu.",
+   "quote": "Hệ thống làm mát: … Làm mát bằng không khí … 10W-40 … Thay dầu: 0.80 L (0.85 US qt, 0.70 Imp.qt)",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+   "source_title": "SIRIUS BGY1/BGY2/BGY3 (Sirius chế hòa khí) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-089",
+   "tags": [
+    "sirius",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Khác bản FI, Sirius chế hòa khí (BGY) dùng ắc quy 12N5 12 V 5.0 Ah có dung dịch điện phân: phải định kỳ kiểm tra mức nước ắc quy và châm nước cất khi thấp.",
+   "quote": "Model: 12N5 … 12 V, 5.0 Ah (10 HR) … Cần định kỳ kiểm tra mức dung dịch điện phân, các đầu nối chì và cách luồn ống thông hơi. GHI CHÚ Mức dung dịch điện phân (nước ắc quy) cần nằm giữa vạch mức tối thiểu và vạch mức tối đa. … Nếu mức dung dịch điện phân bằng hoặc thấp hơn vạch mức tối thiểu, hãy thêm nước cất",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+   "source_title": "SIRIUS BGY1/BGY2/BGY3 (Sirius chế hòa khí) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-090",
+   "tags": [
+    "sirius",
+    "kiem-tra-ac-quy",
+    "lich-bao-duong"
+   ],
+   "claim": "Lịch bảo trì Sirius chế hòa khí có mục ắc quy: kiểm tra mức dung dịch điện phân, trọng lượng riêng và ống thở.",
+   "quote": "• Kiểm tra mức dung dịch điện phân và trọng lượng riêng. • Đảm bảo rằng ống thở được luồn đúng cách.",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+   "source_title": "SIRIUS BGY1/BGY2/BGY3 (Sirius chế hòa khí) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-091",
+   "tags": [
+    "sirius",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Độ chùng xích truyền động Sirius chế hòa khí (BGY) là 25–35 mm.",
+   "quote": "Độ chùng của xích truyền động: 25.0–35.0 mm (0.98–1.38 in)",
+   "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+   "source_title": "SIRIUS BGY1/BGY2/BGY3 (Sirius chế hòa khí) – Sách hướng dẫn sử dụng, Yamaha Motor Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-092",
+   "tags": [
+    "sirius",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Trang sản phẩm Sirius (phanh cơ) ghi động cơ làm mát bằng không khí, truyền lực 4 số tròn, dung tích dầu máy 1 L (con số trên trang sản phẩm; lượng dầu khi thay theo sổ tay là 0,80 L).",
+   "quote": "Loại 4 thì, 2 van SOHC, làm mát bằng không khí … Dung tích dầu máy 1 L … Kiểu hệ thống truyền lực 4 số tròn",
+   "source": "https://yamaha-motor.com.vn/xe/sirius-phien-ban-phanh-co-mau-moi-2025-bgyd/",
+   "source_title": "Yamaha Sirius phiên bản phanh cơ màu mới – Yamaha Motor Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-093",
+   "tags": [
+    "50cc",
+    "sym-elite-50",
+    "thay-day-curoa",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "SYM Elite 50 là xe ga 49,5 cc, động cơ 4 thì, hệ thống truyền động tự động vô cấp.",
+   "quote": "Động cơ 4 thì … Phân khối 49.5cc … Hệ thống truyền động Tự động vô cấp",
+   "source": "https://www.sym.com.vn/san-pham/elite-50-17.html",
+   "source_title": "Elite 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-094",
+   "tags": [
+    "50cc",
+    "sym-elite-50",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "SYM Elite 50 dùng xăng không chì trên 92, bình xăng 4,3 L, khởi động đề/đạp và hệ thống đèn 12 V.",
+   "quote": "Nhiên liệu sử dụng Xăng không chì (trên 92) Dung tích bình xăng 4.3L … Hệ thống khởi động Đề/đạp … Đèn pha 12V-35W/35W",
+   "source": "https://www.sym.com.vn/san-pham/elite-50-17.html",
+   "source_title": "Elite 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-095",
+   "tags": [
+    "50cc",
+    "xe-ga-50cc",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Xe ga 50cc SYM Attila 50 (49,5 cc, 4 thì) có hệ thống làm mát bằng không khí.",
+   "quote": "Động cơ 4 thì Phân khối 49.5cc Hệ thống làm mát Bằng không khí",
+   "source": "https://www.sym.com.vn/san-pham/attila-50-5.html",
+   "source_title": "Attila 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-096",
+   "tags": [
+    "50cc",
+    "xe-ga-50cc",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Xe ga 50cc SYM Shark 50 làm mát bằng không khí, tốc độ tối đa 50 km/h.",
+   "quote": "Phân khối 49.5 cc Hệ thống làm mát máy Bằng không khí … Tốc độ tối đa 50 km/h",
+   "source": "https://www.sym.com.vn/san-pham/shark-50-32.html",
+   "source_title": "Shark 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-097",
+   "tags": [
+    "50cc",
+    "xe-so-50cc",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap",
+    "thay-day-curoa"
+   ],
+   "claim": "Xe số 50cc SYM Angela 50 dùng động cơ 4 thì làm mát bằng không khí, hộp số 4 số.",
+   "quote": "Động cơ/Làm mát/Truyền động 4 thì/ Làm mát bằng không khí/Hộp số 4 số … Phân khối 49.5cc",
+   "source": "https://www.sym.com.vn/san-pham/angela-50-14.html",
+   "source_title": "Angela 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-098",
+   "tags": [
+    "50cc",
+    "xe-so-50cc",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Xe số 50cc SYM Elegant 50 cũng làm mát bằng không khí, hộp số 4 số.",
+   "quote": "Động cơ/ Làm mát/ Truyền động 4 thì/ Làm mát bằng không khí/ Hộp số 4 số",
+   "source": "https://www.sym.com.vn/san-pham/elegant-50-13.html",
+   "source_title": "Elegant 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-099",
+   "tags": [
+    "50cc",
+    "xe-so-50cc",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Xe số 50cc SYM Galaxy 50 làm mát bằng không khí, hộp số 4 số.",
+   "quote": "Động cơ/Làm mát/Truyền động 4 thì/ Làm mát bằng không khí/Hộp số 4số",
+   "source": "https://www.sym.com.vn/san-pham/galaxy-50-12.html",
+   "source_title": "Galaxy 50 | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-100",
+   "tags": [
+    "50cc",
+    "sym-elite-50",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Chính sách bảo hành SYM xếp dây đai (curoa), sên tải (xích), nhông tải và bình điện vào nhóm phụ tùng hao mòn có thời hạn bảo hành riêng 6 tháng hoặc 6.000 km; puly truyền động xe tay ga 1 năm hoặc 12.000 km.",
+   "quote": "Thời gian bảo hành 6 tháng hoặc 6.000 km Bố nồi ly hợp (lá côn), bộ bi ly tâm nồi ly hợp (xe tay ga). Bình điện, bugi & chụp bugi. Bố thắng (má phanh). Vỏ ruột xe (lốp, săm xe), Dây đai (curoa). Sên tải (xích tải), nhông tải, dĩa (nhông tải trước sau). … Thời gian bảo hành 1 năm hoặc 12.000 km … Puly truyền động (xe tay ga).",
+   "source": "https://www.sym.com.vn/dich-vu",
+   "source_title": "Dịch vụ bảo hành | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-101",
+   "tags": [
+    "50cc",
+    "sym-elite-50",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "SYM yêu cầu thay nhớt đúng định kỳ theo quy định của VMEP và dùng nhớt khuyến cáo SYM C500, S600 để giữ điều kiện bảo hành.",
+   "quote": "thực hiện đầy đủ các yêu cầu về bảo trì bảo dưỡng & thay nhớt đúng định kỳ theo quy định của VMEP … Không sử dụng đúng lọai dầu nhớt được khuyến cáo là Nhớt SYM C500 & Nhớt SYM S600.",
+   "source": "https://www.sym.com.vn/dich-vu",
+   "source_title": "Dịch vụ bảo hành | SYM Vietnam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-102",
+   "tags": [
+    "50cc",
+    "xe-so-50cc",
+    "cub",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Mẫu Cub hiện hành của Honda Việt Nam (Super Cub C125) dùng động cơ làm mát bằng không khí và truyền động cơ khí; dung tích nhớt máy 0,80 lít khi xả.",
+   "quote": "Loại động cơ 4 kỳ, 1 xy-lanh, làm mát bằng không khí … Dung tích nhớt máy Sau khi xả: 0,80 lít … Loại truyền động Cơ khí",
+   "source": "https://www.honda.com.vn/xe-may/san-pham/super-cub-c125",
+   "source_title": "Honda Super Cub C125 – trang sản phẩm, Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-103",
+   "tags": [
+    "50cc",
+    "xe-so-50cc",
+    "xe-ga-50cc",
+    "quy-dinh-xe-50cc"
+   ],
+   "claim": "Theo Luật 36/2024/QH15, xe gắn máy là xe có vận tốc thiết kế không quá 50 km/h, động cơ nhiệt không quá 50 cm3 (động cơ điện không quá 4 kW).",
+   "quote": "Luật 36/2024/QH15, điểm g khoản 1 Điều 34: “Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, … có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy”; điểm e khoản 1: xe mô tô “… trừ xe gắn máy”; điểm b khoản 2: “Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h”",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất Luật Trật tự, an toàn giao thông đường bộ (55/VBHN-VPQH) – trích từ lib/seed_legal_quotes.json",
+   "type": "law",
+   "checked": "2026-10-30"
+  },
+  {
+   "id": "XM-104",
+   "tags": [
+    "50cc",
+    "xe-so-50cc",
+    "xe-ga-50cc",
+    "toc-do-toi-da-xe-may"
+   ],
+   "claim": "Thông tư 38/2024/TT-BGTVT quy định xe gắn máy tham gia giao thông có tốc độ khai thác tối đa 40 km/h.",
+   "quote": "Thông tư 38/2024/TT-BGTVT, Điều 7: “Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự khi tham gia giao thông, tốc độ khai thác tối đa là 40 km/h.”; Điều 6 Bảng 1 (trong khu đông dân cư, xe cơ giới trừ Điều 7, 8): 60 km/h / 50 km/h; Bảng 2 (ngoài khu đông dân cư, xe mô tô): 70 km/h / 60 km/h",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT – trích từ lib/seed_legal_quotes.json",
+   "type": "law",
+   "checked": "2026-10-30"
+  },
+  {
+   "id": "XM-105",
+   "tags": [
+    "xe-tay-ga",
+    "thay-nhot-hop-so-lap",
+    "vision",
+    "lead",
+    "air-blade"
+   ],
+   "claim": "Honda Việt Nam khuyến cáo thay dầu láp (dầu truyền động cuối) khoảng 2 năm một lần, rút ngắn nếu thường chở nặng, đi xa hoặc lội ngập.",
+   "quote": "Theo tiêu chuẩn của Honda Việt Nam thì sau khoảng 2 năm Quý khách nên thay dầu láp (dầu truyền động cuối) một lần. Tuy nhiên trong điều kiện sử dụng thường xuyên tải nặng hoặc chạy đường dài thì Quý khách nên rút ngắn thời gian thay. Ngoài ra nếu Quý khách đi vào đoạn đường ngập nước thì nên đưa xe đến cửa hàng Honda ủy nhiệm (HEAD) để kiểm tra xem có bị nước vào hay không để thay thế kịp thời.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-106",
+   "tags": [
+    "kiem-tra-nuoc-lam-mat",
+    "lead",
+    "air-blade",
+    "winner-x"
+   ],
+   "claim": "Trang hỏi đáp Honda Việt Nam: dung dịch làm mát nên kiểm tra mỗi 15.000 km hoặc 12 tháng và thay sau 30.000 km hoặc 36 tháng.",
+   "quote": "Dung dịch làm mát nên được kiểm tra định kỳ sau mỗi 15.000km hoặc 12 tháng và thay mới sau 30.000km hoặc 36 tháng.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-107",
+   "tags": [
+    "kiem-tra-nuoc-lam-mat",
+    "lead",
+    "air-blade",
+    "winner-x"
+   ],
+   "claim": "Mức nước làm mát dưới vạch Lower có thể để không khí lọt vào đường ống, giảm hiệu quả làm mát và gây quá nhiệt; đổ quá Upper thì có thể tràn khi máy nóng.",
+   "quote": "Nếu mực nước mát dưới vạch Lower, không khí có thể lọt vào đường ống nước tạo ra bọt khí bên trong đường ống, làm giảm hiệu quả làm mát, trường hợp xấu có thể gây quá nhiệt động cơ.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-108",
+   "tags": [
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "bao-quan-xe"
+   ],
+   "claim": "Bình điện xe máy tự tiêu hao ngay cả khi không dùng, nhất là khi nóng ẩm; xe có Smart Key, chống trộm, đồng hồ còn tiêu thụ điện khi đã tắt khóa.",
+   "quote": "Bình điện sẽ vẫn tiêu hao điện ngay cả khi không sử dụng, dù lắp trên xe hay để riêng bên ngoài, đặc biệt trong điều kiện môi trường độ ẩm và nhiệt độ cao. + Nếu xe của Quý khách có gắn các thiết bị như Đồng hồ báo giờ, cảnh báo chống trộm, Hệ thống SMART Key,... thì ngoài việc tự tiêu hao điện thông thường khi không sử dụng, bình điện còn tiêu thụ một lượng điện trong bình để cung cấp dòng điện duy trì hoạt động các hệ thống này ngay cả khi đã tắt khóa điện.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-109",
+   "tags": [
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "bao-quan-xe",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Nếu ít đi xe, Honda khuyên nổ máy mỗi tuần một lần khoảng 10 phút để sạc bình, nhưng không nổ tại chỗ quá lâu, nhất là xe làm mát bằng không khí.",
+   "quote": "Nếu không thường xuyên sử dụng, Quý Khách nên nổ máy mỗi tuần một lần trong khoảng 10 phút để sạc điện cho bình. Lưu ý: Quý khách không nên nổ máy tại chỗ quá lâu, đặc biệt các xe làm mát bằng không khí, sẽ có nguy cơ bị quá nhiệt gây hư hỏng động cơ.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-110",
+   "tags": [
+    "bao-quan-xe",
+    "ve-sinh-xich-lip",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Khi cất xe lâu ngày, Honda khuyên rửa xe, dựng chân chống đứng, bôi trơn xích tải (nếu có) và tháo dây cực âm ắc quy hoặc nổ máy hằng tuần.",
+   "quote": "- Rửa xe sạch sẽ - Dựng xe bằng chân chống đứng - Bôi trơn xích tải (nếu có) - Tránh hết điện bình ắc quy: Quý Khách nên tháo dây cực âm ra khỏi bình ắc quy để tránh hiện tượng phóng điện gây hao hụt điện áp, hoặc nổ máy mỗi tuần một lần trong khoảng 10 phút để sạc điện cho bình.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-111",
+   "tags": [
+    "xe-tay-ga",
+    "thay-nhot-hop-so-lap",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Sau khi đi qua đường ngập, Honda khuyên kiểm tra ngay dầu máy; với xe tay ga kiểm tra thêm dầu truyền động cuối.",
+   "quote": "Bên cạnh đó, với xe tay ga, ngoài việc kiểm tra dầu máy, Quý khách nên lưu ý kiểm tra thêm cả dầu truyền động cuối để đảm bảo bộ phận truyền động của xe cũng hoạt động tốt.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-112",
+   "tags": [
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap",
+    "xe-so",
+    "xe-tay-ga"
+   ],
+   "claim": "Honda Việt Nam phân biệt dầu nhờn xe số loại MA SL 10W-30 và dầu nhờn xe ga loại MB SL 10W-30.",
+   "quote": "- Dầu nhờn xe số MA SL 10W-30, có 3 loại dung tích 0.8L, 1L, 1.2L - Dầu nhờn xe ga MB SL 10W-30, có 3 loại dung tích 0.7L, 0.8L, 1L",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-113",
+   "tags": [
+    "chay-ra-xe-moi",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Honda cho rằng nổ máy tại chỗ để chạy rà là không cần thiết: xe làm mát bằng không khí khó tản nhiệt khi đứng yên và phần truyền lực cũng cần chạy rà.",
+   "quote": "khi nổ máy tại chỗ (đặc biệt với những loại xe làm mát bằng không khí) thì khả năng cung cấp gió để làm mát động cơ trong điều kiện này là rất kém (kể cả trường hợp dùng nước để xối vào động cơ hay dùng quạt gió để thổi). Ngoài ra, khi nổ máy tại chỗ thì chỉ có phần động cơ hoạt động còn phần truyền lực thì không hoạt động, và phần này cũng cần chạy rà.",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-114",
+   "tags": [
+    "xe-tay-ga",
+    "thay-day-curoa",
+    "vision",
+    "lead",
+    "air-blade",
+    "sym-elite-50"
+   ],
+   "claim": "Chở người hoặc hàng quá nặng trên xe tay ga có thể làm quá nhiệt nồi ly hợp, khiến nồi bị chảy hoặc chuyển màu.",
+   "quote": "việc chuyên chở quá nặng có thể gây quá tải cho xe và làm ảnh hưởng đến quá trình vận hành của xe (ví dụ như gây ra hiện tượng quá nhiệt nồi ly hợp khiến cho nồi ly hợp bị chảy hoặc chuyển màu).",
+   "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+   "source_title": "Câu hỏi thường gặp – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-115",
+   "tags": [
+    "lich-bao-duong",
+    "thay-day-curoa",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-xich-lip",
+    "kiem-tra-nuoc-lam-mat",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Bảng lịch kiểm tra định kỳ xe từ 350cc trở xuống của Honda Việt Nam: xích tải kiểm tra và bôi trơn mỗi 500 km; dầu truyền động cuối thay mỗi 2 năm; dung dịch làm mát két tản nhiệt thay mỗi 3 năm; bình điện được kiểm tra từ lần 2 đến lần 7.",
+   "quote": "LỊCH KIỂM TRA ĐỊNH KỲ TỪ 350cc TRỞ XUỐNG V: VỆ SINH, K: KIỂM TRA, T: THAY THẾ, B: BÔI TRƠN … 14 Dung dịch làm mát két tản nhiệt … Thay thế sau mỗi 3 năm … 17 Đai truyền động … 19 Dầu truyền động cuối … Thay thế sau mỗi 2 năm … 20 Xích tải … Kiểm tra và bôi trơn sau mỗi 500 km … 21 Bình điện [chữ trong ảnh, đọc trực tiếp từ ảnh JPG; hàng 17 \"Đai truyền động\" có K ở lần kiểm tra định kỳ 3 và T ở lần 5; hàng 21 \"Bình điện\" có K ở lần 2–7]",
+   "source": "https://www.honda.com.vn/images/xe-may/bao-duong-dinh-ky/Lich_bao_duong_Xe_tu_350cc_tro_xuong.jpg",
+   "source_title": "LỊCH KIỂM TRA ĐỊNH KỲ TỪ 350cc TRỞ XUỐNG (ảnh trên trang Bảo dưỡng định kỳ) – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-116",
+   "tags": [
+    "lich-bao-duong"
+   ],
+   "claim": "Honda Việt Nam định nghĩa bảo dưỡng định kỳ là bảo dưỡng theo chu kỳ quãng đường hoặc thời gian sử dụng, với tần suất và hạng mục do Honda Việt Nam khuyến cáo cho điều kiện Việt Nam.",
+   "quote": "Kiểm tra xe định kỳ là việc bảo dưỡng xe theo một chu kỳ nhất định (được quy định bằng quãng đường hay thời gian sử dụng). Tần suất và nội dung các hạng mục bảo dưỡng định kỳ đã được công ty Honda Việt Nam nghiên cứu và khuyến cáo để phù hợp với điều kiện sử dụng xe của khách hàng ở Việt Nam.",
+   "source": "https://www.honda.com.vn/xe-may/dich-vu-sau-ban-hang/bao-duong-dinh-ky",
+   "source_title": "Bảo dưỡng định kỳ – Honda Việt Nam",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-117",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "xe-tay-ga",
+    "sym-elite-50",
+    "vision",
+    "lead",
+    "air-blade"
+   ],
+   "claim": "Theo Yamaha Việt Nam, nhớt láp (dầu cầu, nhớt hộp số) là dầu bôi trơn bộ bánh răng truyền động bánh sau của xe tay ga, có độ nhớt cao hơn dầu máy nhiều lần.",
+   "quote": "Nhớt láp (còn được gọi là dầu cầu, dầu hộp số hoặc nhớt hộp số) là loại dầu có chức năng bôi trơn bộ bánh răng truyền động bánh sau của xe tay ga. Các bánh răng truyền động này hoạt động thường xuyên với cường độ và tải trọng cao. Thông số kỹ thuật của nhớt láp khác hẳn dầu máy và độ nhớt gấp vài lần dầu máy.",
+   "source": "https://yamaha-motor.com.vn/tin-tuc/nhot-lap-xe-tay-ga-la-gi-cach-chon-nhot-lap-tot-nhat-cho-xe-tay-ga/",
+   "source_title": "Nhớt láp xe tay ga là gì? Cách chọn nhớt láp tốt nhất cho xe tay ga – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-118",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "thay-dau-nhot",
+    "xe-tay-ga",
+    "xe-so"
+   ],
+   "claim": "Bài tư vấn của Yamaha Việt Nam nêu riêng với xe tay ga, ngoài dầu máy còn phải thay dầu láp, khoảng mỗi 3 lần thay dầu máy (5.000–8.000 km); đây là khuyến nghị chung, không thay cho lịch trong sổ tay từng mẫu xe.",
+   "quote": "Riêng với xe tay ga, ngoài dầu máy bạn còn cần thay mới dầu láp (hay còn gọi là dầu hộp số). Theo đó cứ mỗi 3 lần thay dầu máy (khoảng 5.000 – 8.000 km) thì bạn nên thay 1 lần dầu láp.",
+   "source": "https://yamaha-motor.com.vn/tin-tuc/xe-het-nhot-co-dau-hieu-gi-bao-lau-thay-dau-xe-may-mot-lan/",
+   "source_title": "Xe hết nhớt có dấu hiệu gì? Bao lâu thay dầu xe máy một lần? – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-119",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "xe-tay-ga",
+    "sym-elite-50"
+   ],
+   "claim": "Trang dịch vụ Yamaha Việt Nam khuyên thay nhớt láp xe tay ga khoảng 5.000–6.000 km, theo nguyên tắc 3 lần thay nhớt máy thì 1 lần thay nhớt láp (khuyến nghị chung, mốc của Honda trong sổ tay là 2 năm).",
+   "quote": "Còn với nhớt láp (nhớt hộp số) nên thay sau khoảng 5.000 – 6.000km. Bạn cứ nhớ theo nguyên tắc: 3 lần thay nhớt máy/1 lần thay nhớt láp.",
+   "source": "https://yamaha-motor.com.vn/dich-vu/huong-dan-thay-nhot-hop-xe-tay-ga-dinh-ky/",
+   "source_title": "Thay nhớt xe tay ga: Khi nào tốt nhất và lưu ý quan trọng – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-120",
+   "tags": [
+    "thay-day-curoa",
+    "xe-tay-ga",
+    "sym-elite-50",
+    "wave",
+    "sirius",
+    "winner-x"
+   ],
+   "claim": "Yamaha Việt Nam giải thích dây curoa có chức năng như xích tải trên xe máy: động cơ truyền lực qua dây curoa làm puly quay.",
+   "quote": "Dây curoa có chức năng như xích tải trên xe máy, được đặt trên bánh răng phía trước và phía sau. Khi khởi động xe, nhờ hệ thống dây curoa, động cơ sẽ truyền lực làm cho puly quay.",
+   "source": "https://yamaha-motor.com.vn/tin-tuc/day-curoa-xe-may/",
+   "source_title": "Dây curoa xe máy: Giải đáp 6 câu hỏi thường gặp nhất – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-121",
+   "tags": [
+    "thay-day-curoa",
+    "xe-tay-ga",
+    "sym-elite-50"
+   ],
+   "claim": "Bài tư vấn của Yamaha nêu tuổi thọ trung bình dây curoa khoảng 9.000–15.000 km và phụ thuộc nhiệt độ bộ truyền động (khuyến nghị chung; Honda Vision/LEAD/Air Blade theo sổ tay thay ở 24.000 km).",
+   "quote": "Các chuyên gia khuyến cáo người dùng nên thay dây curoa khi xe chạy được 9.000 – 15.000 km. Đây là con số trung bình tuổi thọ của dây curoa. Tuy nhiên, tuổi thọ của dây curoa không chỉ phụ thuộc vào số km và thời gian xe đã đi mà còn phụ thuộc vào nhiệt độ của bộ truyền động.",
+   "source": "https://yamaha-motor.com.vn/tin-tuc/day-curoa-xe-may/",
+   "source_title": "Dây curoa xe máy: Giải đáp 6 câu hỏi thường gặp nhất – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-122",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "thay-day-curoa",
+    "wave",
+    "sirius",
+    "winner-x",
+    "xe-so-50cc"
+   ],
+   "claim": "Yamaha Việt Nam hướng dẫn tăng xích khi độ chùng nằm ngoài thông số trong sách hướng dẫn của nhà sản xuất; xích chùng gây tiếng va hộp xích và xe giật khi tăng giảm tốc.",
+   "quote": "Xe bị giật: Khi xích bị chùng, nếu bạn tăng tốc hay giảm tốc đột ngột xe sẽ có hiện tượng giật. … khi độ chùng của xích tải nằm ngoài thông số tiêu chuẩn như đề cập trong sách hướng dẫn sử dụng của nhà sản xuất, bạn nên mang xe đến các đại lý bảo dưỡng xe để kiểm tra và tăng xích.",
+   "source": "https://yamaha-motor.com.vn/tin-tuc/cach-tang-xich-xe-may/",
+   "source_title": "Cách tăng xích xe máy nhanh chóng, tăng độ bền cho xe – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "XM-123",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "thay-day-curoa"
+   ],
+   "claim": "Yamaha lưu ý không chỉnh sên quá căng vì không còn khoảng sai số và có thể đứt sên khi tải cao.",
+   "quote": "Khi chỉnh ốc tăng sên, bạn không nên chỉnh sên quá căng mà hãy để một độ chùng nhất định. Vì sên quá căng sẽ không có khoảng sai số, có thể đứt sên nếu hoạt động ở cường độ cao.",
+   "source": "https://yamaha-motor.com.vn/tin-tuc/cach-tang-xich-xe-may/",
+   "source_title": "Cách tăng xích xe máy nhanh chóng, tăng độ bền cho xe – Yamaha Motor Việt Nam",
+   "type": "guide",
+   "checked": "2026-10-31"
+  }
+ ],
+ "not_applicable": [
+  {
+   "vehicle": "Honda Vision",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Vision làm mát bằng không khí; bảng thông số và lịch bảo dưỡng trong sổ tay không có két nước, dung tích hay mục dung dịch làm mát. Bài chủ đề nước làm mát cho Vision phải trả lời thẳng là không có, rồi chuyển sang việc thật giúp động cơ gió không quá nhiệt: không nổ máy tại chỗ lâu, thay dầu động cơ đúng mốc, giữ đúng lượng dầu.",
+   "fact_ids": [
+    "XM-001",
+    "XM-002",
+    "XM-008",
+    "XM-019",
+    "XM-109",
+    "XM-113"
+   ]
+  },
+  {
+   "vehicle": "Honda Vision",
+   "component_or_topic": "ve-sinh-xich-lip",
+   "explanation": "Vision là xe tay ga truyền động vô cấp V-Matic bằng đai; lịch bảo dưỡng có đai truyền động và dầu truyền động cuối, không có xích tải hay nhông xích. Phần tương đương là kiểm tra/thay dây curoa (K 12.000, T 24.000 km) và thay nhớt láp 2 năm.",
+   "fact_ids": [
+    "XM-002",
+    "XM-003",
+    "XM-004",
+    "XM-017",
+    "XM-018"
+   ]
+  },
+  {
+   "vehicle": "Honda Vision",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Vision chạy xăng, không có pin kéo (pin lithium kéo xe). Bộ phận tương đương là bình điện 12 V-5 Ah (GTZ6V/WTZ6VIS) chỉ dùng để khởi động và cấp điện, loại không cần bảo dưỡng.",
+   "fact_ids": [
+    "XM-001",
+    "XM-010",
+    "XM-011",
+    "XM-012",
+    "XM-013",
+    "XM-014",
+    "XM-016"
+   ]
+  },
+  {
+   "vehicle": "Honda LEAD 125",
+   "component_or_topic": "ve-sinh-xich-lip",
+   "explanation": "LEAD dùng truyền động đai; không có xích tải. Chuyển sang dây curoa (K 12.000, T 24.000 km) và dầu truyền động cuối 0,09 L thay 2 năm.",
+   "fact_ids": [
+    "XM-020",
+    "XM-029",
+    "XM-030"
+   ]
+  },
+  {
+   "vehicle": "Honda LEAD 125",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "LEAD là xe xăng, không có pin kéo. Bộ phận tương đương là bình điện WTZ6VIS 12 V-5 Ah không cần bảo dưỡng; bình yếu có thể làm hệ thống chống trộm không hoạt động.",
+   "fact_ids": [
+    "XM-031",
+    "XM-032",
+    "XM-033",
+    "XM-108"
+   ]
+  },
+  {
+   "vehicle": "Honda Air Blade 160/125",
+   "component_or_topic": "ve-sinh-xich-lip",
+   "explanation": "Air Blade truyền động dây đai biến thiên vô cấp (V-Matic), không có xích. Chuyển sang dây curoa (K 12.000, T 24.000 km) và dầu truyền động cuối 0,13 L thay 2 năm.",
+   "fact_ids": [
+    "XM-034",
+    "XM-039",
+    "XM-041",
+    "XM-044"
+   ]
+  },
+  {
+   "vehicle": "Honda Air Blade 160/125",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Air Blade chạy xăng, không có pin kéo. Bộ phận tương đương là bình điện 12 V-5,0 Ah (GTZ6V/WTZ6VIS) không cần bảo dưỡng, kiểm tra theo lịch 6.000 km và hằng năm.",
+   "fact_ids": [
+    "XM-034",
+    "XM-042",
+    "XM-043",
+    "XM-045"
+   ]
+  },
+  {
+   "vehicle": "Honda Wave Alpha / Wave RSX",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Wave làm mát bằng không khí; lịch bảo dưỡng không có mục dung dịch làm mát. Viết là không có nước làm mát, chuyển sang dầu động cơ (MA 10W-30, 0,8 L, thay mỗi 6.000 km) và thói quen tránh nổ máy tại chỗ lâu.",
+   "fact_ids": [
+    "XM-046",
+    "XM-060",
+    "XM-061",
+    "XM-053",
+    "XM-055",
+    "XM-113"
+   ]
+  },
+  {
+   "vehicle": "Honda Wave Alpha / Wave RSX",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Wave là xe số truyền động cuối bằng xích tải, không có dây curoa. Chuyển sang xích: độ chùng 25–35 mm (Wave Alpha) hoặc 20–30 mm (Wave RSX FI), kiểm tra và bôi trơn mỗi 500 km.",
+   "fact_ids": [
+    "XM-046",
+    "XM-047",
+    "XM-050",
+    "XM-051",
+    "XM-060",
+    "XM-062",
+    "XM-065",
+    "XM-120"
+   ]
+  },
+  {
+   "vehicle": "Honda Wave Alpha / Wave RSX",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Wave không có nhớt láp hay dầu hộp số riêng: bảng thông số chỉ có dung tích dầu động cơ, lịch bảo dưỡng không có dầu truyền động cuối, và sổ tay cho biết dầu động cơ liên quan trực tiếp tới hệ thống ly hợp. Nhớt láp là khái niệm của xe tay ga. Chuyển sang thay dầu động cơ loại MA đúng mốc.",
+   "fact_ids": [
+    "XM-053",
+    "XM-054",
+    "XM-055",
+    "XM-060",
+    "XM-064",
+    "XM-112",
+    "XM-118"
+   ]
+  },
+  {
+   "vehicle": "Honda Wave Alpha / Wave RSX",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Wave chạy xăng, không có pin kéo. Bộ phận tương đương là bình điện 12 V-3 Ah không cần bảo dưỡng.",
+   "fact_ids": [
+    "XM-056",
+    "XM-063"
+   ]
+  },
+  {
+   "vehicle": "Yamaha Sirius / Sirius FI",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Sirius (cả bản FI và chế hòa khí) làm mát bằng không khí theo bảng thông số Yamaha, nên không có nước làm mát. Chuyển sang dầu động cơ 10W-40 MA 0,80 L và mốc thay dầu.",
+   "fact_ids": [
+    "XM-076",
+    "XM-077",
+    "XM-088",
+    "XM-092",
+    "XM-078",
+    "XM-080"
+   ]
+  },
+  {
+   "vehicle": "Yamaha Sirius / Sirius FI",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Sirius là xe số truyền động bằng xích, không có dây curoa. Chuyển sang xích truyền động: độ chùng 30–40 mm (FI) hoặc 25–35 mm (chế hòa khí), bôi trơn ở 500 km rồi mỗi 2.000 km.",
+   "fact_ids": [
+    "XM-082",
+    "XM-083",
+    "XM-091",
+    "XM-120"
+   ]
+  },
+  {
+   "vehicle": "Yamaha Sirius / Sirius FI",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Sirius không có nhớt láp riêng: sổ tay ghi dầu nhớt động cơ cũng bôi trơn côn. Chuyển sang thay dầu động cơ MA, không trộn phụ gia.",
+   "fact_ids": [
+    "XM-079",
+    "XM-078",
+    "XM-080",
+    "XM-118"
+   ]
+  },
+  {
+   "vehicle": "Yamaha Sirius / Sirius FI",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Sirius chạy xăng, không có pin kéo. Tương đương là ắc quy 12 V: bản FI dùng ắc quy khô VRLA 3.0 Ah; bản chế hòa khí dùng 12N5 5.0 Ah phải kiểm tra nước ắc quy.",
+   "fact_ids": [
+    "XM-084",
+    "XM-085",
+    "XM-086",
+    "XM-089",
+    "XM-090"
+   ]
+  },
+  {
+   "vehicle": "Honda Winner X",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Winner X là xe côn tay truyền động cuối bằng xích tải (xích 428, có bản xích phớt O), không có dây curoa. Chuyển sang xích: độ chùng 25–35 mm, bôi trơn mỗi 1.000 km (FS150FA) hoặc 500 km (FS150F).",
+   "fact_ids": [
+    "XM-067",
+    "XM-068",
+    "XM-069",
+    "XM-074"
+   ]
+  },
+  {
+   "vehicle": "Honda Winner X",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Winner X không có nhớt láp riêng; hộp số 6 cấp dùng chung dầu động cơ 1,1 L loại MA, và sổ tay cảnh báo trộn dầu ảnh hưởng ly hợp.",
+   "fact_ids": [
+    "XM-066",
+    "XM-070",
+    "XM-071"
+   ]
+  },
+  {
+   "vehicle": "Honda Winner X",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Winner X chạy xăng, không có pin kéo; tương đương là bình điện GTZ6V 12 V-5 Ah.",
+   "fact_ids": [
+    "XM-070"
+   ]
+  },
+  {
+   "vehicle": "Xe máy 50cc (SYM xe ga 50cc, xe số 50cc)",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Các mẫu 50cc của SYM có công bố kiểu làm mát (Attila 50, Shark 50, Angela 50, Elegant 50, Galaxy 50) đều làm mát bằng không khí; mẫu Cub hiện hành của Honda (C125) cũng làm mát bằng không khí. Trang Elite 50 không ghi kiểu làm mát nên không khẳng định riêng cho Elite 50 bằng số liệu; chỉ nói các mẫu 50cc cùng hãng làm mát bằng gió.",
+   "fact_ids": [
+    "XM-095",
+    "XM-096",
+    "XM-097",
+    "XM-098",
+    "XM-099",
+    "XM-102",
+    "XM-113"
+   ]
+  },
+  {
+   "vehicle": "Xe số 50cc (Cub 50)",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Xe số 50cc dùng hộp số cơ khí 4 số, không có bộ truyền động vô cấp dây curoa. Các xe số có sổ tay trong thư viện (Wave, Sirius) đều truyền động cuối bằng xích, nhưng trang SYM của xe số 50cc không ghi rõ xích hay thông số xích, nên không gán số đo xích cụ thể cho Cub 50. Xe ga 50cc như SYM Elite 50 thì có truyền động tự động vô cấp, nên chủ đề dây curoa áp dụng được cho xe ga 50cc.",
+   "fact_ids": [
+    "XM-097",
+    "XM-098",
+    "XM-102",
+    "XM-047",
+    "XM-082",
+    "XM-093",
+    "XM-100",
+    "XM-120"
+   ]
+  },
+  {
+   "vehicle": "Xe số 50cc (Cub 50)",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Xe số dùng chung dầu động cơ cho hộp số và côn (như Wave, Sirius), không có nhớt láp riêng; nhớt láp chỉ có ở xe tay ga, kể cả xe ga 50cc như Elite 50.",
+   "fact_ids": [
+    "XM-079",
+    "XM-054",
+    "XM-118",
+    "XM-117",
+    "XM-097"
+   ]
+  },
+  {
+   "vehicle": "Xe máy 50cc chạy xăng",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Xe 50cc chạy xăng (SYM Elite 50 dùng xăng không chì, khởi động đề/đạp) không có pin kéo; tương đương là bình điện 12 V cấp cho đề và đèn. Thông số bình điện Elite 50 chưa có nguồn nên không ghi số.",
+   "fact_ids": [
+    "XM-094",
+    "XM-100",
+    "XM-108"
+   ]
+  }
+ ],
+ "gaps": [
+  "SYM Elite 50: không tìm thấy sách hướng dẫn sử dụng chính thức trên mạng (trang sym.com.vn chỉ có bảng thông số). Chưa có nguồn cho dung tích dầu động cơ, dung tích và mốc thay nhớt láp, mốc kiểm tra/thay dây curoa, model và dung lượng bình điện. Trang Elite 50 cũng không ghi kiểu làm mát.",
+  "Xe 'Cub 50' và 'xe ga 50cc màu trắng' trong đội xe (business-facts) chưa rõ hãng và model. Honda Việt Nam không bán Cub 50cc (chỉ có Super Cub C125), nên không có thông số chính hãng về độ chùng xích, dung tích dầu hay bình điện cho các xe này.",
+  "Trang SYM của xe số 50cc (Angela, Elegant, Galaxy) chỉ ghi 'Hộp số 4 số', không ghi truyền động xích, độ chùng xích hay dung tích dầu.",
+  "Lịch bảo dưỡng trong sổ tay Honda (dầu động cơ, đai truyền động, bình điện, xích) in bằng ký hiệu đồ họa K/T/V/B. Các mốc km được đọc từ ảnh trang PDF (ghi rõ trong ngoặc vuông của trích dẫn), không trích được dạng văn bản.",
+  "Sổ tay Air Blade (yGA1ooMcYBDaX4NEkfnH.pdf, tr. 148) ghi dòng 0,13 L với nhãn 'Dung tích dầu động cơ cuối cùng', thực chất là dầu truyền động cuối (lỗi dịch). Khi viết nên gọi là dầu truyền động cuối (nhớt láp) và trích đúng nhãn gốc.",
+  "Mốc nước làm mát chưa thống nhất giữa các nguồn: trang Hỏi đáp Honda ghi kiểm tra mỗi 15.000 km hoặc 12 tháng, thay sau 30.000 km hoặc 36 tháng; sổ tay LEAD, Air Blade và Winner X ghi kiểm tra ở 12, 24, 36 nghìn km và hằng năm, thay 3 năm. Bài viết về một mẫu cụ thể nên dùng sổ tay của mẫu đó.",
+  "Các bài tư vấn trên yamaha-motor.com.vn đưa khoảng chung (thay dầu 1.000–1.500/2.000 km, nhớt láp 5.000–6.000 hoặc 5.000–8.000 km, dây curoa 9.000–15.000 km) khác với lịch trong sổ tay Honda (dầu 6.000 km, nhớt láp 2 năm, đai thay 24.000 km) và sổ tay Sirius (dầu mỗi 3.000 km). Chỉ dùng các con số này như khuyến nghị chung, không gán cho một mẫu xe.",
+  "Không hãng nào công bố mốc km hoặc số năm để thay bình điện 12 V. Sổ tay Honda chỉ ghi 'Bình điện có tuổi thọ giới hạn' và lịch kiểm tra.",
+  "Winner X không còn trong danh sách sản phẩm của honda.com.vn (trang /san-pham/winner-x trả về 404). Thông số Winner X lấy từ sổ tay PDF; trang sản phẩm hiện hành chỉ có WINNER R.",
+  "Lịch bảo dưỡng Sirius trong sổ tay Yamaha có lịch thay dầu và bôi trơn xích; chưa trích các hàng lọc gió, bugi vì nằm ngoài phạm vi thư viện này.",
+  "Chưa thu thập giá phụ tùng (dây curoa, nhớt láp, bình điện, xích) từ bảng giá chính hãng. Góc 'chi phí thực tế' chỉ nêu khoản cần dự trù, không ghi số.",
+  "Hai trích dẫn luật (XM-103, XM-104) lấy nguyên văn từ lib/seed_legal_quotes.json (kiểm chứng 2026-10-30). Phiên này không mở lại PDF trên datafiles.chinhphu.vn do kết nối tới máy chủ này bị ngắt lặp lại.",
+  "Hạn mức Firecrawl và Tavily search đã hết trong phiên này nên tìm kiếm mở rộng (ví dụ sổ tay SYM, xe Cub 50cc) bị giới hạn. Trang và PDF được tải trực tiếp bằng curl."
+ ]
+}

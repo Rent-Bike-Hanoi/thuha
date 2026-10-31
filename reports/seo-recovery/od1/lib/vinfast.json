@@ -1,0 +1,2835 @@
+{
+ "library": "vinfast",
+ "built": "2026-10-31",
+ "facts": [
+  {
+   "id": "VF-001",
+   "tags": [
+    "vinfast-feliz-s",
+    "dong-co",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap",
+    "thay-dau-nhot"
+   ],
+   "claim": "Theo hướng dẫn sử dụng VinFast Feliz S, động cơ được tích hợp trong vành bánh sau (động cơ trong bánh, hub motor).",
+   "quote": "3.4. Góc nhìn bên phải … A. Động cơ tích hợp trong vành sau",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-002",
+   "tags": [
+    "vinfast-evo-200",
+    "dong-co",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap",
+    "thay-dau-nhot"
+   ],
+   "claim": "Theo hướng dẫn sử dụng VinFast Evo 200, động cơ được tích hợp trong vành bánh sau.",
+   "quote": "3.4. Góc nhìn bên phải … D. Động cơ tích hợp trong vành sau",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-003",
+   "tags": [
+    "vinfast-klara-s",
+    "dong-co",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap",
+    "thay-dau-nhot"
+   ],
+   "claim": "Theo hướng dẫn sử dụng VinFast Klara S (bản 2022/S2), động cơ được tích hợp trong vành bánh sau.",
+   "quote": "3.4. Góc nhìn bên phải … A. Động cơ tích hợp trong vành sau",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-004",
+   "tags": [
+    "vinfast-feliz-s",
+    "dong-co",
+    "thay-the-bugi",
+    "ve-sinh-kim-phun-fi",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Bảng thông số Feliz S ghi loại động cơ là động cơ điện một chiều không chổi than, bộ điều khiển có phanh tái sinh và bộ truyền động là truyền động trực tiếp (không hộp số, không dây curoa hay xích).",
+   "quote": "Loại động cơ | Động cơ điện một chiều không chổi than … Bộ điều khiển | Bộ điều khiển động cơ hiệu suất cao, phanh tái sinh … TRUYỀN ĐỘNG … Bộ truyền động | Truyền động trực tiếp",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-005",
+   "tags": [
+    "vinfast-evo-200",
+    "dong-co",
+    "thay-the-bugi",
+    "ve-sinh-kim-phun-fi",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Bảng thông số Evo 200 ghi động cơ điện một chiều không chổi than và bộ truyền động là truyền động trực tiếp.",
+   "quote": "Loại động cơ | Động cơ điện một chiều không chổi than … Bộ điều khiển | Bộ điều khiển động cơ hiệu suất cao, phanh tái sinh … TRUYỀN ĐỘNG … Bộ truyền động | Truyền động trực tiếp",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-006",
+   "tags": [
+    "vinfast-klara-s",
+    "dong-co",
+    "thay-the-bugi",
+    "ve-sinh-kim-phun-fi",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Bảng thông số Klara S (bản 2022/S2) ghi động cơ điện một chiều không chổi than và bộ truyền động là truyền động trực tiếp.",
+   "quote": "Loại động cơ | Động cơ điện một chiều không chổi than … Bộ điều khiển | Bộ điều khiển động cơ hiệu suất cao, phanh tái sinh … TRUYỀN ĐỘNG … Bộ truyền động | Truyền động trực tiếp",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-007",
+   "tags": [
+    "vinfast-evo-200-lite",
+    "dong-co",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Bảng thông số Evo 200 Lite ghi động cơ điện một chiều không chổi than, truyền động trực tiếp và vận tốc lớn nhất 49 km/h.",
+   "quote": "Loại động cơ | Động cơ điện một chiều không chổi than … Vận tốc lớn nhất | 49 km/h … Bộ truyền động | Truyền động trực tiếp",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-lite-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 LITE (BOL00009869-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-008",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "dong-co",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Khi bóp tay phanh, xe kích hoạt phanh điện: một phần năng lượng được chuyển thành điện nạp lại pin (phanh tái sinh).",
+   "quote": "Một phần năng lượng được chuyển hóa thành điện năng và nạp vào pin Lithium-ion. Tính năng chuyển hóa năng lượng phanh thành điện năng và nạp lại pin Lithium-ion còn được gọi bằng thuật ngữ phanh tái sinh.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-009",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "dong-co",
+    "cong-suat"
+   ],
+   "claim": "VinFast công bố Evo200 và Feliz S dùng động cơ Inhub đặt tại bánh sau.",
+   "quote": "Hai mẫu xe cùng được trang bị động cơ Inhub tiên tiến đặt tại bánh sau, cho phép xe di chuyển ổn định với tốc độ cao.",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-010",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "cong-suat",
+    "toc-do-toi-da"
+   ],
+   "claim": "Theo bài so sánh của VinFast (2022): Evo200 công suất tối đa 2.500 W, danh định 1.500 W, tốc độ tối đa 70 km/h; Feliz S công suất tối đa 3.000 W, danh định 1.800 W, tốc độ tối đa 78 km/h.",
+   "quote": "Công suất tối đa (W) | 2500 | 3000 … Công suất danh định(W) | 1500 | 1800 … Tốc độ tối đa (km/h) | 70 | 78 … Khả năng tăng tốc từ 0-50km (1 người 65kg) (giây) | 14 | 12",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-011",
+   "tags": [
+    "vinfast-klara-s",
+    "cong-suat",
+    "toc-do-toi-da",
+    "dong-co"
+   ],
+   "claim": "Trang thông số Klara S 2022 của VinFast ghi công suất tối đa 3.000 W, danh định 1.800 W, động cơ Inhub đặt tại bánh sau, vận tốc tối đa 78 km/h.",
+   "quote": "Động cơ xe Klara S 2022 có công suất cực đại 3.000W giúp xe đạt được vận tốc tối đa 78km/h, tăng tốc nhanh ấn tượng từ 0-50km/h trong vòng 12 giây. … Động cơ Inhub của xe điện VinFast Klara S 2022 đặt tại bánh sau giúp tối ưu hiệu suất vận hành",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-012",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-evo-200-lite",
+    "cong-suat",
+    "toc-do-toi-da",
+    "bang-lai"
+   ],
+   "claim": "VinFast công bố Evo200 Lite có công suất tối đa 2.450 W, tốc độ cực đại 49 km/h, là bản giới hạn tốc độ dành cho học sinh, không cần bằng lái; Evo200 là 2.500 W và 70 km/h.",
+   "quote": "VinFast Evo200 và Evo200 Lite đều được trang bị động cơ Inhub công suất tối đa lần lượt là 2.500W và 2.450W, giúp xe di chuyển êm ái nhưng gần như không phát ra tiếng động khi vận hành. Theo đó, phiên bản Evo200 có tốc độ cực đại lên đến 70km/h, đối với Evo200 Lite là 49km/h, phù hợp với đối tượng học sinh, không cần bằng lái.",
+   "source": "https://vinfastauto.com/vn_vi/xe-may-dien-co-di-duoc-troi-mua-khong-mach-ban-4-luu-y-khi-su-dung",
+   "source_title": "VinFast – Xe máy điện, xe đạp điện đi mưa có sao không? (24/07/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-013",
+   "tags": [
+    "vinfast-evo-200",
+    "toc-do-toi-da"
+   ],
+   "claim": "Hướng dẫn sử dụng Evo 200 (bản BOL00009361-06) ghi vận tốc lớn nhất 60 km/h (khác với mức 70 km/h trong bài giới thiệu năm 2022).",
+   "quote": "Vận tốc lớn nhất | 60 km/h",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-014",
+   "tags": [
+    "vinfast-feliz-s",
+    "toc-do-toi-da"
+   ],
+   "claim": "Hướng dẫn sử dụng Feliz S (bản BOL00008955-07) ghi vận tốc lớn nhất 70 km/h (bài giới thiệu năm 2022 ghi 78 km/h).",
+   "quote": "Vận tốc lớn nhất | 70 km/h",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-015",
+   "tags": [
+    "vinfast-klara-s",
+    "toc-do-toi-da"
+   ],
+   "claim": "Hướng dẫn sử dụng Klara S (bản BOL00008961-09) ghi vận tốc lớn nhất 70 km/h (trang thông số 2022 ghi 78 km/h).",
+   "quote": "Vận tốc lớn nhất | 70 km/h",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-016",
+   "tags": [
+    "vinfast-evo-200",
+    "phan-loai-xe",
+    "bang-lai"
+   ],
+   "claim": "Tem nhãn hàng hóa của Evo 200 phân loại xe là 'xe mô tô hai bánh (điện)'.",
+   "quote": "XE MÔ TÔ HAI BÁNH (ĐIỆN) Nhãn hiệu: VINFAST Số loại: EVO 200",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-017",
+   "tags": [
+    "vinfast-evo-200-lite",
+    "phan-loai-xe",
+    "bang-lai"
+   ],
+   "claim": "Tem nhãn hàng hóa của Evo 200 Lite phân loại xe là 'xe gắn máy hai bánh (điện)'.",
+   "quote": "XE GẮN MÁY HAI BÁNH (ĐIỆN) Nhãn hiệu: VINFAST Số loại: EVO 200 LITE",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-lite-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 LITE (BOL00009869-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-018",
+   "tags": [
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Pin Lithium-ion của Feliz S được đặt cố định dưới sàn để chân.",
+   "quote": "5.1.1. Tổng quan về pin Lithium-ion Pin Lithium-ion được đặt cố định dưới sàn để chân.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-019",
+   "tags": [
+    "vinfast-evo-200",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Pin Lithium-ion của Evo 200 được đặt cố định dưới sàn để chân.",
+   "quote": "5.1.1. Tổng quan về pin Lithium-ion Pin Lithium-ion được đặt cố định dưới sàn để chân.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-020",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Pin Lithium-ion của Klara S (bản 2022/S2) được đặt cố định dưới sàn để chân.",
+   "quote": "5.1.1. Tổng quan về pin Lithium-ion Pin Lithium-ion được đặt cố định dưới sàn để chân.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-021",
+   "tags": [
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien",
+    "thong-so"
+   ],
+   "claim": "Bảng thông số Feliz S: pin Lithium-ion dung lượng danh định 48 Ah, nặng trung bình 28 kg, điện áp danh định 70,4 V.",
+   "quote": "Loại pin | Lithium-ion … Dung lượng danh định | 48 Ah … Khối lượng trung bình | 28 kg … Điện áp danh định | 70,4 V",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-022",
+   "tags": [
+    "vinfast-evo-200",
+    "cham-soc-pin-xe-dien",
+    "thong-so"
+   ],
+   "claim": "Bảng thông số Evo 200: pin Lithium-ion 48 Ah, nặng trung bình 28 kg, điện áp danh định 70,4 V.",
+   "quote": "Loại pin | Lithium-ion … Dung lượng danh định | 48 Ah … Khối lượng trung bình | 28 kg … Điện áp danh định | 70,4 V",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-023",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "thong-so"
+   ],
+   "claim": "Bảng thông số Klara S (2022/S2): pin Lithium-ion 48 Ah, nặng trung bình 28 kg, điện áp danh định 70,4 V.",
+   "quote": "Loại pin | Lithium-ion … Dung lượng danh định | 48 Ah … Khối lượng trung bình | 28 kg … Điện áp danh định | 70,4 V",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-024",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien",
+    "thong-so"
+   ],
+   "claim": "VinFast công bố Evo200 và Feliz S dùng pin LFP dung lượng 3,5 kWh.",
+   "quote": "Công nghệ pin xe máy điện VinFast Evo200 và Feliz S sử dụng là LFP. … Dung lượng (kWh) | 3,5 | 3,5",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-025",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "thong-so"
+   ],
+   "claim": "Klara S 2022 dùng 1 pin LFP dung lượng 3,5 kWh, nặng 28 kg.",
+   "quote": "Loại pin | 1 Pin LFP … Công suất/Dung lượng pin | 3,5 kWh … Trọng lượng pin | 28 kg",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-026",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Ở Klara S 2022, pin được dời xuống sàn để chân, thay cho ắc quy đặt trong cốp ở bản Klara S đời trước.",
+   "quote": "Phần yên xe được nâng cao đồng thời vị trí đặt pin được dời xuống khu vực sàn để chân thay vì đặt ở cốp như Ắc quy của phiên bản xe máy điện VinFast Klara S.",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-027",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "VinFast công bố pin LFP của Klara S 2022 còn khoảng 70% dung lượng sau hơn 2.000 lần sạc/xả, và pin tự tắt sau 14 ngày không dùng hoặc khi dung lượng dưới 20%.",
+   "quote": "Chu kỳ nạp - xả lớn, tuổi thọ lên đến hơn 2000 lần sạc/xả dung lượng pin vẫn còn tới 70%; … Sau 14 ngày xe không sử dụng hoặc khi dung lượng dưới 20%, pin sẽ tự động tắt. Từ đó, pin xe được cải thiện tuổi thọ.",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-028",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "VinFast công bố pin LFP của Evo200 và Feliz S còn hơn 70% dung lượng sau 2.000 lần nạp/xả và không chứa Coban, Niken.",
+   "quote": "Pin không chứa những kim loại hiếm như Coban, Niken. … Dung lượng pin còn lại hơn 70% sau 2.000 lần nạp/xả.",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-029",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Pin LFP của Klara S 2022 có tính năng xác thực, xe không thể thay bằng pin khác.",
+   "quote": "Pin LFP có khả năng chống cháy nổ do có tính năng xác thực, xe không thể thay pin khác đồng thời hạn chế tối đa tình trạng can thiệp vào phần cứng của pin;",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-030",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-evo-200-lite",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Pin LFP của Evo200 và Evo200 Lite có tính năng xác thực, không thể thay bằng pin loại khác.",
+   "quote": "pin LFP của xe máy điện VinFast Evo200 và Evo200 Lite đều có tính năng xác thực, không thể thay thế bằng loại pin khác hoặc can thiệp vào phần cứng.",
+   "source": "https://vinfastauto.com/vn_vi/xe-may-dien-co-di-duoc-troi-mua-khong-mach-ban-4-luu-y-khi-su-dung",
+   "source_title": "VinFast – Xe máy điện, xe đạp điện đi mưa có sao không? (24/07/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-031",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Hướng dẫn sử dụng cấm tự tháo, mở pin ra khỏi xe và cấm dùng pin của dòng xe khác.",
+   "quote": "Không được tự ý tháo pin ra khỏi xe, mở, tháo, tác động vật lý mạnh lên pin (kể cả pin đã hỏng). … Không sử dụng pin của những dòng xe khác hoặc tự ý thay đổi tình trạng pin, việc đó sẽ dẫn đến hư hỏng các chi tiết điện trên xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-032",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Hướng dẫn sử dụng yêu cầu tránh để vật dẫn điện hoặc nước lọt vào khu vực pin vì có thể gây ngắn mạch.",
+   "quote": "Tránh việc gây ngắn mạch pin: Để rơi vật dẫn điện, nước lọt vào khu vực pin.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-033",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Mỗi pin có hệ thống quản lý BMS luôn hoạt động cả khi lái và khi cất xe; khi bảo vệ kích hoạt, pin có thể cắt điện đầu ra.",
+   "quote": "Mỗi pin Lithium-ion được tích hợp một hệ thống quản lý pin BMS để giám sát tình trạng hoạt động của pin và tối ưu quá trình sạc nhằm cung cấp hiệu năng tốt nhất, duy trì tối đa tuổi thọ của pin. BMS có nhiều chức năng bảo vệ nhằm phòng ngừa rủi ro gây hư hỏng cho pin. Khi các chức năng bảo vệ được kích hoạt, pin có thể từ chối phản hồi và cắt điện đầu ra. BMS luôn luôn làm việc khi người dùng lái xe và cất giữ xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-034",
+   "tags": [
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien",
+    "mua-dong-lanh",
+    "nang-nong",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Feliz S giảm hiệu năng khi nhiệt độ trong pin dưới -10°C, trên 40°C hoặc dung lượng pin dưới 30%.",
+   "quote": "Khi nhiệt độ bên trong pin dưới -10°C, hoặc trên 40°C, hoặc dung lượng pin dưới 30%, hiệu năng của xe sẽ giảm xuống để đảm bảo an toàn.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-035",
+   "tags": [
+    "vinfast-evo-200",
+    "cham-soc-pin-xe-dien",
+    "mua-dong-lanh",
+    "nang-nong",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Evo 200 giảm hiệu năng khi nhiệt độ trong pin dưới -10°C, trên 40°C hoặc dung lượng pin dưới 30%.",
+   "quote": "Khi nhiệt độ bên trong pin dưới -10°C, hoặc trên 40°C, hoặc dung lượng pin dưới 30%, hiệu năng của xe sẽ giảm xuống để đảm bảo an toàn của pin.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-036",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "mua-dong-lanh",
+    "nang-nong",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Klara S giảm hiệu năng khi nhiệt độ trong pin dưới -10°C, trên 40°C hoặc dung lượng pin dưới 30%.",
+   "quote": "Khi nhiệt độ bên trong pin dưới -10°C, hoặc trên 40°C, hoặc dung lượng pin dưới 30%, hiệu năng của xe sẽ giảm xuống để đảm an toàn của pin.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-037",
+   "tags": [
+    "vinfast-feliz-s",
+    "nang-nong",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Trời quá nóng có thể làm xe giảm hiệu năng; pin ngừng hoạt động khi nhiệt độ bên trong vượt 60°C.",
+   "quote": "Vận hành xe điện trong điều kiện thời tiết quá nóng có thể xảy ra hiện tượng hiệu năng của xe giảm để làm giảm sự phát nhiệt. Pin Lithium-ion sẽ ngừng hoạt động khi nhiệt độ bên trong pin vượt ngưỡng 60ºC.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-038",
+   "tags": [
+    "vinfast-evo-200",
+    "nang-nong",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Evo 200: trời quá nóng có thể làm giảm hiệu năng; pin ngừng hoạt động khi nhiệt độ bên trong vượt 60°C.",
+   "quote": "Vận hành xe điện trong điều kiện thời tiết quá nóng có thể xảy ra hiện tượng hiệu năng của xe giảm để làm giảm sự phát nhiệt. Pin Lithium-ion sẽ ngừng hoạt động khi nhiệt độ bên trong pin vượt ngưỡng 60°C.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-039",
+   "tags": [
+    "vinfast-klara-s",
+    "nang-nong",
+    "cham-soc-pin-xe-dien",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Klara S: trời quá nóng có thể làm giảm hiệu năng; pin ngừng hoạt động khi nhiệt độ bên trong vượt 60°C.",
+   "quote": "Vận hành xe điện trong điều kiện thời tiết quá nóng có thể xảy ra hiện tượng hiệu năng của xe giảm để làm giảm sự phát nhiệt. Pin Lithium-ion sẽ ngừng hoạt động khi nhiệt độ bên trong pin vượt ngưỡng 60°C.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-040",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "nang-nong",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Cất hoặc đỗ xe lâu ngày nơi trên 45°C hoặc dưới nắng trực tiếp có thể làm giảm hiệu năng pin.",
+   "quote": "Lưu trữ hoặc đỗ xe dài hạn trong điều kiện nhiệt độ môi trường cao trên 45ºC hoặc dưới ánh nắng trực tiếp có thể làm giảm hiệu năng hoạt động của pin Lithium-ion.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-041",
+   "tags": [
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Feliz S: nếu đỗ xe trên 14 ngày cần sạc pin trên 50%, tắt công tắc pin dưới yên, kiểm tra pin mỗi tháng và sạc lại khi dưới 30%; có thể để cắm sạc liên tục, sạc tự nạp lại khi pin dưới 95%.",
+   "quote": "Khi có kế hoạch đỗ xe trên 14 ngày, bạn cần phải sạc pin trên 50%, sau đó tắt công tắc pin trong khoang chứa đồ dưới yên xe. Kiểm tra dung lượng pin định kỳ một tháng một lần và sạc lại pin khi dung lượng giảm xuống dưới 30%. Ngoài ra, bạn có thể duy trì sạc pin liên tục trong thời gian không sử dụng xe, sạc sẽ tự động sạc lại pin khi dung lượng pin giảm xuống dưới 95%.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-042",
+   "tags": [
+    "vinfast-evo-200",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Evo 200: nếu đỗ xe trên 14 ngày cần sạc pin trên 50%, tắt công tắc pin, kiểm tra pin mỗi tháng và sạc lại khi dưới 30%.",
+   "quote": "Khi có kế hoạch đỗ xe trên 14 ngày, bạn cần phải sạc pin trên 50%, sau đó tắt công tắc pin trong khoang chứa đồ dưới yên xe. Kiểm tra dung lượng pin định kỳ một tháng một lần và sạc lại pin khi dung lượng giảm xuống dưới 30%. Ngoài ra, bạn có thể duy trì sạc pin liên tục trong thời gian không sử dụng xe, sạc sẽ tự động sạc lại pin khi dung lượng pin giảm xuống dưới 95%.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-043",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Klara S: nếu đỗ xe trên 14 ngày cần sạc pin trên 50%, tắt công tắc pin, kiểm tra pin mỗi tháng và sạc lại khi dưới 30%.",
+   "quote": "Khi có kế hoạch đỗ xe trên 14 ngày, bạn cần phải sạc pin trên 50%, sau đó tắt công tắc pin trong khoang chứa đồ dưới yên xe. Kiểm tra dung lượng pin định kỳ một tháng một lần và sạc lại pin khi dung lượng giảm xuống dưới 30%. Ngoài ra, bạn có thể duy trì sạc pin liên tục trong thời gian không sử dụng xe, sạc sẽ tự động sạc lại pin khi dung lượng pin giảm xuống dưới 95%.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-044",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Sau khi tắt xe, pin tự tắt hoàn toàn sau 1 ngày nếu dưới 20%, hoặc khi xuống dưới 20%/sau 14 ngày; muốn dùng lại phải tắt rồi bật lại công tắc pin.",
+   "quote": "Sau khi tắt xe, nếu dung lượng pin dưới 20%, pin sẽ được tắt hoàn toàn sau 1 ngày. Nếu dung lượng pin lớn hơn hoặc bằng 20%, xe sẽ định kỳ kiểm tra dung lượng pin 2 ngày/lần: Nếu dung lượng pin nhỏ hơn 20% hoặc sau 14 ngày kiểm tra, pin sẽ được tắt hoàn toàn. Bạn cần tắt sau đó bật lại công tắc pin để kích hoạt lại pin để sử dụng xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-045",
+   "tags": [
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Feliz S: nếu sau khi đi pin còn dưới 20% phải sạc lại trong vòng 3 ngày, và nên sạc đầy 100% ít nhất mỗi tháng một lần.",
+   "quote": "Sau khi sử dụng, nếu dung lượng pin còn dưới 20%, cần phải sạc lại pin ngay trong vòng 3 ngày. • Sạc đầy pin 100% cho xe ít nhất một lần mỗi tháng.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-046",
+   "tags": [
+    "vinfast-evo-200",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Evo 200: nếu pin còn dưới 20% phải nạp lại trong vòng 3 ngày, và sạc đầy 100% ít nhất mỗi tháng một lần.",
+   "quote": "Sau khi sử dụng, nếu dung lượng pin còn dưới 20%, cần phải nạp lại pin ngay trong vòng 3 ngày. • Sạc đầy pin Lithium-ion 100% cho xe ít nhất một lần mỗi tháng.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-047",
+   "tags": [
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Klara S: nếu pin còn dưới 20% phải sạc lại trong vòng 3 ngày, và sạc đầy 100% ít nhất mỗi tháng một lần.",
+   "quote": "Sau khi sử dụng, nếu dung lượng pin còn dưới 20%, cần phải sạc lại pin ngay trong vòng 3 ngày. • Sạc đầy pin 100% cho xe ít một lần một tháng.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-048",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung",
+    "bao-hanh"
+   ],
+   "claim": "Không được cất xe khi pin dưới 20%; cất lâu ở mức này có thể làm pin hỏng hoàn toàn và bị từ chối bảo hành.",
+   "quote": "CHÚ Ý: Không cất giữ xe khi dung lượng pin nhỏ hơn 20%. Cất giữ pin khi dung lượng nhỏ hơn 20% trong thời gian dài có thể khiến pin bị hư hỏng hoàn toàn và bị từ chối bảo hành.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-049",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sac-pin"
+   ],
+   "claim": "Hãng khuyến nghị giữ dung lượng pin trong khoảng 20–80% để tốt cho tuổi thọ pin và sạc ngay khi có thể.",
+   "quote": "CHÚ Ý: Duy trì dung lượng ở mức từ 20% đến 80% sẽ tốt hơn cho tuổi thọ của pin Lithium-ion. Đừng ngần ngại sạc điện cho xe ngay khi có thể.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-050",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sac-pin",
+    "nang-nong",
+    "mua-dong-lanh",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Pin hoạt động tốt nhất ở 10–45°C; không nên sạc khi pin từ 45°C trở lên, nên đợi khoảng một giờ sau khi chạy rồi mới sạc.",
+   "quote": "Pin Lithium-ion sẽ hoạt động tốt nhất khi ở dải nhiệt độ 10⁰C đến 45⁰C. Không nên sạc khi nhiệt độ pin ≥ 45⁰C, sau khi sử dụng xe, nên đợi khoảng một giờ đồng hồ để nhiệt độ bên trong pin giảm, giúp tăng tuổi thọ của pin.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-051",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sac-pin",
+    "nang-nong",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Nhiệt độ tối đa trong pin khi sạc là 55°C; vượt ngưỡng pin từ chối sạc; sau khi chạy tải nặng pin có thể lên 70°C.",
+   "quote": "Nhiệt độ tối đa bên trong pin Lithium-ion trong khi sạc là 55°C. Nếu nhiệt độ bên trong pin vượt ngưỡng đó, pin sẽ từ chối sạc cho đến khi nhiệt độ được hạ xuống. Nhiệt độ bên trong pin Lithium-ion có thể lên đến 70°C sau khi hoạt động do tải nặng mặc dù nhiệt độ môi trường đang thấp hơn.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-052",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "tai-trong"
+   ],
+   "claim": "Chở quá tải trọng cho phép có thể làm phồng và giảm tuổi thọ pin.",
+   "quote": "Việc sử dụng xe quá tải trọng cho phép có thể gây ra phồng và giảm tuổi thọ pin.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-053",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Khi tắt xe, hệ thống điện tử vẫn tiêu thụ một lượng điện nhỏ nên dung lượng pin giảm dần.",
+   "quote": "Khi tắt xe, hệ thống điện tử trên xe vẫn tiêu thụ một lượng năng lượng nhỏ và dung lượng pin sẽ giảm dần theo thời gian.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-054",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Pin cần được kiểm tra định kỳ tình trạng bên ngoài và lắp ráp các cực pin vì đường xóc có thể ảnh hưởng.",
+   "quote": "Trong quá trình sử dụng xe, việc đi vào những điều kiện đường xóc có thể làm ảnh hưởng đến pin Lithium-ion và các tình trạng lắp ráp cực pin Lithium-ion bị thay đổi. Do vậy pin Lithium-ion cần được kiểm tra định kỳ tình trạng bên ngoài và tình trạng lắp ráp các cực pin Lithium-ion.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-055",
+   "tags": [
+    "vinfast-feliz-s",
+    "sac-pin",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Feliz S đi kèm bộ sạc 72V/20A, công suất tối đa khoảng 1.000 W từ điện AC 220V/50Hz; thời gian sạc tiêu chuẩn 5,5 giờ.",
+   "quote": "Bộ sạc 72V/20A được cung cấp kèm theo xe tiêu thụ công suất điện tối đa khoảng 1000W từ nguồn điện AC 220V/50Hz. … Thời gian sạc tiêu chuẩn | 5,5 giờ (Thời gian sạc tùy tình trạng của pin như mức điện áp khi bắt đầu sạc và độ chai)",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-056",
+   "tags": [
+    "vinfast-klara-s",
+    "sac-pin",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Klara S (2022/S2) đi kèm bộ sạc 72V/20A, khoảng 1.000 W; thời gian sạc tiêu chuẩn 5,5 giờ.",
+   "quote": "Bộ sạc 72V/20A được cung cấp kèm theo xe tiêu thụ công suất điện tối đa khoảng 1000W từ nguồn điện AC 220V/50Hz. … Thời gian sạc tiêu chuẩn | 5,5 giờ",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-057",
+   "tags": [
+    "vinfast-evo-200",
+    "sac-pin",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Hướng dẫn sử dụng Evo 200 (BOL00009361-06) ghi bộ sạc kèm xe 72V/5.5A, khoảng 400 W, thời gian sạc tiêu chuẩn 10 giờ.",
+   "quote": "Bộ sạc 72V/5.5A được cung cấp kèm theo xe tiêu thụ công suất điện tối đa khoảng 400W từ nguồn điện AC 220V/50Hz. … Thời gian sạc tiêu chuẩn | 10 giờ",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-058",
+   "tags": [
+    "vinfast-evo-200-lite",
+    "sac-pin",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Hướng dẫn sử dụng Evo 200 Lite ghi bộ sạc kèm xe 72V/5.5A, khoảng 400 W, thời gian sạc tiêu chuẩn 10 giờ.",
+   "quote": "Bộ sạc 72V/5.5A được cung cấp kèm theo xe tiêu thụ công suất điện tối đa khoảng 400W từ nguồn điện AC 220V/50Hz. … Thời gian sạc tiêu chuẩn | 10 giờ",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-lite-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 LITE (BOL00009869-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-059",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-evo-200-lite",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin"
+   ],
+   "claim": "Bài quãng đường của VinFast (2023): Evo200 dùng được sạc 1.000 W nạp khoảng 4 giờ; Evo200 Lite dùng sạc 400 W hoặc 1.000 W; Feliz S sạc 1.000 W khoảng 6 giờ; Klara S 2022 sạc 1.000 W khoảng 6 giờ.",
+   "quote": "xe có thể dùng sạc công suất 1000W, giúp nạp pin trong khoảng 4h. … Evo200 Lite có thể dùng loại sạc công suất 400W hoặc 1000W. … Với dung lượng pin 3,5kWh, xe sử dụng loại sạc 1000W với thời gian sạc tiêu chuẩn khoảng 6h. … Được trang bị bộ sạc thế hệ mới với công suất 1.000W, VinFast KLara S 2022 có khả năng nạp đầy pin trong khoảng 6 giờ",
+   "source": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+   "source_title": "VinFast – Quãng đường di chuyển xe máy điện VinFast được bao nhiêu km? (03/04/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-060",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin"
+   ],
+   "claim": "Phải bật công tắc pin trong khoang dưới yên trước khi cắm sạc, nếu không xe không sạc được.",
+   "quote": "Bật công tắc pin trong khoang chứa đồ dưới yên xe trước khi cắm sạc vào xe. Nếu không bật công tắc pin, sẽ không thể sạc điện cho xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-061",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin"
+   ],
+   "claim": "Cổng sạc nằm trong khoang chứa đồ dưới yên, có nắp đậy chống vật lạ; trong khoang có cổng sạc và công tắc pin.",
+   "quote": "Trong khoang chứa đồ của xe có cổng sạc điện (A) và công tắc pin(B). … Cổng sạc điện cho xe được bố trí trong khoang chứa đồ dưới yên xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-062",
+   "tags": [
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin"
+   ],
+   "claim": "Quy trình sạc: tắt điện, bật công tắc pin, mở nắp cổng sạc, cắm đầu DC vào xe trước rồi mới cắm phích AC; khi rút thì tắt xe, rút phích điện rồi mới rút giắc sạc.",
+   "quote": "1. Tắt điện xe. Bật công tắc pin. 2. Mở nắp cổng sạc bên trong khoang chứa đồ dưới yên xe. 3. Kết nối đầu DC (A) của sạc vào cổng sạc trên xe. 4. Cắm đầu AC (C) của sạc vào ổ điện. 5. Đóng yên lại. … Để rút sạc: Nên tắt xe trước, sau đó rút phích điện rồi giắc sạc.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-063",
+   "tags": [
+    "vinfast-evo-200",
+    "sac-pin"
+   ],
+   "claim": "Evo 200: sau khi cắm sạc đợi ít nhất 30 giây mới bật khóa điện; nếu rút sạc đột ngột phải đợi ít nhất 10 giây mới cắm lại.",
+   "quote": "Sau khi cắm sạc, vui lòng đợi ít nhất 30 giây trước khi bật khóa điện. Nếu rút sạc đột ngột khi đang sạc, vui lòng đợi ít nhất 10 giây và cắm sạc trở lại.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-064",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin",
+    "mua-mua-ngap",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Bộ sạc thiết kế để dùng trong nhà, phải tránh nước, hơi ẩm; cắm khi cổng sạc có nước hoặc bụi có thể gây cháy hoặc điện giật.",
+   "quote": "Bộ sạc được thiết kế để sử dụng trong nhà, luôn sạc điện ở nơi thoáng mát, bảo vệ sạc và ổ cắm khỏi nước, hơi ẩm cũng như các chất lỏng khác, tránh xa các vật liệu dễ cháy. Kết nối khi có nước hoặc bụi trong cổng sạc và phích cắm có thể gây ra hỏa hoạn hoặc điện giật.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-065",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin"
+   ],
+   "claim": "Chỉ dùng bộ sạc kèm xe hoặc bộ sạc tương đương do VinFast cung cấp; sạc sai có thể hỏng hệ thống điện, gây cháy nổ.",
+   "quote": "Chỉ sử dụng bộ sạc được cung cấp kèm theo xe hoặc bộ sạc tương đương được cung cấp bởi VinFast khi sạc điện. Sử dụng sai bộ sạc có thể gây hỏng hóc hệ thống điện trên xe và sự cố cháy nổ không mong muốn.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-066",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin"
+   ],
+   "claim": "Không để bộ sạc trong cốp khi đang sạc vì có thể quá nhiệt, cháy nổ.",
+   "quote": "Không để bộ sạc trong cốp xe khi đang sạc xe vì bộ sạc có thể bị quá nhiệt và gây ra cháy nổ.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-067",
+   "tags": [
+    "vinfast-feliz-s",
+    "sac-pin"
+   ],
+   "claim": "Đèn bộ sạc Feliz S: đỏ sáng là đang sạc, đỏ nhấp nháy là sạc/pin có sự cố, xanh lam là chưa nối xe, xanh lá là sạc xong.",
+   "quote": "Đang sạc (màu đỏ) sáng: Đang trong quá trình sạc. • Đang sạc (màu đỏ) nhấp nháy: Sạc hoặc pin có sự cố. • Đang chờ (màu xanh lam): Sạc chưa được kết nối vào xe • Pin đầy (màu xanh lá) : Hoàn thành quá trình sạc.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-068",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin",
+    "khoi-dong-buoi-sang-lanh",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Nếu màn hình không sáng sau 45 giây kể từ khi bật khóa và lặp lại nhiều lần, hãy cắm sạc ít nhất 1 phút rồi khởi động lại.",
+   "quote": "Nếu màn hình không sáng sau 45 giây kể từ khi bật khóa điện và hiện tượng này lặp đi lặp lại nhiều lần, hãy cắm sạc vào xe. Chờ để sạc xe ít nhất 1 phút, sau đó tháo sạc và khởi động lại xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-069",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lap-khoa-chong-trom",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Không được lắp thêm thiết bị điện nào lên xe khi chưa được VinFast cho phép vì có thể làm hỏng xe, giảm quãng đường và tuổi thọ pin.",
+   "quote": "Không lắp thêm bất kỳ thiết bị điện nào lên xe trừ khi được sự cho phép của VinFast. Các thiết bị đó có thể gây hư hỏng xe, ngăn cản sự hoạt động bình thường của các thiết bị khác trên xe, và/hoặc làm giảm đáng kể phạm vi hoạt động của xe và/hoặc giảm tuổi thọ của pin Lithium-ion.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-070",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "an-toan-dien",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Xe có thiết bị điện áp cao trên 60V; khi cháy phải dập bằng bình cứu hỏa dạng bột trước.",
+   "quote": "Xe điện của bạn có chứa các thiết bị hoạt động ở điện áp cao trên 60V. Mức điện áp này là nguy hiểm và có thể gây thương tích khi tiếp xúc với cơ thể. … Nếu xảy ra hỏa hoạn với xe điện, hãy dập tắt đám cháy bằng bình cứu hỏa dạng bột. Sau đó áp dụng các phương án chữa cháy bằng nước khác.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-071",
+   "tags": [
+    "vinfast-evo-200",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "quang-duong"
+   ],
+   "claim": "VinFast công bố Evo200 đi được 203 km/lần sạc ở 30 km/h với 1 người 65 kg; 146 km ở 45 km/h và 129 km ở 50 km/h với 1 người 70 kg.",
+   "quote": "xe Evo200 có thể đi được quãng đường lên đến 203km sau mỗi lần sạc đầy trong điều kiện tiêu chuẩn 30km/h và với 1 người nặng 65kg. Đối với điều kiện tiêu chuẩn 45km/h và 1 người nặng 70kg, sau khi sạc, xe có thể đi được quãng đường là 146km. Trường hợp điều kiện di chuyển với vận tốc 50km/h với 1 người có trọng lượng 70kg, xe có khả năng đi được 129km.",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-072",
+   "tags": [
+    "vinfast-feliz-s",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "quang-duong"
+   ],
+   "claim": "VinFast công bố Feliz S đi được tới 198 km/lần sạc ở 30 km/h, chở 1 người 65 kg.",
+   "quote": "Quãng đường di chuyển xe máy điện VinFast Feliz S thế hệ mới có thể lên tới 198km trong điều kiện xe chạy với tốc độ 30km/h và chở 1 người 65kg di chuyển.",
+   "source": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+   "source_title": "VinFast – Quãng đường di chuyển xe máy điện VinFast được bao nhiêu km? (03/04/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-073",
+   "tags": [
+    "vinfast-klara-s",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "quang-duong"
+   ],
+   "claim": "VinFast công bố Klara S 2022 đi được tới 194 km/lần sạc ở 30 km/h, chở 1 người dưới 65 kg.",
+   "quote": "Xe máy điện VinFast Klara S 2022 đi được quãng đường lên tới 194km sau mỗi lần sạc đầy khi di chuyển xe ở tốc độ 30km/h và chở 1 người dưới 65 kg.",
+   "source": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+   "source_title": "VinFast – Quãng đường di chuyển xe máy điện VinFast được bao nhiêu km? (03/04/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-074",
+   "tags": [
+    "vinfast-evo-200-lite",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "quang-duong"
+   ],
+   "claim": "VinFast công bố Evo200 Lite đi được 205 km/lần sạc ở 30 km/h, chở 1 người 65 kg.",
+   "quote": "VinFast Evo200 Lite có thể đi được quãng đường trong 1 lần sạc đầy là 205km với điều kiện tiêu chuẩn của VinFast xe chở 1 người 65kg và vận tốc 30km/h.",
+   "source": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+   "source_title": "VinFast – Quãng đường di chuyển xe máy điện VinFast được bao nhiêu km? (03/04/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-075",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "vinfast-evo-200-lite",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "quang-duong"
+   ],
+   "claim": "VinFast nêu tốc độ cao và đường đèo dốc làm tốn năng lượng hơn; nên giữ tốc độ vừa phải, ổn định và tránh tăng/giảm tốc đột ngột.",
+   "quote": "Vận tốc khi di chuyển: Theo một số nghiên cứu chung, vận tốc khi di chuyển càng cao thì tiêu tốn nhiều năng lượng hơn, do đó để tối ưu quãng đường di chuyển, người dùng nên giữ vận tốc vừa phải và ổn định. … Địa hình di chuyển: Địa hình di chuyển cũng là một yếu tố cần lưu ý. Những cung đường đèo, dốc sẽ yêu cầu nhiều năng lượng hơn so với địa hình bằng phẳng. … Người dùng nên chú ý khi tăng hoặc giảm tốc độ, tránh tăng/giảm tốc đột ngột. Di chuyển với tốc độ đều đặn sẽ giúp xe tiêu tốn năng lượng ít hơn.",
+   "source": "https://vinfastauto.com/vn_vi/quang-duong-di-chuyen-xe-may-dien-vinfast",
+   "source_title": "VinFast – Quãng đường di chuyển xe máy điện VinFast được bao nhiêu km? (03/04/2023)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-076",
+   "tags": [
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Xe có hai chế độ lái: ECO tiết kiệm năng lượng, tăng tốc chậm hơn; SPORT cho gia tốc và tốc độ tốt nhất; có thể chuyển khi đang chạy.",
+   "quote": "Công tắc có thể lựa chọn giữa 2 vị trí ECO và SPORT. Bạn có thể chuyển giữa hai chế độ lái này trong khi lái xe. … Chế độ ECO là một chế độ tiết kiệm năng lượng, nó thích hợp khi bạn muốn tăng tốc chậm hơn. … Chế độ SPORT sẽ phát huy gia tốc và tốc độ tốt nhất của xe, thích hợp trong các trường hợp muốn tăng tốc nhanh.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-077",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Khi thả tay ga lúc xe đang chạy, động cơ không tiêu thụ năng lượng và xe chạy theo quán tính.",
+   "quote": "Khi xe đang chạy và tay ga điện được thả về trạng thái ban đầu, động cơ sẽ không tiêu thụ năng lượng, lúc đó xe tiếp tục chạy do quán tính.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-078",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "an-toan"
+   ],
+   "claim": "Hướng dẫn khuyên tránh mở hết ga, tăng tốc đột ngột, tăng ga từ từ khi khởi hành và bóp đồng thời hai phanh.",
+   "quote": "Tránh mở hết tay ga và tăng tốc đột ngột. Để phát huy tối đa hiệu quả phanh, nên bóp đồng thời cả hai phanh, không bóp phanh quá đột ngột. … Điều chỉnh tay ga phù hợp với từng địa hình di chuyển. Tăng ga từ từ khi khởi hành.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-079",
+   "tags": [
+    "vinfast-evo-200",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Tem lốp Evo 200: áp suất lốp nguội trước 200 kPa (2,00 kgf/cm², 29 psi), sau 225 kPa (2,25 kgf/cm², 33 psi), giống nhau khi chở một hay hai người; lốp không săm Vee Rubber V411.",
+   "quote": "ÁP SUẤT LỐP NGUỘI: [ NGƯỜI LÁI VÀ NGƯỜI NGỒI SAU ] TRƯỚC 200kPa 2,00kgf/cm² 29psi SAU 225kPa 2,25kgf/cm² 33psi [ CHỈ NGƯỜI LÁI ] TRƯỚC 200kPa 2,00kgf/cm² 29psi SAU 225kPa 2,25kgf/cm² 33psi CỠ LỐP: TRƯỚC 90/90-12 44J SAU 90/90-12 44J LOẠI LỐP VEE RUBBER TRƯỚC V411 SAU V411 XE NÀY ĐƯỢC TRANG BỊ LỐP KHÔNG SĂM",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-080",
+   "tags": [
+    "vinfast-evo-200-lite",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Evo 200 Lite dùng cùng cỡ lốp và áp suất với Evo 200: trước 200 kPa, sau 225 kPa, cỡ 90/90-12 44J.",
+   "quote": "ÁP SUẤT LỐP NGUỘI: [ NGƯỜI LÁI VÀ NGƯỜI NGỒI SAU ] TRƯỚC 200kPa 2,00kgf/cm² 29psi SAU 225kPa 2,25kgf/cm² 33psi … CỠ LỐP: TRƯỚC 90/90-12 44J SAU 90/90-12 44J",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-lite-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 LITE (BOL00009869-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-081",
+   "tags": [
+    "vinfast-feliz-s",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Feliz S: lốp trước 90/90-14 46P, 200 kPa; lốp sau 120/70-14 61P, 225 kPa.",
+   "quote": "Bánh trước (kích cỡ, tải trọng, tốc độ, áp suất) | 90/90-14; 46P; 200 kPa … Bánh sau (kích cỡ, tải trọng, tốc độ, áp suất) | 120/70-14; 61P; 225 kPa",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-082",
+   "tags": [
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Klara S (2022/S2): lốp trước 90/90-14 46P, 200 kPa; lốp sau 120/70-12 58P, 225 kPa.",
+   "quote": "Bánh trước (kích cỡ, tải trọng, tốc độ, áp suất) | 90/90-14; 46P; 200 kPa … Bánh sau (kích cỡ, tải trọng, tốc độ, áp suất) | 120/70-12; 58P; 225 kPa",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-083",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Xe được trang bị lốp không săm và van khí lốp.",
+   "quote": "Thông tin về lốp Mẫu xe này được trang bị lốp không săm và van khí lốp.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-084",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan",
+    "nang-nong",
+    "mua-dong-lanh"
+   ],
+   "claim": "Áp suất lốp phải kiểm tra và chỉnh khi lốp nguội, theo tốc độ vận hành và tải trọng người, hàng.",
+   "quote": "Áp suất bơm lốp xe cần phải được kiểm tra và điều chỉnh khi lốp xe nguội (ví dụ: khi nhiệt độ của lốp xe bằng với nhiệt độ của môi trường bên ngoài). Áp suất bơm lốp xe phải được điều chỉnh theo tốc độ vận hành và tải trọng của người điều khiển, người ngồi sau, hàng hóa và phụ kiện được cung cấp theo xe này.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-085",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Độ sâu tối thiểu rãnh ta-lông (trước và sau) là 0,8 mm; lốp có đinh/mảnh sắc hoặc mòn tới vạch phải thay ngay.",
+   "quote": "Nên kiểm tra kỹ lốp xe trước mỗi lần vận hành. Nếu rãnh ta-lông xuất hiện các đường chéo ngang (độ sâu tối thiểu rãnh ta-lông), nếu đinh hay mảnh vỡ sắc nhọn đâm vào lốp xe, hãy đến NPP và XDV của VinFast để thay lốp xe mới ngay lập tức. Độ sâu tối thiểu rãnh ta-lông (trước và sau): 0,8 mm",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-086",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Lốp lão hóa cả khi ít dùng (nứt rãnh, nứt thành lốp), cần được kiểm tra trước khi dùng tiếp.",
+   "quote": "Lốp xe bị lão hóa ngay cả khi không được sử dụng hoặc ít sử dụng. Vết nứt rãnh ta-lông và cao su thành lốp, đôi khi kèm theo biến dạng cốt lốp.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-087",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Không được sửa vành bị nứt/cong mà phải thay; nên cân chỉnh vành sau mỗi lần thay lốp.",
+   "quote": "Vành xe nên được kiểm tra trước mỗi lần vận hành xem có nứt hay cong gì không. Nếu có hư hại, hãy mang xe đến NPP và XDV của VinFast để thay mới. Không được thực hiện bất kỳ sửa chữa nào đối với vành bánh xe. Nên thay vành xe đã bị nứt hoặc biến dạng. • Nên cân chỉnh vành xe sau mỗi lần thay lốp hoặc thay mới vành bánh xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-088",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ap-suat-lop-chuan",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Lực xiết tiêu chuẩn đai ốc trục bánh trước là 40–45 Nm.",
+   "quote": "6.2.9. Bánh trước … Kiểm tra lực xiết tiêu chuẩn: Đai ốc trục: 40 - 45 Nm.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-089",
+   "tags": [
+    "vinfast-feliz-s",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Feliz S dùng phanh trước đĩa, phanh sau tang trống.",
+   "quote": "Phanh trước | Đĩa … Phanh sau | Tang trống",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-090",
+   "tags": [
+    "vinfast-evo-200",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Evo 200 dùng phanh trước đĩa, phanh sau tang trống.",
+   "quote": "Phanh trước | Đĩa … Phanh sau | Tang trống",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-091",
+   "tags": [
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Klara S (2022/S2) dùng phanh đĩa cả trước và sau.",
+   "quote": "Phanh trước | Đĩa … Phanh sau | Đĩa",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-092",
+   "tags": [
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia",
+    "bao-duong-phuoc-giam-xoc"
+   ],
+   "claim": "Trang thông số Klara S 2022 ghi phanh đĩa/đĩa và giảm xóc thủy lực trước – sau.",
+   "quote": "Giảm xóc trước - sau | Ống lồng-giảm chấn thủy lực; giảm xóc đôi, giảm chấn thủy lực … Phanh trước - sau | Phanh đĩa/ đĩa",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-093",
+   "tags": [
+    "vinfast-feliz-s",
+    "vinfast-evo-200",
+    "bao-duong-phanh-dia",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Má phanh đĩa trước có rãnh báo mòn; khi rãnh gần biến mất phải thay má. Guốc phanh sau (tang trống) kiểm tra theo hành trình tự do của tay phanh.",
+   "quote": "Má phanh trước: Mỗi má phanh đều có rãnh báo độ mòn má phanh (1), giúp kiểm tra độ mòn má phanh mà không phải tháo phanh ra. Để kiểm tra độ mòn má phanh, hãy kiểm tra rãnh báo độ mòn. Nếu má phanh bị mòn tới mức rãnh báo gần như biến mất, hãy mang xe đến NPP và XDV của VinFast để được thay bộ má phanh mới. Guốc phanh sau: Kiểm tra độ mòn của guốc phanh dựa trên hành trình tự do của tay phanh. Nếu hiệu quả phanh giảm, cần mang xe đến NPP và XDV của VinFast để được kiểm tra và thay thế guốc phanh mới.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-094",
+   "tags": [
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Klara S: cả má phanh trước và sau đều có rãnh báo mòn; rãnh gần biến mất thì thay bộ má mới.",
+   "quote": "Má phanh trước và má phanh sau: Mỗi má phanh đều có rãnh báo độ mòn má phanh (1), giúp kiểm tra độ mòn má phanh mà không phải tháo phanh ra. Để kiểm tra độ mòn má phanh, hãy kiểm tra rãnh báo độ mòn. Nếu má phanh bị mòn tới mức rãnh báo gần như biến mất, hãy mang xe đến NPP và XDV của VinFast để được thay bộ má phanh mới.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-095",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Dầu phanh khuyến cáo là DOT 4; không để mức dầu tụt dưới vạch, không trộn loại khác, tránh nước lọt vào bình.",
+   "quote": "Không để dầu phanh tụt xuống dưới ngưỡng (A). Dầu phanh khuyến cáo sử dụng: DOT 4 … Chỉ sử dụng dầu phanh DOT4 trong bình đậy kín. … Bổ sung bằng dầu phanh cùng loại. Bổ sung dầu phanh khác ngoài loại DOT4 sẽ gây ra phản ứng hóa học độc hại. • Khi bổ xung dầu, tránh không để nước lọt vào bình chứa. Nước sẽ làm giảm đáng kể điểm sôi của dầu phanh do sự hóa hơi.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-096",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Mức dầu phanh thấp báo hiệu má phanh mòn hoặc rò rỉ; giảm đột ngột phải đến xưởng trước khi lái.",
+   "quote": "Khi má phanh bị mòn, thông thường dầu phanh sẽ dần dần giảm. Mức dầu phanh thấp sẽ chỉ báo cho biết má phanh bị mòn và/hoặc rò rỉ hệ thống phanh, do đó hãy kiểm tra kỹ tình trạng mòn má phanh và rò rỉ hệ thống phanh. Nếu mức dầu phanh giảm đột ngột, hãy đến NPP và XDV của VinFast để kiểm tra nguyên nhân trước khi lái xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-097",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Tay phanh mềm bất thường là dấu hiệu có khí trong dầu phanh, phải xả khí trước khi dùng.",
+   "quote": "Cảm giác mềm bất thường khi bóp phanh là dấu hiệu cho thấy khí lọt vào dầu phanh. Khi đó bạn phải mang xe tới NPP và XDV của VinFast để kiểm tra và xả khí trước khi sử dụng.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-098",
+   "tags": [
+    "vinfast-feliz-s",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Feliz S: kiểm tra độ rơ áp dụng cho tay phanh phải (phanh đĩa trước); cuối hành trình không được có độ rơ tự do.",
+   "quote": "Áp dụng cho tay phanh phải. Khi bóp phanh, không nên có độ rơ tự do ở cuối tay phanh. Nếu xảy ra, hãy liên hệ NPP và XDV của VinFast để kiểm tra hệ thống phanh.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-099",
+   "tags": [
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Klara S: kiểm tra độ rơ áp dụng cho cả tay phanh trái và phải (vì cả hai bánh đều phanh đĩa dầu).",
+   "quote": "Áp dụng cho cả tay phanh trái và tay phanh phải. Khi bóp phanh, không nên có độ rơ tự do ở cuối tay phanh. Nếu xảy ra, hãy liên hệ NPP và XDV của VinFast để kiểm tra hệ thống phanh.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-100",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia",
+    "an-toan"
+   ],
+   "claim": "Tay phanh phải điều khiển phanh bánh trước, tay phanh trái điều khiển phanh bánh sau.",
+   "quote": "Tay phanh bên phải điều khiển phanh bánh trước, tay phanh bên trái điều khiển phanh bánh sau. Khi bóp phanh, nên thả tay ga điện về vị trí ban đầu.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-101",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Chốt xoay tay phanh nên bôi trơn bằng mỡ khi cần; kiểm tra tay phanh trước mỗi lần chạy.",
+   "quote": "Hoạt động của tay phanh (trái/phải) phải được kiểm tra trước mỗi lần vận hành xe và nên bôi trơn chốt xoay (A) nếu cần thiết. Chất bôi trơn khuyến cáo: Mỡ bôi trơn",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-102",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phanh-dia",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Đèn phanh không sáng khi bóp phanh thì cần đưa xe đến đại lý VinFast.",
+   "quote": "Đèn phanh thường chỉ được kích hoạt khi bóp phanh, nên sẽ bật sáng trước khi phanh có hiệu lực. Nếu đèn phanh không sáng khi bóp phanh, bạn nên mang đến NPP và XDV của VinFast.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-103",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-duong-phuoc-giam-xoc",
+    "dau-hieu-can-kiem-tra",
+    "lich-trinh-dinh-ky",
+    "moc-bao-duong-5000km"
+   ],
+   "claim": "Kiểm tra giảm xóc trước: xem ống nhún có hư hỏng, rò dầu giảm chấn không; bóp phanh trước và nhún vài lần để xem hoạt động có trơn tru.",
+   "quote": "Kiểm tra bề mặt ống nhún xem có bị hư hỏng không, có rò rỉ dầu giảm chấn không. … Trong khi bóp phanh trước, nhún giảm xóc lên xuống vài lần để xem hoạt động nhún và hồi có trơn tru, êm ái không.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-104",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "can-chinh-co-phot",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Cổ phốt mòn, rơ có thể gây nguy hiểm; kiểm tra bằng cách dựng chân chống đứng, nắm đầu dưới ống giảm xóc lắc trước – sau.",
+   "quote": "Nếu bộ bi, bát phốt bị mòn, rơ lỏng có thể gây nguy hiểm. Vì vậy, hoạt động của cổ phốt phải được kiểm tra định kỳ theo lịch bảo dưỡng và bôi trơn theo quy định. … Dùng hai tay nắm đầu dưới của ống giảm xóc, lắc về phía trước và sau. Nếu cảm thấy có độ rơ lỏng, hãy mang xe đến NPP và XDV của VinFast để kiểm tra và sửa chữa.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-105",
+   "tags": [
+    "vinfast-feliz-s",
+    "can-chinh-co-phot",
+    "lich-trinh-dinh-ky",
+    "moc-bao-duong-5000km"
+   ],
+   "claim": "Lịch bảo dưỡng Feliz S: cổ phốt kiểm tra ở mọi mốc, bôi trơn bằng mỡ ở mốc 20.000 km (tháng 24) và 40.000 km (tháng 48).",
+   "quote": "x 1000 km | 1 | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 … Tháng thứ | 1 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60 … 12 | Cổ phốt | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT / - | - | - | - | BT | - | - | - | BT | - | -",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-106",
+   "tags": [
+    "vinfast-evo-200",
+    "can-chinh-co-phot",
+    "lich-trinh-dinh-ky"
+   ],
+   "claim": "Lịch bảo dưỡng Evo 200: cổ phốt kiểm tra ở mọi mốc, bôi trơn ở mốc 20.000 km và 40.000 km.",
+   "quote": "12 | Cổ phốt | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT / - | - | - | - | BT | - | - | - | BT | - | -",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-107",
+   "tags": [
+    "vinfast-klara-s",
+    "can-chinh-co-phot",
+    "lich-trinh-dinh-ky"
+   ],
+   "claim": "Lịch bảo dưỡng Klara S: cổ phốt kiểm tra ở mọi mốc, bôi trơn ở mốc 20.000 km và 40.000 km.",
+   "quote": "12 | Cổ phốt | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT / - | - | - | - | BT | - | - | - | BT | - | -",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-108",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lich-trinh-dinh-ky",
+    "moc-bao-duong-5000km",
+    "thay-loc-gio-dong-co",
+    "thay-dau-nhot",
+    "thay-the-bugi",
+    "kiem-tra-nuoc-lam-mat",
+    "bao-duong-phuoc-giam-xoc",
+    "can-chinh-co-phot",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Lịch bảo dưỡng định kỳ tính theo km hoặc thời gian tùy điều kiện nào đến trước: 1.000 km/tháng 1, rồi 5.000 km/tháng 6, 10.000 km/tháng 12… đến 50.000 km/tháng 60.",
+   "quote": "Quãng đường xe chạy hoặc thời gian sử dụng tùy theo điều kiện nào đến trước … x 1000 km | 1 | 5 | 10 | 15 | 20 | 25 | 30 | 35 | 40 | 45 | 50 … Tháng thứ | 1 | 6 | 12 | 18 | 24 | 30 | 36 | 42 | 48 | 54 | 60",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-109",
+   "tags": [
+    "vinfast-feliz-s",
+    "lich-trinh-dinh-ky",
+    "thay-dau-nhot",
+    "thay-loc-gio-dong-co",
+    "thay-the-bugi",
+    "kiem-tra-nuoc-lam-mat",
+    "thay-day-curoa",
+    "ve-sinh-xich-lip",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-kim-phun-fi",
+    "bao-duong-phuoc-giam-xoc",
+    "can-chinh-co-phot",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Các hạng mục trong lịch bảo dưỡng Feliz S gồm tay phanh, đèn/còi/đồng hồ, vỏ bọc tay ga, chân chống, khóa yên, cổng kết nối, pin, dầu phanh, phanh, ống dầu phanh trước, vành, lốp, cổ phốt, giảm xóc, dây phanh sau và động cơ; không có hạng mục nhớt, bugi, lọc gió, nước làm mát, dây curoa hay xích.",
+   "quote": "Tay phanh | Đèn/còi/hiển thị đồng hồ | Vỏ bọc, tay ga | Chân chống cạnh/chân chống đứng | Kiểm tra cơ cấu khóa yên xe | Cổng kết nối | Pin Lithium-ion | Hình dáng bên ngoài | Dầu phanh | Phanh trước | Ống dầu phanh trước | Vành xe trước | Lốp xe trước | Cổ phốt | Giảm xóc trước | Phanh sau | Dây phanh sau | Vành xe sau | Lốp xe sau | Giảm xóc sau | Động cơ",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-110",
+   "tags": [
+    "vinfast-evo-200",
+    "lich-trinh-dinh-ky",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Lịch bảo dưỡng Evo 200 có hạng mục 'Dây phanh sau' (phanh sau cơ, tang trống) bên cạnh dầu phanh và ống dầu phanh trước.",
+   "quote": "7 | Dầu phanh … 8 | Phanh trước … 9 | Ống dầu phanh trước … 14 | Phanh sau … 15 | Dây phanh sau",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-111",
+   "tags": [
+    "vinfast-klara-s",
+    "lich-trinh-dinh-ky",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Lịch bảo dưỡng Klara S có hạng mục 'Ống dầu phanh sau' (phanh sau đĩa dầu) thay cho dây phanh sau.",
+   "quote": "7 | Dầu phanh … 8 | Phanh trước … 9 | Ống dầu phanh trước … 14 | Phanh sau … 15 | Ống dầu phanh sau",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-112",
+   "tags": [
+    "vinfast-feliz-s",
+    "lich-trinh-dinh-ky",
+    "thay-nhot-hop-so-lap",
+    "thay-dau-nhot",
+    "dong-co"
+   ],
+   "claim": "Trong lịch bảo dưỡng Feliz S, hạng mục động cơ chỉ ghi 'KT' (kiểm tra) từ mốc 5.000 km, không có mốc bôi trơn hay thay thế.",
+   "quote": "19 | Động cơ | - | KT | KT | KT | KT | KT | KT | KT | KT | KT | KT … Ghi chú: KT = Kiểm tra, BT = Bôi trơn bằng mỡ, TT = Thay thế",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-113",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lich-trinh-dinh-ky",
+    "moc-bao-duong-5000km",
+    "mua-mua-ngap",
+    "truoc-chuyen-di-xa",
+    "bao-duong-phuoc-giam-xoc",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Nên bảo dưỡng thường xuyên hơn nếu hay chạy nơi ẩm ướt, bụi, nước, lên dốc, đường xấu; quá 50.000 km thì lặp lại chu kỳ.",
+   "quote": "Với quãng đường trên HMI đọc được cao hơn quãng đường được đề cập trên lịch bảo dưỡng thì lặp lại chu kỳ bảo dưỡng như trên. • Việc bảo dưỡng nên được thực hiện thường xuyên hơn nếu bạn thường lái xe trong điều kiện ẩm ướt, bụi, nước, lên dốc, đường xấu…",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-114",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lich-trinh-dinh-ky",
+    "dau-hieu-can-kiem-tra",
+    "thay-nhot-hop-so-lap",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Ổ bi bánh trước, sau kiểm tra định kỳ; moay-ơ rơ hoặc bánh quay không trơn phải kiểm tra ổ bi.",
+   "quote": "Ổ bi bánh xe trước và sau phải được kiểm tra định kỳ theo lịch bảo dưỡng và bôi trơn quy định. Nếu thấy moay-ơ bánh xe bị rơ lỏng hay quay bánh xe không trơn tru, hãy mang xe đến NPP và XDV của VinFast để kiểm tra ổ bi.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-115",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lich-trinh-dinh-ky",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Chân chống chính và chân chống cạnh kiểm tra mỗi lần chạy; chốt xoay bôi trơn bằng mỡ khi cần.",
+   "quote": "Hoạt động của chân chống chính và chân chống cạnh phải được kiểm tra mỗi lần vận hành xe. Các chốt xoay (A) và (B), bề mặt tiếp xúc phải được bôi trơn nếu cần thiết. … Chất bôi trơn khuyến cáo: Mỡ bôi trơn",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-116",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lich-trinh-dinh-ky",
+    "truoc-chuyen-di-xa",
+    "dau-hieu-can-kiem-tra",
+    "thay-the-bugi",
+    "kiem-tra-ac-quy",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Kiểm tra trước khi chạy gồm dung lượng pin, phanh, tay ga, lốp, hệ thống điện (đèn, còi, đồng hồ, chân chống) và công tắc pin ở vị trí ON.",
+   "quote": "Pin Lithium-ion: Kiểm tra dung lượng pin để chắc chắn rằng năng lượng đủ dùng cho hành trình sắp tới. • Phanh: Bóp chặt tay phanh sau đó thử đẩy xe tiến và lùi để kiểm tra độ ăn của phanh. … • Lốp xe: Kiểm tra áp suất và độ mòn của cả hai lốp xe. … • Hệ thống điện: Kiểm tra chức năng hoạt động của hệ thống đèn trước, đèn xi-nhan, còi, cụm đồng hồ đa chức năng, chân chống cạnh, hệ thống đèn hậu. • Công tắc pin ở vị trí bật (ON).",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-117",
+   "tags": [
+    "vinfast-feliz-s",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Feliz S: động cơ thiết kế kín, chống nước, nhưng nên hạn chế chạy khi nước ngập quá trục động cơ.",
+   "quote": "Vận hành trong điều kiện trời mưa đường ngập úng: Động cơ được thiết kế kín, chống nước xâm nhập, tuy nhiên để đảm bảo an toàn, tuổi thọ cho động cơ, hạn chế việc vận hành trong điều kiện nước ngập quá trục động cơ",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-118",
+   "tags": [
+    "vinfast-evo-200",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Evo 200: động cơ kín, chống nước, nhưng hạn chế chạy khi nước ngập quá trục động cơ.",
+   "quote": "Vận hành trong điều kiện trời mưa đường ngập úng: Động cơ được thiết kế kín, chống nước xâm nhập, tuy nhiên để đảm bảo an toàn, tuổi thọ cho động cơ, hạn chế việc vận hành trong điều kiện nước ngập quá trục động cơ",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-119",
+   "tags": [
+    "vinfast-klara-s",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap",
+    "kiem-tra-nuoc-lam-mat"
+   ],
+   "claim": "Klara S: động cơ kín, chống nước, nhưng hạn chế chạy khi nước ngập quá trục động cơ.",
+   "quote": "Vận hành trong điều kiện trời mưa đường ngập úng: Động cơ được thiết kế kín, chống nước xâm nhập, tuy nhiên để đảm bảo an toàn, tuổi thọ cho động cơ, hạn chế việc vận hành trong điều kiện nước ngập quá trục động cơ",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-120",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "Chạy xe trong mưa bão, ngập lụt có thể làm hỏng hệ thống điện trên xe.",
+   "quote": "Vận hành xe trong điều kiện thời tiết mưa bão, ngập lụt không chỉ gây nguy hiểm cho người lái mà còn có thể gây hỏng hóc hệ thống điện trên xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-121",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "VinFast công bố Evo200 và Feliz S đạt chuẩn chống nước IP67, hoạt động bình thường khi ngập sâu tới 0,5 m trong 30 phút.",
+   "quote": "Tiêu chuẩn chống nước IP67 cho phép 2 mẫu xe này có thể hoạt động bình thường ngay cả khi di chuyển trên đoạn đường bị ngập nước sâu tới 0,5m trong 30 phút.",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-122",
+   "tags": [
+    "vinfast-klara-s",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "VinFast công bố động cơ Klara S 2022 đạt IP67, vận hành ổn định khi ngập 0,5 m trong 30 phút.",
+   "quote": "động cơ của xe VinFast Klara S 2022 còn đạt tiêu chuẩn chống nước IP67, cho phép vận hành ổn định ngay cả khi bị ngập nước 0.5 mét trong thời gian 30 phút.",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-123",
+   "tags": [
+    "vinfast-evo-200-lite",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "VinFast công bố Evo200 và Evo200 Lite đều đạt IP67, vận hành ổn định khi ngập 0,5 m trong 30 phút.",
+   "quote": "Cả 2 phiên bản đều đạt tiêu chuẩn chống nước IP67, cho phép xe vận hành ổn định ở mức ngập nước 0,5 mét trong thời gian 30 phút.",
+   "source": "https://vinfastauto.com/vn_vi/xe-may-dien-co-di-duoc-troi-mua-khong-mach-ban-4-luu-y-khi-su-dung",
+   "source_title": "VinFast – Xe máy điện, xe đạp điện đi mưa có sao không? (24/07/2023)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-124",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "vinfast-evo-200-lite",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "Bài hướng dẫn đi mưa của VinFast khuyên tránh đường ngập; nếu buộc phải qua thì dừng xe, tắt điện, dắt xe rồi lau khô kỹ mới khởi động lại.",
+   "quote": "Không nên đi xe vào đoạn đường ngập úng, tránh nước tràn vào pin/ắc quy, gây tắt máy, ẩm nước, rò rỉ bên trong. Trong trường hợp bắt buộc vào đoạn đường ngập úng, nên dừng xe, tắt điện và dắt xe. Sau đó lau khô kỹ rồi mới khởi động xe và sử dụng trở lại nhé.",
+   "source": "https://vinfastauto.com/vn_vi/xe-may-dien-co-di-duoc-troi-mua-khong-mach-ban-4-luu-y-khi-su-dung",
+   "source_title": "VinFast – Xe máy điện, xe đạp điện đi mưa có sao không? (24/07/2023)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-125",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "vinfast-evo-200-lite",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "Bài hướng dẫn chung của VinFast cảnh báo nếu nước cao quá 1/2 chiều cao bánh xe, động cơ có thể ngấm nước qua dây điện ở trục bánh.",
+   "quote": "Nếu mực nước cao quá 1/2 chiều cao bánh xe, động cơ có thể bị ngấm nước qua đường dây điện ở trục bánh.",
+   "source": "https://vinfastauto.com/vn_vi/xe-may-dien-co-di-duoc-troi-mua-khong-mach-ban-4-luu-y-khi-su-dung",
+   "source_title": "VinFast – Xe máy điện, xe đạp điện đi mưa có sao không? (24/07/2023)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-126",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "xu-ly-ngap-nuoc",
+    "bao-hanh"
+   ],
+   "claim": "Chính sách bảo hành không áp dụng cho hư hỏng do sử dụng xe trong điều kiện ngập nước hoặc do lũ lụt, thiên tai.",
+   "quote": "Hư hỏng do tai nạn hoặc sử dụng xe trong điều kiện ngập nước, hư hỏng gây ra bởi ngoại vật như đất, cát, sỏi, đá, vật cứng sắc nhọn, v.v. tác động vào xe trong quá trình vận hành. … Hư hỏng gây ra bởi các yếu tố nằm ngoài kiểm soát của nhà sản xuất bao gồm hỏa hoạn, động đất, bão, lũ lụt, các thiên tai khác và những thiệt hại do các loài động vật gây ra.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-127",
+   "tags": [
+    "vinfast-feliz-s",
+    "rua-xe-khong-hai-may",
+    "thay-loc-gio-dong-co",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Quy trình rửa Feliz S: để các bộ phận nguội, xịt bùn bằng nước áp suất thấp, lau bằng dung dịch tẩy nhẹ, tránh phun vào hệ thống điện, lau khô, bôi trơn chi tiết chuyển động, bôi dầu bảo quản chống gỉ.",
+   "quote": "Hãy để động cơ, bộ điều khiển động cơ, phanh, pin lithium-ion và các chi tiết có nhiệt độ cao nguội hẳn trước khi rửa xe. 1. Loại bỏ bùn đất ra khỏi xe bằng vòi nước có áp suất thấp. 2. Nếu cần, hãy dùng một miếng xốp hoặc khăn mềm nhúng vào dung dịch tẩy rửa nhẹ để lau xe. … • Tránh phun nước trực tiếp vào các chi tiết của hệ thống điện. 3. Xả sạch xe bằng nhiều nước và dùng giẻ mềm lau khô xe. 4. Sau khi xe đã được lau khô, hãy bôi trơn các chi tiết chuyển động trên xe. … 5. Bôi một lớp dầu bảo quản để chống rỉ sét cho xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-128",
+   "tags": [
+    "vinfast-feliz-s",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "Feliz S: không dùng vòi áp lực cao, không phun vào phớt trục động cơ, dưới yên, đèn, công tắc tay lái, cảm biến chân chống, ổ khóa, khóa RF; làm khô phanh sau khi rửa.",
+   "quote": "Không phun trực tiếp vào các vị trí có phớt cao su như phớt trục động cơ, trục bánh trước. • Không sử dụng vòi nước có áp lực cao để rửa xe. • Làm khô phanh sau khi rửa xe. • Không phun nước trực tiếp vào dưới yên xe. • Không phun nước trực tiếp vào khu vực xung quanh đèn pha, đèn trang trí, cụm đèn hậu, cụm công tắc trên tay lái, cảm biến chân chống cạnh, ổ khóa điện, khóa điều khiển RF.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-129",
+   "tags": [
+    "vinfast-evo-200",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "Evo 200: không dùng vòi áp lực cao, không phun vào phớt trục động cơ, dưới yên, đèn, xi-nhan, công tắc tay lái, cảm biến chân chống, ổ khóa điện; làm khô phanh sau khi rửa.",
+   "quote": "Không phun trực tiếp vào các vị trí có phớt cao su như phớt trục động cơ, trục bánh trước. • Không sử dụng vòi nước có áp lực cao để rửa xe. • Làm khô phanh sau khi rửa xe. • Không phun nước trực tiếp vào dưới yên xe. • Không phun nước trực tiếp vào khu vực xung quanh đèn pha, đèn xi-nhan, cụm đèn hậu, cụm công tắc trên tay lái, cảm biến chân chống cạnh, ổ khóa điện.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-130",
+   "tags": [
+    "vinfast-klara-s",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "Klara S: không dùng vòi áp lực cao, không phun vào phớt trục động cơ, dưới yên, đèn, công tắc tay lái, cảm biến chân chống, ổ khóa điện, khóa RF; làm khô phanh sau khi rửa.",
+   "quote": "Không phun trực tiếp vào các vị trí có phớt cao su như phớt trục động cơ, trục bánh trước. • Không sử dụng vòi nước có áp lực cao để rửa xe. • Làm khô phanh sau khi rửa xe. • Không phun nước trực tiếp vào dưới yên xe. • Không phun nước trực tiếp vào khu vực xung quanh đèn pha, đèn trang trí, cụm đèn hậu, cụm công tắc trên tay lái, cảm biến chân chống cạnh, ổ khóa điện, khóa điều khiển RF.",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-131",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "Trước khi rửa phải lấy đồ điện tử, giấy tờ khỏi cốp dưới yên, rút chìa khóa và đóng nắp bảo vệ ổ khóa; khi rửa tránh nước lọt vào khoang chứa đồ.",
+   "quote": "Trước khi rửa xe, hãy bỏ các vật dụng dễ bị hư hỏng khi bị dính nước ra khỏi khoang chứa đồ dưới yên xe, ví dụ: Đồ điện tử (sạc, điện thoại, laptop ...), sách vở, tài liệu ... … • Rút chìa khóa, đóng nắp bảo vệ ổ khóa trước khi rửa xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-132",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "rua-xe-khong-hai-may",
+    "bao-duong-phanh-dia"
+   ],
+   "claim": "Khi bôi trơn sau rửa phải tránh để dầu dính vào đĩa, má phanh và lốp vì giảm mạnh hiệu quả phanh.",
+   "quote": "Chắc chắn rằng dầu bôi trơn không bám vào phanh hoặc lốp xe. Đĩa phanh, má phanh bị bám dầu bôi trơn sẽ làm giảm đáng kể hiệu quả phanh và có thể gây ra tai nạn.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-133",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "chong-ri-set-khung-xe",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "Muối biển và muối trên đường làm tăng gỉ sét, cần rửa sạch xe sau khi đi đường gần biển hoặc có muối.",
+   "quote": "Muối biển hoặc muối trên đường đi có thể làm tăng khả năng rỉ sét cho xe. Do vậy, luôn nhớ phải rửa xe sạch sẽ sau khi đi trên những đoạn đường gần biển hoặc có muối trên đường.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-134",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Chống gỉ bằng lớp dầu bảo quản không chứa hóa chất mạnh, không để dầu dính lốp, phanh và chi tiết sơn mờ.",
+   "quote": "Bôi một lớp dầu bảo quản để chống rỉ sét cho xe. • Không sử dụng dầu bảo quản có chứa hóa chất hoặc chất tẩy rửa mạnh. Vì những chất này có thể làm hư hỏng các chi tiết kim loại và sơn nhựa trên xe. Không để dầu bảo quản bắn vào lốp xe và phanh. • Nếu trên xe có các chi tiết sơn mờ, tránh không để dầu bảo quản bám vào các chi tiết đó.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-135",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "chong-ri-set-khung-xe",
+    "bao-hanh"
+   ],
+   "claim": "Bảo hành không áp dụng cho hư hỏng bề mặt do muối, hóa chất, mưa axit… và các hiện tượng VinFast đánh giá không ảnh hưởng chất lượng như gỉ sét thông thường, bạc màu sơn.",
+   "quote": "Hư hỏng bề mặt gây ra bởi các yếu tố ngoài kiểm soát như: Tàn thuốc lá, hóa chất, phân động vật, nhựa cây, muối, mưa axit và các yếu tố tương tự khác. … Những hiện tượng xảy ra mà VinFast đánh giá không ảnh hưởng đến chất lượng và sự hoạt động của xe như tiếng ồn, những rung động nhỏ, vết thấm dầu, gỉ sét thông thường, bạc màu sơn.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-136",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "van-chuyen-xe",
+    "truoc-chuyen-di-xa",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Không được kéo rê xe một hoặc hai bánh trên đường vì có thể hỏng hoàn toàn hệ thống điện; vận chuyển bằng xe tải sàn phẳng có dây chằng.",
+   "quote": "Nếu cần phải vận chuyển xe, nên sử dụng ô tô chuyên chở hoặc ô tô tải có sàn phẳng, ô tô có trang bị thang tải hoặc thang nâng xe và có dây chằng chắc chắn. Không được kéo rê xe một bánh hoặc hai bánh trên đường. … Kéo rê xe trên đường có thể gây hư hỏng hoàn toàn hệ thống điện trên xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-137",
+   "tags": [
+    "vinfast-feliz-s",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Feliz S có 2 khóa điều khiển RF đã ghép đôi với xe, có nút bật chống trộm, tắt chống trộm và tìm xe.",
+   "quote": "Mỗi xe được trang bị 2 khóa điện tử có chức năng tương tự nhau. Khóa đã được ghép đôi với xe khi giao cho khách hàng. Khóa điều khiển từ xa phối hợp làm việc với khóa điện/khóa cổ xe nhằm tăng mức độ an toàn cho xe. A. Bật chống trộm B. Tắt chống trộm C. Tìm xe",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-138",
+   "tags": [
+    "vinfast-klara-s",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Klara S (2022/S2) có 2 khóa điều khiển RF đã ghép đôi với xe, có nút bật/tắt chống trộm và tìm xe.",
+   "quote": "Mỗi xe được trang bị 2 khóa điện tử có chức năng tương tự nhau. Khóa đã được ghép đôi với xe khi giao cho khách hàng. Khóa điều khiển từ xa phối hợp làm việc với khóa điện/khóa cổ xe nhằm tăng mức độ an toàn cho xe. A. Bật chống trộm B. Tắt chống trộm C. Tìm xe",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-139",
+   "tags": [
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Kích hoạt chống trộm: khóa cổ xe rồi nhấn nút KHÓA trên khóa RF; hãng khuyên dùng kết hợp khóa cổ và khóa RF khi đỗ.",
+   "quote": "Sử dụng kết hợp khóa cổ và khóa RF khi đỗ xe để phòng ngừa sử dụng trái phép và trộm cắp xe. … Khóa chống trộm: 1. Sau khi khóa cổ xe, nhấn nút KHÓA (H) trên khóa RF. 2. Xe thông báo khóa thành công bằng hiệu lệnh âm thanh khóa xe. Lúc này, chế độ chống trộm được kích hoạt.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-140",
+   "tags": [
+    "vinfast-evo-200",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Hướng dẫn sử dụng Evo 200 không có khóa RF; phần khóa xe chỉ khuyên dùng khóa cổ khi đỗ để chống trộm.",
+   "quote": "4.3.2. Chu trình khóa xe Tắt xe: Từ vị trí ON, vặn chìa khóa đến vị trí OFF để tắt xe, bạn có thể nghe thấy một tiếng “tách” khi pin Lithium-ion tắt đi. Sử dụng khóa cổ khi đỗ xe để phòng ngừa sử dụng trái phép và trộm cắp xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-141",
+   "tags": [
+    "vinfast-feliz-s",
+    "lap-khoa-chong-trom",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Mở khóa Feliz S: nhấn nút mở khóa trên khóa RF, mở nắp bảo vệ, cắm chìa vặn ON; xe vào chế độ Parking.",
+   "quote": "1. Nhấn nút mở khóa (I) trên khóa RF. Xe phát âm thanh mở khóa. 2. Dùng chuôi chìa khóa để mở nắp bảo vệ (A) bằng cách xoay chốt (G) theo hướng xuôi chiều kim đồng hồ. 3. Cắm chìa khóa vào khóa cổ và vặn theo chiều kim đồng hồ đến vị trí ON (F). … 4. Sau khi mở khóa xe, cụm đồng hồ đa chức năng bật sáng, xe điện vào chế độ Parking.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-142",
+   "tags": [
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "lap-khoa-chong-trom",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Nếu xe liên tục báo chống trộm, dùng khóa RF để tạm dừng hoặc tắt cảnh báo.",
+   "quote": "7.3. Xe liên tục báo chống trộm • Dùng khóa điều khiển RF tạm dừng hoặc tắt cảnh báo chống trộm.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-143",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "lap-khoa-chong-trom",
+    "ung-dung"
+   ],
+   "claim": "Theo VinFast, Evo200 và Feliz S có định vị xe, lịch sử hành trình, vùng an toàn, chẩn đoán lỗi qua ứng dụng; riêng Feliz S có thêm tìm xe bằng Remote và bật/tắt chống trộm.",
+   "quote": "Hiển thị thông tin xe … Định vị xe … Thống kê lịch sử hành trình … Thiết lập vùng an toàn … Sạc pin với trạm sạc VinFast … Chẩn đoán lỗi … Ngoài ra, Feliz S thuộc phân khúc trung cấp được trang bị thêm một số tính năng thông minh như tìm xe trong bãi xe bằng Remote, điều khiển bật/tắt chống trộm.",
+   "source": "https://vinfastauto.com/vn_vi/so-sanh-xe-may-dien-evo200-va-feliz-s",
+   "source_title": "VinFast – So sánh xe máy điện Evo200 và Feliz S về vận hành, tính năng, giá bán (23/09/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-144",
+   "tags": [
+    "vinfast-klara-s",
+    "lap-khoa-chong-trom",
+    "ung-dung"
+   ],
+   "claim": "Klara S 2022 có định vị xe, thống kê quãng đường, lịch sử hành trình, vùng an toàn hỗ trợ khi mất cắp và chẩn đoán lỗi từ xa qua ứng dụng.",
+   "quote": "Định vị xe, hỗ trợ thống kê quãng đường, lịch sử hành trình và thiết lập vùng an toàn giúp hỗ trợ tìm kiếm trong trường hợp mất cắp; … Hỗ trợ chẩn đoán và cảnh báo lỗi từ xa qua ứng dụng;",
+   "source": "https://vinfastauto.com/vn_vi/thong-so-ky-thuat-xe-may-dien-vinfast-klara-s-2022",
+   "source_title": "VinFast – Chi tiết thông số kỹ thuật xe máy điện VinFast Klara S 2022 mới nhất (24/08/2022)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-145",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ung-dung"
+   ],
+   "claim": "Ứng dụng điện thoại của VinFast cài miễn phí trên App Store và Google Play; phần lớn lỗi đơn giản có thể đọc và nhận hướng dẫn qua ứng dụng.",
+   "quote": "Ứng dụng điện thoại luôn sẵn sàng trên App Store và Google Play Store, bạn có thể tải và cài đặt miễn phí để khám phá các tính năng cao cấp khác. … Đối với hầu hết các lỗi đơn giản, người dùng chỉ cần sử dụng ứng dụng điện thoại để đọc lỗi và nhận hướng dẫn xử lý sự cố.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-146",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "ung-dung",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Bản cập nhật phần mềm quan trọng có thể tự động áp dụng; VinFast báo trước qua App VinFast E-Scooter hoặc tin nhắn, dự kiến trước 3 ngày.",
+   "quote": "chúng tôi sẽ gửi cho bạn thông báo về việc cập nhật tự động thông qua App VinFast E-Scooter hoặc tin nhắn đến số điện thoại của khách hàng đã được đăng ký từ trước, dự kiến trước thời điểm cập nhật 3 ngày, trừ trường hợp đặc biệt khi có lý do mà thời gian báo trước phải ngắn hơn.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-147",
+   "tags": [
+    "vinfast-evo-200",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Khởi động Evo 200: mở khóa, gạt chân chống cạnh lên, thoát chế độ Parking, nhả phanh và vặn ga từ từ.",
+   "quote": "4.4.1. Khởi động xe 1. Mở khóa xe. 2. Gạt chân chống cạnh lên. 3. Thoát chế độ Parking. 4. Nhả phanh, từ từ vặn tay ga điện để tăng tốc xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-148",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "khoi-dong-buoi-sang-lanh",
+    "dau-hieu-can-kiem-tra",
+    "thay-the-bugi"
+   ],
+   "claim": "Bật điện mà xe không phản hồi: tắt khóa điện, tắt – bật công tắc pin dưới yên rồi thử lại; không được thì liên hệ hỗ trợ kỹ thuật.",
+   "quote": "7.4. Không khởi động được xe Bật điện xe nhưng xe không có phản hồi gì: • Tắt khóa điện đi, tắt-bật công tắc pin trong khoang chứa đồ dưới yên xe, sau đó thử khởi động lại. • Nếu không thành công, bạn hãy liên hệ hỗ trợ kỹ thuật.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-149",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "khoi-dong-buoi-sang-lanh",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Vặn ga xe không chạy: kiểm tra chỉ thị chế độ Parking, chỉ thị phanh và xem đã rút sạc khỏi xe chưa.",
+   "quote": "7.2. Vặn ga xe không chạy • Kiểm tra chỉ thị chế độ Parking và chỉ thị phanh trên HMI. • Kiểm tra xem đã rút sạc khỏi xe chưa.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-150",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "an-toan",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Xe tự vào chế độ Parking (vô hiệu hóa tay ga) nếu không chuyển động trong 2 phút.",
+   "quote": "Sau khi xe dừng hẳn, đưa xe vào chế độ Parking để vô hiệu hóa tay ga. Nếu xe không chuyển động trong vòng 2 phút, xe tự động vào chế độ Parking.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-151",
+   "tags": [
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "an-toan"
+   ],
+   "claim": "Nếu gạt chân chống cạnh xuống khi đang chạy, xe ngắt lực đẩy; khi dừng hẳn, động cơ không hoạt động cho tới khi gạt chân chống lên.",
+   "quote": "Khi đang vận hành trên đường, nếu chân chống cạnh được gạt xuống, xe ngắt lực đẩy và tiếp tục chạy do quán tính, chỉ thị phanh nhấp nháy trên màn hình HMI. • Sau khi xe dừng hẳn, người dùng sẽ không thể điều khiển động cơ khi chân chống cạnh chưa được gạt lên.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-152",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "dau-hieu-can-kiem-tra",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Bảng mã lỗi trên đồng hồ gồm lỗi tay ga, MCU, cảm biến tốc độ, các bảo vệ BMS (quá dòng, quá nhiệt, nhiệt độ quá thấp), lỗi mạch DC-DC và mã 'Xe bị VinFast khóa'.",
+   "quote": "Lỗi tay ga … Lỗi cảm biến tốc độ động cơ … BMS bảo vệ do nhiệt độ quá thấp khi nạp … Chập mạch chân điều khiển DC-DC của VCU của SCU … Xe bị VinFast khóa",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-153",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Khi hệ thống tự chẩn đoán phát hiện lỗi, biểu tượng cảnh báo và mã lỗi hiện trên đồng hồ; khuyến cáo đưa xe đến đại lý ủy quyền.",
+   "quote": "Nếu hệ thống tự chẩn đoán phát hiện ra lỗi, biểu tượng cảnh báo lỗi (A) sẽ hiển thị trên cụm đồng hồ đa chức năng. Mã lỗi sẽ được hiển thị tại vị trí (B). … Khuyến cáo nên mang xe đến NPP và XDV ủy quyền của VinFast để được xử lý.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-154",
+   "tags": [
+    "vinfast-feliz-s",
+    "cham-soc-pin-xe-dien",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Trên đồng hồ Feliz S, thanh dung lượng nhấp nháy khi pin dưới 20% và biểu tượng pin nhấp nháy khi dưới 10%.",
+   "quote": "Thanh hiển thị dung lượng còn lại bắt đầu nhấp nháy khi SOC < 20%. Biểu tượng pin Lithium-ion bắt đầu nhấp nháy khi SOC < 10%.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-155",
+   "tags": [
+    "vinfast-feliz-s",
+    "tai-trong",
+    "thong-so"
+   ],
+   "claim": "Feliz S: khối lượng xe và pin 110 kg, tải trọng cho phép 130 kg, chở tối đa 2 người, khoảng sáng gầm 135 mm, cốp 25 lít.",
+   "quote": "Khoảng sáng gầm xe | 135 mm … Thể tích khoang chứa đồ dưới yên | 25 lít … Khối lượng bản thân (xe và pin) | 110 kg … Tải trọng cho phép ( bao gồm người lái, người ngồi sau và các vật dụng kèm theo) | 130 kg … Số người cho phép chở(người lái và người ngồi sau) | 02 người",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-156",
+   "tags": [
+    "vinfast-evo-200",
+    "tai-trong",
+    "thong-so",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Evo 200: khối lượng xe và pin 100 kg, tải trọng cho phép 130 kg, khoảng sáng gầm 150 mm, cốp 22 lít, chiều cao yên 750 mm.",
+   "quote": "Khoảng sáng gầm xe | 150 mm … Chiều cao yên | 750 mm … Thể tích khoang chứa đồ dưới yên | 22 lít … Khối lượng bản thân (xe và pin) | 100 kg … Tải trọng cho phép (bao gồm người lái, người ngồi sau và các vật dụng kèm theo) | 130 kg",
+   "source": "https://static-cms-prod.vinfastauto.com/evo-200-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện EVO 200 (BOL00009361-06)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-157",
+   "tags": [
+    "vinfast-klara-s",
+    "tai-trong",
+    "thong-so",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Klara S (2022/S2): khối lượng xe và pin 112 kg, tải trọng cho phép 130 kg, khoảng sáng gầm 136 mm, cốp 23 lít, chiều cao yên 760 mm.",
+   "quote": "Khoảng sáng gầm xe | 136 mm … Chiều cao yên | 760 mm … Thể tích khoang chứa đồ dưới yên | 23 lít … Khối lượng bản thân (xe và pin) | 112 kg … Tải trọng cho phép ( bao gồm người lái, người ngồi sau và các vật dụng kèm theo) | 130 kg",
+   "source": "https://static-cms-prod.vinfastauto.com/klara-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện KLARA S (BOL00008961-09, bản Klara S2 / V5 City LFP)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-158",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "tai-trong",
+    "an-toan"
+   ],
+   "claim": "Kết cấu xe chỉ thiết kế cho 1 người lái và 1 người ngồi sau, tuyệt đối không chở quá tải.",
+   "quote": "Kết cấu xe chỉ thiết kế cho 1 người lái và 1 người ngồi sau. • Tuyệt đối không chở người, hàng hóa vượt quá tải trọng của xe.",
+   "source": "https://static-cms-prod.vinfastauto.com/feliz-s-2022.pdf",
+   "source_title": "VinFast – Hướng dẫn sử dụng xe máy điện FELIZ S (BOL00008955-07)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-159",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "vinfast-evo-200-lite",
+    "bao-hanh",
+    "cham-soc-pin-xe-dien",
+    "chi-phi-thuc-te"
+   ],
+   "claim": "Xe máy điện VinFast dùng pin LFP được bảo hành xe 6 năm, pin 8 năm, không giới hạn km; các dòng còn lại 3 năm.",
+   "quote": "Đối với các dòng xe máy điện VinFast sử dụng pin LFP, thời hạn bảo hành xe là 6 năm/không giới hạn số km và thời hạn bảo hành pin lên tới 8 năm/không giới hạn số km. Các dòng xe còn lại thời hạn bảo hành 3 năm/không giới hạn km.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-160",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh"
+   ],
+   "claim": "Chính sách bảo hành mới chỉ áp dụng cho xe mua từ ngày hiệu lực; xe mua trước đó áp dụng chính sách tại thời điểm mua.",
+   "quote": "Chính sách bảo hành mới sẽ áp dụng cho các xe khách hàng mua kể từ Ngày hiệu lực của chính sách đó. Các xe mua trước Ngày hiệu lực thì áp dụng chính sách bảo hành có hiệu lực tại thời điểm khách hàng mua",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-161",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh",
+    "kiem-tra-ac-quy"
+   ],
+   "claim": "Trang bảo hành VinFast có hạng mục riêng cho ắc quy 12V (bảo hành 1 năm), nhưng không nói mẫu xe nào có ắc quy 12V.",
+   "quote": "Ắc quy: Ắc quy 12V: thời hạn bảo hành 1 năm từ ngày kích hoạt bảo hành (không giới hạn quãng đường sử dụng).",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-162",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh",
+    "lich-trinh-dinh-ky",
+    "moc-bao-duong-5000km"
+   ],
+   "claim": "Không bảo hành hư hỏng do không tuân thủ lịch bảo dưỡng định kỳ hoặc bảo dưỡng sai hướng dẫn; công việc làm sạch, kiểm tra, điều chỉnh, bảo dưỡng định kỳ không được bảo hành.",
+   "quote": "Hư hỏng do việc không tuân thủ lịch bảo dưỡng định kỳ hoặc bảo dưỡng, sửa chữa không đúng theo hướng dẫn của nhà sản xuất. … Bảo hành sẽ không được áp dụng cho các công việc làm sạch, kiểm tra, điều chỉnh và các hạng mục bảo dưỡng định kỳ.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-163",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh",
+    "lap-khoa-chong-trom"
+   ],
+   "claim": "Không bảo hành hư hỏng do đấu nối phụ kiện không chính hãng hoặc hoán cải trái phép (thay đổi công suất, cấu trúc).",
+   "quote": "Hư hỏng do nguyên nhân của việc sửa chữa, điều chỉnh, đấu nối phụ kiện không chính hãng, hoán cải trái phép so với thiết kế ban đầu như thay đổi công suất, thay đổi cấu trúc, v.v..",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-164",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh",
+    "cham-soc-pin-xe-dien",
+    "nang-nong",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Không bảo hành chai pin tự nhiên; phồng, cháy pin do đỗ nơi nhiệt độ cao hoặc lắp thêm thiết bị điện; hư hỏng do không tuân thủ quy định bảo quản khi không sử dụng.",
+   "quote": "Tình trạng chai tự nhiên của pin/ắc quy và dung lượng tối đa giảm dần theo thời gian do đặc tính chai tự nhiên và phụ thuộc rất nhiều vào cách sạc, dòng điện sạc, số lần xả, nhiệt độ môi trường trong quá trình sử dụng. Các hiện tượng phồng, nứt, vỡ, cháy, nổ, bốc khói của pin/ắc quy do đỗ xe dưới môi trường có nhiệt độ cao hoặc lắp đặt với các thiết bị tiêu thụ điện khác. Những hư hỏng của pin/ắc quy do không tuân thủ quy định bảo quản trong thời gian không sử dụng.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-165",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh",
+    "bao-duong-phanh-dia",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Má phanh, đĩa phanh, lốp, cầu chì, chi tiết cao su, ổ bi, bộ cổ phốt… là hao mòn tự nhiên, không được bảo hành.",
+   "quote": "Các chi tiết hư hỏng do hao mòn tự nhiên như má phanh, đĩa phanh, lốp, pin điều khiển, cầu chì, các chi tiết cao su, bộ xích, đĩa xích, bộ cổ phốt, ổ bi, bu long, vít, dây đai v.v. và vật tư nằm trong danh mục thay thế định kỳ như các loại dầu, mỡ, dung dịch, chất phụ gia.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-166",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh"
+   ],
+   "claim": "Bảo hành chỉ thực hiện tại Xưởng dịch vụ và Nhà phân phối ủy quyền của VinFast trên toàn Việt Nam, miễn phí theo điều khoản.",
+   "quote": "Bảo hành có hiệu lực trên toàn lãnh thổ Việt Nam, chỉ được áp dụng và thực hiện tại các Xưởng dịch vụ và Nhà phân phối ủy quyền của VinFast. • Công việc bảo hành được thực hiện miễn phí theo các điều khoản và điều kiện bảo hành.",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-167",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "bao-hanh",
+    "chi-phi-thuc-te"
+   ],
+   "claim": "Phụ tùng thay thế chính hãng khách tự trả tiền được bảo hành 1 năm (pin LFP 8 năm, ắc quy 12V 1 năm).",
+   "quote": "Phụ tùng (không bao gồm pin và ắc quy 12V): 1 năm kể từ ngày mua (không giới hạn quãng đường sử dụng). … Pin LFP: 8 năm kể từ ngày mua (không giới hạn quãng đường sử dụng).",
+   "source": "https://vinfastauto.com/vn_vi/chinh-sach-bao-hanh-xe-may-dien",
+   "source_title": "VinFast – Chính sách bảo hành xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-168",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-evo-200-lite",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "chi-phi-thuc-te",
+    "gia-xe"
+   ],
+   "claim": "Thông báo giá 2025 của VinFast (hiệu lực từ 03/01/2025): Evo200/Evo200 Lite 15.000.000 đ (kèm pin 25.900.000 đ); Feliz S 24.000.000 đ (kèm pin 34.900.000 đ); Klara S2 32.000.000 đ (kèm pin 42.900.000 đ).",
+   "quote": "| 1 | VinFast Evo200/Evo200 Lite | 15,000,000 | 25,900,000 | | 2 | VinFast Feliz S | 24,000,000 | 34,900,000 | | 3 | VinFast Klara S2 | 32,000,000 | 42,900,000 | … (*) Chính sách giá bán có hiệu lực từ ngày 03/01/2025 cho đến khi có thông báo tiếp theo từ VinFast.",
+   "source": "https://vinfastauto.com/vn_vi/thong-bao-chinh-sach-gia-ban-cac-dong-xe-may-dien-vinfast-2025-0",
+   "source_title": "VinFast – [THÔNG BÁO] Chính sách giá bán các dòng xe máy điện VinFast 2025 (03/01/2025)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-169",
+   "tags": [
+    "vinfast-klara-s",
+    "chi-phi-thuc-te",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Chính sách thuê pin dòng pin rời cũ áp dụng cho Klara S bán trước 16/12/2022 (không phải Klara S 2022 pin LFP cố định): đặt cọc 1.200.000 đ/pin, quá hạn 6 ngày xe bị khóa kết nối.",
+   "quote": "Áp dụng cho các dòng xe Ludo, Impes, Klara S và Theon (bán trước ngày 16/12/2022) … Đặt cọc pin: 1.200.000 VNĐ/pin … Nếu Khách hàng trả phí thuê chậm quá 6 ngày thì hệ thống sẽ tự động khóa kết nối của xe (xe không khởi động được).",
+   "source": "https://vinfastauto.com/vn_vi/dich-vu-pin-xe-may-dien",
+   "source_title": "VinFast – Pin và trạm sạc xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-170",
+   "tags": [
+    "vinfast-klara-s",
+    "chi-phi-thuc-te",
+    "cham-soc-pin-xe-dien"
+   ],
+   "claim": "Phí thuê pin hằng tháng của dòng pin rời cũ: gói không giới hạn 220.000 đ (1 pin)/350.000 đ (2 pin); gói tiết kiệm 149.000/299.000 đ, giới hạn 300 km/tháng, đã gồm VAT.",
+   "quote": "1 Pin: 220.000 VNĐ/tháng … 2 Pin: 350.000 VNĐ/tháng … Không giới hạn quãng đường đi … 1 Pin: 149.000 VNĐ/tháng … 2 Pin: 299.000 VNĐ/tháng … Giới hạn đi không quá 300 km/tháng. … Giá đã bao gồm VAT",
+   "source": "https://vinfastauto.com/vn_vi/dich-vu-pin-xe-may-dien",
+   "source_title": "VinFast – Pin và trạm sạc xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-171",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin",
+    "chi-phi-thuc-te"
+   ],
+   "claim": "Trụ sạc công cộng cho xe máy điện VinFast: điện 1 pha 220 VAC, công suất từ 1,2 kW/cổng, sạc đầy tiêu chuẩn khoảng 4 giờ.",
+   "quote": "Trụ sạc công cộng cho Xe máy điện Đặt tại các vị trí đỗ xe công cộng có thể đỗ trong thời gian dài. … Thời gian sạc đầy tiêu chuẩn khoảng 4h. … Điện áp hoạt động (V) 1 pha, 220 VAC ± 5% … Công suất ≥ 1.2 kW/ cổng sạc",
+   "source": "https://vinfastauto.com/vn_vi/dich-vu-pin-xe-may-dien",
+   "source_title": "VinFast – Pin và trạm sạc xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-172",
+   "tags": [
+    "vinfast-evo-200",
+    "vinfast-feliz-s",
+    "vinfast-klara-s",
+    "sac-pin",
+    "chi-phi-thuc-te"
+   ],
+   "claim": "Trang Pin và trạm sạc của VinFast ghi đơn giá sạc 3.858 đ/kWh (gồm VAT) từ 19/03/2024, thanh toán cùng phí thuê bao pin hằng tháng.",
+   "quote": "VinFast cung cấp đơn giá sạc ô tô điện, xe máy điện và hình thức thanh toán áp dụng tại các trạm sạc công cộng. Đơn giá sạc: 3.858 VNĐ/kWh áp dụng từ ngày 19/03/2024 Hình thức thanh toán: Thanh toán cùng chi phí thuê bao pin hàng tháng",
+   "source": "https://vinfastauto.com/vn_vi/dich-vu-pin-xe-may-dien",
+   "source_title": "VinFast – Pin và trạm sạc xe máy điện",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-173",
+   "tags": [
+    "vinfast-chung",
+    "thay-dau-nhot",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Bài của VinFast (2021) nêu động cơ xe máy điện không phải bảo dưỡng, thay dầu nhớt như xe xăng.",
+   "quote": "Ngoài ra, còn giúp tiết kiệm phí bảo dưỡng vì động cơ điện không phải bảo dưỡng, thay dầu nhớt như xe xăng, chế độ bảo hành của VinFast cũng rất lâu, lên tới 3 năm.",
+   "source": "https://vinfastauto.com/vn_vi/4-uu-diem-vuot-troi-chi-co-o-dong-co-xe-may-dien-vinfast",
+   "source_title": "VinFast – 4 ưu điểm vượt trội chỉ có ở động cơ xe máy điện VinFast (23/07/2021)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "VF-174",
+   "tags": [
+    "vinfast-theon-s",
+    "vinfast-chung",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Đối chiếu: Theon S dùng động cơ đặt ở trung tâm, truyền động bằng xích.",
+   "quote": "Cùng với đó là động cơ điện đặt tại vị trí trung tâm, truyền động bằng dây xích, sản sinh công suất tối đa lên tới 7.100W, tốc độ tối đa lên tới 99km/h.",
+   "source": "https://vinfastauto.com/vn_vi/xe-may-dien-co-di-duoc-troi-mua-khong-mach-ban-4-luu-y-khi-su-dung",
+   "source_title": "VinFast – Xe máy điện, xe đạp điện đi mưa có sao không? (24/07/2023)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  }
+ ],
+ "not_applicable": [
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "thay-the-bugi",
+   "explanation": "Không có bugi. Hướng dẫn sử dụng ghi loại động cơ là 'động cơ điện một chiều không chổi than' đặt trong vành bánh sau, chạy bằng pin Lithium-ion; không có buồng đốt nên không có bugi. Bài viết nên chuyển sang hệ thống điện: công tắc pin, khóa điện, khởi động, mã lỗi trên đồng hồ.",
+   "fact_ids": [
+    "VF-004",
+    "VF-005",
+    "VF-006",
+    "VF-108",
+    "VF-109",
+    "VF-116",
+    "VF-148"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "ve-sinh-kim-phun-fi",
+   "explanation": "Không có kim phun xăng (FI) vì xe không dùng nhiên liệu; năng lượng lấy từ pin Lithium-ion dưới sàn để chân. Bộ phận tương đương để viết: bộ điều khiển động cơ (MCU), tay ga điện, cổng sạc và bộ sạc.",
+   "fact_ids": [
+    "VF-004",
+    "VF-005",
+    "VF-006",
+    "VF-109"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "thay-loc-gio-dong-co",
+   "explanation": "Không có lọc gió động cơ: động cơ điện không hút khí để đốt; lịch bảo dưỡng định kỳ trong hướng dẫn sử dụng không có hạng mục lọc gió. Chuyển sang vệ sinh, rửa xe đúng cách và kiểm tra cổng kết nối.",
+   "fact_ids": [
+    "VF-108",
+    "VF-109",
+    "VF-127"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "thay-dau-nhot",
+   "explanation": "Không có nhớt máy. Lịch bảo dưỡng chỉ có hạng mục 'Động cơ' ở mức kiểm tra (KT), không có mốc thay thế (TT) nào; chất bôi trơn hãng khuyến cáo là mỡ cho chốt tay phanh, chân chống và cổ phốt; chất lỏng duy nhất phải kiểm tra là dầu phanh DOT 4. Chuyển sang mỡ bôi trơn, dầu phanh, cổ phốt.",
+   "fact_ids": [
+    "VF-001",
+    "VF-002",
+    "VF-003",
+    "VF-108",
+    "VF-109",
+    "VF-112",
+    "VF-173"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Không có hộp số, nhớt láp: bảng thông số ghi 'Bộ truyền động | Truyền động trực tiếp', động cơ nằm trong vành sau. Lịch bảo dưỡng không có hạng mục nhớt hộp số. Hướng dẫn không nói động cơ trong bánh cần bôi trơn; chỉ ghi kiểm tra định kỳ. Chuyển sang kiểm tra động cơ trong bánh, ổ bi bánh sau, phớt trục động cơ khi rửa xe.",
+   "fact_ids": [
+    "VF-001",
+    "VF-002",
+    "VF-003",
+    "VF-004",
+    "VF-005",
+    "VF-006",
+    "VF-007",
+    "VF-109",
+    "VF-112",
+    "VF-114",
+    "VF-173"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Không có hệ thống nước làm mát: hướng dẫn mô tả động cơ 'thiết kế kín, chống nước xâm nhập', pin tự giảm hiệu năng hoặc ngừng khi quá nhiệt (60°C) và từ chối sạc trên 55°C; lịch bảo dưỡng không có hạng mục nước làm mát. Chuyển sang quản lý nhiệt pin: đỗ xe tránh nắng, chờ khoảng 1 giờ sau khi chạy mới sạc.",
+   "fact_ids": [
+    "VF-037",
+    "VF-038",
+    "VF-039",
+    "VF-050",
+    "VF-051",
+    "VF-108",
+    "VF-109",
+    "VF-117",
+    "VF-118",
+    "VF-119"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Không có dây curoa (CVT): truyền động trực tiếp từ động cơ trong vành sau. Chuyển sang kiểm tra động cơ, ổ bi trục sau, vành sau trong lịch bảo dưỡng.",
+   "fact_ids": [
+    "VF-001",
+    "VF-002",
+    "VF-003",
+    "VF-004",
+    "VF-005",
+    "VF-006",
+    "VF-007",
+    "VF-109"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "ve-sinh-xich-lip",
+   "explanation": "Không có xích, nhông, đĩa: truyền động trực tiếp, động cơ nằm trong vành sau. Trong dòng VinFast, mẫu dùng xích là Theon và Theon S (động cơ đặt giữa). Chuyển sang vệ sinh vành, phớt trục động cơ và ổ bi bánh xe.",
+   "fact_ids": [
+    "VF-001",
+    "VF-002",
+    "VF-003",
+    "VF-004",
+    "VF-005",
+    "VF-006",
+    "VF-007",
+    "VF-109",
+    "VF-114",
+    "VF-174"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "kiem-tra-ac-quy",
+   "explanation": "Hướng dẫn sử dụng của ba mẫu chỉ mô tả một hệ thống pin Lithium-ion đặt dưới sàn (48 Ah, 70,4 V), công tắc pin dưới yên và không có mục ắc quy 12V. Không có nguồn của hãng xác nhận các mẫu này có hay không có ắc quy 12V phụ, nên bài 'kiểm tra ắc quy' phải viết về pin Lithium-ion, công tắc pin, BMS và bảo quản pin; không được khẳng định chi tiết về ắc quy 12V.",
+   "fact_ids": [
+    "VF-018",
+    "VF-019",
+    "VF-020",
+    "VF-026",
+    "VF-069",
+    "VF-116",
+    "VF-152",
+    "VF-161"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S / Klara S",
+   "component_or_topic": "ky-nang-tiet-kiem-nhien-lieu",
+   "explanation": "Xe không dùng xăng. 'Tiết kiệm nhiên liệu' phải chuyển thành tối ưu quãng đường mỗi lần sạc: chế độ ECO, phanh tái sinh, thả ga chạy trớn, giữ tốc độ ổn định, không chở quá tải, áp suất lốp đúng.",
+   "fact_ids": [
+    "VF-008",
+    "VF-071",
+    "VF-072",
+    "VF-073",
+    "VF-074",
+    "VF-075",
+    "VF-076",
+    "VF-077",
+    "VF-078"
+   ]
+  },
+  {
+   "vehicle": "VinFast Evo 200 / Evo 200 Lite / Feliz S",
+   "component_or_topic": "bao-duong-phanh-dia (phanh sau)",
+   "explanation": "Phanh sau của Evo 200, Evo 200 Lite và Feliz S là tang trống (guốc phanh, dây phanh), không phải phanh đĩa; chỉ phanh trước là đĩa dầu DOT 4. Klara S (2022/S2) có phanh đĩa cả trước và sau.",
+   "fact_ids": [
+    "VF-008",
+    "VF-088",
+    "VF-089",
+    "VF-090",
+    "VF-091",
+    "VF-092",
+    "VF-093",
+    "VF-094",
+    "VF-095",
+    "VF-096",
+    "VF-097",
+    "VF-098"
+   ]
+  }
+ ],
+ "gaps": [
+  "Không mở được nội dung trả lời (accordion tải động) trên trang Câu hỏi thường gặp https://vinfastauto.com/vn_vi/cau-hoi-thuong-gap/cau-hoi-xe-may-dien trong phiên này, nên không trích được câu FAQ về mốc bảo dưỡng 1.000 km/1 tháng và 5.000 km/6 tháng; dùng bảng lịch bảo dưỡng trong hướng dẫn sử dụng thay thế.",
+  "Không có hướng dẫn chính thức của VinFast cho ba mẫu về các bước xử lý cụ thể sau khi xe đã bị ngập (sấy, kiểm tra pin…); hướng dẫn sử dụng chỉ khuyến cáo hạn chế chạy khi nước quá trục động cơ, và bảo hành loại trừ hư hỏng do ngập nước.",
+  "Không xác minh được xe Evo 200, Feliz S, Klara S có hay không có ắc quy 12V phụ: hướng dẫn sử dụng không nhắc; trang bảo hành chỉ nêu chung 'Ắc quy 12V'.",
+  "Không có nguồn của hãng nói động cơ trong bánh (hub motor) có cần bôi trơn/thay mỡ bên trong hay không; lịch bảo dưỡng chỉ ghi 'KT' (kiểm tra) cho hạng mục Động cơ.",
+  "Không tìm thấy định mức áp suất lốp riêng khi chở hai người khác chở một người: tem lốp Evo 200 ghi cùng mức 200/225 kPa cho cả hai trường hợp; tem của Feliz S và Klara S không đọc được trọn vẹn (dùng bảng thông số 200/225 kPa).",
+  "Không tìm thấy bảng giá công bố cho dịch vụ bảo dưỡng định kỳ, thay má phanh, dầu phanh hay lốp xe máy điện VinFast; chỉ có giá xe và chính sách thuê/đền bù pin.",
+  "Không xác định được gói thuê pin nào đang áp dụng cho Evo200/Feliz S/Klara S2 mua không kèm pin: trang Pin và trạm sạc chỉ nêu chính sách cho 'dòng XMĐ MAX' (từ 03/2026) và 'dòng pin rời cũ' (Klara S bán trước 16/12/2022).",
+  "Đơn giá sạc 3.858 đ/kWh trên trang Pin và trạm sạc được ghi chung cho ô tô và xe máy điện; trang FAQ trạm sạc ô tô (mở được nhưng không hiện nội dung trả lời) không xác nhận được ghi chú 'không áp dụng với sạc pin xe máy điện' như thư viện cũ đã ghi.",
+  "Số liệu không thống nhất giữa hướng dẫn sử dụng (bản 2023–2025) và bài giới thiệu 2022–2023: tốc độ tối đa Evo200 60 km/h (HDSD) và 70 km/h (bài viết); Feliz S và Klara S 70 km/h (HDSD) và 78 km/h (bài viết); thời gian sạc Feliz S 5,5 giờ (HDSD) và 6 giờ (bài viết); sạc kèm Evo200 400 W/10 giờ (HDSD) và 1.000 W/khoảng 4 giờ (bài viết). Người viết phải nêu rõ nguồn khi dùng số.",
+  "Khoảng sáng gầm Klara S: HDSD bản S2 ghi 136 mm, trang thông số 2022 ghi 125 mm; thể tích cốp Klara S 23 lít (cả hai nguồn).",
+  "Trang sản phẩm riêng của Evo200, Feliz S và Klara S 2022 trên vinfastauto.com trả lỗi 404 (đã ngừng bán trên trang chính hãng); không có trang thông số hiện hành cho ba mẫu.",
+  "Không có nguồn của hãng về khởi động trong buổi sáng lạnh ở mức nhiệt Hà Nội; hướng dẫn chỉ nêu ngưỡng giảm hiệu năng khi pin dưới -10°C."
+ ]
+}

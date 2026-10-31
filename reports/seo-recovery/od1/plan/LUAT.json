@@ -1,0 +1,2342 @@
+{
+ "group": "LUAT",
+ "planned": "2026-10-31",
+ "fact_id_scheme": "LA-xxx = lib/legal_a.json facts[].id; LB-xxx = lib/legal_b.json facts[].id; SEED-n = lib/seed_legal_quotes.json[n] (chỉ số 0-based). Trích nguyên văn trường quote của mục tương ứng vào sources[].",
+ "rules": [
+  "Hạng A2 không còn từ 01/01/2025; bài A2 viết \"hạng A (thay A2)\", bằng A2 cấp trước 2025 dùng theo khoản 2 Điều 89 Luật 36/2024 và khi đổi chuyển sang hạng A.",
+  "Bài V1 luật là vệ tinh: link pillar[0] (hand-written/V2) và không chép nguyên bảng mức phạt của trụ cột; chỉ tóm tắt 1–2 khung phạt liên quan.",
+  "Không ghi lệ phí, phí sát hạch, lệ phí trước bạ, phí bưu chính (gap legal_a). Không viết \"giảm 50% khi nộp phạt online\".",
+  "Không nhắc bảo hiểm (trừ \"mũ bảo hiểm\"); NH-01045 bị chặn (OD-6).",
+  "Mức phạt NĐ 168 lấy từ bản gốc trên xaydungchinhsach.chinhphu.vn, đã đối chiếu thủ công với NĐ 238/2026 (hiệu lực 15/8/2026); khi nêu điểm đã sửa phải ghi mốc 15/8/2026."
+ ],
+ "entries": [
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-du-khach-nuoc-ngoai-tai-viet-nam-can-cu-phap-ly-moi-nhat-trong-cac-tuyen-pho-noi-do-ha-noi/",
+   "id": "NH-02195",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "người nước ngoài thi bằng a2 ở việt nam",
+   "secondary_keywords": [
+    "du khách thi bằng lái xe máy tại việt nam",
+    "hồ sơ thi bằng lái cho người nước ngoài",
+    "thẻ tạm trú 90 ngày thi bằng lái",
+    "đổi bằng lái nước ngoài sang bằng việt nam"
+   ],
+   "intent": "Du khách, người nước ngoài hỏi có thi được bằng A2 (nay là hạng A) tại Việt Nam không: điều kiện cư trú (thị thực hoặc thẻ tạm trú còn từ 90 ngày), hồ sơ, và lựa chọn thay thế hợp pháp khi ở ngắn ngày (IDP theo Công ước 1968 kèm bằng quốc gia, xét đổi bằng).",
+   "title": "Người nước ngoài thi bằng A2 ở Việt Nam: điều kiện hạng A",
+   "excerpt": "Không còn bằng A2; người nước ngoài thi hạng A tại Việt Nam cần thị thực hoặc thẻ tạm trú còn từ 90 ngày. Du khách ngắn ngày dùng IDP kèm bằng gốc.",
+   "h2": [
+    "Người nước ngoài thi bằng A2 ở Việt Nam: nay là hạng A, cần cư trú hợp lệ",
+    "Điều kiện cư trú và hồ sơ dự sát hạch theo Thông tư 108/2026",
+    "Du khách ngắn ngày: IDP Công ước 1968 kèm giấy phép quốc gia",
+    "Đã có bằng mô tô ở nước mình: xét đổi thay vì thi",
+    "Đi xe trong phố cổ khi chưa có giấy phép phù hợp",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Khách du lịch ở Việt Nam 30 ngày có thi bằng lái xe máy được không?",
+    "Thi đạt rồi người nước ngoài nhận giấy phép dạng nào?",
+    "Người nước ngoài thi hạng A có được miễn phần lý thuyết không?",
+    "Chưa có bằng thì đi loại xe nào ở Hà Nội?"
+   ],
+   "fact_ids": [
+    "LA-003",
+    "LA-016",
+    "LA-017",
+    "LA-088",
+    "LA-089",
+    "LA-090",
+    "LA-083",
+    "LA-087",
+    "LA-094",
+    "LA-006",
+    "LA-008",
+    "LA-009",
+    "LA-092",
+    "LA-096",
+    "LA-098",
+    "LA-099",
+    "LA-105",
+    "LA-149",
+    "LA-015",
+    "LA-020"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/nguoi-nuoc-ngoai-lai-xe-may-o-viet-nam/",
+     "/luat-giao-thong/thi-bang-lai-xe-may/"
+    ],
+    "money": "/thue-xe-may/hoan-kiem/",
+    "related": [
+     "/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/",
+     "/luat-giao-thong/xe-50cc-co-can-bang-lai/"
+    ]
+   },
+   "angle_notes": "Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc căn cứ pháp lý: Điều 57, 59 Luật 36/2024 và điều về hồ sơ dự sát hạch của Thông tư 108/2026 (LA-089: thị thực/thẻ tạm trú còn hạn từ 90 ngày). Câu miễn lý thuyết chỉ áp dụng cho người có giấy phép ô tô còn hiệu lực (LA-083), không suy rộng. Gap: danh sách nước thành viên Công ước 1968 chưa xác minh, chỉ được nêu ví dụ GOV.UK (LA-149). Phố nội đô: du khách ở phố cổ; nói thật về giao xe (hợp đồng nhiều ngày, 50.000đ/lượt trong 10 km từ trung tâm Hoàn Kiếm) và cọc bằng hộ chiếu cho khách nước ngoài theo business-facts. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-00195 (mức phạt khi du khách lái xe trên 125 cm³) và NH-00635 (IDP hết hạn khi chạy giao hàng): bài này chỉ trả lời người nước ngoài có thi được hạng A không và cần giấy tờ gì. Khác trụ cột V2 người nước ngoài (tập trung IDP và mức phạt).",
+   "nearest_existing": [
+    "/luat-giao-thong/nguoi-nuoc-ngoai-lai-xe-may-o-viet-nam/",
+    "/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/",
+    "/luat-giao-thong/thi-bang-lai-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-du-khach-nuoc-ngoai-tai-viet-nam-muc-phat-va-hinh-thuc-xu-ly-khi-tham-gia-giao-thong-vao-ban-dem/",
+   "id": "NH-00195",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "du khách không có bằng a2 bị phạt bao nhiêu",
+   "secondary_keywords": [
+    "người nước ngoài lái xe trên 125cc không có bằng",
+    "idp không phù hợp loại xe bị phạt",
+    "tước giấy phép lái xe quốc tế",
+    "csgt dừng xe du khách ban đêm"
+   ],
+   "intent": "Du khách nước ngoài lái xe mô tô trên 125 cm³ (hạng A, trước là A2) khi giấy phép không phù hợp hoặc không mang bằng gốc kèm IDP, bị kiểm tra ban đêm: mức phạt, tước quyền sử dụng IDP, trừ điểm và cách ứng xử.",
+   "title": "Du khách không có bằng A2 lái xe trên 125 cm³ bị phạt gì?",
+   "excerpt": "Lái xe trên 125 cm³ không có giấy phép phù hợp bị phạt 6–8 triệu đồng; IDP bị tước không quá thời gian cư trú. Cách xử lý khi bị dừng xe ban đêm.",
+   "h2": [
+    "Du khách không có bằng A2 (hạng A) bị phạt bao nhiêu khi lái xe trên 125 cm³",
+    "Khi nào giấy phép của du khách bị coi là không phù hợp loại xe",
+    "Hình thức xử lý: phạt tiền, tước quyền sử dụng IDP, trừ điểm",
+    "Bị CSGT dừng xe ban đêm: quyền và việc nên làm",
+    "Chọn xe đúng với giấy phép đang có",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Có IDP nhưng để quên bằng gốc ở khách sạn có bị phạt không?",
+    "Bị tước IDP ở Việt Nam thì bao lâu?",
+    "Xe tay ga 125 cm³ có cần hạng A không?",
+    "CSGT có phải cho biết lý do dừng xe không?"
+   ],
+   "fact_ids": [
+    "LA-051",
+    "LA-050",
+    "LB-124",
+    "LB-125",
+    "LA-003",
+    "LA-002",
+    "LA-006",
+    "LA-009",
+    "LA-010",
+    "LA-070",
+    "LA-043",
+    "LA-045",
+    "LA-146",
+    "LA-061",
+    "LB-109"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/nguoi-nuoc-ngoai-lai-xe-may-o-viet-nam/",
+     "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/hoan-kiem/",
+    "related": [
+     "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/",
+     "/kinh-nghiem/di-xe-may-ban-dem-an-toan/"
+    ]
+   },
+   "angle_notes": "Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc mức phạt và hình thức xử lý: chỉ hai khung (đến 125 cm³: 2–4 triệu; trên 125 cm³: 6–8 triệu) kèm hình thức bổ sung (tước IDP không quá thời gian cư trú LA-010; từ 15/8/2026 không trừ điểm khi giấy phép đang bị tước LA-070); không chép lại bảng của trụ cột. Không khẳng định cách đối chiếu hạng IDP nước ngoài với A1/A (chưa có nguồn). Ban đêm: căn cứ dừng xe, quyền được thông báo (LA-043, LA-045, LA-146), lỗi đèn chỉ một câu và link trụ cột. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-02195 (thi bằng), NH-00635 (IDP hết hạn, người cư trú chạy giao hàng), NH-01945 (sinh viên Việt Nam đi xe 150 cm³), NH-03445 (bố mẹ giao xe cho con). Bài này: du khách + xe trên 125 cm³ + xử lý khi bị dừng ban đêm.",
+   "nearest_existing": [
+    "/luat-giao-thong/nguoi-nuoc-ngoai-lai-xe-may-o-viet-nam/",
+    "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/",
+    "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-di-lam-tai-cac-do-thi-can-cu-phap-ly-moi-nhat-trong-cac-tuyen-pho-noi-do-ha-noi/",
+   "id": "NH-00445",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "thi bằng a2 năm 2026",
+   "secondary_keywords": [
+    "bằng a2 còn thi được không",
+    "bằng a2 đổi thành hạng a",
+    "căn cứ pháp lý hạng a 2026",
+    "luật 36/2024 hạng giấy phép lái xe"
+   ],
+   "intent": "Người đi làm định \"thi bằng A2\" năm 2026 cần biết hạng A2 đã bị bỏ từ 01/01/2025, nay thi hạng A, và các văn bản đang áp dụng tại 31/10/2026 (Luật 36/2024 hợp nhất 55/VBHN-VPQH, Thông tư 108/2026/TT-BCA, Nghị định 94/2026/NĐ-CP) cùng lộ trình đổi đề thi.",
+   "title": "Thi bằng A2 năm 2026 còn không? Căn cứ pháp lý hạng A mới",
+   "excerpt": "Hạng A2 không còn từ 01/01/2025; năm 2026 muốn lái xe trên 125 cm³ phải thi hạng A. Văn bản đang áp dụng và lộ trình đổi đề thi đến 2028.",
+   "h2": [
+    "Thi bằng A2 năm 2026: không còn hạng A2, nay thi hạng A",
+    "Văn bản đang áp dụng tại 31/10/2026",
+    "Hạng A mới khác bằng A2 cũ ở phạm vi xe được lái",
+    "Lộ trình đề thi: Thông tư 12/2025 đến 28/02/2027, Thông tư 108 từ 01/3/2027",
+    "Người đi làm trong phố có cần thi hạng A không",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Năm 2026 còn đăng ký thi bằng A2 được không?",
+    "Bằng A2 cấp trước năm 2025 có còn hiệu lực?",
+    "Thi hạng A trong năm 2026 theo đề cũ hay đề mới?",
+    "Đi xe tay ga đến 125 cm³ trong phố có cần hạng A không?"
+   ],
+   "fact_ids": [
+    "LA-001",
+    "LA-035",
+    "LA-002",
+    "LA-003",
+    "LA-111",
+    "LA-030",
+    "LA-032",
+    "LA-077",
+    "LA-078",
+    "LA-079",
+    "LA-080",
+    "LA-113",
+    "LA-114",
+    "LA-118",
+    "LB-006"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+     "/luat-giao-thong/thi-bang-lai-xe-may/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/luat-giao-thong/nguon-tra-cuu/",
+     "/luat-giao-thong/bang-lai-xe-may-co-thoi-han-khong/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc \"căn cứ pháp lý mới nhất\": mỗi khẳng định gắn điều/khoản và văn bản, có bảng mốc thời gian (01/01/2025, 01/7/2026, 01/3/2027, 01/01/2028). Người đi làm nội đô: phần lớn đi xe đến 125 cm³ nên A1 là đủ; chỉ cần hạng A khi xe trên 125 cm³ hoặc điện trên 11 kW. Không gán dung tích cho mẫu xe cụ thể nếu không có nguồn (có thể link trang /xe-may/ V2 có nguồn). Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Bài duy nhất trong cụm trả lời câu hỏi đầu \"thi bằng A2 năm 2026\" bằng căn cứ pháp lý và lộ trình đề thi. Không đi vào: người nước ngoài (NH-02195), các bước thi (NH-01695), có phải đổi A2 (NH-00695), đổi online (NH-03195), mất bằng (NH-01195), mức phạt (NH-00195, NH-03445, NH-01945), hỏi đáp thuê xe/giao hàng (NH-02695, NH-00945), trừ điểm (NH-02945), độ tuổi (NH-01445). Không lặp bảng hạng bằng của trụ cột, chỉ tóm tắt và link.",
+   "nearest_existing": [
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+    "/luat-giao-thong/thi-bang-lai-xe-may/",
+    "/luat-giao-thong/doi-bang-lai-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-moi-lay-bang-lai-thu-tuc-va-cac-buoc-chuan-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "id": "NH-01695",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "thủ tục thi bằng a2",
+   "secondary_keywords": [
+    "các bước thi bằng lái hạng a",
+    "đăng ký thi bằng a online",
+    "hồ sơ thi bằng lái hạng a 2026",
+    "trình tự thi bằng lái xe máy"
+   ],
+   "intent": "Người mới (đã có A1 hoặc chưa có bằng) tìm \"thủ tục thi bằng A2\" cần trình tự thi hạng A hiện nay: chọn đúng hạng, hoàn thành đào tạo, khám sức khỏe, nộp hồ sơ trực tuyến trước ít nhất 7 ngày làm việc, thi lý thuyết rồi bài 1, bài 2, nhận giấy phép điện tử.",
+   "title": "Thủ tục thi bằng A2 (nay là hạng A): các bước cho người mới",
+   "excerpt": "Từ 2025 không còn thi A2: người mới thi hạng A học đủ chương trình, khám sức khỏe, nộp hồ sơ online trước 7 ngày làm việc, rồi thi lý thuyết và thực hành.",
+   "h2": [
+    "Thủ tục thi bằng A2 hiện nay là thủ tục thi hạng A",
+    "Bước 1–2: chọn đúng hạng và hoàn thành khóa đào tạo",
+    "Bước 3–4: khám sức khỏe, nộp hồ sơ trực tuyến",
+    "Bước 5: lý thuyết, bài sát hạch số 1 rồi số 2",
+    "Bước 6: nhận giấy phép điện tử, tập lái ra cửa ngõ thủ đô",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Người đã có bằng ô tô thi hạng A có được miễn lý thuyết không?",
+    "Trượt bài sát hạch số 1 thì có được thi bài số 2 không?",
+    "Thi đạt bao lâu thì có giấy phép?",
+    "Đi thi thực hành cần mang mũ bảo hiểm thế nào?"
+   ],
+   "fact_ids": [
+    "LA-003",
+    "LA-016",
+    "LA-017",
+    "LA-025",
+    "LA-088",
+    "LA-089",
+    "LA-090",
+    "LA-082",
+    "LA-083",
+    "LA-084",
+    "LA-085",
+    "LA-086",
+    "LA-087",
+    "LA-094",
+    "LA-109",
+    "LA-115",
+    "LA-136",
+    "LA-079",
+    "LB-095",
+    "LB-023"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/thi-bang-lai-xe-may/",
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+    ],
+    "money": "/thue-xe-may/ha-noi/",
+    "related": [
+     "/kinh-nghiem/xe-con-tay-co-kho-di-khong/",
+     "/kinh-nghiem/cach-di-xe-so/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc thủ tục và các bước chuẩn: viết dạng các bước đánh số khớp H2. Không nêu tên, địa chỉ trung tâm sát hạch, không ghi số giờ học (gap: chương trình đào tạo NĐ 94/2026 chưa trích). Không khẳng định có hay không phải có A1 trước khi thi A; chỉ liệt kê đúng điều kiện ở LA-088. Bối cảnh cửa ngõ thủ đô: sau khi có bằng, chạy quốc lộ cửa ngõ phải theo tốc độ ngoài khu đông dân cư (LB-095) và không vào cao tốc (LB-023).",
+   "differentiation": "Khác NH-00445 (có còn A2 không, căn cứ pháp lý) và NH-01445 (độ tuổi, cha mẹ chuẩn bị cho con): bài này là quy trình từng bước cho người tự đi thi. Không lặp phần lệ phí, nơi thi của trụ cột.",
+   "nearest_existing": [
+    "/luat-giao-thong/thi-bang-lai-xe-may/",
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thue-xe-tu-lai-giai-dap-thac-mac-pho-bien-tren-cac-truc-duong-vanh-dai-va-quoc-lo/",
+   "id": "NH-02695",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "thuê xe moto cần bằng a2 không",
+   "secondary_keywords": [
+    "thuê xe phân khối lớn cần bằng gì",
+    "bằng a1 cũ thuê xe 150cc",
+    "xe máy có được đi cao tốc không",
+    "tốc độ xe mô tô trên quốc lộ"
+   ],
+   "intent": "Người thuê xe tự lái hỏi thuê mô tô trên 125 cm³ để chạy vành đai, quốc lộ cần bằng gì (hạng A hoặc A2 cũ), bằng A1 cũ và mới đi được tới đâu, xe máy có được lên cao tốc không, tốc độ tối đa ngoài khu đông dân cư và ai chịu phạt nguội khi đi xe thuê.",
+   "title": "Thuê xe moto đi quốc lộ cần bằng A2 không? Giải đáp 2026",
+   "excerpt": "Thuê mô tô trên 125 cm³ cần hạng A hoặc bằng A2 cũ; A1 cấp trước 2025 lái được xe dưới 175 cm³. Xe máy không vào cao tốc, ngoài khu dân cư tối đa 60–70 km/h.",
+   "h2": [
+    "Thuê xe moto cần bằng A2 không: cần hạng A hoặc A2 cấp trước 2025",
+    "Bằng A1 cũ, A1 mới và chiếc xe định thuê",
+    "Chạy vành đai, quốc lộ: tốc độ tối đa và đường cấm xe máy",
+    "Bị phạt nguội khi đi xe thuê: ai phải chịu",
+    "Nguyễn Hà cho thuê loại xe nào, cần giấy tờ gì",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Bằng A1 cấp năm 2023 thuê xe 150 cm³ được không?",
+    "Xe máy có được đi trên đường cao tốc không?",
+    "Thuê xe đi tỉnh phải thuê tối thiểu bao lâu?",
+    "Cửa hàng có giữ bằng lái gốc khi thuê xe không?"
+   ],
+   "fact_ids": [
+    "LA-003",
+    "LA-002",
+    "LA-031",
+    "LA-032",
+    "LA-051",
+    "LA-018",
+    "LB-094",
+    "LB-095",
+    "LB-023",
+    "SEED-328",
+    "LA-056",
+    "LA-058",
+    "LA-148",
+    "LA-019"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+     "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/thue-xe/thue-xe-may-ha-noi-di-tinh/",
+     "/du-lich/vanh-dai-3-tren-cao-xe-may/",
+     "/thue-xe/thue-xe-may-ha-noi-can-giay-to-gi/"
+    ]
+   },
+   "angle_notes": "Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc giải đáp thắc mắc: mở bằng câu trả lời, phần sau theo dạng hỏi–đáp ngắn. Tốc độ quốc lộ ghi đủ hai mức (70 km/h đường đôi, 60 km/h đường hai chiều) theo LB-095. Phải nói thật: Nguyễn Hà không cho thuê xe côn tay, phân khối lớn; đi ngoài Hà Nội tính giá ngày và chỉ cho thuê từ 48 giờ; cọc tiền thì không giữ giấy tờ gốc (business-facts). Không gán dung tích cho xe của cửa hàng. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-00695 (có phải đổi A2 sang A) và NH-00945 (shipper, xe máy điện): bài này cho người thuê xe chạy đường dài, gồm hạng bằng + tốc độ + cao tốc + phạt nguội xe thuê.",
+   "nearest_existing": [
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+    "/thue-xe/thue-xe-may-ha-noi-di-tinh/",
+    "/du-lich/vanh-dai-3-tren-cao-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thue-xe-tu-lai-so-sanh-thay-doi-moi-khi-di-qua-cac-nut-giao-trong-diem-co-camera-giam-sat/",
+   "id": "NH-00695",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "bằng a2 có phải đổi sang bằng a không",
+   "secondary_keywords": [
+    "bằng a2 cũ còn dùng được không",
+    "bằng a2 và bằng a khác gì",
+    "bằng a1 cũ đổi sang hạng a hạn chế",
+    "bằng a2 tích hợp vneid"
+   ],
+   "intent": "Người có bằng A2 cũ, hay thuê xe tự lái, hỏi có bắt buộc đổi sang hạng A không; so sánh phạm vi A2 cũ, hạng A mới và A1 cũ sau khi đổi (hạng A có điều kiện hạn chế); giấy phép cũ được kiểm tra qua dữ liệu, VNeID và phạt nguội ở nút giao có camera xử lý ra sao.",
+   "title": "Bằng A2 có phải đổi sang bằng A? So sánh trước và sau 2025",
+   "excerpt": "Bằng A2 cấp trước 2025 vẫn dùng, không bắt buộc đổi. Khi đổi sẽ sang hạng A không ghi hạn chế, khác bằng A1 cũ. So sánh A2 cũ và hạng A mới.",
+   "h2": [
+    "Bằng A2 có phải đổi sang bằng A không: không bắt buộc",
+    "So sánh A2 cũ, hạng A mới và A1 cũ sau khi đổi",
+    "Khi nào nên chủ động đổi giấy phép",
+    "Giấy phép cũ được kiểm tra qua dữ liệu và VNeID",
+    "Đi xe thuê qua nút giao có camera: phạt nguội gửi về đâu",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Bằng A2 cấp năm 2010 có bắt buộc đổi sang thẻ mới không?",
+    "Đổi bằng A2 sang hạng A có phải thi lại không?",
+    "Bằng A1 cũ đổi sang hạng A có lái được xe 175 cm³ không?",
+    "Bị phạt nguội khi đi xe thuê thì chủ xe có phải cung cấp người lái không?"
+   ],
+   "fact_ids": [
+    "LA-030",
+    "LA-032",
+    "LA-034",
+    "LA-033",
+    "LA-110",
+    "LA-028",
+    "LA-093",
+    "LA-095",
+    "LA-027",
+    "LA-014",
+    "LA-005",
+    "LA-044",
+    "LA-057",
+    "LA-058",
+    "LA-148"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/doi-bang-lai-xe-may/",
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/",
+     "/luat-giao-thong/bang-lai-xe-may-co-thoi-han-khong/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc so sánh thay đổi mới: bảng 4 dòng (A1 cũ chưa đổi, A1 cũ sau khi đổi, A2 cũ chưa đổi, A2 cũ sau khi đổi / hạng A mới) với phạm vi xe theo LA-031–LA-034, LA-110. Câu \"không phải thi lại khi đổi\" chỉ diễn đạt theo LA-027 (đổi, cấp lại là thủ tục khác với sát hạch). Camera: nêu cơ chế thông báo và nghĩa vụ hợp tác xác định người lái (LA-057, LA-058, LA-148), không nêu vị trí camera cụ thể. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-03195 (cách đổi online, tích hợp với bằng ô tô): bài này trả lời \"có phải đổi không\" và so sánh phạm vi. Khác NH-00445 (thi A2 năm 2026).",
+   "nearest_existing": [
+    "/luat-giao-thong/doi-bang-lai-xe-may/",
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+    "/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thuong-xuyen-di-cong-tac-tinh-thu-tuc-va-cac-buoc-chuan-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "id": "NH-03195",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "đổi bằng a2 sang bằng a online",
+   "secondary_keywords": [
+    "tích hợp bằng xe máy và ô tô",
+    "đổi bằng lái trên cổng dịch vụ công",
+    "hồ sơ đổi giấy phép lái xe 2026",
+    "đổi bằng lái mất bao lâu"
+   ],
+   "intent": "Người hay đi công tác có bằng A2 cũ và bằng ô tô muốn đổi sang hạng A và tích hợp về một số giấy phép: trường hợp được đổi, nộp online trên dvc4.gplx.gov.vn, thời gian trả kết quả, điểm giấy phép giữ nguyên và cách trừ điểm sau khi tích hợp.",
+   "title": "Đổi bằng A2 sang bằng A online, tích hợp với bằng ô tô",
+   "excerpt": "Người có bằng A2 cũ và bằng ô tô có thể đổi để tích hợp về một số giấy phép, nộp online, nhận kết quả trong 2,5 ngày làm việc; điểm hiện có giữ nguyên.",
+   "h2": [
+    "Đổi bằng A2 sang bằng A online: ai nên làm và nhận được gì",
+    "Trường hợp được đổi: hỏng, đổi trước hạn, tích hợp với hạng ô tô",
+    "Các bước nộp hồ sơ trên Cổng dịch vụ công",
+    "Sau khi đổi: một số giấy phép, điểm giữ nguyên, trừ điểm tách bạch",
+    "Xuất trình giấy phép trên VNeID khi bị kiểm tra trong khu đô thị",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Đổi bằng A2 online mất bao lâu?",
+    "Sau khi tích hợp, lỗi khi đi xe máy có bị trừ điểm phần bằng ô tô không?",
+    "Đổi xong giấy phép còn ghi hạng A2 không?",
+    "Đang có vi phạm chưa nộp phạt có đổi bằng được không?"
+   ],
+   "fact_ids": [
+    "LA-095",
+    "LA-091",
+    "LA-062",
+    "LB-118",
+    "LA-014",
+    "LA-034",
+    "LA-136",
+    "LA-117",
+    "LA-101",
+    "LA-029",
+    "LA-019",
+    "LA-134",
+    "LA-147",
+    "LA-093"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/doi-bang-lai-xe-may/",
+     "/luat-giao-thong/tru-diem-bang-lai-xe-may/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/",
+     "/thue-xe/thue-xe-may-ha-noi-di-tinh/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc thủ tục và các bước chuẩn: các bước trên dvc4.gplx.gov.vn theo hướng dẫn Bộ Công an (LA-136), thời gian 2,5 ngày (LA-117). Không ghi tên mẫu đơn, lệ phí (chưa có nguồn). Người đi công tác: một số giấy phép dùng chung cho mô tô và ô tô (LA-091), lỗi khi đi mô tô chỉ trừ điểm phần không thời hạn (LA-062, LB-118). Bối cảnh ngõ hẻm, khu đô thị đông đúc: bị kiểm tra trong khu dân cư thì xuất trình trên VNeID (LA-019, LA-147).",
+   "differentiation": "Khác NH-00695 (có bắt buộc đổi không, so sánh phạm vi) và NH-01195 (mất, hỏng bằng giữa chuyến): bài này là hướng dẫn đổi online có chủ đích, trọng tâm tích hợp với bằng ô tô.",
+   "nearest_existing": [
+    "/luat-giao-thong/doi-bang-lai-xe-may/",
+    "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/",
+    "/luat-giao-thong/tru-diem-bang-lai-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thuong-xuyen-di-cong-tac-tinh-tinh-huong-va-cach-phong-tranh-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "id": "NH-01195",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "mất bằng a2 có được cấp lại không",
+   "secondary_keywords": [
+    "bằng a2 bị ướt hỏng đổi được không",
+    "cấp lại bằng a2 bị mất",
+    "mất bằng lái xuất trình vneid",
+    "mất bằng lái khi đi công tác"
+   ],
+   "intent": "Người đi công tác tỉnh làm mất hoặc làm ướt, rách bằng A2 cũ giữa chuyến mưa bão hỏi: có được cấp lại không và cấp lại ghi hạng gì, đang lái xe mà không có bằng giấy thì xuất trình qua VNeID ra sao, cách làm thủ tục khi đang ở tỉnh và cách phòng tránh.",
+   "title": "Mất bằng A2 khi đi công tác: cấp lại thành hạng A thế nào",
+   "excerpt": "Mất hoặc làm hỏng bằng A2 khi đi công tác vẫn được cấp lại, chuyển sang hạng A. Giấy phép trên VNeID có thể xuất trình thay bản giấy; cách giữ giấy tờ mùa mưa.",
+   "h2": [
+    "Mất bằng A2 vẫn được cấp lại, giấy mới ghi hạng A",
+    "Tình huống 1: bị kiểm tra khi bằng giấy đã mất",
+    "Tình huống 2: bằng bị ướt, rách, mờ chữ sau mưa bão",
+    "Thủ tục cấp lại, đổi trực tuyến khi đang ở tỉnh",
+    "Phòng tránh: giữ giấy tờ khô và dùng giấy phép trên VNeID",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Mất bằng A2 có phải thi lại không?",
+    "Bằng giấy bị nhòe chữ có còn dùng được không?",
+    "Không mang bằng giấy nhưng có trên VNeID có bị phạt không?",
+    "Trời mưa nên giữ bằng lái và giấy tờ xe thế nào?"
+   ],
+   "fact_ids": [
+    "LA-027",
+    "LA-034",
+    "LA-095",
+    "LA-093",
+    "LA-091",
+    "LA-019",
+    "LA-061",
+    "LA-134",
+    "LA-147",
+    "LA-136",
+    "LA-029",
+    "SEED-199"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/cap-lai-bang-lai-xe-may-bi-mat/",
+     "/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/kinh-nghiem/ao-mua-di-xe-may/",
+     "/bao-duong/xe-may-di-mua-ve-can-lam-gi/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc tình huống và cách phòng tránh: mỗi tình huống gồm hiện trạng, quy định áp dụng, việc cần làm. Không nêu thời hạn cấp lại cụ thể nếu không có nguồn (chỉ có thời hạn đổi 2,5 ngày ở LA-117). Không xuất trình được giấy tờ nhưng trong hạn hẹn xuất trình được thì không bị phạt lỗi không có giấy tờ với người không kinh doanh vận tải (LA-061, SEED-199). Mẹo giữ giấy tờ khô là kinh nghiệm chung, không ghi số liệu.",
+   "differentiation": "Khác NH-03195 (đổi online có chủ đích để tích hợp) và NH-00695 (có bắt buộc đổi): bài này là tình huống mất/hỏng bằng giữa chuyến công tác mùa mưa.",
+   "nearest_existing": [
+    "/luat-giao-thong/cap-lai-bang-lai-xe-may-bi-mat/",
+    "/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/",
+    "/luat-giao-thong/doi-bang-lai-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-muc-phat-va-hinh-thuc-xu-ly-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "id": "NH-03445",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "giao xe cho người không có bằng a2 bị phạt",
+   "secondary_keywords": [
+    "cho con mượn xe phân khối lớn bị phạt",
+    "con 18 tuổi chỉ có bằng a1 đi xe 150cc",
+    "chủ xe giao xe cho người không đủ điều kiện",
+    "16 tuổi lái xe mô tô bị phạt"
+   ],
+   "intent": "Phụ huynh cho con (đủ 18 tuổi nhưng mới có A1, hoặc chưa đủ tuổi) đi xe trên 125 cm³ ra các cửa ngõ thủ đô: con bị phạt bao nhiêu, bố mẹ là chủ xe bị phạt gì vì giao xe cho người không có giấy phép phù hợp, và cách kiểm tra hạng bằng trước khi giao xe.",
+   "title": "Giao xe cho con không có bằng A2 (hạng A): bố mẹ bị phạt gì?",
+   "excerpt": "Con chỉ có bằng A1 mà đi xe trên 125 cm³ bị phạt 6–8 triệu đồng; bố mẹ là chủ xe giao xe cho người không có giấy phép phù hợp bị phạt 8–10 triệu đồng.",
+   "h2": [
+    "Giao xe cho con không có bằng A2 (hạng A): cả con và bố mẹ bị phạt",
+    "Con đủ 18 tuổi nhưng chỉ có bằng A1 cấp từ 2025",
+    "Con dưới 18 tuổi điều khiển xe mô tô",
+    "Kiểm tra hạng bằng và dung tích xe trước khi giao chìa khóa",
+    "Chạy ra cửa ngõ thủ đô bằng xe lớn: lỗi hay gặp",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Con 17 tuổi đi xe trên 125 cm³ bị xử lý thế nào?",
+    "Con có bằng A1 cấp năm 2024 thì đi xe 150 cm³ được không?",
+    "Bố mẹ là chủ xe có bị phạt khi không đi cùng con không?",
+    "Con chưa có hạng A thì nên đi xe nào?"
+   ],
+   "fact_ids": [
+    "LA-055",
+    "LA-051",
+    "LB-125",
+    "LA-016",
+    "LA-068",
+    "LB-126",
+    "LA-049",
+    "LA-003",
+    "LA-002",
+    "LA-031",
+    "LA-056",
+    "LB-095",
+    "LB-023"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/giao-xe-may-cho-nguoi-chua-du-tuoi/",
+     "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-50cc/ha-noi/",
+    "related": [
+     "/luat-giao-thong/bao-nhieu-tuoi-duoc-di-xe-may/",
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc mức phạt và hình thức xử lý: hai phía (người lái và chủ xe), có phạt cảnh cáo cho 14–16 tuổi (LA-049), khung 16–18 tuổi đã được NĐ 238/2026 sửa từ 15/8/2026 (LA-068, LB-126). Không lặp bảng của trụ cột V2 giao xe cho người chưa đủ tuổi. Bối cảnh cửa ngõ thủ đô: tốc độ mô tô ngoài khu đông dân cư, cấm vào cao tốc. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác trụ cột V2 /giao-xe-may-cho-nguoi-chua-du-tuoi/ (trọng tâm tuổi): bài này trọng tâm sai hạng bằng với xe trên 125 cm³. Khác NH-01445 (bao nhiêu tuổi được thi, chuẩn bị hồ sơ) và NH-01945 (sinh viên tự đi xe 150 cm³).",
+   "nearest_existing": [
+    "/luat-giao-thong/giao-xe-may-cho-nguoi-chua-du-tuoi/",
+    "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/",
+    "/luat-giao-thong/bao-nhieu-tuoi-duoc-di-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-thu-tuc-va-cac-buoc-chuan-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "id": "NH-01445",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "bao nhiêu tuổi được thi bằng a2",
+   "secondary_keywords": [
+    "18 tuổi thi bằng a",
+    "con 16 tuổi đi xe gì",
+    "đăng ký thi bằng lái cho con",
+    "giấy khám sức khỏe thi bằng lái"
+   ],
+   "intent": "Phụ huynh hỏi con bao nhiêu tuổi được thi bằng A2 (nay là hạng A), con 16–17 tuổi được đi loại xe nào trong ngõ, khu đô thị, và các bước chuẩn bị hồ sơ khi con đủ 18 tuổi.",
+   "title": "Bao nhiêu tuổi được thi bằng A2? Hạng A và thủ tục cho con",
+   "excerpt": "Đủ 18 tuổi mới được thi hạng A (thay bằng A2). Từ 16 tuổi con chỉ được đi xe gắn máy. Các bước cha mẹ chuẩn bị: học lái, khám sức khỏe, nộp hồ sơ online.",
+   "h2": [
+    "Bao nhiêu tuổi được thi bằng A2: đủ 18 tuổi, nay thi hạng A",
+    "Con 16–17 tuổi: chỉ đi xe gắn máy, không cần bằng",
+    "Khi con đủ 18 tuổi: các bước chuẩn bị hồ sơ",
+    "Tập lái trong ngõ hẹp, khu đô thị đông người",
+    "Trách nhiệm của cha mẹ khi giao xe cho con",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Con 16 tuổi được đi loại xe máy điện nào?",
+    "Con dưới 16 tuổi đi xe máy bị xử lý thế nào?",
+    "Giấy khám sức khỏe thi bằng lái nộp dạng nào?",
+    "Thi đạt rồi bao lâu con có giấy phép?"
+   ],
+   "fact_ids": [
+    "LA-016",
+    "LA-015",
+    "LA-020",
+    "LA-022",
+    "LB-129",
+    "LB-096",
+    "LA-049",
+    "LA-068",
+    "LA-017",
+    "LA-088",
+    "LA-089",
+    "LA-090",
+    "LA-094",
+    "LA-003",
+    "LA-055"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/bao-nhieu-tuoi-duoc-di-xe-may/",
+     "/luat-giao-thong/thi-bang-lai-xe-may/"
+    ],
+    "money": "/thue-xe-50cc/ha-noi/",
+    "related": [
+     "/xe-may/xe-50cc-cho-hoc-sinh/",
+     "/luat-giao-thong/xe-50cc-co-can-bang-lai/"
+    ]
+   },
+   "angle_notes": "Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc thủ tục và các bước chuẩn, giọng viết cho cha mẹ. Xe gắn máy phải đủ cả hai điều kiện (vận tốc thiết kế đến 50 km/h và 50 cm³ hoặc 4 kW). Không nói con có thể học lái trước 18 tuổi (chưa có nguồn). Phần trách nhiệm cha mẹ chỉ một đoạn, link trụ cột V2 giao xe, không lặp mức phạt của NH-03445. Cửa hàng không cho người dưới 18 tuổi thuê xe (xe 50cc từ 18, xe khác từ 20). Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-03445 (mức phạt giao xe sai hạng) và trụ cột V2 /bao-nhieu-tuoi-duoc-di-xe-may/ (tuổi chung cho mọi loại xe): bài này nhắm câu \"bao nhiêu tuổi được thi bằng A2\" và lộ trình 16 → 18 tuổi.",
+   "nearest_existing": [
+    "/luat-giao-thong/bao-nhieu-tuoi-duoc-di-xe-may/",
+    "/xe-may/xe-50cc-cho-hoc-sinh/",
+    "/luat-giao-thong/thi-bang-lai-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-sinh-vien-cac-truong-dai-hoc-muc-phat-va-hinh-thuc-xu-ly-khi-tham-gia-giao-thong-vao-ban-dem/",
+   "id": "NH-01945",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "xe 150cc có cần bằng a2 không",
+   "secondary_keywords": [
+    "bằng a1 đi xe 150cc bị phạt",
+    "bằng a1 cũ đi được xe bao nhiêu phân khối",
+    "xe côn tay 150cc cần bằng gì",
+    "sinh viên đi xe ban đêm bị phạt"
+   ],
+   "intent": "Sinh viên đi xe 150 cm³ hỏi có cần bằng A2 không: nay cần hạng A nếu bằng A1 cấp từ 2025, còn A1 cấp trước 2025 vẫn lái được xe dưới 175 cm³; mức phạt khi sai hạng bị phát hiện lúc đi đêm và các lỗi ban đêm hay gặp.",
+   "title": "Xe 150cc có cần bằng A2 không? Sinh viên đi đêm bị phạt gì",
+   "excerpt": "Không còn bằng A2. Xe 150 cm³ cần hạng A, trừ bằng A1 cấp trước 2025 vẫn lái được xe dưới 175 cm³. Sai hạng bị phạt 6–8 triệu đồng; lỗi đi đêm hay gặp.",
+   "h2": [
+    "Xe 150cc có cần bằng A2 không: cần hạng A, trừ A1 cấp trước 2025",
+    "Mức phạt khi bằng A1 mới lái xe 150 cm³",
+    "Lỗi sinh viên hay mắc khi đi đêm: đèn, còi, nồng độ cồn",
+    "Mượn xe bạn: người cho mượn cũng có thể bị phạt",
+    "Chưa có hạng A thì chọn xe nào để đi học",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Bằng A1 cấp tháng 12/2024 có đi được xe 150 cm³ không?",
+    "Xe máy điện 12 kW cần bằng gì?",
+    "Cho bạn mượn xe 150 cm³ khi bạn chỉ có A1 mới, chủ xe có bị phạt không?",
+    "Bấm còi trong khu dân cư lúc 23 giờ có bị phạt không?"
+   ],
+   "fact_ids": [
+    "LA-003",
+    "LA-002",
+    "LA-031",
+    "LA-030",
+    "LA-051",
+    "LB-125",
+    "LA-055",
+    "LB-109",
+    "LB-110",
+    "LB-112",
+    "LB-083",
+    "LB-085",
+    "LA-016",
+    "LA-015"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/",
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+    ],
+    "money": "/thue-xe-50cc/ha-noi/",
+    "related": [
+     "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/",
+     "/luat-giao-thong/phat-nong-do-con-xe-may/"
+    ]
+   },
+   "angle_notes": "Bài vệ tinh của trụ cột /luat-giao-thong/bang-lai-xe-may-a1-a/ (hạng A1, A từ 2025). Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc mức phạt và hình thức xử lý: một con số chính (6–8 triệu, LA-051) và phạt chủ xe (LA-055); lỗi đèn, còi, nồng độ cồn chỉ nêu tên lỗi và link trụ cột, không chép bảng. Mốc phân biệt là ngày cấp bằng A1 (trước/sau 01/01/2025). Không nêu tên mẫu xe 150 cm³ cụ thể nếu không có nguồn. Sinh viên 18–19 tuổi: cửa hàng chỉ cho thuê xe 50cc từ 18 tuổi, xe khác từ 20 tuổi. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-00195 (du khách nước ngoài), NH-03445 (bố mẹ giao xe cho con) và NH-02695 (thuê xe chạy quốc lộ): bài này là câu hỏi dung tích cụ thể 150 cm³ của sinh viên Việt Nam.",
+   "nearest_existing": [
+    "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/",
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+    "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-tai-xe-giao-hang-cong-nghe-giai-dap-thac-mac-pho-bien-tren-cac-truc-duong-vanh-dai-va-quoc-lo/",
+   "id": "NH-00945",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "chạy giao hàng có cần bằng a2 không",
+   "secondary_keywords": [
+    "xe máy điện giao hàng cần bằng gì",
+    "shipper xe điện trên 4 kw cần bằng a1",
+    "giao hàng không mang bằng lái bị phạt",
+    "xe gắn máy chạy giao hàng"
+   ],
+   "intent": "Tài xế giao hàng công nghệ hỏi có cần bằng A2 (hạng A) không: tùy xe (xe gắn máy không cần bằng, đến 125 cm³ hoặc 11 kW cần A1, trên mức đó cần A); cách đọc công suất, vận tốc thiết kế xe máy điện; lỗi giấy tờ khi chở hàng và quy tắc khi chạy vành đai, quốc lộ.",
+   "title": "Chạy giao hàng có cần bằng A2 không? Hạng bằng theo loại xe",
+   "excerpt": "Giao hàng bằng xe đến 125 cm³ hoặc xe điện đến 11 kW chỉ cần bằng A1; trên mức đó cần hạng A (thay A2). Xe gắn máy không cần bằng. Lỗi giấy tờ hay gặp.",
+   "h2": [
+    "Chạy giao hàng có cần bằng A2: chỉ khi xe trên 125 cm³ hoặc trên 11 kW",
+    "Bảng chọn bằng theo xe: xe gắn máy, A1, hạng A",
+    "Xe máy điện giao hàng: đọc công suất và vận tốc thiết kế",
+    "Không mang bằng khi đang chở hàng: mức phạt riêng",
+    "Chạy vành đai, quốc lộ: làn đường, tốc độ, đường cấm",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Xe máy điện 3 kW giao hàng có cần bằng không?",
+    "Quên bằng ở nhà khi đang giao hàng bị phạt bao nhiêu?",
+    "Xe máy có được đi vào đường cao tốc không?",
+    "Shipper 17 tuổi được chạy loại xe nào?"
+   ],
+   "fact_ids": [
+    "LA-002",
+    "LA-003",
+    "LA-015",
+    "LA-020",
+    "LA-021",
+    "LA-022",
+    "LB-129",
+    "LA-052",
+    "LA-061",
+    "LA-018",
+    "LA-050",
+    "LA-051",
+    "LB-023",
+    "LB-095",
+    "LB-094",
+    "LB-054"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+     "/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/"
+    ],
+    "money": "/thue-xe-dien/ha-noi/",
+    "related": [
+     "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+     "/kinh-nghiem/vanh-dai-2-5-ha-noi-xe-may/"
+    ]
+   },
+   "angle_notes": "Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc giải đáp thắc mắc. Câu xe máy điện 3 kW phải nêu đủ hai điều kiện: chỉ là xe gắn máy nếu vận tốc thiết kế không quá 50 km/h (LA-022); vượt 50 km/h là xe mô tô, cần A1. Mức phạt không mang bằng của người kinh doanh vận tải (LA-052) áp dụng cho \"kinh doanh vận tải\"; không khẳng định mọi shipper đều thuộc diện này. Không phân loại xe Tailg của cửa hàng (không có thông số trong thư viện pháp lý); hướng người đọc xem giấy đăng ký, tài liệu hãng. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Khác NH-02945 (trừ điểm bằng A2 của tài xế giao hàng khi chạy mưa) và NH-02695 (thuê mô tô chạy quốc lộ): bài này là chọn hạng bằng theo xe dùng để giao hàng, gồm xe máy điện.",
+   "nearest_existing": [
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/",
+    "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+    "/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-tai-xe-giao-hang-cong-nghe-tinh-huong-va-cach-phong-tranh-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "id": "NH-02945",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "bằng a2 bị trừ hết điểm",
+   "secondary_keywords": [
+    "bằng a2 có bị trừ điểm không",
+    "trừ điểm bằng lái khi giao hàng",
+    "dùng điện thoại khi lái xe trừ 4 điểm",
+    "phục hồi điểm giấy phép lái xe"
+   ],
+   "intent": "Tài xế giao hàng có bằng A2 cũ hỏi bằng cũ có bị trừ điểm không, các lỗi dễ mắc khi chạy mưa bão (xem đơn trên điện thoại, vượt đèn, chuyển làn) bị trừ bao nhiêu, hết 12 điểm thì sao, phục hồi điểm thế nào và cách phòng tránh.",
+   "title": "Bằng A2 bị trừ hết điểm: tình huống tài xế giao hàng mùa mưa",
+   "excerpt": "Bằng A2 cũ cũng có 12 điểm. Xem điện thoại hay vượt đèn khi chạy mưa bị trừ 4 điểm; hết điểm thì không được lái theo bằng đó. Cách tránh mất điểm khi giao hàng.",
+   "h2": [
+    "Bằng A2 bị trừ hết điểm thì không được lái theo bằng đó",
+    "Tình huống mưa bão: lỗi nào bị trừ điểm, lỗi nào không",
+    "Hết 12 điểm: chờ ít nhất 6 tháng để kiểm tra kiến thức",
+    "Phục hồi đủ 12 điểm sau 12 tháng không bị trừ thêm",
+    "Giao hàng trong mưa: điện thoại, đèn, khoảng cách an toàn",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Bị trừ điểm có được thông báo không?",
+    "Xem điểm bằng A2 ở đâu?",
+    "Hết điểm mà vẫn lái xe trên 125 cm³ bị phạt gì?",
+    "Vi phạm nhiều lỗi cùng lúc bị trừ bao nhiêu điểm?"
+   ],
+   "fact_ids": [
+    "LA-011",
+    "LA-012",
+    "LA-013",
+    "LA-014",
+    "LA-141",
+    "LB-015",
+    "LB-090",
+    "LB-013",
+    "LB-117",
+    "LB-114",
+    "LB-115",
+    "LB-121",
+    "LB-109",
+    "LB-051",
+    "LB-125",
+    "SEED-17"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/tru-diem-bang-lai-xe-may/",
+     "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/kinh-nghiem/gia-do-dien-thoai-xe-may/",
+     "/kinh-nghiem/ao-mua-di-xe-may/"
+    ]
+   },
+   "angle_notes": "Hạng A2 không còn từ 01/01/2025 (LA-003, LA-035): không trình bày A2 như hạng hiện hành; luôn viết \"hạng A (thay A2)\" hoặc \"bằng A2 cấp trước 2025\". Không ghi lệ phí, phí sát hạch (gap legal_a). Góc tình huống và cách phòng tránh: 3–4 tình huống mưa bão của người giao hàng, mỗi tình huống ghi lỗi, có trừ điểm hay không (không bật đèn khi mưa và chuyển làn sai không bị trừ điểm; dùng điện thoại, vượt đèn bị trừ 4 điểm). Không chép bảng khoản 13 Điều 7 của trụ cột. SEED-17 cho nghĩa vụ giữ khoảng cách lớn hơn khi trời mưa.",
+   "differentiation": "Khác trụ cột /tru-diem-bang-lai-xe-may/ (cơ chế chung) và NH-00945 (hạng bằng theo xe giao hàng): bài này là người giữ bằng A2 cũ + tình huống mưa bão làm mất điểm.",
+   "nearest_existing": [
+    "/luat-giao-thong/tru-diem-bang-lai-xe-may/",
+    "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/",
+    "/kinh-nghiem/gia-do-dien-thoai-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/bang-lai-quoc-te-idp-tai-xe-giao-hang-cong-nghe-muc-phat-va-hinh-thuc-xu-ly-khi-tham-gia-giao-thong-vao-ban-dem/",
+   "id": "NH-00635",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "bằng lái quốc tế idp hết hạn bị phạt",
+   "secondary_keywords": [
+    "idp có thời hạn bao lâu",
+    "đổi idp sang bằng lái việt nam",
+    "idp do việt nam cấp dùng trong nước",
+    "người nước ngoài chạy xe máy bằng idp"
+   ],
+   "intent": "Người nước ngoài cư trú tại Việt Nam chạy giao hàng bằng IDP hỏi IDP hết hạn hoặc không mang bằng quốc gia thì bị phạt gì khi bị kiểm tra ban đêm, vì sao không đổi IDP sang bằng Việt Nam được và nên đổi từ bằng quốc gia.",
+   "title": "Bằng lái quốc tế IDP hết hạn khi chạy giao hàng: bị phạt gì?",
+   "excerpt": "IDP hết hạn coi như không có giấy phép hợp lệ: xe đến 125 cm³ bị phạt 2–4 triệu đồng. IDP không đổi sang bằng Việt Nam được; người cư trú nên đổi từ bằng gốc.",
+   "h2": [
+    "Bằng lái quốc tế IDP hết hạn bị phạt như không có giấy phép",
+    "Thời hạn IDP và điều kiện để IDP có giá trị ở Việt Nam",
+    "Mức phạt và hình thức xử lý khi bị kiểm tra ban đêm",
+    "Không đổi IDP sang bằng Việt Nam: đổi từ bằng quốc gia",
+    "IDP do Việt Nam cấp không dùng được trong nước",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "IDP còn hạn nhưng bằng quốc gia đã hết hạn thì sao?",
+    "Người nước ngoài có thẻ tạm trú có được cấp IDP tại Việt Nam không?",
+    "Bị tước IDP thì bao lâu được dùng lại?",
+    "Chạy giao hàng ban đêm phải bật đèn từ mấy giờ?"
+   ],
+   "fact_ids": [
+    "LA-006",
+    "LA-008",
+    "LA-009",
+    "LA-007",
+    "LA-050",
+    "LB-124",
+    "LA-010",
+    "LA-070",
+    "LA-092",
+    "LA-096",
+    "LA-098",
+    "LA-103",
+    "LA-105",
+    "LA-052",
+    "LB-107"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/nguoi-nuoc-ngoai-lai-xe-may-o-viet-nam/",
+     "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/",
+     "/luat-giao-thong/doi-bang-lai-xe-may/"
+    ]
+   },
+   "angle_notes": "Góc mức phạt và hình thức xử lý: IDP hết hạn là giấy phép không còn hiệu lực (LA-007, LA-008) nên áp khung không có giấy phép (LA-050, LB-124); thêm hình thức tước IDP (LA-010). Không bàn giấy phép lao động, điều kiện làm shipper (không có nguồn). Gap: danh sách nước Công ước 1968 chưa xác minh, không liệt kê. Ban đêm: chỉ một câu về đèn (LB-107) và link trụ cột đèn. Cửa hàng: chỉ nêu điều có trong business-facts (xe số, xe ga, xe 50cc, xe máy điện Tailg; không cho thuê côn tay, phân khối lớn; xe 50cc nhận khách từ 18 tuổi, xe khác từ 20 tuổi có giấy phép phù hợp). ",
+   "differentiation": "Các bài V1 cùng cụm bang-lai-quoc-te-idp (13 URL, chưa kiểm chứng) dùng từ khóa chung; trụ cột V2 người nước ngoài nói về IDP nói chung. Bài này giữ long-tail \"IDP hết hạn\" của người cư trú làm giao hàng. Khác NH-00195 (du khách lái xe trên 125 cm³) và NH-02195 (thi bằng).",
+   "nearest_existing": [
+    "/luat-giao-thong/nguoi-nuoc-ngoai-lai-xe-may-o-viet-nam/",
+    "/luat-giao-thong/khong-co-bang-lai-xe-may-phat-bao-nhieu/",
+    "/thue-xe/thue-xe-may-ha-noi-cho-khach-nuoc-ngoai/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/bao-hiem-bat-buoc-tnds-nguoi-moi-lay-bang-lai-tinh-huong-va-cach-phong-tranh-vao-khung-gio-cao-diem-sang-va-chieu-toi/",
+   "id": "NH-01045",
+   "batch": "OD1-B01",
+   "feasible": false,
+   "blocked_reason": "Chủ đề bảo hiểm TNDS bắt buộc (URL bao-hiem-bat-buoc-tnds-...). config/business-facts.json policies.insurance: \"không nêu về bảo hiểm trong bài viết\" (chủ cửa hàng 17/10/2026); scripts/seo_qa.py BANNED coi mọi chữ \"bảo hiểm\" (trừ mũ/nón bảo hiểm) là lỗi critical; legal_b cố ý không trích quy định TNDS (khoản 2 Điều 18 NĐ 168, điểm d khoản 1 Điều 56 Luật 36/2024). Không có ý định tìm kiếm thật nào trả lời đúng URL mà không nhắc bảo hiểm. Chờ chủ site quyết định (OD-6). Giữ nguyên URL, không noindex, không xóa, không sửa shard.",
+   "primary_keyword": "",
+   "secondary_keywords": [],
+   "intent": "",
+   "title": "",
+   "excerpt": "",
+   "h2": [],
+   "faq": [],
+   "fact_ids": [],
+   "internal_links": {
+    "pillar": [],
+    "money": "",
+    "related": []
+   },
+   "angle_notes": "Lưu ý cho OD-6: site đang có trang viết tay /luat-giao-thong/bao-hiem-xe-may-bat-buoc/ và V2 /luat-giao-thong/bao-hiem-xe-may-tu-nguyen-co-can-mua-khong/ cùng chủ đề, trái với quy tắc business-facts; nếu chủ site cho phép viết, bài này nên là vệ tinh \"người mới lấy bằng, giờ cao điểm\" của trang viết tay đó.",
+   "differentiation": "",
+   "nearest_existing": [
+    "/luat-giao-thong/bao-hiem-xe-may-bat-buoc/",
+    "/luat-giao-thong/bao-hiem-xe-may-tu-nguyen-co-can-mua-khong/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/bat-den-chieu-sang-ban-dem-sinh-vien-cac-truong-dai-hoc-thu-tuc-va-cac-buoc-chuan-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "id": "NH-03155",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "đi xe máy qua cầu ban đêm bật đèn gì",
+   "secondary_keywords": [
+    "đèn pha hay đèn cốt khi qua cầu",
+    "khung giờ bật đèn xe máy",
+    "dùng đèn chiếu xa sai bị phạt",
+    "kiểm tra đèn xe máy trước khi đi"
+   ],
+   "intent": "Sinh viên đi học, làm thêm về muộn qua các cầu sông Hồng hỏi phải bật đèn gì, từ mấy giờ, khi nào chuyển sang đèn chiếu gần, kèm các bước kiểm tra đèn và những việc không được làm trên cầu ban đêm.",
+   "title": "Bật đèn chiếu sáng ban đêm khi qua cầu sông Hồng: các bước đúng",
+   "excerpt": "Từ 18 giờ đến 6 giờ sáng phải bật đèn; trên cầu có chiếu sáng hoặc gặp xe ngược chiều dùng đèn chiếu gần. Các bước kiểm tra và dùng đèn khi qua cầu sông Hồng.",
+   "h2": [
+    "Đi xe máy qua cầu ban đêm bật đèn gì: đèn chiếu gần là chính",
+    "Bước 1: kiểm tra đèn trước khi rời phòng trọ",
+    "Bước 2–3: bật đèn từ 18 giờ, chuyển chiếu gần khi lên cầu",
+    "Bước 4–5: giữ làn, không dừng đỗ hay quay đầu trên cầu",
+    "Lỗi đèn bị xử lý thế nào: tóm tắt và nơi tra chi tiết",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Mấy giờ phải bật đèn xe máy?",
+    "Cầu có đèn đường sáng thì có cần bật đèn xe không?",
+    "Xe hỏng đèn pha nhưng còn đèn cốt có bị phạt không?",
+    "Đèn xe bị hỏng khi đang ở giữa cầu thì xử lý thế nào?"
+   ],
+   "fact_ids": [
+    "LB-107",
+    "LB-108",
+    "LB-109",
+    "LB-110",
+    "LB-111",
+    "LB-060",
+    "LB-068",
+    "LB-070",
+    "SEED-32",
+    "SEED-152",
+    "SEED-153",
+    "SEED-157",
+    "SEED-266"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/",
+     "/kinh-nghiem/di-xe-may-ban-dem-an-toan/"
+    ],
+    "money": "/thue-xe-may/long-bien/",
+    "related": [
+     "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/",
+     "/du-lich/cau-vinh-tuy-xe-may/",
+     "/bao-duong/den-xe-may-bi-mo-nhap-nhay/"
+    ]
+   },
+   "angle_notes": "Góc thủ tục và các bước chuẩn: 5 bước đánh số khớp H2. Trụ cột đã có mục \"đèn pha và đèn cốt\": bài này không giảng lại lý thuyết, chỉ áp vào lúc lên cầu, xuống cầu, gặp xe ngược chiều. Mức phạt chỉ tóm tắt và link trụ cột. Thông tin làn, lối lên xuống của từng cầu chỉ lấy từ các trang V2 du-lich có nguồn, không tự suy. Không viết cầu nào cấm xe máy nếu không có nguồn. Sinh viên: về muộn sau giờ học, làm thêm; cửa hàng ở Long Biên, gần các cầu (business-facts).",
+   "differentiation": "Các bài V1 cùng cụm bat-den-chieu-sang-ban-dem (14 URL) dùng từ khóa chung; trụ cột /khong-bat-den-xe-may-phat-bao-nhieu/ giữ từ khóa mức phạt, V2 /di-xe-may-ban-dem-an-toan/ giữ an toàn ban đêm. Bài này giữ long-tail \"qua cầu ban đêm bật đèn gì\" dạng quy trình.",
+   "nearest_existing": [
+    "/luat-giao-thong/khong-bat-den-xe-may-phat-bao-nhieu/",
+    "/kinh-nghiem/di-xe-may-ban-dem-an-toan/",
+    "/du-lich/di-xe-may-qua-cau-nhat-tan-cau-thang-long/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/cho-hang-cong-kenh-tai-xe-giao-hang-cong-nghe-giai-dap-thac-mac-pho-bien-vao-khung-gio-cao-diem-sang-va-chieu-toi/",
+   "id": "NH-01055",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "kích thước thùng giao hàng xe máy đúng luật",
+   "secondary_keywords": [
+    "thùng hàng xe máy rộng bao nhiêu",
+    "xếp hàng trên xe máy cao bao nhiêu",
+    "chở hàng che biển số bị phạt",
+    "shipper chở hàng cồng kềnh giờ cao điểm"
+   ],
+   "intent": "Shipper hỏi thùng hàng gắn sau xe được rộng, dài, cao tối đa bao nhiêu theo luật, khi nào bị coi là mang vác, chở vật cồng kềnh, hàng che đèn, biển số hoặc chằng buộc kém bị phạt gì khi chạy giờ cao điểm.",
+   "title": "Chở hàng cồng kềnh: kích thước thùng giao hàng xe máy đúng luật",
+   "excerpt": "Hàng trên xe máy không vượt 0,3 m mỗi bên giá đèo hàng, 0,5 m phía sau và cao không quá 2 m tính từ mặt đường. Giải đáp lỗi thùng hàng shipper hay gặp.",
+   "h2": [
+    "Kích thước thùng giao hàng xe máy đúng luật: 0,3 m, 0,5 m và 2 m",
+    "Thùng hàng che đèn, biển số và hàng rơi xuống đường",
+    "Khi nào bị coi là mang vác, chở vật cồng kềnh",
+    "Giờ cao điểm: dàn hàng, đi lên vỉa hè và dừng giao hàng",
+    "Chuẩn bị xe trước ca: giá đèo hàng, đèn, dây chằng",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Thùng giao hàng rộng hơn giá đèo hàng có bị phạt không?",
+    "Hàng che biển số xe thì bị phạt bao nhiêu?",
+    "Hàng dài vượt phía sau xe cần báo hiệu gì vào ban đêm?",
+    "Người ngồi sau ôm thùng hàng lớn có bị phạt không?"
+   ],
+   "fact_ids": [
+    "LB-075",
+    "LB-076",
+    "LB-077",
+    "LB-078",
+    "LB-079",
+    "LB-080",
+    "LB-081",
+    "LB-047",
+    "LB-073",
+    "LB-065",
+    "LB-016",
+    "SEED-260",
+    "SEED-277"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/cho-hang-cong-kenh-xe-may-phat-bao-nhieu/",
+     "/luat-giao-thong/di-xe-may-dan-hang-ngang-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+     "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/"
+    ]
+   },
+   "angle_notes": "Góc giải đáp thắc mắc của shipper. Trụ cột đã có giới hạn xếp hàng: bài này áp vào thùng giao hàng (đo từ giá đèo hàng, tính chiều cao từ mặt đường) và các lỗi đi kèm khi chạy giờ cao điểm; không chép lại bảng lỗi của trụ cột. Không ghi kích thước thùng thương mại cụ thể (không có nguồn).",
+   "differentiation": "Các bài V1 cùng cụm cho-hang-cong-kenh (13 URL) dùng từ khóa chung; trụ cột giữ \"chở hàng cồng kềnh phạt bao nhiêu\". Bài này giữ long-tail \"kích thước thùng giao hàng\". Khác NH-01845 (chở người).",
+   "nearest_existing": [
+    "/luat-giao-thong/cho-hang-cong-kenh-xe-may-phat-bao-nhieu/",
+    "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/cho-nguoi-qua-quy-dinh-tai-xe-giao-hang-cong-nghe-thu-tuc-va-cac-buoc-chuan-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "id": "NH-01845",
+   "batch": "OD1-B01",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "xe ôm chở 2 người có bị phạt không",
+   "secondary_keywords": [
+    "xe máy được chở mấy người",
+    "chở thêm trẻ em dưới 12 tuổi",
+    "khách không đội mũ bảo hiểm tài xế bị phạt",
+    "đón trả khách trên cầu"
+   ],
+   "intent": "Tài xế công nghệ (giao hàng kiêm chở khách) hỏi xe máy được chở mấy người, trường hợp được chở tối đa hai người, ai bị phạt khi khách không đội mũ hoặc che ô, và quy trình đón, chở, trả khách đúng luật khi qua cầu sông Hồng.",
+   "title": "Chở người quá quy định: xe ôm công nghệ chở 2 người bị phạt?",
+   "excerpt": "Xe máy chỉ chở một người, được chở tối đa hai khi có trẻ dưới 12 tuổi, người bệnh, người già yếu. Chở 2 người sai quy định bị phạt 400.000–600.000 đồng.",
+   "h2": [
+    "Xe ôm chở 2 người có bị phạt không: có, trừ vài trường hợp",
+    "Trường hợp được chở tối đa hai người",
+    "Các bước đón khách đúng luật: mũ, quai, chỗ ngồi",
+    "Qua cầu sông Hồng: không dừng đón trả khách trên cầu",
+    "Khách ngồi sau mang thùng hàng, che ô",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Chở khách và một em bé 5 tuổi có bị phạt không?",
+    "Khách không chịu đội mũ thì tài xế hay khách bị phạt?",
+    "Chở 3 người bị trừ mấy điểm?",
+    "Khách ngồi sau che ô có bị phạt không?"
+   ],
+   "fact_ids": [
+    "LB-055",
+    "LB-056",
+    "LB-057",
+    "LB-046",
+    "LB-047",
+    "LB-059",
+    "LB-058",
+    "LB-077",
+    "LB-068",
+    "LB-070",
+    "LB-066",
+    "SEED-277",
+    "SEED-278"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/cho-3-nguoi-xe-may-phat-bao-nhieu/",
+     "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/long-bien/",
+    "related": [
+     "/kinh-nghiem/cach-ngoi-sau-xe-may-an-toan/",
+     "/luat-giao-thong/che-o-du-khi-di-xe-may-co-bi-phat-khong/"
+    ]
+   },
+   "angle_notes": "Góc thủ tục và các bước chuẩn: quy trình đón khách (đưa mũ, kiểm tra cài quai, không nhận thêm người, chỗ dừng đón trả hợp lệ). Ngoại lệ trẻ em: chở thêm trẻ dưới 12 tuổi (LB-055); miễn phạt người ngồi sau không đội mũ chỉ với trẻ dưới 06 tuổi (LB-046) — hai mốc tuổi khác nhau, viết rõ. Không nêu chính sách của ứng dụng gọi xe (không có nguồn), không dùng tên thương hiệu.",
+   "differentiation": "Các bài V1 cùng cụm cho-nguoi-qua-quy-dinh (14 URL) dùng từ khóa chung; trụ cột giữ \"chở 3 người phạt bao nhiêu\". Bài này giữ long-tail \"xe ôm chở 2 người\" và quy trình đón khách. Khác NH-01055 (thùng hàng).",
+   "nearest_existing": [
+    "/luat-giao-thong/cho-3-nguoi-xe-may-phat-bao-nhieu/",
+    "/kinh-nghiem/cach-ngoi-sau-xe-may-an-toan/",
+    "/luat-giao-thong/che-o-du-khi-di-xe-may-co-bi-phat-khong/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/chuyen-huong-khong-xi-nhan-nguoi-moi-lay-bang-lai-thu-tuc-va-cac-buoc-chuan-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "id": "NH-01185",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "các bước chuyển hướng xe máy đúng luật",
+   "secondary_keywords": [
+    "bật xi nhan khi chuyển làn",
+    "rẽ không xi nhan phạt bao nhiêu",
+    "rẽ xe máy khi trời mưa",
+    "chuyển làn không giữ khoảng cách an toàn"
+   ],
+   "intent": "Người mới có bằng hỏi trình tự chuyển hướng, chuyển làn đúng luật (quan sát, giữ khoảng cách xe sau, giảm tốc, bật và giữ xi nhan, nhường đường) và cách làm khi trời mưa, tầm nhìn kém; bỏ bước nào thì bị phạt gì.",
+   "title": "Chuyển hướng không xi nhan: các bước rẽ đúng luật khi trời mưa",
+   "excerpt": "Chuyển hướng đúng luật gồm quan sát, giữ khoảng cách xe sau, giảm tốc, bật xi nhan liên tục, nhường đường. Cách làm khi trời mưa và mức phạt nếu bỏ bước.",
+   "h2": [
+    "Các bước chuyển hướng xe máy đúng luật theo Điều 15",
+    "Mưa bão, tầm nhìn hạn chế: bật đèn, báo rẽ sớm, giữ khoảng cách",
+    "Chuyển làn khác chuyển hướng: điểm mới từ 15/8/2026",
+    "Nhường người đi bộ và xe ngược chiều khi rẽ",
+    "Bỏ bước nào bị phạt bao nhiêu",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Rẽ không xi nhan có bị trừ điểm không?",
+    "Bật xi nhan rồi tắt giữa chừng có bị phạt không?",
+    "Quay đầu xe có phải bật xi nhan không?",
+    "Xi nhan hỏng thì có được ra hiệu bằng tay không?"
+   ],
+   "fact_ids": [
+    "LB-048",
+    "LB-049",
+    "LB-050",
+    "LB-051",
+    "LB-052",
+    "LB-025",
+    "LB-040",
+    "LB-041",
+    "LB-107",
+    "LB-060",
+    "LB-017",
+    "SEED-17",
+    "SEED-152",
+    "SEED-314"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/khong-xi-nhan-xe-may-phat-bao-nhieu/",
+     "/kinh-nghiem/re-trai-xe-may-o-nga-tu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/",
+    "related": [
+     "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/",
+     "/kinh-nghiem/cach-phanh-xe-may-an-toan/"
+    ]
+   },
+   "angle_notes": "Góc thủ tục và các bước chuẩn: các bước đánh số theo khoản 2 Điều 15 Luật (SEED-314, LB-048). Câu xi nhan hỏng: tín hiệu tay là quy định cho xe thô sơ không có đèn báo rẽ; xe máy thiếu đèn tín hiệu bị phạt lỗi thiết bị (LB-060) — không khuyên dùng tay thay xi nhan như quy định cho xe máy. Không ghi khoảng cách bật xi nhan bằng mét (luật không quy định).",
+   "differentiation": "Các bài V1 cùng cụm chuyen-huong-khong-xi-nhan (13 URL) dùng từ khóa chung; trụ cột giữ \"không xi nhan phạt bao nhiêu\", V2 /re-trai-xe-may-o-nga-tu/ giữ kỹ thuật rẽ trái của Honda. Bài này giữ long-tail \"các bước chuyển hướng đúng luật\" kèm điều kiện mưa.",
+   "nearest_existing": [
+    "/luat-giao-thong/khong-xi-nhan-xe-may-phat-bao-nhieu/",
+    "/kinh-nghiem/re-trai-xe-may-o-nga-tu/",
+    "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/di-vao-duong-cam-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-muc-phat-va-hinh-thuc-xu-ly-trong-cac-dip-nghi-le-va-cao-diem-tet/",
+   "id": "NH-01585",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "đi vào đường cấm dịp tết phạt bao nhiêu",
+   "secondary_keywords": [
+    "biển cấm tạm thời dịp tết",
+    "phân luồng giao thông dịp lễ",
+    "xe đạp điện đi vào đường cấm bị phạt",
+    "xe máy đi vào cao tốc bị phạt"
+   ],
+   "intent": "Phụ huynh hướng dẫn con (đi xe đạp, xe đạp điện, xe gắn máy hoặc xe máy) trong dịp lễ, Tết có biển cấm tạm thời và phân luồng: mức phạt theo từng loại xe, trừ điểm, thứ tự ưu tiên biển tạm thời, và lỗi đi vào cao tốc khi về quê.",
+   "title": "Đi vào đường cấm dịp lễ Tết: phạt bao nhiêu với xe của con?",
+   "excerpt": "Dịp lễ, Tết có biển cấm tạm thời và được ưu tiên hơn biển cố định. Xe máy đi vào đường cấm bị phạt 2–3 triệu đồng, xe đạp, xe đạp điện 300.000–400.000 đồng.",
+   "h2": [
+    "Đi vào đường cấm dịp Tết phạt bao nhiêu: tùy loại xe con đang đi",
+    "Biển tạm thời, phân luồng và quy định cấm từ 15/8/2026",
+    "Xe máy, xe gắn máy: phạt tiền và trừ điểm",
+    "Xe đạp, xe đạp điện: mức phạt riêng, không trừ điểm",
+    "Về quê ăn Tết: xe máy, xe đạp không vào cao tốc",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Biển cấm tạm thời và biển cố định khác nhau thì theo biển nào?",
+    "Đi xe đạp vào đường cao tốc bị phạt bao nhiêu?",
+    "Đi vào đường cấm mà gây tai nạn bị xử lý thế nào?",
+    "Dắt xe máy đi bộ qua đoạn có biển cấm xe máy có bị phạt không?"
+   ],
+   "fact_ids": [
+    "LB-021",
+    "LB-022",
+    "LB-027",
+    "LB-028",
+    "LB-030",
+    "LB-032",
+    "LB-020",
+    "LB-023",
+    "LB-136",
+    "LB-142",
+    "LB-132",
+    "LB-017",
+    "SEED-269",
+    "SEED-328",
+    "LA-049"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+     "/luat-giao-thong/bien-bao-cam-xe-may/"
+    ],
+    "money": "/thue-xe-50cc/ha-noi/",
+    "related": [
+     "/xe-dap/",
+     "/luat-giao-thong/bao-nhieu-tuoi-duoc-di-xe-may/"
+    ]
+   },
+   "angle_notes": "Góc mức phạt và hình thức xử lý theo loại xe của con (Điều 7 cho xe máy, xe gắn máy; Điều 9 cho xe đạp, xe đạp máy, không trừ điểm). Không lặp bảng của trụ cột xe máy. Không nêu tuyến phố, khung giờ cấm cụ thể của Hà Nội dịp Tết (gap legal_b). Không viết về trừ điểm với người lái xe gắn máy không có giấy phép (gap). Biển P.104 không cấm người dắt xe máy đi bộ (LB-030).",
+   "differentiation": "Các bài V1 cùng cụm di-vao-duong-cam (13 URL) dùng từ khóa chung; trụ cột giữ \"đi vào đường cấm xe máy phạt bao nhiêu\". Bài này giữ long-tail dịp lễ Tết + biển tạm thời + loại xe của con. Khác NH-02875 (nhận biết biển cấm ở nút giao).",
+   "nearest_existing": [
+    "/luat-giao-thong/di-vao-duong-cam-xe-may-phat-bao-nhieu/",
+    "/luat-giao-thong/bien-bao-cam-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-nguoi-thue-xe-tu-lai-tinh-huong-va-cach-phong-tranh-trong-cac-tuyen-pho-noi-do-ha-noi/",
+   "id": "NH-02215",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "dùng điện thoại xem bản đồ khi lái xe máy",
+   "secondary_keywords": [
+    "đeo tai nghe đi xe máy có bị phạt không",
+    "cầm điện thoại khi dừng đèn đỏ",
+    "giá đỡ điện thoại xe máy",
+    "dùng điện thoại khi lái xe trừ 4 điểm"
+   ],
+   "intent": "Người thuê xe tự lái ở nội đô Hà Nội dùng điện thoại để tìm đường: tình huống nào bị coi là dùng tay cầm điện thoại khi xe đang chạy, đeo tai nghe nghe chỉ đường có bị phạt không, dừng xe xem bản đồ ở đâu là đúng, trừ điểm vào bằng của ai khi đi xe thuê.",
+   "title": "Dùng điện thoại xem bản đồ khi lái xe thuê: tình huống bị phạt",
+   "excerpt": "Cầm điện thoại xem bản đồ khi đang lái bị phạt 800.000–1.000.000 đồng, trừ 4 điểm; dùng tai nghe cũng thuộc lỗi này. Cách tìm đường khi lái xe thuê ở phố cổ.",
+   "h2": [
+    "Dùng điện thoại xem bản đồ khi lái xe máy: cầm trên tay là vi phạm",
+    "Tình huống 1: cầm máy dò đường trong phố cổ",
+    "Tình huống 2: đeo tai nghe nghe chỉ đường",
+    "Tình huống 3: dừng sát lề xem bản đồ, chỗ nào được dừng",
+    "Phạt nguội và trừ điểm khi đi xe thuê",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Gắn điện thoại trên giá đỡ để xem bản đồ có bị phạt không?",
+    "Đang dừng đèn đỏ cầm điện thoại có bị phạt không?",
+    "Người ngồi sau cầm điện thoại chỉ đường có bị phạt không?",
+    "Bị trừ điểm khi đi xe thuê thì trừ vào bằng của ai?"
+   ],
+   "fact_ids": [
+    "LB-089",
+    "LB-090",
+    "LB-015",
+    "SEED-46",
+    "LB-066",
+    "LB-065",
+    "LB-070",
+    "LB-071",
+    "LA-011",
+    "LA-058",
+    "LA-148",
+    "LB-118"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/",
+     "/kinh-nghiem/gia-do-dien-thoai-xe-may/"
+    ],
+    "money": "/thue-xe-may/hoan-kiem/",
+    "related": [
+     "/kinh-nghiem/google-maps-chi-duong-xe-may/",
+     "/kinh-nghiem/lai-xe-o-ha-noi/"
+    ]
+   },
+   "angle_notes": "Góc tình huống và cách phòng tránh. Câu dừng đèn đỏ: Luật cấm \"khi điều khiển phương tiện đang di chuyển\" (LB-089), NĐ 168 dùng cụm \"người đang điều khiển xe\" (SEED-46): nêu cả hai câu chữ, khuyên không cầm máy, không tự kết luận là được phép. Câu người ngồi sau: chỉ trả lời theo câu chữ (điểm phạt áp cho người điều khiển), không mở rộng. Không chép bảng mức phạt của trụ cột. Cửa hàng không tự ý nêu chính sách xử lý phạt nguội ngoài hợp đồng.",
+   "differentiation": "Các bài V1 cùng cụm dung-dien-thoai-khi-lai-xe (13 URL) dùng từ khóa chung; trụ cột giữ \"dùng điện thoại khi lái xe máy phạt bao nhiêu\", V2 giá đỡ giữ phụ kiện. Bài này giữ long-tail \"xem bản đồ\" của người thuê xe ở nội đô.",
+   "nearest_existing": [
+    "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-may-phat-bao-nhieu/",
+    "/kinh-nghiem/gia-do-dien-thoai-xe-may/",
+    "/kinh-nghiem/google-maps-chi-duong-xe-may/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/dung-do-xe-tren-he-pho-nguoi-thue-xe-tu-lai-tinh-huong-va-cach-phong-tranh-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "id": "NH-00975",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "dừng xe trên cầu chụp ảnh có bị phạt không",
+   "secondary_keywords": [
+    "dừng xe trên cầu long biên",
+    "đỗ xe máy trên vỉa hè bị phạt",
+    "dừng xe và đỗ xe khác nhau",
+    "quay đầu xe trên cầu"
+   ],
+   "intent": "Người thuê xe tự lái muốn dừng trên cầu sông Hồng hoặc leo hè phố ở chân cầu để chụp ảnh: dừng, đỗ trên cầu bị cấm và phạt bao nhiêu, hè phố khi nào trái phép, chỗ dừng hợp lệ và xử lý khi xe gặp sự cố trên cầu.",
+   "title": "Dừng đỗ xe trên cầu, hè phố để chụp ảnh: bị phạt thế nào?",
+   "excerpt": "Dừng hoặc đỗ xe máy trên cầu bị phạt 600.000–800.000 đồng; chạy xe trên vỉa hè còn bị phạt nặng hơn. Tình huống chụp ảnh ở cầu sông Hồng và cách dừng đúng chỗ.",
+   "h2": [
+    "Dừng xe trên cầu chụp ảnh có bị phạt không: có, cầu là nơi cấm dừng đỗ",
+    "Dừng xe và đỗ xe khác nhau thế nào",
+    "Tình huống ở chân cầu: leo vỉa hè, đỗ dưới lòng đường",
+    "Chỗ dừng hợp lệ: sát lề phải, cách lề không quá 0,25 m",
+    "Xe gặp sự cố trên cầu thì làm gì",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Dừng xe vài giây trên cầu Long Biên có bị phạt không?",
+    "Đi xe lên vỉa hè để vào chỗ gửi xe có bị phạt không?",
+    "Quay đầu xe trên cầu có bị phạt không?",
+    "Xe thuê bị phạt nguội lỗi dừng đỗ thì ai nộp?"
+   ],
+   "fact_ids": [
+    "LB-068",
+    "LB-070",
+    "LB-072",
+    "LB-071",
+    "LB-065",
+    "LB-066",
+    "LB-016",
+    "LB-018",
+    "LB-019",
+    "LB-074",
+    "SEED-32",
+    "SEED-157",
+    "LA-058"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+     "/du-lich/ha-noi/cau-long-bien/"
+    ],
+    "money": "/thue-xe-may/long-bien/",
+    "related": [
+     "/du-lich/cau-chuong-duong/",
+     "/luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/"
+    ]
+   },
+   "angle_notes": "Góc tình huống và cách phòng tránh, viết cho người thuê xe đi ngắm cầu. Thông tin riêng cầu Long Biên (ai được đi, đi bên nào) chỉ lấy từ trang viết tay /du-lich/ha-noi/cau-long-bien/, không tự suy. Ngoại lệ vỉa hè: chỉ \"đi qua vỉa hè để vào nhà, cơ quan\" (LB-016), không mở rộng sang bãi gửi xe — trả lời theo câu chữ. Không gợi ý điểm gửi xe cụ thể nếu không có nguồn.",
+   "differentiation": "Các bài V1 cùng cụm dung-do-xe-tren-he-pho (12 URL) dùng từ khóa chung; trụ cột giữ \"đỗ xe máy sai quy định phạt bao nhiêu\". Bài này giữ long-tail \"dừng xe trên cầu chụp ảnh\". Khác NH-02285 (gương gãy trên cầu) và NH-03155 (đèn qua cầu ban đêm).",
+   "nearest_existing": [
+    "/luat-giao-thong/do-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+    "/du-lich/ha-noi/cau-long-bien/",
+    "/luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/muc-phat-nong-do-con-nguoi-thuong-xuyen-di-cong-tac-tinh-thu-tuc-va-cac-buoc-chuan-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "id": "NH-02575",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "bị kiểm tra nồng độ cồn xe máy cần làm gì",
+   "secondary_keywords": [
+    "quy trình kiểm tra nồng độ cồn",
+    "từ chối kiểm tra nồng độ cồn phạt",
+    "nồng độ cồn mức 1 xe máy",
+    "đi công tác uống rượu bia đi xe máy"
+   ],
+   "intent": "Người hay đi công tác, có tiệc tiếp khách, hỏi khi bị CSGT dừng kiểm tra nồng độ cồn ở chốt cửa ngõ thủ đô thì trình tự thế nào, quyền và nghĩa vụ của mình, hậu quả khi từ chối, và việc tiếp theo sau khi có kết quả.",
+   "title": "Mức phạt nồng độ cồn xe máy: các bước khi bị kiểm tra ở cửa ngõ",
+   "excerpt": "Lái xe không có ngưỡng cồn cho phép. Khi bị kiểm tra ở chốt cửa ngõ: dừng xe, xuất trình giấy tờ, chấp hành; từ chối kiểm tra bị phạt 8–10 triệu đồng.",
+   "h2": [
+    "Bị kiểm tra nồng độ cồn xe máy: chấp hành, không có ngưỡng cho phép",
+    "Bước 1–2: nhận hiệu lệnh, dừng đúng vị trí CSGT hướng dẫn",
+    "Bước 3: xuất trình giấy tờ bản giấy hoặc trên VNeID",
+    "Bước 4: chấp hành kiểm tra, từ chối bị xử lý nặng nhất",
+    "Bước 5: biên bản, quyết định xử phạt và nộp phạt",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Tối qua uống bia, sáng nay đi xe có bị phạt không?",
+    "Từ chối kiểm tra nồng độ cồn bị phạt bao nhiêu?",
+    "Nồng độ cồn mức 1 có bị tước bằng không?",
+    "Có được yêu cầu CSGT nêu lý do dừng xe không?"
+   ],
+   "fact_ids": [
+    "LB-082",
+    "LB-083",
+    "LB-084",
+    "LB-085",
+    "LB-086",
+    "LB-087",
+    "LA-043",
+    "LA-145",
+    "LA-146",
+    "LA-045",
+    "LA-019",
+    "LA-147",
+    "LA-074",
+    "LA-046",
+    "LA-072",
+    "SEED-208",
+    "SEED-58"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/phat-nong-do-con-xe-may/",
+     "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/luat-giao-thong/xe-may-bi-tam-giu-bao-lau/",
+     "/luat-giao-thong/bang-lai-bi-tam-giu/"
+    ]
+   },
+   "angle_notes": "Góc thủ tục và các bước chuẩn: các bước đánh số khớp H2, chỉ dựa trên nguồn về dừng xe, kiểm soát (LA-145, LA-146, SEED-208), quyền (LA-045, LA-046), biên bản (LA-074) và thời hạn chấp hành (LA-072). Không mô tả kỹ thuật thổi máy đo (không có nguồn). Ba mức phạt chỉ tóm tắt một đoạn và link trụ cột, không chép bảng. Câu \"tối qua uống bia\": luật không có ngưỡng và không quy định thời gian \"an toàn\", không đưa số giờ đào thải. Không nêu vị trí chốt cụ thể.",
+   "differentiation": "Các bài V1 cùng cụm muc-phat-nong-do-con (12 URL) dùng từ khóa chung; trụ cột giữ \"phạt nồng độ cồn xe máy\" (bảng 3 mức). Bài này giữ long-tail quy trình khi bị kiểm tra. Khác NH-01815 (quyền khi bị CSGT dừng xe nói chung, cho tài xế giao hàng).",
+   "nearest_existing": [
+    "/luat-giao-thong/phat-nong-do-con-xe-may/",
+    "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/",
+    "/luat-giao-thong/xe-may-bi-tam-giu-bao-lau/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/nhan-biet-bien-bao-cam-nguoi-moi-lay-bang-lai-giai-dap-thac-mac-pho-bien-khi-di-qua-cac-nut-giao-trong-diem-co-camera-giam-sat/",
+   "id": "NH-02875",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "biển cấm rẽ trái có được quay đầu không",
+   "secondary_keywords": [
+    "biển p.123a cấm rẽ trái",
+    "biển cấm quay đầu p.124a",
+    "biển cấm đi ngược chiều p.102",
+    "thứ tự ưu tiên đèn biển vạch kẻ đường"
+   ],
+   "intent": "Người mới có bằng hỏi các biển cấm thường gặp ở nút giao có camera (cấm rẽ, cấm quay đầu, cấm đi ngược chiều, cấm dừng đỗ): ý nghĩa đúng, cặp biển dễ nhầm, thứ tự chấp hành khi đèn, biển, vạch khác nhau và cách vi phạm được phát hiện qua camera.",
+   "title": "Nhận biết biển báo cấm ở nút giao: cấm rẽ trái được quay đầu?",
+   "excerpt": "Biển cấm rẽ trái P.123a không cấm quay đầu; muốn cấm quay đầu phải có P.124. Giải đáp các biển cấm dễ nhầm ở nút giao có camera và thứ tự chấp hành báo hiệu.",
+   "h2": [
+    "Biển cấm rẽ trái có được quay đầu không: được, trừ khi có biển P.124",
+    "Các biển cấm hay gặp ở nút giao và ý nghĩa",
+    "Đèn, biển, vạch nói khác nhau thì theo cái nào",
+    "Biển tạm thời đặt cạnh biển cố định",
+    "Vi phạm biển báo bị ghi qua camera: thông báo và tra cứu",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Đèn mũi tên rẽ trái xanh có được quay đầu không?",
+    "Biển cấm ô tô thì xe máy có được đi không?",
+    "Không chấp hành biển báo bị phạt bao nhiêu?",
+    "Quay đầu ở nơi có biển cấm quay đầu bị phạt bao nhiêu?"
+   ],
+   "fact_ids": [
+    "LB-033",
+    "LB-034",
+    "LB-012",
+    "LB-020",
+    "LB-028",
+    "LB-029",
+    "LB-030",
+    "LB-035",
+    "LB-036",
+    "LB-026",
+    "LB-027",
+    "LB-024",
+    "LB-025",
+    "LB-019",
+    "LA-044",
+    "LA-057"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/bien-bao-cam-xe-may/",
+     "/luat-giao-thong/den-do-co-duoc-re-phai/"
+    ],
+    "money": "/thue-xe-may/ha-noi/",
+    "related": [
+     "/luat-giao-thong/y-nghia-vach-ke-duong/",
+     "/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/"
+    ]
+   },
+   "angle_notes": "Góc giải đáp thắc mắc. Mã biển và ý nghĩa theo QCVN 41:2024 qua LB-012, LB-020, LB-028–LB-036; ghi đúng mã P.123a/b, P.124a. Không mô tả hình dạng, màu biển nếu thư viện không có. Trụ cột /bien-bao-cam-xe-may/ đã nói P.104, P.111a: bài này chỉ nhắc một dòng và link. Không nêu vị trí camera cụ thể ở Hà Nội.",
+   "differentiation": "Các bài V1 cùng cụm nhan-biet-bien-bao-cam (14 URL) dùng từ khóa chung; trụ cột giữ \"biển báo cấm xe máy\". Bài này giữ long-tail \"biển cấm rẽ trái có được quay đầu\" và các cặp biển ở nút giao. Khác NH-01585 (đường cấm dịp Tết).",
+   "nearest_existing": [
+    "/luat-giao-thong/bien-bao-cam-xe-may/",
+    "/luat-giao-thong/den-do-co-duoc-re-phai/",
+    "/luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/nhuong-duong-tai-nut-giao-nguoi-di-lam-tai-cac-do-thi-so-sanh-thay-doi-moi-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "id": "NH-03175",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "đường nhánh nhường đường chính",
+   "secondary_keywords": [
+    "xuống cầu nhập làn nhường đường",
+    "vòng xuyến nhường xe bên trái",
+    "không nhường đường bị trừ điểm",
+    "chuyển làn không giữ khoảng cách an toàn 2026"
+   ],
+   "intent": "Người đi làm qua cầu sông Hồng mỗi ngày hỏi khi xuống cầu nhập đường chính, qua vòng xuyến hay ngã tư ở đầu cầu thì ai phải nhường; so sánh ba tình huống nhường đường, mức phạt, và điểm mới về chuyển làn từ 15/8/2026.",
+   "title": "Nhường đường tại nút giao đầu cầu: đường nhánh, đường chính",
+   "excerpt": "Xe từ đường nhánh phải nhường xe trên đường chính; nút có vòng xuyến nhường bên trái, không có thì nhường bên phải. So sánh mức phạt và điểm mới từ 15/8/2026.",
+   "h2": [
+    "Đường nhánh nhường đường chính: quy tắc khi xuống cầu nhập làn",
+    "So sánh ba tình huống: nhánh ra chính, vòng xuyến, ngã tư không vòng xuyến",
+    "Mức phạt: lỗi chung và lỗi bị trừ 2 điểm",
+    "Điểm mới từ 15/8/2026: chuyển làn phải giữ khoảng cách an toàn",
+    "Giờ cao điểm ở đầu cầu: người đi bộ và xe ưu tiên",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Xuống cầu rẽ phải có phải nhường xe đi thẳng không?",
+    "Vòng xuyến có đèn tín hiệu thì nhường thế nào?",
+    "Không nhường đường bị trừ mấy điểm?",
+    "Xe ưu tiên đến gần khi đang trên cầu thì làm gì?"
+   ],
+   "fact_ids": [
+    "LB-037",
+    "LB-038",
+    "LB-039",
+    "LB-040",
+    "LB-041",
+    "LB-042",
+    "LB-043",
+    "LB-050",
+    "LB-052",
+    "LB-026",
+    "LB-008",
+    "LB-101",
+    "SEED-255",
+    "SEED-266"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/nhuong-duong-tai-noi-giao-nhau-vong-xuyen/",
+     "/luat-giao-thong/khong-nhuong-duong-xe-uu-tien-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/long-bien/",
+    "related": [
+     "/du-lich/cau-thanh-tri-xe-may/",
+     "/du-lich/cau-vinh-tuy-xe-may/",
+     "/luat-giao-thong/khong-giu-khoang-cach-an-toan-xe-may-phat-bao-nhieu/"
+    ]
+   },
+   "angle_notes": "Góc so sánh thay đổi mới: bảng so sánh ba tình huống nhường đường hiện hành; phần \"mới\" là NĐ 238/2026 bổ sung lỗi chuyển làn không giữ khoảng cách (LB-052, SEED-255). Phải nói rõ trong phạm vi thư viện NĐ 238 không sửa các điểm nhường đường; không so với mức phạt của văn bản cũ (không có nguồn). Câu \"xuống cầu rẽ phải\" chỉ trả lời bằng quy tắc chuyển hướng/nhường đường có nguồn, không suy diễn. Thông tin nút đầu cầu cụ thể chỉ lấy từ trang V2 du-lich.",
+   "differentiation": "Các bài V1 cùng cụm nhuong-duong-tai-nut-giao (13 URL) dùng từ khóa chung; trụ cột V2 giữ \"nhường đường tại nơi giao nhau\". Bài này giữ long-tail \"đường nhánh nhường đường chính\" gắn với đầu cầu và điểm mới 2026.",
+   "nearest_existing": [
+    "/luat-giao-thong/nhuong-duong-tai-noi-giao-nhau-vong-xuyen/",
+    "/luat-giao-thong/khong-nhuong-duong-xe-uu-tien-phat-bao-nhieu/",
+    "/luat-giao-thong/khong-giu-khoang-cach-an-toan-xe-may-phat-bao-nhieu/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/nop-phat-truc-tuyen-vneid-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-so-sanh-thay-doi-moi-tren-cac-cung-duong-ngoai-thanh-va-lien-tinh/",
+   "id": "NH-01245",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "nộp phạt giao thông trên vneid được không",
+   "secondary_keywords": [
+    "nộp phạt vi phạm giao thông online",
+    "vneid nhận quyết định xử phạt",
+    "nộp phạt trên cổng dịch vụ công",
+    "vnetraffic nộp phạt"
+   ],
+   "intent": "Phụ huynh có con vi phạm khi đi ngoại thành, liên tỉnh hỏi có nộp phạt được trên VNeID không: VNeID hiện dùng để nhận quyết định, xem điểm; nộp phạt qua Cổng Dịch vụ công hoặc Kho bạc; VNeTraffic mới ở mức dự kiến; so sánh các kênh và xử lý vi phạm ở tỉnh khác.",
+   "title": "Nộp phạt trực tuyến trên VNeID được chưa? So sánh các kênh",
+   "excerpt": "VNeID nhận quyết định xử phạt, xem điểm bằng lái nhưng chưa có hướng dẫn chính thức nộp phạt trong ứng dụng. So sánh Cổng Dịch vụ công, Kho bạc, VNeTraffic.",
+   "h2": [
+    "Nộp phạt giao thông trên VNeID: chưa có hướng dẫn chính thức",
+    "So sánh các kênh: VNeID, Cổng Dịch vụ công, Kho bạc, VNeTraffic",
+    "Vi phạm ở tỉnh khác: giải quyết ở đâu",
+    "Thời hạn 10 ngày và tiền chậm nộp",
+    "Cha mẹ làm gì khi con vi phạm bằng xe đứng tên mình",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Bị giữ bằng lái, nộp phạt online có nhận lại qua bưu điện không?",
+    "Bị giữ xe thì nộp phạt online xong có phải đến lấy xe không?",
+    "Quá hạn nộp phạt bị tính thêm bao nhiêu?",
+    "Con vi phạm ở tỉnh khác có phải về đó nộp phạt không?"
+   ],
+   "fact_ids": [
+    "LA-060",
+    "LA-143",
+    "LA-141",
+    "LA-137",
+    "LA-073",
+    "LA-072",
+    "LA-140",
+    "LA-138",
+    "LA-139",
+    "LA-142",
+    "LA-075",
+    "LA-076",
+    "LA-132",
+    "LA-133",
+    "LA-057",
+    "LA-058",
+    "LA-135"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/nop-phat-vi-pham-giao-thong-online/",
+     "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/"
+    ],
+    "money": "/thue-xe-50cc/ha-noi/",
+    "related": [
+     "/luat-giao-thong/phat-nguoi-qua-han-khong-nop-bi-gi/",
+     "/luat-giao-thong/khieu-nai-quyet-dinh-xu-phat-giao-thong/"
+    ]
+   },
+   "angle_notes": "Góc so sánh thay đổi mới: bảng so sánh kênh (việc làm được, căn cứ, trạng thái: đang áp dụng/dự kiến). Tuyệt đối không viết \"giảm 50% khi nộp online\" (gap legal_a: không xác minh được) và không đặt câu hỏi gợi ý thông tin này. VNeTraffic nộp phạt toàn trình chỉ là \"dự kiến\" (LA-140). Hướng dẫn Cổng DVC là bài 2022, giao diện có thể đã đổi (LA-137) — nói rõ. Không ghi tiền phí bưu chính.",
+   "differentiation": "Các bài V1 cùng cụm nop-phat-truc-tuyen-vneid (13 URL) dùng từ khóa chung; trụ cột giữ \"nộp phạt vi phạm giao thông online\" (các bước trên Cổng DVC). Bài này giữ long-tail \"nộp phạt trên VNeID được không\" và so sánh kênh. Khác NH-01165 (tra cứu phạt nguội, vi phạm ở tỉnh khác).",
+   "nearest_existing": [
+    "/luat-giao-thong/nop-phat-vi-pham-giao-thong-online/",
+    "/luat-giao-thong/tra-cuu-diem-giay-phep-lai-xe-tren-vneid/",
+    "/luat-giao-thong/phat-nguoi-qua-han-khong-nop-bi-gi/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/phat-di-nguoc-chieu-nguoi-moi-lay-bang-lai-so-sanh-thay-doi-moi-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "id": "NH-00145",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "đi ngược chiều trong ngõ có bị phạt không",
+   "secondary_keywords": [
+    "ngõ một chiều đi ngược bị phạt",
+    "đi ngược chiều và đi sai phần đường",
+    "đi ngược chiều trừ mấy điểm",
+    "chạy xe trên vỉa hè bị phạt"
+   ],
+   "intent": "Người mới có bằng sống trong khu đô thị, ngõ hẻm hỏi đi ngược chiều vào ngõ một chiều có bị phạt không; so sánh lỗi đi ngược chiều với đi sai phần đường và quay đầu sai chỗ, mức xử lý từng lỗi và văn bản nào đang áp dụng từ 2025 đến nay.",
+   "title": "Phạt đi ngược chiều trong ngõ một chiều: so sánh 3 lỗi dễ nhầm",
+   "excerpt": "Đi ngược chiều đường một chiều hoặc nơi có biển P.102 bị phạt 4–6 triệu đồng, trừ 2 điểm. So sánh với lỗi đi sai phần đường và quay đầu sai chỗ trong ngõ.",
+   "h2": [
+    "Đi ngược chiều trong ngõ có bị phạt không: có, nếu là đường một chiều",
+    "So sánh ba lỗi dễ nhầm: ngược chiều, sai phần đường, quay đầu sai chỗ",
+    "Văn bản áp dụng từ 2025 đến nay",
+    "Đi lên vỉa hè để tránh ngõ một chiều",
+    "Gây va chạm khi đi ngược chiều: mức xử lý cao hơn",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Đi ngược chiều vài mét để vào nhà có bị phạt không?",
+    "Đi ngược chiều bị trừ mấy điểm?",
+    "Đi xe đạp ngược chiều bị phạt bao nhiêu?",
+    "Quay đầu trong ngõ một chiều có bị phạt không?"
+   ],
+   "fact_ids": [
+    "LB-016",
+    "LB-020",
+    "LB-054",
+    "LB-018",
+    "LB-019",
+    "LB-034",
+    "LB-017",
+    "LB-136",
+    "LB-015",
+    "LB-002",
+    "LB-004",
+    "LA-035",
+    "SEED-5"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/di-nguoc-chieu-xe-may-phat-bao-nhieu/",
+     "/luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/",
+    "related": [
+     "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/",
+     "/kinh-nghiem/giu-thang-bang-khi-di-xe-may-cham/"
+    ]
+   },
+   "angle_notes": "Góc so sánh thay đổi mới: bảng ba lỗi (hành vi, mức phạt, trừ điểm, căn cứ). Phần văn bản: Luật 2008 hết hiệu lực từ 01/01/2025 (LA-035), NĐ 168 hiệu lực 01/01/2025 (LB-002), NĐ 238 từ 15/8/2026 (LB-004) không sửa điểm này trong phạm vi thư viện; không đưa mức phạt cũ (không có nguồn). Câu \"vài mét để vào nhà\": ngoại lệ \"vào nhà\" chỉ có ở lỗi đi trên vỉa hè (LB-016), không áp cho đi ngược chiều — trả lời theo câu chữ. Không nói ngõ không biển là hai chiều (chưa có nguồn).",
+   "differentiation": "Các bài V1 cùng cụm phat-di-nguoc-chieu (13 URL) dùng từ khóa chung; trụ cột giữ \"lỗi đi ngược chiều xe máy phạt bao nhiêu\". Bài này giữ long-tail \"đi ngược chiều trong ngõ\" và so sánh lỗi dễ nhầm.",
+   "nearest_existing": [
+    "/luat-giao-thong/di-nguoc-chieu-xe-may-phat-bao-nhieu/",
+    "/luat-giao-thong/quay-dau-xe-may-sai-quy-dinh-phat-bao-nhieu/",
+    "/luat-giao-thong/di-sai-lan-xe-may-phat-bao-nhieu/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/phat-vuot-den-do-nguoi-moi-lay-bang-lai-so-sanh-thay-doi-moi-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "id": "NH-00765",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "trời mưa gặp đèn vàng nên dừng hay đi",
+   "secondary_keywords": [
+    "đèn vàng có phải dừng không",
+    "không có vạch dừng thì dừng ở đâu",
+    "vượt đèn đỏ trừ mấy điểm",
+    "giữ khoảng cách khi trời mưa"
+   ],
+   "intent": "Người mới có bằng chạy trong mưa hỏi gặp đèn vàng khi đường trơn nên dừng hay đi; so sánh đèn vàng, đèn đỏ, mũi tên theo QCVN 41:2024, chỗ dừng khi không có vạch, mức phạt và cách giữ khoảng cách để dừng kịp.",
+   "title": "Phạt vượt đèn đỏ khi trời mưa: gặp đèn vàng nên dừng hay đi?",
+   "excerpt": "Đèn vàng phải dừng trước vạch, chỉ đi tiếp khi đã ở trên hoặc qua vạch. Trời mưa phải giảm tốc, giữ khoảng cách lớn hơn để dừng kịp; vượt đèn bị phạt 4–6 triệu.",
+   "h2": [
+    "Trời mưa gặp đèn vàng: dừng trước vạch, chỉ đi tiếp khi đã qua vạch",
+    "So sánh đèn vàng, đèn đỏ và mũi tên theo QCVN 41:2024",
+    "Không có vạch dừng thì dừng ở đâu",
+    "Đường trơn: giảm tốc, giữ khoảng cách để dừng kịp",
+    "Mức phạt và trừ điểm khi không chấp hành đèn",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Đã lỡ qua vạch dừng khi đèn chuyển vàng có bị phạt không?",
+    "Có lỗi riêng \"vượt đèn vàng\" không?",
+    "Mũi tên xanh sáng cùng đèn đỏ có phải nhường đường không?",
+    "Vượt đèn đỏ bị trừ mấy điểm?"
+   ],
+   "fact_ids": [
+    "LB-007",
+    "LB-009",
+    "LB-010",
+    "LB-011",
+    "LB-013",
+    "LB-015",
+    "LB-026",
+    "LB-101",
+    "LB-097",
+    "LB-107",
+    "SEED-17",
+    "SEED-14"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/phat-vuot-den-do-xe-may/",
+     "/luat-giao-thong/vuot-den-vang-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/",
+    "related": [
+     "/kinh-nghiem/cach-phanh-xe-may-an-toan/",
+     "/luat-giao-thong/den-do-co-duoc-re-phai/"
+    ]
+   },
+   "angle_notes": "Góc so sánh thay đổi mới: bảng đèn vàng/đèn đỏ/mũi tên theo QCVN 41:2024 (quy chuẩn áp dụng từ 2025). Gap legal_b: NĐ 168 không có hành vi riêng \"vượt đèn vàng\"; mức phạt là lỗi không chấp hành đèn tín hiệu (điểm c khoản 7 Điều 7) — viết đúng như vậy, không bịa mức riêng. Phần đường trơn dùng SEED-17 (khoảng cách lớn hơn khi mưa) và LB-101 (giảm tốc khi mưa), không ghi số mét phanh.",
+   "differentiation": "Các bài V1 cùng cụm phat-vuot-den-do (14 URL) dùng từ khóa chung; trụ cột giữ \"phạt vượt đèn đỏ xe máy\", trụ cột /vuot-den-vang-phat-bao-nhieu/ giữ \"vượt đèn vàng phạt bao nhiêu\". Bài này giữ long-tail \"trời mưa gặp đèn vàng nên dừng hay đi\".",
+   "nearest_existing": [
+    "/luat-giao-thong/phat-vuot-den-do-xe-may/",
+    "/luat-giao-thong/vuot-den-vang-phat-bao-nhieu/",
+    "/luat-giao-thong/den-do-co-duoc-re-phai/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/quy-dinh-mu-bao-hiem-nguoi-thuong-xuyen-di-cong-tac-tinh-giai-dap-thac-mac-pho-bien-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "id": "NH-03025",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "đội mũ bảo hiểm không đạt chuẩn có bị phạt không",
+   "secondary_keywords": [
+    "mũ bảo hiểm thời trang có bị phạt",
+    "mũ bảo hiểm xe đạp đi xe máy",
+    "người ngồi sau không đội mũ bảo hiểm",
+    "đội mũ không cài quai bị phạt"
+   ],
+   "intent": "Người đi công tác tỉnh bằng xe máy hỏi các thắc mắc về mũ bảo hiểm khi qua chốt kiểm tra ở cửa ngõ: mũ không đạt chuẩn có bị phạt không, cài quai lỏng, người ngồi sau, ai bị phạt, có bị trừ điểm không và chuẩn bị mũ cho chuyến đi dài.",
+   "title": "Quy định mũ bảo hiểm: đội mũ không đạt chuẩn có bị phạt không?",
+   "excerpt": "Luật buộc đội mũ bảo hiểm đúng quy chuẩn và cài quai đúng quy cách. Lỗi mũ bị phạt 400.000–600.000 đồng, không trừ điểm. Giải đáp thắc mắc trước chuyến đi tỉnh.",
+   "h2": [
+    "Đội mũ bảo hiểm không đạt chuẩn có bị phạt không: căn cứ là câu chữ của luật",
+    "Không cài quai, cài lỏng: vẫn là vi phạm",
+    "Người ngồi sau: ai bị phạt và trường hợp không bị phạt",
+    "Lỗi mũ bảo hiểm không bị trừ điểm giấy phép lái xe",
+    "Chuẩn bị mũ cho chuyến đi tỉnh dài ngày",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Dùng mũ bảo hiểm xe đạp để đi xe máy có được không?",
+    "Chở trẻ em dưới 6 tuổi không đội mũ có bị phạt không?",
+    "Đi xe đạp điện không đội mũ bảo hiểm có bị phạt không?",
+    "Thuê xe máy có kèm mũ bảo hiểm không?"
+   ],
+   "fact_ids": [
+    "LB-044",
+    "LB-045",
+    "LB-046",
+    "LB-047",
+    "LB-137",
+    "LA-048",
+    "LB-015",
+    "SEED-140",
+    "SEED-141",
+    "SEED-3"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
+     "/kinh-nghiem/mu-bao-hiem-dat-chuan/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/kinh-nghiem/ve-sinh-mu-bao-hiem/",
+     "/thue-xe/thue-xe-may-ha-noi-di-tinh/"
+    ]
+   },
+   "angle_notes": "Góc giải đáp thắc mắc. Câu trả lời mở bài dựa đúng câu chữ: Luật buộc mũ \"theo đúng quy chuẩn kỹ thuật quốc gia\" (SEED-140), NĐ 168 phạt \"không đội mũ bảo hiểm cho người đi mô tô, xe máy\" (SEED-141); không tự kết luận vượt câu chữ. Gap legal_b: không ghi số hiệu quy chuẩn, thông số mũ — dẫn sang V2 /mu-bao-hiem-dat-chuan/ để nhận biết. Từ \"bảo hiểm\" chỉ được dùng trong cụm \"mũ bảo hiểm\". Cửa hàng có mũ bảo hiểm cơ bản kèm xe (business-facts). Trụ cột đã có mục không cài quai và đi đường dài: chỉ tóm tắt.",
+   "differentiation": "Các bài V1 cùng cụm quy-dinh-mu-bao-hiem (13 URL) dùng từ khóa chung; trụ cột giữ \"không đội mũ bảo hiểm phạt bao nhiêu\", V2 giữ \"mũ bảo hiểm đạt chuẩn\" (cách nhận biết). Bài này giữ long-tail \"mũ không đạt chuẩn có bị phạt không\".",
+   "nearest_existing": [
+    "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
+    "/kinh-nghiem/mu-bao-hiem-dat-chuan/",
+    "/kinh-nghiem/ve-sinh-mu-bao-hiem/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/quy-dinh-xe-may-dien-50cc-nguoi-thuong-xuyen-di-cong-tac-tinh-so-sanh-thay-doi-moi-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "id": "NH-03615",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "phân biệt xe gắn máy và xe mô tô",
+   "secondary_keywords": [
+    "xe máy điện bao nhiêu kw là xe mô tô",
+    "xe gắn máy tốc độ tối đa 40 km/h",
+    "xe gắn máy có phải đăng ký biển số",
+    "16 tuổi đi xe máy điện loại nào"
+   ],
+   "intent": "Người đi công tác tỉnh định dùng xe 50cc hoặc xe máy điện hỏi xe của mình là xe gắn máy hay xe mô tô theo Luật 36/2024 (ngưỡng 50 cm³, 4 kW, vận tốc thiết kế 50 km/h); so sánh hệ quả về bằng lái, tuổi, tốc độ tối đa, đăng ký, điểm mới từ 15/8/2026, và giới hạn khi qua cầu, đi liên tỉnh.",
+   "title": "Quy định xe máy điện, 50cc: phân biệt xe gắn máy và xe mô tô",
+   "excerpt": "Xe gắn máy: vận tốc thiết kế đến 50 km/h, xăng đến 50 cm³ hoặc điện đến 4 kW; vượt một ngưỡng là xe mô tô. So sánh bằng lái, tuổi, tốc độ tối đa của hai loại.",
+   "h2": [
+    "Phân biệt xe gắn máy và xe mô tô: ba ngưỡng 50 cm³, 4 kW, 50 km/h",
+    "Bảng so sánh: bằng lái, tuổi, tốc độ tối đa, đăng ký",
+    "Điểm mới từ 15/8/2026 với người 16 đến dưới 18 tuổi",
+    "Qua cầu sông Hồng, đi liên tỉnh bằng xe gắn máy: tối đa 40 km/h",
+    "Đọc thông số trên giấy đăng ký trước khi chạy xa",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Xe máy điện 3 kW chạy 60 km/h là xe gì?",
+    "Xe 50cc có được đi trên quốc lộ không?",
+    "Xe đạp điện có phải là xe gắn máy không?",
+    "Xe gắn máy có phải đăng ký biển số không?"
+   ],
+   "fact_ids": [
+    "LA-021",
+    "LA-022",
+    "LB-129",
+    "LA-023",
+    "LB-130",
+    "LA-015",
+    "LA-016",
+    "LA-020",
+    "LA-002",
+    "LB-096",
+    "LA-150",
+    "LB-094",
+    "LB-095",
+    "LA-036",
+    "LA-068",
+    "LB-126",
+    "LB-127",
+    "SEED-328"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/xe-50cc-co-can-bang-lai/",
+     "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/"
+    ],
+    "money": "/thue-xe-dien/ha-noi/",
+    "related": [
+     "/thue-xe/thue-xe-50cc-hay-xe-may-dien/",
+     "/xe-dien/xe-may-dien-co-can-dang-ky-bien-so-khong/",
+     "/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/"
+    ]
+   },
+   "angle_notes": "Góc so sánh thay đổi mới: bảng so sánh xe gắn máy và xe mô tô theo Luật 36/2024 (thay Luật 2008) và điểm sửa NĐ 238 với người 16–18 tuổi (LA-068, LB-126). Câu \"50cc đi quốc lộ\": chỉ nói luật cấm xe gắn máy trên cao tốc (SEED-328) và tốc độ tối đa 40 km/h (LB-096); không khẳng định thêm. Không phân loại xe Tailg hay mẫu VinFast cụ thể (gap; cần thông số hãng). Đi tỉnh: cửa hàng cho đi ngoài Hà Nội khi thuê từ 48 giờ (business-facts).",
+   "differentiation": "Các bài V1 cùng cụm quy-dinh-xe-may-dien-50cc (13 URL) dùng từ khóa chung; trụ cột giữ \"xe 50cc có cần bằng lái không\", V2 /xe-50cc-chay-duoc-bao-nhieu-km-h/ giữ tốc độ. Bài này giữ long-tail \"phân biệt xe gắn máy và xe mô tô\".",
+   "nearest_existing": [
+    "/luat-giao-thong/xe-50cc-co-can-bang-lai/",
+    "/xe-dien/thue-xe-may-dien-co-can-bang-lai-khong/",
+    "/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/",
+    "/thue-xe/thue-xe-50cc-hay-xe-may-dien/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/quyen-kiem-tra-cua-csgt-tai-xe-giao-hang-cong-nghe-tinh-huong-va-cach-phong-tranh-tren-cac-truc-duong-vanh-dai-va-quoc-lo/",
+   "id": "NH-01815",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "quyền của người lái xe khi bị csgt dừng xe",
+   "secondary_keywords": [
+    "csgt được kiểm tra những gì",
+    "bị csgt dừng xe cần xuất trình gì",
+    "không chấp hành hiệu lệnh dừng xe bị phạt",
+    "xuất trình giấy tờ trên vneid"
+   ],
+   "intent": "Tài xế giao hàng bị CSGT dừng xe trên vành đai, quốc lộ hỏi CSGT được kiểm tra những gì, mình có quyền gì (được thông báo căn cứ, kết quả; giải trình, khiếu nại), cần xuất trình gì và tình huống nào bị phạt nặng.",
+   "title": "Quyền kiểm tra của CSGT: tài xế giao hàng bị dừng xe quốc lộ",
+   "excerpt": "CSGT dừng xe khi có một trong 4 căn cứ, kiểm tra người lái, phương tiện và việc chấp hành luật. Quyền của tài xế giao hàng và 3 tình huống trên quốc lộ.",
+   "h2": [
+    "Quyền của người lái khi bị CSGT dừng xe: được biết căn cứ và kết quả",
+    "CSGT được kiểm tra những gì",
+    "Tình huống 1: bị ra hiệu dừng giữa dòng xe trên quốc lộ",
+    "Tình huống 2: quên bằng, chỉ có giấy tờ trên VNeID",
+    "Tình huống 3: không đồng ý với lỗi bị lập biên bản",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "CSGT có được dừng xe khi mình không vi phạm không?",
+    "Không dừng xe theo hiệu lệnh bị phạt bao nhiêu?",
+    "Người chở hàng kinh doanh không mang bằng bị phạt bao nhiêu?",
+    "Đang khiếu nại thì có phải nộp phạt trước không?"
+   ],
+   "fact_ids": [
+    "LA-042",
+    "LA-043",
+    "LA-045",
+    "LA-046",
+    "LA-047",
+    "LA-145",
+    "LA-146",
+    "LA-147",
+    "LA-019",
+    "LA-061",
+    "LA-052",
+    "LA-063",
+    "LA-064",
+    "LA-065",
+    "LA-144",
+    "SEED-208",
+    "SEED-58"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/",
+     "/luat-giao-thong/khong-chap-hanh-hieu-lenh-csgt-phat-bao-nhieu/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/luat-giao-thong/khieu-nai-quyet-dinh-xu-phat-giao-thong/",
+     "/luat-giao-thong/quen-bang-lai-giay-to-xe-may-co-bi-phat-khong/"
+    ]
+   },
+   "angle_notes": "Góc tình huống và cách phòng tránh, mở bằng quyền của người lái (LA-045, LA-046). Gap legal_a: Thông tư 73/2024 chỉ có bản quét, trích qua bài Chinhphu.vn và Bộ Công an (LA-144–LA-147, SEED-208) — ghi rõ nguồn. Không viết về quyền quay phim, ghi âm (không có nguồn). Mức phạt không mang bằng của người lái xe kinh doanh vận tải (LA-052) chỉ áp đúng đối tượng. Trụ cột V2 đã có 4 căn cứ: chỉ tóm tắt, không chép.",
+   "differentiation": "Các bài V1 cùng cụm quyen-kiem-tra-cua-csgt (13 URL) dùng từ khóa chung; trụ cột V2 giữ \"CSGT được dừng xe khi nào\". Bài này giữ long-tail \"quyền của người lái khi bị CSGT dừng xe\" cho người giao hàng. Khác NH-02575 (quy trình kiểm tra nồng độ cồn).",
+   "nearest_existing": [
+    "/luat-giao-thong/csgt-duoc-dung-xe-khi-nao/",
+    "/luat-giao-thong/khong-chap-hanh-hieu-lenh-csgt-phat-bao-nhieu/",
+    "/luat-giao-thong/khieu-nai-quyet-dinh-xu-phat-giao-thong/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/sang-ten-bien-so-dinh-danh-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-can-cu-phap-ly-moi-nhat-khi-di-qua-cac-nut-giao-trong-diem-co-camera-giam-sat/",
+   "id": "NH-01105",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "cho con xe máy có phải sang tên không",
+   "secondary_keywords": [
+    "biển số định danh giữ lại 5 năm",
+    "tặng xe máy cho con thủ tục",
+    "không sang tên xe máy bị phạt",
+    "phạt nguội gửi về chủ xe cũ"
+   ],
+   "intent": "Phụ huynh tặng, chuyển xe máy cho con hỏi có bắt buộc sang tên không, biển số định danh của mình được giữ lại 5 năm thế nào, phạt nguội từ camera ở nút giao gửi về ai khi chưa sang tên, và căn cứ pháp lý đang áp dụng.",
+   "title": "Sang tên biển số định danh khi cho con xe máy: căn cứ pháp lý",
+   "excerpt": "Cho con xe máy là đổi chủ xe nên phải thu hồi và đăng ký sang tên. Biển định danh của bố mẹ giữ lại 5 năm; chưa sang tên, người đứng tên vẫn chịu trách nhiệm.",
+   "h2": [
+    "Cho con xe máy có phải sang tên không: có, vì thay đổi chủ xe",
+    "Căn cứ pháp lý hiện hành: Luật 36/2024, Thông tư 37/2026",
+    "Biển số định danh của bố mẹ được giữ lại 5 năm",
+    "Camera ghi lỗi khi xe chưa sang tên: ai bị xử lý",
+    "Các bước thu hồi và đăng ký xe cho con",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Không sang tên xe cho con bị phạt bao nhiêu?",
+    "Xe đang mang biển 4 số khi sang tên có đổi sang biển định danh không?",
+    "Bao lâu phải làm thu hồi sau khi tặng xe?",
+    "Kết quả đăng ký xe có hiện trên VNeID không?"
+   ],
+   "fact_ids": [
+    "LA-036",
+    "LA-037",
+    "LA-038",
+    "LA-039",
+    "LA-040",
+    "LA-053",
+    "LA-054",
+    "LA-056",
+    "LA-119",
+    "LA-120",
+    "LA-121",
+    "LA-122",
+    "LA-123",
+    "LA-124",
+    "LA-125",
+    "LA-126",
+    "LA-128",
+    "LA-129",
+    "LA-057",
+    "LA-058"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/sang-ten-xe-may/",
+     "/luat-giao-thong/dang-ky-xe-may-moi/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/luat-giao-thong/di-xe-khong-chinh-chu-co-bi-phat/",
+     "/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/"
+    ]
+   },
+   "angle_notes": "Góc căn cứ pháp lý mới nhất: dẫn Luật 36/2024 (biển định danh, đăng ký), Thông tư 37/2026/TT-BCA (hiệu lực 08/6/2026) và hướng dẫn Chinhphu.vn; ghi rõ gap: chưa có toàn văn Thông tư 79/2024, tên mẫu ĐKX có thể đã đổi — không ghi mã mẫu. Không ghi lệ phí, lệ phí trước bạ (không có số liệu). Không trả lời con dưới 18 tuổi có đứng tên xe được không (không có nguồn). Tuyệt đối không nhắc bảo hiểm xe (trụ cột /sang-ten-xe-may/ có mục này, bài vệ tinh không lặp).",
+   "differentiation": "Các bài V1 cùng cụm sang-ten-bien-so-dinh-danh (14 URL) dùng từ khóa chung; trụ cột giữ \"sang tên xe máy\" (hồ sơ mua bán). Bài này giữ long-tail \"cho con xe máy có phải sang tên\" + biển định danh + phạt nguội.",
+   "nearest_existing": [
+    "/luat-giao-thong/sang-ten-xe-may/",
+    "/luat-giao-thong/dang-ky-xe-may-moi/",
+    "/luat-giao-thong/di-xe-khong-chinh-chu-co-bi-phat/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a1-nguoi-di-lam-tai-cac-do-thi-tinh-huong-va-cach-phong-tranh-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "id": "NH-00755",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "thi bằng a1 trượt thực hành thi lại thế nào",
+   "secondary_keywords": [
+    "bảo lưu kết quả thi lý thuyết a1",
+    "trượt bài sát hạch số 1",
+    "thi lại a1 theo thông tư 108",
+    "bài thi lý thuyết a1 bao nhiêu câu"
+   ],
+   "intent": "Người đi làm thi bằng A1 hỏi các tình huống trượt hoặc vắng một phần thi (lý thuyết, bài 1, bài 2): được thi lại thế nào, kết quả bảo lưu bao lâu, thi lại theo Thông tư 12/2025 hay 108/2026, và chuẩn bị khi ngày thi trời mưa.",
+   "title": "Thi bằng lái A1 trượt thực hành: thi lại, bảo lưu khi đi làm",
+   "excerpt": "Trượt lý thuyết thì chưa được thi bài 1, trượt bài 1 thì chưa thi bài 2. Kết quả lý thuyết đạt được bảo lưu 1 năm; từ 01/3/2027 thi lại theo Thông tư 108/2026.",
+   "h2": [
+    "Thi bằng A1 trượt thực hành: thi lại phần trượt, giữ phần đã đạt",
+    "Thứ tự thi và điều kiện chuyển sang phần sau",
+    "Bảo lưu kết quả: lý thuyết 1 năm, bài 1 theo thời gian còn lại",
+    "Thi lại trước và sau 01/3/2027: đề nào áp dụng",
+    "Người đi làm: xếp lịch thi lại, đồ bảo hộ, đi xe khi trời mưa",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Vắng thi bài số 2 vì trời mưa có bị mất kết quả không?",
+    "Bài lý thuyết A1 hiện có bao nhiêu câu?",
+    "Còn bài thi mô phỏng trên máy tính không?",
+    "Thi đạt thì bao lâu có giấy phép A1?"
+   ],
+   "fact_ids": [
+    "LA-085",
+    "LA-086",
+    "LA-081",
+    "LA-080",
+    "LA-079",
+    "LA-108",
+    "LA-114",
+    "LA-115",
+    "LA-116",
+    "LA-109",
+    "LA-084",
+    "LA-087",
+    "LA-094",
+    "LA-090",
+    "LA-002",
+    "SEED-17"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/thi-bang-lai-xe-may/",
+     "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+    ],
+    "money": "/thue-xe-may/ha-noi/",
+    "related": [
+     "/kinh-nghiem/cach-di-xe-ga-cho-nguoi-moi/",
+     "/kinh-nghiem/ao-mua-di-xe-may/"
+    ]
+   },
+   "angle_notes": "Góc tình huống và cách phòng tránh: trượt lý thuyết, trượt bài 1, trượt bài 2, vắng thi (LA-081: vắng hoặc trượt thì thi lại nội dung đó). Số câu đề lý thuyết hiện hành (25 câu, 19 phút) chỉ có qua bài Chinhphu.vn (LA-114, gap) — ghi nguồn. Yêu cầu đồ bảo hộ bài 2 (LA-109) phải nêu kèm mốc áp dụng nội dung bài 2 mới (01/01/2028, LA-079). Không ghi lệ phí thi lại, không nêu việc hoãn thi do thời tiết (không có nguồn).",
+   "differentiation": "Các bài V1 cùng cụm thi-bang-lai-a1 (13 URL) dùng từ khóa chung; trụ cột giữ \"thi bằng lái xe máy\" (hồ sơ, nơi thi, lệ phí). Bài này giữ long-tail \"trượt thực hành A1 thi lại thế nào\". Khác NH-01695 (các bước thi hạng A).",
+   "nearest_existing": [
+    "/luat-giao-thong/thi-bang-lai-xe-may/",
+    "/luat-giao-thong/bang-lai-xe-may-a1-a/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/toc-do-toi-da-xe-may-nguoi-di-lam-tai-cac-do-thi-giai-dap-thac-mac-pho-bien-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "id": "NH-03205",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "tốc độ tối đa xe máy trong khu dân cư",
+   "secondary_keywords": [
+    "xe máy trong khu đông dân cư chạy bao nhiêu km/h",
+    "biển bắt đầu khu đông dân cư r.420",
+    "đi trong ngõ tốc độ bao nhiêu",
+    "xe gắn máy tốc độ tối đa 40 km/h"
+   ],
+   "intent": "Người đi làm hỏi trong khu đông dân cư, khu đô thị và ngõ hẻm xe máy được chạy tối đa bao nhiêu km/h, làm sao biết đang ở khu đông dân cư, trong ngõ không có biển thì áp dụng gì, khi nào phải chạy chậm hơn mức tối đa và chạy quá bị xử lý ra sao.",
+   "title": "Tốc độ tối đa xe máy trong khu dân cư, ngõ hẻm: giải đáp 2026",
+   "excerpt": "Trong khu đông dân cư, xe mô tô tối đa 60 km/h trên đường đôi và 50 km/h trên đường hai chiều; xe gắn máy 40 km/h. Ngõ hẹp không có mức riêng, phải giảm tốc.",
+   "h2": [
+    "Tốc độ tối đa xe máy trong khu dân cư: 60 hoặc 50 km/h, xe gắn máy 40 km/h",
+    "Nhận biết khu đông dân cư bằng biển R.420, R.421",
+    "Trong ngõ hẹp, khu đô thị: không có mức riêng nhưng phải giảm tốc",
+    "Biển P.127 và đoạn đường không có biển tốc độ",
+    "Chạy quá tốc độ trong khu dân cư: các mức xử lý",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Trong ngõ không có biển, xe máy được chạy bao nhiêu km/h?",
+    "Đường đôi trong khu đô thị mới có được chạy 60 km/h không?",
+    "Chạy quá tốc độ 5 km/h có bị phạt không?",
+    "Xe máy điện chạy tối đa bao nhiêu km/h trong phố?"
+   ],
+   "fact_ids": [
+    "LB-091",
+    "LB-092",
+    "LB-093",
+    "LB-094",
+    "LB-096",
+    "LB-099",
+    "LB-100",
+    "LB-101",
+    "LB-102",
+    "LB-103",
+    "LB-104",
+    "LB-098",
+    "LA-150",
+    "SEED-271",
+    "SEED-272"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/xe-may-chay-qua-toc-do-phat-bao-nhieu/",
+     "/luat-giao-thong/truong-hop-phai-giam-toc-do/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-thang/",
+    "related": [
+     "/kinh-nghiem/di-xe-may-gio-cao-diem-ha-noi/",
+     "/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/"
+    ]
+   },
+   "angle_notes": "Góc giải đáp thắc mắc. Câu \"trong ngõ không biển\": áp tốc độ tối đa theo Thông tư 38 khi không có biển (LB-093) + nghĩa vụ giảm tốc trong khu dân cư (LB-101); không bịa con số riêng cho ngõ. Xe máy điện: tùy là xe gắn máy (40 km/h) hay xe mô tô (60/50 km/h), không gán cho mẫu cụ thể. Mức phạt chỉ tóm tắt và link trụ cột. Gap: chưa kiểm tra văn bản sửa đổi Thông tư 38 năm 2025–2026 — viết \"theo Thông tư 38/2024/TT-BGTVT\".",
+   "differentiation": "Các bài V1 cùng cụm toc-do-toi-da-xe-may (11 URL) dùng từ khóa chung; trụ cột giữ \"xe máy chạy quá tốc độ phạt bao nhiêu\", V2 giữ \"các trường hợp phải giảm tốc độ\". Bài này giữ long-tail \"tốc độ tối đa trong khu dân cư\" kèm ngõ hẻm.",
+   "nearest_existing": [
+    "/luat-giao-thong/xe-may-chay-qua-toc-do-phat-bao-nhieu/",
+    "/luat-giao-thong/truong-hop-phai-giam-toc-do/",
+    "/xe-may/xe-50cc-chay-duoc-bao-nhieu-km-h/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/tra-cuu-phat-nguoi-camera-nguoi-thuong-xuyen-di-cong-tac-tinh-giai-dap-thac-mac-pho-bien-trong-cac-dip-nghi-le-va-cao-diem-tet/",
+   "id": "NH-01165",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "bị phạt nguội ở tỉnh khác nộp ở đâu",
+   "secondary_keywords": [
+    "tra cứu phạt nguội trên csgt.vn",
+    "thông báo phạt nguội gửi qua đâu",
+    "lừa đảo phạt nguội dịp tết",
+    "chưa nộp phạt nguội có đổi bằng được không"
+   ],
+   "intent": "Người hay đi công tác tỉnh, về quê dịp lễ Tết hỏi cách tra cứu phạt nguội từ camera, thông báo gửi về đâu, vi phạm ở tỉnh khác giải quyết ở đâu, cảnh giác cuộc gọi mạo danh và hậu quả nếu để quá hạn.",
+   "title": "Tra cứu phạt nguội camera dịp Tết: vi phạm ở tỉnh khác nộp ở đâu",
+   "excerpt": "Tra cứu phạt nguội trên trang của Cục CSGT; vi phạm ở tỉnh khác có thể giải quyết tại Phòng CSGT nơi cư trú. Cảnh giác cuộc gọi mạo danh dịp lễ Tết.",
+   "h2": [
+    "Bị phạt nguội ở tỉnh khác: có thể nộp, giải quyết tại Phòng CSGT nơi cư trú",
+    "Tra cứu và nhận thông báo phạt nguội",
+    "Sau kỳ nghỉ lễ, Tết: tự tra cứu trước chuyến đi tiếp",
+    "Cuộc gọi, tin nhắn mạo danh phạt nguội",
+    "Để quá hạn: chưa được đăng ký xe, đổi bằng",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Có phải về tỉnh nơi bị ghi hình để nộp phạt không?",
+    "Thông báo phạt nguội được gửi qua đâu?",
+    "Chưa nộp phạt nguội có đổi bằng lái được không?",
+    "Xe cho mượn bị phạt nguội thì ai phải nộp?"
+   ],
+   "fact_ids": [
+    "LA-131",
+    "LA-057",
+    "LA-132",
+    "LA-133",
+    "LA-135",
+    "LA-059",
+    "LA-029",
+    "LA-072",
+    "LA-058",
+    "LA-044",
+    "LA-074",
+    "LA-060",
+    "LA-140"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/",
+     "/luat-giao-thong/phat-nguoi-qua-han-khong-nop-bi-gi/"
+    ],
+    "money": "/thue-xe-may/ha-noi/theo-ngay/",
+    "related": [
+     "/luat-giao-thong/nop-phat-vi-pham-giao-thong-online/",
+     "/thue-xe/thue-xe-may-ha-noi-di-tinh/"
+    ]
+   },
+   "angle_notes": "Góc giải đáp thắc mắc. Mở bài bằng LA-132, LA-133 (giải quyết tại nơi phát hiện, Phòng CSGT nơi cư trú hoặc nơi khác được công bố). Link tra cứu chính thức đúng như LA-131. Dịp lễ Tết: cảnh báo lừa đảo theo khuyến cáo Bộ Công an (LA-135), không bịa thủ đoạn. VNeTraffic nộp phạt toàn trình chỉ là dự kiến (LA-140). Không nêu vị trí camera cụ thể.",
+   "differentiation": "Các bài V1 cùng cụm tra-cuu-phat-nguoi-camera (13 URL) dùng từ khóa chung; trụ cột giữ \"tra cứu phạt nguội xe máy\". Bài này giữ long-tail \"phạt nguội ở tỉnh khác nộp ở đâu\". Khác NH-01245 (kênh nộp phạt, VNeID).",
+   "nearest_existing": [
+    "/luat-giao-thong/tra-cuu-phat-nguoi-xe-may/",
+    "/luat-giao-thong/phat-nguoi-qua-han-khong-nop-bi-gi/",
+    "/luat-giao-thong/nop-phat-vi-pham-giao-thong-online/"
+   ]
+  },
+  {
+   "url": "/luat-giao-thong/xe-khong-guong-chieu-hau-nguoi-moi-lay-bang-lai-tinh-huong-va-cach-phong-tranh-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "id": "NH-02285",
+   "batch": "OD1-B02",
+   "feasible": true,
+   "blocked_reason": "",
+   "primary_keyword": "gương chiếu hậu bị gãy có bị phạt không",
+   "secondary_keywords": [
+    "thiếu gương trái xe máy bị phạt",
+    "gương phải có bắt buộc không",
+    "gương chiếu hậu không có tác dụng",
+    "buộc lắp lại gương từ 15/8/2026"
+   ],
+   "intent": "Người mới có bằng gặp tình huống gương gãy, lỏng, bị gập khi chạy qua cầu sông Hồng: thiếu gương nào bị phạt, thế nào là gương không có tác dụng, biện pháp buộc thay thế từ 15/8/2026, xử lý tại chỗ và chuyển làn an toàn khi thiếu gương.",
+   "title": "Xe không gương chiếu hậu, gương gãy khi qua cầu: bị phạt gì?",
+   "excerpt": "Thiếu gương bên trái hoặc gương không có tác dụng bị phạt 400.000–600.000 đồng, không trừ điểm; từ 15/8/2026 còn bị buộc lắp lại. Xử lý khi gương gãy trên cầu.",
+   "h2": [
+    "Gương chiếu hậu bị gãy có bị phạt không: có, nếu là gương bên trái",
+    "Gương \"không có tác dụng\" là thế nào",
+    "Từ 15/8/2026: bị buộc thay thế, khôi phục gương",
+    "Tình huống trên cầu: gương gãy, gió mạnh, chuyển làn",
+    "Kiểm tra gương trước khi nhận xe thuê",
+    "Nguồn tham khảo"
+   ],
+   "faq": [
+    "Chỉ có gương phải, không có gương trái có bị phạt không?",
+    "Thiếu gương có bị trừ điểm bằng lái không?",
+    "Có được dừng xe trên cầu để chỉnh gương không?",
+    "Lắp gương nhỏ thay gương zin có bị phạt không?"
+   ],
+   "fact_ids": [
+    "LB-060",
+    "LB-061",
+    "LB-062",
+    "LB-063",
+    "LB-064",
+    "LB-050",
+    "LB-052",
+    "LB-068",
+    "LB-070",
+    "SEED-33",
+    "SEED-157"
+   ],
+   "internal_links": {
+    "pillar": [
+     "/luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/",
+     "/kinh-nghiem/chinh-guong-chieu-hau-xe-may/"
+    ],
+    "money": "/thue-xe-may/long-bien/",
+    "related": [
+     "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/",
+     "/du-lich/cau-thanh-tri-xe-may/"
+    ]
+   },
+   "angle_notes": "Góc tình huống và cách phòng tránh. Theo not_applicable legal_b: NĐ 168 chỉ phạt thiếu gương bên trái người điều khiển hoặc gương không có tác dụng; không khẳng định thiếu gương phải bị phạt. Gap: không có thông số kỹ thuật gương — câu \"gương nhỏ\" chỉ trả lời theo câu chữ \"có nhưng không có tác dụng\" và link trụ cột V2 (đã có mục gương nhỏ, gương gù), không đưa kích thước. Gương gãy giữa cầu: không dừng trên cầu, xử lý sự cố theo SEED-157.",
+   "differentiation": "Các bài V1 cùng cụm xe-khong-guong-chieu-hau (11 URL) dùng từ khóa chung; trụ cột V2 giữ \"xe máy không có gương phạt bao nhiêu\". Bài này giữ long-tail \"gương bị gãy\" và tình huống trên cầu. Khác NH-00975 (dừng xe trên cầu chụp ảnh).",
+   "nearest_existing": [
+    "/luat-giao-thong/khong-co-guong-chieu-hau-xe-may-phat-bao-nhieu/",
+    "/kinh-nghiem/chinh-guong-chieu-hau-xe-may/",
+    "/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/"
+   ]
+  }
+ ]
+}

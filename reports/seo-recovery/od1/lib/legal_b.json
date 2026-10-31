@@ -1,0 +1,2264 @@
+{
+ "library": "legal_b",
+ "built": "2026-10-31",
+ "facts": [
+  {
+   "id": "LB-001",
+   "tags": [
+    "luat-giao-thong",
+    "tru-diem-gplx",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều 7 Nghị định 168/2024/NĐ-CP là điều quy định mức phạt và trừ điểm giấy phép lái xe cho người điều khiển xe mô tô, xe gắn máy và các loại xe tương tự vi phạm quy tắc giao thông.",
+   "quote": "Điều 7. Xử phạt, trừ điểm giấy phép lái của người điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy vi phạm quy tắc giao thông đường bộ",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-002",
+   "tags": [
+    "luat-giao-thong",
+    "can-cu-phap-ly"
+   ],
+   "claim": "Nghị định 168/2024/NĐ-CP có hiệu lực từ ngày 01/01/2025 (trừ một số điểm có hiệu lực sau).",
+   "quote": "1. Nghị định này có hiệu lực thi hành từ ngày 01 tháng 01 năm 2025, trừ quy định tại khoản 2 Điều này.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-003",
+   "tags": [
+    "luat-giao-thong",
+    "can-cu-phap-ly"
+   ],
+   "claim": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung Nghị định 168/2024/NĐ-CP và lấy căn cứ là Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 đã được sửa đổi bởi Luật số 118/2025/QH15.",
+   "quote": "Sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe … Căn cứ Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 được sửa đổi, bổ sung bởi Luật số 118/2025/QH15;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-004",
+   "tags": [
+    "luat-giao-thong",
+    "can-cu-phap-ly"
+   ],
+   "claim": "Nghị định 238/2026/NĐ-CP có hiệu lực thi hành từ ngày 15/8/2026.",
+   "quote": "Điều 20. Hiệu lực thi hành 1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2026.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-005",
+   "tags": [
+    "luat-giao-thong",
+    "can-cu-phap-ly"
+   ],
+   "claim": "Vi phạm xảy ra và kết thúc trước ngày 15/8/2026 nhưng bị phát hiện sau đó thì áp dụng nghị định có hiệu lực tại thời điểm thực hiện hành vi.",
+   "quote": "Điều 21. Điều khoản chuyển tiếp Trường hợp hành vi vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ xảy ra và kết thúc trước ngày Nghị định này có hiệu lực thi hành sau đó mới bị phát hiện hoặc đang xem xét giải quyết thì áp dụng nghị định đang có hiệu lực tại thời điểm thực hiện hành vi vi phạm để xử phạt.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-006",
+   "tags": [
+    "luat-giao-thong",
+    "can-cu-phap-ly"
+   ],
+   "claim": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15 có hiệu lực từ 01/01/2025 và được sửa đổi bởi Luật 118/2025/QH15 có hiệu lực từ 01/7/2026.",
+   "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 ngày 27 tháng 6 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: Luật số 118/2025/QH15 ngày 10 tháng 12 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự, có hiệu lực kể từ ngày 01 tháng 7 năm 2026.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-007",
+   "tags": [
+    "phat-vuot-den-do",
+    "den-vang"
+   ],
+   "claim": "Luật quy định đèn vàng phải dừng trước vạch dừng, chỉ được đi tiếp khi đã ở trên hoặc qua vạch dừng; đèn đỏ là cấm đi.",
+   "quote": "4. Tín hiệu đèn giao thông có 03 màu, gồm: màu xanh, màu vàng, màu đỏ; có hiển thị thời gian hoặc không hiển thị thời gian. Người tham gia giao thông đường bộ phải chấp hành như sau: … b) Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp; trường hợp tín hiệu đèn màu vàng nhấp nháy, người điều khiển phương tiện tham gia giao thông đường bộ được đi nhưng phải quan sát, giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường hoặc các phương tiện khác; c) Tín hiệu đèn màu đỏ là cấm đi.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-008",
+   "tags": [
+    "phat-vuot-den-do",
+    "nhuong-duong-tai-nut-giao"
+   ],
+   "claim": "Khi đèn xanh nhưng người đi bộ, xe lăn đang ở lòng đường, người lái xe vẫn phải giảm tốc độ hoặc dừng lại nhường đường.",
+   "quote": "a) Tín hiệu đèn màu xanh là được đi; trường hợp người đi bộ, xe lăn của người khuyết tật đang đi ở lòng đường, người điều khiển phương tiện tham gia giao thông đường bộ phải giảm tốc độ hoặc dừng lại nhường đường cho người đi bộ, xe lăn của người khuyết tật qua đường;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-009",
+   "tags": [
+    "phat-vuot-den-do",
+    "den-vang"
+   ],
+   "claim": "QCVN 41:2024 nhắc lại: đèn vàng phải dừng trước vạch dừng, đang ở trên hoặc đã qua vạch dừng thì được đi tiếp.",
+   "quote": "6.3.2. Tín hiệu đèn màu vàng phải dừng lại trước vạch dừng; trường hợp đang đi trên vạch dừng hoặc đã đi qua vạch dừng mà tín hiệu đèn màu vàng thì được đi tiếp.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-010",
+   "tags": [
+    "phat-vuot-den-do"
+   ],
+   "claim": "Theo QCVN 41:2024, đèn đỏ buộc dừng trước vạch dừng; nếu không có vạch dừng thì vị trí đèn tín hiệu gần nhất theo chiều đi được coi là vạch dừng.",
+   "quote": "6.3.3. Tín hiệu đèn màu đỏ là cấm đi: báo hiệu phải dừng lại trước vạch dừng. Nếu không có vạch dừng thì phải dừng trước đèn tín hiệu theo chiều đi. 6.3.4. Trường hợp không có vạch dừng, thì vị trí đặt đèn tín hiệu gần nhất theo chiều đi coi như là vạch dừng.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-011",
+   "tags": [
+    "phat-vuot-den-do",
+    "nhuong-duong-tai-nut-giao"
+   ],
+   "claim": "Khi mũi tên xanh sáng cùng đèn đỏ hoặc vàng, xe được đi theo hướng mũi tên nhưng phải nhường đường cho phương tiện từ hướng khác đang được phép đi; mũi tên đỏ sáng cùng đèn xanh thì không được đi theo hướng mũi tên.",
+   "quote": "6.4.3. Khi tín hiệu mũi tên màu xanh được bật sáng cùng một lúc với tín hiệu đỏ hoặc vàng thì các phương tiện đi theo hướng mũi tên nhưng phải nhường đường cho các loại phương tiện đi từ các hướng khác đang được phép đi. 6.4.4. Khi tín hiệu mũi tên màu đỏ được bật sáng cùng lúc với tín hiệu đèn chính màu xanh thì phương tiện không được đi theo hướng mũi tên.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-012",
+   "tags": [
+    "phat-vuot-den-do",
+    "nhan-biet-bien-bao-cam"
+   ],
+   "claim": "Mũi tên cho phép rẽ trái trên đèn tín hiệu đồng thời cho phép quay đầu, trừ khi có biển P.124 (a,b) \"Cấm quay đầu xe\".",
+   "quote": "6.2.2. Trong từng tín hiệu của đèn có thể có hình mũi tên. Nếu mũi tên chỉ hướng cho phép rẽ trái thì đồng thời cho phép quay đầu, trừ khi có đặt biển báo số P.124 (a,b) “Cấm quay đầu xe”.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-013",
+   "tags": [
+    "phat-vuot-den-do",
+    "den-vang",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người điều khiển xe mô tô, xe gắn máy không chấp hành hiệu lệnh của đèn tín hiệu giao thông bị phạt từ 4.000.000 đến 6.000.000 đồng (điểm c khoản 7 Điều 7 NĐ 168) và trừ 04 điểm GPLX (điểm b khoản 13).",
+   "quote": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … c) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-014",
+   "tags": [
+    "phat-vuot-den-do",
+    "quyen-kiem-tra-cua-csgt",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông khi đi xe máy bị phạt từ 4.000.000 đến 6.000.000 đồng (điểm d khoản 7 Điều 7) và trừ 04 điểm GPLX.",
+   "quote": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-015",
+   "tags": [
+    "tru-diem-gplx",
+    "phat-vuot-den-do",
+    "phat-di-nguoc-chieu",
+    "di-vao-duong-cam",
+    "nhuong-duong-tai-nut-giao",
+    "cho-nguoi-qua-quy-dinh",
+    "muc-phat-nong-do-con",
+    "dung-dien-thoai-khi-lai-xe",
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Khoản 13 Điều 7 NĐ 168 quy định mức trừ điểm GPLX của người đi xe máy: 02 điểm (chở từ 3 người, khoản 5, điểm b/c/d khoản 6, điểm a khoản 7), 04 điểm (dùng điện thoại, nồng độ cồn mức 1, vượt đèn, không chấp hành CSGT, không nhường xe ưu tiên, quá tốc độ trên 20 km/h), 06 điểm (vào cao tốc, gây tai nạn bỏ chạy) và 10 điểm (nồng độ cồn mức 2, khoản 10).",
+   "quote": "13. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe như sau: a) Thực hiện hành vi quy định tại điểm b khoản 3; khoản 5; điểm b, điểm c, điểm d khoản 6; điểm a khoản 7 Điều này bị trừ điểm giấy phép lái xe 02 điểm; b) Thực hiện hành vi quy định tại điểm đ khoản 4; điểm a khoản 6; điểm c, điểm d, điểm đ khoản 7; điểm a khoản 8 Điều này bị trừ điểm giấy phép lái xe 04 điểm; c) Thực hiện hành vi quy định tại điểm b khoản 7, điểm c khoản 9 Điều này bị trừ điểm giấy phép lái xe 06 điểm; d) Thực hiện hành vi quy định tại điểm b khoản 8, khoản 10 Điều này bị trừ điểm giấy phép lái xe 10 điểm.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-016",
+   "tags": [
+    "phat-di-nguoc-chieu",
+    "dung-do-xe-tren-he-pho",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Đi ngược chiều đường một chiều, đi ngược chiều nơi có biển \"Cấm đi ngược chiều\" hoặc chạy xe trên vỉa hè (trừ đi qua vỉa hè để vào nhà, cơ quan) bị phạt từ 4.000.000 đến 6.000.000 đồng và trừ 02 điểm GPLX.",
+   "quote": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … a) Đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển \"Cấm đi ngược chiều\", trừ hành vi vi phạm quy định tại điểm b khoản này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định; điều khiển xe đi trên vỉa hè, trừ trường hợp điều khiển xe đi qua vỉa hè để vào nhà, cơ quan;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-017",
+   "tags": [
+    "phat-di-nguoc-chieu",
+    "di-vao-duong-cam",
+    "toc-do-toi-da-xe-may",
+    "chuyen-huong-khong-xi-nhan",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Đi ngược chiều, đi vào đường cấm, chạy quá tốc độ hoặc chuyển hướng, chuyển làn sai quy định mà gây tai nạn giao thông bị phạt từ 10.000.000 đến 14.000.000 đồng (điểm a khoản 10 Điều 7) và trừ 10 điểm GPLX (điểm d khoản 13).",
+   "quote": "10. Phạt tiền từ 10.000.000 đồng đến 14.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … a) Điều khiển xe không quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn theo quy định mà gây tai nạn giao thông; điều khiển xe chạy quá tốc độ quy định gây tai nạn giao thông; đi vào đường cao tốc, dừng xe, đỗ xe, quay đầu xe, lùi xe, vượt xe, chuyển hướng, chuyển làn đường không đúng quy định gây tai nạn giao thông; không đi đúng phần đường, làn đường, không giữ khoảng cách an toàn giữa hai xe theo quy định gây tai nạn giao thông hoặc đi vào đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, đi ngược chiều của đường một chiều, đi ngược chiều trên đường có biển \"Cấm đi ngược chiều\" gây tai nạn giao thông;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-018",
+   "tags": [
+    "phat-di-nguoc-chieu",
+    "nhan-biet-bien-bao-cam"
+   ],
+   "claim": "Luật cấm quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, trong hầm, trên đường một chiều và một số vị trí khác, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc biển tạm thời.",
+   "quote": "4. Không được quay đầu xe ở phần đường dành cho người đi bộ qua đường, trên cầu, đầu cầu, gầm cầu vượt, ngầm, tại nơi đường bộ giao nhau cùng mức với đường sắt, đường hẹp, đường dốc, đoạn đường cong tầm nhìn bị che khuất, trên đường cao tốc, trong hầm đường bộ, trên đường một chiều, trừ khi có hiệu lệnh của người điều khiển giao thông hoặc chỉ dẫn của biển báo hiệu tạm thời.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-019",
+   "tags": [
+    "phat-di-nguoc-chieu",
+    "nhan-biet-bien-bao-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Quay đầu xe máy tại nơi không được quay đầu bị phạt từ 400.000 đến 600.000 đồng (điểm k khoản 2 Điều 7), riêng quay đầu trong hầm đường bộ bị phạt 800.000 đến 1.000.000 đồng (điểm d khoản 4).",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … k) Quay đầu xe tại nơi không được quay đầu xe, trừ hành vi vi phạm quy định tại điểm d khoản 4 Điều này. … 4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Quay đầu xe trong hầm đường bộ;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-020",
+   "tags": [
+    "phat-di-nguoc-chieu",
+    "nhan-biet-bien-bao-cam"
+   ],
+   "claim": "Biển P.102 \"Cấm đi ngược chiều\" cấm mọi loại xe cơ giới và thô sơ đi vào theo chiều đặt biển, trừ xe ưu tiên.",
+   "quote": "a) Để báo đường cấm các loại xe (cơ giới và thô sơ) đi vào theo chiều đặt biển, trừ các xe được ưu tiên theo quy định, đặt biển số P.102 \"Cấm đi ngược chiều\". Người đi bộ được phép đi trên vỉa hè hoặc lề đường.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-021",
+   "tags": [
+    "di-vao-duong-cam",
+    "nhan-biet-bien-bao-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Đi vào khu vực cấm hoặc đường có biển cấm đi vào đối với loại xe đang điều khiển bị phạt từ 2.000.000 đến 3.000.000 đồng (điểm b khoản 6 Điều 7) và trừ 02 điểm GPLX.",
+   "quote": "6. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Đi vào khu vực cấm, đường có biển báo hiệu có nội dung cấm đi vào đối với loại phương tiện đang điều khiển, trừ các hành vi vi phạm quy định tại điểm a, điểm b khoản 7 Điều này và các trường hợp xe ưu tiên đang đi làm nhiệm vụ khẩn cấp theo quy định;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-022",
+   "tags": [
+    "di-vao-duong-cam",
+    "nhan-biet-bien-bao-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Từ 15/8/2026, NĐ 238/2026 bổ sung vào điểm b khoản 6 Điều 7 trường hợp đi vào nơi \"có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển\" (không chỉ nơi có biển báo).",
+   "quote": "3. Bổ sung cụm từ \"hoặc có quy định cấm của cấp có thẩm quyền đối với loại phương tiện đang điều khiển\" vào sau cụm từ \"đối với loại phương tiện đang điều khiển\" tại điểm i khoản 5 Điều 6, điểm b khoản 6 Điều 7, điểm d khoản 6 Điều 8 Nghị định này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-023",
+   "tags": [
+    "di-vao-duong-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều khiển xe mô tô, xe gắn máy đi vào đường cao tốc bị phạt từ 4.000.000 đến 6.000.000 đồng (điểm b khoản 7 Điều 7) và trừ 06 điểm GPLX.",
+   "quote": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Điều khiển xe đi vào đường cao tốc, trừ xe phục vụ việc quản lý, bảo trì đường cao tốc;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-024",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "di-vao-duong-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Lỗi chung \"không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường\" của người đi xe máy bị phạt từ 200.000 đến 400.000 đồng, trừ các hành vi đã có mức phạt riêng.",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … a) Không chấp hành hiệu lệnh, chỉ dẫn của biển báo hiệu, vạch kẻ đường, trừ các hành vi vi phạm quy định tại điểm b, điểm d, điểm e khoản 2; điểm a, điểm c, điểm d, điểm h khoản 3; điểm a, điểm b, điểm c, điểm d khoản 4; điểm b, điểm d khoản 6; điểm a, điểm b, điểm c khoản 7; điểm a khoản 8; điểm b khoản 9; điểm a khoản 10 Điều này;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-025",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "chuyen-huong-khong-xi-nhan",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chuyển hướng không có tín hiệu báo rẽ (hoặc không bật liên tục), hoặc rẽ trái/rẽ phải tại nơi có biển cấm rẽ đối với loại xe đang đi, bị phạt từ 600.000 đến 800.000 đồng (điểm a khoản 3 Điều 7); khoản 13 không quy định trừ điểm cho lỗi này.",
+   "quote": "3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … a) Chuyển hướng không quan sát hoặc không bảo đảm khoảng cách an toàn với xe phía sau hoặc không giảm tốc độ hoặc không có tín hiệu báo hướng rẽ hoặc có tín hiệu báo hướng rẽ nhưng không sử dụng liên tục trong quá trình chuyển hướng (trừ trường hợp điều khiển xe đi theo hướng cong của đoạn đường bộ ở nơi đường không giao nhau cùng mức); điều khiển xe rẽ trái tại nơi có biển báo hiệu có nội dung cấm rẽ trái đối với loại phương tiện đang điều khiển; điều khiển xe rẽ phải tại nơi có biển báo hiệu có nội dung cấm rẽ phải đối với loại phương tiện đang điều khiển;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-026",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "phat-vuot-den-do"
+   ],
+   "claim": "Thứ tự ưu tiên chấp hành báo hiệu: hiệu lệnh người điều khiển giao thông, rồi tín hiệu đèn, rồi biển báo, rồi vạch kẻ đường.",
+   "quote": "2. Người tham gia giao thông đường bộ phải chấp hành báo hiệu đường bộ theo thứ tự ưu tiên từ trên xuống dưới như sau: a) Hiệu lệnh của người điều khiển giao thông; b) Tín hiệu đèn giao thông; c) Biển báo hiệu đường bộ; d) Vạch kẻ đường và các dấu hiệu khác trên mặt đường;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-027",
+   "tags": [
+    "nhan-biet-bien-bao-cam"
+   ],
+   "claim": "Khi biển cố định và biển tạm thời tại cùng vị trí có ý nghĩa khác nhau, phải chấp hành biển tạm thời.",
+   "quote": "12. Khi ở một vị trí vừa có biển báo hiệu đặt cố định vừa có biển báo hiệu tạm thời mà hai biển có ý nghĩa khác nhau, người tham gia giao thông đường bộ phải chấp hành hiệu lệnh của biển báo hiệu tạm thời.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-028",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "di-vao-duong-cam"
+   ],
+   "claim": "Biển P.101 \"Đường cấm\" cấm mọi loại phương tiện đi lại cả hai hướng, trừ xe ưu tiên.",
+   "quote": "a) Để báo đường cấm các loại phương tiện đi lại cả hai hướng, trừ các xe được ưu tiên theo quy định, đặt biển số P.101 \"Đường cấm\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-029",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "di-vao-duong-cam"
+   ],
+   "claim": "Biển P.103a \"Cấm xe ô tô\" không cấm xe máy 2 bánh và xe gắn máy.",
+   "quote": "a) Để báo đường cấm các loại xe cơ giới kể cả xe máy 3 bánh có thùng đi qua, trừ xe máy 2 bánh, xe gắn máy và các xe được ưu tiên theo quy định, đặt biển số P.103a \"Cấm xe ô tô\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-030",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "di-vao-duong-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Biển P.104 \"Cấm xe máy\" cấm các loại xe máy (trừ xe ưu tiên) nhưng không cấm người dắt xe máy đi bộ.",
+   "quote": "Để báo đường cấm các loại xe máy, trừ các xe được ưu tiên theo quy định, đặt biển số P.104 \"Cấm xe máy\". Biển không có giá trị cấm những người dắt xe máy.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-031",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "di-vao-duong-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Biển P.105 \"Cấm xe ô tô và xe máy\" cấm cả xe cơ giới và xe máy đi qua, trừ xe ưu tiên.",
+   "quote": "Để báo đường cấm các loại xe cơ giới và xe máy đi qua trừ các xe được ưu tiên theo quy định, đặt biển số P.105 \"Cấm xe ô tô và xe máy\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-032",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "di-vao-duong-cam",
+    "xe-50cc",
+    "xe-may-dien",
+    "xe-dap"
+   ],
+   "claim": "Biển P.111a \"Cấm xe gắn máy\" cấm xe gắn máy đi qua và không có giá trị đối với xe đạp.",
+   "quote": "a) Để báo đường cấm xe gắn máy đi qua, đặt biển số P.111a \"Cấm xe gắn máy\". Biển không có giá trị đối với xe đạp.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-033",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "chuyen-huong-khong-xi-nhan"
+   ],
+   "claim": "Biển P.123a/P.123b cấm rẽ trái/rẽ phải với mọi loại xe (trừ xe ưu tiên) nhưng không có giá trị cấm quay đầu xe.",
+   "quote": "a) Để báo cấm rẽ trái hoặc rẽ phải (theo hướng mũi tên chỉ) ở những vị trí đường giao nhau, đặt biển số P.123a \"Cấm rẽ trái\" hoặc biển số P.123b \"Cấm rẽ phải\". Biển không có giá trị cấm quay đầu xe. b) Biển có hiệu lực cấm các loại xe (cơ giới và thô sơ) rẽ sang phía trái hoặc phía phải trừ các xe được ưu tiên theo quy định.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-034",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "phat-di-nguoc-chieu"
+   ],
+   "claim": "Biển P.124a \"Cấm quay đầu xe\" cấm các loại xe quay đầu theo kiểu chữ U.",
+   "quote": "a) Để báo cấm các loại xe quay đầu (theo kiểu chữ U), đặt biển số P.124a \"Cấm quay đầu xe\". Chiều mũi tên phù hợp với chiều cấm quay đầu xe.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-035",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "dung-do-xe-tren-he-pho"
+   ],
+   "claim": "Biển P.130 \"Cấm dừng xe và đỗ xe\" cấm các loại xe cơ giới dừng và đỗ ở phía đường có đặt biển, trừ xe ưu tiên.",
+   "quote": "a) Để báo nơi cấm dừng xe và đỗ xe, đặt biển số P.130 \"Cấm dừng xe và đỗ xe\". Biển có hiệu lực cấm các loại xe cơ giới dừng và đỗ ở phía đường có đặt biển trừ các xe được ưu tiên theo quy định.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-036",
+   "tags": [
+    "nhan-biet-bien-bao-cam",
+    "dung-do-xe-tren-he-pho"
+   ],
+   "claim": "Biển P.131a \"Cấm đỗ xe\" cấm các loại xe cơ giới đỗ ở phía đường có đặt biển.",
+   "quote": "a) Để báo nơi cấm đỗ xe trừ các xe được ưu tiên theo quy định, đặt biển số P.131 (a,b,c) \"Cấm đỗ xe\". Biển số P.131a có hiệu lực cấm các loại xe cơ giới đỗ ở phía đường có đặt biển.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-037",
+   "tags": [
+    "nhuong-duong-tai-nut-giao"
+   ],
+   "claim": "Tại nút giao không có báo hiệu vòng xuyến phải nhường xe đến từ bên phải; tại nút có báo hiệu vòng xuyến phải nhường xe đến từ bên trái; xe từ đường nhánh, đường không ưu tiên nhường xe trên đường chính, đường ưu tiên.",
+   "quote": "Khi đến gần đường giao nhau, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ và nhường đường theo quy định sau đây: 1. Tại nơi đường giao nhau giữa đường không ưu tiên với đường ưu tiên hoặc giữa đường nhánh với đường chính thì xe đi từ đường không ưu tiên hoặc đường nhánh phải nhường đường cho xe đi trên đường ưu tiên hoặc đường chính từ bất kỳ hướng nào tới; 2. Tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên phải; 3. Tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến, phải nhường đường cho xe đi đến từ bên trái.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-038",
+   "tags": [
+    "nhuong-duong-tai-nut-giao",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Lỗi chung không tuân thủ quy định nhường đường tại nơi giao nhau của người đi xe máy bị phạt từ 200.000 đến 400.000 đồng (điểm đ khoản 1 Điều 7), trừ các hành vi ở điểm c, d khoản 6.",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … đ) Không tuân thủ các quy định về nhường đường tại nơi đường giao nhau, trừ các hành vi vi phạm quy định tại điểm c, điểm d khoản 6 Điều này;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-039",
+   "tags": [
+    "nhuong-duong-tai-nut-giao",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Không giảm tốc độ và nhường đường khi từ đường nhánh ra đường chính, hoặc không nhường xe bên phải (nút không vòng xuyến) / bên trái (nút có vòng xuyến) bị phạt từ 2.000.000 đến 3.000.000 đồng và trừ 02 điểm GPLX.",
+   "quote": "6. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … c) Không giảm tốc độ (hoặc dừng lại) và nhường đường khi điều khiển xe đi từ đường không ưu tiên ra đường ưu tiên, từ đường nhánh ra đường chính; d) Không giảm tốc độ và nhường đường cho xe đi đến từ bên phải tại nơi đường giao nhau không có báo hiệu đi theo vòng xuyến; không giảm tốc độ và nhường đường cho xe đi đến từ bên trái tại nơi đường giao nhau có báo hiệu đi theo vòng xuyến.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-040",
+   "tags": [
+    "nhuong-duong-tai-nut-giao",
+    "chuyen-huong-khong-xi-nhan",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chuyển hướng không nhường người đi bộ, xe lăn tại vạch qua đường, không nhường xe đi ngược chiều hoặc xe thô sơ bị phạt từ 1.000.000 đến 2.000.000 đồng và trừ 02 điểm GPLX (khoản 5 Điều 7).",
+   "quote": "5. Phạt tiền từ 1.000.000 đồng đến 2.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Chuyển hướng không nhường quyền đi trước cho: người đi bộ, xe lăn của người khuyết tật qua đường tại nơi có vạch kẻ đường dành cho người đi bộ; xe thô sơ đang đi trên phần đường dành cho xe thô sơ; c) Chuyển hướng không nhường đường cho: các xe đi ngược chiều; người đi bộ, xe thô sơ đang qua đường tại nơi không có vạch kẻ đường cho người đi bộ.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-041",
+   "tags": [
+    "nhuong-duong-tai-nut-giao",
+    "chuyen-huong-khong-xi-nhan"
+   ],
+   "claim": "Khi chuyển hướng, người lái xe phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều.",
+   "quote": "3. Khi chuyển hướng, người lái xe, người điều khiển xe máy chuyên dùng phải nhường đường cho người đi bộ, xe thô sơ, xe đi ngược chiều và chỉ chuyển hướng khi không gây trở ngại hoặc nguy hiểm cho người, phương tiện khác.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-042",
+   "tags": [
+    "nhuong-duong-tai-nut-giao",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Không nhường đường hoặc gây cản trở xe ưu tiên đang phát tín hiệu đi làm nhiệm vụ bị phạt từ 4.000.000 đến 6.000.000 đồng và trừ 04 điểm GPLX.",
+   "quote": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … đ) Không nhường đường hoặc gây cản trở xe được quyền ưu tiên đang phát tín hiệu ưu tiên đi làm nhiệm vụ.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-043",
+   "tags": [
+    "nhuong-duong-tai-nut-giao",
+    "nhan-biet-bien-bao-cam"
+   ],
+   "claim": "Biển R.303 \"Nơi giao nhau chạy theo vòng xuyến\" bắt buộc các xe muốn chuyển hướng phải chạy vòng theo đảo an toàn theo hướng mũi tên.",
+   "quote": "a) Để báo cho các loại xe (thô sơ và cơ giới) phải chạy vòng theo đảo an toàn ở nơi đường giao nhau phải đặt biển số R.303 \"Nơi giao nhau chạy theo vòng xuyến\". b) Biển có hiệu lực bắt buộc các loại xe muốn chuyển hướng phải chạy vòng theo đảo an toàn theo hướng mũi tên.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-044",
+   "tags": [
+    "quy-dinh-mu-bao-hiem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái và người ngồi sau xe mô tô, xe gắn máy phải đội mũ bảo hiểm đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
+   "quote": "2. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-045",
+   "tags": [
+    "quy-dinh-mu-bao-hiem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái xe máy không đội mũ bảo hiểm hoặc đội không cài quai đúng quy cách bị phạt từ 400.000 đến 600.000 đồng (điểm h khoản 2 Điều 7); lỗi này không nằm trong danh sách trừ điểm ở khoản 13.",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … h) Không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách khi điều khiển xe tham gia giao thông trên đường bộ;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-046",
+   "tags": [
+    "quy-dinh-mu-bao-hiem",
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái chở người ngồi sau không đội mũ bảo hiểm (hoặc không cài quai) bị phạt từ 400.000 đến 600.000 đồng, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người vi phạm pháp luật.",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … i) Chở người ngồi trên xe không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 06 tuổi, áp giải người có hành vi vi phạm pháp luật;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-047",
+   "tags": [
+    "quy-dinh-mu-bao-hiem",
+    "cho-hang-cong-kenh",
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chính người ngồi sau xe máy cũng bị phạt từ 400.000 đến 600.000 đồng nếu không đội mũ bảo hiểm, không cài quai đúng quy cách, hoặc mang vác vật cồng kềnh, đứng trên yên, giá đèo hàng (khoản 5 Điều 12).",
+   "quote": "5. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người được chở trên xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây: a) Bám, kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang vác vật cồng kềnh, đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái của xe; b) Không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách khi tham gia giao thông trên đường bộ.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-048",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan"
+   ],
+   "claim": "Trước khi chuyển hướng phải quan sát, giữ khoảng cách với xe phía sau, giảm tốc độ, bật tín hiệu báo rẽ và duy trì tín hiệu liên tục trong suốt quá trình chuyển hướng.",
+   "quote": "2. Trước khi chuyển hướng, người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, bảo đảm khoảng cách an toàn với xe phía sau, giảm tốc độ và có tín hiệu báo hướng rẽ hoặc có tín hiệu bằng tay theo hướng rẽ đối với xe thô sơ không có đèn báo hướng rẽ, chuyển dần sang làn gần nhất với hướng rẽ. Tín hiệu báo hướng rẽ hoặc tín hiệu bằng tay phải sử dụng liên tục trong quá trình chuyển hướng. Khi bảo đảm an toàn, không gây trở ngại cho người và phương tiện khác mới được chuyển hướng.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-049",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan"
+   ],
+   "claim": "Theo Luật, \"chuyển hướng\" gồm rẽ trái, rẽ phải hoặc quay đầu xe.",
+   "quote": "1. Chuyển hướng xe là tình huống giao thông mà xe rẽ trái hoặc rẽ phải hoặc quay đầu xe.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-050",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan"
+   ],
+   "claim": "Khi chuyển làn phải có tín hiệu báo trước, chỉ chuyển ở nơi cho phép, mỗi lần chỉ sang một làn liền kề và phải bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên.",
+   "quote": "2. Trên đường có nhiều làn đường cho xe đi cùng chiều được phân biệt bằng vạch kẻ phân làn đường, người điều khiển phương tiện tham gia giao thông đường bộ phải cho xe đi trong một làn đường và chỉ được chuyển làn đường ở những nơi cho phép; mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề; khi chuyển làn đường phải có tín hiệu báo trước; phải quan sát bảo đảm khoảng cách an toàn với xe phía trước, phía sau và hai bên mới được chuyển làn.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-051",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chuyển làn không đúng nơi cho phép, không có tín hiệu báo trước hoặc chuyển nhiều làn một lúc bị phạt từ 200.000 đến 400.000 đồng (điểm e khoản 1 Điều 7); lỗi này không bị trừ điểm GPLX.",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … e) Chuyển làn đường không đúng nơi cho phép hoặc không có tín hiệu báo trước hoặc chuyển làn đường không đúng quy định \"mỗi lần chuyển làn đường chỉ được phép chuyển sang một làn đường liền kề\";",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-052",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Từ 15/8/2026, điểm e khoản 1 Điều 7 được bổ sung hành vi chuyển làn không bảo đảm khoảng cách an toàn với xe phía trước, phía sau, hai bên (cùng khung phạt 200.000 đến 400.000 đồng).",
+   "quote": "2. Bổ sung cụm từ \"hoặc chuyển làn đường không bảo đảm khoảng cách an toàn với xe phía trước, xe phía sau, xe hai bên\" vào sau cụm từ \"chỉ được phép chuyển sang một làn đường liền kề\" tại điểm a khoản 2, điểm g khoản 5 Điều 6; điểm e khoản 1 Điều 7; điểm h khoản 6 Điều 8.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-053",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Vượt xe mà không có tín hiệu trước hoặc không duy trì tín hiệu trong suốt quá trình vượt bị phạt từ 200.000 đến 400.000 đồng (điểm b khoản 1 Điều 7).",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Không có tín hiệu trước khi vượt hoặc có tín hiệu vượt xe nhưng không sử dụng trong suốt quá trình vượt xe;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-054",
+   "tags": [
+    "chuyen-huong-khong-xi-nhan",
+    "phat-di-nguoc-chieu",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Đi không đúng phần đường, làn đường quy định hoặc không đi bên phải theo chiều đi bị phạt từ 600.000 đến 800.000 đồng (điểm d khoản 3 Điều 7).",
+   "quote": "3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Điều khiển xe không đi bên phải theo chiều đi của mình; đi không đúng phần đường, làn đường quy định (làn cùng chiều hoặc làn ngược chiều); điều khiển xe đi qua dải phân cách cố định ở giữa hai phần đường xe chạy;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-055",
+   "tags": [
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Xe mô tô hai bánh, xe gắn máy chỉ được chở một người; được chở tối đa hai người khi chở người bệnh đi cấp cứu, áp giải người vi phạm, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật.",
+   "quote": "1. Người lái xe mô tô hai bánh, xe gắn máy chỉ được chở một người, trừ những trường hợp sau thì được chở tối đa hai người: a) Chở người bệnh đi cấp cứu; b) Áp giải người có hành vi vi phạm pháp luật; c) Trẻ em dưới 12 tuổi; d) Người già yếu hoặc người khuyết tật.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-056",
+   "tags": [
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chở theo 02 người trên xe máy (ngoài các trường hợp ngoại lệ) bị phạt từ 400.000 đến 600.000 đồng (điểm g khoản 2 Điều 7).",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … g) Chở theo 02 người trên xe, trừ trường hợp chở người bệnh đi cấp cứu, trẻ em dưới 12 tuổi, người già yếu hoặc người khuyết tật, áp giải người có hành vi vi phạm pháp luật;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-057",
+   "tags": [
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chở theo từ 03 người trở lên trên xe máy bị phạt từ 600.000 đến 800.000 đồng (điểm b khoản 3 Điều 7) và trừ 02 điểm GPLX (điểm a khoản 13).",
+   "quote": "3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Chở theo từ 03 người trở lên trên xe;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-058",
+   "tags": [
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người ngồi sau vòng tay qua người ngồi trước để điều khiển xe bị phạt từ 8.000.000 đến 10.000.000 đồng (trừ khi chở trẻ em dưới 06 tuổi ngồi phía trước) và bị tước GPLX từ 10 đến 12 tháng.",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … h) Ngồi phía sau vòng tay qua người ngồi trước để điều khiển xe, trừ trường hợp chở trẻ em dưới 06 tuổi ngồi phía trước; … b) Thực hiện hành vi quy định tại điểm a, điểm b, điểm h, điểm i, điểm k khoản 9 Điều này bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-059",
+   "tags": [
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái chở người ngồi sau sử dụng ô (dù) bị phạt từ 200.000 đến 400.000 đồng (điểm d khoản 1 Điều 7); người ngồi sau dùng ô bị phạt 200.000 đến 250.000 đồng (điểm d khoản 2 Điều 12).",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Chở người ngồi trên xe sử dụng ô (dù); … 2. Phạt tiền từ 200.000 đồng đến 250.000 đồng đối với cá nhân thực hiện một trong các hành vi vi phạm sau đây: … d) Người được chở trên xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy sử dụng ô (dù);",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-060",
+   "tags": [
+    "xe-khong-guong-chieu-hau",
+    "bat-den-chieu-sang-ban-dem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều khiển xe máy không có gương chiếu hậu bên trái người điều khiển (hoặc có nhưng không có tác dụng), không có còi, đèn báo hãm, đèn tín hiệu, đèn chiếu sáng gần/xa bị phạt từ 400.000 đến 600.000 đồng (khoản 1 Điều 14).",
+   "quote": "1. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với một trong các hành vi vi phạm sau đây: a) Điều khiển xe không có còi; đèn soi biển số; đèn báo hãm; gương chiếu hậu bên trái người điều khiển hoặc có nhưng không có tác dụng; b) Điều khiển xe không có đèn tín hiệu hoặc có nhưng không có tác dụng; c) Điều khiển xe không có đèn chiếu sáng gần, xa hoặc có nhưng không có tác dụng, không đúng tiêu chuẩn thiết kế;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-061",
+   "tags": [
+    "xe-khong-guong-chieu-hau",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Văn bản gốc NĐ 168 chỉ áp dụng biện pháp buộc thay thế thiết bị đủ tiêu chuẩn cho lỗi còi sai quy chuẩn (điểm đ khoản 2 Điều 14).",
+   "quote": "6. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các biện pháp khắc phục hậu quả sau đây: a) Thực hiện hành vi quy định tại điểm đ khoản 2 Điều này buộc thay thế thiết bị đủ tiêu chuẩn an toàn kỹ thuật hoặc khôi phục tính năng kỹ thuật của thiết bị theo quy định;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-062",
+   "tags": [
+    "xe-khong-guong-chieu-hau",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Từ 15/8/2026, NĐ 238/2026 mở rộng biện pháp buộc thay thế thiết bị đủ tiêu chuẩn hoặc khôi phục tính năng kỹ thuật sang các lỗi ở khoản 1 Điều 14 (gồm thiếu gương chiếu hậu bên trái) và điểm d khoản 2.",
+   "quote": "5. Bổ sung cụm từ \"khoản 1; điểm d,\" vào trước cụm từ \"điểm đ\" tại điểm a khoản 6 Điều 14.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-063",
+   "tags": [
+    "xe-khong-guong-chieu-hau",
+    "tru-diem-gplx",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Khoản 8 Điều 14 chỉ trừ điểm với lỗi giấy đăng ký xe (điểm a, b, c khoản 2) và biển số (khoản 3); lỗi thiếu gương ở khoản 1 không bị trừ điểm GPLX.",
+   "quote": "8. Ngoài việc bị áp dụng hình thức xử phạt, người điều khiển xe thực hiện hành vi vi phạm còn bị trừ điểm giấy phép lái xe như sau: a) Thực hiện hành vi quy định tại điểm a, điểm b, điểm c khoản 2 Điều này bị trừ điểm giấy phép lái xe 02 điểm; b) Thực hiện hành vi quy định tại khoản 3 Điều này bị trừ điểm giấy phép lái xe 06 điểm.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-064",
+   "tags": [
+    "xe-khong-guong-chieu-hau",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều khiển xe máy không có hệ thống hãm hoặc hãm không có tác dụng, không bảo đảm tiêu chuẩn kỹ thuật bị phạt từ 400.000 đến 600.000 đồng (điểm d khoản 1 Điều 14).",
+   "quote": "1. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với một trong các hành vi vi phạm sau đây: … d) Điều khiển xe không có hệ thống hãm hoặc có nhưng không có tác dụng, không bảo đảm tiêu chuẩn kỹ thuật;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-065",
+   "tags": [
+    "dung-do-xe-tren-he-pho",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dừng, đỗ xe máy ở lòng đường gây cản trở giao thông, tụ tập từ 03 xe trở lên ở lòng đường hoặc đỗ, để xe ở lòng đường, vỉa hè trái phép bị phạt từ 400.000 đến 600.000 đồng (điểm d khoản 2 Điều 7).",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Dừng xe, đỗ xe ở lòng đường gây cản trở giao thông; tụ tập từ 03 xe trở lên ở lòng đường, trong hầm đường bộ; đỗ, để xe ở lòng đường, vỉa hè trái phép;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-066",
+   "tags": [
+    "dung-do-xe-tren-he-pho",
+    "nhan-biet-bien-bao-cam",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dừng, đỗ xe máy tại điểm đón trả khách, nơi đường giao nhau, phần đường cho người đi bộ qua đường hoặc nơi có biển cấm dừng, cấm đỗ bị phạt từ 400.000 đến 600.000 đồng (điểm e khoản 2 Điều 7).",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … e) Dừng xe, đỗ xe trên điểm đón, trả khách, nơi đường bộ giao nhau, trên phần đường dành cho người đi bộ qua đường; dừng xe nơi có biển \"Cấm dừng xe và đỗ xe\"; đỗ xe tại nơi có biển \"Cấm đỗ xe\" hoặc biển \"Cấm dừng xe và đỗ xe\"; không tuân thủ các quy định về dừng xe, đỗ xe tại nơi đường bộ giao nhau cùng mức với đường sắt; dừng xe, đỗ xe trong phạm vi hành lang an toàn giao thông đường sắt;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-067",
+   "tags": [
+    "dung-do-xe-tren-he-pho",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dừng, đỗ xe máy trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường bị phạt từ 400.000 đến 600.000 đồng.",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: a) Dừng xe, đỗ xe trên phần đường xe chạy ở đoạn đường ngoài đô thị nơi có lề đường;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-068",
+   "tags": [
+    "dung-do-xe-tren-he-pho",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dừng xe, đỗ xe máy trên cầu bị phạt từ 600.000 đến 800.000 đồng (điểm c khoản 3 Điều 7).",
+   "quote": "3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … c) Dừng xe, đỗ xe trên cầu;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-069",
+   "tags": [
+    "dung-do-xe-tren-he-pho",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dừng, đỗ xe máy trong hầm đường bộ không đúng nơi quy định bị phạt từ 800.000 đến 1.000.000 đồng (điểm b khoản 4 Điều 7).",
+   "quote": "4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Dừng xe, đỗ xe trong hầm đường bộ không đúng nơi quy định;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-070",
+   "tags": [
+    "dung-do-xe-tren-he-pho"
+   ],
+   "claim": "Luật cấm dừng, đỗ xe tại bên trái đường một chiều, trên cầu, phần đường cho người đi bộ qua đường, nơi giao nhau và trong phạm vi 05 mét từ mép đường giao nhau, điểm đón trả khách, cũng như trên lòng đường, vỉa hè trái quy định.",
+   "quote": "4. Người điều khiển phương tiện tham gia giao thông đường bộ không được dừng xe, đỗ xe tại các vị trí sau đây: a) Bên trái đường một chiều; b) Trên đoạn đường cong hoặc gần đầu dốc mà tầm nhìn bị che khuất; c) Trên cầu, trừ những trường hợp tổ chức giao thông cho phép; … g) Trên phần đường dành cho người đi bộ qua đường; h) Nơi đường giao nhau và trong phạm vi 05 mét tính từ mép đường giao nhau; i) Điểm đón, trả khách; … o) Trên đường dành riêng cho xe buýt, trên miệng cống thoát nước, miệng hầm của đường điện thoại, điện cao thế, chỗ dành riêng cho xe chữa cháy lấy nước; trên lòng đường, vỉa hè trái quy định của pháp luật.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-071",
+   "tags": [
+    "dung-do-xe-tren-he-pho"
+   ],
+   "claim": "Trên đường phố chỉ được dừng, đỗ sát lề đường, vỉa hè bên phải theo chiều đi, bánh xe gần nhất cách lề, vỉa hè không quá 0,25 mét.",
+   "quote": "6. Trên đường phố, người điều khiển phương tiện tham gia giao thông đường bộ chỉ được dừng xe, đỗ xe sát theo lề đường, vỉa hè phía bên phải theo chiều đi của mình; bánh xe gần nhất không được cách xa lề đường, vỉa hè quá 0,25 mét và không gây cản trở, nguy hiểm cho người và phương tiện tham gia giao thông đường bộ.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-072",
+   "tags": [
+    "dung-do-xe-tren-he-pho"
+   ],
+   "claim": "Luật phân biệt dừng xe (đứng yên tạm thời trong thời gian cần thiết) với đỗ xe (đứng yên không giới hạn thời gian).",
+   "quote": "1. Dừng xe là trạng thái đứng yên tạm thời của xe trong một khoảng thời gian cần thiết đủ để cho người lên xe, xuống xe, xếp dỡ hàng hóa, kiểm tra kỹ thuật xe hoặc hoạt động khác. … 2. Đỗ xe là trạng thái đứng yên của xe không giới hạn thời gian.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-073",
+   "tags": [
+    "dung-do-xe-tren-he-pho",
+    "cho-hang-cong-kenh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái xe mô tô, xe gắn máy không được đi xe dàn hàng ngang, không được đi vào phần đường dành cho người đi bộ và phương tiện khác, không được sử dụng ô, thiết bị âm thanh (trừ thiết bị trợ thính).",
+   "quote": "3. Người lái xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy không được thực hiện các hành vi sau đây: a) Đi xe dàn hàng ngang; b) Đi xe vào phần đường dành cho người đi bộ và phương tiện khác; c) Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-074",
+   "tags": [
+    "dung-do-xe-tren-he-pho"
+   ],
+   "claim": "Cá nhân sử dụng trái phép lòng đường, vỉa hè để họp chợ, kinh doanh ăn uống, bày bán hàng, sửa chữa, rửa xe, đặt biển quảng cáo bị phạt từ 2.000.000 đến 3.000.000 đồng (khoản 7 Điều 12).",
+   "quote": "7. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với cá nhân, từ 4.000.000 đồng đến 6.000.000 đồng đối với tổ chức thực hiện hành vi sử dụng trái phép lòng đường, vỉa hè để: họp chợ; kinh doanh dịch vụ ăn uống; bày, bán hàng hóa; sửa chữa phương tiện, máy móc, thiết bị; rửa xe; đặt, treo biển hiệu, biển quảng cáo.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-075",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Hàng xếp trên xe mô tô, xe gắn máy không được vượt quá chiều rộng giá đèo hàng 0,3 mét mỗi bên, không vượt quá phía sau giá đèo hàng 0,5 mét và cao không quá 02 mét tính từ mặt đường.",
+   "quote": "5. Xe mô tô, xe gắn máy không được xếp hàng hóa vượt quá chiều rộng giá đèo hàng về mỗi bên 0,3 mét, vượt quá về phía sau giá đèo hàng 0,5 mét theo thiết kế của nhà sản xuất; chiều cao xếp hàng hóa tính từ mặt đường xe chạy không vượt quá 02 mét.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-076",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái xe mô tô, xe gắn máy không được dùng xe kéo, đẩy xe khác, mang vác và chở vật cồng kềnh, chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái, xếp hàng quá giới hạn.",
+   "quote": "đ) Sử dụng xe để kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang, vác và chở vật cồng kềnh; chở người đứng trên xe, giá đèo hàng hoặc ngồi trên tay lái; xếp hàng hóa trên xe quá giới hạn quy định;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-077",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người ngồi sau xe mô tô, xe gắn máy không được mang vác vật cồng kềnh, sử dụng ô, bám kéo đẩy xe khác, đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái.",
+   "quote": "4. Người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy khi tham gia giao thông đường bộ không được thực hiện các hành vi sau đây: a) Mang, vác vật cồng kềnh; b) Sử dụng ô; c) Bám, kéo hoặc đẩy các phương tiện khác; d) Đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-078",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái xe máy (hoặc người ngồi sau) bám, kéo, đẩy xe khác, mang vác vật cồng kềnh, hoặc chở người đứng trên yên, giá đèo hàng, ngồi trên tay lái bị phạt từ 600.000 đến 800.000 đồng (điểm e khoản 3 Điều 7).",
+   "quote": "3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … e) Người đang điều khiển xe hoặc chở người ngồi trên xe bám, kéo, đẩy xe khác, vật khác, dẫn dắt vật nuôi, mang vác vật cồng kềnh; chở người đứng trên yên, giá đèo hàng hoặc ngồi trên tay lái của xe;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-079",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Xe mô tô, xe gắn máy chở hàng vượt quá khối lượng hoặc khổ giới hạn cho phép, hoặc chở hàng vượt phía trước/sau mà không có báo hiệu màu đỏ (ban ngày), đèn hoặc báo hiệu (ban đêm) bị phạt từ 400.000 đến 600.000 đồng (khoản 2 Điều 36).",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với một trong các hành vi vi phạm sau đây: a) Chở hành lý, hàng hóa vượt quá khối lượng cho phép của xe; b) Chở hành lý, hàng hóa vượt quá khổ giới hạn cho phép của xe; … d) Vận chuyển hàng hoá vượt phía trước, phía sau xe mà không có báo hiệu màu đỏ tại điểm đầu và điểm cuối cùng của hàng hoá khi xe hoạt động ban ngày; vận chuyển hàng hoá vượt phía trước, phía sau xe mà không có đèn hoặc báo hiệu khi xe hoạt động vào ban đêm hoặc khi trời tối.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-080",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chằng buộc hàng không bảo đảm an toàn, hàng che khuất tầm nhìn, che đèn, biển số hoặc để rơi hàng xuống đường bị phạt từ 300.000 đến 400.000 đồng (khoản 1 Điều 36).",
+   "quote": "1. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển phương tiện thực hiện một trong các hành vi vi phạm sau đây: a) Vận chuyển hàng hóa mà sắp xếp, chằng buộc hàng hoá không bảo đảm an toàn hoặc gây nguy hiểm cho người, phương tiện tham gia giao thông; b) Vận chuyển hàng hoá trên xe gây cản trở tầm nhìn của người lái xe hoặc che khuất đèn, biển số xe (đối với loại xe có đèn, biển số xe); để rơi hàng hóa xuống đường.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-081",
+   "tags": [
+    "cho-hang-cong-kenh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều 36 NĐ 168 là điều riêng xử phạt người điều khiển xe mô tô, xe gắn máy, xe thô sơ vi phạm khi vận chuyển hành khách, hàng hóa.",
+   "quote": "Điều 36. Xử phạt người điều khiển xe mô tô, xe gắn máy, xe thô sơ thực hiện hành vi vi phạm vận chuyển hành khách, hàng hóa",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-082",
+   "tags": [
+    "muc-phat-nong-do-con"
+   ],
+   "claim": "Luật nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn (không có ngưỡng cho phép).",
+   "quote": "2. Điều khiển phương tiện tham gia giao thông đường bộ mà trong máu hoặc hơi thở có nồng độ cồn.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-083",
+   "tags": [
+    "muc-phat-nong-do-con",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Mức 1: nồng độ cồn chưa vượt quá 50 mg/100 ml máu hoặc 0,25 mg/1 lít khí thở khi đi xe máy bị phạt từ 2.000.000 đến 3.000.000 đồng và trừ 04 điểm GPLX (không tước bằng).",
+   "quote": "6. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: a) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-084",
+   "tags": [
+    "muc-phat-nong-do-con",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Mức 2: nồng độ cồn vượt quá 50 đến 80 mg/100 ml máu hoặc vượt quá 0,25 đến 0,4 mg/1 lít khí thở bị phạt từ 6.000.000 đến 8.000.000 đồng và trừ 10 điểm GPLX (không tước bằng).",
+   "quote": "8. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-085",
+   "tags": [
+    "muc-phat-nong-do-con",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Mức 3: nồng độ cồn vượt quá 80 mg/100 ml máu hoặc vượt quá 0,4 mg/1 lít khí thở bị phạt từ 8.000.000 đến 10.000.000 đồng và tước GPLX từ 22 đến 24 tháng (điểm d khoản 9, điểm c khoản 12 Điều 7).",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở; … c) Thực hiện hành vi quy định tại điểm d, điểm đ, điểm e, điểm g khoản 9; khoản 11 Điều này bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-086",
+   "tags": [
+    "muc-phat-nong-do-con",
+    "quyen-kiem-tra-cua-csgt",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Không chấp hành yêu cầu kiểm tra nồng độ cồn của người thi hành công vụ bị phạt từ 8.000.000 đến 10.000.000 đồng (điểm đ khoản 9 Điều 7).",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … đ) Không chấp hành yêu cầu kiểm tra về nồng độ cồn của người thi hành công vụ;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-087",
+   "tags": [
+    "muc-phat-nong-do-con",
+    "tru-diem-gplx",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Nồng độ cồn mức 3, từ chối kiểm tra nồng độ cồn, có ma túy trong cơ thể hoặc từ chối kiểm tra ma túy bị tước quyền sử dụng GPLX từ 22 đến 24 tháng (điểm c khoản 12 Điều 7).",
+   "quote": "12. Ngoài việc bị áp dụng hình thức xử phạt chính, người điều khiển xe thực hiện hành vi vi phạm còn bị áp dụng các hình thức xử phạt bổ sung sau đây: … c) Thực hiện hành vi quy định tại điểm d, điểm đ, điểm e, điểm g khoản 9; khoản 11 Điều này bị tước quyền sử dụng giấy phép lái xe từ 22 tháng đến 24 tháng.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-088",
+   "tags": [
+    "muc-phat-nong-do-con",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều khiển xe máy khi trong cơ thể có chất ma túy hoặc chất kích thích bị cấm bị phạt từ 8.000.000 đến 10.000.000 đồng (điểm e khoản 9 Điều 7).",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … e) Điều khiển xe trên đường mà trong cơ thể có chất ma túy hoặc chất kích thích khác mà pháp luật cấm sử dụng;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-089",
+   "tags": [
+    "dung-dien-thoai-khi-lai-xe"
+   ],
+   "claim": "Luật nghiêm cấm dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện đang di chuyển.",
+   "quote": "6. Dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác khi điều khiển phương tiện tham gia giao thông đang di chuyển trên đường bộ.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-090",
+   "tags": [
+    "dung-dien-thoai-khi-lai-xe",
+    "cho-nguoi-qua-quy-dinh",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người đang lái xe máy sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác bị phạt từ 800.000 đến 1.000.000 đồng và trừ 04 điểm GPLX.",
+   "quote": "4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … đ) Người đang điều khiển xe sử dụng ô (dù), thiết bị âm thanh (trừ thiết bị trợ thính), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-091",
+   "tags": [
+    "toc-do-toi-da-xe-may"
+   ],
+   "claim": "Thông tư 38/2024/TT-BGTVT quy định tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng (trừ xe ưu tiên đang làm nhiệm vụ).",
+   "quote": "Thông tư này quy định về tốc độ thiết kế của đường bộ; tốc độ khai thác và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng khi tham gia giao thông trên đường bộ, trừ xe ưu tiên đang đi làm nhiệm vụ theo quy định của pháp luật.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-092",
+   "tags": [
+    "toc-do-toi-da-xe-may"
+   ],
+   "claim": "Đường bộ trong khu đông dân cư được xác định bằng biển \"Bắt đầu khu đông dân cư\" và \"Hết khu đông dân cư\".",
+   "quote": "1. Đường bộ trong khu đông dân cư là đoạn đường bộ nằm trong khu vực nội thành phố, nội thị xã, nội thị trấn và những đoạn đường có đông dân cư sinh sống sát dọc theo đường, được xác định bằng biển báo “Bắt đầu khu đông dân cư” và biển báo “Hết khu đông dân cư”.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-093",
+   "tags": [
+    "toc-do-toi-da-xe-may"
+   ],
+   "claim": "Ở đoạn đường không có biển báo tốc độ, người lái xe áp dụng tốc độ tối đa theo Điều 6, 7, 8 của Thông tư 38/2024.",
+   "quote": "2. Tại những đoạn đường không bố trí biển báo tốc độ khai thác tối đa, không bố trí biển báo khoảng cách an toàn giữa hai xe, người điều khiển phương tiện tham gia giao thông phải thực hiện theo quy định tại Điều 6, Điều 7, Điều 8 và Điều 11 Thông tư này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-094",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga"
+   ],
+   "claim": "Trong khu đông dân cư, tốc độ tối đa của xe cơ giới (gồm xe mô tô, trừ xe gắn máy) là 60 km/h trên đường đôi hoặc đường một chiều từ hai làn xe cơ giới, và 50 km/h trên đường hai chiều hoặc đường một chiều một làn.",
+   "quote": "1. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ trong khu vực đông dân cư … Bảng 1 | Loại xe cơ giới đường bộ | Đường đôi; đường một chiều có từ hai làn xe cơ giới trở lên | Đường hai chiều; đường một chiều có một làn xe cơ giới | Các loại xe cơ giới, trừ các xe được quy định tại Điều 7 và Điều 8 Thông tư này | 60 | 50",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-095",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga"
+   ],
+   "claim": "Ngoài khu đông dân cư, tốc độ tối đa của xe mô tô là 70 km/h trên đường đôi hoặc đường một chiều từ hai làn xe cơ giới, và 60 km/h trên đường hai chiều hoặc đường một chiều một làn.",
+   "quote": "2. Tốc độ khai thác tối đa cho phép xe cơ giới tham gia giao thông trên đường bộ ngoài khu vực đông dân cư … Bảng 2 | Xe buýt; ô tô đầu kéo kéo sơ mi rơ moóc (trừ ô tô đầu kéo kéo sơ mi rơ moóc xi téc); xe mô tô; ô tô chuyên dùng (trừ ô tô trộn vữa, ô tô trộn bê tông lưu động) | 70 | 60",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-096",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-50cc",
+    "xe-may-dien",
+    "quy-dinh-xe-may-dien-50cc"
+   ],
+   "claim": "Xe gắn máy (động cơ xăng không quá 50 cm3 hoặc động cơ điện không quá 04 kW, vận tốc thiết kế không quá 50 km/h) có tốc độ khai thác tối đa 40 km/h theo Điều 7 Thông tư 38/2024.",
+   "quote": "Điều 7. Tốc độ khai thác tối đa cho phép đối với xe máy chuyên dùng, xe gắn máy và các loại xe tương tự tham gia giao thông trên đường bộ (trừ đường cao tốc) Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự khi tham gia giao thông, tốc độ khai thác tối đa là 40 km/h.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-097",
+   "tags": [
+    "toc-do-toi-da-xe-may"
+   ],
+   "claim": "Khi chạy dưới 60 km/h, người lái tự giữ khoảng cách an toàn phù hợp với xe phía trước; trời mưa, sương mù, đường trơn phải giữ khoảng cách lớn hơn.",
+   "quote": "Khi điều khiển xe chạy với tốc độ dưới 60 km/h, người lái xe, người điều khiển xe máy chuyên dùng phải chủ động giữ khoảng cách an toàn phù hợp với xe chạy liền trước xe của mình; khoảng cách này tùy thuộc vào mật độ phương tiện, tình hình giao thông thực tế để đảm bảo an toàn giao thông. b) Trong điều kiện trời mưa, có sương mù, mặt đường trơn trượt, đường có địa hình quanh co, đèo dốc, tầm nhìn hạn chế, người lái xe phải điều chỉnh khoảng cách an toàn lớn hơn trị số ghi trên biển báo hoặc trị số được quy định tại điểm a khoản này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-098",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "can-cu-phap-ly"
+   ],
+   "claim": "Thông tư 38/2024/TT-BGTVT có hiệu lực từ 01/01/2025 và thay thế Thông tư 31/2019/TT-BGTVT.",
+   "quote": "1. Thông tư này có hiệu lực kể từ ngày 01 tháng 01 năm 2025 và thay thế Thông tư số 31/2019/TT-BGTVT ngày 29 tháng 8 năm 2019 của Bộ trưởng Bộ Giao thông vận tải quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ,",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT ngày 15/11/2024 quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-099",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "nhan-biet-bien-bao-cam"
+   ],
+   "claim": "Đoạn đường qua khu đông dân cư bắt đầu tại biển R.420 và kết thúc tại biển R.421; trong phạm vi R.420 nếu gặp biển P.127 thì theo tốc độ ghi trên P.127.",
+   "quote": "c) Đoạn đường qua khu vực đông dân cư được xác định bắt đầu bằng biển số R.420 “Bắt đầu khu đông dân cư” và kết thúc bằng biển số R.421 “Hết khu đông dân cư”. … d) Trong phạm vi biển số R.420 có hiệu lực, khi gặp biển báo tốc độ tối đa cho phép (biển số P.127) người tham gia giao thông phải chấp hành quy định của biển số P.127.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/51-bgtvt-kem.pdf",
+   "source_title": "QCVN 41:2024/BGTVT Quy chuẩn kỹ thuật quốc gia về báo hiệu đường bộ (ban hành kèm Thông tư 51/2024/TT-BGTVT)",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-100",
+   "tags": [
+    "toc-do-toi-da-xe-may"
+   ],
+   "claim": "Ngoài tốc độ tối đa, người lái phải giữ tốc độ phù hợp điều kiện cầu đường, mật độ giao thông, địa hình, thời tiết.",
+   "quote": "2. Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm tốc độ phù hợp điều kiện của cầu, đường, mật độ giao thông, địa hình, thời tiết và các yếu tố ảnh hưởng khác để bảo đảm an toàn.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-101",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "nhuong-duong-tai-nut-giao"
+   ],
+   "claim": "Luật buộc giảm tốc độ hoặc dừng lại tại nơi có vạch cho người đi bộ, khi chuyển hướng, tại nơi giao nhau, khu vực trường học, chợ, khu đông dân cư và khi trời mưa, đường trơn.",
+   "quote": "3. Người điều khiển phương tiện tham gia giao thông đường bộ phải quan sát, giảm tốc độ hoặc dừng lại để bảo đảm an toàn trong các trường hợp sau đây: a) Tại nơi có vạch kẻ đường hoặc báo hiệu khác dành cho người đi bộ hoặc tại nơi mà người đi bộ, xe lăn của người khuyết tật đang qua đường; b) Có báo hiệu cảnh báo nguy hiểm hoặc có chướng ngại vật trên đường; c) Chuyển hướng xe chạy hoặc tầm nhìn bị hạn chế; d) Nơi đường bộ giao nhau cùng mức với đường bộ, đường bộ giao nhau cùng mức với đường sắt; đường hẹp, đường vòng, đường quanh co, đường đèo, dốc; … e) Khu vực có trường học, bệnh viện, bến xe, công trình công cộng tập trung đông người, khu vực đông dân cư, chợ, khu vực đang thi công trên đường bộ, hiện trường vụ tai nạn giao thông đường bộ; … m) Điều kiện trời mưa, gió, sương, khói, bụi, mặt đường trơn trượt, lầy lội, có nhiều đất đá, vật liệu rơi vãi ảnh hưởng đến an toàn giao thông đường bộ;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-102",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chạy xe máy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h bị phạt từ 400.000 đến 600.000 đồng (điểm b khoản 2 Điều 7).",
+   "quote": "2. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Điều khiển xe chạy quá tốc độ quy định từ 05 km/h đến dưới 10 km/h;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-103",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chạy xe máy quá tốc độ quy định từ 10 km/h đến 20 km/h bị phạt từ 800.000 đến 1.000.000 đồng (điểm a khoản 4 Điều 7); khoản 13 không quy định trừ điểm cho lỗi này.",
+   "quote": "4. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: a) Điều khiển xe chạy quá tốc độ quy định từ 10 km/h đến 20 km/h;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-104",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chạy xe máy quá tốc độ quy định trên 20 km/h bị phạt từ 6.000.000 đến 8.000.000 đồng (điểm a khoản 8 Điều 7) và trừ 04 điểm GPLX.",
+   "quote": "8. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: a) Điều khiển xe chạy quá tốc độ quy định trên 20 km/h;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-105",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ bị phạt từ 8.000.000 đến 10.000.000 đồng và tước GPLX từ 10 đến 12 tháng.",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Điều khiển xe thành nhóm từ 02 xe trở lên chạy quá tốc độ quy định; … b) Thực hiện hành vi quy định tại điểm a, điểm b, điểm h, điểm i, điểm k khoản 9 Điều này bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-106",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chạy xe máy dưới tốc độ tối thiểu trên đoạn đường có quy định tốc độ tối thiểu bị phạt từ 200.000 đến 400.000 đồng (điểm k khoản 1 Điều 7).",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … k) Điều khiển xe chạy dưới tốc độ tối thiểu trên đoạn đường bộ có quy định tốc độ tối thiểu cho phép.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-107",
+   "tags": [
+    "bat-den-chieu-sang-ban-dem"
+   ],
+   "claim": "Người lái xe phải bật đèn chiếu sáng phía trước từ 18 giờ hôm trước đến 06 giờ hôm sau, hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn.",
+   "quote": "1. Người lái xe, người điều khiển xe máy chuyên dùng tham gia giao thông đường bộ phải bật đèn chiếu sáng phía trước trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-108",
+   "tags": [
+    "bat-den-chieu-sang-ban-dem"
+   ],
+   "claim": "Phải tắt đèn chiếu xa, bật đèn chiếu gần khi gặp người đi bộ qua đường, đi qua khu đông dân cư có chiếu sáng, gặp xe ngược chiều hoặc chuyển hướng tại nơi giao nhau.",
+   "quote": "2. Người lái xe, người điều khiển xe máy chuyên dùng phải tắt đèn chiếu xa, bật đèn chiếu gần trong các trường hợp sau đây: a) Khi gặp người đi bộ qua đường; b) Khi đi trên các đoạn đường qua khu đông dân cư có hệ thống chiếu sáng đang hoạt động; c) Khi gặp xe đi ngược chiều, trừ trường hợp dải phân cách có khả năng chống chói; d) Khi chuyển hướng xe tại nơi đường giao nhau.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-109",
+   "tags": [
+    "bat-den-chieu-sang-ban-dem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Không bật đèn chiếu sáng từ 18 giờ hôm trước đến 06 giờ hôm sau hoặc khi sương mù, mưa, thời tiết xấu khi đi xe máy bị phạt từ 200.000 đến 400.000 đồng (điểm g khoản 1 Điều 7).",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … g) Không sử dụng đèn chiếu sáng trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau hoặc khi có sương mù, khói, bụi, trời mưa, thời tiết xấu làm hạn chế tầm nhìn;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-110",
+   "tags": [
+    "bat-den-chieu-sang-ban-dem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dùng đèn chiếu xa khi gặp người đi bộ qua đường, trong khu dân cư có chiếu sáng, khi gặp xe ngược chiều hoặc khi chuyển hướng tại nơi giao nhau bị phạt từ 200.000 đến 400.000 đồng (điểm h khoản 1 Điều 7).",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … h) Tránh xe không đúng quy định; sử dụng đèn chiếu xa khi gặp người đi bộ qua đường hoặc khi đi trên đoạn đường qua khu dân cư có hệ thống chiếu sáng đang hoạt động hoặc khi gặp xe đi ngược chiều (trừ trường hợp dải phân cách có khả năng chống chói) hoặc khi chuyển hướng xe tại nơi đường giao nhau; không nhường đường cho xe đi ngược chiều theo quy định tại nơi đường hẹp, đường dốc, nơi có chướng ngại vật;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-111",
+   "tags": [
+    "bat-den-chieu-sang-ban-dem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Chạy xe máy trong hầm đường bộ không sử dụng đèn chiếu sáng gần bị phạt từ 600.000 đến 800.000 đồng (điểm h khoản 3 Điều 7).",
+   "quote": "3. Phạt tiền từ 600.000 đồng đến 800.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … h) Chạy trong hầm đường bộ không sử dụng đèn chiếu sáng gần;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-112",
+   "tags": [
+    "bat-den-chieu-sang-ban-dem",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Dùng còi từ 22 giờ hôm trước đến 05 giờ hôm sau trong khu đông dân cư, khu vực cơ sở khám chữa bệnh bị phạt từ 200.000 đến 400.000 đồng (điểm i khoản 1 Điều 7).",
+   "quote": "1. Phạt tiền từ 200.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … i) Sử dụng còi trong thời gian từ 22 giờ ngày hôm trước đến 05 giờ ngày hôm sau trong khu đông dân cư, khu vực cơ sở khám bệnh, chữa bệnh, trừ các xe ưu tiên đang đi làm nhiệm vụ theo quy định;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-113",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "Mỗi giấy phép lái xe có 12 điểm; số điểm trừ mỗi lần tùy tính chất, mức độ vi phạm và được cập nhật ngay khi quyết định xử phạt có hiệu lực.",
+   "quote": "1. Điểm của giấy phép lái xe được dùng để quản lý việc chấp hành pháp luật về trật tự, an toàn giao thông đường bộ của người lái xe trên hệ thống cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ, bao gồm 12 điểm. Số điểm trừ mỗi lần vi phạm tùy thuộc tính chất, mức độ của hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. Dữ liệu về điểm trừ giấy phép lái xe của người vi phạm sẽ được cập nhật vào hệ thống cơ sở dữ liệu ngay sau khi quyết định xử phạt có hiệu lực thi hành và thông báo cho người bị trừ điểm giấy phép lái xe biết.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-114",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "GPLX chưa bị trừ hết điểm và không bị trừ thêm trong 12 tháng kể từ lần trừ gần nhất thì được phục hồi đủ 12 điểm.",
+   "quote": "2. Giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất thì được phục hồi đủ 12 điểm.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-115",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "GPLX bị trừ hết điểm thì không được lái xe theo GPLX đó; sau ít nhất 06 tháng mới được dự kiểm tra kiến thức pháp luật do CSGT tổ chức để phục hồi đủ 12 điểm.",
+   "quote": "3. Trường hợp giấy phép lái xe bị trừ hết điểm thì người có giấy phép lái xe không được điều khiển phương tiện tham gia giao thông đường bộ theo giấy phép lái xe đó. Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có giấy phép lái xe được tham gia kiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo quy định tại khoản 7 Điều 61 của Luật này do lực lượng Cảnh sát giao thông tổ chức, có kết quả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-116",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "Đổi, cấp lại, nâng hạng GPLX không làm thay đổi số điểm hiện có.",
+   "quote": "4. Giấy phép lái xe sau khi đổi, cấp lại, nâng hạng được giữ nguyên số điểm của giấy phép lái xe trước khi đổi, cấp lại, nâng hạng.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-117",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "Nếu bị xử phạt cùng lúc nhiều hành vi có trừ điểm thì chỉ trừ điểm theo hành vi bị trừ nhiều điểm nhất; nếu điểm còn lại ít hơn số điểm bị trừ thì trừ hết số điểm còn lại.",
+   "quote": "b) Trường hợp cá nhân thực hiện nhiều hành vi vi phạm hành chính hoặc vi phạm hành chính nhiều lần mà bị xử phạt trong cùng một lần, nếu có từ 02 hành vi vi phạm trở lên theo quy định bị trừ điểm giấy phép lái xe thì chỉ áp dụng trừ điểm đối với hành vi vi phạm bị trừ nhiều điểm nhất; c) Trường hợp số điểm còn lại của giấy phép lái xe ít hơn số điểm bị trừ thì áp dụng trừ hết số điểm còn lại của giấy phép lái xe đó;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-118",
+   "tags": [
+    "tru-diem-gplx",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Với GPLX tích hợp, lỗi khi đi xe mô tô chỉ trừ điểm vào phần GPLX không thời hạn (mô tô), lỗi khi lái ô tô trừ vào phần GPLX có thời hạn.",
+   "quote": "d) Trường hợp giấy phép lái xe tích hợp giấy phép lái xe không thời hạn (xe mô tô, xe tương tự xe mô tô) và giấy phép lái xe có thời hạn (xe ô tô, xe tương tự xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ) thì người có thẩm quyền xử phạt thực hiện trừ điểm đối với giấy phép lái xe không thời hạn khi người điều khiển xe mô tô, xe tương tự xe mô tô hoặc trừ điểm giấy phép lái xe có thời hạn khi người điều khiển xe ô tô, xe tương tự xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ thực hiện hành vi vi phạm hành chính có quy định bị trừ điểm giấy phép lái xe;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-119",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "Từ 15/8/2026, NĐ 238/2026 sửa điểm đ khoản 1 Điều 50: không trừ điểm khi giấy phép lái xe đang trong thời hạn bị tước quyền sử dụng, bổ sung cả giấy phép lái xe quốc tế.",
+   "quote": "Điều 17. Sửa đổi, bổ sung một số điểm, khoản của Điều 50 1. Sửa đổi, bổ sung điểm đ khoản 1 như sau: \"đ) Không trừ điểm giấy phép lái xe khi giấy phép lái xe đó đang trong thời hạn bị tước quyền sử dụng giấy phép lái xe, giấy phép lái xe quốc tế.\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-120",
+   "tags": [
+    "tru-diem-gplx"
+   ],
+   "claim": "GPLX chưa bị trừ hết điểm, nếu đủ 12 tháng kể từ lần trừ điểm gần nhất không bị trừ thêm, sẽ được hệ thống tự động phục hồi đủ 12 điểm, kể cả khi GPLX đang trong thời hạn bị tước.",
+   "quote": "a) Khi đủ thời hạn 12 tháng, kể từ ngày bị trừ điểm giấy phép lái xe gần nhất, dữ liệu điểm giấy phép lái xe sẽ được tự động phục hồi đủ 12 điểm (gồm cả giấy phép lái xe đang trong thời hạn bị tước quyền sử dụng) và cập nhật tự động trong Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-121",
+   "tags": [
+    "tru-diem-gplx",
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Dữ liệu trừ điểm được cập nhật tự động vào Cơ sở dữ liệu xử lý vi phạm ngay sau khi quyết định xử phạt có hiệu lực, và người bị trừ điểm được thông báo.",
+   "quote": "a) Ngay sau khi quyết định xử phạt vi phạm hành chính có hiệu lực thi hành, dữ liệu trừ điểm giấy phép lái xe của người bị xử phạt sẽ được cập nhật tự động vào Cơ sở dữ liệu về xử lý vi phạm hành chính về trật tự, an toàn giao thông đường bộ, người có thẩm quyền trừ điểm giấy phép lái xe thông báo cho người bị trừ điểm giấy phép lái xe biết việc trừ điểm.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-122",
+   "tags": [
+    "tru-diem-gplx",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Lạng lách, đánh võng hoặc dùng chân chống quệt xuống đường khi xe đang chạy bị phạt từ 8.000.000 đến 10.000.000 đồng và tước GPLX từ 10 đến 12 tháng; tái phạm lạng lách, đánh võng bị tịch thu phương tiện.",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … a) Điều khiển xe lạng lách, đánh võng trên đường bộ; sử dụng chân chống hoặc vật khác quệt xuống đường khi xe đang chạy; … c) Tái phạm hành vi điều khiển xe lạng lách, đánh võng quy định tại điểm a khoản 9 Điều này. … b) Thực hiện hành vi quy định tại điểm a, điểm b, điểm h, điểm i, điểm k khoản 9 Điều này bị tước quyền sử dụng giấy phép lái xe từ 10 tháng đến 12 tháng;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-123",
+   "tags": [
+    "tru-diem-gplx",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Gây tai nạn mà không dừng lại, không giữ hiện trường, không trợ giúp người bị nạn hoặc không trình báo bị phạt từ 8.000.000 đến 10.000.000 đồng và trừ 06 điểm GPLX.",
+   "quote": "9. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … c) Gây tai nạn giao thông không dừng ngay phương tiện, không giữ nguyên hiện trường, không trợ giúp người bị nạn, không ở lại hiện trường hoặc không đến trình báo ngay với cơ quan công an, Ủy ban nhân dân nơi gần nhất;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-124",
+   "tags": [
+    "tru-diem-gplx",
+    "bang-lai-quoc-te-idp",
+    "xe-may",
+    "xe-so",
+    "xe-tay-ga"
+   ],
+   "claim": "Lái xe mô tô hai bánh đến 125 cm3 (hoặc động cơ điện đến 11 kW) mà không có GPLX, dùng GPLX đã bị trừ hết điểm, không phù hợp loại xe, hoặc chỉ có giấy phép lái xe quốc tế mà không mang GPLX quốc gia bị phạt từ 2.000.000 đến 4.000.000 đồng.",
+   "quote": "5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây: a) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển; b) Có giấy phép lái xe quốc tế do các nước tham gia Công ước của Liên hợp quốc về Giao thông đường bộ năm 1968 cấp (trừ giấy phép lái xe quốc tế do Việt Nam cấp) nhưng không mang theo giấy phép lái xe quốc gia phù hợp với loại xe được phép điều khiển;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-125",
+   "tags": [
+    "tru-diem-gplx",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Lái xe mô tô hai bánh trên 125 cm3 (hoặc động cơ điện trên 11 kW), xe mô tô ba bánh mà không có GPLX hoặc GPLX đã bị trừ hết điểm bị phạt từ 6.000.000 đến 8.000.000 đồng.",
+   "quote": "7. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 trở lên hoặc có công suất động cơ điện trên 11 kW, xe mô tô ba bánh thực hiện một trong các hành vi vi phạm sau đây: … b) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm, giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-126",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "tru-diem-gplx"
+   ],
+   "claim": "Từ 15/8/2026, điểm a khoản 4 Điều 18 được sửa: người từ đủ 16 đến dưới 18 tuổi điều khiển xe mô tô và xe tương tự xe mô tô bị phạt theo khoản 4 (400.000 đến 600.000 đồng).",
+   "quote": "Điều 6. Sửa đổi bổ sung điểm a khoản 4 Điều 18 \"a) Người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe mô tô và các loại xe tương tự xe mô tô;\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, datafiles.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-127",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc"
+   ],
+   "claim": "Khung phạt của khoản 4 Điều 18 NĐ 168 (áp dụng cho người 16 đến dưới 18 tuổi lái xe mô tô) là từ 400.000 đến 600.000 đồng.",
+   "quote": "4. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với một trong các hành vi vi phạm sau đây:",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-128",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc"
+   ],
+   "claim": "Người từ đủ 14 đến dưới 16 tuổi điều khiển xe mô tô, xe gắn máy bị phạt cảnh cáo.",
+   "quote": "1. Phạt cảnh cáo người từ đủ 14 tuổi đến dưới 16 tuổi điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy hoặc điều khiển xe ô tô, điều khiển xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-129",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "toc-do-toi-da-xe-may",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Xe gắn máy là xe hai hoặc ba bánh có vận tốc thiết kế không quá 50 km/h, động cơ nhiệt không quá 50 cm3 hoặc động cơ điện không quá 04 kW; xe vượt các ngưỡng này là xe mô tô.",
+   "quote": "e) Xe mô tô gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg; g) Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-130",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien"
+   ],
+   "claim": "Xe đạp và xe đạp máy (gồm xe đạp điện, trợ lực ngắt khi dừng đạp hoặc đạt 25 km/h) thuộc nhóm xe thô sơ, không phải xe cơ giới.",
+   "quote": "2. Xe thô sơ bao gồm: a) Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay; b) Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-131",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Người lái xe gắn máy là trường hợp được Luật loại trừ khỏi yêu cầu có GPLX, nhưng phải hiểu quy tắc giao thông, có kỹ năng và đủ tuổi, sức khỏe.",
+   "quote": "1. Người lái xe tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp, trừ người lái xe gắn máy quy định tại khoản 4 Điều này. … 4. Người lái xe gắn máy tham gia giao thông đường bộ phải hiểu biết quy tắc giao thông đường bộ, có kỹ năng điều khiển phương tiện; đủ điều kiện về độ tuổi, sức khỏe theo quy định tại điểm a khoản 1 và khoản 2 Điều 59 của Luật này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH ngày 23/3/2026: Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-132",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "muc-phat-nong-do-con",
+    "dung-dien-thoai-khi-lai-xe",
+    "phat-di-nguoc-chieu",
+    "phat-vuot-den-do"
+   ],
+   "claim": "Điều 9 NĐ 168 là điều riêng xử phạt người điều khiển xe đạp, xe đạp máy và xe thô sơ khác; điều này không có khoản trừ điểm GPLX.",
+   "quote": "Điều 9. Xử phạt người điều khiển xe đạp, xe đạp máy, người điều khiển xe thô sơ khác vi phạm quy tắc giao thông đường bộ",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-133",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "muc-phat-nong-do-con"
+   ],
+   "claim": "Người đi xe đạp, xe đạp máy có nồng độ cồn bị phạt 100.000 đến 200.000 đồng (mức 1), 300.000 đến 400.000 đồng (mức 2) và 400.000 đến 600.000 đồng (mức 3).",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … p) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở. … 3. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở. … 4. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-134",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "dung-dien-thoai-khi-lai-xe"
+   ],
+   "claim": "Người đi xe đạp, xe đạp máy dùng ô, dùng tay cầm và sử dụng điện thoại bị phạt từ 100.000 đến 200.000 đồng.",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … h) Người điều khiển xe đạp, xe đạp máy sử dụng ô (dù), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác; chở người ngồi trên xe đạp, xe đạp máy sử dụng ô (dù);",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-135",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "phat-vuot-den-do"
+   ],
+   "claim": "Người đi xe đạp, xe đạp máy không chấp hành hiệu lệnh đèn tín hiệu bị phạt từ 150.000 đến 250.000 đồng.",
+   "quote": "2. Phạt tiền từ 150.000 đồng đến 250.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … đ) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-136",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "phat-di-nguoc-chieu",
+    "di-vao-duong-cam"
+   ],
+   "claim": "Người đi xe đạp, xe đạp máy đi vào đường cấm hoặc đi ngược chiều bị phạt từ 300.000 đến 400.000 đồng.",
+   "quote": "3. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … c) Đi vào khu vực cấm, đường có biển báo hiệu nội dung cấm đi vào đối với loại phương tiện đang điều khiển; đi ngược chiều đường của đường một chiều, đường có biển \"Cấm đi ngược chiều\";",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-137",
+   "tags": [
+    "xe-dap-dien",
+    "quy-dinh-mu-bao-hiem"
+   ],
+   "claim": "Người điều khiển xe đạp máy (gồm xe đạp điện) không đội mũ bảo hiểm hoặc không cài quai đúng quy cách bị phạt từ 400.000 đến 600.000 đồng; NĐ 168 không có điểm phạt mũ bảo hiểm với xe đạp không động cơ.",
+   "quote": "4. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Người điều khiển xe đạp máy không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách khi tham gia giao thông trên đường bộ;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-138",
+   "tags": [
+    "xe-dap",
+    "chuyen-huong-khong-xi-nhan"
+   ],
+   "claim": "Người đi xe đạp, xe thô sơ chuyển hướng không báo hiệu trước bị phạt từ 100.000 đến 200.000 đồng.",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … b) Dừng xe đột ngột; chuyển hướng không báo hiệu trước;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-139",
+   "tags": [
+    "xe-dap",
+    "bat-den-chieu-sang-ban-dem"
+   ],
+   "claim": "Xe thô sơ chạy từ 18 giờ đến 06 giờ hôm sau không có đèn hoặc báo hiệu phía trước và phía sau bị phạt từ 100.000 đến 200.000 đồng.",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … i) Điều khiển xe thô sơ trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau không sử dụng đèn hoặc không có báo hiệu ở phía trước và phía sau xe;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-140",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "cho-nguoi-qua-quy-dinh"
+   ],
+   "claim": "Xe đạp, xe đạp máy chở quá số người quy định bị phạt từ 100.000 đến 200.000 đồng, trừ khi chở người bệnh đi cấp cứu.",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … o) Xe đạp, xe đạp máy, xe xích lô chở quá số người quy định, trừ trường hợp chở người bệnh đi cấp cứu;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-141",
+   "tags": [
+    "xe-dap",
+    "xe-khong-guong-chieu-hau",
+    "bat-den-chieu-sang-ban-dem"
+   ],
+   "claim": "Với xe thô sơ (gồm xe đạp), NĐ 168 phạt thiếu còi/chuông, đèn hoặc tấm phản quang phía trước, đèn tín hiệu hoặc tấm phản quang phía sau (với loại xe phải có), không nêu gương chiếu hậu.",
+   "quote": "Điều 15. Xử phạt người điều khiển xe thô sơ vi phạm quy định về điều kiện của phương tiện khi tham gia giao thông 1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không có bộ phận phát âm thanh cảnh báo (còi, chuông); không có đèn chiếu sáng hoặc tấm phản quang phía trước; không có đèn tín hiệu hoặc tấm phản quang phía sau xe (đối với loại xe quy định phải có bộ phận này).",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LB-142",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "di-vao-duong-cam"
+   ],
+   "claim": "Người điều khiển xe đạp, xe đạp máy, xe thô sơ đi vào đường cao tốc bị phạt từ 800.000 đến 1.200.000 đồng.",
+   "quote": "5. Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe đi vào đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "TOÀN VĂN: Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (Cổng TTĐT Chính phủ, xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  }
+ ],
+ "not_applicable": [
+  {
+   "vehicle": "xe đạp, xe đạp máy (kể cả xe đạp điện)",
+   "component_or_topic": "tru-diem-gplx",
+   "explanation": "Không áp dụng. Xe đạp và xe đạp máy là xe thô sơ (Điều 34 Luật 36/2024), không cần giấy phép lái xe. Điều 9 NĐ 168 là điều xử phạt riêng cho nhóm xe này và không có khoản trừ điểm hay tước giấy phép lái xe. Điểm GPLX theo Điều 58 Luật gắn với giấy phép lái xe, nên người đi xe đạp vi phạm chỉ bị phạt tiền theo Điều 9.",
+   "fact_ids": [
+    "LB-130",
+    "LB-132",
+    "LB-113",
+    "LB-133"
+   ]
+  },
+  {
+   "vehicle": "xe đạp, xe đạp máy (kể cả xe đạp điện)",
+   "component_or_topic": "muc-phat-nong-do-con",
+   "explanation": "Khung phạt 2–3 triệu, 6–8 triệu, 8–10 triệu đồng và tước GPLX 22–24 tháng ở Điều 7 chỉ dành cho xe mô tô, xe gắn máy. Người đi xe đạp, xe đạp máy có nồng độ cồn bị phạt theo khung riêng ở Điều 9: 100.000–200.000, 300.000–400.000 và 400.000–600.000 đồng.",
+   "fact_ids": [
+    "LB-133",
+    "LB-083",
+    "LB-084",
+    "LB-085"
+   ]
+  },
+  {
+   "vehicle": "xe đạp, xe đạp máy (kể cả xe đạp điện)",
+   "component_or_topic": "toc-do-toi-da-xe-may",
+   "explanation": "Thông tư 38/2024 chỉ quy định tốc độ khai thác của xe cơ giới và xe máy chuyên dùng (Điều 1). Xe đạp, xe đạp máy là xe thô sơ nên không có mức tối đa ở Bảng 1, Bảng 2, và Điều 9 NĐ 168 không có lỗi chạy quá tốc độ. Xe đạp máy được định nghĩa là xe có trợ lực ngắt ở 25 km/h. Bài viết không được ghi một 'tốc độ tối đa' bắt buộc cho xe đạp.",
+   "fact_ids": [
+    "LB-091",
+    "LB-130",
+    "LB-132"
+   ]
+  },
+  {
+   "vehicle": "xe đạp không trợ lực",
+   "component_or_topic": "quy-dinh-mu-bao-hiem",
+   "explanation": "Không có điểm xử phạt. Khoản 2 Điều 33 Luật chỉ bắt buộc đội mũ bảo hiểm với người đi xe mô tô, xe gắn máy. NĐ 168 chỉ phạt lỗi mũ bảo hiểm ở Điều 7 (người lái xe máy), khoản 5 Điều 12 (người ngồi sau xe máy) và điểm d, đ khoản 4 Điều 9 (xe đạp máy). Bài về xe đạp thường chỉ được nói đội mũ là khuyến nghị an toàn, không được nói là nghĩa vụ có mức phạt.",
+   "fact_ids": [
+    "LB-044",
+    "LB-045",
+    "LB-047",
+    "LB-137"
+   ]
+  },
+  {
+   "vehicle": "xe đạp",
+   "component_or_topic": "chuyen-huong-khong-xi-nhan",
+   "explanation": "Xe đạp không có đèn xi nhan. Khoản 2 Điều 15 Luật cho phép xe thô sơ không có đèn báo hướng rẽ dùng tín hiệu bằng tay theo hướng rẽ và giữ tín hiệu liên tục trong quá trình chuyển hướng. Lỗi chuyển hướng không báo hiệu của xe đạp bị phạt 100.000–200.000 đồng (điểm b khoản 1 Điều 9).",
+   "fact_ids": [
+    "LB-048",
+    "LB-138"
+   ]
+  },
+  {
+   "vehicle": "xe đạp",
+   "component_or_topic": "xe-khong-guong-chieu-hau",
+   "explanation": "NĐ 168 chỉ phạt lỗi thiếu gương chiếu hậu bên trái với xe mô tô, xe gắn máy (điểm a khoản 1 Điều 14). Điều 15 về điều kiện của xe thô sơ chỉ nêu còi hoặc chuông, đèn hoặc tấm phản quang, hệ thống hãm, không nêu gương. Phần tương đương cần viết cho xe đạp là đèn và tấm phản quang trước, sau.",
+   "fact_ids": [
+    "LB-060",
+    "LB-141"
+   ]
+  },
+  {
+   "vehicle": "xe gắn máy (xe 50cc, xe máy điện không quá 04 kW và vận tốc thiết kế không quá 50 km/h)",
+   "component_or_topic": "toc-do-toi-da-xe-may",
+   "explanation": "Không áp dụng các mức 60/50 km/h (trong khu đông dân cư) và 70/60 km/h (ngoài khu đông dân cư) vì Bảng 1 loại trừ xe ở Điều 7, còn Bảng 2 chỉ ghi xe mô tô. Xe gắn máy có tốc độ khai thác tối đa 40 km/h.",
+   "fact_ids": [
+    "LB-094",
+    "LB-095",
+    "LB-096",
+    "LB-129"
+   ]
+  },
+  {
+   "vehicle": "xe mô tô, xe gắn máy",
+   "component_or_topic": "di-vao-duong-cam (đường cao tốc)",
+   "explanation": "Xe mô tô, xe gắn máy không được đi vào đường cao tốc. Vì vậy mức tốc độ 120/60 km/h trên cao tốc không áp dụng với xe máy. Người vi phạm bị phạt 4–6 triệu đồng và trừ 06 điểm.",
+   "fact_ids": [
+    "LB-023",
+    "LB-015"
+   ]
+  },
+  {
+   "vehicle": "xe tay ga, xe số",
+   "component_or_topic": "xe-khong-guong-chieu-hau (gương bên phải)",
+   "explanation": "Điểm a khoản 1 Điều 14 NĐ 168 chỉ nêu 'gương chiếu hậu bên trái người điều khiển'. NĐ 168 không có điểm xử phạt riêng cho việc thiếu gương bên phải. Bài viết không được khẳng định thiếu gương phải bị phạt.",
+   "fact_ids": [
+    "LB-060"
+   ]
+  }
+ ],
+ "gaps": [
+  "Chưa có văn bản hợp nhất Nghị định 168/2024/NĐ-CP sau khi sửa đổi bởi Nghị định 238/2026/NĐ-CP. Trích dẫn Điều 7, 9, 12, 14, 15, 18, 36, 50, 51, 53 lấy từ bản toàn văn gốc trên xaydungchinhsach.chinhphu.vn. Phạm vi sửa đổi đã đối chiếu thủ công với toàn bộ 14 trang NĐ 238 và xác định: với Điều 7 chỉ bổ sung cụm từ vào điểm e khoản 1 và điểm b khoản 6; Điều 14 sửa điểm b khoản 3 và mở rộng điểm a khoản 6; Điều 18 sửa điểm a khoản 4; Điều 50 sửa điểm đ khoản 1 và đoạn hai điểm a khoản 3.",
+  "NĐ 238/2026 là bản scan, không có lớp chữ. Các trích dẫn từ NĐ 238 được chép tay từ ảnh trang PDF và đã soát lại ở độ phân giải 220 dpi, không kiểm tra tự động được.",
+  "Không mở được PDF gốc NĐ 168 trên datafiles.chinhphu.vn (đường dẫn thử trả 404). Bản dùng làm nguồn là trang toàn văn của Cổng TTĐT Chính phủ (xaydungchinhsach.chinhphu.vn). Ký hiệu điểm của Điều 50 đã đối chiếu thêm với bản scan văn bản ký trên cổng tỉnh Thanh Hóa.",
+  "NĐ 168 không có hành vi riêng 'vượt đèn vàng'. Mức phạt áp dụng được là lỗi 'không chấp hành hiệu lệnh của đèn tín hiệu giao thông' (điểm c khoản 7 Điều 7) kết hợp nghĩa vụ dừng khi đèn vàng (điểm b khoản 4 Điều 11 Luật). Chưa mở văn bản hướng dẫn cách áp dụng thực tế với đèn vàng.",
+  "Luật 36/2024 và NĐ 168 không quy định thông số kỹ thuật của gương chiếu hậu xe máy. Quy chuẩn an toàn kỹ thuật xe mô tô chưa được mở, nên không ghi kích thước hay tiêu chuẩn gương.",
+  "Quy chuẩn kỹ thuật quốc gia về mũ bảo hiểm (mà khoản 2 Điều 33 Luật dẫn chiếu) chưa được mở. Không ghi số hiệu quy chuẩn hay thông số mũ.",
+  "Chưa kiểm chứng trong thư viện này việc từng mẫu VinFast (Klara S, Feliz S, Evo 200) là xe mô tô hay xe gắn máy. Việc phân loại phụ thuộc vận tốc thiết kế và công suất động cơ theo tài liệu hãng. Cần đối chiếu seed_vehicle_quotes trước khi áp mức 40 km/h hay 60/50 km/h.",
+  "Luật không bắt buộc GPLX với người lái xe gắn máy (khoản 1, khoản 4 Điều 56). Chưa tìm thấy hướng dẫn về việc trừ điểm với người lái xe gắn máy không có GPLX.",
+  "Danh sách tuyến phố hoặc khung giờ cấm xe máy cụ thể tại Hà Nội (quyết định của UBND thành phố) chưa được mở. Không ghi tên tuyến cụ thể.",
+  "Các quy định về bảo hiểm bắt buộc TNDS (khoản 2 Điều 18 NĐ 168, điểm d khoản 1 Điều 56 Luật) cố ý không đưa vào vì BRIEF cấm nhắc đến bảo hiểm.",
+  "Thông tư Bộ Công an về sát hạch, cấp GPLX và quy định riêng về hạng A/A1 (Điều 57 Luật) không thuộc phạm vi legal_b và chưa trích ở đây."
+ ]
+}

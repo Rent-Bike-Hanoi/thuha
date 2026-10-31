@@ -1,0 +1,2658 @@
+{
+ "library": "bicycle_b",
+ "built": "2026-10-31",
+ "facts": [
+  {
+   "id": "BB-001",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Schwalbe cho biết dải áp suất cho phép của lốp xe đạp được in trên thành lốp, và tuyệt đối không bơm vượt mức tối đa hoặc thấp hơn mức tối thiểu ghi trên lốp.",
+   "quote": "The permissible pressure range is indicated on the tire sidewall. … Under no circumstances should you exceed or fall below the minimum and maximum pressure limits specified on the tire.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-002",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "touring"
+   ],
+   "claim": "Theo Schwalbe, áp suất “đúng” phụ thuộc chủ yếu vào tải trọng đè lên lốp, tức cân nặng người lái và hành lý; lốp càng hẹp, tổng tải càng lớn thì áp suất càng phải cao.",
+   "quote": "The “correct” air pressure depends largely on the weight load on the tire. This is mainly determined by the weight of the rider and the luggage. … The narrower the tire and the greater the total load, the higher the air pressure must be.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-003",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "sau-thoi-gian-dai-khong-su-dung"
+   ],
+   "claim": "Schwalbe khuyên kiểm tra và chỉnh áp suất lốp ít nhất mỗi tháng một lần; mức hao khoảng 1 bar mỗi tháng được coi là bình thường.",
+   "quote": "You should check and correct the air pressure at least once a month. … A pressure loss of 1 bar per month can be considered normal.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-004",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Schwalbe cảnh báo cách bóp lốp bằng ngón tay để đoán áp suất không đáng tin, vì từ khoảng 2 bar mọi lốp đều có cảm giác cứng; nên dùng đồng hồ đo áp suất.",
+   "quote": "The widespread method of checking the pressure by pressing your thumb onto the tire is not very reliable, as all tires feel relatively hard and sufficiently inflated from approximately 2 bar of pressure.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-005",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Schwalbe: áp suất càng cao thì lực cản lăn, độ mòn và nguy cơ thủng càng thấp; áp suất càng thấp thì càng êm và bám đường hơn.",
+   "quote": "The higher the air pressure, the lower the rolling resistance, wear and susceptibility to punctures. The lower the air pressure, the greater the comfort and grip of the tire.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-006",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "tubeless"
+   ],
+   "claim": "Schwalbe: lốp bản rộng thường chạy ở áp suất thấp hơn, và lốp tubeless nhìn chung có thể chạy áp suất thấp hơn một chút.",
+   "quote": "Wide tires are generally operated with a lower air pressure. … Tubeless tires can also generally be ridden with a slightly lower air pressure.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-007",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Schwalbe: để lốp non hơi kéo dài thường làm lốp mòn sớm, điển hình là nứt thành lốp.",
+   "quote": "A permanently low air pressure often leads to premature tire wear. Cracking of the sidewall is the typical result.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-pressure/",
+   "source_title": "Schwalbe – Technology/FAQ: Inflation pressure",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-008",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Schwalbe: thành lốp thường hỏng trước khi gai mòn, phần lớn do chạy lâu với áp suất thiếu; việc quan trọng nhất là kiểm tra và bơm lại bằng đồng hồ đo ít nhất mỗi tháng.",
+   "quote": "The sidewalls of tires often fail before the tread is worn out. In most cases, this premature wear is due to prolonged use of the tire with insufficient pressure. Checking and re-pumping the inflation pressure at least once a month with a pressure gauge is most important.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-wear/",
+   "source_title": "Schwalbe – Technology/FAQ: Tire wear",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-009",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "nang-nong",
+    "touring"
+   ],
+   "claim": "Schwalbe: quãng đường lốp đi được phụ thuộc áp suất, tải, mặt đường, nhiệt độ; chạy trời nóng, chở nặng trên đường nhám thì lốp mòn nhanh hơn nhiều.",
+   "quote": "It is difficult to answer this question, as mileage is influenced greatly by tire pressure, load, road surface, temperature and the rider. For example, when used in hot weather with a heavy load and on rough asphalt, a tire wears much faster.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-wear/",
+   "source_title": "Schwalbe – Technology/FAQ: Tire wear",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-010",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "moc-5000-km",
+    "touring"
+   ],
+   "claim": "Schwalbe ước tính lốp tiêu chuẩn của hãng đi được khoảng 2.000–5.000 km, dòng Marathon thường 6.000–12.000 km; với lốp MTB thì hãng không đưa số liệu vì phụ thuộc lối chạy.",
+   "quote": "As a general guide, you can expect a tire mileage of 2000 to 5000 km from Schwalbe standard tires. The tires of the Marathon family usually last between 6000 and 12000 km. … No useful mileage data is possible for MTB tires, because the influence of riding style is too dominant.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-wear/",
+   "source_title": "Schwalbe – Technology/FAQ: Tire wear",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-011",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "sau-thoi-gian-dai-khong-su-dung",
+    "luu-kho"
+   ],
+   "claim": "Schwalbe: lốp có thể lưu kho tới 5 năm nếu để nơi mát, khô và tối; lốp đã lắp trên vành thì phải giữ có hơi hoặc treo xe, vì để xe đứng lâu trên lốp xẹp có thể hỏng thành lốp.",
+   "quote": "Schwalbe tires can be stored for up to 5 years without issue. If possible, they should be stored in a cool, dry and, most importantly, a dark place. … If fitted on a rim, tires should always be inflated or the bicycle should be hung up for storage. A bicycle left on flat tires for an extended period of time may damage the sidewalls of the tire.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-wear/",
+   "source_title": "Schwalbe – Technology/FAQ: Tire wear",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-012",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Schwalbe: khi nhìn thấy lớp chống đâm thủng hoặc sợi bố lộ qua mặt gai, lốp đã tới giới hạn mòn và phải thay.",
+   "quote": "When the puncture protection belt or the carcass threads can be seen through the tread the tire has reached its wear limit and must be replaced.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tire-wear/",
+   "source_title": "Schwalbe – Technology/FAQ: Tire wear",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-013",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "tubeless"
+   ],
+   "claim": "Schwalbe: nếu áp suất tối đa của vành thấp hơn của lốp thì phải tuân theo áp suất tối đa của vành (đặc biệt quan trọng với vành hookless).",
+   "quote": "If the specified maximum pressure of the rim is lower than that of the tire, the maximum pressure of the rim must be complied with.",
+   "source": "https://www.schwalbe.com/en/technology-faq/hookless/",
+   "source_title": "Schwalbe – Hookless Rims",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-014",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Schwalbe: van Dunlop (van xe đạp “cổ điển”) kiểu truyền thống không cho phép đo áp suất; van Presta (Sclaverand) nhỏ hơn, 6 mm so với 8 mm.",
+   "quote": "With traditional Dunlop valves, it is impossible to check the inflation pressure. … The Sclaverand valve is narrower than other valves (6 instead of 8 mm).",
+   "source": "https://www.schwalbe.com/en/technology-faq/valve/",
+   "source_title": "Schwalbe – Technology/FAQ: Valve",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-015",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Continental: với người lái khoảng 80 kg, lốp city/touring nên bơm khoảng 80% áp suất tối đa, lốp MTB khoảng 75% áp suất tối đa.",
+   "quote": "City/Touring: For a rider of about 80 kg Continental recommends riding the tyre at about 80 % of the maximum pressure. MTB: For a rider of about 80 kg Continental recommends riding the tyre at about 75 % of the maximum pressure.",
+   "source": "https://www.continental-tires.com/content/dam/conti-tires-cms/continental/b2c/downloads/bicycle/Continental%20Montageanleitung_EN_2018-04-19_Internet.pdf.coredownload.pdf",
+   "source_title": "Continental – Mounting and care instructions for clincher and folding tyres (English, 2018)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-016",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "touring",
+    "truoc-chuyen-phuot"
+   ],
+   "claim": "Continental: khi chở nặng (hành lý, ghế trẻ em…) hoặc đạt tải tối đa cho phép, lốp phải luôn chạy ở áp suất tối đa cho phép.",
+   "quote": "In the case of heavy loads (e.g. luggage, child seat etc.) and when the permissible maximum weight is achieved, the tyre should always be ridden at the maximum permissible pressure.",
+   "source": "https://www.continental-tires.com/content/dam/conti-tires-cms/continental/b2c/downloads/bicycle/Continental%20Montageanleitung_EN_2018-04-19_Internet.pdf.coredownload.pdf",
+   "source_title": "Continental – Mounting and care instructions for clincher and folding tyres (English, 2018)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-017",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Continental: trước mỗi lần đi phải kiểm tra áp suất và tình trạng lốp, dùng bơm có đồng hồ đo; khi vận hành không được để áp suất dưới mức tối thiểu hay vượt mức tối đa ghi trên lốp.",
+   "quote": "Before every ride, check the tyre pressure and make sure the tyres are in sound condition. … Check the tyre pressure with a pump with pressure gauge. … In operation the tyre’s air pressure should never fall short of the minimum and never exceed the maximum air pressure indicated.",
+   "source": "https://www.continental-tires.com/content/dam/conti-tires-cms/continental/b2c/downloads/bicycle/Continental%20Montageanleitung_EN_2018-04-19_Internet.pdf.coredownload.pdf",
+   "source_title": "Continental – Mounting and care instructions for clincher and folding tyres (English, 2018)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-018",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "sau-thoi-gian-dai-khong-su-dung",
+    "luu-kho",
+    "nang-nong"
+   ],
+   "claim": "Continental: lốp, săm và băng lót vành nên thay sau ba năm bất kể quãng đường; không cất lốp dưới nắng gắt hay gần nguồn nhiệt; để xe đứng lâu trên lốp xẹp có thể hỏng cấu trúc lốp.",
+   "quote": "Tyres, inner tubes and rim strips should be replaced after three years irrespective of the mileage. … Do not store the tyres in the blazing sun or near a source of heat. … If the bicycle is left standing on flat tyres for a longer period of time, this can cause damage to the structure of the tyres.",
+   "source": "https://www.continental-tires.com/content/dam/conti-tires-cms/continental/b2c/downloads/bicycle/Continental%20Montageanleitung_EN_2018-04-19_Internet.pdf.coredownload.pdf",
+   "source_title": "Continental – Mounting and care instructions for clincher and folding tyres (English, 2018)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-019",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Continental: áp suất tối đa và bề rộng lòng vành tối đa do hãng vành và hãng lốp đưa ra có thể khác nhau; khi khác nhau thì theo giá trị thấp hơn.",
+   "quote": "Be aware that the maximum tire pressure and maximum inner rim width stated by rim manufacturer and tire manufacturer for a specific tire size can differentiate. If they do, the lowest value is the one to follow.",
+   "source": "https://www.continental-tires.com/tire-knowledge/tire-rim-combinations-etrto-standards/",
+   "source_title": "Continental – Tire/Rim combinations | ETRTO standards",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-020",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "nang-nong",
+    "khoi-dong-buoi-sang-lanh",
+    "mua-dong-lanh"
+   ],
+   "claim": "Continental: nhiệt độ tăng mỗi 10 °C thì áp suất lốp tăng khoảng 0,17 bar (2,5 psi); phải tính đến chênh lệch nhiệt độ giữa nơi đo áp suất và nơi chạy hoặc cất xe.",
+   "quote": "Always keep possible temperature differences between where the inflation pressure is checked and where the bike is ridden or stored in mind. With rising temperatures, the pressure inside the tire rises as well and can potentially exceed the maximum inflation pressure. With every 10°C | 18°F rise in temperature, the inflation pressure increases by roughly 0.17 bar | 2.5 PSI!",
+   "source": "https://www.continental-tires.com/tire-knowledge/tire-rim-combinations-etrto-standards/",
+   "source_title": "Continental – Tire/Rim combinations | ETRTO standards",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-021",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "nang-nong",
+    "mua-dong-lanh",
+    "luu-kho"
+   ],
+   "claim": "Continental: nhiệt độ khắc nghiệt làm giảm tuổi thọ lốp xe đạp; tránh để lốp dưới nắng trực tiếp lâu và tránh để lốp quá lạnh vào mùa đông.",
+   "quote": "Extreme temperatures will shorten the life of a bicycle tire. Avoid leaving the tire in direct sunlight for long periods and try not to let them get too cold during winter.",
+   "source": "https://www.continental-tires.com/tire-knowledge/tire-knowledge-bc/",
+   "source_title": "Continental – Tire Knowledge Bicycle Tires – FAQ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-022",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Continental: mọi hệ thống lốp xe đạp đều mất áp liên tục và lượng khí phụ thuộc nhiệt độ môi trường; nên kiểm tra áp suất bằng bơm có đồng hồ khi van ở vị trí 12 giờ.",
+   "quote": "All bicycle tire systems are subject to continuous pressure loss. The volume of air in a tire is directly related to the air temperature around. … Ideally check the tire pressure using a pump with a display (manometer) when the valve is at the 12 o'clock position.",
+   "source": "https://www.continental-tires.com/tire-knowledge/tire-knowledge-bc/",
+   "source_title": "Continental – Tire Knowledge Bicycle Tires – FAQ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-023",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Continental (MTB): áp suất đúng phụ thuộc cân nặng người lái và địa hình, người càng nhẹ thì càng cần ít áp suất; luôn theo dải áp suất in trên thành lốp và không vượt mức tối đa.",
+   "quote": "The right pressure is dependent on some key variables - the weight of the rider and the terrain being ridden on. In general, the less you weigh, the less pressure is required in the tires. … Always refer to the recommended pressure range printed on the side of the tire and never exceed the maximum.",
+   "source": "https://www.continental-tires.com/products/b2c/tire-knowledge/tire-knowledge-mtb/",
+   "source_title": "Continental – Tire Knowledge Bicycle Tires – MTB",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-024",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Continental (MTB): đường ướt, bùn thường cần áp suất thấp hơn để bám tốt hơn; đường khô bụi thì bơm cao hơn một chút để lăn nhanh hơn.",
+   "quote": "Wet, muddy conditions normally require less pressure in order to deliver better traction. Likewise, when the trails are dry and dusty adding slightly more pressure will help tires roll faster and hold speed.",
+   "source": "https://www.continental-tires.com/products/b2c/tire-knowledge/tire-knowledge-mtb/",
+   "source_title": "Continental – Tire Knowledge Bicycle Tires – MTB",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-025",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Continental (MTB): áp suất quá thấp gây cảm giác nảy, không ổn định và dễ bị kẹp lốp vào cạnh sắc gây thủng; quá cao thì mất bám và kém êm. Nên kiểm tra trước mỗi lần chạy.",
+   "quote": "Pressure that is too low will feel bouncy or unstable, and can also risk pinching the tire against sharp edges causing punctures. Too much pressure will lack traction and will feel less comfortable. … Tire pressure is an important safety factor, so should be checked before every ride.",
+   "source": "https://www.continental-tires.com/products/b2c/tire-knowledge/tire-knowledge-mtb/",
+   "source_title": "Continental – Tire Knowledge Bicycle Tires – MTB",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-026",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb",
+    "tubeless"
+   ],
+   "claim": "Bảng khuyến nghị Maxxis 2022 cho MTB (giả định chạy tubeless): XC Racing lốp 2.00–2.20\" 15–30 psi; Light Trail 2.20–2.40\" 20–35 psi; All-Mountain/Enduro 2.30–2.50\" 20–35 psi.",
+   "quote": "XC Racing 2.00-2.20 20-25 15-30 EXO Light Trail 2.20-2.40 25-30 20-35 EXO, EXO+ All-Mountain / Enduro 2.30-2.50 28-35 20-35 EXO+, DoubleDown … The above recommendations assume the rider is using a tubeless setup for their tires and wheels.",
+   "source": "https://www.maxxis.com/us/wp-content/uploads/sites/13/2022/02/2022-Bicycle-Tech.pdf",
+   "source_title": "Maxxis – 2022 Bicycle Tech (Recommended rim widths & tire pressure)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-027",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Bảng khuyến nghị Maxxis 2022 cho lốp đường trường/gravel: Road 23–30 mm 40–80 psi; Gravel 38–50 mm 25–45 psi.",
+   "quote": "Road 23-30 18-28 40-80 K2, ZK, MaxxShield Gravel 38-50 18-30 25-45 EXO, SilkShield",
+   "source": "https://www.maxxis.com/us/wp-content/uploads/sites/13/2022/02/2022-Bicycle-Tech.pdf",
+   "source_title": "Maxxis – 2022 Bicycle Tech (Recommended rim widths & tire pressure)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-028",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Maxxis: không có một mức áp suất hoàn hảo cho mọi người; lối chạy, loại xe, cân nặng, địa hình và điều kiện đường đều ảnh hưởng; người nặng, chạy mạnh cần áp suất cao hơn và/hoặc vỏ dày hơn.",
+   "quote": "There is no single perfect tire pressure that will work for every rider. Riding style, bike type, rider weight, terrain, and trail conditions are a few of the variables that influence tire pressure. … Heavier, more aggressive riders will need higher pressures and/or heavier-duty casings to provide cornering support and flat protection.",
+   "source": "https://www.maxxis.com/us/wp-content/uploads/sites/13/2022/02/2022-Bicycle-Tech.pdf",
+   "source_title": "Maxxis – 2022 Bicycle Tech (Recommended rim widths & tire pressure)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-029",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "tubeless"
+   ],
+   "claim": "Maxxis: lốp Tubeless Ready phải lắp trên vành tương thích tubeless và dùng dung dịch tự vá; lốp không có ký hiệu TR chỉ được dùng với săm.",
+   "quote": "TR tires must be mounted to a tubeless-compatible rim and use a liquid sealant in order to retain air. If a tire lacks the Tubeless Ready designation, it should only be used with an inner tube.",
+   "source": "https://www.maxxis.com/us/wp-content/uploads/sites/13/2022/02/2022-Bicycle-Tech.pdf",
+   "source_title": "Maxxis – 2022 Bicycle Tech (Recommended rim widths & tire pressure)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-030",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: khi lắp săm, đặt van cạnh dòng khuyến nghị áp suất in trên thành lốp để dễ tìm khi bơm; bơm đủ áp rồi kiểm tra bằng đồng hồ.",
+   "quote": "Install with tube valve adjacent to air pressure recommendations written on tire sidewall. … Inflate to full pressure and check with pressure gauge.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/tire-and-tube-removal-and-installation",
+   "source_title": "Park Tool – Tire and Tube Removal and Installation",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-031",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: hai vết rách song song trên săm thường do săm bị kẹp giữa vành và chướng ngại (thủng kiểu “rắn cắn”); cách khắc phục là tăng áp suất hoặc dùng lốp rộng hơn.",
+   "quote": "Double slits are commonly the result of a rim pinch. The tube was pinched between the rim and an object in road/trail. Increase air pressure or use wider tires.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/tire-and-tube-removal-and-installation",
+   "source_title": "Park Tool – Tire and Tube Removal and Installation",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-032",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "tubeless"
+   ],
+   "claim": "Schwalbe: lượng dung dịch tự vá cho lốp rộng 23–60 mm là 60–90 ml mỗi lốp; Doc Blue có tác dụng khoảng 2.000 km hoặc 2–7 tháng, thời gian thay đổi nhiều theo nhiệt độ môi trường.",
+   "quote": "Filling quantities: tires from 23 - 60 mm in width = 60 - 90 ml per tire. … Doc Blue remains active for around 2000 km or 2-7 months as preventive puncture protection in the tire. The period varies greatly depending on the ambient temperature.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tubeless/",
+   "source_title": "Schwalbe – Technology/FAQ: Tubeless",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-033",
+   "tags": [
+    "ap-suat-lop-chuan",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "tubeless"
+   ],
+   "claim": "Schwalbe: không dùng bình CO2 để bơm lốp tubeless có dung dịch tự vá vì CO2 ảnh hưởng xấu tới dung dịch; luôn tuân thủ áp suất tối đa của lốp và vành, lấy mức thấp hơn.",
+   "quote": "! NOTE: Please do not use CO2 cartridges for inflation. The CO2 has an unfavorable effect on the puncture protection fluid. … If the maximum pressure stated for the rim is lower than the maximum pressure shown on the tire, it is essential not to exceed the lower maximum pressure stated for the rim.",
+   "source": "https://www.schwalbe.com/en/technology-faq/tubeless/",
+   "source_title": "Schwalbe – Technology/FAQ: Tubeless",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-034",
+   "tags": [
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Schwalbe: trên mặt đường phẳng, áp suất càng cao thì lực cản lăn càng thấp; trên đường địa hình thì ngược lại, áp suất thấp hơn cho lực cản lăn thấp hơn.",
+   "quote": "On a completely smooth surface the following applies: The higher the inflation pressure, the inferior the tire deformation and thus rolling resistance. Off road it is exactly the reverse: The lower the inflation pressure, the lower the rolling resistance.",
+   "source": "https://www.schwalbe.com/en/technology-faq/rolling-resistance/",
+   "source_title": "Schwalbe – Technology/FAQ: Rolling resistance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-035",
+   "tags": [
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Schwalbe: ở khoảng 20 km/h trên đường bằng, lực cản không khí đã thành lực cản chính; khi leo dốc, lực cản chính là lực cản do độ dốc.",
+   "quote": "At a speed of approx. 20 km/h on level ground, air resistance has already become the main resistance force. … When riding uphill, the main resistance force to be overcome is the gradient resistance (grade resistance).",
+   "source": "https://www.schwalbe.com/en/technology-faq/rolling-resistance/",
+   "source_title": "Schwalbe – Technology/FAQ: Rolling resistance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-036",
+   "tags": [
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Schwalbe: ma sát ở xích và các bộ phận quay chỉ chiếm phần rất nhỏ tổng lực cản trên một chiếc xe đạp được bảo dưỡng tốt.",
+   "quote": "In addition to these, there are other friction resistances in the chain and in other rotating parts. Yet in a well-serviced bicycle, these represent a very minor part of the total resistance.",
+   "source": "https://www.schwalbe.com/en/technology-faq/rolling-resistance/",
+   "source_title": "Schwalbe – Technology/FAQ: Rolling resistance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-037",
+   "tags": [
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Schwalbe: ở cùng áp suất, lốp rộng lăn tốt hơn lốp hẹp; gai trơn thường lăn tốt hơn gai thô.",
+   "quote": "Wider tires roll better than narrower tires. … Generally, smooth treads roll better than coarse treads.",
+   "source": "https://www.schwalbe.com/en/technology-faq/rolling-resistance/",
+   "source_title": "Schwalbe – Technology/FAQ: Rolling resistance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-038",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bảng mốc dịch vụ SRAM/RockShox: phuộc RockShox (Paragon, Rudy XPLR, XC 28, XC 30, 30, Judy, Recon, Sektor, 35, Bluto, REBA, SID, RS-1, Revelation, PIKE, Lyrik, Yari, Domain, ZEB) làm dịch vụ chân phuộc dưới (lower leg) ở mốc 50 giờ chạy.",
+   "quote": "50 HOURS … Lower Leg Service for: Paragon Rudy XPLR XC 28 XC 30 30 Judy Recon Sektor 35 Bluto REBA SID RS-1 Revelation PIKE Lyrik Yari Domain ZEB",
+   "source": "https://www.sram.com/globalassets/document-hierarchy/service-manuals/sramrockshox-service-interval-counter-mat.pdf",
+   "source_title": "SRAM/RockShox – Service Intervals (service interval counter mat)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-039",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bảng mốc dịch vụ SRAM/RockShox: dịch vụ giảm chấn và lò xo (Damper and Spring) ở mốc 100 giờ cho các phuộc đời cũ (ví dụ Recon, Sektor đời 2015 trở về trước) và mốc 200 giờ cho các phuộc đời mới (ví dụ Judy 2018+, Recon 2016+, Sektor 2016+, 35 2020+).",
+   "quote": "100 HOURS … 200 HOURS … Damper and Spring Service for: … Paragon XC 28 XC 30 30 (2015 and earlier) Recon (2015 and earlier) Sektor (2015 and earlier) … Rudy XPLR (2022+) 30 (2016+) Judy (2018+) Recon (2016+) Sektor (2016+) 35 (2020+)",
+   "source": "https://www.sram.com/globalassets/document-hierarchy/service-manuals/sramrockshox-service-interval-counter-mat.pdf",
+   "source_title": "SRAM/RockShox – Service Intervals (service interval counter mat)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-040",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "SRAM/RockShox: mỗi mốc là số giờ chạy tối đa cho từng hạng mục; tùy địa hình, điều kiện môi trường, lối chạy và tay nghề, làm dịch vụ sớm hơn có thể cho hiệu năng tốt hơn; mốc có thể khác theo sản phẩm, đời xe và bộ kit.",
+   "quote": "Each service interval indicates the maximum number of riding hours designated for each type of recommended maintenance. Depending on the terrain and environmental conditions in your location, your riding style and skill level, you may see more optimum performance if you service your SRAM and RockShox products at shorter intervals. … Note: Hourly service intervals may vary based on product, model year, and available service kit(s).",
+   "source": "https://www.sram.com/globalassets/document-hierarchy/service-manuals/sramrockshox-service-interval-counter-mat.pdf",
+   "source_title": "SRAM/RockShox – Service Intervals (service interval counter mat)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-041",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "SR SUNTOUR: không bao giờ dùng máy rửa áp lực hay tia nước có áp để rửa phuộc vì nước có thể lọt vào ở phớt chắn bụi; không dùng chất tẩy mạnh, chỉ dùng nước sạch và khăn ẩm.",
+   "quote": "Never use a pressure washer or any water under pressure to clean your suspension system as water may enter the shock at the dust seal level. Never use aggressive cleaners. We recommend clear water and a damp cloth to wipe down your shock.",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-042",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-dong-lanh",
+    "mua-mua-ngap",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "SR SUNTOUR: phuộc cần bảo dưỡng thường xuyên hơn nếu chạy trong thời tiết khắc nghiệt (mùa đông, đường ướt/bùn) và địa hình xấu; bộ phận chuyển động tiếp xúc ẩm và bẩn sẽ giảm hiệu năng sau vài lần chạy.",
+   "quote": "As long as moving parts are exposed to moisture and contamination, the performance of your suspension system might be reduced after several rides. … Your suspension system should be serviced more frequently as indicated below if you ride in extreme weather (winter time, or in wet/muddy conditions) and rough terrain conditions.",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-043",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "lich-trinh-dinh-ky"
+   ],
+   "claim": "Lịch bảo dưỡng SR SUNTOUR: sau mỗi lần chạy lau ống phuộc và phớt bụi bằng khăn có dầu, kiểm tra ống trượt; mỗi 50 giờ làm Maintenance 1 tại đại lý; mỗi 100 giờ hoặc mỗi năm làm Maintenance 2 tại đại lý (nên làm trước mùa đông).",
+   "quote": "after every ride: Clean the fork tubes and dust seals and maintain with an oily cloth. Check stanchion tubes for dents, scratches or other discoloration or leaking oil. … every 50 hours: Maintenance 1 (at dealer) … every 100 hours or once a year: Maintenance 2 (at dealer, ideally before winter time in order to protect all parts from the effects of weather by proper greasing)",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-044",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SR SUNTOUR: Maintenance 2 gồm tháo rời, vệ sinh toàn bộ phuộc trong ngoài, làm sạch và bôi trơn phớt bụi, bạc trượt; thay bạc trượt nếu độ rơ lớn hơn 1 mm đo ở cầu phuộc.",
+   "quote": "Maintenance 1 + disassembly / cleaning the entire fork inside and out / cleaning and lubricating dust seals and slider sleeves / checking torques / adjusting to the riders liking. … Replace the slider sleeves if the play is excessive (more than 1 mm at the fork brace).",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-045",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SR SUNTOUR: độ lún SAG (do riêng cân nặng người lái) nên nằm trong khoảng 15–30% hành trình tối đa của phuộc, tùy mục đích sử dụng.",
+   "quote": "The “SAG” depends on the position and weight of the rider … and should be between 15% and 30% of … the fork’s max travel depending on the intended use and preferences.",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-046",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bảng áp suất gợi ý của SR SUNTOUR cho phuộc hơi: người 65–75 kg dùng 50–60 psi (RUX), 60–70 psi (DUROLUX/AURON/AION), 70–80 psi (EPIXON TR), 65–75 psi (AXON, EPIXON XC/RAIDON/XCR); không vượt áp suất tối đa (100–180 psi tùy dòng).",
+   "quote": "65 - 75 50 - 60 60 - 70 70 - 80 65 - 75 65 - 75 … Max. Pressure 100psi 150psi 180psi 165psi 180psi … Never exceed the recommended maximum air pressure.",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-047",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "truoc-chuyen-phuot"
+   ],
+   "claim": "SR SUNTOUR (trước mỗi lần đi): kiểm tra nứt, móp, cong và dầu rò ở phuộc; ấn phuộc bằng trọng lượng cơ thể, nếu quá mềm thì chỉnh lại SAG.",
+   "quote": "Inspect your bicycle and suspension system including the handlebars, pedals, crank arms, seat post, saddle, etc. for any cracks, dents, bent or tarnished parts. Also search for any oil leaking out of your shocks. … Compress your suspension system with your body weight. If it feels too soft, make the necessary adjustments until you have reached the correct SAG value.",
+   "source": "https://www.srsuntour.com/fileadmin/user_upload/Downloads/Consumer/Bike/Owners%20manuals/Archive/2017/SRSUNTOUR-basic-fork-manual-EN-14.08.2017.pdf",
+   "source_title": "SR SUNTOUR – Owner's manual Suspension fork (basic fork manual, EN, 14.08.2017)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-048",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "rua-xe-khong-hai-may"
+   ],
+   "claim": "FOX: sau mỗi lần chạy nên rửa bên ngoài phuộc bằng nước xà phòng nhẹ, xịt tia nước rất nhẹ và lau khô; không dùng dung môi tẩy dầu; không xịt thẳng vào khe phớt và ống trên; không bao giờ dùng máy rửa áp lực.",
+   "quote": "Use mild soapy water, a very light pressure water spray to rinse, and wipe dry with a clean, dry cloth. … Do not use any solvents or de-greasers, as these products can damage the shock's exterior finish or its anodized parts. … Do not spray water directly on the seal/upper tube junction. Never use a high pressure washer on your FOX fork or rear shock.",
+   "source": "https://tech.ridefox.com/fox_tech_center/owners_manuals/011/Content/Service_Intervals.html",
+   "source_title": "FOX – Owner's manual (2011): Service Intervals",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-049",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "FOX: bụi bẩn khô bám trên ống trên của phuộc sẽ cọ làm hỏng phớt gạt bụi, rồi bụi lọt vào trong phuộc.",
+   "quote": "When dirt dries onto the fork upper tube or shock body, it will chafe and damage the wiper seal. With a damaged seal, dirt works its way into the fork or shock.",
+   "source": "https://tech.ridefox.com/fox_tech_center/owners_manuals/011/Content/Service_Intervals.html",
+   "source_title": "FOX – Owner's manual (2011): Service Intervals",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-050",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bảng mốc FOX (tài liệu đời 2011): phuộc lò xo hơi (32, 36, F-Series, FLOAT, TALAS) thay dầu chân phuộc dưới mỗi 100 giờ hoặc mỗi năm; chạy điều kiện khắc nghiệt (ướt bùn, đổ đèo, mùa đông) thì phải rút ngắn mốc.",
+   "quote": "Tip: If you ride in extreme conditions frequently (wet and muddy, downhill racing, winter riding, etc.), correspondingly the service intervals should be more frequent. … Air Spring Forks (All 32, 36; F-SERIES, FLOAT & TALAS) service item new each ride/race every 100 hours/annually … change oil in lower legs",
+   "source": "https://tech.ridefox.com/fox_tech_center/owners_manuals/011/Content/Service_Intervals.html",
+   "source_title": "FOX – Owner's manual (2011): Service Intervals",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-051",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "FOX công bố mốc bảo dưỡng toàn bộ (Full Service) 125 giờ cho phuộc 34mm.",
+   "quote": "Service Interval Full Service 125 hours",
+   "source": "https://tech.ridefox.com/bike/parts-drawings/1124/34mm-part-information",
+   "source_title": "FOX – 34mm Part Information (Bike Tech Help Center)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-052",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap"
+   ],
+   "claim": "FOX (phuộc 38mm 2026): phuộc phải làm dịch vụ sớm hơn khi chạy càng nặng, như đổ đèo, công viên xe đạp, điều kiện rất ướt/bùn hoặc khô/bụi, hay xe e-MTB; nếu nghe, thấy hoặc cảm nhận điều bất thường thì dừng xe ngay.",
+   "quote": "For those who ride lift-accessed DH, Park, or Extreme Freeride or in extremely wet/muddy or dry/dusty environmental conditions where trail debris is sprayed onto the fork or shock while on the trail, or e-mtb's, FOX encourages riders to perform maintenance earlier than recommended above as needed. If you hear, see, or feel something unusual, stop riding immediately and contact a FOX Authorized Service Center for proper servicing.",
+   "source": "https://tech.ridefox.com/bike/owners-manuals/3103/fork--2026-38mm",
+   "source_title": "FOX – Fork 2026 38mm owner's manual (Bike Tech Help Center)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-053",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Park Tool: nếu rửa bằng vòi thì chỉ dùng áp lực thấp, tia tỏa rộng; để xe khô sau khi xả, có thể dùng khí nén nhưng không thổi thẳng vào ổ bi; sau đó tra dầu nhẹ cho xích, bánh puli, dây cáp và các khớp.",
+   "quote": "If you are using a hose, use only low pressure with a wide spray. … Allow the bike to dry after rinsing. Use compressed air if available, but do not blast bearings directly. Use a light lubricant such as CL-1.2 on the chain, pulley wheels, cables, and pivots points.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "Park Tool – How to Wash a Bicycle",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-054",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Park Tool: khi rửa líp bằng dung môi, nghiêng bánh để líp hướng xuống đất nhằm hạn chế dung môi chảy vào ổ bi.",
+   "quote": "Lean the wheel so the cogs are facing the ground to minimize solvent dripping into bearing",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "Park Tool – How to Wash a Bicycle",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-055",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-xich-lip",
+    "thay-dau-nhot"
+   ],
+   "claim": "Park Tool: sau khi rửa, xích bắt buộc phải tra dầu lại; trước đó kéo xích qua giẻ sạch khô cho khô, rồi tra một giọt dầu cho mỗi mắt xích.",
+   "quote": "The chain must be re-lubricated. First run the chain through a clean, dry rag to ensure it is dry. … Apply one drop of lubricant per chain link",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "Park Tool – How to Wash a Bicycle",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-056",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Park Tool: lau khô xe bằng khăn giúp phát hiện xà phòng còn sót và kiểm tra khung, linh kiện cần bảo dưỡng.",
+   "quote": "The remainder of the bike can be allowed to air dry; however, hand-drying the bike with a towel allows you to catch any soap that was not rinsed off, as well as inspect the frame and components for any needed maintenance or repairs.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "Park Tool – How to Wash a Bicycle",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-057",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: tuyệt đối không dùng chất dễ cháy như xăng, dầu hỏa, dầu diesel làm dung môi tẩy rửa; khung xe chỉ cần chất tẩy nhẹ hoặc xà phòng và nước.",
+   "quote": "Never use highly flammable liquids such as gasoline, kerosene, or diesel as cleaning solvent. … For cleaning the frame use mild cleaners such as a window cleaner, or simply soap and water.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-058",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Trek (thợ máy đội đua Trek): nên xả xe bằng vòi nước thông thường; tia máy rửa áp lực có thể đẩy nước vào ổ bi bánh xe, ổ bi cổ lái và rửa trôi mỡ, làm giảm tuổi thọ.",
+   "quote": "When you need to rinse the components or the rest of the bike, the advice is to use water from a regular hose. If you have a pressure washer and you want to use that, be careful. The pressure jet could get water into places where it is really not recommended, such as wheel or steering bearings. The force of the pressure could remove necessary grease from these parts and shorten their life.",
+   "source": "https://racing.trekbikes.com/?p=44541",
+   "source_title": "Trek Factory Racing – So Fresh, So Clean (5 mẹo rửa xe của thợ máy đội Trek-Segafredo)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-059",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Trek: làm khô xe là bước bắt buộc trước khi bôi trơn; sau cùng có thể phủ bình xịt bảo vệ (silicone hoặc sáp) lên khung để chống hình thành gỉ.",
+   "quote": "Drying is an essential step before lubrication. … Last but not least, give your frame an extra protection with a care spray (silicon or wax) to give a long-lasting effect against rust formation and make it shine as it deserves.",
+   "source": "https://racing.trekbikes.com/?p=44541",
+   "source_title": "Trek Factory Racing – So Fresh, So Clean (5 mẹo rửa xe của thợ máy đội Trek-Segafredo)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-060",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sách hướng dẫn Trek: nước áp lực cao có thể làm hỏng các bộ phận xe đạp; không rửa xe bằng máy rửa áp lực cao.",
+   "quote": "AVISO: El agua a alta presión puede dañar las partes de la bicicleta. No limpies tu bicicleta con una lavadora de alta presión.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-061",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "Shimano (hub líp trong): hub không kín nước hoàn toàn; tránh dùng ở nơi nước có thể lọt vào và không xịt nước áp lực cao để rửa hub, nếu không cơ cấu bên trong có thể bị gỉ.",
+   "quote": "The internal hub is not completely waterproof. Avoid using the hub in places where water might get inside and do not use high-pressure water to clean the hub, otherwise the internal mechanism may rust.",
+   "source": "https://hollandbikeshop.com/images/UM-37G0A-004-00-ENG(1).pdf",
+   "source_title": "SHIMANO User's manual UM-37G0A-004-00 – Internal Geared Hub (Coaster brake / Disc brake) (bản PDF gốc của Shimano do nhà bán lẻ lưu; si.shimano.com chặn truy cập tự động)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-062",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-xich-lip"
+   ],
+   "claim": "Shimano: nên định kỳ rửa đĩa xích bằng chất tẩy trung tính; làm sạch xích bằng chất tẩy trung tính rồi bôi trơn giúp kéo dài tuổi thọ đĩa và xích.",
+   "quote": "The chainrings should be periodically washed with a neutral detergent. In addition, cleaning the chain with neutral detergent and lubricating it can be an effective way of extending the life of the chainrings and the chain.",
+   "source": "https://hollandbikeshop.com/images/UM-37G0A-004-00-ENG(1).pdf",
+   "source_title": "SHIMANO User's manual UM-37G0A-004-00 – Internal Geared Hub (Coaster brake / Disc brake) (bản PDF gốc của Shimano do nhà bán lẻ lưu; si.shimano.com chặn truy cập tự động)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-063",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "moc-5000-km",
+    "lich-trinh-dinh-ky",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Shimano khuyên mang hub líp trong (internal geared hub) tới cửa hàng để tra mỡ khoảng hai năm một lần kể từ lần dùng đầu (hoặc khoảng mỗi 5.000 km nếu đi rất thường xuyên); nên dùng mỡ/bộ bôi trơn chuyên dụng của Shimano.",
+   "quote": "In order to maintain proper performance, it is recommended that you contact the place of purchase or your nearest Pro shop to carry out maintenance such as greasing the internal hub about once every two years starting from the first time of use (or once about every 5,000 km if the bicycle is used very frequently). … Furthermore, it is recommended that you use the Shimano internal hub grease or lubrication kit when carrying out maintenance.",
+   "source": "https://hollandbikeshop.com/images/UM-37G0A-004-00-ENG(1).pdf",
+   "source_title": "SHIMANO User's manual UM-37G0A-004-00 – Internal Geared Hub (Coaster brake / Disc brake) (bản PDF gốc của Shimano do nhà bán lẻ lưu; si.shimano.com chặn truy cập tự động)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-064",
+   "tags": [
+    "thay-dau-nhot",
+    "ve-sinh-xich-lip",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap",
+    "xu-ly-ngap-nuoc"
+   ],
+   "claim": "Park Tool: xích là bộ phận cần bôi trơn thường xuyên nhất; dầu xích có thể bị mưa và vũng nước rửa trôi, xích thiếu dầu mòn nhanh và phải thay sớm.",
+   "quote": "The chain is the component on your bike that requires the most frequent surface preparation — over time, chains will pick up dirt and grime from the trail, and chain lube can be washed off by rain and puddles. For this reason, it’s a good idea to regularly clean and re-lubricate your chain. An insufficiently-lubricated chain will wear out faster and require replacement.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-065",
+   "tags": [
+    "thay-dau-nhot",
+    "ve-sinh-xich-lip",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap",
+    "nang-nong"
+   ],
+   "claim": "Park Tool: dầu xích loại “ướt” (wet) có độ nhớt cao, hợp khí hậu ẩm hoặc mưa; loại “khô” (dry) ít bám bụi, hợp khí hậu khô bụi; ngoài ra có dầu gốc sáp.",
+   "quote": "“Wet” lubes (such as Park Tool CL-1.2 Chain Lube) have a high viscosity and perform well in humid or rainy climates, while “dry” lubes generally attract less dirt and debris, which is especially helpful in dry, dusty climates. Chains can also be lubricated with a wax-based lubricant.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-066",
+   "tags": [
+    "thay-dau-nhot",
+    "ve-sinh-xich-lip",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: dầu thẩm thấu gia dụng như WD-40 không phải dầu xích lý tưởng; không nên dùng thường xuyên để bôi trơn xích.",
+   "quote": "Although it may be convenient, and it may work temporarily in a pinch, common household penetrating oil such as WD-40 is not an ideal chain lubricant. Do not regularly rely on penetrating oil for chain lubrication.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-067",
+   "tags": [
+    "thay-dau-nhot",
+    "xu-ly-ngap-nuoc",
+    "can-chinh-co-phot",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: mỡ cần thay khi lẫn cát bụi hoặc khi dầu trong mỡ đã cũ khô; ổ bi bi rời (moay-ơ cup-and-cone, trục giữa, cổ lái ren) dựa vào mỡ để quay êm, ít mòn.",
+   "quote": "Grease should be changed when it becomes contaminated with grit and dirt or when the oil in the grease becomes old and dry, which reduces its lubricating properties. … Bearing systems that use loose or caged ball bearings, such as cup-and-cone bottom brackets, cup-and-cone hubs, and threaded headsets, rely on grease for smooth operation and minimal excess wear.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-068",
+   "tags": [
+    "thay-dau-nhot",
+    "xu-ly-ngap-nuoc",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: vòng bi bạc đạn kín (sealed cartridge) đã được tra mỡ sẵn, thường không thiết kế để tra mỡ lại và được coi là vật tư tiêu hao, mòn thì thay.",
+   "quote": "Sealed cartridge bearings have become more common on bicycles — these types of bearings are already greased and are typically not designed to have grease reapplied. In general, sealed cartridge bearings should be considered consumable items and are simply replaced when they wear out.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-069",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: khi hai bề mặt kim loại trần tiếp xúc sẽ phản ứng hóa học gây ăn mòn, gỉ; các chất xử lý bề mặt (mỡ, chống kẹt…) tạo lớp ngăn làm chậm hoặc ngăn ăn mòn.",
+   "quote": "When bare metal surfaces come into contact with each other, they will begin to chemically react with one another, resulting in corrosion and rust. Assembly compounds form a barrier between these surfaces, slowing and even preventing corrosion from occurring.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-070",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: mỡ không lý tưởng khi bắt ren giữa hai kim loại khác loại (nhất là titan); hợp chất chống kẹt (anti-seize) bảo vệ chống ẩm và ăn mòn bền hơn mỡ.",
+   "quote": "However, grease is not ideal for threading dissimilar metals together, especially when titanium components or frames are involved. … It provides a durable, long-lasting layer of protection that guards against moisture and corrosion more effectively than grease.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-071",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: khi lắp cọc yên hoặc pô tăng cổ ngỗng vào ống, nên bôi mỡ (vào trong ống) để chống kẹt và ăn mòn; cọc yên carbon là ngoại lệ.",
+   "quote": "When inserting one tube into another, such as when installing a seat post or a quill stem, it is a good idea to apply grease. This will prevent seizing and corrosion, and ease future removal of these components. … Carbon fiber seat posts are an exception",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-072",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap",
+    "can-chinh-co-phot"
+   ],
+   "claim": "Park Tool: có thể dùng dầu nhẹ trong vỏ dây phanh và dây đề để đẩy nước và chống ăn mòn.",
+   "quote": "Light lubricant can also be used in brake and derailleur housing to displace water and prevent corrosion.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "Park Tool – The Park Tool Guide to Bicycle Lubricants and Compounds",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-073",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Seven Cycles: gỉ hình thành khi không khí ẩm tiếp xúc với thép; ngoài mất thẩm mỹ, gỉ làm yếu kết cấu khung và về lâu dài có thể khiến khung gãy.",
+   "quote": "When moist air comes in contact with steel, rust forms. Aside from not looking good, rust also weakens your frame's integrity. Over a long period of time rust can be so damaging that your frame could fail, which can be dangerous.",
+   "source": "https://sevencycles.com/steel-frame-care-and-maintenance.php",
+   "source_title": "Seven Cycles – Steel Frame Care and Maintenance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-074",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap"
+   ],
+   "claim": "Seven Cycles khuyên phun chất chống gỉ (như Frame Saver, Boeshield T-9) vào bên trong khung thép ít nhất mỗi mùa, chạy mưa càng nhiều thì càng phải phun thường xuyên.",
+   "quote": "A rust inhibitor such as Frame Saver™ or Boeshield T-9™ is the very best defense against rust. We strongly recommend applying a rust inhibitor to the inside of your frame at least once a season; however, the more you ride in wet conditions, the more applications we suggest.",
+   "source": "https://sevencycles.com/steel-frame-care-and-maintenance.php",
+   "source_title": "Seven Cycles – Steel Frame Care and Maintenance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-075",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap"
+   ],
+   "claim": "Seven Cycles: sau mỗi lần đi mưa, rút cọc yên và úp ngược xe qua đêm cho nước lọt vào thoát ra; lỗ thoát nước ở trục giữa không đủ bảo vệ bên trong khung.",
+   "quote": "After wet rides, always remove your seat post and set your bike upside down overnight to allow any water that found its way in, to find its way out. Some bikes have a bottom bracket drainage hole but that is not enough to protect the inside of your frame against rust.",
+   "source": "https://sevencycles.com/steel-frame-care-and-maintenance.php",
+   "source_title": "Seven Cycles – Steel Frame Care and Maintenance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-076",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Seven Cycles: thường xuyên kiểm tra vết tróc sơn và dặm sơn để phần thép lộ ra không bị thời tiết tác động.",
+   "quote": "Frequently inspect your frame for paint chips. Repair chips with touchup paint to protect the exposed steel from the elements.",
+   "source": "https://sevencycles.com/steel-frame-care-and-maintenance.php",
+   "source_title": "Seven Cycles – Steel Frame Care and Maintenance",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-077",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Starling Cycles (khung thép): ống yên, ống cổ và hộp trục giữa là những chỗ tiếp xúc môi trường nhất; ống cổ và trục giữa cần một lớp mỡ để không gỉ; nên rút cọc yên vài tháng một lần để tra mỡ lại bên trong ống yên.",
+   "quote": "The inside of frames needs a little bit of care – particularly the seat tube, head tube and bottom bracket which are exposed to the elements. … Head tubes and bottom brackets need a good layer of grease to keep them rust-free. … We’d strongly recommend removing your seat post every couple of months and re-greasing the inside of the seat tube.",
+   "source": "https://starlingcycles.com/frame-care",
+   "source_title": "Starling Cycles – Frame care",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-078",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "nang-nong",
+    "mua-mua-ngap"
+   ],
+   "claim": "Sách hướng dẫn Trek: che chắn xe khỏi thời tiết khi có thể; mưa, tuyết, mưa đá và cả nắng trực tiếp đều có thể làm hỏng khung, lớp sơn hoặc linh kiện.",
+   "quote": "Protege tu bici de los elementos del clima cuando sea posible. La lluvia, la nieve, el granizo e incluso la luz solar directa pueden dañar el cuadro, el acabado o las partes de tu bicicleta.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-079",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "sau-thoi-gian-dai-khong-su-dung",
+    "luu-kho",
+    "ap-suat-lop-chuan"
+   ],
+   "claim": "Sách hướng dẫn Trek: trước khi cất xe lâu, hãy vệ sinh, bảo dưỡng và đánh bóng khung; treo xe để lốp không chạm đất, lốp bơm khoảng một nửa áp suất khuyến nghị.",
+   "quote": "Antes de guardar tu bicicleta durante un periodo largo de tiempo, límpiala y hazle el servicio, y después aplica pulimento en el cuadro. Cuelga tu bicicleta sin que toque el suelo con las llantas aproximadamente a la mitad de la presión de inflado recomendada.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-080",
+   "tags": [
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-dau-nhot"
+   ],
+   "claim": "Park Tool: khi đại tu moay-ơ, kiểm tra chén và côn bi xem có rỗ không; bi bị xỉn màu thì nên thay; chén bị hỏng thường không thay được mà phải thay moay-ơ.",
+   "quote": "View hub cups and cones for pitting or damage. … Inspect ball bearings for shininess and brightness. If balls are dull looking, they should be replaced. If the cup is damaged, it typically cannot be replaced. A new hub would be required.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Park Tool – Hub Overhaul and Adjustment: Cup and Cone Style",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-081",
+   "tags": [
+    "xu-ly-ngap-nuoc",
+    "mua-mua-ngap",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sách hướng dẫn Trek: khi trời ướt độ bám của lốp giảm đáng kể và quãng phanh dài hơn; vạch sơn và nắp cống kim loại đặc biệt trơn khi ướt.",
+   "quote": "Toma precauciones adicionales cuando pasees en clima mojado o nevado, ya que el agarre de tus llantas se reduce considerablemente. Las distancias de frenado son mayores en clima mojado. … Las superficies pintadas (cruces peatonales, líneas de carriles) y metálicas (rejillas, tapas de alcantarillas) pueden ser particularmente resbaladizas cuando están mojadas.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-082",
+   "tags": [
+    "can-chinh-co-phot",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: cổ lái chỉnh quá lỏng sẽ có độ rơ, bi bị dập vào rãnh theo mỗi va chạm nhỏ ở bánh trước, lâu dần mòn rãnh, biến dạng bi và xe lái kém.",
+   "quote": "If a headset adjustment is too loose, there will be play in the bearing system. The bearings can move up and down and are subject to being rattled or slammed against the race surface with each minuscule impact to the front tire. Over time, this can cause wear to the surface of the races and even deform the ball bearings themselves. A loose headset with play may also handle poorly.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "Park Tool – How to Adjust a Threadless Headset",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-083",
+   "tags": [
+    "can-chinh-co-phot",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "dau-hieu-can-kiem-tra"
+   ],
+   "claim": "Park Tool: cách kiểm tra cổ lái rơ là bóp phanh trước, đặt tay ôm lên cổ lái và ống cổ rồi đẩy xe tới lui; có tiếng gõ hoặc cảm giác lắc là cổ lái bị lỏng.",
+   "quote": "To check for a loose headset, apply the front brake and the put your free hand over the headset and head tube. Rock the bike back and forth, and feel for a play between the components. A knocking or rocking movement between the frame and the threaded race is an indication of a loose headset.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "Park Tool – How to Adjust a Threadless Headset",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-084",
+   "tags": [
+    "can-chinh-co-phot",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool: cổ lái chỉnh quá chặt gây mòn sớm, có thể bị “khấc” khi đánh lái; mức chỉnh đúng là lỏng nhất có thể mà không còn độ rơ.",
+   "quote": "Headsets that are run too tight can cause premature wear and can get “indexed” or feel “notchy”. Often a headset that is adjusted too tight will feel stiff and may feel rough. The appropriate adjustment for a headset is as loose as possible with no play.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "Park Tool – How to Adjust a Threadless Headset",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-085",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure có bốn cấp chứng nhận chính cho khóa xe đạp (Pedal Cycle): Diamond, Gold, Silver, Bronze; cấp được trao dựa trên thời gian khóa chịu được các dụng cụ và kỹ thuật trộm cụ thể như cắt, bẻ khóa, cưa.",
+   "quote": "Sold Secure has four main grades of bike lock rating for Pedal Cycles, these are: Diamond, Gold, Silver & Bronze. … Pedal cycle security products are certified with a Sold Secure rating based on how long they can withstand specific tools and common theft techniques, such as bolt cropping, picking, or the use of heavy-duty saws depending on the particular Pedal Cycle specification being tested.",
+   "source": "https://soldsecure.com/ratings/pedal-cycle",
+   "source_title": "Sold Secure – Bike Lock Ratings: Pedal Cycle Ratings Guide",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-086",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure Bronze: thử với đợt tấn công ngắn bằng một dụng cụ cầm tay dễ giấu; phù hợp khi để xe thời gian ngắn ở khu vực ít rủi ro như quán cà phê, cửa hàng.",
+   "quote": "Environment - Ideal if you leave your pedal cycle for a short time in a low risk area like a cafe or shop. Attack Method Test - Tested against a short attack using a single, easily concealed hand tool.",
+   "source": "https://soldsecure.com/ratings/pedal-cycle",
+   "source_title": "Sold Secure – Bike Lock Ratings: Pedal Cycle Ratings Guide",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-087",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure Silver: thử với danh sách dụng cụ nâng cao; phù hợp xe giá trị thấp để ở khu vực rủi ro trung bình như trung tâm thị trấn.",
+   "quote": "Environment - Ideal for lower value pedal cycles left in a medium risk area like your local town centre Attack Method Test - Tested against an enhanced tool list",
+   "source": "https://soldsecure.com/ratings/pedal-cycle",
+   "source_title": "Sold Secure – Bike Lock Ratings: Pedal Cycle Ratings Guide",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-088",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure Gold: thử tấn công kéo dài với dụng cụ hạng nặng; dành cho xe giá trị cao hoặc để xe ở khu vực rủi ro cao như thành phố lớn, khu đại học.",
+   "quote": "Environment - You have a high value bike and/or you keep your bike in a high-risk area like a big city or university town. Attack Method Test - An indepth test with less tools than Diamond: Tested against an extended attack with heavy duty tools.",
+   "source": "https://soldsecure.com/ratings/pedal-cycle",
+   "source_title": "Sold Secure – Bike Lock Ratings: Pedal Cycle Ratings Guide",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-089",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure Diamond là cấp cao nhất cho xe đạp, thử với danh sách dụng cụ mở rộng gồm cả dụng cụ điện; Pedal Cycle Diamond tương đương Powered Cycle Gold.",
+   "quote": "Diamond is the highest grade for bicycle locks & security, Pedal Cycle Diamond is equivalent to Powered Cycle Gold. … Attack Method Test - Our most indepth attack test with more extended list tools: Tested against an extended list of lists with heavier duty tools including some powertools & machine based testing.",
+   "source": "https://soldsecure.com/ratings/pedal-cycle",
+   "source_title": "Sold Secure – Bike Lock Ratings: Pedal Cycle Ratings Guide",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-090",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure: chọn cấp khóa theo giá trị xe và nơi cất giữ; xe càng giá trị thì nên chọn cấp càng cao; với xe điện (e-bike) nên dùng khóa xếp hạng Powered Cycle.",
+   "quote": "Choosing the right Sold Secure rating for your bike depends on the value of your bicycle and where you are storing the bike. As a general rule, the higher the value of bike, the higher the pedal cycle rating you should aim for. … If you own a e-bike we would recommend using a Sold Secure powered cycle rated product to keep an e-bike secure.",
+   "source": "https://soldsecure.com/ratings/pedal-cycle",
+   "source_title": "Sold Secure – Bike Lock Ratings: Pedal Cycle Ratings Guide",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-091",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sold Secure: khóa được thử trước các dụng cụ trộm phổ biến như kìm cộng lực, máy mài góc, máy khoan; mỗi cấp được thử trong một khoảng thời gian xác định; nên tìm logo Sold Secure khi mua.",
+   "quote": "Sold Secure rated locks have undergone thorough testing against common tools that thieves use, such as bolt croppers, angle grinders & drills. Each Sold Secure grading/rating is tested against tools for a specific amount of time. … Always look for the Sold Secure logo or check our Sold Search product search when purchasing a security product.",
+   "source": "https://soldsecure.com/ratings",
+   "source_title": "Sold Secure – Ratings Explained",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-092",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Chứng nhận ART (Hà Lan) chia khóa thành 5 hạng; càng nhiều sao khóa càng an toàn; khóa ART nhận biết bằng logo ART kèm số sao và số chứng nhận in trên khóa.",
+   "quote": "ART-sloten zijn ingedeeld in 5 certificerings-categorieën. Hoe meer sterren, hoe veiliger het slot. … Je herkent een ART-slot doordat het ART-logo met sterren als sticker of afdruk op het slot staat. Op het logo moet ook het goedkeurnummer zichtbaar zijn.",
+   "source": "https://www.anwb.nl/verzekeringen/fietsverzekering/art-slot",
+   "source_title": "ANWB – Wat is een ART-slot?",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-093",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap"
+   ],
+   "claim": "Stichting ART: khóa đạt chuẩn ART được thử về độ bền, khả năng chịu thời tiết và môi trường, và khả năng chống tấn công; khuyên luôn dùng thêm một khóa ART thứ hai để cố định xe vào vật cố định như cầu hay giá để xe.",
+   "quote": "Sloten worden uitgebreid getest op duurzaamheid, weers- en omgevingsbestendigheid en weerstand tegen aanvallen. … Gebruik daarnaast altijd een tweede ART slot waarmee je de tweewieler vast maakt aan de ‘vaste wereld’. Bijvoorbeeld een brug of een fietsenrek.",
+   "source": "https://stichtingart.nl/",
+   "source_title": "Stichting ART – Home",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-094",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Stichting ART khuyên ghi lại đặc điểm xe (hãng, mẫu, số khung, màu, chi tiết riêng) và chụp ảnh xe để tăng khả năng tìm lại khi bị mất.",
+   "quote": "Onthoud de kenmerken van je tweewieler. Leg de belangrijkste gegevens goed vast. Zoals merk, model, framenummer, kleur en eventuele bijzonderheden. Het is ook handig om een foto van je tweewieler te maken.",
+   "source": "https://stichtingart.nl/voorkomen/",
+   "source_title": "Stichting ART – Voorkomen",
+   "type": "standard",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-095",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Kryptonite: luôn khóa xe vào vật chắc chắn mà xe không thể bị nhấc qua, ở nơi đủ sáng, đông người qua lại, và vật đó không thể bị cắt.",
+   "quote": "ALWAYS LOCK YOUR BIKE to a solid object that it cannot be lifted over. LOCK YOUR BIKE in a well lit area with high foot traffic. MAKE SURE what you lock your bike to cannot be cut.",
+   "source": "https://www.kryptonitelock.com/en/proper-lockup-landing/bicycle-lock-up-bike.html",
+   "source_title": "Kryptonite – Bicycle Lock-up",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-096",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Kryptonite: khóa theo thứ tự giá trị – khung trước, rồi bánh sau, cuối cùng bánh trước; khóa càng khít càng khó cho kẻ trộm đưa dụng cụ vào; đặt khóa cách mặt đất với lỗ chìa hướng xuống.",
+   "quote": "LOCK ACCORDING TO VALUE frame first, then back wheel, and finally front wheel. GET A TIGHT FIT! The less room inside of the u-lock or chain, the more difficult it will be for thieves to use their tools. POSITION YOUR LOCK off the ground with the keyhole facing down.",
+   "source": "https://www.kryptonitelock.com/en/proper-lockup-landing/bicycle-lock-up-bike.html",
+   "source_title": "Kryptonite – Bicycle Lock-up",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-097",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Kryptonite: cách phổ biến là dùng khóa chữ U ôm khung, bánh sau và vật cố định, rồi dùng dây cáp vòng đôi ôm bánh trước móc vào càng khóa U; cách hai khóa chính (khóa U/xích) còn hiệu quả hơn.",
+   "quote": "This is a very popoular locking method which uses the u-lock to capture the frame, rear wheel, and immovable object, and the u-lock shackel also acts as an anchor for the double looped cable that captures the front wheel. … This method is highly effective and uses two, typically primary locks, either chains, u-locks, or a combination of the two.",
+   "source": "https://www.kryptonitelock.com/en/proper-lockup-landing/bicycle-lock-up-bike.html",
+   "source_title": "Kryptonite – Bicycle Lock-up",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-098",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mua-mua-ngap",
+    "chong-ri-set-khung-xe"
+   ],
+   "claim": "Kryptonite: nên bôi trơn khóa ít nhất mỗi tháng một lần, tập trung vào ổ khóa, chốt, đầu càng chữ U hoặc chốt khóa của dây cáp.",
+   "quote": "Make sure to use Finish Line lubrication at least once a month. The areas of the lock you should focus on maintaining include the cylinder, deadbolts, u-shackle ends, or the lock-pin attached to cables.",
+   "source": "https://www.kryptonitelock.com/content/dam/kryt-us/en/documents/security/KryPSA2014LR-11.pdf",
+   "source_title": "Kryptonite – Ultimate bicycle security guide (Choose the right lock / Lock your bike the right way)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-099",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Kryptonite xếp hạng an ninh khóa theo thang 1–10: 9–10 an ninh tối đa, 7–8 cao, 4–6 trung bình, 1–3 chỉ để răn đe; cấp cần dùng tùy nơi để xe và thời gian để xe.",
+   "quote": "Kryptonite categorizes its bicycle security products by the location your bike will be locked, and how long you plan to leave it. (i.e. quick stop, couple of hours, all day, overnight). 10/10 Security Rating Kryptonite’s Security Rating 9-10 = ultimate security 7-8 = high security 4 -6 = moderate security 1-3 = deterrent security",
+   "source": "https://www.kryptonitelock.com/content/dam/kryt-us/en/documents/security/KryPSA2014LR-11.pdf",
+   "source_title": "Kryptonite – Ultimate bicycle security guide (Choose the right lock / Lock your bike the right way)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-100",
+   "tags": [
+    "lap-khoa-chong-trom",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sách hướng dẫn Trek: không để xe nếu chưa khóa vào vật cố định bằng khóa xe đạp chịu được kìm cắt và cưa.",
+   "quote": "No estaciones tu bicicleta a menos que esté asegurada a un objeto fijo con un candado de bicicleta que resista una cizalla y sierras.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-101",
+   "tags": [
+    "den-va-pin-den",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "khoi-dong-buoi-sang-lanh",
+    "mua-dong-lanh",
+    "nang-nong"
+   ],
+   "claim": "Bontrager (đèn sạc USB Ion Elite R/Flare R City): nhiệt độ sạc và vận hành pin 0–40 °C; hiệu năng giảm khi dùng dưới điểm đóng băng.",
+   "quote": "Battery charging and operating temperature: 32˚F to 104˚F (0˚C to 40˚C) Reduced performance when operating below freezing.",
+   "source": "https://media.trekbikes.com/image/upload/BT20_MANUAL_Ion_EliteR_FlareRCity_USEN_1052057.pdf",
+   "source_title": "Bontrager (Trek) – Ion Elite R / Flare R City lights manual (US-EN)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-102",
+   "tags": [
+    "den-va-pin-den",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "sau-thoi-gian-dai-khong-su-dung",
+    "luu-kho"
+   ],
+   "claim": "Bontrager: cất đèn ở nhiệt độ phòng, nơi khô ráo, tránh ẩm và quá nóng hoặc quá lạnh, trong trạng thái đã sạc; tránh xả cạn vì cất pin ở trạng thái hết sạch làm giảm tuổi thọ; pin dùng được khoảng 500 lần sạc đầy.",
+   "quote": "Caring for the battery Store the light at room temperature in a dry place. Avoid moisture, or extreme hot or cold. Store the light in the charged condition. Avoid ‘deep discharge’. Battery life will decrease if the battery is stored in a fully discharged condition. … Expect about 500 full charges, depending on care.",
+   "source": "https://media.trekbikes.com/image/upload/BT20_MANUAL_Ion_EliteR_FlareRCity_USEN_1052057.pdf",
+   "source_title": "Bontrager (Trek) – Ion Elite R / Flare R City lights manual (US-EN)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-103",
+   "tags": [
+    "den-va-pin-den",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "nang-nong"
+   ],
+   "claim": "Bontrager: không dùng đèn nếu pin bị va đập; không chọc, nghiền, làm biến dạng, tháo rời hay làm nóng pin lithium-ion quá nhiệt độ cho phép vì có thể gây cháy nổ.",
+   "quote": "WARNING Do not use if the battery is impacted. Also do not puncture, crush, deform, disassemble, or heat a lithium-ion battery above the permitted temperature. Inflicted damage to the battery may result in a fire, explosion, or coming in contact with specks of lithium or lithium dust.",
+   "source": "https://media.trekbikes.com/image/upload/BT20_MANUAL_Ion_EliteR_FlareRCity_USEN_1052057.pdf",
+   "source_title": "Bontrager (Trek) – Ion Elite R / Flare R City lights manual (US-EN)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-104",
+   "tags": [
+    "den-va-pin-den",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bontrager: đèn được giao đã sạc đầy nhưng hãng khuyên sạc trước lần dùng đầu; đèn tự chuyển sang chế độ nháy báo pin yếu khi pin dưới 5%.",
+   "quote": "Both the Ion Elite R and Flare R City are fully charged in the packaging, but we recommend that you charge them before first use. … The light automatically changes to low battery flash mode when the battery supply goes below 5%.",
+   "source": "https://media.trekbikes.com/image/upload/BT20_MANUAL_Ion_EliteR_FlareRCity_USEN_1052057.pdf",
+   "source_title": "Bontrager (Trek) – Ion Elite R / Flare R City lights manual (US-EN)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-105",
+   "tags": [
+    "den-va-pin-den",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "luat-giao-thong"
+   ],
+   "claim": "Sách hướng dẫn Trek: dùng đèn xe đạp ở mỗi chuyến đi, cả ngày lẫn đêm; tấm phản quang chỉ phản chiếu khi có nguồn sáng chiếu vào nên không thay thế được đèn.",
+   "quote": "Usa las luces de tu bici en cada paseo, de día y de noche. … ADVERTENCIA: Los reflectores, los cuales funcionan únicamente cuando una fuente de luz se refleja sobre ellos, no son sustitutos para las luces.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-106",
+   "tags": [
+    "den-va-pin-den",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "truoc-chuyen-phuot"
+   ],
+   "claim": "Sách hướng dẫn Trek: khi đi nên mang bơm, săm dự phòng, bộ vá, dụng cụ và pin dự phòng hoặc bộ sạc cho đèn.",
+   "quote": "Lleva contigo una bomba, una cámara interior de repuesto, juego de parches, herramientas y baterías de repuesto, o cargadores para tus luces y baterías.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-107",
+   "tags": [
+    "nang-nong",
+    "luu-kho",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sách hướng dẫn Trek: nhiệt độ quá cao có thể làm hỏng keo liên kết sợi carbon hoặc mối nối khung; không để xe tiếp xúc nhiệt quá 65 °C – trong xe ô tô đỗ dưới nắng có thể đạt mức này.",
+   "quote": "El calor excesivo puede dañar el adhesivo que une las fibras de carbono o las uniones de las partes del cuadro. No superes los 65°C (150°F) de exposición de tu bicicleta. El interior de un vehículo estacionado en el sol puede alcanzar esta temperatura.",
+   "source": "https://media.trekbikes.com/image/upload/v1692651979/TK_OwnersManual_ES-MX_June0223_WEB.pdf",
+   "source_title": "Trek – Manual del propietario (ES-MX, 06/2023): Instrucciones originales para bicis y bicis eléctricas",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-108",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "xe-dap-khong-co-dong-co"
+   ],
+   "claim": "Luật Trật tự, an toàn giao thông đường bộ (Điều 34 khoản 2, bản hợp nhất 2026): xe đạp thuộc nhóm xe thô sơ, là xe có ít nhất hai bánh, vận hành do sức người qua bàn đạp hoặc tay quay.",
+   "quote": "2. Xe thô sơ bao gồm: a) Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-109",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "cham-soc-pin-xe-dien",
+    "xe-dap-khong-co-dong-co"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 34 khoản 2 điểm b): xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, trợ lực ngắt khi người lái dừng đạp hoặc khi xe đạt 25 km/h – khác với xe đạp thuần không có động cơ.",
+   "quote": "b) Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-110",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "cho-nguoi"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 31 khoản 1): người điều khiển xe đạp chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 07 tuổi thì được chở tối đa hai người.",
+   "quote": "1. Người điều khiển xe đạp, xe đạp máy chỉ được chở một người, trừ trường hợp chở thêm một trẻ em dưới 07 tuổi thì được chở tối đa hai người.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-111",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mu-bao-hiem"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 31 khoản 3): nghĩa vụ đội mũ bảo hiểm đúng quy chuẩn và cài quai được quy định cho người điều khiển, người được chở trên xe đạp máy; khoản này không nêu xe đạp (đạp bằng sức người).",
+   "quote": "3. Người điều khiển, người được chở trên xe đạp máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-112",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "den-va-pin-den",
+    "den-xe-dap"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 31 khoản 4): người điều khiển xe thô sơ (gồm xe đạp) chỉ được đi hàng một, đi đúng phần đường dành cho xe thô sơ nếu có; từ 18 giờ hôm trước đến 06 giờ hôm sau phải sử dụng đèn hoặc có báo hiệu ở phía trước và phía sau xe.",
+   "quote": "4. Người điều khiển xe thô sơ chỉ được cho xe đi hàng một, nơi có phần đường dành cho xe thô sơ thì phải đi đúng phần đường quy định; khi tham gia giao thông đường bộ trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau phải sử dụng đèn hoặc có báo hiệu ở phía trước và phía sau xe.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-113",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "touring",
+    "truoc-chuyen-phuot"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 31 khoản 5): hàng hóa xếp trên xe thô sơ không vượt quá 1/3 chiều dài thân xe, không quá 01 mét phía trước và phía sau, không quá 0,4 mét mỗi bên bánh xe.",
+   "quote": "Hàng hóa xếp trên xe không vượt quá 1/3 chiều dài thân xe và không vượt quá 01 mét phía trước và phía sau xe; không vượt quá 0,4 mét mỗi bên bánh xe.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-114",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 31 khoản 2, dẫn chiếu Điều 33 khoản 3): người đi xe đạp không được đi dàn hàng ngang, đi vào phần đường dành cho người đi bộ và phương tiện khác, sử dụng ô, thiết bị âm thanh (trừ thiết bị trợ thính), buông cả hai tay.",
+   "quote": "2. Người điều khiển xe đạp, xe đạp máy không được thực hiện các hành vi quy định tại khoản 3 Điều 33 của Luật này; … a) Đi xe dàn hàng ngang; b) Đi xe vào phần đường dành cho người đi bộ và phương tiện khác; c) Sử dụng ô, thiết bị âm thanh, trừ thiết bị trợ thính; d) Buông cả hai tay;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-115",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "truoc-chuyen-phuot",
+    "cao-toc"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 25 khoản 3): xe thô sơ (gồm xe đạp) không được đi trên đường cao tốc.",
+   "quote": "xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô, xe gắn máy, xe thô sơ, người đi bộ không được đi trên đường cao tốc",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-116",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Luật TTATGTĐB (Điều 35): điều kiện đăng ký, gắn biển số tại khoản 1 áp dụng cho xe cơ giới, xe máy chuyên dùng; Chính phủ quy định điều kiện hoạt động của xe thô sơ, UBND cấp tỉnh quy định phạm vi hoạt động của xe thô sơ tại địa phương.",
+   "quote": "1. Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện sau đây: a) Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định của pháp luật; … quy định điều kiện hoạt động của xe thô sơ. 6. Ủy ban nhân dân cấp tỉnh quy định phạm vi hoạt động của xe thô sơ,",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-117",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "den-va-pin-den",
+    "den-xe-dap"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 1 điểm i: phạt 100.000–200.000 đồng người điều khiển xe thô sơ từ 18 giờ hôm trước đến 06 giờ hôm sau không sử dụng đèn hoặc không có báo hiệu phía trước và phía sau xe.",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … i) Điều khiển xe thô sơ trong thời gian từ 18 giờ ngày hôm trước đến 06 giờ ngày hôm sau không sử dụng đèn hoặc không có báo hiệu ở phía trước và phía sau xe;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-118",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 1 điểm h: phạt 100.000–200.000 đồng người điều khiển xe đạp sử dụng ô (dù), dùng tay cầm và sử dụng điện thoại hoặc thiết bị điện tử khác.",
+   "quote": "h) Người điều khiển xe đạp, xe đạp máy sử dụng ô (dù), dùng tay cầm và sử dụng điện thoại hoặc các thiết bị điện tử khác; chở người ngồi trên xe đạp, xe đạp máy sử dụng ô (dù);",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-119",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 1 điểm g: phạt 100.000–200.000 đồng khi điều khiển xe đạp đi dàn hàng ngang từ 03 xe trở lên.",
+   "quote": "g) Điều khiển xe đạp, xe đạp máy đi dàn hàng ngang từ 03 xe trở lên, xe thô sơ khác đi dàn hàng ngang từ 02 xe trở lên;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-120",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "cho-nguoi"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 1 điểm o: phạt 100.000–200.000 đồng khi xe đạp chở quá số người quy định, trừ chở người bệnh đi cấp cứu.",
+   "quote": "o) Xe đạp, xe đạp máy, xe xích lô chở quá số người quy định, trừ trường hợp chở người bệnh đi cấp cứu;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-121",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "den-va-pin-den"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 1 điểm e: phạt 100.000–200.000 đồng khi đi xe thô sơ trong hầm đường bộ không bật đèn hoặc không có vật phát sáng báo hiệu.",
+   "quote": "e) Chạy trong hầm đường bộ không bật đèn hoặc không có vật phát sáng báo hiệu;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-122",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "nong-do-con"
+   ],
+   "claim": "NĐ 168/2024 Điều 9: người đi xe đạp có nồng độ cồn chưa vượt 50 mg/100 ml máu hoặc 0,25 mg/1 lít khí thở bị phạt 100.000–200.000 đồng; vượt 50–80 mg/100 ml máu (0,25–0,4 mg/lít khí thở) phạt 300.000–400.000 đồng; vượt 80 mg/100 ml máu (0,4 mg/lít khí thở) phạt 400.000–600.000 đồng.",
+   "quote": "p) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn nhưng chưa vượt quá 50 miligam/100 mililít máu hoặc chưa vượt quá 0,25 miligam/1 lít khí thở. … 3. Phạt tiền từ 300.000 đồng đến 400.000 đồng … d) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 50 miligam đến 80 miligam/100 mililít máu hoặc vượt quá 0,25 miligam đến 0,4 miligam/1 lít khí thở. 4. Phạt tiền từ 400.000 đồng đến 600.000 đồng … b) Điều khiển xe trên đường mà trong máu hoặc hơi thở có nồng độ cồn vượt quá 80 miligam/100 mililít máu hoặc vượt quá 0,4 miligam/1 lít khí thở;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-123",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 2: phạt 150.000–250.000 đồng khi đi xe đạp buông cả hai tay, chuyển hướng đột ngột trước đầu xe cơ giới đang chạy, dùng chân điều khiển xe, hoặc không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+   "quote": "2. Phạt tiền từ 150.000 đồng đến 250.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: a) Điều khiển xe đạp, xe đạp máy buông cả hai tay; chuyển hướng đột ngột trước đầu xe cơ giới đang chạy; dùng chân điều khiển xe đạp, xe đạp máy; … đ) Không chấp hành hiệu lệnh của đèn tín hiệu giao thông.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-124",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 3: phạt 300.000–400.000 đồng khi lạng lách, đánh võng, đuổi nhau; đi xe đạp bằng một bánh; đi vào khu vực cấm, đường cấm hoặc đi ngược chiều đường một chiều.",
+   "quote": "3. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: a) Điều khiển xe lạng lách, đánh võng; đuổi nhau trên đường; b) Đi xe bằng một bánh đối với xe đạp, xe đạp máy; đi xe bằng hai bánh đối với xe xích lô; c) Đi vào khu vực cấm, đường có biển báo hiệu nội dung cấm đi vào đối với loại phương tiện đang điều khiển; đi ngược chiều đường của đường một chiều, đường có biển \"Cấm đi ngược chiều\";",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-125",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "mu-bao-hiem"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 4 điểm d, đ: mức phạt 400.000–600.000 đồng vì không đội hoặc không cài quai mũ bảo hiểm áp dụng cho người điều khiển và người được chở trên xe đạp máy (không nêu xe đạp).",
+   "quote": "d) Người điều khiển xe đạp máy không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" hoặc đội \"mũ bảo hiểm cho người đi mô tô, xe máy\" không cài quai đúng quy cách khi tham gia giao thông trên đường bộ; đ) Chở người ngồi trên xe đạp máy không đội \"mũ bảo hiểm cho người đi mô tô, xe máy\"",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-126",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "cao-toc",
+    "truoc-chuyen-phuot"
+   ],
+   "claim": "NĐ 168/2024 Điều 9 khoản 5: phạt 800.000–1.200.000 đồng người điều khiển xe đạp, xe thô sơ đi vào đường cao tốc.",
+   "quote": "5. Phạt tiền từ 800.000 đồng đến 1.200.000 đồng đối với người điều khiển xe đi vào đường cao tốc, trừ phương tiện phục vụ việc quản lý, bảo trì đường cao tốc.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-127",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "den-va-pin-den",
+    "den-xe-dap"
+   ],
+   "claim": "NĐ 168/2024 Điều 15: phạt 100.000–200.000 đồng khi điều khiển xe thô sơ không có còi/chuông, không có đèn chiếu sáng hoặc tấm phản quang phía trước, không có đèn tín hiệu hoặc tấm phản quang phía sau (đối với loại xe quy định phải có); phạt 300.000–400.000 đồng nếu không có hoặc phanh không hiệu lực (đối với loại xe quy định phải có).",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với hành vi điều khiển xe không có bộ phận phát âm thanh cảnh báo (còi, chuông); không có đèn chiếu sáng hoặc tấm phản quang phía trước; không có đèn tín hiệu hoặc tấm phản quang phía sau xe (đối với loại xe quy định phải có bộ phận này). 2. Phạt tiền từ 300.000 đồng đến 400.000 đồng đối với hành vi điều khiển xe không có hệ thống (bộ phận) hãm hoặc có nhưng không có hiệu lực (đối với loại xe quy định phải có hệ thống (bộ phận) này).",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-128",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "cho-nguoi"
+   ],
+   "claim": "NĐ 168/2024 Điều 12: người được chở trên xe đạp sử dụng ô bị phạt 100.000–200.000 đồng; người được chở trên xe đạp bám, kéo, đẩy xe khác, vật khác, mang vác vật cồng kềnh bị phạt 200.000–250.000 đồng.",
+   "quote": "1. Phạt tiền từ 100.000 đồng đến 200.000 đồng đối với người được chở trên xe đạp, xe đạp máy sử dụng ô (dù). 2. Phạt tiền từ 200.000 đồng đến 250.000 đồng đối với cá nhân thực hiện một trong các hành vi vi phạm sau đây: … đ) Người được chở trên xe đạp, xe đạp máy bám, kéo, đẩy xe khác, vật khác, mang vác vật cồng kềnh;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-129",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "NĐ 168/2024 Điều 35 khoản 3 điểm a: tịch thu phương tiện đối với người đua xe đạp trái phép trên đường giao thông.",
+   "quote": "3. Tịch thu phương tiện đối với người điều khiển phương tiện thực hiện một trong các hành vi vi phạm sau đây: a) Đua xe gắn máy, xe đạp máy, xe đạp trái phép trên đường giao thông;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-130",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Ngày 26/6/2026 Chính phủ ban hành Nghị định 238/2026/NĐ-CP sửa đổi, bổ sung một số điều của NĐ 168/2024/NĐ-CP; nghị định có hiệu lực từ 15/8/2026.",
+   "quote": "Ngày 26/6/2026, Chính phủ ban hành Nghị định số 238/2026/NĐ-CP sửa đổi, bổ sung một số điều của Nghị định số 168/2024 … 1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2026.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/nghi-dinh-so-238-2026-nd-cp-sua-doi-quy-dinh-xu-phat-vi-pham-giao-thong-duong-bo-tru-diem-phuc-hoi-diem-giay-phep-lai-xe-119260630142033452.htm",
+   "source_title": "Nghị định số 238/2026/NĐ-CP sửa đổi quy định xử phạt vi phạm giao thông đường bộ (xaydungchinhsach.chinhphu.vn)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BB-131",
+   "tags": [
+    "luat-giao-thong",
+    "xe-dap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Mục lục NĐ 238/2026 (bản đăng lại, nguồn thứ cấp) cho thấy các điều được sửa của NĐ 168 gồm Điều 3, 6, 13, 14, 17, 18, 20, 21, 26… – không có Điều 9 (xe đạp) và Điều 15 (điều kiện xe thô sơ); khoản 19 về thay cụm từ cũng không nhắc hai điều này. Các mức phạt Điều 9, Điều 15 trích ở trên vẫn là bản gốc NĐ 168.",
+   "quote": "Điều 1. Sửa đổi, bổ sung một số điểm của khoản 3 Điều 3 Điều 2. Sửa đổi, bổ sung một số điểm, khoản của Điều 6 Điều 3. Sửa đổi, bổ sung điểm b khoản 8 Điều 13 Điều 4. Sửa đổi, bổ sung điểm b khoản 3 Điều 14 Điều 5. Sửa đổi, bổ sung điểm a khoản 2 Điều 17",
+   "source": "https://ketoananpha.vn/nghi-dinh-238-2026-nd-cp",
+   "source_title": "Nghị định 238/2026/NĐ-CP – mục lục văn bản (bản đăng lại, ghi nguồn xaydungchinhsach.chinhphu.vn; nguồn thứ cấp)",
+   "type": "law",
+   "checked": "2026-10-31"
+  }
+ ],
+ "not_applicable": [
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "thay-the-bugi",
+   "explanation": "Xe đạp thuần là xe thô sơ vận hành bằng sức người qua bàn đạp (Luật TTATGTĐB Điều 34 khoản 2 điểm a), không có động cơ đốt trong nên không có bugi hay hệ thống đánh lửa. Phần tương đương thật để viết: hệ thống đèn sạc USB (pin, nhiệt độ sạc, bảo quản) và việc kiểm tra trước khi đi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-101",
+    "BB-102",
+    "BB-105"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "thay-the-bugi",
+   "explanation": "Xe đạp thuần là xe thô sơ vận hành bằng sức người qua bàn đạp (Luật TTATGTĐB Điều 34 khoản 2 điểm a), không có động cơ đốt trong nên không có bugi hay hệ thống đánh lửa. Phần tương đương thật để viết: hệ thống đèn sạc USB (pin, nhiệt độ sạc, bảo quản) và việc kiểm tra trước khi đi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-101",
+    "BB-102",
+    "BB-105"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "thay-the-bugi",
+   "explanation": "Xe đạp thuần là xe thô sơ vận hành bằng sức người qua bàn đạp (Luật TTATGTĐB Điều 34 khoản 2 điểm a), không có động cơ đốt trong nên không có bugi hay hệ thống đánh lửa. Phần tương đương thật để viết: hệ thống đèn sạc USB (pin, nhiệt độ sạc, bảo quản) và việc kiểm tra trước khi đi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-101",
+    "BB-102",
+    "BB-105"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "ve-sinh-kim-phun-fi",
+   "explanation": "Xe đạp không dùng nhiên liệu, không có kim phun xăng điện tử Fi hay buồng đốt (xe thô sơ chạy bằng sức người). Phần tương đương: vệ sinh và bôi trơn bộ truyền động (xích, líp, đĩa) – bộ phận quyết định lực đạp truyền xuống bánh.",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-055",
+    "BB-036"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "ve-sinh-kim-phun-fi",
+   "explanation": "Xe đạp không dùng nhiên liệu, không có kim phun xăng điện tử Fi hay buồng đốt (xe thô sơ chạy bằng sức người). Phần tương đương: vệ sinh và bôi trơn bộ truyền động (xích, líp, đĩa) – bộ phận quyết định lực đạp truyền xuống bánh.",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-055",
+    "BB-036"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "ve-sinh-kim-phun-fi",
+   "explanation": "Xe đạp không dùng nhiên liệu, không có kim phun xăng điện tử Fi hay buồng đốt (xe thô sơ chạy bằng sức người). Phần tương đương: vệ sinh và bôi trơn bộ truyền động (xích, líp, đĩa) – bộ phận quyết định lực đạp truyền xuống bánh.",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-055",
+    "BB-036"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "thay-dau-nhot",
+   "explanation": "Xe đạp không có động cơ nên không có dầu nhớt động cơ để thay. Thứ cần bôi trơn định kỳ là xích (dầu xích ướt/khô), vòng bi (mỡ) và dây cáp trong vỏ.",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-065",
+    "BB-067",
+    "BB-072"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "thay-dau-nhot",
+   "explanation": "Xe đạp không có động cơ nên không có dầu nhớt động cơ để thay. Thứ cần bôi trơn định kỳ là xích (dầu xích ướt/khô), vòng bi (mỡ) và dây cáp trong vỏ.",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-065",
+    "BB-067",
+    "BB-072"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "thay-dau-nhot",
+   "explanation": "Xe đạp không có động cơ nên không có dầu nhớt động cơ để thay. Thứ cần bôi trơn định kỳ là xích (dầu xích ướt/khô), vòng bi (mỡ) và dây cáp trong vỏ.",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-065",
+    "BB-067",
+    "BB-072"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Xe đạp không có động cơ sinh nhiệt nên không có két nước, nước làm mát. Với ngày nắng nóng, phần tương đương là kiểm soát nhiệt cho lốp (áp suất tăng theo nhiệt độ), pin đèn và khung (đặc biệt khung carbon).",
+   "fact_ids": [
+    "BB-108",
+    "BB-020",
+    "BB-021",
+    "BB-107",
+    "BB-101"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Xe đạp không có động cơ sinh nhiệt nên không có két nước, nước làm mát. Với ngày nắng nóng, phần tương đương là kiểm soát nhiệt cho lốp (áp suất tăng theo nhiệt độ), pin đèn và khung (đặc biệt khung carbon).",
+   "fact_ids": [
+    "BB-108",
+    "BB-020",
+    "BB-021",
+    "BB-107",
+    "BB-101"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Xe đạp không có động cơ sinh nhiệt nên không có két nước, nước làm mát. Với ngày nắng nóng, phần tương đương là kiểm soát nhiệt cho lốp (áp suất tăng theo nhiệt độ), pin đèn và khung (đặc biệt khung carbon).",
+   "fact_ids": [
+    "BB-108",
+    "BB-020",
+    "BB-021",
+    "BB-107",
+    "BB-101"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "thay-loc-gio-dong-co",
+   "explanation": "Xe đạp không có động cơ hút khí nên không có lọc gió. Phần tương đương về chống bụi bẩn: vệ sinh ống trượt và phớt chắn bụi của phuộc, vệ sinh xích – nơi bụi gây mòn thật sự trên xe đạp.",
+   "fact_ids": [
+    "BB-108",
+    "BB-049",
+    "BB-041",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "thay-loc-gio-dong-co",
+   "explanation": "Xe đạp không có động cơ hút khí nên không có lọc gió. Phần tương đương về chống bụi bẩn: vệ sinh ống trượt và phớt chắn bụi của phuộc, vệ sinh xích – nơi bụi gây mòn thật sự trên xe đạp.",
+   "fact_ids": [
+    "BB-108",
+    "BB-049",
+    "BB-041",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "thay-loc-gio-dong-co",
+   "explanation": "Xe đạp không có động cơ hút khí nên không có lọc gió. Phần tương đương về chống bụi bẩn: vệ sinh ống trượt và phớt chắn bụi của phuộc, vệ sinh xích – nơi bụi gây mòn thật sự trên xe đạp.",
+   "fact_ids": [
+    "BB-108",
+    "BB-049",
+    "BB-041",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "kiem-tra-ac-quy",
+   "explanation": "Xe đạp thuần không có bình ắc quy khởi động (không có động cơ, không có đề). Nguồn điện duy nhất thường gặp là pin lithium của đèn sạc USB; viết về cách sạc, nhiệt độ sạc 0–40 °C và bảo quản pin đèn.",
+   "fact_ids": [
+    "BB-108",
+    "BB-101",
+    "BB-102"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "kiem-tra-ac-quy",
+   "explanation": "Xe đạp thuần không có bình ắc quy khởi động (không có động cơ, không có đề). Nguồn điện duy nhất thường gặp là pin lithium của đèn sạc USB; viết về cách sạc, nhiệt độ sạc 0–40 °C và bảo quản pin đèn.",
+   "fact_ids": [
+    "BB-108",
+    "BB-101",
+    "BB-102"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "kiem-tra-ac-quy",
+   "explanation": "Xe đạp thuần không có bình ắc quy khởi động (không có động cơ, không có đề). Nguồn điện duy nhất thường gặp là pin lithium của đèn sạc USB; viết về cách sạc, nhiệt độ sạc 0–40 °C và bảo quản pin đèn.",
+   "fact_ids": [
+    "BB-108",
+    "BB-101",
+    "BB-102"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Xe đạp thuần không có pin kéo (pin động lực). Chỉ xe đạp máy, gồm cả xe đạp điện, mới có động cơ trợ lực (Luật Điều 34 khoản 2 điểm b). Phần tương đương: pin đèn sạc USB.",
+   "fact_ids": [
+    "BB-108",
+    "BB-109",
+    "BB-101",
+    "BB-102"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Xe đạp thuần không có pin kéo (pin động lực). Chỉ xe đạp máy, gồm cả xe đạp điện, mới có động cơ trợ lực (Luật Điều 34 khoản 2 điểm b). Phần tương đương: pin đèn sạc USB.",
+   "fact_ids": [
+    "BB-108",
+    "BB-109",
+    "BB-101",
+    "BB-102"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Xe đạp thuần không có pin kéo (pin động lực). Chỉ xe đạp máy, gồm cả xe đạp điện, mới có động cơ trợ lực (Luật Điều 34 khoản 2 điểm b). Phần tương đương: pin đèn sạc USB.",
+   "fact_ids": [
+    "BB-108",
+    "BB-109",
+    "BB-101",
+    "BB-102"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Xe đạp không có dây curoa hộp số vô cấp (CVT) như xe tay ga; truyền động thường là xích và líp, một số xe city/touring dùng hub líp trong. Phần tương đương: bảo dưỡng xích (làm sạch, bôi trơn) và hub líp trong. (Dây curoa Gates Carbon Drive có trên một số xe đạp nhưng chưa kiểm chứng được nguồn hãng – xem gaps.)",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-055",
+    "BB-063"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Xe đạp không có dây curoa hộp số vô cấp (CVT) như xe tay ga; truyền động thường là xích và líp, một số xe city/touring dùng hub líp trong. Phần tương đương: bảo dưỡng xích (làm sạch, bôi trơn) và hub líp trong. (Dây curoa Gates Carbon Drive có trên một số xe đạp nhưng chưa kiểm chứng được nguồn hãng – xem gaps.)",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-055",
+    "BB-063"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Xe đạp không có dây curoa hộp số vô cấp (CVT) như xe tay ga; truyền động thường là xích và líp, một số xe city/touring dùng hub líp trong. Phần tương đương: bảo dưỡng xích (làm sạch, bôi trơn) và hub líp trong. (Dây curoa Gates Carbon Drive có trên một số xe đạp nhưng chưa kiểm chứng được nguồn hãng – xem gaps.)",
+   "fact_ids": [
+    "BB-108",
+    "BB-064",
+    "BB-055",
+    "BB-063"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Xe đạp không có hộp số láp ngâm nhớt như xe tay ga. Xe đạp dùng bộ đề ngoài (xích, líp) hoặc hub líp trong; hub líp trong Shimano được tra mỡ tại cửa hàng khoảng 2 năm/lần hoặc khoảng 5.000 km nếu đi nhiều.",
+   "fact_ids": [
+    "BB-108",
+    "BB-063",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Xe đạp không có hộp số láp ngâm nhớt như xe tay ga. Xe đạp dùng bộ đề ngoài (xích, líp) hoặc hub líp trong; hub líp trong Shimano được tra mỡ tại cửa hàng khoảng 2 năm/lần hoặc khoảng 5.000 km nếu đi nhiều.",
+   "fact_ids": [
+    "BB-108",
+    "BB-063",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Xe đạp không có hộp số láp ngâm nhớt như xe tay ga. Xe đạp dùng bộ đề ngoài (xích, líp) hoặc hub líp trong; hub líp trong Shimano được tra mỡ tại cửa hàng khoảng 2 năm/lần hoặc khoảng 5.000 km nếu đi nhiều.",
+   "fact_ids": [
+    "BB-108",
+    "BB-063",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "khoi-dong-buoi-sang-lanh",
+   "explanation": "Xe đạp không có động cơ nên không có thao tác “khởi động”. Sáng lạnh, việc tương đương là kiểm tra áp suất lốp (áp suất giảm khi nhiệt độ giảm, khoảng 0,17 bar mỗi 10 °C theo Continental) và pin đèn (hiệu năng giảm dưới 0 °C).",
+   "fact_ids": [
+    "BB-108",
+    "BB-020",
+    "BB-101",
+    "BB-001"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "khoi-dong-buoi-sang-lanh",
+   "explanation": "Xe đạp không có động cơ nên không có thao tác “khởi động”. Sáng lạnh, việc tương đương là kiểm tra áp suất lốp (áp suất giảm khi nhiệt độ giảm, khoảng 0,17 bar mỗi 10 °C theo Continental) và pin đèn (hiệu năng giảm dưới 0 °C).",
+   "fact_ids": [
+    "BB-108",
+    "BB-020",
+    "BB-101",
+    "BB-001"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "khoi-dong-buoi-sang-lanh",
+   "explanation": "Xe đạp không có động cơ nên không có thao tác “khởi động”. Sáng lạnh, việc tương đương là kiểm tra áp suất lốp (áp suất giảm khi nhiệt độ giảm, khoảng 0,17 bar mỗi 10 °C theo Continental) và pin đèn (hiệu năng giảm dưới 0 °C).",
+   "fact_ids": [
+    "BB-108",
+    "BB-020",
+    "BB-101",
+    "BB-001"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "ky-nang-tiet-kiem-nhien-lieu",
+   "explanation": "Xe đạp không tiêu thụ xăng hay điện (xe thô sơ chạy bằng sức người). Góc tương đương: tiết kiệm sức đạp – giữ đúng áp suất lốp, chọn lốp phù hợp mặt đường, bôi trơn xích, hiểu lực cản gió ở tốc độ ~20 km/h.",
+   "fact_ids": [
+    "BB-108",
+    "BB-034",
+    "BB-036",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "ky-nang-tiet-kiem-nhien-lieu",
+   "explanation": "Xe đạp không tiêu thụ xăng hay điện (xe thô sơ chạy bằng sức người). Góc tương đương: tiết kiệm sức đạp – giữ đúng áp suất lốp, chọn lốp phù hợp mặt đường, bôi trơn xích, hiểu lực cản gió ở tốc độ ~20 km/h.",
+   "fact_ids": [
+    "BB-108",
+    "BB-034",
+    "BB-036",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "ky-nang-tiet-kiem-nhien-lieu",
+   "explanation": "Xe đạp không tiêu thụ xăng hay điện (xe thô sơ chạy bằng sức người). Góc tương đương: tiết kiệm sức đạp – giữ đúng áp suất lốp, chọn lốp phù hợp mặt đường, bôi trơn xích, hiểu lực cản gió ở tốc độ ~20 km/h.",
+   "fact_ids": [
+    "BB-108",
+    "BB-034",
+    "BB-036",
+    "BB-064"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "xu-ly-ngap-nuoc",
+   "explanation": "Xe đạp không “chết máy” khi lội nước vì không có động cơ, nhưng nước lọt vào vòng bi, hub, khung và vỏ cáp gây gỉ và rửa trôi dầu mỡ. Viết theo hướng: làm khô, thoát nước khung, tra lại dầu xích, kiểm tra ổ bi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-061",
+    "BB-075",
+    "BB-064",
+    "BB-053",
+    "BB-072"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "xu-ly-ngap-nuoc",
+   "explanation": "Xe đạp không “chết máy” khi lội nước vì không có động cơ, nhưng nước lọt vào vòng bi, hub, khung và vỏ cáp gây gỉ và rửa trôi dầu mỡ. Viết theo hướng: làm khô, thoát nước khung, tra lại dầu xích, kiểm tra ổ bi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-061",
+    "BB-075",
+    "BB-064",
+    "BB-053",
+    "BB-072"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "xu-ly-ngap-nuoc",
+   "explanation": "Xe đạp không “chết máy” khi lội nước vì không có động cơ, nhưng nước lọt vào vòng bi, hub, khung và vỏ cáp gây gỉ và rửa trôi dầu mỡ. Viết theo hướng: làm khô, thoát nước khung, tra lại dầu xích, kiểm tra ổ bi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-061",
+    "BB-075",
+    "BB-064",
+    "BB-053",
+    "BB-072"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố",
+   "component_or_topic": "rua-xe-khong-hai-may",
+   "explanation": "Xe đạp thuần không có “máy” hay vi mạch; rủi ro thật khi rửa là nước áp lực cao lọt vào ổ bi, hub, phớt phuộc và rửa trôi mỡ. Viết theo hướng rửa không hại vòng bi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-053",
+    "BB-041",
+    "BB-061"
+   ]
+  },
+  {
+   "vehicle": "xe đạp touring thể thao",
+   "component_or_topic": "rua-xe-khong-hai-may",
+   "explanation": "Xe đạp thuần không có “máy” hay vi mạch; rủi ro thật khi rửa là nước áp lực cao lọt vào ổ bi, hub, phớt phuộc và rửa trôi mỡ. Viết theo hướng rửa không hại vòng bi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-053",
+    "BB-041",
+    "BB-061"
+   ]
+  },
+  {
+   "vehicle": "xe đạp địa hình mtb",
+   "component_or_topic": "rua-xe-khong-hai-may",
+   "explanation": "Xe đạp thuần không có “máy” hay vi mạch; rủi ro thật khi rửa là nước áp lực cao lọt vào ổ bi, hub, phớt phuộc và rửa trôi mỡ. Viết theo hướng rửa không hại vòng bi.",
+   "fact_ids": [
+    "BB-108",
+    "BB-053",
+    "BB-041",
+    "BB-061"
+   ]
+  }
+ ],
+ "gaps": [
+  "Bảng áp suất theo cân nặng người lái của Schwalbe (trang tire-pressure) là ảnh/khối tương tác, không có dạng văn bản để trích nguyên văn; chỉ trích được phần văn bản hướng dẫn chung.",
+  "si.shimano.com chặn truy cập tự động (HTTP 403/Access Denied), không mở được các manual chính chủ (UM-3E00A hub, DM-HB0003...). Đã dùng UM-37G0A (hub líp trong) qua bản PDF do nhà bán lẻ lưu; chưa trích được cảnh báo rửa áp lực cao của Shimano cho hub/trục giữa loại thường.",
+  "gatescarbondrive.com chặn bằng Cloudflare: chưa kiểm chứng được hướng dẫn bảo dưỡng dây curoa Gates Carbon Drive (không cần bôi trơn, kiểm tra độ căng) – không dùng khi viết về 'thay-day-curoa'.",
+  "Trang hỗ trợ RockShox (support.rockshox.com) trả về 403; mốc RockShox lấy từ bảng SRAM/RockShox Service Interval Counter Mat (PDF trên sram.com).",
+  "Bảng mốc giờ dịch vụ FOX đời mới (2021–2026) nằm trong ảnh; chỉ trích được bảng chữ của tài liệu FOX 2011 (100 giờ/năm thay dầu chân phuộc phuộc hơi) và 'Full Service 125 hours' trên trang 34mm Part Information.",
+  "Không có nguồn chính chủ về chênh lệch áp suất lốp theo nhiệt độ ngoài Continental (0,17 bar/10 °C); không có số liệu riêng cho khí hậu Hà Nội.",
+  "Chưa có nguồn hãng riêng về ăn mòn khung nhôm (galvanic, muối); chỉ có hướng dẫn chung của Park Tool về kim loại khác loại và anti-seize. Không viết số liệu về tuổi thọ khung nhôm.",
+  "Trang hướng dẫn sử dụng đèn CatEye đang bảo trì; manual đèn Lezyne bị lỗi phông khi trích xuất (ký tự hỏng) nên không trích. Chỉ có Bontrager (Trek) làm nguồn pin đèn USB.",
+  "Nghị định 151/2024/NĐ-CP (hướng dẫn Luật TTATGTĐB, được sửa bởi NĐ 236/2026/NĐ-CP) quy định điều kiện hoạt động của xe thô sơ: chưa mở được bản chính thức, nên chưa xác định xe đạp cá nhân có bắt buộc chuông, phanh, đèn/tấm phản quang hay chỉ áp dụng cho xe thô sơ kinh doanh vận chuyển. Khi viết về NĐ 168 Điều 15 phải giữ nguyên cụm '(đối với loại xe quy định phải có bộ phận này)'.",
+  "Bản ký số NĐ 238/2026 trên xdcs.cdnchinhphu.vn là ảnh scan (không có lớp chữ); danh mục điều sửa đổi lấy từ bản đăng lại ketoananpha.vn (nguồn thứ cấp). Chưa có văn bản hợp nhất NĐ 168 năm 2026 trên datafiles.chinhphu.vn để đối chiếu.",
+  "Sold Secure không công bố số phút thử cho từng cấp trên trang ratings; không ghi số phút khi viết.",
+  "Không có nguồn chính thức về mức tiêu thụ năng lượng/calo hay quãng đường tiết kiệm khi đi xe đạp; góc 'chi phí thực tế' chỉ nêu các khoản cần dự trù, không ghi giá (không có bảng giá chính hãng phụ tùng xe đạp tại Việt Nam).",
+  "Không có nguồn chính thức nào về việc đội mũ bảo hiểm khi đi xe đạp thuần là bắt buộc: Luật 36/2024 Điều 31 khoản 3 và NĐ 168 Điều 9 khoản 4 chỉ nêu xe đạp máy. Không viết rằng người đi xe đạp thuần bị phạt vì không đội mũ."
+ ]
+}

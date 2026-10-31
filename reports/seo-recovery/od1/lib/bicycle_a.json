@@ -1,0 +1,2705 @@
+{
+ "library": "bicycle_a",
+ "built": "2026-10-31",
+ "facts": [
+  {
+   "id": "BA-001",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "thay-dau-nhot",
+    "xich",
+    "mon-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Xích xe đạp là chi tiết hao mòn: chốt và con lăn bên trong mòn dần tạo cảm giác \"giãn xích\", khiến xích ăn khớp kém với líp và đĩa, sang số kém và làm líp mòn sớm.",
+   "quote": "The internal parts of the chain (the rivets and rollers) begin to wear out, giving the illusion of stretching. This wear can cause the chain to mesh poorly with cogs and chainrings, causing poor shifting and premature wear to the cogs.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-002",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "chi-phi-thuc-te",
+    "xich",
+    "lip-cassette",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool lưu ý thay líp (cassette) tốn hơn nhiều so với thay xích, nên theo dõi độ mòn xích giúp tiết kiệm chi phí về lâu dài.",
+   "quote": "Since it’s far more expensive to replace your cassette than it is to replace a chain, knowing when to replace your chain can actually save you some money in the long run.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-003",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "trieu-chung",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Hai triệu chứng khi đạp gợi ý xích mòn là xích trượt liên tục khi đạp mạnh và hiện tượng \"chain suck\" (xích bị cuốn theo đĩa khi chuyển đĩa dưới tải).",
+   "quote": "Two common problems are a chain that consistently slips under load, and chain suck (where the chain remains engaged on one chainring when shifting to another chainring under load, causing it to bind and hang on longer than it should).",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-004",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "do-mon-xich",
+    "thuoc-do",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Cách đo bằng thước: đặt một chốt xích ở vạch 0, đếm thêm 24 chốt thì chốt cuối phải nằm ở vạch 12 inch; lệch quá 1/16 inch là xích đã giãn tới mức cần thay.",
+   "quote": "Pick a rivet and line it up at the zero mark. Count 24 more rivets and your last rivet should be at the 12″ mark of your ruler. If it is off by more than 1/16″ your chain is stretched to the point of replacement.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-005",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "do-mon-xich",
+    "thuoc-do",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Thước đo xích Park Tool CC-4.2 báo các mức mòn 0,5%, 0,75% và 1,0% – những mốc mà phần lớn nhà sản xuất khuyến nghị thay xích.",
+   "quote": "The CC-4.2 accurately indicates when a chain has reached 0.5%, 0.75%, and 1.0% wear, the points at which most manufacturers suggest replacement.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-006",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "gioi-han-mon-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Hướng dẫn chung của Park Tool: xe một tốc độ thay xích ở mức mòn 1,0%, hệ líp/líp vặn 10 tốc độ trở xuống ở 0,75%, hệ líp 11 tốc độ trở lên ở 0,5%.",
+   "quote": "Below are some general guidelines. Your chain should be replaced by the time it reaches the wear value specified. Drivetrain Wear Single-speed 1.0% 10-speed cassette/freewheel or less 0.75% 11-speed cassette or more 0.5%",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-007",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "gioi-han-mon-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Mỗi hãng bộ truyền động có thông số mòn xích riêng, nên cần đối chiếu khuyến nghị của nhà sản xuất cho hệ thống đang dùng.",
+   "quote": "Every drivetrain manufacturer has their own specifications, so consult with the manufacturer for the recommended wear level for your system.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-008",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "lip-cassette",
+    "dia-xich",
+    "chi-phi-thuc-te",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Dùng xích quá giới hạn mòn sẽ làm líp và đĩa mòn sớm.",
+   "quote": "Remember, using a chain beyond its intended wear limit will prematurely wear out your cogs and chainrings, so staying on top of this routine maintenance task can save you a lot of cost and hassle in the long run.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/when-to-replace-a-chain-on-a-bicycle",
+   "source_title": "When to Replace a Worn Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-009",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "gioi-han-mon-xich",
+    "sram-eagle",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SRAM khuyến nghị thay xích SRAM Eagle (12 tốc độ) khi thước đo xích được SRAM chấp thuận chỉ mức 0,8%.",
+   "quote": "Replace the chain when it reaches 0.8% on an approved chain checker.",
+   "source": "https://support.sram.com/hc/en-us/articles/5928711817755-When-should-I-replace-my-SRAM-Eagle-chain",
+   "source_title": "SRAM Support – When should I replace my SRAM Eagle chain?",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-010",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-kim-phun-fi"
+   ],
+   "claim": "Trước khi vệ sinh nên đo độ mòn xích; nếu xích đã hết tuổi thọ thì nên thay luôn thay vì làm sạch.",
+   "quote": "Before beginning the cleaning process, check your chain for wear using a chain wear indicator such as the Park Tool CC-3.2. If the chain is worn beyond its service life, it’s best to skip the hassle of cleaning and simply replace the chain.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-cleaning-with-a-park-tool-chain-scrubber",
+   "source_title": "How to Clean and Lubricate a Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-011",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "chat-tay-dau",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-kim-phun-fi"
+   ],
+   "claim": "Mấu chốt để làm sạch xích là dùng dung dịch tẩy dầu mỡ chuyên cho xe đạp, loại pha chế để cắt lớp cặn dầu bám dày trên xích.",
+   "quote": "The key to getting a clean chain is to use a degreaser (such as Park Tool CB-4). Bicycle-specific degreaser is formulated to cut through the thick buildup of grime and oil usually found on well-used bicycle chains.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-cleaning-with-a-park-tool-chain-scrubber",
+   "source_title": "How to Clean and Lubricate a Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-012",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "may-ve-sinh-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-kim-phun-fi"
+   ],
+   "claim": "Khi dùng máy chà xích đã đổ dung dịch, quay ngược đùi ít nhất 30 vòng.",
+   "quote": "Once your chain cleaner is filled with solvent, begin turning the cranks of your bicycle backwards for at least thirty revolutions.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-cleaning-with-a-park-tool-chain-scrubber",
+   "source_title": "How to Clean and Lubricate a Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-013",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "tra-dau-xich",
+    "thay-dau-nhot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Lau xích qua giẻ khô sạch, để khô hoặc thổi khí, rồi bắt buộc tra dầu xích lại khi xích đã khô.",
+   "quote": "Wipe off your chain by running it through a clean, dry rag and leave your chain to air-dry or use an air compressor to blow the excess water off of your chain. Once the chain is dry it is important to relubricate your chain.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-cleaning-with-a-park-tool-chain-scrubber",
+   "source_title": "How to Clean and Lubricate a Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-014",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "tra-dau-xich",
+    "thay-dau-nhot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Tra một giọt dầu xích nhỏ vào từng chốt, sau đó dùng giẻ khô lau dầu thừa để xích không bám bụi.",
+   "quote": "Apply a small drop to each individual rivet. Next, use a clean, dry rag to wipe the excess lube from your chain to prevent dirt from collecting on your chain.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-cleaning-with-a-park-tool-chain-scrubber",
+   "source_title": "How to Clean and Lubricate a Chain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-015",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "thay-dau-nhot",
+    "tra-dau-xich",
+    "mua-mua",
+    "xu-ly-ngap-nuoc",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Xích là bộ phận cần bôi trơn thường xuyên nhất vì bám bụi bẩn và dầu xích bị mưa, vũng nước rửa trôi; xích thiếu dầu mòn nhanh hơn và phải thay sớm.",
+   "quote": "The chain is the component on your bike that requires the most frequent surface preparation — over time, chains will pick up dirt and grime from the trail, and chain lube can be washed off by rain and puddles. For this reason, it’s a good idea to regularly clean and re-lubricate your chain. An insufficiently-lubricated chain will wear out faster and require replacement.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-016",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "thay-dau-nhot",
+    "tra-dau-xich",
+    "mua-mua",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Dầu xích loại \"ướt\" có độ nhớt cao, hợp khí hậu ẩm hoặc mưa; loại \"khô\" ít bám bụi, hợp khí hậu khô nhiều bụi.",
+   "quote": "“Wet” lubes (such as Park Tool CL-1.2 Chain Lube) have a high viscosity and perform well in humid or rainy climates, while “dry” lubes generally attract less dirt and debris, which is especially helpful in dry, dusty climates.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-017",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "thay-dau-nhot",
+    "tra-dau-xich",
+    "wd-40",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Dầu thẩm thấu gia dụng như WD-40 không phải dầu xích lý tưởng và không nên dùng thường xuyên để bôi trơn xích.",
+   "quote": "Although it may be convenient, and it may work temporarily in a pinch, common household penetrating oil such as WD-40 is not an ideal chain lubricant. Do not regularly rely on penetrating oil for chain lubrication.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-018",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "day-cap",
+    "mua-mua",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Dầu nhẹ có thể dùng trong vỏ dây phanh và dây đề để đẩy nước và chống ăn mòn.",
+   "quote": "Light lubricant can also be used in brake and derailleur housing to displace water and prevent corrosion.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-019",
+   "tags": [
+    "can-chinh-co-phot",
+    "bac-dan",
+    "mo-bo",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Các hệ ổ bi rời hoặc bi có vòng giữ như trục giữa kiểu cup-and-cone, moay-ơ cup-and-cone và cổ lái (headset) có ren đều cần mỡ để quay êm và hạn chế mòn.",
+   "quote": "Bearing systems that use loose or caged ball bearings, such as cup-and-cone bottom brackets, cup-and-cone hubs, and threaded headsets, rely on grease for smooth operation and minimal excess wear.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-020",
+   "tags": [
+    "can-chinh-co-phot",
+    "bac-dan",
+    "bac-dan-kin",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bạc đạn kín (cartridge) đã được bơm mỡ sẵn, thường không thiết kế để bơm lại mỡ và được coi là vật tư tiêu hao, mòn thì thay.",
+   "quote": "Sealed cartridge bearings have become more common on bicycles — these types of bearings are already greased and are typically not designed to have grease reapplied. In general, sealed cartridge bearings should be considered consumable items and are simply replaced when they wear out.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-021",
+   "tags": [
+    "can-chinh-co-phot",
+    "thay-dau-nhot",
+    "mo-bo",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-loc-gio-dong-co"
+   ],
+   "claim": "Mỡ cần được thay khi bị nhiễm cát bụi hoặc khi dầu trong mỡ đã cũ và khô làm giảm khả năng bôi trơn.",
+   "quote": "Grease should be changed when it becomes contaminated with grit and dirt or when the oil in the grease becomes old and dry, which reduces its lubricating properties.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-022",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "phanh-dia",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Không bôi mỡ lên chi tiết phanh như bu lông đĩa phanh vì mỡ có thể lan ra gây nhiễm bẩn mất an toàn; dùng chất chống kẹt ren hoặc keo khóa ren.",
+   "quote": "Grease should also not be used on brake components such as disc brake rotor bolts — the grease can creep outward and cause contamination, which can be a safety issue. Use anti-seize compound or threadlocker.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/the-park-tool-guide-to-bicycle-lubricants-and-compounds",
+   "source_title": "The Park Tool Guide to Bicycle Lubricants and Compounds | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-023",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "bac-dan",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-loc-gio-dong-co"
+   ],
+   "claim": "Nếu rửa xe bằng vòi, chỉ dùng áp lực thấp với tia nước tỏa rộng.",
+   "quote": "If you are using a hose, use only low pressure with a wide spray.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "How to Wash a Bicycle | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-024",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "bac-dan",
+    "tra-dau-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-loc-gio-dong-co"
+   ],
+   "claim": "Sau khi rửa để xe khô; có thể thổi khí nén nhưng không thổi thẳng vào ổ bi, rồi tra dầu nhẹ cho xích, puli, dây cáp và các khớp xoay.",
+   "quote": "Allow the bike to dry after rinsing. Use compressed air if available, but do not blast bearings directly. Use a light lubricant such as CL-1.2 on the chain, pulley wheels, cables, and pivots points.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "How to Wash a Bicycle | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-025",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "lip-cassette",
+    "bac-dan-may-o",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-loc-gio-dong-co"
+   ],
+   "claim": "Khi rửa líp bằng dung môi, nghiêng bánh cho líp úp xuống đất để dung môi không nhỏ vào ổ bi moay-ơ.",
+   "quote": "Lean the wheel so the cogs are facing the ground to minimize solvent dripping into bearing",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "How to Wash a Bicycle | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-026",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "tra-dau-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sau khi rửa xe, xích bắt buộc phải tra dầu lại, trước đó chạy xích qua giẻ khô sạch để chắc chắn xích đã khô.",
+   "quote": "The chain must be re-lubricated. First run the chain through a clean, dry rag to ensure it is dry.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bike-washing-and-cleaning",
+   "source_title": "How to Wash a Bicycle | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-027",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "chong-ri-set-khung-xe",
+    "ve-sinh-xich-lip",
+    "xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Shimano cảnh báo không dùng dung môi gốc kiềm hoặc axit như chất tẩy gỉ cho xích vì xích có thể bị đứt.",
+   "quote": "Never use alkali based or acid based solvents, such as rust cleaners. If those solvents are used the chain might break and cause serious injury.",
+   "source": "https://si.shimano.com/en/pdfs/um/5XZ0A/UM-5XZ0A-007-ENG.pdf",
+   "source_title": "Shimano User's manual UM-5XZ0A-007 – Rear Derailleur",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-028",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "chu-ky-bao-duong",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-kim-phun-fi"
+   ],
+   "claim": "Shimano yêu cầu vệ sinh xích định kỳ bằng chất làm sạch phù hợp và nêu rõ chu kỳ bảo dưỡng tùy cách sử dụng và điều kiện đi xe.",
+   "quote": "Clean the chain with an appropriate chain cleaner regularly. Intervals between maintenance depend on the use and riding circumstances.",
+   "source": "https://si.shimano.com/en/pdfs/um/5XZ0A/UM-5XZ0A-007-ENG.pdf",
+   "source_title": "Shimano User's manual UM-5XZ0A-007 – Rear Derailleur",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-029",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "lip-cassette",
+    "xich",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-kim-phun-fi"
+   ],
+   "claim": "Shimano khuyên rửa líp định kỳ bằng chất tẩy trung tính; vệ sinh xích bằng chất tẩy trung tính và tra dầu giúp kéo dài tuổi thọ líp và xích.",
+   "quote": "The gears should be periodically washed with a neutral detergent. In addition, cleaning the chain with neutral detergent and lubricating it can be an effective way of extending the life of the gears and the chain.",
+   "source": "https://si.shimano.com/en/pdfs/um/5XZ0A/UM-5XZ0A-007-ENG.pdf",
+   "source_title": "Shimano User's manual UM-5XZ0A-007 – Rear Derailleur",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-030",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "khoi-dong-buoi-sang-lanh",
+    "kiem-tra-truoc-khi-di",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-the-bugi"
+   ],
+   "claim": "Cần kiểm tra xích xem có hư hỏng (biến dạng, nứt), nhảy líp hoặc tự chuyển số bất thường; nếu có, xích có thể đứt.",
+   "quote": "Check the chain for any damage (deformation or cracking), skipping, or other abnormalities such as unintended gear shifting. If any problems are found, consult your place of purchase or a distributor. The chain may break, and you may fall.",
+   "source": "https://si.shimano.com/en/pdfs/um/5XZ0A/UM-5XZ0A-007-ENG.pdf",
+   "source_title": "Shimano User's manual UM-5XZ0A-007 – Rear Derailleur",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-031",
+   "tags": [
+    "derailleur",
+    "sang-so",
+    "ve-sinh-xich-lip",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ve-sinh-kim-phun-fi"
+   ],
+   "claim": "Nếu sang số không mượt, Shimano hướng dẫn vệ sinh cụm chuyển số và bôi trơn mọi bộ phận chuyển động.",
+   "quote": "If gear shifting operations cannot be carried out smoothly, clean the shifting unit and lubricate all moving parts.",
+   "source": "https://si.shimano.com/en/pdfs/um/5XZ0A/UM-5XZ0A-007-ENG.pdf",
+   "source_title": "Shimano User's manual UM-5XZ0A-007 – Rear Derailleur",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-032",
+   "tags": [
+    "derailleur",
+    "sang-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Mục đích chính của ốc giới hạn (H/L) trên cùi đề sau là ngăn xích văng vào nan hoa hoặc vào khung.",
+   "quote": "The main purpose for the limit screw is to prevent the chain from going into the spokes or into the frame.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-adjustment",
+   "source_title": "Rear Derailleur Adjustment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-033",
+   "tags": [
+    "derailleur",
+    "sang-so",
+    "pat-cui-de",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Trước khi chỉnh cùi đề sau phải kiểm tra pát (hanger); nếu pát cong rõ thì mọi thao tác chỉnh sẽ không hiệu quả.",
+   "quote": "Begin with a visual check of the derailleur hanger. If it’s clearly bent, your adjustments are not going to work.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-adjustment",
+   "source_title": "Rear Derailleur Adjustment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-034",
+   "tags": [
+    "derailleur",
+    "sang-so",
+    "chinh-index",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Khi chỉnh index, đạp ở nhịp bình thường và bấm tay đề đúng một nấc; một nấc phải chuyển đúng một líp.",
+   "quote": "Pedaling at a normal riding cadence, shift the shifter only one indexed click, not more than one click. We want this one click to shift one, and only one gear.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-adjustment",
+   "source_title": "Rear Derailleur Adjustment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-035",
+   "tags": [
+    "derailleur",
+    "sang-so",
+    "b-screw",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Phần lớn cùi đề sau xe đường trường và xe địa hình cần khe hở 5–6 mm giữa puli dẫn và líp (chỉnh bằng ốc B).",
+   "quote": "The majority of road and mountain bike derailleurs require a gap between 5 and 6 millimeters.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-adjustment",
+   "source_title": "Rear Derailleur Adjustment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-036",
+   "tags": [
+    "derailleur",
+    "pat-cui-de",
+    "sang-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Pát cùi đề được thiết kế để dễ cong, chịu va đập (ngã, va giá để xe) thay cho cùi đề và khung đắt tiền hơn, nhưng sau đó thường gây sang số kém.",
+   "quote": "This is in part because hangers are actually designed to bend easily. When there is an impact to the derailleur — for example, a crash, a fall, or rough handling around a rack or other obstacle — the hanger sustains the damage, protecting the more-expensive derailleur and frame. Unfortunately, this will often cause misalignment of the derailleur, resulting in poor shifting performance.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/rear-derailleur-hanger-alignment",
+   "source_title": "Rear Derailleur Hanger Alignment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-037",
+   "tags": [
+    "derailleur",
+    "cui-de-truoc",
+    "sang-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Khe hở giữa răng đĩa lớn nhất và mép dưới má ngoài cùi đề trước nên là 1–2 mm, khoảng độ dày một đồng xu.",
+   "quote": "The gap between the teeth of the outer chainring and lower edge of the outer cage plate should be 1-2mm, about the thickness of a penny.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/front-derailleur-adjustment",
+   "source_title": "Front Derailleur Adjustment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-038",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "tieng-keu",
+    "truc-giua-bb",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Tiếng kẽo kẹt lặp lại mỗi vòng đạp thường nằm ở cụm đùi đĩa và bàn đạp; nếu cứ 2–3 vòng mới kêu một lần thì có thể nằm ở xích.",
+   "quote": "If during a ride you hear a creak or squeak once per revolution, it is probably located in the crankset and pedal area. If the noise is once every 2–3 revolutions, it may be in the chain.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/troubleshooting-a-noisy-drivetrain",
+   "source_title": "Troubleshooting a Noisy Drivetrain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-039",
+   "tags": [
+    "can-chinh-co-phot",
+    "truc-giua-bb",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Với trục giữa ren kiểu cartridge hoặc thru-spindle, kiểm tra chén hoặc vòng khóa và siết tối thiểu 35 Nm.",
+   "quote": "For threaded cartridge type or thru-spindle types, check cups or the lock ring for security. Tighten to at least 35 Nm.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/troubleshooting-a-noisy-drivetrain",
+   "source_title": "Troubleshooting a Noisy Drivetrain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-040",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "tra-dau-xich",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nghe mắt xích khô bằng cách quay xích trên giá sửa xe, rồi tra dầu khi cần, mỗi con lăn và chốt một giọt.",
+   "quote": "Listen for dry links by spinning the chain in a repair stand. Lubricate as necessary, with a drop of lubricant on each roller and rivet.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/troubleshooting-a-noisy-drivetrain",
+   "source_title": "Troubleshooting a Noisy Drivetrain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-041",
+   "tags": [
+    "truc-giua-bb",
+    "luc-siet",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Lực siết điển hình cho bu lông đùi đĩa là 40 Nm (khoảng 360 inch-pound).",
+   "quote": "A typical torque value for crank bolts is 40 Nm, or about 360 inch-pounds.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/troubleshooting-a-noisy-drivetrain",
+   "source_title": "Troubleshooting a Noisy Drivetrain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-042",
+   "tags": [
+    "chong-ri-set-khung-xe",
+    "khung-xe",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nếu nghi khung bị nứt, phải ngừng đạp và mang xe tới thợ chuyên nghiệp kiểm tra.",
+   "quote": "If you suspect a crack, stop riding the bike and take it to a professional for further evaluation.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/troubleshooting-a-noisy-drivetrain",
+   "source_title": "Troubleshooting a Noisy Drivetrain | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-043",
+   "tags": [
+    "lip-cassette",
+    "luc-siet",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Khi lắp líp, siết vòng khóa líp tối thiểu 40 Nm hoặc theo khuyến nghị của nhà sản xuất.",
+   "quote": "Use an appropriate wrench to turn the remover clockwise until lockring is tight — at least 40 Nm or whatever is recommended by the manufacturer.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/cassette-removal-and-installation",
+   "source_title": "Cassette Removal and Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-044",
+   "tags": [
+    "thay-dau-nhot",
+    "ve-sinh-xich-lip",
+    "xich",
+    "thay-day-curoa",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-nhot-hop-so-lap"
+   ],
+   "claim": "Park Tool ví thay xích khi mòn như thay dầu xe ô tô: là bảo dưỡng phòng ngừa giúp kéo dài tuổi thọ các chi tiết đắt tiền hơn.",
+   "quote": "Replacing your chain as it wears out is good preventative maintenance, much like changing the oil in your car. It prolongs the service life of other, more expensive parts on your bike, so replacing your chain before it becomes too worn is a good idea.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-replacement-derailleur-bikes",
+   "source_title": "Chain Replacement: Derailleur Bikes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-045",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "lip-cassette",
+    "xich",
+    "thay-day-curoa",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nếu xích mới lắp bị nhảy líp, đó có thể là dấu hiệu líp đã mòn do dùng xích mòn quá lâu và cần thay cả líp.",
+   "quote": "Once your chain is installed, if you encounter any problems such as skipping, it could be a symptom of a worn cassette or freewheel cogs. Replacement of these components may be necessary if you have used an excessively worn chain for too long without replacement.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-replacement-derailleur-bikes",
+   "source_title": "Chain Replacement: Derailleur Bikes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-046",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "do-dai-xich",
+    "thay-day-curoa",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Kiểm tra độ dài xích: ở tổ hợp đĩa lớn nhất – líp lớn nhất, xích phải chuyển được và còn hai chỗ uốn nhẹ quanh mỗi puli cùi đề.",
+   "quote": "Confirm that the existing chain is the correct length by shifting to the largest front and rear sprockets. The chain should be able to make this shift with two slight bends in the chain as it wraps around each derailleur pulley.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-replacement-derailleur-bikes",
+   "source_title": "Chain Replacement: Derailleur Bikes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-047",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "hub-noi-so",
+    "thay-day-curoa",
+    "do-chung-xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Với xe một tốc độ hoặc hub nội tốc (xích không qua cùi đề), độ chùng đúng là xích nhấp lên xuống khoảng nửa inch ở điểm giữa đĩa và líp.",
+   "quote": "There should be approximately one half inch of movement in the chain up and down at a point half way between the front and rear sprockets.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/chain-replacement-single-speed-bikes",
+   "source_title": "Chain Replacement: Single Speed Bikes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-048",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Bài hub nội tốc của Park Tool áp dụng cho hub SRAM Dual Drive và hub Shimano 3 tốc độ, không bao gồm đại tu bên trong.",
+   "quote": "These include SRAM® Dual Drive hubs and Shimano® 3-speed hubs. Consult the manufacturer for further information. Internal overhaul and service is not covered.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/internal-gear-hubs",
+   "source_title": "Internal Gear Hubs | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-049",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "thay-dau-nhot",
+    "hub-noi-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Park Tool hướng dẫn các hub nội tốc này cần tra dầu định kỳ: 2 lần/năm nếu đi ít, 2 tháng/lần nếu đi đều, dùng dầu hộp số xe đạp hoặc dầu động cơ ô tô loại nhẹ, chỉ vài giọt mỗi lần.",
+   "quote": "These hubs require occasional lubrication. Lubricate two times per year for light riding, or every other month for more consistent riding. Use a bicycle gear oil, if available, or a light weight automotive motor oil. Only a few drops are required at a time, do not over oil, as excess lubrication will end up on the spokes and then the rim braking surface.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/internal-gear-hubs",
+   "source_title": "Internal Gear Hubs | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-050",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "shimano-alfine",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Hub Shimano ALFINE 11 tốc độ SG-S7001-11: thay dầu sau 1.000 km đầu, sau đó mỗi năm một lần (hoặc mỗi 2.000 km nếu đi nhiều).",
+   "quote": "To maintain the product in good working order, oil should be changed after the first 1,000 km from start of use of the product, and once every year thereafter (after every 2,000 km if bicycle is ridden frequently).",
+   "source": "https://si.shimano.com/en/pdfs/sm/IHG-INTER11/SM-IHG-INTER11-002_ENG.pdf",
+   "source_title": "Shimano Service Manual SG-S7001-11 / SG-S7051-11 (ALFINE INTER-11)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-051",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "shimano-alfine",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Hub Shimano ALFINE 11 tốc độ điện tử SG-S7051-11 (Di2): thay dầu sau 1.000 km đầu, sau đó 2 năm một lần (hoặc mỗi 5.000 km nếu đi nhiều).",
+   "quote": "To maintain product performance, oil should be changed after the first 1,000 km from start of use of the product, and once every 2 years thereafter (after every 5,000 km if bicycle is ridden frequently).",
+   "source": "https://si.shimano.com/en/pdfs/sm/IHG-INTER11/SM-IHG-INTER11-002_ENG.pdf",
+   "source_title": "Shimano Service Manual SG-S7001-11 / SG-S7051-11 (ALFINE INTER-11)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-052",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "shimano-alfine",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Hub ALFINE 11 tốc độ chỉ dùng dầu Shimano SG-S700 OIL; dùng dầu khác có thể gây rò dầu và lỗi chuyển số.",
+   "quote": "When performing maintenance, use only Shimano SG-S700 OIL. If SG-S700 OIL is not used, problems such as an oil leakage and gear shifting malfunction may occur.",
+   "source": "https://si.shimano.com/en/pdfs/sm/IHG-INTER11/SM-IHG-INTER11-002_ENG.pdf",
+   "source_title": "Shimano Service Manual SG-S7001-11 / SG-S7051-11 (ALFINE INTER-11)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-053",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "shimano-alfine",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Quy trình thay dầu hub ALFINE 11 tốc độ dùng 25 ml dầu mới hút vào xi lanh để bơm vào hub.",
+   "quote": "Suck 25ml of new oil into the syringe and connect it firmly to the tube.",
+   "source": "https://si.shimano.com/en/pdfs/sm/IHG-INTER11/SM-IHG-INTER11-002_ENG.pdf",
+   "source_title": "Shimano Service Manual SG-S7001-11 / SG-S7051-11 (ALFINE INTER-11)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-054",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "bao-duong-phanh-dia",
+    "phanh-vanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Khi thay dầu hub nội tốc phải tránh để dầu dính đĩa phanh, má phanh hoặc vành (với phanh vành) vì có thể làm giảm hiệu quả phanh.",
+   "quote": "When changing the oil, be careful that no oil gets on the disc brake rotor, brake pads, on the rim when using rim brakes, etc. If oil gets on any of these parts, there is a danger that brake performance may be reduced.",
+   "source": "https://si.shimano.com/en/pdfs/sm/IHG-INTER11/SM-IHG-INTER11-002_ENG.pdf",
+   "source_title": "Shimano Service Manual SG-S7001-11 / SG-S7051-11 (ALFINE INTER-11)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-055",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "shimano-nexus",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Với hub nội tốc Shimano (ALFINE/NEXUS 8 tốc độ), nên bôi trơn bộ phận bên trong sau 1.000 km đầu, rồi khoảng mỗi năm (hoặc 2.000 km nếu đi nhiều); điều kiện khắc nghiệt cần bảo dưỡng thường xuyên hơn.",
+   "quote": "In order to maintain proper performance, it is recommended that you lubricate the internal unit after riding 1,000 km from the start of use, then after about once every year (or once about every 2,000 km if the bicycle is used very frequently). If the bicycle is used under harsh conditions, more frequent maintenance is required.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-056",
+   "tags": [
+    "thay-nhot-hop-so-lap",
+    "hub-noi-so",
+    "shimano-nexus",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Cụm bên trong hub 8 tốc độ được ngâm trong dầu khoảng 90 giây khi bảo dưỡng.",
+   "quote": "3. Keep the internal unit immersed in oil for approximately 90 seconds.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-057",
+   "tags": [
+    "xu-ly-ngap-nuoc",
+    "rua-xe-khong-hai-may",
+    "hub-noi-so",
+    "chong-ri-set-khung-xe",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "thay-loc-gio-dong-co"
+   ],
+   "claim": "Shimano lưu ý hub nội tốc không kín nước hoàn toàn: tránh đi qua chỗ nước có thể vào hub và không rửa hub bằng vòi áp lực cao, nếu không cơ cấu bên trong có thể gỉ.",
+   "quote": "The internal geared hub is not completely waterproof. Avoid using the hub in places where water might get inside and do not use high-pressure jets of water to clean the hub, otherwise the internal mechanism may rust.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-058",
+   "tags": [
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "sang-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Shimano hướng dẫn mỗi lần chỉ chuyển một hoặc hai số và giảm lực đạp trong lúc chuyển số.",
+   "quote": "Shift the shift lever one or two gears at a time. During shifting, reduce the pedal pressure.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-059",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "xich",
+    "khoi-dong-buoi-sang-lanh",
+    "kiem-tra-truoc-khi-di",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "thay-the-bugi"
+   ],
+   "claim": "Cần kiểm tra độ căng xích đúng và xích không hư hỏng; xích quá chùng hoặc hư phải thay, nếu không xích có thể đứt.",
+   "quote": "Check that the tension of the chain is correct and that the chain is not damaged. If the tension is too weak or the chain is damaged, the chain should be replaced. If this is not done, the chain may break and cause serious injury.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-060",
+   "tags": [
+    "kiem-tra-nuoc-lam-mat",
+    "phanh-trong-hub",
+    "deo-doc",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Với phanh đùm (coaster/roller brake), không bóp/đạp phanh liên tục khi xuống dốc dài vì chi tiết phanh bên trong nóng lên, làm giảm hiệu quả phanh.",
+   "quote": "Do not continuously apply the brakes when riding down long slopes. This will cause the internal brake parts to become very hot, weakening braking performance",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-061",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "phanh-dia",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Shimano yêu cầu kiểm tra độ dày má phanh đĩa và không dùng khi má còn 0,5 mm hoặc mỏng hơn.",
+   "quote": "Check the thickness of the brake pads and do not use them if they have a thickness of 0.5 mm or less.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-062",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "phanh-dia",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Không dùng đĩa phanh có độ dày 1,5 mm trở xuống hoặc đã lộ lớp nhôm vì đĩa có thể vỡ.",
+   "quote": "Do not use the disc brake rotor if its thickness is 1.5 mm or less. Also do not use it if the aluminum surface becomes visible. The disc brake rotor may break, and result in serious injury due to a fall.",
+   "source": "https://si.shimano.com/en/pdfs/dm/CASG004/DM-CASG004-03-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-CASG004-03 – ALFINE / NEXUS (SG-S7001-11, SG-S7001-8, SG-C6001-8, SG-C6011-8, SG-C7000-5)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-063",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "phanh-dia",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Theo Shimano, khi má phanh đĩa dày 0,5 mm hoặc mỏng hơn thì phải thay má mới.",
+   "quote": "If the thickness is 0.5 mm or less, the brake pad needs to be replaced with a new one.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-064",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "phanh-dia",
+    "ma-phanh",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Tiếng kêu khi phanh có thể là dấu hiệu má phanh đã mòn tới giới hạn sử dụng.",
+   "quote": "If noise occurs during brake operation, the brake pads may have been worn down to the usable limit.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-065",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "phanh-dia",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Đĩa phanh Shimano mòn còn 1,5 mm hoặc lộ bề mặt nhôm thì phải thay đĩa mới.",
+   "quote": "If the disc brake rotor becomes worn down to a thickness of 1.5 mm or the aluminum surface becomes visible, be sure to replace the disc brake rotor with a new one.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-066",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dau-phanh",
+    "dau-khoang",
+    "thay-dau-nhot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Phanh đĩa dầu Shimano chỉ dùng dầu khoáng (mineral oil) chính hãng Shimano; dùng loại dầu khác có thể làm phanh trục trặc hoặc hỏng hệ thống.",
+   "quote": "Use only Shimano genuine mineral oil. If other types of oil are used, it may cause problems with brake operation, and cause the system to be unusable.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-067",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dau-phanh",
+    "dau-khoang",
+    "xa-gio",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Chỉ dùng dầu phanh từ hộp mới mở, không dùng lại dầu xả ra từ van xả vì dầu cũ có thể chứa nước gây hiện tượng vapor lock.",
+   "quote": "Be sure to use only oil from a freshly-opened container, and do not re-use oil which has been drained from the bleed nipple. Old or reused oil may contain water, which could cause vapor lock in the brake system.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-068",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "kiem-tra-nuoc-lam-mat",
+    "vapor-lock",
+    "deo-doc",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Vapor lock xảy ra khi dầu phanh nóng lên làm nước hoặc bọt khí trong hệ thống giãn nở, khiến hành trình tay phanh tăng đột ngột.",
+   "quote": "Vapor lock occurs when the oil inside the brake system becomes heated, which causes the water or air bubbles inside the brake system to expand. This can then result in a sudden increase in the brake lever stroke.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-069",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "kiem-tra-nuoc-lam-mat",
+    "vapor-lock",
+    "deo-doc",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bóp phanh liên tục có thể gây vapor lock; cách xử lý là nhả tay phanh trong giây lát.",
+   "quote": "Vapor lock may occur if the brakes are applied continuously. To solve this problem, momentarily release the lever.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-070",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "khoi-dong-buoi-sang-lanh",
+    "kiem-tra-truoc-khi-di",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-the-bugi"
+   ],
+   "claim": "Phanh đĩa dầu Shimano không thiết kế để hoạt động khi lật ngược xe; sau khi lật hoặc nằm nghiêng xe, phải bóp tay phanh vài lần kiểm tra trước khi đi.",
+   "quote": "The disc brake is not designed to work when the bicycle is upside down. If the bicycle is turned upside down or on its side, the brake may not work correctly, and a serious accident could occur. Before riding the bicycle, be sure to operate the brake lever a few times to check that the brakes operate normally.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-071",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "rua-xe-khong-hai-may",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Không để dầu hoặc mỡ dính lên đĩa phanh và má phanh, nếu không phanh có thể hoạt động sai.",
+   "quote": "Be careful not to allow any oil or grease to get onto the disc brake rotor and brake pads. Otherwise the brakes may not work correctly.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-072",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "mua-mua",
+    "xu-ly-ngap-nuoc",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Trời mưa quãng phanh dài hơn: giảm tốc độ và phanh sớm, nhẹ nhàng.",
+   "quote": "The required braking distance will be longer during wet weather. Reduce your speed and apply the brakes early and gently.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-073",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "rua-xe-khong-hai-may",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Vệ sinh hệ phanh đĩa Shimano bằng nước xà phòng và khăn khô; không dùng chất tẩy phanh hay chất chống kêu bán ngoài thị trường vì có thể làm hỏng phớt.",
+   "quote": "Use soapy water and a dry cloth when cleaning and carrying out maintenance of the brake system. Do not use commercially available brake cleansers or silencing agents. Such substances can cause damage to parts such as seals.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-074",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Phanh đĩa có giai đoạn \"rà\" (burn-in): lực phanh tăng dần trong giai đoạn này, và lặp lại khi thay má hoặc đĩa mới.",
+   "quote": "Disc brakes have a burn-in period, and the braking force will gradually increase as the burn-in period progresses. Make sure that you are aware of any such increases in braking force when using the brakes during the burn-in period. The same thing will happen when the brake pads or disc brake rotor are replaced.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-075",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "thao-banh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Khi tháo bánh xe nên lắp miếng chặn má (pad spacer) và không bóp tay phanh, nếu không piston sẽ đẩy ra quá mức.",
+   "quote": "When the bicycle wheel has been removed, it is recommended that pad spacers are installed. Do not depress the brake lever while the wheel is removed. If the brake lever is depressed without the pad spacers installed, the pistons will protrude further than normal.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-076",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "kiem-tra-nuoc-lam-mat",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "deo-doc"
+   ],
+   "claim": "Củ phanh và đĩa phanh nóng lên khi phanh; không chạm vào khi đang đi hoặc ngay sau khi xuống xe để tránh bỏng.",
+   "quote": "The calipers and disc brake rotor will become hot when the brakes are operated; do not touch them while riding or immediately after dismounting from the bicycle.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-077",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "piston",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Phanh đĩa dầu Shimano tự bù khe hở theo độ mòn má bằng cách piston nhô dần ra, vì vậy khi thay má mới phải đẩy piston về.",
+   "quote": "This brake system is designed to automatically adjust the clearance between the disc brake rotor and the brake pads by the piston gradually protruding according to the wear of the brake pads; therefore, when you replace the brake pads, you need to push back the piston.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-078",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "kich-thuoc-dia",
+    "xe-dap-dia-hinh-mtb",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Đĩa phanh Shimano 203 mm và 180 mm cho lực phanh cao hơn đĩa 160 mm.",
+   "quote": "The 203 mm and 180 mm disc brake rotors provide a higher braking force than the 160 mm disc brake rotors.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBBR001/DM-MBBR001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBBR001-04 – Hydraulic Disc Brake (BR-M7000/M6000/MT500/MT400/MT200…)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-079",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Park Tool nêu mức chung: lớp vật liệu má phanh đĩa nên còn ít nhất 1 mm; xếp 3 tấm danh thiếp tạo được thước nhét khoảng 1 mm.",
+   "quote": "Generally, the pad material should measure at least 1mm thick. By stacking 3 business cards you can create a makeshift feeler gauge that is approximately 1mm.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-pad-removal-installation",
+   "source_title": "Disc Brake Pad Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-080",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Má phanh bị nhiễm dầu có thể gây rít, phải bóp mạnh hơn mới giảm tốc, hoặc vệt tối trên đĩa và má bị nhòe khi miết ngón tay.",
+   "quote": "Contaminated pads may cause problems such as a squeal, extra effort at the lever to slow down, or a darkness on the rotor and pads that smears when rubbed with a finger.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-pad-removal-installation",
+   "source_title": "Disc Brake Pad Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-081",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Với phanh đĩa dầu, sau khi thay má phải bóp tay phanh nhiều lần để đưa piston và má về vị trí làm việc.",
+   "quote": "For hydraulic disc brakes, pump the lever to move the pistons and pads back to the working position.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-pad-removal-installation",
+   "source_title": "Disc Brake Pad Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-082",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Đĩa phanh Shimano dày 1,8 mm khi mới và Shimano khuyến nghị thay khi không còn dưới 1,5 mm.",
+   "quote": "Shimano® rotors start at 1.8mm when new, and Shimano recommends replacement at no less than 1.5mm",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-removal-installation",
+   "source_title": "Disc Brake Rotor Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-083",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "So độ dày bề mặt phanh với phần không ma sát của đĩa: mòn đo được từ 0,2–0,4 mm trở lên thường là dấu hiệu đĩa đã mòn.",
+   "quote": "By measuring the thickness of the braking surface and comparing it to an unused part of the rotor such as a spider arm, you can determine if it is worn out. Typically measurable wear of 2 to 4 tenths of a millimeter or more is evidence of a worn rotor.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-removal-installation",
+   "source_title": "Disc Brake Rotor Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-084",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "kich-thuoc-dia",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bốn cỡ đĩa phanh phổ biến trong ngành xe đạp là 140, 160, 180 và 203 mm.",
+   "quote": "There are 4 main sizes commonly used in the bike industry: 140, 160, 180 and 203mm.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-removal-installation",
+   "source_title": "Disc Brake Rotor Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-085",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "luc-siet",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Không bôi mỡ hay dầu vào bu lông đĩa phanh vì dầu có thể lan ra do nhiệt khi phanh và làm bẩn đĩa.",
+   "quote": "IMPORTANT: Do not grease or oil the bolts. The oils can creep outward from the heat of braking and contaminate the rotor.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-removal-installation",
+   "source_title": "Disc Brake Rotor Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-086",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "luc-siet",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Lực siết điển hình cho bu lông đĩa phanh loại 6 lỗ là khoảng 4–6 Nm.",
+   "quote": "Typical torque for these bolts is about 4–6 Nm.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-removal-installation",
+   "source_title": "Disc Brake Rotor Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-087",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "rua-xe-khong-hai-may",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Sau khi lắp, lau cả hai mặt đĩa phanh bằng giẻ sạch và cồn isopropyl.",
+   "quote": "Use a clean rag and isopropyl alcohol to wipe both sides of the rotor surfaces.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-removal-installation",
+   "source_title": "Disc Brake Rotor Removal & Installation | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-088",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "lap-khoa-chong-trom",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Một nguyên nhân phổ biến làm cong đĩa phanh là va chạm trực tiếp khi dựng hoặc cất xe; đĩa cong nặng do va đập nên thay mới.",
+   "quote": "One of the most common causes of a bent rotor is from a direct impact when parking or storing the bike. It is even possible for new rotors to have some problems. If a rotor has been badly bent, especially from impact, it’s best to simply replace it.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/disc-brake-rotor-truing",
+   "source_title": "Disc Brake Rotor Truing | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-089",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Má cọ đĩa là triệu chứng chính của củ phanh lệch, nhưng cũng có thể do bánh xe lắp không đúng chỗ.",
+   "quote": "Pad/rotor rub is the main symptom of a misaligned caliper. However pad/rotor rub can also caused by an improperly seated wheel.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hydraulic-disc-brake-alignment",
+   "source_title": "Hydraulic Disc Brake Alignment | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-090",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dau-phanh",
+    "dau-khoang",
+    "dot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Không bao giờ dùng dầu DOT cho phanh thiết kế dùng dầu khoáng và ngược lại, không dùng chung bộ xả gió; trộn lẫn có thể hỏng chi tiết và mất phanh.",
+   "quote": "Never use DOT brake fluid in brakes designed for mineral oil, or vice versa. Never share bleed kits between DOT fluid and mineral oil systems. Mixing fluids can cause damage to components and lead to brake failure, which is dangerous.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/shimano-hydraulic-brake-service-and-adjustment",
+   "source_title": "How to Bleed Shimano® Flat Bar Hydraulic Brakes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-091",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "xa-gio",
+    "dau-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bọt khí trong hệ phanh dầu bị nén làm tay phanh mềm khi bóp mạnh, và dầu phanh có thể bẩn dần theo thời gian sử dụng nên cần thay.",
+   "quote": "Air bubbles will compress and cause the brake to feel soft when the lever is pulled with force. Additionally, the fluid can become dirty with use and should be changed.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/shimano-hydraulic-brake-service-and-adjustment",
+   "source_title": "How to Bleed Shimano® Flat Bar Hydraulic Brakes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-092",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "xa-gio",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Xả gió phanh dầu được Park Tool xếp là công việc bảo dưỡng nâng cao, đòi hỏi hiểu biết kỹ thuật kỹ về hệ thống phanh.",
+   "quote": "Brake bleeding is considered an advanced service procedure, and requires a thorough technical knowledge of the braking system.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/shimano-hydraulic-brake-service-and-adjustment",
+   "source_title": "How to Bleed Shimano® Flat Bar Hydraulic Brakes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-093",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dau-phanh",
+    "dot",
+    "dau-khoang",
+    "sram",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SRAM quy định phanh dầu DOT của hãng chỉ dùng dầu DOT 4 hoặc DOT 5.1, còn phanh dầu khoáng của SRAM chỉ dùng dầu Maxima Mineral.",
+   "quote": "Use only DOT 4 or DOT 5.1 brake fluids with SRAM DOT fluid hydraulic brakes. Use only Maxima Mineral Brake oil in SRAM mineral oil brakes.",
+   "source": "https://docs.sram.com/en-US/publications/2Ytcvt5o3cIrCxyHM0Ggah/BM%20-%20DOT%20Fluid%20MTB%20Disc%20Brake%20Hose%20Shortening%20and%20Bleed%20Manual",
+   "source_title": "SRAM – DOT Fluid MTB Disc Brake Hose Shortening and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-094",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dia-phanh",
+    "sram",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SRAM: thay đĩa khi thay má hoặc khi độ dày dưới mức tối thiểu in trên đĩa – 1,55 mm với đĩa 1,85 mm và 1,7 mm với đĩa dày 2 mm.",
+   "quote": "Change the rotor when changing the pad material, or when the thickness is less than the minimum stated on the rotor: 1.55 mm for 1.85 mm rotors and 1.7 mm for 2 mm thick rotors.",
+   "source": "https://docs.sram.com/en-US/publications/2Ytcvt5o3cIrCxyHM0Ggah/BM%20-%20DOT%20Fluid%20MTB%20Disc%20Brake%20Hose%20Shortening%20and%20Bleed%20Manual",
+   "source_title": "SRAM – DOT Fluid MTB Disc Brake Hose Shortening and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-095",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "xa-gio",
+    "dot",
+    "sram",
+    "chu-ky-bao-duong",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SRAM khuyến nghị xả gió phanh (dầu DOT) ít nhất mỗi năm một lần, thường xuyên hơn nếu đi nhiều hoặc địa hình phải phanh mạnh.",
+   "quote": "SRAM recommends to bleed your brakes at least once a year to ensure optimal braking performance. Bleed your brakes more often if you ride frequently or ride on aggressive terrain that requires heavy braking.",
+   "source": "https://docs.sram.com/en-US/publications/2Ytcvt5o3cIrCxyHM0Ggah/BM%20-%20DOT%20Fluid%20MTB%20Disc%20Brake%20Hose%20Shortening%20and%20Bleed%20Manual",
+   "source_title": "SRAM – DOT Fluid MTB Disc Brake Hose Shortening and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-096",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "sram",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nếu dầu phanh hoặc dầu bất kỳ dính vào má phanh thì má đã nhiễm bẩn và phải thay.",
+   "quote": "Do not allow any brake fluid or oil to contact the brake pads. If this occurs, the pads are contaminated and must be replaced.",
+   "source": "https://docs.sram.com/en-US/publications/2Ytcvt5o3cIrCxyHM0Ggah/BM%20-%20DOT%20Fluid%20MTB%20Disc%20Brake%20Hose%20Shortening%20and%20Bleed%20Manual",
+   "source_title": "SRAM – DOT Fluid MTB Disc Brake Hose Shortening and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-097",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "dot",
+    "chong-ri-set-khung-xe",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Dầu phanh DOT làm hỏng bề mặt sơn; nếu dính lên sơn phải lau ngay và rửa bằng nước.",
+   "quote": "DOT brake fluids will damage painted surfaces. If any fluid comes in contact with a painted surface, wipe it off immediately and clean with water.",
+   "source": "https://docs.sram.com/en-US/publications/2Ytcvt5o3cIrCxyHM0Ggah/BM%20-%20DOT%20Fluid%20MTB%20Disc%20Brake%20Hose%20Shortening%20and%20Bleed%20Manual",
+   "source_title": "SRAM – DOT Fluid MTB Disc Brake Hose Shortening and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-098",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "xa-gio",
+    "dau-khoang",
+    "sram",
+    "chu-ky-bao-duong",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SRAM khuyến nghị xả gió phanh dầu khoáng hai năm một lần để loại bỏ khí tích tụ.",
+   "quote": "SRAM recommends to bleed your mineral oil brakes every other year to remove accumulated air.",
+   "source": "https://docs.sram.com/en-US/publications/1zPBXB1BWfF7E1mLreIuVi/UM%20-%20Mineral%20Oil%20MTB%20Disc%20Brake%20Installation,%20Hose%20Shortening,%20and%20Bleed%20Manual",
+   "source_title": "SRAM – Mineral Oil MTB Disc Brake Installation, Hose Shortening, and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-099",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "ma-phanh",
+    "sram",
+    "chu-ky-bao-duong",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "SRAM khuyên kiểm tra má phanh đĩa hằng tháng; khi tổng độ dày đế và vật liệu má còn 3 mm hoặc ít hơn thì má đã mòn và cần thay.",
+   "quote": "Inspect disc brake pads for wear every month. When the thickness of the backing plate and pad material is 3 mm or less, they are worn and need to be replaced with new disc brake pads.",
+   "source": "https://docs.sram.com/en-US/publications/1zPBXB1BWfF7E1mLreIuVi/UM%20-%20Mineral%20Oil%20MTB%20Disc%20Brake%20Installation,%20Hose%20Shortening,%20and%20Bleed%20Manual",
+   "source_title": "SRAM – Mineral Oil MTB Disc Brake Installation, Hose Shortening, and Bleed Manual",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-100",
+   "tags": [
+    "bao-duong-phanh-dia",
+    "xa-gio",
+    "dot",
+    "dau-khoang",
+    "chu-ky-bao-duong",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bảng chu kỳ bảo dưỡng SRAM: phanh dầu DOT nên xả gió hệ thống mỗi năm một lần, phanh dầu khoáng hai năm một lần, hoặc khi cần.",
+   "quote": "DOT: System bleed recommended once per year or as needed. Mineral Oil: System bleed recommended once every two years or as needed.",
+   "source": "https://www.sram.com/globalassets/document-hierarchy/service-manuals/sramrockshox-service-interval-counter-mat.pdf",
+   "source_title": "SRAM / RockShox – Service Intervals (service interval counter mat, GEN.0000000005593 Rev H)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-101",
+   "tags": [
+    "bao-duong-phuoc-giam-xoc",
+    "chu-ky-bao-duong",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Mỗi mốc trong bảng chu kỳ bảo dưỡng SRAM/RockShox là số giờ chạy tối đa cho từng hạng mục; địa hình, môi trường và cách chạy có thể đòi hỏi bảo dưỡng sớm hơn.",
+   "quote": "Each service interval indicates the maximum number of riding hours designated for each type of recommended maintenance. Depending on the terrain and environmental conditions in your location, your riding style and skill level, you may see more optimum performance if you service your SRAM and RockShox products at shorter intervals.",
+   "source": "https://www.sram.com/globalassets/document-hierarchy/service-manuals/sramrockshox-service-interval-counter-mat.pdf",
+   "source_title": "SRAM / RockShox – Service Intervals (service interval counter mat, GEN.0000000005593 Rev H)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-102",
+   "tags": [
+    "phanh-vanh",
+    "ma-phanh",
+    "bao-duong-phanh-dia",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "thay-the-bugi",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Với phanh V-BRAKE Shimano, khi guốc phanh mòn tới mức không còn thấy rãnh thì cần liên hệ nơi mua xe hoặc nhà phân phối để xử lý.",
+   "quote": "If the brake shoes have worn down until the grooves are no longer visible, consult your place of purchase or a distributor.",
+   "source": "https://si.shimano.com/en/pdfs/um/8W20A/UM-8W20A-002-ENG.pdf",
+   "source_title": "Shimano User's Manual UM-8W20A-002 – V-BRAKE",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-103",
+   "tags": [
+    "phanh-vanh",
+    "day-cap",
+    "chong-ri-set-khung-xe",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Không dùng dây phanh bị gỉ, sờn hoặc nứt vì phanh có thể không hoạt động đúng.",
+   "quote": "Do not use the brake cable if it has any rust, fraying, or cracks. Otherwise, the brakes may not work correctly.",
+   "source": "https://si.shimano.com/en/pdfs/um/8W20A/UM-8W20A-002-ENG.pdf",
+   "source_title": "Shimano User's Manual UM-8W20A-002 – V-BRAKE",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-104",
+   "tags": [
+    "phanh-vanh",
+    "mua-mua",
+    "xu-ly-ngap-nuoc",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Với phanh vành, trời mưa quãng phanh dài hơn nên phải giảm tốc và phanh sớm, nhẹ nhàng.",
+   "quote": "Because the required braking distance will be longer during wet weather, reduce your speed and apply the brakes early and gently.",
+   "source": "https://si.shimano.com/en/pdfs/um/8W20A/UM-8W20A-002-ENG.pdf",
+   "source_title": "Shimano User's Manual UM-8W20A-002 – V-BRAKE",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-105",
+   "tags": [
+    "phanh-vanh",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Má phanh vành mất dần vật liệu khi dùng và còn bị chai cứng theo thời gian, cả hai đều làm giảm hiệu quả phanh.",
+   "quote": "With use, pads will simply lose material and become too thin to be effective. Additionally, pad material will also harden as it ages, becoming less effective.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/brake-pad-replacement-rim-brakes",
+   "source_title": "Brake Pad Replacement: Rim Brakes | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-106",
+   "tags": [
+    "phanh-vanh",
+    "ma-phanh",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Má phanh V-brake nên chỉnh sát mép trên của bề mặt phanh trên vành nhưng không được cao tới mức chạm lốp.",
+   "quote": "Linear pull pads should be set to the top edge of the rim braking surface, but never so high the pads would touch the tire.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/linear-pull-brake-service",
+   "source_title": "Linear Pull Brake Service | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-107",
+   "tags": [
+    "phanh-vanh",
+    "ma-phanh",
+    "tieng-keu",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Chỉnh \"toe\" để mép trước má chạm vành trước giúp giảm tiếng rít khi phanh.",
+   "quote": "Toeing refers to setting the pad so the pad’s front edge strikes first, which tends to reduce squeal during braking.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/linear-pull-brake-service",
+   "source_title": "Linear Pull Brake Service | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-108",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-the-bugi",
+    "khoi-dong-buoi-sang-lanh"
+   ],
+   "claim": "Kiểm tra cổ lái rơ: bóp phanh trước, đặt tay lên cụm cổ và ống cổ, lắc xe tới lui để cảm nhận độ rơ.",
+   "quote": "To check for a loose headset, apply the front brake and the put your free hand over the headset and head tube. Rock the bike back and forth, and feel for a play between the components.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-109",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Cổ lái để rơ lâu ngày làm mòn bề mặt rãnh bi, có thể làm biến dạng bi và khiến xe lái kém.",
+   "quote": "Over time, this can cause wear to the surface of the races and even deform the ball bearings themselves. A loose headset with play may also handle poorly.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-110",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Cổ lái siết quá chặt gây mòn sớm và có thể bị \"khấc\" (indexed/notchy).",
+   "quote": "Headsets that are run too tight can cause premature wear and can get “indexed” or feel “notchy”.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-111",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Chuẩn chỉnh cổ lái là lỏng nhất có thể nhưng không còn rơ.",
+   "quote": "The appropriate adjustment for a headset is as loose as possible with no play.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-112",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "po-tang",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Ở cổ lái không ren, nắp chụp và bu lông trên cùng chỉ dùng để chỉnh bi; giữ pô tăng cố định là các bu lông bên hông pô tăng.",
+   "quote": "NOTE: The cap and bolt at the top of the stem do not secure the stem onto the steering column. The bolt or bolts on the side of the stem keep the stem from moving once the adjustment is made. The cap is used for bearing adjustment only.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-113",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Đỉnh cổ phuộc nên thấp hơn mặt trên pô tăng khoảng 3 mm để pô tăng ép được các vòng đệm khi chỉnh bi.",
+   "quote": "It should be about 3mm (1/8″) below the level of the stem. The stem needs to press down on the spacers in order to adjust the bearings.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-114",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Khi chỉnh cổ lái không ren, mỗi lần chỉ vặn bu lông nắp chụp 1/8 vòng theo chiều kim đồng hồ (sau khi nới bu lông pô tăng).",
+   "quote": "To adjust bearings, loosen stem bolt(s). Turn adjusting bolt in center cap only 1/8th turn clockwise.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-115",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nếu cổ lái tự khóa hoặc tự về giữa khi bánh thẳng, rãnh bi dưới đã bị lõm và cần thay cổ lái.",
+   "quote": "If the headset seems to lock in place or center itself when the wheel is straight, it is likely the lower races have dents from the ball bearings. The result is the headset is locking into the one forward position. The headset should be replaced.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-116",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "bao-duong-phuoc-giam-xoc",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Khi kiểm tra rơ cổ trên xe phuộc nhún, cần cẩn thận vì chân phuộc có thể tự có độ rơ; nên nắm phần trên của phuộc.",
+   "quote": "Use care when grabbing suspension forks, because the legs may have play. Grab upper portion of fork.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threadless-headset",
+   "source_title": "How to Adjust a Threadless Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-117",
+   "tags": [
+    "can-chinh-co-phot",
+    "headset",
+    "luc-siet",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Ở cổ lái có ren, đai ốc khóa trên cùng nên siết khoảng 20 Nm.",
+   "quote": "This locknut should be torqued to roughly 20 Nm.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/how-to-adjust-a-threaded-headset",
+   "source_title": "How to Adjust a Threaded Headset | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-118",
+   "tags": [
+    "can-chinh-co-phot",
+    "truc-giua-bb",
+    "bac-dan",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nguyên tắc chỉnh ổ bi trục giữa kiểu cup-and-cone là đạt mức lỏng nhất mà không còn rơ.",
+   "quote": "The basic concept for adjustable bearings is to achieve the loosest setting without play.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bottom-bracket-service-adjustable-cup-and-cone",
+   "source_title": "Bottom Bracket Service: Adjustable Cup-and-Cone | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-119",
+   "tags": [
+    "can-chinh-co-phot",
+    "truc-giua-bb",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Kiểm tra rơ trục giữa bằng cách nắm hai đầu trục kéo lên xuống ở từng bên.",
+   "quote": "Check for adjustment by grabbing the ends of the spindle and pull up and down on each side.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bottom-bracket-service-adjustable-cup-and-cone",
+   "source_title": "Bottom Bracket Service: Adjustable Cup-and-Cone | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-120",
+   "tags": [
+    "can-chinh-co-phot",
+    "truc-giua-bb",
+    "xe-dap-dia-hinh-mtb",
+    "xe-dap-the-thao-duong-pho"
+   ],
+   "claim": "Với trục giữa có vòng preload (như Shimano Hollowtech II), đẩy đùi trái phải dọc trục để thử rơ ngang; còn rơ thì vặn vòng preload sát vào bạc đạn thêm một chút.",
+   "quote": "As a test, push arms left to right along the axis of the spindle testing for side-to-side movement. If movement is present, turn preload ring slightly toward the bottom bracket bearing and test again.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/bottom-bracket-adjustment-using-preload-ring",
+   "source_title": "Bottom Bracket Adjustment Using Preload Ring | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-121",
+   "tags": [
+    "can-chinh-co-phot",
+    "truc-giua-bb",
+    "khoi-dong-buoi-sang-lanh",
+    "kiem-tra-truoc-khi-di",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-the-bugi"
+   ],
+   "claim": "Shimano yêu cầu kiểm tra không có độ rơ hoặc lỏng ở các mối lắp trước khi đi và siết lại đùi đĩa, bàn đạp theo định kỳ.",
+   "quote": "Check that there is no excess play or looseness in any fastening sections before riding the bicycle. Also, be sure to retighten the crank arm and pedals at periodic intervals.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBFC001/DM-MBFC001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBFC001-04 – Crankset (FC-M8000/M7000/M6000/MT500…, SM-BB52, BB-MT501)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-122",
+   "tags": [
+    "rua-xe-khong-hai-may",
+    "xu-ly-ngap-nuoc",
+    "truc-giua-bb",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-loc-gio-dong-co"
+   ],
+   "claim": "Không rửa trục giữa bằng vòi nước áp lực cao vì nước có thể vào ổ bi gây tiếng kêu hoặc kẹt.",
+   "quote": "Do not wash the bottom bracket with high-pressure jets of water. Water may enter the bearing section and cause noise or adhesion.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBFC001/DM-MBFC001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBFC001-04 – Crankset (FC-M8000/M7000/M6000/MT500…, SM-BB52, BB-MT501)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-123",
+   "tags": [
+    "can-chinh-co-phot",
+    "truc-giua-bb",
+    "bac-dan",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Với trục giữa Shimano Hollowtech II, nếu cảm thấy ổ bi lỏng thì phải thay trục giữa.",
+   "quote": "If you feel any looseness in the bearings, the bottom bracket should be replaced.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBFC001/DM-MBFC001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBFC001-04 – Crankset (FC-M8000/M7000/M6000/MT500…, SM-BB52, BB-MT501)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-124",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "dia-xich",
+    "xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Đĩa xích nên được rửa định kỳ bằng chất tẩy trung tính; vệ sinh và tra dầu xích giúp kéo dài tuổi thọ đĩa và xích.",
+   "quote": "The chainrings should be periodically washed with a neutral detergent. In addition, cleaning the chain with neutral detergent and lubricating it can be an effective way of extending the life of the chainrings and the chain.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBFC001/DM-MBFC001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBFC001-04 – Crankset (FC-M8000/M7000/M6000/MT500…, SM-BB52, BB-MT501)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-125",
+   "tags": [
+    "ve-sinh-xich-lip",
+    "dia-xich",
+    "xich",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Nếu xích liên tục tuột khỏi đĩa khi sử dụng, Shimano hướng dẫn thay đĩa và xích.",
+   "quote": "If the chain keeps coming off the gears during use, replace the chainrings and the chain.",
+   "source": "https://si.shimano.com/en/pdfs/dm/MBFC001/DM-MBFC001-04-ENG.pdf",
+   "source_title": "Shimano Dealer's Manual DM-MBFC001-04 – Crankset (FC-M8000/M7000/M6000/MT500…, SM-BB52, BB-MT501)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-126",
+   "tags": [
+    "bac-dan-may-o",
+    "can-chinh-co-phot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Moay-ơ xe đạp có hai kiểu: cup-and-cone chỉnh được độ rơ và kiểu bạc đạn kín (cartridge) không chỉnh được.",
+   "quote": "Bicycle hubs may be either the adjustable cup-and-cone type or the non-adjustable cartridge style.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-127",
+   "tags": [
+    "bac-dan-may-o",
+    "bac-dan-kin",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Với moay-ơ bạc đạn kín, khi bạc đạn mòn và rơ thì thay nguyên cụm bạc đạn.",
+   "quote": "As cartridge bearings wear and develop play, the entire cartridge unit is replaced.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-128",
+   "tags": [
+    "bac-dan-may-o",
+    "khoi-dong-buoi-sang-lanh",
+    "kiem-tra-truoc-khi-di",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "thay-the-bugi"
+   ],
+   "claim": "Kiểm tra rơ moay-ơ: nắm bánh khi còn lắp trên xe và lắc sang hai bên, xoay bánh rồi thử lại để cảm nhận tiếng lục cục.",
+   "quote": "To test the bearing adjustment of a bike, grab the wheel while it is still in the frame and pull it side to side. Turn wheel and test again, feeling for a knocking sensation.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-129",
+   "tags": [
+    "bac-dan-may-o",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Moay-ơ khóa nhanh (quick-release) khi chưa kẹp vào khung nên có chút rơ ở trục; độ rơ này mất đi khi bánh được kẹp chặt.",
+   "quote": "When a quick-release hub is not clamped tight in the frame, there should be a slight amount of play in the axle. This play disappears when the hub and wheel are clamped in the frame.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-130",
+   "tags": [
+    "bac-dan-may-o",
+    "can-chinh-co-phot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Khi chỉnh côn moay-ơ, mỗi lần chỉ xoay rất nhỏ, khoảng 1/32 vòng.",
+   "quote": "In most cases, try to make small changes, in increments of 1⁄32 of a complete rotation.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-131",
+   "tags": [
+    "bac-dan-may-o",
+    "chi-phi-thuc-te",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Bi moay-ơ xỉn màu thì thay; nếu chén bi trong vỏ moay-ơ hỏng thường không thay được và phải thay moay-ơ mới.",
+   "quote": "Inspect ball bearings for shininess and brightness. If balls are dull looking, they should be replaced. If the cup is damaged, it typically cannot be replaced. A new hub would be required.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-132",
+   "tags": [
+    "bac-dan-may-o",
+    "rua-xe-khong-hai-may",
+    "freehub",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Không ngâm cụm freehub trong dung môi vì bên trong được bôi trơn bằng dầu nhẹ và dung môi sẽ rửa trôi lớp bôi trơn.",
+   "quote": "Do not soak freehub in solvent. Freehub bodies are lubricated internally with a light lubricant, and soaking them with solvent will remove lubrication.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/hub-overhaul-and-adjustment",
+   "source_title": "Hub Overhaul and Adjustment: Cup and Cone Style | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-133",
+   "tags": [
+    "bac-dan-may-o",
+    "freehub",
+    "thay-dau-nhot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Phần lớn nhà sản xuất khuyến nghị dùng dầu bôi trơn dạng lỏng (không phải mỡ) cho bên trong freehub.",
+   "quote": "Most manufacturers recommend liquid lubricant for the inside of the freehub.",
+   "source": "https://www.parktool.com/en-us/blog/repair-help/freehub-service",
+   "source_title": "Freehub Service | Park Tool",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-134",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Dây Gates Carbon Drive gia cường sợi carbon thay cho xích trên xe đạp, chạy không cần bôi trơn.",
+   "quote": "A carbon-fiber-reinforced belt that replaces the chain on a bicycle or eBike. It runs without lubrication and is maintenance-free for its full service life.",
+   "source": "https://www.gates.com/us/en/innovations-and-solutions/urban-mobility-and-powersports-solutions/belt-drive-systems-for-bicycles.html",
+   "source_title": "Gates – Belt Drive Systems For Bicycles (Gates Carbon Drive)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-135",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "hub-noi-so",
+    "thay-nhot-hop-so-lap",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Gates xác nhận dây đai dùng được với hub nội tốc và bỏ được việc bôi trơn, chỉnh định kỳ mà xích vẫn cần.",
+   "quote": "Yes. Belts pair with internal gear hubs and remove the lubrication and periodic adjustment a chain would still need.",
+   "source": "https://www.gates.com/us/en/innovations-and-solutions/urban-mobility-and-powersports-solutions/belt-drive-systems-for-bicycles.html",
+   "source_title": "Gates – Belt Drive Systems For Bicycles (Gates Carbon Drive)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-136",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Dây Gates CDX được thiết kế cho cường độ cao, quãng đường lớn: touring toàn cầu, trekking đường dài và đua địa hình.",
+   "quote": "CDX belts are engineered for high-mileage, extreme-use riding: global touring, long-distance trekking, and off-road racing.",
+   "source": "https://www.gates.com/us/en/innovations-and-solutions/urban-mobility-and-powersports-solutions/belt-drive-systems-for-bicycles.html",
+   "source_title": "Gates – Belt Drive Systems For Bicycles (Gates Carbon Drive)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-137",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "mua-mua",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Với dây đai, không có dầu bị nước rửa trôi khi trời ướt nên không phải tra dầu lại sau chuyến đi mưa.",
+   "quote": "There is no oil to wash off in wet conditions, so there is no chain to re-lube after a rainy ride.",
+   "source": "https://www.gates.com/us/en/innovations-and-solutions/urban-mobility-and-powersports-solutions/belt-drive-systems-for-bicycles.html",
+   "source_title": "Gates – Belt Drive Systems For Bicycles (Gates Carbon Drive)",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-138",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Không được bẻ gập, xoắn, uốn ngược, lộn trái, cuộn bó hoặc buộc dây rút vào dây Gates, cũng không dùng dây làm cờ lê kẹp hay roi xích.",
+   "quote": "Do not crimp, twist, backbend, invert, bundle or zip tie the belt. Do not use the belt as a strap wrench or chainwhip.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-139",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "rua-xe-khong-hai-may",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Vệ sinh dây Gates bằng cách rửa nước để loại bỏ cặn bẩn.",
+   "quote": "Wash with water to remove debris.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-140",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "thay-dau-nhot",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Sách hướng dẫn Gates ghi rõ: không bôi trơn dây.",
+   "quote": "Do not lubricate.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-141",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "do-cang-day",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "ky-nang-tiet-kiem-nhien-lieu"
+   ],
+   "claim": "Dây Gates thiếu căng gây nhảy răng (skipping); căng quá có thể làm hỏng bạc đạn moay-ơ sau, gây nặng và tăng mòn hệ truyền động.",
+   "quote": "Lack of belt tension can lead to tooth jump or “skipping”, when the teeth of the belt slide over the teeth of the rear sprocket. Too much tension can damage the bearings within the rear hub, can cause the system to drag, and can increase the wear of your drive system.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-142",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "do-cang-day",
+    "hub-noi-so",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Mức căng khuyến nghị của Gates cho xe hub nội tốc là 35–50 Hz (28–40 lbs).",
+   "quote": "Internally Geared Hub 35-50 Hz (28-40 lbs)",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-143",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "do-cang-day",
+    "xe-dap-dia-hinh-mtb",
+    "xe-dap-the-thao-duong-pho"
+   ],
+   "claim": "Với xe địa hình và xe đô thị một tốc độ, Gates khuyến nghị 45–60 Hz (35–45 lbs) cho kiểu đạp đều và 60–75 Hz (45–53 lbs) cho kiểu đạp giật mạnh.",
+   "quote": "Mountain* and SS Urban SMOOTH + STEADY PEDALING STYLE PUNCHY + ROUGH PEDALING STYLE 45-60 Hz (35-45 lbs) 60-75 Hz (45-53 lbs)",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-144",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "xe-dap-dia-hinh-mtb",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Hệ dây Gates CDN không được phê duyệt cho xe đạp địa hình, xe trợ lực động cơ giữa, xe fixed gear hoặc xe trekking/touring chạy quãng dài.",
+   "quote": "* The CDN System is not approved for use on mountain bikes, mid-drive eBikes or gear boxes, fixed gear bikes, or high mileage trekking/touring bikes.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-145",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "mon-day",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Dây và nhông Gates rất bền nhưng vẫn mòn theo thời gian, nên phải định kỳ kiểm tra kỹ dấu hiệu xuống cấp.",
+   "quote": "Gates Carbon Drive™ Belts and Sprockets are extremely durable and built to offer a long life, but they do wear and tear over time. Periodically, carefully inspect your belt and sprockets for signs of deterioration:",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-146",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "mon-day",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Dây Gates phai màu xanh không phải là dấu hiệu mòn.",
+   "quote": "Loss of blue color does NOT indicate wear.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-147",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "mon-day",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Sách hướng dẫn Gates minh họa các dấu hiệu phải thay dây: răng không đối xứng, mất răng, lớp vải mòn lộ thân polymer, lộ sợi carbon, răng nhọn kiểu \"răng cá mập\" và vết nứt.",
+   "quote": "Not Symmetrical Missing Tooth Fabric worn with exposed polymer body Carbon Cords are exposed Shark Tooth Cracks Replace your belt when it shows these signs of wear and tear.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-148",
+   "tags": [
+    "thay-day-curoa",
+    "day-curoa-gates",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao"
+   ],
+   "claim": "Nhông dây Gates lệch thẳng hàng có thể gây ồn, mòn hoặc tuột dây.",
+   "quote": "Sprockets that are out of alignment can cause noise, wear, or belt walk-off.",
+   "source": "https://www.gazellebikes.com/media/gene-cms/e/n/english-owners-manual-gates-carbon-drive_3.pdf",
+   "source_title": "Gates Carbon Drive – Owner's Manual (EN), bản PDF do hãng xe Gazelle lưu trữ",
+   "type": "manufacturer",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-149",
+   "tags": [
+    "thay-the-bugi",
+    "ve-sinh-kim-phun-fi",
+    "thay-loc-gio-dong-co",
+    "thay-dau-nhot",
+    "kiem-tra-nuoc-lam-mat",
+    "khoi-dong-buoi-sang-lanh",
+    "ky-nang-tiet-kiem-nhien-lieu",
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "dinh-nghia",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Luật Trật tự, an toàn giao thông đường bộ (VBHN 55/VBHN-VPQH, Điều 34 khoản 2 điểm a) xếp xe đạp vào nhóm xe thô sơ, là xe có ít nhất hai bánh vận hành bằng sức người qua bàn đạp hoặc tay quay, tức không dùng động cơ.",
+   "quote": "2. Xe thô sơ bao gồm: a) Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "BA-150",
+   "tags": [
+    "kiem-tra-ac-quy",
+    "cham-soc-pin-xe-dien",
+    "dinh-nghia",
+    "xe-dap-dien",
+    "xe-dap-the-thao-duong-pho",
+    "xe-dap-touring-the-thao",
+    "xe-dap-dia-hinh-mtb"
+   ],
+   "claim": "Cùng Điều 34 khoản 2 điểm b, xe đạp điện thuộc nhóm \"xe đạp máy\" riêng, là xe đạp có trợ lực động cơ, ngắt khi ngừng đạp hoặc đạt 25 km/h – khác với xe đạp thuần không có pin.",
+   "quote": "b) Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất 55/VBHN-VPQH – Luật Trật tự, an toàn giao thông đường bộ (Luật 36/2024/QH15, sửa đổi bởi Luật 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  }
+ ],
+ "not_applicable": [
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "thay-the-bugi",
+   "explanation": "Xe đạp thuần không có động cơ đốt trong nên không có bugi, hệ đánh lửa hay đề khởi động; luật xếp xe đạp vào xe thô sơ vận hành bằng sức người. Phần tương đương thật là kiểm tra trước khi đi: xích (hư hỏng, độ căng), phanh (độ mòn guốc/má, bóp thử phanh dầu sau khi lật xe), độ rơ cổ lái, trục giữa và moay-ơ.",
+   "fact_ids": [
+    "BA-149",
+    "BA-030",
+    "BA-059",
+    "BA-102",
+    "BA-070",
+    "BA-108",
+    "BA-121",
+    "BA-128"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "ve-sinh-kim-phun-fi",
+   "explanation": "Xe đạp không có động cơ, không có hệ phun xăng điện tử (FI) hay kim phun. Việc \"làm sạch\" tương đương là vệ sinh bộ truyền động: tẩy dầu và rửa xích, rửa líp/đĩa bằng chất tẩy trung tính, vệ sinh và bôi trơn cụm chuyển số khi sang số không mượt; không dùng dung môi kiềm/axit cho xích.",
+   "fact_ids": [
+    "BA-149",
+    "BA-011",
+    "BA-012",
+    "BA-028",
+    "BA-029",
+    "BA-031",
+    "BA-027"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "thay-loc-gio-dong-co",
+   "explanation": "Không có động cơ nên xe đạp không có lọc gió. Bộ phận tương đương cần bảo vệ khỏi bụi và nước là các ổ bi (trục giữa, moay-ơ, cổ lái) và hub nội tốc: rửa áp lực thấp, không xịt áp lực cao vào trục giữa/hub nội tốc, không thổi khí thẳng vào ổ bi, thay mỡ khi nhiễm cát bụi.",
+   "fact_ids": [
+    "BA-149",
+    "BA-023",
+    "BA-122",
+    "BA-057",
+    "BA-024",
+    "BA-021"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "thay-dau-nhot",
+   "explanation": "Xe đạp không có động cơ nên không có nhớt máy và không có lịch thay nhớt theo km. Tương đương thật là dầu xích (vệ sinh rồi tra lại, một giọt mỗi chốt, chọn dầu ướt/khô theo thời tiết, không dùng WD-40 thay dầu xích) và việc thay xích khi mòn – Park Tool ví như thay dầu xe ô tô; ngoài ra là mỡ ổ bi và dầu khoáng/DOT của phanh đĩa dầu.",
+   "fact_ids": [
+    "BA-149",
+    "BA-015",
+    "BA-014",
+    "BA-016",
+    "BA-017",
+    "BA-044",
+    "BA-066"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "thay-nhot-hop-so-lap",
+   "explanation": "Xe đạp chuyển số bằng cùi đề (derailleur) không có hộp số kín chứa dầu, nên không có \"nhớt hộp số\"; phần tương đương là bôi trơn xích và rửa líp. Chỉ xe dùng hub nội tốc mới có dầu bên trong: Shimano ALFINE 11 (SG-S7001-11) thay dầu SG-S700 sau 1.000 km đầu rồi mỗi năm/2.000 km, bản Di2 SG-S7051-11 mỗi 2 năm/5.000 km; ALFINE/NEXUS 8 tốc độ bôi trơn bằng bộ dầu bảo dưỡng; hub 3 tốc độ kiểu cũ tra vài giọt dầu theo Park Tool. Phuộc nhún của MTB thuộc chủ đề bảo dưỡng phuộc, không phải hộp số.",
+   "fact_ids": [
+    "BA-050",
+    "BA-051",
+    "BA-052",
+    "BA-055",
+    "BA-049",
+    "BA-029",
+    "BA-044"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "kiem-tra-nuoc-lam-mat",
+   "explanation": "Xe đạp không có động cơ nên không có két nước hay nước làm mát. Vấn đề nhiệt có thật trên xe đạp nằm ở phanh: củ phanh và đĩa nóng khi phanh, phanh dầu bóp liên tục khi xuống dốc dài có thể bị vapor lock (dầu nóng làm bọt khí/nước giãn nở), phanh đùm nóng làm giảm hiệu quả – xử lý bằng cách nhả phanh từng lúc, dùng dầu phanh mới đúng loại.",
+   "fact_ids": [
+    "BA-149",
+    "BA-068",
+    "BA-069",
+    "BA-076",
+    "BA-060",
+    "BA-067"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "kiem-tra-ac-quy",
+   "explanation": "Xe đạp thuần vận hành bằng sức người nên không có bình ắc quy 12V; luật tách xe đạp điện thành nhóm \"xe đạp máy\" riêng. Bài nên trả lời thẳng \"không có\" và chuyển sang kiểm tra cơ khí trước khi đi (xích, phanh, độ rơ ổ bi).",
+   "fact_ids": [
+    "BA-149",
+    "BA-150",
+    "BA-030",
+    "BA-102",
+    "BA-128"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "cham-soc-pin-xe-dien",
+   "explanation": "Ba loại xe trong cụm này là xe đạp thuần, không có pin hay động cơ trợ lực; xe đạp điện là loại xe khác theo luật (xe đạp máy có trợ lực, ngắt ở 25 km/h). Không viết hướng dẫn sạc pin cho các xe này; chuyển sang bảo dưỡng bộ truyền động và phanh.",
+   "fact_ids": [
+    "BA-149",
+    "BA-150"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "thay-day-curoa",
+   "explanation": "Xe đạp không có dây curoa kiểu hộp số vô cấp của xe tay ga. Với xe truyền động bằng xích, phần tương đương là đo mòn và thay xích (0,5%/0,75%/1,0% tùy số tốc độ; SRAM Eagle 0,8%). Chỉ xe trang bị Gates Carbon Drive mới có dây đai (đi với hub nội tốc hoặc một tốc độ): không bôi trơn, rửa bằng nước, căng đúng tần số (hub nội tốc 35–50 Hz), thay khi có dấu hiệu mòn; dây CDN không dành cho MTB hay touring quãng dài.",
+   "fact_ids": [
+    "BA-006",
+    "BA-009",
+    "BA-044",
+    "BA-134",
+    "BA-135",
+    "BA-140",
+    "BA-139",
+    "BA-142",
+    "BA-144",
+    "BA-147"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "khoi-dong-buoi-sang-lanh",
+   "explanation": "Xe đạp không có động cơ nên không có khái niệm khởi động máy lạnh hay làm nóng máy. Buổi sáng lạnh/ẩm, việc tương đương là kiểm tra nhanh trước khi đi: bóp thử phanh (đặc biệt phanh dầu nếu xe từng bị lật/nằm nghiêng), guốc/má phanh, dây phanh không gỉ, xích không hư hỏng, cổ lái và moay-ơ không rơ.",
+   "fact_ids": [
+    "BA-149",
+    "BA-070",
+    "BA-103",
+    "BA-102",
+    "BA-030",
+    "BA-108"
+   ]
+  },
+  {
+   "vehicle": "xe đạp thể thao đường phố, xe đạp touring thể thao, xe đạp địa hình MTB (xe đạp thuần, không trợ lực điện)",
+   "component_or_topic": "ky-nang-tiet-kiem-nhien-lieu",
+   "explanation": "Xe đạp không dùng nhiên liệu. Nội dung tương đương là tiết kiệm sức đạp: giữ xích sạch và đủ dầu, chuyển số đúng cách (1–2 số mỗi lần, giảm lực đạp khi chuyển), chỉnh index chuẩn, loại bỏ má phanh cọ đĩa, chỉnh ổ bi moay-ơ đúng (lỏng nhất không rơ) và căng dây đai Gates vừa đủ (quá căng gây nặng).",
+   "fact_ids": [
+    "BA-149",
+    "BA-015",
+    "BA-058",
+    "BA-034",
+    "BA-089",
+    "BA-130",
+    "BA-141"
+   ]
+  }
+ ],
+ "gaps": [
+  "Không truy cập được trang/PDF chính thức của Shimano nêu giới hạn mòn xích theo % (ví dụ hướng dẫn TL-CN42); con số 0,5%/0,75%/1,0% trong thư viện là hướng dẫn chung của Park Tool, còn SRAM chỉ có mốc 0,8% cho xích Eagle.",
+  "Shimano chỉ nói chu kỳ vệ sinh/tra dầu xích tùy cách sử dụng và điều kiện đi xe; không tìm thấy mốc km hoặc số ngày cố định từ hãng cho việc tra dầu xích.",
+  "Không có số liệu của hãng về giới hạn mòn líp (cassette) và đĩa xích theo mm hay %; chỉ có triệu chứng (nhảy líp với xích mới, xích tuột liên tục) và khuyến nghị thay.",
+  "Không lấy được dealer manual moay-ơ Shimano (DM-LAHB001) và dealer manual cùi đề sau (DM-LARD002) vì công cụ trích xuất bị lỗi kết nối; phần moay-ơ dựa vào Park Tool và các tài liệu Shimano khác.",
+  "Không có chu kỳ bảo dưỡng theo km/thời gian từ hãng cho ổ bi moay-ơ, cổ lái (headset) và trục giữa; chỉ có cách kiểm tra rơ và nguyên tắc chỉnh.",
+  "Không có tuổi thọ dây Gates Carbon Drive theo km từ tài liệu Gates đã mở; sách hướng dẫn Gates mở được là bản PDF do hãng xe Gazelle lưu trữ (trang gates.com không cho tải trực tiếp link Owner's Manual).",
+  "Trang support.sram.com chỉ có mốc 0,8% cho xích Eagle 12 tốc độ; chưa xác minh mốc thay xích SRAM cho xích 10–11 tốc độ.",
+  "Shimano ghi giới hạn má phanh đĩa 0,5 mm kèm hình minh họa 2 mm/0,5 mm; tài liệu không giải thích bằng chữ 0,5 mm đo riêng lớp vật liệu hay cả đế, nên khi viết chỉ trích nguyên câu của hãng. SRAM dùng cách đo khác (tổng đế + vật liệu ≤ 3 mm).",
+  "Chu kỳ bảo dưỡng phuộc RockShox (ví dụ 50 giờ lower leg service) có trong bảng SRAM nhưng là bảng nhiều cột, không trích nguyên văn theo từng model được; chủ đề phuộc giảm xóc nên lấy từ thư viện khác hoặc service manual riêng của từng phuộc.",
+  "Không có giá phụ tùng (xích, líp, má phanh, dầu SG-S700, dây Gates) từ nguồn chính thức; bài góc \"chi phí thực tế\" chỉ nên liệt kê khoản cần dự trù, không ghi số.",
+  "Không có giới hạn mòn vành (rim wear indicator) cho phanh vành từ nguồn hãng đã mở.",
+  "Chưa xác minh chu kỳ bảo dưỡng của hub Shimano NEXUS 3 tốc độ (INTER-3) và 5 tốc độ (INTER-5); câu tra dầu \"2 lần/năm hoặc 2 tháng/lần\" là của Park Tool cho hub SRAM Dual Drive và Shimano 3 tốc độ kiểu cũ.",
+  "Các chủ đề áp suất lốp, chống trộm, chống gỉ khung, phuộc giảm xóc nằm ngoài phạm vi bicycle_a; thư viện này chỉ có vài dữ kiện liên quan gián tiếp (dầu DOT hại sơn, dây phanh gỉ, kiểm tra nứt khung)."
+ ]
+}

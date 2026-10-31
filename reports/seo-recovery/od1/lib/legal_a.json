@@ -1,0 +1,2179 @@
+{
+ "library": "legal_a",
+ "built": "2026-10-31",
+ "facts": [
+  {
+   "id": "LA-001",
+   "tags": [
+    "van-ban-hop-nhat",
+    "luat-36-2024",
+    "thi-bang-lai-a2",
+    "thi-bang-lai-a1",
+    "quyen-kiem-tra-cua-csgt",
+    "sang-ten-bien-so-dinh-danh",
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15 có hiệu lực từ 01/01/2025 và đã được Luật 118/2025/QH15 sửa đổi, bổ sung, có hiệu lực từ 01/7/2026; văn bản hợp nhất hiện hành là số 55/VBHN-VPQH.",
+   "quote": "Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 ngày 27 tháng 6 năm 2024 của Quốc hội, có hiệu lực kể từ ngày 01 tháng 01 năm 2025, được sửa đổi, bổ sung bởi: Luật số 118/2025/QH15 ngày 10 tháng 12 năm 2025 của Quốc hội sửa đổi, bổ sung một số điều của 10 luật có liên quan đến an ninh, trật tự, có hiệu lực kể từ ngày 01 tháng 7 năm 2026.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-002",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "xe-may",
+    "xe-may-dien",
+    "xe-tay-ga",
+    "xe-so"
+   ],
+   "claim": "Hạng A1 (từ 01/01/2025) cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm³ hoặc công suất động cơ điện đến 11 kW.",
+   "quote": "a) Hạng A1 cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-003",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "xe-con-tay",
+    "xe-may",
+    "xe-may-dien"
+   ],
+   "claim": "Hạng A cấp cho người lái xe mô tô hai bánh trên 125 cm³ hoặc động cơ điện trên 11 kW, và được lái cả các xe của hạng A1; đây là hạng thay thế cho A2 cũ.",
+   "quote": "b) Hạng A cấp cho người lái xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 hoặc có công suất động cơ điện trên 11 kW và các loại xe quy định cho giấy phép lái xe hạng A1;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-004",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx"
+   ],
+   "claim": "Hạng B1 mới cấp cho người lái xe mô tô ba bánh và các xe của hạng A1.",
+   "quote": "c) Hạng B1 cấp cho người lái xe mô tô ba bánh và các loại xe quy định cho giấy phép lái xe hạng A1;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-005",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "xe-may"
+   ],
+   "claim": "Giấy phép lái xe các hạng A1, A, B1 không có thời hạn.",
+   "quote": "a) Giấy phép lái xe các hạng A1, A, B1 không thời hạn;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-006",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Tại Việt Nam, ngoài giấy phép do Việt Nam cấp, chỉ giấy phép lái xe quốc tế và giấy phép quốc gia do nước thành viên Công ước Viên 1968 cấp (phù hợp loại xe) mới có giá trị sử dụng.",
+   "quote": "6. Giấy phép lái xe có giá trị sử dụng trong phạm vi lãnh thổ Việt Nam bao gồm: a) Giấy phép lái xe do cơ quan có thẩm quyền của Việt Nam cấp; b) Giấy phép lái xe quốc tế và giấy phép lái xe quốc gia phù hợp với loại xe được phép điều khiển do quốc gia là thành viên của Công ước của Liên hợp quốc về Giao thông đường bộ năm 1968 (sau đây gọi là Công ước Viên) cấp;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-007",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "diem-gplx"
+   ],
+   "claim": "Giấy phép lái xe không còn hiệu lực khi hết thời hạn sử dụng hoặc bị thu hồi theo khoản 5 Điều 62.",
+   "quote": "7. Giấy phép lái xe không có hiệu lực trong các trường hợp sau đây: a) Giấy phép lái xe hết thời hạn sử dụng; b) Giấy phép lái xe bị thu hồi theo quy định tại khoản 5 Điều 62 của Luật này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-008",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Giấy phép lái xe quốc tế (IDP) do nước thành viên Công ước Viên cấp theo mẫu thống nhất, thời hạn không quá 03 năm và phải phù hợp với thời hạn còn hiệu lực của bằng quốc gia.",
+   "quote": "a) Giấy phép lái xe quốc tế là giấy phép lái xe do cơ quan nhà nước có thẩm quyền của quốc gia là thành viên của Công ước Viên cấp theo một mẫu thống nhất; có thời hạn không quá 03 năm kể từ ngày cấp và phải phù hợp với thời hạn còn hiệu lực của giấy phép lái xe quốc gia;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-009",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Người dùng IDP khi lái xe ở Việt Nam phải mang theo cả IDP và giấy phép lái xe quốc gia phù hợp hạng xe, còn hạn, và phải tuân thủ luật giao thông Việt Nam.",
+   "quote": "b) Người có giấy phép lái xe quốc tế do quốc gia là thành viên của Công ước Viên cấp khi lái xe tham gia giao thông đường bộ trên lãnh thổ Việt Nam phải mang theo giấy phép lái xe quốc tế và giấy phép lái xe quốc gia được cấp phù hợp với hạng xe điều khiển, còn thời hạn sử dụng; phải tuân thủ pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-010",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai",
+    "muc-phat"
+   ],
+   "claim": "Người có IDP bị tước quyền sử dụng giấy phép lái xe tại Việt Nam thì thời gian bị tước không quá thời gian được phép cư trú tại Việt Nam.",
+   "quote": "c) Người có giấy phép lái xe quốc tế vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Việt Nam mà bị tước quyền sử dụng giấy phép lái xe có thời hạn thì thời gian bị tước quyền sử dụng không quá thời gian người lái xe được phép cư trú tại lãnh thổ Việt Nam;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-011",
+   "tags": [
+    "diem-gplx",
+    "nop-phat-truc-tuyen-vneid",
+    "tra-cuu-phat-nguoi-camera"
+   ],
+   "claim": "Mỗi giấy phép lái xe có 12 điểm; điểm trừ được cập nhật vào cơ sở dữ liệu ngay khi quyết định xử phạt có hiệu lực và thông báo cho người bị trừ điểm.",
+   "quote": "1. Điểm của giấy phép lái xe được dùng để quản lý việc chấp hành pháp luật về trật tự, an toàn giao thông đường bộ của người lái xe trên hệ thống cơ sở dữ liệu về trật tự, an toàn giao thông đường bộ, bao gồm 12 điểm. Số điểm trừ mỗi lần vi phạm tùy thuộc tính chất, mức độ của hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ. Dữ liệu về điểm trừ giấy phép lái xe của người vi phạm sẽ được cập nhật vào hệ thống cơ sở dữ liệu ngay sau khi quyết định xử phạt có hiệu lực thi hành và thông báo cho người bị trừ điểm giấy phép lái xe biết.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-012",
+   "tags": [
+    "diem-gplx"
+   ],
+   "claim": "Giấy phép chưa bị trừ hết điểm và không bị trừ thêm trong 12 tháng kể từ lần trừ gần nhất thì được phục hồi đủ 12 điểm.",
+   "quote": "2. Giấy phép lái xe chưa bị trừ hết điểm và không bị trừ điểm trong thời hạn 12 tháng từ ngày bị trừ điểm gần nhất thì được phục hồi đủ 12 điểm.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-013",
+   "tags": [
+    "diem-gplx"
+   ],
+   "claim": "Bị trừ hết 12 điểm thì không được lái xe theo giấy phép đó; sau ít nhất 06 tháng mới được dự kiểm tra kiến thức pháp luật do CSGT tổ chức để phục hồi điểm.",
+   "quote": "3. Trường hợp giấy phép lái xe bị trừ hết điểm thì người có giấy phép lái xe không được điều khiển phương tiện tham gia giao thông đường bộ theo giấy phép lái xe đó. Sau thời hạn ít nhất là 06 tháng kể từ ngày bị trừ hết điểm, người có giấy phép lái xe được tham gia kiểm tra nội dung kiến thức pháp luật về trật tự, an toàn giao thông đường bộ theo quy định tại khoản 7 Điều 61 của Luật này do lực lượng Cảnh sát giao thông tổ chức, có kết quả đạt yêu cầu thì được phục hồi đủ 12 điểm.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-014",
+   "tags": [
+    "diem-gplx",
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Khi đổi, cấp lại, nâng hạng giấy phép lái xe, số điểm hiện có được giữ nguyên.",
+   "quote": "4. Giấy phép lái xe sau khi đổi, cấp lại, nâng hạng được giữ nguyên số điểm của giấy phép lái xe trước khi đổi, cấp lại, nâng hạng.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-015",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-50cc",
+    "xe-may-dien",
+    "phu-huynh"
+   ],
+   "claim": "Người đủ 16 tuổi trở lên được điều khiển xe gắn máy (xe 50cc, xe máy điện không quá 04 kW và không quá 50 km/h).",
+   "quote": "a) Người đủ 16 tuổi trở lên được điều khiển xe gắn máy;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-016",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "phu-huynh",
+    "sinh-vien"
+   ],
+   "claim": "Phải đủ 18 tuổi mới được cấp giấy phép lái xe hạng A1, A, B1 (và B, C1).",
+   "quote": "b) Người đủ 18 tuổi trở lên được cấp giấy phép lái xe hạng A1, A, B1, B, C1, được cấp chứng chỉ bồi dưỡng kiến thức pháp luật về giao thông đường bộ để điều khiển xe máy chuyên dùng tham gia giao thông đường bộ;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-017",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "ho-so-sat-hach"
+   ],
+   "claim": "Người lái xe phải bảo đảm điều kiện sức khỏe phù hợp loại xe; tiêu chuẩn và việc khám sức khỏe do Bộ trưởng Bộ Y tế quy định.",
+   "quote": "2. Người điều khiển phương tiện tham gia giao thông đường bộ phải bảo đảm điều kiện sức khỏe phù hợp với từng loại phương tiện được phép điều khiển. Bộ trưởng Bộ Y tế quy định về tiêu chuẩn sức khỏe, việc khám sức khỏe đối với người lái xe, người điều khiển xe máy chuyên dùng;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-018",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "mang-giay-to",
+    "quyen-kiem-tra-cua-csgt",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Người lái xe cơ giới phải đủ tuổi, sức khỏe và có giấy phép lái xe còn điểm, còn hiệu lực, phù hợp loại xe; riêng người lái xe gắn máy được loại trừ theo khoản 4.",
+   "quote": "1. Người lái xe tham gia giao thông đường bộ phải đủ tuổi, sức khỏe theo quy định của pháp luật; có giấy phép lái xe đang còn điểm, còn hiệu lực phù hợp với loại xe đang điều khiển do cơ quan có thẩm quyền cấp, trừ người lái xe gắn máy quy định tại khoản 4 Điều này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-019",
+   "tags": [
+    "mang-giay-to",
+    "quyen-kiem-tra-cua-csgt",
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Giấy tờ xe và giấy phép lái xe đã tích hợp vào tài khoản định danh điện tử (VNeID) có thể được xuất trình, kiểm tra qua tài khoản đó.",
+   "quote": "3. Trường hợp giấy tờ quy định tại khoản 1 và khoản 2 Điều này đã được tích hợp vào tài khoản định danh điện tử thì việc xuất trình, kiểm tra có thể thực hiện thông qua tài khoản định danh điện tử.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-020",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-50cc",
+    "xe-may-dien",
+    "phu-huynh"
+   ],
+   "claim": "Người lái xe gắn máy không cần giấy phép lái xe nhưng phải hiểu biết quy tắc giao thông, có kỹ năng điều khiển và đủ tuổi, sức khỏe.",
+   "quote": "4. Người lái xe gắn máy tham gia giao thông đường bộ phải hiểu biết quy tắc giao thông đường bộ, có kỹ năng điều khiển phương tiện; đủ điều kiện về độ tuổi, sức khỏe theo quy định tại điểm a khoản 1 và khoản 2 Điều 59 của Luật này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-021",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-may",
+    "xe-may-dien",
+    "hang-gplx"
+   ],
+   "claim": "Xe mô tô là xe hai hoặc ba bánh chạy bằng động cơ, trừ xe gắn máy; xe ba bánh thì khối lượng bản thân không quá 400 kg.",
+   "quote": "e) Xe mô tô gồm: xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, trừ xe gắn máy; đối với xe ba bánh thì khối lượng bản thân không lớn hơn 400 kg;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-022",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-50cc",
+    "xe-may-dien",
+    "vinfast"
+   ],
+   "claim": "Xe gắn máy là xe có vận tốc thiết kế không quá 50 km/h; nếu dùng động cơ nhiệt thì không quá 50 cm³, nếu dùng động cơ điện thì công suất không quá 04 kW.",
+   "quote": "g) Xe gắn máy là xe có hai hoặc ba bánh chạy bằng động cơ, được thiết kế, sản xuất để hoạt động trên đường bộ, có vận tốc thiết kế không lớn hơn 50 km/h; nếu động cơ dẫn động là động cơ nhiệt thì dung tích làm việc hoặc dung tích tương đương không lớn hơn 50 cm3; nếu động cơ dẫn động là động cơ điện thì công suất của động cơ không lớn hơn 04 kW; xe gắn máy không bao gồm xe đạp máy;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-023",
+   "tags": [
+    "xe-dap",
+    "xe-dap-dien",
+    "quy-dinh-xe-may-dien-50cc"
+   ],
+   "claim": "Xe đạp và xe đạp máy (gồm cả xe đạp điện, trợ lực ngắt khi dừng đạp hoặc đạt 25 km/h) là xe thô sơ, không phải xe cơ giới.",
+   "quote": "2. Xe thô sơ bao gồm: a) Xe đạp là xe có ít nhất hai bánh và vận hành do sức người thông qua bàn đạp hoặc tay quay; b) Xe đạp máy, gồm cả xe đạp điện, là xe đạp có trợ lực từ động cơ, nguồn động lực từ động cơ bị ngắt khi người lái xe dừng đạp hoặc khi xe đạt tới tốc độ 25 km/h;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-024",
+   "tags": [
+    "xe-dap",
+    "hang-gplx"
+   ],
+   "claim": "Trong Luật, \"người lái xe\" chỉ người điều khiển xe cơ giới; người điều khiển xe thô sơ là nhóm riêng.",
+   "quote": "9. Người điều khiển phương tiện tham gia giao thông đường bộ bao gồm: người điều khiển xe cơ giới (sau đây gọi là người lái xe), người điều khiển xe thô sơ, người điều khiển xe máy chuyên dùng.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-025",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "sat-hach"
+   ],
+   "claim": "Chỉ người đã hoàn thành chương trình đào tạo và đủ tuổi, sức khỏe mới được đăng ký dự sát hạch.",
+   "quote": "1. Người đã hoàn thành chương trình đào tạo lái xe, có độ tuổi, sức khỏe theo quy định tại Điều 59 của Luật này được đăng ký để tham dự kỳ sát hạch lái xe.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-026",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "sat-hach"
+   ],
+   "claim": "Sát hạch lái xe mô tô được tổ chức tại trung tâm sát hạch hoặc sân tập lái đủ điều kiện; hoạt động sát hạch do cơ quan nhà nước có thẩm quyền thực hiện.",
+   "quote": "hoạt động sát hạch lái xe mô tô thực hiện tại các trung tâm sát hạch lái xe hoặc tại sân tập lái đáp ứng điều kiện, tiêu chuẩn về cơ sở vật chất, kỹ thuật. Hoạt động sát hạch lái xe do cơ quan nhà nước có thẩm quyền thực hiện.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-027",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "doi-bang-lai-nuoc-ngoai",
+    "chuyen-tiep-gplx"
+   ],
+   "claim": "Giấy phép lái xe chỉ được cấp cho người đạt kỳ sát hạch; được đổi, cấp lại khi mất, hỏng, thay đổi thông tin hoặc khi đổi từ giấy phép nước ngoài còn giá trị.",
+   "quote": "1. Giấy phép lái xe được cấp cho người tham dự kỳ sát hạch lái xe có kết quả đạt yêu cầu. 2. Người có giấy phép lái xe được đổi, cấp lại giấy phép lái xe trong các trường hợp sau đây: a) Giấy phép lái xe bị mất; b) Giấy phép lái xe bị hỏng không còn sử dụng được; c) Trước thời hạn ghi trên giấy phép lái xe; d) Thay đổi thông tin ghi trên giấy phép lái xe; đ) Giấy phép lái xe nước ngoài do cơ quan có thẩm quyền của nước ngoài cấp còn giá trị sử dụng;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-028",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2",
+    "thi-bang-lai-a1"
+   ],
+   "claim": "Nhà nước khuyến khích (không bắt buộc) đổi giấy phép lái xe không thời hạn cấp trước 01/7/2012 sang mẫu theo Luật mới.",
+   "quote": "3. Khuyến khích đổi giấy phép lái xe không thời hạn được cấp trước ngày 01 tháng 7 năm 2012 sang giấy phép lái xe theo quy định của Luật này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-029",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "nop-phat-truc-tuyen-vneid",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Người chưa giải quyết xong vụ việc vi phạm giao thông sẽ chưa được cấp, đổi, cấp lại giấy phép lái xe.",
+   "quote": "4. Chưa cấp, đổi, cấp lại giấy phép lái xe đối với người vi phạm pháp luật về trật tự, an toàn giao thông đường bộ khi người đó chưa thực hiện xong yêu cầu của cơ quan nhà nước có thẩm quyền về giải quyết vụ việc vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-030",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2",
+    "thi-bang-lai-a1"
+   ],
+   "claim": "Giấy phép lái xe cấp trước 01/01/2025 được tiếp tục sử dụng theo thời hạn ghi trên giấy phép.",
+   "quote": "1. Giấy phép lái xe được cấp trước ngày Luật này có hiệu lực thi hành được tiếp tục sử dụng theo thời hạn ghi trên giấy phép lái xe.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-031",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a1",
+    "xe-may",
+    "xe-con-tay"
+   ],
+   "claim": "Bằng A1 cấp trước 01/01/2025 (chưa đổi) tiếp tục được lái xe mô tô hai bánh từ 50 cm³ đến dưới 175 cm³ hoặc động cơ điện từ 04 kW đến dưới 14 kW.",
+   "quote": "a) Giấy phép lái xe hạng A1 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 50 cm3 đến dưới 175 cm3 hoặc có công suất động cơ điện từ 04 kW đến dưới 14 kW;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-032",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2",
+    "xe-con-tay",
+    "xe-may"
+   ],
+   "claim": "Bằng A2 cấp trước 01/01/2025 (chưa đổi) tiếp tục được lái xe mô tô hai bánh từ 175 cm³ trở lên hoặc động cơ điện từ 14 kW trở lên và các xe của hạng A1 cũ.",
+   "quote": "b) Giấy phép lái xe hạng A2 được tiếp tục điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 175 cm3 trở lên hoặc có công suất động cơ điện từ 14 kW trở lên và các loại xe quy định cho giấy phép lái xe hạng A1 quy định tại điểm a khoản này;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-033",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Khi đổi hoặc cấp lại, bằng A1 cũ được chuyển sang hạng A có điều kiện hạn chế: chỉ lái xe mô tô hai bánh dưới 175 cm³ hoặc dưới 14 kW.",
+   "quote": "a) Giấy phép lái xe hạng A1 được đổi, cấp lại sang giấy phép lái xe hạng A với điều kiện hạn chế là chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm3 hoặc có công suất động cơ điện đến dưới 14 kW;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-034",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Khi đổi hoặc cấp lại, bằng A2 cũ được chuyển sang hạng A; điểm b khoản 3 Điều 89 không ghi điều kiện hạn chế (khác với A1 cũ tại điểm a).",
+   "quote": "b) Giấy phép lái xe hạng A2 được đổi, cấp lại sang giấy phép lái xe hạng A;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-035",
+   "tags": [
+    "luat-36-2024",
+    "van-ban-hop-nhat",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Luật 36/2024 có hiệu lực từ 01/01/2025; Luật Giao thông đường bộ 23/2008 hết hiệu lực từ ngày đó (trừ các trường hợp chuyển tiếp tại Điều 89).",
+   "quote": "3. Luật Giao thông đường bộ số 23/2008/QH12 đã được sửa đổi, bổ sung một số điều theo Luật số 35/2018/QH14 và Luật số 44/2019/QH14 hết hiệu lực kể từ ngày Luật này có hiệu lực thi hành, trừ trường hợp quy định tại các khoản 1, 2, 5 và 6 Điều 89 của Luật này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-036",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-may-dien",
+    "xe-50cc"
+   ],
+   "claim": "Xe cơ giới (kể cả xe gắn máy, xe máy điện) tham gia giao thông phải được cấp chứng nhận đăng ký xe và gắn biển số theo quy định.",
+   "quote": "1. Xe cơ giới, xe máy chuyên dùng tham gia giao thông đường bộ phải đáp ứng các điều kiện sau đây: a) Được cấp chứng nhận đăng ký xe và gắn biển số xe theo quy định của pháp luật;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-037",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Biển số xe (trừ biển quân sự) được quản lý theo mã định danh của chủ xe là cá nhân, tổ chức.",
+   "quote": "3. Biển số xe được quản lý theo mã định danh, trừ biển số xe quy định tại điểm b khoản 2 Điều này. Việc quản lý biển số xe theo mã định danh được quy định như sau: a) Biển số xe được cấp và quản lý theo mã định danh của chủ xe là cá nhân, tổ chức;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-038",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Khi bán, cho tặng xe hoặc xe hết niên hạn, hư hỏng, chủ xe được giữ lại số biển định danh trong 05 năm để đăng ký cho xe khác của mình; quá hạn thì biển bị thu hồi về kho số.",
+   "quote": "b) Trường hợp xe hết niên hạn sử dụng, hư hỏng không sử dụng được hoặc chuyển quyền sở hữu xe, chủ xe được giữ lại số biển số xe trong thời hạn 05 năm để đăng ký cho xe khác thuộc sở hữu của mình; quá thời hạn nêu trên, số biển số xe đó bị cơ quan đăng ký xe thu hồi, nhập vào kho biển số xe để đăng ký, cấp cho tổ chức, cá nhân khác, trừ trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-039",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Chủ xe thay đổi trụ sở, nơi thường trú, tạm trú vẫn được giữ lại số biển định danh.",
+   "quote": "c) Trường hợp chủ xe có thay đổi thông tin về trụ sở, nơi thường trú, tạm trú thì được giữ lại số biển số xe định danh.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-040",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Cấp đăng ký khi thay đổi chủ xe phải có chứng nhận thu hồi đăng ký, biển số (của chủ cũ), chứng nhận quyền sở hữu hợp pháp và chứng từ hoàn thành nghĩa vụ tài chính.",
+   "quote": "2. Việc cấp chứng nhận đăng ký xe cơ giới, xe máy chuyên dùng trong trường hợp thay đổi chủ xe phải bảo đảm các điều kiện sau đây: a) Chứng nhận thu hồi đăng ký xe, biển số xe; chứng nhận thu hồi đăng ký xe đối với trường hợp chuyển nhượng, trao đổi, tặng cho, để thừa kế xe gắn với biển số xe trúng đấu giá; b) Các điều kiện quy định tại điểm b và điểm c khoản 1 Điều này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-041",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Chủ xe thay đổi địa chỉ có thể đổi chứng nhận đăng ký xe nếu có nhu cầu (không bắt buộc).",
+   "quote": "c) Khi chủ xe thay đổi địa chỉ và có nhu cầu đổi chứng nhận đăng ký xe;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-042",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "giao-hang"
+   ],
+   "claim": "CSGT được dừng phương tiện theo căn cứ tại Điều 66 để kiểm tra việc chấp hành quy tắc giao thông, điều kiện của phương tiện và của người điều khiển.",
+   "quote": "a) Dừng phương tiện tham gia giao thông đường bộ theo quy định tại Điều 66 của Luật này để kiểm tra việc chấp hành các quy định về quy tắc giao thông đường bộ; điều kiện của phương tiện tham gia giao thông đường bộ; điều kiện của người điều khiển phương tiện tham gia giao thông đường bộ;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-043",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "giao-hang",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "CSGT chỉ được dừng xe khi có một trong bốn căn cứ: phát hiện vi phạm; theo kế hoạch tuần tra được duyệt; phục vụ an ninh, phòng chống tội phạm, thiên tai, cháy nổ, dịch bệnh; hoặc có tin báo, tố giác.",
+   "quote": "Cảnh sát giao thông được dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát khi có một trong các căn cứ sau đây: 1. Khi phát hiện hành vi vi phạm pháp luật hoặc có căn cứ xác định có hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ hoặc vi phạm pháp luật khác; 2. Thực hiện theo mệnh lệnh, kế hoạch tuần tra, kiểm soát của cấp có thẩm quyền để phát hiện hành vi vi phạm pháp luật về trật tự, an toàn giao thông đường bộ mà buộc phải dừng phương tiện để kiểm tra, kiểm soát mới phát hiện được; 3. Phục vụ bảo vệ an ninh quốc gia, bảo đảm trật tự, an toàn xã hội và đấu tranh phòng, chống tội phạm; phòng, chống thiên tai; phòng cháy, chữa cháy và cứu nạn, cứu hộ; phòng, chống dịch bệnh; 4. Có tin báo, tố giác, phản ánh, kiến nghị, đề nghị của cơ quan, tổ chức, cá nhân về tội phạm, hành vi vi phạm pháp luật khác.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-044",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "quyen-kiem-tra-cua-csgt"
+   ],
+   "claim": "Biện pháp phát hiện vi phạm (cơ sở của phạt nguội) gồm vận hành hệ thống giám sát và hệ thống camera trên tuyến giao thông, trong đô thị.",
+   "quote": "1. Vận hành, sử dụng hệ thống giám sát bảo đảm an ninh, trật tự, an toàn giao thông đường bộ; hệ thống camera trên tuyến giao thông, trong đô thị; công trình, hệ thống thiết bị kỹ thuật nghiệp vụ kiểm tra, kiểm soát tải trọng xe cơ giới.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-045",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "giao-hang",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Người điều khiển phương tiện có quyền được thông báo căn cứ dừng xe, nội dung và kết quả kiểm tra, hành vi vi phạm và biện pháp xử lý.",
+   "quote": "b) Được thông báo về căn cứ dừng phương tiện tham gia giao thông đường bộ để kiểm tra, kiểm soát; nội dung và kết quả kiểm tra, kiểm soát; hành vi vi phạm pháp luật và biện pháp xử lý;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-046",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Người điều khiển phương tiện có quyền giải trình, khiếu nại, khởi kiện quyết định hành chính và tố cáo vi phạm trong hoạt động tuần tra, kiểm soát.",
+   "quote": "c) Giải trình, khiếu nại, khởi kiện quyết định hành chính, hành vi hành chính liên quan đến quyền và lợi ích hợp pháp của mình theo quy định của pháp luật; d) Tố cáo hành vi vi phạm pháp luật trong hoạt động tuần tra, kiểm soát về trật tự, an toàn giao thông đường bộ theo quy định của pháp luật về tố cáo;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-047",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "giao-hang"
+   ],
+   "claim": "Người điều khiển phương tiện có trách nhiệm chấp hành hiệu lệnh dừng xe và yêu cầu kiểm tra, kiểm soát của lực lượng tuần tra.",
+   "quote": "b) Chấp hành hiệu lệnh dừng phương tiện tham gia giao thông đường bộ, yêu cầu kiểm tra, kiểm soát của lực lượng thực hiện tuần tra, kiểm soát;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-048",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-50cc",
+    "xe-may-dien",
+    "xe-may"
+   ],
+   "claim": "Người lái và người ngồi sau trên xe mô tô, xe gắn máy (kể cả xe máy điện) phải đội mũ bảo hiểm đạt quy chuẩn và cài quai đúng quy cách.",
+   "quote": "2. Người lái xe, người được chở trên xe mô tô hai bánh, xe mô tô ba bánh, xe gắn máy phải đội mũ bảo hiểm theo đúng quy chuẩn kỹ thuật quốc gia và cài quai đúng quy cách.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/3/55-vbhn-vpqh.pdf",
+   "source_title": "Văn bản hợp nhất số 55/VBHN-VPQH ngày 23/3/2026 – Luật Trật tự, an toàn giao thông đường bộ số 36/2024/QH15 (sửa đổi, bổ sung bởi Luật số 118/2025/QH15)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-049",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "phu-huynh",
+    "xe-50cc",
+    "xe-may-dien",
+    "muc-phat"
+   ],
+   "claim": "Người từ đủ 14 đến dưới 16 tuổi điều khiển xe mô tô, xe gắn máy (kể cả xe máy điện) bị phạt cảnh cáo.",
+   "quote": "1. Phạt cảnh cáo người từ đủ 14 tuổi đến dưới 16 tuổi điều khiển xe mô tô, xe gắn máy, các loại xe tương tự xe mô tô và các loại xe tương tự xe gắn máy hoặc điều khiển xe ô tô, điều khiển xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ và các loại xe tương tự xe ô tô.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-050",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "muc-phat",
+    "xe-may",
+    "xe-may-dien",
+    "thue-xe-tu-lai",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Lái xe mô tô hai bánh đến 125 cm³ (hoặc điện đến 11 kW) mà không có giấy phép lái xe, dùng giấy phép hết điểm, không hiệu lực hoặc không phù hợp loại xe bị phạt 2–4 triệu đồng; người có IDP nhưng không mang bằng quốc gia cũng bị phạt ở khung này.",
+   "quote": "5. Phạt tiền từ 2.000.000 đồng đến 4.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh đến 125 cm3 hoặc có công suất động cơ điện đến 11 kW và các loại xe tương tự xe mô tô thực hiện một trong các hành vi vi phạm sau đây: a) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm hoặc sử dụng giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực, giấy phép lái xe không phù hợp với loại xe đang điều khiển; b) Có giấy phép lái xe quốc tế do các nước tham gia Công ước của Liên hợp quốc về Giao thông đường bộ năm 1968 cấp (trừ giấy phép lái xe quốc tế do Việt Nam cấp) nhưng không mang theo giấy phép lái xe quốc gia phù hợp với loại xe được phép điều khiển;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-051",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "muc-phat",
+    "xe-con-tay",
+    "thue-xe-tu-lai",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Lái xe mô tô hai bánh trên 125 cm³ (hoặc điện trên 11 kW), xe mô tô ba bánh mà giấy phép không phù hợp hoặc không có giấy phép bị phạt 6–8 triệu đồng.",
+   "quote": "7. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng đối với người điều khiển xe mô tô hai bánh có dung tích xi-lanh trên 125 cm3 trở lên hoặc có công suất động cơ điện trên 11 kW, xe mô tô ba bánh thực hiện một trong các hành vi vi phạm sau đây: a) Có giấy phép lái xe nhưng không phù hợp với loại xe đang điều khiển; b) Không có giấy phép lái xe hoặc sử dụng giấy phép lái xe đã bị trừ hết điểm, giấy phép lái xe không do cơ quan có thẩm quyền cấp, giấy phép lái xe bị tẩy xóa, giấy phép lái xe không còn hiệu lực;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-052",
+   "tags": [
+    "mang-giay-to",
+    "giao-hang",
+    "muc-phat"
+   ],
+   "claim": "Người lái xe mô tô kinh doanh vận tải (chở hàng, chở khách) không mang theo giấy phép lái xe bị phạt 200.000–300.000 đồng.",
+   "quote": "2. Phạt tiền từ 200.000 đồng đến 300.000 đồng đối với một trong các hành vi vi phạm sau đây: … d) Người điều khiển xe mô tô và các loại xe tương tự xe mô tô kinh doanh vận tải không mang theo giấy phép lái xe trừ hành vi vi phạm quy định tại điểm b khoản 5, điểm c khoản 7 Điều này.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-053",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "muc-phat",
+    "xe-may"
+   ],
+   "claim": "Chủ xe mô tô, xe gắn máy là cá nhân không làm thủ tục cấp đăng ký xe khi thay đổi chủ xe (không sang tên) bị phạt 800.000–1.000.000 đồng (tổ chức 1,6–2 triệu đồng).",
+   "quote": "3. Phạt tiền từ 800.000 đồng đến 1.000.000 đồng đối với cá nhân, từ 1.600.000 đồng đến 2.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây: a) Không làm thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe theo quy định; b) Không làm thủ tục đổi chứng nhận đăng ký xe, biển số xe theo quy định;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-054",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "muc-phat"
+   ],
+   "claim": "Chủ xe mô tô, xe gắn máy là cá nhân không làm thủ tục thu hồi đăng ký, biển số, hoặc đưa xe không gắn biển số, gắn biển không đúng chứng nhận đăng ký tham gia giao thông bị phạt 4–6 triệu đồng (tổ chức 8–12 triệu đồng).",
+   "quote": "8. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 8.000.000 đến 12.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện một trong các hành vi vi phạm sau đây: … d) Không làm thủ tục thu hồi chứng nhận đăng ký xe, biển số xe theo quy định; … h) Đưa phương tiện không gắn biển số (đối với loại xe có quy định phải gắn biển số) tham gia giao thông; đưa phương tiện gắn biển số không đúng với chứng nhận đăng ký xe hoặc gắn biển số không do cơ quan có thẩm quyền cấp tham gia giao thông.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-055",
+   "tags": [
+    "thue-xe-tu-lai",
+    "phu-huynh",
+    "muc-phat",
+    "quy-dinh-xe-may-dien-50cc"
+   ],
+   "claim": "Chủ xe mô tô, xe gắn máy là cá nhân giao xe cho người không đủ điều kiện lái (không đủ tuổi, không có giấy phép phù hợp, đang bị tước bằng) bị phạt 8–10 triệu đồng.",
+   "quote": "10. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng đối với cá nhân, từ 16.000.000 đồng đến 20.000.000 đồng đối với tổ chức là chủ xe mô tô, xe gắn máy và các loại xe tương tự xe mô tô, các loại xe tương tự xe gắn máy thực hiện hành vi vi phạm giao xe hoặc để cho người không đủ điều kiện theo quy định tại khoản 1 Điều 56 của Luật Trật tự, an toàn giao thông đường bộ điều khiển xe tham gia giao thông (bao gồm cả trường hợp người điều khiển phương tiện có giấy phép lái xe nhưng đang trong thời gian bị tước quyền sử dụng).",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-056",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "tra-cuu-phat-nguoi-camera",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Chủ phương tiện bị xử phạt là người đứng tên trong chứng nhận đăng ký xe; nếu xe chưa làm thủ tục sang tên thì người đã mua, được chuyển nhượng, tặng cho, thừa kế bị xử phạt như chủ phương tiện.",
+   "quote": "a) Cá nhân, tổ chức đứng tên trong chứng nhận đăng ký xe; … e) Đối với phương tiện chưa làm thủ tục cấp mới chứng nhận đăng ký xe và biển số xe hoặc chưa làm thủ tục cấp chứng nhận đăng ký xe trong trường hợp thay đổi chủ xe theo quy định thì cá nhân, tổ chức đã mua, được chuyển nhượng, được trao đổi, được tặng cho, được thừa kế là đối tượng để áp dụng xử phạt như chủ phương tiện;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-057",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "nop-phat-truc-tuyen-vneid",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Với vi phạm phát hiện qua thiết bị kỹ thuật (phạt nguội), cơ quan chức năng gửi thông báo cho chủ phương tiện bằng văn bản hoặc qua ứng dụng giao thông trên điện thoại của Bộ Công an, đồng thời đăng thông tin trên Trang thông tin điện tử Cục CSGT.",
+   "quote": "a) Cơ quan chức năng gửi thông báo yêu cầu chủ phương tiện và cá nhân, tổ chức có liên quan (nếu có) đến trụ sở cơ quan, đơn vị của người có thẩm quyền xử phạt vi phạm hành chính để giải quyết vụ việc vi phạm. Việc thông báo được thực hiện bằng văn bản hoặc thực hiện thông báo bằng phương thức điện tử thông qua Ứng dụng giao thông trên thiết bị di động dành cho công dân (sau đây viết gọn là Ứng dụng giao thông trên thiết bị di động) do Bộ Công an xây dựng, quản lý, vận hành khi đáp ứng điều kiện về cơ sở hạ tầng, kỹ thuật, thông tin; đồng thời cập nhật thông tin về phương tiện vi phạm trên Trang thông tin điện tử của Cục Cảnh sát giao thông;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-058",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Chủ phương tiện là cá nhân phải hợp tác xác định người lái; nếu không hợp tác hoặc không chứng minh được mình không phải người lái thì bị xử phạt về vi phạm phạt nguội.",
+   "quote": "b) Chủ phương tiện có nghĩa vụ phải hợp tác với cơ quan chức năng để xác định người đã điều khiển phương tiện thực hiện hành vi vi phạm. Trường hợp chủ phương tiện là cá nhân, nếu không hợp tác với cơ quan chức năng, không chứng minh hoặc không giải trình được mình không phải là người đã điều khiển phương tiện thực hiện hành vi vi phạm thì bị xử phạt đối với hành vi vi phạm được phát hiện;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-059",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "nop-phat-truc-tuyen-vneid",
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Nếu quá hạn mà chưa giải quyết vi phạm, cơ quan đăng ký xe và cơ quan cấp giấy phép lái xe sẽ tạm chưa giải quyết đăng ký xe, cấp, đổi giấy phép lái xe cho phương tiện/người vi phạm.",
+   "quote": "b) Trường hợp khi tra cứu dữ liệu theo quy định tại điểm a khoản này nếu có thông tin về phương tiện vi phạm, người vi phạm thì chưa giải quyết việc đăng kiểm, đăng ký phương tiện vi phạm, chưa cấp, đổi, cấp lại giấy phép lái xe đối với người vi phạm;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-060",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid",
+    "tra-cuu-phat-nguoi-camera"
+   ],
+   "claim": "Quyết định xử phạt có thể được gửi cho người vi phạm qua tài khoản Cổng dịch vụ công, tài khoản định danh điện tử (VNeID) hoặc ứng dụng giao thông khi đủ điều kiện kỹ thuật.",
+   "quote": "12. Việc gửi quyết định xử phạt vi phạm hành chính, quyết định tạm giữ tang vật, phương tiện, giấy phép, chứng chỉ hành nghề theo thủ tục hành chính và các biểu mẫu khác trong xử phạt vi phạm hành chính thực hiện theo quy định của Luật Xử lý vi phạm hành chính và có thể gửi cho người vi phạm theo tài khoản đã đăng ký trên Cổng dịch vụ công Quốc gia, Cổng dịch vụ công Bộ Công an (sau đây viết gọn là Cổng dịch vụ công), tài khoản định danh điện tử trên ứng dụng định danh quốc gia, Ứng dụng giao thông trên thiết bị di động khi đáp ứng điều kiện về cơ sở hạ tầng, kỹ thuật, thông tin.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-061",
+   "tags": [
+    "mang-giay-to",
+    "quyen-kiem-tra-cua-csgt",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Nếu khi bị kiểm tra không xuất trình được giấy tờ (bản giấy hoặc trên VNeID) nhưng trong thời hạn hẹn xuất trình được giấy tờ hợp lệ, người không kinh doanh vận tải sẽ không bị phạt lỗi không có/không mang giấy tờ.",
+   "quote": "c) Trong thời hạn hẹn đến giải quyết vụ việc vi phạm ghi trong biên bản vi phạm hành chính, nếu người vi phạm (trừ trường hợp quy định tại điểm b khoản này) xuất trình được các giấy tờ hoặc thông tin của các giấy tờ được tích hợp trong tài khoản định danh điện tử theo quy định thì người có thẩm quyền không ra quyết định xử phạt vi phạm hành chính đối với hành vi vi phạm không có giấy tờ, không mang theo giấy tờ và không xử phạt đối với chủ phương tiện;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-062",
+   "tags": [
+    "diem-gplx",
+    "xe-may"
+   ],
+   "claim": "Với giấy phép tích hợp cả hạng không thời hạn (mô tô) và có thời hạn (ô tô), vi phạm khi lái mô tô chỉ trừ điểm phần giấy phép không thời hạn.",
+   "quote": "d) Trường hợp giấy phép lái xe tích hợp giấy phép lái xe không thời hạn (xe mô tô, xe tương tự xe mô tô) và giấy phép lái xe có thời hạn (xe ô tô, xe tương tự xe ô tô, xe chở người bốn bánh có gắn động cơ, xe chở hàng bốn bánh có gắn động cơ) thì người có thẩm quyền xử phạt thực hiện trừ điểm đối với giấy phép lái xe không thời hạn khi người điều khiển xe mô tô, xe tương tự xe mô tô",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-063",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "muc-phat",
+    "xe-may"
+   ],
+   "claim": "Người lái xe mô tô, xe gắn máy không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông bị phạt 4–6 triệu đồng.",
+   "quote": "7. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với người điều khiển xe thực hiện một trong các hành vi vi phạm sau đây: … d) Không chấp hành hiệu lệnh, hướng dẫn của người điều khiển giao thông hoặc người kiểm soát giao thông;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-064",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "diem-gplx"
+   ],
+   "claim": "Lỗi không chấp hành hiệu lệnh của người điều khiển, kiểm soát giao thông (điểm d khoản 7 Điều 7) khi lái mô tô còn bị trừ 04 điểm giấy phép lái xe.",
+   "quote": "b) Thực hiện hành vi quy định tại điểm đ khoản 4; điểm a khoản 6; điểm c, điểm d, điểm đ khoản 7; điểm a khoản 8 Điều này bị trừ điểm giấy phép lái xe 04 điểm;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-065",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "muc-phat"
+   ],
+   "claim": "Cá nhân không chấp hành yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về trật tự, an toàn giao thông bị phạt 4–6 triệu đồng.",
+   "quote": "10. Phạt tiền từ 4.000.000 đồng đến 6.000.000 đồng đối với cá nhân, từ 8.000.000 đồng đến 12.000.000 đồng đối với tổ chức thực hiện hành vi không chấp hành yêu cầu kiểm tra, kiểm soát của người thi hành công vụ về bảo đảm trật tự, an toàn giao thông đường bộ,",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-066",
+   "tags": [
+    "van-ban-hop-nhat",
+    "nd-168-sua-doi",
+    "thi-bang-lai-a2",
+    "quy-dinh-xe-may-dien-50cc",
+    "quyen-kiem-tra-cua-csgt"
+   ],
+   "claim": "Nghị định 168/2024/NĐ-CP đã được sửa đổi, bổ sung bởi Nghị định 238/2026/NĐ-CP ngày 26/6/2026.",
+   "quote": "Số: 238/2026/NĐ-CP … Hà Nội, ngày 26 tháng 6 năm 2026 … Sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP ngày 26 tháng 12 năm 2024 của Chính phủ quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định số 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-067",
+   "tags": [
+    "nd-168-sua-doi",
+    "van-ban-hop-nhat"
+   ],
+   "claim": "Nghị định 238/2026/NĐ-CP có hiệu lực từ 15/8/2026.",
+   "quote": "1. Nghị định này có hiệu lực thi hành từ ngày 15 tháng 8 năm 2026.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định số 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-068",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "phu-huynh",
+    "sinh-vien",
+    "muc-phat",
+    "xe-may",
+    "thi-bang-lai-a1"
+   ],
+   "claim": "Từ 15/8/2026, điểm a khoản 4 Điều 18 NĐ 168 (phạt 400.000–600.000 đồng) được sửa thành: người từ đủ 16 đến dưới 18 tuổi điều khiển xe mô tô và các loại xe tương tự xe mô tô (bỏ cách diễn đạt theo 50 cm³/04 kW).",
+   "quote": "Điều 6. Sửa đổi bổ sung điểm a khoản 4 Điều 18 \"a) Người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe mô tô và các loại xe tương tự xe mô tô;\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định số 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-069",
+   "tags": [
+    "quy-dinh-xe-may-dien-50cc",
+    "phu-huynh",
+    "muc-phat"
+   ],
+   "claim": "Bản gốc NĐ 168 (trước 15/8/2026) quy định khung 400.000–600.000 đồng cho người 16–dưới 18 tuổi lái mô tô từ 50 cm³ hoặc từ 04 kW trở lên; điểm này đã bị NĐ 238/2026 thay thế.",
+   "quote": "4. Phạt tiền từ 400.000 đồng đến 600.000 đồng đối với một trong các hành vi vi phạm sau đây: a) Người từ đủ 16 tuổi đến dưới 18 tuổi điều khiển xe mô tô có dung tích xi-lanh từ 50 cm3 trở lên hoặc có công suất động cơ điện từ 04 kW trở lên;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-nghi-dinh-168-2024-nd-cp-quy-dinh-xu-phat-vi-pham-hanh-chinh-ve-trat-tu-atgt-duong-bo-119241231164556785.htm",
+   "source_title": "Toàn văn Nghị định 168/2024/NĐ-CP quy định xử phạt vi phạm hành chính về trật tự, an toàn giao thông trong lĩnh vực giao thông đường bộ; trừ điểm, phục hồi điểm giấy phép lái xe (Cổng TTĐT Chính phủ)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-070",
+   "tags": [
+    "diem-gplx",
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Từ 15/8/2026, không trừ điểm giấy phép lái xe (kể cả giấy phép lái xe quốc tế) khi giấy phép đó đang trong thời hạn bị tước quyền sử dụng.",
+   "quote": "\"đ) Không trừ điểm giấy phép lái xe khi giấy phép lái xe đó đang trong thời hạn bị tước quyền sử dụng giấy phép lái xe, giấy phép lái xe quốc tế.\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định số 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-071",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "muc-phat",
+    "xe-may"
+   ],
+   "claim": "Từ 15/8/2026, lỗi gắn biển số xe mô tô không đúng vị trí, quy cách, che lấp, bẻ cong, làm thay đổi khả năng nhận diện (điểm b khoản 3 Điều 14 NĐ 168) được viết lại chi tiết hơn.",
+   "quote": "\"b) Điều khiển xe gắn biển số không đúng vị trí, không đúng quy cách theo quy định; gắn biển số không rõ chữ, số hoặc sơn, dán lên chữ, số của biển số xe; gắn biển số bị bẻ cong, che lấp, làm thay đổi chữ, số, màu sắc (của chữ, số, nền biển số xe), hình dạng, kích thước của biển số xe; sử dụng chất liệu, vật liệu, thiết bị làm thay đổi khả năng nhận diện thông tin biển số xe của phương tiện, thiết bị kỹ thuật nghiệp vụ.\".",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/238-ndcp.signed.pdf",
+   "source_title": "Nghị định số 238/2026/NĐ-CP ngày 26/6/2026 sửa đổi, bổ sung một số điều của Nghị định số 168/2024/NĐ-CP (bản ký số, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-072",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid",
+    "tra-cuu-phat-nguoi-camera"
+   ],
+   "claim": "Người bị xử phạt phải chấp hành quyết định trong 10 ngày kể từ ngày nhận quyết định (hoặc theo thời hạn dài hơn ghi trong quyết định).",
+   "quote": "1. Cá nhân, tổ chức bị xử phạt vi phạm hành chính phải chấp hành quyết định xử phạt trong thời hạn 10 ngày, kể từ ngày nhận quyết định xử phạt vi phạm hành chính; trường hợp quyết định xử phạt vi phạm hành chính có ghi thời hạn thi hành nhiều hơn 10 ngày thì thực hiện theo thời hạn đó.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/171-vbhn-vpqh.signed.pdf",
+   "source_title": "Văn bản hợp nhất số 171/2026/VBHN-LQ-VPQH ngày 30/9/2026 – Luật Xử lý vi phạm hành chính",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-073",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Tiền phạt nộp tại Kho bạc Nhà nước hoặc vào tài khoản Kho bạc ghi trong quyết định; quá hạn sẽ bị cưỡng chế và mỗi ngày chậm nộp phải nộp thêm 0,05% trên tổng số tiền phạt chưa nộp.",
+   "quote": "cá nhân, tổ chức bị xử phạt phải nộp tiền phạt tại Kho bạc Nhà nước hoặc nộp vào tài khoản của Kho bạc Nhà nước được ghi trong quyết định xử phạt, trừ trường hợp đã nộp tiền phạt theo quy định tại khoản 2 Điều này. Nếu quá thời hạn nêu trên sẽ bị cưỡng chế thi hành quyết định xử phạt và cứ mỗi ngày chậm nộp tiền phạt thì cá nhân, tổ chức vi phạm phải nộp thêm 0,05% tính trên tổng số tiền phạt chưa nộp.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/171-vbhn-vpqh.signed.pdf",
+   "source_title": "Văn bản hợp nhất số 171/2026/VBHN-LQ-VPQH ngày 30/9/2026 – Luật Xử lý vi phạm hành chính",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-074",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "quyen-kiem-tra-cua-csgt"
+   ],
+   "claim": "Vi phạm phát hiện bằng phương tiện, thiết bị kỹ thuật nghiệp vụ (camera) thì bắt buộc phải lập biên bản; xử phạt không lập biên bản chỉ áp dụng khi cảnh cáo hoặc phạt đến 500.000 đồng với cá nhân.",
+   "quote": "a) Xử phạt cảnh cáo hoặc phạt tiền đến 500.000 đồng đối với cá nhân, 1.000.000 đồng đối với tổ chức; b) Hành vi vi phạm do cơ quan có thẩm quyền tiến hành tố tụng hình sự chuyển đến theo quy định tại khoản 1 Điều 63 của Luật này. 2. Trường hợp vi phạm hành chính được phát hiện bằng phương tiện, thiết bị kỹ thuật, nghiệp vụ, thì phải lập biên bản.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/171-vbhn-vpqh.signed.pdf",
+   "source_title": "Văn bản hợp nhất số 171/2026/VBHN-LQ-VPQH ngày 30/9/2026 – Luật Xử lý vi phạm hành chính",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-075",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid",
+    "van-ban-hop-nhat"
+   ],
+   "claim": "Luật Xử lý vi phạm hành chính (hợp nhất 2026) cho phép xử lý vi phạm hành chính trên môi trường điện tử khi bảo đảm điều kiện hạ tầng, kỹ thuật, thông tin.",
+   "quote": "1. Việc xử lý vi phạm hành chính trên môi trường điện tử được thực hiện khi bảo đảm điều kiện về cơ sở hạ tầng, kỹ thuật, thông tin.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/171-vbhn-vpqh.signed.pdf",
+   "source_title": "Văn bản hợp nhất số 171/2026/VBHN-LQ-VPQH ngày 30/9/2026 – Luật Xử lý vi phạm hành chính",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-076",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid",
+    "van-ban-hop-nhat"
+   ],
+   "claim": "Văn bản hợp nhất 171/2026/VBHN-LQ-VPQH ngày 30/9/2026 là bản hợp nhất mới nhất của Luật Xử lý vi phạm hành chính.",
+   "quote": "Số: 171/2026/VBHN-LQ-VPQH … Hà Nội, ngày 30 tháng 9 năm 2026 … LUẬT XỬ LÝ VI PHẠM HÀNH CHÍNH",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/10/171-vbhn-vpqh.signed.pdf",
+   "source_title": "Văn bản hợp nhất số 171/2026/VBHN-LQ-VPQH ngày 30/9/2026 – Luật Xử lý vi phạm hành chính",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-077",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "bang-lai-quoc-te-idp",
+    "van-ban-hop-nhat"
+   ],
+   "claim": "Thông tư 108/2026/TT-BCA về sát hạch, cấp giấy phép lái xe và giấy phép lái xe quốc tế ban hành ngày 29/6/2026, có hiệu lực từ 01/7/2026.",
+   "quote": "Số ký hiệu 108/2026/TT-BCA Ngày ban hành 29-06-2026 Ngày có hiệu lực 01-07-2026",
+   "source": "https://vanban.chinhphu.vn/?pageid=27160&docid=218725&classid=1&orggroupid=4",
+   "source_title": "Cổng TTĐT Chính phủ – Hệ thống văn bản: Thông tư số 108/2026/TT-BCA",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-078",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Thông tư 108 có hiệu lực từ 01/7/2026, trừ một số nội dung có lộ trình riêng tại khoản 2–5 Điều 41.",
+   "quote": "1. Thông tư này có hiệu lực thi hành từ ngày 01 tháng 7 năm 2026, trừ trường hợp quy định tại khoản 2, khoản 3, khoản 4, khoản 5 Điều này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-079",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Nội dung sát hạch lý thuyết và thực hành mới theo khoản 4 Điều 4 Thông tư 108 áp dụng từ 01/3/2027; nội dung bài sát hạch số 2 (mô tô, Phụ lục I) áp dụng từ 01/01/2028.",
+   "quote": "2. Nội dung sát hạch lý thuyết, sát hạch thực hành lái xe trong hình, sát hạch thực hành lái xe trên đường quy định tại khoản 4 Điều 4 Thông tư này áp dụng từ ngày 01 tháng 3 năm 2027; nội dung bài sát hạch số 2 quy định tại khoản 4 Điều 4 và Phụ lục I ban hành kèm theo Thông tư này áp dụng từ ngày 01 tháng 01 năm 2028. 3. Hình, thiết bị và phần mềm sát hạch tình huống giả định trên đường hạng A1, A của sân tập lái dùng để sát hạch lái xe mô tô áp dụng từ ngày 01 tháng 01 năm 2028.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-080",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Thông tư 12/2025/TT-BCA hết hiệu lực từ 01/7/2026, nhưng các quy định về hình thức, nội dung sát hạch (khoản 1–3 Điều 4, Phụ lục II, III…) của Thông tư 12/2025 tiếp tục áp dụng đến hết 28/02/2027.",
+   "quote": "6. Thông tư số 12/2025/TT-BCA ngày 28 tháng 02 năm 2025 của Bộ trưởng Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế hết hiệu lực kể từ ngày Thông tư này có hiệu lực thi hành, trừ các trường hợp quy định tại khoản 1, khoản 2, khoản 3 Điều 4, Phụ lục II, Phụ lục III, … ban hành kèm theo Thông tư số 12/2025/TT-BCA tiếp tục có hiệu lực thi hành đến hết ngày 28 tháng 02 năm 2027.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-081",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Thí sinh thi theo Thông tư 12/2025 mà vắng hoặc trượt một nội dung phải thi lại nội dung đó theo Thông tư 12/2025; từ 01/3/2027 phải thi lại theo Thông tư 108.",
+   "quote": "2. Trường hợp thực hiện sát hạch theo quy định tại Thông tư số 12/2025/TT-BCA mà thí sinh vắng hoặc không đạt 01 nội dung trở lên (sát hạch lý thuyết, lái xe trong hình, lái xe trên đường), phải dự sát hạch lại nội dung chưa đạt theo quy định tại Thông tư số 12/2025/TT-BCA; từ ngày 01 tháng 3 năm 2027 phải dự sát hạch lại nội dung chưa đạt theo quy định của Thông tư này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-082",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Phần lý thuyết gồm câu hỏi về pháp luật giao thông, kỹ thuật lái xe, văn hóa giao thông, phòng chống tác hại rượu bia; thi trên máy tính.",
+   "quote": "a) Sát hạch lý thuyết: gồm các câu hỏi liên quan đến quy định của pháp luật về trật tự, an toàn giao thông đường bộ; kỹ thuật lái xe; quy tắc ứng xử người lái xe, văn hóa giao thông và phòng, chống tác hại của rượu, bia khi tham gia giao thông;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-083",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Người đã có giấy phép lái xe ô tô còn hiệu lực khi thi hạng A1 hoặc A được miễn phần sát hạch lý thuyết.",
+   "quote": "c) Thí sinh dự sát hạch lái xe hạng A1, A có giấy phép lái xe ô tô còn hiệu lực được miễn sát hạch lý thuyết.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-084",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Sát hạch thực hành hạng A1, A chấm điểm trực tiếp kết hợp thiết bị tự động; trình tự thi mô tô là lý thuyết, bài sát hạch số 1, bài sát hạch số 2.",
+   "quote": "Thực hiện sát hạch bằng phương pháp chấm điểm trực tiếp kết hợp với thiết bị chấm điểm tự động. Thí sinh dự sát hạch phải điều khiển xe mô tô qua bài sát hạch số 1 và bài sát hạch số 2; … a) Sát hạch mô tô Thí sinh thực hiện sát hạch lý thuyết, bài sát hạch số 1, bài sát hạch số 2;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-085",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Với hạng A1, A, B1: đạt lý thuyết và thực hành trong hình thì đạt kỳ sát hạch; trượt lý thuyết thì không được thi bài số 1, trượt bài số 1 thì không được thi bài số 2.",
+   "quote": "a) Thí sinh đạt nội dung sát hạch lý thuyết và thực hành lái xe trong hình thì được công nhận đạt kết quả kỳ sát hạch lái xe; b) Thí sinh không đạt nội dung sát hạch lý thuyết thì không được dự nội dung sát hạch bài sát hạch số 1, thí sinh không đạt bài sát hạch số 1 thì không được dự sát hạch bài sát hạch số 2;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-086",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Kết quả lý thuyết đã đạt được bảo lưu 01 năm; kết quả bài số 1 được bảo lưu theo thời gian bảo lưu còn lại của phần lý thuyết.",
+   "quote": "c) Thí sinh được bảo lưu kết quả nội dung sát hạch lý thuyết đã đạt trong thời gian 01 năm kể từ ngày đạt kết quả sát hạch; bảo lưu kết quả nội dung sát hạch bài sát hạch số 1 theo thời gian bảo lưu còn lại của phần sát hạch lý thuyết;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-087",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Trong 02 giờ sau khi kết thúc kỳ sát hạch, Phòng CSGT chuyển dữ liệu người đạt về Cục CSGT để cấp giấy phép lái xe điện tử.",
+   "quote": "3. Trong thời hạn 02 giờ kể từ thời điểm kết thúc kỳ sát hạch lái xe, Phòng Cảnh sát giao thông rà soát, tổng hợp kết quả và chuyển dữ liệu người đạt kết quả sát hạch về Cục Cảnh sát giao thông để cấp giấy phép lái xe điện tử.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-088",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "ho-so-sat-hach"
+   ],
+   "claim": "Điều kiện dự sát hạch: đủ tuổi, sức khỏe theo Điều 59 Luật và được cơ sở đào tạo xác nhận hoàn thành khóa đào tạo (hoặc có chứng chỉ sơ cấp, giấy xác nhận hoàn thành chương trình).",
+   "quote": "1. Đủ tuổi (tính đến ngày dự sát hạch lái xe), sức khỏe theo quy định tại khoản 1, 2 Điều 59 Luật Trật tự, an toàn giao thông đường bộ. 2. Được cơ sở đào tạo lái xe xác nhận hoàn thành khóa đào tạo lái xe hoặc được cấp chứng chỉ sơ cấp hoặc giấy xác nhận hoàn thành chương trình đào tạo lái xe theo đúng quy định.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-089",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "ho-so-sat-hach",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Hồ sơ dự sát hạch của cá nhân gồm: chứng chỉ/giấy xác nhận hoàn thành khóa đào tạo; giấy khám sức khỏe còn hiệu lực (bản điện tử); với người nước ngoài thêm bản sao thị thực/thẻ tạm trú còn hạn từ 90 ngày hoặc thẻ thường trú.",
+   "quote": "a) Chứng chỉ sơ cấp hoặc chứng chỉ đào tạo hoặc giấy xác nhận hoàn thành khóa đào tạo đối với thí sinh dự sát hạch lái xe hạng A1, A, B1, B, C1, C, D1, D2, D, BE, C1E, CE, D1E, D2E, DE; b) Giấy khám sức khỏe của người lái xe còn hiệu lực (bản điện tử), trường hợp hệ thống bị lỗi thì sử dụng bản giấy do cơ sở khám bệnh, chữa bệnh đủ tiêu chuẩn theo quy định của pháp luật về khám bệnh, chữa bệnh cấp; c) Bản sao hoặc bản sao điện tử một trong các giấy tờ sau: chứng minh thư ngoại giao, chứng minh thư công vụ, thị thực hoặc thẻ tạm trú còn thời hạn từ 90 ngày trở lên, thẻ thường trú còn giá trị (đối với người nước ngoài).",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-090",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "ho-so-sat-hach"
+   ],
+   "claim": "Hồ sơ đề nghị sát hạch nộp trực tuyến qua Cổng Dịch vụ công quốc gia, ứng dụng định danh quốc gia hoặc ứng dụng của Công an, ít nhất 07 ngày làm việc trước kỳ sát hạch.",
+   "quote": "a) Hồ sơ điện tử đề nghị sát hạch gửi trực tuyến tại Cổng Dịch vụ công quốc gia hoặc ứng dụng định danh Quốc gia hoặc các ứng dụng của lực lượng Công an nhân dân theo quy định trước kỳ sát hạch lái xe ít nhất 07 ngày làm việc;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-091",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "mang-giay-to"
+   ],
+   "claim": "Giấy phép lái xe được cấp dạng điện tử hoặc thẻ PET; mỗi người chỉ có 01 số giấy phép dùng chung cho hạng không thời hạn và có thời hạn.",
+   "quote": "2. Giấy phép lái xe được cấp dưới dạng điện tử hoặc bằng vật liệu PET. Mỗi người được cấp 01 số giấy phép lái xe dùng chung cho cả giấy phép lái xe không thời hạn và giấy phép lái xe có thời hạn.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-092",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai",
+    "bang-lai-quoc-te-idp",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Người nước ngoài hoặc người Việt Nam cư trú ở nước ngoài muốn lái xe ở Việt Nam bằng giấy phép quốc gia thì phải đổi sang giấy phép tương ứng của Việt Nam, trừ khi điều ước quốc tế có quy định khác.",
+   "quote": "7. Người nước ngoài hoặc người Việt Nam cư trú ở nước ngoài có nhu cầu lái xe ở Việt Nam thực hiện như sau: a) Nếu có giấy phép lái xe quốc gia thì phải làm thủ tục đổi sang giấy phép lái xe tương ứng của Việt Nam; b) Trường hợp điều ước quốc tế về giấy phép lái xe mà Việt Nam là thành viên có quy định khác thì áp dụng quy định của điều ước quốc tế đó.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-093",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Giấy phép PET, giấy phép cấp từ 01/01/2025 và giấy phép cấp trước Thông tư 108 có hiệu lực nếu số phôi, ngày cấp, ngày hết hạn trùng với hệ thống quản lý hoặc đã tích hợp vào tài khoản định danh điện tử.",
+   "quote": "8. Giấy phép lái xe bằng vật liệu PET và giấy phép lái xe cấp từ ngày 01 tháng 01 năm 2025, giấy phép lái xe cấp trước ngày Thông tư này có hiệu lực là giấy phép lái xe do cơ quan có thẩm quyền cấp có hiệu lực, có số phôi, ngày cấp, ngày hết hạn in trên giấy phép lái xe trùng với số phôi, ngày cấp, ngày hết hạn trong hệ thống thông tin quản lý giấy phép lái xe hoặc có thông tin giấy phép lái xe đã được tích hợp vào tài khoản định danh điện tử hoặc các ứng dụng của lực lượng Công an nhân dân.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-094",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "sat-hach"
+   ],
+   "claim": "Giấy phép lái xe điện tử được cấp và tích hợp trong 02 giờ sau kỳ sát hạch; nếu cần thẻ PET thì được in, trả trong 3,5 ngày làm việc.",
+   "quote": "1. Cục Cảnh sát giao thông cấp giấy phép lái xe điện tử cho người đạt kết quả kỳ sát hạch lái xe và tích hợp vào hệ thống dữ liệu điện tử trong thời hạn 02 giờ kể từ thời điểm kết thúc kỳ sát hạch lái xe. Trường hợp người dân có nhu cầu cấp giấy phép lái xe bằng vật liệu PET, Cục Cảnh sát giao thông hoặc Phòng Cảnh sát giao thông tổ chức in và trả giấy phép lái xe trong thời hạn 3,5 ngày làm việc, kể từ ngày kết thúc kỳ sát hạch lái xe;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-095",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "chuyen-tiep-gplx"
+   ],
+   "claim": "Các trường hợp đổi giấy phép lái xe gồm: giấy phép hỏng; người có giấy phép Việt Nam muốn đổi trước khi hết hạn; người muốn tích hợp hạng không thời hạn (mô tô) với hạng có thời hạn (ô tô).",
+   "quote": "a) Người có giấy phép lái xe bị hỏng không còn sử dụng được; b) Người Việt Nam, người nước ngoài đã có giấy phép lái xe do cơ quan có thẩm quyền của Việt Nam cấp trước khi hết hạn nếu có nhu cầu được đổi giấy phép lái xe; … d) Người có nhu cầu tích hợp giấy phép lái xe không thời hạn với giấy phép lái xe có thời hạn;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-096",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Người nước ngoài cư trú, làm việc, học tập tại Việt Nam có giấy phép quốc gia còn hạn và có thị thực/thẻ tạm trú còn từ 90 ngày (hoặc thẻ thường trú, chứng minh thư ngoại giao, công vụ) được xét đổi sang giấy phép Việt Nam tương ứng.",
+   "quote": "a) Người nước ngoài cư trú, làm việc, học tập tại Việt Nam có giấy phép lái xe quốc gia còn thời hạn sử dụng và có một trong các giấy tờ sau: giấy chứng minh thư ngoại giao, giấy chứng minh thư công vụ, thị thực hoặc thẻ tạm trú còn thời hạn từ 90 ngày trở lên, thẻ thường trú còn giá trị nếu có nhu cầu lái xe ở Việt Nam được xét đổi sang hạng giấy phép lái xe tương ứng của Việt Nam phù hợp với thời hạn giấy phép lái xe, thị thực, thẻ tạm trú hoặc thẻ thường trú được cấp;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-097",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Người Việt Nam cư trú, học tập, làm việc ở nước ngoài liên tục từ 03 tháng trở lên và được cấp giấy phép quốc gia ở đó, còn hạn, được xét đổi sang hạng tương ứng của Việt Nam.",
+   "quote": "b) Người Việt Nam (mang quốc tịch Việt Nam) trong thời gian cư trú, học tập, làm việc ở nước ngoài liên tục từ 03 tháng trở lên được cơ quan có thẩm quyền nước ngoài cấp giấy phép lái xe quốc gia, còn thời hạn sử dụng, nếu có nhu cầu lái xe tại Việt Nam được xét đổi sang hạng giấy phép lái xe tương ứng của Việt Nam;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-098",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai",
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Không được đổi sang giấy phép Việt Nam đối với: giấy phép tạm thời của nước ngoài, giấy phép lái xe quốc tế (IDP), giấy phép nước ngoài quá hạn, tẩy xóa, rách nát hoặc không do cơ quan có thẩm quyền cấp.",
+   "quote": "c) Không đổi giấy phép lái xe tạm thời của nước ngoài; giấy phép lái xe quốc tế; giấy phép lái xe của nước ngoài quá thời hạn sử dụng, bị tẩy xóa, rách nát không còn đủ thông tin để đổi giấy phép lái xe hoặc có sự khác biệt về nhận diện; giấy phép lái xe nước ngoài không do cơ quan có thẩm quyền cấp.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-099",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Hồ sơ đổi giấy phép nước ngoài cần bản dịch sang tiếng Việt có bảo chứng chất lượng dịch thuật của cơ quan Công chứng tại Việt Nam (hoặc cơ quan đại diện Việt Nam ở nước ngoài), đóng dấu giáp lai với bản sao giấy phép.",
+   "quote": "a) Bản dịch giấy phép lái xe nước ngoài ra tiếng Việt được bảo chứng chất lượng dịch thuật của cơ quan Công chứng tại Việt Nam hoặc bản dịch của cơ quan đại diện Việt Nam ở nước ngoài mà người dịch làm việc, đóng dấu giáp lai với bản sao giấy phép lái xe;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-100",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Thời hạn giấy phép Việt Nam đổi cho người nước ngoài phù hợp thời hạn thị thực/thẻ tạm trú/thẻ thường trú và không vượt quá thời hạn của giấy phép nước ngoài lẫn thời hạn theo quy định của giấy phép Việt Nam.",
+   "quote": "a) Thời hạn sử dụng giấy phép lái xe Việt Nam đổi cho người nước ngoài phù hợp với thời hạn ghi tại một trong các giấy tờ quy định tại điểm a khoản 1 Điều này phù hợp với thời hạn sử dụng giấy phép lái xe nước ngoài nhưng không vượt quá thời hạn quy định của giấy phép lái xe Việt Nam;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-101",
+   "tags": [
+    "nguoi-nuoc-ngoai",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Giấy phép Việt Nam đổi cho người nước ngoài được trả trong 2,5 ngày làm việc nếu người dân có nhu cầu in thẻ; dữ liệu điện tử được tích hợp trong 01 ngày.",
+   "quote": "d) Phòng Cảnh sát giao thông chuyển dữ liệu đến Cục Cảnh sát giao thông để quản lý tập trung và cấp giấy phép lái xe, giấy phép lái xe điện tử được tích hợp trên ứng dụng định danh Quốc gia hoặc các ứng dụng của lực lượng Công an nhân dân trong thời hạn 01 ngày kể từ thời điểm nhận đủ hồ sơ hợp lệ. Trường hợp người dân có nhu cầu, Cục Cảnh sát giao thông hoặc Phòng Cảnh sát giao thông tổ chức in và trả giấy phép lái xe trong thời hạn 2,5 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-102",
+   "tags": [
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Người có giấy phép quốc gia do Việt Nam cấp nộp hồ sơ cấp IDP trực tiếp tại Cục CSGT, Phòng CSGT hoặc trực tuyến trên Cổng Dịch vụ công quốc gia.",
+   "quote": "a) Hồ sơ cấp IDP: cá nhân thực hiện trực tiếp tại Cục Cảnh sát giao thông hoặc Phòng Cảnh sát giao thông hoặc trực tuyến tại Cổng Dịch vụ công quốc gia;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-103",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Người nước ngoài có thẻ tạm trú/thường trú tại Việt Nam và có giấy phép quốc gia của nước thành viên điều ước quốc tế mà Việt Nam tham gia cũng được làm thủ tục cấp IDP tại Việt Nam; IDP được cấp trong 2,5 ngày làm việc.",
+   "quote": "2. Đối với người Việt Nam, người nước ngoài có thẻ thường trú hoặc thẻ tạm trú tại Việt Nam, có giấy phép lái xe quốc gia do các quốc gia là thành viên của điều ước quốc tế mà nước Cộng hòa xã hội chủ nghĩa Việt Nam là thành viên cấp, còn giá trị sử dụng, thực hiện như sau: … c) IDP được cấp trong thời hạn 2,5 ngày làm việc kể từ ngày nhận đủ hồ sơ hợp lệ.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-104",
+   "tags": [
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Không cấp IDP khi giấy phép quốc gia bị tẩy xóa, thiếu thông tin, khác biệt nhận diện hoặc không do cơ quan có thẩm quyền cấp.",
+   "quote": "3. Không cấp IDP đối với các trường hợp sau đây: a) Giấy phép lái xe quốc gia bị tẩy xóa không còn đủ các thông tin cần thiết hoặc có sự khác biệt về nhận diện; b) Giấy phép lái xe quốc gia không do cơ quan có thẩm quyền cấp theo quy định.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-105",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "IDP do Việt Nam cấp không có giá trị sử dụng trên lãnh thổ Việt Nam (chỉ dùng khi ra nước ngoài).",
+   "quote": "1. IDP do Việt Nam cấp theo Công ước về giao thông đường bộ năm 1968 không có giá trị sử dụng trong lãnh thổ Việt Nam.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-106",
+   "tags": [
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Hạng xe được lái theo IDP tương ứng với hạng của giấy phép quốc gia do Việt Nam cấp, theo bảng tại Phụ lục XII.",
+   "quote": "Hạng xe được phép điều khiển của IDP tương ứng với các hạng xe của giấy phép lái xe quốc gia do Việt Nam cấp quy định tại Phụ lục XII ban hành kèm theo Thông tư này.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-107",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Với giấy phép cấp trước 01/01/2025, khi cấp IDP: hạng A1 cũ tương ứng IDP hạng A1, hạng A2 cũ tương ứng IDP hạng A, hạng A3 cũ tương ứng IDP hạng B1.",
+   "quote": "BẢNG CHUYỂN ĐỔI GIẤY PHÉP LÁI XE QUỐC TẾ Áp dụng đối với giấy phép lái xe do Chính phủ Việt Nam cấp trước ngày 01/01/2025 … Hạng A1 Hạng A1 Hạng A2 Hạng A Hạng A3 Hạng B1",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-108",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Từ khi Phụ lục I Thông tư 108 áp dụng (01/3/2027), bài lý thuyết hạng A1, A có 40 câu, làm trong 27 phút, đạt khi được từ 36/40 điểm.",
+   "quote": "- Thời gian làm bài: 27 phút. - Đề thi được thiết kế dưới dạng 40 câu hỏi, mỗi câu hỏi được tính 01 điểm. … 3.1. Điểm đạt yêu cầu từ 36/40 điểm trở lên.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-109",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "phu-huynh"
+   ],
+   "claim": "Khi thực hành, thí sinh mô tô phải đội mũ bảo hiểm cài quai đúng quy cách; bài số 2 còn phải đeo bảo vệ khuỷu tay, đầu gối.",
+   "quote": "đội mũ bảo hiểm, cài quai đúng quy cách khi thực hiện bài sát hạch số 1; đội mũ bảo hiểm, cài quai đúng quy cách, đeo bảo vệ khuỷu tay, bảo vệ đầu gối khi thực hiện bài sát hạch số 2.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-110",
+   "tags": [
+    "chuyen-tiep-gplx",
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2"
+   ],
+   "claim": "Bằng A1 cấp trước 01/01/2025 khi đổi sang hạng A sẽ ghi điều kiện hạn chế: chỉ lái mô tô hai bánh dưới 175 cm³ hoặc dưới 14 kW.",
+   "quote": "g) Đối với giấy phép lái xe hạng A1 cấp trước ngày 01/01/2025 được đổi, cấp lại sang giấy phép lái xe hạng A với điều kiện hạn chế chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm3 hoặc có công suất động cơ điện đến dưới 14 kW, ghi là: \"Cấp cho người chỉ được điều khiển xe mô tô hai bánh có dung tích xi-lanh đến dưới 175 cm3 hoặc có công suất động cơ điện đến dưới 14 kW\";",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-111",
+   "tags": [
+    "thi-bang-lai-a2",
+    "hang-gplx",
+    "xe-tay-ga"
+   ],
+   "claim": "Có loại giấy phép hạng A ghi hạn chế chỉ lái mô tô từ 125 cm³ (hoặc 14 kW) trở lên dùng hộp số vô cấp (xe tay ga).",
+   "quote": "h) Đối với giấy phép lái xe hạng A cấp cho người điều khiển xe mô tô hai bánh có dung tích xi-lanh từ 125 cm3 trở lên hoặc có công suất động cơ điện từ 14kW trở lên sử dụng hộp số vô cấp, ghi là:",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-112",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "hang-gplx"
+   ],
+   "claim": "Giấy phép lái xe bị thu hồi do quá thời hạn tạm giữ/hết thời hiệu thi hành mà không đến nhận (điểm c khoản 5 Điều 62 Luật) thì người vi phạm không được cấp giấy phép trong 05 năm kể từ ngày phát hiện.",
+   "quote": "ngoài ra, người có hành vi vi phạm không được cấp giấy phép lái xe trong thời hạn 05 năm, kể từ ngày phát hiện hành vi vi phạm;",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/7/thong-tu-so-108.2026.tt-bca-ngay-29.6.2026-ban-day-du-v03.pdf",
+   "source_title": "Thông tư số 108/2026/TT-BCA ngày 29/6/2026 của Bộ Công an quy định về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (bản đầy đủ, PDF ảnh quét – đọc trực tiếp từng trang)",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-113",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "bang-lai-quoc-te-idp"
+   ],
+   "claim": "Thông tư 108/2026/TT-BCA thay thế Thông tư 12/2025/TT-BCA và có hiệu lực từ 01/7/2026.",
+   "quote": "Cục CSGT đã tham mưu cho Bộ Công an ban hành Thông tư số 108/2026/TT-BCA ngày 29/6/2026 về sát hạch, cấp giấy phép lái xe; cấp, sử dụng giấy phép lái xe quốc tế (thay thế cho Thông tư 12/2025/TT-BCA) có hiệu lực từ 01/7/2026.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-trong-sat-hach-lai-xe-119260703113320777.htm",
+   "source_title": "Chinhphu.vn – Những ĐIỂM MỚI trong sát hạch lái xe (Thông tư 108/2026/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-114",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Theo Cổng TTĐT Chính phủ, bài lý thuyết hạng A, A1 tăng từ 25 câu/19 phút lên 40 câu/27 phút, đạt khi đúng 36/40 (theo Điều 41 Thông tư 108, nội dung sát hạch mới áp dụng từ 01/3/2027).",
+   "quote": "Mô tô hạng A, A1: tăng số lượng câu hỏi trong bài sát hạch từ 25 câu lên 40 câu, thời gian làm bài từ 19 phút tăng lên 27 phút, đạt khi trả lời đúng 36/40 câu hỏi;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-trong-sat-hach-lai-xe-119260703113320777.htm",
+   "source_title": "Chinhphu.vn – Những ĐIỂM MỚI trong sát hạch lái xe (Thông tư 108/2026/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-115",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Bài thi mô phỏng trên máy tính bị bỏ từ 01/7/2026; thí sinh phải thi tuần tự, đỗ phần trước mới thi phần sau.",
+   "quote": "1. Quy định bỏ bài thi mô phỏng trên máy tính. Học viên vẫn có thể học bài mô phỏng để tăng thêm kỹ năng xử lý tình huống, nhưng không thi bài thi này như trước đây. Thực hiện từ 1/7/2026.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-trong-sat-hach-lai-xe-119260703113320777.htm",
+   "source_title": "Chinhphu.vn – Những ĐIỂM MỚI trong sát hạch lái xe (Thông tư 108/2026/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-116",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Phần thực hành mô tô bổ sung 11 tình huống giả định trên đường (ra đường chính, quay đầu, vượt xe…), áp dụng từ 01/01/2028.",
+   "quote": "6. Về nội dung sát hạch thực hành lái xe mô tô bổ sung cách xử lý 11 tình huống giả định trên đường (như: xử lý tình huống từ đường nhánh ra đường chính hoặc từ đường không ưu tiên ra đường ưu tiên; xử lý tình huống chuyển hướng quay đầu; xử lý tình huống vượt xe…). Thực hiện từ 01/01/2028.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-trong-sat-hach-lai-xe-119260703113320777.htm",
+   "source_title": "Chinhphu.vn – Những ĐIỂM MỚI trong sát hạch lái xe (Thông tư 108/2026/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-117",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach",
+    "bang-lai-quoc-te-idp",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Từ 01/7/2026, thời gian tích hợp giấy phép điện tử cho người thi đạt có tài khoản VNeTraffic mức 2 là 02 giờ; đổi giấy phép còn 2,5 ngày; cấp IDP còn 2,5 ngày.",
+   "quote": "8. Giảm thời gian tích hợp dữ liệu điện tử đối với giấy phép lái xe từ 03 ngày xuống 02 giờ cho người thi đạt có tài khoản ứng dụng VNeTraffic mức độ 2; Giảm thời gian đổi giấy phép lái xe từ 05 ngày xuống 2,5 ngày, thời gian tích hợp dữ liệu điện tử từ 03 ngày xuống 01 ngày; Giảm thời gian cấp giấy phép lái xe quốc tế từ 05 ngày xuống 2,5 ngày. Thực hiện từ 1/7/2026.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/nhung-diem-moi-trong-sat-hach-lai-xe-119260703113320777.htm",
+   "source_title": "Chinhphu.vn – Những ĐIỂM MỚI trong sát hạch lái xe (Thông tư 108/2026/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-118",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "sat-hach"
+   ],
+   "claim": "Nghị định 94/2026/NĐ-CP về đào tạo và sát hạch lái xe có hiệu lực từ 01/7/2026, bãi bỏ Nghị định 160/2024/NĐ-CP.",
+   "quote": "Nghị định số 94/2026/NĐ-CP ngày 31/3/2026 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe, có hiệu lực thi hành ngày 01/7/2026 (bãi bỏ Nghị định số Nghị định số 160/2024/NĐ-CP ngày 18/12/2024 của Chính phủ quy định về hoạt động đào tạo và sát hạch lái xe).",
+   "source": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-bo-phan-sat-hach-lai-xe-mo-phong-tu-01-7-2026-119260627105803901.htm",
+   "source_title": "Chinhphu.vn – QUY ĐỊNH MỚI: Bỏ phần sát hạch lái xe mô phỏng; nội dung sát hạch lái xe từ 01/7/2026",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-119",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Khi bán xe, chủ xe cũ phải làm thủ tục thu hồi đăng ký, biển số tại cơ quan đăng ký nơi mình cư trú; người mua làm thủ tục sang tên tại cơ quan đăng ký xe.",
+   "quote": "Khi chuyển quyền sở hữu xe, chủ xe phải làm thủ tục thu hồi tại cơ quan đăng ký xe nơi chủ xe có trụ sở, cư trú theo quy định. Tổ chức, cá nhân nhận chuyển quyền sở hữu xe làm thủ tục đăng ký sang tên xe tại cơ quan đăng ký xe theo quy định.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-120",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "muc-phat"
+   ],
+   "claim": "Trong 30 ngày kể từ ngày làm giấy tờ chuyển quyền sở hữu, chủ xe đứng tên phải làm thủ tục thu hồi; quá hạn sẽ bị xử phạt trước khi giải quyết.",
+   "quote": "Trong thời hạn 30 ngày, kể từ ngày làm giấy tờ chuyển quyền sở hữu xe, chủ xe đứng tên trong chứng nhận đăng ký xe phải làm thủ tục thu hồi; trường hợp quá thời hạn trên mà chủ xe không làm thủ tục thu hồi hoặc giao chứng nhận đăng ký xe, biển số xe cho tổ chức, cá nhân nhận chuyển quyền sở hữu xe làm thủ tục thu hồi thì trước khi giải quyết người có thẩm quyền thực hiện thủ tục xử phạt vi phạm hành chính theo quy định;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-121",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Chủ xe phải giữ lại chứng nhận đăng ký và biển số (không giao cho người mua) để nộp khi làm thủ tục thu hồi.",
+   "quote": "Chủ xe phải giữ lại chứng nhận đăng ký xe, biển số xe (không giao cho tổ chức, cá nhân nhận chuyển quyền sở hữu xe) và nộp cho cơ quan đăng ký xe khi làm thủ tục thu hồi;",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-122",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Hồ sơ đăng ký sang tên của người mua gồm giấy khai đăng ký, giấy tờ chủ xe, chứng từ chuyển quyền sở hữu, chứng từ lệ phí trước bạ, chứng nhận thu hồi đăng ký, biển số; phải đưa xe đến kiểm tra.",
+   "quote": "Đưa xe đến để kiểm tra và nộp hồ sơ theo quy định: Giấy khai đăng ký xe; Giấy tờ của chủ xe; Chứng từ chuyển quyền sở hữu xe; Chứng từ lệ phí trước bạ xe; Chứng nhận thu hồi chứng nhận đăng ký xe, biển số xe.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-123",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Người mua chưa có biển định danh (hoặc biển định danh đang gắn xe khác) được cấp biển mới; người có biển định danh đã thu hồi từ 15/8/2023 được cấp lại số biển đó.",
+   "quote": "Cấp biển số mới đối với trường hợp chủ xe chưa được cấp biển số định danh hoặc đã có biển số định danh nhưng đang đăng ký cho xe khác. Cấp biển số định danh đối với trường hợp chủ xe có biển số định danh đã được thu hồi từ ngày 15/8/2023.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-124",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Thời hạn: chứng nhận thu hồi và chứng nhận đăng ký mỗi loại không quá 02 ngày làm việc; biển định danh lần đầu cấp ngay; cấp lại biển định danh không quá 07 ngày làm việc.",
+   "quote": "+ Cấp chứng nhận thu hồi đăng ký, biển số xe: Không quá 02 ngày làm việc (trường hợp cấp chứng nhận thu hồi đăng ký, biển số), kể từ ngày nhận đủ hồ sơ hợp lệ. + Cấp chứng nhận đăng ký xe: Không quá 02 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ. + Cấp biển số định danh lần đầu: Cấp ngay sau khi tiếp nhận hồ sơ đăng ký xe hợp lệ. + Cấp lại biển số định danh: Không quá 07 ngày làm việc, kể từ ngày nhận đủ hồ sơ hợp lệ.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-125",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Xe đang mang biển 3 số hoặc 4 số khi sang tên sẽ được đổi sang biển số định danh.",
+   "quote": "Trường hợp biển số xe đã được cấp là biển 3 số hoặc biển 4 số thì đổi sang biển số định danh theo quy định tại Thông tư số 79/2024/TT-BCA ngày 15/11/2024 của Bộ trưởng Bộ Công an.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-126",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "tra-cuu-phat-nguoi-camera"
+   ],
+   "claim": "Người đứng tên đăng ký vẫn chịu trách nhiệm của chủ xe cho đến khi làm xong thủ tục thu hồi.",
+   "quote": "Tổ chức, cá nhân đứng tên trong giấy chứng nhận đăng ký xe tiếp tục chịu trách nhiệm của chủ xe khi chưa thực hiện thu hồi chứng nhận đăng ký xe, biển số xe đối với trường hợp phải thu hồi theo quy định.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-cap-chung-nhan-dang-ky-xe-bien-so-xe-trong-truong-hop-thay-doi-chu-xe-119250305092417584.htm",
+   "source_title": "Chinhphu.vn – Thủ tục cấp chứng nhận đăng ký xe, biển số xe trong trường hợp thay đổi chủ xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-127",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Khi đổi chứng nhận đăng ký, biển số, xe đã có biển định danh giữ nguyên số; xe đang biển 3 số, 4 số được cấp sang biển định danh.",
+   "quote": "Trường hợp đổi chứng nhận đăng ký xe, biển số xe giữ nguyên biển số định danh; đối với xe đã đăng ký biển 3 số hoặc biển 4 số thì cấp sang biển số định danh theo quy định (thu lại chứng nhận đăng ký xe, biển 3 số hoặc biển 4 số đó);",
+   "source": "https://xaydungchinhsach.chinhphu.vn/thu-tuc-doi-chung-nhan-dang-ky-xe-bien-so-xe-119250307090716024.htm",
+   "source_title": "Chinhphu.vn – Thủ tục đổi chứng nhận đăng ký xe, biển số xe (Quyết định 1383/QĐ-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-128",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Thông tư 37/2026/TT-BCA (sửa các thông tư về đăng ký, kiểm định phương tiện) có hiệu lực từ 08/6/2026.",
+   "quote": "Bộ Công an vừa ban hành Thông tư số 37/2026/TT-BCA về sửa đổi, bổ sung một số điều của các Thông tư quy định về đăng ký, kiểm định phương tiện. Thông tư có hiệu lực từ ngày 8/6/2026.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-so-37-2026-tt-bca-ve-dang-ky-kiem-dinh-phuong-tien-119260429143832445.htm",
+   "source_title": "Chinhphu.vn – TOÀN VĂN: Thông tư số 37/2026/TT-BCA về đăng ký, kiểm định phương tiện",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-129",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh",
+    "mang-giay-to"
+   ],
+   "claim": "Từ 08/6/2026, kết quả đăng ký xe nhận qua Cổng dịch vụ công, bưu chính hoặc trực tiếp; dữ liệu chứng nhận đăng ký xe điện tử được tích hợp trên VNeID và VNeTraffic.",
+   "quote": "“6. Việc nhận kết quả đăng ký xe được thực hiện thông qua Cổng dịch vụ công hoặc thông qua dịch vụ bưu chính hoặc nhận trực tiếp tại cơ quan đăng ký xe theo nhu cầu của chủ xe. Dữ liệu điện tử chứng nhận đăng ký xe được tích hợp trên Ứng dụng định danh quốc gia, Ứng dụng giao thông trên thiết bị số dành cho công dân do Bộ Công an quản lý, vận hành (VNeTraffic).\"",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-so-37-2026-tt-bca-ve-dang-ky-kiem-dinh-phuong-tien-119260429143832445.htm",
+   "source_title": "Chinhphu.vn – TOÀN VĂN: Thông tư số 37/2026/TT-BCA về đăng ký, kiểm định phương tiện",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-130",
+   "tags": [
+    "sang-ten-bien-so-dinh-danh"
+   ],
+   "claim": "Nếu dữ liệu tình trạng hôn nhân của chủ xe đã có trên Cơ sở dữ liệu quốc gia về dân cư, dữ liệu điện tử chuyển quyền sở hữu trên Cổng dịch vụ công có giá trị như chứng từ giấy.",
+   "quote": "“c. Chứng từ chuyển quyền sở hữu theo quy định. Trường hợp dữ liệu về tình trạng hôn nhân của chủ xe đã được cập nhật trên Cơ sở dữ liệu Quốc gia về dân cư thì dữ liệu điện tử chuyển quyền sở hữu trên Cổng dịch vụ công có giá trị pháp lý như Chứng từ chuyển quyền sở hữu bản giấy.”",
+   "source": "https://xaydungchinhsach.chinhphu.vn/toan-van-thong-tu-so-37-2026-tt-bca-ve-dang-ky-kiem-dinh-phuong-tien-119260429143832445.htm",
+   "source_title": "Chinhphu.vn – TOÀN VĂN: Thông tư số 37/2026/TT-BCA về đăng ký, kiểm định phương tiện",
+   "type": "law",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-131",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera"
+   ],
+   "claim": "Cục CSGT khuyến cáo người dân tự tra cứu phạt nguội tại trang https://www.csgt.vn/tra-cuu-phuong-tien-vi-pham.html.",
+   "quote": "Người dân chủ động tra cứu phạt nguội trên Trang thông tin điện tử Cục CSGT tại địa chỉ https://www.csgt.vn/tra-cuu-phuong-tien-vi-pham.html để biết thông tin xe mình có vi phạm hay không.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/chu-dong-tra-cuu-phat-nguoi-tren-trang-thong-tin-dien-tu-cuc-csgt-de-biet-co-vi-pham-hay-khong-119250422172950603.htm",
+   "source_title": "Chinhphu.vn – Chủ động tra cứu \"phạt nguội\" trên Trang thông tin điện tử Cục CSGT để biết có vi phạm hay không",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-132",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "cong-tac-tinh"
+   ],
+   "claim": "Cục CSGT khuyến nghị đến trụ sở xử lý vi phạm của Phòng CSGT nơi mình cư trú, không nên đi đến nơi phát hiện vi phạm ở địa phương khác.",
+   "quote": "Nếu vi phạm người dân cần đến Trụ sở xử lý vi phạm của các đơn vị thuộc Phòng CSGT nơi mình có hộ khẩu thường trú để xử lý, không nên đến nơi phát hiện vi phạm ở địa phương khác để xử lý, vừa quá tải cho lực lượng chức năng, vừa phải đi lại xa.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/chu-dong-tra-cuu-phat-nguoi-tren-trang-thong-tin-dien-tu-cuc-csgt-de-biet-co-vi-pham-hay-khong-119250422172950603.htm",
+   "source_title": "Chinhphu.vn – Chủ động tra cứu \"phạt nguội\" trên Trang thông tin điện tử Cục CSGT để biết có vi phạm hay không",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-133",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "cong-tac-tinh"
+   ],
+   "claim": "Khi nhận thông báo phạt nguội, có thể giải quyết tại nơi phát hiện vi phạm, Phòng CSGT nơi cư trú hoặc địa điểm khác do Phòng CSGT công bố.",
+   "quote": "Người dân khi nhận được thông báo vi phạm có thể đến các địa điểm sau để giải quyết vụ việc vi phạm hành chính gồm: nơi phát hiện vi phạm hoặc Phòng CSGT nơi người dân cư trú hoặc các địa điểm tiếp nhận việc xử lý, giải quyết “phạt nguội” khác được Phòng CSGT công bố.",
+   "source": "https://bocongan.gov.vn/bai-viet/huong-dan-nop-phat-nguoi-va-tham-gia-giao-thong-khi-dang-trong-thoi-gian-cho-cap-doi-giay-phep-lai-xe-d139-t43826",
+   "source_title": "Cổng TTĐT Bộ Công an – Hướng dẫn nộp \"phạt nguội\" và tham gia giao thông khi đang trong thời gian chờ cấp, đổi giấy phép lái xe",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-134",
+   "tags": [
+    "mang-giay-to",
+    "quyen-kiem-tra-cua-csgt",
+    "thi-bang-lai-a1"
+   ],
+   "claim": "Người đang chờ cấp, đổi giấy phép có thể xuất trình giấy phép qua VNeID hoặc cung cấp số căn cước/số giấy phép cũ để CSGT tra cứu.",
+   "quote": "Lái xe, chủ phương tiện có thể xuất trình GPLX qua ứng dụng VNeID và cán bộ CSGT tiến hành kiểm tra, kiểm soát GPLX, cũng như các giấy tờ liên quan đã được tích hợp trên ứng dụng VNeID.",
+   "source": "https://bocongan.gov.vn/bai-viet/huong-dan-nop-phat-nguoi-va-tham-gia-giao-thong-khi-dang-trong-thoi-gian-cho-cap-doi-giay-phep-lai-xe-d139-t43826",
+   "source_title": "Cổng TTĐT Bộ Công an – Hướng dẫn nộp \"phạt nguội\" và tham gia giao thông khi đang trong thời gian chờ cấp, đổi giấy phép lái xe",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-135",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Bộ Công an cảnh báo lừa đảo mạo danh phạt nguội: không làm theo cuộc gọi lạ tự xưng công an yêu cầu cài ứng dụng, bấm link lạ hoặc chuyển tiền.",
+   "quote": "Đặc biệt, không làm theo yêu cầu của người lạ liên lạc qua số điện thoại gọi đến tự xưng là cán bộ Công an, để hướng dẫn cài đặt ứng dụng, kích hoạt tài khoản, các phần mềm ứng dụng, đường “link lạ”, hoặc yêu cầu chuyển tiền.",
+   "source": "https://bocongan.gov.vn/bai-viet/huong-dan-nop-phat-nguoi-va-tham-gia-giao-thong-khi-dang-trong-thoi-gian-cho-cap-doi-giay-phep-lai-xe-d139-t43826",
+   "source_title": "Cổng TTĐT Bộ Công an – Hướng dẫn nộp \"phạt nguội\" và tham gia giao thông khi đang trong thời gian chờ cấp, đổi giấy phép lái xe",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-136",
+   "tags": [
+    "thi-bang-lai-a1",
+    "thi-bang-lai-a2",
+    "doi-bang-lai-nuoc-ngoai"
+   ],
+   "claim": "Bộ Công an hướng dẫn nên làm thủ tục cấp, đổi giấy phép lái xe trực tuyến qua Cổng dịch vụ công tại dvc4.gplx.gov.vn.",
+   "quote": "người dân có nhu cấu cấp, đổi GPLX nên thực hiện thủ tục trực tuyến qua Cổng dịch vụ công quốc gia, địa chỉ: https://dvc4.gplx.gov.vn/p/home/dvc-trang-chu.html.",
+   "source": "https://bocongan.gov.vn/bai-viet/huong-dan-nop-phat-nguoi-va-tham-gia-giao-thong-khi-dang-trong-thoi-gian-cho-cap-doi-giay-phep-lai-xe-d139-t43826",
+   "source_title": "Cổng TTĐT Bộ Công an – Hướng dẫn nộp \"phạt nguội\" và tham gia giao thông khi đang trong thời gian chờ cấp, đổi giấy phép lái xe",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-137",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Trên Cổng Dịch vụ công Quốc gia, tra cứu quyết định xử phạt không cần đăng nhập nhưng nộp phạt bắt buộc phải đăng nhập tài khoản (hướng dẫn của CSGT TP.HCM, giao diện có thể đã thay đổi).",
+   "quote": "Để tra cứu quyết định xử phạt, người dân không cần đăng nhập tài khoản, tuy nhiên để nộp phạt thì bắt buộc phải đăng nhập tài khoản.",
+   "source": "https://tphcm.chinhphu.vn/huong-dan-nop-phat-vi-pham-giao-thong-qua-cong-dich-vu-cong-quoc-gia-101220420010526377.htm",
+   "source_title": "Chinhphu.vn (chuyên trang TP.HCM) – Hướng dẫn nộp phạt vi phạm giao thông qua Cổng Dịch vụ công Quốc gia",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-138",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Bị tạm giữ giấy phép lái xe, chứng nhận đăng ký xe có thể nộp phạt trực tuyến và chọn nhận lại giấy tờ qua bưu điện; bị tạm giữ xe thì sau khi nộp phải đến trực tiếp nhận xe.",
+   "quote": "Đối với trường hợp bị tạm giữ Giấy phép lái xe, Chứng nhận đăng ký xe, Giấy chứng nhận đăng kiểm có thể đóng phạt trực tuyến trên Cổng DVCQG, khi người vi phạm hoàn thành việc đóng phạt, chọn trên hệ thống nhận lại giấy tờ qua bưu điện.",
+   "source": "https://tphcm.chinhphu.vn/huong-dan-nop-phat-vi-pham-giao-thong-qua-cong-dich-vu-cong-quoc-gia-101220420010526377.htm",
+   "source_title": "Chinhphu.vn (chuyên trang TP.HCM) – Hướng dẫn nộp phạt vi phạm giao thông qua Cổng Dịch vụ công Quốc gia",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-139",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Bị tạm giữ phương tiện thì dù đã nộp phạt trực tuyến vẫn phải đến cơ quan lập biên bản để nhận lại xe.",
+   "quote": "Trong trường hợp bị tạm giữ phương tiện, người vi phạm (hoặc người được ủy quyền hợp pháp theo quy định) có thể đóng phạt trực tuyến trên Cổng DVCQG, tuy nhiên sau khi hoàn thành việc đóng phạt thì người vi phạm phải trực tiếp đến cơ quan người đã lập biên bản vi phạm hành chính để làm thủ tục và nhận lại phương tiện đã bị tạm giữ;",
+   "source": "https://tphcm.chinhphu.vn/huong-dan-nop-phat-vi-pham-giao-thong-qua-cong-dich-vu-cong-quoc-gia-101220420010526377.htm",
+   "source_title": "Chinhphu.vn (chuyên trang TP.HCM) – Hướng dẫn nộp phạt vi phạm giao thông qua Cổng Dịch vụ công Quốc gia",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-140",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid",
+    "tra-cuu-phat-nguoi-camera"
+   ],
+   "claim": "Quy trình xác nhận vi phạm và nộp phạt hoàn toàn trên VNeTraffic mới là mô hình Cục CSGT \"dự kiến\" (tháng 10/2026), chưa phải quy định đang áp dụng.",
+   "quote": "Cục CSGT đã dự kiến mô hình xử lý vi phạm hành chính về trật tự an toàn giao thông trên ứng dụng điện tử VNeTraffic: Thông báo và xác nhận vi phạm, nhận quyết định xử phạt, nộp phạt.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/du-kien-thong-bao-va-xac-nhan-vi-pham-trat-tu-an-toan-giao-thong-nhan-quyet-dinh-xu-phat-nop-phat-tren-vnetraffic-119261019092019507.htm",
+   "source_title": "Chinhphu.vn – Dự kiến thông báo và xác nhận vi phạm trật tự, an toàn giao thông, nhận quyết định xử phạt, nộp phạt trên VNeTraffic",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-141",
+   "tags": [
+    "diem-gplx",
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Có thể xem điểm giấy phép lái xe trên VNeID khi tài khoản định danh điện tử đạt mức độ 2; chưa bị trừ thì hiển thị 12 điểm, đã bị trừ thì hiện số điểm trừ, đơn vị xử lý, ngày và quyết định xử lý.",
+   "quote": "Điều kiện bắt buộc là tài khoản định danh điện tử phải đạt cấp độ 2. … Bước 2: Kiểm tra điểm giấy phép lái xe được hiển thị tại hệ thống. Nếu chưa bị trừ điểm giấy phép lái xe thì sẽ được hiển thị 12 điểm. Trường hợp đã bị trừ thì hệ thống sẽ hiển thị số điểm bị trừ, đơn vị xử lý vi phạm trừ điểm, ngày xử lý, quyết định xử lý.",
+   "source": "https://bocongan.gov.vn/chinh-sach-phap-luat/bai-viet/nguoi-dan-co-the-tu-theo-doi-so-diem-cua-bang-lai-xe-qua-ung-dung-vneid-d1-t1642",
+   "source_title": "Cổng TTĐT Bộ Công an – Người dân có thể tự theo dõi số điểm của bằng lái xe qua ứng dụng VNeID",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-142",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Nghị định 190/2025/NĐ-CP bổ sung Điều 28a, 28b vào Nghị định 118/2021 về xử lý vi phạm hành chính trên môi trường điện tử.",
+   "quote": "Nghị định số 190/2025/NĐ-CP bổ sung thêm điều 28a, 28b quy định về xử lý vi phạm hành chính trên môi trường điện tử vào Nghị định số 118/2021/NĐ-CP.",
+   "source": "https://baochinhphu.vn/bo-sung-quy-dinh-moi-ve-xu-ly-vi-pham-hanh-chinh-tren-moi-truong-dien-tu-10225071118095224.htm",
+   "source_title": "Báo Điện tử Chính phủ – Bổ sung quy định mới về xử lý vi phạm hành chính trên môi trường điện tử (Nghị định 190/2025/NĐ-CP)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-143",
+   "tags": [
+    "nop-phat-truc-tuyen-vneid"
+   ],
+   "claim": "Biên bản, quyết định xử phạt điện tử có thể gửi qua ứng dụng định danh quốc gia/tài khoản định danh điện tử mức độ 2 trở lên.",
+   "quote": "- Gửi qua ứng dụng định danh quốc gia/tài khoản định danh điện tử (có xác thực mức độ 2 trở lên) hoặc gửi qua ứng dụng được quy định trong các văn bản quy phạm pháp luật của ngành, lĩnh vực, địa phương;",
+   "source": "https://baochinhphu.vn/bo-sung-quy-dinh-moi-ve-xu-ly-vi-pham-hanh-chinh-tren-moi-truong-dien-tu-10225071118095224.htm",
+   "source_title": "Báo Điện tử Chính phủ – Bổ sung quy định mới về xử lý vi phạm hành chính trên môi trường điện tử (Nghị định 190/2025/NĐ-CP)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-144",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt"
+   ],
+   "claim": "Thông tư 73/2024/TT-BCA về tuần tra, kiểm soát của CSGT có 05 chương, 33 điều, hiệu lực từ 01/01/2025.",
+   "quote": "Bộ Công an vừa ban hành Thông tư số 73/2024/TT-BCA ngày 15/11/2024 quy định công tác tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ của Cảnh sát giao thông. Thông tư gồm 05 chương, 33 điều và 06 biểu mẫu ban hành kèm theo; có hiệu lực thi hành từ ngày 01/01/2025.",
+   "source": "https://mps.gov.vn/chinh-sach-phap-luat/bai-viet/mot-so-quy-dinh-moi-trong-cong-tac-tuan-tra-kiem-soat-xu-ly-vi-pham-phap-luat-ve-trat-tu-an-toan-giao-thong-duong-bo-d1-t1588",
+   "source_title": "Cổng TTĐT Bộ Công an – Một số quy định mới trong công tác tuần tra, kiểm soát, xử lý vi phạm pháp luật về trật tự, an toàn giao thông đường bộ",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-145",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "giao-hang"
+   ],
+   "claim": "Việc dừng xe phải an toàn, đúng pháp luật, không cản trở giao thông; hiệu lệnh dừng dùng gậy chỉ huy, còi, loa, tín hiệu ưu tiên hoặc biển báo, cọc tiêu, rào chắn; người lái phải giảm tốc độ và dừng vào vị trí CSGT hướng dẫn.",
+   "quote": "Việc dừng, kiểm soát phương tiện giao thông phải bảo đảm các yêu cầu: An toàn, đúng quy định của pháp luật, không gây cản trở đến hoạt động giao thông; Khi đã dừng phương tiện giao thông phải thực hiện việc kiểm soát, xử lý vi phạm (nếu có) theo quy định. … Thông tư quy định, hiệu lệnh dừng phương tiện giao thông của Cảnh sát giao thông được thực hiện thông qua một trong các tín hiệu hoặc kết hợp đồng thời các tín hiệu sau: Gậy chỉ huy giao thông, còi, loa, tín hiệu ưu tiên của phương tiện giao thông tuần tra, kiểm soát; Các tín hiệu khác theo quy định của pháp luật, gồm: Biển báo hiệu, cọc tiêu, hàng rào chắn. … Người điều khiển phương tiện giao thông khi nhận được tín hiệu phải giảm tốc độ và dừng phương tiện giao thông vào vị trí theo hướng dẫn của Cảnh sát giao thông.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/canh-sat-giao-thong-duoc-dung-phuong-tien-tham-gia-giao-thong-duong-bo-de-kiem-soat-119241130080300987.htm",
+   "source_title": "Chinhphu.vn – Quy định mới về việc Cảnh sát giao thông dừng phương tiện để kiểm soát (Thông tư 73/2024/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-146",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "giao-hang",
+    "nguoi-nuoc-ngoai"
+   ],
+   "claim": "Khi kiểm soát, CSGT phải chào theo Điều lệnh và thông báo căn cứ dừng xe, nội dung kiểm soát, rồi đề nghị xuất trình giấy tờ.",
+   "quote": "3. Thông báo cho người điều khiển phương tiện giao thông biết về căn cứ dừng phương tiện để kiểm tra, kiểm soát; nội dung kiểm soát; đề nghị người điều khiển phương tiện giao thông xuất trình các giấy tờ liên quan theo quy định tại khoản 1 Điều 8 Thông tư này để kiểm soát như sau:",
+   "source": "https://xaydungchinhsach.chinhphu.vn/quy-dinh-moi-cac-buoc-tien-hanh-kiem-soat-cua-canh-sat-giao-thong-119241130083256688.htm",
+   "source_title": "Chinhphu.vn – Quy định mới: Các bước tiến hành kiểm soát của Cảnh sát giao thông (Thông tư 73/2024/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-147",
+   "tags": [
+    "quyen-kiem-tra-cua-csgt",
+    "mang-giay-to"
+   ],
+   "claim": "Kiểm tra thông tin giấy tờ trên tài khoản định danh điện tử, cơ sở dữ liệu có giá trị như kiểm tra trực tiếp giấy tờ.",
+   "quote": "việc kiểm tra thông tin của giấy tờ trong tài khoản định danh điện tử trên ứng dụng định danh quốc gia, cơ sở dữ liệu có giá trị như kiểm tra trực tiếp giấy tờ đó.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/canh-sat-giao-thong-duoc-kiem-soat-gi-khi-dung-phuong-tien-119241204150337242.htm",
+   "source_title": "Chinhphu.vn – Cảnh sát giao thông được kiểm soát gì khi dừng phương tiện? (Thông tư 73/2024/TT-BCA)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-148",
+   "tags": [
+    "tra-cuu-phat-nguoi-camera",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Bộ Công an đã trả lời công dân về phạt nguội xe cho thuê tự lái, viện dẫn khoản 8 và khoản 11 Điều 47 Nghị định 168: chủ xe phải hợp tác xác định người lái, nếu không chứng minh được thì bị xử phạt.",
+   "quote": "Bộ Công an trả lời công dân về xử lý tài xế thuê xe tự lái bị phạt nguội.",
+   "source": "https://xaydungchinhsach.chinhphu.vn/xu-ly-nhu-the-nao-truong-hop-tai-xe-thue-xe-tu-lai-bi-phat-nguoi-119250202111131733.htm",
+   "source_title": "Chinhphu.vn – Xử lý như thế nào trường hợp tài xế thuê xe tự lái bị phạt nguội? (Bộ Công an trả lời công dân)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-149",
+   "tags": [
+    "bang-lai-quoc-te-idp",
+    "nguoi-nuoc-ngoai",
+    "thue-xe-tu-lai"
+   ],
+   "claim": "Chính phủ Anh khuyến cáo công dân Anh lái ô tô hoặc xe máy ở Việt Nam phải mang cả IDP theo Công ước 1968 và bằng lái Anh.",
+   "quote": "You’ll need to have both the 1968 version of the international driving permit and your UK driving licence with you whilst driving a car or motorbike in Vietnam.",
+   "source": "https://www.gov.uk/foreign-travel-advice/vietnam/safety-and-security",
+   "source_title": "GOV.UK – Vietnam travel advice: Safety and security (Driving and transport)",
+   "type": "guide",
+   "checked": "2026-10-31"
+  },
+  {
+   "id": "LA-150",
+   "tags": [
+    "toc-do-toi-da-xe-may",
+    "quy-dinh-xe-may-dien-50cc",
+    "xe-50cc",
+    "xe-may-dien"
+   ],
+   "claim": "Xe gắn máy (50cc, xe máy điện thuộc loại xe gắn máy) có tốc độ khai thác tối đa 40 km/h (ngoài đường cao tốc).",
+   "quote": "Xe máy chuyên dùng, xe gắn máy và các loại xe tương tự khi tham gia giao thông, tốc độ khai thác tối đa là 40 km/h.",
+   "source": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2024/11/38-bgtvt.pdf",
+   "source_title": "Thông tư 38/2024/TT-BGTVT quy định về tốc độ và khoảng cách an toàn của xe cơ giới, xe máy chuyên dùng tham gia giao thông trên đường bộ",
+   "type": "law",
+   "checked": "2026-10-31"
+  }
+ ],
+ "not_applicable": [
+  {
+   "vehicle": "xe đạp (xe đạp thể thao đường phố, touring, địa hình MTB)",
+   "component_or_topic": "thi-bang-lai-a1",
+   "explanation": "Xe đạp là xe thô sơ theo khoản 2 Điều 34 Luật 36/2024; giấy phép lái xe chỉ đặt ra cho \"người lái xe\" tức người điều khiển xe cơ giới (khoản 9 Điều 2, khoản 1 Điều 56). Không có hạng giấy phép lái xe, kỳ sát hạch hay điểm giấy phép nào cho xe đạp. Bài thuộc chủ đề bằng lái gắn với xe đạp phải trả lời thẳng là không cần bằng lái, rồi chuyển sang quy tắc thật áp dụng cho người đi xe đạp.",
+   "fact_ids": [
+    "LA-023",
+    "LA-024",
+    "LA-018"
+   ]
+  },
+  {
+   "vehicle": "xe đạp (mọi loại)",
+   "component_or_topic": "thi-bang-lai-a2",
+   "explanation": "Hạng A2 đã bị bỏ và xe đạp không cần giấy phép lái xe; không tồn tại \"bằng A2 cho xe đạp\".",
+   "fact_ids": [
+    "LA-003",
+    "LA-023",
+    "LA-024"
+   ]
+  },
+  {
+   "vehicle": "xe đạp, xe đạp điện (xe đạp máy)",
+   "component_or_topic": "sang-ten-bien-so-dinh-danh",
+   "explanation": "Luật 36/2024 chỉ buộc xe cơ giới, xe máy chuyên dùng phải có chứng nhận đăng ký và gắn biển số (khoản 1 Điều 35; Điều 39). Xe đạp và xe đạp máy (gồm cả xe đạp điện, trợ lực ngắt ở 25 km/h) là xe thô sơ nên không có thủ tục cấp biển số định danh hay sang tên theo Luật này.",
+   "fact_ids": [
+    "LA-023",
+    "LA-036"
+   ]
+  },
+  {
+   "vehicle": "xe đạp (mọi loại)",
+   "component_or_topic": "bang-lai-quoc-te-idp",
+   "explanation": "Giấy phép lái xe quốc tế chỉ có ý nghĩa với xe cơ giới; người nước ngoài đi xe đạp tại Việt Nam không cần IDP vì xe đạp không thuộc diện phải có giấy phép lái xe.",
+   "fact_ids": [
+    "LA-023",
+    "LA-024",
+    "LA-009"
+   ]
+  },
+  {
+   "vehicle": "xe gắn máy: xe 50cc và xe máy điện có công suất không quá 04 kW, vận tốc thiết kế không quá 50 km/h",
+   "component_or_topic": "thi-bang-lai-a1",
+   "explanation": "Người lái xe gắn máy không cần giấy phép lái xe; điều kiện là đủ 16 tuổi, hiểu biết quy tắc giao thông, có kỹ năng điều khiển và đủ sức khỏe (khoản 4 Điều 56, điểm a khoản 1 Điều 59). Nếu xe máy điện có công suất trên 04 kW hoặc vận tốc thiết kế trên 50 km/h thì là xe mô tô và phải có bằng A1 (đến 11 kW). Cần tra thông số hãng trong thư viện xe trước khi kết luận cho từng mẫu.",
+   "fact_ids": [
+    "LA-020",
+    "LA-015",
+    "LA-022",
+    "LA-002"
+   ]
+  },
+  {
+   "vehicle": "mọi loại xe mô tô",
+   "component_or_topic": "thi-bang-lai-a2",
+   "explanation": "Từ 01/01/2025 Điều 57 Luật 36/2024 không còn hạng A2; không có kỳ sát hạch hay cấp mới bằng A2. Bằng A2 cấp trước đó vẫn dùng theo khoản 2 Điều 89 và khi đổi, cấp lại sẽ chuyển sang hạng A (điểm b khoản 3 Điều 89). Người cần lái mô tô trên 125 cm³ hoặc trên 11 kW hiện thi hạng A. Không trình bày A2 như hạng đang cấp.",
+   "fact_ids": [
+    "LA-003",
+    "LA-032",
+    "LA-034",
+    "LA-035"
+   ]
+  },
+  {
+   "vehicle": "xe mô tô (bằng hạng A1, A, B1)",
+   "component_or_topic": "gia-han-bang-lai",
+   "explanation": "Giấy phép lái xe hạng A1, A, B1 không có thời hạn (điểm a khoản 5 Điều 57), nên không có thủ tục gia hạn hay sát hạch lại do hết hạn như bằng ô tô; chỉ đổi khi hỏng, sai thông tin, muốn tích hợp với bằng ô tô hoặc theo nhu cầu.",
+   "fact_ids": [
+    "LA-005",
+    "LA-095"
+   ]
+  },
+  {
+   "vehicle": "xe đạp (mọi loại)",
+   "component_or_topic": "diem-gplx",
+   "explanation": "Điểm giấy phép lái xe (12 điểm) gắn với giấy phép lái xe; người đi xe đạp không có giấy phép lái xe nên không có cơ chế trừ, phục hồi điểm.",
+   "fact_ids": [
+    "LA-011",
+    "LA-024"
+   ]
+  }
+ ],
+ "gaps": [
+  "Không tìm thấy văn bản hợp nhất của Nghị định 168/2024/NĐ-CP sau khi bị Nghị định 238/2026/NĐ-CP sửa đổi (hiệu lực 15/8/2026). Mức phạt trích từ bản gốc NĐ 168 trên Chinhphu.vn và đã đối chiếu thủ công với NĐ 238: trong phạm vi thư viện, NĐ 238 chỉ sửa điểm a khoản 4 Điều 18, điểm b khoản 3 Điều 14, điểm đ khoản 1 và khoản 3 Điều 50, cùng một số cụm từ tại Điều 7, 47, 48, 32 (không đụng khoản 3, 8, 10 Điều 32, khoản 7 Điều 7, khoản 10 Điều 12). Trang 10 của NĐ 238 (Điều 14 về thẩm quyền) chưa đọc.",
+  "Thông tư 108/2026/TT-BCA (134 trang) và Nghị định 238/2026/NĐ-CP trên datafiles.chinhphu.vn là PDF ảnh quét, không có lớp chữ; các trích dẫn được chép tay từ ảnh trang. Nên đối chiếu lại khi có bản văn bản (vbpl.vn, Công báo) trước khi trích nguyên văn số liệu.",
+  "Không lấy được toàn văn Thông tư 79/2024/TT-BCA (đăng ký xe) và không xác minh được Thông tư 62/2026/TT-BCA (được một trang thương mại nhắc là có sửa Điều 16 TT 79). Thủ tục sang tên lấy từ hướng dẫn Chinhphu.vn dựa trên Quyết định 1383/QĐ-BCA (2025) và trang tóm tắt Thông tư 37/2026/TT-BCA (hiệu lực 08/6/2026). Biểu mẫu (ĐKX10, ĐKX11) và thời hạn có thể đã được TT 37/2026 hoặc văn bản sau sửa.",
+  "Thông tư 73/2024/TT-BCA (tuần tra, kiểm soát) chỉ có bản PDF quét 41 trang; trích nội dung qua bài của Chinhphu.vn và Cổng TTĐT Bộ Công an. Không tìm thấy văn bản sửa đổi năm 2025–2026, nhưng chưa xác minh được trên Cơ sở dữ liệu quốc gia về pháp luật.",
+  "Không trích được mức phí sát hạch lái xe, lệ phí cấp, đổi giấy phép lái xe và IDP hiện hành: bảng số liệu của Thông tư 37/2023/TT-BTC và dự thảo 2025 trên Chinhphu.vn bị mất phần số khi tải. Không được ghi số tiền phí, lệ phí.",
+  "Không xác minh được thông tin \"giảm 50% tiền phạt khi nộp phạt trực tuyến\": không có trong Luật Xử lý vi phạm hành chính hợp nhất 171/2026 và bài giới thiệu Nghị định 190/2025/NĐ-CP. Không viết thông tin này.",
+  "Chưa có hướng dẫn chính thức về nộp phạt trực tiếp trong ứng dụng VNeID. Hướng dẫn nộp phạt trên Cổng Dịch vụ công Quốc gia là bài năm 2022 của CSGT TP.HCM, giao diện có thể đã đổi. Quy trình xác nhận vi phạm và nộp phạt trên VNeTraffic mới ở mức \"dự kiến\" (10/2026).",
+  "Chưa xác minh từ nguồn chính thức danh sách nước thành viên Công ước Viên 1968, ví dụ IDP của Mỹ (Công ước 1949) có được công nhận không (travel.state.gov trả lỗi 403). Chỉ có nguồn GOV.UK cho công dân Anh.",
+  "Số câu, thời gian và điểm đạt bài lý thuyết A1, A theo Thông tư 12/2025 (áp dụng đến 28/02/2027) chỉ có qua bài Chinhphu.vn (25 câu, 19 phút); chưa mở được Phụ lục II Thông tư 12/2025.",
+  "Chưa trích chương trình đào tạo (số giờ lý thuyết, thực hành) hạng A1, A theo Nghị định 94/2026/NĐ-CP và thông tư hướng dẫn đào tạo.",
+  "Khoản 4 Điều 89 Luật 36/2024 (chuyển tiếp cho người đang học lái trước 2025) trong PDF 55/VBHN-VPQH bị lỗi phông, không trích nguyên văn được.",
+  "Luật 36/2024 không quy định tuổi tối thiểu cho xe đạp, xe đạp điện tại Điều 59; chưa tìm văn bản khác quy định nội dung này.",
+  "Công suất, vận tốc thiết kế của từng mẫu xe máy điện (VinFast Evo 200, Feliz S, Klara S; Tailg) để xếp là xe gắn máy hay xe mô tô không thuộc thư viện pháp lý này; cần lấy từ thư viện thông số hãng.",
+  "Quy định tốc độ chỉ trích Điều 7 Thông tư 38/2024/TT-BGTVT (xe gắn máy 40 km/h); chưa kiểm tra văn bản sửa đổi Thông tư 38 trong 2025–2026."
+ ]
+}
