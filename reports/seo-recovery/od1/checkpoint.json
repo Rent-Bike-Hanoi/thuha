@@ -1,7 +1,7 @@
 {
  "task": "OD-1: viết lại 608 bài (572 sai loại xe, 24 luật XEM_LAI, 13 A2), giữ URL, không noindex hàng loạt",
  "owner_request": "Tiếp tục xử lý danh sách OD-1 gồm 608 bài ... THỰC THI TRỰC TIẾP TRÊN GITHUB ... theo từng lô 20–30 bài",
- "updated": "2026-10-31T18:00:00+07:00",
+ "updated": "2026-10-31T19:00:00+07:00",
  "matrix": "reports/seo-recovery/od1/od1_matrix.csv (cột status: TODO/WRITTEN/QA_PASS/DEPLOYED/BLOCKED)",
  "brief": "reports/seo-recovery/od1/BRIEF.md",
  "tools": "reports/seo-recovery/od1/tools/check_shard.py",
@@ -10,11 +10,11 @@
   "plans": "reports/seo-recovery/od1/plan/<GROUP>.json",
   "workflows_running": [
    "war3q98am vinfast",
-   "wf6qthlsw bicycle",
-   "wbk2rl32s xemay"
+   "wf6qthlsw bicycle"
   ],
   "done": [
-   "legal: lib/legal_a.json (150), lib/legal_b.json (142), plan/LUAT.json (35 khả thi, 1 BLOCKED NH-01045 bảo hiểm TNDS — OD-6)"
+   "legal: lib/legal_a.json (150), lib/legal_b.json (142), plan/LUAT.json (35 khả thi, 1 BLOCKED NH-01045 bảo hiểm TNDS — OD-6)",
+   "xemay: lib/xemay.json (123), plan/XEMAY.json (87/87 khả thi)"
   ]
  },
  "batches_done": [],
@@ -22,9 +22,14 @@
  "resume": "Đọc file này + od1_matrix.csv; lô nào status DEPLOYED thì bỏ qua; lô WRITTEN thì chạy QA/deploy; lô TODO thì chạy od1-batch.",
  "batches_running": {
   "OD1-B01": "workflow whhi156p1, worktree /home/user/thuha-od1-b01 (nhánh claude/seo-od1-b01)",
-  "OD1-B02": "workflow wygjrxy6s, worktree /home/user/thuha-od1-b02 (nhánh claude/seo-od1-b02)"
+  "OD1-B02": "workflow wygjrxy6s, worktree /home/user/thuha-od1-b02 (nhánh claude/seo-od1-b02)",
+  "OD1-B21": "workflow wiafx34lo, worktree /home/user/thuha-od1-b21",
+  "OD1-B22": "workflow wv48ci6fl, worktree /home/user/thuha-od1-b22"
  },
  "batch_workflow_script": "/root/.claude/projects/-home-user/d2ee80cf-e387-578e-9efc-dc9c42172ccb/workflows/scripts/od1-batch-wf_e901aad3-43d.js (args: python3 reports/seo-recovery/od1/tools/batch_args.py OD1-Bxx 4 + libs)",
  "lesson": "Không tự gõ args lô: luôn sinh bằng batch_args.py và assert url/id khớp file (lần chạy B01 đầu bị dừng vì ghép sai id, chưa sửa file nào).",
- "law_changes_2026": "Luật 118/2025 sửa Luật 36 (01/7/2026, hợp nhất 55/VBHN-VPQH); NĐ 238/2026 sửa NĐ 168 (15/8/2026); TT 108/2026/TT-BCA thay TT 12/2025 (01/7/2026); NĐ 94/2026 thay NĐ 160/2024 — cần rà các bài luật viết tay/V2 sau OD-1."
+ "law_changes_2026": "Luật 118/2025 sửa Luật 36 (01/7/2026, hợp nhất 55/VBHN-VPQH); NĐ 238/2026 sửa NĐ 168 (15/8/2026); TT 108/2026/TT-BCA thay TT 12/2025 (01/7/2026); NĐ 94/2026 thay NĐ 160/2024 — cần rà các bài luật viết tay/V2 sau OD-1.",
+ "worktrees_ready": [
+  "/home/user/thuha-od1-b23 (OD1-B23 chưa chạy; args: scratchpad/seo/b23_args.json hoặc batch_args.py OD1-B23 4)"
+ ]
 }
