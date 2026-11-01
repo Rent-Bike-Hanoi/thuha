@@ -37,6 +37,9 @@ def main():
     for f in args.files:
         a=json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8')); batch_docs[a['url']]=dict(a=a,indexable=True,src=f)
     uniq=seo_qa.Uniq({**docs,**batch_docs})
+    cfg=json.loads((ROOT/'config/content-factory.json').read_text(encoding='utf-8'))
+    def was_noindex(a):
+        return a['url'] in set(nl['urls']) or (bool(cfg.get('noindex_factory_articles')) and int(a.get('factoryVersion') or 1)<2)
     passed=[];failed=[];qa_rows=[];log=[]
     batch_urls=frozenset(json.loads((ROOT/f if not Path(f).is_absolute() else Path(f)).read_text(encoding='utf-8'))['url'] for f in args.files)
     for f in args.files:
@@ -51,7 +54,7 @@ def main():
         rw=a.get('rewrite') or {}
         ok=r['pass_'] and bool(rw.get('rewrittenAt'))
         row=dict(ts=now(),batch=args.batch,url=a['url'],score=r['score'],pass_=ok,checks=r['checks'],critical=r['critical']+([] if rw.get('rewrittenAt') else ['missing rewrite.rewrittenAt']),
-                 before=dict(title=(before or {}).get('title'),words=plainwords(before) if before else None,noindex=True) ,
+                 before=dict(title=(before or {}).get('title'),words=plainwords(before) if before else None,noindex=was_noindex(a)) ,
                  after=dict(title=a['title'],words=r['words'],sections=r['sections'],faq=r['faq'],max_sim=r['max_sim'],max_sim_url=r['max_sim_url'],sources=r['sources'],external_link=r['external_link'],noindex=not ok),
                  production_verified=False,evidence='scripts/seo_qa.py')
         qa_rows.append(row)
@@ -65,7 +68,10 @@ def main():
             if before and before.get(fld)!=a.get(fld):
                 log.append(dict(ts=now(),batch=args.batch,url=a['url'],file=rel,change_type='content',field=fld,before=before.get(fld),after=a.get(fld),commit='(pending)',note=''))
         log.append(dict(ts=now(),batch=args.batch,url=a['url'],file=rel,change_type='content',field='sections/faq/sources',before=f"{plainwords(before) if before else '?'} từ, {len((before or {}).get('sections',[]))} mục, 0 nguồn",after=f"{r['words']} từ, {r['sections']} mục, {r['faq']} FAQ, {r['sources']} nguồn; QA {r['score']}",commit='(pending)',note='viết lại toàn bộ, giữ URL'))
-        log.append(dict(ts=now(),batch=args.batch,url=a['url'],file='config/factory-noindex.json, config/factory-reindex.json',change_type='indexability',field='robots',before='noindex,follow ('+('factory-noindex.json' if a['url'] in nl['urls'] else 'cờ noindex_factory_articles')+')',after='index-eligible (factory-reindex.json), vào sitemap-posts.xml',commit='(pending)',note=''))
+        if was_noindex(a):
+            log.append(dict(ts=now(),batch=args.batch,url=a['url'],file='config/factory-noindex.json, config/factory-reindex.json',change_type='indexability',field='robots',before='noindex,follow ('+('factory-noindex.json' if a['url'] in nl['urls'] else 'cờ noindex_factory_articles')+')',after='index-eligible (factory-reindex.json), vào sitemap-posts.xml',commit='(pending)',note=''))
+        else:
+            log.append(dict(ts=now(),batch=args.batch,url=a['url'],file='config/factory-reindex.json',change_type='verification',field='factory-reindex',before='index-eligible, bài V1 chưa kiểm chứng',after='index-eligible, đã kiểm chứng (factory-reindex.json, QA '+str(r['score'])+')',commit='(pending)',note=''))
     if not args.dry_run and passed:
         nl['urls']=[u for u in nl['urls'] if u not in set(passed)]
         rl['urls']=sorted(set(rl['urls'])|set(passed))
