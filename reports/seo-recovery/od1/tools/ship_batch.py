@@ -83,5 +83,11 @@ sh('git', 'checkout', '--', 'data/topic-matrix-published.jsonl', 'data/topic-mat
 sh('git', 'add', '-A')
 sh('git', 'commit', '-q', '-m', f'build({batch}): dựng lại trang sau khi viết lại bài OD-1' + SIGN)
 sh('git', 'push', '-q', '-u', 'origin', 'HEAD')
+if '--to-main' in sys.argv:
+    # Không có công cụ tạo PR (GitHub MCP ngắt): chuỗi kiểm tra CI đã chạy ở trên; đẩy fast-forward lên main để Pages deploy.
+    sh('git', 'fetch', '-q', 'origin', 'main')
+    sh('git', 'merge-base', '--is-ancestor', 'origin/main', 'HEAD')
+    sh('git', 'push', '-q', 'origin', 'HEAD:main')
+    result['pushed_main'] = True
 result['head'] = sh('git', 'rev-parse', 'HEAD', capture=True).stdout.strip()
 print(json.dumps(result, ensure_ascii=False, indent=1))
