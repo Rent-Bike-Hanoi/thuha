@@ -1,0 +1,50 @@
+{
+ "batch": "OD1-B02",
+ "passed": [
+  {
+   "url": "/luat-giao-thong/chuyen-huong-khong-xi-nhan-nguoi-moi-lay-bang-lai-thu-tuc-va-cac-buoc-chuan-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "file": "content/articles/NH-01185.json",
+   "title": "Chuyển hướng không xi nhan: các bước rẽ đúng luật khi trời mưa",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/di-vao-duong-cam-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-muc-phat-va-hinh-thuc-xu-ly-trong-cac-dip-nghi-le-va-cao-diem-tet/",
+   "file": "content/articles/NH-01585.json",
+   "title": "Đi vào đường cấm dịp lễ Tết: phạt bao nhiêu với xe của con?",
+   "qa_score": 100
+  },
+  {
+   "url": "/luat-giao-thong/dung-dien-thoai-khi-lai-xe-nguoi-thue-xe-tu-lai-tinh-huong-va-cach-phong-tranh-trong-cac-tuyen-pho-noi-do-ha-noi/",
+   "file": "content/articles/NH-02215.json",
+   "title": "Dùng điện thoại xem bản đồ khi lái xe thuê: tình huống bị phạt",
+   "qa_score": 100
+  },
+  {
+   "url": "/luat-giao-thong/dung-do-xe-tren-he-pho-nguoi-thue-xe-tu-lai-tinh-huong-va-cach-phong-tranh-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "file": "content/articles/NH-00975.json",
+   "title": "Dừng đỗ xe trên hè phố và cầu sông Hồng: khi nào bị phạt?",
+   "qa_score": 100
+  },
+  {
+   "url": "/luat-giao-thong/phat-di-nguoc-chieu-nguoi-moi-lay-bang-lai-so-sanh-thay-doi-moi-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "file": "content/articles/NH-00145.json",
+   "title": "Phạt đi ngược chiều trong ngõ một chiều: so sánh 3 lỗi dễ nhầm",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/phat-vuot-den-do-nguoi-moi-lay-bang-lai-so-sanh-thay-doi-moi-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "file": "content/articles/NH-00765.json",
+   "title": "Vượt đèn đỏ ngày mưa: gặp đèn vàng nên dừng hay đi?",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/quy-dinh-mu-bao-hiem-nguoi-thuong-xuyen-di-cong-tac-tinh-giai-dap-thac-mac-pho-bien-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "file": "content/articles/NH-03025.json",
+   "title": "Quy định mũ bảo hiểm: đội mũ không đạt chuẩn có bị phạt không?",
+   "qa_score": 95
+  }
+ ],
+ "failed": [],
+ "pushed_main": true,
+ "head": "70848e10a469c2d03f8dbcc7dddcc9509a3cc3ff"
+}
