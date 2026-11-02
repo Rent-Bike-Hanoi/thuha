@@ -1,7 +1,7 @@
 {
  "task": "OD-1: viết lại 608 bài (572 sai loại xe, 24 luật XEM_LAI, 13 A2), giữ URL, không noindex hàng loạt",
  "owner_request": "Tiếp tục xử lý danh sách OD-1 gồm 608 bài ... THỰC THI TRỰC TIẾP TRÊN GITHUB ... theo từng lô 20–30 bài",
- "updated": "2026-11-02T05:50:00Z",
+ "updated": "2026-11-02T08:00:00Z",
  "matrix": "reports/seo-recovery/od1/od1_matrix.csv (cột status: TODO/WRITTEN/QA_PASS/DEPLOYED/BLOCKED)",
  "brief": "reports/seo-recovery/od1/BRIEF.md",
  "tools": "reports/seo-recovery/od1/tools/check_shard.py",
@@ -27,20 +27,29 @@
  "ship": "python3 reports/seo-recovery/od1/tools/ship_batch.py OD1-BXX /home/user/thuha-od1-bXX <file...> --to-main > ship.json  (chỉ file đã verified=true & pass); rồi verify_live.py ship.json; cập nhật od1_matrix.csv.",
  "github": "GitHub MCP + gh mất kết nối (token gh hỏng); git push vẫn được (check_repo_access ok). Ship = ship_batch.py ... --to-main: chạy chuỗi CI cục bộ rồi đẩy fast-forward lên main (Pages deploy).",
  "workflows_running": {
-  "resume verify+fix B01": "wnak4t0fg (run wf_e0a29c5a-08e)",
-  "resume verify+fix B02": "wbxpafvfh (wf_4bb1dbf6-c2a)",
-  "resume fix B22": "wfnfk97ra (wf_eb357cc0-3d1)",
-  "resume rest B01": "wlqafxamy (wf_54d40902-c35)",
-  "resume rest B02": "wbm3u99o4 (wf_805f1aa1-c11)",
-  "write rest B21": "wfiakwndr (wf_89589f9d-b01)",
-  "write B03 (XDTP)": "wror0v6dg (wf_c29d4e7e-bad), worktree /home/user/thuha-od1-b03"
+  "B02 verify+fix (11)": "wbxpafvfh (wf_4bb1dbf6-c2a)",
+  "B21 rest (21)": "wfiakwndr (wf_89589f9d-b01)",
+  "B03 XDTP (28)": "wror0v6dg (wf_c29d4e7e-bad)",
+  "B22 rest (22)": "wm8tutn8b (wf_f90adc1f-a47)",
+  "B23 rest (18)": "wjirz3vbn (wf_49b42ead-03d)",
+  "B12 EVO (28)": "wn2y6b7jt (wf_05588acb-c8d)"
  },
  "args_files": "scratchpad seo/bXX_args.json (đủ), bXX_verify.json (đã viết), bXX_rest.json (còn lại)",
  "deployed": {
-  "OD1-B23": "8 bài (d08f691b91), live 8/8",
-  "OD1-B21": "9 bài (4fea55018c), live 9/9",
-  "total": 17
+  "OD1-B23": "8 (d08f691b91)",
+  "OD1-B21": "9 (4fea55018c)",
+  "OD1-B22": "9 (5330d6baac)",
+  "OD1-B02": "7 (1750681120)",
+  "OD1-B01": "9+7 (b61804a5b6, f96c186386)",
+  "total": 49,
+  "live": "49/49 OK"
  },
  "resume_rule": "Workflow resumeFromRunId + cùng scriptPath + cùng args: agent đã xong lấy cache, agent lỗi (quota) chạy lại. args gốc nằm trong thông báo diagnostics của từng run.",
- "matrix_tool": "tools/matrix_update.py ship.json live.json"
+ "matrix_tool": "tools/matrix_update.py ship.json live.json",
+ "retry": [
+  "NH-00195 (B01): trùng 0,61 với NH-01815 sau khi B02 ship — cần viết lại phần trùng"
+ ],
+ "blocked": [
+  "NH-01045 (B01): bảo hiểm TNDS — chờ OD-6"
+ ]
 }
