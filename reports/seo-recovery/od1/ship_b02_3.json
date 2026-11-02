@@ -1,0 +1,32 @@
+{
+ "batch": "OD1-B02",
+ "passed": [
+  {
+   "url": "/luat-giao-thong/muc-phat-nong-do-con-nguoi-thuong-xuyen-di-cong-tac-tinh-thu-tuc-va-cac-buoc-chuan-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "file": "content/articles/NH-02575.json",
+   "title": "Bị kiểm tra nồng độ cồn xe máy ở cửa ngõ Hà Nội: 5 bước cần làm",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/nhan-biet-bien-bao-cam-nguoi-moi-lay-bang-lai-giai-dap-thac-mac-pho-bien-khi-di-qua-cac-nut-giao-trong-diem-co-camera-giam-sat/",
+   "file": "content/articles/NH-02875.json",
+   "title": "Nhận biết biển báo cấm ở nút giao: cấm rẽ trái được quay đầu?",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/nhuong-duong-tai-nut-giao-nguoi-di-lam-tai-cac-do-thi-so-sanh-thay-doi-moi-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "file": "content/articles/NH-03175.json",
+   "title": "Nhường đường tại nút giao đầu cầu: đường nhánh, đường chính",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/nop-phat-truc-tuyen-vneid-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-so-sanh-thay-doi-moi-tren-cac-cung-duong-ngoai-thanh-va-lien-tinh/",
+   "file": "content/articles/NH-01245.json",
+   "title": "Nộp phạt trực tuyến trên VNeID được chưa? So sánh các kênh",
+   "qa_score": 95
+  }
+ ],
+ "failed": [],
+ "pushed_main": true,
+ "head": "499d465c207188fa660931ab9747246f06a1072c"
+}
