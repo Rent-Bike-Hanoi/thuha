@@ -1,0 +1,56 @@
+{
+ "batch": "OD1-B23",
+ "passed": [
+  {
+   "url": "/xe-may/xe-tay-ga-honda-vision/cham-soc-pin-xe-dien-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-00602.json",
+   "title": "Honda Vision có pin không? Bình điện 12 V-5 Ah, dấu hiệu yếu",
+   "qa_score": 100
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-vision/cham-soc-pin-xe-dien-nhan-vien-van-phong-ban-ron-truoc-chuyen-phuot-di-xa-lich-trinh-dinh-ky/",
+   "file": "content/articles/NH-02336.json",
+   "title": "Lịch kiểm tra bình điện Vision trước chuyến đi xa: mỗi 6.000 km",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-vision/cham-soc-pin-xe-dien-sinh-vien-tu-bao-duong-xe-moc-bao-duong-dinh-ky-5000-km-chi-phi-thuc-te/",
+   "file": "content/articles/NH-01470.json",
+   "title": "Vision không có pin: thay bình điện loại nào, sinh viên tốn gì",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-vision/cham-soc-pin-xe-dien-tai-xe-cong-nghe-chay-xe-lien-tuc-nhung-ngay-nang-nong-dinh-diem-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-03202.json",
+   "title": "Vision Idling Stop không nổ lại: bình yếu, không phải hết pin",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-lead/cham-soc-pin-xe-dien-nguoi-moi-mua-xe-lan-dau-mua-mua-ngap-ung-do-thi-sai-lam-pho-bien/",
+   "file": "content/articles/NH-01542.json",
+   "title": "Honda LEAD có pin không? Bình điện 12 V-5 Ah và lỗi mùa mưa",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-lead/cham-soc-pin-xe-dien-nguoi-thue-xe-dai-han-nhung-ngay-nang-nong-dinh-diem-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-00676.json",
+   "title": "LEAD chống trộm không kêu: bình 12 V yếu hay pin chìa khóa?",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-lead/cham-soc-pin-xe-dien-nhan-vien-van-phong-ban-ron-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-03276.json",
+   "title": "LEAD ít đi có hết bình không? Có, và dấu hiệu cần xem mùa đông",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-tay-ga-honda-lead/cham-soc-pin-xe-dien-sinh-vien-tu-bao-duong-xe-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
+   "file": "content/articles/NH-02410.json",
+   "title": "LEAD 125 không có pin: lịch kiểm tra bình điện khi để xe lâu",
+   "qa_score": 95
+  }
+ ],
+ "failed": [],
+ "pushed_main": true,
+ "head": "d08f691b911856a16f1b41fab6dcf7b6c7ee2ee5"
+}

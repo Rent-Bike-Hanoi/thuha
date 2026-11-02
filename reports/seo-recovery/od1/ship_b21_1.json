@@ -1,0 +1,62 @@
+{
+ "batch": "OD1-B21",
+ "passed": [
+  {
+   "url": "/xe-may/xe-may-so-honda-wave/cham-soc-pin-xe-dien-nguoi-moi-mua-xe-lan-dau-nhung-ngay-nang-nong-dinh-diem-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-03166.json",
+   "title": "Wave Alpha có pin không? Bình điện 12 V-3 Ah và dấu hiệu yếu",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-may-so-honda-wave/cham-soc-pin-xe-dien-nguoi-su-dung-xe-hang-ngay-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-00566.json",
+   "title": "Wave Alpha đi mưa không đề được: không phải hết pin, kiểm tra gì",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-may-so-honda-wave/cham-soc-pin-xe-dien-nguoi-thue-xe-dai-han-mua-dong-thoi-tiet-lanh-gia-lich-trinh-dinh-ky/",
+   "file": "content/articles/NH-02300.json",
+   "title": "Wave Alpha không có pin xe điện: lịch kiểm tra bình điện mùa đông",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-may-so-honda-wave/cham-soc-pin-xe-dien-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-chi-phi-thuc-te/",
+   "file": "content/articles/NH-01432.json",
+   "title": "Wave để lâu hết bình: không phải pin xe điện, dự trù khoản gì",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-may-so-honda-wave/kiem-tra-nuoc-lam-mat-nguoi-moi-mua-xe-lan-dau-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-03512.json",
+   "title": "Wave Alpha có nước làm mát không? Việc cần làm ở mốc 5.000 km",
+   "qa_score": 100
+  },
+  {
+   "url": "/xe-may/xe-con-tay-honda-winner-x/cham-soc-pin-xe-dien-nguoi-moi-mua-xe-lan-dau-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/",
+   "file": "content/articles/NH-02482.json",
+   "title": "Winner X có pin không? Bình GTZ6V 12 V-5 Ah và lịch kiểm tra",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-con-tay-honda-winner-x/cham-soc-pin-xe-dien-nguoi-thue-xe-dai-han-mua-mua-ngap-ung-do-thi-sai-lam-pho-bien/",
+   "file": "content/articles/NH-01616.json",
+   "title": "Winner X đề nhiều lần hết bình: 4 sai lầm mùa mưa ngập",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-con-tay-honda-winner-x/cham-soc-pin-xe-dien-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-00750.json",
+   "title": "Winner X ít đi mùa đông có hết bình? Dấu hiệu cần kiểm tra",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-con-tay-honda-winner-x/cham-soc-pin-xe-dien-sinh-vien-tu-bao-duong-xe-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-03350.json",
+   "title": "Kiểm tra bình điện Winner X trước khi đi phượt: dấu hiệu, cầu chì",
+   "qa_score": 100
+  }
+ ],
+ "failed": [],
+ "pushed_main": true,
+ "head": "4fea55018c9107aded6c189b8e887a6138114b66"
+}
