@@ -122,12 +122,13 @@
     ]
    },
    "angle_notes": "Chi phí thực tế: không có giá săm lốp xe đạp từ nguồn chính thức (gaps), chỉ liệt kê khoản: săm dự phòng, bộ vá, bơm có đồng hồ, lốp thay khi lộ lớp chống đâm (BB-012) hoặc sau ba năm (BB-018). Nguyên nhân: Park Tool hai vết rách song song do săm bị kẹp giữa vành và chướng ngại, khắc phục bằng tăng áp hoặc lốp rộng hơn (BB-031); Continental MTB áp quá thấp gây nảy, dễ kẹp lốp vào cạnh sắc (BB-025). Mưa: Continental cho bớt áp trên đường ướt, bùn để bám hơn (BB-024) nhưng vẫn trong dải in trên lốp (BB-001); áp cao cản lăn và nguy cơ thủng thấp hơn, áp thấp êm và bám hơn (BB-005); Trek đường ướt giảm bám, vạch sơn, nắp cống trơn (BB-081). Chỉ nói chướng ngại khuất dưới nước, không đưa số liệu ổ gà. Người dùng xe thuê dài hạn: chi phí thủng săm do hợp đồng nơi thuê quy định; nói rõ cửa hàng không cho thuê xe đạp, có xe số, xe ga, xe máy điện thuê tháng.",
-   "differentiation": "Bài thủng săm mùa mưa cho người dùng săm thường. NH-01070 (cùng mùa mưa, chi phí) bàn chuyển sang lốp tubeless và dung dịch tự vá; NH-00202 con số psi theo cỡ lốp; NH-01936 lốp xẹp sau khi để lâu; NH-02802 áp suất theo cân nặng.",
+   "differentiation": "Bài thủng săm mùa mưa cho người dùng săm thường. NH-01070 (cùng mùa mưa, chi phí) bàn chuyển sang lốp tubeless và dung dịch tự vá; NH-00202 con số psi theo cỡ lốp; NH-01936 lốp xẹp sau khi để lâu; NH-02802 áp suất theo cân nặng. Cùng slug với NH-01106 (áp suất lốp xe đạp touring mùa mưa, OD1-B06): bài MTB lấy thủng săm làm trục chính, áp suất chỉ là một nguyên nhân; không lặp phần quãng phanh đường ướt và lịch đo hằng tháng của bài touring.",
    "nearest_existing": [
     "/bao-duong/xe-may/ap-suat-lop/",
     "/kinh-nghiem/diem-ngap-ha-noi-khi-mua-xe-may/",
     "/xe-dap/xe-dap-the-thao-duong-pho/ap-suat-lop-chuan-nguoi-su-dung-xe-hang-ngay-truoc-chuyen-phuot-di-xa-huong-dan-chi-tiet/",
-    "/xe-dap/xe-dap-the-thao-duong-pho/ap-suat-lop-chuan-nhan-vien-van-phong-ban-ron-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/"
+    "/xe-dap/xe-dap-the-thao-duong-pho/ap-suat-lop-chuan-nhan-vien-van-phong-ban-ron-nhung-ngay-nang-nong-dinh-diem-chi-phi-thuc-te/",
+    "/xe-dap/xe-dap-touring-the-thao/ap-suat-lop-chuan-nguoi-thue-xe-dai-han-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/"
    ]
   },
   {
@@ -748,12 +749,13 @@
     ]
    },
    "angle_notes": "Góc dấu hiệu cần kiểm tra dưới dạng chuẩn bị chuyến đi: SR SUNTOUR SAG 15–30% hành trình tối đa, đo với riêng cân nặng người lái, tùy mục đích (BB-045); bảng áp suất gợi ý chỉ trích được dòng 65–75 kg (BB-046) — ghi rõ, các mức cân nặng khác xem sách phuộc; không vượt áp tối đa 100–180 psi tùy dòng (BB-046). Dấu hiệu chưa sẵn sàng: nứt, móp, cong, rò dầu, ấn quá mềm (BB-047), tiếng lạ thì dừng (BB-052). Nhân viên văn phòng bận rộn: quy trình ngắn nhưng không hứa số phút; việc tháo phuộc để đại lý (BB-043, BB-044); mốc giờ là tối đa (BB-040).",
-   "differentiation": "Bài chỉnh SAG và áp phuộc hơi trước chuyến đi; NH-00766 (cùng góc dấu hiệu) là dấu hiệu phuộc cần bảo dưỡng trước mùa đông; NH-01632 sai lầm của người mới; NH-02500 lịch theo giờ.",
+   "differentiation": "Bài chỉnh SAG và áp phuộc hơi trước chuyến đi; NH-00766 (cùng góc dấu hiệu) là dấu hiệu phuộc cần bảo dưỡng trước mùa đông; NH-01632 sai lầm của người mới; NH-02500 lịch theo giờ. Cùng slug với NH-00802 (dấu hiệu phuộc xe đạp touring cần bảo dưỡng, OD1-B06): bài MTB là thao tác chỉnh SAG theo cân nặng cho phuộc hơi; không liệt kê lại dấu hiệu phuộc hỏng (đã có ở NH-00766 trong nhóm).",
    "nearest_existing": [
     "/xe-may/cac-loai-phuoc-xe-may/",
     "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
     "/xe-dap/xe-dap-the-thao-duong-pho/bao-duong-phuoc-giam-xoc-nguoi-thue-xe-dai-han-nhung-ngay-nang-nong-dinh-diem-sai-lam-pho-bien/",
-    "/xe-dap/xe-dap-touring-the-thao/bao-duong-phuoc-giam-xoc-nu-gioi-su-dung-xe-ga-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/"
+    "/xe-dap/xe-dap-touring-the-thao/bao-duong-phuoc-giam-xoc-nu-gioi-su-dung-xe-ga-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/",
+    "/xe-dap/xe-dap-touring-the-thao/bao-duong-phuoc-giam-xoc-nhan-vien-van-phong-ban-ron-truoc-chuyen-phuot-di-xa-dau-hieu-can-kiem-tra/"
    ]
   },
   {
@@ -1237,12 +1239,13 @@
     ]
    },
    "angle_notes": "Hướng dẫn chi tiết phân biệt: Điều 34 khoản 2 điểm b — xe đạp máy, gồm xe đạp điện, là xe đạp có trợ lực từ động cơ, ngắt khi dừng đạp hoặc đạt 25 km/h (BB-109, BA-150), khác xe đạp thuần (BB-108). Nghĩa vụ: Điều 31 khoản 3 mũ bảo hiểm cho người điều khiển, người được chở trên xe đạp máy, không nêu xe đạp thuần (BB-111); mức phạt NĐ 168 Điều 9 khoản 4 điểm d, đ (BB-125) — bài vệ tinh, link trụ cột mũ bảo hiểm, không lặp bảng; NĐ 238/2026 không sửa Điều 9 theo nguồn thứ cấp (BB-131, ghi rõ là nguồn thứ cấp). Đèn từ 18 giờ (BB-112). Bảo dưỡng: FOX phuộc 38mm 2026 nêu e-MTB và điều kiện rất ướt, bùn là lý do làm dịch vụ sớm hơn (BB-052); khóa: Sold Secure khuyên xe điện dùng khóa xếp hạng Powered Cycle (BB-090). Mùa mưa: quãng phanh dài hơn (BA-072, BB-081). Pin e-MTB: thư viện không có nguồn hãng về sạc, cất pin xe đạp điện nên chỉ khuyên đọc sách hãng, không viết số. Nữ giới dùng xe ga: so với xe ga, e-MTB vẫn phải đạp và trợ lực ngắt ở 25 km/h; link trang thuê xe điện như lựa chọn khác cho người không muốn đạp. Không viết người đi xe đạp thuần bị phạt vì không đội mũ.",
-   "differentiation": "Bài duy nhất về e-MTB trong nhóm; NH-01762 trả lời MTB thường không có pin; NH-00896 quy định đèn khi đi đêm; NH-03496 pin đèn để lâu.",
+   "differentiation": "Bài duy nhất về e-MTB trong nhóm; NH-01762 trả lời MTB thường không có pin; NH-00896 quy định đèn khi đi đêm; NH-03496 pin đèn để lâu. Cùng slug với NH-00066 (xe đạp touring có bắt buộc lắp đèn không, OD1-B06): bài MTB không làm lại phần quy định đèn và mức phạt đèn, chỉ nhắc một câu và link; trục chính là phân loại e-MTB theo luật và nghĩa vụ mũ bảo hiểm của xe đạp máy.",
    "nearest_existing": [
     "/luat-giao-thong/khong-doi-mu-bao-hiem-phat-bao-nhieu/",
     "/xe-dien/pin-sac/",
     "/xe-dap/xe-dap-the-thao-duong-pho/cham-soc-pin-xe-dien-nhan-vien-van-phong-ban-ron-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
-    "/xe-dap/xe-dap-the-thao-duong-pho/cham-soc-pin-xe-dien-nguoi-su-dung-xe-hang-ngay-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/"
+    "/xe-dap/xe-dap-the-thao-duong-pho/cham-soc-pin-xe-dien-nguoi-su-dung-xe-hang-ngay-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/",
+    "/xe-dap/xe-dap-touring-the-thao/cham-soc-pin-xe-dien-nu-gioi-su-dung-xe-ga-mua-mua-ngap-ung-do-thi-huong-dan-chi-tiet/"
    ]
   },
   {
@@ -1479,12 +1482,13 @@
     ]
    },
    "angle_notes": "Hướng dẫn chi tiết có nguồn: Park Tool dầu nhẹ trong vỏ dây phanh, dây đề để đẩy nước, chống ăn mòn (BA-018, BB-072); Shimano không dùng dây phanh bị gỉ, sờn hoặc nứt (BA-103) — câu gốc nói về dây phanh, khi áp sang dây đề ghi rõ là cùng nguyên tắc; sang số không mượt thì vệ sinh, bôi trơn bộ phận chuyển động (BA-031); ren kim loại khác loại dùng anti-seize (BB-070), mỡ tạo lớp ngăn (BB-069); lau khô để soi hư hỏng (BB-056); không dùng chất tẩy gỉ axit, kiềm cho xích (BA-027). MTB: xe phanh dầu không có dây cáp phanh; dây đề (và cáp cọc yên nâng hạ nếu xe có) là cáp cần chăm — nói ở mức 'nếu có'. Nữ giới dùng xe ga: so với dây ga xe ga (link trang tay ga rơ), không so sánh kỹ thuật. Mốc 5.000 km: chỉ là dịp kiểm tra.",
-   "differentiation": "Bài dây cáp, bu lông gỉ; NH-00462 (cùng 5.000 km, hướng dẫn) là chống gỉ bên trong khung thép; NH-02196 lịch tổng; NH-01330 chi phí; NH-03626 (cụm hộp số) chi phí bảo dưỡng bộ đề, chỉ nhắc dây đề như một khoản.",
+   "differentiation": "Bài dây cáp, bu lông gỉ; NH-00462 (cùng 5.000 km, hướng dẫn) là chống gỉ bên trong khung thép; NH-02196 lịch tổng; NH-01330 chi phí; NH-03626 (cụm hộp số) chi phí bảo dưỡng bộ đề, chỉ nhắc dây đề như một khoản. Cùng slug với NH-00500 (cách chống rỉ sét khung xe đạp touring, OD1-B06): bài MTB về dây cáp, vỏ cáp đề bị gỉ; không lặp quy trình 6 bước phun chống gỉ trong khung của bài touring.",
    "nearest_existing": [
     "/bao-duong/xe-may-di-mua-ve-can-lam-gi/",
     "/bao-duong/tay-ga-xe-may-bi-ro-khong-tu-tra-ve/",
     "/xe-dap/xe-dap-touring-the-thao/chong-ri-set-khung-xe-sinh-vien-tu-bao-duong-xe-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/",
-    "/xe-dap/xe-dap-the-thao-duong-pho/chong-ri-set-khung-xe-nguoi-su-dung-xe-hang-ngay-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/"
+    "/xe-dap/xe-dap-the-thao-duong-pho/chong-ri-set-khung-xe-nguoi-su-dung-xe-hang-ngay-mua-mua-ngap-ung-do-thi-dau-hieu-can-kiem-tra/",
+    "/xe-dap/xe-dap-touring-the-thao/chong-ri-set-khung-xe-nu-gioi-su-dung-xe-ga-moc-bao-duong-dinh-ky-5000-km-huong-dan-chi-tiet/"
    ]
   },
   {
@@ -2166,12 +2170,13 @@
     ]
    },
    "angle_notes": "Mở bài: không có nước làm mát (BA-149); chất lỏng cần đúng loại là dầu phanh. Hướng dẫn chi tiết: Shimano chỉ dầu khoáng chính hãng (BA-066), SRAM phanh DOT chỉ DOT 4/5.1, SRAM phanh dầu khoáng chỉ Maxima Mineral (BA-093, tài liệu SRAM MTB); không bao giờ dùng DOT cho phanh dầu khoáng và ngược lại, không dùng chung bộ xả (BA-090) — nên câu 'dầu xe máy' trả lời theo hãng phanh, không khẳng định loại DOT của xe máy khi thư viện không có. Nhận biết: theo tài liệu hãng phanh, không bịa vị trí in chữ trên tay phanh. Xe để lâu: chỉ dùng dầu từ hộp mới mở, không dùng lại dầu xả (BA-067), tay mềm thì xả gió (BA-091; việc nâng cao, BA-092). DOT hại sơn, lau ngay rửa nước (BA-097); dầu dính má thì thay má (BA-096). Chu kỳ theo loại dầu (BA-100). Nữ giới dùng xe ga: phần dầu phanh xe máy dẫn sang trang V2 dầu phanh.",
-   "differentiation": "Bài loại dầu phanh; NH-00376 (cùng để lâu, hướng dẫn) là quy trình xả gió khi tay phanh mềm; NH-02110 lịch tổng; NH-01242 trước mùa đông; NH-02542 lịch phanh.",
+   "differentiation": "Bài loại dầu phanh; NH-00376 (cùng để lâu, hướng dẫn) là quy trình xả gió khi tay phanh mềm; NH-02110 lịch tổng; NH-01242 trước mùa đông; NH-02542 lịch phanh. Cùng slug với NH-00412 (cách bảo quản xe đạp touring khi không dùng lâu, OD1-B07): bài MTB chỉ trả lời loại dầu phanh (khoáng hay DOT) và thay dầu khi xe để lâu; không lặp danh sách cất xe của bài touring.",
    "nearest_existing": [
     "/bao-duong/dau-phanh-xe-may-bao-lau-thay/",
     "/bao-duong/xe-may-de-lau-khong-di/",
     "/xe-dap/xe-dap-touring-the-thao/kiem-tra-nuoc-lam-mat-nguoi-thue-xe-dai-han-mua-dong-thoi-tiet-lanh-gia-chi-phi-thuc-te/",
-    "/xe-dap/xe-dap-touring-the-thao/kiem-tra-nuoc-lam-mat-sinh-vien-tu-bao-duong-xe-moc-bao-duong-dinh-ky-5000-km-huong-dan-chi-tiet/"
+    "/xe-dap/xe-dap-touring-the-thao/kiem-tra-nuoc-lam-mat-sinh-vien-tu-bao-duong-xe-moc-bao-duong-dinh-ky-5000-km-huong-dan-chi-tiet/",
+    "/xe-dap/xe-dap-touring-the-thao/kiem-tra-nuoc-lam-mat-nu-gioi-su-dung-xe-ga-sau-thoi-gian-dai-khong-su-dung-huong-dan-chi-tiet/"
    ]
   },
   {
@@ -2417,12 +2422,13 @@
     ]
    },
    "angle_notes": "Mở bài một câu: xe đạp không dùng nhiên liệu (BA-149). Hướng dẫn chi tiết có nguồn: Shimano chuyển 1–2 số mỗi lần, giảm lực đạp khi chuyển (BA-058); index đúng một nấc một líp (BA-034); Schwalbe khoảng 20 km/h cản gió là lực chính, leo dốc thì lực cản do độ dốc là chính (BB-035); áp suất theo mặt đường (BB-034, BB-005), gai trơn lăn tốt hơn (BB-037); xích sạch đủ dầu (BA-015, BA-013) nhưng không thổi phồng (BB-036); phanh không cọ (BA-089); mang pin dự phòng đèn, dụng cụ (BB-106). Không viết lời khuyên dinh dưỡng, nhịp tim, tư thế (không có nguồn). Sinh viên: dụng cụ tối thiểu, tự làm được trước ngày đi.",
-   "differentiation": "Bài kỹ năng đạp đường dài; NH-01980 sai lầm kỹ thuật làm xe nặng; NH-01112 MTB đi đường phố. NH-02326 (cụm ngập) lội nước khi đi xa; NH-00852 (cụm bugi) kiểm tra sâu trước chuyến đi.",
+   "differentiation": "Bài kỹ năng đạp đường dài; NH-01980 sai lầm kỹ thuật làm xe nặng; NH-01112 MTB đi đường phố. NH-02326 (cụm ngập) lội nước khi đi xa; NH-00852 (cụm bugi) kiểm tra sâu trước chuyến đi. Cùng slug với NH-00282 (xe đạp touring đạp nặng, OD1-B07): bài MTB là kỹ năng phân sức khi đạp đường dài; các lỗi kỹ thuật làm xe đạp nặng để cho bài touring và NH-01980.",
    "nearest_existing": [
     "/kinh-nghiem/di-xe-may-duong-dai-bao-lau-nen-nghi/",
     "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/",
     "/xe-dap/xe-dap-the-thao-duong-pho/ky-nang-tiet-kiem-nhien-lieu-nguoi-su-dung-xe-hang-ngay-truoc-chuyen-phuot-di-xa-huong-dan-chi-tiet/",
-    "/xe-dap/xe-dap-touring-the-thao/ky-nang-tiet-kiem-nhien-lieu-nguoi-su-dung-xe-hang-ngay-truoc-chuyen-phuot-di-xa-huong-dan-chi-tiet/"
+    "/xe-dap/xe-dap-touring-the-thao/ky-nang-tiet-kiem-nhien-lieu-nguoi-su-dung-xe-hang-ngay-truoc-chuyen-phuot-di-xa-huong-dan-chi-tiet/",
+    "/xe-dap/xe-dap-touring-the-thao/ky-nang-tiet-kiem-nhien-lieu-sinh-vien-tu-bao-duong-xe-truoc-chuyen-phuot-di-xa-huong-dan-chi-tiet/"
    ]
   },
   {
@@ -2902,12 +2908,13 @@
     ]
    },
    "angle_notes": "Nữ giới dùng xe ga: thói quen đưa xe ra tiệm rửa; câu hỏi thật là tiệm có làm hỏng xe đạp không. Có nguồn: Trek không rửa bằng máy áp lực cao, nước có thể vào ổ bi bánh, cổ lái và rửa trôi mỡ (BB-058, BB-060); Shimano trục giữa (BA-122); SR SUNTOUR, FOX không xịt áp lực vào phuộc, không xịt thẳng vào khe phớt (BB-041, BB-048); phanh: chỉ nước xà phòng, không chất tẩy phanh, chống kêu (BA-073), không để dầu mỡ dính đĩa, má (BA-071), dấu hiệu má nhiễm dầu (BA-080); xích: không dùng dung môi kiềm, axit (BA-027), chất tẩy trung tính (BA-029); có thể nhờ rửa vòi áp lực thấp, tia tỏa rộng (BB-053). Khi về: làm khô (BB-059), tra dầu xích (BA-026). Không nói xấu tiệm, không bịa loại hóa chất tiệm dùng; viết dạng 'nếu tiệm dùng ... thì'.",
-   "differentiation": "Bài rửa ở tiệm rửa xe máy; NH-00722 (cùng mùa lạnh, dấu hiệu) chẩn đoán xe kêu sau khi tự rửa; NH-01590 sai lầm khi tự rửa sau mưa; NH-02456 lịch rửa; NH-00810 (cụm phanh) phanh kêu, nhiễm dầu chi tiết.",
+   "differentiation": "Bài rửa ở tiệm rửa xe máy; NH-00722 (cùng mùa lạnh, dấu hiệu) chẩn đoán xe kêu sau khi tự rửa; NH-01590 sai lầm khi tự rửa sau mưa; NH-02456 lịch rửa; NH-00810 (cụm phanh) phanh kêu, nhiễm dầu chi tiết. Cùng slug với NH-00760 (rửa xe đạp touring xong bị kêu, OD1-B07): bài MTB về việc mang xe ra tiệm rửa xe máy: dặn thợ, kiểm tra khi nhận; phần chẩn đoán tiếng kêu sau khi rửa để cho NH-00722.",
    "nearest_existing": [
     "/bao-duong/rua-xe-may-tai-nha-dung-cach/",
     "/bao-duong/ve-sinh-xe-may-son-nham/",
     "/xe-dap/xe-dap-the-thao-duong-pho/rua-xe-khong-hai-may-tai-xe-cong-nghe-chay-xe-lien-tuc-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/",
-    "/xe-dap/xe-dap-touring-the-thao/rua-xe-khong-hai-may-nguoi-moi-mua-xe-lan-dau-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/"
+    "/xe-dap/xe-dap-touring-the-thao/rua-xe-khong-hai-may-nguoi-moi-mua-xe-lan-dau-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/",
+    "/xe-dap/xe-dap-touring-the-thao/rua-xe-khong-hai-may-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/"
    ]
   },
   {
@@ -3340,12 +3347,13 @@
     ]
    },
    "angle_notes": "Dấu hiệu theo sách Gates (bản Gazelle lưu): răng không đối xứng, mất răng, lớp vải mòn lộ thân polymer, lộ sợi carbon, răng nhọn kiểu răng cá mập, nứt (BA-147); dây và nhông rất bền nhưng vẫn mòn theo thời gian (BA-145) — FAQ nhông trả lời là kiểm tra cả hai; phai màu xanh không phải mòn (BA-146); nhảy răng do thiếu căng (BA-141); nhông lệch thẳng hàng gây ồn, mòn, tuột (BA-148); không bẻ gập, xoắn, cuộn dây (BA-138). Dòng dây: CDX cho cường độ cao, đua địa hình (BA-136), CDN không cho MTB (BA-144). Mốc 5.000 km: không có tuổi thọ theo km trong tài liệu đã mở (gaps) — nói thẳng. Người dùng xe thuê dài hạn: ghi nhận tình trạng dây khi nhận, báo nơi cho thuê; cửa hàng không cho thuê xe đạp. Phần dây curoa xe ga dẫn sang trang V2 và trang Vision đã kiểm chứng.",
-   "differentiation": "Bài dấu hiệu mòn dây Gates; NH-00982 (cùng 5.000 km, dấu hiệu) là ngưỡng mòn xích cho xe dùng xích; NH-00116 độ căng dây Gates; NH-01850 'có dây curoa không'.",
+   "differentiation": "Bài dấu hiệu mòn dây Gates; NH-00982 (cùng 5.000 km, dấu hiệu) là ngưỡng mòn xích cho xe dùng xích; NH-00116 độ căng dây Gates; NH-01850 'có dây curoa không'. Cùng slug với NH-01020 (dấu hiệu dây đai gates xe đạp touring mòn, OD1-B07): cùng dựa vào sách Gates nên bài MTB rút gọn danh sách dấu hiệu, nhấn phần riêng của xe địa hình (CDN không dùng cho MTB, CDX cho đua địa hình, nhảy răng khi đạp giật mạnh) và viết câu chữ khác bài touring.",
    "nearest_existing": [
     "/bao-duong/day-curoa-xe-ga-bao-lau-thay/",
     "/xe-may/xe-tay-ga-honda-vision/thay-day-curoa-nguoi-moi-mua-xe-lan-dau-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
     "/xe-dap/xe-dap-touring-the-thao/thay-day-curoa-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/",
-    "/xe-dap/xe-dap-the-thao-duong-pho/thay-day-curoa-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-huong-dan-chi-tiet/"
+    "/xe-dap/xe-dap-the-thao-duong-pho/thay-day-curoa-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-huong-dan-chi-tiet/",
+    "/xe-dap/xe-dap-touring-the-thao/thay-day-curoa-nguoi-thue-xe-dai-han-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/"
    ]
   },
   {
@@ -3462,12 +3470,13 @@
     ]
    },
    "angle_notes": "Nữ giới dùng xe ga: dây curoa xe ga thay ở tiệm theo mốc hãng xe máy (link trang dây curoa Vision đã kiểm chứng), xe đạp thay xích theo độ mòn — không ghi số km xe ga. Hướng dẫn chi tiết có nguồn: thay xích như bảo dưỡng phòng ngừa (BA-044); đo mòn bằng thước 12 inch hoặc CC-4.2 (BA-004, BA-005, BA-006), Eagle 0,8% (BA-009); độ dài: ở tổ hợp đĩa lớn nhất, líp lớn nhất xích phải chuyển được và còn hai chỗ uốn nhẹ quanh mỗi puli (BA-046); xích mới nhảy líp thì thay líp (BA-045), líp đắt hơn xích nhiều (BA-002); lắp líp siết vòng khóa tối thiểu 40 Nm hoặc theo hãng (BA-043); xích hư hỏng có thể đứt (BA-030). Ngày nắng bụi: dầu khô ít bám bụi (BA-016, BB-065). Thư viện không có hướng dẫn chốt nối xích từng hãng — chỉ mô tả tổng quát, khuyên đọc sách hãng; không viết bảng tương thích tốc độ.",
-   "differentiation": "Bài cách thay xích; NH-00116 (cùng nắng nóng, hướng dẫn) là chỉnh căng dây Gates; NH-00982 ngưỡng mòn xích; NH-01850 'có dây curoa không' và sai lầm trước chuyến đi.",
+   "differentiation": "Bài cách thay xích; NH-00116 (cùng nắng nóng, hướng dẫn) là chỉnh căng dây Gates; NH-00982 ngưỡng mòn xích; NH-01850 'có dây curoa không' và sai lầm trước chuyến đi. Cùng slug với NH-00152 (chỉnh độ căng dây curoa gates xe đạp touring, OD1-B07): bài touring chỉnh độ căng dây Gates; bài MTB thay xích từng bước, không lặp phần dây curoa.",
    "nearest_existing": [
     "/bao-duong/day-curoa-xe-ga-bao-lau-thay/",
     "/xe-may/xe-tay-ga-honda-vision/thay-day-curoa-nguoi-moi-mua-xe-lan-dau-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
     "/xe-dap/xe-dap-touring-the-thao/thay-day-curoa-sinh-vien-tu-bao-duong-xe-mua-dong-thoi-tiet-lanh-gia-huong-dan-chi-tiet/",
-    "/xe-dap/xe-dap-touring-the-thao/thay-day-curoa-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/"
+    "/xe-dap/xe-dap-touring-the-thao/thay-day-curoa-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/",
+    "/xe-dap/xe-dap-touring-the-thao/thay-day-curoa-nu-gioi-su-dung-xe-ga-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/"
    ]
   },
   {
@@ -3603,39 +3612,44 @@
    "blocked_reason": "",
    "primary_keyword": "kiểm tra moay ơ xe đạp địa hình",
    "secondary_keywords": [
-    "moay ơ xe đạp bị rơ",
-    "chỉnh côn moay ơ xe đạp",
-    "bảo dưỡng moay ơ trước khi đi xa"
+    "moay ơ xe đạp địa hình bị rơ",
+    "bánh trước xe đạp địa hình bị lắc",
+    "moay ơ bạc đạn kín bị rơ",
+    "nước vào moay ơ xe đạp"
    ],
-   "intent": "Người quen đưa xe ga đi thay lọc gió theo mốc nay tự chuẩn bị MTB cho chuyến đi xa cần hướng dẫn kiểm tra moay-ơ — chỗ bụi, nước gây hại thật: thử rơ, phân biệt kiểu cup-and-cone với bạc đạn kín, chỉnh côn hay thay.",
+   "intent": "Người quen đưa xe ga đi thay lọc gió theo mốc, nay tự chuẩn bị MTB cho chuyến đi xa, cần biết xe đạp không có lọc gió và cách tự kiểm tra moay-ơ — ổ bi chịu bụi, bùn, nước: lắc và xoay bánh, tách rơ moay-ơ khỏi rơ chân phuộc, cổ lái trên xe phuộc nhún, nhận biết mỡ đã bẩn và quyết định chỉnh, thay hay mang ra thợ trước ngày đi.",
    "title": "Xe đạp địa hình MTB không có lọc gió: kiểm tra moay-ơ khi đi xa",
-   "excerpt": "Xe đạp địa hình MTB không có lọc gió; bụi và nước hại moay-ơ. Cách thử rơ moay-ơ, phân biệt cup-and-cone với bạc đạn kín, chỉnh côn hay thay trước khi đi xa.",
+   "excerpt": "Xe đạp địa hình MTB không có lọc gió; bụi, nước hại ổ bi moay-ơ. Cách lắc bánh thử rơ, tách rơ phuộc với moay-ơ và quyết định chỉnh hay thay trước khi đi xa.",
    "h2": [
-    "Kiểm tra moay-ơ xe đạp địa hình: việc thay cho thay lọc gió",
-    "Thử rơ moay-ơ khi bánh còn trên xe",
-    "Cup-and-cone hay bạc đạn kín: loại nào chỉnh được",
-    "Chỉnh côn từng chút một",
-    "Bi xỉn, chén rỗ: khi nào phải thay",
+    "Kiểm tra moay-ơ xe đạp địa hình: lắc bánh, xoay bánh, nghe",
+    "Bánh trước lắc: moay-ơ, chân phuộc hay cổ lái",
+    "Trục khóa nhanh: độ rơ nào là bình thường",
+    "Sau đường bụi, lội nước: dấu hiệu mỡ ổ bi đã bẩn",
+    "Chỉnh được hay phải thay: cup-and-cone và bạc đạn kín",
+    "Lịch kiểm tra trước chuyến đi cho người quen xe ga",
     "Nguồn tham khảo"
    ],
    "faq": [
     "Bánh khóa nhanh hơi rơ khi chưa kẹp có phải lỗi?",
-    "Cụm freehub nên tra mỡ hay dầu?",
-    "Moay-ơ bạc đạn kín bị rơ thì làm gì?"
+    "Lắc bánh trước thấy rơ trên xe phuộc nhún thì do moay-ơ hay phuộc?",
+    "Moay-ơ bạc đạn kín bị rơ có chỉnh lại được không?",
+    "Rửa xe xong có nên thổi khí nén vào moay-ơ cho nhanh khô?"
    ],
    "fact_ids": [
     "BA-149",
     "BA-128",
+    "BA-116",
+    "BA-108",
     "BA-129",
+    "BA-021",
+    "BB-067",
+    "BA-023",
+    "BA-024",
     "BA-126",
     "BA-127",
-    "BA-130",
-    "BA-118",
     "BA-131",
     "BB-080",
-    "BA-132",
-    "BA-133",
-    "BA-023"
+    "BA-132"
    ],
    "internal_links": {
     "pillar": [
@@ -3648,8 +3662,8 @@
      "/kinh-nghiem/mang-gi-khi-di-phuot-xe-may/"
     ]
    },
-   "angle_notes": "Mở bài một câu: không có lọc gió (BA-149); chỗ cần giữ sạch bụi, nước là ổ bi moay-ơ. Hướng dẫn chi tiết có nguồn: thử rơ khi bánh còn lắp, lắc sang hai bên, xoay bánh rồi thử lại (BA-128); bánh khóa nhanh chưa kẹp có rơ nhẹ là bình thường, mất khi kẹp chặt (BA-129); hai kiểu moay-ơ (BA-126), bạc đạn kín mòn thì thay cụm (BA-127); chỉnh côn mỗi lần khoảng 1/32 vòng (BA-130), lỏng nhất không rơ (BA-118); bi xỉn thì thay, chén hỏng thường phải thay moay-ơ (BA-131, BB-080); không ngâm freehub trong dung môi (BA-132), freehub dùng dầu lỏng (BA-133); rửa áp lực thấp (BA-023). Nữ giới dùng xe ga: so với thay lọc gió xe ga theo mốc (link trang lọc gió Vision đã kiểm chứng), moay-ơ xe đạp kiểm tra theo cảm nhận rơ. Trước chuyến đi: làm sớm để còn thời gian thay.",
-   "differentiation": "Bài moay-ơ trước chuyến đi; NH-02022 'có lọc gió không' và sai lầm để bụi vào; NH-01156 chi phí đi đường bụi; NH-02932 (cụm nhớt) tra mỡ các ổ bi sau khi để lâu.",
+   "angle_notes": "Mở bài một câu: xe đạp là xe thô sơ chạy bằng sức người, không có động cơ nên không có lọc gió (BA-149); chỗ bụi, bùn, nước gây hại thật trên MTB là ổ bi, ở đây là moay-ơ. Section đầu (AEO): cách thử theo Park Tool — nắm bánh khi còn lắp trên xe, lắc sang hai bên, xoay bánh rồi thử lại để cảm nhận lục cục (BA-128). Phần riêng của MTB: trên xe phuộc nhún, chân phuộc có thể tự có độ rơ (BA-116) và cổ lái rơ được thử bằng cách bóp phanh trước, lắc xe (BA-108) — chỉ dùng để tách khỏi rơ moay-ơ, không viết lại quy trình chỉnh cổ lái (thuộc NH-00550). Trục khóa nhanh chưa kẹp có chút rơ là bình thường, mất khi kẹp chặt (BA-129). Sau đường bụi, bùn, lội nước: mỡ phải thay khi lẫn cát bụi hoặc khô (BA-021, BB-067); rửa áp lực thấp, tia tỏa rộng (BA-023); không thổi khí thẳng vào ổ bi (BA-024); không ngâm freehub trong dung môi (BA-132). Quyết định: cup-and-cone chỉnh được, bạc đạn kín mòn thì thay cụm (BA-126, BA-127); bi xỉn, chén rỗ thường phải thay moay-ơ (BA-131, BB-080) — đây là việc của thợ, bài KHÔNG trình bày quy trình chỉnh côn từng 1/32 vòng (đã là lõi của bài touring NH-00326). Nữ giới quen xe ga: so sánh một đoạn ngắn với việc thay lọc gió xe ga theo mốc ở tiệm (link trang lọc gió đã kiểm chứng) — moay-ơ xe đạp không có mốc km từ hãng (gaps), kiểm tra theo cảm nhận rơ; lên lịch kiểm tra khoảng một tuần trước ngày đi để còn thời gian thay bạc đạn hoặc mang ra thợ, không ghi giá (không có nguồn). Đoạn liên hệ: cửa hàng không cho thuê xe đạp; có xe số, xe ga cho chuyến đi xa.",
+   "differentiation": "Bài chẩn đoán moay-ơ trước chuyến đi của MTB. Cùng slug với XDTR NH-00326 (bảo dưỡng moay-ơ xe đạp touring, B08) — bài đó là quy trình bảo dưỡng, chỉnh côn; bài này chỉ kiểm tra, tách rơ moay-ơ khỏi rơ chân phuộc và cổ lái trên xe phuộc nhún, xử lý sau bụi, lội nước và lịch trước ngày đi, không lặp quy trình chỉnh côn. Trong nhóm MTB: NH-02022 'có lọc gió không' và sai lầm để bụi vào; NH-01156 chi phí đi đường bụi; NH-02932 (cụm nhớt) tra mỡ các ổ bi sau khi để lâu; NH-00550 (cụm cổ phốt) khoanh vùng rơ từ phía cổ lái; NH-00852 (cụm bugi) danh sách kiểm tra toàn xe trước chuyến phượt.",
    "nearest_existing": [
     "/bao-duong/thay-loc-gio-xe-may-bao-lau-mot-lan/",
     "/xe-may/xe-tay-ga-honda-vision/thay-loc-gio-dong-co-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-dau-hieu-can-kiem-tra/",
@@ -3893,12 +3907,13 @@
     ]
    },
    "angle_notes": "Chi phí thực tế: không có giá (gaps), chỉ liệt kê khoản và lý do: dây đề, vỏ cáp — dầu nhẹ chống ẩm (BA-018, BB-072), dây gỉ, sờn không dùng (BA-103 là câu về dây phanh, chỉ dùng làm nguyên tắc chung và ghi rõ); vệ sinh, bôi trơn cụm đề khi sang số không mượt (BA-031), dầu nhẹ cho puli, khớp sau khi rửa (BA-024); xích, líp — líp tốn hơn xích nhiều (BA-002), xích quá mòn làm mòn líp, đĩa (BA-008), thay xích như thay dầu ô tô (BA-044), rửa líp chất tẩy trung tính (BA-029). Mùa mưa: dầu bị rửa trôi, xích mòn nhanh (BA-015), dùng dầu ướt (BA-016). Mở bài: không có nhớt hộp số (BA-149, bicycle_a). FAQ theo km: trả lời là theo tình trạng, không theo km (gaps).",
-   "differentiation": "Bài chi phí bộ đề mùa mưa; NH-03062 (cụm rỉ sét) cách xử lý dây cáp gỉ; NH-02760 cách chỉnh đề; NH-01026 pát đề cong; NH-01502 (cụm khởi động) chi phí bảo dưỡng cả xe.",
+   "differentiation": "Bài chi phí bộ đề mùa mưa; NH-03062 (cụm rỉ sét) cách xử lý dây cáp gỉ; NH-02760 cách chỉnh đề; NH-01026 pát đề cong; NH-01502 (cụm khởi động) chi phí bảo dưỡng cả xe. Cùng slug với NH-01062 (xe đạp touring có nhớt hộp số không, OD1-B08): bài touring trả lời 'có nhớt hộp số không' kèm chi phí; bài MTB chỉ về các khoản chi của bộ đề ngoài (dây đề, vỏ cáp, vệ sinh cùi đề, xích, líp), không làm lại phần hub nội tốc.",
    "nearest_existing": [
     "/bao-duong/nhot-hop-so-xe-ga-nhot-lap-bao-lau-thay-mot-lan/",
     "/bao-duong/chi-phi-bao-duong-xe-may-dinh-ky-gom-nhung-gi/",
     "/xe-dap/xe-dap-the-thao-duong-pho/thay-nhot-hop-so-lap-nu-gioi-su-dung-xe-ga-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/",
-    "/xe-dap/xe-dap-touring-the-thao/thay-nhot-hop-so-lap-tai-xe-cong-nghe-chay-xe-lien-tuc-sau-thoi-gian-dai-khong-su-dung-sai-lam-pho-bien/"
+    "/xe-dap/xe-dap-touring-the-thao/thay-nhot-hop-so-lap-tai-xe-cong-nghe-chay-xe-lien-tuc-sau-thoi-gian-dai-khong-su-dung-sai-lam-pho-bien/",
+    "/xe-dap/xe-dap-touring-the-thao/thay-nhot-hop-so-lap-nhan-vien-van-phong-ban-ron-mua-mua-ngap-ung-do-thi-chi-phi-thuc-te/"
    ]
   },
   {
@@ -4408,12 +4423,13 @@
     ]
    },
    "angle_notes": "Mở bài một câu: không có kim phun, động cơ (BA-149); tiếng kêu khi đạp đến từ truyền động. Dấu hiệu có nguồn: kêu lặp mỗi vòng đạp thường ở đùi đĩa, bàn đạp; 2–3 vòng mới kêu có thể là xích (BA-038); trục giữa ren kiểm tra chén, vòng khóa, siết tối thiểu 35 Nm (BA-039); bu lông đùi đĩa điển hình 40 Nm (BA-041); nghe mắt xích khô (BA-040); siết lại đùi đĩa, bàn đạp định kỳ (BA-121); thử rơ trục giữa (BA-119, BA-120), Hollowtech II lỏng thì thay (BA-123); nước áp lực vào trục giữa gây kêu (BA-122); nghi nứt khung thì ngừng đạp, mang tới thợ (BA-042). Mùa lạnh ẩm: không có nguồn nói lạnh làm xe kêu; chỉ nói xe ít đạp, ẩm làm xích khô dầu. Nhân viên văn phòng: khoanh vùng trong ba bước.",
-   "differentiation": "Bài chẩn đoán tiếng kêu khi đạp; NH-00722 (cụm rửa xe) kêu sau khi rửa, nước vào ổ bi; NH-03106 (cụm xích líp) xích kêu sau khi đi mưa; NH-00680 sang số không mượt.",
+   "differentiation": "Bài chẩn đoán tiếng kêu khi đạp; NH-00722 (cụm rửa xe) kêu sau khi rửa, nước vào ổ bi; NH-03106 (cụm xích líp) xích kêu sau khi đi mưa; NH-00680 sang số không mượt. Cùng slug với NH-00716 (xe đạp touring sang số không mượt, OD1-B08): bài touring về sang số không mượt; bài MTB khoanh vùng tiếng kêu theo nhịp đạp, không lặp phần index, pát đề (đã có ở NH-00680).",
    "nearest_existing": [
     "/bao-duong/xe-may-keu-lach-cach-khi-chay/",
     "/bao-duong/ve-sinh-kim-phun-xang-dien-tu-bao-lau-mot-lan/",
     "/xe-dap/xe-dap-touring-the-thao/ve-sinh-kim-phun-fi-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
-    "/xe-dap/xe-dap-the-thao-duong-pho/ve-sinh-kim-phun-fi-nguoi-moi-mua-xe-lan-dau-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/"
+    "/xe-dap/xe-dap-the-thao-duong-pho/ve-sinh-kim-phun-fi-nguoi-moi-mua-xe-lan-dau-moc-bao-duong-dinh-ky-5000-km-lich-trinh-dinh-ky/",
+    "/xe-dap/xe-dap-touring-the-thao/ve-sinh-kim-phun-fi-nhan-vien-van-phong-ban-ron-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/"
    ]
   },
   {
@@ -4919,12 +4935,13 @@
     ]
    },
    "angle_notes": "Dấu hiệu, nguồn: Trek nắng trực tiếp có thể hỏng khung, sơn, linh kiện (BB-078), nhiệt quá 65 °C hại keo carbon, mối nối (BB-107); Continental không để lốp dưới nắng gắt, gần nguồn nhiệt (BB-018, BB-021); pin đèn 0–40 °C, không làm nóng pin (BB-101, BB-103). Làm khô đúng: rút cọc yên, úp ngược qua đêm (BB-075), làm khô bắt buộc (BB-059), thổi khí không thẳng vào ổ bi (BA-024), lau bằng khăn để soi khung (BB-056). Dấu hiệu sau khi khô: trục giữa kêu, kẹt (BA-122), rơ moay-ơ (BA-128), mỡ lẫn nước (BB-067). Mưa giông mùa hè chỉ dùng như bối cảnh; không ghi nhiệt độ ngoài trời cụ thể. FAQ khung nhôm: chỉ dùng câu chung của Trek. Mở bài: không chết máy (BB-108).",
-   "differentiation": "Bài phơi nắng sau ngập; NH-00592 các việc làm ngay và dấu hiệu sau ngập; NH-01460 chi phí; NH-00636 (cụm khởi động) để xe khô ngoài nắng khi đi làm.",
+   "differentiation": "Bài phơi nắng sau ngập; NH-00592 các việc làm ngay và dấu hiệu sau ngập; NH-01460 chi phí; NH-00636 (cụm khởi động) để xe khô ngoài nắng khi đi làm. Cùng slug với NH-00630 (xe đạp touring bị ngập nước phải làm sao, OD1-B08): bài touring là xử lý chung khi ngập; bài MTB chỉ trả lời có nên phơi nắng và cách làm khô đúng, phần xử lý chung để cho NH-00592.",
    "nearest_existing": [
     "/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/",
     "/kinh-nghiem/di-xe-may-gap-giong-set/",
     "/xe-dap/xe-dap-touring-the-thao/xu-ly-ngap-nuoc-nguoi-su-dung-xe-hang-ngay-truoc-chuyen-phuot-di-xa-lich-trinh-dinh-ky/",
-    "/xe-dap/xe-dap-the-thao-duong-pho/xu-ly-ngap-nuoc-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/"
+    "/xe-dap/xe-dap-the-thao-duong-pho/xu-ly-ngap-nuoc-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
+    "/xe-dap/xe-dap-touring-the-thao/xu-ly-ngap-nuoc-nhan-vien-van-phong-ban-ron-nhung-ngay-nang-nong-dinh-diem-dau-hieu-can-kiem-tra/"
    ]
   },
   {
