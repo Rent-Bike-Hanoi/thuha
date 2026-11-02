@@ -1,0 +1,62 @@
+{
+ "batch": "OD1-B22",
+ "passed": [
+  {
+   "url": "/xe-may/xe-so-yamaha-sirius/cham-soc-pin-xe-dien-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
+   "file": "content/articles/NH-02446.json",
+   "title": "Ắc quy Sirius FI để lâu hết điện: không phải pin, lịch kiểm tra",
+   "qa_score": 100
+  },
+  {
+   "url": "/xe-may/xe-so-yamaha-sirius/cham-soc-pin-xe-dien-nhan-vien-van-phong-ban-ron-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-00712.json",
+   "title": "Sirius FI đề không nổ, ắc quy yếu? Không phải pin, đo 11,50 V",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-so-yamaha-sirius/cham-soc-pin-xe-dien-nu-gioi-su-dung-xe-ga-mua-dong-thoi-tiet-lanh-gia-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-03312.json",
+   "title": "Sirius chế hòa khí không có pin: ắc quy 12N5 châm nước khi cạn",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-so-yamaha-sirius/cham-soc-pin-xe-dien-tai-xe-cong-nghe-chay-xe-lien-tuc-mua-mua-ngap-ung-do-thi-sai-lam-pho-bien/",
+   "file": "content/articles/NH-01580.json",
+   "title": "Sạc ắc quy Sirius sai cách: xe không có pin, tránh lỗi mùa mưa",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-so-yamaha-sirius/kiem-tra-nuoc-lam-mat-nguoi-su-dung-xe-hang-ngay-mua-dong-thoi-tiet-lanh-gia-huong-dan-chi-tiet/",
+   "file": "content/articles/NH-02792.json",
+   "title": "Yamaha Sirius có nước làm mát không? Máy gió, mùa đông cần làm gì",
+   "qa_score": 100
+  },
+  {
+   "url": "/xe-may/xe-may-phan-khoi-nho-50cc/cham-soc-pin-xe-dien-nguoi-moi-mua-xe-lan-dau-mua-dong-thoi-tiet-lanh-gia-huong-dan-chi-tiet/",
+   "file": "content/articles/NH-02740.json",
+   "title": "Xe 50cc có pin không? Giữ bình điện xe xăng qua mùa đông",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-may-phan-khoi-nho-50cc/cham-soc-pin-xe-dien-nguoi-su-dung-xe-hang-ngay-nhung-ngay-nang-nong-dinh-diem-huong-dan-chi-tiet/",
+   "file": "content/articles/NH-00140.json",
+   "title": "Xe 50cc không có pin: giữ bình điện mùa nóng thế nào",
+   "qa_score": 95
+  },
+  {
+   "url": "/xe-may/xe-may-phan-khoi-nho-50cc/cham-soc-pin-xe-dien-nguoi-thue-xe-dai-han-truoc-chuyen-phuot-di-xa-sai-lam-pho-bien/",
+   "file": "content/articles/NH-01872.json",
+   "title": "Xe ga 50cc hết bình đạp nổ được? 5 sai lầm trước chuyến đi xa",
+   "qa_score": 100
+  },
+  {
+   "url": "/xe-may/xe-may-phan-khoi-nho-50cc/cham-soc-pin-xe-dien-nu-gioi-su-dung-xe-ga-moc-bao-duong-dinh-ky-5000-km-dau-hieu-can-kiem-tra/",
+   "file": "content/articles/NH-01006.json",
+   "title": "Xe ga 50cc không có pin: dấu hiệu bình yếu quanh mốc 5.000 km",
+   "qa_score": 100
+  }
+ ],
+ "failed": [],
+ "pushed_main": true,
+ "head": "5330d6baac47fe0f7f02ffedd547a29df8ab0683"
+}
