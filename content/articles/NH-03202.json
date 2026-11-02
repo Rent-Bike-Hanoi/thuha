@@ -1,53 +1,201 @@
 {
   "id": "NH-03202",
   "url": "/xe-may/xe-tay-ga-honda-vision/cham-soc-pin-xe-dien-tai-xe-cong-nghe-chay-xe-lien-tuc-nhung-ngay-nang-nong-dinh-diem-dau-hieu-can-kiem-tra/",
-  "title": "Xe tay ga honda vision: sạc và bảo quản pin lithium xe điện cho tài xế công nghệ chạy xe liên tục",
+  "title": "Vision Idling Stop không nổ lại: bình yếu, không phải hết pin",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang sạc và bảo quản pin lithium xe điện cho xe tay ga Honda Vision (tài xế công nghệ chạy xe liên tục): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Vision không có pin xe điện. Khi bình 12 V yếu, Idling Stop có thể không đề lại được sau lúc dừng đèn đỏ. Honda khuyên chuyển sang Idling; dấu hiệu cho tài xế.",
   "sections": [
     [
-      "Tầm quan trọng của việc sạc và bảo quản pin lithium xe điện đối với xe tay ga Honda Vision",
-      "<p>Đối với dòng phương tiện phổ biến như xe tay ga Honda Vision, việc chú trọng sạc và bảo quản pin lithium xe điện đóng vai trò quyết định đến độ bền của động cơ, hiệu suất vận hành và sự an toàn của người lái. Trong điều kiện đường sá đô thị nhiều khói bụi và dừng đỗ liên tục, việc chăm sóc xe đúng cách giúp bạn tiết kiệm hàng triệu đồng chi phí sửa chữa lớn về sau.</p><p>Đối với các chi tiết chuyển động quay như vòng bi, trục khuỷu và bánh răng số, lớp màng dầu bôi trơn hoặc việc căn chỉnh chuẩn xác sẽ ngăn ngừa hiện tượng ma sát khô gây mài mòn kim loại. Một chiếc xe tay ga Honda Vision được bảo dưỡng đúng cách luôn giữ được giá trị chuyển nhượng cao sau nhiều năm sử dụng.</p><p>Bên cạnh việc bảo dưỡng xe cá nhân, nếu bạn đang có nhu cầu trải nghiệm phương tiện mới đã được kiểm định an toàn nghiêm ngặt, hãy tham khảo các dòng xe sẵn có tại <a href=\"/thue-xe-may/ha-noi/\">dịch vụ thuê xe máy Hà Nội</a> của Thuê xe máy Nguyễn Hà.</p>"
+      "Vision Idling Stop không nổ lại có thể là dấu hiệu bình điện yếu",
+      "<p>Vision là xe xăng, không có pin xe điện; khi xe tự tắt máy ở đèn đỏ rồi vặn ga không nổ lại, thứ đáng nghi là bình điện 12 V. Mục tìm kiếm hư hỏng trong <a href=\"https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn sử dụng Vision</a> ghi rõ: đèn báo của hệ thống đang nhấp nháy mà vặn ga động cơ không khởi động thì nguyên nhân là <strong>bình điện yếu (hỏng) hoặc lỏng cực</strong>. Lý do nằm ở thiết kế: trong lúc máy tạm dừng, đèn pha vẫn sáng nên bình bị rút điện. Honda khuyên khi bình yếu thì ấn công tắc sang vị trí Idling, thôi dùng tính năng này và mang xe đi kiểm tra bình. Trước khi kết luận, loại trừ hai thao tác hay gặp: hạ chân chống nghiêng hoặc lỡ ấn công tắc tắt hệ thống trong lúc máy đang dừng.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe tay ga Honda Vision cần kiểm tra trong những ngày nắng nóng đỉnh điểm",
-      "<p>Đối với các mẫu xe máy điện, việc theo dõi thời gian sạc pin và tốc độ sụt giảm điện áp khi leo dốc là cực kỳ quan trọng. Khi pin có dấu hiệu tụt vạch nhanh bất thường hoặc bộ sạc nóng quá mức cho phép, hãy ngừng sử dụng và đưa xe đến trung tâm chuyên môn để đo đạc dung lượng thực tế.</p><p>Nếu bạn cảm thấy lực kéo của xe bị đuối dần khi chở nặng hoặc leo dốc cầu vượt tại Hà Nội, rất có thể cụm ly hợp (bộ côn) hoặc xupap động cơ đã bị bám muội than dày đặc. Việc phát hiện sớm hiện tượng này giúp tránh tình trạng cháy chuông côn đắt đỏ.</p><p>Hãy duy trì thói quen quan sát nhanh chiếc xe trước mỗi chuyến đi dài. Bạn có thể đối chiếu tình trạng phương tiện với <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra kỹ thuật xe máy</a> để không bỏ sót các hư hỏng tiềm ẩn.</p><p>Đặc biệt lưu ý tiếng kêu lạch cạch ở khu vực chén cổ khi xe đi qua gờ giảm tốc. Nếu tay lái có độ rơ lớn hoặc bị sượng khi ôm cua, việc phục hồi hoặc thay mới bi cổ là yêu cầu bắt buộc để tránh mất lái.</p>"
+      "Idling Stop hoạt động thế nào khi dừng đèn đỏ",
+      "<p>Cơ chế cơ bản (ba điều kiện để hệ thống sẵn sàng, chuyện gì xảy ra khi đóng hết ga và dừng xe) đã được tóm từ sách hướng dẫn trong bài <a href=\"/bao-duong/xe-may-bi-chet-may-giua-duong/\">xe máy bị chết máy giữa đường</a>. Ở đây chỉ nhắc phần tài xế cần để đọc xe: <a href=\"https://www.honda.com.vn/xe-may/san-pham/vision\" target=\"_blank\" rel=\"noopener noreferrer\">trang sản phẩm Vision</a> ghi xe tự ngắt động cơ khi dừng trên 3 giây và nổ lại chỉ bằng thao tác vặn tay ga, còn đèn báo trên đồng hồ cho biết hệ thống đang ở trạng thái nào:</p><table><thead><tr><th>Đèn báo</th><th>Nghĩa theo sách hướng dẫn</th></tr></thead><tbody><tr><td>Sáng</td><td>Hệ thống sẵn sàng dừng động cơ khi xe dừng</td></tr><tr><td>Nhấp nháy</td><td>Động cơ đang được cho nghỉ; vặn ga để nổ lại</td></tr><tr><td>Không sáng</td><td>Công tắc đang ở vị trí Idling (hệ thống tắt), hoặc chưa đủ điều kiện</td></tr></tbody></table><p>Trong lúc máy nghỉ, đèn pha chỉ chuyển sang sáng mờ chứ không tắt; Vision thuộc loại xe có đèn chiếu sáng phía trước luôn sáng. Một ca chạy nội đô gồm rất nhiều lần dừng: đèn đỏ, chờ khách ra, chờ quán làm đồ, kẹt xe giờ tan tầm. Mỗi lần máy nghỉ là một lần bình nuôi đèn mà không được bù, và sách có một dòng lưu ý nên nhớ: động cơ dừng quá lâu bằng hệ thống này “có thể gây tiêu hao điện áp bình điện”. Người chạy xe cả ngày dừng nhiều lần hơn người chỉ đi làm, nên các khoảng nghỉ nhỏ đó cộng dồn lại.</p>"
     ],
     [
-      "Quy trình từng bước sạc và bảo quản pin lithium xe điện chuẩn kỹ thuật",
-      "<p>Tiến hành tháo mở cẩn thận các chi tiết ốc vít theo đúng chiều ren, kiểm tra độ mòn thực tế của linh kiện cũ và vệ sinh sạch sẽ các cặn bẩn bám dính. Luôn sử dụng dung dịch tẩy rửa chuyên dụng, tránh dùng xăng thơm hay hóa chất tẩy mạnh làm hư hại các vòng đệm cao su hoặc phốt dầu.</p><p>Đối với hệ thống phanh, việc xả gió (e gió) đường dầu thủy lực đòi hỏi sự tỉ mỉ cao. Cần bóp nhả tay phanh đều đặn cho đến khi toàn bộ bọt khí li ti trong ống dẫn được tống khứ hoàn toàn ra ngoài, mang lại cảm giác phanh mút chắc chắn.</p><p>Lưu ý ghi chép lại số km trên đồng hồ công-tơ-mét và mốc thời gian thực hiện để thiết lập chu kỳ bảo dưỡng kế tiếp. Nếu chưa tự tin về tay nghề cơ khí, bạn nên đưa xe đến các cơ sở uy tín để được kỹ thuật viên giàu kinh nghiệm hỗ trợ.</p><p>Lau sạch toàn bộ dầu mỡ thừa dính trên thân xe và vành lốp để phương tiện luôn sạch sẽ tinh tươm trước khi đưa vào sử dụng hằng ngày.</p>"
+      "Vặn ga không nổ: phân biệt thao tác sai với bình yếu",
+      "<p>Không phải lần nào vặn ga không nổ cũng do bình. Mục xử lý khi hệ thống không hoạt động đúng cách trong sách chia thành các trường hợp sau:</p><table><thead><tr><th>Bạn thấy</th><th>Nguyên nhân sách nêu</th><th>Cách xử lý</th></tr></thead><tbody><tr><td>Đèn ngừng nháy, chuyển sang sáng liên tục sau khi gạt chân chống nghiêng xuống</td><td>Hệ thống bị hủy, vặn ga không nổ</td><td>Gạt chân chống lên, ấn nút đề theo quy trình khởi động</td></tr><tr><td>Lỡ ấn công tắc sang Idling khi máy đang nghỉ</td><td>Hệ thống bị hủy</td><td>Ấn nút đề để khởi động lại</td></tr><tr><td>Đèn vẫn nhấp nháy, vặn ga mà không nổ</td><td>Bình điện yếu (hỏng) hoặc lỏng cực</td><td>Kiểm tra bình và các cực; bình yếu thì liên hệ cửa hàng Honda ủy nhiệm</td></tr><tr><td>Đèn báo không sáng suốt quãng đường</td><td>Máy nguội, chưa chạy quá 10 km/h, đèn lỗi PGM-FI sáng, hoặc điện áp bình yếu</td><td>Bình yếu: chạy một lúc, tắt máy rồi đề lại bằng nút đề; lặp lại thường xuyên hoặc đèn PGM-FI sáng thì đưa xe tới cửa hàng ủy nhiệm</td></tr><tr><td>Đèn sáng nhưng dừng xe mà máy không tắt</td><td>Xe chưa dừng hẳn hoặc tay ga chưa đóng hoàn toàn</td><td>Dừng hẳn, nhả hết ga</td></tr></tbody></table><p>Khởi động lại bằng nút đề cần đúng điều kiện trong sách: mô tơ đề chỉ chạy khi bóp tay phanh và chân chống nghiêng đã gạt lên; tay ga đóng hoàn toàn rồi mới nhấn nút, máy nổ thì nhả ngay. Đề quá 5 giây chưa nổ thì vặn khóa về Off, đợi 10 giây cho bình hồi điện áp rồi thử lại. Giữa ngã tư đông xe, đừng cố bấm liên tục; dắt vào lề trước. Nếu cả nút đề cũng không làm mô tơ quay, xem cách loại trừ trong bài <a href=\"/bao-duong/xe-may/khong-de-duoc/\">xe máy không đề được</a>.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe tay ga Honda Vision",
-      "<p>Đối với việc rửa xe tại nhà, việc xịt vòi nước áp lực cao trực tiếp vào khu vực ổ bi cổ phốt, công tắc điện tay lái hay họng gió buồng đốt có thể làm nước lọt vào vi mạch điều khiển, gây chập cháy cầu chì hoặc chết bugi đánh lửa.</p><p>Việc bỏ qua bước kiểm tra lọc gió và chỉ chăm chăm thay nhớt máy cũng là một thiếu sót lớn. Lọc gió bám đầy bụi bẩn sẽ làm thiếu oxy cho buồng đốt, khiến xe xe tay ga Honda Vision bị lì máy và nóng ran chỉ sau vài cây số di chuyển.</p><p>Khi phát hiện có dấu hiệu bất thường ngoài khả năng xử lý, tuyệt đối không cố chấp nổ máy tiếp tục chạy. Hãy gọi điện nhờ hỗ trợ kỹ thuật để tránh làm hỏng hóc lây lan sang các bộ phận đắt tiền khác.</p><p>Đặc biệt đối với xe máy điện, tuyệt đối không được tự ý can thiệp vào mạch BMS quản lý pin hay đấu nối thêm các thiết bị đèn trợ sáng công suất lớn không rõ nguồn gốc gây nguy cơ quá tải đường dây.</p>"
+      "Honda khuyên: bình yếu thì chuyển công tắc sang Idling",
+      "<p>Lưu ý trong sách nói rõ: đèn pha vẫn sáng sau khi động cơ tạm dừng, nên “bình điện có thể hết điện và không khởi động lại được động cơ”. Lời khuyên đi kèm: “Khi bình điện yếu, bật công tắc Idling Stop sang vị trí (Idling) và không sử dụng hệ thống Idling Stop.” Liền sau đó là lời dặn mang xe đến cửa hàng Honda ủy nhiệm để kiểm tra bình, và kiểm tra theo đúng lịch bảo dưỡng.</p><p>Với người chạy xe kiếm sống, có thể biến lời khuyên đó thành quy tắc trong ca:</p><ul><li><strong>Một lần đèn nháy mà vặn ga không nổ là đủ</strong> để tắt hệ thống bằng công tắc tới hết ca. Tốn thêm chút xăng lúc dừng còn hơn chết máy giữa giao lộ khi đang chở khách.</li><li><strong>Xác nhận đã tắt hẳn</strong>: sách ghi khi hệ thống tắt, đèn báo không sáng.</li><li><strong>Đặt lịch kiểm tra bình</strong> trong một hai ngày tới, đừng chạy kiểu tắt tính năng cả tháng rồi quên.</li><li><strong>Không rời xe khi đèn báo đang nháy.</strong> Sách cảnh báo: nếu rời khỏi xe, luôn vặn khóa điện về Off, vì động cơ có thể khởi động đột ngột nếu ai đó vặn tay ga. Xuống xe trao đồ hay đỡ hành lý cho khách là đúng tình huống này.</li></ul>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Tiền công thợ cho các gói bảo dưỡng định kỳ cơ bản khác nhau giữa các xưởng sửa xe tại Hà Nội, vì vậy hãy hỏi giá công trước. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.</p><p>Đối với hệ thống truyền động như bộ nhông sên dĩa của xe số, dây curoa, bố ba càng và bi nồi của xe ga, giá phụ tùng phụ thuộc từng dòng xe cụ thể và việc chọn hàng chính hãng hay thay thế.</p><p>Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.</p><p>Minh bạch về tài chính và hóa đơn rõ ràng là tiêu chí quan trọng hàng đầu khi chọn lựa bất kỳ xưởng kỹ thuật nào.</p>"
+      "Tài xế dừng đỗ liên tục ngày nóng: bình hao ra sao",
+      "<p><a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">Hỏi đáp của Honda Việt Nam</a> giải thích bình điện tự tiêu hao ngay cả khi không dùng, “đặc biệt trong điều kiện môi trường độ ẩm và nhiệt độ cao”. Những ngày nắng đỉnh điểm, kiểu chạy của tài xế công nghệ còn có bốn chỗ rút điện nằm ngay trong tầm tay:</p><ol><li><strong>Chờ đơn với khóa điện ở On.</strong> Sách ghi để khóa điện ở On khi động cơ đã dừng sẽ làm hao hụt điện áp bình. Chờ lâu thì vặn hẳn về Off.</li><li><strong>Sạc điện thoại qua cổng USB loại C</strong> trong hộc đồ phía trước, công suất định mức 15 W (5 V, 3.0 A): sách dặn nổ máy trong khi dùng điện từ ổ USB để tránh bình yếu hoặc hỏng. Đứng chờ mà máy đã tắt thì rút dây. Sách cũng khuyên không để điện thoại trong hộp đựng đồ vì sóng radio có thể làm gián đoạn khóa thông minh, nên đặt máy lên giá đỡ khi sạc.</li><li><strong>Đồ điện gắn thêm</strong> như đèn trợ sáng, giá đỡ có bộ sạc nối thẳng vào điện xe: sách cảnh báo lắp phụ kiện điện không chính hãng Honda có thể gây quá tải, làm tiêu hao điện áp và hư hỏng hệ thống.</li><li><strong>Để máy nổ đứng chờ “cho bình khỏe”.</strong> Sách ghi để xe nổ cầm chừng quá lâu có thể làm hỏng động cơ và hệ thống xả, còn hỏi đáp của hãng nhắc riêng xe làm mát bằng không khí có nguy cơ quá nhiệt khi nổ tại chỗ quá lâu. Giữa trưa nắng, rủi ro này càng rõ.</li></ol><p>Ý nghĩa các đèn báo khác trên đồng hồ, đèn nào sáng thì phải dừng xe, xem bài <a href=\"/xe-may/den-bao-tren-dong-ho-xe-may/\">các đèn báo trên đồng hồ xe máy</a>.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho tài xế công nghệ chạy xe liên tục khi sử dụng xe hằng ngày",
-      "<p>Khi sử dụng xe trong điều kiện những ngày nắng nóng đỉnh điểm, hãy chú ý rửa sạch bùn đất bám vào gầm máy, đĩa phanh và phuộc nhún ngay sau khi đi mưa về. Bùn đất chứa nhiều axit và tạp chất ăn mòn nếu để khô két sẽ làm rỉ sét ty phuộc và mòn đĩa phanh rất nhanh.</p><p>Tập thói quen điều khiển xe từ tốn, không ép số ở dải tốc độ thấp đối với xe số và không nhấp nhả phanh liên tục khi đang kéo ga đối với xe tay ga. Thói quen lái xe đúng kỹ thuật sẽ kéo dài tuổi thọ của cụm động cơ lên gấp đôi.</p><p>Hãy lắng nghe cảm giác lái của chính mình: bất kỳ tiếng kêu rè rè, rung lắc hay độ trễ ga nào cũng là dấu hiệu phương tiện đang cần được bạn quan tâm chăm sóc.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Khi nào mang bình đi kiểm tra",
+      "<p>Gom các dấu hiệu sách nêu thành một danh sách để quyết định nhanh giữa ca:</p><ul><li>Đèn báo nháy mà vặn ga không nổ, kể cả chỉ một lần.</li><li>Hệ thống thường xuyên không hoạt động dù máy đã nóng và xe đã chạy trên 10 km/h.</li><li>Đề quá 5 giây không nổ, phải chờ bình hồi mới đề được.</li><li>Đã sạc bình mà không phục hồi.</li></ul><p>Ngoài dấu hiệu, lịch bảo dưỡng trong sách có mục kiểm tra bình điện ở mỗi mốc 6.000 km (6, 12, 18, 24, 30, 36 nghìn km) và hằng năm. Người chạy xe cả ngày sẽ chạm mốc 6.000 km nhanh hơn nhiều so với người đi làm; lấy 6.000 chia cho số km bạn chạy mỗi ngày để biết còn bao lâu. Mỗi lần mang xe đi thay dầu, nhờ thợ xem bình luôn, nhất là sau những tuần nắng gắt. Dấu hiệu bình yếu chung cho mọi xe và chuyện bao lâu thì thay, xem bài <a href=\"/bao-duong/binh-ac-quy-xe-may-bao-lau-thay/\">bình ắc quy xe máy bao lâu thay</a>; các phiên bản và thông số chung của Vision ở bài <a href=\"/xe-may/honda-vision-2026/\">Honda Vision 2026</a>.</p><p>Nếu đang dùng xe thuê của Thuê xe máy Nguyễn Hà mà gặp tình trạng này, đừng tự thay bình; gọi cửa hàng để được hướng dẫn, vì hư hỏng được xử lý theo hợp đồng thuê. Xe ga cho thuê theo tháng có giá 1,2–2 triệu; điều kiện xem ở trang <a href=\"/thue-xe-may/ha-noi/theo-thang/\">thuê xe máy theo tháng Hà Nội</a>.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe tay ga Honda Vision",
-      "<p>Lợi ích lớn nhất của việc lưu nhật ký là bạn sẽ không bao giờ bị quên lịch thay dầu láp xe ga hay lịch thay nước làm mát động cơ – những hạng mục thường có chu kỳ dài từ 5.000 đến 10.000 km và rất dễ bị bỏ quên.</p><p>Thực hiện đều đặn 5 bước kiểm tra nhanh này mỗi tháng một lần chỉ tiêu tốn của bạn khoảng 15 phút nhưng đem lại sự yên tâm tuyệt đối cho suốt 30 ngày di chuyển kế tiếp.</p><p>Xem thêm các bài viết chia sẻ kinh nghiệm kỹ thuật chi tiết tại <a href=\"/bao-duong/\">chuyên mục bảo dưỡng xe toàn diện</a> để nâng cao hiểu biết về cơ khí hai bánh.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe tay ga Honda Vision",
-      "<p><strong>Dấu hiệu nào cho thấy linh kiện đã đến hạn phải thay thế gấp?</strong> Khi chi tiết xuất hiện vết nứt vỡ, độ mòn vượt quá chỉ số báo vạch an toàn của nhà sản xuất hoặc phát ra tiếng kêu cọ xát kim loại chói tai, bạn bắt buộc phải thay thế ngay lập tức để tránh tai nạn.</p><p><strong>Xe máy điện có cần bảo dưỡng định kỳ như xe xăng không?</strong> Dù không có động cơ đốt trong và dầu máy, xe máy điện vẫn cần kiểm tra định kỳ hệ thống phanh, phuộc nhún, cổ phốt, áp suất lốp và đặc biệt là kiểm tra độ an toàn của các giắc cắm pin chống nước.</p><p>Để tìm hiểu thêm nhiều kinh nghiệm hữu ích khác về các dòng xe máy, xe điện và xe đạp thể thao, bạn có thể tham khảo mục <a href=\"/faq/\">giải đáp thắc mắc thường gặp FAQ</a> được đội ngũ kỹ thuật cập nhật liên tục.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 08:00–17:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Đội ngũ chăm sóc khách hàng của Thuê xe máy Nguyễn Hà luôn sẵn sàng tư vấn mẫu xe phù hợp nhất với nhu cầu và lịch trình của bạn. Chúng tôi cam kết xe vận hành êm ái, đầy đủ giấy tờ và hỗ trợ kỹ thuật tận tình.</p><p>Mọi phương tiện tại Thuê xe máy Nguyễn Hà đều được kiểm tra kỹ thuật nghiêm ngặt trước khi bàn giao tới tay khách hàng, đảm bảo sự an tâm tuyệt đối.</p>"
+      "Nguồn tham khảo",
+      "<ul><li><a href=\"https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Sách hướng dẫn sử dụng Vision</a> (Honda Việt Nam): mục ngắt động cơ tạm thời và phần tìm kiếm hư hỏng của nó, Khởi động động cơ, Ổ cắm USB, Khóa điện, Nguyên tắc bảo dưỡng cơ bản, Lịch bảo dưỡng.</li><li><a href=\"https://www.honda.com.vn/xe-may/san-pham/vision\" target=\"_blank\" rel=\"noopener noreferrer\">Trang sản phẩm Vision</a>: hệ thống ngắt động cơ tạm thời, đèn chiếu sáng phía trước luôn sáng, cổng USB loại C.</li><li><a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">Câu hỏi thường gặp của hãng</a>: bình ắc quy khi không sử dụng xe, nổ máy tại chỗ.</li><li>Thuê xe máy Nguyễn Hà: giá thuê xe ga theo tháng và nguyên tắc xử lý hư hỏng theo hợp đồng.</li></ul><p>Đọc và đối chiếu ngày 31/10/2026.</p>"
     ]
   ],
-  "keywords": "cham-soc-pin-xe-dien xe tay ga Honda Vision tài xế công nghệ chạy xe liên tục những ngày nắng nóng đỉnh điểm",
+  "keywords": "vision idling stop không nổ lại, tắt idling stop vision, vision tự tắt máy đèn đỏ, bình vision yếu chạy xe công nghệ",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "03202",
   "tone": "black",
-  "wordCount": 1609,
+  "wordCount": 1810,
   "intent": "xe-info|cham-soc-pin-xe-dien|xe tay ga honda vision|tài xế công nghệ chạy xe liên tục|những ngày nắng nóng đỉnh điểm|dau-hieu-can-kiem-tra",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Câu hỏi thường gặp về Idling Stop và bình điện Vision",
+  "faq": [
+    [
+      "Tắt Idling Stop trên Vision thế nào?",
+      "Ấn công tắc của hệ thống sang vị trí Idling; đèn báo trên đồng hồ không sáng nghĩa là đã tắt. Honda khuyên làm vậy khi bình yếu."
+    ],
+    [
+      "Vì sao Vision tắt máy ở đèn đỏ mà đèn pha vẫn sáng?",
+      "Đó là tính năng tạm ngắt động cơ khi xe dừng; đèn pha chuyển sang sáng mờ chứ không tắt, nên dừng lâu có thể làm hao bình."
+    ],
+    [
+      "Bình yếu mà vẫn bật Idling Stop có sao không?",
+      "Có rủi ro. Sách ghi bình có thể hết điện và không khởi động lại được động cơ sau lúc máy tạm dừng."
+    ],
+    [
+      "Xuống xe giao đồ khi đèn báo ngắt máy tạm thời đang nháy được không?",
+      "Không. Sách cảnh báo không rời khỏi xe khi đèn báo đang nhấp nháy; nếu rời xe phải vặn khóa điện về Off, vì động cơ có thể khởi động đột ngột khi tay ga bị vặn."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Hệ thống Idling Stop giúp giảm tiêu hao nhiên liệu và giảm tiếng ồn, bằng cách ngắt động cơ tạm thời lúc dừng xe, ví dụ như lúc chờ đèn đỏ ở các nút giao thông.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Kích hoạt hệ thống Idling Stop Khi bật công tắc ở vị trí (Idling Stop), hệ thống Idling Stop sẽ hoạt động và đèn báo sẽ sáng khi thỏa mãn các điều kiện sau: • khởi động động cơ bằng cách ấn công tắc khởi động • động cơ đủ nóng • lái xe với tốc độ trên 10 km/h (6 mph).",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Bật hoặc tắt hệ thống Idling Stop bằng công tắc Idling Stop. • ON: BẬT (Idling Stop) u Đèn báo hệ thống Idling Stop sáng khi hệ thống Idling Stop sẵn sàng dừng động cơ trong khi lái xe. Đèn báo hệ thống Idling Stop nhấp nháy khi động cơ ngừng hoạt động bởi hệ thống Idling Stop. • OFF: TẮT (Idling) u Đèn báo không sáng khi tắt hệ thống Idling Stop.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Khi bật hệ thống Idling Stop, sau khi đóng tay ga hoàn toàn và xe dừng lại, động cơ dừng hoạt động, đèn báo chuyển từ sáng sang nhấp nháy. u Đèn pha sáng mờ trong khi động cơ dừng hoạt động. u Khi động cơ đã dừng, nếu ấn công tắc chuyển sang vị trí (Idling), hệ thống Idling Stop sẽ bị hủy. Động cơ sẽ không khởi động lại được ngay cả khi đã vặn tay ga.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Cảnh báo an toàn đối với hệ thống Idling Stop Không rời khỏi xe khi đèn báo Idling Stop đang nhấp nháy. Nếu rời khỏi xe, luôn nhớ vặn núm khóa điện sang vị trí (Off). u Động cơ có thể khởi động đột ngột nếu vặn tay ga. … LƯU Ý Động cơ dừng quá lâu bằng Hệ thống Idling Stop có thể gây tiêu hao điện áp bình điện.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Khởi động lại động cơ Kiểm tra xem đèn báo Idling Stop có đang nhấp nháy không, sau đó vặn tay ga. u Nếu đèn báo không nhấp nháy, không thể khởi động lại động cơ bằng Hệ thống Idling Stop ngay cả khi vặn tay ga. u Khi động cơ đã dừng lại bằng Hệ thống Idling Stop, nếu gạt chân chống nghiêng xuống, đèn báo Idling Stop đang nhấp nháy sẽ tắt hoặc ngừng nháy và chuyển sang chế độ sáng liên tục, khi đó không thể khởi động được động cơ ngay cả khi đã vặn tay ga.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "LƯU Ý Đèn pha vẫn sáng sau khi động cơ dừng hoạt động bằng Hệ thống Idling Stop. Bình điện có thể hết điện và không khởi động lại được động cơ. Khi bình điện yếu, bật công tắc Idling Stop sang vị trí (Idling) và không sử dụng hệ thống Idling Stop. Hãy mang xe đến cửa hàng Honda ủy nhiệm để kiểm tra bình điện. Hãy liên hệ với cửa hàng Honda ủy nhiệm để kiểm tra bình điện theo đúng lịch bảo dưỡng.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Nếu đèn báo lỗi PGM-FI (MIL) sáng: Khi đèn báo lỗi phun xăng điện tử PGM-FI (MIL) sáng, hệ thống Idling Stop không hoạt động để bảo vệ động cơ. Hãy liên hệ với Cửa hàng Honda ủy nhiệm. Nếu điện áp bình điện yếu: Khởi động xe một lúc, sau đó tắt máy và khởi động lại động cơ với công tắc khởi động … Hệ thống Idling Stop có thể không hoạt động khi điện áp bình điện yếu. Nếu tình trạng này diễn ra thường xuyên, hãy liên hệ với Cửa hàng Honda ủy nhiệm. … Nếu động cơ nguội: Làm nóng động cơ. Hệ thống Idling Stop không hoạt động khi động cơ nguội. Nếu bạn chưa lái xe sau khi động cơ khởi động: Hãy lái xe với tốc độ trên 10 km/h (6 mph).",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Nếu xe chưa dừng hẳn: Hãy dừng hẳn xe. … Nếu tay ga không đóng hoàn toàn: Đóng tay ga hoàn toàn.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Nếu công tắc Idling Stop ở vị trí (Idling): Khi động cơ dừng bởi hệ thống Idling Stop, nếu ấn công tắc này sang vị trí (Idling), hệ thống Idling Stop sẽ bị hủy. Ấn công tắc khởi động để khởi động lại động cơ … Nếu đèn báo Idling Stop nhấp nháy (công tắc Idling Stop ở vị trí (Idling Stop)), tuy nhiên động cơ không khởi động ngay cả khi vặn ga, hãy thực hiện như sau. Bình điện yếu (hỏng) hoặc lỏng cực: Kiểm tra bình điện và các cực bình điện. Nếu bình điện yếu, liên hệ với Cửa hàng Honda ủy nhiệm.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "u Mô tơ đề sẽ chỉ hoạt động khi bóp tay phanh và chân chống nghiêng được gạt lên. … Với tay ga đã đóng hoàn toàn, nhấn công tắc khởi động. Nhả công tắc khởi động ngay khi động cơ khởi động. … Nếu động cơ không khởi động trong vòng 5 giây, hãy vặn khóa điện sang vị trí (Off) và đợi 10 giây trước khi khởi động lại động cơ để phục hồi điện áp bình điện. • Để xe nổ cầm chừng quá lâu hoặc vặn ga liên tục có thể làm hỏng động cơ và hệ thống xả.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Để khóa điện ở vị trí (On) khi động cơ dừng hoạt động sẽ làm hao hụt điện áp bình điện.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Trừ loại TU Chiếc xe này được trang bị ổ cắm chỉ dành cho USB loại C. … Ổ cắm USB được đặt ở trong hộc để đồ phía trước. … Công suất định mức 15 W (5 V, 3.0 A). … u Để tránh tình trạng bình điện yếu (hoặc hỏng), hãy nổ máy trong khi sử dụng điện từ ổ cắm USB.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Không để điện thoại di động hoặc các thiết bị phát sóng radio khác vào trong bất kỳ hộp đựng đồ nào. Tần số sóng radio từ các thiết bị này sẽ gây gián đoạn hệ thống khóa THÔNG MINH.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Lắp phụ kiện điện không chính hãng Honda có thể gây quá tải hệ thống điện, làm tiêu hao điện áp và có thể gây hư hỏng hệ thống.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Bình điện 73 [ký hiệu trong bảng, đọc từ ảnh trang in 69: hàng \"Bình điện\" có K ở các cột 6, 12, 18, 24, 30, 36 và cột Kiểm tra hàng năm]",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/xe-may/san-pham/vision",
+      "quote": "Hệ thống ngắt động cơ tạm thời Có khả năng tự động ngắt động cơ khi dừng xe trên 3 giây và khởi động lại động cơ chỉ bằng thao tác vặn tay ga, giúp giảm tiếng ồn, tiết kiệm nhiên liệu và bảo vệ môi trường. … Đèn chiếu sáng phía trước luôn sáng … Hộc đựng đồ phía trước có nắp đậy … tích hợp cổng sạc USB loại C tiện dụng.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+      "quote": "Bình điện sẽ vẫn tiêu hao điện ngay cả khi không sử dụng, dù lắp trên xe hay để riêng bên ngoài, đặc biệt trong điều kiện môi trường độ ẩm và nhiệt độ cao. … Lưu ý: Quý khách không nên nổ máy tại chỗ quá lâu, đặc biệt các xe làm mát bằng không khí, sẽ có nguy cơ bị quá nhiệt gây hư hỏng động cơ.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "prices.xe ga: 150–200 nghìn/ngày, 600 nghìn–1 triệu/tuần, 1,2–2 triệu/tháng",
+      "checked": "2026-11-01"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "policies.damage: xử lý theo hợp đồng; lỗi của xe (chết máy giữa đường, hỏng do xe): cửa hàng chịu phần lớn chi phí",
+      "checked": "2026-11-01"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-11-01T18:10:00+07:00",
+    "by": "Claude Code (SEO recovery OD-1)",
+    "batch": "OD1-B23",
+    "queries": [
+      "vision idling stop không nổ lại",
+      "tắt idling stop vision",
+      "vision tự tắt máy đèn đỏ",
+      "bình vision yếu chạy xe công nghệ",
+      "vision vặn ga không nổ lại"
+    ],
+    "od1": "sai loại xe",
+    "qa_score": 95,
+    "qa_checked": "2026-11-01T18:17:35+07:00"
+  }
 }
