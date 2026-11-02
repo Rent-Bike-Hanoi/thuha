@@ -1,7 +1,7 @@
 {
  "task": "OD-1: viết lại 608 bài (572 sai loại xe, 24 luật XEM_LAI, 13 A2), giữ URL, không noindex hàng loạt",
  "owner_request": "Tiếp tục xử lý danh sách OD-1 gồm 608 bài ... THỰC THI TRỰC TIẾP TRÊN GITHUB ... theo từng lô 20–30 bài",
- "updated": "2026-11-02T17:10:00Z",
+ "updated": "2026-11-02T17:40:00Z",
  "matrix": "reports/seo-recovery/od1/od1_matrix.csv (cột status: TODO/WRITTEN/QA_PASS/DEPLOYED/BLOCKED)",
  "brief": "reports/seo-recovery/od1/BRIEF.md",
  "tools": "reports/seo-recovery/od1/tools/check_shard.py",
@@ -27,22 +27,22 @@
  "ship": "python3 reports/seo-recovery/od1/tools/ship_batch.py OD1-BXX /home/user/thuha-od1-bXX <file...> --to-main > ship.json  (chỉ file đã verified=true & pass); rồi verify_live.py ship.json; cập nhật od1_matrix.csv.",
  "github": "GitHub MCP + gh mất kết nối (token gh hỏng); git push vẫn được (check_repo_access ok). Ship = ship_batch.py ... --to-main: chạy chuỗi CI cục bộ rồi đẩy fast-forward lên main (Pages deploy).",
  "workflows_running": {
-  "B02 fix cụm nồng độ cồn/biển cấm/nhường đường/VNeID": "w6lxs2jhn (resume wf_4bb1dbf6-c2a)",
   "B03": "wq9uijex9 (resume wf_c29d4e7e-bad)",
   "B21 rest": "wr3oi5pol (resume wf_89589f9d-b01)",
   "B22 rest": "wmm5wpsla (resume wf_f90adc1f-a47)",
   "B23 rest": "wf88t4w94 (resume wf_49b42ead-03d)",
-  "B12": "wmgug3w9n (resume wf_05588acb-c8d)"
+  "B12": "wmgug3w9n (resume wf_05588acb-c8d)",
+  "B01 retry NH-00195": "wv6zabo4k (wf_650661ae-00b)"
  },
  "args_files": "scratchpad seo/bXX_args.json (đủ), bXX_verify.json (đã viết), bXX_rest.json (còn lại)",
  "deployed": {
   "OD1-B23": "8 (d08f691b91)",
   "OD1-B21": "9 (4fea55018c)",
   "OD1-B22": "9 (5330d6baac)",
-  "OD1-B02": "7+7 (1750681120, 70848e10a4)",
+  "OD1-B02": "18/18 (1750681120, 70848e10a4, 499d465c20)",
   "OD1-B01": "9+7 (b61804a5b6, f96c186386)",
-  "total": 56,
-  "live": "56/56 OK"
+  "total": 60,
+  "live": "60/60 OK"
  },
  "resume_rule": "Workflow resumeFromRunId + cùng scriptPath + cùng args: agent đã xong lấy cache, agent lỗi (quota) chạy lại. args gốc nằm trong thông báo diagnostics của từng run.",
  "matrix_tool": "tools/matrix_update.py ship.json live.json",
@@ -51,5 +51,7 @@
  ],
  "blocked": [
   "NH-01045 (B01): bảo hiểm TNDS — chờ OD-6"
- ]
+ ],
+ "legal_status": "34/36 deployed; NH-00195 đang viết lại (wv6zabo4k, worktree B01 đã sync main); NH-01045 BLOCKED (OD-6)",
+ "sync_tool": "tools/sync_worktree.sh <worktree>: bỏ bản cục bộ của shard đã DEPLOYED rồi ff lên main (chạy trước khi viết lại bài bị trùng với bài vừa ship)"
 }
