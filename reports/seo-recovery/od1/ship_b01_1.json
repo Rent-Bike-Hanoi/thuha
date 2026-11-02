@@ -1,0 +1,67 @@
+{
+ "batch": "OD1-B01",
+ "passed": [
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-du-khach-nuoc-ngoai-tai-viet-nam-can-cu-phap-ly-moi-nhat-trong-cac-tuyen-pho-noi-do-ha-noi/",
+   "file": "content/articles/NH-02195.json",
+   "title": "Người nước ngoài thi bằng A2 ở Việt Nam: điều kiện hạng A",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-di-lam-tai-cac-do-thi-can-cu-phap-ly-moi-nhat-trong-cac-tuyen-pho-noi-do-ha-noi/",
+   "file": "content/articles/NH-00445.json",
+   "title": "Thi bằng A2 năm 2026 còn không? Căn cứ pháp lý hạng A mới",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-moi-lay-bang-lai-thu-tuc-va-cac-buoc-chuan-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "file": "content/articles/NH-01695.json",
+   "title": "Thủ tục thi bằng A2 (nay là hạng A): các bước cho người mới",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thue-xe-tu-lai-giai-dap-thac-mac-pho-bien-tren-cac-truc-duong-vanh-dai-va-quoc-lo/",
+   "file": "content/articles/NH-02695.json",
+   "title": "Thuê xe moto đi quốc lộ cần bằng A2 không? Giải đáp 2026",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thue-xe-tu-lai-so-sanh-thay-doi-moi-khi-di-qua-cac-nut-giao-trong-diem-co-camera-giam-sat/",
+   "file": "content/articles/NH-00695.json",
+   "title": "Bằng A2 có phải đổi sang bằng A? So sánh trước và sau 2025",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thuong-xuyen-di-cong-tac-tinh-thu-tuc-va-cac-buoc-chuan-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "file": "content/articles/NH-03195.json",
+   "title": "Đổi bằng A2 sang bằng A online, tích hợp với bằng ô tô",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-nguoi-thuong-xuyen-di-cong-tac-tinh-tinh-huong-va-cach-phong-tranh-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "file": "content/articles/NH-01195.json",
+   "title": "Mất bằng A2 khi đi công tác: cấp lại thành hạng A thế nào",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-muc-phat-va-hinh-thuc-xu-ly-tai-cac-khu-vuc-cua-ngo-thu-do/",
+   "file": "content/articles/NH-03445.json",
+   "title": "Con chưa có hạng A (thay A2) đi xe 150cc: bố mẹ bị phạt gì?",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a2-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-thu-tuc-va-cac-buoc-chuan-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "file": "content/articles/NH-01445.json",
+   "title": "Bao nhiêu tuổi được thi bằng A2? Hạng A và thủ tục cho con",
+   "qa_score": 95
+  }
+ ],
+ "failed": [
+  {
+   "file": "content/articles/NH-00195.json",
+   "reason": "FAIL 90 /luat-giao-thong/thi-bang-lai-a2-du-khach-nuoc-ngoai-tai-viet-nam-muc-phat-va-hinh-thuc-xu-ly-khi-tham-gia-giao-thong-vao-ban-dem/ ['trùng 0.61 với bài index /luat-giao-thong/quyen-kiem-tra-cua-csgt-tai-xe-giao-hang-cong-nghe-tinh-huong-va-cach-phong-tranh-tren-cac-truc-duong-vanh-dai-va-quo"
+  }
+ ],
+ "pushed_main": true,
+ "head": "b61804a5b614263febfb57632cd427a6da05f291"
+}

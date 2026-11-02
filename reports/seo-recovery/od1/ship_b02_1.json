@@ -1,0 +1,50 @@
+{
+ "batch": "OD1-B02",
+ "passed": [
+  {
+   "url": "/luat-giao-thong/quy-dinh-xe-may-dien-50cc-nguoi-thuong-xuyen-di-cong-tac-tinh-so-sanh-thay-doi-moi-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "file": "content/articles/NH-03615.json",
+   "title": "Quy định xe máy điện, 50cc: phân biệt xe gắn máy và xe mô tô",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/quyen-kiem-tra-cua-csgt-tai-xe-giao-hang-cong-nghe-tinh-huong-va-cach-phong-tranh-tren-cac-truc-duong-vanh-dai-va-quoc-lo/",
+   "file": "content/articles/NH-01815.json",
+   "title": "Quyền kiểm tra của CSGT: tài xế giao hàng bị dừng xe quốc lộ",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/sang-ten-bien-so-dinh-danh-phu-huynh-huong-dan-con-em-tham-gia-giao-thong-can-cu-phap-ly-moi-nhat-khi-di-qua-cac-nut-giao-trong-diem-co-camera-giam-sat/",
+   "file": "content/articles/NH-01105.json",
+   "title": "Sang tên khi cho con xe máy: biển định danh bố mẹ giữ 5 năm",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/thi-bang-lai-a1-nguoi-di-lam-tai-cac-do-thi-tinh-huong-va-cach-phong-tranh-khi-di-chuyen-trong-dieu-kien-mua-bao-tam-nhin-han-che/",
+   "file": "content/articles/NH-00755.json",
+   "title": "Thi bằng lái A1 trượt thực hành: thi lại, bảo lưu, ngày mưa bão",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/toc-do-toi-da-xe-may-nguoi-di-lam-tai-cac-do-thi-giai-dap-thac-mac-pho-bien-trong-khu-vuc-ngo-hem-va-khu-do-thi-dong-duc/",
+   "file": "content/articles/NH-03205.json",
+   "title": "Tốc độ tối đa xe máy trong khu dân cư, ngõ hẻm: giải đáp 2026",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/tra-cuu-phat-nguoi-camera-nguoi-thuong-xuyen-di-cong-tac-tinh-giai-dap-thac-mac-pho-bien-trong-cac-dip-nghi-le-va-cao-diem-tet/",
+   "file": "content/articles/NH-01165.json",
+   "title": "Tra cứu phạt nguội camera dịp Tết: vi phạm ở tỉnh khác nộp ở đâu",
+   "qa_score": 95
+  },
+  {
+   "url": "/luat-giao-thong/xe-khong-guong-chieu-hau-nguoi-moi-lay-bang-lai-tinh-huong-va-cach-phong-tranh-khi-luu-thong-qua-cac-cay-cau-lon-bac-qua-song-hong/",
+   "file": "content/articles/NH-02285.json",
+   "title": "Xe không gương chiếu hậu, gương gãy khi qua cầu: bị phạt gì?",
+   "qa_score": 100
+  }
+ ],
+ "failed": [],
+ "pushed_main": true,
+ "head": "175068112097cd237a51f35678917377eeaad086"
+}
