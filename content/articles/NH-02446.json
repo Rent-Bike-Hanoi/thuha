@@ -1,53 +1,207 @@
 {
   "id": "NH-02446",
   "url": "/xe-may/xe-so-yamaha-sirius/cham-soc-pin-xe-dien-nguoi-su-dung-xe-hang-ngay-sau-thoi-gian-dai-khong-su-dung-lich-trinh-dinh-ky/",
-  "title": "Xe số yamaha sirius: sạc và bảo quản pin lithium xe điện cho người sử dụng xe hằng ngày",
+  "title": "Ắc quy Sirius FI để lâu hết điện: không phải pin, lịch kiểm tra",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang sạc và bảo quản pin lithium xe điện cho xe số Yamaha Sirius (người sử dụng xe hằng ngày): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Sirius không có pin xe điện; Sirius FI dùng ắc quy khô 12 V 3 Ah. Để lâu ắc quy tự cạn, dưới 11,50 V máy không nổ. Lịch kiểm tra điện áp theo Yamaha.",
   "sections": [
     [
-      "Tầm quan trọng của việc sạc và bảo quản pin lithium xe điện đối với xe số Yamaha Sirius",
-      "<p>Nhiều người sử dụng xe hằng ngày thường có thói quen chỉ đưa xe đi tiệm khi phương tiện đã xuất hiện hư hỏng nặng. Tuy nhiên, quy trình sạc và bảo quản pin lithium xe điện chủ động sẽ giúp phát hiện sớm các hao mòn linh kiện, giữ cho chiếc xe số Yamaha Sirius luôn trong trạng thái vận hành mượt mà và êm ái nhất.</p><p>Chăm sóc xe thường xuyên còn mang lại cảm giác lái tự tin và phấn khởi cho người sử dụng xe hằng ngày. Tiếng nổ máy trầm ấm, tay ga phản hồi mượt mà và khung sườn vững chãi sẽ biến mỗi hành trình đi làm hay đi dạo phố trở thành một trải nghiệm thư thái.</p><p>Bài viết này cung cấp cẩm nang chuyên sâu về lịch trình kiểm tra và bảo dưỡng tối ưu cho hạng mục sạc và bảo quản pin lithium xe điện trên xe số Yamaha Sirius. Mọi thông số và khuyến nghị được tổng hợp dựa trên thực tế vận hành tại Hà Nội, hỗ trợ đắc lực cho người sử dụng xe hằng ngày trong quá trình sử dụng xe hằng ngày.</p>"
+      "Ắc quy Sirius FI để lâu hết điện: cần giữ trên 11,50 V để máy nổ",
+      "<p>Yamaha Sirius là xe số chạy xăng, không có pin xe điện. Thứ cần chăm sóc là <strong>ắc quy 12 V</strong>; bản FI dùng loại ắc quy khô. Ắc quy này tự hao điện cả khi xe không chạy, và sách hướng dẫn của Yamaha ghi rõ động cơ <strong>không thể khởi động nếu điện áp dưới 11,50 V</strong>. Vì vậy, với người đi xe hằng ngày vừa nghỉ một thời gian dài, việc cần làm là: nghỉ trên một tháng thì tháo ắc quy ra, nạp đầy, để nơi khô thoáng; để quá hai tháng thì kiểm tra ít nhất mỗi tháng một lần; còn khi đi lại đều thì để đại lý đo điện áp ở từng mốc trong bảng bảo trì.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe số Yamaha Sirius cần kiểm tra trong sau thời gian dài không sử dụng",
-      "<p>Đối với hệ thống truyền động và bánh xe của xe số Yamaha Sirius, sự thay đổi nhiệt độ và độ ẩm trong sau thời gian dài không sử dụng có thể làm giảm tuổi thọ cao su lốp, gây giãn xích hoặc chai cứng bố thắng. Nếu phát hiện xe tiêu hao nhiên liệu tăng đột biến so với bình thường, bạn nên tiến hành kiểm tra bugi và tấm lọc gió ngay.</p><p>Đối với hệ thống điện, đèn pha chập chờn khi tăng ga hoặc còi xe phát ra âm thanh yếu ớt là tín hiệu rõ ràng của việc bình ắc quy yếu hoặc cuộn phát điện (mâm lửa) gặp trục trặc kỹ thuật.</p><p>Đối với người sử dụng xe hằng ngày, việc phát hiện sớm hư hỏng không chỉ bảo vệ chiếc xe số Yamaha Sirius khỏi những hỏng hóc dây chuyền tốn kém mà còn là tấm lá chắn bảo vệ an toàn tính mạng cho chính bạn và những người cùng tham gia giao thông.</p><p>Lắng nghe chiếc xe chính là cách giao tiếp trực tiếp giữa người lái và cỗ máy, giúp bạn luôn chủ động phòng ngừa rủi ro từ trước khi nó trở thành sự cố nghiêm trọng.</p>"
+      "Ắc quy khô của Sirius FI khác gì ắc quy nước",
+      "<p>Sách hướng dẫn của xe ghi nó được gắn <strong>bình ắc quy khô</strong> loại kín. Với loại này, Yamaha viết rằng không cần kiểm tra dung dịch điện phân hay châm thêm nước cất; việc của chủ xe chỉ là để ý hai cọc nối và vặn chặt khi lỏng. Tài liệu cũng khuyên không bóc niêm phong bình, vì làm vậy bình dễ hỏng sớm.</p><p>Chữ “khô” chỉ có nghĩa là không phải châm nước, không có nghĩa là giữ điện mãi. <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">Honda</a> ghi bình điện xe máy vẫn tiêu hao khi không sử dụng, dù lắp trên xe hay để riêng, nhất là khi trời nóng ẩm; Yamaha thì yêu cầu ắc quy luôn được nạp, vì để bình cạn trong thời gian dài có thể làm hỏng nó.</p><p>Bản chế hòa khí dùng ắc quy 12N5 có dung dịch điện phân, theo <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sổ tay BGY</a>, và sổ tay đó yêu cầu định kỳ kiểm tra mức dung dịch. Thông số và phiên bản của dòng này ở trang <a href=\"/xe-may/yamaha-sirius-che-hoa-khi/\">Sirius chế hòa khí</a>. Bài này chỉ nói về bản FI.</p>"
     ],
     [
-      "Quy trình từng bước sạc và bảo quản pin lithium xe điện chuẩn kỹ thuật",
-      "<p>Lắp ráp linh kiện mới hoặc chi tiết đã bảo dưỡng về vị trí cũ, siết ốc với lực siết vừa đủ theo khuyến cáo kỹ thuật để tránh hiện tượng trờn ren ốc lốc máy. Bôi trơn các khớp chuyển động bằng mỡ bò chịu nhiệt hoặc dầu nhớt chuyên dụng chất lượng cao.</p><p>Đối với hệ thống phanh, việc xả gió (e gió) đường dầu thủy lực đòi hỏi sự tỉ mỉ cao. Cần bóp nhả tay phanh đều đặn cho đến khi toàn bộ bọt khí li ti trong ống dẫn được tống khứ hoàn toàn ra ngoài, mang lại cảm giác phanh mút chắc chắn.</p><p>Lưu ý ghi chép lại số km trên đồng hồ công-tơ-mét và mốc thời gian thực hiện để thiết lập chu kỳ bảo dưỡng kế tiếp. Nếu chưa tự tin về tay nghề cơ khí, bạn nên đưa xe đến các cơ sở uy tín để được kỹ thuật viên giàu kinh nghiệm hỗ trợ.</p><p>Lau sạch toàn bộ dầu mỡ thừa dính trên thân xe và vành lốp để phương tiện luôn sạch sẽ tinh tươm trước khi đưa vào sử dụng hằng ngày.</p>"
+      "Lịch kiểm tra điện áp trong bảng bảo trì Yamaha",
+      "<p>Trong <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn sử dụng</a> bản FI, mục số 4 của lịch bảo dưỡng chung là ắc quy, với hai việc: <strong>kiểm tra điện áp</strong> và <strong>sạc nếu thấy cần thiết</strong>. Mục này có đánh dấu sao, nghĩa là do đại lý Yamaha làm, vì cần dụng cụ chuyên dùng và hiểu rõ đặc điểm kỹ thuật của xe.</p><table><tr><th>Cột trong bảng (km hoặc tháng)</th><th>Việc với ắc quy</th></tr><tr><td>1.000 km hoặc 2 tháng</td><td>Kiểm tra điện áp, sạc nếu cần</td></tr><tr><td>4.000 km hoặc 6 tháng</td><td>Kiểm tra điện áp, sạc nếu cần</td></tr><tr><td>7.000 km hoặc 10 tháng</td><td>Kiểm tra điện áp, sạc nếu cần</td></tr><tr><td>10.000 km hoặc 14 tháng</td><td>Kiểm tra điện áp, sạc nếu cần</td></tr><tr><td>13.000 km hoặc 18 tháng</td><td>Kiểm tra điện áp, sạc nếu cần</td></tr><tr><td>Kiểm tra hằng năm</td><td>Kiểm tra điện áp, sạc nếu cần</td></tr></table><p>Theo bảng “Lịch trình bảo dưỡng và bôi trơn chung” trong sách hướng dẫn, đọc ngày 31/10/2026. Phần ghi chú của chương bảo trì nói thêm: nên kiểm tra hằng năm hoặc dựa vào số km đi được, và kể từ 16.000 km, lần bảo trì tiếp theo làm như khi xe đi được 4.000 km.</p><p>Điểm người hay để xe nằm lâu cần chú ý là mốc tính theo tháng. Mỗi cột ghi số km <strong>hoặc</strong> số tháng; bảng bảo dưỡng hệ thống khí thải in ngay trước đó trong cùng chương ghi rõ cách đọc: “tùy theo cái nào đến trước”. Các cột là mốc tính dồn từ khi xe còn mới, không phải khoảng cách giữa hai lần bảo trì. Xe dựng một chỗ không cộng thêm km, nhưng tháng vẫn trôi: đồng hồ chưa chạm 4.000 km, nhưng nếu xe đã qua mốc 6 tháng tính từ khi mua (cột “4000 km hoặc 6 tháng”) thì lượt kiểm tra điện áp đã tới hạn.</p><p>Muốn so lịch này với các mẫu Honda, và biết khi nào nên thay hẳn bình mới, xem bài tổng quát <a href=\"/bao-duong/binh-ac-quy-xe-may-bao-lau-thay/\">bình ắc quy xe máy bao lâu thay</a>.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe số Yamaha Sirius",
-      "<p>Sai lầm phổ biến nhất mà nhiều người sử dụng xe hằng ngày mắc phải là sử dụng sai chủng loại dầu nhớt hoặc dung dịch kỹ thuật không tương thích với chiếc xe số Yamaha Sirius. Ví dụ, dùng nhầm nhớt xe số cho xe tay ga hoặc ngược lại sẽ khiến động cơ nóng ran, gây trượt ly hợp hoặc làm giảm hiệu suất buồng đốt nghiêm trọng.</p><p>Tự ý điều chỉnh vít gió và ốc galanti khi không có thiết bị đo vòng tua chuyên dụng cũng là nguyên nhân khiến xe bị hao xăng, hụp ga đầu và sinh ra nhiều muội than bám nghẹt đầu bugi.</p><p>Để tránh các sự cố kỹ thuật không đáng có, bạn nên tham khảo kỹ các tài liệu hướng dẫn vận hành hoặc tra cứu thêm tại <a href=\"/kinh-nghiem/lai-xe-o-ha-noi/\">chuyên mục kinh nghiệm sử dụng xe</a> trước khi tự mình tháo lắp các cụm chi tiết phức tạp.</p><p>Sự an toàn và ổn định lâu dài luôn quan trọng hơn những can thiệp độ chế nhất thời không đúng tiêu chuẩn kỹ thuật.</p>"
+      "Đi lại hằng ngày sau thời gian nghỉ: thứ tự kiểm tra",
+      "<p>Cách xử lý phụ thuộc vào xe đã nằm bao lâu. Bảng dưới gộp hướng dẫn bảo quản ắc quy của Yamaha với khuyến cáo chung của Honda; ô cuối mỗi dòng ghi rõ lời khuyên của hãng nào.</p><table><tr><th>Thời gian xe không chạy</th><th>Việc nên làm với ắc quy</th><th>Nguồn</th></tr><tr><td>Vài tuần, ắc quy để nguyên trên xe</td><td>Nổ máy mỗi tuần một lần khoảng 10 phút, hoặc tháo dây cực âm để tránh phóng điện</td><td>Honda, khuyến cáo cho xe máy nói chung</td></tr><tr><td>Trên một tháng</td><td>Tháo ắc quy ra, nạp đầy, để nơi khô, thoáng</td><td>Sách hướng dẫn Yamaha</td></tr><tr><td>Trên hai tháng</td><td>Kiểm tra ít nhất mỗi tháng một lần, nạp đầy nếu cần</td><td>Sách hướng dẫn Yamaha</td></tr><tr><td>Từ 60 ngày trở lên (bảo quản lâu dài)</td><td>Tháo ra nạp đầy, hoặc lắp bộ sạc bảo dưỡng tương thích; nếu tháo thì sạc mỗi tháng một lần, giữ ở 0–30 °C</td><td>Sách hướng dẫn Yamaha</td></tr></table><p>Mốc nổ máy hằng tuần là của Honda, không có trong tài liệu Yamaha. Honda cũng lưu ý không nổ máy tại chỗ quá lâu, đặc biệt với xe làm mát bằng không khí, và Sirius FI thuộc loại làm mát bằng không khí. Yamaha có một lưu ý gần giống nhưng ở chỗ khác: trong mục ống xúc tác, sổ tay dặn không để động cơ chạy không tải quá lâu vì nhiệt độ sẽ tăng, tức là cảnh báo về nhiệt của hệ thống xả.</p><h3>Sáng đầu tiên đi làm lại</h3><ol><li>Nếu đã tháo ắc quy: sạc đầy trước khi lắp. Khi lắp, khóa điện phải tắt, nối dây dương (màu đỏ) trước rồi mới tới dây âm (màu đen), sau đó xem lại các đầu dây đã đúng cực.</li><li>Nếu để nguyên trên xe: xem hai cọc bình có lỏng hay bám bẩn không trước khi bật khóa.</li><li>Mỗi lượt đề, thả nút ngay khi máy nổ hoặc sau tối đa 5 giây, rồi chờ 10 giây mới đề tiếp để điện áp ắc quy hồi lại; đây là quy tắc trong sách hướng dẫn Yamaha. Vài lượt như vậy mà máy vẫn im thì dừng hẳn: dưới 11,50 V thì đề thêm cũng vô ích, xe cần được sạc hoặc kiểm tra ở đại lý.</li></ol><p>Ắc quy chỉ là một phần. Xe nằm lâu còn cần xem lốp, phanh, xích và xăng; danh sách đầy đủ ở bài <a href=\"/bao-duong/xe-may-de-lau-khong-di/\">xe máy để lâu không đi</a>. Riêng dầu máy sau thời gian dài đứng yên, đọc thêm <a href=\"/xe-may/xe-so-yamaha-sirius/thay-dau-nhot-nguoi-moi-mua-xe-lan-dau-sau-thoi-gian-dai-khong-su-dung-sai-lam-pho-bien/\">sai lầm khi thay dầu Sirius sau thời gian không dùng</a>.</p>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Tiền công thợ cho các gói bảo dưỡng định kỳ cơ bản khác nhau giữa các xưởng sửa xe tại Hà Nội, vì vậy hãy hỏi giá công trước. Bạn nên yêu cầu xưởng báo giá trọn gói bao gồm cả công lắp đặt trước khi đồng ý cho thợ tiến hành làm.</p><p>Giá phụ tùng thay thế như dầu nhớt (bán tổng hợp hay tổng hợp toàn phần), lọc gió chính hãng và bugi bạch kim hoặc iridium khác nhau theo loại, theo dòng xe và theo cửa hàng, nên tham khảo báo giá ở vài nơi trước khi thay.</p><p>Nếu bạn đang cân nhắc chi phí giữa việc giữ xe cũ tốn kém bảo dưỡng định kỳ với việc thuê xe vận hành êm ái không lo sửa chữa, hãy tham khảo <a href=\"/bang-gia/\">bảng giá thuê xe máy theo tháng</a> để có sự so sánh kinh tế rõ ràng nhất.</p><p>Đầu tư đúng lúc cho các hạng mục bảo dưỡng định kỳ luôn là bài toán chi phí thông minh nhất, giúp bạn tránh được những khoản sửa chữa đột xuất lên đến tiền triệu khi xe hỏng nặng.</p>"
+      "Đọc lịch Yamaha theo số tháng khi xe ít chạy",
+      "<p>Bảng bảo trì không hỏi bạn đi bao nhiêu km mỗi ngày; nó chỉ cho hai con số ở mỗi cột. Cách tự áp vào chiếc xe của mình, không cần ước tính gì thêm:</p><ol><li>Xem số km trên đồng hồ, và đếm số tháng kể từ khi mua xe.</li><li>Dò bảng ở mục trên: cột nào mà xe đã chạm số km <strong>hoặc</strong> số tháng trước, lượt bảo trì ở cột đó đã tới hạn. Xe đã qua 2 tháng là tới cột đầu, qua 6 tháng là tới cột thứ hai, dù kim đồng hồ còn thấp.</li><li>Từ 16.000 km trở đi, Yamaha ghi lần bảo trì tiếp theo làm như ở mốc 4.000 km; ngoài các cột đó, ắc quy còn có lượt kiểm tra hằng năm.</li></ol><p>Đi càng ít km mỗi tháng thì mốc tháng càng dễ đến trước mốc km; xe nằm yên hoàn toàn thì chỉ còn mốc tháng. Vì vậy người chạy quãng ngắn trong phố, hoặc vừa có một kỳ nghỉ dài, nên coi mốc tháng là lịch chính. Cách giữ nhịp đơn giản nhất là ghi ngày và số km của mỗi lần bảo trì vào một cuốn sổ nhỏ hoặc ghi chú điện thoại, kèm điện áp ắc quy mà thợ đọc được. Nhìn dãy số đó qua vài lần, bạn biết bình đang giữ điện ổn hay đang đi xuống.</p><p>Một trang nhật ký đơn giản là đủ. Để trống ô điện áp cho tới khi thợ đọc số; đừng điền con số ước đoán:</p><table><tr><th>Lần ghi</th><th>Ngày</th><th>Số km trên đồng hồ</th><th>Điện áp thợ đo</th><th>Việc đã làm</th></tr><tr><td>Bảo trì theo mốc</td><td>…</td><td>…</td><td>… V</td><td>Kiểm tra, sạc nếu cần</td></tr><tr><td>Trước kỳ nghỉ dài</td><td>…</td><td>…</td><td>… V</td><td>Gỡ bình và nạp đầy, hoặc lắp bộ sạc bảo dưỡng tương thích</td></tr><tr><td>Mỗi tháng trong kỳ nghỉ</td><td>…</td><td>không đổi</td><td>… V</td><td>Nạp lại nếu cần</td></tr><tr><td>Tuần đầu đi lại</td><td>…</td><td>…</td><td>… V</td><td>Lắp bình, đo lại</td></tr></table><p>Hai thời điểm đáng chủ động hẹn đại lý, dù chưa tới mốc: ngay trước khi để xe nghỉ từ một tháng trở lên, và tuần đầu tiên đi lại sau kỳ nghỉ đó. Lần đầu là để bình được nạp đầy trước khi cất, đúng như Yamaha dặn; lần sau là để biết bình có giữ được điện qua kỳ nghỉ hay không.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho người sử dụng xe hằng ngày khi sử dụng xe hằng ngày",
-      "<p>Khi sử dụng xe trong điều kiện sau thời gian dài không sử dụng, hãy chú ý rửa sạch bùn đất bám vào gầm máy, đĩa phanh và phuộc nhún ngay sau khi đi mưa về. Bùn đất chứa nhiều axit và tạp chất ăn mòn nếu để khô két sẽ làm rỉ sét ty phuộc và mòn đĩa phanh rất nhanh.</p><p>Đảm bảo vị trí đỗ xe tại gia đình hoặc văn phòng luôn khô ráo, thoáng mát và tránh xa các nguồn nhiệt hoặc hóa chất ăn mòn.</p><p>Hãy lắng nghe cảm giác lái của chính mình: bất kỳ tiếng kêu rè rè, rung lắc hay độ trễ ga nào cũng là dấu hiệu phương tiện đang cần được bạn quan tâm chăm sóc.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Sạc ắc quy: bộ sạc chuyên dụng, nơi thông thoáng",
+      "<p>Yamaha khuyên khi ắc quy hết điện thì mang tới đại lý để sạc. Nếu tự nạp định kỳ hằng tháng trong thời gian xe nghỉ, hãy dùng bộ sạc chuyên dụng loại điện áp không đổi và xác nhận nó tương thích với bình khô; bộ sạc thông thường rất dễ làm hỏng bình. Chỗ nạp phải thông thoáng, riêng biệt, xa lửa, vì bình sinh khí dễ cháy nổ. Chi tiết chọn máy và gỡ bình có trong bài <a href=\"/bao-duong/sac-binh-ac-quy-xe-may-tai-nha/\">sạc bình ắc quy xe máy tại nhà</a>.</p><p>Trong những ngày ắc quy đang sạc hoặc xe nằm chờ đại lý, Thuê xe máy Nguyễn Hà ở Long Biên có xe số và xe ga cho thuê theo ngày, giá 150–200 nghìn/ngày; xem điều kiện ở trang <a href=\"/thue-xe-may/ha-noi/theo-ngay/\">thuê xe máy theo ngày tại Hà Nội</a>. Thông số chung của xe có ở trang <a href=\"/xe-may/yamaha-sirius-fi/\">Yamaha Sirius FI</a>.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe số Yamaha Sirius",
-      "<p>Ngoài ra, khi có nhu cầu bán lại hoặc nâng cấp lên đời xe mới, một chiếc xe có đầy đủ lịch sử bảo dưỡng minh bạch luôn được người mua trả giá cao hơn hẳn so với những chiếc xe không rõ nguồn gốc phụ tùng.</p><p>Nếu phát hiện bất kỳ dấu hiệu hư hỏng tiềm ẩn nào, hãy lên kế hoạch xử lý dứt điểm ngay thay vì trì hoãn để lỗi nhỏ biến thành lỗi lớn tốn kém.</p><p>Sự hiểu biết sâu sắc về chiếc xe của mình sẽ giúp bạn luôn làm chủ tình huống và không bao giờ bị bỡ ngỡ trước bất kỳ sự cố bất ngờ nào.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe số Yamaha Sirius",
-      "<p><strong>Có thể tự thực hiện tại nhà được không?</strong> Những thao tác vệ sinh bên ngoài, tra dầu xích hay đo áp suất lốp bạn hoàn toàn có thể tự làm tại nhà với dụng cụ cơ bản. Tuy nhiên, các hạng mục liên quan đến mở lốc máy, cân chỉnh xupap hay hệ thống điện tử nên để thợ có tay nghề thực hiện.</p><p><strong>Xe máy điện có cần bảo dưỡng định kỳ như xe xăng không?</strong> Dù không có động cơ đốt trong và dầu máy, xe máy điện vẫn cần kiểm tra định kỳ hệ thống phanh, phuộc nhún, cổ phốt, áp suất lốp và đặc biệt là kiểm tra độ an toàn của các giắc cắm pin chống nước.</p><p>Đừng ngần ngại hỏi rõ thợ sửa xe về nguồn gốc xuất xứ của từng món linh kiện được lắp vào xe để chắc chắn bạn nhận được giá trị xứng đáng với số tiền đã chi trả.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 08:00–17:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Đội ngũ chăm sóc khách hàng của Thuê xe máy Nguyễn Hà luôn sẵn sàng tư vấn mẫu xe phù hợp nhất với nhu cầu và lịch trình của bạn. Chúng tôi cam kết xe vận hành êm ái, đầy đủ giấy tờ và hỗ trợ kỹ thuật tận tình.</p><p>Mọi phương tiện tại Thuê xe máy Nguyễn Hà đều được kiểm tra kỹ thuật nghiêm ngặt trước khi bàn giao tới tay khách hàng, đảm bảo sự an tâm tuyệt đối.</p>"
+      "Nguồn tham khảo",
+      "<ul><li>Yamaha Việt Nam, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn sử dụng Sirius, mã sách BSA-F8199</a>: mục Ắc quy, lịch bảo dưỡng chung và sơ đồ bảo dưỡng hệ thống khí thải, ống xúc tác, khởi động, bảo quản lâu dài. Đọc 31/10/2026.</li><li>Yamaha Việt Nam, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn sử dụng Sirius BGY1/BGY2/BGY3 (chế hòa khí)</a>: loại ắc quy 12N5 và việc kiểm tra mức dung dịch. Đọc 31/10/2026.</li><li>Honda Việt Nam, <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">Câu hỏi thường gặp</a>: bình điện tự tiêu hao khi không dùng, bảo quản xe để lâu ngày, nổ máy mỗi tuần một lần. Đọc 31/10/2026.</li><li>Thuê xe máy Nguyễn Hà: bảng giá thuê xe số theo ngày. Đối chiếu 31/10/2026.</li></ul>"
     ]
   ],
-  "keywords": "cham-soc-pin-xe-dien xe số Yamaha Sirius người sử dụng xe hằng ngày sau thời gian dài không sử dụng",
+  "keywords": "ắc quy sirius fi để lâu hết điện, sirius fi dưới 11,5v không nổ, lịch bảo trì ắc quy sirius, sirius để lâu không đi",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "02446",
   "tone": "black",
-  "wordCount": 1562,
+  "wordCount": 1990,
   "intent": "xe-info|cham-soc-pin-xe-dien|xe số yamaha sirius|người sử dụng xe hằng ngày|sau thời gian dài không sử dụng|lich-trinh-dinh-ky",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Hỏi nhanh về ắc quy Sirius FI khi xe nằm lâu",
+  "faq": [
+    [
+      "Sirius FI dùng ắc quy gì?",
+      "Ắc quy khô loại kín, theo bảng thông số trong sách hướng dẫn của Yamaha; đây không phải pin sạc như xe điện."
+    ],
+    [
+      "Ắc quy Sirius FI có cần châm nước không?",
+      "Không. Sách hướng dẫn ghi không cần kiểm tra dung dịch điện phân hay châm nước cất; chỉ cần xem và vặn chặt cọc nối, và không bóc niêm phong bình."
+    ],
+    [
+      "Để Sirius bao lâu thì nên nổ máy một lần?",
+      "Tài liệu Yamaha không ghi mốc nổ máy. Mốc mỗi tuần một lần khoảng 10 phút là khuyến cáo của Honda Việt Nam cho xe máy nói chung. Nếu nghỉ trên một tháng, Yamaha khuyên gỡ ắc quy ra và nạp đầy."
+    ],
+    [
+      "Xe nghỉ lâu, số km chưa tới mốc thì có cần đi bảo trì?",
+      "Có thể đã tới. Mỗi cột trong lịch ghi số km hoặc số tháng tính từ khi xe còn mới, tùy theo cái nào đến trước; xe không lăn bánh vẫn tới mốc tháng, nên nhờ đại lý đo điện áp ắc quy khi đi lại."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Loại xe này được gắn ắc quy VRLA (bình ắc quy khô). Không cần phải kiểm tra dung dịch điện phân hay châm thêm nước cất. … Ắc quy: Model: GTZ4V … 12 V, 3.0 Ah (10 HR)",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "CHÚ Ý Không nên tháo niêm phong ắc quy vì sẽ làm cho ắc quy dễ bị hư hại sớm.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "1. Ắc quy 2. Dây âm ắc quy (màu đen) 3. Dây dương ắc quy (màu đỏ)",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Model: 12N5 … 12 V, 5.0 Ah (10 HR) … Cần định kỳ kiểm tra mức dung dịch điện phân, các đầu nối chì và cách luồn ống thông hơi. GHI CHÚ Mức dung dịch điện phân (nước ắc quy) cần nằm giữa vạch mức tối thiểu và vạch mức tối đa. … Nếu mức dung dịch điện phân bằng hoặc thấp hơn vạch mức tối thiểu, hãy thêm nước cất",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "4 * Ắc quy • Kiểm tra điện áp. • Sạc nếu thấy cần thiết.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Các mục được đánh dấu sao sẽ do đại lý Yamaha thực hiện vì cần phải có dụng cụ chuyên dùng, hiểu rõ các đặc điểm kỹ thuật của xe.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Lịch trình bảo dưỡng và bôi trơn chung QUÃNG ÐƯỜNG CHẠY XE ÐO ÐƯỢC (km) … 1000 km hoặc 2 tháng 4000 km hoặc 6 tháng 7000 km hoặc 10 tháng 10000 km hoặc 14 tháng 13000 km hoặc 18 tháng KIỂM TRA HÀNG NĂM",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "GHI CHÚ Nên thực hiện kiểm tra hàng năm hoặc dựa vào số km đi được. Kể từ 16000 km, nên thực hiện bảo trì lần tiếp theo như khi xe đi được 4000 km.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Sơ đồ các giai đoạn bảo dưỡng hệ thống kiểm tra khí thải QUÃNG ĐƯỜNG CHẠY XE ĐO ĐƯỢC (tùy theo cái nào đến trước)",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Động cơ không thể khởi động nếu điện áp ắc quy dưới 11.50 V hoặc không lắp ắc quy.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Cất giữ ắc quy 1. Nếu không sử dụng xe trên một tháng, nên tháo ắc quy ra, nạp đầy và cất giữ ở nơi khô, thoáng. CHÚ Ý: Khi tháo ắc quy, khóa điện phải tắt, sau đó ngắt kết nối dây âm trước rồi mới đến dây dương. 2. Nếu cất giữ ắc quy trên hai tháng, hãy kiểm tra ít nhất một tháng một lần và nạp đầy nếu cần thiết. 3. Sạc đầy ắc quy trước khi lắp lại để sử dụng. CHÚ Ý: Khi lắp ắc quy, khóa điện phải tắt, sau đó nối dây dương trước sau đó mới đến dây âm.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Ắc quy phải luôn được nạp điện. Cất giữ ắc quy không được nạp điện có thể gây ra hư hỏng cho ắc quy.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Bảo quản lâu dài Trước khi bảo quản xe trong thời gian dài (từ 60 ngày trở lên): … 10. Tháo ắc quy và nạp đầy, hoặc lắp bộ sạc bảo dưỡng để giữ cho ắc quy được sạc tối ưu. CHÚ Ý: Xác nhận rằng ắc quy và bộ sạc tương thích với nhau. … Nếu tháo ắc quy, hãy sạc ắc quy mỗi tháng một lần và bảo quản ở nơi không quá nóng hoặc quá lạnh, trong khoảng 0-30 °C (32-90 °F).",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Thả công tắc đề khi động cơ khởi động, hoặc sau đó 5 giây. Chờ 10 giây rồi mới nhấn lại công tắc đề để điện áp ắc quy hồi lại.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Ống xúc tác … Không nên để động cơ chạy không tải quá lâu. Thời gian chạy không tải dài có thể làm cho nhiệt độ tăng lên. … Hệ thống làm mát: Làm mát bằng không khí",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Ắc quy sinh ra các khí dễ gây cháy nổ. Do đó, nên để xa nguồn lửa, nơi hút thuốc lá…. Khi nạp ắc quy cần để nơi thông thoáng và riêng biệt. … Ðể sạc ắc quy VRLA, cần phải có bộ sạc ắc quy chuyên dụng (điện áp không đổi). Sử dụng bộ sạc thông thường sẽ rất dễ làm hư hỏng ắc quy.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Hãy đến đại lý Yamaha để sạc ắc quy khi ắc quy hết điện. Hãy lưu ý rằng, ắc quy sẽ mau hết điện khi xe có gắn thêm các phụ kiện điện.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+      "quote": "Bình điện sẽ vẫn tiêu hao điện ngay cả khi không sử dụng, dù lắp trên xe hay để riêng bên ngoài, đặc biệt trong điều kiện môi trường độ ẩm và nhiệt độ cao.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+      "quote": "Nếu không thường xuyên sử dụng, Quý Khách nên nổ máy mỗi tuần một lần trong khoảng 10 phút để sạc điện cho bình. Lưu ý: Quý khách không nên nổ máy tại chỗ quá lâu, đặc biệt các xe làm mát bằng không khí, sẽ có nguy cơ bị quá nhiệt gây hư hỏng động cơ.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+      "quote": "Tránh hết điện bình ắc quy: Quý Khách nên tháo dây cực âm ra khỏi bình ắc quy để tránh hiện tượng phóng điện gây hao hụt điện áp, hoặc nổ máy mỗi tuần một lần trong khoảng 10 phút để sạc điện cho bình.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "xe số: 150–200 nghìn/ngày, 700–800 nghìn/tuần, 1–1,2 triệu/tháng",
+      "checked": "2026-10-31"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-11-01T20:30:00+07:00",
+    "by": "Claude Code (SEO recovery OD-1)",
+    "batch": "OD1-B22",
+    "queries": [
+      "ắc quy sirius fi để lâu hết điện",
+      "sirius fi dưới 11,5v không nổ",
+      "lịch bảo trì ắc quy sirius",
+      "sirius để lâu không đi",
+      "cất giữ ắc quy sirius fi"
+    ],
+    "od1": "sai loại xe",
+    "qa_score": 100,
+    "qa_checked": "2026-11-02T13:08:04+07:00"
+  }
 }

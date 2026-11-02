@@ -1,53 +1,189 @@
 {
   "id": "NH-01580",
   "url": "/xe-may/xe-so-yamaha-sirius/cham-soc-pin-xe-dien-tai-xe-cong-nghe-chay-xe-lien-tuc-mua-mua-ngap-ung-do-thi-sai-lam-pho-bien/",
-  "title": "Xe số yamaha sirius: sạc và bảo quản pin lithium xe điện cho tài xế công nghệ chạy xe liên tục",
+  "title": "Sạc ắc quy Sirius sai cách: xe không có pin, tránh lỗi mùa mưa",
   "hub": "xe-may",
-  "excerpt": "Cẩm nang sạc và bảo quản pin lithium xe điện cho xe số Yamaha Sirius (tài xế công nghệ chạy xe liên tục): dấu hiệu nhận biết sớm, các bước chuẩn xác và tư vấn từ Nguyễn Hà.",
+  "excerpt": "Sirius không có pin như xe điện; ắc quy 12 V cần bộ sạc chuyên dụng và sạc nơi thông thoáng. Các lỗi dễ mắc khi chạy xe mùa mưa ngập và cách tránh.",
   "sections": [
     [
-      "Tầm quan trọng của việc sạc và bảo quản pin lithium xe điện đối với xe số Yamaha Sirius",
-      "<p>Đối với dòng phương tiện phổ biến như xe số Yamaha Sirius, việc chú trọng sạc và bảo quản pin lithium xe điện đóng vai trò quyết định đến độ bền của động cơ, hiệu suất vận hành và sự an toàn của người lái. Trong điều kiện đường sá đô thị nhiều khói bụi và dừng đỗ liên tục, việc chăm sóc xe đúng cách giúp bạn tiết kiệm hàng triệu đồng chi phí sửa chữa lớn về sau.</p><p>Đối với các chi tiết chuyển động quay như vòng bi, trục khuỷu và bánh răng số, lớp màng dầu bôi trơn hoặc việc căn chỉnh chuẩn xác sẽ ngăn ngừa hiện tượng ma sát khô gây mài mòn kim loại. Một chiếc xe số Yamaha Sirius được bảo dưỡng đúng cách luôn giữ được giá trị chuyển nhượng cao sau nhiều năm sử dụng.</p><p>Bài viết này cung cấp cẩm nang chuyên sâu về những sai lầm phổ biến cần tuyệt đối tránh cho hạng mục sạc và bảo quản pin lithium xe điện trên xe số Yamaha Sirius. Mọi thông số và khuyến nghị được tổng hợp dựa trên thực tế vận hành tại Hà Nội, hỗ trợ đắc lực cho tài xế công nghệ chạy xe liên tục trong quá trình sử dụng xe hằng ngày.</p>"
+      "Sạc ắc quy Sirius đúng cách: bộ sạc chuyên dụng, nơi thoáng khí",
+      "<p>Sirius không có pin như xe máy điện, chỉ có một ắc quy 12 V để đề máy và nuôi đèn còi. Khi bình cạn, sổ tay bản phun xăng đề nghị mang tới đại lý Yamaha để sạc. Bản phun xăng dùng ắc quy khô VRLA, và Yamaha yêu cầu <strong>bộ sạc chuyên dụng loại điện áp không đổi</strong>. Bản chế hòa khí đời BGY dùng ắc quy 12N5 có dung dịch; sổ tay BGY không ghi loại bộ sạc, nên mang ra đại lý. Sổ tay cả hai bản đều dặn nạp ắc quy ở <strong>nơi thông thoáng, riêng biệt, xa lửa</strong> vì ắc quy sinh khí dễ cháy nổ. Mùa mưa còn một nguyên tắc nữa: xe chết máy giữa đoạn ngập thì không cố đề lại.</p>"
     ],
     [
-      "Dấu hiệu nhận biết xe số Yamaha Sirius cần kiểm tra trong mùa mưa ngập úng đô thị",
-      "<p>Đối với các mẫu xe máy điện, việc theo dõi thời gian sạc pin và tốc độ sụt giảm điện áp khi leo dốc là cực kỳ quan trọng. Khi pin có dấu hiệu tụt vạch nhanh bất thường hoặc bộ sạc nóng quá mức cho phép, hãy ngừng sử dụng và đưa xe đến trung tâm chuyên môn để đo đạc dung lượng thực tế.</p><p>Một dấu hiệu cảnh báo nguy hiểm khác là hiện tượng dầu nhớt bị biến chất, chuyển sang màu đen kịt hoặc có lẫn bọt nước li ti sau những ngày mưa ẩm ướt. Điều này cho thấy phốt chặn dầu hoặc gioăng buồng máy của xe số Yamaha Sirius có thể đã bị rò rỉ, cần được kiểm tra và xử lý triệt để.</p><p>Hãy duy trì thói quen quan sát nhanh chiếc xe trước mỗi chuyến đi dài. Bạn có thể đối chiếu tình trạng phương tiện với <a href=\"/bao-duong/xe-may/kiem-tra-truoc-khi-nhan/\">checklist kiểm tra kỹ thuật xe máy</a> để không bỏ sót các hư hỏng tiềm ẩn.</p><p>Đặc biệt lưu ý tiếng kêu lạch cạch ở khu vực chén cổ khi xe đi qua gờ giảm tốc. Nếu tay lái có độ rơ lớn hoặc bị sượng khi ôm cua, việc phục hồi hoặc thay mới bi cổ là yêu cầu bắt buộc để tránh mất lái.</p>"
+      "Sai lầm 1: cắm sạc như sạc pin xe điện",
+      "<p>Ai từng đi xe máy điện đều quen cảnh tối về cắm phích sạc vào ổ điện. Xe số chạy xăng không có cổng sạc nào như thế. “Sạc ắc quy” trên xe xăng nghĩa là nối một máy sạc vào hai cọc bình, và chọn sai máy có thể làm hỏng bình.</p><ul><li><strong>Máy sạc thông thường cho bình khô.</strong> Sách hướng dẫn <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">bản phun xăng</a> viết: để sạc ắc quy VRLA cần bộ sạc chuyên dụng loại điện áp không đổi; dùng bộ sạc thông thường rất dễ làm hư hỏng ắc quy.</li><li><strong>Máy sạc ô tô.</strong> Sách hướng dẫn xe ga Vision của Honda cấm dùng máy sạc bình ô tô cho bình xe máy, vì có thể làm bình quá nhiệt và hỏng. Đây là hướng dẫn của Honda cho xe Honda; sách Yamaha không nhắc riêng máy sạc ô tô. Với bản phun xăng, loại sạc duy nhất Yamaha nêu là bộ sạc chuyên dụng loại điện áp không đổi, nên hỏi rõ thợ đang dùng loại nào. Bản chế hòa khí thì sổ tay không nêu loại sạc, càng nên để đại lý làm.</li></ul><p>Cách gỡ bình, chọn máy và lý do không nên câu bình ô tô có trong bài hướng dẫn chung <a href=\"/bao-duong/sac-binh-ac-quy-xe-may-tai-nha/\">sạc bình ắc quy xe máy tại nhà</a>. Phần dưới chỉ nói những lỗi gắn với chiếc xe số này và mùa mưa.</p>"
     ],
     [
-      "Quy trình từng bước sạc và bảo quản pin lithium xe điện chuẩn kỹ thuật",
-      "<p>Lắp ráp linh kiện mới hoặc chi tiết đã bảo dưỡng về vị trí cũ, siết ốc với lực siết vừa đủ theo khuyến cáo kỹ thuật để tránh hiện tượng trờn ren ốc lốc máy. Bôi trơn các khớp chuyển động bằng mỡ bò chịu nhiệt hoặc dầu nhớt chuyên dụng chất lượng cao.</p><p>Nếu thực hiện các công đoạn liên quan đến xả dầu hoặc thay dung dịch, hãy sử dụng khay hứng sạch sẽ và xử lý dầu thải đúng nơi quy định, tuyệt đối không đổ trực tiếp ra cống rãnh công cộng để bảo vệ môi trường đô thị xanh sạch.</p><p>Lưu ý ghi chép lại số km trên đồng hồ công-tơ-mét và mốc thời gian thực hiện để thiết lập chu kỳ bảo dưỡng kế tiếp. Nếu chưa tự tin về tay nghề cơ khí, bạn nên đưa xe đến các cơ sở uy tín để được kỹ thuật viên giàu kinh nghiệm hỗ trợ.</p><p>Kiểm tra lại một lượt cuối cùng toàn bộ các ốc siết quanh khu vực thao tác sau khi chạy thử 5 đến 10 phút để xác nhận không có hiện tượng rịn dầu hay ốc bị lỏng ra do rung động cơ học.</p>"
+      "Sai lầm 2: sạc trong phòng kín",
+      "<p>Phòng trọ chật, xe để ngoài hành lang, nên có người gỡ bình mang vào sạc cạnh giường hoặc gần bếp ga. Sách hướng dẫn cả hai bản Sirius đều in cùng một cảnh báo: ắc quy sinh ra các khí dễ gây cháy nổ, nên lúc sạc phải đặt ở chỗ thông gió, tách biệt, không có lửa hay khói thuốc, và trẻ nhỏ không với tới.</p><p>Áp vào phòng trọ, yêu cầu đó loại trừ phòng ngủ đóng cửa, góc bếp và chỗ mọi người hay ngồi uống trà. Không có chỗ như vậy thì mang ra đại lý là lựa chọn an toàn hơn, cũng đúng với điều sổ tay bản phun xăng đề nghị khi bình hết điện.</p><p>Bãi để xe chung của khu trọ, nơi xe đứng sát nhau và có người đun nấu, hút thuốc gần đó, cũng không đạt chữ “riêng biệt”. Quy tắc dễ nhớ cho người chạy ca: chỗ sạc phải là nơi không ai bật lửa, không ai ngủ và gió lùa được.</p>"
     ],
     [
-      "Những sai lầm phổ biến khi tự chăm sóc xe số Yamaha Sirius",
-      "<p>Đối với việc rửa xe tại nhà, việc xịt vòi nước áp lực cao trực tiếp vào khu vực ổ bi cổ phốt, công tắc điện tay lái hay họng gió buồng đốt có thể làm nước lọt vào vi mạch điều khiển, gây chập cháy cầu chì hoặc chết bugi đánh lửa.</p><p>Tự ý điều chỉnh vít gió và ốc galanti khi không có thiết bị đo vòng tua chuyên dụng cũng là nguyên nhân khiến xe bị hao xăng, hụp ga đầu và sinh ra nhiều muội than bám nghẹt đầu bugi.</p><p>Khi phát hiện có dấu hiệu bất thường ngoài khả năng xử lý, tuyệt đối không cố chấp nổ máy tiếp tục chạy. Hãy gọi điện nhờ hỗ trợ kỹ thuật để tránh làm hỏng hóc lây lan sang các bộ phận đắt tiền khác.</p><p>Sự an toàn và ổn định lâu dài luôn quan trọng hơn những can thiệp độ chế nhất thời không đúng tiêu chuẩn kỹ thuật.</p>"
+      "Sai lầm 3: cố đề khi xe vừa chết máy giữa đoạn ngập",
+      "<p>Đây là lỗi có thể gây hỏng máy nặng, và áp lực đơn đang chờ khiến người ta dễ bấm đề thêm vài lần. Trang câu hỏi thường gặp của <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">Honda Việt Nam</a> giải thích: khi xe chết máy do ngập nước, không nên cố khởi động lại, vì nước có thể đã lọt vào xy-lanh và việc cố khởi động có thể làm cong tay biên. Ngoài hỏng máy, đề liên tục còn làm bình yếu đi đúng lúc bạn cần nó nhất.</p><p>Sổ tay Yamaha không có mục xử lý xe chết máy vì ngập; điều Yamaha dặn là không điều khiển xe qua vùng nước sâu, và tránh cả những vũng nhỏ vì chúng có thể sâu hơn bạn nghĩ. Khi đã lỡ chết máy, trình tự gọn theo Honda: dắt xe ra khỏi chỗ ngập, tắt khóa điện, dựng chân chống giữa, tháo bugi, đạp cần khởi động vài lần cho nước thoát khỏi xy-lanh, lau khô bugi và nắp chụp rồi mới lắp lại; rút que thăm dầu xem có lẫn nước không, có thì thay dầu trước khi nổ máy.</p><p>Không có dụng cụ tháo bugi giữa đường thì dắt xe vào tiệm. Các bước kiểm tra sau một hai ngày có ở bài <a href=\"/bao-duong/xe-may-ngap-nuoc-phai-lam-sao/\">xe máy ngập nước phải làm sao</a>.</p>"
     ],
     [
-      "Chi phí linh kiện, phụ tùng và công thợ tham khảo",
-      "<p>Chi phí cho hạng mục sạc và bảo quản pin lithium xe điện trên xe số Yamaha Sirius dao động tùy thuộc vào việc bạn lựa chọn phụ tùng chính hãng của hãng xe hay phụ tùng OEM từ các thương hiệu thứ ba danh tiếng. Thông thường, mức giá vật tư cơ bản rơi vào khoảng từ vài chục nghìn đến vài trăm nghìn đồng tùy chi tiết.</p><p>Giá phụ tùng thay thế như dầu nhớt (bán tổng hợp hay tổng hợp toàn phần), lọc gió chính hãng và bugi bạch kim hoặc iridium khác nhau theo loại, theo dòng xe và theo cửa hàng, nên tham khảo báo giá ở vài nơi trước khi thay.</p><p>Các cửa hàng chuyên nghiệp luôn có chế độ bảo hành rõ ràng từ 1 đến 3 tháng cho các phụ tùng mới thay thế. Hãy giữ lại hóa đơn bán hàng hoặc phiếu bảo dưỡng để đối chiếu quyền lợi khi cần thiết.</p><p>Minh bạch về tài chính và hóa đơn rõ ràng là tiêu chí quan trọng hàng đầu khi chọn lựa bất kỳ xưởng kỹ thuật nào.</p>"
+      "Sai lầm 4: châm nước cất vào ắc quy khô của bản FI",
+      "<p>Hai đời xe dùng hai loại ắc quy khác nhau, và nhầm lẫn theo cả hai chiều đều có hại:</p><table><tr><th>Đời xe</th><th>Ắc quy</th><th>Có châm nước?</th></tr><tr><td>Sirius FI</td><td>Bình khô VRLA</td><td>Không. Sách ghi không cần kiểm tra dung dịch hay châm thêm nước, và lưu ý không tháo niêm phong vì bình sẽ dễ hỏng sớm</td></tr><tr><td>Sirius chế hòa khí đời BGY</td><td>Ắc quy 12N5 có dung dịch điện phân</td><td>Có, khi mức chạm hoặc dưới vạch tối thiểu</td></tr></table><p>Với đời chế hòa khí, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">sách hướng dẫn</a> chỉ cho phép nước cất, vì nước vòi có thể chứa khoáng chất có hại với ắc quy. Mùa mưa có người nghĩ nước mưa hứng trong xô là đủ sạch; nó không phải loại nước sách cho phép, nên đừng dùng. Cẩn thận đừng làm tràn dung dịch ra xích tải, vì sách cảnh báo xích có thể yếu và giảm tuổi thọ.</p>"
     ],
     [
-      "Lời khuyên dành riêng cho tài xế công nghệ chạy xe liên tục khi sử dụng xe hằng ngày",
-      "<p>Với nhịp sống bận rộn tại các đô thị, tài xế công nghệ chạy xe liên tục nên cài đặt ứng dụng nhắc nhở hoặc dán tem ghi nhớ số km bảo dưỡng ngay trên mặt đồng hồ xe số Yamaha Sirius. Thiết lập thói quen kiểm tra định kỳ mỗi 1.500 đến 2.000 km sẽ giúp xe luôn vận hành trong trạng thái lý tưởng nhất.</p><p>Tập thói quen điều khiển xe từ tốn, không ép số ở dải tốc độ thấp đối với xe số và không nhấp nhả phanh liên tục khi đang kéo ga đối với xe tay ga. Thói quen lái xe đúng kỹ thuật sẽ kéo dài tuổi thọ của cụm động cơ lên gấp đôi.</p><p>Đảm bảo luôn mang theo giấy phép lái xe và giấy tờ xe hợp lệ khi tham gia giao thông. Bạn có thể tra cứu các quy chuẩn an toàn mới nhất tại <a href=\"/luat-giao-thong/nguon-tra-cuu/\">chuyên mục tra cứu luật giao thông</a> để vững tâm trong mọi chuyến đi.</p><p>Việc giữ gìn chiếc xe sạch đẹp, vận hành chuẩn mực cũng chính là cách thể hiện phong cách sống chỉn chu, có trách nhiệm của người tham gia giao thông hiện đại.</p>"
+      "Sai lầm 5: xịt rửa áp lực cao vào khu vực điện và ắc quy",
+      "<p>Sau một ca lội nước bẩn, rửa xe là đúng: Yamaha nhắc rửa sạch xe sau khi lái dưới trời mưa. Lỗi nằm ở cách rửa. Sổ tay bản phun xăng không cho dùng thiết bị rửa phun áp suất cao hay phun hơi, vì áp lực nước quá mạnh có thể khiến nước thấm vào và làm hư hại ổ bi bánh xe, phanh, gioăng bộ truyền động và <strong>các thiết bị điện</strong>. Phần liên quan tới ắc quy:</p><ul><li><strong>Trước khi rửa:</strong> kiểm tra các nắp chụp, nắp che, giắc điện và đầu nối đã lắp chặt.</li><li><strong>Khi rửa:</strong> dùng vòi tưới cây với áp lực vừa đủ; tránh xịt thẳng vào ốp che thiết bị, miệng hút gió và khoang chứa đồ dưới yên. Trên bản phun xăng, giá đỡ cầu chì nằm cạnh ngăn chứa ắc quy, phía sau tấm chắn A, nên đừng nhắm vòi vào vùng này.</li><li><strong>Sau khi rửa:</strong> lau khô, nổ máy chạy garanty vài phút cho khô hơi ẩm còn lại, và để xe khô hẳn rồi mới phủ. Phủ vải nhựa lên xe còn ướt sẽ tích tụ nước và hơi ẩm, gây gỉ sét.</li></ul><h3>Đồ điện gắn thêm</h3><p>Giá đỡ điện thoại kèm cổng sạc, đèn trợ sáng là đồ quen thuộc của người chạy đơn. Sách hướng dẫn cũng nhắc ắc quy sẽ mau hết điện khi xe có gắn thêm các phụ kiện điện. Rút sạc điện thoại khi dừng chờ lâu, và nếu đã lắp thêm đồ, nói với thợ khi họ đo điện áp.</p><p>Nếu xe phải nằm tiệm sau một trận ngập mà bạn vẫn cần xe đi làm, Thuê xe máy Nguyễn Hà ở Long Biên có xe số cho thuê theo tháng, 1–1,2 triệu/tháng; hỏi điều kiện ở trang <a href=\"/thue-xe-may/ha-noi/theo-thang/\">thuê xe máy theo tháng tại Hà Nội</a>. Thông số đầy đủ của bản phun xăng có ở <a href=\"/xe-may/yamaha-sirius-fi/\">trang Sirius FI</a>.</p>"
     ],
     [
-      "Quy trình kiểm tra định kỳ và cách lưu nhật ký bảo dưỡng xe số Yamaha Sirius",
-      "<p>Thiết lập một cuốn sổ nhật ký bảo dưỡng mini hoặc sử dụng ứng dụng ghi chú trên điện thoại là phương pháp khoa học nhất để theo dõi sức khỏe chiếc xe số Yamaha Sirius. Tại mỗi mốc km, hãy ghi rõ ngày thực hiện, tên phụ tùng thay thế, số tiền và địa chỉ cửa hàng đã thao tác.</p><p>Nếu phát hiện bất kỳ dấu hiệu hư hỏng tiềm ẩn nào, hãy lên kế hoạch xử lý dứt điểm ngay thay vì trì hoãn để lỗi nhỏ biến thành lỗi lớn tốn kém.</p><p>Xem thêm các bài viết chia sẻ kinh nghiệm kỹ thuật chi tiết tại <a href=\"/bao-duong/\">chuyên mục bảo dưỡng xe toàn diện</a> để nâng cao hiểu biết về cơ khí hai bánh.</p>"
-    ],
-    [
-      "Câu hỏi thường gặp về việc bảo dưỡng xe số Yamaha Sirius",
-      "<p><strong>Dấu hiệu nào cho thấy linh kiện đã đến hạn phải thay thế gấp?</strong> Khi chi tiết xuất hiện vết nứt vỡ, độ mòn vượt quá chỉ số báo vạch an toàn của nhà sản xuất hoặc phát ra tiếng kêu cọ xát kim loại chói tai, bạn bắt buộc phải thay thế ngay lập tức để tránh tai nạn.</p><p><strong>Nên chọn dầu nhớt khoáng, bán tổng hợp hay tổng hợp toàn phần?</strong> Đối với nhu cầu chạy phố hằng ngày, nhớt bán tổng hợp là lựa chọn kinh tế và đủ đáp ứng. Tuy nhiên, nếu bạn thường xuyên chạy đường dài hoặc chở nặng, đầu tư nhớt tổng hợp 100% sẽ bảo vệ động cơ vượt trội.</p><p>Để tìm hiểu thêm nhiều kinh nghiệm hữu ích khác về các dòng xe máy, xe điện và xe đạp thể thao, bạn có thể tham khảo mục <a href=\"/faq/\">giải đáp thắc mắc thường gặp FAQ</a> được đội ngũ kỹ thuật cập nhật liên tục.</p>"
-    ],
-    [
-      "Thông tin liên hệ Thuê xe máy Nguyễn Hà",
-      "<p>Thuê xe máy Nguyễn Hà tọa lạc tại Ngõ 5 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội (gần Bến xe Gia Lâm). Cửa hàng mở cửa từ 08:00–17:00 hằng ngày. Điện thoại, Zalo và WhatsApp: <a href=\"tel:+84334699969\">0334 699 969</a>.</p><p>Quý khách có thể xem thêm <a href=\"/bang-gia/\">bảng giá niêm yết</a>, <a href=\"/thue-xe-may/ha-noi/\">thuê xe máy Hà Nội</a>, <a href=\"/faq/\">câu hỏi thường gặp FAQ</a> và <a href=\"/lien-he/\">trang liên hệ</a> để được hỗ trợ chu đáo nhất.</p><p>Đội ngũ chăm sóc khách hàng của Thuê xe máy Nguyễn Hà luôn sẵn sàng tư vấn mẫu xe phù hợp nhất với nhu cầu và lịch trình của bạn. Chúng tôi cam kết xe vận hành êm ái, đầy đủ giấy tờ và hỗ trợ kỹ thuật tận tình.</p><p>Liên hệ ngay với chúng tôi để nhận báo giá và chọn được chiếc xe hoàn hảo cho hành trình của bạn.</p>"
+      "Nguồn tham khảo",
+      "<ul><li>Yamaha Việt Nam, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Sách hướng dẫn sử dụng Sirius bản phun xăng</a>: mục Ắc quy, Sạc ắc quy, Thay cầu chì, lưu ý vùng nước sâu, rửa xe trước, trong và sau. Đọc 31/10/2026, đối chiếu lại 02/11/2026.</li><li>Yamaha Việt Nam, <a href=\"https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Sách hướng dẫn sử dụng Sirius chế hòa khí</a>: ắc quy 12N5, loại nước được châm, cảnh báo khí cháy nổ. Đọc 31/10/2026.</li><li>Honda Việt Nam, <a href=\"https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">Hướng dẫn sử dụng Vision</a>: sạc bình điện, máy sạc ô tô. Đọc 31/10/2026.</li><li>Honda Việt Nam, <a href=\"https://www.honda.com.vn/cau-hoi-thuong-gap\" target=\"_blank\" rel=\"noopener noreferrer\">Câu hỏi thường gặp</a>: xe chết máy do ngập nước. Đọc 31/10/2026.</li><li>Thuê xe máy Nguyễn Hà: bảng giá thuê xe số theo tháng. Đối chiếu 31/10/2026.</li></ul>"
     ]
   ],
-  "keywords": "cham-soc-pin-xe-dien xe số Yamaha Sirius tài xế công nghệ chạy xe liên tục mùa mưa ngập úng đô thị",
+  "keywords": "sạc ắc quy sirius sai cách, sạc ắc quy sirius fi tại nhà, bộ sạc ắc quy vrla, xe chết máy vì ngập có nên đề",
   "parent": "/xe-may/",
   "kind": "article",
   "art": "01580",
   "tone": "white",
-  "wordCount": 1638,
+  "wordCount": 1589,
   "intent": "xe-info|cham-soc-pin-xe-dien|xe số yamaha sirius|tài xế công nghệ chạy xe liên tục|mùa mưa ngập úng đô thị|sai-lam-pho-bien",
-  "factoryVersion": 1
+  "factoryVersion": 1,
+  "faqTitle": "Tài xế hỏi về sạc ắc quy Sirius",
+  "faq": [
+    [
+      "Sạc ắc quy Sirius FI dùng loại sạc nào?",
+      "Bộ sạc chuyên dụng loại điện áp không đổi, tương thích với ắc quy khô VRLA. Yamaha cảnh báo bộ sạc thông thường rất dễ làm hỏng bình, và đề nghị khi hết điện thì mang tới đại lý sạc."
+    ],
+    [
+      "Có cần tháo ắc quy ra khỏi xe để sạc không?",
+      "Sách của Honda yêu cầu tháo bình trước khi sạc. Sách Yamaha cho Sirius thì hướng người dùng mang xe tới đại lý khi bình hết điện. Nếu tự gỡ bình, tắt khóa và tách cực âm trước."
+    ],
+    [
+      "Xe chết máy vì ngập có nên đề ngay?",
+      "Không. Honda lưu ý không cố khởi động lại vì nước có thể đã vào xy-lanh, cố đề có thể làm cong tay biên; đưa xe ra khỏi chỗ ngập và xả nước trước."
+    ],
+    [
+      "Châm nước mưa vào ắc quy có được không?",
+      "Không. Đời chế hòa khí chỉ được châm nước cất; đời phun xăng dùng bình khô, không châm bất cứ thứ gì."
+    ]
+  ],
+  "sources": [
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Ắc quy sinh ra các khí dễ gây cháy nổ. Do đó, nên để xa nguồn lửa, nơi hút thuốc lá…. Khi nạp ắc quy cần để nơi thông thoáng và riêng biệt. … Ðể sạc ắc quy VRLA, cần phải có bộ sạc ắc quy chuyên dụng",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Ðể sạc ắc quy VRLA, cần phải có bộ sạc ắc quy chuyên dụng (điện áp không đổi). Sử dụng bộ sạc thông thường sẽ rất dễ làm hư hỏng ắc quy.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Hãy đến đại lý Yamaha để sạc ắc quy khi ắc quy hết điện. Hãy lưu ý rằng, ắc quy sẽ mau hết điện khi xe có gắn thêm các phụ kiện điện.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "CHÚ Ý: Khi tháo ắc quy, khóa điện phải tắt, sau đó ngắt kết nối dây âm trước rồi mới đến dây dương. … CHÚ Ý: Khi lắp ắc quy, khóa điện phải tắt, sau đó nối dây dương trước sau đó mới đến dây âm. 4. Sau khi lắp lại, phải bảo đảm rằng các đầu dây đúng các cực của ắc quy.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Loại xe này được gắn ắc quy VRLA (bình ắc quy khô). Không cần phải kiểm tra dung dịch điện phân hay châm thêm nước cất. … Không nên tháo niêm phong ắc quy vì sẽ làm cho ắc quy dễ bị hư hại sớm.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Không điều khiển xe qua những vùng nước sâu, nếu không xe sẽ bị hư hỏng. Tránh các vũng nước nhỏ vì có thể độ sâu của chúng sâu hơn bạn nghĩ.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Đảm bảo rửa sạch xe sau khi lái dưới trời mưa hoặc lái gần biển bởi vì muối sẽ ăn mòn kim loại. … Không sử dụng: thiết bị rửa phun áp suất cao hoặc phun hơi. Áp lực nước quá mạnh có thể khiến nước thấm vào và làm hư hại ổ bi bánh xe, phanh, gioăng bộ truyền động và các thiết bị điện.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Trước khi rửa 1. Dựng xe dưới bóng râm và để xe mát. Làm vậy sẽ giúp loại bỏ đốm nước. 2. Đảm bảo rằng tất cả các nắp chụp, nắp che, giắc điện và đầu nối được lắp chặt. … Trong khi rửa 1. Xả sạch chất tẩy dầu nhờn và dùng vòi nước tưới cây để phun rửa xe. Chỉ rửa với áp lực nước vừa đủ. Tránh phun nước trực tiếp vào bộ giảm thanh ống xả, ốp che thiết bị, miệng hút gió và các khu vực bên trong khác như các khoang chứa đồ dưới yên.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Sau khi rửa 1. Dùng giẻ hoặc khăn thấm, hay tốt nhất là dùng vải bông sợi siêu mảnh để lau khô. 2. Đối với mẫu xe trang bị xích truyền động: Lau khô và bôi trơn xích truyền động để ngăn gỉ sét. … 8. Khi vệ sinh xong, hãy khởi động động cơ và chạy garanty trong vài phút để giúp làm khô nước ẩm còn lại. 9. Nếu kính đèn pha bị mờ, hãy khởi động động cơ và bật đèn pha để loại bỏ hơi ẩm. 10. Nên để xe khô ráo hoàn toàn trước khi chùm xe.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Bảo quản xe ở phòng không thoáng khí hay phủ vải nhựa lên xe trong khi xe đang bị ướt sẽ tích tụ nước và các chất ẩm gây ra gỉ sét.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Model: 12N5 … 12 V, 5.0 Ah (10 HR) … Cần định kỳ kiểm tra mức dung dịch điện phân, các đầu nối chì và cách luồn ống thông hơi. GHI CHÚ Mức dung dịch điện phân (nước ắc quy) cần nằm giữa vạch mức tối thiểu và vạch mức tối đa. … Nếu mức dung dịch điện phân bằng hoặc thấp hơn vạch mức tối thiểu, hãy thêm nước cất",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "CHÚ Ý: Chỉ sử dụng nước cất vì nước vòi có thể chứa khoáng chất có hại với ắc quy. … Cẩn trọng để không làm tràn dung dịch điện phân ra xích truyền động vì như vậy xích có thể yếu, giảm tuổi thọ và có khả năng dẫn đến tai nạn.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BGY-F8199-V0_20.pdf",
+      "quote": "Ắc quy sinh ra các khí dễ gây cháy nổ. Do đó, nên để xa nguồn lửa, nơi hút thuốc lá…. Khi nạp ắc quy cần để nơi thông thoáng và riêng biệt. … CẤT GIỮ XA TẦM TAY CỦA TRẺ EM.",
+      "checked": "2026-11-02"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://cdn.honda.com.vn/motorbike-manual/December2025/FgO9EU07CB768QM5Adl7.pdf",
+      "quote": "Sạc bình điện bằng máy sạc bình điện dùng cho xe máy. Tháo bình điện ra khỏi xe trước khi sạc. Không sử dụng máy sạc bình điện dùng cho ô tô vì có thể gây quá nhiệt bình điện và làm hỏng bình điện.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://www.honda.com.vn/cau-hoi-thuong-gap",
+      "quote": "Khi xe bị chết máy do bị ngập nước, Quý khách không nên cố khởi động lại vì có thể nước đã lọt vào xy lanh và việc cố khởi động động cơ có thể dẫn tới bị cong tay biên. Trước tiên, Quý khách hãy đưa xe ra khỏi khu vực ngập nước rồi tắt khóa điện, và dựng xe trên chân chống chính và tháo bugi ra. Tiếp theo, Quý khách đạp cần khởi động vài lần để nước thoát hết ra khỏi xi lanh, lau khô bugi và nắp chụp, sau đó mới lắp bugi vào để đạp nổ... Đồng thời, Quý khách nên tháo que thăm dầu ra kiểm tra xem dầu có bị nước vào không. Nếu có nước vào thì tốt nhất Quý khách nên thay dầu máy trước khi khởi động xe.",
+      "checked": "2026-10-31"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Giá đỡ cầu chì nằm bên cạnh ngăn chứa ắc quy phía sau tấm chắn A.",
+      "checked": "2026-11-02"
+    },
+    {
+      "type": "manufacturer",
+      "source": "https://library.ymcapps.net/library/om/contents/pdf/10/BSA-F8199-VA_20.pdf",
+      "quote": "Ắc quy sinh ra các khí dễ gây cháy nổ. Do đó, nên để xa nguồn lửa, nơi hút thuốc lá…. Khi nạp ắc quy cần để nơi thông thoáng và riêng biệt. CẤT GIỮ XA TẦM TAY CỦA TRẺ EM.",
+      "checked": "2026-11-02"
+    },
+    {
+      "type": "business-facts",
+      "source": "config/business-facts.json",
+      "quote": "xe số: 150–200 nghìn/ngày, 700–800 nghìn/tuần, 1–1,2 triệu/tháng",
+      "checked": "2026-10-31"
+    }
+  ],
+  "rewrite": {
+    "rewrittenAt": "2026-11-02T13:00:00+07:00",
+    "by": "Claude Code (SEO recovery OD-1)",
+    "batch": "OD1-B22",
+    "queries": [
+      "sạc ắc quy sirius sai cách",
+      "sạc ắc quy sirius fi tại nhà",
+      "bộ sạc ắc quy vrla",
+      "xe chết máy vì ngập có nên đề",
+      "sirius chết máy khi ngập"
+    ],
+    "od1": "sai loại xe",
+    "qa_score": 95,
+    "qa_checked": "2026-11-02T13:08:04+07:00"
+  }
 }
