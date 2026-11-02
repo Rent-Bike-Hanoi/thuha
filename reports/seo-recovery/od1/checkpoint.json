@@ -1,7 +1,7 @@
 {
  "task": "OD-1: viết lại 608 bài (572 sai loại xe, 24 luật XEM_LAI, 13 A2), giữ URL, không noindex hàng loạt",
  "owner_request": "Tiếp tục xử lý danh sách OD-1 gồm 608 bài ... THỰC THI TRỰC TIẾP TRÊN GITHUB ... theo từng lô 20–30 bài",
- "updated": "2026-11-01T11:10:00Z",
+ "updated": "2026-11-02T05:50:00Z",
  "matrix": "reports/seo-recovery/od1/od1_matrix.csv (cột status: TODO/WRITTEN/QA_PASS/DEPLOYED/BLOCKED)",
  "brief": "reports/seo-recovery/od1/BRIEF.md",
  "tools": "reports/seo-recovery/od1/tools/check_shard.py",
@@ -29,22 +29,21 @@
  "quota_note": "Lần 1 hết quota 5 giờ lúc ~16:30 UTC; mọi writer dừng giữa chừng. Writer giờ có chế độ RESUME (giữ shard đã viết).",
  "ship": "python3 reports/seo-recovery/od1/tools/ship_batch.py OD1-BXX /home/user/thuha-od1-bXX <file...> --to-main > ship.json  (chỉ file đã verified=true & pass); rồi verify_live.py ship.json; cập nhật od1_matrix.csv.",
  "github": "GitHub MCP + gh mất kết nối (token gh hỏng); git push vẫn được (check_repo_access ok). Ship = ship_batch.py ... --to-main: chạy chuỗi CI cục bộ rồi đẩy fast-forward lên main (Pages deploy).",
- "written_pass_unverified_2026-11-01": {
-  "OD1-B01": 10,
-  "OD1-B02": 10,
-  "OD1-B21": 9,
-  "OD1-B22": 9,
-  "OD1-B23": 8
- },
  "workflows_running": {
-  "verify B01": "wy0gcvywa",
-  "verify B02": "w1auzii5y",
-  "verify B21": "warjpb4ft",
-  "verify B22": "w5o051c8h",
-  "verify B23": "w80zgd3zc",
-  "write rest B01": "w2gyo6g5d",
-  "write rest B02": "w3ig52ot5",
-  "plan MTB": "wig252pdt"
+  "resume verify+fix B01": "wnak4t0fg (run wf_e0a29c5a-08e)",
+  "resume verify+fix B02": "wbxpafvfh (wf_4bb1dbf6-c2a)",
+  "resume fix B22": "wfnfk97ra (wf_eb357cc0-3d1)",
+  "resume rest B01": "wlqafxamy (wf_54d40902-c35)",
+  "resume rest B02": "wbm3u99o4 (wf_805f1aa1-c11)",
+  "resume plan MTB": "w18nv1jv3 (wf_a2cc03d1-830)",
+  "write rest B21": "wfiakwndr (wf_89589f9d-b01)"
  },
- "args_files": "scratchpad seo/bXX_args.json (đủ), bXX_verify.json (đã viết), bXX_rest.json (còn lại)"
+ "args_files": "scratchpad seo/bXX_args.json (đủ), bXX_verify.json (đã viết), bXX_rest.json (còn lại)",
+ "deployed": {
+  "OD1-B23": "8 bài (d08f691b91), live 8/8",
+  "OD1-B21": "9 bài (4fea55018c), live 9/9",
+  "total": 17
+ },
+ "resume_rule": "Workflow resumeFromRunId + cùng scriptPath + cùng args: agent đã xong lấy cache, agent lỗi (quota) chạy lại. args gốc nằm trong thông báo diagnostics của từng run.",
+ "matrix_tool": "tools/matrix_update.py ship.json live.json"
 }
